@@ -24,7 +24,7 @@ inside [./benchmark/wikidump/](benchmark/wikidump/):
 
 The query ids and entity ids are according to the REWQ Clueweb12 Dataset of Schuhmacher, Dietz, and Ponzetto available at <http://mschuhma.github.io/rewq/>
 
-For example: [benchmark/wikidump/query231/query231_5/](`query231/query231_5/...`) for `query231_Sloth_(deadly_sin)`
+For example: [benchmark/wikidump/query231/query231_5/](benchmark/wikidump/query231/query231_5/...) for `query231_Sloth_(deadly_sin)`
 
 The filenames are specified below.
 
