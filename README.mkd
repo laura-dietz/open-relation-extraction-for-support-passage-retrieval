@@ -80,7 +80,7 @@ The following ${filename}'s provide the ground truth sentences for this query-en
 `${filename}=allSentences_html.html`
  ~ Displays the assessment interface used to collect the assessments for AQ1-5.
 
-The source code for reading annotations and sentence can be found in [./src/New_AnnotationReader.java](src/New_AnnotationReader.java)
+The source code for reading annotations and sentence can be found in [./src/New_AnnotationsReader.java](src/New_AnnotationsReader.java)
 
 
 
