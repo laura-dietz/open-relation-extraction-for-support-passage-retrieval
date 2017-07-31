@@ -24,7 +24,7 @@ inside [./benchmark/wikidump/](benchmark/wikidump/):
 
 The query ids and entity ids are according to the REWQ Clueweb12 Dataset of Schuhmacher, Dietz, and Ponzetto available at <http://mschuhma.github.io/rewq/>
 
-For example: [benchmark/wikidump/query231/query231_5/](benchmark/wikidump/query231/query231_5/...) for `query231_Sloth_(deadly_sin)`
+For example: [./query231/query231_5/...](benchmark/wikidump/query231/query231_5/) for `query231_Sloth_(deadly_sin)`
 
 The filenames are specified below.
 
@@ -58,7 +58,7 @@ From each sentence, multiple propositions are extracted with the ClausIE system.
 `${filename}=allSentences-SIDs-Extractions+IDs`
 ~  Both of these files concatenated.
 
-A source code example for how the sentences, propositions, and clauses are extracted can be found in [src/ExampleNNFile.java](./src/ExampleNNFile.java)
+A source code example for how the sentences, propositions, and clauses are extracted can be found in [./src/ExampleNNFile.java](src/ExampleNNFile.java)
 
 
 
@@ -80,7 +80,7 @@ The following ${filename}'s provide the ground truth sentences for this query-en
 `${filename}=allSentences_html.html`
  ~ Displays the assessment interface used to collect the assessments for AQ1-5.
 
-The source code for reading annotations and sentence can be found in [src/New_AnnotationReader.java](./src/New_AnnotationReader.java)
+The source code for reading annotations and sentence can be found in [./src/New_AnnotationReader.java](src/New_AnnotationReader.java)
 
 
 
@@ -129,16 +129,16 @@ Category "ClausIE"
 - 42-43 for subject/object position: if a named entity (NER) is in position of proposition
 
 
-The source code for feature extraction can be found in [src/FeatureExtraction.java](./src/FeatureExtraction.java)
+The source code for feature extraction can be found in [./src/FeatureExtraction.java](src/FeatureExtraction.java)
 
 
 Results
 -------
 
-The empirical results for Experiment 1 "Relations and Relevance" (Table 2) are computed with the sheet [spreadsheet/Statistics-Table2.xlsx](./spreadsheet/Statistics-Table2.xlsx).
+The empirical results for Experiment 1 "Relations and Relevance" (Table 2) are computed with the sheet [./spreadsheet/Statistics-Table2.xlsx](spreadsheet/Statistics-Table2.xlsx).
 
 
-The empirical results for Experiment 2 "Evaluation through LTR" (Figure 1 and Table 3) are computed with the sheet [spreadsheet/L2R-Table3.xlsx](./spreadsheet/L2R-Table3.xlsx).
+The empirical results for Experiment 2 "Evaluation through LTR" (Figure 1 and Table 3) are computed with the sheet [./spreadsheet/L2R-Table3.xlsx](spreadsheet/L2R-Table3.xlsx).
 
 
 
