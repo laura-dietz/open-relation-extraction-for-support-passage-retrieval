@@ -1,0 +1,511 @@
+Golf Canada Golf_Canada_logo.png 	0	query204_Golf_Canada\S\0
+Golf 1895 Oakville _ Ontario Karen Rackel Scott Simmons Royal Canadian Golf Association www.golfcanada.ca 	1	query204_Golf_Canada\S\1
+Canada Golf Canada , formerly known as the Royal Canadian Golf Association (RCGA ) is the governing body of golf in Canada . 	2	query204_Golf_Canada\S\2
+"Canada Golf Canada"	"be known"	"formerly as the Royal Canadian Golf Association is the governing body of golf in Canada"	2	query204_Golf_Canada\P\2-0
+"Canada Golf Canada"	"be known"	"formerly"	2	query204_Golf_Canada\P\2-1
+"the Royal Canadian Golf Association"	"is"	"RCGA"	2	query204_Golf_Canada\P\2-2
+"the Royal Canadian Golf Association"	"is the governing body"	"of golf"	2	query204_Golf_Canada\P\2-3
+"the Royal Canadian Golf Association"	"is the governing body"	"in Canada"	2	query204_Golf_Canada\P\2-4
+"the Royal Canadian Golf Association"	"is"	"the governing body"	2	query204_Golf_Canada\P\2-5
+The RCGA was founded on June 6 , 1895 as the Canadian Golf Association at the Royal Ottawa Golf Club . 	3	query204_Golf_Canada\S\3
+"The RCGA"	"was founded"	"on June 6 1895 as the Canadian Golf Association at the Royal Ottawa Golf Club"	3	query204_Golf_Canada\P\3-0
+"The RCGA"	"was founded"	"on June 6 1895"	3	query204_Golf_Canada\P\3-1
+The Royal prefix was granted to the CGA in June 1896 by Queen Victoria through then Governor General of Canada , Lord Aberdeen . 	4	query204_Golf_Canada\S\4
+"The Royal prefix"	"was granted"	"to the CGA in June 1896"	4	query204_Golf_Canada\P\4-0
+"The Royal prefix"	"was granted"	"to the CGA by Queen Victoria"	4	query204_Golf_Canada\P\4-1
+"The Royal prefix"	"was granted"	"to the CGA through then Governor General of Canada"	4	query204_Golf_Canada\P\4-2
+"The Royal prefix"	"was granted"	"to the CGA"	4	query204_Golf_Canada\P\4-3
+"then Governor General of Canada"	"is"	"Lord Aberdeen"	4	query204_Golf_Canada\P\4-4
+Aberdeen was a patron of the RCGA. 	5	query204_Golf_Canada\S\5
+"Aberdeen"	"was a patron"	"of the RCGA"	5	query204_Golf_Canada\P\5-0
+"Aberdeen"	"was"	"a patron"	5	query204_Golf_Canada\P\5-1
+The first real international boom in golf happened in the 1890s . 	6	query204_Golf_Canada\S\6
+"The first real international boom in golf"	"happened"	"in the 1890s"	6	query204_Golf_Canada\P\6-0
+In response to this , the first golfing associations were formed , the Golfing Union of Ireland in 1891 and the Ladies ’ Golf Union in 1893 . 	7	query204_Golf_Canada\S\7
+"the first golfing associations"	"were formed"	"7 In response to this in 1893"	7	query204_Golf_Canada\P\7-0
+"the first golfing associations"	"were formed"	"In response to this the Golfing Union of Ireland in 1891 in 1893"	7	query204_Golf_Canada\P\7-1
+"the first golfing associations"	"were formed"	"In response to this the Ladies ' Golf Union in 1893"	7	query204_Golf_Canada\P\7-2
+"the Ladies"	"has"	"Golf Union"	7	query204_Golf_Canada\P\7-3
+The organization of golf in Britain itself was directed to the Royal and Ancient Golf Club of St . 	8	query204_Golf_Canada\S\8
+"The organization of golf in Britain itself"	"was directed"	"to the Royal Golf Club of St"	8	query204_Golf_Canada\P\8-0
+"The organization of golf in Britain itself"	"was directed"	"to the Ancient Golf Club of St"	8	query204_Golf_Canada\P\8-1
+Andrews as the historic seat of golf . 	9	query204_Golf_Canada\S\9
+In 1894 two attempts to establish a national championship in the United States were made , neither of which became recognized as the national champion . 	10	query204_Golf_Canada\S\10
+"two attempts"	"be establish"	"a national championship in the United States"	1894	query204_Golf_Canada\P\10-0
+"In 1894 two attempts to establish a national championship in the United States"	"were made"	"neither of which became recognized as the national champion"	10	query204_Golf_Canada\P\10-1
+"neither of which"	"became"	"recognized as the national champion"	10	query204_Golf_Canada\P\10-2
+Later in 1894 , representatives from five prominent U.S. 	11	query204_Golf_Canada\S\11
+clubs gathered to form the United States Golf Association . 	12	query204_Golf_Canada\S\12
+"clubs"	"gathered"	"to form the United States Golf Association"	12	query204_Golf_Canada\P\12-0
+The first meeting to discuss the formation of a Canadian Golf Association was held on June 6 , 1895 at the Royal Ottawa Golf Club . 	13	query204_Golf_Canada\S\13
+"The first meeting"	"be discuss"	"the formation of a Canadian Golf Association"	13	query204_Golf_Canada\P\13-0
+"The first meeting to discuss the formation of a Canadian Golf Association"	"was held"	"on June 6 1895 at the Royal Ottawa Golf Club"	13	query204_Golf_Canada\P\13-1
+"The first meeting to discuss the formation of a Canadian Golf Association"	"was held"	"on June 6 1895"	13	query204_Golf_Canada\P\13-2
+The secretary of the club , Alex Simpson , was a strong proponent of organizing a national organization to conduct national championships . 	14	query204_Golf_Canada\S\14
+"The secretary of the club"	"is"	"Alex Simpson"	14	query204_Golf_Canada\P\14-0
+"The secretary of the club"	"was a strong proponent"	"of organizing a national organization to conduct national championships"	14	query204_Golf_Canada\P\14-1
+"The secretary of the club"	"was"	"a strong proponent"	14	query204_Golf_Canada\P\14-2
+"a national organization"	"be conduct"	"national championships"	14	query204_Golf_Canada\P\14-3
+In 1895 he invited clubs from across Canada to attend “the first national golf championship” , and to discuss the organization of an association with the mandate of conducting such events . 	15	query204_Golf_Canada\S\15
+In 1895 he invited clubs from across Canada to attend “the first national golf championship” , and to discuss the organization of an association with the mandate of conducting such events . 	15	query204_Golf_Canada\S\15
+In 1895 he invited clubs from across Canada to attend “the first national golf championship” , and to discuss the organization of an association with the mandate of conducting such events . 	15	query204_Golf_Canada\S\15
+In 1895 he invited clubs from across Canada to attend “the first national golf championship” , and to discuss the organization of an association with the mandate of conducting such events . 	15	query204_Golf_Canada\S\15
+In 1895 he invited clubs from across Canada to attend “the first national golf championship” , and to discuss the organization of an association with the mandate of conducting such events . 	15	query204_Golf_Canada\S\15
+In 1895 he invited clubs from across Canada to attend “the first national golf championship” , and to discuss the organization of an association with the mandate of conducting such events . 	15	query204_Golf_Canada\S\15
+In 1895 he invited clubs from across Canada to attend “the first national golf championship” , and to discuss the organization of an association with the mandate of conducting such events . 	15	query204_Golf_Canada\S\15
+It was agreed that such an association should be formed , and would hold its first Annual General Meeting on September 27 , at the time of the Interprovincial Matches between Ontario and Quebec . 	16	query204_Golf_Canada\S\16
+"It"	"was agreed"	"that such an association should be formed at the time of the Interprovincial Matches between Ontario and Quebec"	16	query204_Golf_Canada\P\16-0
+"It"	"was agreed"	"that such an association should be would hold its first Annual General Meeting on September 27 at the time of the Interprovincial Matches between Ontario and Quebec"	16	query204_Golf_Canada\P\16-1
+"It"	"was agreed"	"that such an association should be formed"	16	query204_Golf_Canada\P\16-2
+"It"	"was agreed"	"that such an association should be would hold its first Annual General Meeting on September 27"	16	query204_Golf_Canada\P\16-3
+"such an association"	"should be would hold"	"its first Annual General Meeting on September 27"	16	query204_Golf_Canada\P\16-4
+"such an association"	"should be would hold"	"its first Annual General Meeting on September 27"	16	query204_Golf_Canada\P\16-5
+"its first Annual General"	"Meeting"	"on September 27"	16	query204_Golf_Canada\P\16-6
+The constitution drawn up for the purpose stated the objectives of the organization as :"promote interest in the game of golf ; the protection of the mutual interests of its members ; establish and enforce uniformity in the rules of game by creating a representative authority , ; its Executive Committee to be a court of reference as a final authority in matters of controversy ; to establish a uniform system of handicapping ; to decide on what links the Amateur and Open Championship shall be played . 	17	query204_Golf_Canada\S\17
+"The constitution"	"drawn up"	"for the purpose stated the objectives of the organization as promote interest in the game of golf its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-0
+"The constitution"	"drawn up"	"for the purpose stated the objectives of the organization as interest in the game of golf the protection of the mutual interests of its members its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-1
+"The constitution"	"drawn up"	"for the purpose stated the objectives of the organization as interest in the game of golf establish uniformity in the rules of game by creating a representative authority its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-2
+"The constitution"	"drawn up"	"for the purpose stated the objectives of the organization as interest in the game of golf enforce uniformity in the rules of game by creating a representative authority its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-3
+"The constitution"	"drawn up"	"for the purpose"	17	query204_Golf_Canada\P\17-4
+"The constitution"	"be stated"	"the objectives of the organization as promote interest in the game of golf its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-5
+"The constitution"	"be stated"	"the objectives of the organization as interest in the game of golf the protection of the mutual interests of its members its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-6
+"The constitution"	"be stated"	"the objectives of the organization as interest in the game of golf establish uniformity in the rules of game by creating a representative authority its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-7
+"The constitution"	"be stated"	"the objectives of the organization as interest in the game of golf enforce uniformity in the rules of game by creating a representative authority its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-8
+"The constitution"	"be stated"	"the objectives of the organization as interest in the game of golf enforce uniformity in the rules of game by creating a representative authority its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-9
+"The constitution"	"be stated"	"the objectives of the organization as interest in the game of golf enforce uniformity in the rules of game by creating a representative authority its Executive Committee to be a court of reference as a final authority in matters of controversy to establish a uniform system of handicapping"	17	query204_Golf_Canada\P\17-10
+"its Executive Committee to establish a uniform system of handicapping"	"be court"	"a court of reference as a final authority in matters of controversy"	17	query204_Golf_Canada\P\17-11
+"its Executive Committee to establish a uniform system of handicapping"	"be court"	"a court of reference"	17	query204_Golf_Canada\P\17-12
+"the Amateur"	"shall be played"	"what links"	17	query204_Golf_Canada\P\17-13
+"the Open Championship"	"shall be played"	"what links"	17	query204_Golf_Canada\P\17-14
+" The constitution was signed by the following ten clubs from across Canada : Royal Montreal Golf Club Royal-Quebec Golf Club Royal Ottawa Golf Club Kingston Golf Club Toronto Golf Club Rosedale Golf Club Hamilton Golf and Country Club London Golf Club Winnipeg Golf Club Victoria Golf Club The first officers of the organization were : President : &nbsp; Hon . 	18	query204_Golf_Canada\S\18
+"The constitution"	"was signed"	"by the following ten clubs from across Canada Royal Montreal Golf Club Royal-Quebec Golf Club Royal Ottawa Golf Club Kingston Golf Club Toronto Golf Club Rosedale Golf Club Hamilton Golf of the organization were President Hon"	18	query204_Golf_Canada\P\18-0
+"The constitution"	"was signed"	"by the following ten clubs from across Canada Royal Montreal Golf Club Royal-Quebec Golf Club Royal Ottawa Golf Club Kingston Golf Club Toronto Golf Club Rosedale Golf Club Hamilton Country Club London Golf Club Winnipeg Golf Club Victoria Golf Club The first officers of the organization were President Hon"	18	query204_Golf_Canada\P\18-1
+George A. 	19	query204_Golf_Canada\S\19
+Drummond , Royal Montreal Golf Club Vice Presidents : &nbsp; Lt-Col . 	20	query204_Golf_Canada\S\20
+"Drummond Lt-Col"	"is"	"Royal Montreal Golf Club Vice Presidents"	20	query204_Golf_Canada\P\20-0
+D.T. 	21	query204_Golf_Canada\S\21
+Irwin , Royal Ottawa John Hamilton , Royal Quebec Golf Club Hon . 	22	query204_Golf_Canada\S\22
+"Irwin"	"is"	"Royal Ottawa John Hamilton"	22	query204_Golf_Canada\P\22-0
+"Irwin"	"is"	"Royal Quebec Golf Club Hon"	22	query204_Golf_Canada\P\22-1
+Secretary : &nbsp; W.C.J. 	23	query204_Golf_Canada\S\23
+Hall , Royal Quebec Golf Club Members : &nbsp; Charles Hunter , Toronto Golf and Niagara-on-the-Lake Lt.-Col 	24	query204_Golf_Canada\S\24
+"Hall Charles Hunter"	"is"	"Royal Quebec Golf Club Members"	24	query204_Golf_Canada\P\24-0
+"Hall Charles Toronto Golf"	"is"	"Royal Quebec Golf Club Members"	24	query204_Golf_Canada\P\24-1
+"Hall Charles Niagara-on-the-Lake Lt.-Col"	"is"	"Royal Quebec Golf Club Members"	24	query204_Golf_Canada\P\24-2
+. 	25	query204_Golf_Canada\S\25
+Cotton , Kingston Golf Club J.F. 	26	query204_Golf_Canada\S\26
+"Cotton J.F."	"is"	"Kingston Golf Club"	26	query204_Golf_Canada\P\26-0
+Kirk , Rosedale Golf Club J.L. 	27	query204_Golf_Canada\S\27
+"Kirk J.L."	"is"	"Rosedale Golf Club"	27	query204_Golf_Canada\P\27-0
+Morris , Royal Montreal F.P. 	28	query204_Golf_Canada\S\28
+"Morris"	"is"	"Royal Montreal F.P."	28	query204_Golf_Canada\P\28-0
+Betts , London The prefix Royal was granted to the RCGA in June 1896 by Queen Victoria . 	29	query204_Golf_Canada\S\29
+"The prefix Royal"	"was granted"	"to the RCGA in June 1896"	29	query204_Golf_Canada\P\29-0
+"The prefix Royal"	"was granted"	"to the RCGA by Queen Victoria"	29	query204_Golf_Canada\P\29-1
+"The prefix Royal"	"was granted"	"to the RCGA"	29	query204_Golf_Canada\P\29-2
+There were two categories of membership in the RCGA when it was formed ; Allied which meant it was a regularly constituted golf club in Canada , and Associate which was also to have a golf course , clubhouse and at least 25 members . 	30	query204_Golf_Canada\S\30
+"two categories of membership in the RCGA"	"There were"	"when it was formed 30"	30	query204_Golf_Canada\P\30-0
+"two categories of membership in the RCGA"	"There were"	"when it was formed Allied"	30	query204_Golf_Canada\P\30-1
+"two categories of membership in the RCGA"	"There were"	"when it was formed Associate"	30	query204_Golf_Canada\P\30-2
+"two categories of membership in the RCGA"	"There were"	"when it was formed clubhouse"	30	query204_Golf_Canada\P\30-3
+"two categories of membership in the RCGA"	"There were"	"when it was formed at least 25"	30	query204_Golf_Canada\P\30-4
+"two categories of membership in the RCGA"	"There were"	"30"	30	query204_Golf_Canada\P\30-5
+"two categories of membership in the RCGA"	"There were"	"Allied"	30	query204_Golf_Canada\P\30-6
+"two categories of membership in the RCGA"	"There were"	"Associate"	30	query204_Golf_Canada\P\30-7
+"two categories of membership in the RCGA"	"There were"	"clubhouse"	30	query204_Golf_Canada\P\30-8
+"two categories of membership in the RCGA"	"There were"	"at least 25"	30	query204_Golf_Canada\P\30-9
+"two categories of membership in the RCGA"	"There were"	"at least 25"	30	query204_Golf_Canada\P\30-10
+"two categories of membership in the RCGA"	"There were"	"at least 25"	30	query204_Golf_Canada\P\30-11
+"two categories of membership in the RCGA"	"There were"	"at least 25"	30	query204_Golf_Canada\P\30-12
+"two categories of membership in the RCGA"	"There were"	"at least 25"	30	query204_Golf_Canada\P\30-13
+"two categories of membership in the RCGA"	"There were"	"at least 25"	30	query204_Golf_Canada\P\30-14
+"two categories of membership in the RCGA"	"There were"	"at least 25"	30	query204_Golf_Canada\P\30-15
+Membership in the RCGA was : 1895&nbsp;&nbsp;&nbsp; 10 clubs &nbsp; 1898 Associates : Allied : 11 3 1902 20 &nbsp; 1905 33 &nbsp; 1961 512 &nbsp; 1990 1500 &nbsp; The Canadian Amateur Championship was to continue annually as it had operated in 1895 , at match play , with the prize the Aberdeen Cup , donated by the Governor - General . 	31	query204_Golf_Canada\S\31
+"3 1902 20 1905 33 1961 512 1990 1500 The Canadian Amateur Championship"	"was"	"to continue annually as it had operated in 1895"	11	query204_Golf_Canada\P\31-0
+"3 1902 20 1905 33 1961 512 1990 1500 The Canadian Amateur Championship"	"was"	"to continue annually at match play"	11	query204_Golf_Canada\P\31-1
+"3 1902 20 1905 33 1961 512 1990 1500 The Canadian Amateur Championship"	"was"	"to continue annually with the prize the Aberdeen Cup donated by the Governor General"	11	query204_Golf_Canada\P\31-2
+"3 1902 20 1905 33 1961 512 1990 1500 The Canadian Amateur Championship"	"was"	"to continue annually"	11	query204_Golf_Canada\P\31-3
+"3 1902 20 1905 33 1961 512 1990 1500 The Canadian Amateur Championship"	"was"	"to continue annually"	11	query204_Golf_Canada\P\31-4
+"the Aberdeen Cup"	"be donated"	"by the Governor General"	11	query204_Golf_Canada\P\31-5
+In 1898 , the RCGA , in conjunction with the USGA , conducted the first International Golf Matches at the Toronto Golf Club . 	32	query204_Golf_Canada\S\32
+"In 1898 in conjunction with the USGA"	"is"	"the RCGA"	32	query204_Golf_Canada\P\32-0
+"In 1898 in conjunction with the USGA"	"conducted"	"the first International Golf Matches at the Toronto Golf Club"	32	query204_Golf_Canada\P\32-1
+"the first International Golf"	"Matches"	"at the Toronto Golf Club"	32	query204_Golf_Canada\P\32-2
+Golf in Canada : A History , by James A. 	33	query204_Golf_Canada\S\33
+Barclay , Toronto , McClelland and Stewart , 1992 . 	34	query204_Golf_Canada\S\34
+Barclay , Toronto , McClelland and Stewart , 1992 . 	34	query204_Golf_Canada\S\34
+In 1901 , the organization introduced the Canadian Ladies ’ Amateur Championship , held at Royal Montreal Golf Club . 	35	query204_Golf_Canada\S\35
+"the organization"	"introduced"	"the Canadian Ladies ' Amateur Championship"	35	query204_Golf_Canada\P\35-0
+"the Canadian Ladies"	"has"	"Amateur Championship"	35	query204_Golf_Canada\P\35-1
+Three years later , the need for an Open championship for both amateur and professional golfers was determined , with sufficient professional golfers in Canada , and the first Canadian Open Golf Championship was held over the Royal Montreal Golf Club in 1904 . 	36	query204_Golf_Canada\S\36
+"the need for an Open championship for amateur golfers"	"was determined"	"with sufficient professional golfers in Canada 36 Three years later"	36	query204_Golf_Canada\P\36-0
+"the need for an Open championship for professional golfers"	"was determined"	"with sufficient professional golfers in Canada 36 Three years later"	36	query204_Golf_Canada\P\36-1
+"the need for an Open championship for amateur golfers"	"was determined"	"with sufficient professional golfers in Canada"	36	query204_Golf_Canada\P\36-2
+"the need for an Open championship for professional golfers"	"was determined"	"with sufficient professional golfers in Canada"	36	query204_Golf_Canada\P\36-3
+"the first Canadian Open Golf Championship"	"was held"	"over the Royal Montreal Golf Club in 1904"	36	query204_Golf_Canada\P\36-4
+"the first Canadian Open Golf Championship"	"was held"	"over the Royal Montreal Golf Club"	36	query204_Golf_Canada\P\36-5
+The RCGA formed its first standing committee for the rules of golf in 1916 , although it had printed its first edition of the rules in 1914 . 	37	query204_Golf_Canada\S\37
+"The RCGA"	"formed"	"its first standing committee for the rules of golf in 1916"	37	query204_Golf_Canada\P\37-0
+"The RCGA"	"formed"	"its first standing committee for the rules of golf although it had printed its first edition of the rules in 1914"	37	query204_Golf_Canada\P\37-1
+"The RCGA"	"formed"	"its first standing committee for the rules of golf"	37	query204_Golf_Canada\P\37-2
+"The RCGA"	"formed"	"its first standing committee for the rules of golf"	37	query204_Golf_Canada\P\37-3
+"The RCGA"	"formed"	"its first standing committee for the rules of golf"	37	query204_Golf_Canada\P\37-4
+"The RCGA"	"formed"	"its first standing committee for the rules of golf"	37	query204_Golf_Canada\P\37-5
+"The RCGA"	"formed"	"its first standing committee for the rules of golf"	37	query204_Golf_Canada\P\37-6
+In 1919 the first staff person , B.L. 	38	query204_Golf_Canada\S\38
+"In 1919 the first staff person"	"is"	"B.L."	38	query204_Golf_Canada\P\38-0
+Anderson , was hired . 	39	query204_Golf_Canada\S\39
+He had served as volunteer secretary during World War I , and was hired for part time work for the association as the Secretary-Treasurer . 	40	query204_Golf_Canada\S\40
+He had served as volunteer secretary during World War I , and was hired for part time work for the association as the Secretary-Treasurer . 	40	query204_Golf_Canada\S\40
+He had served as volunteer secretary during World War I , and was hired for part time work for the association as the Secretary-Treasurer . 	40	query204_Golf_Canada\S\40
+He had served as volunteer secretary during World War I , and was hired for part time work for the association as the Secretary-Treasurer . 	40	query204_Golf_Canada\S\40
+He had served as volunteer secretary during World War I , and was hired for part time work for the association as the Secretary-Treasurer . 	40	query204_Golf_Canada\S\40
+He had served as volunteer secretary during World War I , and was hired for part time work for the association as the Secretary-Treasurer . 	40	query204_Golf_Canada\S\40
+He had served as volunteer secretary during World War I , and was hired for part time work for the association as the Secretary-Treasurer . 	40	query204_Golf_Canada\S\40
+Anderson stayed with the RCGA as Secretary until retirement in 1945 . 	41	query204_Golf_Canada\S\41
+"Anderson"	"stayed"	"with the RCGA as Secretary"	41	query204_Golf_Canada\P\41-0
+"Anderson"	"stayed"	"with the RCGA until retirement in 1945"	41	query204_Golf_Canada\P\41-1
+"Anderson"	"stayed"	"with the RCGA"	41	query204_Golf_Canada\P\41-2
+He became known as the face of the RCGA , along with his own secretary , Marion Doherty . 	42	query204_Golf_Canada\S\42
+He became known as the face of the RCGA , along with his own secretary , Marion Doherty . 	42	query204_Golf_Canada\S\42
+He became known as the face of the RCGA , along with his own secretary , Marion Doherty . 	42	query204_Golf_Canada\S\42
+"his own secretary"	"is"	"Marion Doherty"	42	query204_Golf_Canada\P\42-0
+"his own secretary"	"is"	"Marion Doherty"	42	query204_Golf_Canada\P\42-1
+Funding continued as a fee per club until 1948 when the RCGA instituted the dollar a year plan . 	43	query204_Golf_Canada\S\43
+"Funding"	"continued"	"as a fee per club until 1948"	43	query204_Golf_Canada\P\43-0
+"Funding"	"continued"	"as a fee per club"	43	query204_Golf_Canada\P\43-1
+"the RCGA"	"instituted"	"the dollar a year plan 1948 when"	43	query204_Golf_Canada\P\43-2
+"the RCGA"	"instituted"	"the dollar a year plan 1948"	43	query204_Golf_Canada\P\43-3
+The concept was that each golf club would remit $ 1.00 	44	query204_Golf_Canada\S\44
+"The concept"	"was"	"that each golf club would remit $ 1.00"	44	query204_Golf_Canada\P\44-0
+"each golf club"	"would remit"	"$ 1.00"	44	query204_Golf_Canada\P\44-1
+for each male member ( after having collected from the member in their annual dues ) . 	45	query204_Golf_Canada\S\45
+for each male member ( after having collected from the member in their annual dues ) . 	45	query204_Golf_Canada\S\45
+$ .50 	46	query204_Golf_Canada\S\46
+was to go to the RCGA and the same amount would be remitted to the appropriated provincial association . 	47	query204_Golf_Canada\S\47
+was to go to the RCGA and the same amount would be remitted to the appropriated provincial association . 	47	query204_Golf_Canada\S\47
+was to go to the RCGA and the same amount would be remitted to the appropriated provincial association . 	47	query204_Golf_Canada\S\47
+This revolutionized the associations which had suffered for decades from chronic lack of funding . 	48	query204_Golf_Canada\S\48
+This revolutionized the associations which had suffered for decades from chronic lack of funding . 	48	query204_Golf_Canada\S\48
+"the associations"	"had suffered"	"for decades from chronic lack of funding"	48	query204_Golf_Canada\P\48-0
+The first handicapping system sponsored by Canada was done in 1937 , believed to be based upon an American system , using the five lowest scores of the current season . 	49	query204_Golf_Canada\S\49
+"The first handicapping system"	"be sponsored"	"by Canada"	49	query204_Golf_Canada\P\49-0
+"The first handicapping system sponsored by Canada"	"was done"	"in 1937 using the five lowest scores of the current season"	49	query204_Golf_Canada\P\49-1
+"The first handicapping system sponsored by Canada"	"was done"	"believed to be based upon an American system using the five lowest scores of the current season"	49	query204_Golf_Canada\P\49-2
+"The first handicapping system sponsored by Canada"	"was done"	"using the five lowest scores of the current season"	49	query204_Golf_Canada\P\49-3
+"The first handicapping system sponsored by Canada"	"be believed"	"to be based upon an American system"	49	query204_Golf_Canada\P\49-4
+The second system was presented in 1949 interim , and 1950 official . 	50	query204_Golf_Canada\S\50
+"The second system"	"was presented"	"in 1949 interim"	50	query204_Golf_Canada\P\50-0
+"The second system"	"was 1950 official"	"in 1949 interim"	50	query204_Golf_Canada\P\50-1
+It was revised again in 1960 , and several times afterwards . 	51	query204_Golf_Canada\S\51
+It was revised again in 1960 , and several times afterwards . 	51	query204_Golf_Canada\S\51
+It was revised again in 1960 , and several times afterwards . 	51	query204_Golf_Canada\S\51
+It was revised again in 1960 , and several times afterwards . 	51	query204_Golf_Canada\S\51
+It was revised again in 1960 , and several times afterwards . 	51	query204_Golf_Canada\S\51
+In 1924 the Canadian Ladies ’ Golf Union ( formed in 1913 ) took over the operation of the Canadian Ladies ’ Amateur Championship from the RCGA. 	52	query204_Golf_Canada\S\52
+"the Canadian Ladies"	"has"	"Golf Union formed in 1913"	52	query204_Golf_Canada\P\52-0
+"the Canadian Ladies ' Golf Union formed in 1913"	"took over"	"the operation of the Canadian Ladies ' Amateur Championship 52 In 1924"	52	query204_Golf_Canada\P\52-1
+"the Canadian Ladies ' Golf Union formed in 1913"	"took over"	"the operation of the Canadian Ladies ' Amateur Championship from the RCGA 52"	52	query204_Golf_Canada\P\52-2
+"the Canadian Ladies ' Golf Union formed in 1913"	"took over"	"the operation of the Canadian Ladies ' Amateur Championship 52"	52	query204_Golf_Canada\P\52-3
+"the Canadian Ladies"	"has"	"Amateur Championship"	52	query204_Golf_Canada\P\52-4
+1927 saw the resurrection of the Interprovincial Team Matches . 	53	query204_Golf_Canada\S\53
+"1927"	"saw"	"the resurrection of the Interprovincial Team Matches"	53	query204_Golf_Canada\P\53-0
+These matches had been played since 1882 , primarily between Quebec and Ontario . 	54	query204_Golf_Canada\S\54
+"These matches"	"had been played"	"since 1882 primarily between Quebec and Ontario"	54	query204_Golf_Canada\P\54-0
+"These matches"	"had been played"	"since 1882"	54	query204_Golf_Canada\P\54-1
+Discontinued in 1921 , the need to improve the national scope of the Association , and in particular its championships , coincided with the concept of team expenses provided being allowed . 	55	query204_Golf_Canada\S\55
+Discontinued in 1921 , the need to improve the national scope of the Association , and in particular its championships , coincided with the concept of team expenses provided being allowed . 	55	query204_Golf_Canada\S\55
+"in particular its championships coincided with the concept of team expenses provided being allowed"	"be Discontinued"	"in 1921"	55	query204_Golf_Canada\P\55-0
+"Discontinued in 1921"	"is"	"the need to improve the national scope of the Association"	55	query204_Golf_Canada\P\55-1
+"Discontinued in 1921 in particular its championships coincided with the concept of team expenses provided being allowed"	"is"	"the need to improve the national scope of the Association"	55	query204_Golf_Canada\P\55-2
+"the need"	"be improve"	"the national scope of the Association"	55	query204_Golf_Canada\P\55-3
+"the need"	"be improve"	"the national scope of the Association"	55	query204_Golf_Canada\P\55-4
+"its championships"	"be coincided"	"with the concept of team expenses provided being allowed"	55	query204_Golf_Canada\P\55-5
+"the concept of team expenses"	"be provided"	"being allowed"	55	query204_Golf_Canada\P\55-6
+To ensure the “cream” of the amateur players in each province were available to participate in the Amateur ( notwithstanding long distance travel ) , the Interprovincial Matches were reintroduced as the “ Willingdon Cup Matches for the Interprovincial Championship ” encouraging each province to send a team of four to the Amateur . 	56	query204_Golf_Canada\S\56
+"the cream of the amateur players in each province"	"were"	"56 To ensure available to participate in the Amateur were reintroduced as the Willingdon Cup Matches for the Interprovincial Championship encouraging each province to send a team of four to the Amateur"	56	query204_Golf_Canada\P\56-0
+"the cream of the amateur players in each province"	"were"	"56 To ensure available to participate in the Amateur were reintroduced as the Willingdon Cup Matches for the Interprovincial Championship encouraging each province to send a team of four to the Amateur"	56	query204_Golf_Canada\P\56-1
+"the cream of the amateur players in each province"	"were"	"56 To ensure available to participate in the Amateur were reintroduced as the Willingdon Cup Matches for the Interprovincial Championship encouraging each province to send a team of four to the Amateur"	56	query204_Golf_Canada\P\56-2
+"the cream of the amateur players in each province"	"were"	"56 To ensure available to participate in the Amateur were reintroduced as the Willingdon Cup Matches for the Interprovincial Championship encouraging each province to send a team of four to the Amateur"	56	query204_Golf_Canada\P\56-3
+"the Willingdon Cup Matches for the Interprovincial Championship"	"be encouraging"	"each province to send a team of four to the Amateur"	56	query204_Golf_Canada\P\56-4
+The Governor General , Lord Willingdon , provided the cup which is still played for today . 	57	query204_Golf_Canada\S\57
+"The Governor General"	"is"	"Lord Willingdon"	57	query204_Golf_Canada\P\57-0
+"The Governor General"	"provided"	"the cup"	57	query204_Golf_Canada\P\57-1
+"the cup"	"is played"	"for today still"	57	query204_Golf_Canada\P\57-2
+"the cup"	"is played"	"for today"	57	query204_Golf_Canada\P\57-3
+The Willingdon Cup matches have likely done more than any other event to raise the standard of amateur golf in Canada . 	58	query204_Golf_Canada\S\58
+"any other event"	"be raise"	"the standard of amateur golf in Canada"	58	query204_Golf_Canada\P\58-0
+Golf in Canada : A History , by James A. 	59	query204_Golf_Canada\S\59
+Barclay , Toronto , McClelland and Stewart , 1992 . 	60	query204_Golf_Canada\S\60
+Barclay , Toronto , McClelland and Stewart , 1992 . 	60	query204_Golf_Canada\S\60
+In the 1930s the national body was approached about beginning a national junior championship . 	61	query204_Golf_Canada\S\61
+"In the 1930s the national body"	"was approached"	"about beginning a national junior championship"	61	query204_Golf_Canada\P\61-0
+In 1938 a new element was added to the Amateur Championship – - that of Junior Title holder . 	62	query204_Golf_Canada\S\62
+"In 1938 a new element"	"was added"	"to the Amateur Championship"	62	query204_Golf_Canada\P\62-0
+A junior from each province could accompany the Willingdon Cup team as an alternate , and participate in the Amateur . 	63	query204_Golf_Canada\S\63
+"A junior from each province"	"could accompany"	"the Willingdon Cup team as an alternate"	63	query204_Golf_Canada\P\63-0
+"A junior from each province"	"could accompany"	"the Willingdon Cup team"	63	query204_Golf_Canada\P\63-1
+"A junior from each province"	"could participate"	"the Willingdon Cup team as an alternate"	63	query204_Golf_Canada\P\63-2
+"A junior from each province"	"could participate"	"the Willingdon Cup team in the Amateur"	63	query204_Golf_Canada\P\63-3
+"A junior from each province"	"could participate"	"the Willingdon Cup team"	63	query204_Golf_Canada\P\63-4
+The low scorer would become the Junior Champion . 	64	query204_Golf_Canada\S\64
+"The low scorer"	"would become"	"the Junior Champion"	64	query204_Golf_Canada\P\64-0
+In 1959 the tournament was separated from the Canadian Amateur Championship , and became a full fledged match play tournament in its own right . 	65	query204_Golf_Canada\S\65
+"the tournament"	"was separated"	"65 In 1959"	65	query204_Golf_Canada\P\65-0
+"the tournament"	"was separated"	"became a full fledged match play tournament in its own right In 1959"	65	query204_Golf_Canada\P\65-1
+"the tournament"	"was separated"	"from the Canadian Amateur Championship 65"	65	query204_Golf_Canada\P\65-2
+"the tournament"	"was separated"	"from the Canadian Amateur Championship became a full fledged match play tournament in its own right"	65	query204_Golf_Canada\P\65-3
+"the tournament"	"was separated"	"65"	65	query204_Golf_Canada\P\65-4
+"the tournament"	"was separated"	"became a full fledged match play tournament in its own right"	65	query204_Golf_Canada\P\65-5
+"the tournament"	"was separated"	"became a full fledged match play tournament in its own right"	65	query204_Golf_Canada\P\65-6
+A juvenile component was added in 1970 , and interprovincial team matches had been added to the tournament in 1959 . 	66	query204_Golf_Canada\S\66
+"A juvenile component"	"was added"	"in 1970"	66	query204_Golf_Canada\P\66-0
+"interprovincial team matches"	"had been added"	"to the tournament in 1959"	66	query204_Golf_Canada\P\66-1
+"interprovincial team matches"	"had been added"	"to the tournament"	66	query204_Golf_Canada\P\66-2
+Both tournaments are run at stroke play today . 	67	query204_Golf_Canada\S\67
+"Both tournaments"	"are run"	"at stroke play today"	67	query204_Golf_Canada\P\67-0
+"Both tournaments"	"are run"	"at stroke play"	67	query204_Golf_Canada\P\67-1
+In 1962 the RCGA introduced its first Senior Championship of Canada . 	68	query204_Golf_Canada\S\68
+"the RCGA"	"introduced"	"its first Senior Championship of Canada 68 In 1962"	68	query204_Golf_Canada\P\68-0
+"the RCGA"	"introduced"	"its first Senior Championship of Canada 68"	68	query204_Golf_Canada\P\68-1
+"the RCGA"	"introduced"	"its first Senior Championship of Canada 68"	68	query204_Golf_Canada\P\68-2
+The Canadian Senior Golf Association had been formed in 1918 and conducted its own championship . 	69	query204_Golf_Canada\S\69
+"The Canadian Senior Golf Association"	"had been formed"	"in 1918"	69	query204_Golf_Canada\P\69-0
+"The Canadian Senior Golf Association"	"had been conducted"	"its own championship in 1918"	69	query204_Golf_Canada\P\69-1
+"The Canadian Senior Golf Association"	"had been conducted"	"its own championship"	69	query204_Golf_Canada\P\69-2
+"The Canadian Senior Golf Association"	"had been conducted"	"its own championship"	69	query204_Golf_Canada\P\69-3
+However , by 1962 it became clear that there was a need for another tournament . 	70	query204_Golf_Canada\S\70
+However , by 1962 it became clear that there was a need for another tournament . 	70	query204_Golf_Canada\S\70
+However , by 1962 it became clear that there was a need for another tournament . 	70	query204_Golf_Canada\S\70
+The Senior Championship of Canada was established as an RCGA event , open to any member of any RCGA member club . 	71	query204_Golf_Canada\S\71
+"The Senior Championship of Canada"	"was established"	"as an RCGA event open to any member of any RCGA member club"	71	query204_Golf_Canada\P\71-0
+"The Senior Championship of Canada"	"was established"	"as an RCGA event"	71	query204_Golf_Canada\P\71-1
+The CSGA was/is a membership based organization and fulfills a largely social element of the game . 	72	query204_Golf_Canada\S\72
+"The CSGA"	"was/is"	"a membership based organization"	72	query204_Golf_Canada\P\72-0
+"The CSGA"	"fulfills"	"a membership based organization a largely social element of the game"	72	query204_Golf_Canada\P\72-1
+In 1986 the Canadian Club Champions ' Championship was introduced , followed by the Mid - Amateur Championship in 1987 . 	73	query204_Golf_Canada\S\73
+In 1986 the Canadian Club Champions ' Championship was introduced , followed by the Mid - Amateur Championship in 1987 . 	73	query204_Golf_Canada\S\73
+In 1986 the Canadian Club Champions ' Championship was introduced , followed by the Mid - Amateur Championship in 1987 . 	73	query204_Golf_Canada\S\73
+"the Canadian Club Champions"	"has"	"Championship"	73	query204_Golf_Canada\P\73-0
+"the Canadian Club Champions ' Championship"	"was introduced"	"73 followed by the Mid Amateur Championship in 1987 In 1986"	73	query204_Golf_Canada\P\73-1
+"the Canadian Club Champions ' Championship"	"was introduced"	"73 followed by the Mid Amateur Championship in 1987"	73	query204_Golf_Canada\P\73-2
+The RCGA also has a long history of sending teams to international competitions . 	74	query204_Golf_Canada\S\74
+"The RCGA"	"has"	"a long history of sending teams to international competitions also"	74	query204_Golf_Canada\P\74-0
+"The RCGA"	"has"	"a long history of sending teams to international competitions"	74	query204_Golf_Canada\P\74-1
+The first overseas team was formed in 1935 to go to the United Kingdom , to play in the British Amateur Championship , and in a number of relatively informal team matches . 	75	query204_Golf_Canada\S\75
+"The first overseas team"	"was formed"	"in 1935 to go to the United Kingdom to play in the British Amateur Championship"	75	query204_Golf_Canada\P\75-0
+"The first overseas team"	"was formed"	"to go to the United Kingdom to play in the British Amateur Championship"	75	query204_Golf_Canada\P\75-1
+"The first overseas team"	"was in"	"to go to the United Kingdom to play in the British Amateur Championship in 1935"	75	query204_Golf_Canada\P\75-2
+"The first overseas team"	"was in"	"to go to the United Kingdom to play in the British Amateur Championship a number of relatively informal team matches"	75	query204_Golf_Canada\P\75-3
+"The first overseas team"	"was in"	"to go to the United Kingdom to play in the British Amateur Championship"	75	query204_Golf_Canada\P\75-4
+In 1954 the first official RCGA team event took place with the introduction of the America’s Cup Matches . 	76	query204_Golf_Canada\S\76
+"In 1954 the first official RCGA team event"	"took"	"place with the introduction of the America 's Cup Matches"	76	query204_Golf_Canada\P\76-0
+"the America"	"has"	"Cup Matches"	76	query204_Golf_Canada\P\76-1
+Played between 1954 and 1967 , these matches were played between Mexico , the USA and Canada . 	77	query204_Golf_Canada\S\77
+Played between 1954 and 1967 , these matches were played between Mexico , the USA and Canada . 	77	query204_Golf_Canada\S\77
+"Played between 1954 and 1967"	"is"	"these matches"	77	query204_Golf_Canada\P\77-0
+"Played between 1954 and 1967"	"were played"	"between Mexico the USA and Canada"	77	query204_Golf_Canada\P\77-1
+The Canadians brought home the honours in 1965 . 	78	query204_Golf_Canada\S\78
+"The Canadians"	"brought"	"home the honours in 1965"	78	query204_Golf_Canada\P\78-0
+Other International events the RCGA has been much involved in are the World Amateur Team Matches for the Eisenhower Trophy , since 1958 : winning in 1986 , placing second in 1962 , 1964 , 1978 , and 2006 , and hosting these “Olympics ” of golf in 1992 ; the Commonwealth Matches , won by Canada in 1971 and 1975 , discontinued in 1975 ; and the Simon Bolivar Biennial Tournament , won in 1981 by Doug Roxburgh and Gary Cowan representing Canada . 	79	query204_Golf_Canada\S\79
+"the RCGA"	"has been involved"	"79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Roxburgh much"	79	query204_Golf_Canada\P\79-0
+"the RCGA"	"has been involved"	"79 Other International events the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada much"	79	query204_Golf_Canada\P\79-1
+"the RCGA"	"has been involved"	"79 Other International events the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada much"	79	query204_Golf_Canada\P\79-2
+"the RCGA"	"has been involved"	"79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Gary Cowan representing Canada much"	79	query204_Golf_Canada\P\79-3
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 winning in 1986 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-4
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 winning in 1986 79 Other International events the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-5
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 winning in 1986 79 Other International events the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-6
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 winning in 1986 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-7
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1962 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-8
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1962 79 Other International events the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-9
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1962 79 Other International events the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-10
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1962 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-11
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1964 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-12
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1964 79 Other International events the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-13
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1964 79 Other International events the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-14
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1964 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-15
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1978 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-16
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1978 79 Other International events the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-17
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1978 79 Other International events the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-18
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 1978 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-19
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 2006 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-20
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 2006 79 Other International events the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-21
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 2006 79 Other International events the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-22
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 placing second in 2006 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-23
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 hosting these Olympics of golf in 1992 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-24
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 hosting these Olympics of golf in 1992 79 Other International events the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-25
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 hosting these Olympics of golf in 1992 79 Other International events the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-26
+"the RCGA"	"has been involved"	"in are the World Amateur Team Matches for the Eisenhower Trophy since 1958 in 1986 hosting these Olympics of golf in 1992 79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-27
+"the RCGA"	"has been involved"	"79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-28
+"the RCGA"	"has been involved"	"79 Other International events the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-29
+"the RCGA"	"has been involved"	"79 Other International events the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament won in 1981 by Doug Roxburgh and Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-30
+"the RCGA"	"has been involved"	"79 Other International events the Commonwealth Matches won by Canada in 1971 discontinued in 1975 won in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-31
+"the Commonwealth Matches won by Canada in 1971"	"be discontinued"	"in 1975"	79	query204_Golf_Canada\P\79-32
+"the Commonwealth Matches won by Canada in 1975 and the Simon Bolivar Biennial Tournament"	"be discontinued"	"in 1975"	79	query204_Golf_Canada\P\79-33
+"the Commonwealth won by Canada in 1971 the Simon Bolivar Biennial Tournament"	"be discontinued"	"in 1975"	79	query204_Golf_Canada\P\79-34
+"the Commonwealth Matches discontinued in 1975"	"be won"	"by Canada in 1971"	79	query204_Golf_Canada\P\79-35
+"the Commonwealth Matches discontinued in 1975"	"be won"	"by Canada in 1975"	79	query204_Golf_Canada\P\79-36
+"the Commonwealth discontinued in 1975 the Simon Bolivar Biennial Tournament"	"be won"	"by Canada in 1971"	79	query204_Golf_Canada\P\79-37
+"the Commonwealth discontinued in 1975 the Simon Bolivar Biennial Tournament"	"be won"	"by Canada in 1975"	79	query204_Golf_Canada\P\79-38
+"the Commonwealth Matches discontinued in 1975"	"be won"	"by Canada"	79	query204_Golf_Canada\P\79-39
+"the Commonwealth discontinued in 1975 the Simon Bolivar Biennial Tournament"	"be won"	"by Canada"	79	query204_Golf_Canada\P\79-40
+"the Commonwealth Matches won by Canada in 1971 discontinued in 1975"	"won"	"in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-41
+"the Commonwealth Matches won by Canada in 1971 discontinued in 1975"	"won"	"in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-42
+"the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament"	"won"	"in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-43
+"the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament"	"won"	"in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-44
+"the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament"	"won"	"in 1981 by Doug Roxburgh"	79	query204_Golf_Canada\P\79-45
+"the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament"	"won"	"in 1981 by Doug Gary Cowan representing Canada"	79	query204_Golf_Canada\P\79-46
+"the Commonwealth Matches won by Canada in 1971 discontinued in 1975"	"won"	"in 1981"	79	query204_Golf_Canada\P\79-47
+"the Commonwealth Matches won by Canada in 1975 discontinued in 1975 and the Simon Bolivar Biennial Tournament"	"won"	"in 1981"	79	query204_Golf_Canada\P\79-48
+"the Commonwealth won by Canada in 1971 discontinued in 1975 the Simon Bolivar Biennial Tournament"	"won"	"in 1981"	79	query204_Golf_Canada\P\79-49
+"Gary Cowan"	"be representing"	"Canada"	79	query204_Golf_Canada\P\79-50
+The RCGA also recognized the needs of the game outside of tournament play and first began a Green Section in the 1920s . 	80	query204_Golf_Canada\S\80
+"The RCGA"	"recognized"	"the needs of the game outside of tournament play also"	80	query204_Golf_Canada\P\80-0
+"The RCGA"	"recognized"	"the needs of the game outside of tournament play"	80	query204_Golf_Canada\P\80-1
+"The RCGA"	"recognized"	"the needs of the game outside of tournament play"	80	query204_Golf_Canada\P\80-2
+Although this faded in and out throughout the next several decades , it continued until ending in 2007 . 	81	query204_Golf_Canada\S\81
+Although this faded in and out throughout the next several decades , it continued until ending in 2007 . 	81	query204_Golf_Canada\S\81
+Although this faded in and out throughout the next several decades , it continued until ending in 2007 . 	81	query204_Golf_Canada\S\81
+Although this faded in and out throughout the next several decades , it continued until ending in 2007 . 	81	query204_Golf_Canada\S\81
+Although this faded in and out throughout the next several decades , it continued until ending in 2007 . 	81	query204_Golf_Canada\S\81
+Although this faded in and out throughout the next several decades , it continued until ending in 2007 . 	81	query204_Golf_Canada\S\81
+In the 1950s well-known golf architect and admirable agronomist Robbie Robinson served the RCGA in a number of positions , including as general manager . 	82	query204_Golf_Canada\S\82
+"In the 1950s well-known golf architect"	"served"	"the RCGA in a number of positions including as general manager"	82	query204_Golf_Canada\P\82-0
+"In the 1950s well-known golf architect admirable agronomist Robbie Robinson"	"served"	"the RCGA in a number of positions including as general manager"	82	query204_Golf_Canada\P\82-1
+"In the 1950s well-known golf architect"	"served"	"the RCGA"	82	query204_Golf_Canada\P\82-2
+"In the 1950s well-known golf architect admirable agronomist Robbie Robinson"	"served"	"the RCGA"	82	query204_Golf_Canada\P\82-3
+Throughout the 1960s and 1970s , the RCGA operated a consulting program which was operated through part time consultants . 	83	query204_Golf_Canada\S\83
+"the RCGA"	"be 83"	"Throughout the 1960s"	83	query204_Golf_Canada\P\83-0
+"the RCGA"	"be 83"	"Throughout the 1970s"	83	query204_Golf_Canada\P\83-1
+"the RCGA"	"operated"	"a consulting program 83 Throughout the 1960s"	83	query204_Golf_Canada\P\83-2
+"the RCGA"	"operated"	"a consulting program 83 Throughout the 1970s"	83	query204_Golf_Canada\P\83-3
+"the RCGA"	"operated"	"a consulting program"	83	query204_Golf_Canada\P\83-4
+"a consulting program"	"was operated"	"through part time consultants"	83	query204_Golf_Canada\P\83-5
+In 1991 the Association hired a permanent staff person for the Green Section , and has been involved in developing environmental guidelines , among other key materials , for golf courses today . 	84	query204_Golf_Canada\S\84
+"the Association"	"hired"	"a permanent staff person for the Green Section 84 today In 1991"	84	query204_Golf_Canada\P\84-0
+"the Association"	"hired"	"a permanent staff person for the Green Section has been involved in developing environmental guidelines today In 1991"	84	query204_Golf_Canada\P\84-1
+"the Association"	"hired"	"a permanent staff person for the Green Section among other key materials today In 1991"	84	query204_Golf_Canada\P\84-2
+"the Association"	"hired"	"a permanent staff person for the Green Section for golf courses today In 1991"	84	query204_Golf_Canada\P\84-3
+"the Association"	"hired"	"a permanent staff person for the Green Section 84 today"	84	query204_Golf_Canada\P\84-4
+"the Association"	"hired"	"a permanent staff person for the Green Section has been involved in developing environmental guidelines today"	84	query204_Golf_Canada\P\84-5
+"the Association"	"hired"	"a permanent staff person for the Green Section among other key materials today"	84	query204_Golf_Canada\P\84-6
+"the Association"	"hired"	"a permanent staff person for the Green Section for golf courses today"	84	query204_Golf_Canada\P\84-7
+In the 1950s , the RCGA first began collecting “relics ” of the game , to preserve the history of Canadian golf . 	85	query204_Golf_Canada\S\85
+"In the 1950s"	"be preserve"	"the history of Canadian golf"	85	query204_Golf_Canada\P\85-0
+"the RCGA"	"began"	"collecting relics of the game 85 In the 1950s to preserve the history of Canadian golf first"	85	query204_Golf_Canada\P\85-1
+"the RCGA"	"began"	"collecting relics of the game 85 In the 1950s to preserve the history of Canadian golf"	85	query204_Golf_Canada\P\85-2
+In 1975 , with the move to Glen Abbey Golf Course , the RCGA established a golf museum and a location to showcase the Canadian Golf Hall of Fame , established in 1971 . 	86	query204_Golf_Canada\S\86
+"the RCGA"	"established"	"a golf museum 86 In 1975 with the move to Glen Abbey Golf Course"	86	query204_Golf_Canada\P\86-0
+"the RCGA"	"established"	"a golf a location to showcase the Canadian Golf Hall of Fame established in 1971 86 In 1975 with the move to Glen Abbey Golf Course"	86	query204_Golf_Canada\P\86-1
+"the Canadian Golf Hall of Fame"	"be established"	"in 1971"	86	query204_Golf_Canada\P\86-2
+With the donation of $ 800,000 from the Shore Foundation , a building was erected at Glen Abbey as a home for the museum , the Hall of Fame and a library/archive on the game . 	87	query204_Golf_Canada\S\87
+"a building"	"was erected"	"at Glen Abbey 87 With the donation of $ 800,000 from the Shore Foundation"	87	query204_Golf_Canada\P\87-0
+"a building"	"was erected"	"at Glen Abbey 87 With the donation of $ 800,000 from the Shore Foundation"	87	query204_Golf_Canada\P\87-1
+"a building"	"was erected"	"at Glen Abbey as a home for the museum"	87	query204_Golf_Canada\P\87-2
+"a building"	"was erected"	"at Glen Abbey as a home for the museum"	87	query204_Golf_Canada\P\87-3
+"a building"	"was erected"	"at Glen Abbey"	87	query204_Golf_Canada\P\87-4
+"a building"	"was erected"	"at Glen Abbey"	87	query204_Golf_Canada\P\87-5
+In the 1970s , the RCGA made the decision to move the Canadian Open to a permanent site at Glen Abbey Golf Course in Oakville _ Ontario , along with headquarters of the association . 	88	query204_Golf_Canada\S\88
+"the RCGA"	"made"	"the decision to move the Canadian Open to a permanent site at Glen Abbey Golf Course in Oakville _ Ontario along with headquarters of the association 88 In the 1970s"	88	query204_Golf_Canada\P\88-0
+"the RCGA"	"made"	"the decision to move the Canadian Open to a permanent site at Glen Abbey Golf Course in Oakville _ Ontario along with headquarters of the association"	88	query204_Golf_Canada\P\88-1
+"the decision"	"be move"	"the Canadian Open to a permanent site at Glen Abbey Golf Course in Oakville _ Ontario"	88	query204_Golf_Canada\P\88-2
+"the decision"	"be move"	"the Canadian Open to a permanent site at Glen Abbey Golf Course along with headquarters of the association"	88	query204_Golf_Canada\P\88-3
+"the decision"	"be move"	"the Canadian Open to a permanent site at Glen Abbey Golf Course"	88	query204_Golf_Canada\P\88-4
+The RCGA purchased the golf course in the early 1980s , and held the national open championship over the course from 1977 -– 2000 , with the exceptions of 1980 and 1997 , when it was moved to Royal Montreal Golf Club . 	89	query204_Golf_Canada\S\89
+"The RCGA"	"purchased"	"the golf course in the early 1980s"	89	query204_Golf_Canada\P\89-0
+"The RCGA"	"purchased"	"the golf course"	89	query204_Golf_Canada\P\89-1
+"The RCGA"	"held"	"the golf course the national open championship in the early 1980s"	89	query204_Golf_Canada\P\89-2
+"The RCGA"	"held"	"the golf course the national open championship over the course"	89	query204_Golf_Canada\P\89-3
+"The RCGA"	"held"	"the golf course the national open championship from 1977 2000 with the exceptions of 1980"	89	query204_Golf_Canada\P\89-4
+"The RCGA"	"held"	"the golf course the national open championship from 1977 2000 with the exceptions of 1997"	89	query204_Golf_Canada\P\89-5
+"The RCGA"	"held"	"the golf course the national open championship"	89	query204_Golf_Canada\P\89-6
+"The RCGA"	"held"	"the golf course the national open championship"	89	query204_Golf_Canada\P\89-7
+"The RCGA"	"held"	"the golf course the national open championship"	89	query204_Golf_Canada\P\89-8
+"The RCGA"	"held"	"the golf course the national open championship"	89	query204_Golf_Canada\P\89-9
+"The RCGA"	"held"	"the golf course the national open championship"	89	query204_Golf_Canada\P\89-10
+"The RCGA"	"held"	"the golf course the national open championship"	89	query204_Golf_Canada\P\89-11
+"The RCGA"	"held"	"the golf course the national open championship"	89	query204_Golf_Canada\P\89-12
+In 1999 the RCGA completed the sale of the property to ClubLink Corp. 	90	query204_Golf_Canada\S\90
+"the RCGA"	"completed"	"the sale of the property to ClubLink Corp. 90 In 1999"	90	query204_Golf_Canada\P\90-0
+"the RCGA"	"completed"	"the sale of the property to ClubLink Corp. 90"	90	query204_Golf_Canada\P\90-1
+The Canadian Open returned to Glen Abbey in 2004 , and was played there again in 2008 and 2009 . 	91	query204_Golf_Canada\S\91
+"The Canadian Open"	"returned"	"to Glen Abbey in 2004"	91	query204_Golf_Canada\P\91-0
+"The Canadian Open"	"returned"	"to Glen Abbey"	91	query204_Golf_Canada\P\91-1
+"The Canadian Open"	"was played"	"there to Glen Abbey"	91	query204_Golf_Canada\P\91-2
+"The Canadian Open"	"was played"	"there in 2004"	91	query204_Golf_Canada\P\91-3
+"The Canadian Open"	"was played"	"there again"	91	query204_Golf_Canada\P\91-4
+"The Canadian Open"	"was played"	"there in 2008"	91	query204_Golf_Canada\P\91-5
+"The Canadian Open"	"was played"	"there in 2009"	91	query204_Golf_Canada\P\91-6
+"The Canadian Open"	"was played"	"there"	91	query204_Golf_Canada\P\91-7
+The tournament once more moves around the country to top courses . 	92	query204_Golf_Canada\S\92
+The Royal Canadian Golf Association amalgamated with the Canadian Ladies ’ Golf Association in January 2005 , and now administers the game for both men and women . 	93	query204_Golf_Canada\S\93
+"The Royal Canadian Golf Association"	"amalgamated"	"with the Canadian Ladies ' Golf Association in January 2005"	93	query204_Golf_Canada\P\93-0
+"The Royal Canadian Golf Association"	"amalgamated"	"with the Canadian Ladies ' Golf Association"	93	query204_Golf_Canada\P\93-1
+"The Royal Canadian Golf Association"	"administers"	"the game for men with the Canadian Ladies ' Golf Association"	93	query204_Golf_Canada\P\93-2
+"The Royal Canadian Golf Association"	"administers"	"the game for women with the Canadian Ladies ' Golf Association"	93	query204_Golf_Canada\P\93-3
+"The Royal Canadian Golf Association"	"administers"	"the game for men in January 2005"	93	query204_Golf_Canada\P\93-4
+"The Royal Canadian Golf Association"	"administers"	"the game for women in January 2005"	93	query204_Golf_Canada\P\93-5
+"The Royal Canadian Golf Association"	"administers"	"the game for men now"	93	query204_Golf_Canada\P\93-6
+"The Royal Canadian Golf Association"	"administers"	"the game for women now"	93	query204_Golf_Canada\P\93-7
+"The Royal Canadian Golf Association"	"administers"	"the game for men"	93	query204_Golf_Canada\P\93-8
+"The Royal Canadian Golf Association"	"administers"	"the game for women"	93	query204_Golf_Canada\P\93-9
+"the Canadian Ladies"	"has"	"Golf Association"	93	query204_Golf_Canada\P\93-10
+The tournaments conducted by the association include : Other programs of the RCGA include a Canada -wide Agronomy Program , a Player Development division dedicated to providing opportunities for top golfers to reach their potential in competitive golf , the RCGA Foundation which raises funds for Golf Programs at Canadian Universities , and the Golf Programs and Services Division which operates the CN Future Links program , Handicapping and Course Rating , the Canadian Golf Hall of Fame and Museum and maintaining the Rules of Golf . 	94	query204_Golf_Canada\S\94
+"The tournaments"	"be conducted"	"by the association"	94	query204_Golf_Canada\P\94-0
+"Other programs of the RCGA"	"include"	"a Canada wide Agronomy Program"	94	query204_Golf_Canada\P\94-1
+"Other programs of the RCGA"	"include"	"a wide Agronomy Program the Golf Programs"	94	query204_Golf_Canada\P\94-2
+"Other programs of the RCGA"	"include"	"a wide Agronomy Program the Golf Services Division"	94	query204_Golf_Canada\P\94-3
+"Other programs of the RCGA"	"include"	"a wide Agronomy Program the Canadian Golf Hall of Fame"	94	query204_Golf_Canada\P\94-4
+"Other programs of the RCGA"	"include"	"a wide Agronomy Program the Canadian Golf Hall of Museum"	94	query204_Golf_Canada\P\94-5
+"Other programs of the RCGA"	"include"	"a wide Agronomy Program maintaining the Rules of Golf"	94	query204_Golf_Canada\P\94-6
+"Canada wide Agronomy Program"	"is"	"the RCGA Foundation"	94	query204_Golf_Canada\P\94-7
+"wide Agronomy Program the Golf Programs"	"is"	"the RCGA Foundation"	94	query204_Golf_Canada\P\94-8
+"wide Agronomy Program the Golf Programs Services Division"	"is"	"the RCGA Foundation"	94	query204_Golf_Canada\P\94-9
+"wide Agronomy Program the Canadian Golf Hall of Fame"	"is"	"the RCGA Foundation"	94	query204_Golf_Canada\P\94-10
+"wide Agronomy Program the Canadian Golf Hall of Museum"	"is"	"the RCGA Foundation"	94	query204_Golf_Canada\P\94-11
+"wide Agronomy Program maintaining the Rules of Golf"	"is"	"the RCGA Foundation"	94	query204_Golf_Canada\P\94-12
+"Canada wide Agronomy Program"	"is"	"a Player Development division dedicated to providing opportunities for top golfers to reach their potential in competitive golf"	94	query204_Golf_Canada\P\94-13
+"wide Agronomy Program the Golf Programs"	"is"	"a Player Development division dedicated to providing opportunities for top golfers to reach their potential in competitive golf"	94	query204_Golf_Canada\P\94-14
+"wide Agronomy Program the Golf Programs Services Division"	"is"	"a Player Development division dedicated to providing opportunities for top golfers to reach their potential in competitive golf"	94	query204_Golf_Canada\P\94-15
+"wide Agronomy Program the Canadian Golf Hall of Fame"	"is"	"a Player Development division dedicated to providing opportunities for top golfers to reach their potential in competitive golf"	94	query204_Golf_Canada\P\94-16
+"wide Agronomy Program the Canadian Golf Hall of Museum"	"is"	"a Player Development division dedicated to providing opportunities for top golfers to reach their potential in competitive golf"	94	query204_Golf_Canada\P\94-17
+"wide Agronomy Program maintaining the Rules of Golf"	"is"	"a Player Development division dedicated to providing opportunities for top golfers to reach their potential in competitive golf"	94	query204_Golf_Canada\P\94-18
+"a Player Development division"	"be dedicated"	"to providing opportunities for top golfers to reach their potential in competitive golf"	94	query204_Golf_Canada\P\94-19
+"providing opportunities for top golfers"	"be reach"	"their potential in competitive golf"	94	query204_Golf_Canada\P\94-20
+"providing opportunities for top golfers"	"be reach"	"their potential in competitive golf"	94	query204_Golf_Canada\P\94-21
+"the RCGA Foundation"	"raises"	"funds for Golf Programs at Canadian Universities"	94	query204_Golf_Canada\P\94-22
+"the Golf Programs"	"operates"	"the CN Future Links program"	94	query204_Golf_Canada\P\94-23
+"the Golf Programs"	"operates"	"the CN Future Links Handicapping"	94	query204_Golf_Canada\P\94-24
+"the Golf Programs"	"operates"	"the CN Future Links Course Rating"	94	query204_Golf_Canada\P\94-25
+"the Golf Services Division"	"operates"	"the CN Future Links program"	94	query204_Golf_Canada\P\94-26
+"the Golf Services Division"	"operates"	"the CN Future Links Handicapping"	94	query204_Golf_Canada\P\94-27
+"the Golf Services Division"	"operates"	"the CN Future Links Course Rating"	94	query204_Golf_Canada\P\94-28
+On April 22 , 2010 , the Royal Canadian Golf Association announced its name change to Golf Canada . 	95	query204_Golf_Canada\S\95
+"the Royal Canadian Golf Association"	"announced"	"its name change to Golf Canada"	95	query204_Golf_Canada\P\95-0
+"the Royal Canadian Golf Association"	"announced"	"its name change to Golf Canada"	95	query204_Golf_Canada\P\95-1
+Golf Canada will retain its predecessor 's role in maintaining and growing the sport in Canada , along with launching a new membership program to help fund its amateur and junior programs while providing travel and insurance benefits to golfers who sign up . 	96	query204_Golf_Canada\S\96
+"Golf Canada"	"will retain"	"its predecessor 's role in maintaining the sport in Canada along with launching a new membership program to help fund its amateur programs while providing travel benefits to golfers"	96	query204_Golf_Canada\P\96-0
+"Golf Canada"	"will retain"	"its predecessor 's role in maintaining the sport in Canada along with launching a new membership program to help fund its junior programs while providing travel and insurance benefits to golfers"	96	query204_Golf_Canada\P\96-1
+"Golf Canada"	"will retain"	"its predecessor 's role in maintaining the sport in Canada along with launching a new membership program to help fund its amateur programs while providing insurance benefits to golfers"	96	query204_Golf_Canada\P\96-2
+"Golf Canada"	"will retain"	"its predecessor 's role in growing the sport in Canada along with launching a new membership program to help fund its amateur programs while providing travel benefits to golfers"	96	query204_Golf_Canada\P\96-3
+"Golf Canada"	"will retain"	"its predecessor 's role in growing the sport in Canada along with launching a new membership program to help fund its junior programs while providing travel and insurance benefits to golfers"	96	query204_Golf_Canada\P\96-4
+"Golf Canada"	"will retain"	"its predecessor 's role in growing the sport in Canada along with launching a new membership program to help fund its amateur programs while providing insurance benefits to golfers"	96	query204_Golf_Canada\P\96-5
+"Golf Canada"	"will retain"	"its predecessor 's role in maintaining the sport in Canada"	96	query204_Golf_Canada\P\96-6
+"Golf Canada"	"will retain"	"its predecessor 's role in growing the sport in Canada"	96	query204_Golf_Canada\P\96-7
+"Golf Canada"	"will retain"	"its predecessor 's role in growing the sport in Canada"	96	query204_Golf_Canada\P\96-8
+"its predecessor"	"has"	"role in maintaining the sport in Canada"	96	query204_Golf_Canada\P\96-9
+"its predecessor"	"has"	"role in growing the sport in Canada"	96	query204_Golf_Canada\P\96-10
+"a new membership program"	"be help"	"fund its amateur programs while providing travel benefits to golfers"	96	query204_Golf_Canada\P\96-11
+"a new membership program"	"be help"	"fund its junior programs while providing travel and insurance benefits to golfers"	96	query204_Golf_Canada\P\96-12
+"a new membership program"	"be help"	"fund its amateur programs while providing insurance benefits to golfers"	96	query204_Golf_Canada\P\96-13
+"a new membership program"	"be help"	"fund its amateur programs while providing insurance benefits to golfers"	96	query204_Golf_Canada\P\96-14
+"a new membership program"	"be help"	"fund its amateur programs while providing insurance benefits to golfers"	96	query204_Golf_Canada\P\96-15
+http ://www.ts 	97	query204_Golf_Canada\S\97
+n.ca/golf/story/ 	98	query204_Golf_Canada\S\98
+?id=319019 Category :Golf associations Category :Golf in Canada Category :Amateur golf Category :1895 establishments in Canada Canadian Open Canadian Women 's Open Canadian Amateur Championship Canadian Women 's Amateur Championship Canadian Junior Championship Canadian Junior Girl 's Championship Canadian Senior Championship Canadian Senior Women 's Championship Canadian Mid - Amateur Championship Canadian Senior Match Play Championship Future Links Series CN Canadian Women ’s Tour List of golf courses in Canada http ://www.golfcanada.ca 	99	query204_Golf_Canada\S\99
+"Open Canadian Amateur Championship Canadian Women 's"	"is"	"Amateur Championship Canadian Junior Championship Canadian Junior Girl 's Championship Canadian Senior Championship Canadian Senior Women 's Championship Canadian"	99	query204_Golf_Canada\P\99-0
+"Amateur Championship Canadian Junior Championship Canadian Junior Girl"	"has"	"Championship Canadian Senior Championship Canadian Senior Women 's Championship Canadian"	99	query204_Golf_Canada\P\99-1
+"Amateur Championship Canadian Junior Championship Canadian Junior Girl"	"has"	"Championship Canadian Senior Championship Canadian Senior Women 's Championship Canadian"	99	query204_Golf_Canada\P\99-2
+"Amateur Championship Canadian Senior Match Play Championship Future Links Series CN Canadian Women"	"has"	"Tour List of golf courses in Canada http www.golfcanada.ca"	99	query204_Golf_Canada\P\99-3
+/ List of civilian organizations with the prefix " Royal " prepared by the 	100	query204_Golf_Canada\S\100
+/ List of civilian organizations with the prefix " Royal " prepared by the 	100	query204_Golf_Canada\S\100

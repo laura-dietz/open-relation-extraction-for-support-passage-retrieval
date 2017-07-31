@@ -1,0 +1,521 @@
+0	yes thumbWind _ from the '' Tacuinum Sanitatis '' A breeze lifts a veilthumbright Wind is the flow of gas on a large scale . 
+0	"thumbWind _"	"A breeze lifts"	"a veilthumbright Wind"	
+0	"A breeze"	"thumbWind _ lifts"	"a veilthumbright Wind"	
+0	"0 yes thumbWind _ from the Tacuinum Sanitatis A breeze lifts a veilthumbright Wind"	"is the flow"	"of gas"	
+0	"0 yes thumbWind _ from the Tacuinum Sanitatis A breeze lifts a veilthumbright Wind"	"is the flow"	"on a large scale"	
+0	"0 yes thumbWind _ from the Tacuinum Sanitatis A breeze lifts a veilthumbright Wind"	"is"	"the flow"	
+1	On Earth , wind consists of the bulk movement of air . 
+1	"wind"	"consists"	"of the bulk movement of air"	
+2	In outer space , solar wind is the movement of gases or charged particles from the sun through space , while planetary wind is the outgassing of light chemical element from a planet 's atmosphere into space . 
+2	"solar wind"	"is 2 In outer space the movement"	"of gases from the sun"	
+2	"solar wind"	"is 2 In outer space the movement"	"of charged particles from the sun"	
+2	"solar wind"	"is 2 In outer space the movement"	"through space"	
+2	"solar wind"	"is 2 In outer space the movement"	"while planetary wind is the outgassing of light chemical element from a planet 's atmosphere into space"	
+2	"solar wind"	"is"	"2 In outer space the movement"	
+2	"planetary wind"	"is the outgassing"	"of light chemical element"	
+2	"planetary wind"	"is the outgassing"	"from a planet 's atmosphere"	
+2	"planetary wind"	"is the outgassing"	"into space"	
+2	"planetary wind"	"is"	"the outgassing"	
+2	"a planet"	"has"	"atmosphere"	
+3	Winds are commonly classified by their spatial scale , their speed , the types of forces that cause them , the regions in which they occur , and their effect . 
+3	"3 Winds"	"are classified"	"their speed commonly"	
+3	"3 Winds"	"are classified"	"their their effect commonly"	
+3	"3 Winds"	"are classified"	"by their spatial scale their speed"	
+3	"3 Winds"	"are classified"	"by their spatial scale their their effect"	
+3	"3 Winds"	"are classified"	"their speed"	
+3	"3 Winds"	"are classified"	"their their effect"	
+3	"their"	"has"	"spatial scale"	
+3	"their speed"	"is"	"the regions"	
+3	"their their effect"	"is"	"the regions"	
+3	"their"	"has"	"speed"	
+3	"their speed"	"is"	"the types of forces"	
+3	"their their effect"	"is"	"the types of forces"	
+3	"forces"	"cause"	"them"	
+3	"they"	"occur"	"the regions in which"	
+3	"they"	"occur"	"the regions"	
+3	"their"	"has"	"effect"	
+4	The strongest observed winds on a planet in our solar system occur on Neptune and Saturn . 
+4	"our"	"has"	"solar system"	
+4	"4 The strongest observed winds on a planet in our solar system"	"occur"	"on Neptune"	
+4	"4 The strongest observed winds on a planet in our solar system"	"occur"	"on Saturn"	
+5	In meteorology , winds are often referred to according to their strength , and the direction from which the wind is blowing . 
+5	"winds"	"are referred"	"to according to their strength 5 In meteorology"	
+5	"winds"	"are referred"	"to according to their strength often"	
+5	"winds"	"are referred"	"to according to their strength"	
+5	"winds"	"are the direction"	"5 In meteorology"	
+5	"winds"	"are the direction"	"often"	
+5	"winds"	"are the direction"	"to according to their strength"	
+5	"winds"	"are the direction"	
+5	"their"	"has"	"strength"	
+5	"the wind"	"is blowing"	"the direction from which"	
+5	"the wind"	"is blowing"	"the direction"	
+6	Short bursts of high speed wind are termed gusts . 
+6	"6 Short bursts of high speed wind"	"are termed"	"gusts"	
+7	Strong winds of intermediate duration (around one minute ) are termed squall . 
+7	"7 Strong winds of intermediate duration around one minute"	"are termed"	"squall"	
+8	Long-duration winds have various names associated with their average strength , such as breeze , gale , storm , hurricane , and typhoon . 
+8	"8 Long-duration winds"	"have"	"various names associated with their average strength such as breeze"	
+8	"8 Long-duration winds"	"have"	"various names associated with their average strength such as gale"	
+8	"8 Long-duration winds"	"have"	"various names associated with their average strength such as storm"	
+8	"8 Long-duration winds"	"have"	"various names associated with their average strength such as hurricane"	
+8	"8 Long-duration winds"	"have"	"various names associated with their average strength such as typhoon"	
+8	"various names"	"be associated"	"with their average strength such as breeze"	
+8	"various names"	"be associated"	"with their average strength such as gale"	
+8	"various names"	"be associated"	"with their average strength such as storm"	
+8	"various names"	"be associated"	"with their average strength such as hurricane"	
+8	"various names"	"be associated"	"with their average strength such as typhoon"	
+8	"their"	"has"	"average strength such as breeze"	
+8	"their"	"has"	"average strength such as gale"	
+8	"their"	"has"	"average strength such as storm"	
+8	"their"	"has"	"average strength such as hurricane"	
+8	"their"	"has"	"average strength such as typhoon"	
+9	Wind occurs on a range of scales , from thunderstorm flows lasting tens of minutes , to local breezes generated by heating of land surfaces and lasting a few hours , to global winds resulting from the difference in absorption of solar energy between the climate zone on Earth . 
+9	"9 Wind"	"occurs"	"on a range of scales from thunderstorm"	
+9	"9 Wind"	"occurs"	"on a range of scales from thunderstorm"	
+9	"9 Wind"	"occurs"	"on a range of scales"	
+9	"9 Wind"	"occurs"	"on a range of scales"	
+9	"local breezes"	"be generated"	"by heating of land surfaces"	
+9	"global winds"	"be resulting"	"from the difference in absorption of solar energy between the climate zone on Earth"	
+10	The two main causes of large-scale atmospheric circulation are the differential heating between the equator and the poles , and the rotation of the planet ( Coriolis effect ) . 
+10	"10 The two main causes of large-scale atmospheric circulation"	"are the differential heating"	"between the equator and the poles"	
+10	"10 The two main causes of large-scale atmospheric circulation"	"are the differential the rotation of the planet"	"between the equator and the poles"	
+10	"10 The two main causes of large-scale atmospheric circulation"	"are"	"the differential heating"	
+10	"10 The two main causes of large-scale atmospheric circulation"	"are"	"the differential the rotation of the planet"	
+10	"the planet"	"is"	"Coriolis effect"	
+11	Within the tropics , thermal low circulations over terrain and high plateaus can drive monsoon circulations . 
+11	"thermal low circulations over terrain"	"can drive"	"monsoon circulations 11 Within the tropics"	
+11	"thermal low circulations over high plateaus"	"can drive"	"monsoon circulations 11 Within the tropics"	
+12	In coastal areas the sea breeze /land breeze cycle can define local winds ; in areas that have variable terrain , mountain and valley breezes can dominate local winds . 
+12	"12 In coastal areas the sea breeze land breeze cycle"	"can define"	"local winds in areas"	
+12	"12 In coastal areas the sea breeze land breeze cycle"	"can define"	"local winds"	
+12	"areas"	"have"	"variable terrain"	
+12	"mountain breezes"	"can dominate"	"local winds areas"	
+12	"valley breezes"	"can dominate"	"local winds areas"	
+13	In human civilization , wind has inspired mythology , influenced the events of history , expanded the range of transport and warfare , and provided a power source for mechanical work , electricity and recreation . 
+13	"wind"	"has inspired"	"mythology"	
+13	"wind"	"has expanded"	"mythology the range of transport"	
+13	"wind"	"has expanded"	"mythology the range of warfare"	
+13	"wind"	"has provided"	"mythology a power source for mechanical work"	
+13	"wind"	"has provided"	"mythology a power source for mechanical electricity"	
+13	"wind"	"has provided"	"mythology a power source for mechanical recreation"	
+13	"wind"	"has influenced"	"mythology the events of history"	
+14	Wind powers the voyages of sailing ship across Earth 's oceans . 
+14	"Earth"	"has"	"oceans"	
+15	Hot air balloon use the wind to take short trips , and powered flight uses it to increase lift and reduce fuel consumption . 
+15	"15 Hot air balloon"	"use"	"the wind to take short trips"	
+15	"15 Hot air balloon"	"use"	"the wind"	
+15	"15 Hot air balloon"	"be take"	"short trips"	
+15	"powered flight"	"uses"	"it to increase lift"	
+15	"powered flight"	"uses"	"it to reduce lift fuel consumption"	
+16	Areas of wind shear caused by various weather phenomena can lead to dangerous situations for aircraft . 
+16	"16 Areas of wind shear"	"be caused"	"by various weather phenomena"	
+16	"16 Areas of wind shear caused by various weather phenomena"	"can lead"	"to dangerous situations for aircraft"	
+17	When winds become strong , trees and man-made structures are damaged or destroyed . 
+17	"winds"	"become"	"strong When"	
+17	"winds"	"become"	"strong"	
+17	"trees"	"are damaged"	"17 When winds become strong"	
+17	"man-made structures"	"are damaged"	"17 When winds become strong"	
+17	"trees"	"are damaged"	"17"	
+17	"man-made structures"	"are damaged"	"17"	
+17	"trees"	"are destroyed"	"17 When winds become strong"	
+17	"man-made structures"	"are destroyed"	"17 When winds become strong"	
+17	"trees"	"are destroyed"	"17"	
+17	"man-made structures"	"are destroyed"	"17"	
+18	Winds can shape landforms , via a variety of aeolian processes such as the formation of fertile soils , such as loess , and by erosion . 
+18	"18 Winds"	"can shape"	"landforms via a variety of aeolian processes such as the formation of fertile soils such as loess"	
+18	"18 Winds"	"can shape"	"landforms"	
+18	"18 Winds"	"can by"	"landforms via a variety of aeolian processes such as the formation of fertile soils such as loess"	
+18	"18 Winds"	"can by"	"landforms erosion"	
+18	"18 Winds"	"can by"	"landforms"	
+19	Dust from large desert can be moved great distances from its source region by the prevailing winds ; winds that are accelerated by rough topography and associated with dust outbreaks have been assigned regional names in various parts of the world because of their significant effects on those regions . 
+19	"19 Dust from large desert"	"can be moved"	"great distances from its source region by the prevailing winds"	
+19	"19 Dust from large desert"	"can be moved"	"great distances from its source region"	
+19	"its"	"has"	"source region"	
+19	"winds"	"are accelerated"	"by rough topography"	
+19	"winds"	"are accelerated"	"by rough associated with dust outbreaks"	
+19	"winds"	"have been assigned"	"regional names in various parts of the world"	
+19	"winds"	"have been assigned"	"regional names because of their significant effects on those regions"	
+19	"winds"	"have been assigned"	"regional names"	
+19	"their"	"has"	"significant effects on those regions"	
+20	Wind affects the spread of wildfire . 
+20	"20 Wind"	"affects"	"the spread of wildfire"	
+21	Winds disperse seeds from various plants , enabling the survival and dispersal of those plant species , as well as flying insect populations . 
+21	"21 Winds"	"disperse"	"seeds from various plants"	
+21	"21 Winds"	"disperse"	"seeds from various plants"	
+21	"21 Winds"	"disperse"	"seeds from various plants"	
+22	When combined with cold temperatures , wind has a negative impact on livestock . 
+22	"22"	"is"	"wind"	
+22	"22"	"has"	"a negative impact on livestock"	
+23	Wind affects animals ' food stores , as well as their hunting and defensive strategies . 
+23	"23 Wind"	"affects"	"animals ' food stores"	
+23	"23 Wind"	"their hunting"	"animals ' food stores"	
+23	"23 Wind"	"their defensive strategies"	"animals ' food stores"	
+23	"animals"	"has"	"food stores"	
+23	"their"	"has"	"hunting"	
+24	thumbrightsurface weather analysisSurface analysisofGreat Blizzard of 1888 . 
+25	Areas with greater isobaric packing indicate higher winds . 
+25	"25 Areas with greater isobaric packing"	"indicate"	"higher winds"	
+26	Wind is caused by differences in pressure . 
+26	"26 Wind"	"is caused"	"by differences in pressure"	
+27	When a difference in pressure exists , the air is accelerated from higher to lower pressure . 
+27	"a difference in pressure"	"exists"	"27 When"	
+27	"a difference in pressure"	"exists"	"27"	
+27	"the air"	"is accelerated"	"to lower pressure 27"	
+27	"the air"	"is accelerated"	"from higher to lower pressure"	
+27	"the air"	"is accelerated"	"to lower pressure"	
+28	On a rotating planet , the air will be deflected by the Coriolis effect , except exactly on the equator . 
+28	"28 On a rotating planet"	"be deflected"	"by the Coriolis effect except exactly on the equator"	
+28	"28 On a rotating planet"	"be deflected"	"by the Coriolis effect"	
+28	"the air"	"will be deflected"	"by the Coriolis effect except exactly on the equator"	
+28	"the air"	"will be deflected"	"by the Coriolis effect"	
+29	Globally , the two major driving factors of large-scale winds ( the atmospheric circulation ) are the differential heating between the equator and the poles ( difference in absorption of solar energy leading to buoyancy force ) and the rotation of the planet . 
+29	"the two major driving factors of large-scale winds"	"is"	"the atmospheric circulation"	
+29	"the two major driving factors of large-scale winds"	"are 29 the differential heating difference in absorption of solar energy leading to buoyancy force"	"Globally"	
+29	"the two major driving factors of large-scale winds"	"are 29 the differential difference in absorption of solar energy leading to buoyancy force the rotation of the planet"	"Globally"	
+29	"the two major driving factors of large-scale winds"	"are 29 the differential heating difference in absorption of solar energy leading to buoyancy force"	"between the equator and the poles"	
+29	"the two major driving factors of large-scale winds"	"are 29 the differential difference in absorption of solar energy leading to buoyancy force the rotation of the planet"	"between the equator and the poles"	
+29	"the two major driving factors of large-scale winds"	"are"	"29 the differential heating difference in absorption of solar energy leading to buoyancy force"	
+29	"the two major driving factors of large-scale winds"	"are"	"29 the differential difference in absorption of solar energy leading to buoyancy force the rotation of the planet"	
+29	"solar energy"	"be leading"	"to buoyancy force"	
+30	Outside the tropics and aloft from frictional effects of the surface , the large-scale winds tend to approach geostrophic balance . 
+30	"the large-scale winds"	"tend"	"to approach geostrophic balance 30 Outside the tropics"	
+30	"the large-scale winds"	"tend"	"to approach geostrophic balance Outside the tropics aloft from frictional effects of the surface"	
+31	Near the Earth 's surface , friction causes the wind to be slower than it would be otherwise . 
+31	"the Earth"	"has"	"surface"	
+31	"friction"	"causes"	"the wind to be slower than it would be otherwise 31 Near the Earth 's surface"	
+31	"friction"	"causes"	"the wind to be slower than it would be otherwise"	
+31	"it"	"would be"	"otherwise"	
+32	Surface friction also causes winds to blow more inward into low pressure areas . 
+32	"32 Surface friction"	"causes"	"winds to blow more inward into low pressure areas also"	
+32	"32 Surface friction"	"causes"	"winds to blow more inward into low pressure areas"	
+32	"winds"	"be blow"	"more inward into low pressure areas"	
+33	JetStream Origin of Wind National Weather Service Southern Region Headquarters 2008 2009-02-16 http ://www .srh 
+34	.noaa.gov/jetstream//synoptic/wind 
+35	.htm 
+36	JetStream Origin of Wind National Weather Service Southern Region Headquarters 2008 2009-02-16 http ://www .srh 
+37	.noaa.gov/jetstream//synoptic/wind 
+38	.htm 
+39	Winds defined by an equilibrium of physical forces are used in the decomposition and analysis of wind profiles . 
+39	"39 Winds"	"be defined"	"by an equilibrium of physical forces"	
+39	"39 Winds defined by an equilibrium of physical forces"	"are used"	"in the decomposition of wind profiles"	
+39	"39 Winds defined by an equilibrium of physical forces"	"are used"	"in the analysis of wind profiles"	
+40	They are useful for simplifying the atmospheric equations of motion and for making qualitative arguments about the horizontal and vertical distribution of winds . 
+40	"They"	"are"	"useful for simplifying the atmospheric equations of motion 40"	
+40	"They"	"are"	"useful for the atmospheric equations of motion for making qualitative arguments about the horizontal distribution of winds 40"	
+40	"They"	"are"	"useful for the atmospheric equations of motion for making qualitative arguments about the vertical distribution of winds 40"	
+40	"They"	"are"	"useful 40"	
+41	The geostrophic wind component is the result of the balance between Coriolis force and pressure gradient force . 
+41	"41 The geostrophic wind component"	"is the result"	"of the balance between Coriolis force and pressure gradient force"	
+41	"41 The geostrophic wind component"	"is"	"the result"	
+42	It flows parallel to isobars and approximates the flow above the atmospheric boundary layer in the midlatitudes . 
+42	"It"	"flows"	"parallel to isobars 42"	
+42	"It"	"approximates"	"parallel to isobars the flow above the atmospheric boundary layer in the midlatitudes 42"	
+43	Glossary of Meteorology Geostrophic wind American Meteorological Society 2009 2009-03-18 http ://amsglossary .allenpress.com/glossary/search 
+44	?id=geostrophic-wind1 Glossary of Meteorology Geostrophic wind American Meteorological Society 2009 2009-03-18 http ://amsglossary .allenpress.com/glossary/search 
+45	?id=geostrophic-wind1 The thermal wind is the difference in the geostrophic wind between two levels in the atmosphere . 
+45	"id = geostrophic-wind1 The thermal wind"	"is the difference"	"in the geostrophic wind"	
+45	"id = geostrophic-wind1 The thermal wind"	"is the difference"	"between two levels in the atmosphere"	
+45	"id = geostrophic-wind1 The thermal wind"	"is"	"the difference"	
+45	"id"	"be ="	"geostrophic-wind1 The thermal wind"	
+46	It exists only in an atmosphere with horizontal temperature gradient . 
+46	"46 It"	"exists"	"only in an atmosphere with horizontal temperature gradient"	
+47	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+48	?p=1&query=thermal+wind&submit=Search Thermal wind American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+49	?p=1&query=thermal+wind&submit=Search Thermal wind American Meteorological Society 2009-03-18 The ageostrophic wind component is the difference between actual and geostrophic wind , which is responsible for air "filling up " cyclones over time . 
+49	"actual wind"	"is responsible"	"for air filling up cyclones over time"	
+49	"geostrophic wind"	"is responsible"	"for air filling up cyclones over time"	
+49	"actual wind"	"is"	"responsible"	
+49	"geostrophic wind"	"is"	"responsible"	
+49	"air"	"filling up"	"cyclones over time"	
+49	"air"	"filling up"	"cyclones"	
+49	"p"	"="	"1 & query = thermal"	
+49	"p"	"="	"1 & query = wind"	
+49	"p"	"="	"1 & query = thermal"	
+49	"p"	"="	"1 & query = wind"	
+49	"p"	"submit"	"1 & query = thermal"	
+49	"p"	"submit"	"1 & query = wind"	
+49	"p"	"submit"	"1 & query = thermal"	
+49	"p"	"submit"	"1 & query = wind"	
+50	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+51	?p=1&query=geostrophic+wind&submit=Search Ageostrophic wind American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+52	?p=1&query=geostrophic+wind&submit=Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind is similar to the geostrophic wind but also includes centrifugal force ( or centripetal acceleration ) . 
+52	"p"	"="	"1 & query = geostrophic"	
+52	"p"	"="	"1 & query = wind"	
+52	"p"	"submit"	"1 & query = geostrophic"	
+52	"p"	"submit"	"1 & query = wind"	
+52	"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is similar"	"to the geostrophic wind"	
+52	"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is similar"	"to the geostrophic wind"	
+52	"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"similar"	
+52	"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"similar"	
+52	"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes to the geostrophic wind centrifugal force centripetal acceleration"	
+52	"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes to the geostrophic wind centrifugal force centripetal acceleration"	
+52	"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes also centrifugal force centripetal acceleration"	
+52	"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes also centrifugal force centripetal acceleration"	
+52	"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes centrifugal force centripetal acceleration"	
+52	"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes centrifugal force centripetal acceleration"	
+53	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+54	?id=gradient-wind1 Gradient wind American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+55	?id=gradient-wind1 Gradient wind American Meteorological Society 2009-03-18 rightthumbA windmill style of anemometer rightthumbAn occluded mesocyclone tornado ( Oklahoma_ May 1999 ) Wind direction is reported by the direction from which it originates . 
+55	"it"	"originates"	"the direction from which"	
+55	"it"	"originates"	"the direction"	
+55	"id = gradient-wind1 Gradient wind American Meteorological Society 2009-03-18 rightthumbA windmill style of anemometer rightthumbAn"	"occluded"	"mesocyclone tornado"	
+55	"Oklahoma _ May 1999 Wind direction"	"is reported"	"by the direction mesocyclone tornado"	
+55	"Oklahoma _ May 1999 Wind direction"	"is reported"	"mesocyclone tornado"	
+56	For example , a northerly wind blows from the north to the south . 
+57	JetStream 2008 http ://www .srh 
+58	.weather.gov/srh/jetstream/synoptic/wxmaps 
+59	.htm 
+60	How to read weather maps National Weather Service 2009-05-16 JetStream 2008 http ://www .srh 
+61	.weather.gov/srh/jetstream/synoptic/wxmaps 
+62	.htm 
+63	How to read weather maps National Weather Service 2009-05-16 Weather vane pivot to indicate the direction of the wind . 
+64	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary//search 
+65	?id=wind-vane1 Wind vane American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary//search 
+66	?id=wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports , windsock are primarily used to indicate wind direction , but can also be used to estimate wind speed by its angle of hang . 
+66	"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are used"	"to indicate wind direction primarily"	
+66	"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are used"	"to indicate wind direction"	
+66	"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed by its angle of hang primarily"	
+66	"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed primarily"	
+66	"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed by its angle of hang also"	
+66	"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed also"	
+66	"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed by its angle of hang"	
+66	"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed"	
+66	"its"	"has"	"angle of hang"	
+67	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+68	?p=1&query=wind+sock&submit=Search Wind sock American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+69	?p=1&query=wind+sock&submit=Search Wind sock American Meteorological Society 2009-03-17 Wind speed is measured by anemometer , most commonly using rotating cups or propellers . 
+69	"p"	"="	
+69	"p"	"="	
+69	"p"	"="	
+69	"wind & submit = Search Wind sock American Meteorological Society 2009-03-17 Wind speed"	"is measured"	"by anemometer"	
+69	"sock = Search Wind sock American Meteorological Society 2009-03-17 Wind speed"	"is measured"	"by anemometer"	
+69	"most"	"be using"	"commonly rotating cups"	
+69	"most"	"be using"	"commonly rotating propellers"	
+70	When a high measurement frequency is needed ( such as in research applications ) , wind can be measured by the propagation speed of ultrasound signals or by the effect of ventilation on the resistance of a heated wire . 
+70	"a high measurement frequency"	"is needed"	"70 When"	
+70	"a high measurement frequency"	"is needed"	"as such in research applications 70"	
+70	"a high measurement frequency"	"is needed"	"70"	
+70	"wind"	"can be measured"	"by the propagation speed of ultrasound signals"	
+70	"wind"	"can be measured"	"the propagation speed of ultrasound signals by the effect of ventilation on the resistance of a heated wire"	
+71	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+72	?p=1&query=anemometer&submit=Search Anemometer American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+73	?p=1&query=anemometer&submit=Search Anemometer American Meteorological Society 2009-03-17 Another type of anemometer uses pitot tube that take advantage of the pressure differential between an inner tube and an outer tube that is exposed to the wind to determine the dynamic pressure , which is then used to compute the wind speed . 
+73	"p"	"="	"1 & query = anemometer & submit = Search Anemometer American Meteorological Society 2009-03-17 Another type of anemometer uses pitot tube"	
+73	"Anemometer American Meteorological Society"	"2009-03-17 Another type of anemometer uses"	"pitot tube"	
+73	"2009-03-17 Another type of anemometer"	"Anemometer American Meteorological Society uses"	"pitot tube"	
+73	"pitot tube"	"take"	"advantage of the pressure differential between an inner tube and an outer tube to determine the dynamic pressure"	
+73	"an outer tube"	"be determine"	"the dynamic pressure"	
+73	"an outer tube to determine the dynamic pressure"	"is exposed"	"to the wind"	
+73	"the dynamic pressure"	"is used"	"to compute the wind speed"	
+74	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+75	?p=1&query=pitot+tube&submit=Search Pitot tube American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+76	?p=1&query=pitot+tube&submit=Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds are reported globally at a us 10 m ft height and are averaged over a 10&nbsp;minute time frame . 
+76	"p"	"="	"1 & query = pitot & submit = Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds"	
+76	"p"	"="	"1 & query = tube & submit = Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds"	
+76	"p"	"are averaged"	"over a 10 minute time frame 1 & query = pitot & submit = Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds"	
+76	"p"	"are averaged"	"over a 10 minute time frame 1 & query = tube & submit = Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds"	
+76	"p"	"are averaged"	"over a 10 minute time frame"	
+77	The United States reports winds over a 1&nbsp;minute average for tropical cyclones , Tropical Cyclone Weather Services Program Tropical cyclone definitions http ://www.weather.gov/directives/sym/pd01006004curr.pdf 
+77	"77 The United States"	"reports"	"winds over a 1 minute average for tropical cyclones www.weather.gov/directives/sym/pd01006004curr.pdf"	
+77	"Tropical Cyclone Weather Services Program Tropical cyclone definitions"	"http"	"winds over a 1 minute average for tropical cyclones www.weather.gov/directives/sym/pd01006004curr.pdf"	
+78	PDF 2006-06-01 2006-11-30 National Weather Service Tropical Cyclone Weather Services Program Tropical cyclone definitions http ://www.weather.gov/directives/sym/pd01006004curr.pdf 
+78	"78 PDF 2006-06-01 2006-11-30 National Weather Service Tropical Cyclone Weather Services Program Tropical cyclone definitions"	"http"	
+79	PDF 2006-06-01 2006-11-30 National Weather Service and a 2&nbsp;minute average within weather observations . 
+80	Office of the Federal Coordinator for Meteorology . 
+81	Retrieved on 2008-04-06 . 
+81	"81"	"be Retrieved"	"on 2008-04-06"	
+82	India typically reports winds over a 3&nbsp;minute average . 
+82	"82 India"	"reports"	"winds over a 3 minute average typically"	
+82	"82 India"	"reports"	"winds over a 3 minute average"	
+83	Sharad K. 
+84	Jain , Pushpendra K. 
+84	"84 Jain"	"is"	"Pushpendra K."	
+85	Agarwal , Vijay P. 
+85	"85 Agarwal"	"is"	"Vijay P."	
+86	Singh 2007 http ://books .google 
+87	.com/ 
+88	?id=ZKs1gBhJSWIC&pg=RA1-PA187 Hydrology and Water Resources of India Springer 187 2009-04-22 9781402051791 Sharad K. 
+89	Jain , Pushpendra K. 
+89	"89 Jain"	"is"	"Pushpendra K."	
+90	Agarwal , Vijay P. 
+90	"90 Agarwal"	"is"	"Vijay P."	
+91	Singh 2007 http ://books .google 
+92	.com/ 
+93	?id=ZKs1gBhJSWIC&pg=RA1-PA187 Hydrology and Water Resources of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important , as the value of a one-minute sustained wind is typically 14 % greater than a ten-minute sustained wind . 
+93	"id = ZKs1gBhJSWIC & pg = RA1-PA187 Hydrology of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is greater"	"typically 14 %"	
+93	"id = ZKs1gBhJSWIC & pg = RA1-PA187 Water Resources of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is greater"	"typically 14 %"	
+93	"id = ZKs1gBhJSWIC & pg = RA1-PA187 Hydrology of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is greater"	"than a ten-minute sustained wind"	
+93	"id = ZKs1gBhJSWIC & pg = RA1-PA187 Water Resources of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is greater"	"than a ten-minute sustained wind"	
+93	"id = ZKs1gBhJSWIC & pg = RA1-PA187 Hydrology of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is"	"greater"	
+93	"id = ZKs1gBhJSWIC & pg = RA1-PA187 Water Resources of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is"	"greater"	
+93	"187 2009-04-22 9781402051791"	"be Knowing"	"the wind sampling average"	
+93	"Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average"	"is"	"India important"	
+94	Jan-Hwa Chu 1999 http ://www.nrlmry 
+95	.navy 
+96	.mil/~chu/chap6/se200.htm 
+97	Section 2. 
+98	Intensity Observation and Forecast Errors United States Navy 2008-07-04 Jan-Hwa Chu 1999 http ://www.nrlmry 
+99	.navy 
+100	.mil/~chu/chap6/se200.htm 
+101	Section 2. 
+102	Intensity Observation and Forecast Errors United States Navy 2008-07-04 A short burst of high speed wind is termed a wind gust , one technical definition of a wind gust is : the maxima that exceed the lowest wind speed measured during a ten minute time interval by us 10 kn km/h . 
+102	"102 Intensity Observation"	"is termed"	"a wind gust is the maxima"	
+102	"102 Intensity Forecast Errors United States Navy 2008-07-04 A short burst of high speed wind"	"is termed"	"a wind gust is the maxima"	
+102	"a wind gust"	"is"	"one technical definition of a wind gust"	
+102	"a wind gust"	"is"	
+102	"the maxima"	"exceed"	"the lowest wind speed measured during a ten minute time interval by us 10 kn km/h"	
+102	"the lowest wind speed"	"be measured"	"during a ten minute time interval by us 10 kn km/h"	
+102	"a ten minute time"	"be interval"	"by us 10 kn km/h"	
+103	A squall is a doubling of the wind speed above a certain threshold , which lasts for a minute or more . 
+103	"103 A squall"	"is a doubling"	"of the wind speed above a certain threshold"	
+103	"103 A squall"	"is"	"a doubling"	
+103	"a certain threshold"	"lasts"	"for a minute"	
+103	"a certain threshold"	"lasts"	"for a more"	
+104	To determine winds aloft , rawinsondes determine wind speed by GPS , radio navigation , or radar tracking of the probe . 
+104	"104"	"be determine"	"winds aloft"	
+104	"rawinsondes"	"determine"	"104 To determine winds aloft wind speed by GPS"	
+104	"rawinsondes"	"determine"	"104 To determine winds aloft wind speed by radio navigation"	
+104	"rawinsondes"	"determine"	"104 To determine winds aloft wind speed by radar tracking of the probe"	
+105	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+106	?p=1&query=rawinsonde&submit=Search Rawinsonde American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+107	?p=1&query=rawinsonde&submit=Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively , movement of the parent weather balloon position can be tracked from the ground visually using theodolite . 
+107	"p"	"="	"1 & query = rawinsonde & submit = Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively"	
+107	"movement of the parent weather balloon position"	"can be tracked"	"from the ground using theodolite visually 1 & query = rawinsonde & submit = Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively"	
+107	"movement of the parent weather balloon position"	"can be tracked"	"from the ground using theodolite 1 & query = rawinsonde & submit = Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively"	
+107	"movement of the parent weather balloon position"	"can be tracked"	"using theodolite visually 1 & query = rawinsonde & submit = Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively"	
+107	"movement of the parent weather balloon position"	"can be tracked"	"using theodolite 1 & query = rawinsonde & submit = Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively"	
+108	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+109	?id=pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+110	?id=pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind include SODAR , Doppler LIDAR and RADAR , which can measure the Doppler shift of electromagnetic radiation scattered or reflected off suspended aerosol or molecule , and radiometer and radars can be used to measure the surface roughness of the ocean from space or airplanes . 
+110	"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"SODAR can be used to measure the surface roughness of the ocean from space"	
+110	"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"Doppler LIDAR can be used to measure the surface roughness of the ocean from space or airplanes"	
+110	"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"RADAR can be used to measure the surface roughness of the ocean from space or airplanes"	
+110	"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"radiometer can be used to measure the surface roughness of the ocean from space or airplanes"	
+110	"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"radars can be used to measure the surface roughness of the ocean from space or airplanes"	
+110	"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"SODAR can be used to measure the surface roughness of the ocean from airplanes"	
+110	"SODAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended aerosol"	
+110	"SODAR"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended aerosol"	
+110	"SODAR"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended molecule"	
+110	"SODAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	
+110	"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended aerosol"	
+110	"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended aerosol"	
+110	"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended molecule"	
+110	"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	
+110	"RADAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended aerosol"	
+110	"RADAR"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended aerosol"	
+110	"RADAR"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended molecule"	
+110	"RADAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	
+110	"radiometer"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended aerosol"	
+110	"radiometer"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended aerosol"	
+110	"radiometer"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended molecule"	
+110	"radiometer"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	
+110	"radars"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended aerosol"	
+110	"radars"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended aerosol"	
+110	"radars"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended molecule"	
+110	"radars"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	
+110	"electromagnetic radiation reflected off suspended aerosol"	"be scattered"	
+110	"electromagnetic radiation reflected off suspended molecule"	"be scattered"	
+110	"electromagnetic radiation reflected off suspended aerosol"	"be scattered"	
+110	"electromagnetic radiation reflected off suspended molecule"	"be scattered"	
+110	"SODAR"	"can be used"	"to measure the surface roughness of the ocean from space"	
+110	"SODAR"	"can be used"	"to measure the surface roughness of the ocean from airplanes"	
+110	"SODAR"	"can be used"	"to measure the surface roughness of the ocean"	
+110	"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean from space"	
+110	"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean from airplanes"	
+110	"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	
+110	"RADAR"	"can be used"	"to measure the surface roughness of the ocean from space"	
+110	"RADAR"	"can be used"	"to measure the surface roughness of the ocean from airplanes"	
+110	"RADAR"	"can be used"	"to measure the surface roughness of the ocean"	
+110	"radiometer"	"can be used"	"to measure the surface roughness of the ocean from space"	
+110	"radiometer"	"can be used"	"to measure the surface roughness of the ocean from airplanes"	
+110	"radiometer"	"can be used"	"to measure the surface roughness of the ocean"	
+110	"radars"	"can be used"	"to measure the surface roughness of the ocean from space"	
+110	"radars"	"can be used"	"to measure the surface roughness of the ocean from airplanes"	
+110	"radars"	"can be used"	"to measure the surface roughness of the ocean"	
+111	Ocean roughness can be used to estimate wind velocity close to the sea surface over oceans . 
+111	"111 Ocean roughness"	"can be used"	"to estimate wind velocity close to the sea surface over oceans"	
+112	Geostationary satellite imagery can be used to estimate the winds throughout the atmosphere based upon how far clouds move from one image to the next . 
+112	"112 Geostationary satellite imagery"	"can be used"	"to estimate the winds throughout the atmosphere"	
+112	"clouds"	"move"	"from one image how far"	
+112	"clouds"	"move"	"from one image to the next"	
+112	"clouds"	"move"	"from one image"	
+113	Wind Engineering describes the study of the effects of the wind on the built environment , including buildings , bridges and other man-made objects . 
+113	"113 Wind Engineering"	"describes"	"the study of the effects of the wind on the built environment including buildings"	
+113	"113 Wind Engineering"	"describes"	"the study of the effects of the wind on the built environment including bridges"	
+113	"113 Wind Engineering"	"describes"	"the study of the effects of the wind on the built environment including other man-made objects"	
+114	Tropical cyclone scales Surface weather analysis Historically , the Beaufort wind force scale provides an empirical description of wind speed based on observed sea conditions . 
+114	"Historically"	"is"	"the Beaufort wind force scale"	
+114	"Historically"	"provides"	"an empirical description of wind speed based on observed sea conditions Surface weather analysis"	
+114	"an empirical description of wind speed"	"be based"	"on observed sea conditions"	
+115	Originally it was a 13-level scale , but during the 1940s , the scale was expanded to 17&nbsp;levels . 
+115	"it"	"was 115 a 13-level scale"	"Originally"	
+115	"it"	"was 115 a 13-level during the 1940s"	"Originally"	
+115	"it"	"was"	"115 a 13-level scale"	
+115	"it"	"was"	"115 a 13-level during the 1940s"	
+115	"the scale"	"was expanded"	"to 17 levels 115 a 13-level scale"	
+115	"the scale"	"was expanded"	"to 17 levels 115 a 13-level during the 1940s"	
+115	"the scale"	"was expanded"	"115 a 13-level scale"	
+115	"the scale"	"was expanded"	"115 a 13-level during the 1940s"	
+116	Walter J. 
+117	Saucier 2003 http ://books .google 
+118	.com/ 
+119	?id=CM99-uKpR00C&pg=PA407 Principles of Meteorological Analysis Courier Dover Publications 9780486495415 2009-01-09 Walter J. 
+120	Saucier 2003 http ://books .google 
+121	.com/ 
+122	?id=CM99-uKpR00C&pg=PA407 Principles of Meteorological Analysis Courier Dover Publications 9780486495415 2009-01-09 There are general terms that differentiate winds of different average speeds such as a breeze , a gale , a storm , tornado , or a hurricane . 
+122	"general terms"	"There are"	"id = CM99-uKpR00C & pg = PA407 Principles of Meteorological Analysis Courier Dover Publications 9780486495415 2009-01-09"	
+122	"general terms"	"differentiate"	"winds of different average speeds such as a breeze"	
+122	"general terms"	"differentiate"	"winds of different average speeds such as a a hurricane"	
+122	"a breeze"	"is"	"a storm"	
+122	"a a hurricane"	"is"	"a storm"	
+122	"a breeze"	"is"	"tornado"	
+122	"a a hurricane"	"is"	"tornado"	
+122	"a breeze"	"is"	"a gale"	
+122	"a a hurricane"	"is"	"a gale"	
+123	Within the Beaufort scale , gale-force winds lie between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as moderate , fresh , strong , and whole used to differentiate the wind 's strength within the gale category . 
+123	"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h 123 Within the Beaufort scale"	
+123	"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as moderate"	
+123	"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as fresh"	
+123	"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as strong"	
+123	"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as whole used to differentiate the wind 's strength within the gale category"	
+123	"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h"	
+123	"the wind"	"has"	"strength within the gale category"	
+124	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/browse 
+125	?s=G&p=1 G American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/browse 
+126	?s=G&p=1 G American Meteorological Society 2009-03-18 A storm has winds of us 56 kn km/h to us 63 kn km/h . 
+126	"G & p"	"="	"1 G American Meteorological Society 2009-03-18 A storm has winds of us 56 kn km/h to us 63 kn km/h"	
+126	"1 G American Meteorological Society 2009-03-18 A storm"	"has"	"winds of us 56 kn km/h to us 63 kn km/h"	
+127	Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+128	?id=storm1 Storm American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 
+129	?id=storm1 Storm American Meteorological Society 2009-03-18 The terminology for tropical cyclones differs from one region to another globally . 
+129	"storm1 Storm American Meteorological Society 2009-03-18"	"id The terminology for tropical cyclones differs"	"from one region to another globally"	
+129	"storm1 Storm American Meteorological Society 2009-03-18"	"id The terminology for tropical cyclones differs"	"from one region"	
+129	"The terminology for tropical cyclones"	"id storm1 Storm American Meteorological Society 2009-03-18 differs"	"from one region to another globally"	
+129	"The terminology for tropical cyclones"	"id storm1 Storm American Meteorological Society 2009-03-18 differs"	"from one region"	
+129	"id"	"storm1 Storm American Meteorological Society 2009-03-18 The terminology for tropical cyclones differs"	"from one region to another globally"	
+129	"id"	"storm1 Storm American Meteorological Society 2009-03-18 The terminology for tropical cyclones differs"	"from one region"	
+130	Most ocean basins use the average wind speed to determine the tropical cyclone 's category . 
+130	"130 Most ocean basins"	"use"	"the average wind speed to determine the tropical cyclone 's category"	
+130	"130 Most ocean basins"	"use"	"the average wind speed"	
+130	"130 Most ocean basins"	"be determine"	"the tropical cyclone 's category"	
+130	"the tropical cyclone"	"has"	"category"	
+131	Below is a summary of the classifications used by Regional Specialized Meteorological Centers worldwide : The Enhanced Fujita Scale ( EF Scale ) rates the strength of tornadoes in the United States based on the damage they cause . 
+131	"131 Below"	"is a summary The Enhanced Fujita Scale rates the strength of tornadoes in the United States based on the damage"	"of the classifications used by Regional Specialized Meteorological Centers worldwide"	
+131	"131 Below"	"is"	"a summary The Enhanced Fujita Scale rates the strength of tornadoes in the United States based on the damage"	
+131	"the classifications"	"be used"	"by Regional Specialized Meteorological Centers worldwide"	
+131	"The Enhanced Fujita Scale"	"is"	"EF Scale"	
+131	"the strength of tornadoes in the United States"	"be based"	"on the damage"	
+131	"they"	"cause"	"the damage"	
+132	Below is that scale . 
+132	"132 Below"	"is that scale"	
+132	"that scale"	"132 Below is"	
+133	Minor or no damage . 
+134	Peels surface off some roofs ; some damage to gutters or siding ; branches broken off trees ; shallow-rooted trees pushed over . 
+134	"branches"	"be broken"	"trees"	
+134	"shallow-rooted trees"	"pushed over"	
+135	Confirmed tornadoes with no reported damage ( i .e 
+136	. 
+137	, those that remain in open fields ) are always rated EF0 . 
+137	"137"	"is"	"those"	
+137	"those"	"remain"	"in open fields"	
+137	"

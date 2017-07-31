@@ -1,0 +1,472 @@
+Raspberry Pi 50px 320px Beta board ( retail board will not include pin header ) Raspberry Pi Foundation Early 2012 Single-board computer USD $ 25 and $ 35 ( GBP ~£16 and ~£22 ) ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot ( SD or SDHC card ) 128 or 256&nbsp; MiB Linux ( Debian GNU/Linux , Fedora and Arch Linux ) , www.raspberrypi 	0	query201_Raspberry_Pi\S\0
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD $ 25 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD 128 MiB Linux Debian GNU/Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-0
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD 25 $ 35 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD 128 MiB Linux Debian GNU/Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-1
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD 25 $ 35 GBP ~ # ~ # 22 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD or SDHC card 128 or 256 MiB Linux Debian GNU/Linux Fedora and Arch Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-2
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD 25 $ 35 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SDHC card 128 or 256 MiB Linux Debian GNU/Linux Fedora and Arch Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-3
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD 25 $ 35 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD 256 MiB Linux Debian GNU/Linux Fedora and Arch Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-4
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD 25 $ 35 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD 128 MiB Linux Debian Fedora www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-5
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD 25 $ 35 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD 128 MiB Linux Debian Arch Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-6
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD $ 25 GBP ~ # ~ # 22 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD or SDHC card 128 or 256 MiB Linux Debian GNU/Linux Fedora and Arch Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-7
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD $ 25 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SDHC card 128 or 256 MiB Linux Debian GNU/Linux Fedora and Arch Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-8
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD $ 25 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD 256 MiB Linux Debian GNU/Linux Fedora and Arch Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-9
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD $ 25 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD 128 MiB Linux Debian Fedora www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-10
+"retail board"	"will not include"	"pin header Raspberry Pi Foundation Early 2012 Single-board computer USD $ 25 GBP ~ # 16 ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot SD 128 MiB Linux Debian Arch Linux www.raspberrypi 0 Raspberry Pi 50px 320px Beta board"	0	query201_Raspberry_Pi\P\0-11
+.org 	1	query201_Raspberry_Pi\S\1
+The Raspberry Pi is a single-board computer developed in the UK by the Raspberry Pi Foundation . 	2	query201_Raspberry_Pi\S\2
+"The Raspberry Pi"	"is a single-board computer"	"developed in the UK by the Raspberry Pi Foundation"	2	query201_Raspberry_Pi\P\2-0
+"The Raspberry Pi"	"is"	"a single-board computer"	2	query201_Raspberry_Pi\P\2-1
+"a single-board computer"	"be developed"	"in the UK by the Raspberry Pi Foundation"	2	query201_Raspberry_Pi\P\2-2
+"a single-board computer"	"be developed"	"in the UK"	2	query201_Raspberry_Pi\P\2-3
+Scheduled for public release in January 2012 , Raspberry Pi Foundation FAQ . 	3	query201_Raspberry_Pi\S\3
+Scheduled for public release in January 2012 , Raspberry Pi Foundation FAQ . 	3	query201_Raspberry_Pi\S\3
+Retrieved 2011-12-10 . 	4	query201_Raspberry_Pi\S\4
+the foundation plans to release two versions priced at USD $ 25 and $ 35 ( GBP ~£16 and ~£22 ) . 	5	query201_Raspberry_Pi\S\5
+"the foundation"	"plans"	"to release two versions priced at USD $ 25 GBP ~ # 16"	5	query201_Raspberry_Pi\P\5-0
+"the foundation"	"plans"	"to release two versions priced at USD 25 $ 35 GBP ~ # 16"	5	query201_Raspberry_Pi\P\5-1
+"the foundation"	"plans"	"to release two versions priced at USD 25 $ 35 GBP ~ # ~ # 22"	5	query201_Raspberry_Pi\P\5-2
+"the foundation"	"plans"	"to release two versions priced at USD $ 25 GBP ~ # ~ # 22"	5	query201_Raspberry_Pi\P\5-3
+"two versions"	"be priced"	"at USD $ 25 GBP ~ # 16"	5	query201_Raspberry_Pi\P\5-4
+"two versions"	"be priced"	"at USD 25 $ 35 GBP ~ # 16"	5	query201_Raspberry_Pi\P\5-5
+"two versions"	"be priced"	"at USD 25 $ 35 GBP ~ # ~ # 22"	5	query201_Raspberry_Pi\P\5-6
+"two versions"	"be priced"	"at USD $ 25 GBP ~ # ~ # 22"	5	query201_Raspberry_Pi\P\5-7
+It is intended to stimulate the teaching of basic computer science in schools . 	6	query201_Raspberry_Pi\S\6
+It is intended to stimulate the teaching of basic computer science in schools . 	6	query201_Raspberry_Pi\S\6
+FAQs Raspberry Pi Foundation http ://www.raspberrypi 	7	query201_Raspberry_Pi\S\7
+.org/ 	8	query201_Raspberry_Pi\S\8
+?page_id=8 2011-10-06 FAQs Raspberry Pi Foundation http ://www.raspberrypi 	9	query201_Raspberry_Pi\S\9
+.org/ 	10	query201_Raspberry_Pi\S\10
+?page_id=8 2011-10-06 Cellan-Jones Rory Rory Cellan-Jones A £15 computer to inspire young programmers BBC News 2011-05-05 http ://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young 	11	query201_Raspberry_Pi\S\11
+"2011-10-06 Cellan-Jones Rory Rory Cellan-Jones A # 15 computer"	"be inspire"	"young programmers BBC News 2011-05-05 http www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young"	8	query201_Raspberry_Pi\P\11-0
+.html 	12	query201_Raspberry_Pi\S\12
+Cellan-Jones Rory Rory Cellan-Jones A £15 computer to inspire young programmers BBC News 2011-05-05 http ://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young 	13	query201_Raspberry_Pi\S\13
+"Cellan-Jones Rory Rory Cellan-Jones A # 15 computer"	"be inspire"	"young programmers BBC News 2011-05-05 http www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young"	13	query201_Raspberry_Pi\P\13-0
+.html 	14	query201_Raspberry_Pi\S\14
+Price Peter Can a £15 computer solve the programming gap ? BBC Click 2011-06-03 http ://news .bbc.co.uk/2/hi/programmes/click_online/9504208.stm 	15	query201_Raspberry_Pi\S\15
+2011-07-02 Price Peter Can a £15 computer solve the programming gap ? BBC Click 2011-06-03 http ://news .bbc.co.uk/2/hi/programmes/click_online/9504208.stm 	16	query201_Raspberry_Pi\S\16
+2011-07-02 http ://www.electronicsweekly 	17	query201_Raspberry_Pi\S\17
+.com/Articles/2011/05/25/51129/Dongle-computer-lets-kids-discover-programming-on-a.htm 	18	query201_Raspberry_Pi\S\18
+Dongle computer lets kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly http ://www.electronicsweekly 	19	query201_Raspberry_Pi\S\19
+"Dongle computer"	"lets"	"kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly http"	19	query201_Raspberry_Pi\P\19-0
+"Dongle computer"	"lets"	"kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly http"	19	query201_Raspberry_Pi\P\19-1
+"Dongle computer"	"lets"	"kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly http"	19	query201_Raspberry_Pi\P\19-2
+.com/Articles/2011/05/25/51129/Dongle-computer-lets-kids-discover-programming-on-a.htm 	20	query201_Raspberry_Pi\S\20
+Dongle computer lets kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly The design is based around a Broadcom BCM2835 SoC , which includes an ARM1176JZF-S 700&nbsp;MHz processor , VideoCore IV GPU , and 128 or 256&nbsp; megabyte ( MiB ) of RAM. 	21	query201_Raspberry_Pi\S\21
+"Dongle computer"	"lets"	"kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly The design"	21	query201_Raspberry_Pi\P\21-0
+"Dongle computer"	"lets"	"kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly The design"	21	query201_Raspberry_Pi\P\21-1
+"Dongle computer"	"lets"	"kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly The design"	21	query201_Raspberry_Pi\P\21-2
+"Dongle computer lets kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly The design"	"is based"	"around a Broadcom BCM2835 SoC"	21	query201_Raspberry_Pi\P\21-3
+"a Broadcom BCM2835 SoC"	"includes"	"an ARM1176JZF-S 700 MHz processor"	21	query201_Raspberry_Pi\P\21-4
+"a Broadcom BCM2835 SoC"	"includes"	"an ARM1176JZF-S 700 MHz VideoCore IV GPU"	21	query201_Raspberry_Pi\P\21-5
+"a Broadcom BCM2835 SoC"	"includes"	"an ARM1176JZF-S 700 MHz 128 megabyte of RAM"	21	query201_Raspberry_Pi\P\21-6
+"a Broadcom BCM2835 SoC"	"includes"	"an ARM1176JZF-S 700 MHz 256 megabyte of RAM"	21	query201_Raspberry_Pi\P\21-7
+"megabyte of RAM"	"is"	"MiB"	128	query201_Raspberry_Pi\P\21-8
+"megabyte of RAM"	"is"	"MiB"	256	query201_Raspberry_Pi\P\21-9
+The design does not include a built-in hard disk or solid-state drive , instead relying on a SD card for booting and long-term storage . 	22	query201_Raspberry_Pi\S\22
+"The design"	"does not include"	"a built-in hard disk instead relying on a SD card for booting storage"	22	query201_Raspberry_Pi\P\22-0
+"The design"	"does not include"	"a built-in hard solid-state drive instead relying on a SD card for booting storage"	22	query201_Raspberry_Pi\P\22-1
+"The design"	"does not include"	"a built-in hard solid-state drive instead relying on a SD card for long-term storage"	22	query201_Raspberry_Pi\P\22-2
+"The design"	"does not include"	"a built-in hard disk instead relying on a SD card for long-term storage"	22	query201_Raspberry_Pi\P\22-3
+"a built-in hard disk"	"be relying"	"instead on a SD card for booting storage"	22	query201_Raspberry_Pi\P\22-4
+"a built-in hard disk"	"be relying"	"instead on a SD card for long-term storage"	22	query201_Raspberry_Pi\P\22-5
+"a built-in hard solid-state drive"	"be relying"	"instead on a SD card for booting storage"	22	query201_Raspberry_Pi\P\22-6
+"a built-in hard solid-state drive"	"be relying"	"instead on a SD card for long-term storage"	22	query201_Raspberry_Pi\P\22-7
+"a built-in hard disk"	"be relying"	"instead"	22	query201_Raspberry_Pi\P\22-8
+"a built-in hard solid-state drive"	"be relying"	"instead"	22	query201_Raspberry_Pi\P\22-9
+This board is intended to run Linux based operating systems . 	23	query201_Raspberry_Pi\S\23
+"This board"	"is intended"	"to run Linux based operating systems"	23	query201_Raspberry_Pi\P\23-0
+Development of the device is undertaken by the Raspberry Pi Foundation , a charitable organization registered with the Charity Commission for England and Wales . 	24	query201_Raspberry_Pi\S\24
+"Development of the device"	"is undertaken"	"by the Raspberry Pi Foundation"	24	query201_Raspberry_Pi\P\24-0
+"the Raspberry Pi Foundation"	"is"	"a charitable organization registered with the Charity Commission for England"	24	query201_Raspberry_Pi\P\24-1
+"the Raspberry Pi Foundation"	"is"	"a charitable organization registered with the Charity Commission for Wales"	24	query201_Raspberry_Pi\P\24-2
+"a charitable organization"	"be registered"	"with the Charity Commission for England"	24	query201_Raspberry_Pi\P\24-3
+"a charitable organization"	"be registered"	"with the Charity Commission for Wales"	24	query201_Raspberry_Pi\P\24-4
+"a charitable organization"	"be registered"	"with the Charity Commission"	24	query201_Raspberry_Pi\P\24-5
+Its aim is to "promote the study of computer science and related topics , especially at school level , and to put the fun back into learning computing . 	25	query201_Raspberry_Pi\S\25
+Its aim is to "promote the study of computer science and related topics , especially at school level , and to put the fun back into learning computing . 	25	query201_Raspberry_Pi\S\25
+"Its aim"	"is"	"to promote the study of computer science especially at school level"	25	query201_Raspberry_Pi\P\25-0
+"Its aim"	"is"	"to promote the study of computer related topics especially at school level"	25	query201_Raspberry_Pi\P\25-1
+"Its aim"	"is"	"to promote the study of computer science"	25	query201_Raspberry_Pi\P\25-2
+"Its aim"	"is"	"to promote the study of computer related topics"	25	query201_Raspberry_Pi\P\25-3
+"Its aim"	"is"	"to to put the study of computer science the fun especially at school level"	25	query201_Raspberry_Pi\P\25-4
+"Its aim"	"is"	"to to put the study of computer related topics the fun especially at school level"	25	query201_Raspberry_Pi\P\25-5
+"Its aim"	"is"	"to to put the study of computer science the fun back"	25	query201_Raspberry_Pi\P\25-6
+"Its aim"	"is"	"to to put the study of computer related topics the fun back"	25	query201_Raspberry_Pi\P\25-7
+"Its aim"	"is"	"to to put the study of computer science the fun into learning computing"	25	query201_Raspberry_Pi\P\25-8
+"Its aim"	"is"	"to to put the study of computer related topics the fun into learning computing"	25	query201_Raspberry_Pi\P\25-9
+"Its aim"	"is"	"to to put the study of computer science the fun"	25	query201_Raspberry_Pi\P\25-10
+"Its aim"	"is"	"to to put the study of computer related topics the fun"	25	query201_Raspberry_Pi\P\25-11
+" http ://www.raspberrypi 	26	query201_Raspberry_Pi\S\26
+.org/ 	27	query201_Raspberry_Pi\S\27
+Raspberry Pi Foundation Raspberry Pi Foundation 2011-07-02 http ://www.raspberrypi 	28	query201_Raspberry_Pi\S\28
+.org/ 	29	query201_Raspberry_Pi\S\29
+Raspberry Pi Foundation Raspberry Pi Foundation 2011-07-02 The Raspberry Pi Foundation will be promoting learning mainly in the Python programming language , http ://www.raspberrypi 	30	query201_Raspberry_Pi\S\30
+"2011-07-02 The Raspberry Pi Foundation"	"will be promoting"	"learning mainly in the Python programming language 30 Raspberry Pi Foundation Raspberry Pi Foundation"	30	query201_Raspberry_Pi\P\30-0
+"2011-07-02 The Raspberry Pi Foundation"	"will be promoting"	"mainly in the Python programming language http www.raspberrypi 30 Raspberry Pi Foundation Raspberry Pi Foundation"	30	query201_Raspberry_Pi\P\30-1
+.org/faqs#comment-132 	31	query201_Raspberry_Pi\S\31
+.org/faqs#comment-132 	31	query201_Raspberry_Pi\S\31
+FAQs Raspberry Pi July 26 , 2011 December 12 , 2011 Upton , Eben http ://www.raspberrypi 	32	query201_Raspberry_Pi\S\32
+"July 26 2011 December 12 2011 Upton"	"is"	"Eben http"	32	query201_Raspberry_Pi\P\32-0
+.org/faqs#comment-132 	33	query201_Raspberry_Pi\S\33
+.org/faqs#comment-132 	33	query201_Raspberry_Pi\S\33
+FAQs Raspberry Pi July 26 , 2011 December 12 , 2011 Upton , Eben http ://www.raspberrypi 	34	query201_Raspberry_Pi\S\34
+"July 26 2011 December 12 2011 Upton"	"is"	"Eben http"	34	query201_Raspberry_Pi\P\34-0
+.org/faqs#comment-1632 	35	query201_Raspberry_Pi\S\35
+.org/faqs#comment-1632 	35	query201_Raspberry_Pi\S\35
+FAQs Raspberry Pi August 29 , 2011 December 12 , 2011 Upton , Liz http ://www.raspberrypi 	36	query201_Raspberry_Pi\S\36
+"December 12"	"is"	"Liz http"	2011	query201_Raspberry_Pi\P\36-0
+"December 12"	"is"	"2011 Upton"	2011	query201_Raspberry_Pi\P\36-1
+.org/faqs#comment-1632 	37	query201_Raspberry_Pi\S\37
+.org/faqs#comment-1632 	37	query201_Raspberry_Pi\S\37
+FAQs Raspberry Pi August 29 , 2011 December 12 , 2011 Upton , Liz but they also support BBC BASIC , http ://www.next-gen.biz/features/david-braben-interview 	38	query201_Raspberry_Pi\S\38
+"Raspberry Pi August 29"	"is"	"2011 December 12"	38	query201_Raspberry_Pi\P\38-0
+"Raspberry Pi August 29"	"is"	"2011 12 they also support BBC BASIC www.next-gen.biz/features/david-braben-interview"	38	query201_Raspberry_Pi\P\38-1
+"December 12"	"is"	"2011 Upton"	2011	query201_Raspberry_Pi\P\38-2
+"12 they also support BBC BASIC www.next-gen.biz/features/david-braben-interview"	"is"	"2011 Upton"	2011	query201_Raspberry_Pi\P\38-3
+"December 12"	"is"	"Liz"	2011	query201_Raspberry_Pi\P\38-4
+"12 they also support BBC BASIC www.next-gen.biz/features/david-braben-interview"	"is"	"Liz"	2011	query201_Raspberry_Pi\P\38-5
+"12 they also support BBC BASIC www.next-gen.biz/features/david-braben-interview"	"is"	"Liz"	2011	query201_Raspberry_Pi\P\38-6
+"12 they also support BBC BASIC www.next-gen.biz/features/david-braben-interview"	"is"	"Liz"	2011	query201_Raspberry_Pi\P\38-7
+"BBC BASIC www.next-gen.biz/features/david-braben-interview"	"is"	"http"	2011	query201_Raspberry_Pi\P\38-8
+David Braben on Raspberry Pi Edge November 25 , 2011 December 08 , 2011 http ://www.next-gen.biz/features/david-braben-interview 	39	query201_Raspberry_Pi\S\39
+"Raspberry Pi Edge November 25"	"is"	"2011 http"	39	query201_Raspberry_Pi\P\39-0
+"Raspberry Pi Edge November 25"	"is"	"2011 December 08"	39	query201_Raspberry_Pi\P\39-1
+David Braben on Raspberry Pi Edge November 25 , 2011 December 08 , 2011 C and Perl . 	40	query201_Raspberry_Pi\S\40
+"Raspberry Pi Edge November 25"	"is"	"2011 C"	40	query201_Raspberry_Pi\P\40-0
+"Raspberry Pi Edge November 25"	"is"	"2011 Perl"	40	query201_Raspberry_Pi\P\40-1
+"Raspberry Pi Edge November 25"	"is"	"2011 December 08"	40	query201_Raspberry_Pi\P\40-2
+Many other languages that have support for Linux and ARM will be available . 	41	query201_Raspberry_Pi\S\41
+"Many other languages"	"have"	"support for Linux"	41	query201_Raspberry_Pi\P\41-0
+"Many other languages"	"have"	"support for ARM"	41	query201_Raspberry_Pi\P\41-1
+"Many other languages"	"will be"	"available"	41	query201_Raspberry_Pi\P\41-2
+In 2006 , early concepts of the Raspberry Pi were based on the Atmel ATmega644 microcontroller . 	42	query201_Raspberry_Pi\S\42
+"In 2006"	"is"	"early concepts of the Raspberry Pi"	42	query201_Raspberry_Pi\P\42-0
+"In 2006"	"were based"	"on the Atmel ATmega644 microcontroller"	42	query201_Raspberry_Pi\P\42-1
+Its schematics and PCB layout are available for public download . 	43	query201_Raspberry_Pi\S\43
+Its schematics and PCB layout are available for public download . 	43	query201_Raspberry_Pi\S\43
+"Its schematics"	"are available"	"for public download"	43	query201_Raspberry_Pi\P\43-0
+"Its PCB layout"	"are available"	"for public download"	43	query201_Raspberry_Pi\P\43-1
+"Its schematics"	"are"	"available"	43	query201_Raspberry_Pi\P\43-2
+"Its PCB layout"	"are"	"available"	43	query201_Raspberry_Pi\P\43-3
+http ://www .ubergizmo.com/2011/10/build-raspberry-pi-minicomputer/ 	44	query201_Raspberry_Pi\S\44
+Build your own prototype Raspberry Pi minicomputer ubergizmo October 24 , 2011 November 02 , 2011 Wong , George http ://www .ubergizmo.com/2011/10/build-raspberry-pi-minicomputer/ 	45	query201_Raspberry_Pi\S\45
+Build your own prototype Raspberry Pi minicomputer ubergizmo October 24 , 2011 November 02 , 2011 Wong , George Trustee Eben Upton assembled a group of teachers , academics and computer enthusiasts to devise a computer to inspire children . 	46	query201_Raspberry_Pi\S\46
+Build your own prototype Raspberry Pi minicomputer ubergizmo October 24 , 2011 November 02 , 2011 Wong , George Trustee Eben Upton assembled a group of teachers , academics and computer enthusiasts to devise a computer to inspire children . 	46	query201_Raspberry_Pi\S\46
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"is"	"2011 November 02"	46	query201_Raspberry_Pi\P\46-0
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"is"	"2011 Wong"	46	query201_Raspberry_Pi\P\46-1
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"is"	"George Trustee Eben Upton"	46	query201_Raspberry_Pi\P\46-2
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"is"	"George Trustee Eben Upton"	46	query201_Raspberry_Pi\P\46-3
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"is"	"George Trustee Eben Upton"	46	query201_Raspberry_Pi\P\46-4
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"is"	"George Trustee Eben Upton"	46	query201_Raspberry_Pi\P\46-5
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"is"	"George Trustee Eben Upton"	46	query201_Raspberry_Pi\P\46-6
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"is"	"George Trustee Eben Upton"	46	query201_Raspberry_Pi\P\46-7
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"is"	"George Trustee Eben Upton"	46	query201_Raspberry_Pi\P\46-8
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"46 assembled"	"a group of teachers to devise a computer to inspire children"	46	query201_Raspberry_Pi\P\46-9
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"46 assembled"	"a group of teachers to devise a computer"	46	query201_Raspberry_Pi\P\46-10
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"46 assembled"	"a group of academics to devise a computer to inspire children"	46	query201_Raspberry_Pi\P\46-11
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"46 assembled"	"a group of academics to devise a computer"	46	query201_Raspberry_Pi\P\46-12
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"46 assembled"	"a group of computer enthusiasts to devise a computer to inspire children"	46	query201_Raspberry_Pi\P\46-13
+"your own prototype Raspberry Pi minicomputer ubergizmo October 24"	"46 assembled"	"a group of computer enthusiasts to devise a computer"	46	query201_Raspberry_Pi\P\46-14
+"to devise a computer"	"be inspire"	"children"	46	query201_Raspberry_Pi\P\46-15
+http ://www.guardian.co.uk/education/2012/jan/09/raspberry-pi-computer-revolutionise-computing-schools 	47	query201_Raspberry_Pi\S\47
+?newsfeed=true Raspberry Pi device will 'reboot computing in schools ' The Guardian January 09 , 2012 January 20 , 2012 Moorhead , Joanna http ://www.guardian.co.uk/education/2012/jan/09/raspberry-pi-computer-revolutionise-computing-schools 	48	query201_Raspberry_Pi\S\48
+"The Guardian January 09"	"is"	"2012 January 20"	48	query201_Raspberry_Pi\P\48-0
+"The Guardian January 09"	"is"	"2012 Moorhead"	48	query201_Raspberry_Pi\P\48-1
+"The Guardian January 09"	"is"	"Joanna http"	48	query201_Raspberry_Pi\P\48-2
+?newsfeed=true Raspberry Pi device will 'reboot computing in schools ' The Guardian January 09 , 2012 January 20 , 2012 Moorhead , Joanna In May 2009 , the Raspberry Pi Foundation was founded in Caldecote_ South Cambridgeshire , UK as a registered charity that is regulated by the Charity Commission for England and Wales . 	49	query201_Raspberry_Pi\S\49
+"The Guardian January 09"	"is"	"2012 January 20"	49	query201_Raspberry_Pi\P\49-0
+"The Guardian January 09"	"is"	"2012 Moorhead"	49	query201_Raspberry_Pi\P\49-1
+"The Guardian January 09"	"is"	"Joanna In May 2009"	49	query201_Raspberry_Pi\P\49-2
+"The Guardian January 09"	"is"	"the Raspberry Pi Foundation"	49	query201_Raspberry_Pi\P\49-3
+"The Guardian January 09"	"was founded"	"in Caldecote _ South Cambridgeshire schools '"	49	query201_Raspberry_Pi\P\49-4
+"The Guardian January 09"	"was founded"	"schools '"	49	query201_Raspberry_Pi\P\49-5
+"Caldecote _ South Cambridgeshire"	"is in"	"UK as a registered charity"	49	query201_Raspberry_Pi\P\49-6
+"a registered charity"	"is regulated"	"by the Charity Commission for England"	49	query201_Raspberry_Pi\P\49-7
+"a registered charity"	"is regulated"	"by the Charity Commission for Wales"	49	query201_Raspberry_Pi\P\49-8
+http ://www.charity-commission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?Registered 	50	query201_Raspberry_Pi\S\50
+CharityNumber=1129409&SubsidiaryNumber=0 1129409 - Raspberry Pi Foundation Charity Commission for England and Wales 2011-06-06 http ://www.charity-commission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?Registered 	51	query201_Raspberry_Pi\S\51
+CharityNumber=1129409&SubsidiaryNumber=0 1129409 - Raspberry Pi Foundation Charity Commission for England and Wales 2011-06-06 The first ARM prototype version of the computer was mounted in a package the same size as a USB memory stick . 	52	query201_Raspberry_Pi\S\52
+"CharityNumber = 1129409 & SubsidiaryNumber = 0 1129409 Raspberry Pi Foundation Charity Commission for England 2011-06-06 The first ARM prototype version of the computer"	"was mounted"	"in a package the same size as a USB memory stick"	52	query201_Raspberry_Pi\P\52-0
+"CharityNumber = 1129409 & SubsidiaryNumber = 0 1129409 Raspberry Pi Foundation Charity Commission for Wales 2011-06-06 The first ARM prototype version of the computer"	"was mounted"	"in a package the same size as a USB memory stick"	52	query201_Raspberry_Pi\P\52-1
+It had a USB port on one end and a HDMI port on the other . 	53	query201_Raspberry_Pi\S\53
+It had a USB port on one end and a HDMI port on the other . 	53	query201_Raspberry_Pi\S\53
+It had a USB port on one end and a HDMI port on the other . 	53	query201_Raspberry_Pi\S\53
+It had a USB port on one end and a HDMI port on the other . 	53	query201_Raspberry_Pi\S\53
+It had a USB port on one end and a HDMI port on the other . 	53	query201_Raspberry_Pi\S\53
+It had a USB port on one end and a HDMI port on the other . 	53	query201_Raspberry_Pi\S\53
+In August 2011 , fifty Alpha boards were manufactured . 	54	query201_Raspberry_Pi\S\54
+These boards were functionally identical to the planned model B , http ://www.geek 	55	query201_Raspberry_Pi\S\55
+"These boards"	"were identical www.geek"	"functionally"	55	query201_Raspberry_Pi\P\55-0
+"These boards"	"were identical www.geek"	"to the planned model B"	55	query201_Raspberry_Pi\P\55-1
+"These boards"	"were"	"identical www.geek"	55	query201_Raspberry_Pi\P\55-2
+"the planned model B"	"is"	"http"	55	query201_Raspberry_Pi\P\55-3
+.com/articles/chips/raspberry-pi-25-pc-goes-into-alpha-production-20110728 	56	query201_Raspberry_Pi\S\56
+Raspberry Pi $ 25 PC goes into alpha production 2011-07-28 Matthew Humphries Geek .com 	57	query201_Raspberry_Pi\S\57
+2011-08-01 http ://www.geek 	58	query201_Raspberry_Pi\S\58
+.com/articles/chips/raspberry-pi-25-pc-goes-into-alpha-production-20110728 	59	query201_Raspberry_Pi\S\59
+Raspberry Pi $ 25 PC goes into alpha production 2011-07-28 Matthew Humphries Geek .com 	60	query201_Raspberry_Pi\S\60
+2011-08-01 only larger to accommodate debug headers . 	61	query201_Raspberry_Pi\S\61
+Demos of the board showed it running the LXDE desktop on Debian , Quake 3 at 1080p , http ://www.youtube 	62	query201_Raspberry_Pi\S\62
+"Demos of the board"	"showed"	"it running the LXDE desktop on Debian Quake 3 at 1080p www.youtube"	62	query201_Raspberry_Pi\P\62-0
+"Demos of the board"	"showed"	"it running the LXDE desktop on Debian Quake 3 at 1080p www.youtube"	62	query201_Raspberry_Pi\P\62-1
+"Quake 3 at 1080p"	"is"	"http"	62	query201_Raspberry_Pi\P\62-2
+.com/watch 	63	query201_Raspberry_Pi\S\63
+?v=e_mDuJuvZjI&list=UUhmozgJ0cqX8Gx7676ZQ4ig&feature=plcp Raspberry Pi Youtube Channel 2011-08-28 http ://www.youtube 	64	query201_Raspberry_Pi\S\64
+.com/watch 	65	query201_Raspberry_Pi\S\65
+?v=e_mDuJuvZjI&list=UUhmozgJ0cqX8Gx7676ZQ4ig&feature=plcp Raspberry Pi Youtube Channel 2011-08-28 and Full HD H.264 	66	query201_Raspberry_Pi\S\66
+video over HDMI . 	67	query201_Raspberry_Pi\S\67
+http ://www.youtube 	68	query201_Raspberry_Pi\S\68
+.com/watch 	69	query201_Raspberry_Pi\S\69
+?v=TgR74Kp6Ws4 Full HD video demo at TransferSummit Oxford 2011-09-12 http ://www.youtube 	70	query201_Raspberry_Pi\S\70
+.com/watch 	71	query201_Raspberry_Pi\S\71
+?v=TgR74Kp6Ws4 Full HD video demo at TransferSummit Oxford 2011-09-12 In October 2011 , the logo was selected from a number submitted by members of the community . 	72	query201_Raspberry_Pi\S\72
+"TgR74Kp6Ws4 Full HD video demo"	"be selected"	"at TransferSummit Oxford 2011-09-12 In October 2011"	72	query201_Raspberry_Pi\P\72-0
+"TgR74Kp6Ws4 Full HD video demo"	"be selected"	"at TransferSummit Oxford from a number submitted by members of the community"	72	query201_Raspberry_Pi\P\72-1
+"TgR74Kp6Ws4 Full HD video demo"	"be selected"	"at TransferSummit Oxford"	72	query201_Raspberry_Pi\P\72-2
+"the logo"	"was selected"	"from a number submitted by members of the community at TransferSummit Oxford"	72	query201_Raspberry_Pi\P\72-3
+"the logo"	"was selected"	"from a number submitted by members of the community 2011-09-12 In October 2011"	72	query201_Raspberry_Pi\P\72-4
+"the logo"	"was selected"	"from a number submitted by members of the community"	72	query201_Raspberry_Pi\P\72-5
+"a number"	"be submitted"	"by members of the community"	72	query201_Raspberry_Pi\P\72-6
+A shortlist of six was drawn up , with the final judging taking several days . 	73	query201_Raspberry_Pi\S\73
+"A shortlist of six"	"was drawn up"	"with the final judging taking several days"	73	query201_Raspberry_Pi\P\73-0
+The chosen design was based on a buckyball . 	74	query201_Raspberry_Pi\S\74
+"The chosen design"	"was based"	"on a buckyball"	74	query201_Raspberry_Pi\P\74-0
+http ://www.geek 	75	query201_Raspberry_Pi\S\75
+.com/articles/chips/raspberry-pi-selects-a-very-clever-logo-20111010/ 	76	query201_Raspberry_Pi\S\76
+Raspberry Pi selects a very clever logo geek .com 	77	query201_Raspberry_Pi\S\77
+October 11 , 2011 Humphries , Matthew http ://www.geek 	78	query201_Raspberry_Pi\S\78
+"October 11 www.geek"	"is"	"2011 Humphries"	78	query201_Raspberry_Pi\P\78-0
+"October 11 www.geek"	"is"	"Matthew http"	78	query201_Raspberry_Pi\P\78-1
+.com/articles/chips/raspberry-pi-selects-a-very-clever-logo-20111010/ 	79	query201_Raspberry_Pi\S\79
+Raspberry Pi selects a very clever logo geek .com 	80	query201_Raspberry_Pi\S\80
+October 11 , 2011 Humphries , Matthew During the same month , a development version of RISC OSRISC OS 5 was being worked on http ://www.iconbar.com/articles/Newsround/index1271.html 	81	query201_Raspberry_Pi\S\81
+"October 11"	"is"	"a development version of RISC OSRISC OS 5"	81	query201_Raspberry_Pi\P\81-0
+"October 11"	"is"	"2011 Humphries"	81	query201_Raspberry_Pi\P\81-1
+"October 11"	"is"	"Matthew During the same month"	81	query201_Raspberry_Pi\P\81-2
+"October 11"	"was being worked"	"on http"	81	query201_Raspberry_Pi\P\81-3
+Newsround The Icon Bar October 17 , 2011 Lee , Jeffrey http ://www.iconbar.com/articles/Newsround/index1271.html 	82	query201_Raspberry_Pi\S\82
+"The Icon Bar October 17"	"is"	"2011 Lee"	82	query201_Raspberry_Pi\P\82-0
+"The Icon Bar October 17"	"is"	"Jeffrey http"	82	query201_Raspberry_Pi\P\82-1
+Newsround The Icon Bar October 17 , 2011 Lee , Jeffrey and demonstrated in public . 	83	query201_Raspberry_Pi\S\83
+"The Icon Bar October 17"	"is"	"2011 Lee"	83	query201_Raspberry_Pi\P\83-0
+"The Icon Bar 17 demonstrated in public"	"is"	"2011 Lee"	83	query201_Raspberry_Pi\P\83-1
+"The Icon Bar October 17"	"is"	"Jeffrey"	83	query201_Raspberry_Pi\P\83-2
+"The Icon Bar 17 demonstrated in public"	"is"	"Jeffrey"	83	query201_Raspberry_Pi\P\83-3
+http ://www.osnews.com/story/25276/Raspberry_Pi_To_Embrace_RISC_OS 	84	query201_Raspberry_Pi\S\84
+Raspberry Pi To Embrace RISC OS OSNews October 31 , 2011 November 01 , 2011 Holwerda , Thom http ://www.osnews.com/story/25276/Raspberry_Pi_To_Embrace_RISC_OS 	85	query201_Raspberry_Pi\S\85
+"Raspberry Pi"	"be Embrace"	"www.osnews.com/story/25276/Raspberry_Pi_To_Embrace_RISC_OS"	85	query201_Raspberry_Pi\P\85-0
+"RISC OS OSNews October 31"	"is"	"2011 Holwerda"	85	query201_Raspberry_Pi\P\85-1
+"RISC OS OSNews October 31"	"is"	"Thom http"	85	query201_Raspberry_Pi\P\85-2
+"RISC OS OSNews October 31"	"is"	"2011 November 01"	85	query201_Raspberry_Pi\P\85-3
+Raspberry Pi To Embrace RISC OS OSNews October 31 , 2011 November 01 , 2011 Holwerda , Thom The London show 2011 Archive ( magazine ) December 2011 January 19 , 2012 Dewhurst , Christopher 23 3 3 The London show 2011 Archive ( magazine ) December 2011 January 19 , 2012 Dewhurst , Christopher 23 3 3 In December 2011 , one hundred model B Beta boards were assembled and tested . 	86	query201_Raspberry_Pi\S\86
+"Raspberry Pi"	"be Embrace"	"RISC OS OSNews October 31 Thom The London show 2011 Archive magazine December 2011 January 19 The London show 2011 Archive magazine December 2011 January 19 In December 2011 were assembled"	86	query201_Raspberry_Pi\P\86-0
+"Raspberry Pi"	"be Embrace"	"RISC OS OSNews October 31 Thom The London show 2011 Archive magazine December 2011 January 19 The London show 2011 Archive magazine December 2011 January 19 In December 2011 were tested"	86	query201_Raspberry_Pi\P\86-1
+"RISC OS OSNews October 31 Thom The London show 2011 Archive magazine December 2011 January 19 The London show 2011 Archive magazine December 2011 January 19 In December 2011 were assembled"	"is"	"2011 Holwerda"	86	query201_Raspberry_Pi\P\86-2
+"RISC OS OSNews October 31 Thom The London show 2011 Archive magazine December 2011 January 19 The London show 2011 Archive magazine December 2011 January 19 In December 2011 were tested"	"is"	"2011 Holwerda"	86	query201_Raspberry_Pi\P\86-3
+"RISC OS OSNews October 31 Thom The London show 2011 Archive magazine December 2011 January 19 The London show 2011 Archive magazine December 2011 January 19 In December 2011 were assembled"	"is"	"2011 November 01"	86	query201_Raspberry_Pi\P\86-4
+"RISC OS OSNews October 31 Thom The London show 2011 Archive magazine December 2011 January 19 The London show 2011 Archive magazine December 2011 January 19 In December 2011 were tested"	"is"	"2011 November 01"	86	query201_Raspberry_Pi\P\86-5
+"January 19 The London show 2011 Archive magazine"	"is"	"2012 Dewhurst"	2011	query201_Raspberry_Pi\P\86-6
+"January 19 The London show 2011 Archive magazine"	"is"	"Christopher 23 3 3"	2011	query201_Raspberry_Pi\P\86-7
+"December 2011 January 19 In December 2011"	"is"	"one hundred model B Beta boards"	2011	query201_Raspberry_Pi\P\86-8
+"January 19 In December 2011"	"is"	"2012 Dewhurst"	2011	query201_Raspberry_Pi\P\86-9
+"January 19 In December 2011"	"is"	"Christopher 23 3 3"	2011	query201_Raspberry_Pi\P\86-10
+( Raspberry Pi Blog ) The component layout of the Beta boards is the same as production boards . 	87	query201_Raspberry_Pi\S\87
+( Raspberry Pi Blog ) The component layout of the Beta boards is the same as production boards . 	87	query201_Raspberry_Pi\S\87
+"The component layout of the Beta boards"	"is the same"	"as production boards"	87	query201_Raspberry_Pi\P\87-0
+"The component layout of the Beta boards"	"is"	"the same"	87	query201_Raspberry_Pi\P\87-1
+A single PCB routing error was discovered in the board design and fixed for the first production run . 	88	query201_Raspberry_Pi\S\88
+"routing error"	"was discovered"	"in the board design 88 A single PCB"	88	query201_Raspberry_Pi\P\88-0
+"routing error"	"was discovered"	"in the board design 88 A single fixed for the first production run"	88	query201_Raspberry_Pi\P\88-1
+"routing error"	"was discovered"	"88 A single PCB"	88	query201_Raspberry_Pi\P\88-2
+"routing error"	"was discovered"	"88 A single fixed for the first production run"	88	query201_Raspberry_Pi\P\88-3
+( Raspberry Pi Blog ) The Beta boards were demonstrated booting Linux , playing a 1080p movie trailer and the Rightware Samurai OpenGL ES benchmark . 	89	query201_Raspberry_Pi\S\89
+( Raspberry Pi Blog ) The Beta boards were demonstrated booting Linux , playing a 1080p movie trailer and the Rightware Samurai OpenGL ES benchmark . 	89	query201_Raspberry_Pi\S\89
+"The Beta boards"	"were demonstrated"	"booting Linux playing a 1080p movie trailer"	89	query201_Raspberry_Pi\P\89-0
+"The Beta boards"	"were demonstrated"	"booting Linux the Rightware Samurai OpenGL ES benchmark a 1080p movie trailer"	89	query201_Raspberry_Pi\P\89-1
+( Raspberry Pi Blog ) During the first week of 2012 , the first 10 boards were put up for auction on eBay . 	90	query201_Raspberry_Pi\S\90
+"During the first week of 2012"	"is"	"the first 10 boards"	90	query201_Raspberry_Pi\P\90-0
+"During the first week of 2012"	"is"	"Raspberry Pi Blog"	90	query201_Raspberry_Pi\P\90-1
+"During the first week of 2012"	"were put up"	"for auction on eBay"	90	query201_Raspberry_Pi\P\90-2
+http ://www.theregister.co.uk/2012/01/03/raspberry_pi_auction/ 	91	query201_Raspberry_Pi\S\91
+That Brit-built £22 computer : Yours for just £1,900 or more The Register January 03 , 2012 January 10 , 2012 Williams , Chris http ://www.theregister.co.uk/2012/01/03/raspberry_pi_auction/ 	92	query201_Raspberry_Pi\S\92
+"The Register January 03"	"is"	"2012 January 10"	92	query201_Raspberry_Pi\P\92-0
+"The Register January 03"	"is"	"2012 Williams"	92	query201_Raspberry_Pi\P\92-1
+"The Register January 03"	"is"	"Chris http"	92	query201_Raspberry_Pi\P\92-2
+That Brit-built £22 computer : Yours for just £1,900 or more The Register January 03 , 2012 January 10 , 2012 Williams , Chris One was bought anonymously and donated to the museum at The Centre for Computing History in Suffolk , England . 	93	query201_Raspberry_Pi\S\93
+"The Register January 03"	"is"	"2012 January 10"	93	query201_Raspberry_Pi\P\93-0
+"The Register January 03"	"is"	"2012 Williams"	93	query201_Raspberry_Pi\P\93-1
+"Chris One"	"was bought"	"anonymously"	93	query201_Raspberry_Pi\P\93-2
+"Chris One"	"was bought"	"anonymously"	93	query201_Raspberry_Pi\P\93-3
+http ://www.techweekeurope.co.uk/news/raspberry-pi-goes-into-production-53652 	94	query201_Raspberry_Pi\S\94
+Raspberry Pi Goes Into Production TechWeekEurope UK January 11 , 2012 January 11 , 2012 Cheerin , Iris http ://www.techweekeurope.co.uk/news/raspberry-pi-goes-into-production-53652 	95	query201_Raspberry_Pi\S\95
+"Raspberry Pi"	"Goes"	"Into Production TechWeekEurope UK January 11 www.techweekeurope.co.uk/news/raspberry-pi-goes-into-production-53652"	95	query201_Raspberry_Pi\P\95-0
+"Production TechWeekEurope UK January 11"	"is"	"2012 Cheerin"	95	query201_Raspberry_Pi\P\95-1
+"Production TechWeekEurope UK January 11"	"is"	"Iris http"	95	query201_Raspberry_Pi\P\95-2
+"Production TechWeekEurope UK January 11"	"is"	"2012 January 11"	95	query201_Raspberry_Pi\P\95-3
+Raspberry Pi Goes Into Production TechWeekEurope UK January 11 , 2012 January 11 , 2012 Cheerin , Iris The ten boards ( with a total retail price of £220 ) together raised over £16,000 , with the last to be auctioned , serial number # 01 , raising £3,500 . 	96	query201_Raspberry_Pi\S\96
+"Raspberry Pi"	"Goes"	"Into with the last to be auctioned"	96	query201_Raspberry_Pi\P\96-0
+"Raspberry Pi"	"Goes"	"Into"	96	query201_Raspberry_Pi\P\96-1
+"Production TechWeekEurope UK January 11"	"is"	"2012 Cheerin"	96	query201_Raspberry_Pi\P\96-2
+"Production TechWeekEurope UK January 11"	"is"	"Iris The ten boards with a total retail price of # 220 together"	96	query201_Raspberry_Pi\P\96-3
+"Production TechWeekEurope UK January 11"	"is"	"2012 January 11"	96	query201_Raspberry_Pi\P\96-4
+"Production TechWeekEurope UK January 11"	"raised"	"over # 16,000 Into"	96	query201_Raspberry_Pi\P\96-5
+"Production TechWeekEurope UK January 11"	"raised"	"Into"	96	query201_Raspberry_Pi\P\96-6
+"number # 01"	"be raising"	"# 3,500"	96	query201_Raspberry_Pi\P\96-7
+The first batch of 10,000 boards were manufactured in Taiwan http ://www.tax-news.com/news/Raspberry_Pi_Balks_At_UK_Tax_Regime 	97	query201_Raspberry_Pi\S\97
+"The first batch of 10,000 boards"	"were manufactured"	"in Taiwan http"	97	query201_Raspberry_Pi\P\97-0
+53494.html 	98	query201_Raspberry_Pi\S\98
+Raspberry Pi Balks At UK Tax Regime Tax-News.com 	99	query201_Raspberry_Pi\S\99
+January 17 , 2012 January 20 , 2012 Lee , Robert http ://www.tax-news.com/news/Raspberry_Pi_Balks_At_UK_Tax_Regime 	100	query201_Raspberry_Pi\S\100
+"January 17 www.tax-news.com/news/Raspberry_Pi_Balks_At_UK_Tax_Regime"	"is"	"2012 January 20"	100	query201_Raspberry_Pi\P\100-0
+"January 17 www.tax-news.com/news/Raspberry_Pi_Balks_At_UK_Tax_Regime"	"is"	"2012 Lee"	100	query201_Raspberry_Pi\P\100-1
+"January 17 www.tax-news.com/news/Raspberry_Pi_Balks_At_UK_Tax_Regime"	"is"	"Robert http"	100	query201_Raspberry_Pi\P\100-2
+53494.html 	101	query201_Raspberry_Pi\S\101
+Raspberry Pi Balks At UK Tax Regime Tax-News.com 	102	query201_Raspberry_Pi\S\102
+January 17 , 2012 January 20 , 2012 Lee , Robert and China , http ://www.civilsociety 	103	query201_Raspberry_Pi\S\103
+"January 17 www.civilsociety"	"is"	"2012 January 20"	103	query201_Raspberry_Pi\P\103-0
+"January 17 www.civilsociety"	"is"	"2012 Lee"	103	query201_Raspberry_Pi\P\103-1
+"January 17 www.civilsociety"	"is"	"Robert"	103	query201_Raspberry_Pi\P\103-2
+"January 17 www.civilsociety"	"is"	"China"	103	query201_Raspberry_Pi\P\103-3
+"January 17 www.civilsociety"	"is"	"http"	103	query201_Raspberry_Pi\P\103-4
+.co.uk/finance/news/content/11318/uk_computing_charity_manufacturing_product_abroad 	104	query201_Raspberry_Pi\S\104
+UK computing charity opts to manufacture product abroad January 20 , 2012 Weakley , Kirsty Civil Society Media http ://www.civilsociety 	105	query201_Raspberry_Pi\S\105
+"UK computing charity"	"opts"	"to manufacture product abroad January 20"	105	query201_Raspberry_Pi\P\105-0
+"UK computing charity"	"opts"	"to manufacture product abroad 20 2012 Weakley"	105	query201_Raspberry_Pi\P\105-1
+"UK computing charity"	"opts"	"to manufacture product"	105	query201_Raspberry_Pi\P\105-2
+"January 20"	"is"	"Kirsty Civil Society Media http"	105	query201_Raspberry_Pi\P\105-3
+"2012 Weakley"	"is"	"Kirsty Civil Society Media http"	20	query201_Raspberry_Pi\P\105-4
+.co.uk/finance/news/content/11318/uk_computing_charity_manufacturing_product_abroad 	106	query201_Raspberry_Pi\S\106
+UK computing charity opts to manufacture product abroad January 20 , 2012 Weakley , Kirsty Civil Society Media rather than in the UK. 	107	query201_Raspberry_Pi\S\107
+"UK computing charity"	"opts"	"to manufacture product abroad January 20 Kirsty Civil Society Media"	107	query201_Raspberry_Pi\P\107-0
+"UK computing charity"	"opts"	"to manufacture product abroad 20 2012 Weakley Kirsty Civil Society Media"	107	query201_Raspberry_Pi\P\107-1
+"UK computing charity"	"opts"	"to manufacture product abroad 20 2012 Weakley Kirsty Civil Society in the UK"	107	query201_Raspberry_Pi\P\107-2
+"UK computing charity"	"opts"	"to manufacture product abroad January 20 Kirsty Civil Society in the UK"	107	query201_Raspberry_Pi\P\107-3
+"UK computing charity"	"opts"	"to manufacture product"	107	query201_Raspberry_Pi\P\107-4
+This is because import duty is payable on individual components but not on finished products . 	108	query201_Raspberry_Pi\S\108
+This is because import duty is payable on individual components but not on finished products . 	108	query201_Raspberry_Pi\S\108
+This is because import duty is payable on individual components but not on finished products . 	108	query201_Raspberry_Pi\S\108
+This is because import duty is payable on individual components but not on finished products . 	108	query201_Raspberry_Pi\S\108
+"import duty"	"is payable"	"on individual components"	108	query201_Raspberry_Pi\P\108-0
+"import duty"	"is not on finished products"	"on individual components"	108	query201_Raspberry_Pi\P\108-1
+"import duty"	"is"	"payable"	108	query201_Raspberry_Pi\P\108-2
+"import duty"	"is"	"not on finished products"	108	query201_Raspberry_Pi\P\108-3
+Chinese manufacturers also quoted a lead time of 4 weeks , compared to 12 weeks in the UK. 	109	query201_Raspberry_Pi\S\109
+"Chinese manufacturers"	"quoted"	"a lead time of 4 weeks also"	109	query201_Raspberry_Pi\P\109-0
+"Chinese manufacturers"	"quoted"	"a lead time of 4 weeks compared to 12 weeks in the UK"	109	query201_Raspberry_Pi\P\109-1
+"Chinese manufacturers"	"quoted"	"a lead time of 4 weeks"	109	query201_Raspberry_Pi\P\109-2
+Savings can be reinvested in the Foundation 's research and development activities . 	110	query201_Raspberry_Pi\S\110
+"Savings"	"can be reinvested"	"in the Foundation 's research"	110	query201_Raspberry_Pi\P\110-0
+"Savings"	"can be reinvested"	"in the Foundation 's development activities"	110	query201_Raspberry_Pi\P\110-1
+"the Foundation"	"has"	"research"	110	query201_Raspberry_Pi\P\110-2
+The foundation plans to release two models at launch . 	111	query201_Raspberry_Pi\S\111
+"The foundation"	"plans"	"to release two models at launch"	111	query201_Raspberry_Pi\P\111-0
+"The foundation"	"plans"	"to release two models"	111	query201_Raspberry_Pi\P\111-1
+Model A will have 128&nbsp; MiB RAM memory , one USB port and no Ethernet controller , and will cost US$ 25 , while model B will contain 256&nbsp; MiB RAM memory , two USB ports and a 10/100 Ethernet controller and will cost US$ 35 . 	112	query201_Raspberry_Pi\S\112
+"Model A"	"will have"	"128 MiB RAM memory one USB port"	112	query201_Raspberry_Pi\P\112-0
+"Model A"	"will have"	"128 MiB RAM memory one USB no Ethernet controller"	112	query201_Raspberry_Pi\P\112-1
+"Model A"	"will will cost"	"128 MiB RAM memory one USB port US$ 25 while model B will contain 256 MiB RAM memory"	112	query201_Raspberry_Pi\P\112-2
+"Model A"	"will will cost"	"128 MiB RAM memory one USB no Ethernet controller US$ 25 while model B will contain 256 MiB RAM memory"	112	query201_Raspberry_Pi\P\112-3
+"Model A"	"will will cost"	"128 MiB RAM memory one USB port US$ 25"	112	query201_Raspberry_Pi\P\112-4
+"Model A"	"will will cost"	"128 MiB RAM memory one USB no Ethernet controller US$ 25"	112	query201_Raspberry_Pi\P\112-5
+"model B"	"will contain"	"256 MiB RAM memory"	112	query201_Raspberry_Pi\P\112-6
+Though the Model A does n't have an RJ45 Ethernet port , it can connect to a network by using a user supplied USB Ethernet or Wi-Fi adapter . 	113	query201_Raspberry_Pi\S\113
+"the Model A"	"does n't have"	"an RJ45 Ethernet port"	113	query201_Raspberry_Pi\P\113-0
+"the Model A"	"does n't have"	"an RJ45 Ethernet port"	113	query201_Raspberry_Pi\P\113-1
+"the Model A"	"does n't have"	"an RJ45 Ethernet port"	113	query201_Raspberry_Pi\P\113-2
+"the Model A"	"does n't have"	"an RJ45 Ethernet port"	113	query201_Raspberry_Pi\P\113-3
+"the Model A"	"does n't have"	"an RJ45 Ethernet port"	113	query201_Raspberry_Pi\P\113-4
+"the Model A"	"does n't have"	"an RJ45 Ethernet port"	113	query201_Raspberry_Pi\P\113-5
+"the Model A"	"does n't have"	"an RJ45 Ethernet port"	113	query201_Raspberry_Pi\P\113-6
+"the Model A"	"does n't have"	"an RJ45 Ethernet port"	113	query201_Raspberry_Pi\P\113-7
+"the Model A"	"does n't have"	"an RJ45 Ethernet port"	113	query201_Raspberry_Pi\P\113-8
+"a user"	"supplied"	"USB Ethernet"	113	query201_Raspberry_Pi\P\113-9
+"a user"	"supplied"	"USB Wi-Fi adapter"	113	query201_Raspberry_Pi\P\113-10
+As typical of modern computers , generic USB keyboard and mice are compatible with the Raspberry Pi . 	114	query201_Raspberry_Pi\S\114
+"As typical of modern computers generic USB keyboard"	"are compatible"	"with the Raspberry Pi"	114	query201_Raspberry_Pi\P\114-0
+"As typical of modern computers generic USB mice"	"are compatible"	"with the Raspberry Pi"	114	query201_Raspberry_Pi\P\114-1
+"As typical of modern computers generic USB keyboard"	"are"	"compatible"	114	query201_Raspberry_Pi\P\114-2
+"As typical of modern computers generic USB mice"	"are"	"compatible"	114	query201_Raspberry_Pi\P\114-3
+The Raspberry Pi will use the Linux operating system . 	115	query201_Raspberry_Pi\S\115
+"The Raspberry Pi"	"will use"	"the Linux operating system"	115	query201_Raspberry_Pi\P\115-0
+Debian GNU/Linux , Iceweasel , Calligra Suite and Python are planned to be bundled with the Raspberry Pi . 	116	query201_Raspberry_Pi\S\116
+"Debian GNU/Linux"	"is"	"Iceweasel"	116	query201_Raspberry_Pi\P\116-0
+"Debian GNU/Linux"	"is"	"Calligra Suite"	116	query201_Raspberry_Pi\P\116-1
+"Debian GNU/Linux"	"is"	"Calligra Python"	116	query201_Raspberry_Pi\P\116-2
+"Debian GNU/Linux"	"are planned"	"to be bundled with the Raspberry Pi"	116	query201_Raspberry_Pi\P\116-3
+The Raspberry PI does not come with a real-time clock , so an OS must use a network time server , or ask the user for time information at boot time to get access to time and date info for file time and date stamping . 	117	query201_Raspberry_Pi\S\117
+"The Raspberry PI"	"does not come"	"with a real-time clock so an OS must use a network time server"	117	query201_Raspberry_Pi\P\117-0
+"The Raspberry PI"	"does not come"	"with a real-time clock"	117	query201_Raspberry_Pi\P\117-1
+"The Raspberry PI"	"does not ask"	"the user with a real-time clock"	117	query201_Raspberry_Pi\P\117-2
+"The Raspberry PI"	"does not ask"	"the user so an OS must use a network time server"	117	query201_Raspberry_Pi\P\117-3
+"The Raspberry PI"	"does not ask"	"the user for time information at boot time"	117	query201_Raspberry_Pi\P\117-4
+"The Raspberry PI"	"does not ask"	"the user to get access to time info for file time"	117	query201_Raspberry_Pi\P\117-5
+"The Raspberry PI"	"does not ask"	"the user to get access to date info for file time and date stamping"	117	query201_Raspberry_Pi\P\117-6
+"The Raspberry PI"	"does not ask"	"the user to get access to time for file time date stamping"	117	query201_Raspberry_Pi\P\117-7
+"The Raspberry PI"	"does not ask"	"the user"	117	query201_Raspberry_Pi\P\117-8
+"an OS"	"must use"	"a network time server"	117	query201_Raspberry_Pi\P\117-9
+"ask the user for time information at boot time"	"be get"	"access to time info for file time"	117	query201_Raspberry_Pi\P\117-10
+"ask the user for time information at boot time"	"be get"	"access to date info for file time and date stamping"	117	query201_Raspberry_Pi\P\117-11
+"ask the user for time information at boot time"	"be get"	"access to time for file time date stamping"	117	query201_Raspberry_Pi\P\117-12
+However a real time clock ( such as the DS1307 ) with battery backup can be easily added via the I2C interface . 	118	query201_Raspberry_Pi\S\118
+"a real time clock such as the DS1307 with battery backup"	"can be added"	"118 However"	118	query201_Raspberry_Pi\P\118-0
+"a real time clock such as the DS1307 with battery backup"	"can be added"	"118 easily"	118	query201_Raspberry_Pi\P\118-1
+"a real time clock such as the DS1307 with battery backup"	"can be added"	"via the I2C interface 118"	118	query201_Raspberry_Pi\P\118-2
+"a real time clock such as the DS1307 with battery backup"	"can be added"	"118"	118	query201_Raspberry_Pi\P\118-3
+In the UK enquiries about the board have been received from schools in both the state and independent sectors , with around five times as much interest from the latter ( January 2012 ) . 	119	query201_Raspberry_Pi\S\119
+"In the UK enquiries about the board"	"have been received"	"from schools in the state"	119	query201_Raspberry_Pi\P\119-0
+"In the UK enquiries about the board"	"have been received"	"from schools in the independent sectors"	119	query201_Raspberry_Pi\P\119-1
+"In the UK enquiries about the board"	"have been received"	"from schools with around five times as much interest from the latter"	119	query201_Raspberry_Pi\P\119-2
+"In the UK enquiries about the board"	"have been received"	"from schools"	119	query201_Raspberry_Pi\P\119-3
+"the latter"	"is"	"January 2012"	119	query201_Raspberry_Pi\P\119-4
+It is hoped that businesses will sponsor purchases for less advantaged schools . 	120	query201_Raspberry_Pi\S\120
+It is hoped that businesses will sponsor purchases for less advantaged schools . 	120	query201_Raspberry_Pi\S\120
+It is hoped that businesses will sponsor purchases for less advantaged schools . 	120	query201_Raspberry_Pi\S\120
+Computing Education 2 Raspberry Pi Category :Educational technology Category :Home computers Category :Single-board computers Category :Linux-based devices de:Raspberry Pi Foundation# Raspberry Pi es :Raspberry Pi fr :Raspberry Pi it :Raspberry Pi ru:Raspberry Pi uk :Raspberry Pi Notes Model A and Model B are cultural references http ://www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html 	121	query201_Raspberry_Pi\S\121
+"Single-board computers"	"is"	"Category Linux-based devices de Raspberry Pi Foundation # Raspberry Pi es Raspberry Pi fr Raspberry Pi it Raspberry Pi ru Raspberry Pi uk Raspberry Pi Notes Model A are cultural references http www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html"	121	query201_Raspberry_Pi\P\121-0
+"Single-board computers"	"is"	"Category Linux-based devices de Raspberry Pi Foundation # Raspberry Pi es Raspberry Pi fr Raspberry Pi it Raspberry Pi ru Raspberry Pi uk Raspberry Pi Notes Model Model B are cultural references http www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html"	121	query201_Raspberry_Pi\P\121-1
+"Raspberry Pi Notes Model A"	"are"	"cultural references http www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html"	121	query201_Raspberry_Pi\P\121-2
+"Raspberry Pi Notes Model Model B"	"are"	"cultural references http www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html"	121	query201_Raspberry_Pi\P\121-3
+Psst , kid ... 	122	query201_Raspberry_Pi\S\122
+"Psst"	"is"	"kid"	122	query201_Raspberry_Pi\P\122-0
+Wanna learn how to hack ? The Register 28th November 2011 24th December 2011 Williams , Chris http ://www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html 	123	query201_Raspberry_Pi\S\123
+"The Register 28th November 2011 24th December 2011 Williams www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html"	"is"	"Chris http"	123	query201_Raspberry_Pi\P\123-0
+Psst , kid ... 	124	query201_Raspberry_Pi\S\124
+"Psst"	"is"	"kid"	124	query201_Raspberry_Pi\P\124-0
+Wanna learn how to hack ? The Register 28th November 2011 24th December 2011 Williams , Chris to the original models of the British educational BBC Micro computer , developed by Acorn Computers who originally developed the ARM processors ( the architecture of the Raspberry Pi ) and operating system RISC OS which will be able to be run on it . 	125	query201_Raspberry_Pi\S\125
+"The Register 28th November 2011 24th December 2011 Williams developed by Acorn Computers the architecture of the Raspberry Pi"	"is"	"Chris to the original models of the British educational BBC Micro computer"	125	query201_Raspberry_Pi\P\125-0
+"The Register 28th November 2011 24th December 2011 developed by Acorn Computers the architecture of the Raspberry Pi operating system RISC OS"	"is"	"Chris to the original models of the British educational BBC Micro computer"	125	query201_Raspberry_Pi\P\125-1
+"The Register 28th November 2011 24th December 2011 Williams the architecture of the Raspberry Pi"	"be developed"	"by Acorn Computers"	125	query201_Raspberry_Pi\P\125-2
+"The Register 28th November 2011 24th December 2011 the architecture of the Raspberry Pi operating system RISC OS"	"be developed"	"by Acorn Computers"	125	query201_Raspberry_Pi\P\125-3
+"Acorn Computers"	"developed"	"the ARM processors originally"	125	query201_Raspberry_Pi\P\125-4
+"Acorn Computers"	"developed"	"the ARM processors"	125	query201_Raspberry_Pi\P\125-5
+"operating system RISC OS"	"will be"	"able to be run on it"	125	query201_Raspberry_Pi\P\125-6
+The 26-pin GPIO connector is not assembled on the board . 	126	query201_Raspberry_Pi\S\126
+"The 26-pin GPIO connector"	"is not assembled"	"on the board"	126	query201_Raspberry_Pi\P\126-0
+The end-user must purchase and solder a 13x2 pin header with 0.1-inch 	127	query201_Raspberry_Pi\S\127
+"The end-user"	"must solder"	"a 13x2 pin header with 0.1-inch"	127	query201_Raspberry_Pi\P\127-0
+"The end-user"	"must solder"	"a 13x2 pin header"	127	query201_Raspberry_Pi\P\127-1
+( 2.54mm 	128	query201_Raspberry_Pi\S\128
+) spacing . 	129	query201_Raspberry_Pi\S\129
+The pin header can be either a straight pin header , mounted on either the bottom or the top , ( to connect to a " daughterboard " ) or it can be a right-angle shrouded box connector for use with a ribbon cable . 	130	query201_Raspberry_Pi\S\130
+"The pin header"	"can be"	"a straight pin header mounted on the bottom to connect to a daughterboard can be a right-angle shrouded box connector for use with a ribbon cable"	130	query201_Raspberry_Pi\P\130-0
+"The pin header"	"can be"	"a straight pin header mounted on the the top to connect to a daughterboard or it can be a right-angle shrouded box connector for use with a ribbon cable"	130	query201_Raspberry_Pi\P\130-1
+"The pin header"	"can be"	"a straight pin mounted on the bottom to connect to a daughterboard it can be a right-angle shrouded box connector for use with a ribbon cable"	130	query201_Raspberry_Pi\P\130-2
+"a straight pin header to connect to a daughterboard"	"be mounted"	"on the bottom"	130	query201_Raspberry_Pi\P\130-3
+"a straight pin header to connect to a daughterboard"	"be mounted"	"on the the top"	130	query201_Raspberry_Pi\P\130-4
+"a straight pin to connect to a daughterboard it"	"be mounted"	"on the bottom"	130	query201_Raspberry_Pi\P\130-5
+"a straight pin to connect to a daughterboard it"	"be mounted"	"on the the top"	130	query201_Raspberry_Pi\P\130-6
+"a straight pin header mounted on the bottom to connect to a daughterboard"	"can be a right-angle shrouded box connector"	"for use with a ribbon cable"	130	query201_Raspberry_Pi\P\130-7
+"a straight pin header mounted on the the top to connect to a daughterboard or it"	"can be a right-angle shrouded box connector"	"for use with a ribbon cable"	130	query201_Raspberry_Pi\P\130-8
+"a straight pin mounted on the bottom to connect to a daughterboard it"	"can be a right-angle shrouded box connector"	"for use with a ribbon cable"	130	query201_Raspberry_Pi\P\130-9
+"a straight pin header mounted on the bottom to connect to a daughterboard"	"can be"	"a right-angle shrouded box connector"	130	query201_Raspberry_Pi\P\130-10
+"a straight pin header mounted on the the top to connect to a daughterboard or it"	"can be"	"a right-angle shrouded box connector"	130	query201_Raspberry_Pi\P\130-11
+"a straight pin mounted on the bottom to connect to a daughterboard it"	"can be"	"a right-angle shrouded box connector"	130	query201_Raspberry_Pi\P\130-12
+At the moment RISC OS ( shared source ) is not yet supported , as it lacks essential drivers . 	131	query201_Raspberry_Pi\S\131
+"At the moment RISC OS"	"is"	"shared source"	131	query201_Raspberry_Pi\P\131-0
+"At the moment RISC OS"	"is not supported"	"as it lacks essential drivers yet"	131	query201_Raspberry_Pi\P\131-1
+"At the moment RISC OS"	"is not supported"	"as it lacks essential drivers"	131	query201_Raspberry_Pi\P\131-2
+"At the moment RISC OS"	"is not supported"	"as it lacks essential drivers"	131	query201_Raspberry_Pi\P\131-3
+Arduino , BeagleBoard , Cotton Candy , CuBox , Hawkboard , IGEPv2 , OmapZoom , PandaBoard , Pandora , SheevaPlug ARM architecture , List of ARM microprocessor cores , ARM11 Single-board computer , Single-board microcontroller Linux , Linux distribution One Laptop per Child ( OLPC ) , Aakash tablet ( USD $ 60 ) , NOVO7 tablet ( USD $ 89 ) Official Websites Unofficial Websites , eLinux .org 	132	query201_Raspberry_Pi\S\132
+, Technical Information , broadcom.com 	133	query201_Raspberry_Pi\S\133
+"Technical Information"	"is"	"broadcom.com"	133	query201_Raspberry_Pi\P\133-0
+, smsc.com 	134	query201_Raspberry_Pi\S\134
+, smsc.com 	134	query201_Raspberry_Pi\S\134

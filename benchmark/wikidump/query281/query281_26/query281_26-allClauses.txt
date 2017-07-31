@@ -1,0 +1,31 @@
+0	SVC (S: food@6, V: "is", C: food@10)	SVA (V: refers@12, S: food@6, A!: to@13)	SVO (S: food@15, V: "has", O: recipe@19)	SVA (V: altered@22, S: recipe@19, A!: in@23)	SVA (V: "be make", S: way@25, XCOMP: part@29)	SVA (V: part@29, S: it@28, A!: of@30)
+1	SVC (C: loss@7, V: is@5, S: intention@4)	SVC (V: is@17, S: intention@16, A?: loss@7, XCOMP: aid@19)
+2	
+3	SVO (V: regulated@10, S: use@4, A?: by@11, O: areas@3)
+4	
+5	SVO (V: contain@8, S: fat@5, O: grams@12)	SVO (V: labeled@21, S: fat@5, O: grams@12, ACOMP: free@23)	SVO (V: contain@26, S: it@24, O: 0.5@29)
+6	
+7	
+8	SVA (V: process@6, S: Administration@4, A!: of@7)	SVO (V: requires@16, S: process@6, A?: usually@15, XCOMP: finding@17)
+9	SVC (C: simple@5, V: be@3, S: This@1, A-: as@4, A?: as@6, A?: common@22)	SVO (S: food@13, V: "has", O: sugar@15)
+10	SVC (C: baked@9, V: be@8, S: food@6, A?: In@1, A?: of@11, A-: thus@13, XCOMP: reducing@14)
+11	SVA (V: used@10, S: ingredients@7, A?: In@1, A!: as@11)
+12	SVO (V: displaces@11, S: content@9, A?: In@1, A?: effectively@10, O: some@12)
+13	SVO (V: have@4, S: fibers@3, O: calories@6)	SVA (V: results@9, S: this@8, A?: have@4, A!: in@10)
+14	SVA (V: relies@3, S: technique@2, A!: on@4)	SVO (V: achieve@28, S: technique@2, A?: on@4, O: reduction@33)	SVA (V: "be replace", S: addition@7, O: part@23)
+15	
+16	
+17	
+18	
+19	
+20	
+21	SVO (V: replace@11, S: Service@9, O: sugar@13, A?: with@14)	EXISTENTIAL (V: is@19, S: controversy@21)	SVA (V: "be based", S: controversy@21, A!: around@23)	SVA (V: "be used", S: substitute@29, XCOMP: replace@32)	SVC (C: harmful@36, V: are@34, S: themselves@35)	SVC (C: harmful@36, V: are@34, S: substitute@29)
+22	SV (V: resolved@7, S: question@4, A-: Even@1, A?: satisfactorily@6)	SVC (V: remains@10, S: which@9, ACOMP: unlikely@11, A?: at@12)
+23	
+24	
+25	
+26	SVA (V: remains@7, S: question@5, A?: still@6, A!: as@8)	SVO (V: outweigh@17, S: benefits@12, O: loss@20)
+27	SVC (C: small@28, V: is@27, S: reduction@23, A?: any@31)
+28	
+29	SVC (S: Administration@4, V: "is", C: excess@8)	SVA (V: "be stored", S: sugar@11, A!: as@24)
+30	SV (V: es@7, S: Light-Produkt@6)

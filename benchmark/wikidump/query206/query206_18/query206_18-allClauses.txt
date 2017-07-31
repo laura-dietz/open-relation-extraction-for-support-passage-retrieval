@@ -1,0 +1,258 @@
+0	SVA (V: was@28, S: capacity@20, A!: over@29)
+1	SVO (V: ranked@3, S: gigawatt@1, O: UK@5, A?: as@6)	SVO (S: world@8, V: "has", O: producer@12)
+2	SVO (V: expected@4, S: power@2, XCOMP: continue@6)	SVOC (V: estimates@17, S: RenewableUK@16, CCOMP: expected@4, CCOMP: deployed@27)	SVA (V: deployed@27, S: GW@22, A!: per@28, A?: for@30)
+3	SVC (C: source@11, V: is@7, S: power@6, A?: Within@1, A?: of@12, A?: after@15)
+4	SVO (V: saw@2, S: 2011@1, CCOMP: brought@22)	SVOC (V: brought@22, S: pause@4, O: online@23, A?: during@24, O: decrease@30)
+5	SVC (S: farm@5, V: "is", C: phase@7)	SVA (V: completed@16, S: farm@5, A!: in@17, A?: with@19)
+6	SVA (V: compares@2, S: This@1, A!: with@3)	SVA (V: "be built", S: MW@7, A!: offshore@9, A?: in@10)
+7	SVC (C: similar@5, V: were@3, S: installations@2, A?: very@4, A?: to@6, A?: completed@13)	SV (V: completed@13, S: MW@12)
+8	
+9	SVA (V: was@4, S: highlight@1, A!: on@5, A?: set@11)	SVO (V: set@11, S: power@10, A?: when@8, O: contribution@14)	SVO (S: UK@17, V: "has", O: demand@19)
+10	
+11	SVO (V: expected@3, S: 2012@1, XCOMP: year@8)	SVA (V: "be becoming", S: farms@17, ACOMP: operational@19, A!: with@20)
+12	
+13	SVA (V: found@10, S: study@3, A!: that@11)
+14	
+15	
+16	
+17	
+18	
+19	SVA (V: fallen@3, S: Wh@1, A!: below@4)
+20	SVA (V: recognised@7, S: it@4, A!: that@8)
+21	SVC (C: higher@4, V: were@2, S: Wh@1, A?: significantly@3, A?: than@5, A?: according@17)
+22	
+23	
+24	
+25	
+26	SVA (V: "be May", S: Costs@1)
+27	
+28	
+29	
+30	SVC (V: made@20, S: Committee@10, ACOMP: profitable@21, A?: by@22)	SVA (V: provide@29, S: Certificates@27, A!: over@30)
+31	
+32	
+33	
+34	
+35	SVO (V: topped@26, S: cost@21, O: billion@29, A?: in@30)	SVOC (V: expected@34, S: Times@9, XCOMP: reach@36, O: London@1)	SVO (V: is@48, S: %@47, A?: of@43, A?: for@49, O: 2020@41)
+36	
+37	
+38	
+39	
+40	SVC (S: year@17, V: "is", C: cost@22)	SVOC (V: added@24, S: billion@15, XCOMP: end-user@26, O: subsidies@11)
+41	SVO (V: warned@5, S: King@3, CCOMP: increase@9)	SVO (V: increase@9, S: this@7, O: levels@11)
+42	
+43	
+44	SVO (V: fears@4, S: Poverty@3, A?: over@5, A?: As@11, CCOMP: were@17)	EXISTENTIAL (V: were@17, S: farms@21, A?: in@22, A?: with@26)
+45	SVO (V: have@17, S: MW@16, O: consent@19)	SVA (V: are@24, S: MW@23, A!: in@25)
+46	SVA (V: agreed@6, S: Government@5, A?: In@1, A!: to@7)	SVO (S: EU@18, V: "has", O: supply@21)
+47	SVO (V: given@6, S: state@4, O: target@10, A?: for@12)	SVO (S: its@7, V: "has", O: target@10)	SVOC (C: %@18, V: is@16, S: it@15, O: UK@14)
+48	SVA (V: formalised@3, S: This@1, A!: in@4, A?: with@7)
+49	SVA (V: are@10, S: heat@3, A!: at@11)	SVO (V: estimates@17, S: RenewableUK@16, A?: are@10, CCOMP: require@21)	SVOC (V: require@21, S: this@19, O: 35@22, XCOMP: met@43)	SVA (V: "be generated", S: %@25, A!: from@34, A?: by@37)	SVO (S: UK@28, V: "has", O: electricity@30)
+50	SVO (V: announced@7, S: Government@6, A?: In@1, O: plans@8, A?: by@19)
+51	SVA (V: are@4, S: sites@3, A!: in@5)	SVA (V: "be awarded", S: sites@13, A!: already@14, A?: in@16)
+52	SVO (V: estimated@5, S: it@3, CCOMP: result@9)	SVA (V: result@9, S: this@7, A!: in@10)
+53	
+54	
+55	
+56	
+57	
+58	
+59	SVO (S: Britain@1, V: "has", O: List@19)
+60	SVC (V: became@9, S: Yarmouth@5, XCOMP: leader@12, A?: overtook@23)	SVC (V: became@9, S: Kingdom@8, XCOMP: leader@12, A?: overtook@23)	SVO (V: overtook@23, S: it@22, A?: when@21, O: Denmark@24)
+61	
+62	SVO (V: overtakes@2, S: UK@1, O: Denmark@3, A?: as@4)	SVO (S: world@5, V: "has", O: guardian.co.uk@13)
+63	
+64	SVO (V: overtakes@2, S: UK@1, O: Denmark@3, A?: as@4)	SVO (S: world@5, V: "has", O: guardian.co.uk@13)
+65	SVC (S: London@3, V: "is", C: farm@19)	SVOO (V: has@6, S: It@4, A?: also@5, O: farm@11, IO: London@3)	SVA (V: "be located", S: farm@19, A!: off@22)
+66	SVO (V: has@3, S: it@2, A?: Currently@1, O: MW@5, A?: with@11)
+67	SVO (V: estimated@5, S: UK@2, XCOMP: have@7, A?: is@40)	SVO (S: Europe@12, V: "has", O: resource@17)	SVC (C: equivalent@21, V: is@20, S: resource@17, A?: to@22)	SVA (V: is@40, S: this@39, A!: at@42)
+68	
+69	
+70	
+71	
+72	SV (V: was@7, S: GW@9, A?: In@2)
+73	SVA (V: drops@5, S: it@4, A?: in@2, A!: to@6)
+74	
+75	
+76	
+77	
+78	SVC (S: April@13, V: "is", C: http@17)
+79	SVO (S: UK@26, V: "has", O: resource@30)	SVO (V: gives@39, S: April@13, O: power@42, A?: as@43)
+80	
+81	
+82	
+83	
+84	
+85	
+86	SVA (V: "be leading", S: resource@11, A!: to@35)	SVA (V: came@21, S: resource@11, A!: about@22, A?: leading@34)	SVA (V: "be discontinued", S: the@24, A!: now@25)	SVC (S: Obligation@29, V: "is", C: NFFO@31)	SVC (S: farms@38, V: "is", C: Offshore@41)
+87	SVO (V: introduced@4, S: NFFO@2, A?: as@5, XCOMP: secure@19)	SVO (V: provided@29, S: sources@26, O: spur@32)
+88	SVO (V: require@4, S: UK@2, O: turbines@7, A?: by@8, A?: meet@11)	SVA (V: "be meet", S: UK@2, O: targets@13)
+89	
+90	SVOC (V: need@3, S: Britain@1, O: farms@6, XCOMP: satisfy@8)
+91	SVOC (V: need@3, S: Britain@1, O: farms@6, XCOMP: satisfy@8)	SVC (S: Association@24, V: "is", C: RenewableUK@27)	SVOO (V: began@29, S: McCarthy@14, O: discussions@30, IO: targets@10)	SVA (V: "be draw", S: discussions@30, O: procedures@38, A!: for@39)	SVOC (V: build@64, S: owner@47, CCOMP: need@3, O: farms@67)
+92	SVC (C: set@5, V: was@3, S: result@2, A?: of@6, A?: build@13)	SVA (V: "be build", S: set@5, O: farms@17)	SVA (V: "be published", S: guidelines@7, A!: in@9)	SVA (V: "be designed", S: farms@17, XCOMP: give@20)	SVA (V: "be gain", S: chance@23, O: experience@29)
+93	SVA (V: limited@4, S: projects@2, A!: to@5)	SVA (V: with@12, S: projects@2, A?: to@5, A!: maximum@14)
+94	SVA (V: chosen@3, S: Locations@1, A!: by@4)	SV (V: submitted@14, S: chosen@3)
+95	SVO (V: granted@6, S: Seventeen@1, O: permission@7, A?: in@14)	SVA (V: "be proceed", S: permission@7, A!: in@10)	SVC (V: become@17, S: what@15, ACOMP: known@18)
+96	SVC (C: Farm@12, V: was@8, S: first@2, A?: completed@14)	SVA (V: "be completed", S: Farm@12, A!: in@15)
+97	SV (V: completed@6, S: more@2)	SVC (C: Ormonde@12, V: being@11, S: recent@10, A?: in@13)
+98	SVO (V: provide@2, S: They@1, O: power@5)	SVA (V: "be generating", S: power@5, O: capacity@7)
+99	
+100	SVC (S: project@3, V: "is", C: Teeside@5)	SVO (V: has@7, S: project@3, O: consent@9)	SVOC (V: awaiting@12, S: project@3, O: consent@9, O: construction@13)
+101	SVA (V: withdrawn@4, S: sites@2, A!: including@6)
+102	SVA (V: learnt@2, S: Lessons@1, A!: from@3)	SVC (S: Round@4, V: "is", C: difficulty@9)	SVA (V: "be reduce", S: pressure@23, O: emissions@28)	SVC (S: Department@32, V: "is", C: DTI@38)
+103	SVO (V: identified@2, S: This@1, O: areas@5)	SVC (S: areas@5, V: "is", C: called@24)	SVC (S: areas@5, V: "is", C: Bay@12)
+104	SVO (V: prevented@3, S: Development@1, A?: in@4, XCOMP: reduce@15)
+105	SVA (V: tendered@5, S: areas@3, A!: to@6, A?: in@9)	SVA (V: "be known", S: process@13, A!: as@15)
+106	SVA (V: announced@4, S: results@2, A!: in@5, A?: with@8)	SVA (V: "be awarded", S: projects@10, A!: with@12)	SVA (V: "be generating", S: power@15, O: capacity@17)
+107	SV (V: is@7, S: GW@10, A?: By@1)
+108	
+109	SVC (S: Assessment@7, V: "is", C: EIA@9)	SVA (V: needed@13, S: Assessment@7, A!: along@14)
+110	SVC (C: II@11, V: was@8, S: first@2)
+111	SVA (V: are@4, S: sites@3, A!: currently@5, A?: under@6)
+112	SVOC (V: gave@7, S: Estate@6, A?: In@1, O: approval@8, A?: for@9, XCOMP: extended@18)
+113	SVO (V: require@6, S: extension@4, O: application@11)
+114	SV (V: are@3, S: sites@2)	SVA (V: "be announced", S: SEA@11, A!: by@13, A?: in@16)	SVA (V: "be Following", S: Estate@22, A!: on@6)	SVO (V: launched@23, S: Estate@22, A?: Following@5, O: round@26, A?: in@30)
+115	SVA (V: envisaged@4, S: Round@1, A!: on@5)	SVO (S: its@13, V: "has", O: predecessors@14)	SVA (V: identify@33, S: Round@29, A!: to@35)
+116	SVO (V: proposed@4, S: Estate@3, O: zones@7)	SVO (V: situated@19, S: number@12, A?: within@9, O: zones@7)
+117	SVO (V: ran@2, S: It@1, O: process@6, A?: to@7, A?: to@10)
+118	SVA (V: closed@3, S: bidding@2, A!: in@4, A?: with@7)
+119	SV (V: announced@9, S: bidders@7, A?: On@1)
+120	SVO (V: have@11, S: applications@9, A?: Following@1, A?: still@10, XCOMP: sought@14)
+121	SVC (C: unlikely@3, V: are@2, S: These@1, XCOMP: completed@6)	SVO (V: expected@19, S: projects@16, XCOMP: begin@21)
+122	EXISTENTIAL (V: was@7, S: speculation@9, A?: During@1)	SVO (V: bid@14, S: companies@12, A?: over@10, A?: for@15, O: speculation@9)
+123	SVO (V: make@6, S: Estate@3, XCOMP: public@9)	SV (V: public@9, S: list@8)
+124	SVA (V: announced@9, S: bidders@3, A?: eventually@8, A!: follows@11)	SVA (V: called@34, S: Government@28, A?: also@33, A!: for@35)
+125	SVA (V: considered@4, S: These@1, A?: originally@3, A!: as@5)	SVO (V: signed@23, S: tenders@17, A?: initially@22, O: agreements@25, A?: with@26)	SVO (V: signed@23, S: companies@15, A?: initially@22, O: agreements@25, A?: with@26)
+126	SVO (S: Government@6, V: "has", O: plan@10)	SVO (V: given@26, S: sites@24, A?: Following@1, O: subject@28, A?: to@29)
+127	SVO (V: granted@6, S: sites@3, A?: Subsequently@1, O: agreements@7)
+128	SVA (V: "be Park_Reading", S: Business@36, O: _@38)	SVA (V: "be BerkshireReading", S: _@38, O: farms@43)	SVO (V: built@48, S: List@15, O: onshore@49)	SVO (V: generate@54, S: they@52, A?: currently@53, O: power@56)
+129	SVO (V: built@7, S: farm@5, A?: in@8, A?: at@10, CCOMP: consisted@16)	SVA (V: consisted@16, S: it@15, A!: of@17, A?: with@21)	SVA (V: "be generate", S: capacity@23, O: maximum@27)
+130	SVO (V: saw@7, S: 1990s@6, A?: Following@1, CCOMP: becoming@18)	SVC (V: becoming@18, S: growth@12, ACOMP: operational@19, A?: year@21)	SVO (V: tended@27, S: farms@26, XCOMP: built@30)	SVC (C: Rhyd-y-Groes@39, V: being@38, S: examples@37)
+131	SVA (V: appearing@5, S: farms@2, A?: also@4, A!: on@6)
+132	SVO (V: saw@5, S: end@2, CCOMP: go@13)	SVA (V: go@13, S: farm@10, A!: into@14, A?: at@16)
+133	SVO (V: saw@4, S: 1990s@3, O: growth@6)	SV (V: matured@10, S: industry@9)
+134	SV (V: installed@13, S: turbines@5, A?: In@1)	SVO (V: started@19, S: pace@16, XCOMP: accelerate@21)	SVC (V: became@34, S: companies@26, ACOMP: involved@36)
+135	SVA (V: continued@4, S: development@3, A!: rapidly@5)	SVA (V: by@7, S: development@3, A?: rapidly@5, A!: norm@16)	SVC (C: norm@16, V: were@14, S: 2000s@10)
+136	SVO (V: continued@2, S: Growth@1, A?: with@3, O: turbines@11)	SVA (V: "be sitting", S: turbines@11, A!: on@13)
+137	SVO (S: Scotland@1, V: "has", O: countryside@9)	SVC (V: became@10, S: countryside@9, XCOMP: area@13)	SVC (V: went@23, S: 100MW@20, ACOMP: operational@24, A?: in@25, A?: at@27, A?: in@30)
+138	SVO (V: saw@3, S: 2006@1, A?: also@2, O: use@6)
+139	
+140	
+141	SVC (C: farm@6, V: is@2, S: This@1, A?: consisting@7)	SVA (V: "be consisting", S: farm@6, A!: of@8)
+142	SVO (V: granted@4, S: Approval@1, XCOMP: build@6)	SVOC (V: feature@19, S: Approval@1, XCOMP: build@6, O: MW@21)
+143	
+144	EXISTENTIAL (V: were@6, S: farms@11, A?: As@1, A?: with@15)
+145	SVA (V: constructed@9, S: MW@4, A!: GW@14)
+146	
+147	
+148	SVO (V: represents@16, S: this@15, O: contribution@20)
+149	
+150	
+151	
+152	SVC (S: statistics@6, V: "is", C: DUKES@8)
+153	
+154	SVC (S: statistics@6, V: "is", C: DUKES@8)	SVA (V: connected@31, S: Digest@1, A?: usually@29, A?: directly@30, A!: to@32)	SVA (V: connected@42, S: farms@40, A!: to@43)	SVA (V: "be termed", S: network@47)
+155	SVC (C: generation@11, V: was@9, S: half@4, A?: In@1)	SVO (V: expected@16, S: this@14, XCOMP: reduce@18)	SV (V: built@27, S: farms@25)
+156	
+157	
+158	
+159	
+160	
+161	
+162	SVO (V: continues@22, S: Embedded@1, XCOMP: prove@24, A?: with@27)	SVO (V: rate@39, S: Embedded@1, XCOMP: prove@24, A?: with@27, A?: of@40)	SVA (V: "be stalled", S: schemes@29, A!: in@31)
+163	SVC (S: RenewableUK@2, V: "is", C: BWEA@5)	SVO (V: show@8, S: figures@7, CCOMP: are@11)	EXISTENTIAL (V: are@11, S: worth@15)	SVA (V: "be waiting", S: schemes@18, A!: for@20)
+164	SVOC (V: takes@8, S: application@7, A?: years@10, XCOMP: considered@13, O: average@2)
+165	
+166	SVA (V: worth@12, S: GW@11, A!: of@13)	SVO (S: their@26, V: "has", O: impact@27)
+167	SVC (S: BWEA@8, V: "is", C: Ministry@11)	SVO (V: signed@18, S: BWEA@8, A?: In@1, O: Memorandum@20)
+168	SVOC (V: required@13, S: suppliers@10, A?: now@12, A?: by@14, XCOMP: provide@17, O: Obligation@2)	SVO (S: their@21, V: "has", O: sales@22)
+169	SVO (V: receives@4, S: supplier@2, A-: then@3, O: Certificate@8)	SVC (S: Certificate@8, V: "is", C: ROC@10)	SVO (V: purchased@19, S: they@17, O: electricity@16)
+170	SVO (V: introduced@5, S: Act@3, O: ROCs@7, A?: from@11)
+171	SVO (V: receives@3, S: wind@2, O: ROC@5, A?: however@9)	SVA (V: "be reflect", S: Review@15, O: costs@28)	SVO (V: receives@21, S: Review@15, A?: now@20, O: ROCs@23, A?: reflect@25)	SVO (S: its@26, V: "has", O: costs@28)
+172	
+173	
+174	SVO (V: receives@3, S: energy@2, O: %@6)	SVA (V: "be generated", S: revenue@10, A!: by@12)
+175	SVC (C: form@6, V: are@3, S: ROCs@2, A?: of@7, A?: providing@14)	SVA (V: "be providing", S: form@6, A!: over@15, A?: from@20)
+176	SVO (V: received@9, S: systems@3, A?: previously@8, O: ROCs@11)	SVOC (C: eligible@16, V: are@14, S: systems@3, A?: previously@8, O: ROCs@11, A?: now@15, A?: for@17)
+177	
+178	
+179	SVO (V: generated@3, S: Wind@1, O: power@4)	SVC (C: resource@8, V: is@5, S: generated@3)	SVA (V: produced@15, S: amount@12, A!: at@16, A?: in@20, A?: by@22)
+180	SVC (C: low@6, V: is@4, S: speed@3, A?: too@5)
+181	SVC (C: able@9, V: be@8, S: turbines@5, XCOMP: make@11)	SVC (C: high@19, V: is@17, S: it@16, A?: too@18)	SVO (V: have@30, S: turbines@28, XCOMP: shut@33)
+182	SVO (V: happens@3, S: this@2, A?: during@4, CCOMP: have@32)	SVC (S: snap@8, V: "is", C: sources@30)	SVOC (C: calm@13, V: are@12, S: winds@11, A?: when@10, A?: over@14, O: snap@8)	SVO (S: its@21, V: "has", O: levels@23)
+183	SVO (V: produced@5, S: farms@4, O: electricity@9, A?: during@11)	SVO (S: Britain@12, V: "has", O: http@21)
+184	SVOC (V: produced@6, S: farms@5, O: electricity@10, A?: during@12, O: www.telegraph.co.uk/finance/newsbysector/energy/6957501/Wind-farms-produced-practically-no-electricity-during-Britains-cold-snap.html@26)	SVO (S: Britain@13, V: "has", O: http@22)
+185	SVA (V: "be issued", S: UK@10, A!: in@12)	SVO (V: agree@16, S: reports@3, A?: generally@15, CCOMP: make@24)	SVO (V: make@24, S: variability@18, XCOMP: unmanageable@27)	SV (V: unmanageable@27, S: grid@26)	SVC (C: modest@36, V: are@35, S: costs@32)	SV (V: quantified@40, S: costs@32)
+186	SVC (C: higher@9, V: is@8, S: demand@5, A?: In@1, A?: in@10, A?: than@12)	SV (V: are@18, S: speeds@20, A-: so@17)
+187	
+188	SVO (S: Generation@2, V: "has", O: Performance@4)	SVC (S: Dixon@14, V: "is", C: http@23)
+189	
+190	
+191	SVO (V: =@13, S: user@12, O: rdoc@17)	SVO (V: =@45, S: version@44, O: urlVersion@49)	SVC (S: Institute@79, V: "is", C: Centre@83)	SVA (V: vary@96, S: output@90, A!: greatly@97, A?: vary@104, A?: connected@110)	SV (V: vary@104, S: speeds@103)	SVA (V: connected@110, S: turbines@108, A!: over@111)	SVOO (V: becomes@120, S: output@119, O: variable@122, IO: areas@115)
+192	
+193	
+194	
+195	
+196	SVC (S: Options@10, V: "is", C: variations@21)	SVA (V: "be spread", S: Options@10, A!: out@29, A?: over@30)	SV (V: smoothed@39, S: Options@10)	SV (V: intermittent@43, S: Options@10)
+197	SVA (V: "be measured", S: speeds@12, A!: at@14)	SV (V: decreases@18, S: correlation@9, A?: As@1)
+198	SVA (V: confirmed@4, S: This@1, A!: recently@5, A?: by@6)	SVA (V: "be conducted", S: studies@7, A!: by@9)	SVC (S: Diesendorf@16, V: "is", C: Mark@18)	SVC (S: Mark@18, V: "is", C: 2007@20)
+199	SVC (S: Solutions@2, V: "is", C: p@7)
+200	
+201	SVA (V: "be analysed", S: Sinden@3, A!: over@6, A?: from@14)	SVA (V: "be spread", S: sites@16, A!: out@18, A?: over@19)
+202	SVO (V: found@2, S: He@1, CCOMP: fell@10)	SVA (V: fell@10, S: coefficient@6, A!: from@11)
+203	
+204	SVO (V: have@10, S: correlation@8, O: coefficient@12)
+205	EXISTENTIAL (V: were@3, S: hours@5, A?: in@6)	EXISTENTIAL (V: events@33, S: hours@5, A?: in@6, A?: affecting@34)	SVO (V: was@13, S: speed@12, A?: where@10, A?: below@14, O: set@9)	SVA (V: "be affecting", S: events@33, O: 90@37)
+206	SVA (V: "be authored", S: report@3, A!: by@5)	SVO (V: said@19, S: report@3, CCOMP: delivering@27)	SVO (S: Scotland@21, V: "has", O: farms@24)	SVO (V: delivering@27, S: farms@24, A?: only@26, O: fraction@29)	SVO (S: their@33, V: "has", O: builders@34)	SV (V: claim@35, S: builders@34)
+207	SVC (V: looked@3, S: report@2, A?: at@4, A?: over@8, A?: to@16, XCOMP: using@19)	SVO (S: industry@23, V: "has", O: System@28)
+208	SVO (V: concluded@3, S: report@2, CCOMP: relied@11)	SVO (V: relied@11, S: power@6, A?: upon@12, CCOMP: is@24)	EXISTENTIAL (V: is@24, S: need@27)	SVA (V: "be re-evaluate", S: need@27, O: use@31)
+209	
+210	
+211	
+212	
+213	
+214	
+215	SVA (V: "be representing", S: body@21, O: energy@26)	SVO (S: Scotland@23, V: "has", O: energy@26)	SVO (V: refused@27, S: body@21, XCOMP: recognise@29)
+216	SVC (S: Hogan@2, V: "is", C: Director@4)	SVO (V: said@11, S: Hogan@2, CCOMP: have@15)	SVOC (V: have@15, S: We@14, O: confidence@17, CCOMP: argued@31)	SVOC (V: added@25, S: We@14, O: confidence@17, CCOMP: argued@31)	SVO (V: argued@31, S: It@28, CCOMP: acting@35)	SVC (V: acting@35, S: Trust@33, CCOMP: lies@40)	SVO (S: their@38, V: "has", O: expertise@39)	SVO (S: our@43, V: "has", O: lands@45)	SVC (V: seem@49, S: they@48, A?: yet@47, XCOMP: going@52)	SVA (V: recognised@63, S: energy@59, A?: widely@62, A!: as@64)
+217	
+218	
+219	
+220	
+221	SVOO (V: investigated@22, S: study@21, O: report@25, A?: by@26, IO: Outdoors@18)	SVA (V: performed@41, S: farms@40, A!: better@43)	SVO (V: based@58, S: Report@56, A?: upon@52, O: problems@47)
+222	SVO (V: said@6, S: spokesman@4, CCOMP: accounted@11)	SVA (V: "be generated", S: electricity@7, A!: by@9)	SVA (V: accounted@11, S: electricity@7, A!: for@12)	SVO (S: Scotland@16, V: "has", O: use@19)
+223	SVC (C: high@20, V: was@19, S: wind@16, A?: On@1, CCOMP: raining@24)	SVO (V: raining@24, S: it@22, A?: heavily@25, CCOMP: created@29)	SVO (V: created@29, S: which@27, A?: also@28, O: hydroelectricity@31)
+224	SVC (V: became@3, S: grid@2, ACOMP: overloaded@4)	SVC (V: fault@8, S: grid@2, ACOMP: overloaded@4, A?: in@9)	SVA (V: transferred@20, S: energy@16, A!: to@21)	SVO (V: had@26, S: generation@25, XCOMP: cut@29)
+225	SVOC (V: paid@6, S: operators@3, O: 900,000@8, A?: by@9, XCOMP: disconnect@14)	SVO (S: their@15, V: "has", O: turbines@16)	SV (V: needed@25, S: electricity@22)
+226	
+227	
+228	SVOC (V: paid@3, S: farms@2, O: 900,000@5, A?: switch@7, O: www.telegraph.co.uk/earth/energy/windpower/8486449/Wind-farms-paid-900000-to-switch-off-for-one-night@24)	SVA (V: "be switch", S: farms@2, A!: for@9)
+229	
+230	SVO (V: paid@3, S: farms@2, O: 900,000@5, A?: switch@7)	SVA (V: "be switch", S: farms@2, A!: for@9)	SVA (V: "be described", S: one@10, O: situation@36)	SVC (S: Change@29, V: "is", C: DECC@31)	SVO (V: described@34, S: Ward@13, O: situation@36)	SVO (V: needed@47, S: storage@45, XCOMP: adding@49)	SVO (V: need@55, S: we@54, O: facilities@60, A?: sold@75)	SVO (S: our@65, V: "has", O: neighbours@67)	SV (V: sold@75, S: supplies@72)	SV (V: bought@77, S: supplies@72)
+231	
+232	SVOC (V: paid@3, S: windfarms@2, O: cash@4, XCOMP: stop@6, O: www.bbc.co.uk/news/uk-scotland-13253876@18)
+233	SVO (V: paid@3, S: windfarms@2, O: cash@4, A?: stop@6)	SVA (V: "be stop", S: windfarms@2, XCOMP: producing@7)	EXISTENTIAL (V: is@15, S: dispute@17)	SVA (V: "be required", S: amount@21, XCOMP: support@28)	SVO (S: its@41, V: "has", O: supply@42)
+234	
+235	SVO (V: argued@2, S: UK@1, CCOMP: necessary@6)	SVC (C: necessary@6, V: is@5, S: it@4, XCOMP: have@8)
+236	
+237	
+238	
+239	SVA (V: "be back-up", S: generation@4, O: House@12)
+240	
+241	
+242	
+243	SVA (V: "be back-up", S: generation@4, O: House@12)
+244	SVO (V: has@10, S: Grid@8, O: responsibility@11)	SVA (V: "be reported", S: grid@15, A!: in@17)	SVA (V: cope@26, S: grid@24, A!: with@27, A?: without@31)
+245	
+246	
+247	
+248	
+249	SVO (V: expands@4, S: UK@3, O: Harrabin@10, A?: In@11)	SVO (V: told@19, S: companies@16, O: government@21)	SVA (V: "be costing", S: plants@25, O: billion@29)	SVOC (V: needed@32, S: plants@25, O: government@21, A?: by@33, XCOMP: act@36)
+250	SVC (V: standing@6, S: they@3, ACOMP: idle@7)	SVA (V: "be make", S: they@13, XCOMP: economic@24)	SVOO (V: require@15, S: they@13, O: payments@18, A?: make@21, IO: time@12)	SVA (V: economic@24, S: investment@23, A!: on@26)	SVA (V: "be paid", S: subsidies@30, A!: already@31, A?: for@33)
+251	SVO (V: Lists@5, S: Related@4, O: Developers@9)	SV (V: simple@31, S: Kingdom@30)
+252	
+253	
+254	
+255	
+256	SVA (V: "be generated", S: electricity@101, A!: by@103)	SVOO (V: wind@126, S: impact@90, A?: offshore@125, O: research@127, A?: into@128, IO: turbines@65)
+257	

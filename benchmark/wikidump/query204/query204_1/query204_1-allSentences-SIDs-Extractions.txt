@@ -1,0 +1,205 @@
+0	The rules of golf are a standard set of regulations and procedures by which the sport of golf should be played . 
+0	"0 The rules of golf"	"are a standard set"	"of regulations"	
+0	"0 The rules of golf"	"are a standard set"	"of procedures"	
+0	"0 The rules of golf"	"are"	"a standard set"	
+0	"the sport of golf"	"should be played"	"a standard set of regulations by which"	
+0	"the sport of golf"	"should be played"	"a standard set of procedures by which"	
+0	"the sport of golf"	"should be played"	"a standard set of regulations"	
+0	"the sport of golf"	"should be played"	"a standard set of procedures"	
+1	They are jointly written and administered by the R&A ( spun off from The Royal and Ancient Golf Club of St Andrews ) the governing body of golf worldwide except in the United States and Mexico , which are the responsibility of the United States Golf Association ( USGA ) . 
+1	"They"	"are written"	"1 jointly"	
+1	"They"	"are written"	"1"	
+1	"They"	"are administered"	"1 jointly"	
+1	"They"	"are administered"	"by the R&A 1"	
+1	"They"	"are administered"	"1"	
+1	"1"	"spun off"	"from The Royal Golf Club of St Andrews the governing body of golf worldwide except in the United States"	
+1	"1"	"spun off"	"from The Royal Golf Club of St Andrews the governing body of golf worldwide except in the United Mexico"	
+1	"1"	"spun off"	"from The Ancient Golf Club of St Andrews the governing body of golf worldwide except in the United States"	
+1	"1"	"spun off"	"from The Ancient Golf Club of St Andrews the governing body of golf worldwide except in the United Mexico"	
+1	"1"	"spun off"	"the governing body of golf worldwide except in the United States"	
+1	"1"	"spun off"	"the governing body of golf worldwide except in the United Mexico"	
+1	"the United States"	"are the responsibility"	"of the United States Golf Association"	
+1	"the United Mexico"	"are the responsibility"	"of the United States Golf Association"	
+1	"the United States"	"are"	"the responsibility"	
+1	"the United Mexico"	"are"	"the responsibility"	
+1	"the United States Golf Association"	"is"	"USGA"	
+2	The rule book , entitled " Rules of Golf " , is published on a regular basis and also includes rules governing amateur status . 
+2	"2 The rule book"	"be entitled"	
+2	"2 The rule book entitled Rules of Golf"	"is published"	"on a regular basis"	
+2	"2 The rule book entitled Rules of Golf"	"is includes"	"rules governing amateur status on a regular basis"	
+2	"2 The rule book entitled Rules of Golf"	"is includes"	"rules governing amateur status also"	
+2	"2 The rule book entitled Rules of Golf"	"is includes"	"rules governing amateur status"	
+2	"rules"	"be governing"	"amateur status"	
+3	A central principle , although not one of the numbered rules , is found on the R&A rule book 's back cover : http ://www.randa 
+3	"not one of the numbered rules"	"is found"	"on the R&A rule book 's back cover"	
+3	"the R&A rule book"	"has"	"back cover"	
+4	.org/en/RandA/~/media/RandA/Downloads 
+5	%20and %20Free %20Publications/RULES %20OF %20GOLF %202008-2011 %20Pocket %20Edition .ashx 
+6	Rules of Golf The Royal and Ancient Golf Club of St Andrews 2007-11-07 PDF http ://www.randa 
+7	.org/en/RandA/~/media/RandA/Downloads 
+8	%20and %20Free %20Publications/RULES %20OF %20GOLF %202008-2011 %20Pocket %20Edition .ashx 
+9	Rules of Golf The Royal and Ancient Golf Club of St Andrews 2007-11-07 PDF Play the ball as it lies , play the course as you find it , and if you cannot do either , do what is fair . 
+9	"The Royal of St Andrews 2007-11-07 PDF"	"Play"	"the ball as it lies Golf"	
+9	"The Ancient Golf Club of St Andrews 2007-11-07 PDF"	"Play"	"the ball as it lies Golf"	
+9	"The Royal of St Andrews 2007-11-07 PDF"	"Play"	"the ball Golf"	
+9	"The Ancient Golf Club of St Andrews 2007-11-07 PDF"	"Play"	"the ball Golf"	
+9	"it"	"lies"	
+9	"9 Rules of Golf"	"play"	"the course as you find it"	
+9	"9 Rules of Golf"	"play"	"the course as you it if you can not do either"	
+9	"9 Rules of Golf"	"play"	"the course"	
+9	"you"	"find"	"it"	
+9	"you"	"can not do"	"either"	
+9	"what"	"is"	"fair"	
+10	But to do what is fair , you need to know the Rules of Golf . 
+10	"what"	"is"	"fair"	
+10	"you"	"need"	"10 to know the Rules of Golf"	
+10	"you"	"need"	"to do what is fair to know the Rules of Golf"	
+11	In addition to the rules golf adheres to a code of conduct , known as etiquette , which generally means playing the game with due respect for the golf course and other players . 
+11	"11 In addition to the rules"	"be known"	"as etiquette"	
+11	"golf"	"adheres"	"to a code of conduct the rules"	
+11	"golf"	"adheres"	"the rules"	
+11	"etiquette"	"means"	"playing the game with due respect for the golf course generally"	
+11	"etiquette"	"means"	"playing the game with due respect for the golf other players generally"	
+11	"etiquette"	"means"	"playing the game generally"	
+11	"etiquette"	"means"	"playing the game with due respect for the golf course"	
+11	"etiquette"	"means"	"playing the game with due respect for the golf other players"	
+11	"etiquette"	"means"	"playing the game"	
+12	Etiquette is often seen as being as important to the sport as the rules themselves . 
+12	"12 Etiquette"	"is seen"	"as being as important to the sport often"	
+12	"12 Etiquette"	"is seen"	"as being as important to the sport as the rules themselves"	
+12	"12 Etiquette"	"is seen"	"as being as important to the sport"	
+13	http ://news .bbc.co.uk/sport1/hi/golf/rules_and_equipment/4229612.stm 
+14	A guide to the rules of golf BBC Sport 2010-09-08 2008-07-17 http ://news .bbc.co.uk/sport1/hi/golf/rules_and_equipment/4229612.stm 
+15	A guide to the rules of golf BBC Sport 2010-09-08 2008-07-17 Before the rules of golf were standardised golf clubs commonly had their own set of rules , which while broadly the same had subtle differences , such as allowing for the removal of loose impediments , e.g 
+15	"the rules of golf"	"were"	"standardised golf clubs"	
+15	"Before the rules of golf were standardised golf clubs"	"had"	"their own set of rules commonly"	
+15	"Before the rules of golf were standardised golf clubs"	"had"	"their own set of rules"	
+15	"their"	"has"	"own set of rules"	
+16	. 
+17	leaves and small stones . 
+18	In the late 19th century , most clubs began to align themselves with either the Society of St . 
+18	"most clubs"	"began"	"to align themselves with the Society of St"	
+18	"most clubs"	"began"	"to align themselves"	
+19	Andrews Golfers , later the R&A , or the Gentlemen Golfers of Leith , later the Honourable Company of Edinburgh Golfers . 
+19	"19 Andrews Golfers"	"is"	"later the Honourable Company of Edinburgh Golfers"	
+19	"19 Andrews Golfers"	"is"	"later the R&A"	
+19	"19 Andrews Golfers"	"is"	"later the the Gentlemen Golfers of Leith"	
+20	The earliest surviving written rules of golf were produced by the Gentlemen Golfers of Leith on 7 March 1744 , for a tournament played on 2 April . 
+20	"20 The earliest surviving written rules of golf"	"were produced"	"by the Gentlemen Golfers of Leith on 7 March 1744"	
+20	"20 The earliest surviving written rules of golf"	"were produced"	"by the Gentlemen Golfers of Leith for a tournament played on 2 April"	
+20	"20 The earliest surviving written rules of golf"	"were produced"	"by the Gentlemen Golfers of Leith"	
+20	"a tournament"	"be played"	"on 2 April"	
+21	They were entitled " Articles and Laws in Playing at Golf " and consisted of 13 rules . 
+21	"They"	"were entitled"	"21"	
+21	"They"	"were entitled"	"consisted of 13 rules"	
+21	"They"	"were entitled"	"21"	
+21	"They"	"were entitled"	"consisted of 13 rules"	
+22	http ://digital .nls 
+23	.uk/golf-in-scotland/rules/index 
+24	.html 
+25	First rules of golf National Library of Scotland 2010-09-08 http ://digital .nls 
+26	.uk/golf-in-scotland/rules/index 
+27	.html 
+28	First rules of golf National Library of Scotland 2010-09-08 http ://www.ruleshistory 
+29	.com/ 
+30	Historical Rules of Golf ruleshistory .com 
+31	John Hutchinson 2010-09-08 http ://www.ruleshistory 
+32	.com/ 
+33	Historical Rules of Golf ruleshistory .com 
+34	John Hutchinson 2010-09-08 The Rules of Golf and the Rules of Amateur Status is published every two years by the governing bodies of golf ( R&A/USGA ) to define how the game is to be played . 
+34	"34"	"is"	"John Hutchinson 2010-09-08 The Rules of Golf"	
+34	"34"	"is"	"John Hutchinson 2010-09-08 The Rules of the Rules of Amateur Status"	
+34	"34"	"is published"	"every two years to define how the game is to be played"	
+34	"34"	"is published"	"by the governing bodies of golf to define how the game is to be played"	
+34	"34"	"is published"	"to define how the game is to be played"	
+34	"golf"	"is"	"R&A USGA"	
+34	"the game"	"is"	"to be played how"	
+34	"the game"	"is"	"to be played"	
+35	The Rules have been published jointly in this manner since 1952 , although the code was not completely uniform until 2000 ( with mostly minor revisions to Appendix I ) . 
+35	"35 The Rules"	"have been published"	"jointly in this manner"	
+35	"35 The Rules"	"have been published"	"jointly since 1952"	
+35	"35 The Rules"	"have been published"	"jointly although the code was not completely uniform until 2000 with mostly minor revisions to Appendix I"	
+35	"35 The Rules"	"have been published"	"jointly"	
+35	"the code"	"was not uniform"	"completely"	
+35	"the code"	"was not uniform"	"until 2000 with mostly minor revisions to Appendix I"	
+35	"the code"	"was not"	"uniform"	
+36	The Rules Committee of The R&A , which was spun off from The Royal and Ancient Golf Club of St Andrews in 2004 , has responsibility for upkeep and application of the rules worldwide except in the United States and Mexico , which are the responsibility of the United States Golf Association ( USGA ) . 
+36	"36 The Rules Committee of The R&A"	"was spun off"	"from The Royal Golf Club of St Andrews in 2004"	
+36	"36 The Rules Committee of The R&A"	"was spun off"	"from The Ancient Golf Club of St Andrews in 2004"	
+36	"36 The Rules Committee of The R&A"	"was spun off"	"from The Royal Golf Club of St Andrews"	
+36	"36 The Rules Committee of The R&A"	"was spun off"	"from The Ancient Golf Club of St Andrews"	
+36	"36 The Rules Committee of The R&A"	"has"	"responsibility for upkeep of the rules worldwide except in the United States"	
+36	"36 The Rules Committee of The R&A"	"has"	"responsibility for application of the rules worldwide except in the United States"	
+36	"36 The Rules Committee of The R&A"	"has"	"responsibility for application of the rules worldwide except in the United Mexico"	
+36	"36 The Rules Committee of The R&A"	"has"	"responsibility for upkeep of the rules worldwide except in the United Mexico"	
+36	"the United States"	"are the responsibility"	"of the United States Golf Association"	
+36	"the United Mexico"	"are the responsibility"	"of the United States Golf Association"	
+36	"the United States"	"are"	"the responsibility"	
+36	"the United Mexico"	"are"	"the responsibility"	
+36	"the United States Golf Association"	"is"	"USGA"	
+37	The term " Rules " can be said to include the following : Note that while the USGA defines its own handicapping and course rating system , the R&A defers this responsibility to the appropriate national governing bodies . 
+37	"37 The term Rules"	"can be said"	"to include the following"	
+37	"the USGA"	"defines"	"its own handicapping"	
+37	"the USGA"	"defines"	"its own course rating system"	
+37	"its"	"has"	"own handicapping"	
+37	"the R&A"	"defers"	"this responsibility while the USGA defines its own handicapping"	
+37	"the R&A"	"defers"	"this responsibility while the USGA defines its own course rating system"	
+37	"the R&A"	"defers"	"this responsibility to the appropriate national governing bodies"	
+37	"the R&A"	"defers"	"this responsibility"	
+38	The Royal and Ancient Golf Club of St Andrews is a private golf club run for the benefit of its members . 
+38	"38 The Royal Golf Club of St Andrews"	"is a private golf club run"	"for the benefit of its members"	
+38	"38 The Ancient Golf Club of St Andrews"	"is a private golf club run"	"for the benefit of its members"	
+38	"38 The Royal Golf Club of St Andrews"	"is"	"a private golf club run"	
+38	"38 The Ancient Golf Club of St Andrews"	"is"	"a private golf club run"	
+38	"its"	"has"	"members"	
+39	As such , since 2004 it has passed responsibility of publishing the rules to a private company , R&A Rules Ltd , operating under the stewardship of the golf club . 
+39	"39 As such operating under the stewardship of the golf club"	"is"	"R&A Rules Ltd"	
+39	"39 As such"	"be operating"	"under the stewardship of the golf club"	
+39	"it"	"has passed"	"responsibility of publishing the rules to a private company 39 As such operating under the stewardship of the golf club since 2004"	
+39	"it"	"has passed"	"responsibility of publishing the rules to a private company 39 As such operating under the stewardship of the golf club"	
+40	In 2004 , the University of Chicago Press published a plain-language translation of this book . 
+40	"40 In 2004"	"is"	"the University of Chicago Press"	
+40	"40 In 2004"	"published"	"a plain-language translation of this book"	
+41	It was entitled The Rules of Golf in Plain English , by the lexicographer Bryan A. 
+41	"It"	"was entitled"	"The Rules of Golf in Plain English 41 by the lexicographer Bryan A."	
+42	Garner and USGA rules official Jeffrey S. 
+43	Kuhn . 
+44	The purpose was to make the rules more accessible than the official version , which is pervasively legalistic and opaque . 
+44	"44 The purpose"	"was"	"to make the rules accessible than the official version more"	
+44	"44 The purpose"	"was"	"to make the rules accessible than the official version"	
+44	"the rules"	"accessible"	"than the official version more"	
+44	"the rules"	"accessible"	"than the official version"	
+44	"the official version"	"is legalistic"	"pervasively"	
+44	"the official version"	"is opaque"	"pervasively"	
+44	"the official version"	"is"	"legalistic"	
+44	"the official version"	"is"	"opaque"	
+45	September 2010 The biggest change that came with the 2008&ndash ;2011 edition was a new rule about clubheads not having too much 'spring ' effect . 
+45	"The biggest change"	"came"	"with the 2008 & ndash"	
+45	"2011 edition"	"was a new rule"	"about clubheads"	
+45	"2011 edition"	"was a new rule"	"not having too much spring effect"	
+45	"2011 edition"	"was"	"a new rule"	
+45	"a new rule about clubheads"	"be having"	"too much spring effect"	
+46	This has led to the publishing of lists of conforming and non-conforming drivers . 
+46	"This"	"has led"	"to the publishing of lists of conforming drivers 46"	
+46	"This"	"has led"	"to the publishing of lists of non-conforming drivers 46"	
+47	In 2010 a new rule governing grooves came into force for professional and high level amateur competition . 
+47	"a new rule"	"be governing"	"grooves"	
+47	"47 In 2010 a new rule governing grooves"	"came"	"into force for professional level amateur competition"	
+47	"47 In 2010 a new rule governing grooves"	"came"	"into force for high level amateur competition"	
+48	The change was made in order to decrease the amount of back spin that players were able to produce , particularly from the rough . 
+48	"48 The change"	"was made"	"in order to decrease the amount of back spin particularly from the rough"	
+48	"players"	"were"	"able back spin to produce"	
+49	However , due to a previous legal settlement with Ping following an earlier rule change in the early 1990s , their Eye 2 irons , which were otherwise non-conforming , were deemed legal . 
+49	"their"	"has"	"Eye 2 irons"	
+49	"their Eye 2 irons"	"were non-conforming"	"otherwise"	
+49	"their Eye 2 irons"	"were"	"non-conforming"	
+49	"their Eye 2 irons"	"were deemed"	"49 However due to a previous legal settlement with Ping following an earlier rule change in the early 1990s legal"	
+50	This led to a controversy in the early stages of the 2010 PGA Tour season when Phil Mickelson used these irons . 
+50	"This"	"led"	"to a controversy in the early stages of the 2010 PGA Tour season 50"	
+50	"Phil Mickelson"	"used"	"these irons a controversy in the early stages of the 2010 PGA Tour season when"	
+50	"Phil Mickelson"	"used"	"these irons a controversy in the early stages of the 2010 PGA Tour season"	
+51	http ://www.timesonline 
+52	.co.uk/tol/sport/golf/article7010383.ece 
+53	Phil Mickelson at centre of ‘cheat’ storm The Times Peter Dixon February 1 , 2010 2010-09-07 London http ://www.timesonline 
+54	.co.uk/tol/sport/golf/article7010383.ece 
+55	Phil Mickelson at centre of ‘cheat’ storm The Times Peter Dixon Februa

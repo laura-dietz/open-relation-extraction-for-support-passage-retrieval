@@ -1,0 +1,387 @@
+0	yes 22 January 2014 yes the sport September 2011 Golf 258364 10150286385941427 576911426 9539410 221526 o.jpg 
+0	"0 yes 22 January 2014"	"be yes"	
+1	300px A golfer in the finishing position after taking a "tee shot " R&A USGA 15th century , Scotland No USGA 's Rules of Golf Outdoor Golf club , golf ball 1900 , 1904 , 2016 , http ://www.olympic.org/uk/sports/past/index_uk 
+1	"Scotland No USGA"	"has"	"Rules of Golf Outdoor Golf club"	
+1	"Golf Outdoor Golf club"	"is"	"golf ball 1900"	
+1	"Golf Outdoor Golf club"	"is"	"1904"	
+1	"Golf Outdoor Golf club"	"is"	"2016"	
+1	"Golf Outdoor Golf club"	"is"	"http"	
+2	.asp 
+3	Olympic sports of the past Olympic Movement 29 March 2009 http ://www.olympic.org/uk/sports/past/index_uk 
+4	.asp 
+5	Olympic sports of the past Olympic Movement 29 March 2009 2020 Associated Press file http ://www.cleveland.com/sports/index 
+6	.ssf/2009/10/golf_rugby_make_olympic_roster 
+7	.html 
+8	Golf , rugby make Olympic roster for 2016 , 2020 cleveland.com 
+8	"8 Golf"	"is"	"2020 cleveland.com"	
+8	"rugby"	"make"	"Olympic roster for 2016 8 Golf"	
+8	"rugby"	"make"	"Olympic roster 8 Golf"	
+9	9 October 2009 23 September 2010 Associated Press file http ://www.cleveland.com/sports/index 
+10	.ssf/2009/10/golf_rugby_make_olympic_roster 
+11	.html 
+12	Golf , rugby make Olympic roster for 2016 , 2020 cleveland.com 
+12	"12 Golf"	"is"	"2020 cleveland.com"	
+12	"rugby"	"make"	"Olympic roster for 2016 12 Golf"	
+12	"rugby"	"make"	"Olympic roster 12 Golf"	
+13	9 October 2009 23 September 2010 Golf is a precision club and ball sport , in which competing players ( or golfers ) use many types of club to hit ball into a series of holes on a golf course using the fewest number of strokes . 
+13	"13 9 October 2009 23 September 2010 Golf"	"is"	"a precision club"	
+13	"13 9 October 2009 23 September 2010 Golf"	"is"	"a precision ball sport"	
+13	"competing players"	"is"	"golfers"	
+13	"competing players"	"use"	"many types of club ball sport in which"	
+13	"competing players"	"use"	"many types of club to hit ball into a series of holes on a golf course using the fewest number of strokes ball sport"	
+13	"competing players"	"use"	"many types of club ball sport"	
+13	"competing players"	"be hit"	"ball into a series of holes on a golf course using the fewest number of strokes"	
+13	"a series of holes on a golf course"	"be using"	"the fewest number of strokes"	
+14	It is one of the few ball game that does not require a standardized playing area . 
+14	"14 It"	"is one"	"of the few ball game"	
+14	"14 It"	"is"	"one"	
+14	"the few ball game"	"does not require"	"a standardized playing area"	
+15	Instead , the game is played on golf " courses " , each of which features a unique design , although courses typically consist of either nine or 18 holes . 
+15	"the game"	"is played"	"on golf courses 15 Instead"	
+15	"the game"	"is played"	"on golf courses"	
+15	"each of which"	"features"	"a unique design although courses typically consist of nine holes"	
+15	"each of which"	"features"	"a unique design although courses typically consist of 18 holes"	
+15	"each of which"	"features"	"a unique design"	
+15	"courses"	"consist"	"of nine holes typically"	
+15	"courses"	"consist"	"of 18 holes typically"	
+15	"courses"	"consist"	"of nine holes"	
+15	"courses"	"consist"	"of 18 holes"	
+16	Golf is defined , in the rules of golf , as "playing a ball with a club from the teeing ground into the hole by a stroke or successive strokes in accordance with the Rules . 
+16	"16 Golf"	"is defined"	"in the rules of golf as playing a ball with a club from the teeing ground into the hole by a stroke in accordance with the Rules"	
+16	"16 Golf"	"is defined"	"in the rules of golf as playing a ball with a club from the teeing ground into the hole by a successive strokes in accordance with the Rules"	
+16	"16 Golf"	"is defined"	"in the rules of golf"	
+17	" Golf competition is generally played for the lowest number of strokes by an individual , known simply as stroke play , or the lowest score on the most individual holes during a complete round by an individual or team , known as match play . 
+17	"17 Golf competition"	"is played"	"for the lowest number of strokes generally"	
+17	"17 Golf competition"	"is played"	"for the lowest number of strokes by an individual known simply as stroke play"	
+17	"17 Golf competition"	"is played"	"for the lowest number of strokes by an individual known simply as stroke the lowest score on the most individual holes during a complete round by an individual known as match play"	
+17	"17 Golf competition"	"is played"	"for the lowest number of strokes by an individual known simply as stroke the lowest score on the most individual holes during a complete round by an team known as match play"	
+17	"17 Golf competition"	"is played"	"for the lowest number of strokes"	
+18	History of golf While the modern game of golf originated in 15th century Scotland , the game 's ancient origins are unclear and much debated . 
+18	"the modern game of golf"	"originated"	"in 15th century Scotland"	
+18	"the game"	"has"	"ancient origins"	
+18	"the game 's ancient origins"	"are 18 History of golf unclear"	"While the modern game of golf originated in 15th century Scotland"	
+18	"the game 's ancient origins"	"are"	"18 History of golf unclear"	
+18	"the game 's ancient origins"	"are 18 History of golf much debated"	"While the modern game of golf originated in 15th century Scotland"	
+18	"the game 's ancient origins"	"are"	"18 History of golf much debated"	
+19	Some historians Brasch , Rudolph How did sports begin ? : A look at the origins of man at play McKay 1970 Brasch , Rudolph How did sports begin ? : A look at the origins of man at play McKay 1970 trace the sport back to the Roman game of paganica , in which participants used a bent stick to hit a stuffed leather ball . 
+19	"participants"	"used"	"a bent stick the Roman game of paganica in which"	
+19	"participants"	"used"	"a bent stick to hit a stuffed leather ball the Roman game of paganica"	
+19	"participants"	"used"	"a bent stick the Roman game of paganica"	
+19	"participants"	"be hit"	"a stuffed leather ball"	
+20	One theory asserts that paganica spread throughout Europe as the Romans conquered most of the continent , during the first century BC , and eventually evolved into the modern game . 
+20	"20 One theory"	"asserts"	"that paganica spread throughout Europe as the Romans conquered most of the continent during the first century BC"	
+20	"20 One theory"	"asserts"	"that paganica spread throughout Europe as the Romans conquered most of the continent during the first century eventually evolved into the modern game"	
+20	"the Romans"	"conquered"	"most of the continent during the first century BC"	
+20	"the Romans"	"conquered"	"most of the continent during the first century eventually evolved into the modern game"	
+20	"the Romans"	"conquered"	"most of the continent"	
+21	http ://www.britannica.com/EBchecked/topic/438170/paganica 
+22	paganica ( game ) – Britannica Online Encyclopedia Britannica.com 
+22	"22 paganica Britannica Online Encyclopedia Britannica.com"	"is"	"game"	
+23	23 September 2010 http ://www.britannica.com/EBchecked/topic/438170/paganica 
+24	paganica ( game ) – Britannica Online Encyclopedia Britannica.com 
+24	"24 paganica Britannica Online Encyclopedia Britannica.com"	"is"	"game"	
+25	23 September 2010 Others cite chuiwan ( "chui " means striking and "wan " means small ball ) as the progenitor , a Chinese game played between the eighth and 14th centuries . 
+25	"25 23 September 2010 Others"	"cite"	"as the progenitor played between the eighth centuries"	
+25	"25 23 September 2010 Others"	"cite"	"as the progenitor played between the 14th centuries"	
+25	"chui"	"means"	
+25	"chui"	"means"	
+25	"chuiwan"	"means"	"small ball"	
+25	"chuiwan"	"means"	"small ball"	
+25	"the progenitor"	"is"	"a Chinese game"	
+25	"the progenitor"	"played"	"between the eighth centuries"	
+25	"the progenitor"	"played"	"between the 14th centuries"	
+26	http ://kaleidoscope.cultural-china.com/en/141Kaleidoscope598.html 
+27	Golf ( Chui wan ) – China culture Kaleidoscope.cultural-china.com 
+28	25 September 2009 23 September 2010 http ://kaleidoscope.cultural-china.com/en/141Kaleidoscope598.html 
+29	Golf ( Chui wan ) – China culture Kaleidoscope.cultural-china.com 
+30	25 September 2009 23 September 2010 A Ming Dynasty scroll dating back to 1368 entitled " The Autumn Banquet " shows a member of the Chinese Imperial court swinging what appears to be a golf club at a small ball with the aim of sinking it into a hole . 
+30	"September 2009 23 September 2010 A Ming Dynasty scroll dating back to 1368"	"be entitled"	
+30	"A Ming Dynasty scroll"	"be dating"	"back to 1368"	
+30	"30"	"September 2009 23 September 2010 entitled shows"	"a member of the Chinese Imperial court swinging what appears to be a golf club at a small ball with the aim of sinking it into a hole"	
+30	"September 2009 23 September 2010 A Ming Dynasty scroll dating back to 1368 entitled The Autumn Banquet"	"30 shows"	"a member of the Chinese Imperial court swinging what appears to be a golf club at a small ball with the aim of sinking it into a hole"	
+30	"the Chinese Imperial court"	"be swinging"	"what appears to be a golf club at a small ball with the aim of sinking it into a hole"	
+30	"what"	"appears"	"to be a golf club at a small ball"	
+30	"what"	"appears"	"to be a golf club with the aim of sinking it into a hole"	
+30	"what"	"appears"	"to be a golf club"	
+31	The game is thought to have been introduced into Europe during the Middle Ages . 
+31	"31 The game"	"is thought"	"to have been introduced into Europe during the Middle Ages"	
+31	"31 The game"	"is thought"	"to have been introduced into Europe"	
+32	Another early game that resembled modern golf was known as cambuca in England and chambot in France . 
+32	"32 Another early game"	"resembled"	"modern golf"	
+32	"32 Another early game"	"was known"	"as cambuca in England"	
+32	"32 Another early game"	"was known"	"as in England chambot in France"	
+33	McGrath Charles McCormick David Garrity John The ultimate golf book http ://books .google 
+34	.com/books 
+35	?hl=en&lr=&id=QGvBn-wOy4EC&oi=fnd&pg=PA1&dq=lob+wedge+history&ots=W9oxyaUmSP&sig=6ojRy1wz353wbgt2i1xwop7PdRc#PPP1,M1 4 May 2009 2006 Houghton Mifflin Harcourt 13 9780618710256 McGrath Charles McCormick David Garrity John The ultimate golf book http ://books .google 
+36	.com/books 
+37	?hl=en&lr=&id=QGvBn-wOy4EC&oi=fnd&pg=PA1&dq=lob+wedge+history&ots=W9oxyaUmSP&sig=6ojRy1wz353wbgt2i1xwop7PdRc#PPP1,M1 4 May 2009 2006 Houghton Mifflin Harcourt 13 9780618710256 This game was , in turn , exported to the Low Countries , Germany , and England ( where it was called pall-mall , pronounced “pell mell” ) . 
+37	"hl"	"="	
+37	"hl"	"="	
+37	"hl"	"="	
+37	"hl"	"="	
+37	"hl"	"="	
+37	"6ojRy1wz353wbgt2i1xwop7PdRc #PPP 1"	"is"	"M1 4 May 2009 2006 Houghton Mifflin Harcourt 13 978061871 0256 This game"	
+37	"it"	"was called"	"where"	
+37	"it"	"was called"	
+38	March 2011 Some observers , March 2011 however , believe that golf descended from the Persian game , chaugán . 
+38	"38 March 2011 Some observers"	"is"	"March 2011 however"	
+38	"38 March 2011 Some observers"	"believe"	"that golf descended from the Persian game"	
+38	"golf"	"descended"	"from the Persian game"	
+38	"the Persian game"	"is"	"chaugán"	
+39	In addition , kolven ( a game involving a ball and curved bats ) was played annually in Loenen , Netherlands , beginning in 1297 , to commemorate the capture of the assassin of Floris V , a year earlier . 
+39	"39 In addition"	"is"	"kolven a game involving a ball"	
+39	"39 In addition"	"is"	"kolven a game involving a curved bats"	
+39	"a game"	"be involving"	"a ball"	
+39	"a game"	"be involving"	"a curved bats"	
+39	"39 In addition"	"was played"	"annually to commemorate the capture of the assassin of Floris V a year earlier"	
+39	"39 In addition"	"was played"	"in Loenen to commemorate the capture of the assassin of Floris V a year earlier"	
+39	"39 In addition"	"was played"	"beginning in 1297 to commemorate the capture of the assassin of Floris V a year earlier"	
+39	"39 In addition"	"was played"	"to commemorate the capture of the assassin of Floris V a year earlier"	
+39	"39 In addition"	"be beginning"	"in 1297"	
+39	"Loenen"	"is in"	"Netherlands"	
+40	The modern game originated in Scotland , where the first written record of golf is James II 's banning of the game in 1457 , as an unwelcome distraction to learning archery . 
+40	"40 The modern game"	"originated"	"in Scotland where the first written record of golf is James II 's banning of the game in 1457 as an unwelcome distraction to learning archery"	
+40	"James II 's banning of the game in 1457"	"is"	"as an unwelcome distraction to learning archery"	
+40	"James II 's"	"be banning"	"of the game in 1457"	
+40	"James II 's"	"be banning"	"of the game"	
+41	Golf Information .info 
+42	. 
+43	To many golfers , the Old Course at St Andrews , a links course dating to before 1574 , is considered to be a site of pilgrimage . 
+43	"43 To many golfers"	"is"	"the Old Course at St Andrews"	
+43	"43 To many golfers"	"is"	"a links course dating to before 1574"	
+43	"a links course"	"be dating"	"to before 1574"	
+43	"43 To many golfers"	"is considered"	"to be a site of pilgrimage"	
+43	"43 To many golfers"	"is considered"	"to be a site"	
+44	Cochrane , Alistair (ed ) Science and Golf IV : proceedings of the World Scientific Congress of Golf . 
+44	"44 Cochrane proceedings of the World Scientific Congress of Golf"	"is"	"Alistair ed Science"	
+44	"44 Cochrane proceedings of the World Scientific Congress of Golf"	"is"	"Alistair ed Golf IV"	
+45	Page 849 . 
+46	Routledge Golf is documented as being played on Musselburgh Links , East Lothian , Scotland as early as 2 March 1672 , which is certified as the oldest golf course in the world by Guinness World Records . 
+46	"46 Routledge Golf"	"is documented"	"as being played on Musselburgh Links"	
+46	"Musselburgh Links"	"is"	"East Lothian as early as 2 March 1672"	
+46	"East Lothian as early as 2 March 1672"	"is in"	"Scotland"	
+46	"2 March 1672"	"is certified"	"as the oldest golf course in the world by Guinness World Records"	
+46	"2 March 1672"	"is certified"	"as the oldest golf course in the world"	
+47	BBC . 
+48	Retrieved 24 September 2011 http ://www.pgatour.com/2009/tourlife/travel/03/23/course_of_week/index 
+49	.html 
+50	Recognition for the world 's oldest links , at last PGA Tour 24 March 2009 24 September 2009 http ://www.pgatour.com/2009/tourlife/travel/03/23/course_of_week/index 
+50	"the world"	"has"	"oldest links"	
+51	.html 
+52	Recognition for the world 's oldest links , at last PGA Tour 24 March 2009 24 September 2009 The oldest surviving rules of golf were compiled in March 1744 for the Company of Gentlemen Golfers , later renamed The Honourable Company of Edinburgh Golfers , which was played at Leith , Scotland . 
+52	"the world"	"has"	"oldest links"	
+52	"52 Recognition for the world 's oldest links at last PGA Tour 24 March 2009 24 September 2009 The oldest surviving rules of golf"	"were compiled"	"in March 1744 for the Company of Gentlemen Golfers"	
+52	"52 Recognition for the world 's oldest links at last PGA Tour 24 March 2009 24 September 2009 The oldest surviving rules of golf"	"were compiled"	"in March 1744 later renamed The Honourable Company of Edinburgh Golfers"	
+52	"52 Recognition for the world 's oldest links at last PGA Tour 24 March 2009 24 September 2009 The oldest surviving rules of golf"	"were compiled"	"in March 1744"	
+52	"52 Recognition for the world 's oldest links at last PGA Tour 24 March 2009 24 September 2009 The oldest surviving rules of golf"	"be renamed"	"later The Honourable Company of Edinburgh Golfers"	
+52	"Edinburgh Golfers"	"was played"	"at Leith"	
+52	"Leith"	"is in"	"Scotland"	
+53	. 
+54	ruleshistory .com 
+55	. 
+56	Retrieved 8 September 2010 . 
+56	"56"	"be Retrieved"	"8 September 2010"	
+57	The world 's oldest golf tournament in existence , and golf 's first major , is The Open Championship , which was first played on 17 October 1860 at Prestwick Golf Club , in Ayrshire , Scotland . 
+57	"The world"	"has"	"57 oldest golf tournament in existence"	
+57	"golf"	"has"	"first major"	
+57	"57 The world 's oldest golf tournament in existence"	"is The Open Championship"	"in Ayrshire"	
+57	"57 The world 's oldest golf in existence golf 's first major"	"is The Open Championship"	"in Ayrshire"	
+57	"57 The world 's oldest golf tournament in existence"	"is"	"The Open Championship"	
+57	"57 The world 's oldest golf in existence golf 's first major"	"is"	"The Open Championship"	
+57	"The Open Championship in Ayrshire"	"was played"	"on 17 October 1860 first"	
+57	"The Open Championship in Ayrshire"	"was played"	"on 17 October 1860 at Prestwick Golf Club"	
+57	"The Open Championship in Ayrshire"	"was played"	"on 17 October 1860"	
+57	"Ayrshire"	"is in"	"Scotland"	
+58	PGA Tour . 
+59	Retrieved 23 September 2011 thumbAn aerial view of a golf course in Italy . 
+60	Golf course A golf course consists of a series of holes , each with a teeing ground that is set off by two markers showing the bounds of the legal tee area , fairway , rough and other hazard , and the putting green surrounded by the fringe with the pin ( normally a flagstick ) and cup . 
+60	"60 Golf course"	"is"	"each with a teeing ground"	
+60	"60 Golf the putting green surrounded by the fringe with the pin"	"is"	"each with a teeing ground"	
+60	"60 Golf the putting green surrounded by the fringe with the cup"	"is"	"each with a teeing ground"	
+60	"A golf course"	"consists"	"of a series of holes 60 Golf course"	
+60	"A golf course"	"consists"	"of a series of holes 60 Golf the putting green surrounded by the fringe with the pin"	
+60	"A golf course"	"consists"	"of a series of holes 60 Golf the putting green surrounded by the fringe with the cup"	
+60	"A golf course"	"consists"	"60 Golf course"	
+60	"A golf course"	"consists"	"60 Golf the putting green surrounded by the fringe with the pin"	
+60	"A golf course"	"consists"	"60 Golf the putting green surrounded by the fringe with the cup"	
+60	"a teeing ground"	"is set off"	"by two markers showing the bounds of the legal tee area"	
+60	"a teeing ground"	"is set off"	"by two markers showing the bounds of the legal tee fairway"	
+60	"a teeing ground"	"is set off"	"by two markers showing the bounds of the legal tee rough"	
+60	"a teeing ground"	"is set off"	"by two markers showing the bounds of the legal tee other hazard"	
+60	"two markers"	"be showing"	"the bounds of the legal tee area"	
+60	"two markers"	"be showing"	"the bounds of the legal tee fairway"	
+60	"two markers"	"be showing"	"the bounds of the legal tee rough"	
+60	"two markers"	"be showing"	"the bounds of the legal tee other hazard"	
+60	"the pin"	"is"	"normally a flagstick"	
+60	"the cup"	"is"	"normally a flagstick"	
+61	The levels of grass are varied to increase difficulty , or to allow for putting in the case of the green . 
+61	"61 The levels of grass"	"are varied"	"to increase difficulty"	
+61	"61 The levels of grass"	"are to allow"	"to increase difficulty for putting in the case of the green"	
+61	"61 The levels of grass"	"are to allow"	"to increase difficulty"	
+62	While many holes are designed with a direct line-of-sight from the teeing area to the green , some holes may bend either to the left or to the right . 
+62	"many holes"	"are designed"	"with a direct line-of-sight from the teeing area to the green"	
+62	"some holes"	"may bend"	"to the left 62 While many holes are designed with a direct line-of-sight from the teeing area to the green"	
+62	"some holes"	"may bend"	"the left to the right 62 While many holes are designed with a direct line-of-sight from the teeing area to the green"	
+62	"some holes"	"may bend"	"to the left"	
+62	"some holes"	"may bend"	"the left to the right"	
+63	This is commonly called a "dogleg" , in reference to a dog 's knee . 
+63	"63 This"	"is called"	"a dogleg in reference to a dog 's knee commonly"	
+63	"63 This"	"is called"	"a dogleg in reference to a dog 's knee"	
+63	"a dog"	"has"	"knee"	
+64	The hole is called a "dogleg left " if the hole angles leftwards and "dogleg right " if it bends right . 
+64	"64 The hole"	"is called"	"a dogleg left if the hole angles leftwards if it bends right"	
+64	"64 The hole"	"is called"	"a dogleg left if the hole angles dogleg right if it bends right"	
+64	"a dogleg"	"left"	"if the hole angles leftwards if it bends right"	
+64	"a dogleg"	"left"	"if the hole angles dogleg right if it bends right"	
+64	"it"	"bends"	"right"	
+65	Sometimes , a hole 's direction may bend twice ; this is called a "double dogleg" . 
+65	"a hole"	"has"	"direction"	
+65	"a hole 's direction"	"may bend"	"65 Sometimes"	
+65	"a hole 's direction"	"may bend"	"twice 65"	
+65	"a hole 's direction"	"may bend"	"65"	
+65	"this"	"is called"	"a double dogleg"	
+66	A typical golf course consists of 18 holes , but nine-hole courses are common and can be played twice through for a full round of 18 holes . 
+66	"66 A typical golf course"	"consists"	"of 18 holes"	
+66	"nine-hole courses"	"are"	"common"	
+66	"nine-hole courses"	"are can be played"	"twice"	
+66	"nine-hole courses"	"are can be played"	"through for a full round of 18 holes"	
+66	"nine-hole courses"	"are can be"	"played"	
+67	http ://encarta.msn.com/encyclopedia_761570500/Golf 
+68	.html#p2 
+69	Golf Encarta 20 December 2007 http ://www.webcitation 
+70	.org/5kwq81UW4 
+71	31 October 2009 yes http ://encarta.msn.com/encyclopedia_761570500/Golf 
+72	.html#p2 
+73	Golf Encarta 20 December 2007 http ://www.webcitation 
+74	.org/5kwq81UW4 
+75	31 October 2009 yes http ://www .hildenpark 
+76	.co.uk/golf/golfcourse 
+77	.html 
+78	Hill den Park – 9 Hole Golf Course hilden park .co.uk 
+79	20 December 2007 http ://web.archive 
+80	.org/web/20071222001759/http 
+81	://www .hildenpark 
+82	.co.uk/golf/golfcourse 
+83	.html 
+84	22 December 2007 http ://www .hildenpark 
+85	.co.uk/golf/golfcourse 
+86	.html 
+87	Hill den Park – 9 Hole Golf Course hilden park .co.uk 
+88	20 December 2007 http ://web.archive 
+89	.org/web/20071222001759/http 
+90	://www .hildenpark 
+91	.co.uk/golf/golfcourse 
+92	.html 
+93	22 December 2007 Early Scottish golf courses were primarily laid out on links land , soil-covered sand dunes directly inland from beaches . 
+93	"93 22 December 2007 Early Scottish golf courses"	"were laid out"	"on links land primarily"	
+93	"93 22 December 2007 Early Scottish golf courses"	"were laid out"	"on links land"	
+93	"links land"	"is"	"soil-covered sand dunes directly inland from beaches"	
+94	http ://www.etymonline 
+95	.com/index.php 
+96	?search=links &searchmode=none Online Etymology Dictionary definition of the word Links Etymonline .com 
+97	23 September 2010 http ://www.etymonline 
+98	.com/index.php 
+99	?search=links &searchmode=none Online Etymology Dictionary definition of the word Links Etymonline .com 
+100	23 September 2010 This gave rise to the term "golf links " , particularly applied to seaside courses and those built on naturally sandy soil inland . 
+100	"This"	"gave"	"rise to the term golf links particularly applied to seaside courses"	
+100	"This"	"gave"	"rise to the term golf links particularly applied to seaside those built on naturally sandy soil inland"	
+100	"the term golf links"	"be applied"	"particularly to seaside courses"	
+100	"the term golf links"	"be applied"	"particularly to seaside those built on naturally sandy soil inland"	
+100	"those"	"be built"	"on naturally sandy soil inland"	
+101	The first 18-hole golf course in the United States was located on a sheep farm in Downers Grove_ Illinois , in 1892 . 
+101	"101 The first 18-hole golf course in the United States"	"was located"	"on a sheep farm in Downers Grove _ Illinois"	
+101	"101 The first 18-hole golf course in the United States"	"was located"	"in 1892"	
+101	"101 The first 18-hole golf course in the United States"	"was"	"located"	
+102	The course is still situated there today . 
+102	"102 The course"	"is situated"	"there today still"	
+102	"102 The course"	"is situated"	"there today"	
+103	http ://www.nbcchicago.com/news/sports/golf-good-question-93041254.html 
+104	Why Does Golf Have 18 Holes ? 6 May 2010 http ://www.nbcchicago.com/news/sports/golf-good-question-93041254.html 
+105	Why Does Golf Have 18 Holes ? 6 May 2010 thumbright200px1=teeing ground _ 2=water hazard _ 3=rough _ 4=out of bounds _ 5=sand bunker _ 6=water hazard _ 7=fairway _ 8=putting green _ 9=flagstick _ 10=hole Every round of golf is based on playing a number of holes in a given order . 
+105	"May 2010 thumbright200px1"	"ground _ 2 = water hazard rough _ 4 ="	"out of bounds"	
+105	"ground _ 2 = water hazard"	"May 2010 thumbright200px1 rough _ 4 ="	"out of bounds"	
+105	"rough _ 4"	"May 2010 thumbright200px1 ground _ 2 = water hazard ="	"out of bounds"	
+105	"sand bunker"	"="	"water hazard _ 7 = fairway _ 8 = putting green _ 9 = flagstick _ 10 = hole Every round of golf is based on playing a number of holes in a given order"	
+105	"Every round of golf"	"is based"	"on playing a number of holes in a given order"	
+106	A 'round ' typically consists of 18 holes that are played in the order determined by the course layout . 
+106	"106 A round"	"consists"	"of 18 holes typically"	
+106	"106 A round"	"consists"	"of 18 holes"	
+106	"18 holes"	"are played"	"in the order determined by the course layout"	
+106	"the order"	"be determined"	"by the course layout"	
+107	On a nine-hole course , a standard round consists of two consecutive nine-hole rounds . 
+107	"a standard round"	"consists"	"of two consecutive nine-hole rounds 107 On a nine-hole course"	
+107	"a standard round"	"consists"	"107 On a nine-hole course"	
+108	Playing a hole on a golf course is initiated by putting a ball into play by striking it with a club on the teeing ground ( also called the tee box , or simply the tee ) . 
+108	"108"	"be Playing"	"a hole on a golf course"	
+108	"108 Playing a hole on a golf course"	"is initiated"	"by putting a ball into play by striking it with a club on the teeing ground also called the tee box"	
+108	"108 Playing a hole on a golf course"	"is initiated"	"by putting a ball into play by striking it with a club on the teeing ground also called the tee simply the tee"	
+109	When this initial stroke ( or 'shot ' ) is required to be long due to the length of the hole , it is usual ( but not required ) for a golfer to suspend ( or 'tee-up ' ) the ball on a tee prior to striking it . 
+109	"this initial stroke shot"	"is required"	"to be due long 109 When"	
+109	"this initial stroke shot"	"is required"	"to be due to the length of the hole 109 When"	
+109	"this initial stroke shot"	"is required"	"to be due 109 When"	
+109	"this initial stroke shot"	"is required"	"to be due long 109"	
+109	"this initial stroke shot"	"is required"	"to be due to the length of the hole 109"	
+109	"this initial stroke shot"	"is required"	"to be due 109"	
+109	"it"	"is 109 usual not required"	"for a golfer to suspend tee-up the ball on a tee prior to striking it"	
+109	"it"	"is"	"109 usual not required"	
+109	"a golfer"	"be suspend"	"the ball on a tee prior to striking it"	
+109	"a golfer"	"be suspend"	"the ball on a tee"	
+110	A tee in this last sense is a small peg which can be used to elevate the ball slightly above the ground up to a few centimetres high . 
+110	"110 A tee in this last sense"	"is"	"a small peg"	
+110	"peg"	"can be used"	"to elevate the ball slightly above the ground up to a few centimetres high"	
+110	"peg"	"can be used"	"to elevate the ball"	
+111	This elevation is at the discretion of the golfer . 
+111	"111 This elevation"	"is"	"at the discretion of the golfer"	
+112	Tees are commonly made of wood but may be constructed of any material ; the ball may even be teed on a mound of grass or dirt ( at one time a small pile of sand placed by the golfer was routinely used and sand was provided at teeing grounds for golfers ' use ) . 
+112	"112 Tees"	"are made"	"of wood commonly"	
+112	"112 Tees"	"are made"	"of wood"	
+112	"112 Tees"	"are may be constructed"	"of any material commonly"	
+112	"112 Tees"	"are may be constructed"	"of any material of wood"	
+112	"112 Tees"	"are may be constructed"	"of any material"	
+112	"the ball"	"may be teed"	"on a mound of grass"	
+112	"the ball"	"may be teed"	"on a mound of dirt"	
+112	"a small pile of sand"	"be placed"	"by the golfer"	
+112	"a small pile of sand placed by the golfer"	"was used"	"a mound of grass at one time"	
+112	"a small pile of sand placed by the golfer"	"was used"	"a mound of dirt at one time"	
+112	"a small pile of sand placed by the golfer"	"was used"	"a mound of grass routinely"	
+112	"a small pile of sand placed by the golfer"	"was used"	"a mound of dirt routinely"	
+112	"a small pile of sand placed by the golfer"	"was used"	"a mound of grass"	
+112	"a small pile of sand placed by the golfer"	"was used"	"a mound of dirt"	
+112	"a small pile of sand placed by the golfer"	"was sand"	"a mound of grass at one time"	
+112	"a small pile of sand placed by the golfer"	"was sand"	"a mound of dirt at one time"	
+112	"a small pile of sand placed by the golfer"	"was sand"	"a mound of grass routinely"	
+112	"a small pile of sand placed by the golfer"	"was sand"	"a mound of dirt routinely"	
+112	"a small pile of sand placed by the golfer"	"was sand"	"a mound of grass"	
+112	"a small pile of sand placed by the golfer"	"was sand"	"a mound of dirt"	
+112	"the ball may even be teed on a mound of grass"	"was provided"	"at teeing grounds for golfers ' use"	
+112	"the ball may even be teed on a mound of dirt"	"was provided"	"at teeing grounds for golfers ' use"	
+112	"golfers"	"has"	"use"	
+113	When the initial shot on a hole is a long-distance shot intended to move the ball a great distance down the fairway , this shot is commonly called a 'drive ' . 
+113	"113"	"is a long-distance shot"	"intended to move the ball a great distance down the fairway"	
+113	"113"	"is"	"a long-distance shot"	
+113	"a long-distance shot"	"be intended"	"to move the ball a great distance down the fairway"	
+113	"this shot"	"is called"	"commonly"	
+113	"this shot"	"is called"	
+114	Shorter holes generally are initiated with shorter clubs called iron . 
+114	"114 Shorter holes"	"are initiated"	"with shorter clubs called iron generally"	
+114	"114 Shorter holes"	"are initiated"	"with shorter clubs called iron"	
+114	"shorter clubs"	"be called"	
+115	Once the ball comes to rest , the golfer strikes it again as many times as necessary using shots that are variously known as a 'lay-up' , an 'approach' , a 'pitch' , or a ' chip ' , until the ball reaches the green , where he or she then ' putts ' the ball into the hole ( commonly called " sinking the putt " ) . 
+115	"the ball"	"comes"	"to rest"	
+115	"the golfer"	"strikes"	"it 115 Once the ball comes to rest"	
+115	"the golfer"	"strikes"	"it again"	
+115	"the golfer"	"strikes"	"it as many times as necessary using shots an approach until the ball reaches the green where he then putts ' the ball into the hole commonly called sinking the putt"	
+115	"the golfer"	"strikes"	"it as many times as necessary using shots an a pitch until the ball reaches the green where he then putts ' the ball into the hole commonly called sinking the putt"	
+115	"the golfer"	"strikes"	"it as many times as necessary using shots an a pitch until the ball reaches the green where she then putts ' the ball into the hole commonly called sinking the putt"	
+115	"the golfer"	"strikes"	"it as many times as necessary using shots an a chip until the ball reaches the green where he then putts ' the ball into the hole commonly called sinking the putt"	
+115	"the golfer"	"strikes"	"it as many times as necessary using shots an a chip until the ball reaches the green where she then putts ' the ball into the hole commonly called sinking the putt"	
+115	"the golfer"	"strikes"	"it as many times as necessary using shots an approach until the ball reaches the green where she then putts ' the ball into the hole commonly called sinking the putt"	
+115	"the golfer"	"strikes"	"it"	
+115	"shots"	"are known"	"as a lay-up variously"	
+115	"shots"	"are known"	"as a lay-up"	
+115	"the ball"	"reaches"	"the green where he then putts ' the ball into the hole commonly called sinking the putt"	
+115	"the ball"	"reaches"	"the green where she then putts ' the ball into the hole commonly called sinking the putt"	
+115	"putts"	"has"	"he the ball into the hole"	
+115	"putts"	"has"	"she the ball into the hole"	
+116	The goal of getting the ball into the hole ( "holing " the ball ) in as few strokes as possible may be impeded by obstacles such as areas of long grass called 'rough ' (usually found alongside fairways ) which both slows any ball that contacts it and makes it harder to advance a ball that has stopped on it , bunker ( or sand traps ) , and water hazard . 
+116	"holing the ball in as few strokes as possible"	"may be impeded"	"by obstacles such as areas of long grass called rough usually foun

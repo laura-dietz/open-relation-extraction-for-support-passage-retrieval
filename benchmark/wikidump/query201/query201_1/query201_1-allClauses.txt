@@ -1,0 +1,135 @@
+0	SVOO (V: include@12, S: board@9, O: USD@23, IO: board@6)
+1	
+2	SVC (C: computer@7, V: is@4, S: Pi@3, A?: developed@8)	SVA (V: "be developed", S: computer@7, A!: in@9, A?: by@12)
+3	
+4	
+5	SVO (V: plans@3, S: foundation@2, XCOMP: release@5)	SVA (V: "be priced", S: versions@7, A!: at@9)
+6	SVO (V: intended@3, S: It@1, XCOMP: stimulate@5)
+7	
+8	
+9	
+10	
+11	SVA (V: "be inspire", S: computer@12, O: programmers@16)
+12	
+13	SVA (V: "be inspire", S: computer@8, O: programmers@12)
+14	
+15	
+16	
+17	
+18	
+19	SVO (V: lets@3, S: computer@2, CCOMP: discover@5)	SVO (V: discover@5, S: kids@4, O: programming@6, A?: on@7, A?: www.electronicsweekly@20)
+20	
+21	SVO (V: lets@3, S: computer@2, CCOMP: discover@5)	SVO (V: discover@5, S: kids@4, O: programming@6, A?: on@7)	SVA (V: based@19, S: lets@3, A!: around@20)	SVO (V: includes@27, S: SoC@24, O: processor@32)	SVC (S: megabyte@42, V: "is", C: MiB@44)
+22	SVO (V: include@5, S: design@2, O: disk@9)	SVA (V: "be relying", S: disk@9, A!: instead@14, A?: on@16)
+23	SVO (V: intended@4, S: board@2, XCOMP: run@6)
+24	SVA (V: undertaken@6, S: Development@1, A!: by@7)	SVC (S: Foundation@11, V: "is", C: organization@15)	SVA (V: "be registered", S: organization@15, A!: with@17, A?: for@21)
+25	SVO (S: Its@1, V: "has", O: aim@2)	SV (V: is@3, S: aim@2)
+26	
+27	
+28	
+29	
+30	SVOO (V: promoting@14, S: Foundation@11, O: learning@15, IO: Foundation@6)
+31	SVO (V: #comment@2, S: org/faqs@1, O: -132@3)
+32	SVC (S: December@8, V: "is", C: Upton@12)	SVC (S: December@8, V: "is", C: http@15)
+33	SVO (V: #comment@2, S: org/faqs@1, O: -132@3)
+34	SVC (S: December@8, V: "is", C: Upton@12)	SVC (S: December@8, V: "is", C: http@15)
+35	SVO (V: #comment@2, S: org/faqs@1, O: -1632@3)
+36	SVC (S: December@8, V: "is", C: Upton@12)	SVC (S: December@8, V: "is", C: http@15)
+37	SVO (V: #comment@2, S: org/faqs@1, O: -1632@3)
+38	SVC (S: August@4, V: "is", C: December@8)	SVC (S: December@8, V: "is", C: Upton@12)	SVC (S: December@8, V: "is", C: Liz@14)	SVO (V: support@18, S: they@16, A?: also@17, O: BASIC@20)	SVC (S: BASIC@20, V: "is", C: http@22)
+39	SVC (S: November@7, V: "is", C: December@11)	SVC (S: November@7, V: "is", C: http@15)
+40	SVC (S: November@7, V: "is", C: December@11)	SVC (S: November@7, V: "is", C: C@15)
+41	SVO (V: have@5, S: languages@3, O: support@6)	SVC (C: available@13, V: be@12, S: languages@3)
+42	SVA (V: based@11, S: concepts@5, A?: In@1, A!: on@12)
+43	SVO (S: Its@1, V: "has", O: schematics@2)	SVC (C: available@7, V: are@6, S: schematics@2, A?: for@8)
+44	
+45	
+46	SVO (S: your@2, V: "has", O: October@9)	SVC (S: October@9, V: "is", C: November@13)	SVC (S: October@9, V: "is", C: Wong@17)	SVC (S: October@9, V: "is", C: Upton@22)	SVA (V: "be devise", S: October@9, O: computer@36, A!: inspire@38)	SVO (V: assembled@23, S: October@9, O: group@25, A?: devise@34)	SVA (V: "be inspire", S: devise@34, O: children@39)
+47	
+48	SVA (V: "be will", S: device@6)	SVC (S: January@16, V: "is", C: January@20)	SVC (S: January@16, V: "is", C: Moorhead@24)	SVC (S: January@16, V: "is", C: http@27)
+49	SVC (S: January@16, V: "is", C: January@20)	SVC (S: January@16, V: "is", C: Moorhead@24)	SVC (S: January@16, V: "is", C: Joanna@26)	SVC (S: January@16, V: "is", C: Foundation@34)	SVO (V: founded@36, S: January@16, A?: in@37, O: schools@12)	SVA (S: Cambridgeshire@41, V: "is in", C: UK@43)	SVA (V: regulated@50, S: charity@47, A!: by@51)
+50	
+51	
+52	SVA (V: mounted@29, S: 1129409@8, A!: in@30)
+53	SVO (V: had@2, S: It@1, O: port@5, A?: on@6)	SVO (V: port@12, S: It@1, O: port@5, A?: on@6, A?: on@13)
+54	SV (V: manufactured@9, S: boards@7, A?: In@1)
+55	SVC (C: identical@5, V: were@3, S: boards@2, A?: functionally@4, A?: to@6)	SVC (S: B@10, V: "is", C: http@12)
+56	
+57	
+58	
+59	
+60	
+61	SVO (V: accommodate@5, S: 2011-08-01@1, O: headers@7)
+62	SVO (V: showed@5, S: Demos@1, O: it@6)	SVA (V: "be running", S: it@6, O: desktop@10)	SVC (S: Quake@14, V: "is", C: http@19)
+63	
+64	
+65	
+66	
+67	
+68	
+69	
+70	
+71	
+72	SVA (V: "be selected", S: demo@7, A!: at@8, A?: 2011-09-12@11, A?: from@20)	SVA (V: selected@19, S: logo@17, A?: at@8, A?: 2011-09-12@11, A!: from@20)	SVA (V: "be submitted", S: number@22, A!: by@24)
+73	SVA (V: drawn@6, S: shortlist@2, A!: with@9)
+74	SVA (V: based@5, S: design@3, A!: on@6)
+75	
+76	
+77	
+78	SVC (S: October@1, V: "is", C: http@8)
+79	
+80	
+81	SVC (S: October@1, V: "is", C: Humphries@5)	SVC (S: October@1, V: "is", C: Matthew@7)	SVA (V: worked@23, S: version@15, A!: on@24)
+82	SVC (S: October@5, V: "is", C: Lee@9)	SVC (S: October@5, V: "is", C: http@12)
+83	SVC (S: October@5, V: "is", C: Lee@9)	SVC (S: October@5, V: "is", C: Jeffrey@11)
+84	
+85	SVA (V: "be Embrace", S: Pi@2, O: www.osnews.com/story/25276/Raspberry_Pi_To_Embrace_RISC_OS@23)	SVC (S: October@8, V: "is", C: Holwerda@16)	SVC (S: October@8, V: "is", C: http@19)	SVC (S: October@8, V: "is", C: November@12)
+86	SVA (V: "be Embrace", S: Pi@2, O: October@8)	SVC (S: October@8, V: "is", C: Holwerda@16)	SVC (S: October@8, V: "is", C: November@12)	SVC (S: January@29, V: "is", C: Dewhurst@33)	SVC (S: January@29, V: "is", C: Christopher@35)	SVC (S: December@47, V: "is", C: boards@68)	SVC (S: January@49, V: "is", C: Dewhurst@53)	SVC (S: January@49, V: "is", C: Christopher@55)	SV (V: assembled@70, S: December@47)	SV (V: tested@72, S: December@47)
+87	SVC (C: same@15, V: is@13, S: layout@8, A?: as@16)
+88	SVA (V: discovered@7, S: error@5, A!: in@8)	SVA (V: fixed@13, S: error@5, A?: in@8, A!: for@14)
+89	SVOC (V: demonstrated@10, S: boards@8, XCOMP: booting@11, XCOMP: playing@14)
+90	SVOA (V: put@18, S: boards@16, A!: for@20, O: Blog@4)
+91	
+92	SVC (S: January@16, V: "is", C: January@20)	SVC (S: January@16, V: "is", C: Williams@24)	SVC (S: January@16, V: "is", C: http@27)
+93	SVC (S: January@16, V: "is", C: January@20)	SVC (S: January@16, V: "is", C: Williams@24)	SVA (V: bought@29, S: Chris@26, A!: anonymously@30)	SVA (S: Suffolk@43, V: "is in", C: England@45)
+94	
+95	SVO (V: Goes@3, S: Pi@2, O: Into@4)	SVC (S: January@8, V: "is", C: Cheerin@16)	SVC (S: January@8, V: "is", C: http@19)	SVC (S: January@8, V: "is", C: January@12)
+96	SVO (V: Goes@3, S: Pi@2, O: Into@4, A?: with@38)	SVC (S: January@8, V: "is", C: Cheerin@16)	SVC (S: January@8, V: "is", C: boards@21)	SVC (S: January@8, V: "is", C: January@12)	SVO (V: raised@33, S: January@8, A?: over@34, O: Into@4)	SVA (V: "be auctioned", S: last@40)	SVA (V: "be raising", S: number@46, O: 3,500@52)
+97	SVA (V: manufactured@8, S: batch@3, A!: in@9)
+98	
+99	
+100	SVC (S: January@1, V: "is", C: http@12)
+101	
+102	
+103	
+104	
+105	SVA (V: "be manufacture", S: opts@4, O: product@7, A!: abroad@8)	SVC (S: January@9, V: "is", C: http@19)
+106	
+107	SVA (V: "be manufacture", S: opts@4, O: product@7, A!: abroad@8)
+108	SVA (V: is@2, S: This@1, A!: payable@7)	SVC (C: payable@7, V: is@6, S: duty@5, A?: on@8)
+109	SVO (V: quoted@4, S: manufacturers@2, A?: also@3, O: time@7, A?: compared@12)
+110	SVA (V: reinvested@4, S: Savings@1, A!: in@5)	SVO (S: Foundation@7, V: "has", O: research@9)
+111	SVO (V: plans@3, S: foundation@2, XCOMP: release@5)
+112	SVO (V: have@4, S: A@2, O: memory@8)	SVOC (V: cost@20, S: A@2, O: memory@8, O: US$@21, A?: contain@28)	SVO (V: contain@28, S: B@26, O: memory@32)
+113	SVO (V: have@7, S: A@4, O: port@11)	SVA (V: connect@15, S: it@13, A?: have@7, A!: to@16, A?: by@19)	SVO (V: supplied@23, S: user@22, O: Ethernet@25)
+114	SVC (C: compatible@13, V: are@12, S: keyboard@9, A?: As@1, A?: with@14)
+115	SVO (V: use@5, S: Pi@3, O: system@9)
+116	SVO (V: planned@11, S: GNU/Linux@2, XCOMP: bundled@14)
+117	SVA (V: come@6, S: PI@3, A!: with@7, A?: use@16)	SVO (V: ask@23, S: PI@3, A?: with@7, A?: use@16, O: user@25, A?: for@26, A?: get@33)	SVO (V: use@16, S: OS@14, O: server@20)	SVA (V: "be get", S: ask@23, O: access@34)
+118	SVA (V: added@18, S: clock@5, A?: However@1, A?: easily@17, A!: via@19)
+119	SVC (S: latter@30, V: "is", C: January@32)
+120	SVO (V: hoped@3, S: It@1, CCOMP: sponsor@7)	SVO (V: sponsor@7, S: businesses@5, O: purchases@8)
+121	SVC (S: computers@17, V: "is", C: Category@18)	SV (V: es@30, S: Pi@29)	SVC (C: references@58, V: are@56, S: Raspberry@48)
+122	
+123	SVC (S: Williams@9, V: "is", C: http@12)
+124	
+125	SVC (S: Williams@9, V: "is", C: Chris@11)	SVA (V: "be developed", S: Williams@9, A!: by@25)	SVO (V: developed@30, S: Computers@27, A?: originally@29, O: processors@33)	SVC (C: able@50, V: be@49, S: OS@46, XCOMP: run@53)
+126	SVA (V: assembled@7, S: connector@4, A!: on@8)
+127	SV (V: purchase@4, S: end-user@2)	SVO (V: solder@6, S: end-user@2, O: header@10, A?: with@11)
+128	
+129	
+130	SVC (V: be@5, S: header@3, CCOMP: connector@38)	SVA (V: "be mounted", S: header@10, A!: on@13)	SVC (C: connector@38, V: be@33, S: header@10, A?: for@39)
+131	SVC (S: OS@5, V: "is", C: source@8)	SVA (V: supported@13, S: OS@5, A?: At@1, A?: yet@12, A!: lacks@17)	SVO (V: lacks@17, S: it@16, O: drivers@19)
+132	
+133	SVC (S: Information@3, V: "is", C: broadcom.com@5)
+134	

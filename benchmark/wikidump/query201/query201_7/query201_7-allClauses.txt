@@ -1,0 +1,2679 @@
+0	
+1	
+2	
+3	
+4	SVC (C: island@5, V: are@2, S: Highlighted@1, A?: to@14)
+5	
+6	
+7	SVO (V: Save@3, S: God@2, O: Queen@5)	SVO (V: Save@13, S: God@12, CCOMP: anthem@18)	SV (V: anthem@18, S: Queen@15)
+8	SVC (C: necessary@10, V: are@8, S: laws@7, A?: In@1)	SVC (C: sufficient@16, V: are@15, S: proclamation@12, XCOMP: make@18)	SV (V: anthem@23, S: it@19)
+9	SVO (V: Save@2, S: God@1, O: Queen@4)
+10	
+11	
+12	
+13	
+14	
+15	
+16	SVC (S: Secretariat@6, V: "is", C: Irish@10)	SVC (S: Irish@10, V: "is", C: #tag@23)
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	SVO (V: estimates@5, S: Population@4, O: Office@6)
+40	
+41	
+42	
+43	SVO (V: =@11, S: 1@4, O: NGDPD@12)
+44	
+45	
+46	SVO (V: =@11, S: 1@4, O: NGDPD@12)
+47	
+48	
+49	
+50	
+51	SV (V: http@8, S: Report@3)
+52	SV (V: http@12, S: Report@3)
+53	
+54	
+55	
+56	
+57	
+58	
+59	
+60	SVC (S: dd/mm/yyyy@19, V: "is", C: AD@21)	SVOC (V: left@24, S: GMT@16, CCOMP: drive@27, O: GBR@15)	SVA (V: drive@27, S: dependencies@26, A!: on@28)
+61	
+62	
+63	
+64	
+65	
+66	SVA (V: shared@3, S: domain@1, A!: with@4)
+67	SVO (V: used@8, S: coat@4, A?: in@9, O: Kingdom@13)	SVOO (V: agus@32, S: Ireland@19, O: Breetain@39, IO: Northern@18)	SVOO (V: agus@32, S: Móire@31, O: Breetain@39, IO: Northern@18)	SVC (C: Èireann@49, V: is@48, S: Mòire@47)	SVO (V: recognised@71, S: languages@67, A?: officially@70, A?: as@72, O: Iwerddon@58)
+68	SVO (S: UK@7, V: "has", O: name@10)	SVA (V: is@11, S: name@10, A?: In@1, A!: follows@13)	SVO (V: agus@28, S: Móire@27, O: Éireann@30)	SVC (C: Èireann@67, V: is@66, S: Mòire@65, A?: Tuath@69)	SVC (S: Fawr@74, V: "is", C: Iwerddon@77)	SVA (V: "be known", S: Iwerddon@77, A!: commonly@79, A?: as@81)	SVA (V: "be located", S: state@94, A!: off@96)
+69	SVO (V: includes@3, S: country@2, O: island@5)
+70	SVC (C: part@6, V: is@3, S: Ireland@2, A?: of@7)	SVO (V: shares@11, S: UK@9, O: border@14)
+71	SVA (V: surrounded@9, S: UK@7, A?: Apart@1, A!: by@10)	SVC (S: Sea@17, V: "is", C: Channel@21)
+72	SVA (V: recognised@13, S: languages@9, A?: In@1, A?: officially@12, A!: as@14)
+73	SVO (S: UK@7, V: "has", O: name@10)	SVA (V: is@11, S: name@10, A?: In@1, A!: follows@13)	SVC (C: state@21, V: is@18, S: Kingdom@17, A?: governed@22, A?: with@32)	SVA (V: "be governed", S: state@21, A!: under@23)	SVO (S: its@33, V: "has", O: seat@34)
+74	
+75	
+76	
+77	
+78	
+79	
+80	
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	
+89	
+90	
+91	SVC (S: UK@3, V: "is", C: university@4)
+92	
+93	
+94	
+95	
+96	
+97	SVA (V: "be situated", S: March@11, A!: in@14)
+98	SVC (C: Dependencies@16, V: are@13, S: Associated@1)
+99	
+100	SVC (S: Kingdom@6, V: "is", C: Directgov@10)
+101	SVA (V: made@6, S: UK@3, A!: of@8)
+102	SVO (V: used@5, S: Britain@2, A?: informally@6, XCOMP: meaning@9)
+103	SVA (V: made@6, S: Britain@3, A!: of@8)
+104	SVC (C: part@11, V: are@9, S: Islands@3, A?: of@12)
+105	
+106	SVC (S: Kingdom@6, V: "is", C: Directgov@10)
+107	SVA (V: made@6, S: UK@3, A!: of@8)
+108	SVO (V: used@5, S: Britain@2, A?: informally@6, XCOMP: meaning@9)
+109	SVA (V: made@6, S: Britain@3, A!: of@8)
+110	SVC (C: part@11, V: are@9, S: Islands@3, A?: of@12)
+111	SVO (V: has@4, S: Kingdom@3, O: territories@7)
+112	
+113	
+114	SVC (C: remnants@14, V: are@13, S: Office@8, A?: of@15)	SVC (C: empire@41, V: are@13, S: Office@8, A?: of@15, A?: in@42)	SVO (S: its@22, V: "has", O: height@23)	SVO (V: encompassed@27, S: Empire@18, A?: at@21, O: quarter@30)	SVO (S: world@33, V: "has", O: surface@36)
+115	SVA (V: observed@6, S: influence@2, A?: still@4, A!: in@7)	SVO (S: its@18, V: "has", O: territories@20)
+116	SVC (C: country@6, V: is@3, S: UK@2)	SVOC (C: has@8, V: is@3, S: UK@2, O: economy@13, A?: by@14, A?: by@20)	SVO (S: world@10, V: "has", O: economy@13)
+117	SVC (C: country@8, V: was@2, S: It@1)	SVO (S: world@4, V: "has", O: country@8)	SVC (S: Mathias@26, V: "is", C: P.@28)
+118	SVC (S: Mathias@20, V: "is", C: P.@22)
+119	SVO (S: world@5, V: "has", O: power@8)
+120	SVOO (V: remains@53, S: York@49, O: power@56, IO: Books@47)	SVOO (V: remains@53, S: UK@52, O: power@56, IO: Books@47)
+121	
+122	
+123	SVC (S: Sheridan@1, V: "is", C: Cameron@4)	SVOC (V: has@5, S: Sheridan@1, O: chance@6, O: www.theaustralian.com@25)	SVA (V: "be make", S: chance@6, O: UK@9)
+124	
+125	SVC (S: Sheridan@1, V: "is", C: Cameron@4)	SVO (V: has@5, S: Sheridan@1, O: chance@6)	SVA (V: "be make", S: chance@6, O: UK@9)	SVC (C: state@27, V: is@22, S: It@21, A?: again@11, A?: May@19, A?: in@36)	SVO (S: its@29, V: "has", O: ranks@32)
+126	
+127	
+128	
+129	
+130	SVC (C: member@24, V: been@21, S: UK@19, A?: of@25)	SVO (S: its@32, V: "has", O: session@34)	SVC (S: member@42, V: "is", C: G20@65)	SVC (C: member@42, V: is@39, S: it@38, A?: also@40, A?: of@43)	SVC (S: member@42, V: "is", C: Council@50)	SVC (S: member@42, V: "is", C: Union@56)	SVC (S: member@42, V: "is", C: G7@59)	SVC (S: member@42, V: "is", C: G8@62)	SVC (S: G20@65, V: "is", C: NATO@67)	SVC (S: G20@65, V: "is", C: OECD@70)
+131	SVO (V: Name@2, S: Etymology@1, A?: of@3, CCOMP: introduced@27)	SVO (V: introduced@27, S: Kingdom@18, A?: in@28, A?: by@30, XCOMP: reflect@38)	SVO (V: left@52, S: which@51, O: Ireland@54, A?: as@55)
+132	SVC (S: War@4, V: "is", C: P.@10)
+133	SVC (S: Cottrell@10, V: "is", C: P.@12)
+134	SVA (V: led@14, S: Acts@8, A!: to@15)	SVA (V: "be uniting", S: the@16, O: kingdoms@19, A!: in@25)	SVO (V: given@29, S: Acts@8, CCOMP: 9@2, A?: state@32)
+135	SVA (V: referred@7, S: Britain@2, A?: occasionally@6, A!: to@8)
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	SVC (S: Creation@2, V: "is", C: Section@19)	SVO (V: declare@29, S: Creation@2, CCOMP: United@36)	SVC (C: United@36, V: are@34, S: England@31, A?: into@37, A?: by@40)
+161	
+162	
+163	
+164	
+165	
+166	
+167	
+168	
+169	
+170	
+171	
+172	
+173	SVC (S: Barnett@22, V: "is", C: Jago@25)	SVC (S: Barnett@22, V: "is", C: Robert@27)	SVO (V: Compare@36, S: July@34, A?: to@37, O: Abingdon@32)	SV (V: reads@49, S: Acts@45)
+174	SVO (V: found@25, S: term@21, A?: by@6, A?: in@26, A?: during@29, XCOMP: describe@34)
+175	
+176	
+177	
+178	
+179	
+180	
+181	SVA (S: Kingdom@22, V: "is in", C: Scotland@35)	SVC (S: country@31, V: "is", C: England@33)	SVA (V: referred@43, S: Kingdom@22, A?: also@42, A!: to@44)	SVC (C: states@54, V: are@52, S: they@51)	SVC (C: devolved@57, V: are@52, S: they@51)
+182	SVC (S: Office@5, V: "is", C: Office@15)	SVC (S: 2007@17, V: "is", C: ISBN@19)
+183	SVO (S: Minister@4, V: "has", O: website@6)	SVOC (V: used@8, S: website@6, O: phrase@10, A?: within@13, XCOMP: describe@18)
+184	SVA (V: "be used", S: name@9)	SVC (C: controversial@14, V: be@13, S: name@9, A?: With@1, A?: with@16)	SVA (V: "be revealing", S: choice@18, A!: often@19, O: preferences@24)	SVO (S: one@21, V: "has", O: preferences@24)
+185	SVA (V: "be used", S: terms@37, A!: for@39)	SVO (V: include@42, S: terms@37, O: region@44)
+186	SVC (S: Dunn@1, V: "is", C: Seamus@3)	SVC (S: Dawson@5, V: "is", C: Helen@7)
+187	SVA (V: "be Name", S: Listing@3, A!: in@10)	SVA (V: "be Name", S: Listing@3, A!: in@10)	SVC (S: Dunn@25, V: "is", C: Seamus@27)	SVC (S: Dawson@29, V: "is", C: Helen@31)
+188	SVA (V: "be Name", S: Listing@3, A!: in@10)	SVA (V: "be Name", S: Listing@3, A!: in@10)	SVC (S: Murphy@25, V: "is", C: Place@29)	SVC (S: Murphy@35, V: "is", C: Place@39)	SVA (V: "be referred", S: Place@39, A!: often@49, A?: to@51)	SVA (V: referred@50, S: Kingdom@47, A?: often@49, A!: to@51)
+189	SVO (V: use@5, S: sources@3, A?: frequently@4, O: term@7, A?: as@8, A?: allow@22)	SVO (V: allow@22, S: guides@20, A?: generally@21, O: use@24)	SVO (V: point@26, S: guides@20, A?: generally@21, O: use@24, A?: out@27)	SVO (S: its@23, V: "has", O: use@24)	SVA (V: refers@34, S: Britain@33, A!: to@36)	SVA (V: refers@34, S: term@31, A!: to@36)
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	SVC (S: guide@3, V: "is", C: Britain@6)
+199	
+200	SVC (S: facts@2, V: "is", C: usage@21)	SVO (V: uses@29, S: facts@2, O: Britain@31, A?: as@32)
+201	SVA (V: "be considered", S: Scotland@15, A!: as@17)
+202	SVO (V: used@6, S: name@2, A?: also@4, A?: often@5, A?: loosely@7, XCOMP: refer@9)
+203	SVO (S: Kingdom@7, V: "has", O: team@10)	SVA (V: competes@11, S: team@10, A?: Also@3, A!: under@12)	SV (V: GB@22, S: team@10, A?: Also@3, A?: under@12)
+204	
+205	
+206	SVO (S: Our@10, V: "has", O: http@13)
+207	
+208	
+209	SVO (S: Our@10, V: "has", O: http@13)
+210	
+211	
+212	SVC (C: codes@14, V: are@10, S: Association@3, A?: for@15)	SVC (C: used@32, V: are@10, S: Association@3, A?: for@15, A?: consequently@30, A?: commonly@31, A?: by@33, XCOMP: refer@37)
+213	SVOC (V: used@8, S: British@5, A?: commonly@7, XCOMP: refer@10, O: November@1)	SVA (V: "be relating", S: matters@12, A!: to@14)
+214	SVO (V: has@4, S: term@3, O: connotation@8)	SVA (V: used@12, S: it@10, A?: has@4, A!: in@13)	SVA (V: "be refer", S: legislation@14, A!: to@17)
+215	
+216	
+217	SVC (S: Bradley@68, V: "is", C: Ewing@72)	SVC (S: Bradley@68, V: "is", C: D.@75)
+218	
+219	
+220	SVC (S: Bradley@68, V: "is", C: Ewing@72)	SVC (S: Bradley@68, V: "is", C: D.@75)
+221	SVA (V: "be describe", S: people@10, O: identity@21)	SVO (V: use@11, S: people@10, O: number@13, A?: describe@18)	SVO (S: their@19, V: "has", O: identity@21)
+222	SVO (V: identify@3, S: Some@1, O: themselves@4, A?: as@5)
+223	SVO (V: identify@3, S: Others@1, O: themselves@4, A?: as@5)
+224	SVO (V: describe@6, S: some@5, A?: In@1, O: themselves@7, A?: as@8)
+225	
+226	
+227	
+228	
+229	SVC (S: Schrijver@49, V: "is", C: Press@54)
+230	
+231	
+232	
+233	
+234	
+235	
+236	
+237	
+238	
+239	SVA (V: erected@35, S: Life@3, A!: around@36)
+240	SVC (V: was@28, S: what@27, XCOMP: become@30)	SVA (V: occurred@34, S: History@1, A!: in@35)	SVA (V: "be beginning", S: waves@36, A!: by@38)
+241	
+242	
+243	
+244	
+245	SVO (S: region@6, V: "has", O: period@9)	SVO (V: thought@14, S: population@12, A?: By@1, XCOMP: belonged@17)	SVA (V: "be termed", S: culture@25, O: Celtic@28)	SVA (V: "be comprising", S: Celtic@28, O: Britain@32)
+246	SVC (S: Koch@8, V: "is", C: T.@11)
+247	SVC (S: Barbara@5, V: "is", C: culture@9)	SVC (S: Koch@15, V: "is", C: T.@18)
+248	SVC (S: Barbara@5, V: "is", C: conquest@10)	SVA (V: "be beginning", S: Barbara@5, A!: in@13)	SVO (V: followed@26, S: Barbara@5, A?: by@27, XCOMP: reducing@35)	SVC (V: was@42, S: what@41, XCOMP: become@44)
+249	SVC (S: Davies@4, V: "is", C: historian@6)
+250	SVC (S: Davies@21, V: "is", C: historian@23)
+251	SVA (V: "be settled", S: region@19, A!: by@21)	SVC (V: became@24, S: Encyclopaedia@7, ACOMP: unified@25)
+252	SVC (S: Mackie@29, V: "is", C: J.D.@31)
+253	
+254	SVC (S: Mackie@13, V: "is", C: J.D.@15)
+255	
+256	SVA (V: "be united", S: Edinburgh@47, A!: with@54, XCOMP: create@58)
+257	SVA (V: "be leading", S: events@39, A!: to@41)
+258	SVO (V: invaded@6, S: Normans@5, A?: In@1, O: England@7)	SVOC (V: conquered@19, S: Normans@5, A?: In@1, O: England@7, A?: much@20, A?: in@25, XCOMP: bringing@27)	SVO (V: after@9, S: Normans@5, A?: In@1, O: England@7, A?: conquest@11)	SVOC (V: seized@13, S: Normans@5, A?: In@1, O: England@7, O: parts@15)	SVO (S: its@10, V: "has", O: conquest@11)
+259	SVC (S: Ganshof@2, V: "is", C: F.L.@4)
+260	SVC (S: Ganshof@8, V: "is", C: F.L.@10)
+261	SV (V: influenced@11, S: elites@9, A?: greatly@10)	SV (V: assimilated@15, S: elites@9, A?: greatly@10, A?: eventually@14)
+262	SVC (S: Chibnall@10, V: "is", C: Press@16)	SVC (S: Chibnall@27, V: "is", C: kings@38)	SVOO (V: completed@39, S: Chibnall@27, O: conquest@41, IO: Conquest@23)	SVOO (V: made@45, S: Chibnall@27, O: conquest@41, O: attempt@49, IO: Conquest@23)	SVA (V: "be annex", S: attempt@49, O: Scotland@52)
+263	SVO (V: maintained@4, S: Scotland@3, A?: Thereafter@1, O: independence@6, A?: albeit@8)	SVO (S: its@5, V: "has", O: independence@6)
+264	SVO (V: involved@22, S: monarchs@3, A?: through@5, A?: also@20, A?: heavily@21, A?: in@23, O: War@33)
+265	
+266	
+267	
+268	SVO (V: saw@5, S: period@4, O: conflict@7)	SVA (V: "be resulting", S: conflict@7, A!: from@9)
+269	
+270	SVA (V: incorporated@4, S: Wales@1, A?: fully@3, A!: into@5)
+271	
+272	
+273	
+274	SVA (V: constituted@12, S: History@5, A!: as@13)
+275	SVC (S: Isles@7, V: "is", C: 1529@9)	SVC (S: 172@18, V: "is", C: Nicholls@20)	SVC (S: Isles@31, V: "is", C: 1529@33)	SVC (V: become@53, S: what@50, XCOMP: Ireland@55)	SVO (V: confiscated@66, S: lands@58, A?: given@69, O: kingdoms@39)	SVO (V: land@68, S: lands@58, A?: given@69, O: kingdoms@39)
+276	
+277	SVC (S: British@3, V: "is", C: 1580@5)
+278	SVC (S: 189@8, V: "is", C: kingdoms@20)	SVA (V: united@28, S: 189@8, A!: in@29, A?: inherited@41)	SVO (V: moved@49, S: 189@8, A?: in@29, A?: inherited@41, O: court@51, A?: from@52, A?: to@54)	SVO (V: inherited@41, S: King@37, A?: when@33, O: crowns@43)	SVO (S: his@50, V: "has", O: court@51)	SVO (V: remained@60, S: country@58, A?: nevertheless@59, O: entity@64)	SVOC (V: retained@66, S: country@58, A?: nevertheless@59, O: entity@64, O: institutions@70)	SVO (S: its@67, V: "has", O: institutions@70)
+279	SVC (S: Ross@1, V: "is", C: D.@3)
+280	
+281	
+282	
+283	
+284	
+285	SVC (S: Hearn@3, V: "is", C: J.@5)
+286	
+287	
+288	
+289	
+290	
+291	SVO (V: involved@12, S: kingdoms@10, A?: in@13, O: ISBN@1)	SVA (V: led@27, S: series@15, A!: to@28)
+292	
+293	
+294	
+295	
+296	
+297	
+298	
+299	
+300	
+301	
+302	SV (V: restored@11, S: monarchy@9)	SVO (V: ensured@14, S: it@13, A?: restored@11, CCOMP: prevail@37)	SV (V: prevail@37, S: absolutism@34, A?: unlike@25)
+303	SVA (V: develop@5, S: constitution@3, A!: on@6)	SV (V: system@15, S: constitution@3, A?: on@6)
+304	
+305	
+306	
+307	
+308	SVOA (V: led@49, S: development@36, A!: to@50, O: id@1)
+309	
+310	
+311	
+312	
+313	
+314	
+315	
+316	
+317	SVA (V: "be encompassing", S: kingdom@20, O: Britain@24)
+318	SVC (S: May@3, V: "is", C: kingdom@8)	SVA (V: came@12, S: May@3, A!: into@13)	SVA (V: negotiated@38, S: Treaty@32, A!: year@41)	SVA (V: ratified@43, S: Treaty@32, A?: year@41, A!: by@44)	SVA (V: "be passing", S: Parliaments@49, O: Acts@51)
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	SVOO (V: played@21, S: country@20, O: role@24, A?: in@25, IO: online@10)
+334	
+335	SVA (V: involved@12, S: Britain@4, A?: During@1, A!: in@13, A?: took@37)	SVOA (V: took@37, S: Kingdom@36, O: role@40, A!: in@41)
+336	SVC (S: Loosemore@1, V: "is", C: Jo@3)	SVC (S: Jo@3, V: "is", C: 2007@5)
+337	
+338	
+339	SVC (C: focus@10, V: been@7, S: colonies@2, A?: of@11)
+340	SVO (S: their@4, V: "has", O: loss@5)	SVO (V: turned@15, S: ambition@14, A?: to@16, O: War@9)	SVC (S: parts@18, V: "is", C: India@24)
+341	
+342	
+343	
+344	SVO (V: raged@10, S: wars@6, A?: still@9, XCOMP: Parliaments@13)	SVA (V: "be uniting", S: Parliaments@13, O: kingdoms@30)	SVA (V: "be uniting", S: Parliaments@13, O: kingdoms@30, O: Kingdom@35)	SVO (V: passed@21, S: each@20, A?: of@18, O: Act@23)	SVA (V: came@43, S: Kingdom@35, A!: into@44)
+345	
+346	
+347	
+348	
+349	
+350	
+351	
+352	
+353	
+354	SVC (S: Revolutionary@8, V: "is", C: 1815@15)	SVO (V: emerged@21, S: Kingdom@20, A?: as@22, O: Revolutionary@8)	SVC (S: Tellier@48, V: "is", C: L.-N@50)
+355	
+356	
+357	
+358	
+359	
+360	
+361	SVC (S: Sondhaus@1, V: "is", C: L.@3)
+362	
+363	
+364	
+365	
+366	
+367	SVC (S: ISBN@1, V: "is", C: Britain@7)	SVO (V: adopted@8, S: ISBN@1, O: role@10)	SVC (S: policeman@13, V: "is", C: state@16)	SVA (V: "be known", S: state@16, A!: later@19, A?: as@21)
+368	
+369	
+370	
+371	
+372	SVC (C: period@13, V: was@10, S: It@9, A?: also@11, A?: of@14)
+373	SVA (V: described@3, S: Britain@1, A!: as@4)
+374	
+375	
+376	SVC (V: grew@5, S: Empire@4, XCOMP: include@7)
+377	SVO (V: exerted@6, S: it@5, A?: over@7, O: control@4)	SVO (S: its@8, V: "has", O: colonies@10)	SVO (S: Britain@12, V: "has", O: position@15)	SVO (V: meant@19, S: position@15, A?: Alongside@1, CCOMP: controlled@23)	SVO (V: controlled@23, S: it@21, A?: effectively@22, O: economies@25)
+378	
+379	
+380	
+381	
+382	
+383	
+384	
+385	
+386	
+387	
+388	EXISTENTIAL (V: was@14, S: shift@16, A?: Domestically@11)
+389	SVA (V: "be resulting", S: country@2, A!: in@18)	SVO (V: saw@3, S: country@2, O: increase@7, A?: resulting@17)	SVA (V: "be accompanied", S: increase@7, A!: by@13)
+390	
+391	
+392	
+393	
+394	
+395	
+396	SVO (V: began@21, S: states@20, XCOMP: challenge@23)	SVO (S: Britain@24, V: "has", O: dominance@27)
+397	SVC (S: Hosch@18, V: "is", C: L.@21)
+398	SVC (S: Hosch@22, V: "is", C: L.@25)
+399	SVA (V: "be sitting", S: uniforms@15, A!: in@22)	SVA (V: "be sitting", S: uniforms@15, A!: in@22)
+400	
+401	SVO (V: lost@6, S: soldiers@5, O: lives@8, A?: on@9)	SVO (S: their@7, V: "has", O: lives@8)
+402	SVC (C: one@18, V: was@17, S: UK@2, A?: of@19)	SVA (V: "be opposing", S: powers@22, O: Empire@26, A!: in@30)	SVO (S: its@28, V: "has", O: allies@29)
+403	SVC (S: Turner@1, V: "is", C: John@3)	SVC (S: John@3, V: "is", C: 1988@5)
+404	
+405	
+406	
+407	
+408	
+409	SVA (V: grew@5, S: forces@4, A!: to@6)	SVO (S: its@15, V: "has", O: empire@16)
+410	SVO (V: suffered@3, S: nation@2, O: two@6)	SVOC (V: finished@13, S: nation@2, O: two@6, O: war@15, A?: with@16)
+411	SVC (S: Westwell@1, V: "is", C: I.@3)
+412	SVC (S: Cove@2, V: "is", C: D.@4)
+413	
+414	SVC (S: History@1, V: "is", C: Volume@7)
+415	
+416	
+417	
+418	
+419	SVOO (V: received@7, S: Kingdom@6, O: League@9, IO: war@3)	SVA (V: expanded@25, S: Empire@23, A?: After@1, A!: to@26, A?: covering@31)	SVA (V: "be covering", S: Empire@23, O: fifth@33)	SVO (S: its@27, V: "has", O: extent@29)	SVO (S: world@36, V: "has", O: surface@39)	SVO (S: its@44, V: "has", O: population@45)
+420	SVC (S: Turner@1, V: "is", C: J.@3)
+421	
+422	
+423	
+424	
+425	
+426	
+427	SVOA (V: led@19, S: rise@4, A?: However@1, A!: eventually@20, A?: to@21, A?: in@27, O: SR&O@30)	SVC (S: SR&O@30, V: "is", C: No@33)
+428	
+429	SVO (V: remaining@17, S: Ireland@16, O: part@18)
+430	
+431	
+432	
+433	
+434	SVC (S: Treaty@3, V: "is", C: 6@5)	SVC (S: Depression@14, V: "is", C: 32@18)	SVA (V: occurred@20, S: Treaty@3, A!: at@21)	SVA (V: led@41, S: Treaty@3, A?: at@21, A!: to@42)	SVOC (C: far@29, V: was@27, S: UK@26, A?: when@24, A?: still@28, A?: from@30, O: time@23)
+435	SVC (S: Rubinstein@1, V: "is", C: W.@3)
+436	
+437	
+438	
+439	
+440	
+441	
+442	
+443	SVC (C: one@5, V: was@4, S: Kingdom@3, A?: of@6)
+444	SVO (S: its@7, V: "has", O: allies@9)	SVO (V: continued@21, S: Kingdom@20, A?: November@1, O: fight@23)
+445	SVC (C: one@8, V: was@7, S: UK@6, A?: After@1, A?: of@9)	SVO (V: met@15, S: powers@13, XCOMP: plan@17)
+446	SVO (V: left@3, S: war@2, O: Kingdom@6)	SV (V: damaged@8, S: left@3, A?: financially@7)
+447	SVO (V: helped@14, S: Aid@4, A?: However@1, O: UK@16, A?: on@17)
+448	
+449	
+450	SVO (V: make@3, S: Britain@1, O: payment@6, A?: from@12)	SVO (S: its@4, V: "has", O: payment@6)
+451	
+452	
+453	SVO (V: make@3, S: Britain@1, O: payment@6, A?: from@12)	SVO (S: its@4, V: "has", O: payment@6)
+454	
+455	
+456	SVA (V: were@2, S: that@1, A!: at@3)
+457	SVA (V: underlined@4, S: Territoriesare@3, A!: in@5)
+458	SVO (V: initiated@9, S: government@3, O: programme@12)	SVA (V: "be having", S: changes@14, O: impact@18)
+459	SVC (S: Francis@16, V: "is", C: Service@74)	SVO (V: nationalized@55, S: Francis@39, CCOMP: established@61)	SVO (V: system@69, S: Francis@39, CCOMP: established@61)	SV (V: established@61, S: State@59)	SV (V: created@77, S: Francis@16)
+460	SVC (S: history@5, V: "is", C: J.@11)
+461	SVC (S: history@16, V: "is", C: J.@22)
+462	SVC (S: Lee@1, V: "is", C: policy@37)	SVO (S: government@23, V: "has", O: sympathies@27)	SVO (S: Britain@29, V: "has", O: position@34)	SVA (V: initiated@41, S: Lee@1, A!: with@42)
+463	
+464	
+465	
+466	
+467	SVOO (V: gained@68, S: territories@64, O: independence@69, IO: decades@62)
+468	SVO (S: Britain@9, V: "has", O: role@12)	SVA (V: illustrated@14, S: limits@7, A!: by@15)	SVOC (V: became@25, S: UK@23, A?: nevertheless@24, XCOMP: one@26, O: November@1)	SVA (V: "be develop", S: country@42, O: arsenal@48, A!: with@50)	SVO (S: its@51, V: "has", O: test@55)
+469	SVO (V: ensured@9, S: spread@3, A?: also@8, O: influence@13, A?: while@20)	SVO (S: its@15, V: "has", O: literature@16)	SVO (S: its@24, V: "has", O: culture@26)	SVOO (V: found@28, S: culture@26, A?: also@27, O: influence@29, IO: 1960s@23)
+470	SVA (V: "be transforming", S: Government@15, A!: thereby@22, O: Britain@24, A?: into@25, A?: in@29)	SVO (V: encouraged@16, S: Government@15, A?: As@1, O: immigration@17, A?: transforming@23)
+471	
+472	
+473	
+474	
+475	SVOO (V: joined@83, S: Kingdom@82, O: Community@87, IO: language@56)	SVC (S: Community@87, V: "is", C: EEC@89)	SVC (V: became@96, S: EEC@95, A?: when@93, XCOMP: Union@99, A?: in@103)	SVC (S: Union@99, V: "is", C: EU@101)	SVC (C: one@109, V: was@108, S: UK@107, A?: became@96, A?: of@110)	SVO (S: its@111, V: "has", O: members@114)
+476	SVOO (V: suffered@7, S: Ireland@6, O: violence@11, IO: 1960s@4)
+477	SVO (V: considered@4, S: It@1, A?: usually@3, XCOMP: ended@7)
+478	SVC (S: Politics@2, V: "is", C: Hope@38)	SVO (V: were@58, S: troubles@57, A?: over@59, O: course@43)	SV (V: continued@64, S: killing@63)
+479	SVO (S: Ireland@6, V: "has", O: traditions@9)	SVO (V: refused@10, S: Some@1, XCOMP: give@12)	SVO (S: their@14, V: "has", O: inheritance@15)
+480	SVC (S: Elliot@22, V: "is", C: Marianne@24)	SVC (S: Marianne@24, V: "is", C: 2007@26)
+481	
+482	SVC (S: University@1, V: "is", C: Press@11)
+483	
+484	
+485	
+486	SVO (V: initiated@21, S: Government@17, A?: Following@1, O: policy@24)	SVC (S: policy@24, V: "is", C: markets@36)	SVC (S: policy@24, V: "is", C: sale@39)	SVC (S: companies@42, V: "is", C: privatisation@44)
+487	SVA (V: "be Making", S: Blackwell@13, O: politics@18, A!: since@19)	SVA (V: "be Making", S: Blackwell@29)	SVOC (V: Aided@33, S: Britain@32, A?: from@35, A?: by@38, CCOMP: experienced@50, O: Making@30)	SVO (V: experienced@50, S: UK@49, O: period@52)
+488	SVO (V: _@8, S: catalog/uploads/Griffiths@7, O: C01.pdf@9)
+489	SVC (S: Wall@15, V: "is", C: http@20)	SV (V: _@27, S: catalog/uploads/Griffiths@26)
+490	
+491	
+492	
+493	
+494	
+495	SVO (V: surrounded@3, S: controversy@2, O: some@4, A?: in@11, A?: in@19)	SVO (S: Britain@6, V: "has", O: deployment@10)
+496	
+497	
+498	SVC (S: Jackson@1, V: "is", C: action@5)	SVOC (V: save@9, S: Jackson@1, O: http@17, O: www.ft.com/cms/s/0/a6d31ca2-5e22-11e0-b1d8-00144feab49a@21)
+499	
+500	
+501	SVOC (C: sqmi@16, V: is@12, S: area@7, O: topography@1)
+502	SVOC (V: occupies@3, S: country@2, O: part@6, O: Isles@17)	SVA (V: "be comprising", S: islands@24, O: Britain@27, A!: with@30)	SVO (S: their@32, V: "has", O: islands@34)
+503	
+504	SVA (V: lies@2, S: It@1, A!: between@3)	SVA (V: coming@16, S: coast@15, A!: within@17)	SVA (V: separated@33, S: it@31, A?: from@29, A!: by@34)
+505	
+506	
+507	SV (V: https@12, S: Agency@8)
+508	
+509	SVO (V: forested@19, S: Agency@8, O: %@22)	SVA (V: "be used", S: %@22, A!: for@24)	SVA (V: "be used", S: %@28, A!: for@30)
+510	
+511	
+512	
+513	
+514	
+515	
+516	SVC (C: point@13, V: is@10, S: 26@1, A?: of@14)
+517	SVA (V: lies@6, S: Kingdom@5, A?: November@1, A!: between@7)
+518	
+519	SVC (C: mi@9, V: is@6, S: coastline@2, A?: long@11)
+520	SVC (S: Neal@1, V: "is", C: http@4)
+521	
+522	
+523	SVO (V: =@2, S: asp?contentID@1, O: 749@3)
+524	SVC (S: Neal@7, V: "is", C: http@10)
+525	
+526	
+527	SVO (V: =@2, S: asp?contentID@1, O: 749@3)
+528	SVC (C: tunnel@35, V: is@31, S: Tunnel@16, A?: at@19, A?: in@36)	SVA (V: connected@9, S: It@7, A!: to@10, A?: by@13)	SVC (S: mi@22, V: "is", C: mi@27)
+529	
+530	
+531	SVA (V: "be covering", S: accounts@9, O: sqmi@25)
+532	
+533	
+534	
+535	
+536	SVO (V: consists@13, S: Most@9, A?: of@14, A?: with@18, O: Profile@5)
+537	SVC (C: Thames@8, V: are@6, S: rivers@3)
+538	SVO (S: England@1, V: "has", O: mountain@4)	SVC (C: Pike@7, V: is@5, S: mountain@4, A?: in@14)
+539	SVO (S: Its@1, V: "has", O: rivers@3)	SV (V: are@4, S: the@5)	SVC (S: Severn@6, V: "is", C: Humber@10)	SVC (S: Tees@12, V: "is", C: Tyne@14)
+540	
+541	
+542	
+543	
+544	
+545	
+546	
+547	
+548	
+549	
+550	
+551	
+552	
+553	
+554	
+555	
+556	
+557	
+558	
+559	SVA (V: distinguished@6, S: topography@2, A!: by@7, A?: fracture@16)	SVO (V: traverses@19, S: fracture@16, O: Scotland@20, A?: from@21, A?: to@26, A?: in@28)
+560	
+561	
+562	
+563	
+564	SVO (V: separates@17, S: faultline@16, A?: Edinburgh@11, A?: December@13, O: regions@21)
+565	SVO (V: contains@6, S: region@5, O: majority@8)	SVO (S: Scotland@10, V: "has", O: land@13)	SVC (C: point@27, V: is@24, S: Nevis@17, A?: at@19, A?: in@28)
+566	
+567	
+568	
+569	
+570	SVC (S: Weather@6, V: "is", C: waist@16)	SVA (V: "be known", S: Forth@28, A!: as@30)	SVC (C: flatter@36, V: are@35, S: Weather@6)	SVC (S: Glasgow@45, V: "is", C: city@50)	SVO (S: Scotland@47, V: "has", O: city@50)	SVO (S: its@55, V: "has", O: capital@56)
+571	SVA (V: "be covering", S: accounts@4, O: sqmi@21)
+572	
+573	
+574	
+575	
+576	SVC (C: mountainous@15, V: is@13, S: News@5, A?: mostly@14, A?: mountainous@22)	SVC (C: mountainous@22, V: is@20, S: Wales@19, A?: less@21, A?: than@23)
+577	SVA (V: are@7, S: population@3, A!: in@8)	SVA (V: consisting@12, S: population@3, A?: in@8, A!: of@13)	SVA (V: Valleys@28, S: Wales@27, A!: to@29)	SVO (S: their@30, V: "has", O: north@31)
+578	SVA (V: are@6, S: mountains@3, A!: in@7)	SVO (V: include@10, S: mountains@3, A?: in@7, O: Snowdon@11)	SVC (S: Snowdon@11, V: "is", C: Wyddfa@14)	SVC (C: peak@27, V: is@24, S: Snowdon@11, A?: at@18, A?: in@28)
+579	SVC (S: mountains@9, V: "is", C: m@15)	SVA (V: known@19, S: 14@2, A!: collectively@20, A?: as@21)
+580	SVA (V: has@2, S: Wales@1, A!: over@3)	SVC (S: km@5, V: "is", C: miles@8)
+581	EXISTENTIAL (V: are@2, S: islands@4)	SVOC (C: Anglesey@15, V: is@14, S: largest@11, A?: in@20, O: islands@4)
+582	
+583	SVO (V: includes@2, S: It@1, O: Neagh@4)	SVC (C: lake@16, V: is@13, S: Neagh@4, A?: at@7, A?: in@17, A?: by@21)
+584	
+585	
+586	
+587	
+588	
+589	
+590	SVC (C: Donard@19, V: is@17, S: Geography@1, A?: in@20, A?: at@24)
+591	SVO (V: has@9, S: Climate@1, O: climate@12, A?: with@14)
+592	SVA (V: varies@3, S: temperature@2, A!: with@4)	SVA (V: dropping@8, S: seasons@6, A!: seldom@7, A!: below@9, A?: on@12)
+593	
+594	
+595	
+596	
+597	SVA (V: is@12, S: wind@11, A!: from@13, A?: sheltered@36, A?: falls@47)	SVO (V: bears@17, S: wind@11, A?: from@13, O: spells@19, A?: sheltered@36, A?: falls@47)	SVC (C: sheltered@36, V: are@34, S: parts@33, A?: mostly@35, A?: from@37)	SVA (V: falls@47, S: majority@43, A!: over@48)	SVOC (C: driest@58, V: are@55, S: parts@54, A?: therefore@56, O: regions@51)
+598	SVA (V: "be warmed", S: currents@4, A!: by@7)	SVO (V: bring@12, S: currents@4, O: winters@14)	SVOC (C: wet@23, V: are@22, S: winters@21, A?: where@20, O: west@19)
+599	SVC (C: warmest@3, V: are@2, S: Summers@1, A?: in@4)
+600	SVA (V: occur@4, S: snowfall@2, A!: in@5, A?: on@10)
+601	
+602	
+603	
+604	
+605	
+606	
+607	
+608	
+609	SVOO (V: has@28, S: country@23, O: system@31, IO: units@17)	SVO (S: its@29, V: "has", O: system@31)	SVO (V: has@40, S: system@31, A?: often@39, O: origins@41)	SVO (V: pre-date@43, S: origins@41, O: formation@45)
+610	SVA (V: "be encompassing", S: unit@10, O: Kingdom@14)
+611	
+612	
+613	
+614	
+615	
+616	
+617	
+618	
+619	EXISTENTIAL (V: was@34, S: change@36, O: Conference@6)	EXISTENTIAL (V: there@42, S: change@36, CCOMP: has@43, O: Conference@6)
+620	
+621	
+622	SVC (V: occur@10, S: Change@7, A?: in@11, ACOMP: means@30)	SVC (C: unlikely@35, V: are@34, S: changes@33, XCOMP: uniform@38)
+623	SVC (C: complex@11, V: is@10, S: November@1, A?: with@13)
+624	SVO (V: decided@8, S: Legislation@1, A?: by@9, CCOMP: have@25)
+625	SVC (C: regions@11, V: are@6, S: subdivisions@3)
+626	
+627	
+628	
+629	SVO (V: Welcome@9, S: July@7, A?: to@10, O: Offices@5)
+630	
+631	
+632	SVC (S: Offices@5, V: "is", C: London@25)	SVO (V: Welcome@9, S: July@7, A?: to@10, O: Offices@5)	SVO (V: had@28, S: Offices@5, O: assembly@32, A?: since@35, A?: following@37)
+633	
+634	
+635	
+636	
+637	
+638	
+639	
+640	
+641	
+642	
+643	
+644	
+645	SVOC (V: intended@18, S: It@16, A?: October@14, CCOMP: given@25, O: Authority@12)	SVO (V: given@25, S: regions@21, A?: also@23, O: assemblies@30)	SVO (S: their@26, V: "has", O: assemblies@30)	SVO (V: stopped@50, S: rejection@33, O: idea@52, A?: in@53)	SVO (S: its@54, V: "has", O: tracks@55)
+646	
+647	
+648	SVO (S: Prescott@1, V: "has", O: dream@3)	SVO (V: rejects@9, S: East@8, O: assembly@10)	SVA (V: "be expected", S: February@12, O: Times@15, O: London@16, A!: Norfolk@20, A?: November@22, A?: now@27, XCOMP: tear@30)	SVOC (V: expected@28, S: Government@25, O: Times@15, O: London@16, A?: Norfolk@20, A?: November@22, A?: now@27, XCOMP: tear@30)	SVO (S: its@32, V: "has", O: plan@34)	SVA (V: "be create", S: plan@34, O: assemblies@41, A!: in@42, A?: mirror@45)	SVA (V: "be mirror", S: create@36, O: devolution@46)
+649	
+650	
+651	SVO (S: Prescott@1, V: "has", O: dream@3)	SVO (V: rejects@9, S: East@8, O: assembly@10)	SVA (V: "be expected", S: February@12, O: Times@15, O: London@16, A!: Norfolk@20, A?: November@22, A?: now@27, XCOMP: tear@30)	SVOC (V: expected@28, S: Government@25, O: Times@15, O: London@16, A?: Norfolk@20, A?: November@22, A?: now@27, XCOMP: tear@30)	SVO (S: its@32, V: "has", O: plan@34)	SVA (V: "be create", S: plan@34, O: assemblies@41, A!: in@42, A?: mirror@45)	SVA (V: "be mirror", S: create@36, O: devolution@46)
+652	SVOO (V: has@6, S: England@5, O: councils@9, IO: level@4)	SVA (V: consists@19, S: London@17, A!: of@20)
+653	SVA (V: elected@3, S: Councillors@1, A!: by@4)
+654	
+655	SV (V: http@10, S: Association@6)
+656	SVA (V: divided@15, S: government@11, A!: on@16, A?: with@24)
+657	SVC (C: areas@14, V: are@11, S: cities@2, A?: Council@19)	SVO (V: includes@21, S: Council@19, O: third@23)	SVO (S: Scotland@25, V: "has", O: area@27)
+658	SVA (V: "be invested", S: power@2, A!: in@4)	SVA (V: administered@8, S: power@2, A!: by@9)	EXISTENTIAL (V: are@16, S: http@19, A?: of@13, O: councillors@11)
+659	
+660	
+661	
+662	SV (V: are@16, S: each@17)	SVA (V: "be paid", S: each@17, O: salary@21)
+663	SVA (V: conducted@3, S: Elections@1, A!: by@4)	SVO (V: elect@12, S: wards@10, O: councillors@17)
+664	SVO (V: elects@3, S: council@2, O: Provost@5)
+665	SVC (C: subject@3, V: are@2, S: Councillor@1, A?: to@4)	SVA (V: "be enforced", S: code@6, A!: by@10)
+666	
+667	
+668	SVO (S: Scotland@11, V: "has", O: authorities@14)	SVOC (C: Convention@17, V: is@15, S: association@9, A?: of@18, O: October@5)	SVC (S: Authorities@21, V: "is", C: COSLA@23)
+669	
+670	SVOC (C: Convention@4, V: are@3, S: we@2, O: Who@1, A?: of@5)
+671	SVOC (C: Convention@4, V: are@3, S: we@2, O: Who@1, A?: of@5)	SVA (V: consists@16, S: Convention@4, A!: of@17)
+672	SVO (V: include@2, S: These@1, O: cities@4)	SVC (C: authorities@14, V: are@12, S: cities@4, A?: in@15)	SVO (S: their@16, V: "has", O: right@18)
+673	
+674	
+675	SVO (V: held@15, S: Government@9, A?: years@18, A?: under@19, O: Authorities@5)
+676	
+677	
+678	SV (V: http@13, S: Commission@8)
+679	
+680	SVA (V: "be held", S: elections@3, A!: in@19)	SVA (V: held@18, S: elections@16, A!: in@19)	SVA (V: held@18, S: Commission@8, A!: in@19)
+681	SVO (V: represents@6, S: Association@5, O: interests@8)
+682	
+683	
+684	SVA (V: has@17, S: Association@8, A!: since@19)	SVA (V: "be elected", S: each@29, A!: by@31)
+685	SVO (S: Their@1, V: "has", O: powers@2)	SVA (V: limited@4, S: powers@2, A!: to@5)
+686	
+687	
+688	
+689	
+690	SVA (V: agreed@23, S: shake-up@6, A?: 13@18, A?: March@19, A!: on@24)	SVA (V: agreed@23, S: executive@22, A?: 13@18, A?: March@19, A!: on@24)	SVA (V: "be create", S: proposals@25, O: councils@30)	SVA (V: "be create", S: proposals@25, O: councils@30, O: system@35)
+691	
+692	
+693	SVO (V: announces@2, S: Foster@1, O: shape@5)
+694	
+695	SVO (V: announces@2, S: Foster@1, CCOMP: postponed@23)	SVO (V: postponed@23, S: shape@5, A?: until@24, XCOMP: facilitate@27)
+696	
+697	
+698	SVA (V: "be aligned", S: elections@6, A!: with@10)
+699	
+700	SVA (V: "be aligned", S: elections@6, A!: with@10)	SVO (V: indicated@35, S: Territories@33, A?: in@36, O: thumb300pxThe@29)	SVOO (V: has@41, S: thumb300pxThe@29, O: sovereignty@42, A?: over@43, IO: August@22)	SVO (V: form@49, S: territories@45, O: part@50)	SV (V: http@61, S: Territories@60)
+701	
+702	
+703	SVOC (C: Anguilla@10, V: are@8, S: Territories@7, O: November@1)
+704	
+705	
+706	
+707	
+708	SV (V: recognised@29, S: claims@23, A?: universally@28)
+709	
+710	
+711	SV (V: https@8, S: CIA@4)
+712	
+713	SVO (S: Britain@9, V: "has", O: territories@12)	SVO (V: encompass@13, S: CIA@4, O: area@17)
+714	
+715	
+716	SVC (C: remnants@16, V: are@14, S: They@13, A?: February@8, A?: of@17)	SVO (V: voted@25, S: several@22, A?: specifically@24, XCOMP: remain@27)
+717	SVC (C: possessions@8, V: are@6, S: Dependencies@5, A?: November@1, A?: of@9, A?: opposed@14)
+718	SVC (S: Office@3, V: "is", C: http@8)
+719	
+720	
+721	
+722	
+723	
+724	
+725	
+726	
+727	
+728	SVO (V: comprise@5, S: They@4, O: Bailiwick@9)
+729	SVOO (V: form@8, S: they@5, O: part@9, A?: of@15, IO: jurisdictions@4)	SVO (V: manages@24, S: government@23, O: affairs@27)	SVO (S: their@25, V: "has", O: affairs@27)	SVO (V: has@34, S: Parliament@33, O: authority@36)	SVA (V: "be legislate", S: authority@36, A!: on@39)	SVO (S: their@40, V: "has", O: behalf@41)
+730	SVA (V: "be pass", S: power@2, CCOMP: rests@10)	SVA (V: rests@10, S: legislation@5, A?: ultimately@9, A!: with@11, A?: with@18)	SVA (V: rests@10, S: affecting@6, A?: ultimately@9, A!: with@11, A?: with@18)	SVO (S: their@12, V: "has", O: assemblies@16)	SVC (S: Crown@23, V: "is", C: Council@26)
+731	
+732	
+733	
+734	
+735	SVO (V: passes@12, S: Jersey@6, A?: July@8, O: legislation@14)	SVO (V: passes@12, S: legislature@11, A?: July@8, O: legislation@14)	SVO (V: requires@17, S: legislation@14, O: approval@18)	SVA (V: "be conferred", S: powers@40, A!: by@42)
+736	
+737	
+738	
+739	
+740	SVO (V: passes@12, S: Jersey@6, A?: July@8, O: legislation@14)	SVO (V: passes@12, S: legislature@11, A?: July@8, O: legislation@14)	SVO (V: requires@17, S: legislation@14, O: approval@18)	SVA (V: "be conferred", S: powers@40, A!: by@42)
+741	SVO (V: had@7, S: dependency@5, O: Minister@10)	SVO (S: its@12, V: "has", O: head@13)
+742	SVA (V: smiling@26, S: Politics@3, A!: in@27)
+743	SVOC (C: state@19, V: is@16, S: Kingdom@15, A?: under@20, O: realms@12)
+744	SVC (C: head@6, V: is@4, S: II@3, A?: of@7)
+745	SVC (C: symbolic@5, V: is@4, S: monarch@2, A?: than@7)	SVOC (C: has@12, V: is@4, S: monarch@2, A?: than@7, A?: only@11, O: right@15)	SVA (V: "be consulted", S: right@15)	SVA (V: "be consulted", S: right@15, A!: encourage@23)	SVA (V: "be consulted", S: right@15, A!: warn@29)	SVA (V: "be encourage", S: right@21)	SVA (V: "be warn", S: right@27)
+746	SVC (S: Walter@3, V: "is", C: 1867@5)	SVC (S: Constitution@9, V: "is", C: London@11)	SVC (S: Chapman@13, V: "is", C: p@17)
+747	SVO (V: has@5, S: Kingdom@4, O: constitution@8)
+748	
+749	
+750	SVA (V: consists@18, S: Zealand@4, A-: thus@17, A!: of@20)
+751	EXISTENTIAL (V: is@3, S: difference@6)	EXISTENTIAL (V: law@13, S: difference@6)	SV (V: perform@19, S: Parliament@17, A?: is@3)	SVA (V: "be change", S: power@35, O: element@45)	SVA (V: "be change", S: power@35, O: element@45)
+752	SVO (V: pass@6, S: Parliament@4, A?: However@1, O: laws@7)	SVO (V: change@13, S: Parliaments@10, O: laws@7)
+753	
+754	
+755	
+756	
+757	
+758	
+759	SVO (V: has@13, S: page@5, O: government@16)	SVA (V: emulated@25, S: system@21, A!: around@26)
+760	SVA (V: meets@8, S: that@7, A!: in@9)	SVO (V: has@14, S: parliament@2, O: houses@16)
+761	SVA (V: "be passed", S: bill@4)	SVOO (V: requires@6, S: bill@4, O: Assent@8, IO: November@1)	SVC (V: become@10, S: November@1, XCOMP: law@11)
+762	SVC (C: authority@6, V: is@2, S: It@1, A?: in@7, A?: since@11)	SVC (C: bodies@31, V: are@28, S: authority@6)	SVC (C: abolished@38, V: are@28, S: authority@6, A?: theoretically@35, A?: by@39)
+763	SVC (S: November@1, V: "is", C: Government@17)	SVC (S: November@1, V: "is", C: Minister@20)	SVC (S: November@1, V: "is", C: head@12)	SVO (S: UK@10, V: "has", O: head@12)
+764	
+765	SVA (V: belongs@4, S: February@2, A!: to@5, A?: usually@24)	SVO (V: obtain@12, S: member@7, O: confidence@14)
+766	SVO (V: appointed@8, S: minister@3, A?: formally@7, A?: by@9, XCOMP: form@13, A?: chooses@23)	SVO (S: Her@14, V: "has", O: Majesty@15)	SVO (S: Majesty@15, V: "has", O: Government@17)	SVO (V: chooses@23, S: minister@22, O: cabinet@25)	SVO (V: respects@34, S: Queen@33, A?: by@28, O: choices@39)	SVO (S: minister@37, V: "has", O: choices@39)
+767	
+768	
+769	
+770	
+771	SVC (C: minister@7, V: is@2, S: Brown@1)	SVO (S: UK@3, V: "has", O: minister@7)
+772	
+773	SVO (S: Minister@25, V: "has", O: party@27)	SVC (C: responsible@45, V: are@44, S: they@43, A?: to@41)
+774	SVA (V: exercised@4, S: power@2, A!: by@5)	SVA (V: sworn@16, S: all@12, A!: into@17)	SVC (V: become@27, S: all@12, A?: into@17, XCOMP: Ministers@28)
+775	
+776	
+777	SVC (S: Cameron@2, V: "is", C: leader@4)	SVC (C: Minister@13, V: been@11, S: Cameron@2, A?: since@26)
+778	
+779	
+780	
+781	
+782	SVC (C: minister@8, V: is@3, S: Cameron@2)	SVO (S: UK@4, V: "has", O: minister@8)	SVO (V: divided@29, S: UK@26, A?: currently@28, A?: into@30, O: May@15)
+783	
+784	SV (V: http@16, S: Parliament@8)
+785	
+786	
+787	
+788	
+789	
+790	SV (V: http@16, S: Parliament@8)
+791	
+792	
+793	
+794	SVA (V: "be electing", S: each@19, O: member@23, A!: by@26)
+795	SVA (V: called@4, S: elections@2, A!: by@5, A?: advises@13)	SV (V: advises@13, S: minister@11, A?: when@8, A-: so@12)
+796	SVO (V: Acts@3, S: Parliament@2, O: 1911@4)	SVA (V: called@14, S: election@11, A!: within@15)
+797	
+798	
+799	
+800	
+801	
+802	
+803	
+804	
+805	
+806	
+807	
+808	
+809	SVA (V: "be =", S: 2F@10)	SVC (S: November@15, V: "is", C: Party@34)	SVO (S: UK@21, V: "has", O: parties@26)	SVOC (C: Party@30, V: are@27, S: parties@26, O: November@15)
+810	SVO (V: won@9, S: parties@8, A?: During@1, O: 622@10, A?: out@11)
+811	
+812	SV (V: http@14, S: Services@10)
+813	
+814	
+815	
+816	SVOC (V: take@6, S: Conservatives@5, O: seat@8, A?: in@9, O: Martin@15)
+817	SVOC (V: take@6, S: Conservatives@5, O: seat@8, A?: in@9, O: Martin@15)	SVC (S: 3@19, V: "is", C: July@20)	SVO (V: won@28, S: 3@19, A?: by@29, O: 2010@18)	SVO (V: contest@34, S: parties@31, A?: only@33, O: elections@35, A?: in@36)	SVC (S: Party@46, V: "is", C: Scotland@48)	SVC (S: Cymru@53, V: "is", C: Wales@55)	SVC (S: Féin@77, V: "is", C: Ireland@80)	SVA (V: elections@88, S: Féin@85, A?: also@86, A!: in@89)
+818	SVOC (V: attended@15, S: elected@7, A?: ever@14, O: House@17, XCOMP: speak@21)	SVO (S: their@25, V: "has", O: constituents@26)	SVA (V: is@29, S: this@28, A!: required@35)	SVO (V: required@35, S: members@31, XCOMP: take@37)
+819	SVO (V: have@7, S: MPs@6, A?: however@8, A?: since@10, O: use@14)
+820	
+821	
+822	
+823	
+824	SVA (V: moves@3, S: Fein@2, A!: into@4, A?: For@14)	SVOO (V: has@23, S: UK@21, A?: currently@22, O: MEPs@25, IO: elections@15)	SVA (V: "be elected", S: MEPs@25, A!: in@28)
+825	
+826	
+827	
+828	SVC (C: buildings@4, V: are@2, S: Behind@1, A?: in@5)
+829	SVOO (V: have@17, S: each@16, O: government@20, IO: seat@6)	SVO (S: their@18, V: "has", O: government@20)	SVA (V: "be led", S: government@20, A!: by@25)
+830	SVC (S: England@1, V: "is", C: country@5)	SVO (V: has@11, S: England@1, O: executive@14)	SVO (V: administered@19, S: England@1, O: executive@14)
+831	
+832	
+833	SVA (V: attacked@3, S: MPs@2, A!: over@4)	SVA (V: "be affecting", S: matters@16, O: England@18)	SVA (V: handled@21, S: England@18, A!: by@22, A?: for@25)	SVO (S: their@26, V: "has", O: constituencies@28)
+834	
+835	
+836	SVA (V: reserved@36, S: matter@29, A?: specifically@34, A!: to@38)
+837	
+838	
+839	SVO (S: Scotland@1, V: "has", O: Parliament@3)	SVOO (V: Following@16, S: October@14, O: victory@18, IO: 21@13)	SVO (S: its@17, V: "has", O: victory@18)	SVC (S: Party@27, V: "is", C: SNP@29)	SVOO (V: formed@31, S: Party@27, O: government@34, A?: with@35, IO: elections@22)	SVO (S: its@36, V: "has", O: leader@37)	SVC (S: leader@37, V: "is", C: Salmond@40)	SVA (V: "be becoming", S: leader@37, XCOMP: Minister@44)
+840	
+841	
+842	
+843	
+844	
+845	
+846	
+847	
+848	SVO (V: launched@4, S: body@3, O: News@6)	SVOC (V: recommended@18, S: body@3, O: News@6, CCOMP: devolved@24)	SVA (V: reported@14, S: October@11, A!: in@15)	SVA (V: devolved@24, S: powers@21, A!: including@26)	SVA (V: "be raised", S: tax@32, A!: in@34)
+849	
+850	
+851	SVO (S: Radical@2, V: "has", O: powers@5)	SVO (V: urged@6, S: powers@5, O: News@8, A?: At@12)	SVO (V: won@18, S: SNP@17, O: re-election@19)	SVOC (V: achieved@21, S: SNP@17, O: re-election@19, O: majority@24)
+852	
+853	SVO (V: wins@5, S: SNP@4, O: News@8)
+854	SVO (V: wins@5, S: SNP@4, O: News@8)	SVOO (V: have@21, S: Government@14, O: powers@24, IO: May@10)	SVA (V: "be devolved", S: those@26, A!: to@28)
+855	
+856	
+857	SVOC (C: able@28, V: was@27, S: assembly@26, XCOMP: legislate@30, CCOMP: granted@47, O: passing@17)	SVA (V: "be legislate", S: permission@38, A!: on@41)	SVA (V: granted@47, S: permission@38, A!: by@48, A?: through@50)
+858	
+859	
+860	
+861	SV (V: Owen@11, S: Guardian@2)	SVC (C: able@20, V: been@19, S: Assembly@17, A?: since@13, XCOMP: legislate@22)	SVO (V: require@33, S: Acts@27, O: consent@36)
+862	SVA (V: formed@6, S: Government@4, A!: after@7)	SVC (C: lead@18, V: is@13, S: Government@4, A?: after@7, A?: by@19)	SVC (C: Minister@27, V: been@25, S: Jones@21, A?: of@28)
+863	SVOC (V: clinches@3, S: Jones@2, O: leadership@4, O: www.walesonline@11)
+864	
+865	SVOC (V: clinches@13, S: Jones@12, O: leadership@14, O: www.walesonline@21)
+866	
+867	SVA (V: "be have", S: Executive@14, O: powers@18)	SVA (V: "be devolved", S: those@21, A!: already@22, A?: to@24)
+868	SVA (V: led@6, S: Executive@4, A!: by@7)	SVC (S: Robinson@15, V: "is", C: Party@19)	SVC (S: McGuinness@26, V: "is", C: Féin@29)
+869	
+870	
+871	SVO (S: their@6, V: "has", O: departments@7)
+872	
+873	
+874	
+875	
+876	
+877	SVO (S: their@6, V: "has", O: departments@7)
+878	
+879	
+880	
+881	
+882	
+883	
+884	
+885	
+886	
+887	SVOO (V: has@21, S: UK@20, O: systems@24, IO: Today@18)
+888	SVO (V: saw@4, S: changes@3, CCOMP: come@13)	SVA (V: come@13, S: Court@8, A!: into@14)
+889	
+890	
+891	SVC (S: judges@4, V: "is", C: Department@17)	SVA (V: "be sworn", S: judges@4, A!: in@6)
+892	
+893	SVC (C: court@21, V: is@18, S: Committee@3, A?: of@22, A?: for@24)
+894	SVA (V: applies@18, S: law@15, A!: in@19)	SVO (V: based@29, S: theCollege@8, A?: on@30, O: Court@4)
+895	
+896	
+897	
+898	
+899	SVC (V: is@61, S: id@1, CCOMP: developed@71)	SVO (V: developed@71, S: law@69, A?: subject@64, A?: by@72, XCOMP: applying@77)	SVA (V: "be give", S: applying@77, O: judgements@92)	SV (V: reported@101, S: principles@97)	SVA (V: binding@103, S: principles@97, A!: in@104)
+900	
+901	
+902	
+903	
+904	SVC (S: Acquah-Dadzie@58, V: "is", C: Kofi@60)	SVC (S: Sienkewicz@62, V: "is", C: James@68)	SVC (S: Waucojnda@75, V: "is", C: Court@105)	SVC (S: Waucojnda@75, V: "is", C: Bolchazy-Carducci@78)	SVOC (V: headed@86, S: courts@80, A?: by@87, XCOMP: consisting@96, O: Bolchazy-Carducci@78)
+905	SVC (C: court@7, V: is@4, S: Court@3, A?: in@8)	SVO (V: makes@30, S: it@29, O: decision@28)	SVA (V: "be having", S: decision@28, A!: often@42, O: effect@46, A?: in@47)	SVA (V: binding@32, S: decision@28, A!: on@33, A?: in@37, A?: having@43)
+906	
+907	
+908	
+909	
+910	SVA (V: applies@16, S: courts@3, A!: in@17)	SVC (S: Scotland@18, V: "is", C: system@22)	SVA (V: "be based", S: system@22, A!: on@24)
+911	
+912	
+913	
+914	
+915	
+916	
+917	SVA (V: "be Courts", S: Introduction@5)
+918	
+919	
+920	
+921	
+922	
+923	
+924	SVO (V: serves@19, S: Court@14, A?: October@10, A?: as@20, O: Courts@8)
+925	
+926	
+927	
+928	
+929	
+930	
+931	SVA (V: deal@18, S: courts@17, A!: with@19, A?: including@25)	SVA (V: "be known", S: jury@31, A!: as@34)	SVA (V: "be known", S: jury@31, A!: as@48)
+932	
+933	
+934	
+935	
+936	
+937	
+938	SVOC (C: unique@12, V: is@11, S: October@5, A?: in@13, O: Courts@3)
+939	
+940	
+941	
+942	
+943	
+944	
+945	
+946	
+947	
+948	
+949	SVA (V: doubled@10, S: population@3, A?: almost@9, A!: over@11, A?: to@16, A?: giving@20)	SVA (V: "be giving", S: population@3, IO: England@21, O: rate@26, A!: at@32)
+950	
+951	
+952	SVO (S: Her@14, V: "has", O: Majesty@15)	SVO (S: Majesty@15, V: "has", O: Service@18)	SVA (V: reports@21, S: Service@18, A!: to@22)	SVO (V: manages@28, S: Service@18, O: most@29)
+953	SVA (V: "be falling", S: Crime@1, A!: by@17)	SVA (V: fell@4, S: Crime@1, A!: to@5, A?: falling@16)	SVO (S: its@6, V: "has", O: level@9)
+954	
+955	
+956	
+957	
+958	
+959	
+960	SVO (V: hitting@18, S: Service@13, A?: Friday@7, A?: August@9, O: levels@20)	SVO (V: is@22, S: Service@13, A?: Friday@7, A?: August@9, O: levels@20, A?: above@24)
+961	
+962	
+963	SVA (V: reports@21, S: Service@18, A!: to@22)	SVOO (V: manages@29, S: Service@18, A?: August@10, A?: October@13, O: prisons@32, IO: News@8)	SVOO (V: manages@29, S: 29@9, A?: August@10, A?: October@13, O: prisons@32, IO: News@8)	SVO (S: Scotland@30, V: "has", O: prisons@32)
+964	SVO (V: had@14, S: UK@13, O: level@17)
+965	
+966	
+967	SVC (C: society@5, V: is@2, S: Britain@1)
+968	SVC (C: member@7, V: is@4, S: Kingdom@3, A?: of@8)	SVC (S: Council@13, V: "is", C: member@16)	SVC (S: Council@13, V: "is", C: G7@23)
+969	SVO (V: has@3, S: UK@2, O: Relationship@7, A?: with@9)	SVC (S: Swaine@13, V: "is", C: Jon@15)	SVC (S: Jon@15, V: "is", C: January@18)
+970	
+971	SVC (S: Telegraph@3, V: "is", C: London@5)
+972	
+973	SVC (S: Kirchner@1, V: "is", C: E.@3)
+974	
+975	
+976	
+977	
+978	
+979	
+980	
+981	
+982	SVA (V: allied@6, S: UK@2, A?: also@4, A?: closely@5, A!: with@7)	SVO (V: share@16, S: countries@15, O: Area@20)	SVA (V: serve@25, S: citizens@24, A!: in@26)
+983	
+984	
+985	SVOC (V: enjoys@3, S: Army@2, O: boom@5, A?: from@6, A?: leave@11, O: www.dailymail.co.uk/news/article-1054462/British-Army-enjoys-recruitment-boom-Irish-Republic-troops-leave-Northern-Ireland@28)	SVC (V: leave@11, S: troops@10, XCOMP: http@24)	SV (V: http@24, S: Ireland@13)
+986	
+987	SVO (V: enjoys@3, S: Army@2, O: boom@5, A?: from@6, A?: leave@11)	SVC (V: leave@11, S: troops@10, CCOMP: include@27)	SVO (V: include@27, S: Ireland@13, O: Union@30)
+988	SVO (S: Britain@1, V: "has", O: presence@4)	SVO (S: its@11, V: "has", O: relations@13)	SVC (C: investments@16, V: is@7, S: presence@4)
+989	
+990	
+991	
+992	SVO (V: known@23, S: Army@13, A?: collectively@22, A?: as@24, A?: officially@30, O: theEurofighter@10)	SVO (S: Her@32, V: "has", O: Majesty@33)	SVO (S: Majesty@33, V: "has", O: Forces@36)
+993	SVA (V: managed@5, S: forces@3, A!: by@6)	SVA (V: controlled@12, S: forces@3, A?: by@6, A!: by@13)
+994	SVA (V: are@5, S: Forces@4, A!: among@6)	SVA (V: maintained@24, S: Forces@4, A?: among@6, A?: as@20, A!: over@25)
+995	
+996	
+997	
+998	
+999	
+1000	
+1001	
+1002	
+1003	SVC (S: Martin@67, V: "is", C: W.@70)
+1004	SVC (S: Garnett@1, V: "is", C: C.@4)
+1005	
+1006	
+1007	SVC (S: Martin@67, V: "is", C: W.@70)
+1008	SVC (S: Garnett@1, V: "is", C: C.@4)
+1009	SVO (V: charged@17, S: Forces@15, A?: with@18, XCOMP: promoting@27)	SVO (S: its@23, V: "has", O: territories@25)	SVO (S: UK@29, V: "has", O: interests@33)
+1010	SVC (C: active@3, V: are@2, S: They@1, A?: including@10)
+1011	SVA (V: maintained@6, S: garrisons@2, A!: in@7)
+1012	
+1013	
+1014	
+1015	
+1016	
+1017	
+1018	
+1019	
+1020	SVOO (V: has@23, S: UK@22, O: expenditure@30, IO: October@8)
+1021	SVA (V: accounts@5, S: spending@3, A?: currently@4, A!: for@6)
+1022	
+1023	
+1024	
+1025	
+1026	
+1027	SVA (V: "be Spending", S: Defence@1, O: Ministry@3)
+1028	
+1029	
+1030	SVA (V: "be Spending", S: Defence@1, O: Ministry@3)	SVC (S: Defence@1, V: "is", C: one@19)	SVC (C: navy@16, V: is@12, S: Navy@11, A?: January@7)	SVC (C: two@38, V: being@35, S: Navy@34)
+1031	
+1032	
+1033	SV (V: =@2, S: asp?pageid@1)
+1034	
+1035	
+1036	SV (V: =@2, S: asp?pageid@1)
+1037	SVO (S: Britain@5, V: "has", O: Trident@7)	SVOC (C: responsible@28, V: is@26, S: Navy@25, A?: also@27, A?: for@29, O: October@21)
+1038	SVO (V: provide@18, S: Forces@5, O: troops@19)	SVA (V: "be trained", S: troops@19, A!: for@21)	SV (V: required@45, S: secrecy@40, A?: often@38, A?: where@39)
+1039	SVO (V: undertaken@17, S: operations@13, A?: as@18, O: assumption@7)
+1040	
+1041	
+1042	
+1043	
+1044	SVC (S: Leone@7, V: "is", C: operations@11)	SVO (V: followed@28, S: Libya@25, A?: recently@23, O: approach@30)
+1045	SVA (V: "be fought", S: military@8, A!: alone@10)	SVOC (C: War@14, V: was@11, S: military@8, A?: in@4, A?: of@15, O: war@3)	SVOC (C: victorious@22, V: were@21, S: they@20, A?: in@18, O: war@3)
+1046	SVC (C: centrein@10, V: is@7, S: Economy@1)
+1047	SVO (S: World@2, V: "has", O: Cities@7)
+1048	SVOO (V: has@6, S: UK@5, O: economy@11, IO: July@2)
+1049	
+1050	SVC (S: Department@7, V: "is", C: http@17)
+1051	SVA (V: "be Based", S: May@15, A!: on@18)	SVOC (C: economy@28, V: is@24, S: UK@23, A?: today@25, A?: in@29, O: rate@21)	SVO (V: fallen@43, S: Innovation@11, A?: behind@44, A?: for@46, O: Department@7)
+1052	
+1053	SVO (V: =@11, S: 1@4, O: NGDPD@12)
+1054	
+1055	
+1056	SVO (V: =@11, S: 1@4, O: NGDPD@12)
+1057	
+1058	SVA (V: "be led", S: Treasury@10, A!: by@13)	SVOC (C: responsible@21, V: is@20, S: Treasury@10, A?: for@22, O: Fund@5)	SVO (S: government@28, V: "has", O: policy@32)
+1059	SVC (C: bank@10, V: is@5, S: Bank@2)	SVC (C: responsible@13, V: is@5, S: Bank@2, A?: for@14)	SVO (S: UK@7, V: "has", O: bank@10)	SVO (S: nation@17, V: "has", O: currency@19)
+1060	SVO (V: retain@7, S: Banks@1, O: right@9)	SVA (V: "be issue", S: right@9, O: notes@14)	SVO (S: their@12, V: "has", O: notes@14)	SVA (V: "be cover", S: retaining@18, O: issue@29)	SVO (S: their@28, V: "has", O: issue@29)
+1061	SVC (C: currency@9, V: is@3, S: sterling@2, A?: after@11)	SVO (S: world@5, V: "has", O: currency@9)
+1062	
+1063	
+1064	
+1065	SVA (C: responsible@44, V: "be responsible", S: share@9, A!: for@45)	SVA (V: "be headed", S: 1@15, A!: by@33)	SVO (S: England@26, V: "has", O: Committee@30)	SVA (V: set@64, S: economy@61, A!: by@65, A?: year@69)
+1066	SVA (V: "be manufactured", S: wings@20, A!: in@24)
+1067	
+1068	
+1069	
+1070	SVA (V: "be increased", S: Unemployment@15, A!: from@17)
+1071	
+1072	SVA (V: risen@17, S: %@1, A!: from@18)
+1073	
+1074	SVC (S: %@1, V: "is", C: highest@4)	SVA (V: began@8, S: records@7, A!: in@9)
+1075	
+1076	
+1077	SVOC (V: reaches@4, S: unemployment@3, O: London@8, O: www.ft.com/cms/s/0/32a8c8c0-23b4-11e0-8bb1-00144feab49a@19)	SVC (S: Groom@12, V: "is", C: http@15)
+1078	
+1079	SVO (V: reaches@4, S: unemployment@3, O: London@8)	SVC (S: Groom@12, V: "is", C: debt@18)	SVA (V: rose@19, S: Groom@12, A!: from@20)
+1080	
+1081	
+1082	
+1083	
+1084	
+1085	
+1086	
+1087	
+1088	
+1089	
+1090	
+1091	
+1092	SVO (V: makes@23, S: deficit@5, O: %@27)
+1093	
+1094	
+1095	
+1096	
+1097	SVC (C: one@19, V: is@18, S: vlnk@1, A?: of@20)	SVC (S: centres@25, V: "is", C: Sassen@40)	SVC (S: York@48, V: "is", C: Sassen@61)	SVA (S: York@48, V: "is in", C: London@50)	SVC (S: York@48, V: "is", C: City@66)	SVA (S: York@69, V: "is in", C: London@71)	SVC (S: York@69, V: "is", C: Sassen@81)	SVO (S: world@84, V: "has", O: centre@88)	SVC (C: centre@88, V: is@82, S: York@69, A?: alongside@89)	SVC (S: York@91, V: "is", C: http@93)
+1098	
+1099	
+1100	
+1101	
+1102	
+1103	SV (V: ''@1, S: Cities@7)	SVO (S: World@2, V: "has", O: Cities@7)
+1104	
+1105	
+1106	
+1107	
+1108	SV (V: ''@1, S: Cities@7)	SVO (S: World@2, V: "has", O: Cities@7)
+1109	
+1110	
+1111	
+1112	
+1113	
+1114	
+1115	
+1116	
+1117	
+1118	
+1119	
+1120	SVC (C: one@6, V: is@4, S: Edinburgh@3, A?: also@5, A?: of@7)
+1121	
+1122	
+1123	
+1124	SVC (S: Parliament@10, V: "is", C: October@12)	SVC (S: Lazarowicz@15, V: "is", C: MP@18)
+1125	
+1126	
+1127	SVC (S: Lazarowicz@15, V: "is", C: MP@18)	SVOC (C: important@23, V: is@21, S: 30@5, A?: very@22, A?: to@24, A?: with@30, O: Industry@4)	SVA (V: arriving@35, S: tourists@34, A!: in@36)	SVO (V: ranked@43, S: Kingdom@41, A?: as@44, O: Industry@4)
+1128	SVC (S: Highlights@3, V: "is", C: Edition@5)
+1129	
+1130	
+1131	
+1132	SVO (V: has@3, S: London@2, O: visitors@7)
+1133	
+1134	SVO (S: International@3, V: "has", O: International@12)
+1135	
+1136	
+1137	SVO (S: International@3, V: "has", O: International@12)
+1138	
+1139	SVA (V: accounted@6, S: industries@5, A!: for@7, A?: in@11)	SVA (V: grew@14, S: industries@5, A?: for@7, A?: in@11, A!: at@15, A?: between@23)
+1140	
+1141	
+1142	SVO (V: unveils@9, S: Government@8, O: plan@12)
+1143	
+1144	SVO (V: unveils@9, S: Government@8, O: plan@12)	SVO (V: started@24, S: Revolution@23, A?: March@19, A?: in@25, O: DCMS@17)
+1145	
+1146	SVC (S: Europa@6, V: "is", C: portal@9)
+1147	
+1148	SVA (V: "be followed", S: Europa@6, A!: by@24)	SVC (S: Europa@6, V: "is", C: portal@9)
+1149	
+1150	
+1151	
+1152	
+1153	
+1154	
+1155	
+1156	
+1157	SVC (S: Volume@39, V: "is", C: J.@47)
+1158	
+1159	
+1160	SVC (S: Volume@39, V: "is", C: J.@47)
+1161	SVOO (V: created@12, S: empire@11, O: market@15, IO: Belmont@5)	SVOC (V: allowing@20, S: Belmont@5, O: UK@22, XCOMP: dominate@24)
+1162	SVA (V: "be industrialised", S: nations@3)	SVO (V: began@18, S: Kingdom@17, A?: As@1, A?: coupled@6, XCOMP: lose@20)	SVA (V: "be coupled", S: Kingdom@17, A!: with@7)	SVO (S: its@21, V: "has", O: advantage@23)
+1163	SVO (V: remains@2, S: Manufacturing@1, O: part@5)	SVO (V: accounted@10, S: Manufacturing@1, O: part@5, A?: for@11)
+1164	
+1165	
+1166	SVC (S: Hewitt@4, V: "is", C: Department@7)
+1167	SVC (S: Hewitt@4, V: "is", C: Department@7)	SVA (V: "be generating", S: Hewitt@4, O: 26.6@47)	SVC (C: part@24, V: is@21, S: industry@20, A?: July@13, A?: May@16, A?: of@25)	SVOC (C: employs@31, V: is@21, S: industry@20, A?: July@13, A?: May@16, A?: of@25, O: people@34)
+1168	
+1169	
+1170	
+1171	SVC (C: industry@27, V: is@19, S: topics@2, A?: depending@28)	SVOC (C: has@35, V: is@19, S: topics@2, A?: depending@28, O: turnover@38)	SVA (V: "be depending", S: industry@27, A!: upon@29)
+1172	
+1173	
+1174	SVO (V: has@4, S: industry@3, O: thousands@5)
+1175	
+1176	SVO (V: has@4, S: industry@3, O: thousands@5)
+1177	
+1178	
+1179	
+1180	
+1181	
+1182	SVO (V: =@2, S: asp?txtPageLinkDocPK@1, O: 23948@3)
+1183	
+1184	
+1185	SVO (V: =@2, S: asp?txtPageLinkDocPK@1, O: 23948@3)
+1186	SVO (V: plays@15, S: Survey@4, O: role@18, A?: in@19)
+1187	
+1188	SVC (S: sector@3, V: "is", C: http@17)
+1189	SVC (S: sector@3, V: "is", C: http@17)
+1190	
+1191	
+1192	
+1193	SVA (V: defined@27, S: Department@13, A?: commonly@26, A!: as@28)
+1194	SVA (V: calculated@8, S: this@6, A?: In@1, A!: to@9)
+1195	
+1196	SVA (V: lived@10, S: people@1, A!: below@11)
+1197	SVC (C: level@5, V: is@2, S: This@1, A?: of@6, A?: than@9)
+1198	
+1199	
+1200	
+1201	
+1202	
+1203	
+1204	
+1205	
+1206	
+1207	SVC (S: children@1, V: "is", C: %@4)	SVA (V: lived@9, S: children@1, A!: in@10, A?: taken@20)	SVA (V: taken@20, S: costs@18, A!: into@21)
+1208	SVC (C: decrease@4, V: is@2, S: This@1, A?: of@5, A?: since@8)
+1209	SV (V: http@9, S: Children@4)
+1210	
+1211	
+1212	
+1213	SV (V: http@15, S: Children@10)
+1214	
+1215	
+1216	
+1217	SVO (S: its@13, V: "has", O: supplies@15)
+1218	
+1219	
+1220	SVOO (V: leading@43, S: foundation@34, A?: by@30, O: centres@44, A?: from@49, IO: Warning@1)	SVC (S: Gascoin@53, V: "is", C: J.@55)
+1221	SVC (S: Lindberg@17, V: "is", C: C.@20)
+1222	
+1223	SVC (S: eds@2, V: "is", C: 1990@4)	SVC (S: eds@2, V: "is", C: Reappraisals@7)
+1224	
+1225	
+1226	
+1227	
+1228	SVOA (V: led@5, S: Kingdom@4, O: Revolution@8, A!: from@9)	SVOC (V: continued@16, S: Kingdom@4, O: Revolution@8, A?: from@9, XCOMP: produce@18)	SVA (V: "be credited", S: scientists@19, A!: with@23)
+1229	SVC (S: Reynolds@2, V: "is", C: E.E.@4)
+1230	SVC (S: Brasher@2, V: "is", C: N.H.@4)
+1231	
+1232	
+1233	
+1234	
+1235	
+1236	SVO (V: include@10, S: theorists@3, O: Newton@12)	SVO (S: Newton@12, V: "has", O: laws@15)	SVA (V: seen@24, S: laws@15, A!: as@25)
+1237	
+1238	
+1239	SVC (S: Mineola@1, V: "is", C: NY@3)
+1240	
+1241	
+1242	
+1243	SVO (S: Darwin@6, V: "has", O: theory@9)	SVC (C: fundamental@16, V: was@15, S: theory@9, A?: to@17)	SVO (V: formulated@30, S: Maxwell@27, O: theory@33)	SVC (S: Hawking@39, V: "is", C: gravity@53)	SVO (V: advanced@43, S: Hawking@39, O: theories@45, A?: in@46)
+1244	SVC (S: Hatt@1, V: "is", C: C.@3)
+1245	
+1246	
+1247	
+1248	
+1249	
+1250	
+1251	SVO (V: include@8, S: discoveries@3, O: hydrogen@9)	SVC (S: Cavendish@12, V: "is", C: Jungnickel@14)
+1252	SVC (S: McCormmach@2, V: "is", C: R.@4)
+1253	
+1254	
+1255	
+1256	
+1257	
+1258	SVC (S: Fleming@12, V: "is", C: B.@15)
+1259	
+1260	
+1261	
+1262	SVC (S: Fleming@12, V: "is", C: B.@15)
+1263	
+1264	
+1265	
+1266	SVC (S: Hatt@1, V: "is", C: C.@3)
+1267	
+1268	
+1269	
+1270	
+1271	
+1272	
+1273	SVO (V: include@15, S: projects@3, O: locomotive@18)	SVA (V: "be developed", S: locomotive@18, A!: by@21)	SVC (S: Vivian@26, V: "is", C: James@28)
+1274	
+1275	
+1276	
+1277	
+1278	
+1279	
+1280	SVC (S: Faraday@10, V: "is", C: bulb@15)	SVC (S: Swan@18, V: "is", C: Bova@20)	SVC (S: Swan@18, V: "is", C: Ben@22)	SVC (S: Ben@22, V: "is", C: 2002@24)	SVC (S: Ben@22, V: "is", C: 1932@27)
+1281	
+1282	SVC (S: Naperville@1, V: "is", C: IL@3)
+1283	
+1284	
+1285	
+1286	SVA (V: "be patented", S: telephone@5, A!: by@8)	SVC (S: Bell@11, V: "is", C: Bell@15)
+1287	
+1288	
+1289	
+1290	
+1291	
+1292	
+1293	
+1294	
+1295	
+1296	SVO (S: world@10, V: "has", O: system@15)
+1297	
+1298	
+1299	
+1300	
+1301	
+1302	
+1303	
+1304	SVC (S: June@2, V: "is", C: basis@12)
+1305	SVC (S: Cole@1, V: "is", C: Jeffrey@3)	SVC (S: Jeffrey@3, V: "is", C: 2011@5)
+1306	
+1307	SVC (S: Barbara@2, V: "is", C: CA@4)
+1308	
+1309	
+1310	
+1311	SVOC (V: plays@4, S: UK@3, O: part@7, A?: in@8, A?: with@13, O: Systems@27)	SVO (V: playing@17, S: Rolls-Royce@16, O: role@20, A?: in@21)	SVA (V: "be acting", S: Systems@27, A!: as@29)	SVO (S: Pentagon@35, V: "has", O: supplier@40)	SVA (V: "be acting", S: GKN@46, A!: as@48)
+1312	SVC (S: O'Connell@1, V: "is", C: Britannia@4)	SVOC (V: rules@6, S: O'Connell@1, A?: still@5, O: skies@8, O: London@12)
+1313	SVC (S: O'Connell@1, V: "is", C: Britannia@4)	SVOC (V: rules@6, S: O'Connell@1, A?: still@5, O: skies@8, O: London@12)
+1314	SVA (V: ranked@11, S: Two@1, A!: in@12, A?: by@21, A?: in@23)
+1315	
+1316	
+1317	
+1318	
+1319	
+1320	
+1321	
+1322	SV (V: discovered@8, S: June@2)	SVA (V: medicines@13, S: June@2, A!: than@14, A?: apart@18)
+1323	
+1324	
+1325	
+1326	
+1327	
+1328	
+1329	
+1330	
+1331	SVC (V: remains@6, S: UK@5, A?: 21@1, A?: June@2, XCOMP: centre@9)
+1332	SV (V: http@9, S: Department@3)
+1333	
+1334	
+1335	SV (V: http@12, S: Department@6)
+1336	
+1337	
+1338	SVC (V: remains@8, S: research@5, ACOMP: important@9, A?: with@14)	SVA (V: "be facilitate", S: establishing@16, O: production@21)
+1339	SVC (S: Castells@1, V: "is", C: M.@3)
+1340	SVC (S: Hall@2, V: "is", C: P.@4)
+1341	
+1342	
+1343	SVA (V: "be Making", S: the@6, A!: of@8)
+1344	
+1345	
+1346	
+1347	
+1348	SVO (V: produced@7, S: UK@6, A?: Between@1, O: %@9)	SVOC (V: had@18, S: UK@6, A?: Between@1, O: %@9, O: share@22)	SVO (S: world@12, V: "has", O: papers@16)
+1349	
+1350	
+1351	
+1352	
+1353	
+1354	
+1355	
+1356	
+1357	SVA (V: produced@6, S: journals@5, A!: in@7)
+1358	
+1359	
+1360	
+1361	
+1362	
+1363	
+1364	
+1365	
+1366	
+1367	
+1368	
+1369	
+1370	
+1371	
+1372	
+1373	
+1374	SVO (V: needs@3, S: Heathrow@1, O: runway@6)
+1375	
+1376	
+1377	
+1378	SVO (V: totals@14, S: network@13, O: km@17)	SVC (S: roads@20, V: "is", C: km@24)
+1379	EXISTENTIAL (V: were@4, S: total@6, A?: In@1)
+1380	
+1381	
+1382	
+1383	
+1384	SVC (S: miles@20, V: "is", C: km@23)	SVC (S: miles@31, V: "is", C: km@35)	SVA (V: carries@40, S: Department@10, A!: over@41)
+1385	SVO (V: considered@5, S: Plans@1, A?: now@3, XCOMP: build@7)
+1386	
+1387	SVA (V: "be considered", S: lines@4)
+1388	
+1389	
+1390	SVA (V: "be considered", S: lines@4)
+1391	
+1392	SVO (V: handled@15, S: October@2, O: total@17)
+1393	
+1394	
+1395	
+1396	
+1397	
+1398	SVC (C: Airport@24, V: were@21, S: airports@20)
+1399	
+1400	
+1401	
+1402	SVC (S: Airport@3, V: "is", C: located@5)	SVO (V: has@15, S: Airport@3, O: traffic@20)	SVOC (C: hub@30, V: is@28, S: Airport@3, O: traffic@20, A?: for@31)
+1403	
+1404	
+1405	SVOC (C: consumer@30, V: was@25, S: UK@24, A?: In@21, A?: of@31, O: News@5)	SVO (S: world@27, V: "has", O: consumer@30)
+1406	
+1407	
+1408	
+1409	SV (V: http@7, S: Administration@3)
+1410	
+1411	
+1412	SVOO (V: had@11, S: UK@10, O: output@15, IO: Administration@3)
+1413	SVC (S: Btus@2, V: "is", C: gas@16)	SVC (S: Btus@2, V: "is", C: coal@22)	SVOC (C: oil@9, V: was@8, S: composition@7, A?: of@4, O: Btus@2)	SVC (S: gas@16, V: "is", C: %@19)	SVC (S: coal@22, V: "is", C: %@25)	SVC (S: renewables@35, V: "is", C: %@38)
+1414	
+1415	
+1416	
+1417	
+1418	SV (V: http@7, S: Administration@3)
+1419	
+1420	
+1421	
+1422	SVOO (V: produced@11, S: UK@10, O: million@13, IO: November@5)
+1423	SVC (S: barrels@1, V: "is", C: bbl/d@5)
+1424	
+1425	
+1426	
+1427	
+1428	
+1429	SV (V: http@7, S: Administration@3)
+1430	
+1431	
+1432	
+1433	SVA (V: "be is", S: Production@7, A!: in@10)	SVC (C: importer@19, V: been@16, S: Production@7, A?: of@20, A?: since@22)
+1434	SVOO (V: has@4, S: UK@3, O: billion@7, IO: 2010@1)
+1435	SVC (S: barrels@1, V: "is", C: largest@9)
+1436	SVC (C: producer@9, V: was@5, S: UK@4, A?: In@1, A?: of@10, A?: in@13, A?: in@20)
+1437	
+1438	
+1439	
+1440	
+1441	SV (V: http@7, S: Administration@3)
+1442	
+1443	
+1444	
+1445	SVA (V: "be is", S: Production@7, A!: in@10)	SVC (C: importer@19, V: been@16, S: Production@7, A?: of@20, A?: since@23)
+1446	SVO (V: produced@5, S: UK@4, A?: In@1, O: million@7)
+1447	
+1448	
+1449	SVO (V: proven@5, S: it@3, A?: In@1, O: reserves@8)
+1450	SVO (V: estimated@4, S: It@1, CCOMP: have@9)	SVO (V: have@9, S: areas@8, O: potential@11)	SVA (V: "be produce", S: potential@11, A!: between@14, A?: through@24)	SVC (S: gasification@27, V: "is", C: UCG@29)
+1451	
+1452	
+1453	
+1454	
+1455	
+1456	
+1457	
+1458	
+1459	SVO (V: represent@19, S: volumes@18, A?: July@2, O: reserves@20)	SVO (V: last@23, S: reserves@20, O: UK@25)
+1460	
+1461	
+1462	
+1463	
+1464	SVOC (C: home@12, V: is@11, S: UK@10, A?: October@7, A?: to@13, O: News@5)
+1465	
+1466	
+1467	SVA (V: begin@4, S: battle@3, A!: over@5)
+1468	
+1469	SVA (V: begin@4, S: battle@3, A!: over@5)
+1470	
+1471	SVO (V: Says@2, S: RBA@1, O: Prices@5)
+1472	
+1473	SVO (V: Says@2, S: RBA@1, O: Prices@5)	SVO (V: occurs@31, S: Demography@24, A?: November@20, A?: simultaneously@32, A?: in@33, A?: years@41, O: Bloomberg@18)
+1474	
+1475	
+1476	
+1477	
+1478	
+1479	
+1480	SVC (C: responsible@16, V: is@15, S: Office@3, A?: for@17)	SVOC (C: responsible@41, V: being@40, S: each@39, A?: for@42, O: Statistics@35)	SVO (S: their@45, V: "has", O: countries@47)
+1481	
+1482	
+1483	
+1484	
+1485	SVC (S: October@7, V: "is", C: largest@33)	SVC (S: October@7, V: "is", C: largest@25)	SVOC (C: 58,789,194@21, V: was@20, S: population@15, O: October@7)
+1486	SVO (V: estimated@5, S: this@3, A?: By@1, XCOMP: grown@8)
+1487	
+1488	
+1489	
+1490	
+1491	
+1492	
+1493	SVOO (V: overtook@27, S: June@17, O: migration@29, IO: 24@16)
+1494	
+1495	
+1496	
+1497	
+1498	SVA (V: "be increased", S: population@21, A!: by@23)
+1499	
+1500	SVA (V: compares@2, S: This@1, A!: to@3)
+1501	
+1502	
+1503	SVO (V: revealed@8, S: Published@1, CCOMP: home@19)	SVC (C: home@19, V: was@18, S: UK@17, A?: for@11, A?: to@20)
+1504	
+1505	
+1506	SVO (V: outnumber@5, S: Pensioners@4, O: under-16s@6, A?: for@7)
+1507	
+1508	SVO (V: outnumber@5, S: Pensioners@4, O: under-16s@6, A?: for@7, A?: that@25)	SVO (V: estimated@24, S: It@21, O: time@9)	SVO (V: estimated@24, S: Alan@11, O: time@9)	SVA (V: "be rise", S: people@29, A!: steeply@36, XCOMP: reach@38)	SVO (V: rise@35, S: 100@31, A?: steeply@36, XCOMP: reach@38)
+1509	
+1510	SVC (S: Batty@1, V: "is", C: David@3)	SVA (V: live@13, S: Batty@1, A?: today@11, A!: to@14)	SVO (V: says@18, S: study@17, CCOMP: live@13)	SVO (V: says@18, S: London@21, CCOMP: live@13)
+1511	SVC (S: Batty@1, V: "is", C: David@3)	SVA (V: live@13, S: Batty@1, A?: today@11, A!: to@14)	SVO (V: says@18, S: study@17, CCOMP: live@13)	SVO (V: says@18, S: London@21, CCOMP: live@13)	SVO (S: England@25, V: "has", O: population@27)	SVOC (V: estimated@31, S: population@27, XCOMP: million@35, O: London@21)
+1512	
+1513	
+1514	
+1515	
+1516	SVA (V: grows@8, S: population@7, A!: to@9)
+1517	
+1518	
+1519	
+1520	SVA (V: grows@8, S: population@7, A!: to@9)
+1521	
+1522	SVC (C: country@5, V: is@2, S: England@1, A?: in@6)
+1523	
+1524	SVC (C: country@16, V: is@13, S: Telegraph@2, A?: in@17)
+1525	
+1526	SVOO (V: put@15, S: mid-2008@13, A?: September@10, O: population@18, A?: at@19, IO: Khan@8)	SVO (S: Scotland@16, V: "has", O: population@18)
+1527	
+1528	
+1529	
+1530	SVO (S: England@3, V: "has", O: PD/sqmi@7)	SVOC (C: PD/sqmi@14, V: were@11, S: figures@10, A?: on@15, O: PD/sqmi@7)
+1531	SVOO (V: had@7, S: Ireland@5, O: population@11, A?: in@18, IO: terms@3)
+1532	SVC (S: rate@7, V: "is", C: TFR@9)	SVC (C: 1.96@15, V: was@14, S: rate@7, A?: In@1)
+1533	
+1534	
+1535	
+1536	SV (V: =@14, S: 1@7)
+1537	
+1538	
+1539	SV (V: =@14, S: 1@7)
+1540	SVO (V: continues@5, S: Rise@1, O: Office@6)	SVO (V: contributing@22, S: rate@20, A?: to@23, CCOMP: remains@28)	SVA (V: remains@28, S: it@27, A!: below@30)
+1541	SVC (S: children@1, V: "is", C: http@7)
+1542	
+1543	
+1544	
+1545	
+1546	
+1547	
+1548	SVO (V: had@2, S: Scotland@1, O: fertility@5)
+1549	SVO (V: had@8, S: Ireland@7, O: highest@10)
+1550	
+1551	SVC (S: Historically@7, V: "is", C: people@11)	SVOC (V: thought@13, S: Historically@7, XCOMP: descended@16, O: groups@2)	SVO (V: settled@23, S: groups@21, O: there@24, A?: before@25)
+1552	SVO (V: shown@5, S: studies@3, CCOMP: contains@16)	SVO (S: England@12, V: "has", O: pool@15)	SVO (V: contains@16, S: percent@10, O: chromosomes@19)	SVC (S: chromosomes@19, V: "is", C: Thomas@21)	SVC (S: Thomas@21, V: "is", C: G.@24)
+1553	
+1554	
+1555	SVC (S: Sciences@9, V: "is", C: 1601@12)
+1556	SVO (V: indicates@6, S: analysis@5, CCOMP: arrived@23, A?: at@34)	SVA (V: arrived@23, S: 75@10, A!: in@24, A?: by@28)	SVO (V: share@51, S: British@49, A?: broadly@50, O: ancestry@54, A?: with@55)
+1557	SVC (S: Owen@1, V: "is", C: James@3)	SVC (S: James@3, V: "is", C: July@6)
+1558	
+1559	
+1560	SVC (S: Oppenheimer@1, V: "is", C: Stephen@3)	SVC (S: Stephen@3, V: "is", C: October@5)
+1561	
+1562	SVC (S: Prospect@1, V: "is", C: London@3)
+1563	
+1564	
+1565	
+1566	SVA (V: "be make", S: Griffin@14, O: claim@21)	SVO (V: hijacked@15, S: Griffin@14, O: work@17, A?: make@19)	SVO (S: my@16, V: "has", O: work@17)	SVO (S: aborigines@25, V: "has", O: Mark@28)
+1567	
+1568	SVA (V: "be make", S: Griffin@14, O: claim@21)	SVO (V: hijacked@15, S: Griffin@14, O: work@17, A?: make@19)	SVO (S: my@16, V: "has", O: work@17)	SVO (S: aborigines@25, V: "has", O: Mark@28)	SVOO (V: has@40, S: UK@39, O: history@42, IO: London@37)	SVA (V: "be having", S: Liverpool@49, O: population@54)	SVA (V: "be dating", S: population@54, A!: back@59, A?: to@60)	SVC (S: 1730s@64, V: "is", C: Liverpool@69)	SVA (V: "be dating", S: Community@101, A!: to@119)
+1569	
+1570	
+1571	
+1572	
+1573	
+1574	
+1575	EXISTENTIAL (V: were@19, S: residents@25)	SVA (V: "be born", S: all@30, A!: overseas@32)
+1576	SVC (S: Compton@5, V: "is", C: Paul@7)	SVC (S: Salt@9, V: "is", C: John@11)	SVC (S: John@11, V: "is", C: 2002@13)
+1577	
+1578	
+1579	
+1580	
+1581	
+1582	SVC (C: legacy@16, V: been@14, S: Caribbean@9, A?: Since@1, A?: of@17)	SVA (V: "be forged", S: ties@18, A!: by@20)
+1583	SVA (V: resulted@15, S: Migration@1, A!: in@16)	SV (V: reversing@30, S: trend@28)	SVO (V: returning@37, S: many@32, O: home@38)	SV (V: unknown@46, S: groups@45)
+1584	
+1585	
+1586	SVO (V: left@4, S: I@3, A-: Why@2, O: UK@5, A?: return@7)	SVA (V: "be return", S: I@3, A!: to@8)	SVO (S: Poland@9, V: "has", O: News@12)	SVC (S: Mason@16, V: "is", C: 2001@19)
+1587	SVOC (V: identified@5, S: %@1, O: themselves@6, A?: as@7, XCOMP: leaving@10)
+1588	
+1589	
+1590	
+1591	
+1592	
+1593	
+1594	
+1595	
+1596	SVOO (V: identifying@21, S: April@15, O: themselves@22, A?: as@23, IO: Statistics@10)
+1597	SVA (V: varies@3, S: diversity@2, A!: significantly@4, A?: across@5)
+1598	
+1599	
+1600	
+1601	
+1602	
+1603	
+1604	
+1605	
+1606	
+1607	SVO (V: =@14, S: London@11, O: estimates@54)	SVC (S: group@57, V: "is", C: percentages@59)
+1608	SVO (S: Leicester@3, V: "has", O: http@5)
+1609	
+1610	
+1611	
+1612	SVC (S: group@53, V: "is", C: percentages@55)
+1613	
+1614	
+1615	
+1616	SVC (S: group@53, V: "is", C: percentages@55)	SVO (V: estimated@67, S: Office@59, XCOMP: 06@73)	SVA (V: were@93, S: %@79, A!: from@94, A?: according@97)
+1617	
+1618	
+1619	
+1620	
+1621	
+1622	
+1623	
+1624	
+1625	SVC (C: members@11, V: are@10, S: %@1, A?: of@12)
+1626	
+1627	
+1628	SVA (V: are@7, S: One@1, A!: from@8)	SVO (V: speak@19, S: schoolchildren@16, O: English@20, A?: as@21)	SVO (S: their@22, V: "has", O: Mail@26)
+1629	
+1630	SVA (V: are@7, S: One@1, A!: from@8)	SVO (V: speak@19, S: schoolchildren@16, O: English@20, A?: as@21)	SVO (S: their@22, V: "has", O: Mail@26)
+1631	SVO (V: have@5, S: Countries@1, O: majority@7)	SVOC (C: official@17, V: is@15, S: English@14, A?: where@13, O: countries@12)	SVC (C: shaded@24, V: are@23, S: countries@12, A?: in@25)
+1632	
+1633	
+1634	
+1635	
+1636	
+1637	
+1638	
+1639	
+1640	
+1641	SVO (S: UK@10, V: "has", O: language@13)	SVOC (C: English@15, V: is@14, S: language@13, O: November@7)	SVO (V: descended@21, S: language@20, A?: from@22, O: November@7)	SVO (V: features@26, S: English@24, O: number@29)
+1642	SVA (V: spread@5, S: language@3, A!: across@6, A?: of@12)	SVO (V: become@19, S: language@3, A?: across@6, A?: of@12, O: language@22)
+1643	
+1644	SVO (V: =@2, S: asp?dpno@1, O: 2055@3)
+1645	SVC (S: Dominance@2, V: "is", C: Centre@10)
+1646	SVO (V: =@2, S: asp?dpno@1, O: 2055@3)
+1647	SVC (S: Dominance@2, V: "is", C: Centre@10)	SVO (V: descended@23, S: language@22, A?: from@24, O: Scots@19)	SVO (V: recognised@31, S: Scots@19, A?: at@32, O: Research@14)	SV (V: is@37, S: variant@40, A-: as@36)	SVC (S: variant@40, V: "is", C: Scots@49)	SVO (S: its@38, V: "has", O: variant@40)
+1648	
+1649	
+1650	
+1651	
+1652	
+1653	
+1654	
+1655	
+1656	
+1657	
+1658	EXISTENTIAL (V: are@36, S: languages@40, A?: also@37, O: Languages@31)	SVC (S: Welsh@47, V: "is", C: Scottish@51)
+1659	SVO (V: speak@20, S: they@18, O: Welsh@21)
+1660	
+1661	SVC (S: Census@6, V: "is", C: %@9)
+1662	
+1663	
+1664	
+1665	
+1666	
+1667	
+1668	SVOC (V: estimated@19, S: it@17, CCOMP: live@25, O: Differences@1)	SVA (V: live@25, S: speakers@24, A!: in@26)
+1669	
+1670	
+1671	SVC (S: Thomas@4, V: "is", C: Voices@8)
+1672	
+1673	SVC (S: Thomas@4, V: "is", C: Voices@8)	SVOC (V: showed@20, S: March@9, CCOMP: 10.4@24, O: Voices@8)
+1674	SVO (V: had@5, S: people@3, O: knowledge@7, A?: in@22)
+1675	SVA (V: "be living", S: those@25, A!: in@27)
+1676	
+1677	
+1678	
+1679	SVA (V: "be taught", S: schoolchildren@4, A!: in@7)	SV (V: increasing@14, S: number@2)
+1680	
+1681	
+1682	
+1683	
+1684	SVO (V: taking@5, S: languages@3, O: News@9)	SVA (V: spoken@19, S: taking@5, A?: also@18, A!: by@20, A?: with@26)	SVA (V: "be spoken", S: Gaelic@28, A!: still@29, A?: in@31)	SVC (S: Scotia@33, V: "is", C: R.@46)	SVA (S: Canada@35, V: "is in", C: Island@40)
+1685	
+1686	
+1687	SVC (S: Edwards@19, V: "is", C: R.@22)
+1688	
+1689	
+1690	SVA (S: Patagonia@22, V: "is in", C: Argentina@24)
+1691	SVC (S: Koch@1, V: "is", C: T.@4)
+1692	
+1693	
+1694	SVC (S: Koch@15, V: "is", C: T.@18)
+1695	
+1696	
+1697	
+1698	
+1699	
+1700	
+1701	
+1702	SV (V: are@4, S: the@5)
+1703	SVA (V: taught@12, S: pupils@5, A?: In@1, A!: in@13)	SVO (V: taught@16, S: pupils@5, A?: In@1, A?: in@13, O: Welsh@17, A?: as@18)
+1704	
+1705	
+1706	
+1707	SVA (V: used@8, S: Religion@1, A!: for@9)	SVC (C: Kingdom@29, V: is@25, S: what@24, A?: now@26, A?: for@30)
+1708	SVC (S: Cannon@1, V: "is", C: John@3)	SV (V: ed@5, S: Cannon@1)
+1709	
+1710	
+1711	
+1712	
+1713	
+1714	
+1715	
+1716	SVA (V: identify@7, S: majority@3, A?: still@6, A!: with@8, A?: in@10)	SVA (V: fallen@18, S: attendance@16, A?: identify@7, A!: dramatically@19, A?: since@20)	SVC (S: middle@22, V: "is", C: Field@28)	SVC (S: middle@22, V: "is", C: D.@31)
+1717	
+1718	
+1719	SVC (S: Series@3, V: "is", C: Paper@9)
+1720	
+1721	SVA (V: contributed@7, S: immigration@2, A!: to@8)	SVC (S: faiths@13, V: "is", C: Islam@17)
+1722	SVC (S: Yilmaz@1, V: "is", C: Ihsan@3)	SVC (S: Ihsan@3, V: "is", C: 2005@5)
+1723	
+1724	
+1725	
+1726	
+1727	
+1728	SVOC (V: led@3, S: This@1, O: commentators@5, XCOMP: describe@8)
+1729	
+1730	
+1731	
+1732	
+1733	
+1734	
+1735	SVC (S: Norris@3, V: "is", C: Pippa@5)	SVC (S: Ronald@9, V: "is", C: 2004@11)
+1736	
+1737	
+1738	
+1739	
+1740	
+1741	
+1742	SVC (S: Fergusson@1, V: "is", C: David@3)	SVC (S: David@3, V: "is", C: 2004@5)
+1743	
+1744	
+1745	
+1746	
+1747	
+1748	
+1749	SVO (V: indicated@5, S: %@1, CCOMP: Christians@9)	SVC (C: Christians@9, V: were@8, S: they@7, A?: with@11, A?: by@17)
+1750	
+1751	SVC (S: Sikhism@4, V: "is", C: %@1)
+1752	SVC (S: Judaism@4, V: "is", C: %@1)
+1753	SVC (S: Buddhism@4, V: "is", C: %@1)
+1754	
+1755	
+1756	
+1757	
+1758	
+1759	
+1760	
+1761	
+1762	SVOC (V: stated@18, S: %@15, CCOMP: had@21, O: Statistics@10)	SVOC (V: had@21, S: they@20, O: religion@23, A?: with@25, XCOMP: stating@31)
+1763	
+1764	
+1765	
+1766	
+1767	
+1768	
+1769	SVO (V: showed@9, S: survey@6, O: one@11)
+1770	
+1771	
+1772	
+1773	
+1774	
+1775	
+1776	
+1777	
+1778	
+1779	
+1780	SVC (C: church@17, V: is@14, S: Church@11, A?: in@18)
+1781	
+1782	
+1783	
+1784	SVO (V: retains@2, S: It@1, O: representation@4)	SVO (S: its@14, V: "has", O: Governor@16)
+1785	
+1786	
+1787	
+1788	
+1789	
+1790	
+1791	
+1792	
+1793	SVO (V: recognised@12, S: Church@8, A?: as@13, O: October@2)
+1794	SVC (C: subject@4, V: is@2, S: It@1, A?: to@5)	SVA (V: "be required", S: member@16, XCOMP: swear@20)	SVC (C: member@16, V: is@13, S: monarch@12, A?: required@18)	SVA (V: "be maintain", S: oath@22, O: Religion@30)	SVA (V: "be maintain", S: oath@22, O: Religion@30)
+1795	SVC (S: Monarchy@7, V: "is", C: Website@10)
+1796	
+1797	
+1798	
+1799	SVC (S: Monarchy@10, V: "is", C: Website@13)
+1800	
+1801	
+1802	
+1803	SVO (V: organised@7, S: we@5, A?: How@4, O: Church@8)
+1804	
+1805	SVA (V: "be we_are_organised", S: _@4)
+1806	
+1807	
+1808	SVO (V: organised@7, S: we@5, A?: How@4, O: Church@8)
+1809	
+1810	SVA (V: "be we_are_organised", S: _@4)
+1811	
+1812	
+1813	SVA (V: disestablished@9, S: Church@5, A!: in@10)	EXISTENTIAL (V: is@15, S: church@18)
+1814	SVC (S: Weller@1, V: "is", C: Paul@3)	SVC (S: Paul@3, V: "is", C: 2005@5)
+1815	
+1816	
+1817	
+1818	
+1819	SVO (V: \@2, S: ISBN@1, O: t0567084876@3)
+1820	EXISTENTIAL (V: are@3, S: data@6, A?: in@7, A?: on@11)	SVO (V: estimated@21, S: Peach@19, A?: are@3, CCOMP: Anglican@28)	SVC (C: Anglican@28, V: are@27, S: %@24)
+1821	SVC (S: Catholic@3, V: "is", C: %@6)	SVC (S: Catholic@3, V: "is", C: 3.4@9)
+1822	
+1823	SVC (S: Peach@1, V: "is", C: Ceri@3)
+1824	
+1825	
+1826	
+1827	
+1828	
+1829	
+1830	
+1831	
+1832	SVO (V: thumb300pxEstimated@14, S: population@9, O: population@16, A?: by@17)	SVOO (V: experienced@31, S: Kingdom@29, A?: March@25, O: waves@33, IO: April@22)
+1833	SVO (V: brought@4, S: Famine@3, O: influx@7)
+1834	SVC (S: Richards@1, V: "is", C: Eric@3)	SVC (S: Eric@3, V: "is", C: 2004@5)
+1835	
+1836	
+1837	
+1838	
+1839	
+1840	SVA (V: "be settled", S: veterans@4, A!: in@6, A?: after@8)
+1841	SVC (S: Gibney@1, V: "is", C: J.@4)
+1842	SVC (S: Hansen@2, V: "is", C: Randall@4)	SVC (S: Randall@4, V: "is", C: 2005@6)
+1843	
+1844	
+1845	
+1846	
+1847	EXISTENTIAL (V: was@8, S: immigration@10, O: ISBN@1)	SVA (V: driven@16, S: ISBN@1, A!: by@18)
+1848	SVA (V: came@5, S: Many@1, A!: from@6)
+1849	
+1850	
+1851	
+1852	
+1853	EXISTENTIAL (V: were@14, S: 7.0@15, CCOMP: history@2)
+1854	SVA (V: "be corresponding", S: residents@3, A!: to@9)
+1855	
+1856	
+1857	
+1858	SVA (V: born@4, S: %@1, A!: outside@5)	SV (V: 2.24@9, S: %@1, A?: outside@5)
+1859	
+1860	SVA (V: born@4, S: %@1, A!: in@5)
+1861	SVC (S: Eurostat@2, V: "is", C: VASILEVA@5)
+1862	SVA (V: remains@9, S: proportion@2, A!: below@11)
+1863	
+1864	
+1865	SVC (S: June@16, V: "is", C: April@19)
+1866	
+1867	
+1868	SVA (V: contributing@25, S: immigration@22, A?: now@24, A!: to@26)
+1869	
+1870	SVOC (V: pushes@7, S: Immigration@1, O: population@9, XCOMP: record@11, O: www.thisislondon.co.uk/news/article-23542455-details/Immigration+and+births+to+non-British+mothers+pushes+British+population+to+record+high/article@23)
+1871	
+1872	SVOC (V: pushes@7, S: Immigration@1, O: population@9, XCOMP: record@11)
+1873	
+1874	SVA (V: moved@3, S: migrants@2, A!: to@4, A?: in@7, A?: to@11)
+1875	
+1876	
+1877	SVO (S: our@5, V: "has", O: m@7)
+1878	SV (V: http@13, S: London@5)
+1879	
+1880	SVO (S: our@5, V: "has", O: m@7)
+1881	SV (V: http@13, S: London@5)
+1882	
+1883	SVA (V: call@2, S: Tories@1, A!: for@3)
+1884	
+1885	
+1886	
+1887	SVO (V: rejects@2, S: Minister@1, CCOMP: disputed@18)	SV (V: disputed@18, S: figures@16)	SV (V: disputed@18, S: News@7)
+1888	
+1889	
+1890	SV (V: say@8, S: figures@7)
+1891	
+1892	SV (V: say@8, S: figures@7)	SVO (V: Based@21, S: January@13, A?: on@22, O: 5@12)	SVC (S: Statistics@27, V: "is", C: ONS@29)	SVOO (V: jumped@39, S: migration@33, O: percent@41, A?: to@42, A?: from@44, IO: Telegraph@11)
+1893	SVC (C: 575,000@6, V: was@5, S: immigration@2, A?: since@10, A?: 336,000@30)	SVA (V: "be leaving", S: people@17, O: UK@19, XCOMP: live@21)	SVC (C: 336,000@30, V: was@28, S: number@15, A?: only@29)
+1894	
+1895	SVO (V: rises@4, S: migration@3, O: %@6)
+1896	SVC (V: rises@4, S: migration@3, ACOMP: became@18, A?: compared@24)	SVC (V: became@18, S: nationals@17, XCOMP: citizens@20)
+1897	
+1898	
+1899	
+1900	
+1901	
+1902	
+1903	SVA (V: "be operate", S: squad@2, A!: in@5, O: Calais@10)
+1904	
+1905	SVA (V: "be operate", S: squad@2, A!: in@5, O: Calais@10)	SVOO (V: granted@21, S: people@19, O: rights@24, A?: in@25, IO: record@17)	SVO (V: were@33, S: 51@30, O: whom@29, A?: from@34)	SVO (V: 27@37, S: 51@30, O: whom@29, A?: from@34, A?: per@38, A?: from@40)
+1906	
+1907	
+1908	
+1909	
+1910	
+1911	SVA (V: "be born", S: babies@4, A!: in@6, A?: in@10)	SVA (V: "be born", S: mothers@15, A!: outside@17)	SVA (V: "be released", S: statistics@24, A!: in@26)
+1912	
+1913	SVA (V: "be living", S: citizens@5, A!: overseas@7, A?: by@8)
+1914	SVA (V: living@6, S: people@4, A!: abroad@7)
+1915	
+1916	
+1917	
+1918	
+1919	
+1920	
+1921	
+1922	
+1923	
+1924	
+1925	
+1926	SVO (V: opt@3, S: Britons@1, XCOMP: live@5)	SVC (S: April@14, V: "is", C: Casciani@17)	SVC (C: Australia@23, V: being@22, S: destinations@21)	SVA (S: Australia@23, V: "is in", C: Spain@25)	SVA (S: Australia@23, V: "is in", C: States@29)
+1927	
+1928	
+1929	
+1930	
+1931	SVC (C: feature@14, V: was@11, S: Emigration@10, A?: of@15, A?: in@18)
+1932	
+1933	SVA (V: emigrated@2, S: people@1, A!: from@3)	SV (V: million@7, S: people@1, A?: from@3)
+1934	
+1935	SVO (V: show@2, S: Estimates@1, CCOMP: settled@22)	SVA (V: settled@22, S: people@14, A?: by@4, A?: permanently@21, A!: around@23)
+1936	SVC (S: Richards@1, V: "is", C: 2004@3)	SVC (S: Richards@1, V: "is", C: pp@6)
+1937	
+1938	SVO (V: have@6, S: Citizens@1, O: right@8)	SVA (V: "be live", S: right@8)	SVA (V: "be live", S: right@8, A!: in@13)
+1939	
+1940	
+1941	
+1942	SVA (V: apply@3, S: arrangements@2, A!: to@4)	SVO (S: Bulgarians@7, V: "has", O: countries@9)	SVO (V: joined@10, S: countries@9, O: EU@12, A?: in@13)
+1943	
+1944	
+1945	SVOC (V: shuts@3, S: Office@2, O: door@5, A?: on@6, O: www.guardian.co.uk/uk/2007/sep/23/immigration@28)	SVC (S: Bulgaria@7, V: "is", C: Ned@13)
+1946	
+1947	SVO (V: shuts@3, S: Office@2, O: door@5, A?: on@6)
+1948	SVA (V: migrated@2, S: workers@1, A!: states@8)	SVO (V: states@8, S: member@7, A?: to@9, O: thirds@14)	SVO (V: that@20, S: member@7, A?: to@9, O: thirds@14, A?: many@21)	SV (V: Polish@17, S: them@16)
+1949	
+1950	
+1951	
+1952	SVO (S: UK@2, V: "has", O: Europeans@5)
+1953	
+1954	
+1955	SVO (S: UK@2, V: "has", O: Europeans@5)
+1956	SVC (S: Young@1, V: "is", C: educated@5)
+1957	SVC (S: Young@1, V: "is", C: educated@5)	SVO (V: reduced@33, S: recession@29, O: incentive@36)	SVO (V: migrate@40, S: Poles@38, A?: to@41, O: incentive@36)	SVC (S: UK@43, V: "is", C: http@45)
+1958	
+1959	SVA (V: "be hit", S: Poles@6, A!: by@8)	SVC (S: Standard@17, V: "is", C: October@19)
+1960	
+1961	SVA (V: "be hit", S: Poles@6, A!: by@8, A?: with@21)	SVO (S: UK@9, V: "has", O: October@19)	SVA (V: "be becoming", S: migration@23, ACOMP: temporary@25)
+1962	
+1963	
+1964	
+1965	
+1966	SVO (V: joined@38, S: states@35, O: EU@40, A?: in@41)	SVO (V: left@43, S: nationals@27, O: UK@45, A?: arrived@47)
+1967	
+1968	
+1969	SVO (V: introducing@14, S: government@11, A?: currently@13, O: system@18, A?: for@19)	SVO (V: replace@29, S: Area@26, O: schemes@31)	SVO (S: Government@36, V: "has", O: Initiative@40)
+1970	
+1971	
+1972	
+1973	
+1974	
+1975	
+1976	SVOO (V: introduced@24, S: government@23, O: cap@27, IO: October@12)	SVA (V: "be entering", S: those@31, O: UK@34, A!: from@35)	SVA (V: "be set", S: limit@42, A!: at@44)	SVA (V: imposed@61, S: cap@59, A!: in@62)
+1977	
+1978	
+1979	SVO (V: begin@2, S: Tories@1, O: consultation@3)
+1980	
+1981	SVO (V: begin@2, S: Tories@1, O: consultation@3, A?: caused@22)	SVO (V: argued@33, S: Cable@31, CCOMP: harming@37)	SVO (V: harming@37, S: it@35, O: businesses@39)
+1982	
+1983	SVO (V: hurting@7, S: cap@5, O: economy@8)
+1984	SVOC (V: hurting@7, S: cap@5, O: matter@65, A?: with@67, XCOMP: having@70)	SVO (S: thumbleftKing@38, V: "has", O: CambridgeKing@42)	SVO (S: CambridgeKing@42, V: "has", O: part@46)	SVA (V: founded@54, S: University@49, A!: in@55)	SVC (C: matter@65, V: is@62, S: Guardian@12, A?: in@36)	SVC (C: matter@65, V: is@62, S: part@46, A?: in@36)
+1985	SVC (C: responsibility@6, V: is@4, S: Education@1, A?: of@7, A?: responsibility@26)	SVC (C: responsibility@26, V: is@24, S: administration@18, A?: of@27)
+1986	
+1987	
+1988	
+1989	
+1990	SVO (V: introduced@20, S: December@11, A?: between@22, O: Families@9)
+1991	SVC (S: Gordon@1, V: "is", C: J.C.B.@3)
+1992	SVC (S: Gordon@14, V: "is", C: J.C.B.@16)
+1993	SVC (S: London@8, V: "is", C: Sections@34)	SVC (S: Section@14, V: "is", C: Duty@18)	SVA (V: "be secure", S: Duty@18, O: provision@25)	SVA (V: "be maintained", S: schools@58, A!: by@60)
+1994	
+1995	SVC (C: mandatory@4, V: is@2, S: Education@1, A?: now@3, A?: from@5)
+1996	SVO (V: educated@6, S: majority@2, A?: in@7, O: proportion@14)
+1997	SVO (V: allowed@5, S: schools@2, XCOMP: select@7)	SVO (V: achieve@16, S: schools@2, O: results@18, A?: to@19)	SVC (C: school@44, V: were@41, S: results@37)
+1998	SVA (V: "be attending", S: children@10, O: school@15)	SVA (V: risen@17, S: proportion@8, A?: Despite@1, A!: to@18)
+1999	
+2000	
+2001	
+2002	
+2003	SVOO (V: attended@31, S: half@19, O: schools@33, IO: MacLeod@14)
+2004	
+2005	
+2006	
+2007	
+2008	SVO (V: include@15, S: pupils@3, O: some@16, A?: in@21)	SVA (V: ranked@44, S: University@26, A!: in@45, A?: in@50, A?: with@58)
+2009	
+2010	
+2011	SVC (S: Study@18, V: "is", C: TIMSS@20)
+2012	SVOA (V: put@3, S: results@2, O: pupils@6, A!: ahead@7)	SVO (S: England@4, V: "has", O: pupils@6)
+2013	
+2014	
+2015	
+2016	
+2017	SVO (S: England@1, V: "has", O: pupils@3)	SVO (S: thumbQueen@13, V: "has", O: Belfast@16)	SVA (V: "be built", S: _@17, A!: in@19)
+2018	
+2019	
+2020	
+2021	
+2022	
+2023	
+2024	
+2025	
+2026	
+2027	SVC (C: responsibility@6, V: is@4, S: Education@1, A?: of@7, A?: with@17)
+2028	SVO (V: have@5, S: bodies@4, O: roles@7)	SVC (C: responsible@17, V: is@16, S: Authority@15, A?: for@18)	SVA (V: delivered@34, S: degrees@31, A!: at@35)	SVC (S: schools@37, V: "is", C: colleges@40)
+2029	
+2030	SVA (V: "be promote", S: Scotland@5, O: development@20)	SVA (V: "be promote", S: Scotland@5, O: development@20, O: culture@24)	SVO (V: provides@6, S: Scotland@5, O: advice@7, A?: to@13, A?: promote@18)
+2031	
+2032	
+2033	
+2034	SVA (V: legislated@3, S: Scotland@1, A?: first@2, A!: for@4, A?: in@7)
+2035	
+2036	
+2037	
+2038	SVA (V: "be attending", S: children@4, O: schools@9)	SVC (C: %@14, V: is@10, S: proportion@2, A?: rising@20)	SVA (V: rising@20, S: it@17, A!: slowly@21, A?: in@22)
+2039	
+2040	
+2041	SVO (V: attend@14, S: students@12, O: universities@16)	SVO (V: pay@17, S: Increase@1, O: fees@20, A?: abolished@29)	SVA (V: abolished@29, S: fees@27, A!: in@30)	SVA (V: abolished@38, S: scheme@36, A!: in@39)
+2042	
+2043	
+2044	
+2045	
+2046	SVO (V: vote@2, S: MSPs@1, XCOMP: scrap@4)	SVC (C: responsibility@18, V: is@16, S: News@8, A?: of@19, A?: administered@39)	SVA (V: administered@39, S: responsibility@33, A!: by@40)	SVA (V: "be covering", S: education@42, O: areas@49)
+2047	SVC (S: Examinations@7, V: "is", C: CCEA@11)	SVC (C: body@15, V: is@13, S: Council@2)	SVA (V: taught@25, S: what@22, A!: in@26)	SVO (S: Ireland@28, V: "has", O: schools@30)
+2048	
+2049	
+2050	
+2051	SVO (V: has@4, S: Government@3, O: responsibility@5)
+2052	SVA (V: taught@8, S: number@3, A!: wholly@10)	SVC (C: compulsory@22, V: are@21, S: lessons@18, A?: for@23, A?: until@25)
+2053	
+2054	
+2055	EXISTENTIAL (V: are@2, S: plans@3)	SVA (V: "be increase", S: plans@3, O: provision@7)
+2056	SVO (S: Children@8, V: "has", O: Scotlandspecialistchildren@13)	SVO (S: Scotlandspecialistchildren@13, V: "has", O: Healthcare@16)	SVC (C: matter@24, V: is@21, S: Healthcare@1)	SVO (S: its@29, V: "has", O: system@31)
+2057	SVO (V: provided@4, S: healthcare@2, A?: to@5, XCOMP: paid@20)	SVC (C: free@12, V: is@11, S: healthcare@2, A?: to@5, A?: at@13, XCOMP: paid@20)
+2058	SVO (V: ranked@9, S: Organization@4, O: provision@11, A?: in@14, A?: as@18)
+2059	
+2060	
+2061	
+2062	
+2063	
+2064	
+2065	SVA (V: organised@19, S: Measuring@1, A!: on@20)
+2066	SVA (V: lies@9, S: responsibility@6, A?: However@1, A!: with@10)	SVC (C: responsibility@20, V: is@18, S: healthcare@15, A?: of@21)	SVC (C: responsibility@32, V: is@30, S: healthcare@26, A?: of@33)	SVC (C: responsibility@44, V: is@42, S: healthcare@39, A?: of@45)	SVC (C: responsibility@56, V: is@54, S: healthcare@51, A?: of@57)
+2067	SVO (V: has@5, S: Service@4, O: policies@7, A?: resulting@11)	SVA (V: "be resulting", S: Service@4, A!: in@12)
+2068	
+2069	
+2070	
+2071	
+2072	
+2073	
+2074	SVO (V: increased@20, S: expenditure@15, A?: significantly@21, XCOMP: bring@23)
+2075	
+2076	
+2077	
+2078	
+2079	SVOA (V: take@3, S: This@1, O: us@4, A!: to@5)
+2080	SVO (V: spent@4, S: %@1, A?: on@5, O: ie@7)
+2081	
+2082	
+2083	
+2084	
+2085	SVOA (V: take@3, S: This@1, O: us@4, A!: to@5)
+2086	SVO (V: spent@4, S: %@1, A?: on@5, O: ie@7)
+2087	SVA (V: spends@3, S: UK@2, A!: around@4)
+2088	SVO (S: its@4, V: "has", O: product@7)	SV (V: is@12, S: 0.5@13, A?: per@1)
+2089	
+2090	
+2091	
+2092	SVO (V: influenced@14, S: Culture@1, A?: by@15, O: status@24)	SVA (V: "be including", S: factors@17)	SVO (S: nation@21, V: "has", O: status@24)	SVO (S: its@26, V: "has", O: history@27)	SVA (V: "be preserving", S: each@49, O: elements@51)
+2093	SVA (V: observed@13, S: influence@10, A?: As@1, A!: in@14, A?: including@29)	SVO (S: its@25, V: "has", O: colonies@27)
+2094	SVO (V: had@12, S: Cinema@1, O: influence@15)
+2095	SV (V: Lean@8, S: David@7)	SVA (V: are@9, S: Hitchcock@5, A!: among@10)
+2096	
+2097	
+2098	SVO (S: Directors@2, V: "has", O: Directors@6)	SV (V: http@13, S: Directors@6)
+2099	
+2100	
+2101	SVO (S: Directors@2, V: "has", O: Directors@6)
+2102	
+2103	
+2104	
+2105	
+2106	
+2107	
+2108	
+2109	
+2110	
+2111	
+2112	
+2113	
+2114	
+2115	
+2116	
+2117	
+2118	
+2119	
+2120	
+2121	
+2122	
+2123	
+2124	
+2125	
+2126	
+2127	
+2128	
+2129	
+2130	
+2131	
+2132	
+2133	
+2134	SVC (S: Scott@1, V: "is", C: Ridley@4)	SVOO (V: achieved@19, S: actors@17, O: fame@21, IO: Ridley@4)	SVOO (V: success@24, S: actors@17, O: fame@21, A?: including@26, IO: Ridley@4)
+2135	
+2136	
+2137	
+2138	
+2139	
+2140	
+2141	
+2142	
+2143	
+2144	
+2145	
+2146	
+2147	
+2148	
+2149	
+2150	
+2151	
+2152	
+2153	
+2154	
+2155	
+2156	
+2157	
+2158	
+2159	
+2160	
+2161	
+2162	
+2163	
+2164	
+2165	
+2166	
+2167	
+2168	
+2169	
+2170	
+2171	
+2172	
+2173	
+2174	
+2175	
+2176	
+2177	
+2178	
+2179	
+2180	
+2181	
+2182	
+2183	
+2184	
+2185	
+2186	
+2187	
+2188	
+2189	
+2190	
+2191	
+2192	
+2193	
+2194	
+2195	
+2196	
+2197	
+2198	
+2199	
+2200	
+2201	
+2202	
+2203	
+2204	
+2205	
+2206	
+2207	
+2208	
+2209	
+2210	
+2211	
+2212	
+2213	
+2214	
+2215	SVO (V: produced@26, S: Some@14, A?: in@27, O: Winslet@1)
+2216	
+2217	SVC (V: becomes@3, S: Potter@2, XCOMP: franchise@6)
+2218	SVC (V: becomes@3, S: Potter@2, XCOMP: franchise@6, CCOMP: has@18)	SVA (C: oldest@24, V: "be oldest", S: claim@20, O: studio@28)
+2219	
+2220	
+2221	
+2222	
+2223	SVA (V: characterised@24, S: industry@20, A?: often@22, A!: by@25)	SVO (S: its@29, V: "has", O: identity@30)
+2224	SVC (C: co-productions@5, V: are@4, S: films@3, A?: with@6, A?: using@11)	SVA (V: "be using", S: co-productions@5, A!: often@10, O: actors@16)	SVA (V: feature@21, S: actors@20, A!: regularly@22, A?: in@23)
+2225	SVA (V: based@7, S: films@4, A!: on@8)
+2226	SVA (V: "be grossed", S: films@4, O: $@7)
+2227	
+2228	
+2229	
+2230	
+2231	
+2232	
+2233	
+2234	SVO (V: produced@6, S: Institute@4, O: ranking@9)	SVOC (V: considers@13, S: it@12, O: what@11, XCOMP: films@20)
+2235	
+2236	
+2237	
+2238	
+2239	SVA (V: "be hosted", S: BFI@5, A!: by@18)	SVC (C: equivalent@31, V: are@28, S: BFI@5, A?: of@32)
+2240	
+2241	
+2242	SVO (V: believed@18, S: News@9, A?: to@19, O: race@4)	SVO (S: Shakespeare@21, V: "has", O: literature@24)	SVO (V: refers@26, S: race@4, A?: to@27, O: Isle@36)	SVA (V: "be associated", S: literature@28, A!: with@30)
+2243	SVO (V: is@6, S: literature@5, A?: in@7, O: July@1)
+2244	SVA (V: published@8, S: books@6, A?: In@1, A!: in@9)	SVC (C: publisher@20, V: was@17, S: it@16, A?: in@14, A?: of@21)
+2245	
+2246	
+2247	
+2248	
+2249	
+2250	
+2251	SVA (V: regarded@16, S: playwright@9, A?: widely@15, A!: as@17)
+2252	SVC (S: Shakespeare@2, V: "is", C: author@5)
+2253	SVC (S: Shakespeare@2, V: "is", C: author@5)
+2254	
+2255	
+2256	
+2257	
+2258	
+2259	
+2260	
+2261	
+2262	
+2263	
+2264	
+2265	
+2266	
+2267	
+2268	
+2269	SVO (S: his@14, V: "has", O: contemporaries@15)	SVO (V: held@24, S: Marlowe@17, A?: also@22, A?: in@25, O: contemporaries@15)
+2270	SVC (S: Pinter@9, V: "is", C: Frayn@12)	SVC (S: Pinter@9, V: "is", C: Stoppard@15)	SV (V: combined@20, S: Pinter@9)
+2271	SVO (V: include@7, S: writers@6, O: Chaucer@9)	SVO (V: Milton@32, S: writers@6, O: Chaucer@9)	SVC (S: Chaucer@9, V: "is", C: century@27)	SVC (S: Chaucer@9, V: "is", C: century@12)	SVC (S: Malory@16, V: "is", C: century@19)	SVC (S: Milton@32, V: "is", C: century@35)
+2272	
+2273	SVC (S: Austen@11, V: "is", C: Dickens@33)	SVC (S: Austen@11, V: "is", C: Hardy@38)	SVC (S: Austen@11, V: "is", C: Eliot@43)	SVC (S: Austen@11, V: "is", C: Shelley@17)	SVC (S: Austen@11, V: "is", C: Blake@49)	SVC (S: Austen@11, V: "is", C: Carroll@23)	SVC (S: Austen@11, V: "is", C: sisters@27)	SVO (S: children@19, V: "has", O: Carroll@23)
+2274	SVO (V: include@5, S: writers@4, O: H.@9)
+2275	
+2276	SVC (S: writers@4, V: "is", C: A.@12)	SVO (S: children@6, V: "has", O: Kipling@10)
+2277	
+2278	
+2279	
+2280	
+2281	
+2282	
+2283	SVO (S: Christie@3, V: "has", O: success@5)	SVO (V: solved@7, S: Mystery@1, O: Telegraph@12)
+2284	
+2285	SVO (S: Christie@3, V: "has", O: success@5)	SVO (V: solved@7, S: Mystery@1, O: Telegraph@12)	SVC (S: Fleming@18, V: "is", C: creator@21)
+2286	
+2287	
+2288	
+2289	
+2290	SVC (S: Tolkien@1, V: "is", C: C.@3)
+2291	
+2292	
+2293	
+2294	
+2295	SVO (V: eranovelistCharles@4, S: ofVictorian@3, O: contributions@8)	SVO (S: Scotland@6, V: "has", O: contributions@8)	SVC (S: Doyle@15, V: "is", C: literature@25)	SVC (S: Scott@29, V: "is", C: writer@33)	SVO (S: children@31, V: "has", O: writer@33)
+2296	SVC (S: Barrie@1, V: "is", C: adventures@5)
+2297	
+2298	SVA (V: contributed@2, S: Gunn@1, A!: to@3)
+2299	SVA (V: found@6, S: outlook@4, A!: in@7)	SVO (S: Rankin@9, V: "has", O: stories@11)
+2300	SVO (S: Scotland@1, V: "has", O: capital@3)	SVC (S: capital@3, V: "is", C: Edinburgh@5)	SVC (C: City@12, V: was@7, S: capital@3, A?: of@13)	SVO (S: UNESCO@8, V: "has", O: City@12)
+2301	
+2302	
+2303	SVO (S: Britain@1, V: "has", O: poem@5)	SVC (S: poem@5, V: "is", C: Gododdin@8)	SVA (V: composed@11, S: poem@5, A!: in@12)
+2304	SVA (V: written@3, S: It@1, A!: in@4)	SVO (V: contains@10, S: It@1, A?: in@4, O: reference@14)
+2305	
+2306	
+2307	
+2308	
+2309	SV (V: lost@24, S: connection@16)	SVA (V: focus@28, S: connection@16, A!: of@29)	SVA (V: "be shifted", S: Welsh@30, A!: to@35)	SVOC (C: further@42, V: was@41, S: legend@40, A?: where@38, A?: developed@43, O: Wales@36)	SVA (V: "be developed", S: further@42, A!: by@44)
+2310	
+2311	
+2312	
+2313	
+2314	SVC (S: Lang@43, V: "is", C: Holicong@54)	SVC (S: Lang@43, V: "is", C: poetry@76)	SVC (S: Holicong@54, V: "is", C: Gwilym@67)	SVC (S: Holicong@54, V: "is", C: poet@63)	SVO (S: Wales@58, V: "has", O: poet@63)
+2315	SVA (V: regarded@4, S: He@1, A?: widely@3, A!: as@5)	SVO (S: his@13, V: "has", O: age@14)
+2316	
+2317	
+2318	SVA (V: regarded@7, S: Gwilym@4, A?: widely@6, A!: as@8)	SVA (V: amongst@20, S: Gwilym@4, A?: widely@6, A?: as@8, A!: poets@24)
+2319	
+2320	
+2321	SVA (V: regarded@7, S: Gwilym@4, A?: widely@6, A!: as@8)	SVA (V: amongst@20, S: Gwilym@4, A?: widely@6, A?: as@8, A!: poets@24)
+2322	SVA (V: was@18, S: majority@14, A!: in@19)	SVC (C: religious@27, V: was@26, S: was@18, A?: in@28)	SVC (C: religious@27, V: was@26, S: website@7, A?: in@28)
+2323	SVO (V: credited@4, S: Owen@2, A?: as@5, XCOMP: publishing@13)
+2324	SVC (C: Thomases@9, V: are@7, S: best-known@2)
+2325	SVC (V: became@3, S: Thomas@2, ACOMP: famous@4, A?: on@5, A?: in@11)
+2326	SVA (V: remembered@5, S: writer@3, A!: for@6)	SVO (S: his@7, V: "has", O: poetry@8)	SVO (S: his@10, V: "has", O: go@14)	SVC (S: Rage@21, V: "is", C: rage@23)	SVA (V: "be dying", S: the@25, A!: of@27)
+2327	SVO (S: his@16, V: "has", O: play@18)
+2328	
+2329	
+2330	SVA (V: nominated@4, S: Thomas@1, A!: for@5, A?: in@11)
+2331	SVO (V: include@8, S: Leading@1, O: Llewellyn@10)
+2332	SVO (V: include@4, S: writers@3, O: Strachan@6)
+2333	SVC (S: Authors@1, V: "is", C: Republic@12)	SV (V: lived@21, S: Authors@1)	SVA (V: worked@23, S: Authors@1, A!: in@24)
+2334	SVO (V: include@6, S: examples@2, O: Swift@8)	SVC (S: Swift@8, V: "is", C: T.S.@23)
+2335	SVA (V: "be born", S: authors@9, A!: abroad@11)
+2336	
+2337	
+2338	
+2339	
+2340	
+2341	
+2342	
+2343	
+2344	SVA (V: "be founded", S: BBC@25, A!: in@28)	SVO (S: UK@33, V: "has", O: radio@37)	SVC (C: radio@37, V: is@31, S: BBC@25)	SVC (C: broadcaster@51, V: is@31, S: BBC@25, A?: in@52)
+2345	SVO (V: operates@2, S: It@1, CCOMP: funded@18)	SVO (S: its@14, V: "has", O: services@16)	SVA (V: funded@18, S: television@4, A!: by@19)
+2346	SVO (S: World@4, V: "has", O: broadcaster@7)
+2347	
+2348	
+2349	
+2350	SVO (S: World@7, V: "has", O: broadcaster@10)
+2351	
+2352	
+2353	
+2354	
+2355	
+2356	
+2357	
+2358	
+2359	
+2360	
+2361	
+2362	SVO (V: include@11, S: players@6, O: plc@13)	SVO (V: operates@16, S: plc@13, O: 11@17)	SVO (V: make@25, S: broadcasters@23, O: Network@29)
+2363	
+2364	
+2365	
+2366	
+2367	
+2368	
+2369	
+2370	SVO (V: owns@10, S: June@3, O: number@12, A?: through@16)	SVC (S: Times@35, V: "is", C: http@40)
+2371	
+2372	
+2373	
+2374	
+2375	
+2376	
+2377	
+2378	
+2379	
+2380	
+2381	
+2382	
+2383	
+2384	
+2385	
+2386	
+2387	SVO (V: dominates@5, S: London@4, O: sector@8)	SVA (V: based@21, S: newspapers@14, A?: largely@20, A!: there@22, A?: centre@32)	SVC (C: centre@32, V: is@26, S: Manchester@25, A?: also@27)
+2388	SVC (C: centres@10, V: are@8, S: Edinburgh@1, A?: of@11, A?: respectively@20)
+2389	SVC (S: William@1, V: "is", C: D.@3)
+2390	
+2391	
+2392	
+2393	SVC (S: ISBN@1, V: "is", C: pp@4)
+2394	
+2395	SVO (V: has@25, S: sector@4, O: turnover@28)	SVOC (V: employs@35, S: sector@4, O: turnover@28, O: people@38)
+2396	
+2397	
+2398	
+2399	
+2400	
+2401	
+2402	
+2403	
+2404	SVO (V: estimated@8, S: it@6, A?: June@2, CCOMP: viewed@11)	SVO (V: viewed@11, S: individuals@10, O: mean@13)
+2405	
+2406	
+2407	SVA (V: accounted@11, S: channels@10, A?: In@1, A!: for@12)
+2408	SVA (V: accounted@12, S: channels@11, A!: for@13)
+2409	
+2410	
+2411	SVC (S: Ofcom@1, V: "is", C: August@4)	SVC (S: August@4, V: "is", C: pp@7)
+2412	SVA (V: "be retrieved", S: 97@1, A!: June@9)
+2413	SVA (V: fallen@5, S: Sales@1, A!: since@6)	SVA (V: in@10, S: Sales@1, A?: since@6, A!: %@13)
+2414	
+2415	
+2416	
+2417	
+2418	
+2419	
+2420	
+2421	
+2422	
+2423	
+2424	
+2425	SVC (C: users@8, V: were@6, S: %@1)	SVC (S: users@8, V: "is", C: proportion@12)
+2426	SVO (V: Stats@13, S: countries@3, O: http@14)
+2427	
+2428	
+2429	
+2430	SVO (V: Stats@16, S: countries@6, O: http@17)
+2431	
+2432	
+2433	
+2434	
+2435	
+2436	
+2437	
+2438	
+2439	
+2440	
+2441	
+2442	
+2443	SVC (C: popular@12, V: are@11, S: styles@8, A?: in@13, A?: from@16, A?: to@30)
+2444	SVO (V: preceded@14, S: countries@12, O: it@15)	SVO (V: include@16, S: composers@2, O: Byrd@18)	SVC (S: Byrd@18, V: "is", C: Elgar@25)	SVC (S: Elgar@25, V: "is", C: Sullivan@32)
+2445	SVC (S: Williams@6, V: "is", C: Gilbert@1)	SVC (S: Britten@9, V: "is", C: pioneer@11)
+2446	SVC (C: one@6, V: is@5, S: Davies@4, A?: of@7)	SVO (S: Queen@17, V: "has", O: Music@19)
+2447	SVC (C: home@5, V: is@3, S: UK@2, A?: also@4, A?: to@6)
+2448	SVO (V: include@3, S: conductors@2, O: Rattle@6)
+2449	SVO (V: include@8, S: Some@1, O: Barry@10)
+2450	
+2451	
+2452	
+2453	
+2454	SVO (S: his@22, V: "has", O: works@24)	SVA (V: written@31, S: Handel@10, A!: in@32)
+2455	
+2456	
+2457	
+2458	
+2459	SVOO (V: achieved@20, S: Webber@18, O: success@24, IO: September@14)	SVOC (C: composer@29, V: is@26, S: Andrews@5, A?: of@30, O: inglese@4)	SVOC (C: composer@29, V: is@26, S: John@6, A?: of@30, O: inglese@4)	SVO (V: works@34, S: Handel@1, A?: all@2, CCOMP: dominated@37)	SVO (V: works@34, S: inglese@4, A?: all@2, CCOMP: dominated@37)	SVO (V: dominated@37, S: which@35, O: End@41, A?: for@42, A?: in@52)	SVO (V: travelled@49, S: which@35, O: End@41, A?: for@42, A?: to@50, A?: in@52)	SVO (S: London@38, V: "has", O: End@41)
+2460	
+2461	
+2462	
+2463	
+2464	SVC (S: Chatto@14, V: "is", C: Beatles@24)	SVO (V: have@25, S: Chatto@14, O: sales@27)	SVOC (C: act@40, V: are@34, S: Chatto@14, O: sales@27, A?: in@41)
+2465	
+2466	SVA (V: hit@4, S: Beatles@1, A!: with@5)
+2467	SVA (V: hit@4, S: Beatles@1, A!: with@5, A?: influenced@21)	SVA (V: "be influenced", S: hit@4, O: music@23, A!: over@24)	SV (V: include@29, S: hit@4)	SVO (V: have@55, S: all@52, O: sales@59)
+2468	
+2469	SVOA (V: get@4, S: legends@3, O: title@8, A!: for@9)	SVO (S: their@5, V: "has", O: title@8)
+2470	SVOA (V: get@4, S: legends@3, O: title@8, A!: for@9)	SVO (S: their@5, V: "has", O: title@8)
+2471	
+2472	SVC (C: http@15, V: be@4, S: Church@2)
+2473	
+2474	SVC (C: http@15, V: be@4, S: Church@2)
+2475	
+2476	SVO (V: honoured@4, S: John@3, A?: in@5, O: Telegraph@13)
+2477	
+2478	SVO (V: honoured@4, S: John@3, A?: in@5, O: Telegraph@13)
+2479	
+2480	SVO (V: reunite@6, S: Zeppelin@4, O: Telegraph@9)
+2481	
+2482	SVO (V: reunite@6, S: Zeppelin@4, O: Telegraph@9)	SVO (V: dies@24, S: Barrett@23, A?: at@25, O: Alleyne@15)
+2483	
+2484	
+2485	SVC (S: London@3, V: "is", C: July@5)	SVO (V: dies@17, S: Barrett@16, A?: at@18, O: Fresco@8)
+2486	
+2487	
+2488	
+2489	
+2490	SVC (S: January@3, V: "is", C: October@6)	SVOC (V: wants@17, S: Gibb@16, A-: Why@14, O: respect@19, O: www.independent.co.uk/arts-entertainment/music/features/jive-talkin-why-robin-gibb-wants-more-respect-for-the-bee-gees-826116.html@28)
+2491	SVC (S: 26@7, V: "is", C: October@8)	SVOC (V: wants@19, S: Gibb@18, A-: Why@16, O: respect@21, O: www.independent.co.uk/arts-entertainment/music/features/jive-talkin-why-robin-gibb-wants-more-respect-for-the-bee-gees-826116.html@30)
+2492	SVOC (C: British@29, V: are@28, S: eight@17, O: Records@16)	SVC (S: Quo@32, V: "is", C: Queen@34)	SVC (S: Quo@32, V: "is", C: Stones@38)	SVC (S: Quo@32, V: "is", C: UB40@40)	SVC (S: Quo@32, V: "is", C: Mode@43)	SVC (S: Quo@32, V: "is", C: Gees@47)	SVC (S: Quo@32, V: "is", C: Boys@52)
+2493	
+2494	
+2495	SVOC (V: hold@3, S: Quo@2, O: record@6, O: www.britannica.com/EBchecked/topic/58259/the-Bee-Gees@19)
+2496	SVC (S: Gees@3, V: "is", C: group@7)
+2497	SVC (S: Gees@3, V: "is", C: group@7)	SVOC (V: acts@19, S: music@18, CCOMP: had@22, O: Gees@3)	SVOC (V: acts@19, S: Encyclopedia@11, CCOMP: had@22, O: Gees@3)	SVO (V: had@22, S: that@20, O: success@24)
+2498	SVA (V: known@7, S: number@2, A!: for@8)	SVO (S: their@9, V: "has", O: music@10)
+2499	SVO (V: had@5, S: Acts@1, O: number@9)	SVC (S: singles@12, V: "is", C: 54@16)
+2500	
+2501	
+2502	SVO (S: Glasgow@27, V: "has", O: contribution@29)	SVA (V: recognised@33, S: Liverpool@13, A!: in@34, A?: named@39)	SVO (V: named@39, S: it@37, A?: when@36, O: City@42)	SVC (S: City@42, V: "is", C: one@46)	SVA (V: "be have", S: one@46, O: honour@57)
+2503	
+2504	
+2505	
+2506	
+2507	SVO (V: gets@2, S: Glasgow@1, O: city@3)	SVC (S: News@8, V: "is", C: branch@40)	SVO (V: developed@19, S: August@10, O: philosophy@24)	SVOC (C: famous@29, V: is@28, S: Kingdom@27, A?: for@30, O: philosophy@24)	SVA (V: "be verified", S: knowledge@50, A!: by@52)	SVOC (C: valid@55, V: is@54, S: knowledge@50, O: states@47)	SVA (V: referred@64, S: states@47, A?: sometimes@63, A!: to@65)
+2508	
+2509	SVC (S: Fieser@15, V: "is", C: http@22)
+2510	SVC (S: Fieser@15, V: "is", C: Bristol@20)	SVC (C: Locke@31, V: are@29, S: Sources@9)	SVC (C: exponents@50, V: were@48, S: Stewart@41, A?: of@51)
+2511	SVC (C: notable@5, V: are@3, S: Britons@2, A?: also@4, A?: for@6)	SVO (S: his@26, V: "has", O: Utilitarianism@29)
+2512	
+2513	
+2514	
+2515	
+2516	
+2517	
+2518	
+2519	
+2520	SVC (S: Scarre@30, V: "is", C: London@34)	SVO (V: preceded@53, S: Scarre@30, CCOMP: include@55)	SVO (V: include@55, S: it@54, O: Scotus@57)
+2521	
+2522	SVA (V: settled@4, S: philosophers@2, A!: in@5)	SVO (V: include@8, S: philosophers@2, O: Berlin@10)
+2523	
+2524	
+2525	
+2526	SVO (V: include@4, S: artists@3, O: Blake@9)
+2527	
+2528	
+2529	
+2530	SVC (S: attention@17, V: "is", C: group@19)	SVC (V: become@25, S: artists@22, ACOMP: known@26)	SVA (V: are@59, S: Hirst@36, A!: among@60)
+2531	SVC (C: organisation@9, V: is@6, S: Academy@3, A?: for@10)
+2532	SVO (V: include@8, S: schools@2, O: University@12)	SVO (V: includes@19, S: University@12, O: College@24)
+2533	SVC (C: centre@9, V: is@6, S: Institute@3, A?: for@10)
+2534	SVO (V: include@8, S: galleries@3, O: Gallery@11)
+2535	
+2536	
+2537	SVO (V: _@4, S: tol/arts@3, O: and_entertainment@5)
+2538	
+2539	SVO (V: _@4, S: tol/arts@3, O: and_entertainment@5)
+2540	SVO (S: thumbEngland@23, V: "has", O: Stadium@26)	SVO (V: _@27, S: success@3, O: one@28)
+2541	
+2542	SVC (C: ready@5, V: is@4, S: Stadium@3)	SVO (V: play@8, S: England@7, O: game@10, A?: in@11)
+2543	
+2544	SVC (C: ready@5, V: is@4, S: Stadium@3)	SVO (V: play@8, S: England@7, O: game@10, A?: in@11)	SVO (V: preceded@56, S: states@54, O: it@57)
+2545	SVO (V: found@4, S: poll@3, CCOMP: sport@11)	SVC (C: sport@11, V: is@7, S: football@6, A?: in@12)
+2546	
+2547	
+2548	SVO (V: represent@8, S: teams@7, A?: In@1, O: England@9)
+2549	SVA (V: referred@10, S: teams@7, A?: In@2, A!: to@11, A?: as@13)
+2550	EXISTENTIAL (V: are@3, S: occasions@4, A?: However@1, A?: including@15)	SVOO (V: represents@10, S: team@9, A?: where@5, O: Kingdom@13, IO: occasions@4)	SVO (V: represented@23, S: UK@21, A?: where@19, A?: by@24, O: Olympics@18)
+2551	SVC (C: site@4, V: was@2, S: London@1, A?: of@5)	SVC (C: become@17, V: was@2, S: London@1, A?: of@5, A?: in@14, XCOMP: city@20)	SVA (V: "be play", S: city@20, O: host@23, A!: for@24)
+2552	SVO (V: has@6, S: Each@1, O: association@10)	SVO (S: its@7, V: "has", O: association@10)	SVC (S: association@10, V: "is", C: team@13)	SVO (V: play@22, S: clubs@21, A?: outside@23, O: association@10)	SVO (S: their@24, V: "has", O: country@25)	SVO (S: country@25, V: "has", O: systems@28)
+2553	SVA (V: compete@9, S: England@1, A!: as@10)	SVA (V: compete@26, S: UK@23, A?: as@18, A!: as@27, A?: at@33)
+2554	
+2555	
+2556	SVC (S: 31@6, V: "is", C: December@7)	EXISTENTIAL (V: are@10, S: proposals@11, O: December@7)	SVA (V: "be have", S: proposals@11, CCOMP: take@17)	SVOA (V: take@17, S: team@16, O: part@18, A!: in@19)	SVOC (V: declined@35, S: 31@6, XCOMP: participate@37, XCOMP: fearing@39)	SVOC (V: declined@35, S: Sport@2, XCOMP: participate@37, XCOMP: fearing@39)	SVOC (V: undermine@43, S: it@41, O: status@46, O: fear@49)	SVO (S: their@44, V: "has", O: status@46)	SVA (V: "be confirmed", S: fear@49, A!: by@51)
+2557	
+2558	
+2559	SVC (C: successful@19, V: been@16, S: Blatter@1, A?: most@18, A?: of@20, A?: rivalry@41)	SVA (V: "be winning", S: nations@23, O: Cup@27, A!: on@28, A?: in@31)
+2560	SVA (V: invented@12, S: Stadiumopened@4, A!: in@13)
+2561	SVA (V: "be controlled", S: team@4, A!: by@7)
+2562	
+2563	
+2564	SVA (V: drawn@4, S: members@2, A!: from@5)	SVO (V: include@12, S: members@2, A?: from@5, O: English@14)
+2565	SVC (C: distinct@3, V: is@2, S: Cricket@1, A?: from@4)	SVO (V: fielded@20, S: Wales@18, O: team@23, A?: in@24)	SVO (S: its@21, V: "has", O: team@23)
+2566	SVA (V: played@6, S: players@4, A!: for@7, A?: have@14)	SVO (V: have@14, S: Scotland@11, O: status@16)	SVOC (V: started@21, S: Scotland@11, O: status@16, A?: recently@20, XCOMP: play@23)
+2567	
+2568	
+2569	
+2570	
+2571	
+2572	
+2573	SVO (V: wins@3, S: Joyce@2, CCOMP: call@5)	SVO (V: call@5, S: Ashes@4, O: Sport@8)	SVA (S: Scotland@15, V: "is in", C: England@17)	SVA (V: competed@31, S: Ireland@24, A!: at@32)
+2574	EXISTENTIAL (V: is@2, S: championship@6)	SVA (V: "be representing", S: clubs@9, O: counties@13)	SVO (V: compete@18, S: clubs@9, A?: in@7, O: championship@6)
+2575	
+2576	
+2577	
+2578	
+2579	SVC (C: sport@16, V: is@13, S: league@12, A?: in@17)
+2580	SVA (V: originates@2, S: It@1, A!: in@3)	SVA (V: played@8, S: It@1, A?: in@3, A?: generally@7, A!: in@9)
+2581	
+2582	
+2583	
+2584	
+2585	SVC (S: Ardener@40, V: "is", C: York@45)	SVO (S: Lions@56, V: "has", O: team@58)	SVO (V: competed@60, S: team@58, A?: in@61, O: York@45)	SVO (V: match@69, S: Test@68, O: games@70)	SVA (V: changed@74, S: this@73, A!: in@75)	SVO (V: competed@83, S: England@78, A?: when@77, A?: as@84, O: 2008@76)
+2586	
+2587	
+2588	SVA (V: retained@14, S: Website@2, A?: still@12, A!: as@15)
+2589	SVC (C: League@15, V: is@13, S: form@3)	EXISTENTIAL (V: are@18, S: teams@20, A?: where@16, O: League@15)
+2590	SVA (V: organised@4, S: union@2, A!: on@5)	SVC (S: organised@4, V: "is", C: each@18)
+2591	SVA (V: played@6, S: Championship@4, A!: between@7)
+2592	
+2593	
+2594	
+2595	
+2596	SVC (S: Louw@28, V: "is", C: Jaco@30)	SVC (S: Nesbit@32, V: "is", C: Johannesburg@37)	SVA (V: awarded@47, S: Nesbit@32, A!: to@48)	SVO (V: beats@55, S: any@49, O: three@58, A?: in@59)
+2597	
+2598	
+2599	SV (V: http@9, S: Nations@5)
+2600	
+2601	SVC (S: Slam@15, V: "is", C: tennis@17)	SVO (V: held@23, S: _@21, A?: June@27, O: Nations@5)	SVA (V: "be originated", S: first@35, A!: in@37, A?: between@42)
+2602	
+2603	
+2604	
+2605	
+2606	
+2607	SV (V: http@8, S: Society@4)
+2608	
+2609	
+2610	
+2611	
+2612	SVA (V: "be _", S: Championships@9, CCOMP: events@15)	SVA (V: "be held", S: events@15, A!: in@17, A?: in@19, A?: summer@23)	SVC (C: events@15, V: are@12, S: Wimbledon@11, A?: held@16)	SVC (C: regarded@26, V: are@12, S: Wimbledon@11, A?: held@16, A?: as@27)
+2613	SVC (C: one@3, V: is@2, S: Snooker@1, A?: of@4, A?: with@12)	SVO (S: UK@6, V: "has", O: exports@10)	SVA (V: "be held", S: championships@15, A!: annually@17, A?: in@18)
+2614	
+2615	
+2616	SVC (C: sports@26, V: are@23, S: China@1, A?: in@29)	SVO (V: play@46, S: expatriates@38, A?: also@45, O: them@47)
+2617	
+2618	
+2619	
+2620	
+2621	
+2622	
+2623	SVC (S: Gould@10, V: "is", C: Shinty@16)	SVC (S: Shinty@16, V: "is", C: camanachd@19)	SVOC (C: popular@22, V: is@21, S: Gould@10, A?: in@23, O: School@6)
+2624	
+2625	
+2626	
+2627	SVA (V: originated@5, S: racing@2, A!: under@6, A?: as@11)	SVC (C: popular@20, V: is@19, S: racing@2, A?: throughout@21)
+2628	SVC (V: proved@4, S: UK@2, ACOMP: successful@5, A?: in@6)
+2629	SVC (C: sport@7, V: is@2, S: Golf@1, A?: by@9, A?: in@12)
+2630	SVC (C: course@18, V: is@13, S: Club@7)	SVO (S: sport@15, V: "has", O: course@18)
+2631	
+2632	
+2633	
+2634	
+2635	
+2636	
+2637	
+2638	
+2639	
+2640	
+2641	
+2642	SVA (V: "be Tracking", S: 2009-02-05@1, O: the@3)	SVO (S: world@11, V: "has", O: course@15)	SVO (S: Links@19, V: "has", O: Course@23)	SVOC (C: Course@23, V: is@16, S: MORI@6, A?: actually@17, O: Ipsos@5)
+2643	
+2644	
+2645	
+2646	
+2647	SVA (V: plays@2, S: Links@1, A!: into@3)	SVO (V: associated@16, S: UK@13, A?: closely@15, A?: with@17, O: March@10)
+2648	SVC (S: Formula@6, V: "is", C: F1@9)	SVA (V: based@12, S: teams@2, A!: in@13)	SVO (V: won@22, S: drivers@18, O: titles@25)
+2649	SVO (V: hosted@3, S: UK@2, O: Prix@9, A?: in@10, A?: at@12)	SVC (S: Silverstone@13, V: "is", C: location@17)	SVA (V: held@23, S: Silverstone@13, A!: year@25, A?: in@26)
+2650	SVO (V: hosts@4, S: country@2, A?: also@3, O: legs@5)	SVOC (V: has@12, S: country@2, A?: also@3, O: legs@5, O: championship@18)	SVC (S: championship@18, V: "is", C: Championship@24)	SVO (S: its@13, V: "has", O: championship@18)	SVC (S: Championship@24, V: "is", C: BTCC@26)
+2651	
+2652	SVC (S: GB@3, V: "is", C: Guide@6)
+2653	
+2654	SVC (S: GB@3, V: "is", C: Guide@6)
+2655	SVA (V: Symbols@4, S: January@2, A!: of@5)	SVC (S: Symbols@4, V: "is", C: Islands@12)
+2656	SVC (C: personificationof@4, V: is@2, S: Britannia@1)
+2657	SVC (C: Flag@10, V: is@7, S: flag@2)
+2658	SVA (V: created@4, S: It@1, A?: first@3, A!: in@5, A?: by@7)	SVA (V: updated@21, S: It@1, A?: first@3, A?: in@5, A?: by@7, A!: in@22, A?: with@24)	SVO (S: Patrick@29, V: "has", O: Flag@31)
+2659	SVA (V: represented@4, S: Wales@1, A!: in@5, A?: as@9, A?: conquered@13)	SVA (V: "be include", S: redesigning@30, O: representation@36)	SV (V: ruled@43, S: possibility@28, A?: completely@42)
+2660	
+2661	
+2662	SVA (V: call@3, S: dragon@2, A!: for@4)	SVC (S: 17@12, V: "is", C: October@13)	SVO (V: Save@25, S: God@24, O: King@27, A?: replaced@34)	SVA (V: replaced@34, S: King@32, A!: with@35, A?: in@39, A?: woman@47)	SVC (C: woman@47, V: is@45, S: monarch@44, A?: whenever@42)
+2663	SVC (C: personification@5, V: is@2, S: Britannia@1, A?: of@6, A?: originating@11)	SVA (V: "be originating", S: personification@5, A!: from@12)
+2664	
+2665	
+2666	
+2667	
+2668	SVA (V: symbolised@11, S: Britannia@1, A!: as@12)	SVO (V: wearing@21, S: hair@20, O: helmet@24)
+2669	SVO (V: holds@2, S: She@1, O: trident@6, A?: bearing@11)	SVA (V: "be bearing", S: She@1, O: Flag@14)	SVO (S: Poseidon@3, V: "has", O: trident@6)
+2670	SVA (V: depicted@4, S: she@2, A?: Sometimes@1, A!: as@5)
+2671	SVA (V: associated@15, S: Britannia@11, A?: At@1, A?: often@13, A!: with@16, A?: as@20)
+2672	
+2673	SVA (V: depicted@5, S: symbol@3, A!: behind@6, A?: on@8)	SVO (V: shown@17, S: one@15, XCOMP: crowned@18)
+2674	SVA (V: used@4, S: It@1, A?: also@3, A!: as@5)
+2675	SVA (V: used@5, S: bulldog@2, A?: sometimes@4, A!: as@6)	SVA (V: associated@16, S: bulldog@2, A?: sometimes@4, A?: as@6, A!: with@17)	SVO (S: Churchill@19, V: "has", O: defiance@21)
+2676	SVA (V: "be Picturing", S: Steve@2, O: University@6)	SVA (V: "be Picturing", S: Steve@13, O: University@17)
+2677	
+2678	SVC (S: inline@7, V: "is", C: London@9)	SVO (V: collapsed@13, S: organisations@12, O: Category@14)	SVA (V: "be bordering", S: Countries@31, O: Category@36)	SV (V: am@140, S: Nordirland@139)	SVC (C: be-x-old@198, V: be@195, S: Британия@194)	SVC (S: ནའ@302, V: "is", C: ཊ@303)	SV (V: es@315, S: Βασίλειο@314)	SV (V: os@459, S: Unit@458)	SV (V: is@467, S: Ohlangeneyo@466)	SV (V: ps@735, S: Uni@734)	SVC (S: ය@869, V: "is", C: හරණය@875)	SV (V: ss@881, S: Kingdom@880)	SV (V: wuu@1040, S: Unido@1036)	SVO (V: agus@1082, S: Móire@1081, O: Éireann@1084)	SVC (C: Èireann@1121, V: is@1120, S: Mòire@1119, A?: Tuath@1123)	SVC (S: Fawr@1128, V: "is", C: Ulster-Scots@1132)

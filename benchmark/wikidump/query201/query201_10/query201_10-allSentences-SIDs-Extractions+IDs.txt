@@ -1,0 +1,109 @@
+October 2011 David Braben .jpg 	0	query201_David_Braben\S\0
+200px Braben at SingStar premiere at 2005 Cambridge game event David Braben 1964 Basford _ Nottingham Jesus College _ Cambridge Game designer , programmer and entepreneur 1984-present Katharin Dickinson David John Braben ( born 1964 , Basford _ Nottingham ) is a British computer programmer , best known for co-writing Elite , a hugely popular and influential space trading computer game , in the early 1980s . 	1	query201_David_Braben\S\1
+"a British computer programmer"	"be known"	"best for co-writing Elite in the early 1980s"	1	query201_David_Braben\P\1-0
+"a British computer programmer"	"be known"	"best"	1	query201_David_Braben\P\1-1
+"200px Braben at SingStar premiere at 2005 Cambridge game event David Braben 1964 Basford _ Nottingham Jesus College _ Cambridge Game designer"	"is a British computer programmer"	"best known for co-writing Elite in the early 1980s"	1	query201_David_Braben\P\1-2
+"200px Braben at SingStar premiere at 2005 Cambridge game event David Braben 1964 Basford _ Nottingham Jesus College _ Cambridge Game programmer"	"is a British computer programmer"	"best known for co-writing Elite in the early 1980s"	1	query201_David_Braben\P\1-3
+"200px Braben at SingStar premiere at 2005 Cambridge game event David Braben 1964 Basford _ Nottingham Jesus College _ Cambridge Game entepreneur 1984-present Katharin Dickinson David John Braben born 1964 Basford _ Nottingham"	"is a British computer programmer"	"best known for co-writing Elite in the early 1980s"	1	query201_David_Braben\P\1-4
+"200px Braben at SingStar premiere at 2005 Cambridge game event David Braben 1964 Basford _ Nottingham Jesus College _ Cambridge Game designer"	"is"	"a British computer programmer"	1	query201_David_Braben\P\1-5
+"200px Braben at SingStar premiere at 2005 Cambridge game event David Braben 1964 Basford _ Nottingham Jesus College _ Cambridge Game programmer"	"is"	"a British computer programmer"	1	query201_David_Braben\P\1-6
+"200px Braben at SingStar premiere at 2005 Cambridge game event David Braben 1964 Basford _ Nottingham Jesus College _ Cambridge Game entepreneur 1984-present Katharin Dickinson David John Braben born 1964 Basford _ Nottingham"	"is"	"a British computer programmer"	1	query201_David_Braben\P\1-7
+"200px Braben at SingStar premiere at 2005 Cambridge game event David Braben 1964 Basford _ Nottingham Jesus College _ Cambridge Game entepreneur 1984-present Katharin Dickinson David John Braben born 1964 Basford _ Nottingham"	"is"	"a British computer programmer"	1	query201_David_Braben\P\1-8
+"200px Braben at SingStar premiere at 2005 Cambridge game event David Braben 1964 Basford _ Nottingham Jesus College _ Cambridge Game entepreneur 1984-present Katharin Dickinson David John Braben born 1964 Basford _ Nottingham"	"is"	"a British computer programmer"	1	query201_David_Braben\P\1-9
+, Edge , May 22 , 2009 Braben attended Buckhurst Hill County High School in Chigwell in Essex . 	2	query201_David_Braben\S\2
+"Braben"	"attended"	"Buckhurst Hill County High School in Chigwell in Essex 2"	2009	query201_David_Braben\P\2-0
+"Braben"	"attended"	"Buckhurst Hill County High School in Chigwell in Essex Edge"	2009	query201_David_Braben\P\2-1
+"Braben"	"attended"	"Buckhurst Hill County High School in Chigwell in Essex May 22"	2009	query201_David_Braben\P\2-2
+"Braben"	"attended"	"Buckhurst Hill County High School 2"	2009	query201_David_Braben\P\2-3
+"Braben"	"attended"	"Buckhurst Hill County High School Edge"	2009	query201_David_Braben\P\2-4
+"Braben"	"attended"	"Buckhurst Hill County High School May 22"	2009	query201_David_Braben\P\2-5
+He studied Natural Sciences at Jesus College _ Cambridge . 	3	query201_David_Braben\S\3
+He studied Natural Sciences at Jesus College _ Cambridge . 	3	query201_David_Braben\S\3
+He married Katharin Dickinson in May 1993 in Cambridge . 	4	query201_David_Braben\S\4
+He married Katharin Dickinson in May 1993 in Cambridge . 	4	query201_David_Braben\S\4
+He married Katharin Dickinson in May 1993 in Cambridge . 	4	query201_David_Braben\S\4
+He married Katharin Dickinson in May 1993 in Cambridge . 	4	query201_David_Braben\S\4
+Elite was written in conjunction with Ian Bell while both were undergraduate students at Cambridge University . 	5	query201_David_Braben\S\5
+"Elite"	"was written"	"in conjunction with Ian Bell while both were undergraduate students at Cambridge University"	5	query201_David_Braben\P\5-0
+"Elite"	"was written"	"in conjunction with Ian Bell"	5	query201_David_Braben\P\5-1
+"Elite"	"was written"	"in conjunction with Ian Bell"	5	query201_David_Braben\P\5-2
+"Elite"	"was written"	"in conjunction with Ian Bell"	5	query201_David_Braben\P\5-3
+Another seminal game written by Braben was Zarch for the Acorn Archimedes ( later released on some other platforms as Virus ) , which was one of the first true " solid " 3D games . 	6	query201_David_Braben\S\6
+"Another seminal game"	"be written"	"by Braben"	6	query201_David_Braben\P\6-0
+"Another seminal game written by Braben"	"was Zarch later released on some other platforms as Virus"	"for the Acorn Archimedes"	6	query201_David_Braben\P\6-1
+"Another seminal game written by Braben"	"was"	"Zarch later released on some other platforms as Virus"	6	query201_David_Braben\P\6-2
+"Zarch for the Acorn Archimedes later released on some other platforms as Virus"	"was one"	"of the first true solid 3D games"	6	query201_David_Braben\P\6-3
+"Zarch for the Acorn Archimedes later released on some other platforms as Virus"	"was"	"one"	6	query201_David_Braben\P\6-4
+After Zarch , Braben went on to found Frontier Developments , a games development company whose first project was a sequel to Elite named Frontier . 	7	query201_David_Braben\S\7
+After Zarch , Braben went on to found Frontier Developments , a games development company whose first project was a sequel to Elite named Frontier . 	7	query201_David_Braben\S\7
+"a games development company"	"has"	"first project"	7	query201_David_Braben\P\7-0
+"a games development company first project"	"was a sequel"	"to Elite"	7	query201_David_Braben\P\7-1
+"a games development company first project"	"was"	"a sequel"	7	query201_David_Braben\P\7-2
+"a games development company"	"named"	"Frontier Frontier Developments"	7	query201_David_Braben\P\7-3
+Braben is still the Chairman and part owner of the company , whose recent projects have included Kinectimals , RollerCoaster Tycoon 3 , games based on the Wallace &amp; Gromit franchise and the platformer LostWinds , which was a launch title on Nintendo 's WiiWare download service . 	8	query201_David_Braben\S\8
+"Braben"	"is the Chairman"	"still"	8	query201_David_Braben\P\8-0
+"Braben"	"is the part owner"	"still"	8	query201_David_Braben\P\8-1
+"Braben"	"is the Chairman"	"of the company"	8	query201_David_Braben\P\8-2
+"Braben"	"is the part owner"	"of the company"	8	query201_David_Braben\P\8-3
+"Braben"	"is"	"the Chairman"	8	query201_David_Braben\P\8-4
+"Braben"	"is"	"the part owner"	8	query201_David_Braben\P\8-5
+"the company"	"has"	"recent projects"	8	query201_David_Braben\P\8-6
+"the company recent projects"	"have included"	"Kinectimals"	8	query201_David_Braben\P\8-7
+"the company recent projects"	"have included"	"RollerCoaster Tycoon 3"	8	query201_David_Braben\P\8-8
+"the company recent projects"	"have included"	"RollerCoaster Tycoon 3"	8	query201_David_Braben\P\8-9
+"the company recent projects"	"have included"	"RollerCoaster Tycoon 3"	8	query201_David_Braben\P\8-10
+"RollerCoaster Tycoon 3"	"is"	"games based on the Wallace & Gromit franchise"	8	query201_David_Braben\P\8-11
+"RollerCoaster Tycoon 3"	"is"	"games based on the Wallace & Gromit the platformer LostWinds"	8	query201_David_Braben\P\8-12
+"RollerCoaster Tycoon 3"	"is"	"games based on the Wallace & Gromit the platformer LostWinds"	8	query201_David_Braben\P\8-13
+"RollerCoaster Tycoon 3"	"is"	"games based on the Wallace & Gromit the platformer LostWinds"	8	query201_David_Braben\P\8-14
+"the platformer LostWinds"	"was a launch title"	"on Nintendo 's WiiWare download service"	8	query201_David_Braben\P\8-15
+"the platformer LostWinds"	"was"	"a launch title"	8	query201_David_Braben\P\8-16
+"the platformer LostWinds"	"was"	"a launch title"	8	query201_David_Braben\P\8-17
+thumbPanel at 2005 game event inCambridge . 	9	query201_David_Braben\S\9
+Braben is the second on the left As of 2006 , Braben was working on a game called The Outsider with Frontier Developments . 	10	query201_David_Braben\S\10
+"Braben"	"is the second"	"on the left"	10	query201_David_Braben\P\10-0
+"Braben"	"is the second"	"As of 2006"	10	query201_David_Braben\P\10-1
+"Braben"	"is"	"the second"	10	query201_David_Braben\P\10-2
+"Braben"	"is"	"the second"	10	query201_David_Braben\P\10-3
+As said in an interview , , GameSpot , Nov 22 , 2006 he was planning to start working on Elite 4 - as a space MMORPG game - as soon as The Outsider went gold . 	11	query201_David_Braben\S\11
+"As said in an interview as soon as The Outsider went gold"	"is"	"GameSpot 2006 as a space MMORPG game"	11	query201_David_Braben\P\11-0
+"GameSpot 2006 as a space MMORPG game"	"is"	"Nov 22"	11	query201_David_Braben\P\11-1
+"GameSpot 2006 as a space MMORPG game"	"is"	"Nov 22"	11	query201_David_Braben\P\11-2
+"The Outsider"	"went"	"gold"	11	query201_David_Braben\P\11-3
+Braben said explicitly that this title was of a special value to him . 	12	query201_David_Braben\S\12
+"Braben"	"said"	"explicitly that this title was of a special value to him"	12	query201_David_Braben\P\12-0
+"Braben"	"said"	"that this title was of a special value to him"	12	query201_David_Braben\P\12-1
+"this title"	"was"	"of a special value to him"	12	query201_David_Braben\P\12-2
+In May 2011 , Braben introduced a new prototype computer intended to stimulate the teaching of basic computer science in schools . 	13	query201_David_Braben\S\13
+In May 2011 , Braben introduced a new prototype computer intended to stimulate the teaching of basic computer science in schools . 	13	query201_David_Braben\S\13
+In May 2011 , Braben introduced a new prototype computer intended to stimulate the teaching of basic computer science in schools . 	13	query201_David_Braben\S\13
+In May 2011 , Braben introduced a new prototype computer intended to stimulate the teaching of basic computer science in schools . 	13	query201_David_Braben\S\13
+In May 2011 , Braben introduced a new prototype computer intended to stimulate the teaching of basic computer science in schools . 	13	query201_David_Braben\S\13
+"a new prototype computer"	"be intended"	"to stimulate the teaching of basic computer science in schools"	13	query201_David_Braben\P\13-0
+Called Raspberry Pi , the computer is mounted in a package the same size as a credit card , and has a USB plug on one end with a HDMI monitor socket on the other , and provides a ARM processor running Linux for an estimated price of about £15 GBP for a configured system , cheap enough to give to a child to do whatever he or she wants with it . 	14	query201_David_Braben\S\14
+"the computer"	"is mounted"	"in a package the same size as a credit card"	14	query201_David_Braben\P\14-0
+"a ARM processor"	"be running"	"Linux for an estimated price of about # 15 GBP for a configured system"	14	query201_David_Braben\P\14-1
+"a child"	"be do"	"whatever he wants with it"	14	query201_David_Braben\P\14-2
+"a child"	"be do"	"whatever she wants with it"	14	query201_David_Braben\P\14-3
+"a child"	"be do"	"whatever she wants with it"	14	query201_David_Braben\P\14-4
+"a child"	"be do"	"whatever she wants with it"	14	query201_David_Braben\P\14-5
+"a child"	"be do"	"whatever she wants with it"	14	query201_David_Braben\P\14-6
+"a child"	"be do"	"whatever she wants with it"	14	query201_David_Braben\P\14-7
+Rory Cellan-Jones , " " , BBC News , May 5 , 2011 The prototype is part of a venture by the Raspberry Pi Foundation , a charity whose aim is to "promote the study of computer science and related topics , especially at school level , and to put the fun back into learning computing . 	15	query201_David_Braben\S\15
+"Rory Cellan-Jones"	"is"	"May 5 2011 The prototype is part of a venture by the Raspberry Pi Foundation"	15	query201_David_Braben\P\15-0
+"Rory Cellan-Jones"	"is"	"BBC News"	15	query201_David_Braben\P\15-1
+"The prototype"	"is part"	"May 5 2011"	15	query201_David_Braben\P\15-2
+"The prototype"	"is part"	"of a venture by the Raspberry Pi Foundation"	15	query201_David_Braben\P\15-3
+"The prototype"	"is"	"part"	15	query201_David_Braben\P\15-4
+"the Raspberry Pi Foundation"	"is"	"a charity"	15	query201_David_Braben\P\15-5
+"a charity"	"has"	"aim"	15	query201_David_Braben\P\15-6
+" Braben , David John British computer programmer 1964 Basford _ Nottingham Category :1964 births Category :Living people Category :Alumni of Jesus College _ Cambridge Category :British computer programmers Category :British video game designers Category :People from Chigwell Category :Video game programmers de :David Braben fr :David Braben pl :David Braben ru:Брэбен _ Дэвид sv:David Braben 1003 David Braben 's profile David Braben on the future of video games : , BBC News , 31 December 2005 , The Guardian , 8 July 2008 , BBC News , 31 December 2005 , The Guardian , 8 July 2008 	16	query201_David_Braben\S\16
+"Braben"	"is"	"David John British computer programmer 1964 Basford _ Nottingham Category :1964 births Category Living people Category Alumni of Jesus College _ Cambridge Category British computer programmers Category British video game designers Category People from Chigwell Category Video game programmers de David Braben fr David Braben pl David Braben ru Брэбен _ Дэвид sv David Braben 1003 David Braben 's profile David Braben on the future of video games"	16	query201_David_Braben\P\16-0
+"Брэбен _ Дэвид sv David Braben 1003 David Braben 's profile David Braben on the future of video games"	"is"	"BBC News 8 July 2008"	16	query201_David_Braben\P\16-1
+"David Braben"	"has"	"1003 profile David Braben"	16	query201_David_Braben\P\16-2
+"BBC News 8 July 2008"	"is"	"BBC News"	16	query201_David_Braben\P\16-3
+"BBC News 8 July 2008"	"is"	"31 December 2005"	16	query201_David_Braben\P\16-4
+"BBC News 8 July 2008"	"is"	"The Guardian"	16	query201_David_Braben\P\16-5
+"BBC News 8 July 2008"	"is"	"8 July 2008"	16	query201_David_Braben\P\16-6
+"BBC News 8 July 2008"	"is"	"31 December 2005"	16	query201_David_Braben\P\16-7
+"BBC News 8 July 2008"	"is"	"The Guardian"	16	query201_David_Braben\P\16-8

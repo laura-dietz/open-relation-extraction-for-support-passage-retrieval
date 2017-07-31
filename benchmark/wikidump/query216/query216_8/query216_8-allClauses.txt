@@ -1,0 +1,341 @@
+0	
+1	SVA (V: "be showing", S: poster@2, O: close-up@5, A!: in@9)
+2	SVO (S: witch@2, V: "has", O: face@4)	SVA (V: seen@8, S: face@4, A!: in@9)	SVO (S: blade@11, V: "has", O: reflection@13)
+3	
+4	SVA (V: "be starring", S: film@49, O: Cage@52)	SVOC (C: film@49, V: is@43, S: $@37, A?: starring@50, O: US$@34)
+5	SVA (V: stars@2, S: Cage@1, A!: with@3, A?: as@6)	SVO (V: return@11, S: Knights@8, A?: from@12, XCOMP: find@16)	SVO (S: their@17, V: "has", O: fatherland@18)	SVA (V: ruined@19, S: fatherland@18, A!: by@20)
+6	SVO (V: accuse@4, S: elders@3, O: girl@6)	SVC (S: girl@6, V: "is", C: Foy@9)	SVOO (V: transport@26, S: knights@24, O: girl@28, A?: to@29, A?: lift@37, IO: destruction@20)	SVO (V: lift@37, S: monks@34, A?: there@35, O: curse@39, A?: from@40)	SVO (S: her@38, V: "has", O: curse@39)
+7	
+8	
+9	
+10	
+11	SVC (S: January@1, V: "is", C: http@5)
+12	
+13	
+14	
+15	SVC (S: January@1, V: "is", C: Development@5)	SVA (V: began@9, S: January@1, A!: in@10)
+16	SVA (V: purchased@3, S: Schut@1, A!: by@4)
+17	SVA (V: moved@3, S: project@2, A!: from@4, A?: to@6, A?: to@9)	SVO (V: produced@18, S: film@15, A?: where@13, A?: finally@17, A?: by@19, O: Media@11)
+18	SVOA (V: took@2, S: Filming@1, O: place@3, A!: in@5)
+19	SVA (V: released@6, S: Season@1, A!: on@7)
+20	SVO (V: received@3, S: film@2, O: reviews@5)	SVOC (C: success@12, V: was@7, S: film@2, O: reviews@5)
+21	SVA (V: "be accused", S: women@8, A!: of@10)	SVA (V: hanged@13, S: women@8, A!: by@14)
+22	SVO (V: performs@3, S: priest@2, O: ritual@5)	SVA (V: "be prevent", S: ritual@5, O: bodies@9, A!: from@10)
+23	SVO (V: takes@16, S: third@15, A?: completing@3, O: appearance@20)	SVOC (V: kills@22, S: third@15, A?: completing@3, O: appearance@20, O: priest@24)
+24	SVC (S: Bleibruck@7, V: "is", C: Cage@10)	SVC (S: Felson@13, V: "is", C: Perlman@16)	SVA (V: engaged@19, S: Bleibruck@7, A?: Meanwhile@1, A!: in@20)
+25	SVO (V: choose@17, S: knights@16, A?: After@1, XCOMP: desert@19)	SVO (V: crusade@24, S: knights@16, A?: After@1, XCOMP: desert@19, A?: to@27)
+26	SVO (V: encounter@7, S: they@6, A?: traveling@2, O: sight@10)	SVOC (V: discover@20, S: they@6, A?: traveling@2, O: sight@10, A?: soon@19, CCOMP: swept@28)	SVA (V: "be infected", S: people@12, A!: with@14)	SVA (V: swept@28, S: Empire@25, A!: by@29)
+27	SVO (V: enter@4, S: Behmen@1, O: town@7)	SVC (S: Maribor@15, V: "is", C: part@18)
+28	SVO (V: try@3, S: two@2, XCOMP: conceal@5)	SVO (V: revealed@13, S: two@2, XCOMP: conceal@5, A?: as@14)	SVO (S: their@6, V: "has", O: identity@7)	SVO (S: Behmen@20, V: "has", O: sword@22)
+29	SV (V: arrested@6, S: He@1, A-: then@5)
+30	SVA (V: taken@3, S: They@1, A!: to@4)	SVC (S: D'Ambroise@6, V: "is", C: Lee@9)	SVA (V: infected@14, S: D'Ambroise@6, A!: with@15)
+31	SVO (V: asks@3, S: Cardinal@2, O: knights@5, A?: to@6)	SVA (V: "be suspected", S: witch@10, A!: of@12)	SVA (V: plague@15, S: the@14, A!: to@16)	SVO (V: reside@26, S: group@23, A?: where@20, O: monastery@19)
+32	SVC (C: capable@4, V: are@3, S: monks@2, A?: of@5)	SVC (C: witch@13, V: is@10, S: girl@9, A?: truly@11)
+33	SV (V: found@4, S: she@2)	SVO (V: know@9, S: monks@8, A?: found@4, O: ritual@12)	SVO (V: cancel@15, S: ritual@12, O: powers@17)	SVOC (V: stop@19, S: ritual@12, O: powers@17, CCOMP: plague@21)	SVO (S: her@16, V: "has", O: powers@17)	SVO (V: devastating@24, S: that@22, O: Europe@25)
+34	SVO (V: agree@4, S: knights@3, A?: under@5, CCOMP: given@12)	SVO (V: given@12, S: she@9, O: trial@15)	SV (V: dropped@25, S: charges@19)
+35	SV (V: agrees@3, S: Cardinal@2)	SV (V: Wollenbarth@21, S: Cardinal@2)	SVO (V: set@6, S: they@5, XCOMP: accompanied@8)	SVC (S: Debelzeq@12, V: "is", C: Moore@16)	SVC (S: Wollenbarth@21, V: "is", C: Sheehan@24)	SVC (S: Wollenbarth@21, V: "is", C: boy@30)	SVO (V: wants@32, S: boy@30, XCOMP: become@34)	SVO (S: his@38, V: "has", O: father@40)	SVC (S: Eckhart@42, V: "is", C: knight@49)	SVC (S: Eckhart@42, V: "is", C: Thomsen@45)	SVO (S: knight@49, V: "has", O: family@51)	SVA (V: killed@53, S: family@51, A!: by@54)	SVC (S: Hagamar@62, V: "is", C: Graham@65)	SVA (V: serving@69, S: Hagamar@62, A!: as@70, A?: in@76)	SVO (S: their@71, V: "has", O: guide@72)
+36	SVO (V: identified@8, S: girl@6, A?: later@7, A?: as@9, O: witch@2)	SVC (S: Anna@10, V: "is", C: Foy@13)	SVO (V: shows@16, S: witch@2, O: hatred@17)	SVOC (V: forms@21, S: witch@2, O: hatred@17, O: bond@23)
+37	
+38	SVA (V: "be watch", S: volunteers@2, O: witch@6, A!: for@7)
+39	SVC (V: comes@6, S: Debelzeq@5, A?: After@1, XCOMP: relieve@8)	SVO (V: decides@12, S: Eckhart@9, XCOMP: remain@14)
+40	SVO (V: tells@2, S: He@1, O: Debelzeq@3, A?: about@4)	SVO (S: his@5, V: "has", O: daughter@6)	SVO (V: resembled@10, S: daughter@6, O: Anna@11)
+41	SVC (V: gets@3, S: Eckhart@2, A?: When@1, XCOMP: leave@6)	SVC (V: becomes@9, S: Anna@8, A?: gets@3, ACOMP: hysterical@10, A?: at@11)
+42	SVO (V: attacks@2, S: She@1, O: him@3)	SVOC (V: grabs@5, S: She@1, O: him@3, O: key@7, A?: to@8)	SVO (S: his@6, V: "has", O: key@7)
+43	SV (V: escapes@2, S: She@1)	SVA (V: flees@4, S: She@1, A!: toward@5)
+44	SVO (S: her@4, V: "has", O: leads@5)	SVOO (V: has@15, S: Eckhart@14, A?: where@13, O: visions@16, IO: grave@11)	SVO (S: his@18, V: "has", O: daughter@20)
+45	SVA (V: "be Running", S: he@6, A!: after@2)	SVO (V: impales@7, S: he@6, A?: Running@1, O: himself@8, A?: on@9)	SVO (V: dies@14, S: he@6, A?: Running@1, O: himself@8, A?: on@9)	SVO (S: Kay@10, V: "has", O: sword@12)
+46	SVO (V: recapture@3, S: they@2, A?: When@1, O: her@4)	SVO (V: explains@9, S: Anna@8, A?: recapture@3, CCOMP: ran@13)	SVA (V: ran@13, S: she@11, A?: only@12, A!: away@14, A?: for@15)
+47	SVC (V: become@4, S: group@3, A?: However@1, XCOMP: trusting@6)
+48	SVOC (V: manage@3, S: group@2, XCOMP: cross@5, XCOMP: showing@28)	SVOO (V: saves@14, S: Anna@13, A?: during@11, O: Kay@15, A?: from@16, IO: bridge@9)	SVO (S: his@19, V: "has", O: death@20)
+49	SVO (V: enter@3, S: group@2, O: forest@6)	SVA (V: "be called", S: forest@6)	SVA (V: "be kill", S: attempts@12, O: Anna@15, A!: go@20)	SVC (V: go@20, S: group@18, A?: home@21, XCOMP: stopped@26)
+50	SVC (V: appears@2, S: Anna@1, XCOMP: summon@4)	SVO (V: chase@8, S: wolves@5, O: group@10)	SVOC (V: kill@12, S: wolves@5, O: group@10, O: Hagamar@13)
+51	SVO (V: tries@4, S: Behmen@3, XCOMP: kill@6)	SVO (V: stopped@11, S: Behmen@3, XCOMP: kill@6, A?: by@12)	SVO (V: point@18, S: Debelzeq@13, CCOMP: is@23)	SVA (V: is@23, S: monastery@22, A!: in@24)
+52	SVA (V: "be Arriving", S: men@7, A!: at@2)	SVO (V: find@8, S: men@7, A?: Arriving@1, CCOMP: killed@15)	SVA (V: killed@15, S: all@9, A!: by@16)	SVC (S: Solomon@24, V: "is", C: book@28)	SVA (V: "be filled", S: book@28, A!: with@30)	SVA (V: "be used", S: rituals@32, XCOMP: defeat@35)
+53	SVO (V: confront@3, S: men@2, CCOMP: beginning@8)	SVO (V: beginning@8, S: Anna@4, XCOMP: perform@10)	SVA (V: "be used", S: ritual@12, A!: on@14)
+54	SVO (V: begins@5, S: Anna@4, O: stories@8)	SVO (S: Behmen@10, V: "has", O: past@12)	SVA (V: comes@15, S: Debelzeq@14, A?: However@1, A?: begins@5, A!: to@16)	SVC (C: witch@24, V: is@21, S: she@20)	SVC (C: begins@27, V: is@21, S: she@20, XCOMP: performing@29)
+55	SVO (V: possessing@7, S: demon@4, O: Anna@8)	SVO (V: reveals@9, S: demon@4, A?: However@1, O: itself@10)	SVOC (V: melts@12, S: demon@4, A?: However@1, O: itself@10, O: metal@14)
+56	SVO (V: fights@4, S: demon@2, A?: effortlessly@3, O: knights@7)	SVO (V: throws@12, S: Debelzeq@11, A?: when@10, O: vial@14, A?: on@18)	SVA (V: flies@22, S: it@21, A?: throws@12, A!: out@23)
+57	SVA (V: come@10, S: they@9, A?: As@1, A!: to@11)	SVO (V: trying@23, S: they@9, A?: As@1, A?: to@11, XCOMP: destroy@25)	SVO (V: trying@18, S: it@15, XCOMP: escape@20)	SVO (V: stop@32, S: nothing@30, O: it@33)
+58	SVO (V: find@3, S: they@2, A?: When@1, O: room@5)	SVOO (V: writing@10, S: monks@8, A?: where@6, O: copies@11, IO: room@5)	SV (V: appears@18, S: demon@17, A?: find@3)	SVO (S: monks@27, V: "has", O: bodies@29)	SVA (V: "be use", S: bodies@29, A!: as@32)
+59	SVO (V: fight@4, S: men@3, O: monks@7, A?: continues@10)	SVO (V: continues@10, S: Debelzeq@9, O: ritual@13)
+60	SVO (V: kills@7, S: demon@6, A?: During@1, O: Debelzeq@8)
+61	SVO (V: picks@2, S: Kay@1, O: book@5, A?: continues@13)	SVOC (V: continues@7, S: Kay@1, O: book@5, O: ritual@9, A?: continues@13)	SVO (V: continues@13, S: Behmen@12, XCOMP: fighting@14)
+62	SVA (V: wounded@4, S: Behmen@1, A?: mortally@3, A!: during@5)	SVC (C: able@12, V: is@11, S: Kay@10, XCOMP: finish@14)	SVO (V: obliterated@21, S: demon@19, XCOMP: freeing@23)
+63	SVOC (V: asks@2, S: Behmen@1, O: Kay@3, XCOMP: keep@5)	SV (V: safe@7, S: Anna@6)	SVO (S: his@12, V: "has", O: wounds@13)
+64	SVO (V: bury@4, S: Kay@1, O: friends@7)	SVO (S: their@5, V: "has", O: friends@7)
+65	SVOC (V: tell@5, S: Kay@4, O: requests@2, O: her@6)	SVO (V: saved@11, S: men@9, O: her@12)
+66	SVA (V: depart@2, S: They@1, A!: from@3, A?: with@6)
+67	SVOA (V: took@6, S: thumbnailrightPart@1, O: place@7, A!: in@8)
+68	SVO (V: wrote@2, S: Schut@1, O: Season@3, A?: as@7)	SVA (V: placed@13, S: script@10, A!: on@14, A?: in@18)
+69	SVO (V: collaborated@15, S: bid@3, A?: with@16, XCOMP: place@21)
+70	
+71	
+72	
+73	
+74	
+75	
+76	SVC (S: January@2, V: "is", C: January@6)	SVC (S: January@2, V: "is", C: MGM@10)	SVOO (V: find@13, S: January@2, O: traction@14, XCOMP: produce@16, IO: CraveOnline@1)	SVA (V: obtained@30, S: studio@26, A?: in@21, A?: essentially@29, A!: by@31)
+77	SVO (V: earmarked@3, S: Pictures@2, O: properties@5, A?: for@6)
+78	
+79	
+80	
+81	
+82	SVC (S: January@1, V: "is", C: January@5)	SVOC (V: worked@11, S: producers@10, A?: with@12, XCOMP: perform@17, O: January@1)
+83	SVOC (V: sought@2, S: They@1, O: castle@6, XCOMP: use@8)	SVA (V: "be visited", S: castles@16, A!: in@18)	SVO (V: fit@28, S: castles@16, O: period@30)
+84	SVA (V: moved@12, S: project@10, A?: eventually@11, A!: to@13)	SVO (V: attached@21, S: Sena@18, A?: officially@20, XCOMP: direct@23)
+85	SVA (V: led@5, S: discussions@4, A!: to@6)	SVO (V: see@21, S: audience@19, O: it@22)
+86	SVA (V: considered@5, S: Cage@3, A!: for@6)	SVC (C: unavailable@12, V: was@11, S: Cage@3, A?: for@6, A?: during@13)
+87	SVC (V: became@3, S: Cage@1, A?: eventually@2, ACOMP: available@4, A?: in@5)	SVC (V: cast@9, S: Cage@1, A?: eventually@2, ACOMP: available@4, A?: in@5, A?: in@10)
+88	SVO (V: explained@2, S: He@1, O: interest@4)	SVO (S: his@3, V: "has", O: interest@4)	SVOC (V: wanted@8, S: I@7, CCOMP: explained@2, XCOMP: make@10)	SVOC (V: classics@27, S: I@7, CCOMP: explained@2, XCOMP: make@10)	SVO (V: celebrated@13, S: movies@11, O: actors@14)	SVC (C: unafraid@30, V: are@29, S: classics@27, XCOMP: explore@32)
+89	SVO (V: began@4, S: crew@3, O: production@5, A?: finished@9)	SVO (V: finished@9, S: Cage@8, A?: immediately@6, O: Lieutenant@11)
+90	SVO (V: had@3, S: film@2, O: budget@5)	SVA (V: covered@18, S: much@13, A!: by@19, A?: with@21)
+91	
+92	
+93	SVO (V: battle@27, S: mean@18, A?: at@28, O: www.webcitation@41)
+94	
+95	
+96	
+97	SVO (V: battle@27, S: mean@18, A?: at@28, O: www.webcitation@41)
+98	
+99	SVOO (V: took@6, S: Filming@5, O: place@7, A?: in@8, IO: January@1)
+100	SVOA (V: took@6, S: Most@1, O: place@7, A!: in@8, A?: with@12)	SVA (V: "be committed", S: days@14, A!: to@16)
+101	SVA (V: completed@4, S: photography@2, A!: by@5)	SV (V: http@11, S: photography@2, A?: by@5)
+102	
+103	SVO (S: Discontent@9, V: "has", O: April@12)	SVC (S: =@2, V: "is", C: http@18)
+104	
+105	SVA (V: "be direct", S: =@2, O: April@12)	SVO (S: Discontent@9, V: "has", O: April@12)
+106	
+107	
+108	SVA (V: starred@5, S: Cage@2, A!: together@6, A?: as@7)	SVC (S: Bleibruck@21, V: "is", C: knight@25)	SVO (V: returns@27, S: knight@25, A?: from@28, XCOMP: discover@32)	SVA (V: "be caused", S: devastation@34, A!: by@36)
+109	SVA (V: worked@4, S: actor@2, A!: with@5, A?: on@9)	SVC (S: Seconds@13, V: "is", C: 2000@15)	SVC (S: Angels@25, V: "is", C: 1998@27)
+110	
+111	SVC (S: Interview@3, V: "is", C: Season@5)
+112	SVC (S: January@1, V: "is", C: http@11)
+113	SVC (S: Interview@3, V: "is", C: Season@5)
+114	SVC (C: interested@11, V: was@10, S: Cage@9, A?: in@12, XCOMP: having@21)	SVO (S: film@14, V: "has", O: matter@18)	SVO (S: Sorcerer@26, V: "has", O: Apprentice@28)
+115	
+116	
+117	
+118	
+119	SVC (V: gets@2, S: Cage@1, XCOMP: live@4)	SVC (S: January@12, V: "is", C: January@16)	SVA (V: "be saying", S: January@12)	SVC (S: January@12, V: "is", C: 2011@19)	SVOO (V: described@22, S: He@20, A?: also@21, O: Behmen@23, A?: as@24, IO: 2011@19)	SVO (V: admired@36, S: I@35, CCOMP: gets@2)
+120	SVA (V: "be breaking", S: idea@2, A!: from@6)	SVA (V: forced@11, S: idea@2, A!: upon@12)	SVO (V: finding@17, S: idea@2, A?: upon@12, A?: still@16, O: connection@21)	SVO (S: his@23, V: "has", O: faith@24)
+121	SVO (V: made@7, S: elements@3, XCOMP: interesting@10)	SVA (V: interesting@10, S: him@8, A?: very@9, A!: to@11)
+122	SVO (V: learned@7, S: Cage@6, A?: For@2, O: horseback@8)	SVA (V: "be riding", S: horseback@8, A!: from@10)	SVO (S: her@14, V: "has", O: team@15)
+123	SVO (V: worked@3, S: Cage@1, A?: also@2, A?: with@4, XCOMP: learn@9)
+124	SVO (V: plays@2, S: Perlman@1, O: Felson@3)	SVC (S: Felson@3, V: "is", C: knight@6)	SVC (C: friend@12, V: is@8, S: knight@6, A?: during@16)	SVO (S: Behmen@9, V: "has", O: friend@12)
+125	SVO (V: said@2, S: Perlman@1, A?: of@3, CCOMP: love@10)	SVO (V: love@10, S: I@9, O: character@12)
+126	SVC (C: comfortable@5, V: 'm@2, S: I@1, A?: actually@3, A?: more@4, CCOMP: sidekick@8, A?: blamed@15)	SVA (V: blamed@15, S: I@11, A!: disaster@21)	SVC (C: disaster@21, V: is@18, S: it@17)
+127	SV (V: liked@3, S: I@1, A?: really@2)
+128	SVO (S: his@1, V: "has", O: mindset@2)	SVO (V: liked@5, S: I@4, O: irreverence@7)	SVO (S: his@6, V: "has", O: irreverence@7)
+129	SVC (C: guy@10, V: 's@8, S: he@7, A?: In@1)	SVO (V: thinks@12, S: guy@10, CCOMP: bullshit@16)	SVC (C: bullshit@16, V: 's@14, S: it@13)
+130	SVA (V: 's@2, S: He@1, A!: in@4, A?: for@6)
+131	
+132	SVC (S: Perlman@6, V: "is", C: reuters.com@14)
+133	SVC (S: January@2, V: "is", C: January@6)	SVC (S: January@2, V: "is", C: http@12)
+134	SVC (S: Perlman@6, V: "is", C: reuters.com@14)
+135	SVC (S: January@2, V: "is", C: January@6)	SVC (S: January@2, V: "is", C: Perlman@10)	SVOO (V: described@11, S: January@2, O: religion@14, IO: Reuters@1)	SVO (S: Felson@12, V: "has", O: religion@14)	SVO (V: has@19, S: Behmen@18, O: idea@23)	SVO (S: his@25, V: "has", O: relationship@26)	SVO (V: has@37, S: Reuters@1, A?: has@19, O: none@38)	SVO (V: has@37, S: Felson@36, A?: has@19, O: none@38)
+136	SVO (V: bother@4, S: He@1, XCOMP: spend@6)	SVA (V: "be thinking", S: time@8, A!: about@10)
+137	
+138	
+139	SVOC (V: Explores@7, S: Season@2, O: Paranormal@10, O: Cage@14)	SV (V: Says@15, S: mtv.com@16)	SV (V: Says@15, S: Explores@7)
+140	SVC (S: January@2, V: "is", C: January@6)	SVC (S: January@2, V: "is", C: http@12)
+141	
+142	SVOC (V: Explores@7, S: Season@2, O: Paranormal@10, O: Cage@14)	SV (V: Says@15, S: mtv.com@16)	SV (V: Says@15, S: Explores@7)
+143	SVC (S: January@2, V: "is", C: January@6)	SVC (S: January@2, V: "is", C: Foy@10)	SVA (V: appears@11, S: MTV@1, A!: in@12)	SVA (V: appears@11, S: January@2, A!: in@12)	SVO (S: her@13, V: "has", O: debut@15)	SVA (V: accused@21, S: girl@18, A!: of@22)
+144	SVO (S: her@3, V: "has", O: role@5)	SVA (V: "be Known", S: she@13, A!: for@2)	SVO (V: met@14, S: she@13, A?: Known@1, O: Sena@15)	SVOC (V: sought@17, S: she@13, A?: Known@1, O: Sena@15, O: role@19, A?: in@20)
+145	SVOC (V: explained@2, S: She@1, O: choice@4, CCOMP: role@12)	SVC (C: role@12, V: 's@8, S: It@7, A?: quite@9)	SVO (V: does@16, S: character@15, O: lot@18)
+146	
+147	SVC (C: something@3, V: was@2, S: That@1)	SVO (V: thought@5, S: I@4, O: something@3)	SVC (C: good@9, V: be@8, S: something@3, A?: obviously@7, XCOMP: do@11)
+148	
+149	
+150	
+151	
+152	
+153	SVC (S: January@2, V: "is", C: January@6)	SVC (S: January@2, V: "is", C: S.T.@11)
+154	
+155	
+156	
+157	
+158	SVC (S: January@2, V: "is", C: January@6)	SVOO (V: researched@11, S: Foy@10, O: witchcraft@12, A?: for@16, IO: January@2)
+159	SVO (V: described@2, S: She@1, O: appeal@4)	SVO (S: its@3, V: "has", O: appeal@4)	SVO (V: making@12, S: character@9, CCOMP: happen@14)	SV (V: happen@14, S: things@13)
+160	SVA (V: is@9, S: character@7, A!: completely@10, A?: in@11)
+161	EXISTENTIAL (V: is@2, S: nothing@3)	SVO (V: know@8, S: she@5, O: that@4)
+162	SVC (C: surprise@4, V: is@2, S: Nothing@1)
+163	SVC (C: able@4, V: is@3, S: she@2, XCOMP: deal@6)	SVO (V: arises@12, S: situation@10, O: way@14)	SVO (V: sees@17, S: she@16, O: fit@18)
+164	SVO (V: think@3, S: I@2, CCOMP: refreshing@7)	SVC (C: refreshing@7, V: was@5, S: that@4, A?: quite@6, XCOMP: able@10)	SVC (C: beholden@19, V: was@16, S: character@14, A?: entirely@18, A?: to@20)
+165	
+166	
+167	
+168	
+169	SVC (S: December@3, V: "is", C: January@7)	SVC (S: December@3, V: "is", C: http@11)
+170	
+171	
+172	
+173	SVC (S: December@3, V: "is", C: January@7)	SVC (S: December@3, V: "is", C: 2011@10)	SVOO (V: designed@19, S: Studio@18, O: demon@21, IO: December@3)	SVA (V: manifests@23, S: demon@21, A!: in@24)	SVO (S: film@26, V: "has", O: denouement@28)
+174	SVO (V: researched@4, S: directors@3, O: woodcuts@5, A?: for@9)
+175	SVO (V: requested@3, S: filmmakers@2, O: entity@5)	SVO (V: crew@16, S: filmmakers@2, O: entity@5, A?: designed@17)	SVA (V: "be designed", S: crew@16, O: demon@19)	SVC (S: demon@19, V: "is", C: ankle@28)	SVO (V: had@21, S: demon@19, O: feet@24)
+176	SVO (S: demon@6, V: "has", O: wings@8)	SVC (C: challenge@12, V: was@9, S: effects@3, A?: tend@15)	SVO (V: tend@15, S: wings@14, XCOMP: get@17)
+177	SVO (V: requested@4, S: filmmakers@2, A?: also@3, O: holes@5)	SVO (S: demon@8, V: "has", O: wings@10)
+178	SVO (V: designed@3, S: crew@2, O: holes@4)	SVC (V: appeared@6, S: holes@4, ACOMP: worn@7)	SVO (V: require@15, S: holes@13, O: effect@19)
+179	
+180	
+181	SVC (S: January@4, V: "is", C: January@8)	SVC (S: January@4, V: "is", C: http@14)
+182	
+183	SVC (S: January@4, V: "is", C: January@8)	SVC (S: January@4, V: "is", C: demon@13)	SVOC (V: designed@16, S: January@4, A?: also@15, XCOMP: have@18, O: Network@3)	SVO (V: presented@24, S: skin@21, O: crew@26)	SVO (S: film@31, V: "has", O: settings@34)
+184	SVO (S: Tippett@1, V: "has", O: Clark@4)	SVO (V: said@5, S: Clark@4, CCOMP: played@9)	SVO (V: played@9, S: We@8, O: skin@11, A?: like@12)
+185	SVO (S: crew@3, V: "has", O: shot@8)	SVC (C: death@11, V: was@9, S: shot@8, A?: of@12)	SVO (V: researched@18, S: they@17, O: films@20, A?: for@23)	SVO (S: demons@25, V: "has", O: deaths@27)	SV (V: designed@30, S: deaths@27, A?: how@24)
+186	SVO (V: drew@2, S: They@1, O: inspiration@3)	SVC (S: Hellboy@5, V: "is", C: 2004@7)	SVO (V: focused@11, S: they@10, A?: where@9, A?: on@12, O: Hellboy@5)	SVO (S: demon@17, V: "has", O: death@19)
+187	SVO (V: said@2, S: Clark@1, CCOMP: built@6)	SVO (V: built@6, S: We@5, O: it@7, A?: over@8, A?: happen@18)	SVA (V: happen@18, S: it@14, A?: just@17, A!: in@19)
+188	SVO (V: had@2, S: We@1, O: patches@4)	SVO (V: start@9, S: demon@7, XCOMP: crack@11)	SVA (V: looks@18, S: glow@16, A!: burning@22)	SVA (V: burning@22, S: it@20, A!: from@23)
+189	SVA (V: "be released", S: Season@4, A!: on@11)	SVO (V: decided@26, S: studio@25, XCOMP: pull@28)
+190	
+191	
+192	SVO (S: Lionsgate@4, V: "has", O: Witch@7)	SVC (S: February@14, V: "is", C: http@20)
+193	
+194	SVO (S: Lionsgate@4, V: "has", O: Witch@7)	SVOO (V: had@20, S: Lionsgate@18, A?: originally@19, O: deal@23, IO: Variety@13)	SVO (V: formed@32, S: Relativity@30, O: marketing@35, A?: in@39)	SVO (S: its@33, V: "has", O: marketing@35)	SVO (V: chose@43, S: Relativity@42, A?: formed@32, XCOMP: release@45)	SVO (S: film@55, V: "has", O: date@59)
+195	
+196	
+197	SVC (S: Season@7, V: "is", C: http@19)	SVO (S: dates@5, V: "has", O: Season@7)
+198	
+199	SVO (S: dates@5, V: "has", O: Season@7)	SVC (S: Season@7, V: "is", C: Season@17)	SVO (S: Relativity@22, V: "has", O: production@26)	SVC (C: production@26, V: was@21, S: Season@7)
+200	
+201	
+202	SVO (S: tops@7, V: "has", O: Potter@9)
+203	SVC (S: December@2, V: "is", C: http@8)
+204	
+205	SVO (S: tops@7, V: "has", O: Potter@9)
+206	SVA (V: "be citing", S: Variety@1, O: elements@37)	SVC (S: December@2, V: "is", C: Season@6)	SVOO (V: rated@15, S: December@2, O: guidance@19, IO: Variety@1)
+207	
+208	
+209	
+210	
+211	SVO (V: edited@13, S: studio@12, O: film@15)
+212	SVOO (V: gave@3, S: MPAA@2, IO: film@5, O: rating@8, A?: as@13)
+213	
+214	
+215	SVO (S: Angry@16, V: "has", O: boxofficemojo.com@18)
+216	SVC (S: November@4, V: "is", C: January@8)	SVC (S: November@4, V: "is", C: http@14)
+217	
+218	SVO (S: Angry@16, V: "has", O: boxofficemojo.com@18)
+219	SVC (S: November@4, V: "is", C: January@8)	SVOO (V: had@14, S: film@13, O: premiere@17, A?: on@22, IO: November@4)	SVO (S: its@15, V: "has", O: premiere@17)
+220	
+221	
+222	
+223	
+224	SVO (V: released@13, S: film@11, A?: commercially@14, A?: on@15, O: January@6)
+225	
+226	
+227	SVC (S: May@11, V: "is", C: http@15)
+228	
+229	SVO (V: indicated@18, S: polling@16, O: May@11)	SV (V: were@21, S: core@23)
+230	SVO (V: anticipated@2, S: Experts@1, CCOMP: gross@7)	SVO (V: gross@7, S: film@5, O: US$@8, A?: on@11)	SVO (S: its@12, V: "has", O: weekend@14)
+231	
+232	
+233	SVO (S: Cage@32, V: "has", O: Season@35)	SVA (V: "be Poised", S: Witch@38, A!: for@41)	SVO (V: released@55, S: film@53, A?: in@56, O: January@48)
+234	SVO (V: grossed@2, S: It@1, O: $@3)
+235	SVA (V: released@19, S: Grit@11, A!: at@20)
+236	
+237	
+238	
+239	SVC (S: January@2, V: "is", C: http@8)
+240	
+241	
+242	SVO (S: Media@7, V: "has", O: polling@10)	SVO (V: showed@11, S: Variety@1, CCOMP: male@18)	SVO (V: showed@11, S: polling@10, CCOMP: male@18)	SVC (C: male@18, V: was@15, S: audience@14)	SVC (C: old@26, V: were@23, S: %@22, A?: years@25)
+243	
+244	
+245	SVO (V: Captures@8, S: Grit@6, O: boxofficemojo.com@10)
+246	SVC (S: January@4, V: "is", C: January@8)	SVC (S: January@4, V: "is", C: http@14)
+247	
+248	SVO (V: Captures@8, S: Grit@6, O: boxofficemojo.com@10)
+249	SVC (S: January@4, V: "is", C: January@8)	SVC (S: January@4, V: "is", C: Times@14)	SVO (V: reported@15, S: Box@1, CCOMP: nonwhite@28)	SVO (V: reported@15, S: January@4, CCOMP: nonwhite@28)	SVC (C: nonwhite@28, V: was@27, S: %@23)
+250	
+251	
+252	SVC (C: No@9, V: is@8, S: Grit@6)
+253	SVC (S: January@12, V: "is", C: http@18)
+254	
+255	SVC (C: No@9, V: is@8, S: Grit@6)
+256	SVC (S: January@12, V: "is", C: Weekly@17)	SVOC (V: reported@18, S: January@12, CCOMP: s@28, O: 1@1)	SVO (V: s@28, S: diversity@22, CCOMP: common@31)	SVC (C: common@31, V: was@30, S: audiences@29, A?: for@32)	SV (V: was@38, S: %@40)
+257	
+258	
+259	SVC (S: $@15, V: "is", C: January@24)	SVOO (V: gave@33, S: audiences@32, O: film@35, IO: $@15)
+260	
+261	
+262	SVOC (V: Dethrones@5, S: Grit@3, O: Fockers@7, A?: to@9, A?: With@14, O: Way@44)	SVOC (V: performed@34, S: Grit@3, O: Fockers@7, A?: to@9, A?: With@14, A?: better@35, O: Way@44)	SVOC (C: release@30, V: was@27, S: Reporter@20, A?: by@31, O: Million@17)	SVO (S: its@37, V: "has", O: release@39)	SVO (S: Warrior@42, V: "has", O: Way@44)	SVC (S: Way@44, V: "is", C: 2010@46)
+263	SVC (C: lowest@7, V: was@4, S: weekend@3, A?: of@8)	SVO (S: Cage@10, V: "has", O: career@12)	SVC (C: better@16, V: was@15, S: it@14, A?: than@17)	SVC (S: Man@20, V: "is", C: 2006@22)	SVC (S: Dangerous@31, V: "is", C: 2008@33)
+264	SVO (V: grossed@5, S: Season@1, O: $@6)
+265	
+266	
+267	
+268	SVO (V: released@16, S: Entertainment@5, O: film@18, A?: on@19, A?: on@23)
+269	
+270	
+271	SVO (V: revealed@5, S: Entertainment@3, O: details@6)
+272	
+273	SVO (V: revealed@5, S: Entertainment@3, O: details@6)	SVOO (V: holds@26, S: April@16, O: on-demand@29, A?: under@37, IO: Woodward@15)	SVO (S: Fox@38, V: "has", O: deal@41)
+274	SVA (V: reported@11, S: Reuters@10, A!: that@12)
+275	SVA (V: wondering@3, S: critics@2, A!: hit@9)	SVC (C: hit@9, V: be@7, S: it@5)	SVC (C: miss@11, V: be@7, S: it@5, A?: for@12)	SVC (S: actor@14, V: "is", C: Cage@16)	SVO (V: divides@19, S: actor@14, O: audiences@20)	SVOC (V: exasperates@22, S: actor@14, O: audiences@20, O: fans@27)	SVO (S: his@24, V: "has", O: fans@27)
+276	
+277	
+278	
+279	
+280	SVA (V: "be reviewed", S: critics@7, O: film@10)	SVOC (V: said@13, S: Reuters@12, A?: When@6, A?: critics@7, CCOMP: won@15, O: January@2)	SVO (V: won@15, S: it@14, O: scorn@19)
+281	
+282	
+283	
+284	
+285	SVC (S: January@2, V: "is", C: January@6)	SVC (S: January@2, V: "is", C: 2011@9)	SVOC (V: said@18, S: critics@17, CCOMP: reason@24, O: January@2)	SVC (C: reason@24, V: was@21, S: Cage@20, CCOMP: waste@36)	SVC (C: waste@36, V: is@30, S: romp@29, A?: of@37)
+286	
+287	
+288	
+289	
+290	SVC (S: January@13, V: "is", C: January@17)	SVC (S: January@13, V: "is", C: Tomatoes@24)	SVOO (V: gives@25, S: Mass@2, A?: of@6, IO: film@27, O: score@29)	SVOO (V: reports@40, S: Mass@2, A?: of@6, IO: film@27, O: score@29, O: average@43)	SVOO (V: gives@25, S: Los@10, A?: of@6, IO: film@27, O: score@29)	SVOO (V: reports@40, S: Los@10, A?: of@6, IO: film@27, O: score@29, O: average@43)	SVOO (V: gives@25, S: January@13, A?: of@6, IO: film@27, O: score@29)	SVOO (V: reports@40, S: January@13, A?: of@6, IO: film@27, O: score@29, O: average@43)	SVA (V: "be based", S: score@29, A!: on@34)
+291	
+292	SVO (V: reported@2, S: It@1, O: consensus@5)	SVO (V: fails@19, S: Season@15, CCOMP: reported@2, A?: even@20)
+293	
+294	SVO (V: Reviews@6, S: Season@1, O: February@9)	SVC (S: February@9, V: "is", C: http@13)
+295	SVO (V: Reviews@6, S: Season@1, O: February@9)	SVO (V: assigns@17, S: February@9, O: score@21, A?: out@22, A?: to@25)	SVOO (V: received@33, S: film@32, O: score@36, IO: February@9)
+296	
+297	
+298	SVO (V: say@13, S: Season@1, CCOMP: fare@22)	SVC (C: fare@22, V: is@18, S: Season@14, A?: with@24)
+299	SV (V: =@6, S: |@4, A?: first@5)
+300	SVO (V: Cast@13, S: Season@7, XCOMP: =@18)	SVO (V: =@18, S: work@17, O: rottentomatoes.com@19)
+301	SVOC (V: |@6, S: Tomatoes@5, CCOMP: called@29, O: =@3)	SVO (V: called@29, S: Lemire@28, O: Season@30)	SVC (C: thrilling@43, V: 's@40, S: thriller@38, A?: actually@42)
+302	SV (V: wrote@2, S: She@1)	SVC (C: drab@8, V: is@7, S: scenery@6)	SVC (C: interchangeable@13, V: are@12, S: battles@11)	SVC (V: seems@18, S: one@17, ACOMP: interested@20, A?: in@21)
+303	
+304	SVA (V: goes@3, S: flat-out@2, A!: for@4, A?: in@6)
+305	SVO (V: left@4, S: we@2, O: What@1, A?: with@5)	SVC (C: bloated@8, V: is@6, S: left@4, A?: just@7)
+306	SVOC (V: found@4, S: critic@3, O: Cage@5, XCOMP: utilized@11)	SVOC (V: said@13, S: critic@3, O: Cage@5, XCOMP: utilized@11, A?: of@14)	SVO (S: film@16, V: "has", O: progression@18)	SVC (C: slog@24, V: 's@22, S: It@21, A?: from@25, A?: to@28, A?: with@32)	SVO (V: plays@45, S: witch@44, O: coy@46, A?: about@47)	SVC (C: witch@53, V: 's@50, S: she@49, A?: actually@51)	SVC (C: pouting@55, V: 's@50, S: she@49, A?: actually@51, A?: bangs@58)	SVC (S: witch@53, V: "is", C: style@63)	SV (V: bangs@58, S: her@57)
+307	
+308	SVC (C: Bad@13, V: Is@10, S: Season@5, A-: Even@12, A?: in@14)
+309	SVC (S: January@3, V: "is", C: http@9)
+310	SVC (C: Bad@13, V: Is@10, S: Season@5, A-: Even@12, A?: in@14)
+311	SVC (S: January@3, V: "is", C: Barker@8)	SV (V: said@11, S: January@3)	SVC (C: fun@31, V: been@29, S: film@26, A?: more@30, A?: had@34)	SVO (V: had@34, S: it@33, O: sense@36)
+312	SVO (V: called@2, S: He@1, O: film@4)	SVO (V: competent@15, S: He@1, O: film@4, A?: nearly@14, A?: enough@16, A?: for@17)
+313	SVO (S: film@3, V: "has", O: value@6)	SVO (S: he@8, V: said@9, O: are@20)	SVA (V: are@20, S: photography@14, A?: Of@1, A!: of@21)	SVC (C: not@34, V: are@31, S: effects@30, A?: decidedly@33)
+314	
+315	
+316	SVC (S: January@6, V: "is", C: http@10)
+317	
+318	SVC (S: January@1, V: "is", C: http@7)
+319	
+320	SVC (S: January@6, V: "is", C: http@10)
+321	
+322	SVC (S: January@1, V: "is", C: Huddleston@6)	SVA (V: wrote@11, S: January@1, A!: Despite@14)	SVO (S: its@15, V: "has", O: face@18)	SVC (C: romp@29, V: is@26, S: Season@21, A?: through@30)	SV (V: moving@49, S: things@48)
+323	SVO (V: criticized@3, S: Huddleston@2, O: performance@6)	SVOC (V: praised@8, S: Huddleston@2, O: performance@6, O: Perlman@9)	SVO (S: Cage@4, V: "has", O: performance@6)
+324	SVO (V: concluded@3, S: critic@2, CCOMP: is@12)	SVA (V: is@12, S: Season@7, A!: for@14)	SVC (C: creaky@19, V: 's@18, S: it@17)
+325	SVO (V: tick@10, S: this@8, A?: for@2, O: boxes@14)
+326	
+327	
+328	
+329	
+330	SV (V: called@20, S: O'Hehir@19)	SVC (S: Seal@34, V: "is", C: 1957@36)
+331	SVO (V: wrote@2, S: O'Hehir@1, CCOMP: schlockfest@12)	SVC (C: schlockfest@12, V: is@9, S: Season@5)
+332	EXISTENTIAL (V: were@3, S: Corman@6)	SV (V: thrills@9, S: esque@8)	SV (V: chills@11, S: esque@8)	SVC (C: better@26, V: be@25, S: we@22, A?: were@3, A?: all@24)
+333	
+334	
+335	SVO (S: Cage@19, V: "has", O: Salon.com@24)
+336	
+337	
+338	SVO (S: Cage@19, V: "has", O: Salon.com@24)
+339	
+340	

@@ -1,0 +1,196 @@
+Golf Digest GolfDigestCover .jpg 	0	query204_Golf_Digest\S\0
+200px Jerry Tarde Editor-in-Chief monthly 1,672,888 http ://abcas3.accessabc.com/ecirc/magtitlesearch 	1	query204_Golf_Digest\S\1
+.asp 	2	query204_Golf_Digest\S\2
+eCirc for Consumer Magazines June 30 , 2011 Audit Bureau of Circulations December 1 , 2011 http ://abcas3.accessabc.com/ecirc/magtitlesearch 	3	query204_Golf_Digest\S\3
+"June 30 2011 Audit Bureau of Circulations December 1"	"is"	"2011 http"	3	query204_Golf_Digest\P\3-0
+.asp 	4	query204_Golf_Digest\S\4
+eCirc for Consumer Magazines June 30 , 2011 Audit Bureau of Circulations December 1 , 2011 2011 Condé Nast Publications 1950 United States English http ://www.golfdigest.com 	5	query204_Golf_Digest\S\5
+"June 30 2011 Audit Bureau of Circulations December 1"	"is"	"2011 2011 Condé Nast Publications 1950 United States English http"	5	query204_Golf_Digest\P\5-0
+0017-176X Golf Digest is a monthly golf magazine published by Condé Nast Publications in the United States . 	6	query204_Golf_Digest\S\6
+"0017-176X Golf Digest"	"is a monthly golf magazine"	"published by Condé Nast Publications in the United States"	6	query204_Golf_Digest\P\6-0
+"0017-176X Golf Digest"	"is"	"a monthly golf magazine"	6	query204_Golf_Digest\P\6-1
+"a monthly golf magazine"	"be published"	"by Condé Nast Publications in the United States"	6	query204_Golf_Digest\P\6-2
+It is a generalist golf publication covering recreational golf and men 's and women 's competitive golf . 	7	query204_Golf_Digest\S\7
+"It"	"is a generalist golf publication"	"covering recreational golf"	7	query204_Golf_Digest\P\7-0
+"It"	"is a generalist golf publication"	"covering recreational men 's"	7	query204_Golf_Digest\P\7-1
+"It"	"is a generalist golf publication"	"covering recreational women 's competitive golf"	7	query204_Golf_Digest\P\7-2
+"It"	"is"	"a generalist golf publication"	7	query204_Golf_Digest\P\7-3
+"a generalist golf publication"	"be covering"	"recreational golf"	7	query204_Golf_Digest\P\7-4
+"a generalist golf publication"	"be covering"	"recreational men 's"	7	query204_Golf_Digest\P\7-5
+"a generalist golf publication"	"be covering"	"recreational women 's competitive golf"	7	query204_Golf_Digest\P\7-6
+"a generalist golf publication"	"be covering"	"recreational women 's competitive golf"	7	query204_Golf_Digest\P\7-7
+Condé Nast Publications also publishes the more specialized , and Golf World Business . 	8	query204_Golf_Digest\S\8
+"Condé Nast Publications"	"publishes"	"the more specialized also"	8	query204_Golf_Digest\P\8-0
+"Condé Nast Publications"	"publishes"	"the more Golf World Business also"	8	query204_Golf_Digest\P\8-1
+"Condé Nast Publications"	"publishes"	"the more specialized"	8	query204_Golf_Digest\P\8-2
+"Condé Nast Publications"	"publishes"	"the more Golf World Business"	8	query204_Golf_Digest\P\8-3
+The magazine started in 1950 , and was sold to The New York Times Company in 1969 . 	9	query204_Golf_Digest\S\9
+"The magazine"	"started"	"in 1950"	9	query204_Golf_Digest\P\9-0
+"The magazine"	"was sold"	"to The New York Times Company in 1950"	9	query204_Golf_Digest\P\9-1
+"The magazine"	"was sold"	"to The New York Times Company in 1969"	9	query204_Golf_Digest\P\9-2
+"The magazine"	"was sold"	"to The New York Times Company"	9	query204_Golf_Digest\P\9-3
+The Times company sold their magazine division to Condé Nast in 2001 . 	10	query204_Golf_Digest\S\10
+"The Times company"	"sold"	"their magazine division to Condé Nast"	10	query204_Golf_Digest\P\10-0
+"The Times company"	"sold"	"their magazine division in 2001"	10	query204_Golf_Digest\P\10-1
+"The Times company"	"sold"	"their magazine division"	10	query204_Golf_Digest\P\10-2
+"The Times company"	"sold"	"their magazine division"	10	query204_Golf_Digest\P\10-3
+Since 1985 Golf Digest has produced biennial rankings of " America 's 100 Greatest Golf Courses " . 	11	query204_Golf_Digest\S\11
+"Since 1985 Golf Digest"	"has produced"	"biennial rankings of America 's 100 Greatest Golf Courses"	11	query204_Golf_Digest\P\11-0
+"Since 1985 Golf Digest"	"has produced"	"biennial rankings of America 's 100 Greatest Golf Courses"	11	query204_Golf_Digest\P\11-1
+The courses are voted on by a panel of several hundred golf experts . 	12	query204_Golf_Digest\S\12
+"The courses"	"are voted"	"on by a panel of several hundred golf experts"	12	query204_Golf_Digest\P\12-0
+Although Pine Valley Golf Club has topped the list every year except 2001 , when Pebble Beach Golf Links ranked first , it was again outranked on the 2009-10 list - this time by Augusta National Golf Club . 	13	query204_Golf_Digest\S\13
+"Pine Valley Golf Club"	"has topped"	"the list every year except 2001"	13	query204_Golf_Digest\P\13-0
+"Pine Valley Golf Club"	"has topped"	"the list"	13	query204_Golf_Digest\P\13-1
+"Pebble Beach Golf Links"	"ranked"	"2001 when"	13	query204_Golf_Digest\P\13-2
+"Pebble Beach Golf Links"	"ranked"	"first 2001"	13	query204_Golf_Digest\P\13-3
+"Pebble Beach Golf Links"	"ranked"	"2001"	13	query204_Golf_Digest\P\13-4
+"Pebble Beach Golf Links"	"ranked"	"2001"	13	query204_Golf_Digest\P\13-5
+"Pebble Beach Golf Links"	"ranked"	"2001"	13	query204_Golf_Digest\P\13-6
+"Pebble Beach Golf Links"	"ranked"	"2001"	13	query204_Golf_Digest\P\13-7
+"Pebble Beach Golf Links"	"ranked"	"2001"	13	query204_Golf_Digest\P\13-8
+The magazine also produces lists of the best new courses , the best golf resorts and the best courses in each U.S. 	14	query204_Golf_Digest\S\14
+"The magazine"	"produces"	"lists of the best new courses the best golf resorts also"	14	query204_Golf_Digest\P\14-0
+"The magazine"	"produces"	"lists of the best new courses the best golf the best courses in each U.S. also"	14	query204_Golf_Digest\P\14-1
+"The magazine"	"produces"	"lists of the best new courses the best golf resorts"	14	query204_Golf_Digest\P\14-2
+"The magazine"	"produces"	"lists of the best new courses the best golf the best courses in each U.S."	14	query204_Golf_Digest\P\14-3
+state . 	15	query204_Golf_Digest\S\15
+Before the " Greatest " rankings were introduced in 1985 Golf Digest produced lists called at different times America 's 100 Most Testing Courses and America 's 100 Greatest Tests of Golf . 	16	query204_Golf_Digest\S\16
+Before the " Greatest " rankings were introduced in 1985 Golf Digest produced lists called at different times America 's 100 Most Testing Courses and America 's 100 Greatest Tests of Golf . 	16	query204_Golf_Digest\S\16
+Before the " Greatest " rankings were introduced in 1985 Golf Digest produced lists called at different times America 's 100 Most Testing Courses and America 's 100 Greatest Tests of Golf . 	16	query204_Golf_Digest\S\16
+"Golf Digest"	"produced"	"lists called at different times America 's 100 Most Testing Courses"	1985	query204_Golf_Digest\P\16-0
+"Golf Digest"	"produced"	"called at different times America 's 100 Most Testing Courses America 's 100 Greatest Tests of Golf"	1985	query204_Golf_Digest\P\16-1
+"Golf Digest"	"produced"	"called at different times America 's 100 Most Testing Courses America 's 100 Greatest Tests of Golf"	1985	query204_Golf_Digest\P\16-2
+"America 's 100 Greatest Tests of Golf"	"be called"	"at different times America 's 100 Most Testing Courses"	1985	query204_Golf_Digest\P\16-3
+"different times America"	"has"	"100 Most Testing Courses"	1985	query204_Golf_Digest\P\16-4
+"different times America"	"has"	"100 Most Testing Courses"	1985	query204_Golf_Digest\P\16-5
+The top ten on the 2009-10 list are as follows : , ''Golf Digest , Accessed April 8 , 2009 The top ten on the 2007-08 list , published in May 2007 , was as follows : The top ten on the 2005-06 list , published in May 2005 , was as follows : Alongside the " 100 Greatest Courses " ranking , and using the same methodology , Golf Digest publishes a list of " America 's 100 Greatest Public Golf Courses " . 	17	query204_Golf_Digest\S\17
+"The top ten on the 2009-10 list"	"are"	"as follows"	17	query204_Golf_Digest\P\17-0
+"Golf Digest published in May 2007"	"is"	"Accessed April 8"	17	query204_Golf_Digest\P\17-1
+"Golf Digest published in May 2007"	"is"	"2009 The top ten on the 2007-08 list"	17	query204_Golf_Digest\P\17-2
+"Golf Digest"	"be published"	"in May 2007"	17	query204_Golf_Digest\P\17-3
+"Golf Digest published in May 2007"	"was"	"as follows The top ten on the 2005-06 list published in May 2005 was as follows"	17	query204_Golf_Digest\P\17-4
+"The top ten on the 2005-06 list"	"be published"	"in May 2005"	17	query204_Golf_Digest\P\17-5
+"The top ten on the 2005-06 list published in May 2005"	"was"	"as follows"	17	query204_Golf_Digest\P\17-6
+"Golf Digest"	"publishes"	"a list of America 's 100 Greatest Public Golf Courses Alongside the 100 Greatest Courses ranking"	17	query204_Golf_Digest\P\17-7
+"Golf Digest"	"publishes"	"a list of America 's 100 Greatest Public Golf Courses the 100 Greatest Courses ranking using the same methodology"	17	query204_Golf_Digest\P\17-8
+"Golf Digest"	"publishes"	"a list of America 's 100 Greatest Public Golf Courses"	17	query204_Golf_Digest\P\17-9
+"Golf Digest"	"publishes"	"a list of America 's 100 Greatest Public Golf Courses"	17	query204_Golf_Digest\P\17-10
+In this context , "public " means a golf course that is open to play by the public , as opposed to a private club—not necessarily a course operated by a governmental entity . 	18	query204_Golf_Digest\S\18
+"In this context"	"public means"	"a golf course as opposed to a private club not necessarily a course operated by a governmental entity"	18	query204_Golf_Digest\P\18-0
+"In this context"	"public means"	"a golf course"	18	query204_Golf_Digest\P\18-1
+"In this context"	"public means"	"a golf course"	18	query204_Golf_Digest\P\18-2
+"In this context"	"public means"	"a golf course"	18	query204_Golf_Digest\P\18-3
+"a golf course"	"is"	"open to play by the public"	18	query204_Golf_Digest\P\18-4
+"a course"	"be operated"	"by a governmental entity"	18	query204_Golf_Digest\P\18-5
+The top ten on the 2007-08 list , also published in May 2007 , was as follows : Of these courses , the only one that is operated by a governmental entity is Bethpage Black . 	19	query204_Golf_Digest\S\19
+"The top ten on the 2007-08 list"	"published"	"in May 2007 also"	19	query204_Golf_Digest\P\19-0
+"The top ten on the 2007-08 list"	"published"	"in May 2007"	19	query204_Golf_Digest\P\19-1
+"the only one"	"is operated"	"by a governmental entity"	19	query204_Golf_Digest\P\19-2
+"the only one"	"is Bethpage Black"	"Of these courses"	19	query204_Golf_Digest\P\19-3
+"the only one"	"is"	"Bethpage Black"	19	query204_Golf_Digest\P\19-4
+In addition to its national rankings , Golf Digest also ranks courses at a state level . 	20	query204_Golf_Digest\S\20
+In addition to its national rankings , Golf Digest also ranks courses at a state level . 	20	query204_Golf_Digest\S\20
+"its national rankings"	"is"	"Golf Digest"	20	query204_Golf_Digest\P\20-0
+"In addition to its national rankings"	"ranks"	"courses also"	20	query204_Golf_Digest\P\20-1
+"In addition to its national rankings"	"ranks"	"courses at a state level"	20	query204_Golf_Digest\P\20-2
+"In addition to its national rankings"	"ranks"	"courses"	20	query204_Golf_Digest\P\20-3
+For example , in a 1998 survey of Connecticut Public Golf Courses Golf Digest ranked Crestbrook Park Golf Course as one of Connecticut 's top public golf courses . 	21	query204_Golf_Digest\S\21
+"For example in a 1998 survey of Connecticut Public Golf Courses Golf Digest"	"ranked"	"Crestbrook Park Golf Course as one of Connecticut 's top public golf courses"	21	query204_Golf_Digest\P\21-0
+"For example in a 1998 survey of Connecticut Public Golf Courses Golf Digest"	"ranked"	"Crestbrook Park Golf Course"	21	query204_Golf_Digest\P\21-1
+"For example in a 1998 survey of Connecticut Public Golf Courses Golf Digest"	"ranked"	"Crestbrook Park Golf Course"	21	query204_Golf_Digest\P\21-2
+The magazine also compiles a list of the leading courses outside the United States . 	22	query204_Golf_Digest\S\22
+"The magazine"	"compiles"	"a list of the leading courses outside the United States also"	22	query204_Golf_Digest\P\22-0
+"The magazine"	"compiles"	"a list of the leading courses outside the United States"	22	query204_Golf_Digest\P\22-1
+This is created using information from national golf associations , plus votes by the same panelists supplemented by some additional ones with international knowledge . 	23	query204_Golf_Digest\S\23
+This is created using information from national golf associations , plus votes by the same panelists supplemented by some additional ones with international knowledge . 	23	query204_Golf_Digest\S\23
+This is created using information from national golf associations , plus votes by the same panelists supplemented by some additional ones with international knowledge . 	23	query204_Golf_Digest\S\23
+This is created using information from national golf associations , plus votes by the same panelists supplemented by some additional ones with international knowledge . 	23	query204_Golf_Digest\S\23
+This is created using information from national golf associations , plus votes by the same panelists supplemented by some additional ones with international knowledge . 	23	query204_Golf_Digest\S\23
+"the same panelists"	"be supplemented"	"by some additional ones with international knowledge"	23	query204_Golf_Digest\P\23-0
+"the same panelists"	"be supplemented"	"by some additional ones"	23	query204_Golf_Digest\P\23-1
+In 2007 the most represented countries were Scotland with fourteen courses in the top 100 , Canada with ten , England with ten , Canada with nine , and Australia and Republic of Ireland with eight . 	24	query204_Golf_Digest\S\24
+"In 2007 the most represented countries"	"were Scotland"	"with fourteen courses in the top 100"	24	query204_Golf_Digest\P\24-0
+"In 2007 the most represented countries"	"were Australia"	"with fourteen courses in the top 100"	24	query204_Golf_Digest\P\24-1
+"In 2007 the most represented countries"	"were Republic of Ireland with eight"	"with fourteen courses in the top 100"	24	query204_Golf_Digest\P\24-2
+"In 2007 the most represented countries"	"were"	"Scotland"	24	query204_Golf_Digest\P\24-3
+"In 2007 the most represented countries"	"were"	"Australia"	24	query204_Golf_Digest\P\24-4
+"In 2007 the most represented countries"	"were"	"Republic of Ireland with eight"	24	query204_Golf_Digest\P\24-5
+"In 2007 the most represented countries were Scotland with fourteen courses in the top 100"	"is in"	"Canada with ten"	24	query204_Golf_Digest\P\24-6
+"In 2007 the most represented countries were with fourteen courses in the top 100 Australia"	"is in"	"Canada with ten"	24	query204_Golf_Digest\P\24-7
+"In 2007 the most represented countries were with fourteen courses in the top 100 Republic of Ireland with eight"	"is in"	"Canada with ten"	24	query204_Golf_Digest\P\24-8
+"In 2007 the most represented countries were Scotland with fourteen courses in the top 100"	"is in"	"England with ten"	24	query204_Golf_Digest\P\24-9
+"In 2007 the most represented countries were with fourteen courses in the top 100 Australia"	"is in"	"England with ten"	24	query204_Golf_Digest\P\24-10
+"In 2007 the most represented countries were with fourteen courses in the top 100 Republic of Ireland with eight"	"is in"	"England with ten"	24	query204_Golf_Digest\P\24-11
+"In 2007 the most represented countries were Scotland with fourteen courses in the top 100"	"is in"	"Canada with nine"	24	query204_Golf_Digest\P\24-12
+"In 2007 the most represented countries were with fourteen courses in the top 100 Australia"	"is in"	"Canada with nine"	24	query204_Golf_Digest\P\24-13
+"In 2007 the most represented countries were with fourteen courses in the top 100 Republic of Ireland with eight"	"is in"	"Canada with nine"	24	query204_Golf_Digest\P\24-14
+The top 10 were : In 2005 the most represented countries were Scotland and Canada with thirteen courses each in the top 100 . 	25	query204_Golf_Digest\S\25
+"The top 10"	"were"	"25"	25	query204_Golf_Digest\P\25-0
+"the most represented countries"	"were Scotland"	"In 2005"	25	query204_Golf_Digest\P\25-1
+"the most represented countries"	"were Canada with thirteen courses each in the top 100"	"In 2005"	25	query204_Golf_Digest\P\25-2
+"the most represented countries"	"were"	"Scotland"	25	query204_Golf_Digest\P\25-3
+"the most represented countries"	"were"	"Canada with thirteen courses each in the top 100"	25	query204_Golf_Digest\P\25-4
+The top 10 were : In 2009 , Golf Digest was nominated for a National Magazine Awards by the American Society of Magazine Editors the Magazine Section in recognition of the excellence of a regular section of a magazine based on voice , originality and unified presentation . 	26	query204_Golf_Digest\S\26
+"Golf Digest"	"was nominated"	"for a National Magazine Awards by the American Society of Magazine Editors the Magazine Section in recognition of the excellence of a regular section of a magazine based on voice In 2009"	26	query204_Golf_Digest\P\26-0
+"Golf Digest"	"was nominated"	"for a National Magazine Awards by the American Society of Magazine Editors the Magazine Section in recognition of the excellence of a regular section of a magazine based on originality In 2009"	26	query204_Golf_Digest\P\26-1
+"Golf Digest"	"was nominated"	"for a National Magazine Awards by the American Society of Magazine Editors the Magazine Section in recognition of the excellence of a regular section of a magazine based on unified presentation In 2009"	26	query204_Golf_Digest\P\26-2
+"Golf Digest"	"was nominated"	"for a National Magazine Awards by the American Society of Magazine Editors the Magazine Section in recognition of the excellence of a regular section of a magazine based on voice"	26	query204_Golf_Digest\P\26-3
+"Golf Digest"	"was nominated"	"for a National Magazine Awards by the American Society of Magazine Editors the Magazine Section in recognition of the excellence of a regular section of a magazine based on originality"	26	query204_Golf_Digest\P\26-4
+"Golf Digest"	"was nominated"	"for a National Magazine Awards by the American Society of Magazine Editors the Magazine Section in recognition of the excellence of a regular section of a magazine based on unified presentation"	26	query204_Golf_Digest\P\26-5
+Shea Danny National Magazine Awards 2009 : New Yorker , GQ , New York Lead Nominations The Huffington Post 18 March 2009 http ://www .huffingtonpost.com/2009/03/18/national-magazine-awards_n_176544.html 	27	query204_Golf_Digest\S\27
+13 July 2010 Shea Danny National Magazine Awards 2009 : New Yorker , GQ , New York Lead Nominations The Huffington Post 18 March 2009 http ://www .huffingtonpost.com/2009/03/18/national-magazine-awards_n_176544.html 	28	query204_Golf_Digest\S\28
+13 July 2010 Digest Category :Condé Nast Publications Category :Magazines established in 1950 fr:Golf Digest ja :ゴルフダイジェスト no:Golf Digest sv:Golf Digest zh :高尔夫大师 Augusta National Golf Club - Augusta_ Georgia \t\t Pine Valley Golf Club - Pine Valley _ New Jersey \t Shinnecock Hills Golf Club - Southampton _ New York \t\t Cypress Point Club - Pebble Beach _ California \t\t Oakmont Country Club - Oakmont _ Pennsylvania \t\t Pebble Beach Golf Links - Pebble Beach _ California \t\t Merion Golf Club ( East Course ) - Ardmore _ Pennsylvania \t Winged Foot Golf Club ( West Course ) - Mamaroneck _ New York \t\t Fishers Island Club - Fishers Island _ New York \t\t Seminole Golf Club - Juno Beach _ Florida \t Pine Valley Golf Club - Pine Valley _ New Jersey Shinnecock Hills Golf Club - Southampton _ New York Augusta National Golf Club - Augusta_ Georgia Cypress Point Club - Pebble Beach _ California Oakmont Country Club - Oakmont _ Pennsylvania Pebble Beach Golf Links - Pebble Beach _ California Merion Golf Club ( East Course ) - Ardmore _ Pennsylvania Winged Foot Golf Club ( West Course ) - Mamaroneck _ New York Seminole Golf Club - Juno Beach _ Florida Crystal Downs Country Club - Frankfort _ Michigan Pine Valley Golf Club - Pine Valley _ New Jersey Augusta National Golf Club - Augusta_ Georgia Shinnecock Hills Golf Club - Southampton _ New York Cypress Point Club - Pebble Beach _ California Oakmont Country Club - Oakmont _ Pennsylvania Pebble Beach Golf Links - Pebble Beach _ California Merion Golf Club - Ardmore _ Pennsylvania Winged Foot Golf Club ( West Course ) - Mamaroneck _ New York National Golf Links of America - Southampton _ New York Seminole Golf Club - Juno Beach _ Florida Pebble Beach Golf Links – Pebble Beach _ California Pacific Dunes Golf Course – Bandon _ Oregon Pinehurst No. 	29	query204_Golf_Digest\S\29
+13 July 2010 Digest Category :Condé Nast Publications Category :Magazines established in 1950 fr:Golf Digest ja :ゴルフダイジェスト no:Golf Digest sv:Golf Digest zh :高尔夫大师 Augusta National Golf Club - Augusta_ Georgia \t\t Pine Valley Golf Club - Pine Valley _ New Jersey \t Shinnecock Hills Golf Club - Southampton _ New York \t\t Cypress Point Club - Pebble Beach _ California \t\t Oakmont Country Club - Oakmont _ Pennsylvania \t\t Pebble Beach Golf Links - Pebble Beach _ California \t\t Merion Golf Club ( East Course ) - Ardmore _ Pennsylvania \t Winged Foot Golf Club ( West Course ) - Mamaroneck _ New York \t\t Fishers Island Club - Fishers Island _ New York \t\t Seminole Golf Club - Juno Beach _ Florida \t Pine Valley Golf Club - Pine Valley _ New Jersey Shinnecock Hills Golf Club - Southampton _ New York Augusta National Golf Club - Augusta_ Georgia Cypress Point Club - Pebble Beach _ California Oakmont Country Club - Oakmont _ Pennsylvania Pebble Beach Golf Links - Pebble Beach _ California Merion Golf Club ( East Course ) - Ardmore _ Pennsylvania Winged Foot Golf Club ( West Course ) - Mamaroneck _ New York Seminole Golf Club - Juno Beach _ Florida Crystal Downs Country Club - Frankfort _ Michigan Pine Valley Golf Club - Pine Valley _ New Jersey Augusta National Golf Club - Augusta_ Georgia Shinnecock Hills Golf Club - Southampton _ New York Cypress Point Club - Pebble Beach _ California Oakmont Country Club - Oakmont _ Pennsylvania Pebble Beach Golf Links - Pebble Beach _ California Merion Golf Club - Ardmore _ Pennsylvania Winged Foot Golf Club ( West Course ) - Mamaroneck _ New York National Golf Links of America - Southampton _ New York Seminole Golf Club - Juno Beach _ Florida Pebble Beach Golf Links – Pebble Beach _ California Pacific Dunes Golf Course – Bandon _ Oregon Pinehurst No. 	29	query204_Golf_Digest\S\29
+"高尔夫大师 Augusta National Golf Club Augusta _ Georgia \ t \ t Pine Valley Golf Club Pine Valley _ New Jersey \ t Shinnecock Hills Golf Club Southampton _ New York \ t \ t Cypress Point Club Pebble Beach _ California \ t \ t Oakmont Country Club Oakmont _ Pennsylvania \ t \ t Pebble Beach Golf Links Pebble Beach _ California \ t \ t Merion Golf Club Mamaroneck _ New York Seminole Golf Club Juno Beach _ Florida Crystal Downs Country Club Frankfort _ Michigan Pine Valley Golf Club Pine Valley _ New Jersey Augusta National Golf Club Augusta _ Georgia Shinnecock Hills Golf Club Southampton _ New York Cypress Point Club Pebble Beach _ California Oakmont Country Club Oakmont _ Pennsylvania Pebble Beach Golf Links Pebble Beach _ California Merion Golf Club Ardmore _ Pennsylvania Winged Foot Golf Club Mamaroneck _ New York National Golf Links of America Southampton _ New York Seminole Golf Club Juno Beach _ Florida Pebble Beach Golf Links Pebble Beach _ California Pacific Dunes Golf Course Bandon _ Oregon Pinehurst No"	"is"	"East Course"	29	query204_Golf_Digest\P\29-0
+"Ardmore _ Pennsylvania \ t"	"Winged"	"Foot Golf Club 高尔夫大师 Augusta National Golf Club Augusta _ Georgia \ t \ t Pine Valley Golf Club Pine Valley _ New Jersey \ t Shinnecock Hills Golf Club Southampton _ New York \ t \ t Cypress Point Club Pebble Beach _ California \ t \ t Oakmont Country Club Oakmont _ Pennsylvania \ t \ t Pebble Beach Golf Links Pebble Beach _ California \ t \ t Merion Golf Club Mamaroneck _ New York Seminole Golf Club Juno Beach _ Florida Crystal Downs Country Club Frankfort _ Michigan Pine Valley Golf Club Pine Valley _ New Jersey Augusta National Golf Club Augusta _ Georgia Shinnecock Hills Golf Club Southampton _ New York Cypress Point Club Pebble Beach _ California Oakmont Country Club Oakmont _ Pennsylvania Pebble Beach Golf Links Pebble Beach _ California Merion Golf Club Ardmore _ Pennsylvania Winged Foot Golf Club Mamaroneck _ New York National Golf Links of America Southampton _ New York Seminole Golf Club Juno Beach _ Florida Pebble Beach Golf Links Pebble Beach _ California Pacific Dunes Golf Course Bandon _ Oregon Pinehurst No"	29	query204_Golf_Digest\P\29-1
+"Foot Golf Club Mamaroneck _ New York \ t \ t Fishers Island Club Fishers Island _ New York \ t \ t Seminole Golf Club Juno Beach _ Florida \ t Pine Valley Golf Club Pine Valley _ New Jersey Shinnecock Hills Golf Club Southampton _ New York Augusta National Golf Club Augusta _ Georgia Cypress Point Club Pebble Beach _ California Oakmont Country Club Oakmont _ Pennsylvania Pebble Beach Golf Links Pebble Beach _ California Merion Golf Club Ardmore _ Pennsylvania Winged Foot Golf Club"	"is"	"West Course"	29	query204_Golf_Digest\P\29-2
+"Foot Golf Club Mamaroneck _ New York \ t \ t Fishers Island Club Fishers Island _ New York \ t \ t Seminole Golf Club Juno Beach _ Florida \ t Pine Valley Golf Club Pine Valley _ New Jersey Shinnecock Hills Golf Club Southampton _ New York Augusta National Golf Club Augusta _ Georgia Cypress Point Club Pebble Beach _ California Oakmont Country Club Oakmont _ Pennsylvania Pebble Beach Golf Links Pebble Beach _ California Merion Golf Club Ardmore _ Pennsylvania Winged Foot Golf Club"	"is"	"West Course"	29	query204_Golf_Digest\P\29-3
+"Mamaroneck _ New York \ t \ t Fishers Island Club Fishers Island _ New York \ t \ t Seminole Golf Club Juno Beach _ Florida \ t Pine Valley Golf Club Pine Valley _ New Jersey Shinnecock Hills Golf Club Southampton _ New York Augusta National Golf Club Augusta _ Georgia Cypress Point Club Pebble Beach _ California Oakmont Country Club Oakmont _ Pennsylvania Pebble Beach Golf Links Pebble Beach _ California Merion Golf Club"	"is"	"East Course"	29	query204_Golf_Digest\P\29-4
+"Mamaroneck _ New York Seminole Golf Club Juno Beach _ Florida Crystal Downs Country Club Frankfort _ Michigan Pine Valley Golf Club Pine Valley _ New Jersey Augusta National Golf Club Augusta _ Georgia Shinnecock Hills Golf Club Southampton _ New York Cypress Point Club Pebble Beach _ California Oakmont Country Club Oakmont _ Pennsylvania Pebble Beach Golf Links Pebble Beach _ California Merion Golf Club Ardmore _ Pennsylvania Winged Foot Golf Club"	"is"	"West Course"	29	query204_Golf_Digest\P\29-5
+2 – Pinehurst _ North Carolina The Straits Course_ Whistling Straits – Haven _ Wisconsin Bethpage Black Course – Farmingdale _ New York Shadow Creek Golf Course – North Las Vegas _ Nevada Bandon Dunes Golf Course – Bandon _ Oregon The Ocean Course at Kiawah Island – Kiawah Island _ South Carolina Prince Golf Course – Princeville _ Hawaii Arcadia Bluffs Golf Course – Arcadia_ Michigan Royal County Down Golf Club - Newcastle , Northern Ireland Old Course at St Andrews - St . 	30	query204_Golf_Digest\S\30
+"Arcadia _ Michigan Royal County Down Golf Club Newcastle"	"is"	"Northern Ireland Old Course at St Andrews St"	30	query204_Golf_Digest\P\30-0
+Andrews , Scotland Royal Dornoch Golf Club ( Championship Course ) - Dornoch , Scotland Royal Portrush Golf Club ( Dunluce Course ) - Portrush , Northern Ireland Muirfield - Gullane , Scotland Royal Melbourne Golf Club ( Composite Course ) - Melbourne , Australia Ballybunion Golf Club ( Old Course ) - Ballybunion , Ireland Turnberry ( Ailsa Course ) - Ayrshire , Scotland Carnoustie Golf Links - Carnoustie , Scotland Cape Kidnappers Golf Course - Hawke’s Bay , New Zealand Old Course at St Andrews - St . 	31	query204_Golf_Digest\S\31
+"Andrews Dornoch"	"is"	"Scotland Royal Dornoch Golf Club"	31	query204_Golf_Digest\P\31-0
+"Scotland Royal Dornoch Golf Club"	"is"	"Championship Course"	31	query204_Golf_Digest\P\31-1
+"Scotland Royal Dornoch Golf Club"	"is"	"Championship Course"	31	query204_Golf_Digest\P\31-2
+"Scotland Royal Dornoch Golf Club"	"is"	"Championship Course"	31	query204_Golf_Digest\P\31-3
+"Scotland Royal Dornoch Golf Club"	"is"	"Championship Course"	31	query204_Golf_Digest\P\31-4
+"Scotland Royal Dornoch Golf Club"	"is"	"Championship Course"	31	query204_Golf_Digest\P\31-5
+"Scotland Royal Dornoch Golf Club"	"is"	"Championship Course"	31	query204_Golf_Digest\P\31-6
+"Scotland Royal Dornoch Golf Club"	"is"	"Championship Course"	31	query204_Golf_Digest\P\31-7
+"Scotland Royal Portrush Golf Club Portrush Gullane Ballybunion"	"is"	"Dunluce Course"	31	query204_Golf_Digest\P\31-8
+"Scotland Royal Portrush Golf Club Northern Ireland Muirfield Gullane Ballybunion"	"is"	"Dunluce Course"	31	query204_Golf_Digest\P\31-9
+"Scotland Royal Portrush Golf Club Northern Ireland Muirfield Scotland Royal Melbourne Golf Club Melbourne Ballybunion"	"is"	"Dunluce Course"	31	query204_Golf_Digest\P\31-10
+"Scotland Royal Portrush Golf Club Northern Ireland Muirfield Australia Ballybunion Golf Club Ballybunion"	"is"	"Dunluce Course"	31	query204_Golf_Digest\P\31-11
+"Scotland Royal Portrush Golf Club Portrush Scotland Royal Melbourne Golf Club Melbourne Ballybunion"	"is"	"Dunluce Course"	31	query204_Golf_Digest\P\31-12
+"Scotland Royal Portrush Golf Club Portrush Australia Ballybunion Golf Club Ballybunion"	"is"	"Dunluce Course"	31	query204_Golf_Digest\P\31-13
+"Gullane Ballybunion"	"is in"	"Ireland Turnberry Ayrshire"	31	query204_Golf_Digest\P\31-14
+"Scotland Royal Melbourne Golf Club Melbourne Ballybunion"	"is in"	"Ireland Turnberry Ayrshire"	31	query204_Golf_Digest\P\31-15
+"Australia Ballybunion Golf Club Ballybunion"	"is in"	"Ireland Turnberry Ayrshire"	31	query204_Golf_Digest\P\31-16
+"Scotland Royal Melbourne Golf Club Melbourne"	"is"	"Composite Course"	31	query204_Golf_Digest\P\31-17
+"Australia Ballybunion Golf Club"	"is"	"Old Course"	31	query204_Golf_Digest\P\31-18
+"Ireland Turnberry Ayrshire"	"is in"	"Ailsa Course"	31	query204_Golf_Digest\P\31-19
+"Ireland Turnberry Ayrshire"	"is in"	"Ailsa Course"	31	query204_Golf_Digest\P\31-20
+"Ireland Turnberry Ayrshire"	"is in"	"Ailsa Course"	31	query204_Golf_Digest\P\31-21
+"Hawke 's Bay"	"is"	"New Zealand Old Course at St Andrews St"	31	query204_Golf_Digest\P\31-22
+"Hawke 's Bay"	"is"	"New Zealand Old Course at St Andrews St"	31	query204_Golf_Digest\P\31-23
+Andrews , Scotland Royal Melbourne Golf Club - Melbourne , Australia Royal Portrush Golf Club - Portrush , Northern Ireland Royal County Down Golf Club - Newcastle , Northern Ireland Royal Dornoch Golf Club - Dornoch , Scotland Muirfield - Gullane , Scotland Ballybunion Golf Club - Ballybunion , Ireland New South Wales Golf Club - Sydney , Australia National Golf Club - Woodbridge , Canada St . 	32	query204_Golf_Digest\S\32
+"Andrews Melbourne Australia Royal Portrush Golf Club Portrush"	"is"	"Northern Ireland Royal County Down Golf Club Newcastle"	32	query204_Golf_Digest\P\32-0
+"Andrews Melbourne Australia Royal Portrush Golf Club Portrush"	"is"	"Northern Ireland Royal County Down Golf Newcastle Northern Ireland Royal Dornoch Golf Club Dornoch"	32	query204_Golf_Digest\P\32-1
+"Scotland Royal Melbourne Golf Club Melbourne Australia Royal Portrush Golf Club Portrush"	"is"	"Northern Ireland Royal County Down Golf Club Newcastle"	32	query204_Golf_Digest\P\32-2
+"Scotland Royal Melbourne Golf Club Melbourne Australia Royal Portrush Golf Club Portrush"	"is"	"Northern Ireland Royal County Down Golf Newcastle Northern Ireland Royal Dornoch Golf Club Dornoch"	32	query204_Golf_Digest\P\32-3
+"Northern Ireland Royal County Down Golf Club Newcastle"	"is in"	"Scotland Muirfield Gullane"	32	query204_Golf_Digest\P\32-4
+"Northern Ireland Royal County Down Golf Newcastle Northern Ireland Royal Dornoch Golf Club Dornoch"	"is in"	"Scotland Muirfield Gullane"	32	query204_Golf_Digest\P\32-5
+"Northern Ireland Royal County Down Golf Newcastle Northern Ireland Royal Dornoch Golf Club Dornoch"	"is in"	"Scotland Muirfield Gullane"	32	query204_Golf_Digest\P\32-6
+"Northern Ireland Royal County Down Golf Newcastle Northern Ireland Royal Dornoch Golf Club Dornoch"	"is in"	"Scotland Muirfield Gullane"	32	query204_Golf_Digest\P\32-7
+"Northern Ireland Royal County Down Golf Newcastle Northern Ireland Royal Dornoch Golf Club Dornoch"	"is in"	"Scotland Muirfield Gullane"	32	query204_Golf_Digest\P\32-8
+"Ballybunion Woodbridge"	"is"	"Canada St"	32	query204_Golf_Digest\P\32-9
+"Ireland New South Wales Golf Club Sydney Woodbridge"	"is"	"Canada St"	32	query204_Golf_Digest\P\32-10
+"Australia National Golf Club Woodbridge"	"is"	"Canada St"	32	query204_Golf_Digest\P\32-11
+George 's Golf and Country Club - Toronto , Canada Golf Magazine Golf World Kingdom magazine HK Golfer Links Magazine Travel + Leisure Golf 	33	query204_Golf_Digest\S\33
+George 's Golf and Country Club - Toronto , Canada Golf Magazine Golf World Kingdom magazine HK Golfer Links Magazine Travel + Leisure Golf 	33	query204_Golf_Digest\S\33
+"George 's Golf Toronto"	"is"	"Canada Golf Magazine Golf World Kingdom magazine HK Golfer Links Magazine Travel Golf"	33	query204_Golf_Digest\P\33-0
+"George 's Golf Toronto"	"is"	"Canada Golf Magazine Golf World Kingdom magazine HK Golfer Links Magazine Leisure Golf"	33	query204_Golf_Digest\P\33-1
+"George 's Country Club Toronto"	"is"	"Canada Golf Magazine Golf World Kingdom magazine HK Golfer Links Magazine Travel Golf"	33	query204_Golf_Digest\P\33-2
+"George 's Country Club Toronto"	"is"	"Canada Golf Magazine Golf World Kingdom magazine HK Golfer Links Magazine Leisure Golf"	33	query204_Golf_Digest\P\33-3

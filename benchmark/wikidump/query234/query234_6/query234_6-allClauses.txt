@@ -1,0 +1,58 @@
+0	SVC (S: Aktiengesellschaft@9, V: "is", C: LISN@11)
+1	SVC (S: CHF@2, V: "is", C: 2006@4)
+2	
+3	SVA (V: "be known", S: AG@6, A!: commonly@9, A?: as@11)	SVC (C: chocolate@18, V: is@14, S: AG@6)
+4	
+5	SVC (S: Sprüngli@2, V: "is", C: Sprüngli@10)	SVO (S: his@6, V: "has", O: son@7)	SVA (V: "be added", S: Ammann@12, A!: to@25, A?: later@29, XCOMP: produce@36)	SVO (V: owned@13, S: Ammann@12, O: shop@17, A?: in@18, A?: added@34)	SVO (V: added@34, S: factory@32, A?: to@25, A?: later@29, XCOMP: produce@36)
+6	
+7	SVA (V: divided@15, S: business@13, A?: With@1, A!: between@16)	SVO (S: his@17, V: "has", O: sons@19)
+8	SVO (V: received@7, S: Robert@5, A?: younger@2, O: stores@10)	SVC (V: became@12, S: stores@10, ACOMP: known@13)
+9	SVC (S: brother@3, V: "is", C: Rudolf@6)	SVO (V: received@8, S: brother@3, O: factory@11)
+10	SVO (S: his@7, V: "has", O: plans@9)	SVA (V: converted@13, S: Rudolf@12, A?: raise@2, A!: in@14, A?: into@19)	SVO (S: his@16, V: "has", O: company@18)
+11	SVO (V: acquired@7, S: he@6, A?: In@1, O: factory@10)	SVOC (V: changed@19, S: company@18, O: name@21, CCOMP: und@26)	SVO (S: its@20, V: "has", O: name@21)	SVO (V: und@26, S: Berner@25, O: Lindt@29)
+12	
+13	SVO (V: acquired@9, S: Sprüngli@8, O: chocolatier@12)	SVOC (V: integrated@17, S: Sprüngli@8, O: chocolatier@12, O: it@18, A?: along@19, A?: into@24)	SVC (S: chocolatier@12, V: "is", C: Hofbauer@14)	SVO (S: its@21, V: "has", O: brand@23)
+14	SVO (V: acquired@10, S: company@9, A?: In@1, A?: respectively@6, O: chocolatier@13)	SVOC (V: integrated@24, S: company@9, A?: In@1, A?: respectively@6, O: chocolatier@13, O: them@25, A?: into@26, A?: as@29)
+15	SVO (V: expanded@10, S: Sprüngli@8, O: Ghirardelli@13, A?: to@14)
+16	SVO (V: announced@8, S: Lindt@7, A?: On@1, O: closure@10)	SVO (S: its@14, V: "has", O: boutiques@17)
+17	
+18	SVOC (V: closes@2, S: Lindt@1, O: lid@3, A?: on@4, O: www.ft.com/cms/s/0/ebefec5a-131c-11de-a170-0000779fd2ac.html@20)	SVO (S: its@7, V: "has", O: http@16)
+19	SVO (V: closes@2, S: Lindt@1, O: lid@3, A?: on@4)	SVO (S: its@7, V: "has", O: Lindt@16)	SVO (V: has@21, S: Sprüngli@20, O: factories@23)	SVA (S: Kilchberg@26, V: "is in", C: Switzerland@28)	SVA (S: Aachen@30, V: "is in", C: Germany@32)	SVC (S: Oloron-Sainte-Marie@34, V: "is", C: France@36)	SVC (S: Olona@39, V: "is", C: Italy@41)	SVA (S: Gloggnitz@43, V: "is in", C: Austria@45)	SVA (S: Stratham@48, V: "is in", C: Hampshire@51)
+20	SVOO (V: manufactures@7, S: Austria@6, O: products@8, A?: under@9, A?: in@15, IO: factory@2)
+21	SVO (S: Caffarel@1, V: "has", O: factory@3)	SVC (C: located@5, V: is@4, S: factory@3, A?: in@6)	SVO (S: Ghirardelli@13, V: "has", O: factory@15)	SVA (S: Leandro@20, V: "is in", C: California@22)
+22	SVC (C: type@4, V: is@2, S: Lindor@1, A?: of@5, A?: produced@7)	SVA (V: "be produced", S: type@4, A!: by@8)	SVA (V: characterized@13, S: Lindt@9, A!: by@14)
+23	SVC (C: ball@6, V: was@3, S: it@2, A?: Originally@1)	SVA (V: "be introduced", S: Sprüngli@12, A!: in@14)
+24	
+25	SVA (V: comes@2, S: It@1, A!: in@3)	SVA (V: in@13, S: It@1, A?: in@3, A!: variety@15)	SVOC (V: having@21, S: flavour@20, O: wrapper@25, A?: follows@27, O: thumbuprightLindor@29)	SVO (S: its@22, V: "has", O: wrapper@25)	SVO (V: manufactured@37, S: Most@30, A?: in@38, O: thumbuprightLindor@29)
+26	SVA (V: referred@6, S: chocolates@4, A?: In@1, A!: to@7)	SVA (V: translates@14, S: Kugeln@11, A!: to@15)
+27	SVO (V: produces@10, S: April@1, A?: also@9, O: Bunny@13)	SVC (S: Bunny@13, V: "is", C: rabbit@19)
+28	
+29	
+30	
+31	SVO (V: wears@3, S: bunny@2, CCOMP: bow@8)	SVA (V: bow@8, S: ribbon@7, A!: around@9)	SVO (S: its@10, V: "has", O: neck@11)
+32	SVA (V: comes@4, S: bunny@2, A?: also@3, A!: in@5)
+33	SVO (V: wears@5, S: bunny@4, O: ribbon@9)
+34	SVO (V: wrapped@2, S: Chocolates@1, XCOMP: look@4)	SV (V: made@12, S: wrapped@2)
+35	SVA (V: packaged@4, S: lambs@2, A!: with@5)
+36	SVO (V: produces@5, S: Lindt@4, A?: At@1, O: variety@7)	SVO (V: resembles@23, S: reindeer@19, A?: somewhat@22, XCOMP: bunny@26)	SVO (S: Santa@35, V: "has", O: figures@41)	SVC (S: figures@41, V: "is", C: bells@46)
+37	SVC (C: available@6, V: are@5, S: tins@2, A?: in@7)
+38	SVO (V: include@4, S: items@3, O: balls@9)
+39	
+40	
+41	SVOC (C: famous@6, V: is@5, S: Lindt@4, O: products@2, A?: for@7)	SVC (C: chocolates@11, V: are@8, S: products@2)	SVO (S: its@9, V: "has", O: chocolates@11)
+42	SV (V: include@7, S: flavours@2)	SVO (S: Their@9, V: "has", O: range@12)	SVO (V: embodies@13, S: range@12, O: desserts@16)
+43	SVO (V: include@2, S: Flavours@1, O: Chocolat@5)
+44	SVO (V: has@2, S: Lindt@1, O: Creation@5)
+45	SVOC (V: opened@9, S: shop@2, O: cafes@12, A?: in@13, O: four@16)
+46	SVA (S: Wrentham@18, V: "is in", C: MA@20)
+47	SVO (V: has@3, S: café@2, O: chocolates@6)	SVC (C: available@9, V: are@8, S: chocolates@6, A?: in@10)
+48	SVO (V: sell@3, S: They@1, A?: also@2, O: chocolates@5)
+49	SV (V: include@4, S: flavours@3)	SVA (V: "be established", S: Companies@8, A!: in@10)	SVA (V: "be infused", S: chocolate@106, A!: with@108)	SVA (V: "be infused", S: chocolate@114, A!: with@116)	SVA (V: "be infused", S: chocolate@126, A!: with@128)
+50	SVA (V: "be wrapped", S: bits@59, A!: in@61)	SVA (V: "be filling", S: pistachio@84, O: Mandarin@89)	SVA (V: "be filling", S: strawberry@104, O: margarita@110)	SVA (V: "be filling", S: strawberry@117, O: Orange@121)	SVC (S: cocoa@135, V: "is", C: origin@138)	SVC (S: Madagascar@140, V: "is", C: origin@156)	SVC (S: cocoa@144, V: "is", C: Ecuador@149)	SVO (V: located@208, S: first@206, O: chocolate@198)	SVC (S: Wharf@223, V: "is", C: 2006@225)
+51	SVA (V: opened@4, S: store@3, A!: in@5, A?: in@9, A?: in@14)	SVO (S: Sydney@10, V: "has", O: Shire@13)
+52	SVOC (V: opened@4, S: Melbourne@1, O: Café@8, A?: at@9, O: www.realestatesource@17)	SVOC (V: opened@4, S: Lindt@3, O: Café@8, A?: at@9, O: www.realestatesource@17)
+53	
+54	
+55	
+56	
+57	SVA (V: "be swirled", S: cream@40, A!: throughout@45)

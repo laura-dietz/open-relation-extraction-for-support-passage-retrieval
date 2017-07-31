@@ -1,0 +1,289 @@
+the Canadian version of this channel NBA TV Canada NBA TV NBA TV .svg 	0	query220_NBA_TV\S\0
+NBA TV logo 150px National Basketball Association ( leased to Turner Broadcasting System , a Time Warner company ) 480i ( SDTV ) 1080i ( HDTV ) Atlanta , Georgia , United States March 17 , 1999 http ://nba.com/nba_tv 	1	query220_NBA_TV\S\1
+"Turner Broadcasting System nba.com/nba_tv"	"is"	"a Time Warner company 480i 1080i Atlanta"	1	query220_NBA_TV\P\1-0
+"Turner Broadcasting System nba.com/nba_tv"	"is"	"a Time Warner company 480i 1080i Atlanta"	1	query220_NBA_TV\P\1-1
+"a Time Warner company 480i 1080i"	"is"	"HDTV"	1	query220_NBA_TV\P\1-2
+"a Time Warner company 480i 1080i Atlanta"	"is in"	"United States March 17"	1	query220_NBA_TV\P\1-3
+"a Time Warner company 480i 1080i Atlanta"	"is in"	"Georgia"	1	query220_NBA_TV\P\1-4
+"March 17"	"is"	"1999 http"	1	query220_NBA_TV\P\1-5
+DirecTV Channel 216 ( SD/HD ) Dish Network Channel 156 ( SD/HD ) Channel 9508 ( HD ) NTV Plus DishHD ( Taiwan ) Channel 6350 ( HD ) D-Smart ( Turkey ) Channel 78 Channel 78 ( HD ) Available on most cable systems Check local listings Verizon FiOS Channel 89 ( SD ) Channel 589 ( HD ) Time Warner Cable Channel 27 Channel 241 AT&T Uverse Channel 632 ( SD ) Channel 1632 ( HD ) Now TV Channel 678 ( SD ) Sky Angel Channel 331 NBA TV is a television specialty channel that is dedicated to showcasing the sport of basketball in the United States . 	2	query220_NBA_TV\S\2
+"Channel 216"	"is"	"SD/HD"	2	query220_NBA_TV\P\2-0
+"Channel 156"	"is"	"SD/HD"	2	query220_NBA_TV\P\2-1
+"DirecTV Channel 216 Dish Network Channel 156 Channel 9508 NTV Plus DishHD Channel 6350 D-Smart"	"is"	"HD"	2	query220_NBA_TV\P\2-2
+"DirecTV Channel 216 Dish Network Channel 156 Channel 9508 NTV Plus DishHD Channel 6350 D-Smart"	"is"	"HD"	2	query220_NBA_TV\P\2-3
+"DishHD Channel 6350"	"is"	"HD"	2	query220_NBA_TV\P\2-4
+"DishHD Channel 6350 D-Smart"	"is"	"Turkey"	2	query220_NBA_TV\P\2-5
+"Channel 78"	"is"	"HD"	2	query220_NBA_TV\P\2-6
+"Channel 78 Channel 78 Available on most cable systems"	"Check"	"local listings Verizon FiOS Channel 89 Channel 589 Time Warner Cable Channel 27 Channel 241 AT&T Uverse Channel 632 Channel 1632 Now TV Channel 678 Sky Angel Channel 331 NBA TV DishHD Channel 6350 D-Smart"	2	query220_NBA_TV\P\2-7
+"Channel 89"	"is"	"SD"	2	query220_NBA_TV\P\2-8
+"Verizon FiOS Channel 89 Channel 589"	"is"	"HD"	2	query220_NBA_TV\P\2-9
+"Channel 632"	"is"	"SD"	2	query220_NBA_TV\P\2-10
+"Channel 632"	"is"	"SD"	2	query220_NBA_TV\P\2-11
+"Channel 678"	"is"	"SD"	2	query220_NBA_TV\P\2-12
+"DirecTV Channel 216 Dish Network Channel 156 Channel 9508 NTV Plus DishHD Channel 6350 D-Smart"	"is"	"a television specialty channel"	2	query220_NBA_TV\P\2-13
+"a television specialty channel"	"is dedicated"	"to showcasing the sport of basketball in the United States"	2	query220_NBA_TV\P\2-14
+The network is financially backed by the National Basketball Association ( NBA ) , which also uses NBA TV as a way of advertising their out of market package NBA League Pass , and partner channel TNT . 	3	query220_NBA_TV\S\3
+"The network"	"is backed"	"by the National Basketball Association financially"	3	query220_NBA_TV\P\3-0
+"The network"	"is backed"	"by the National Basketball Association"	3	query220_NBA_TV\P\3-1
+"the National Basketball Association"	"is"	"NBA"	3	query220_NBA_TV\P\3-2
+"the National Basketball Association"	"uses"	"NBA TV also"	3	query220_NBA_TV\P\3-3
+"the National Basketball Association"	"uses"	"NBA TV as a way of advertising their out of market package NBA League Pass partner channel TNT"	3	query220_NBA_TV\P\3-4
+"the National Basketball Association"	"uses"	"NBA TV"	3	query220_NBA_TV\P\3-5
+"the National Basketball Association"	"uses"	"NBA TV"	3	query220_NBA_TV\P\3-6
+Started in 1999 as nba.com 	4	query220_NBA_TV\S\4
+Started in 1999 as nba.com 	4	query220_NBA_TV\S\4
+Started in 1999 as nba.com 	4	query220_NBA_TV\S\4
+TV , the channel , which had its studios at NBA Entertainment in Secaucus _ New Jersey , began a multi-year deal with American television companies Cox Communications , Cablevision , and Time Warner Cable on June 28 , 2003 , allowing the network to expand to 45 million American homes , and 30 different countries . 	5	query220_NBA_TV\S\5
+"TV"	"is"	"the channel"	5	query220_NBA_TV\P\5-0
+"TV"	"had"	"its studios at NBA Entertainment in Secaucus _ New Jersey"	5	query220_NBA_TV\P\5-1
+"TV"	"had"	"its studios at NBA Entertainment in Secaucus _ New Jersey"	5	query220_NBA_TV\P\5-2
+"TV"	"began"	"a multi-year deal with American television companies Cox Communications allowing the network to expand to 45 million American homes"	5	query220_NBA_TV\P\5-3
+"TV"	"began"	"a multi-year with American television companies Cox Communications Time Warner Cable on June 28 2003 allowing the network to expand to 45 million American homes"	5	query220_NBA_TV\P\5-4
+"TV"	"began"	"a multi-year deal with American television companies Cox Communications"	5	query220_NBA_TV\P\5-5
+"TV"	"began"	"a multi-year with American television companies Cox Communications Time Warner Cable on June 28 2003"	5	query220_NBA_TV\P\5-6
+"TV"	"30 different countries"	"a multi-year deal with American television companies Cox Communications allowing the network to expand to 45 million American homes"	5	query220_NBA_TV\P\5-7
+"TV"	"30 different countries"	"a multi-year with American television companies Cox Communications Time Warner Cable on June 28 2003 allowing the network to expand to 45 million American homes"	5	query220_NBA_TV\P\5-8
+"TV"	"30 different countries"	"a multi-year deal with American television companies Cox Communications"	5	query220_NBA_TV\P\5-9
+"TV"	"30 different countries"	"a multi-year with American television companies Cox Communications Time Warner Cable on June 28 2003"	5	query220_NBA_TV\P\5-10
+"TV"	"be allowing"	"the network to expand to 45 million American homes"	5	query220_NBA_TV\P\5-11
+"American television companies Cox Communications"	"is"	"Cablevision"	5	query220_NBA_TV\P\5-12
+NBA TV replaced Time Warner 's CNN/S I on many cable systems after that network shut down a year earlier . 	6	query220_NBA_TV\S\6
+"NBA TV"	"replaced"	"Time Warner 's CNN/S I on many cable systems"	6	query220_NBA_TV\P\6-0
+"NBA TV"	"replaced"	"Time Warner 's CNN/S I after that network shut down a year earlier"	6	query220_NBA_TV\P\6-1
+"NBA TV"	"replaced"	"Time Warner 's CNN/S I"	6	query220_NBA_TV\P\6-2
+"Time Warner"	"has"	"CNN/S I"	6	query220_NBA_TV\P\6-3
+"that network"	"shut down"	"a year earlier"	6	query220_NBA_TV\P\6-4
+On October 8 , 2007 , it was reported that Turner Sports , a division of Time Warner , was to take over the channel 's operations , according to : " NBATV : Surprisingly there has been little said about the NBA 's decision to sell off NBATV to one of its media partners . 	7	query220_NBA_TV\S\7
+On October 8 , 2007 , it was reported that Turner Sports , a division of Time Warner , was to take over the channel 's operations , according to : " NBATV : Surprisingly there has been little said about the NBA 's decision to sell off NBATV to one of its media partners . 	7	query220_NBA_TV\S\7
+On October 8 , 2007 , it was reported that Turner Sports , a division of Time Warner , was to take over the channel 's operations , according to : " NBATV : Surprisingly there has been little said about the NBA 's decision to sell off NBATV to one of its media partners . 	7	query220_NBA_TV\S\7
+"Turner Sports"	"is"	"a division of Time Warner"	7	query220_NBA_TV\P\7-0
+"Turner Sports"	"was"	"to take over the channel 's operations"	7	query220_NBA_TV\P\7-1
+"the channel"	"has"	"operations"	7	query220_NBA_TV\P\7-2
+"the NBA 's decision"	"be sell"	"NBATV to one of its media partners"	7	query220_NBA_TV\P\7-3
+"the NBA"	"has"	"decision to sell off NBATV to one of its media partners"	7	query220_NBA_TV\P\7-4
+"the NBA"	"has"	"decision to sell off NBATV to one of its media partners"	7	query220_NBA_TV\P\7-5
+Talks had gone on for sometime as ESPN/ABC and Turner both explored scenarios with the league . 	8	query220_NBA_TV\S\8
+"Talks"	"had gone"	"on for sometime as ESPN/ABC explored scenarios with the league"	8	query220_NBA_TV\P\8-0
+"Talks"	"had gone"	"on for sometime as Turner both explored scenarios with the league"	8	query220_NBA_TV\P\8-1
+Ultimately it seems Turner has won out , and will take over operation of the league 's flagship cable channel , that reaches some 12 million subscribers . 	9	query220_NBA_TV\S\9
+Ultimately it seems Turner has won out , and will take over operation of the league 's flagship cable channel , that reaches some 12 million subscribers . 	9	query220_NBA_TV\S\9
+Ultimately it seems Turner has won out , and will take over operation of the league 's flagship cable channel , that reaches some 12 million subscribers . 	9	query220_NBA_TV\S\9
+Ultimately it seems Turner has won out , and will take over operation of the league 's flagship cable channel , that reaches some 12 million subscribers . 	9	query220_NBA_TV\S\9
+Ultimately it seems Turner has won out , and will take over operation of the league 's flagship cable channel , that reaches some 12 million subscribers . 	9	query220_NBA_TV\S\9
+"the league"	"has"	"flagship cable channel"	9	query220_NBA_TV\P\9-0
+"the league"	"has"	"flagship cable channel"	9	query220_NBA_TV\P\9-1
+The exact changeover date is not clear , but several months ago a Bloomberg report cited sources saying senior level producers were offered contract buyouts in September . 	10	query220_NBA_TV\S\10
+"The exact changeover date"	"is not"	"clear"	10	query220_NBA_TV\P\10-0
+"a Bloomberg report"	"cited"	"sources saying senior level producers were offered contract buyouts in September"	10	query220_NBA_TV\P\10-1
+"a Bloomberg report"	"cited"	"sources saying senior level producers were offered contract buyouts in September"	10	query220_NBA_TV\P\10-2
+"senior level producers"	"were offered"	"contract buyouts in September"	10	query220_NBA_TV\P\10-3
+"senior level producers"	"were offered"	"contract buyouts"	10	query220_NBA_TV\P\10-4
+" Turner Sports relaunched the channel on October 28 , 2008 , using analysts carried over from NBA on TNT . 	11	query220_NBA_TV\S\11
+"Turner Sports"	"relaunched"	"the channel on October 28 2008"	11	query220_NBA_TV\P\11-0
+http ://www .sportsbusinessjournal.com/article/60197 	12	query220_NBA_TV\S\12
+Turner promotes NBA digital menu 2008-10-06 2008-10-15 http ://www .sportsbusinessjournal.com/article/60197 	13	query220_NBA_TV\S\13
+Turner promotes NBA digital menu 2008-10-06 2008-10-15 The studio was also upgraded , and the show now airs live from Studio B at Turner Studios in Atlanta , Georgia ; Studio B is adjacent to Studio J , home of Inside the NBA . 	14	query220_NBA_TV\S\14
+"Turner"	"promotes"	"NBA digital menu 2008-10-06 2008-10-15"	14	query220_NBA_TV\P\14-0
+"The studio"	"was upgraded"	"NBA digital menu 2008-10-06 2008-10-15 also"	14	query220_NBA_TV\P\14-1
+"The studio"	"was upgraded"	"NBA digital menu 2008-10-06 2008-10-15"	14	query220_NBA_TV\P\14-2
+"the show"	"airs"	"live from Studio B at Turner Studios in Atlanta now"	14	query220_NBA_TV\P\14-3
+"the show"	"airs"	"live from Studio B at Turner Studios in Atlanta"	14	query220_NBA_TV\P\14-4
+"the show"	"airs"	"live from Studio B at Turner Studios in Atlanta"	14	query220_NBA_TV\P\14-5
+"Studio B"	"is adjacent"	"to Studio J"	14	query220_NBA_TV\P\14-6
+"Studio B"	"is"	"adjacent"	14	query220_NBA_TV\P\14-7
+"Studio J"	"is"	"home of Inside the NBA"	14	query220_NBA_TV\P\14-8
+On April 16 , 2009 , it was announced that DirecTV and the NBA reached a new carriage agreement . 	15	query220_NBA_TV\S\15
+On April 16 , 2009 , it was announced that DirecTV and the NBA reached a new carriage agreement . 	15	query220_NBA_TV\S\15
+On April 16 , 2009 , it was announced that DirecTV and the NBA reached a new carriage agreement . 	15	query220_NBA_TV\S\15
+On April 16 , 2009 , it was announced that DirecTV and the NBA reached a new carriage agreement . 	15	query220_NBA_TV\S\15
+"the NBA"	"reached"	"a new carriage agreement"	15	query220_NBA_TV\P\15-0
+NBA TV was moved from the satellite television provider 's add on Sports Pack ( and premium subscription package NBA League Pass ) to its lower priced base package Choice Xtra on October 1 , 2009 . 	16	query220_NBA_TV\S\16
+"NBA TV"	"was moved"	"from the satellite television provider 's add on Sports Pack premium subscription package NBA League Pass to its lower priced base package Choice Xtra on October 1 2009"	16	query220_NBA_TV\P\16-0
+"NBA TV"	"was moved"	"from the satellite television provider 's add on Sports Pack premium subscription package NBA League Pass to its lower priced base package Choice Xtra on October 1 2009"	16	query220_NBA_TV\P\16-1
+"NBA TV"	"was moved"	"from the satellite television provider 's add on Sports Pack premium subscription package NBA League Pass to its lower priced base package Choice Xtra on October 1 2009"	16	query220_NBA_TV\P\16-2
+"NBA TV"	"was moved"	"from the satellite television provider 's add on Sports Pack premium subscription package NBA League Pass to its lower priced base package Choice Xtra on October 1 2009"	16	query220_NBA_TV\P\16-3
+DirecTV believes the move will make the channel available to an additional 8 million subscribers . 	17	query220_NBA_TV\S\17
+"DirecTV"	"believes"	"the move will make the channel available to an additional 8 million subscribers"	17	query220_NBA_TV\P\17-0
+"the move"	"will make"	"the channel available to an additional 8 million subscribers"	17	query220_NBA_TV\P\17-1
+"the channel"	"available"	"to an additional 8 million subscribers"	17	query220_NBA_TV\P\17-2
+Multichannel News April 16 , 2009 On June 4 , 2009 , it was announced that the NBA and Comcast have reached a deal to move the channel from the cable company 's add on Sports Entertainment Package to its basic level Digital Classic package , by the start of the 2009-10 NBA season . 	18	query220_NBA_TV\S\18
+Multichannel News April 16 , 2009 On June 4 , 2009 , it was announced that the NBA and Comcast have reached a deal to move the channel from the cable company 's add on Sports Entertainment Package to its basic level Digital Classic package , by the start of the 2009-10 NBA season . 	18	query220_NBA_TV\S\18
+Multichannel News April 16 , 2009 On June 4 , 2009 , it was announced that the NBA and Comcast have reached a deal to move the channel from the cable company 's add on Sports Entertainment Package to its basic level Digital Classic package , by the start of the 2009-10 NBA season . 	18	query220_NBA_TV\S\18
+"the NBA"	"have reached"	"a deal to move the channel from the cable company 's add on Sports Entertainment Package to its basic level Digital Classic package by the start of the 2009-10 NBA season"	18	query220_NBA_TV\P\18-0
+"the Comcast"	"have reached"	"a deal to move the channel from the cable company 's add on Sports Entertainment Package to its basic level Digital Classic package by the start of the 2009-10 NBA season"	18	query220_NBA_TV\P\18-1
+"the NBA"	"have reached"	"a deal"	18	query220_NBA_TV\P\18-2
+"the Comcast"	"have reached"	"a deal"	18	query220_NBA_TV\P\18-3
+"the NBA"	"be move"	"the channel from the cable company 's add on Sports Entertainment Package to its basic level Digital Classic package by the start of the 2009-10 NBA season"	18	query220_NBA_TV\P\18-4
+"the Comcast"	"be move"	"the channel from the cable company 's add on Sports Entertainment Package to its basic level Digital Classic package by the start of the 2009-10 NBA season"	18	query220_NBA_TV\P\18-5
+"the NBA"	"be move"	"the channel from the cable company 's add on Sports Entertainment Package to its basic level Digital Classic package"	18	query220_NBA_TV\P\18-6
+"the Comcast"	"be move"	"the channel from the cable company 's add on Sports Entertainment Package to its basic level Digital Classic package"	18	query220_NBA_TV\P\18-7
+"the cable company 's"	"add"	"on Sports Entertainment Package to its basic level Digital Classic package"	18	query220_NBA_TV\P\18-8
+"the cable company 's"	"add"	"on Sports Entertainment Package"	18	query220_NBA_TV\P\18-9
+"the cable company 's"	"add"	"on Sports Entertainment Package"	18	query220_NBA_TV\P\18-10
+Comcast believes an additional 8 million customers will now have access to the channel . 	19	query220_NBA_TV\S\19
+"Comcast"	"believes"	"an additional 8 million customers will now have access to the channel"	19	query220_NBA_TV\P\19-0
+"an additional 8 million customers"	"will have"	"access to the channel now"	19	query220_NBA_TV\P\19-1
+"an additional 8 million customers"	"will have"	"access to the channel"	19	query220_NBA_TV\P\19-2
+Multichannel News June 4 , 2009 Verizon FiOS added the channel and NBA League Pass for the first time on September 23 , 2009 . 	20	query220_NBA_TV\S\20
+"Verizon FiOS"	"added"	"the channel Pass for the first time on September 23 2009 20 Multichannel News June 4"	2009	query220_NBA_TV\P\20-0
+"Verizon FiOS"	"added"	"the NBA League Pass for the first time on September 23 2009 20 Multichannel News June 4"	2009	query220_NBA_TV\P\20-1
+"the channel"	"Pass"	"for the first time on September 23 2009"	2009	query220_NBA_TV\P\20-2
+"the NBA League"	"Pass"	"for the first time on September 23 2009"	2009	query220_NBA_TV\P\20-3
+TV Week .com 	21	query220_NBA_TV\S\21
+September 23 , 2009 The channel also signed new multiyear agreements with Time Warner Cable , Cablevision , and Dish Network on October 22 , 2009 . 	22	query220_NBA_TV\S\22
+"The channel"	"signed"	"new multiyear agreements also"	2009	query220_NBA_TV\P\22-0
+"The channel"	"signed"	"new multiyear agreements with Time Warner Cable"	2009	query220_NBA_TV\P\22-1
+"The channel"	"signed"	"new multiyear agreements with Time Warner Dish Network on October 22 2009"	2009	query220_NBA_TV\P\22-2
+"The channel"	"signed"	"new multiyear agreements"	2009	query220_NBA_TV\P\22-3
+"Time Warner Cable"	"is"	"Cablevision"	2009	query220_NBA_TV\P\22-4
+"Time Warner Dish Network on October 22 2009"	"is"	"Cablevision"	2009	query220_NBA_TV\P\22-5
+They also reached a new deal with Cox Cable earlier this year . 	23	query220_NBA_TV\S\23
+They also reached a new deal with Cox Cable earlier this year . 	23	query220_NBA_TV\S\23
+They also reached a new deal with Cox Cable earlier this year . 	23	query220_NBA_TV\S\23
+They also reached a new deal with Cox Cable earlier this year . 	23	query220_NBA_TV\S\23
+They also reached a new deal with Cox Cable earlier this year . 	23	query220_NBA_TV\S\23
+With all of the above carriage deals , the NBA believes it will now reach 45 million viewers . 	24	query220_NBA_TV\S\24
+"the NBA"	"believes"	"it will now reach 45 million viewers 24 With all of the above carriage deals"	24	query220_NBA_TV\P\24-0
+"the NBA"	"believes"	"it will now reach 45 million viewers"	24	query220_NBA_TV\P\24-1
+"the NBA"	"believes"	"it will now reach 45 million viewers"	24	query220_NBA_TV\P\24-2
+"the NBA"	"believes"	"it will now reach 45 million viewers"	24	query220_NBA_TV\P\24-3
+Broadcasting and Cable October 22 , 2009 AT&T Uverse reached a carriage deal and added the channel in SD and HD for the first time on October 29 , 2010 . 	25	query220_NBA_TV\S\25
+"AT&T Uverse"	"reached"	"a carriage deal"	25	query220_NBA_TV\P\25-0
+Multichannel News October 29 , 2010 NBA TV has been criticized for its usage of local announcers during the playoffs http ://awfulannouncing.com/2011-articles/april/gary-neals-buzzer-beater-and-the-sounds-of-silence 	26	query220_NBA_TV\S\26
+"NBA TV"	"has been criticized"	"for its usage of local announcers during the playoffs"	2010	query220_NBA_TV\P\26-0
+"NBA TV"	"has been criticized"	"for its usage of local announcers during the playoffs"	2010	query220_NBA_TV\P\26-1
+.html 	27	query220_NBA_TV\S\27
+Gary Neal 's Buzzer Beater And The Sounds Of Silence Yoder , Matt 27 April 2011 Awful Announcing Bloguin 2 May 2011 http ://awfulannouncing.com/2011-articles/april/gary-neals-buzzer-beater-and-the-sounds-of-silence 	28	query220_NBA_TV\S\28
+"Gary Neal"	"has"	"28 Buzzer Beater awfulannouncing.com/2011-articles/april/gary-neals-buzzer-beater-and-the-sounds-of-silence"	28	query220_NBA_TV\P\28-0
+"Gary Neal 's Buzzer Beater awfulannouncing.com/2011-articles/april/gary-neals-buzzer-beater-and-the-sounds-of-silence"	"is"	"Matt 27 April 2011 Awful Announcing Bloguin 2 May 2011 http"	28	query220_NBA_TV\P\28-1
+"Gary Neal 's Buzzer The Sounds Of Silence Yoder awfulannouncing.com/2011-articles/april/gary-neals-buzzer-beater-and-the-sounds-of-silence"	"is"	"Matt 27 April 2011 Awful Announcing Bloguin 2 May 2011 http"	28	query220_NBA_TV\P\28-2
+"Gary Neal 's Buzzer The Sounds Of Silence Yoder awfulannouncing.com/2011-articles/april/gary-neals-buzzer-beater-and-the-sounds-of-silence"	"is"	"Matt 27 April 2011 Awful Announcing Bloguin 2 May 2011 http"	28	query220_NBA_TV\P\28-3
+.html 	29	query220_NBA_TV\S\29
+Gary Neal 's Buzzer Beater And The Sounds Of Silence Yoder , Matt 27 April 2011 Awful Announcing Bloguin 2 May 2011 http ://awfulannouncing.com/2011-articles/april/should-nbatv-use-local-announcers-for-playoff-games 	30	query220_NBA_TV\S\30
+"Gary Neal"	"has"	"30 Buzzer Beater awfulannouncing.com/2011-articles/april/should-nbatv-use-local-announcers-for-playoff-games"	30	query220_NBA_TV\P\30-0
+"Gary Neal 's Buzzer Beater awfulannouncing.com/2011-articles/april/should-nbatv-use-local-announcers-for-playoff-games"	"is"	"Matt 27 April 2011 Awful Announcing Bloguin 2 May 2011 http"	30	query220_NBA_TV\P\30-1
+"Gary Neal 's Buzzer The Sounds Of Silence Yoder awfulannouncing.com/2011-articles/april/should-nbatv-use-local-announcers-for-playoff-games"	"is"	"Matt 27 April 2011 Awful Announcing Bloguin 2 May 2011 http"	30	query220_NBA_TV\P\30-2
+"Gary Neal 's Buzzer The Sounds Of Silence Yoder awfulannouncing.com/2011-articles/april/should-nbatv-use-local-announcers-for-playoff-games"	"is"	"Matt 27 April 2011 Awful Announcing Bloguin 2 May 2011 http"	30	query220_NBA_TV\P\30-3
+.html 	31	query220_NBA_TV\S\31
+Should NBATV Use Local Announcers For Playoff Games ? Yoder , Matt 23 April 2011 Awful Announcing Bloguin 2 May 2011 http ://awfulannouncing.com/2011-articles/april/should-nbatv-use-local-announcers-for-playoff-games 	32	query220_NBA_TV\S\32
+"Yoder awfulannouncing.com/2011-articles/april/should-nbatv-use-local-announcers-for-playoff-games"	"is"	"Matt 23 April 2011 Awful Announcing Bloguin 2 May 2011 http"	32	query220_NBA_TV\P\32-0
+.html 	33	query220_NBA_TV\S\33
+Should NBATV Use Local Announcers For Playoff Games ? Yoder , Matt 23 April 2011 Awful Announcing Bloguin 2 May 2011 ( NBA TV would merely pick up a feed that 's otherwise broadcast to a local audience via regional sports networks ) . 	34	query220_NBA_TV\S\34
+Should NBATV Use Local Announcers For Playoff Games ? Yoder , Matt 23 April 2011 Awful Announcing Bloguin 2 May 2011 ( NBA TV would merely pick up a feed that 's otherwise broadcast to a local audience via regional sports networks ) . 	34	query220_NBA_TV\S\34
+Should NBATV Use Local Announcers For Playoff Games ? Yoder , Matt 23 April 2011 Awful Announcing Bloguin 2 May 2011 ( NBA TV would merely pick up a feed that 's otherwise broadcast to a local audience via regional sports networks ) . 	34	query220_NBA_TV\S\34
+"May 2011 NBA TV"	"would pick up"	"a feed Awful Announcing Bloguin merely"	2	query220_NBA_TV\P\34-0
+"May 2011 NBA TV"	"would pick up"	"a feed Awful Announcing Bloguin"	2	query220_NBA_TV\P\34-1
+"a feed"	"'s broadcast"	"to a local audience otherwise"	2	query220_NBA_TV\P\34-2
+"a feed"	"'s broadcast"	"to a local audience via regional sports networks"	2	query220_NBA_TV\P\34-3
+"a feed"	"'s broadcast"	"to a local audience"	2	query220_NBA_TV\P\34-4
+NBA TV offers basketball news every day , as well as programming showcasing basketball players ' individual lifestyles , life as a basketball team during an NBA season , famous games of the past , and live games typically four days a week during the NBA season . 	35	query220_NBA_TV\S\35
+"NBA TV"	"offers"	"basketball news every day"	35	query220_NBA_TV\P\35-0
+"NBA TV"	"offers"	"basketball news"	35	query220_NBA_TV\P\35-1
+"NBA TV"	"programming"	"basketball news every day"	35	query220_NBA_TV\P\35-2
+"NBA TV"	"programming"	"basketball news showcasing basketball players ' individual lifestyles"	35	query220_NBA_TV\P\35-3
+"NBA TV"	"programming"	"basketball news"	35	query220_NBA_TV\P\35-4
+"NBA TV"	"programming"	"basketball news"	35	query220_NBA_TV\P\35-5
+"basketball players"	"has"	"individual lifestyles"	35	query220_NBA_TV\P\35-6
+"basketball players ' individual lifestyles"	"is"	"life as a basketball team during an NBA season"	35	query220_NBA_TV\P\35-7
+"basketball players ' individual lifestyles"	"is"	"life as a basketball during an NBA season famous games of the past"	35	query220_NBA_TV\P\35-8
+"basketball players ' individual lifestyles"	"is"	"life as a basketball during an NBA season live games typically four days a week during the NBA season"	35	query220_NBA_TV\P\35-9
+Live games on NBA TV are subject to local blackout restrictions , since NBA TV does not have exclusive broadcast rights to any of its games . 	36	query220_NBA_TV\S\36
+"Live games on NBA TV"	"are subject"	"to local blackout restrictions"	36	query220_NBA_TV\P\36-0
+"Live games on NBA TV"	"are subject"	"since NBA TV does not have exclusive broadcast rights to any of its games"	36	query220_NBA_TV\P\36-1
+"Live games on NBA TV"	"are"	"subject"	36	query220_NBA_TV\P\36-2
+"NBA TV"	"does not have"	"exclusive broadcast rights to any of its games"	36	query220_NBA_TV\P\36-3
+"NBA TV"	"does not have"	"exclusive broadcast rights to any of its games"	36	query220_NBA_TV\P\36-4
+Games carried by NBA TV are always also carried by each team 's local rights holder . 	37	query220_NBA_TV\S\37
+"Games"	"be carried"	"by NBA TV"	37	query220_NBA_TV\P\37-0
+"Games carried by NBA TV"	"are carried"	"by each team 's local rights holder always"	37	query220_NBA_TV\P\37-1
+"Games carried by NBA TV"	"are carried"	"by each team 's local rights holder also"	37	query220_NBA_TV\P\37-2
+"Games carried by NBA TV"	"are carried"	"by each team 's local rights holder"	37	query220_NBA_TV\P\37-3
+"each team"	"has"	"local rights holder"	37	query220_NBA_TV\P\37-4
+The channel also shows international games , typically on Saturday evenings , with special emphasis on the Euroleague and the Maccabi Tel Aviv team from Israel . 	38	query220_NBA_TV\S\38
+"The channel"	"shows"	"international games typically on Saturday evenings also"	38	query220_NBA_TV\P\38-0
+"The channel"	"shows"	"international games typically on Saturday evenings with special emphasis on the Euroleague"	38	query220_NBA_TV\P\38-1
+"The channel"	"shows"	"international games typically on Saturday evenings with special emphasis on the the Maccabi Tel Aviv team from Israel"	38	query220_NBA_TV\P\38-2
+"The channel"	"shows"	"international games typically on Saturday evenings"	38	query220_NBA_TV\P\38-3
+In April 2005 , the channel televised the Chinese Basketball Association finals for the first time . 	39	query220_NBA_TV\S\39
+NBA TV carries at least 90 regular-season games per season , all broadcast in high definition , as well as some first-round playoff games . 	40	query220_NBA_TV\S\40
+"NBA TV"	"carries"	"at least 90 regular-season games per season"	40	query220_NBA_TV\P\40-0
+"at least 90 regular-season games per season"	"is"	"all broadcast in high definition"	40	query220_NBA_TV\P\40-1
+"at least 90 regular-season games per season"	"is"	"all in high definition some first-round playoff games"	40	query220_NBA_TV\P\40-2
+It also broadcasts WNBA games nationally ( subject to local blackout ) . 	41	query220_NBA_TV\S\41
+It also broadcasts WNBA games nationally ( subject to local blackout ) . 	41	query220_NBA_TV\S\41
+It also broadcasts WNBA games nationally ( subject to local blackout ) . 	41	query220_NBA_TV\S\41
+It also broadcasts WNBA games nationally ( subject to local blackout ) . 	41	query220_NBA_TV\S\41
+The channel 's flagship program is NBA Gametime Live , a show in which a host and studio analysts go over the latest news , highlights , and look in at games in progress . 	42	query220_NBA_TV\S\42
+"The channel"	"has"	"42 flagship program"	42	query220_NBA_TV\P\42-0
+"The channel 's flagship program"	"is"	"NBA Gametime Live"	42	query220_NBA_TV\P\42-1
+"The channel 's flagship program is NBA Gametime Live"	"is"	"a show"	42	query220_NBA_TV\P\42-2
+"a host"	"go"	"a show in which"	42	query220_NBA_TV\P\42-3
+"a studio analysts"	"go"	"a show in which"	42	query220_NBA_TV\P\42-4
+"a host"	"go"	"over the latest news a show"	42	query220_NBA_TV\P\42-5
+"a studio analysts"	"go"	"over the latest news a show"	42	query220_NBA_TV\P\42-6
+"a host"	"go"	"a show"	42	query220_NBA_TV\P\42-7
+"a studio analysts"	"go"	"a show"	42	query220_NBA_TV\P\42-8
+"The channel 's flagship program is NBA Gametime Live"	"look"	"in at games in progress"	42	query220_NBA_TV\P\42-9
+"The channel 's flagship program is NBA Gametime Live"	"look"	"in at games"	42	query220_NBA_TV\P\42-10
+The show is live six days a week , not airing on most Thursdays due to NBA 's coverage of The NBA on TNT . 	43	query220_NBA_TV\S\43
+"The show"	"is live"	"six days a week"	43	query220_NBA_TV\P\43-0
+"The show"	"is live"	"not airing on most Thursdays due to NBA 's coverage of The NBA on TNT"	43	query220_NBA_TV\P\43-1
+"The show"	"is"	"live"	43	query220_NBA_TV\P\43-2
+"live six days a week"	"be airing"	"on most Thursdays due to NBA 's coverage of The NBA on TNT"	43	query220_NBA_TV\P\43-3
+"live six days a week"	"be airing"	"on most Thursdays"	43	query220_NBA_TV\P\43-4
+"live six days a week"	"be airing"	"on most Thursdays"	43	query220_NBA_TV\P\43-5
+An edited one hour/thirty minute version of the broadcast is repeated throughout the late night/early morning hours . 	44	query220_NBA_TV\S\44
+"An edited one hour/thirty minute version of the broadcast"	"is repeated"	"throughout the late night/early morning hours"	44	query220_NBA_TV\P\44-0
+NBA TV HD is a 1080i high definition simulcast of NBA TV . 	45	query220_NBA_TV\S\45
+"NBA TV HD"	"is"	"a 1080i high definition simulcast of NBA TV"	45	query220_NBA_TV\P\45-0
+All studio programs and original shows are shot in HD , and all live games and recent game rebroadcasts are shown in HD. 	46	query220_NBA_TV\S\46
+"All studio programs"	"are shot"	"in HD"	46	query220_NBA_TV\P\46-0
+"All studio original shows"	"are shot"	"in HD"	46	query220_NBA_TV\P\46-1
+"all live games"	"are shown"	"in HD"	46	query220_NBA_TV\P\46-2
+"all live recent game rebroadcasts"	"are shown"	"in HD"	46	query220_NBA_TV\P\46-3
+For programs not available in HD ( such as older game footage ) , unique stylized pillarboxes are used , the NBA logo with " NBA TV " under it , or alternatively , just " NBA TV " sideways . 	47	query220_NBA_TV\S\47
+Both are in black and gray . 	48	query220_NBA_TV\S\48
+Both are in black and gray . 	48	query220_NBA_TV\S\48
+Both are in black and gray . 	48	query220_NBA_TV\S\48
+The studio host and analysts vary every night on NBA Gametime Live . 	49	query220_NBA_TV\S\49
+"The studio host"	"vary"	"every night on NBA Gametime Live"	49	query220_NBA_TV\P\49-0
+"The studio analysts"	"vary"	"every night on NBA Gametime Live"	49	query220_NBA_TV\P\49-1
+As of 2010 , NBA TV coverage can be seen in 40 countries via the following partners : Category :English-language television stations in the United States Category :Television channels and stations established in 1999 Category :National Basketball Association on television Category :Sports television networks in the United States es :NBA TV fr :NBA TV it :NBA TV ja:NBA TV pt:NBA TV ru:NBA TV simple :NBA TV tr :NBA TV Basketball International FIBA World Basketball Making the Call with Ronnie Nunn NBA Action NBA Gametime Live NBA.com 	50	query220_NBA_TV\S\50
+"NBA TV coverage"	"can be seen"	"in 40 countries via the following partners Category English-language television stations in the United States Category Television channels established in 1999 Category National Basketball Association on television Category Sports television networks in the United States es NBA TV fr NBA TV it NBA TV ja NBA TV pt NBA TV ru NBA TV simple NBA TV tr NBA TV Basketball International FIBA World Basketball Making the Call with Ronnie Nunn NBA Action NBA Gametime Live NBA.com"	50	query220_NBA_TV\P\50-0
+"NBA TV coverage"	"can be seen"	"in 40 countries via the following partners Category English-language television stations in the United States Category Television stations established in 1999 Category National Basketball Association on television Category Sports television networks in the United States es NBA TV fr NBA TV it NBA TV ja NBA TV pt NBA TV ru NBA TV simple NBA TV tr NBA TV Basketball International FIBA World Basketball Making the Call with Ronnie Nunn NBA Action NBA Gametime Live NBA.com"	50	query220_NBA_TV\P\50-1
+"NBA TV coverage"	"can be seen"	"in 40 countries"	50	query220_NBA_TV\P\50-2
+"Television channels"	"be established"	"in 1999 Category National Basketball Association on television Category Sports television networks in the United States es NBA TV fr NBA TV it NBA TV ja NBA TV pt NBA TV ru NBA TV simple NBA TV tr NBA TV Basketball International FIBA World Basketball Making the Call with Ronnie Nunn NBA Action NBA Gametime Live NBA.com"	50	query220_NBA_TV\P\50-3
+"Television stations"	"be established"	"in 1999 Category National Basketball Association on television Category Sports television networks in the United States es NBA TV fr NBA TV it NBA TV ja NBA TV pt NBA TV ru NBA TV simple NBA TV tr NBA TV Basketball International FIBA World Basketball Making the Call with Ronnie Nunn NBA Action NBA Gametime Live NBA.com"	50	query220_NBA_TV\P\50-4
+"NBA TV Basketball International FIBA World Basketball"	"be Making"	"the Call with Ronnie Nunn NBA Action NBA Gametime Live NBA.com"	50	query220_NBA_TV\P\50-5
+Fantasy Insider NBA Roundtable NBA TV Hardwood Classics/Greatest Games NBA D-League Central One on One with Ahmad Rashād Real NBA The Beat The Jump on NBA.com 	51	query220_NBA_TV\S\51
+24 Hours Open Court Rick Kamla ( 2002–present ) Ernie Johnson ( 2008–present ) Ahmad Rashad ( 2006–present ) Bob Fiscella ( 2009–present ) Matt Winer ( 2010–present ) Larry Smith ( 2010–present ) Kyle Montgomery Turner Newsroom : NBA.com 	52	query220_NBA_TV\S\52
+Host Kyle Montgomery http ://news .turner.com/article_display 	53	query220_NBA_TV\S\53
+.cfm 	54	query220_NBA_TV\S\54
+?article_id=4749 11 March 2011 Turner Newsroom : NBA.com 	55	query220_NBA_TV\S\55
+Host Kyle Montgomery http ://news .turner.com/article_display 	56	query220_NBA_TV\S\56
+.cfm 	57	query220_NBA_TV\S\57
+?article_id=4749 11 March 2011 ( 2009–present ) Vince Cellini ( 2010–present ) Beau Estes ( 2010–present ) Brent Barry ( 2009–present ) Kenny Smith ( 2008–present ) Chris Webber ( 2008–present ) Steve Smith ( 2008–present ) Cheryl Miller ( 2008–present ) Charles Barkley ( 2008–present ) David Aldridge ( 2008–present ) Antonio Davis ( 2008–present ) Bernard King ( 2008–present ) Mike Fratello ( 2008–present ) Dennis Scott ( 2009–present ) Derrick Coleman ( 2009–present ) Scot Pollard ( 2009–present ) Syleys Roberts ( 2010–2011 ) Rick Fox ( 2010–present ) Greg Anthony ( 2010–present ) Jerry Stackhouse ( 2010–present ) Brevin Knight ( 2011–present ) Rick Mahorn ( 2011–present ) Shaquille O'Neal ( 2011-present ) Lang Whitaker Scoop Jackson Ronnie Nunn Dr. 	58	query220_NBA_TV\S\58
+Phil McDonald Sekou Smith Andre Aldridge ( 2005–2009 ) Gary Payton ( 2008–2009 ) Eddie Jordan ( 2008–2009 ) Reggie Theus ( 2008–2009 ) LaPhonso Ellis ( 2009 ) Sam Mitchell ( 2008–2010 ) Lawrence Frank ( 2010 ) Matt Harpring ( 2010 ) Eric Snow ( 2008–2010 ) Marc Fein ( 2008–2011 ) Kevin McHale ( 2009–2011 ) Hong Kong Cable Television ( Hong Kong ) now TV ( Hong Kong ) Al Jazeera Sports ( Pan-Middle East ) CanalSatellite ( France ) Basketball TV ( Philippines ) Cignal Digital TV ( Philippines ) NTV ( Turkey ) NTV Plus ( Russia ) Sport + ( Greece ) Sportitalia ( Italy ) Cablevisión ( Argentina ) ZON Multimédia ( Portugal ) StarHub TV ( Singapore ) First Media ( Indonesia ) Broadcasts in Canada as a Canadian version of the channel , NBA TV Canada List of current National Basketball Association broadcasters 	59	query220_NBA_TV\S\59
+"Eddie Jordan 2008 2009 Reggie Theus 2008 2009 LaPhonso Ellis"	"is"	"2009"	59	query220_NBA_TV\P\59-0
+"Lawrence Frank"	"is"	"2010"	59	query220_NBA_TV\P\59-1
+"Kevin McHale 2009 2011 Hong Kong Cable Television now TV Al Jazeera Sports Pan-Middle East CanalSatellite Basketball TV Cignal Digital TV NTV NTV Plus"	"is"	"Hong Kong"	59	query220_NBA_TV\P\59-2
+"Kevin McHale 2009 2011 Hong Kong Cable Television now TV Al Jazeera Sports Pan-Middle East CanalSatellite Basketball TV Cignal Digital TV NTV NTV Plus"	"is"	"Hong Kong"	59	query220_NBA_TV\P\59-3
+"Pan-Middle East CanalSatellite Basketball TV Cignal Digital TV NTV NTV Plus"	"is"	"France"	59	query220_NBA_TV\P\59-4
+"Basketball TV"	"is"	"Philippines"	59	query220_NBA_TV\P\59-5
+"Basketball TV Cignal Digital TV"	"is"	"Philippines"	59	query220_NBA_TV\P\59-6
+"Basketball TV Cignal Digital TV NTV"	"is"	"Turkey"	59	query220_NBA_TV\P\59-7
+"Basketball TV Cignal Digital TV NTV NTV Plus"	"is"	"NBA TV Canada List of current National Basketball Association broadcasters"	59	query220_NBA_TV\P\59-8
+"Basketball TV Cignal Digital TV NTV NTV Plus"	"is"	"NBA TV Canada List of current National Basketball Association broadcasters"	59	query220_NBA_TV\P\59-9
+"Basketball TV Cignal Digital TV NTV NTV Plus"	"is"	"NBA TV Canada List of current National Basketball Association broadcasters"	59	query220_NBA_TV\P\59-10
+"Basketball TV Cignal Digital TV NTV NTV Plus"	"is"	"NBA TV Canada List of current National Basketball Association broadcasters"	59	query220_NBA_TV\P\59-11
+"Basketball TV Cignal Digital TV NTV NTV Plus"	"is"	"NBA TV Canada List of current National Basketball Association broadcasters"	59	query220_NBA_TV\P\59-12
+"Basketball TV Cignal Digital TV NTV NTV Plus"	"is"	"NBA TV Canada List of current National Basketball Association broadcasters"	59	query220_NBA_TV\P\59-13
+"Cablevisión ZON Multimédia"	"is"	"Portugal"	59	query220_NBA_TV\P\59-14
+"StarHub TV"	"is"	"Singapore"	59	query220_NBA_TV\P\59-15
+"StarHub TV First Media"	"is"	"Indonesia"	59	query220_NBA_TV\P\59-16
+"StarHub TV First Media"	"is"	"Indonesia"	59	query220_NBA_TV\P\59-17
+"StarHub TV First Media"	"is"	"Indonesia"	59	query220_NBA_TV\P\59-18
+"StarHub TV First Media"	"is"	"Indonesia"	59	query220_NBA_TV\P\59-19
+"StarHub TV First Media"	"is"	"Indonesia"	59	query220_NBA_TV\P\59-20
+"StarHub TV First Media"	"is"	"Indonesia"	59	query220_NBA_TV\P\59-21
+"StarHub TV First Media"	"is"	"Indonesia"	59	query220_NBA_TV\P\59-22

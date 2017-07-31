@@ -1,0 +1,212 @@
+thumb300pxThe clubhouse of the R&A . 	0	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\0
+The Royal and Ancient Golf Club of St Andrews is one of the oldest and most prestigious golf clubs in the world ( the oldest being the Honourable Company of Edinburgh Golfers at Muirfield ) . 	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\1
+"The Royal Golf Club of St Andrews"	"is one"	"of the oldest golf clubs in the world"	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\1-0
+"The Royal Golf Club of St Andrews"	"is one"	"of the most prestigious golf clubs in the world"	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\1-1
+"The Ancient Golf Club of St Andrews"	"is one"	"of the oldest golf clubs in the world"	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\1-2
+"The Ancient Golf Club of St Andrews"	"is one"	"of the most prestigious golf clubs in the world"	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\1-3
+"The Royal Golf Club of St Andrews"	"is"	"one"	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\1-4
+"The Ancient Golf Club of St Andrews"	"is"	"one"	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\1-5
+"The Royal Golf Club of St Andrews is one of the oldest golf clubs in the world"	"is"	"the oldest being the Honourable Company of Edinburgh Golfers at Muirfield"	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\1-6
+"The Ancient Golf Club of St Andrews is one of the oldest and most prestigious golf clubs in the world"	"is"	"the oldest being the Honourable Company of Edinburgh Golfers at Muirfield"	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\1-7
+"The Royal Golf Club of St Andrews is one of the most prestigious golf clubs in the world"	"is"	"the oldest being the Honourable Company of Edinburgh Golfers at Muirfield"	1	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\1-8
+It is based in St Andrews , Fife , Scotland , and is regarded as the worldwide " Home of Golf " . 	2	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\2
+"It"	"is based"	"in St Andrews"	2	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\2-0
+"It"	"is based"	"in St is regarded as the worldwide Home of Golf"	2	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\2-1
+"St Andrews"	"is"	"Fife"	2	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\2-2
+"St is regarded as the worldwide Home of Golf"	"is"	"Fife"	2	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\2-3
+"St is regarded as the worldwide Home of Golf"	"is"	"Fife"	2	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\2-4
+USGA US Golf Open , 2005 Formerly , it was also one of the governing authorities of the game , but in 2004 this role was handed over to a newly formed group of companies , collectively known as The R&A . 	3	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\3
+USGA US Golf Open , 2005 Formerly , it was also one of the governing authorities of the game , but in 2004 this role was handed over to a newly formed group of companies , collectively known as The R&A . 	3	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\3
+USGA US Golf Open , 2005 Formerly , it was also one of the governing authorities of the game , but in 2004 this role was handed over to a newly formed group of companies , collectively known as The R&A . 	3	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\3
+USGA US Golf Open , 2005 Formerly , it was also one of the governing authorities of the game , but in 2004 this role was handed over to a newly formed group of companies , collectively known as The R&A . 	3	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\3
+"this role"	"was handed"	"over to a newly formed group of companies collectively known as The R&A in 2004"	3	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\3-0
+"this role"	"was handed"	"over to a newly formed group of companies collectively known as The R&A"	3	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\3-1
+"this role"	"was handed"	"over to a newly formed group of companies collectively known as The R&A"	3	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\3-2
+"this role"	"was handed"	"over to a newly formed group of companies collectively known as The R&A"	3	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\3-3
+The organisation was founded in 1754 as the Society of St Andrews Golfers , a local golf club playing at St Andrews Links , but quickly grew in importance . 	4	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\4
+"The organisation"	"was founded"	"in 1754 as the Society of St Andrews Golfers"	4	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\4-0
+"The organisation"	"was founded"	"in 1754"	4	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\4-1
+"The organisation"	"was grew"	"in importance in 1754"	4	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\4-2
+"The organisation"	"was grew"	"in importance as the Society of St Andrews Golfers"	4	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\4-3
+"The organisation"	"was grew"	"in importance quickly"	4	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\4-4
+"The organisation"	"was grew"	"in importance"	4	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\4-5
+"the Society of St Andrews Golfers"	"is"	"a local golf club playing at St Andrews Links"	4	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\4-6
+"a local golf club"	"be playing"	"at St Andrews Links"	4	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\4-7
+In 1834 , King William IV became its patron and the club became known under its present name . 	5	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\5
+"King William IV"	"became"	"its patron became known under its present name 5 In 1834"	5	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\5-0
+"King William IV"	"became"	"its the club became known under its present name 5 In 1834"	5	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\5-1
+"King William IV"	"became"	"its patron became known under its present name"	5	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\5-2
+"King William IV"	"became"	"its the club became known under its present name"	5	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\5-3
+"King William IV"	"became"	"its the club became known under its present name"	5	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\5-4
+"King William IV"	"became"	"its the club became known under its present name"	5	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\5-5
+In 1897 , the Society codified the rules of golf , and , gradually over the next 30 years , was invited to take control of the running of golf tournaments at other courses . 	6	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\6
+"the Society"	"codified"	"6 In 1897 the rules of golf"	6	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\6-0
+"the Society"	"over"	"6 In 1897 the rules of golf gradually"	6	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\6-1
+"the Society"	"over"	"6 In 1897 the rules of golf the next 30 years"	6	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\6-2
+"the Society"	"over"	"6 In 1897 the rules of golf"	6	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\6-3
+"the Society"	"was invited"	"6 In 1897 the rules of golf to take control of the running of golf tournaments at other courses"	6	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\6-4
+rightframeRoyal &amp; Ancient Golf Clubhouse and the formerHamilton Hall The R&A is the ruling authority of golf throughout the world except the United States and Mexico , where this responsibility rests with the United States Golf Association ( USGA ) . 	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\7
+"rightframeRoyal & Ancient Golf Clubhouse"	"is the ruling authority"	"of golf"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-0
+"the formerHamilton Hall The R&A"	"is the ruling authority"	"of golf"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-1
+"rightframeRoyal & Ancient Golf Clubhouse"	"is the ruling authority"	"throughout the world"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-2
+"the formerHamilton Hall The R&A"	"is the ruling authority"	"throughout the world"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-3
+"rightframeRoyal & Ancient Golf Clubhouse"	"is the ruling authority"	"except the United States"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-4
+"rightframeRoyal & Ancient Golf Clubhouse"	"is the ruling authority"	"except the United Mexico"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-5
+"the formerHamilton Hall The R&A"	"is the ruling authority"	"except the United States"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-6
+"the formerHamilton Hall The R&A"	"is the ruling authority"	"except the United Mexico"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-7
+"rightframeRoyal & Ancient Golf Clubhouse"	"is"	"the ruling authority"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-8
+"the formerHamilton Hall The R&A"	"is"	"the ruling authority"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-9
+"this responsibility"	"rests"	"the United States where"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-10
+"this responsibility"	"rests"	"the United Mexico where"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-11
+"this responsibility"	"rests"	"with the United States Golf Association the United States"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-12
+"this responsibility"	"rests"	"with the United States Golf Association the United Mexico"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-13
+"this responsibility"	"rests"	"the United States"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-14
+"this responsibility"	"rests"	"the United Mexico"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-15
+"the United States Golf Association"	"is"	"USGA"	7	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\7-16
+It works in collaboration with national amateur and professional golf organisations in more than one hundred and ten countries . 	8	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\8
+It works in collaboration with national amateur and professional golf organisations in more than one hundred and ten countries . 	8	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\8
+It works in collaboration with national amateur and professional golf organisations in more than one hundred and ten countries . 	8	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\8
+It works in collaboration with national amateur and professional golf organisations in more than one hundred and ten countries . 	8	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\8
+It works in collaboration with national amateur and professional golf organisations in more than one hundred and ten countries . 	8	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\8
+It works in collaboration with national amateur and professional golf organisations in more than one hundred and ten countries . 	8	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\8
+The R&A cooperates with the USGA in producing and regularly revising the " Rules of Golf " , and the two bodies have issued the rules jointly since 1952 . 	9	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\9
+"The R&A"	"cooperates"	"with the USGA the Rules of Golf"	9	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\9-0
+"The R&A"	"cooperates"	"in producing the Rules of Golf"	9	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\9-1
+"The R&A"	"cooperates"	"in regularly revising the Rules of Golf"	9	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\9-2
+"The R&A"	"cooperates"	"the Rules of Golf"	9	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\9-3
+"the two bodies"	"have issued"	"the rules jointly"	9	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\9-4
+"the two bodies"	"have issued"	"the rules since 1952"	9	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\9-5
+"the two bodies"	"have issued"	"the rules"	9	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\9-6
+They also collaborate on the corresponding exegetic work , the " Decisions on the Rules of Golf " . 	10	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\10
+They also collaborate on the corresponding exegetic work , the " Decisions on the Rules of Golf " . 	10	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\10
+They also collaborate on the corresponding exegetic work , the " Decisions on the Rules of Golf " . 	10	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\10
+The R&A is also involved in formulating technical specifications for golfing equipment . 	11	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\11
+"The R&A"	"is involved"	"in formulating technical specifications for golfing equipment also"	11	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\11-0
+"The R&A"	"is involved"	"in formulating technical specifications for golfing equipment"	11	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\11-1
+Dr Steve Otto is the technical Director at the R and A. 	12	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\12
+"Dr Steve Otto"	"is the technical Director"	"at the R"	12	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\12-0
+"Dr Steve Otto"	"is the technical Director"	"at the A."	12	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\12-1
+"Dr Steve Otto"	"is"	"the technical Director"	12	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\12-2
+The R and A is based in St Andrews , Fife , Scotland . 	13	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\13
+"The R"	"is based"	"in St Andrews"	13	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\13-0
+"The R"	"is based"	"in St Fife"	13	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\13-1
+"The A"	"is based"	"in St Andrews"	13	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\13-2
+"The A"	"is based"	"in St Fife"	13	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\13-3
+"St Andrews"	"is in"	"Scotland"	13	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\13-4
+"St Fife"	"is in"	"Scotland"	13	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\13-5
+The R&A founded what is now the Official World Golf Ranking for male professionals in 1986 , and the World Amateur Golf Ranking for male amateurs in 2007 . 	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\14
+"The R&A"	"founded"	"what is now the Official World Golf Ranking for male professionals in 1986"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-0
+"The R&A"	"founded"	"what is now the Official World Golf for male professionals in 1986 the World Amateur Golf Ranking for male amateurs in 2007"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-1
+"The R&A"	"founded"	"what is now the Official World Golf for male professionals in 1986 the World Amateur Golf Ranking for male amateurs in 2007"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-2
+"The R&A"	"founded"	"what is now the Official World Golf for male professionals in 1986 the World Amateur Golf Ranking for male amateurs in 2007"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-3
+"The R&A"	"founded"	"what is now the Official World Golf for male professionals in 1986 the World Amateur Golf Ranking for male amateurs in 2007"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-4
+"The R&A"	"founded"	"what is now the Official World Golf for male professionals in 1986 the World Amateur Golf Ranking for male amateurs in 2007"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-5
+"The R&A"	"founded"	"what is now the Official World Golf for male professionals in 1986 the World Amateur Golf Ranking for male amateurs in 2007"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-6
+"The R&A"	"founded"	"what is now the Official World Golf for male professionals in 1986 the World Amateur Golf Ranking for male amateurs in 2007"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-7
+"The R&A"	"founded"	"what is now the Official World Golf for male professionals in 1986 the World Amateur Golf Ranking for male amateurs in 2007"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-8
+"The R&A"	"founded"	"what is now the Official World Golf for male professionals in 1986 the World Amateur Golf Ranking for male amateurs in 2007"	14	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\14-9
+The R&A organises 11 championships and international matches : Apart from the Junior Open Championships all of these events are for men and boys . 	15	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\15
+"The R&A"	"organises"	"11 championships"	15	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\15-0
+"The R&A"	"organises"	"11 international matches"	15	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\15-1
+"all of these events"	"are"	"for men Apart from the Junior Open Championships"	15	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\15-2
+"all of these events"	"are"	"for boys Apart from the Junior Open Championships"	15	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\15-3
+"all of these events"	"are"	"for men"	15	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\15-4
+"all of these events"	"are"	"for boys"	15	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\15-5
+The Ladies Golf Union organises a similar range of events for women and girls , most notably the Women 's British Open . 	16	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\16
+"The Ladies Golf Union"	"organises"	"a similar range of events for women"	16	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\16-0
+"The Ladies Golf Union"	"organises"	"a similar range of events for girls"	16	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\16-1
+"the Women"	"has"	"British Open"	16	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\16-2
+The R&A is also involved in the organisation of the two World Amateur Team Championships - the Eisenhower Trophy for men and the Espirito Santo Trophy for women - through its role in the International Golf Federation . 	17	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\17
+"The R&A"	"is involved"	"in the organisation of the two World Amateur Team Championships the Eisenhower Trophy for men also"	17	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\17-0
+"The R&A"	"is involved"	"in the organisation of the two World Amateur Team Championships the Eisenhower for men the Espirito Santo Trophy for women also"	17	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\17-1
+"The R&A"	"is involved"	"in the organisation of the two World Amateur Team Championships the Eisenhower Trophy for men through its role in the International Golf Federation"	17	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\17-2
+"The R&A"	"is involved"	"in the organisation of the two World Amateur Team Championships the Eisenhower for men the Espirito Santo Trophy for women through its role in the International Golf Federation"	17	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\17-3
+"The R&A"	"is involved"	"in the organisation of the two World Amateur Team Championships the Eisenhower Trophy for men"	17	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\17-4
+"The R&A"	"is involved"	"in the organisation of the two World Amateur Team Championships the Eisenhower for men the Espirito Santo Trophy for women"	17	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\17-5
+"The R&A"	"is involved"	"in the organisation of the two World Amateur Team Championships the Eisenhower for men the Espirito Santo Trophy for women"	17	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\17-6
+The Royal and Ancient Golf Club of St Andrews itself is now simply a golf club . 	18	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\18
+"The Royal Golf Club of St Andrews itself"	"is a golf club"	"now"	18	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\18-0
+"The Ancient Golf Club of St Andrews itself"	"is a golf club"	"now"	18	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\18-1
+"The Royal Golf Club of St Andrews itself"	"is a golf club"	"simply"	18	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\18-2
+"The Ancient Golf Club of St Andrews itself"	"is a golf club"	"simply"	18	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\18-3
+"The Royal Golf Club of St Andrews itself"	"is"	"a golf club"	18	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\18-4
+"The Ancient Golf Club of St Andrews itself"	"is"	"a golf club"	18	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\18-5
+It has 2,400 members from all over the world . 	19	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\19
+It has 2,400 members from all over the world . 	19	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\19
+Although the clubhouse is situated just behind the first tee of the Old Course , the club does not own any of the St Andrews courses , despite the common misconception , and must share the tee times with members of other local clubs , residents and visitors alike . 	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\20
+"the clubhouse"	"is situated"	"just behind the first tee of the Old Course"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-0
+"the club"	"does not own"	"any of the St Andrews courses 20 Although the clubhouse is situated just behind the first tee of the Old Course"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-1
+"the club"	"does not own"	"any of the St Andrews courses despite the common misconception"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-2
+"the club"	"does not own"	"any of the St Andrews courses"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-3
+"the club"	"does not must share"	"any of the St Andrews courses the tee times 20 Although the clubhouse is situated just behind the first tee of the Old Course"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-4
+"the club"	"does not must share"	"any of the St Andrews courses the tee times despite the common misconception"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-5
+"the club"	"does not must share"	"any of the St Andrews courses the tee times with members of other local clubs"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-6
+"the club"	"does not must share"	"any of the St Andrews courses the tee times with members of other local residents"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-7
+"the club"	"does not must share"	"any of the St Andrews courses the tee times with members of other local visitors alike"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-8
+"the club"	"does not must share"	"any of the St Andrews courses the tee times"	20	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\20-9
+Responsibility for the management of the courses is undertaken by the St Andrews Links Trust , a charitable organization that owns and runs seven golf courses at St Andrews . 	21	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\21
+"Responsibility for the management of the courses"	"is undertaken"	"by the St Andrews Links Trust"	21	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\21-0
+"the St Andrews Links Trust"	"is"	"a charitable organization"	21	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\21-1
+"a charitable organization"	"runs"	"seven golf courses at St Andrews"	21	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\21-2
+56.3435651 	22	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\22
+-2.8028011 	23	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\23
+type :landmark title Royal Category :Golf in Scotland Golf Category :Golf clubs and courses in Scotland Category :Sport in Fife Royal and Ancient Category :Golf in the United Kingdom Category :St Andrews Category :1754 establishments in Scotland Category :Category B listed buildings in Scotland Category :Listed buildings in Fife Category :Listed sports venues in Scotland ca :Royal and Ancient Golf Club of St Andrews da:The Royal and Ancient Golf Club of St Andrews de:The Royal and Ancient Golf Club of St Andrews es :The Royal and Ancient Golf Club of St Andrews fr :Royal and Ancient Golf Club of St Andrews it :The Royal and Ancient Golf Club of St Andrews hu:The Royal and Ancient Golf Club of St Andrews ja :ロイヤル・アンド・エンシェント・ゴルフ・クラブ・オブ・セント・アンドリュース no:Royal &amp; Ancient Golf Club of St . 	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\24
+"The Royal of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Royal of St Andrews it The Royal Golf Club of St Andrews hu The Royal of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-0
+"The Royal of St Andrews"	"es"	"The Ancient Golf Club of St Andrews fr Royal and Ancient Golf Club of St Andrews it The Royal and Ancient Golf Club of St Andrews hu The Royal and Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-1
+"The Royal of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Ancient Golf Club of St Andrews it The Royal Golf Club of St Andrews hu The Royal of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-2
+"The Royal of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Ancient Golf Club of St Andrews it The Ancient Golf Club of St Andrews hu The Royal and Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-3
+"The Royal of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Ancient Golf Club of St Andrews it The Royal Golf Club of St Andrews hu The Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-4
+"The Royal of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Royal of St Andrews it The Ancient Golf Club of St Andrews hu The Royal and Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-5
+"The Royal of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Royal of St Andrews it The Royal Golf Club of St Andrews hu The Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-6
+"The Ancient Golf Club of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Royal of St Andrews it The Royal Golf Club of St Andrews hu The Royal of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-7
+"The Ancient Golf Club of St Andrews"	"es"	"The Ancient Golf Club of St Andrews fr Royal and Ancient Golf Club of St Andrews it The Royal and Ancient Golf Club of St Andrews hu The Royal and Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-8
+"The Ancient Golf Club of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Ancient Golf Club of St Andrews it The Royal Golf Club of St Andrews hu The Royal of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-9
+"The Ancient Golf Club of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Ancient Golf Club of St Andrews it The Ancient Golf Club of St Andrews hu The Royal and Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-10
+"The Ancient Golf Club of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Ancient Golf Club of St Andrews it The Royal Golf Club of St Andrews hu The Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-11
+"The Ancient Golf Club of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Royal of St Andrews it The Ancient Golf Club of St Andrews hu The Royal and Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-12
+"The Ancient Golf Club of St Andrews"	"es"	"The Royal Golf Club of St Andrews fr Royal of St Andrews it The Royal Golf Club of St Andrews hu The Ancient Golf Club of St Andrews ja ロイヤル ・ アンド ・ エンシェント ・ ゴルフ ・ クラブ ・ オブ ・ セント ・ アンドリュース no Royal & Ancient Golf Club of St"	24	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\24-13
+Andrews pl :Royal and Ancient Golf Club of St Andrews fi:The Royal and Ancient Golf Club of St Andrews sv:Royal and Ancient Golf Club of St Andrews The Rule and Equipment Committee The Course Management Committee The Championship Committee The Amateur Status Committee The Golf Development Committee The External Fund Committee The General Committee The Research Committee The Open Championship : one of the four major championships in men 's golf . 	25	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\25
+Andrews pl :Royal and Ancient Golf Club of St Andrews fi:The Royal and Ancient Golf Club of St Andrews sv:Royal and Ancient Golf Club of St Andrews The Rule and Equipment Committee The Course Management Committee The Championship Committee The Amateur Status Committee The Golf Development Committee The External Fund Committee The General Committee The Research Committee The Open Championship : one of the four major championships in men 's golf . 	25	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\25
+The Amateur Championship : which was one of the four major championships before the professional game became dominant and is still one of the most prestigious amateur tournaments in the world . 	26	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\26
+The Amateur Championship : which was one of the four major championships before the professional game became dominant and is still one of the most prestigious amateur tournaments in the world . 	26	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\26
+The Amateur Championship : which was one of the four major championships before the professional game became dominant and is still one of the most prestigious amateur tournaments in the world . 	26	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\26
+The Amateur Championship : which was one of the four major championships before the professional game became dominant and is still one of the most prestigious amateur tournaments in the world . 	26	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\26
+The Amateur Championship : which was one of the four major championships before the professional game became dominant and is still one of the most prestigious amateur tournaments in the world . 	26	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\26
+The Amateur Championship : which was one of the four major championships before the professional game became dominant and is still one of the most prestigious amateur tournaments in the world . 	26	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\26
+The Amateur Championship : which was one of the four major championships before the professional game became dominant and is still one of the most prestigious amateur tournaments in the world . 	26	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\26
+Boys Amateur Championship : for boys under the age of 18 at midnight on 1 January of the relevant year . 	27	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\27
+Boys Home Internationals : a team competition for boys from England , Scotland , Wales and All-Ireland . 	28	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\28
+Seniors Open Amateur Championship : for male amateurs aged 55 or over on the first day of competition . 	29	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\29
+"Seniors"	"Open"	"Amateur Championship for male amateurs aged 55 on the first day of competition"	29	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\29-0
+"Seniors"	"Open"	"Amateur Championship for male amateurs aged over on the first day of competition"	29	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\29-1
+"Seniors"	"Open"	"Amateur Championship"	29	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\29-2
+British Mid-Amateur Championship : for amateurs aged 25 and over . 	30	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\30
+This tournament was introduced to provide an elite competition for golfers who never turn professional as the main Amateur Championship is dominated by future professionals in their late teens and early twenties . 	31	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\31
+"This tournament"	"was introduced"	"to provide an elite competition for golfers"	31	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\31-0
+"This tournament"	"was introduced"	"to provide an elite competition for golfers"	31	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\31-1
+"This tournament"	"was introduced"	"to provide an elite competition for golfers"	31	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\31-2
+"This tournament"	"was introduced"	"to provide an elite competition for golfers"	31	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\31-3
+"the main Amateur Championship"	"is dominated"	"by future professionals in their late teens"	31	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\31-4
+"the main Amateur Championship"	"is dominated"	"by future professionals in their late early twenties"	31	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\31-5
+"the main Amateur Championship"	"is dominated"	"by future professionals"	31	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\31-6
+"the main Amateur Championship"	"is dominated"	"by future professionals"	31	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\31-7
+Senior British Open Championship : for men aged 50 and above . 	32	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\32
+A major championship on the Champions Tour and the European Seniors Tour . 	33	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\33
+Walker Cup : a biennial men 's amateur team competition contested by Great Britain &amp; Ireland and the United States ( co-organised with the United States Golf Association ) . 	34	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\34
+"a biennial men"	"has"	"amateur team competition contested by Great Britain & Ireland"	34	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\34-0
+"a biennial men"	"has"	"amateur team competition contested by Great the United States co-organised with the United States Golf Association"	34	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\34-1
+"a biennial men 's amateur team competition"	"be contested"	"by Great Britain & Ireland"	34	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\34-2
+"a biennial men 's amateur team competition"	"be contested"	"by Great the United States co-organised with the United States Golf Association"	34	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\34-3
+Junior Open Championships : for boys and girls under the age of 16 at 00.00 	35	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\35
+hours on 1 January of the relevant year . 	36	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\36
+St Andrews Trophy : a men 's amateur team competition contested by Great Britain &amp; Ireland and the Continent of Europe . 	37	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\37
+"a men"	"has"	"amateur team competition contested by Great Britain & Ireland"	37	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\37-0
+"a men"	"has"	"amateur team competition contested by Great the Continent of Europe"	37	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\37-1
+"a men 's amateur team competition"	"be contested"	"by Great Britain & Ireland"	37	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\37-2
+"a men 's amateur team competition"	"be contested"	"by Great the Continent of Europe"	37	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\37-3
+Jacques Léglise Trophy : a boys ' amateur team competition contested by Great Britain &amp; Ireland and the Continent of Europe . 	38	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\38
+"a boys"	"has"	"amateur team competition contested by Great Britain & Ireland"	38	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\38-0
+"a boys"	"has"	"amateur team competition contested by Great the Continent of Europe"	38	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\38-1
+"a boys ' amateur team competition"	"be contested"	"by Great Britain & Ireland"	38	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\38-2
+"a boys ' amateur team competition"	"be contested"	"by Great the Continent of Europe"	38	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\P\38-3
+Golf in Scotland St Andrews Links Old Course at St Andrews British Golf Museum 	39	query204_The_Royal_and_Ancient_Golf_Club_of_St_Andrews\S\39

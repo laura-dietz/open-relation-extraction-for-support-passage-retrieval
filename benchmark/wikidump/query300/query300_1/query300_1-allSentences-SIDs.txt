@@ -1,0 +1,120 @@
+0	the statistical concept In statistics , mean has two related meanings : There are other statistical measures that should not be confused with averages - including ' median ' and ' mode ' . 
+1	Other simple statistical analyses use measures of spread , such as range , interquartile range , or standard deviation .For 
+2	a real-valued random variable X , the mean is the expectation of X .Note 
+3	that not every probability distribution has a defined mean ( or variance ) ; see the Cauchy distribution for an example . 
+4	For a data set , the mean is the sum of the values divided by the number of values . 
+5	The mean of a set of numbers x 1 , x 2 , ... 
+6	, x n is typically denoted by bar{x } , pronounced " x bar" . 
+7	This mean is a type of arithmetic mean . 
+8	If the data set were based on a series of observations obtained by sampling a statistical population , this mean is termed the " sample mean " ( bar{x } ) to distinguish it from the "population mean " ( mu or mu x ) . 
+9	The mean is often quoted along with the standard deviation : the mean describes the central location of the data , and the standard deviation describes the spread . 
+10	An alternative measure of dispersion is the mean deviation , equivalent to the average absolute deviation from the mean . 
+11	It is less sensitive to outliers , but less mathematically tractable . 
+12	If a series of observations is sampled from a larger population ( measuring the heights of a sample of adults drawn from the entire world population , for example ) , or from a probability distribution which gives the probabilities of each possible result , then the larger population or probability distribution can be used to construct a "population mean" , which is also the expected value for a sample drawn from this population or probability distribution . 
+13	For a finite population , this would simply be the arithmetic mean of the given property for every member of the population . 
+14	For a probability distribution , this would be a sum or integral over every possible value weighted by the probability of that value . 
+15	It is a universal convention to represent the population mean by the symbol mu . 
+16	Underhill , L.G. 
+17	; Bradfield d . 
+18	( 1998 ) Introstat , Juta and Company Ltd. 
+19	ISBN 070213838X In the case of a discrete probability distribution , the mean of a discrete random variable x is given by taking the product of each possible value of x and its probability P(x ) , and then adding all these products together , giving mu = sum x P(x ) . 
+20	Elementary Statistics by Robert R. 
+21	Johnson and Patricia J. 
+22	Kuby , The sample mean may differ from the population mean , especially for small samples , but the law of large numbers dictates that the larger the size of the sample , the more likely it is that the sample mean will be close to the population mean . 
+23	Schaum 's Outline of Theory and Problems of Probability by Seymour Lipschutz and Marc Lipson , As well as statistics , means are often used in geometry and analysis ; a wide range of means have been developed for these purposes , which are not much used in statistics . 
+24	These are listed below . 
+25	Arithmetic mean The arithmetic mean is the " standard " average , often simply called the "mean " . 
+26	The mean may often be confused with the median , mode or range . 
+27	The mean is the arithmetic average of a set of values , or distribution ; however , for skewed distributions , the mean is not necessarily the same as the middle value ( median ) , or the most likely ( mode ) . 
+28	For example , mean income is skewed upwards by a small number of people with very large incomes , so that the majority have an income lower than the mean . 
+29	By contrast , the median income is the level at which half the population is below and half is above . 
+30	The mode income is the most likely income , and favors the larger number of people with lower incomes . 
+31	The median or mode are often more intuitive measures of such data . 
+32	Nevertheless , many skewed distributions are best described by their mean &ndash ; such as the exponential and Poisson distribution . 
+33	For example , the arithmetic mean of six values : 5 , 10 , 13 , 7 , 25 , 31 is Geometric mean The geometric mean is an average that is useful for sets of positive numbers that are interpreted according to their product and not their sum ( as is the case with the arithmetic mean ) e.g 
+34	. 
+35	rates of growth . 
+36	For example , the geometric mean of six values : 34 , 27 , 45 , 55 , 22 , 34 is : Harmonic mean \t The harmonic mean is an average which is useful for sets of numbers which are defined in relation to some unit , for example speed ( distance per unit of time ) . 
+37	\t For example , the harmonic mean of the six values : 34 , 27 , 45 , 55 , 22 , and 34 is Inequality of arithmetic and geometric means AM , GM , and HM satisfy these inequalities : Equality holds only when all the elements of the given sample are equal . 
+38	The generalized mean , also known as the power mean or Hölder mean , is an abstraction of the quadratic , arithmetic , geometric and harmonic means . 
+39	It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 
+40	In other applications they represent a measure for the reliability of the influence upon the mean by respective values . 
+41	Sometimes a set of numbers might contain outliers , i .e 
+42	. 
+43	a datum which is much lower or much higher than the others .Often 
+44	, outliers are erroneous data caused by artifacts . 
+45	In this case one can use a truncated mean . 
+46	It involves discarding given parts of the data at the top or the bottom end , typically an equal amount at each end , and then taking the arithmetic mean of the remaining data . 
+47	The number of values removed is indicated as a percentage of total number of values . 
+48	The interquartile mean is a specific example of a truncated mean . 
+49	It is simply the arithmetic mean after removing the lowest and the highest quarter of values . 
+50	assuming the values have been ordered , so is simply a specific example of a weighted mean for a specific set of weights . 
+51	In calculus , and especially multivariable calculus , the mean of a function is loosely defined as the average value of the function over its domain . 
+52	In one variable , the mean of a function f ( x ) over the interval ( a,b ) is defined by Recall that a defining property of the average value bar{y } of finitely many numbers y_1 , y_2 , dots , y_n is that nbar{y } = y_1 + y_2 + cdots + y_n . 
+53	In other words , bar{y } is the constant value which when added to itself n times equals the result of adding the n terms of y_i . 
+54	By analogy , adefining property of the average value bar{f } of a function over the interval [a ,b] is that In other words , bar{f } is the constant value which when integrated over [a ,b] equals the result ofintegrating f( x ) over [a ,b] . 
+55	But by the second fundamental theorem of calculus , the integral of a constant bar{f } is just See also the first mean value theorem for integration , which guaranteesthat if f is continuous then there exists a point c in ( a , b ) such that The point f( c ) is called the mean value of f( x ) on [a ,b] . 
+56	So we write bar{f } = f( c ) and rearrange the preceding equation to get the above definition . 
+57	In several variables , the mean over a relatively compact domain U in a Euclidean space is defined by This generalizes the arithmetic mean . 
+58	On the other hand , it is also possible to generalize the geometric mean to functions by defining the geometric mean of f to be More generally , in measure theory and probability theory either sort of mean plays an important role . 
+59	In this context , Jensen 's inequality places sharp estimates on the relationship between these two different notions of the mean of a function . 
+60	There is also a harmonic average of functions and a quadratic average ( or root mean square ) of functions . 
+61	See expected value . 
+62	Most of the usual means fail on circular quantities , like angle , daytimes , fractional part of real number . 
+63	For those quantities you need a mean of circular quantities . 
+64	The Fréchet mean gives a manner for determining the "center " of a mass distribution on a surface or , more generally , Riemannian manifold . 
+65	. 
+66	is sometimes also known as the Karcher mean ( named after Hermann Karcher ) . 
+67	Arithmetic-geometric mean Arithmetic-harmonic mean Cesàro mean Chisini mean Contraharmonic mean Elementary symmetric mean Geometric-harmonic mean Heinz mean Heronian mean Identric mean Lehmer mean Logarithmic mean Median Moving average Root mean square Rényi 's entropy ( a generalized f-mean ) Stolarsky mean Weighted geometric mean Weighted harmonic mean All means share some properties and additional properties are shared by the most common means .Some 
+68	of these properties are collected here . 
+69	A weighted mean M is a function which maps tuples of positive numbers to a positive number such that the following properties hold : It follows The above properties imply techniques to construct more complex means : If C , M 1 , ... 
+70	, M m are weighted means and p is a positive real number ,then A and B defined by are also weighted means . 
+71	Intuitively spoken , an unweighted mean is a weighted mean with equal weights .Since 
+72	our definition of weighted mean above does not expose particular weights ,equal weights must be asserted by a different way .A 
+73	different view on homogeneous weighting is , that the inputs can be swapped without altering the result . 
+74	Thus we define M to be an unweighted mean if it is a weighted meanand for each permutation π of inputs , the result is the same . 
+75	Analogously to the weighted means ,if C is a weighted mean and M 1 , ... 
+76	, M m are unweighted means and p is a positive real number ,then A and B defined by are also unweighted means . 
+77	An unweighted mean can be turned into a weighted mean by repeating elements.This 
+78	connection can also be used to state that a mean is the weighted version of an unweighted mean.Say 
+79	you have the unweighted mean M andweight the numbers by natural numbers a_1 ,dots ,a_n .( 
+80	If the numbers are rational , then multiply them with the least common denominator .)Then 
+81	the corresponding weighted mean A is obtained by If a mean M is defined for tuples of several sizes , then one also expects that the mean of a tuple is bounded by the means of partitions . 
+82	More precisely The mean of a population has an expected value of μ , known as the population mean . 
+83	The sample mean makes a good estimator of the population mean , as its expected value is the same as the population mean . 
+84	The sample mean of a population is a random variable , not a constant , and consequently it will have its own distribution . 
+85	For a random sample of n observations from a normally distributed population , the sample mean distribution is Often , since the population variance is an unknown parameter , it is estimated by the mean sum of squares , which changes the distribution of the sample mean from a normal distribution to a Student 's t distribution with n &nbsp;&minus ;&nbsp;1 degrees of freedom . 
+86	Statistics descriptive Category :Means Category :Statistical terminology Category :Theory of probability distributions da:Gennemsnit es :Media eo :Meznombro gl:Media it :Media_(statistica ) la :Valor medius exspectatus lo :ຄ່າສະເຫຼ່ຍ fa :میانگین lt :Vidurkis ms :Min nn:Gjennomsnitt ro:Medie ru:Среднее значение simple :Mean ( statistics ) su:Mean sv:Medelvärde ta :கூட்டுச்சராசர ி th :มัชฌิม vi:Số bình quân zh :平均数 the arithmetic mean ( and is distinguished from the geometric mean or harmonic mean ) . 
+87	the expected value of a random variable , which is also called the population mean . 
+88	bar{x } = frac{1}{n}cdot sum_{i=1}^n{ x_i } frac{5+10+13+7+25+31}{6 } = frac{91}{6 } approx 15 . 
+89	bar{x } = left ( prod_{i=1}^n{ x_i } right ) ^tfrac1n ( 34 cdot 27 cdot 45 cdot 55 cdot 22 cdot 34)^{ 1/6 } = 1,699,493,400^{ 1/6 } approx 34.545 
+90	. 
+91	bar{x } = n cdot left ( sum_{i=1}^n frac{1}{ x_i } right ) ^{-1} frac{6}{frac{1}{34}+frac{1}{27}+frac{1}{45} + frac{1}{55} + frac{1}{22}+frac{1}{34} } = frac{60588}{1835} approx 33.0179836 
+92	. 
+93	AM ge GM ge HM , bar{x }( m ) = left ( frac{1}{n}cdotsum_{i=1}^n{ x_i^m } right ) ^tfrac1m bar{x } = f^{-1}left( {frac{1}{n}cdotsum_{i=1}^n{f( x_i) } }right ) bar{x } = frac{sum_{i=1}^n{w_i cdot x_i} }{sum_{i=1}^n {w_i}} . 
+94	bar{x } = {2 over n } sum_{i=( n/4 )+1}^{3n/4 }{ x_i } bar{f }=frac{1}{b-a}int_a^bf( x) ,dx . 
+95	int_a^bbar{f} ,dx = int_a^bf( x) ,dx int_a^bbar{f} ,dx = bar{f}xbigr|_a^b = bar{f}b - bar{f}a = ( b - a)bar{f } int_a^bf( x) ,dx = f( c )( b - a ) bar{f }=frac{1}{hbox{Vol}( U)}int_ U f . 
+96	expleft( frac{1}{hbox{Vol}( U)}int_ U log fright ) . 
+97	Arithmetic-geometric mean Arithmetic-harmonic mean Cesàro mean Chisini mean Contraharmonic mean Elementary symmetric mean Geometric-harmonic mean Heinz mean Heronian mean Identric mean Lehmer mean Logarithmic mean Median Moving average Root mean square Rényi 's entropy ( a generalized f-mean ) Stolarsky mean Weighted geometric mean Weighted harmonic mean M : ( 0 ,infty )^n to ( 0 ,infty ) " Fixed point " : M ( 1,1,...,1 
+98	) = 1 Homogeneity : M ( λ x 1 , ... 
+99	, λ x n ) = λ M ( x 1 , ... 
+100	, x n ) for all λ and x i . 
+101	In vector notation : M ( λ x ) = λ Mx for all n -vectors x . 
+102	Monotonicity : If x i &nbsp;≤&nbsp; y i for each i , then Mx ≤ My Boundedness : min x ≤ Mx ≤ max x Continuity : lim_{xto y } M x = M y There are means which are not differentiable . 
+103	For instance , the maximum number of a tuple is considered a mean ( as an extreme case of the power mean , or as a special case of a median ) , but is not differentiable . 
+104	All means listed above , with the exception of most of the Generalized f-mean , satisfy the presented properties . 
+105	If f is bijective , then the generalized f-mean satisfies the fixed point property . 
+106	If f is strictly monotonic , then the generalized f-mean satisfy also the monotony property . 
+107	In general a generalized f-mean will miss homogeneity . 
+108	If f is bijective , then the generalized f-mean satisfies the fixed point property . 
+109	If f is strictly monotonic , then the generalized f-mean satisfy also the monotony property . 
+110	In general a generalized f-mean will miss homogeneity . 
+111	A x = C( M_1 x , dots , M_m x ) , B x = sqrt[p ]{ C( x_1^p , dots , x_n^p ) } , Symmetry : Mx = M ( &pi ; x ) for all n -tuples &pi ; and permutations &pi ; on n -tuples . 
+112	A x = C( M_1 x , dots , M_m x ) , B x = sqrt[p ]{ M_1( x_1^p , dots , x_n^p ) } , A( x_1 ,dots ,x_n ) = M(underbrace{ x_1 ,dots ,x_1}_{a_1} ,x_2 ,dots ,x_{n-1} ,underbrace{ x_n ,dots ,x_n } _{a_n} ) . 
+113	Given an arbitrary tuple x , which is partitioned into y 1 ,&nbsp;... 
+114	,&nbsp; y k , then M x in mathrm{convexhull }( M y_1 , dots , M y_k ) . 
+115	( See Convex hull . 
+116	) M x in mathrm{convexhull }( M y_1 , dots , M y_k ) . 
+117	bar{x } thicksim Nleft{mu , frac{sigma^2 }{n}right} . 
+118	Algorithms for calculating mean and variance Average , same as central tendency Descriptive statistics For an independent identical distribution from the reals , the mean of a sample is an unbiased estimator for the mean of the population . 
+119	Kurtosis Law of averages Median Mode ( statistics ) Spherical mean Summary statistics Weighted mean Mean Mean ArithmeticMean Arithmetic Mean 

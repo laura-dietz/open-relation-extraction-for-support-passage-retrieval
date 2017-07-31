@@ -1,0 +1,508 @@
+yes thumbWind _ from the '' Tacuinum Sanitatis '' A breeze lifts a veilthumbright Wind is the flow of gas on a large scale . 	0	query206_Wind\S\0
+"thumbWind _"	"A breeze lifts"	"a veilthumbright Wind"	0	query206_Wind\P\0-0
+"A breeze"	"thumbWind _ lifts"	"a veilthumbright Wind"	0	query206_Wind\P\0-1
+"yes thumbWind _ from the Tacuinum Sanitatis A breeze lifts a veilthumbright Wind"	"is the flow"	"of gas"	0	query206_Wind\P\0-2
+"yes thumbWind _ from the Tacuinum Sanitatis A breeze lifts a veilthumbright Wind"	"is the flow"	"on a large scale"	0	query206_Wind\P\0-3
+"yes thumbWind _ from the Tacuinum Sanitatis A breeze lifts a veilthumbright Wind"	"is"	"the flow"	0	query206_Wind\P\0-4
+On Earth , wind consists of the bulk movement of air . 	1	query206_Wind\S\1
+On Earth , wind consists of the bulk movement of air . 	1	query206_Wind\S\1
+In outer space , solar wind is the movement of gases or charged particles from the sun through space , while planetary wind is the outgassing of light chemical element from a planet 's atmosphere into space . 	2	query206_Wind\S\2
+"solar wind"	"is 2 In outer space the movement"	"of gases from the sun"	2	query206_Wind\P\2-0
+"solar wind"	"is 2 In outer space the movement"	"of charged particles from the sun"	2	query206_Wind\P\2-1
+"solar wind"	"is 2 In outer space the movement"	"through space"	2	query206_Wind\P\2-2
+"solar wind"	"is 2 In outer space the movement"	"while planetary wind is the outgassing of light chemical element from a planet 's atmosphere into space"	2	query206_Wind\P\2-3
+"solar wind"	"is"	"2 In outer space the movement"	2	query206_Wind\P\2-4
+"planetary wind"	"is the outgassing"	"of light chemical element"	2	query206_Wind\P\2-5
+"planetary wind"	"is the outgassing"	"from a planet 's atmosphere"	2	query206_Wind\P\2-6
+"planetary wind"	"is the outgassing"	"into space"	2	query206_Wind\P\2-7
+"planetary wind"	"is"	"the outgassing"	2	query206_Wind\P\2-8
+"a planet"	"has"	"atmosphere"	2	query206_Wind\P\2-9
+Winds are commonly classified by their spatial scale , their speed , the types of forces that cause them , the regions in which they occur , and their effect . 	3	query206_Wind\S\3
+"Winds"	"are classified"	"their speed commonly"	3	query206_Wind\P\3-0
+"Winds"	"are classified"	"their their effect commonly"	3	query206_Wind\P\3-1
+"Winds"	"are classified"	"by their spatial scale their speed"	3	query206_Wind\P\3-2
+"Winds"	"are classified"	"by their spatial scale their their effect"	3	query206_Wind\P\3-3
+"Winds"	"are classified"	"their speed"	3	query206_Wind\P\3-4
+"Winds"	"are classified"	"their their effect"	3	query206_Wind\P\3-5
+"Winds"	"are classified"	"their their effect"	3	query206_Wind\P\3-6
+"their speed"	"is"	"the regions"	3	query206_Wind\P\3-7
+"their their effect"	"is"	"the regions"	3	query206_Wind\P\3-8
+"their their effect"	"is"	"the regions"	3	query206_Wind\P\3-9
+"their speed"	"is"	"the types of forces"	3	query206_Wind\P\3-10
+"their their effect"	"is"	"the types of forces"	3	query206_Wind\P\3-11
+"their their effect"	"is"	"the types of forces"	3	query206_Wind\P\3-12
+"their their effect"	"is"	"the types of forces"	3	query206_Wind\P\3-13
+"their their effect"	"is"	"the types of forces"	3	query206_Wind\P\3-14
+"their their effect"	"is"	"the types of forces"	3	query206_Wind\P\3-15
+The strongest observed winds on a planet in our solar system occur on Neptune and Saturn . 	4	query206_Wind\S\4
+The strongest observed winds on a planet in our solar system occur on Neptune and Saturn . 	4	query206_Wind\S\4
+"The strongest observed winds on a planet in our solar system"	"occur"	"on Neptune"	4	query206_Wind\P\4-0
+"The strongest observed winds on a planet in our solar system"	"occur"	"on Saturn"	4	query206_Wind\P\4-1
+In meteorology , winds are often referred to according to their strength , and the direction from which the wind is blowing . 	5	query206_Wind\S\5
+In meteorology , winds are often referred to according to their strength , and the direction from which the wind is blowing . 	5	query206_Wind\S\5
+In meteorology , winds are often referred to according to their strength , and the direction from which the wind is blowing . 	5	query206_Wind\S\5
+In meteorology , winds are often referred to according to their strength , and the direction from which the wind is blowing . 	5	query206_Wind\S\5
+In meteorology , winds are often referred to according to their strength , and the direction from which the wind is blowing . 	5	query206_Wind\S\5
+In meteorology , winds are often referred to according to their strength , and the direction from which the wind is blowing . 	5	query206_Wind\S\5
+In meteorology , winds are often referred to according to their strength , and the direction from which the wind is blowing . 	5	query206_Wind\S\5
+In meteorology , winds are often referred to according to their strength , and the direction from which the wind is blowing . 	5	query206_Wind\S\5
+"the wind"	"is blowing"	"the direction from which"	5	query206_Wind\P\5-0
+"the wind"	"is blowing"	"the direction"	5	query206_Wind\P\5-1
+Short bursts of high speed wind are termed gusts . 	6	query206_Wind\S\6
+"Short bursts of high speed wind"	"are termed"	"gusts"	6	query206_Wind\P\6-0
+Strong winds of intermediate duration (around one minute ) are termed squall . 	7	query206_Wind\S\7
+"Strong winds of intermediate duration around one minute"	"are termed"	"squall"	7	query206_Wind\P\7-0
+Long-duration winds have various names associated with their average strength , such as breeze , gale , storm , hurricane , and typhoon . 	8	query206_Wind\S\8
+"Long-duration winds"	"have"	"various names associated with their average strength such as breeze"	8	query206_Wind\P\8-0
+"Long-duration winds"	"have"	"various names associated with their average strength such as gale"	8	query206_Wind\P\8-1
+"Long-duration winds"	"have"	"various names associated with their average strength such as storm"	8	query206_Wind\P\8-2
+"Long-duration winds"	"have"	"various names associated with their average strength such as hurricane"	8	query206_Wind\P\8-3
+"Long-duration winds"	"have"	"various names associated with their average strength such as typhoon"	8	query206_Wind\P\8-4
+"various names"	"be associated"	"with their average strength such as breeze"	8	query206_Wind\P\8-5
+"various names"	"be associated"	"with their average strength such as gale"	8	query206_Wind\P\8-6
+"various names"	"be associated"	"with their average strength such as storm"	8	query206_Wind\P\8-7
+"various names"	"be associated"	"with their average strength such as hurricane"	8	query206_Wind\P\8-8
+"various names"	"be associated"	"with their average strength such as typhoon"	8	query206_Wind\P\8-9
+"various names"	"be associated"	"with their average strength such as typhoon"	8	query206_Wind\P\8-10
+"various names"	"be associated"	"with their average strength such as typhoon"	8	query206_Wind\P\8-11
+"various names"	"be associated"	"with their average strength such as typhoon"	8	query206_Wind\P\8-12
+"various names"	"be associated"	"with their average strength such as typhoon"	8	query206_Wind\P\8-13
+"various names"	"be associated"	"with their average strength such as typhoon"	8	query206_Wind\P\8-14
+Wind occurs on a range of scales , from thunderstorm flows lasting tens of minutes , to local breezes generated by heating of land surfaces and lasting a few hours , to global winds resulting from the difference in absorption of solar energy between the climate zone on Earth . 	9	query206_Wind\S\9
+"Wind"	"occurs"	"on a range of scales from thunderstorm"	9	query206_Wind\P\9-0
+"Wind"	"occurs"	"on a range of scales from thunderstorm"	9	query206_Wind\P\9-1
+"Wind"	"occurs"	"on a range of scales"	9	query206_Wind\P\9-2
+"Wind"	"occurs"	"on a range of scales"	9	query206_Wind\P\9-3
+"local breezes"	"be generated"	"by heating of land surfaces"	9	query206_Wind\P\9-4
+"global winds"	"be resulting"	"from the difference in absorption of solar energy between the climate zone on Earth"	9	query206_Wind\P\9-5
+The two main causes of large-scale atmospheric circulation are the differential heating between the equator and the poles , and the rotation of the planet ( Coriolis effect ) . 	10	query206_Wind\S\10
+"The two main causes of large-scale atmospheric circulation"	"are the differential heating"	"between the equator and the poles"	10	query206_Wind\P\10-0
+"The two main causes of large-scale atmospheric circulation"	"are the differential the rotation of the planet"	"between the equator and the poles"	10	query206_Wind\P\10-1
+"The two main causes of large-scale atmospheric circulation"	"are"	"the differential heating"	10	query206_Wind\P\10-2
+"The two main causes of large-scale atmospheric circulation"	"are"	"the differential the rotation of the planet"	10	query206_Wind\P\10-3
+"the planet"	"is"	"Coriolis effect"	10	query206_Wind\P\10-4
+Within the tropics , thermal low circulations over terrain and high plateaus can drive monsoon circulations . 	11	query206_Wind\S\11
+"thermal low circulations over terrain"	"can drive"	"monsoon circulations 11 Within the tropics"	11	query206_Wind\P\11-0
+"thermal low circulations over high plateaus"	"can drive"	"monsoon circulations 11 Within the tropics"	11	query206_Wind\P\11-1
+In coastal areas the sea breeze /land breeze cycle can define local winds ; in areas that have variable terrain , mountain and valley breezes can dominate local winds . 	12	query206_Wind\S\12
+"In coastal areas the sea breeze land breeze cycle"	"can define"	"local winds in areas"	12	query206_Wind\P\12-0
+"In coastal areas the sea breeze land breeze cycle"	"can define"	"local winds"	12	query206_Wind\P\12-1
+"In coastal areas the sea breeze land breeze cycle"	"can define"	"local winds"	12	query206_Wind\P\12-2
+"mountain breezes"	"can dominate"	"local winds areas"	12	query206_Wind\P\12-3
+"valley breezes"	"can dominate"	"local winds areas"	12	query206_Wind\P\12-4
+In human civilization , wind has inspired mythology , influenced the events of history , expanded the range of transport and warfare , and provided a power source for mechanical work , electricity and recreation . 	13	query206_Wind\S\13
+In human civilization , wind has inspired mythology , influenced the events of history , expanded the range of transport and warfare , and provided a power source for mechanical work , electricity and recreation . 	13	query206_Wind\S\13
+In human civilization , wind has inspired mythology , influenced the events of history , expanded the range of transport and warfare , and provided a power source for mechanical work , electricity and recreation . 	13	query206_Wind\S\13
+In human civilization , wind has inspired mythology , influenced the events of history , expanded the range of transport and warfare , and provided a power source for mechanical work , electricity and recreation . 	13	query206_Wind\S\13
+In human civilization , wind has inspired mythology , influenced the events of history , expanded the range of transport and warfare , and provided a power source for mechanical work , electricity and recreation . 	13	query206_Wind\S\13
+In human civilization , wind has inspired mythology , influenced the events of history , expanded the range of transport and warfare , and provided a power source for mechanical work , electricity and recreation . 	13	query206_Wind\S\13
+In human civilization , wind has inspired mythology , influenced the events of history , expanded the range of transport and warfare , and provided a power source for mechanical work , electricity and recreation . 	13	query206_Wind\S\13
+In human civilization , wind has inspired mythology , influenced the events of history , expanded the range of transport and warfare , and provided a power source for mechanical work , electricity and recreation . 	13	query206_Wind\S\13
+Wind powers the voyages of sailing ship across Earth 's oceans . 	14	query206_Wind\S\14
+Wind powers the voyages of sailing ship across Earth 's oceans . 	14	query206_Wind\S\14
+Hot air balloon use the wind to take short trips , and powered flight uses it to increase lift and reduce fuel consumption . 	15	query206_Wind\S\15
+"Hot air balloon"	"use"	"the wind to take short trips"	15	query206_Wind\P\15-0
+"Hot air balloon"	"use"	"the wind"	15	query206_Wind\P\15-1
+"Hot air balloon"	"be take"	"short trips"	15	query206_Wind\P\15-2
+"powered flight"	"uses"	"it to increase lift"	15	query206_Wind\P\15-3
+"powered flight"	"uses"	"it to reduce lift fuel consumption"	15	query206_Wind\P\15-4
+Areas of wind shear caused by various weather phenomena can lead to dangerous situations for aircraft . 	16	query206_Wind\S\16
+"Areas of wind shear"	"be caused"	"by various weather phenomena"	16	query206_Wind\P\16-0
+"Areas of wind shear caused by various weather phenomena"	"can lead"	"to dangerous situations for aircraft"	16	query206_Wind\P\16-1
+When winds become strong , trees and man-made structures are damaged or destroyed . 	17	query206_Wind\S\17
+When winds become strong , trees and man-made structures are damaged or destroyed . 	17	query206_Wind\S\17
+When winds become strong , trees and man-made structures are damaged or destroyed . 	17	query206_Wind\S\17
+When winds become strong , trees and man-made structures are damaged or destroyed . 	17	query206_Wind\S\17
+"man-made structures"	"are damaged"	"17 When winds become strong"	17	query206_Wind\P\17-0
+"man-made structures"	"are damaged"	"17 When winds become strong"	17	query206_Wind\P\17-1
+"man-made structures"	"are damaged"	"17"	17	query206_Wind\P\17-2
+"man-made structures"	"are damaged"	"17"	17	query206_Wind\P\17-3
+"man-made structures"	"are destroyed"	"17 When winds become strong"	17	query206_Wind\P\17-4
+"man-made structures"	"are destroyed"	"17 When winds become strong"	17	query206_Wind\P\17-5
+"man-made structures"	"are destroyed"	"17"	17	query206_Wind\P\17-6
+Winds can shape landforms , via a variety of aeolian processes such as the formation of fertile soils , such as loess , and by erosion . 	18	query206_Wind\S\18
+"Winds"	"can shape"	"landforms via a variety of aeolian processes such as the formation of fertile soils such as loess"	18	query206_Wind\P\18-0
+"Winds"	"can shape"	"landforms"	18	query206_Wind\P\18-1
+"Winds"	"can by"	"landforms via a variety of aeolian processes such as the formation of fertile soils such as loess"	18	query206_Wind\P\18-2
+"Winds"	"can by"	"landforms erosion"	18	query206_Wind\P\18-3
+"Winds"	"can by"	"landforms"	18	query206_Wind\P\18-4
+Dust from large desert can be moved great distances from its source region by the prevailing winds ; winds that are accelerated by rough topography and associated with dust outbreaks have been assigned regional names in various parts of the world because of their significant effects on those regions . 	19	query206_Wind\S\19
+"Dust from large desert"	"can be moved"	"great distances from its source region by the prevailing winds"	19	query206_Wind\P\19-0
+"Dust from large desert"	"can be moved"	"great distances from its source region"	19	query206_Wind\P\19-1
+"Dust from large desert"	"can be moved"	"great distances from its source region"	19	query206_Wind\P\19-2
+"Dust from large desert"	"can be moved"	"great distances from its source region"	19	query206_Wind\P\19-3
+"Dust from large desert"	"can be moved"	"great distances from its source region"	19	query206_Wind\P\19-4
+"Dust from large desert"	"can be moved"	"great distances from its source region"	19	query206_Wind\P\19-5
+"Dust from large desert"	"can be moved"	"great distances from its source region"	19	query206_Wind\P\19-6
+"Dust from large desert"	"can be moved"	"great distances from its source region"	19	query206_Wind\P\19-7
+"Dust from large desert"	"can be moved"	"great distances from its source region"	19	query206_Wind\P\19-8
+Wind affects the spread of wildfire . 	20	query206_Wind\S\20
+"Wind"	"affects"	"the spread of wildfire"	20	query206_Wind\P\20-0
+Winds disperse seeds from various plants , enabling the survival and dispersal of those plant species , as well as flying insect populations . 	21	query206_Wind\S\21
+"Winds"	"disperse"	"seeds from various plants"	21	query206_Wind\P\21-0
+"Winds"	"disperse"	"seeds from various plants"	21	query206_Wind\P\21-1
+"Winds"	"disperse"	"seeds from various plants"	21	query206_Wind\P\21-2
+When combined with cold temperatures , wind has a negative impact on livestock . 	22	query206_Wind\S\22
+When combined with cold temperatures , wind has a negative impact on livestock . 	22	query206_Wind\S\22
+When combined with cold temperatures , wind has a negative impact on livestock . 	22	query206_Wind\S\22
+Wind affects animals ' food stores , as well as their hunting and defensive strategies . 	23	query206_Wind\S\23
+"Wind"	"affects"	"animals ' food stores"	23	query206_Wind\P\23-0
+"Wind"	"their hunting"	"animals ' food stores"	23	query206_Wind\P\23-1
+"Wind"	"their defensive strategies"	"animals ' food stores"	23	query206_Wind\P\23-2
+"Wind"	"their defensive strategies"	"animals ' food stores"	23	query206_Wind\P\23-3
+"Wind"	"their defensive strategies"	"animals ' food stores"	23	query206_Wind\P\23-4
+thumbrightsurface weather analysisSurface analysisofGreat Blizzard of 1888 . 	24	query206_Wind\S\24
+Areas with greater isobaric packing indicate higher winds . 	25	query206_Wind\S\25
+"Areas with greater isobaric packing"	"indicate"	"higher winds"	25	query206_Wind\P\25-0
+Wind is caused by differences in pressure . 	26	query206_Wind\S\26
+"Wind"	"is caused"	"by differences in pressure"	26	query206_Wind\P\26-0
+When a difference in pressure exists , the air is accelerated from higher to lower pressure . 	27	query206_Wind\S\27
+"a difference in pressure"	"exists"	"27 When"	27	query206_Wind\P\27-0
+"a difference in pressure"	"exists"	"27"	27	query206_Wind\P\27-1
+"the air"	"is accelerated"	"to lower pressure 27"	27	query206_Wind\P\27-2
+"the air"	"is accelerated"	"from higher to lower pressure"	27	query206_Wind\P\27-3
+"the air"	"is accelerated"	"to lower pressure"	27	query206_Wind\P\27-4
+On a rotating planet , the air will be deflected by the Coriolis effect , except exactly on the equator . 	28	query206_Wind\S\28
+"On a rotating planet"	"be deflected"	"by the Coriolis effect except exactly on the equator"	28	query206_Wind\P\28-0
+"On a rotating planet"	"be deflected"	"by the Coriolis effect"	28	query206_Wind\P\28-1
+"the air"	"will be deflected"	"by the Coriolis effect except exactly on the equator"	28	query206_Wind\P\28-2
+"the air"	"will be deflected"	"by the Coriolis effect"	28	query206_Wind\P\28-3
+Globally , the two major driving factors of large-scale winds ( the atmospheric circulation ) are the differential heating between the equator and the poles ( difference in absorption of solar energy leading to buoyancy force ) and the rotation of the planet . 	29	query206_Wind\S\29
+"the two major driving factors of large-scale winds"	"is"	"the atmospheric circulation"	29	query206_Wind\P\29-0
+"the two major driving factors of large-scale winds"	"are 29 the differential heating difference in absorption of solar energy leading to buoyancy force"	"Globally"	29	query206_Wind\P\29-1
+"the two major driving factors of large-scale winds"	"are 29 the differential difference in absorption of solar energy leading to buoyancy force the rotation of the planet"	"Globally"	29	query206_Wind\P\29-2
+"the two major driving factors of large-scale winds"	"are 29 the differential heating difference in absorption of solar energy leading to buoyancy force"	"between the equator and the poles"	29	query206_Wind\P\29-3
+"the two major driving factors of large-scale winds"	"are 29 the differential difference in absorption of solar energy leading to buoyancy force the rotation of the planet"	"between the equator and the poles"	29	query206_Wind\P\29-4
+"the two major driving factors of large-scale winds"	"are"	"29 the differential heating difference in absorption of solar energy leading to buoyancy force"	29	query206_Wind\P\29-5
+"the two major driving factors of large-scale winds"	"are"	"29 the differential difference in absorption of solar energy leading to buoyancy force the rotation of the planet"	29	query206_Wind\P\29-6
+"solar energy"	"be leading"	"to buoyancy force"	29	query206_Wind\P\29-7
+Outside the tropics and aloft from frictional effects of the surface , the large-scale winds tend to approach geostrophic balance . 	30	query206_Wind\S\30
+"the large-scale winds"	"tend"	"to approach geostrophic balance 30 Outside the tropics"	30	query206_Wind\P\30-0
+"the large-scale winds"	"tend"	"to approach geostrophic balance Outside the tropics aloft from frictional effects of the surface"	30	query206_Wind\P\30-1
+Near the Earth 's surface , friction causes the wind to be slower than it would be otherwise . 	31	query206_Wind\S\31
+"the Earth"	"has"	"surface"	31	query206_Wind\P\31-0
+"the Earth"	"has"	"surface"	31	query206_Wind\P\31-1
+"the Earth"	"has"	"surface"	31	query206_Wind\P\31-2
+"the Earth"	"has"	"surface"	31	query206_Wind\P\31-3
+Surface friction also causes winds to blow more inward into low pressure areas . 	32	query206_Wind\S\32
+"Surface friction"	"causes"	"winds to blow more inward into low pressure areas also"	32	query206_Wind\P\32-0
+"Surface friction"	"causes"	"winds to blow more inward into low pressure areas"	32	query206_Wind\P\32-1
+"Surface friction"	"causes"	"winds to blow more inward into low pressure areas"	32	query206_Wind\P\32-2
+JetStream Origin of Wind National Weather Service Southern Region Headquarters 2008 2009-02-16 http ://www .srh 	33	query206_Wind\S\33
+.noaa.gov/jetstream//synoptic/wind 	34	query206_Wind\S\34
+.htm 	35	query206_Wind\S\35
+JetStream Origin of Wind National Weather Service Southern Region Headquarters 2008 2009-02-16 http ://www .srh 	36	query206_Wind\S\36
+.noaa.gov/jetstream//synoptic/wind 	37	query206_Wind\S\37
+.htm 	38	query206_Wind\S\38
+Winds defined by an equilibrium of physical forces are used in the decomposition and analysis of wind profiles . 	39	query206_Wind\S\39
+"Winds"	"be defined"	"by an equilibrium of physical forces"	39	query206_Wind\P\39-0
+"Winds defined by an equilibrium of physical forces"	"are used"	"in the decomposition of wind profiles"	39	query206_Wind\P\39-1
+"Winds defined by an equilibrium of physical forces"	"are used"	"in the analysis of wind profiles"	39	query206_Wind\P\39-2
+They are useful for simplifying the atmospheric equations of motion and for making qualitative arguments about the horizontal and vertical distribution of winds . 	40	query206_Wind\S\40
+They are useful for simplifying the atmospheric equations of motion and for making qualitative arguments about the horizontal and vertical distribution of winds . 	40	query206_Wind\S\40
+They are useful for simplifying the atmospheric equations of motion and for making qualitative arguments about the horizontal and vertical distribution of winds . 	40	query206_Wind\S\40
+They are useful for simplifying the atmospheric equations of motion and for making qualitative arguments about the horizontal and vertical distribution of winds . 	40	query206_Wind\S\40
+They are useful for simplifying the atmospheric equations of motion and for making qualitative arguments about the horizontal and vertical distribution of winds . 	40	query206_Wind\S\40
+The geostrophic wind component is the result of the balance between Coriolis force and pressure gradient force . 	41	query206_Wind\S\41
+"The geostrophic wind component"	"is the result"	"of the balance between Coriolis force and pressure gradient force"	41	query206_Wind\P\41-0
+"The geostrophic wind component"	"is"	"the result"	41	query206_Wind\P\41-1
+It flows parallel to isobars and approximates the flow above the atmospheric boundary layer in the midlatitudes . 	42	query206_Wind\S\42
+It flows parallel to isobars and approximates the flow above the atmospheric boundary layer in the midlatitudes . 	42	query206_Wind\S\42
+It flows parallel to isobars and approximates the flow above the atmospheric boundary layer in the midlatitudes . 	42	query206_Wind\S\42
+Glossary of Meteorology Geostrophic wind American Meteorological Society 2009 2009-03-18 http ://amsglossary .allenpress.com/glossary/search 	43	query206_Wind\S\43
+?id=geostrophic-wind1 Glossary of Meteorology Geostrophic wind American Meteorological Society 2009 2009-03-18 http ://amsglossary .allenpress.com/glossary/search 	44	query206_Wind\S\44
+?id=geostrophic-wind1 The thermal wind is the difference in the geostrophic wind between two levels in the atmosphere . 	45	query206_Wind\S\45
+"id = geostrophic-wind1 The thermal wind"	"is the difference"	"in the geostrophic wind"	45	query206_Wind\P\45-0
+"id = geostrophic-wind1 The thermal wind"	"is the difference"	"between two levels in the atmosphere"	45	query206_Wind\P\45-1
+"id = geostrophic-wind1 The thermal wind"	"is"	"the difference"	45	query206_Wind\P\45-2
+"id = geostrophic-wind1 The thermal wind"	"is"	"the difference"	45	query206_Wind\P\45-3
+It exists only in an atmosphere with horizontal temperature gradient . 	46	query206_Wind\S\46
+"It"	"exists"	"only in an atmosphere with horizontal temperature gradient"	46	query206_Wind\P\46-0
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	47	query206_Wind\S\47
+?p=1&query=thermal+wind&submit=Search Thermal wind American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	48	query206_Wind\S\48
+?p=1&query=thermal+wind&submit=Search Thermal wind American Meteorological Society 2009-03-18 The ageostrophic wind component is the difference between actual and geostrophic wind , which is responsible for air "filling up " cyclones over time . 	49	query206_Wind\S\49
+"actual wind"	"is responsible"	"for air filling up cyclones over time"	49	query206_Wind\P\49-0
+"geostrophic wind"	"is responsible"	"for air filling up cyclones over time"	49	query206_Wind\P\49-1
+"actual wind"	"is"	"responsible"	49	query206_Wind\P\49-2
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-3
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-4
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-5
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-6
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-7
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-8
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-9
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-10
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-11
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-12
+"geostrophic wind"	"is"	"responsible"	49	query206_Wind\P\49-13
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	50	query206_Wind\S\50
+?p=1&query=geostrophic+wind&submit=Search Ageostrophic wind American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	51	query206_Wind\S\51
+?p=1&query=geostrophic+wind&submit=Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind is similar to the geostrophic wind but also includes centrifugal force ( or centripetal acceleration ) . 	52	query206_Wind\S\52
+?p=1&query=geostrophic+wind&submit=Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind is similar to the geostrophic wind but also includes centrifugal force ( or centripetal acceleration ) . 	52	query206_Wind\S\52
+?p=1&query=geostrophic+wind&submit=Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind is similar to the geostrophic wind but also includes centrifugal force ( or centripetal acceleration ) . 	52	query206_Wind\S\52
+?p=1&query=geostrophic+wind&submit=Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind is similar to the geostrophic wind but also includes centrifugal force ( or centripetal acceleration ) . 	52	query206_Wind\S\52
+?p=1&query=geostrophic+wind&submit=Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind is similar to the geostrophic wind but also includes centrifugal force ( or centripetal acceleration ) . 	52	query206_Wind\S\52
+"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is similar"	"to the geostrophic wind"	52	query206_Wind\P\52-0
+"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is similar"	"to the geostrophic wind"	52	query206_Wind\P\52-1
+"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"similar"	52	query206_Wind\P\52-2
+"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"similar"	52	query206_Wind\P\52-3
+"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes to the geostrophic wind centrifugal force centripetal acceleration"	52	query206_Wind\P\52-4
+"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes to the geostrophic wind centrifugal force centripetal acceleration"	52	query206_Wind\P\52-5
+"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes also centrifugal force centripetal acceleration"	52	query206_Wind\P\52-6
+"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes also centrifugal force centripetal acceleration"	52	query206_Wind\P\52-7
+"p = 1 & query = geostrophic & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes centrifugal force centripetal acceleration"	52	query206_Wind\P\52-8
+"p = 1 & query = wind & submit = Search Ageostrophic wind American Meteorological Society 2009-03-18 The gradient wind"	"is"	"includes centrifugal force centripetal acceleration"	52	query206_Wind\P\52-9
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	53	query206_Wind\S\53
+?id=gradient-wind1 Gradient wind American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	54	query206_Wind\S\54
+?id=gradient-wind1 Gradient wind American Meteorological Society 2009-03-18 rightthumbA windmill style of anemometer rightthumbAn occluded mesocyclone tornado ( Oklahoma_ May 1999 ) Wind direction is reported by the direction from which it originates . 	55	query206_Wind\S\55
+?id=gradient-wind1 Gradient wind American Meteorological Society 2009-03-18 rightthumbA windmill style of anemometer rightthumbAn occluded mesocyclone tornado ( Oklahoma_ May 1999 ) Wind direction is reported by the direction from which it originates . 	55	query206_Wind\S\55
+?id=gradient-wind1 Gradient wind American Meteorological Society 2009-03-18 rightthumbA windmill style of anemometer rightthumbAn occluded mesocyclone tornado ( Oklahoma_ May 1999 ) Wind direction is reported by the direction from which it originates . 	55	query206_Wind\S\55
+"id = gradient-wind1 Gradient wind American Meteorological Society 2009-03-18 rightthumbA windmill style of anemometer rightthumbAn"	"occluded"	"mesocyclone tornado"	55	query206_Wind\P\55-0
+"Oklahoma _ May 1999 Wind direction"	"is reported"	"by the direction mesocyclone tornado"	55	query206_Wind\P\55-1
+"Oklahoma _ May 1999 Wind direction"	"is reported"	"mesocyclone tornado"	55	query206_Wind\P\55-2
+For example , a northerly wind blows from the north to the south . 	56	query206_Wind\S\56
+JetStream 2008 http ://www .srh 	57	query206_Wind\S\57
+.weather.gov/srh/jetstream/synoptic/wxmaps 	58	query206_Wind\S\58
+.htm 	59	query206_Wind\S\59
+How to read weather maps National Weather Service 2009-05-16 JetStream 2008 http ://www .srh 	60	query206_Wind\S\60
+.weather.gov/srh/jetstream/synoptic/wxmaps 	61	query206_Wind\S\61
+.htm 	62	query206_Wind\S\62
+How to read weather maps National Weather Service 2009-05-16 Weather vane pivot to indicate the direction of the wind . 	63	query206_Wind\S\63
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary//search 	64	query206_Wind\S\64
+?id=wind-vane1 Wind vane American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary//search 	65	query206_Wind\S\65
+?id=wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports , windsock are primarily used to indicate wind direction , but can also be used to estimate wind speed by its angle of hang . 	66	query206_Wind\S\66
+"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are used"	"to indicate wind direction primarily"	66	query206_Wind\P\66-0
+"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are used"	"to indicate wind direction"	66	query206_Wind\P\66-1
+"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed by its angle of hang primarily"	66	query206_Wind\P\66-2
+"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed primarily"	66	query206_Wind\P\66-3
+"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed by its angle of hang also"	66	query206_Wind\P\66-4
+"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed also"	66	query206_Wind\P\66-5
+"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed by its angle of hang"	66	query206_Wind\P\66-6
+"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed"	66	query206_Wind\P\66-7
+"id = wind-vane1 Wind vane American Meteorological Society 2009-03-17 At airports windsock"	"are can be used"	"to indicate wind direction to estimate wind speed"	66	query206_Wind\P\66-8
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	67	query206_Wind\S\67
+?p=1&query=wind+sock&submit=Search Wind sock American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	68	query206_Wind\S\68
+?p=1&query=wind+sock&submit=Search Wind sock American Meteorological Society 2009-03-17 Wind speed is measured by anemometer , most commonly using rotating cups or propellers . 	69	query206_Wind\S\69
+"wind & submit = Search Wind sock American Meteorological Society 2009-03-17 Wind speed"	"is measured"	"by anemometer"	69	query206_Wind\P\69-0
+"sock = Search Wind sock American Meteorological Society 2009-03-17 Wind speed"	"is measured"	"by anemometer"	69	query206_Wind\P\69-1
+"sock = Search Wind sock American Meteorological Society 2009-03-17 Wind speed"	"is measured"	"by anemometer"	69	query206_Wind\P\69-2
+"sock = Search Wind sock American Meteorological Society 2009-03-17 Wind speed"	"is measured"	"by anemometer"	69	query206_Wind\P\69-3
+When a high measurement frequency is needed ( such as in research applications ) , wind can be measured by the propagation speed of ultrasound signals or by the effect of ventilation on the resistance of a heated wire . 	70	query206_Wind\S\70
+"a high measurement frequency"	"is needed"	"70 When"	70	query206_Wind\P\70-0
+"a high measurement frequency"	"is needed"	"as such in research applications 70"	70	query206_Wind\P\70-1
+"a high measurement frequency"	"is needed"	"70"	70	query206_Wind\P\70-2
+"a high measurement frequency"	"is needed"	"70"	70	query206_Wind\P\70-3
+"a high measurement frequency"	"is needed"	"70"	70	query206_Wind\P\70-4
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	71	query206_Wind\S\71
+?p=1&query=anemometer&submit=Search Anemometer American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	72	query206_Wind\S\72
+?p=1&query=anemometer&submit=Search Anemometer American Meteorological Society 2009-03-17 Another type of anemometer uses pitot tube that take advantage of the pressure differential between an inner tube and an outer tube that is exposed to the wind to determine the dynamic pressure , which is then used to compute the wind speed . 	73	query206_Wind\S\73
+?p=1&query=anemometer&submit=Search Anemometer American Meteorological Society 2009-03-17 Another type of anemometer uses pitot tube that take advantage of the pressure differential between an inner tube and an outer tube that is exposed to the wind to determine the dynamic pressure , which is then used to compute the wind speed . 	73	query206_Wind\S\73
+"Anemometer American Meteorological Society"	"2009-03-17 Another type of anemometer uses"	"pitot tube"	73	query206_Wind\P\73-0
+"2009-03-17 Another type of anemometer"	"Anemometer American Meteorological Society uses"	"pitot tube"	73	query206_Wind\P\73-1
+"pitot tube"	"take"	"advantage of the pressure differential between an inner tube and an outer tube to determine the dynamic pressure"	73	query206_Wind\P\73-2
+"an outer tube"	"be determine"	"the dynamic pressure"	73	query206_Wind\P\73-3
+"an outer tube to determine the dynamic pressure"	"is exposed"	"to the wind"	73	query206_Wind\P\73-4
+"the dynamic pressure"	"is used"	"to compute the wind speed"	73	query206_Wind\P\73-5
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	74	query206_Wind\S\74
+?p=1&query=pitot+tube&submit=Search Pitot tube American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	75	query206_Wind\S\75
+?p=1&query=pitot+tube&submit=Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds are reported globally at a us 10 m ft height and are averaged over a 10&nbsp;minute time frame . 	76	query206_Wind\S\76
+?p=1&query=pitot+tube&submit=Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds are reported globally at a us 10 m ft height and are averaged over a 10&nbsp;minute time frame . 	76	query206_Wind\S\76
+?p=1&query=pitot+tube&submit=Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds are reported globally at a us 10 m ft height and are averaged over a 10&nbsp;minute time frame . 	76	query206_Wind\S\76
+?p=1&query=pitot+tube&submit=Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds are reported globally at a us 10 m ft height and are averaged over a 10&nbsp;minute time frame . 	76	query206_Wind\S\76
+?p=1&query=pitot+tube&submit=Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds are reported globally at a us 10 m ft height and are averaged over a 10&nbsp;minute time frame . 	76	query206_Wind\S\76
+?p=1&query=pitot+tube&submit=Search Pitot tube American Meteorological Society 2009-03-17 Sustained wind speeds are reported globally at a us 10 m ft height and are averaged over a 10&nbsp;minute time frame . 	76	query206_Wind\S\76
+The United States reports winds over a 1&nbsp;minute average for tropical cyclones , Tropical Cyclone Weather Services Program Tropical cyclone definitions http ://www.weather.gov/directives/sym/pd01006004curr.pdf 	77	query206_Wind\S\77
+"The United States"	"reports"	"winds over a 1 minute average for tropical cyclones www.weather.gov/directives/sym/pd01006004curr.pdf"	77	query206_Wind\P\77-0
+"Tropical Cyclone Weather Services Program Tropical cyclone definitions"	"http"	"winds over a 1 minute average for tropical cyclones www.weather.gov/directives/sym/pd01006004curr.pdf"	77	query206_Wind\P\77-1
+PDF 2006-06-01 2006-11-30 National Weather Service Tropical Cyclone Weather Services Program Tropical cyclone definitions http ://www.weather.gov/directives/sym/pd01006004curr.pdf 	78	query206_Wind\S\78
+PDF 2006-06-01 2006-11-30 National Weather Service and a 2&nbsp;minute average within weather observations . 	79	query206_Wind\S\79
+Office of the Federal Coordinator for Meteorology . 	80	query206_Wind\S\80
+Retrieved on 2008-04-06 . 	81	query206_Wind\S\81
+Retrieved on 2008-04-06 . 	81	query206_Wind\S\81
+India typically reports winds over a 3&nbsp;minute average . 	82	query206_Wind\S\82
+"India"	"reports"	"winds over a 3 minute average typically"	82	query206_Wind\P\82-0
+"India"	"reports"	"winds over a 3 minute average"	82	query206_Wind\P\82-1
+Sharad K. 	83	query206_Wind\S\83
+Jain , Pushpendra K. 	84	query206_Wind\S\84
+"Jain"	"is"	"Pushpendra K."	84	query206_Wind\P\84-0
+Agarwal , Vijay P. 	85	query206_Wind\S\85
+"Agarwal"	"is"	"Vijay P."	85	query206_Wind\P\85-0
+Singh 2007 http ://books .google 	86	query206_Wind\S\86
+.com/ 	87	query206_Wind\S\87
+?id=ZKs1gBhJSWIC&pg=RA1-PA187 Hydrology and Water Resources of India Springer 187 2009-04-22 9781402051791 Sharad K. 	88	query206_Wind\S\88
+Jain , Pushpendra K. 	89	query206_Wind\S\89
+"Jain"	"is"	"Pushpendra K."	89	query206_Wind\P\89-0
+Agarwal , Vijay P. 	90	query206_Wind\S\90
+"Agarwal"	"is"	"Vijay P."	90	query206_Wind\P\90-0
+Singh 2007 http ://books .google 	91	query206_Wind\S\91
+.com/ 	92	query206_Wind\S\92
+?id=ZKs1gBhJSWIC&pg=RA1-PA187 Hydrology and Water Resources of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important , as the value of a one-minute sustained wind is typically 14 % greater than a ten-minute sustained wind . 	93	query206_Wind\S\93
+"id = ZKs1gBhJSWIC & pg = RA1-PA187 Hydrology of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is greater"	"typically 14 %"	93	query206_Wind\P\93-0
+"id = ZKs1gBhJSWIC & pg = RA1-PA187 Water Resources of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is greater"	"typically 14 %"	93	query206_Wind\P\93-1
+"id = ZKs1gBhJSWIC & pg = RA1-PA187 Hydrology of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is greater"	"than a ten-minute sustained wind"	93	query206_Wind\P\93-2
+"id = ZKs1gBhJSWIC & pg = RA1-PA187 Water Resources of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is greater"	"than a ten-minute sustained wind"	93	query206_Wind\P\93-3
+"id = ZKs1gBhJSWIC & pg = RA1-PA187 Hydrology of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is"	"greater"	93	query206_Wind\P\93-4
+"id = ZKs1gBhJSWIC & pg = RA1-PA187 Water Resources of India Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average is important as the value of a one-minute sustained wind"	"is"	"greater"	93	query206_Wind\P\93-5
+"2009-04-22 9781402051791"	"be Knowing"	"the wind sampling average"	187	query206_Wind\P\93-6
+"Springer 187 2009-04-22 9781402051791 Knowing the wind sampling average"	"is"	"India important"	187	query206_Wind\P\93-7
+Jan-Hwa Chu 1999 http ://www.nrlmry 	94	query206_Wind\S\94
+.navy 	95	query206_Wind\S\95
+.mil/~chu/chap6/se200.htm 	96	query206_Wind\S\96
+Section 2. 	97	query206_Wind\S\97
+Intensity Observation and Forecast Errors United States Navy 2008-07-04 Jan-Hwa Chu 1999 http ://www.nrlmry 	98	query206_Wind\S\98
+.navy 	99	query206_Wind\S\99
+.mil/~chu/chap6/se200.htm 	100	query206_Wind\S\100
+Section 2. 	101	query206_Wind\S\101
+Intensity Observation and Forecast Errors United States Navy 2008-07-04 A short burst of high speed wind is termed a wind gust , one technical definition of a wind gust is : the maxima that exceed the lowest wind speed measured during a ten minute time interval by us 10 kn km/h . 	102	query206_Wind\S\102
+"Intensity Observation"	"is termed"	"a wind gust is the maxima"	102	query206_Wind\P\102-0
+"Intensity Forecast Errors United States Navy 2008-07-04 A short burst of high speed wind"	"is termed"	"a wind gust is the maxima"	102	query206_Wind\P\102-1
+"a wind gust"	"is"	"one technical definition of a wind gust"	102	query206_Wind\P\102-2
+"the maxima"	"exceed"	"the lowest wind speed measured during a ten minute time interval by us 10 kn km/h"	102	query206_Wind\P\102-3
+"the lowest wind speed"	"be measured"	"during a ten minute time interval by us 10 kn km/h"	102	query206_Wind\P\102-4
+"a ten minute time"	"be interval"	"by us 10 kn km/h"	102	query206_Wind\P\102-5
+A squall is a doubling of the wind speed above a certain threshold , which lasts for a minute or more . 	103	query206_Wind\S\103
+"A squall"	"is a doubling"	"of the wind speed above a certain threshold"	103	query206_Wind\P\103-0
+"A squall"	"is"	"a doubling"	103	query206_Wind\P\103-1
+"a certain threshold"	"lasts"	"for a minute"	103	query206_Wind\P\103-2
+"a certain threshold"	"lasts"	"for a more"	103	query206_Wind\P\103-3
+To determine winds aloft , rawinsondes determine wind speed by GPS , radio navigation , or radar tracking of the probe . 	104	query206_Wind\S\104
+To determine winds aloft , rawinsondes determine wind speed by GPS , radio navigation , or radar tracking of the probe . 	104	query206_Wind\S\104
+To determine winds aloft , rawinsondes determine wind speed by GPS , radio navigation , or radar tracking of the probe . 	104	query206_Wind\S\104
+To determine winds aloft , rawinsondes determine wind speed by GPS , radio navigation , or radar tracking of the probe . 	104	query206_Wind\S\104
+To determine winds aloft , rawinsondes determine wind speed by GPS , radio navigation , or radar tracking of the probe . 	104	query206_Wind\S\104
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	105	query206_Wind\S\105
+?p=1&query=rawinsonde&submit=Search Rawinsonde American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	106	query206_Wind\S\106
+?p=1&query=rawinsonde&submit=Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively , movement of the parent weather balloon position can be tracked from the ground visually using theodolite . 	107	query206_Wind\S\107
+?p=1&query=rawinsonde&submit=Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively , movement of the parent weather balloon position can be tracked from the ground visually using theodolite . 	107	query206_Wind\S\107
+"movement of the parent weather balloon position"	"can be tracked"	"from the ground using theodolite visually 1 & query = rawinsonde & submit = Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively"	107	query206_Wind\P\107-0
+"movement of the parent weather balloon position"	"can be tracked"	"from the ground using theodolite 1 & query = rawinsonde & submit = Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively"	107	query206_Wind\P\107-1
+"movement of the parent weather balloon position"	"can be tracked"	"using theodolite visually 1 & query = rawinsonde & submit = Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively"	107	query206_Wind\P\107-2
+"movement of the parent weather balloon position"	"can be tracked"	"using theodolite 1 & query = rawinsonde & submit = Search Rawinsonde American Meteorological Society 2009-03-17 Alternatively"	107	query206_Wind\P\107-3
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	108	query206_Wind\S\108
+?id=pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	109	query206_Wind\S\109
+?id=pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind include SODAR , Doppler LIDAR and RADAR , which can measure the Doppler shift of electromagnetic radiation scattered or reflected off suspended aerosol or molecule , and radiometer and radars can be used to measure the surface roughness of the ocean from space or airplanes . 	110	query206_Wind\S\110
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"SODAR can be used to measure the surface roughness of the ocean from space"	110	query206_Wind\P\110-0
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"Doppler LIDAR can be used to measure the surface roughness of the ocean from space or airplanes"	110	query206_Wind\P\110-1
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"RADAR can be used to measure the surface roughness of the ocean from space or airplanes"	110	query206_Wind\P\110-2
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"radiometer can be used to measure the surface roughness of the ocean from space or airplanes"	110	query206_Wind\P\110-3
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"radars can be used to measure the surface roughness of the ocean from space or airplanes"	110	query206_Wind\P\110-4
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"SODAR can be used to measure the surface roughness of the ocean from airplanes"	110	query206_Wind\P\110-5
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"SODAR can be used to measure the surface roughness of the ocean from airplanes"	110	query206_Wind\P\110-6
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"SODAR can be used to measure the surface roughness of the ocean from airplanes"	110	query206_Wind\P\110-7
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"SODAR can be used to measure the surface roughness of the ocean from airplanes"	110	query206_Wind\P\110-8
+"id = pilot-balloon-observation1 Pibal American Meteorological Society 2009-03-17 Remote sensing techniques for wind"	"include"	"SODAR can be used to measure the surface roughness of the ocean from airplanes"	110	query206_Wind\P\110-9
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended aerosol"	110	query206_Wind\P\110-10
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended aerosol"	110	query206_Wind\P\110-11
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation reflected off suspended molecule"	110	query206_Wind\P\110-12
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-13
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-14
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-15
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-16
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-17
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-18
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-19
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-20
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-21
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-22
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-23
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-24
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-25
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-26
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-27
+"Doppler LIDAR"	"can measure"	"the Doppler shift of electromagnetic radiation scattered off suspended molecule"	110	query206_Wind\P\110-28
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean from space"	110	query206_Wind\P\110-29
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean from airplanes"	110	query206_Wind\P\110-30
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-31
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-32
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-33
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-34
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-35
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-36
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-37
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-38
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-39
+"Doppler LIDAR"	"can be used"	"to measure the surface roughness of the ocean"	110	query206_Wind\P\110-40
+Ocean roughness can be used to estimate wind velocity close to the sea surface over oceans . 	111	query206_Wind\S\111
+"Ocean roughness"	"can be used"	"to estimate wind velocity close to the sea surface over oceans"	111	query206_Wind\P\111-0
+Geostationary satellite imagery can be used to estimate the winds throughout the atmosphere based upon how far clouds move from one image to the next . 	112	query206_Wind\S\112
+"Geostationary satellite imagery"	"can be used"	"to estimate the winds throughout the atmosphere"	112	query206_Wind\P\112-0
+"Geostationary satellite imagery"	"can be used"	"to estimate the winds throughout the atmosphere"	112	query206_Wind\P\112-1
+"Geostationary satellite imagery"	"can be used"	"to estimate the winds throughout the atmosphere"	112	query206_Wind\P\112-2
+"Geostationary satellite imagery"	"can be used"	"to estimate the winds throughout the atmosphere"	112	query206_Wind\P\112-3
+Wind Engineering describes the study of the effects of the wind on the built environment , including buildings , bridges and other man-made objects . 	113	query206_Wind\S\113
+"Wind Engineering"	"describes"	"the study of the effects of the wind on the built environment including buildings"	113	query206_Wind\P\113-0
+"Wind Engineering"	"describes"	"the study of the effects of the wind on the built environment including bridges"	113	query206_Wind\P\113-1
+"Wind Engineering"	"describes"	"the study of the effects of the wind on the built environment including other man-made objects"	113	query206_Wind\P\113-2
+Tropical cyclone scales Surface weather analysis Historically , the Beaufort wind force scale provides an empirical description of wind speed based on observed sea conditions . 	114	query206_Wind\S\114
+Tropical cyclone scales Surface weather analysis Historically , the Beaufort wind force scale provides an empirical description of wind speed based on observed sea conditions . 	114	query206_Wind\S\114
+Tropical cyclone scales Surface weather analysis Historically , the Beaufort wind force scale provides an empirical description of wind speed based on observed sea conditions . 	114	query206_Wind\S\114
+"an empirical description of wind speed"	"be based"	"on observed sea conditions"	114	query206_Wind\P\114-0
+Originally it was a 13-level scale , but during the 1940s , the scale was expanded to 17&nbsp;levels . 	115	query206_Wind\S\115
+Originally it was a 13-level scale , but during the 1940s , the scale was expanded to 17&nbsp;levels . 	115	query206_Wind\S\115
+Originally it was a 13-level scale , but during the 1940s , the scale was expanded to 17&nbsp;levels . 	115	query206_Wind\S\115
+Originally it was a 13-level scale , but during the 1940s , the scale was expanded to 17&nbsp;levels . 	115	query206_Wind\S\115
+Originally it was a 13-level scale , but during the 1940s , the scale was expanded to 17&nbsp;levels . 	115	query206_Wind\S\115
+"the scale"	"was expanded"	"to 17 levels 115 a 13-level scale"	115	query206_Wind\P\115-0
+"the scale"	"was expanded"	"to 17 levels 115 a 13-level during the 1940s"	115	query206_Wind\P\115-1
+"the scale"	"was expanded"	"115 a 13-level scale"	115	query206_Wind\P\115-2
+"the scale"	"was expanded"	"115 a 13-level during the 1940s"	115	query206_Wind\P\115-3
+Walter J. 	116	query206_Wind\S\116
+Saucier 2003 http ://books .google 	117	query206_Wind\S\117
+.com/ 	118	query206_Wind\S\118
+?id=CM99-uKpR00C&pg=PA407 Principles of Meteorological Analysis Courier Dover Publications 9780486495415 2009-01-09 Walter J. 	119	query206_Wind\S\119
+Saucier 2003 http ://books .google 	120	query206_Wind\S\120
+.com/ 	121	query206_Wind\S\121
+?id=CM99-uKpR00C&pg=PA407 Principles of Meteorological Analysis Courier Dover Publications 9780486495415 2009-01-09 There are general terms that differentiate winds of different average speeds such as a breeze , a gale , a storm , tornado , or a hurricane . 	122	query206_Wind\S\122
+"general terms"	"There are"	"id = CM99-uKpR00C & pg = PA407 Principles of Meteorological Analysis Courier Dover Publications 9780486495415 2009-01-09"	122	query206_Wind\P\122-0
+"general terms"	"differentiate"	"winds of different average speeds such as a breeze"	122	query206_Wind\P\122-1
+"general terms"	"differentiate"	"winds of different average speeds such as a a hurricane"	122	query206_Wind\P\122-2
+"a breeze"	"is"	"a storm"	122	query206_Wind\P\122-3
+"a a hurricane"	"is"	"a storm"	122	query206_Wind\P\122-4
+"a breeze"	"is"	"tornado"	122	query206_Wind\P\122-5
+"a a hurricane"	"is"	"tornado"	122	query206_Wind\P\122-6
+"a breeze"	"is"	"a gale"	122	query206_Wind\P\122-7
+"a a hurricane"	"is"	"a gale"	122	query206_Wind\P\122-8
+Within the Beaufort scale , gale-force winds lie between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as moderate , fresh , strong , and whole used to differentiate the wind 's strength within the gale category . 	123	query206_Wind\S\123
+"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h 123 Within the Beaufort scale"	123	query206_Wind\P\123-0
+"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as moderate"	123	query206_Wind\P\123-1
+"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as fresh"	123	query206_Wind\P\123-2
+"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as strong"	123	query206_Wind\P\123-3
+"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h with preceding adjectives such as whole used to differentiate the wind 's strength within the gale category"	123	query206_Wind\P\123-4
+"gale-force winds"	"lie"	"between us 28 kn km/h and us 55 kn km/h"	123	query206_Wind\P\123-5
+"the wind"	"has"	"strength within the gale category"	123	query206_Wind\P\123-6
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/browse 	124	query206_Wind\S\124
+?s=G&p=1 G American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/browse 	125	query206_Wind\S\125
+?s=G&p=1 G American Meteorological Society 2009-03-18 A storm has winds of us 56 kn km/h to us 63 kn km/h . 	126	query206_Wind\S\126
+"G & p"	"="	"1 G American Meteorological Society 2009-03-18 A storm has winds of us 56 kn km/h to us 63 kn km/h"	126	query206_Wind\P\126-0
+"G American Meteorological Society 2009-03-18 A storm"	"has"	"winds of us 56 kn km/h to us 63 kn km/h"	1	query206_Wind\P\126-1
+Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	127	query206_Wind\S\127
+?id=storm1 Storm American Meteorological Society 2009-03-18 Glossary of Meteorology 2009 http ://amsglossary .allenpress.com/glossary/search 	128	query206_Wind\S\128
+?id=storm1 Storm American Meteorological Society 2009-03-18 The terminology for tropical cyclones differs from one region to another globally . 	129	query206_Wind\S\129
+"storm1 Storm American Meteorological Society 2009-03-18"	"id The terminology for tropical cyclones differs"	"from one region to another globally"	129	query206_Wind\P\129-0
+"storm1 Storm American Meteorological Society 2009-03-18"	"id The terminology for tropical cyclones differs"	"from one region"	129	query206_Wind\P\129-1
+"The terminology for tropical cyclones"	"id storm1 Storm American Meteorological Society 2009-03-18 differs"	"from one region to another globally"	129	query206_Wind\P\129-2
+"The terminology for tropical cyclones"	"id storm1 Storm American Meteorological Society 2009-03-18 differs"	"from one region"	129	query206_Wind\P\129-3
+"The terminology for tropical cyclones"	"id storm1 Storm American Meteorological Society 2009-03-18 differs"	"from one region"	129	query206_Wind\P\129-4
+"The terminology for tropical cyclones"	"id storm1 Storm American Meteorological Society 2009-03-18 differs"	"from one region"	129	query206_Wind\P\129-5
+Most ocean basins use the average wind speed to determine the tropical cyclone 's category . 	130	query206_Wind\S\130
+"Most ocean basins"	"use"	"the average wind speed to determine the tropical cyclone 's category"	130	query206_Wind\P\130-0
+"Most ocean basins"	"use"	"the average wind speed"	130	query206_Wind\P\130-1
+"Most ocean basins"	"be determine"	"the tropical cyclone 's category"	130	query206_Wind\P\130-2
+"the tropical cyclone"	"has"	"category"	130	query206_Wind\P\130-3
+Below is a summary of the classifications used by Regional Specialized Meteorological Centers worldwide : The Enhanced Fujita Scale ( EF Scale ) rates the strength of tornadoes in the United States based on the damage they cause . 	131	query206_Wind\S\131
+"Below"	"is a summary The Enhanced Fujita Scale rates the strength of tornadoes in the United States based on the damage"	"of the classifications used by Regional Specialized Meteorological Centers worldwide"	131	query206_Wind\P\131-0
+"Below"	"is"	"a summary The Enhanced Fujita Scale rates the strength of tornadoes in the United States based on the damage"	131	query206_Wind\P\131-1
+"the classifications"	"be used"	"by Regional Specialized Meteorological Centers worldwide"	131	query206_Wind\P\131-2
+"The Enhanced Fujita Scale"	"is"	"EF Scale"	131	query206_Wind\P\131-3
+"the strength of tornadoes in the United States"	"be based"	"on the damage"	131	query206_Wind\P\131-4
+"the strength of tornadoes in the United States"	"be based"	"on the damage"	131	query206_Wind\P\131-5
+Below is that scale . 	132	query206_Wind\S\132
+Minor or no damage . 	133	query206_Wind\S\133
+Peels surface off some roofs ; some damage to gutters or siding ; branches broken off trees ; shallow-rooted trees pushed over . 	134	query206_Wind\S\134
+Peels surface off some roofs ; some damage to gutters or siding ; branches broken off trees ; shallow-rooted trees pushed over . 	134	query206_Wind\S\134
+Confirmed tornadoes with no reported damage ( i .e 	135	query206_Wind\S\135
+. 	136	query206_Wind\S\136
+, those that remain in open fields ) are always rated EF0 . 	137	query206_Wind\S\137
+, those that remain in open fields ) are always rated EF0 . 	137	query206_Wind\S\137
+, those that remain in open fields ) are always rated EF0 . 	137	query206_Wind\S\137
+"	137	query206_Wind\S\137

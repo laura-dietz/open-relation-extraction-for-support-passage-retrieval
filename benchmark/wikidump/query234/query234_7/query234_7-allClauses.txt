@@ -1,0 +1,231 @@
+0	
+1	SVC (V: sounds@3, S: heart@2, CCOMP: sounds@6)	SVA (V: sounds@6, S: heart@5, A!: heard@8)	SVC (C: organ@24, V: is@20, S: sounds@3, A?: found@25)	SVA (V: "be found", S: organ@24, A!: in@26, A?: with@29)
+2	SVC (V: means@9, S: term@2, ACOMP: related@11)	SVC (V: comes@17, S: term@2, ACOMP: related@11, A?: from@18, A?: for@25)	SVC (S: καρδιά@21, V: "is", C: kardia@23)
+3	SVA (V: composed@5, S: heart@3, A!: of@6)	SVA (V: "be found", S: tissue@16, A!: in@19)	SVC (C: tissue@16, V: is@11, S: muscle@8, A?: found@17)
+4	SVA (V: "be beating", S: heart@4, A!: at@7)	SVO (V: beat@14, S: heart@4, O: 2.5@16)
+5	
+6	SVO (V: weighs@2, S: It@1, O: 250@4, A?: to@5)	SVO (V: oz@17, S: It@1, O: 250@4, A?: to@5, A?: in@19)
+7	SVC (S: Robbins@7, V: "is", C: Ed@16)
+8	
+9	SVO (V: possess@5, S: that@4, O: system@8)	SVOC (C: tube@15, V: is@12, S: heart@11, A?: typically@13, O: 556@1)	SVO (V: contains@23, S: tube@15, O: water@24)
+10	SVO (V: called@10, S: heart@6, A?: In@1, A?: often@9, O: tube@13)	SVA (V: respirate@27, S: they@25, A?: usually@26, A!: directly@31, A?: from@32, A?: to@41)	SVO (S: their@33, V: "has", O: surfaces@35)
+11	SVO (V: pump@24, S: animals@23, O: hemolymph@25)	SVO (V: contains@28, S: hemolymph@25, O: copper@30)	SVA (V: "be found", S: cells@49, A!: in@51)
+12	SVO (V: derived@7, S: heart@5, A?: from@8, O: development@2)	SVA (V: differentiate@14, S: cells@12, A!: after@15)
+13	SVO (V: forms@3, S: pericardium@2, O: lining@6)
+14	SVC (S: heart@6, V: "is", C: vessels@11)	SVA (V: develop@13, S: lining@3, A!: from@14)
+15	SVO (V: termed@4, S: muscle@2, XCOMP: myocardium@5)
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	SVO (V: develops@11, S: plates@10, CCOMP: 2010-10-17@2, A?: cranially@12, A?: to@15)
+25	SVA (V: form@11, S: clusters@10, A?: In@1, A!: on@12)
+26	SVO (V: coalesce@4, S: clusters@3, XCOMP: form@6)
+27	SVO (V: continues@4, S: tissue@3, XCOMP: fold@6)	SVA (V: pushed@13, S: tubes@11, A?: continues@4, A!: into@14)	SVO (V: begin@19, S: tubes@11, A?: continues@4, A?: into@14, XCOMP: fuse@21)	SVO (V: complete@25, S: tubes@11, A?: continues@4, A?: into@14, O: process@28, A?: at@29)
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	SVOO (V: _@6, S: afterFertilizationconception@5, O: heart@9, IO: days@4)	SVO (V: begins@10, S: thumb300pxAt@2, XCOMP: beating@11)	SVO (V: accelerates@20, S: thumb300pxAt@2, XCOMP: beating@11, A?: linearly@21, A?: for@22)
+37	SVO (V: begins@5, S: heart@4, XCOMP: beating@6)	SVC (S: period@22, V: "is", C: LMP@24)
+38	SVO (V: used@9, S: day@3, A?: normally@8, XCOMP: date@11)
+39	SVO (V: begins@4, S: heart@3, XCOMP: beating@5)	SVC (S: beats@18, V: "is", C: BPM@22)
+40	SVC (S: rate@4, V: "is", C: EHR@6)	SVO (V: accelerates@9, S: rate@4, A-: then@8, A?: by@10, A?: during@14, XCOMP: peak@19)	SVC (S: BPM@24, V: "is", C: week@36)
+41	SVC (C: 3.3@5, V: is@3, S: acceleration@2)
+42	SVC (C: increase@16, V: is@14, S: BPM@1, A?: of@17, A?: in@20)
+43	SVC (S: DuBose@1, V: "is", C: http@6)
+44	
+45	
+46	
+47	SVC (S: DuBose@2, V: "is", C: Miller@4)	SVC (S: Miller@4, V: "is", C: http@7)
+48	
+49	
+50	
+51	
+52	
+53	SVC (S: TJ@5, V: "is", C: JA@8)
+54	SVC (S: TJ@6, V: "is", C: 1996@8)
+55	
+56	SVA (V: decelerates@7, S: it@6, A?: weeks@1, A!: to@8)
+57	SVA (V: slows@8, S: deceleration@7, A?: After@1, A!: to@9)	SVA (V: BPM@22, S: deceleration@7, A?: After@1, A?: to@9, A!: at@24)
+58	SVO (V: describes@6, S: formula@3, O: acceleration@8, A?: reaches@12)	SVO (V: reaches@12, S: embryo@11, O: mm@14, A?: in@15)	SVO (V: 9.2@20, S: embryo@11, O: mm@14, A?: in@15)
+59	
+60	
+61	EXISTENTIAL (V: is@2, S: difference@4, A?: before@11)
+62	
+63	SVA (V: varies@7, S: structure@3, A!: among@8)
+64	
+65	SVO (V: have@3, S: Cephalopod@2, O: hearts@7)	SVO (V: heart@13, S: Cephalopod@2, O: hearts@7)
+66	SVA (V: lies@6, S: heart@5, A?: In@1, A!: in@7)
+67	SVA (V: surrounded@4, S: It@1, A?: always@3, A!: by@5)	SVC (C: continuous@19, V: be@18, S: It@1, A?: always@3, A?: by@5, A?: with@20)	SVC (C: structure@14, V: is@10, S: pericardium@7, A?: usually@11)
+68	SVO (V: possess@8, S: Hagfish@1, A?: also@7, O: structure@12)
+69	
+70	SVO (V: indicate@3, S: components@2, CCOMP: indicate@10)	SVO (V: indicate@10, S: pathways@6, O: pathways@12)
+71	SVO (V: has@4, S: heart@3, O: mass@6)	SVO (V: is@14, S: heart@3, O: mass@6, A?: about@15)
+72	SVC (S: MacDonald@1, V: "is", C: Body@5)	SVO (S: Your@4, V: "has", O: Body@5)	SVC (S: Sebastopol@12, V: "is", C: MacDonald@17)	SVC (S: MacDonald@17, V: "is", C: Body@21)	SVO (S: Your@20, V: "has", O: Body@21)	SVC (S: Sebastopol@28, V: "is", C: CA@30)	SVOC (C: located@35, V: is@34, S: It@33, A?: anterior@36, O: CA@30)
+73	SVA (V: enclosed@3, S: It@1, A!: in@4)
+74	SVO (V: called@8, S: part@3, XCOMP: pericardium@11)
+75	SVO (V: protects@3, S: sac@2, O: heart@5)	SVOC (V: prevents@13, S: sac@2, O: heart@5, O: overfilling@14, A?: with@18)	SVO (S: its@8, V: "has", O: structures@10)
+76	SVA (V: composed@9, S: wall@3, A!: of@10)
+77	SVO (V: called@5, S: layer@3, O: epicardium@7, A?: wall@18)	SVC (C: wall@18, V: is@14, S: it@13, A?: also@15, A?: of@19)
+78	SVO (V: called@5, S: layer@3, XCOMP: myocardium@7)	SVO (V: composed@10, S: layer@3, XCOMP: myocardium@7, A?: of@11)	SV (V: contracts@14, S: which@13)
+79	SVO (V: called@5, S: layer@3, XCOMP: endocardium@7)	SVC (V: is@9, S: layer@3, XCOMP: endocardium@7, A?: in@10)
+80	SVA (V: merges@4, S: it@3, A?: Also@1, A!: with@5)	SVO (V: covers@16, S: it@3, A?: Also@1, A?: with@5, O: valves@18)	SVC (S: lining@8, V: "is", C: endothelium@10)
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	
+89	SVO (V: has@4, S: heart@3, O: chambers@6)	SVC (S: chambers@6, V: "is", C: atria@10)
+90	SVC (C: chambers@6, V: are@3, S: atria@2)	SVC (C: chambers@13, V: are@10, S: chambers@6)
+91	
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	
+100	SVA (V: flows@3, S: blood@2, A!: through@4, A?: in@7)
+101	SVA (V: returns@2, S: It@1, A!: from@3, A?: through@6, A?: to@10)	SVO (V: pumped@17, S: it@15, A?: where@14, A?: through@18, A?: into@22, A?: before@26, O: atrium@13)
+102	SV (V: Ed@6, S: Responder@3)
+103	SVC (S: Pearson@1, V: "is", C: pp.@4)
+104	SVC (S: Marieb@1, V: "is", C: Nicpon@4)
+105	
+106	
+107	SVC (S: Education@6, V: "is", C: 2003@8)
+108	SVA (V: arranged@18, S: chambers@16, A!: sequentially@19, A?: so@20)	SVA (V: "be is", S: heart@24, A!: unlike@27)
+109	SVC (C: venosus@7, V: is@4, S: chamber@3)	SVO (V: collects@10, S: venosus@7, O: blood@12, A?: from@14, A?: through@18)
+110	SVA (V: flows@5, S: blood@4, A?: From@1, A!: into@6)	SVA (V: then@10, S: blood@4, A?: From@1, A?: into@6, A!: to@11)	SVOO (V: take@22, S: action@20, A?: where@16, O: place@23, IO: ventricle@15)
+111	SVC (C: arteriosus@9, V: is@6, S: chamber@5)	SVO (V: contains@11, S: arteriosus@9, O: valves@13)	SVOC (V: sends@15, S: arteriosus@9, O: valves@13, O: blood@16, A?: to@17)
+112	SVO (V: delivers@4, S: aorta@3, O: blood@5, A?: to@6, A?: through@16, A?: into@21)	SVO (V: oxygenated@12, S: it@10, A?: where@9, O: gills@8)	SVO (V: flows@14, S: it@10, A?: where@9, O: gills@8)
+113	SVA (V: divided@9, S: aorta@7, A?: In@2, A!: in@10)	SVO (V: forms@15, S: half@14, O: aorta@18, A?: while@20)	SVC (S: forms@23, V: "is", C: artery@26)
+114	SVA (V: arranged@11, S: chambers@8, A?: In@1, A!: in@12, A?: instead@18)	SVA (V: "be lying", S: chambers@26, A!: above@28)
+115	SVA (V: found@6, S: pattern@4, A!: in@7)
+116	SVC (C: small@9, V: is@7, S: arteriosus@6, A?: In@1, A?: very@8)	SVC (C: described@15, V: is@7, S: arteriosus@6, A?: In@1, A?: very@8, A?: accurately@13, A?: as@16, A?: than@22)
+117	SVC (C: present@6, V: is@4, S: arteriosus@3, A?: in@7)
+118	SVC (C: present@8, V: is@7, S: venosus@6, A?: as@9)	SVA (V: absorbed@22, S: it@19, A?: Similarly@1, A?: present@8, A?: otherwise@21, A!: into@23)	SVC (C: distinguishable@31, V: is@28, S: it@19, A?: Similarly@1, A?: present@8, A?: otherwise@21, A?: into@23, A?: longer@30)
+119	SV (V: used@12, S: system@10, A?: In@1)	SVA (V: separated@19, S: heart@15, A?: completely@18, A!: into@20)
+120	SVA (V: necessitated@8, S: development@2, A!: by@9)	SVO (V: deliver@15, S: lung@13, O: blood@17, A?: directly@18, A?: to@19)
+121	SVA (V: divided@8, S: atrium@6, A?: In@1, A!: into@9, A?: by@13, A?: is@23)	EXISTENTIAL (V: is@23, S: ventricle@26, A-: even@20)
+122	SVC (V: remains@6, S: venosus@3, ACOMP: large@7, A?: in@8)	SVC (V: connects@11, S: venosus@3, ACOMP: large@7, A?: in@8, A?: to@13)	SVO (V: receives@18, S: venosus@3, O: blood@19, A?: from@20, A?: with@25)	SVA (V: "be by-passing", S: vein@28, O: it@30, A!: entirely@31, A?: enter@33)	SVA (V: "be enter", S: by-passing@29, O: atrium@36)
+123	SVO (V: extends@9, S: septum@8, A?: In@1, O: part-way@10, A?: into@11)
+124	SVA (V: allows@2, S: This@1, A!: for@3)	SVA (V: "be destined", S: bloodstream@11, A!: for@13)	SVA (V: delivered@22, S: lungs@15, A!: to@23)
+125	SVA (V: be@12, S: absence@2, A!: to@17)	SVA (V: occurs@23, S: amount@19, A!: through@24)	SVA (V: returned@35, S: blood@34, A-: thus@31, A!: to@36, A?: through@39)	SV (V: oxygenated@50, S: returned@35, A?: in@45, A?: already@48, A?: partially@49)
+126	
+127	SVC (V: seems@17, S: nature@13, A?: Nonetheless@1, A?: in@3, XCOMP: maintain@19)	SV (V: appears@28, S: case@30)
+128	SVO (V: lost@7, S: arteriosus@5, A?: Furthermore@1, O: valves@10)	SVOC (V: contains@12, S: arteriosus@5, A?: Furthermore@1, O: valves@10, O: valve@15)	SVO (S: its@8, V: "has", O: valves@10)	SVOC (V: divides@20, S: that@19, O: it@21, A?: into@22, XCOMP: helping@28)	SV (V: separate@34, S: bloodstreams@33)
+129	SVO (V: has@14, S: heart@2, O: structure@17, A?: here@24)	SVC (C: much@30, V: is@28, S: septum@27, A?: generally@29)
+130	SVO (V: divides@2, S: This@1, O: ventricle@4, A?: into@5)	SVO (V: reach@15, S: septum@12, O: length@18)	EXISTENTIAL (V: is@24, S: gap@27, A?: reach@15)	EXISTENTIAL (V: aorta@37, S: gap@27, A?: reach@15)
+131	SVO (V: receives@30, S: any@20, A?: mixing@22, O: blood@36)	SVA (V: "be mixing", S: any@20, A!: between@23)	SVO (V: receives@30, S: aorta@29, A?: mixing@22, O: blood@36)
+132	SVA (V: removed@3, S: heart@2, A!: from@4)	SVO (V: left@20, S: anatomy@13, O: upright@22)
+133	
+134	SVA (V: demarcated@4, S: heart@2, A!: by@5)	SVC (S: line@18, V: "is", C: apex@20)
+135	
+136	
+137	
+138	SVO (S: Gray@1, V: "has", O: Anatomy@3)
+139	
+140	
+141	
+142	SVO (S: Gray@1, V: "has", O: Anatomy@3)
+143	
+144	SVC (S: Archosaur@4, V: "is", C: crocodilian@7)	SVO (V: show@14, S: Archosaur@4, O: separation@16)	SVO (V: thought@33, S: it@31, CCOMP: evolved@40)	SVA (V: evolved@40, S: heart@37, A!: independently@41, A?: from@42)
+145	SVC (S: opening@8, V: "is", C: foramen@11)	EXISTENTIAL (V: is@24, S: degree@26)
+146	SVC (S: Romer@1, V: "is", C: S.@8)
+147	SVC (S: Philadelphia@7, V: "is", C: PA@9)	SVC (S: Philadelphia@7, V: "is", C: S.@21)
+148	SVC (S: Philadelphia@7, V: "is", C: heart@20)	SVC (S: Philadelphia@7, V: "is", C: PA@9)	SVO (V: situated@23, S: Philadelphia@7, A?: usually@22, A?: in@24, A?: with@30, A?: is@46, A?: underneath@55, O: 1977@1)	SVA (V: "be offset", S: part@33, A!: slightly@37, A?: to@39)	SVA (V: is@46, S: it@45, A?: sometimes@44, A!: on@47)
+149	SVC (V: felt@5, S: heart@2, A?: usually@4, XCOMP: be@7, A?: stronger@21)	SVC (S: heart@15, V: "is", C: ventricle@18)	SVC (C: stronger@21, V: is@20, S: heart@15)	SVA (V: pumps@24, S: it@23, A!: to@25)
+150	SVC (C: smaller@5, V: is@4, S: lung@3, A?: than@6, A?: occupies@13)	SVO (V: occupies@13, S: heart@12, O: more@14)
+151	SVA (V: fed@4, S: heart@2, A!: by@5)	SVA (V: enclosed@11, S: heart@2, A?: by@5, A!: by@12)	SVA (V: "be known", S: sac@14, A!: as@16)	SVA (V: surrounded@23, S: it@20, A?: also@22, A!: by@24)
+152	SVO (V: comprises@3, S: pericardium@2, O: parts@5)	SVA (V: "be made", S: pericardium@9, A!: of@12)	SVA (V: "be containing", S: structure@22, O: fluid@32)	SVO (V: reduce@34, S: pericardium@9, O: friction@35, A?: during@36)
+153	SVC (C: located@4, V: is@3, S: heart@2, A?: in@5)	SVC (C: sub-division@13, V: is@10, S: mediastinum@7, A?: of@14)
+154	SVO (V: contains@4, S: mediastinum@2, A?: also@3, O: structures@6)	SVO (V: flanked@17, S: mediastinum@2, A?: also@3, O: structures@6, A?: on@18, A?: by@21)	SVOC (V: left@25, S: mediastinum@2, A?: also@3, O: structures@6, O: cavities@27)	SVO (V: house@31, S: cavities@30, O: lung@33)
+155	SVC (S: Hopkins@4, V: "is", C: D.@21)
+156	SVC (S: Cliffs@10, V: "is", C: D.@36)	SVC (S: Cliffs@10, V: "is", C: Jersey@13)
+157	SVC (S: Cliffs@10, V: "is", C: Jersey@13)	SVOC (C: point@21, V: is@18, S: apex@17, A?: situated@22, O: Cliffs@10)	SVA (V: "be situated", S: point@21, A!: in@23)
+158	SVA (V: placed@5, S: stethoscope@2, A!: directly@6, A?: over@7, A?: counted@16)	SV (V: counted@16, S: beats@13)
+159	SVC (C: located@3, V: is@2, S: It@1)
+160	SVC (C: 250@11, V: is@10, S: mass@6, A?: In@1)	SVC (S: g@14, V: "is", C: oz@19)	SVA (V: be@51, S: it@32, A!: up@52, A?: in@60)	SVA (V: be@51, S: heart@49, A!: up@52, A?: in@60)	SVC (S: g@55, V: "is", C: lb@58)
+161	SVO (V: consists@2, S: It@1, A?: of@3, O: atria@10)
+162	SVC (C: organ@6, V: is@2, S: heart@1, A?: found@7)	SVA (V: "be found", S: organ@6, A!: in@8, A?: with@11)	SVC (C: responsible@23, V: is@22, S: organ@6, A?: for@24)
+163	
+164	SVA (V: composed@4, S: heart@2, A!: of@5)	SVA (V: "be found", S: tissue@15, A!: in@18)	SVC (C: tissue@15, V: is@10, S: muscle@7, A?: found@16)
+165	SVA (V: "be beating", S: heart@4, A!: at@7)	SVO (V: beat@14, S: heart@4, O: 2.5@16)
+166	
+167	
+168	SVO (V: possess@4, S: invertebrates@2, O: system@7)	SVC (C: tube@14, V: is@11, S: heart@10, A?: In@1, A?: typically@12)	SVO (V: contains@22, S: sac@17, O: water@23)
+169	SVO (V: called@10, S: heart@6, A?: In@1, A?: often@9, O: tube@13)	SVA (V: respirate@27, S: they@25, A?: usually@26, A!: directly@31, A?: from@32, A?: to@41)	SVO (S: their@33, V: "has", O: surfaces@35)
+170	SVO (V: pump@24, S: animals@23, O: hemolymph@25)	SVO (V: contains@28, S: hemolymph@25, O: hemocyanin@32, A?: as@33)	SVA (V: "be found", S: cells@45, A!: in@47)
+171	
+172	SVO (V: indicate@3, S: components@2, CCOMP: indicate@10)	SVO (V: indicate@10, S: pathways@6, O: pathways@12)
+173	SVA (V: "be showing", S: rightthumb450pxImage@1, O: system@4)	SVC (S: rightthumb450pxImage@1, V: "is", C: function@12)	SVC (V: is@25, S: rightthumb450pxImage@1, XCOMP: collect@27)	SV (V: dropped@74, S: dioxide@71, A-: so@68)	SV (V: picked@78, S: oxygen@77)
+174	SVA (V: happens@2, S: This@1, A!: through@3)
+175	SVO (V: collects@9, S: side@3, O: blood@11, A?: from@12, A?: into@15)
+176	SVA (V: moves@7, S: blood@6, A?: From@1, A!: to@8, A?: through@13)	SVC (S: valve@16, V: "is", C: pumps@19)
+177	SVC (C: thicker@9, V: are@8, S: ventricles@7, A?: On@1)
+178	SVA (V: "be surrounding", S: wall@2, O: ventricle@6)	SVC (C: thicker@8, V: is@7, S: wall@2, A?: than@9)	SVA (V: "be surrounding", S: wall@11, O: ventricle@15)	SVA (V: "be needed", S: force@20, XCOMP: pump@23)
+179	SVA (V: "be Starting", S: blood@8, A!: in@2)	SVA (V: flows@9, S: blood@8, A?: Starting@1, A!: through@10, A?: to@14)
+180	SVO (V: pumped@5, S: it@3, A?: Here@1, O: valve@10)	SVO (V: travels@12, S: it@3, A?: Here@1, O: valve@10, A?: through@13, A?: to@17)
+181	SVA (V: flows@6, S: blood@5, A?: From@1, A!: back@7, A?: through@8, A?: to@12)
+182	SVA (V: travels@3, S: It@1, A-: then@2, A!: through@4, A?: to@8, A?: from@13)	SVA (V: pumped@17, S: it@15, A?: where@14, A!: through@18, A?: to@23)
+183	SVA (V: divided@8, S: forks@3, A!: between@9)	SVO (V: supply@13, S: arteries@11, O: body@18)
+184	SVA (V: travels@3, S: blood@2, A!: in@4, A?: to@7)	SV (V: then@12, S: blood@2, A?: in@4, A?: to@7)	SVO (V: feed@21, S: capillaries@19, O: cell@23)
+185	SVA (V: travels@8, S: blood@6, A-: then@7, A!: to@9)	SVA (V: coalesce@14, S: venules@11, A!: into@15)	SVO (V: began@36, S: process@35, A?: where@33, O: atrium@32)
+186	SVC (C: syncytium@6, V: is@3, S: heart@2, A?: effectively@4)	SVC (S: syncytium@6, V: "is", C: meshwork@9)	SVA (V: "be interconnected", S: cells@13, A!: by@15)
+187	SVA (V: relates@2, S: This@1, A!: to@3)
+188	SVC (C: self-excitable@5, V: are@4, S: cells@3, A?: removed@18)	SVC (S: self-excitable@5, V: "is", C: contracting@7)
+189	SVO (V: have@5, S: Each@1, O: rhythm@10)	SVO (S: their@6, V: "has", O: rhythm@10)
+190	SVO (V: called@7, S: region@2, O: node@13)
+191	SVO (V: generates@4, S: node@3, O: impulses@6, A?: much@8)	SVA (V: "be produced", S: those@10, A!: by@12)
+192	SVA (V: coupled@7, S: cells@4, A?: electrically@6, A!: by@8)	SVA (V: "be causing", S: cells@13, O: artria@31)	SVC (S: cells@13, V: "is", C: impulses@15)
+193	SVO (V: pass@4, S: impulses@2, A?: also@3, A?: to@5, O: point@16)	SVA (V: "be called", S: point@16, O: node@20)
+194	SVA (V: delayed@6, S: impulses@4, A?: Here@1, A!: for@7)
+195	
+196	SVA (V: ensures@3, S: delay@2, A!: that@4)
+197	SVA (V: "be called", S: fibers@3)	SVO (V: conduct@8, S: fibers@3, A-: then@7, O: signals@10, A?: to@11, A?: along@17)
+198	SVO (V: form@4, S: fibres@3, XCOMP: conducting@5)	SVA (V: "be called", S: pathways@6)
+199	SVC (S: cycle@3, V: "is", C: beat@8)	SVO (V: lasts@10, S: cycle@3, O: 0.8@12)
+200	
+201	SVA (V: "be generated", S: impulses@2, A!: during@4)	SVO (V: produce@8, S: impulses@2, O: currents@10)	SVA (V: conducted@14, S: currents@10, A!: through@15, A?: to@18)	SVO (V: detected@26, S: they@23, A?: where@22, A?: by@27, O: skin@20)	SVO (V: recorded@30, S: they@23, A?: where@22, A?: by@27, A?: as@31, O: skin@20)
+202	SVC (S: Campbell@1, V: "is", C: Reece-Biology@3)	SVC (S: Campbell@1, V: "is", C: Ed@6)
+203	
+204	SVA (V: occurs@11, S: flow@6, A!: from@12, A?: to@18)	SVA (V: referred@26, S: events@2, A!: to@27)
+205	SVC (S: Guyton@1, V: "is", C: A.C.@3)
+206	
+207	
+208	SVA (V: found@12, S: ISBN@6, A!: in@13)
+209	SVC (C: continuous@12, V: are@10, S: muscles@6, A?: In@1, A?: relatively@11)	SVO (V: coordinates@17, S: venosus@16, O: beat@19)	SVA (V: passes@21, S: beat@19, A!: in@22, A?: through@25)
+210	SVA (V: incorporated@8, S: venosus@6, A!: into@9, A?: in@13)	SVC (C: likely@18, V: is@17, S: it@16, A?: Indeed@1, A?: incorporated@8)
+211	SVO (S: their@5, V: "has", O: venosus@8)
+212	SVA (V: varies@5, S: rate@2, A!: enormously@6, A?: between@7)	SVA (V: "be ranging", S: species@9, A!: from@12)
+213	SVC (C: cessation@6, V: is@3, S: arrest@2, A?: of@7)	SVO (V: include@13, S: rhythm@10, O: number@15)	SVC (S: tachycardia@20, V: "is", C: beat@26)	SVO (V: prevents@28, S: beat@26, O: heart@30, A?: from@31)	SVC (C: rhythm@43, V: is@37, S: blood@34)	SVC (C: cessation@51, V: is@49, S: blood@34, A?: of@52, A?: entirely@55)
+214	SVC (C: condition@5, V: is@3, S: tamponade@2, A?: suppressing@21)	SVA (V: "be suppressing", S: condition@5, O: ability@25)	SVA (V: "be surrounding", S: sac@10, O: heart@13)	SVO (V: fills@14, S: sac@10, A?: in@6, A?: with@15, O: condition@5)	SVO (S: heart@23, V: "has", O: ability@25)	SVA (V: "be beat", S: ability@25, A!: properly@28)
+215	SVO (V: treated@3, S: Tamponade@1, A?: by@4, O: insertion@9)
+216	SVO (S: its@3, V: "has", O: vessels@5)	SVO (V: _@6, S: thumbHeart@1, O: byLeonardo@7)	SVO (V: discovered@19, S: valves@14, A?: by@20, A?: understood@39, O: century@12)	SVO (S: their@34, V: "has", O: function@35)	SV (V: understood@39, S: function@35, A?: fully@38)
+217	SVC (C: empty@7, V: are@5, S: arteries@4, A?: On@1, A?: typically@6, A?: of@8, A?: of@11)
+218	SVO (V: assumed@4, S: anatomists@2, A?: subsequently@3, CCOMP: filled@7)	SVA (V: filled@7, S: they@5, A!: with@8)	SVO (V: served@11, S: they@5, A?: with@8, XCOMP: transport@13)
+219	SVO (V: distinguished@2, S: Philosophers@1, O: veins@3, A?: from@4)	SVOC (V: thought@8, S: Philosophers@1, O: veins@3, A?: from@4, CCOMP: property@13)	SVC (C: property@13, V: was@11, S: pulse@10, A?: of@14)
+220	SVO (V: observed@2, S: Erasistratos@1, CCOMP: bleed@8)	SVA (V: "be cut", S: arteries@4, A!: during@6)	SV (V: bleed@8, S: arteries@4)
+221	SVO (V: ascribed@2, S: He@1, O: fact@4, A?: to@5)	SVA (V: "be escaping", S: air@9, A!: from@11)	SVO (V: replaced@15, S: air@9, A?: with@16, O: phenomenon@7)	SVA (V: entered@19, S: blood@17, A!: by@20)
+222	SVO (V: postulated@4, S: he@2, A-: Thus@1, A?: apparently@3, O: capillaries@5)	SVO (V: with@8, S: he@2, A-: Thus@1, A?: apparently@3, O: capillaries@5, A?: flow@10)
+223	SVC (S: Galen@4, V: "is", C: AD@8)	SVO (V: knew@10, S: Galen@4, CCOMP: carried@13)	SVO (V: carried@13, S: vessels@12, O: blood@14)	SVOC (V: identified@16, S: vessels@12, O: blood@14, O: blood@29)	SVC (S: venous@17, V: "is", C: red@20)
+224	SVA (V: derived@5, S: Growth@1, A!: from@6, A?: gave@19)	SVA (V: "be created", S: blood@8, A!: in@10)	SVO (V: gave@19, S: blood@18, O: vitality@20, A?: by@21)	SVC (S: pneuma@23, V: "is", C: air@25)
+225	SVA (V: flowed@2, S: Blood@1, A!: from@3)	SVA (V: "be creating", S: both@4, O: organs@6, A!: to@7)	SVO (V: consumed@17, S: it@15, A?: where@14, O: body@12)	EXISTENTIAL (V: was@20, S: return@22, A?: to@25)
+226	SVOC (V: pump@5, S: heart@2, O: blood@6, A?: around@7, O: blood@14, A?: in@15)	SVO (S: heart@10, V: "has", O: motion@12)	SVA (V: "be moved", S: blood@20, A!: by@22)
+227	SVO (V: believed@2, S: Galen@1, CCOMP: created@7)	SVA (V: created@7, S: blood@5, A!: by@8)	SVA (V: "be passing", S: blood@10, A!: from@12, A?: to@16)	SVA (V: passed@30, S: air@29, A!: from@31, A?: via@34, A?: to@38)
+228	SV (V: created@6, S: blood@4)	SVO (V: created@13, S: vapors@11, A?: created@6, A?: via@21, XCOMP: exhaled@28)	SVO (V: passed@15, S: vapors@11, A?: created@6, A?: to@16, A?: via@21, XCOMP: exhaled@28)
+229	
+230	SVC (S: Heart@2, V: "is", C: organ@4)	SVC (C: be-x-old@54, V: be@51, S: Jantung@50)	SVC (S: Puso@59, V: "is", C: anatomiya@61)	SVO (V: cs@78, S: Чĕре@77, O: cbk-zam@81)	SVO (V: es@115, S: Côr@114, O: eo@118)	SV (V: is@169, S: Jantung@168)	SVO (S: my@260, V: "has", O: nah@264)	SVC (S: Srdce@353, V: "is", C: orgán@355)	SVC (S: Puso@383, V: "is", C: anatomiya@385)	SV (V: rotated@491, S: site@485)	SV (V: rotated@491, S: hearts@478)	SVO (S: its@495, V: "has", O: components@496)	SVA (V: studied@499, S: system@454, A!: from@500)

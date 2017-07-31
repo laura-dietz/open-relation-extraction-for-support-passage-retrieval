@@ -1,0 +1,417 @@
+0	the statistical concept In probability theory and statistics , median is described as the numerical value separating the higher half of a sample , a population , or a probability distribution , from the lower half . 
+0	"median"	"is described"	"as the numerical value separating the higher half of a sample from the lower half 0 the statistical concept In probability theory"	
+0	"median"	"is described"	"as the numerical value separating the higher half of a sample from the lower half 0 the statistical concept In probability statistics"	
+0	"median"	"is described"	"as the numerical value separating the higher of a sample a probability distribution from the lower half 0 the statistical concept In probability theory"	
+0	"median"	"is described"	"as the numerical value separating the higher of a sample a probability distribution from the lower half 0 the statistical concept In probability statistics"	
+0	"median"	"is described"	"0 the statistical concept In probability theory"	
+0	"median"	"is described"	"0 the statistical concept In probability statistics"	
+0	"the numerical value"	"be separating"	"the higher half of a sample from the lower half"	
+0	"the numerical value"	"be separating"	"the higher of a sample a probability distribution from the lower half"	
+0	"the higher half of a sample from the lower half"	"is"	"a population"	
+0	"the higher of a sample a probability distribution from the lower half"	"is"	"a population"	
+1	The median of a finite list of numbers can be found by arranging all the observations from lowest value to highest value and picking the middle one . 
+1	"1 The median of a finite list of numbers"	"can be found"	"by arranging all the observations from lowest value to highest value"	
+1	"1 The median of a finite list of numbers"	"can be found"	"by all the observations from lowest value to highest value picking the middle one"	
+2	If there is an even number of observations , then there is no single middle value ; the median is then usually defined to be the mean of the two middle values . 
+2	"an even number of observations"	"there is"	
+2	"no single middle value"	"there is"	"2 If there is an even number of observations"	
+2	"the median"	"is defined"	"to be the mean of the two middle values usually"	
+2	"the median"	"is defined"	"to be the mean usually"	
+2	"the median"	"is defined"	"to be the mean of the two middle values"	
+2	"the median"	"is defined"	"to be the mean"	
+3	StatisticalMedian Statistical Median StatisticalMedian Statistical Median http ://www .stat.psu.edu/old_resources/ClassNotes/ljs_07/sld008.htm 
+4	Simon , Laura J " Descriptive statistics " Statistical Education Resource Kit Penn State Department of Statistics In a sample of data , or a finite population , there may be no member of the sample whose value is identical to the median ( in the case of an even sample size ) , and , if there is such a member , there may be more than one so that the median may not uniquely identify a sample member . 
+4	"4 Simon"	"is"	"Laura J"	
+4	"4 Simon"	"Descriptive"	"statistics Statistical Education Resource Kit Penn State Department of Statistics In a sample of data if there is such a member"	
+4	"4 Simon"	"Descriptive"	"statistics Statistical Education Resource Kit Penn State of Statistics In a sample of data a finite population if there is such a member"	
+4	"4 Simon"	"Descriptive"	"statistics Statistical Education Resource Kit Penn State of Statistics In a sample of data there may be no member of the sample in the case of an even sample size if there is such a member"	
+4	"4 Simon"	"Descriptive"	"statistics Statistical Education Resource Kit Penn State Department of Statistics In a sample of data"	
+4	"4 Simon"	"Descriptive"	"statistics Statistical Education Resource Kit Penn State of Statistics In a sample of data a finite population"	
+4	"4 Simon"	"Descriptive"	"statistics Statistical Education Resource Kit Penn State of Statistics In a sample of data there may be no member of the sample in the case of an even sample size"	
+4	"the sample"	"has"	"value"	
+4	"the sample value"	"is identical"	"to the median"	
+4	"the sample value"	"is"	"identical"	
+4	"such a member"	"there is"	
+4	"the median"	"may not identify"	"a sample member uniquely"	
+4	"the median"	"may not identify"	"a sample member"	
+5	Nonetheless , the value of the median is uniquely determined with the usual definition . 
+5	"the value of the median"	"is determined"	"with the usual definition 5 Nonetheless"	
+5	"the value of the median"	"is determined"	"with the usual definition uniquely"	
+5	"the value of the median"	"is determined"	"with the usual definition"	
+6	A related concept , in which the outcome is forced to correspond to a member of the sample , is the medoid . 
+6	"the outcome"	"is forced"	"to correspond to a member of the sample 6 A related concept in which"	
+6	"the outcome"	"is forced"	"to correspond to a member of the sample 6 A related concept"	
+6	"6 A related concept"	"is"	"the medoid"	
+7	At most , half the population have values less than the median , and , at most , half have values greater than the median . 
+7	"7 At most"	"is"	"half the population"	
+7	"7 At most"	"have"	"values less than the median"	
+7	"half"	"have"	"values greater than the median at most"	
+7	"half"	"have"	"values greater than the median"	
+8	If both groups contain less than half the population , then some of the population is exactly equal to the median . 
+8	"both groups"	"contain"	"less than half the population"	
+8	"some of the population"	"is 8 equal"	"If both groups contain less than half the population"	
+8	"some of the population"	"is 8 equal"	"exactly"	
+8	"some of the population"	"is 8 equal"	"to the median"	
+8	"some of the population"	"is"	"8 equal"	
+9	For example , if a &nbsp;<&nbsp; b &nbsp;<&nbsp; c , then the median of the list { a ,&nbsp; b ,&nbsp; c } is b , and , if a &nbsp;<&nbsp; b &nbsp;<&nbsp; c &nbsp;<&nbsp; d , then the median of the list { a ,&nbsp; b ,&nbsp; c ,&nbsp; d } is the mean of b and c ; i .e 
+10	. 
+11	, it is ( b &nbsp;+&nbsp; c )/2 . 
+12	The median can be used as a measure of location when a distribution is skewed , when end-values are not known , or when one requires reduced importance to be attached to outlier , e.g. 
+12	"12 The median"	"can be used"	"as a measure of location when a distribution is skewed"	
+12	"12 The median"	"can be used"	"as a measure of location when end-values are not known"	
+12	"12 The median"	"can be used"	"as a measure of location when end-values are not when one requires reduced importance to be attached to outlier e.g."	
+12	"12 The median"	"can be used"	"as a measure of location"	
+12	"a distribution"	"is skewed"	"when"	
+12	"a distribution"	"is"	"skewed"	
+12	"end-values"	"are not known"	"when"	
+12	"end-values"	"are not known"	
+12	"one"	"requires"	"reduced importance to be attached to outlier when"	
+12	"one"	"requires"	"reduced importance to be attached to outlier"	
+12	"reduced importance"	"be attached"	"to outlier"	
+13	, because they may be measurement errors . 
+13	"they"	"may be"	"measurement errors"	
+14	The median of some variable x is denoted either as tilde{x } or as mu_{ 1/2 }( x) , ! 
+14	"14 The median of some variable x"	"is denoted"	"as tilde"	
+14	"14 The median of some variable x"	"is denoted"	"tilde as mu _ x"	
+14	"tilde"	"is"	"x"	
+14	"mu _"	"is"	"1/2"	
+15	. 
+16	When the median is used as a location parameter in descriptive statistics , there are several choices for a measure of variability : the range , the interquartile range , the mean absolute deviation , and the median absolute deviation . 
+16	"the median"	"is used"	"16 When"	
+16	"the median"	"is used"	"as a location parameter in descriptive statistics 16"	
+16	"the median"	"is used"	"16"	
+16	"several choices for a measure of variability the range"	"there are"	"16"	
+16	"several choices for a measure of variability the the interquartile range"	"there are"	"16"	
+16	"several choices for a measure of variability the the mean absolute deviation"	"there are"	"16"	
+16	"several choices for a measure of variability the the median absolute deviation"	"there are"	"16"	
+17	Since the median is the same as the second quartile , its calculation is illustrated in the article on quartile . 
+17	"the median"	"is the same"	"as the second quartile"	
+17	"the median"	"is"	"the same"	
+17	"its"	"has"	"calculation"	
+17	"its calculation"	"is illustrated"	"in the article on quartile 17 Since the median is the same as the second quartile"	
+17	"its calculation"	"is illustrated"	"in the article on quartile"	
+18	For any probability distribution on the real line with cumulative distribution function &nbsp; F , regardless of whether it is any kind of continuous probability distribution , in particular an absolutely continuous distribution ( and therefore has a probability density function ) , or a discrete probability distribution , a median&nbsp; m satisfies the inequalities or in which a Lebesgue&ndash;Stieltjes integral is used . 
+18	"it"	"is any kind an absolutely continuous distribution therefore has a probability density function"	"of continuous probability distribution"	
+18	"it"	"is any kind an absolutely continuous therefore has a probability density function a discrete probability distribution"	"of continuous probability distribution"	
+18	"it"	"is any kind an absolutely continuous distribution therefore has a probability density function"	"in particular"	
+18	"it"	"is any kind an absolutely continuous therefore has a probability density function a discrete probability distribution"	"in particular"	
+18	"it"	"is"	"any kind an absolutely continuous distribution therefore has a probability density function"	
+18	"it"	"is"	"any kind an absolutely continuous therefore has a probability density function a discrete probability distribution"	
+18	"a median m"	"satisfies"	"the inequalities an absolutely continuous distribution therefore has a probability density function"	
+18	"a median m"	"satisfies"	"the inequalities an absolutely continuous therefore has a probability density function a discrete probability distribution"	
+18	"a median m"	"satisfies"	"the in which a Lebesgue an absolutely continuous distribution therefore has a probability density function"	
+18	"a median m"	"satisfies"	"the in which a Lebesgue an absolutely continuous therefore has a probability density function a discrete probability distribution"	
+18	"Stieltjes integral"	"is used"	"a Lebesgue"	
+19	For an absolutely continuous probability distribution with probability density function ƒ , we have The medians of certain types of distributions can be easily calculated from their parameters : thumb300pxComparison ofmean_medianandmode ( statistics )modeof twolog-normal distributionswith differentskewness . 
+19	"we"	"have"	
+19	"The medians of certain types of distributions"	"can be calculated"	"from their parameters easily"	
+19	"The medians of certain types of distributions"	"can be calculated"	"from their parameters"	
+19	"their"	"has"	"parameters"	
+19	"thumb300pxComparison ofmean_medianandmode"	"is"	"statistics"	
+20	The median is used primarily for skewed distributions , which it summarizes differently than the arithmetic mean . 
+20	"20 The median"	"is used"	"primarily for skewed distributions"	
+20	"20 The median"	"is used"	"primarily"	
+20	"it"	"summarizes"	"skewed distributions differently than the arithmetic mean"	
+20	"it"	"summarizes"	"skewed distributions"	
+21	Consider the multiset { 1 , 2 , 2 , 2 , 3 , 14 } . 
+21	"21"	"Consider"	"the multiset 1 2"	
+21	"21"	"Consider"	"the multiset 1 2"	
+21	"21"	"Consider"	"the multiset 1 2"	
+21	"21"	"Consider"	"the multiset 1 3"	
+21	"21"	"Consider"	"the multiset 1 14"	
+22	The median is 2 in this case , as is the mode , and it might be seen as a better indication of central tendency than the arithmetic mean of 4 . 
+22	"22 The median"	"is 2"	"in this case"	
+22	"22 The median"	"is"	"2"	
+22	"22 The median is 2 in this case"	"as is"	"the mode"	
+22	"it"	"might be seen"	"as a better indication of central tendency than the arithmetic mean of 4"	
+23	Calculation of medians is a popular technique in summary statistics and summarizing statistical data , since it is simple to understand and easy to calculate , while also giving a measure that is more robust in the presence of outlier values than is the mean . 
+23	"23 Calculation of medians"	"is a popular technique"	"in summary statistics"	
+23	"23 Calculation of medians"	"is"	"a popular technique"	
+23	"23 Calculation of medians"	"is"	"a popular summarizing in summary statistics statistical data"	
+23	"23 Calculation of medians"	"is"	"a popular summarizing statistical data"	
+23	"it"	"is simple"	"to understand while also giving a measure than"	
+23	"it"	"is simple"	"to easy to calculate while also giving a measure than"	
+23	"it"	"is simple"	"to understand"	
+23	"it"	"is simple"	"to easy to calculate"	
+23	"a measure"	"is robust"	"more"	
+23	"a measure"	"is robust"	"in the presence of outlier values"	
+23	"a measure"	"is"	"robust"	
+23	"since it is simple to understand while also giving a measure than"	"is"	"the mean"	
+23	"since it is simple to easy to calculate while also giving a measure than"	"is"	"the mean"	
+24	A median is also a central point that minimizes the arithmetic mean of the absolute deviations . 
+24	"24 A median"	"is a central point"	"also"	
+24	"24 A median"	"is"	"a central point"	
+24	"a central point"	"minimizes"	"the arithmetic mean of the absolute deviations"	
+25	In the above example , the median value of 2 minimizes the arithmetic mean of the absolute deviations ( 1&nbsp;+&nbsp;0&nbsp;+&nbsp;0&nbsp;+&nbsp;0&nbsp;+&nbsp;1&nbsp;+&nbsp;12 )&nbsp;/&nbsp;6&nbsp;=&nbsp;2.33 
+25	"the median value of 2"	"minimizes"	"the arithmetic mean of the absolute deviations 1 6 = 2.33 25 In the above example"	
+25	"the median value of 2"	"minimizes"	"the arithmetic mean of the absolute deviations 0 6 = 2.33 25 In the above example"	
+25	"the median value of 2"	"minimizes"	"the arithmetic mean of the absolute deviations 0 6 = 2.33 25 In the above example"	
+25	"the median value of 2"	"minimizes"	"the arithmetic mean of the absolute deviations 0 6 = 2.33 25 In the above example"	
+25	"the median value of 2"	"minimizes"	"the arithmetic mean of the absolute deviations 1 6 = 2.33 25 In the above example"	
+25	"the median value of 2"	"minimizes"	"the arithmetic mean of the absolute deviations 12 6 = 2.33 25 In the above example"	
+26	; in contrast , the mean value of 4 minimizes the arithmetic mean of the squares ( 9&nbsp;+&nbsp;4&nbsp;+&nbsp;4&nbsp;+&nbsp;4&nbsp;+&nbsp;1&nbsp;+&nbsp;100 )&nbsp;/&nbsp;6&nbsp;=&nbsp;20.33 
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 9 6 = 20.33 in contrast"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 4 6 = 20.33 in contrast"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 4 6 = 20.33 in contrast"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 4 6 = 20.33 in contrast"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 1 6 = 20.33 in contrast"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 100 6 = 20.33 in contrast"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 9 6 = 20.33"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 4 6 = 20.33"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 4 6 = 20.33"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 4 6 = 20.33"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 1 6 = 20.33"	
+26	"the mean value of 4"	"minimizes"	"the arithmetic mean of the squares 100 6 = 20.33"	
+27	. 
+28	In the language of statistics , a value of c that minimizes is a median of the probability distribution of the random variable &nbsp; X . 
+28	"28 In the language of statistics"	"is"	"a value of c"	
+28	"a value of c"	"minimizes"	
+28	"28 In the language of statistics"	"is a median"	"of the probability distribution of the random variable X"	
+28	"28 In the language of statistics"	"is"	"a median"	
+29	However , a median c need not be uniquely defined . 
+29	"a median c"	"need not be defined"	"uniquely"	
+29	"a median c"	"need not be defined"	
+30	Where exactly one median exists , statisticians speak of " the median " correctly ; even when no unique median exists , some statisticians speak of " the median " informally . 
+30	"30 Where exactly one median"	"exists"	
+30	"statisticians"	"speak"	"of the median 30 Where exactly one median exists"	
+30	"statisticians"	"speak"	"of the median correctly"	
+30	"statisticians"	"speak"	"of the median"	
+30	"no unique median"	"exists"	"even when"	
+30	"no unique median"	"exists"	
+30	"some statisticians"	"speak"	"of the median even when no unique median exists"	
+30	"some statisticians"	"speak"	"of the median informally"	
+30	"some statisticians"	"speak"	"of the median"	
+31	See also ''k ''-medians clustering . 
+32	For continuous probability distributions , the difference between the median and the mean is never more than one standard deviation . 
+32	"the difference between the median and the mean"	"is never"	"32 For continuous probability distributions more than one standard deviation"	
+33	See an inequality on location and scale parameters . 
+33	"33"	"See"	"an inequality on location parameters"	
+33	"33"	"See"	"an inequality on scale parameters"	
+34	Even though sorting n items requires ''O '' ( n &nbsp;log&nbsp; n ) operations , selection algorithm can compute the ''k ''th-smallest of ''n '' items ( e .g. 
+35	, the median ) with only O ( n ) operations . 
+35	"35 with only O operations"	"is"	"the median"	
+35	"only O"	"is"	"n"	
+36	" When I was working on the MEDIAN problem , my goal was to prove that any deterministic algorithm to find the MEDIAN of n integers must necessarily make roughly as many comparisons as it takes to sort n integers , i .e 
+37	. 
+38	, n log n comparisons . 
+38	"38"	"is"	"n log n comparisons"	
+39	I was shocked to discover that the median of n integers can be found with just O( n ) comparisons . 
+39	"I"	"was shocked"	"to discover that the median of n integers can be found with just O comparisons 39"	
+39	"the median of n integers"	"can be found"	"with just O comparisons"	
+39	"just O"	"is"	"n"	
+40	" -- Manuel Blum , As an example , we will calculate the sample median for the following set of observations : 1 , 5 , 2 , 8 , 7. 
+40	"we"	"will calculate"	"the sample median for the following set of observations 1"	
+40	"we"	"will calculate"	"the sample median for the following set of observations 5"	
+40	"we"	"will calculate"	"the sample median for the following set of observations 2"	
+40	"we"	"will calculate"	"the sample median for the following set of observations 8"	
+40	"we"	"will calculate"	"the sample median for the following set of observations 7"	
+41	Start by sorting the values : 1 , 2 , 5 , 7 , 8. 
+42	In this case , the median is 5 since it is the middle observation in the ordered list . 
+42	"the median"	"is 5"	"42 In this case"	
+42	"the median"	"is 5"	"since it is the middle observation in the ordered list"	
+42	"the median"	"is"	"5"	
+42	"it"	"is the middle observation"	"in the ordered list"	
+42	"it"	"is"	"the middle observation"	
+43	The median is the ( ( n &nbsp;+&nbsp;1 )/2 )th item , where n is the number of values . 
+43	"n"	"is"	"the number 2 th item where"	
+43	"n"	"is"	"the number of values 2 th item"	
+43	"n"	"is"	"the number 2 th item"	
+44	For example , for the list {1 ,&nbsp;2 ,&nbsp;5 ,&nbsp;7 ,&nbsp;8} , we have n &nbsp;=&nbsp;5 , so the median is the ( (5&nbsp;+&nbsp;1 )/2 )th item . 
+44	"we"	"have"	"n = 5"	
+44	"we"	"have"	"n = 5"	
+44	"we"	"have"	"n = 5"	
+44	"n"	"="	"5"	
+44	"the median"	"is"	"the 5 2 th item"	
+44	"the median"	"is"	"the 1 2 th item"	
+45	As an example , we will calculate the sample median for the following set of observations : 1 , 6 , 2 , 8 , 7 , 2. 
+45	"we"	"will calculate"	"the sample median for the following set of observations"	
+45	"we"	"will calculate"	"the sample median for the following set of observations"	
+45	"we"	"will calculate"	"the sample median for the following set of observations"	
+45	"we"	"will calculate"	"the sample median for the following set of observations"	
+45	"we"	"will calculate"	"the sample median for the following set of observations"	
+45	"we"	"will calculate"	"the sample median for the following set of observations"	
+46	Start by sorting the values : 1 , 2 , 2 , 6 , 7 , 8. 
+47	In this case , the arithmetic mean of the two middlemost terms is ( 2 + 6)/2 = 4 . 
+48	Therefore , the median is 4 since it is the arithmetic mean of the middle observations in the ordered list . 
+48	"the median"	"is 48 4"	"Therefore"	
+48	"the median"	"is 48 4"	"since it is the arithmetic mean of the middle observations in the ordered list"	
+48	"the median"	"is"	"48 4"	
+48	"it"	"is the arithmetic mean"	"of the middle observations in the ordered list"	
+48	"it"	"is"	"the arithmetic mean"	
+49	We also use this formula MEDIAN = {( n+1 )/2 } th item . 
+49	"49 We"	"use"	"this formula MEDIAN = n +1 2 th item also"	
+49	"49 We"	"use"	"this formula MEDIAN = n +1 2 th item"	
+50	n= Number of values As above example 1 , 2 , 2 , 6 , 7 , 8n=6 Median ={( 6+1 )/2}th item =3.5 
+50	"50 n"	"= Number"	"of values As above example 1 2 2 6 7"	
+50	"50 n"	"= Number"	"of values"	
+50	"8n"	"="	"6 Median ={ 2 th item = 3.5 example 1 2 2 6 7"	
+50	"6 Median ={ 2 th item = 3.5"	"is"	"6 +1"	
+51	th item If data are represented by a statistical model specifying a particular family of probability distribution , then estimates of the median can be obtained by fitting that family of probability distributions to the data and calculating the theoretical median of the fitted distribution . 
+51	"data"	"are represented"	"by a statistical model specifying a particular family of probability distribution"	
+51	"a statistical model"	"be specifying"	"a particular family of probability distribution"	
+51	"then estimates of the median"	"can be obtained"	"by fitting that family of probability distributions to the data 51 th item If data are represented by a statistical model specifying a particular family of probability distribution"	
+51	"then estimates of the median"	"can be obtained"	"by fitting that of probability distributions to the data calculating the theoretical median of the fitted distribution 51 th item If data are represented by a statistical model specifying a particular family of probability distribution"	
+51	"then estimates of the median"	"can be obtained"	"51 th item If data are represented by a statistical model specifying a particular family of probability distribution"	
+52	See , for example Pareto interpolation . 
+52	"52"	"See"	"for example Pareto interpolation"	
+53	Any ' 'mean ''-unbiased estimator minimizes the risk ( expected loss ) with respect to the squared-error loss function , as observed by Gauss . 
+53	"unbiased estimator"	"minimizes"	"the risk with respect to the squared-error loss function"	
+53	"unbiased estimator"	"minimizes"	"the risk as observed by Gauss"	
+53	"unbiased estimator"	"minimizes"	"the risk"	
+53	"the risk"	"is"	"expected loss"	
+54	A ' 'median ''-unbiased estimator minimizes the risk with respect to the absolute-deviation loss function , as observed by Laplace . 
+55	Other loss functions are used in statistical theory , particularly in robust statistics . 
+55	"55 Other loss functions"	"are used"	"in statistical theory particularly in robust statistics"	
+55	"55 Other loss functions"	"are used"	"in statistical theory"	
+56	The theory of median-unbiased estimators was revived by in 1947 : An estimate of a one-dimensional parameter θ will be said to be median-unbiased , if , for fixed θ , the median of the distribution of the estimate is at the value θ ; i .e 
+57	. 
+58	, the estimate underestimates just as often as it overestimates . 
+58	"the estimate"	"underestimates"	"just as often as it overestimates"	
+58	"the estimate"	"underestimates"	"just as often"	
+58	"it"	"overestimates"	
+59	This requirement seems for most purposes to accomplish as much as the mean-unbiased requirement and has the additional property that it is invariant under one-to-one transformation . 
+59	"59 This requirement"	"seems"	"for most purposes to accomplish as much as the mean-unbiased requirement"	
+59	"59 This requirement"	"has"	"for most purposes to accomplish as much as the mean-unbiased requirement the additional property that it is invariant under one-to-one transformation"	
+59	"most purposes"	"to accomplish"	"as much as the mean-unbiased requirement"	
+59	"it"	"is invariant"	"under one-to-one transformation"	
+59	"it"	"is"	"invariant"	
+60	[page 584] Further properties of median-unbiased estimators have been noted by Lehmann_ Birnbaum , van der Vaart and Pfanzagl . 
+60	"60"	"is"	"page 584"	
+60	"60 Further properties of median-unbiased estimators"	"have been noted"	"by Lehmann _ Birnbaum"	
+60	"60 Further properties of median-unbiased estimators"	"have been noted"	"by Lehmann _ van der Vaart"	
+60	"60 Further properties of median-unbiased estimators"	"have been noted"	"by Lehmann _ Pfanzagl"	
+61	In particular , median-unbiased estimators exist in cases where mean-unbiased and maximum-likelihood estimators do not exist . 
+61	"61"	"median-unbiased estimators exist"	"in cases In particular"	
+61	"61"	"median-unbiased estimators exist"	"in cases"	
+61	"median-unbiased estimators"	"61 exist"	"in cases In particular"	
+61	"median-unbiased estimators"	"61 exist"	"in cases"	
+61	"mean-unbiased estimators"	"do not exist"	"cases where"	
+61	"maximum-likelihood estimators"	"do not exist"	"cases where"	
+61	"mean-unbiased estimators"	"do not exist"	"cases"	
+61	"maximum-likelihood estimators"	"do not exist"	"cases"	
+62	Besides being invariant under one-to-one transformations , median-unbiased estimators have surprising robustness . 
+62	"median-unbiased estimators"	"have"	"62 Besides being invariant under one-to-one transformations surprising robustness"	
+63	Median filter In monochrome raster image there is a type of noise , known as the salt and pepper noise , when each pixel independently becomes black ( with some small probability ) or white ( with some small probability ) , and is unchanged otherwise ( with the probability close to 1 ).An 
+64	image constructed of median values of neighborhoods ( like 3×3 square ) can effectively reduce noise in this case . 
+64	"64 image"	"be constructed"	"of median values of neighborhoods like 3 × 3 square"	
+64	"64 image constructed of median values of neighborhoods like 3 × 3 square"	"can reduce"	"noise effectively"	
+64	"64 image constructed of median values of neighborhoods like 3 × 3 square"	"can reduce"	"noise in this case"	
+64	"64 image constructed of median values of neighborhoods like 3 × 3 square"	"can reduce"	"noise"	
+65	Gustav Fechner popularized the median into the formal analysis of data , although it had been used previously by Laplace . 
+65	"65 Gustav Fechner"	"popularized"	"the median into the formal analysis of data"	
+65	"65 Gustav Fechner"	"popularized"	"the median although it had been used previously by Laplace"	
+65	"65 Gustav Fechner"	"popularized"	"the median"	
+65	"it"	"had been used"	"previously by Laplace"	
+65	"it"	"had been used"	"previously"	
+66	Keynes , John Maynard ; A Treatise on Probability ( 1921 ) , Pt II Ch XVII §5 ( p 201 ) . 
+66	"66 Keynes A Treatise on Probability"	"is"	"John Maynard"	
+66	"Probability"	"is"	"1921"	
+66	"Pt II Ch XVII"	"§"	"5 Probability"	
+66	"5"	"is"	"p 201"	
+67	Statistics 5900 Median of a distribution descriptive Category :Means Category :Robust statistics ar :وسيط ( إحصاء ) bn :মধ্যক bg :Медиана ( статистика ) ca :Mediana cs :Medián da :Median de :Median et :Mediaan es :Mediana (estadística ) eo :Mediano ( statistiko ) eu:Mediana fa :میانه ( آمار ) fr :Médiane ( statistiques ) ko :중앙값 hr:Medijan io:Mediano id :Median is :Miðgildi it :Mediana ( statistica ) he :חציון lt :Mediana hu:Medián ms :Median nl :Mediaan ( statistiek ) ja :中央値 no:Median nn:Median pl :Mediana pt:Mediana (estatística ) ru:Медиана ( статистика ) sq:Mediana ( statistikë ) scn :Mediana simple :Median sk :Medián sl :Mediana sr :Медијана ( статистика ) sh :Medijan su:Median fi:Mediaani sv:Median ta :இடைநிலையளவ ு th :มัธยฐาน tg :Медиана tr :Medyan (tek-değişirli ) uk :Медіана ( статистика ) vi:Số trung vị zh :中位數 operatorname{P}( Xleq m ) geq frac{1}{ 2}text{ and }operatorname{P}(Xgeq m ) geq frac{1}{ 2} , ! 
+67	"Медиана"	"is"	"статистика"	
+67	"Mediaan"	"es"	
+67	"Mediana"	"is"	"estadística"	
+67	"Mediano"	"is"	"statistiko"	
+67	"میانه"	"is"	"آمار fr Médiane ko 중앙값 hr Medijan io Mediano id Median is Miðgildi it Mediana he חציון lt Mediana hu Medián ms Median nl Mediaan ja 中央値 no Median nn Median pl Mediana pt Mediana ru Медиана sq Mediana scn Mediana simple Median sk Medián sl Mediana sr Медијана sh Medijan su Median fi Mediaani sv Median ta இடைநிலையளவ ு th มัธยฐาน tg Медиана tr Medyan tek-değişirli uk Медіана vi Số trung vị zh 中位數 operatorname Xleq m geq frac 1 2 text operatorname Xgeq m geq frac"	
+67	"Médiane"	"is"	"statistiques"	
+67	"Mediana he חציון lt Mediana hu Medián ms Median nl Mediaan ja 中央値 no Median nn Median pl Mediana pt Mediana ru Медиана sq Mediana scn Mediana simple Median sk Medián sl Mediana sr Медијана sh Medijan su Median fi Mediaani sv Median ta இடைநிலையளவ ு th มัธยฐาน tg Медиана tr Medyan tek-değişirli uk Медіана vi Số trung vị zh 中位數 operatorname Xleq m geq frac 1 2 text operatorname Xgeq m geq frac"	"is"	"statistica"	
+67	"Medián"	"ms"	
+67	"Mediaan"	"is"	"statistiek"	
+67	"Mediana"	"is"	"estatística"	
+67	"Медиана"	"is"	"статистика"	
+67	"Mediana"	"is"	"statistikë"	
+67	"Медијана"	"is"	"статистика"	
+67	"Медіана"	"is"	"статистика"	
+67	"中位數 operatorname Xleq m geq frac 1 2 text operatorname Xgeq m geq frac"	"is"	"P"	
+67	"operatorname Xgeq m geq frac"	"is"	"P"	
+67	"Xgeq m geq frac"	"is"	"1 2"	
+68	int_{-infty }^m mathrm{d}F(x ) geq frac{1}{ 2}text{ and }int_m^{infty } mathrm{d}F(x ) geq frac{1}{ 2} , ! 
+68	"^ m mathrm d F geq frac int_m ^ infty mathrm d F geq frac"	"is"	"x"	
+68	"geq frac"	"is"	"1 2 text"	
+68	"^ infty mathrm d F"	"is"	"x"	
+68	"geq frac int_m ^ infty mathrm d F geq frac"	"is"	"1 2"	
+69	operatorname{P}( Xleq m ) = operatorname{P}(Xgeq m )=int_{-infty }^m f( x ) , mathrm{d}x=frac{1}{ 2}. 
+69	"operatorname = operatorname = int _ ^ m f x"	"is"	"P"	
+69	"operatorname = operatorname = int _ ^ m f x"	"is"	"Xleq m"	
+69	"= operatorname = int _ ^ m f x"	"is"	"Xgeq m"	
+69	"operatorname"	"is"	"P"	
+69	"int _"	"is"	"infty"	
+69	"frac"	"is"	"1 2"	
+70	, ! 
+71	The median of a normal distribution with mean μ and variance σ 2 is&nbsp;μ . 
+71	"71 The median of a normal distribution with mean μ"	"is"	"μ"	
+71	"71 The median of a normal distribution with mean variance σ 2"	"is"	"μ"	
+72	In fact , for a normal distribution , mean = median = mode . 
+73	The median of a uniform distribution in the interval [ a ,&nbsp; b ] is ( a &nbsp;+&nbsp; b )&nbsp;/&nbsp;2 , which is also the mean . 
+73	"73 The median of a uniform distribution in the interval is a + b 2"	"is"	"a b"	
+73	"2"	"is the mean"	"also"	
+73	"2"	"is"	"the mean"	
+74	The median of a Cauchy distribution with location parameter x 0 and scale parameter y is&nbsp; x 0 , the location parameter . 
+74	"74 The median of a Cauchy distribution with location parameter x 0"	"is x 0"	"the location parameter"	
+74	"74 The median of a Cauchy with location parameter x 0 scale parameter y"	"is x 0"	"the location parameter"	
+75	The median of an exponential distribution with rate parameter λ is the natural logarithm of 2 divided by the rate parameter : λ &minus ;1 ln&nbsp;2 . 
+75	"75 The median of an exponential distribution with rate parameter λ"	"is the natural logarithm λ & minus"	"of 2 divided by the rate parameter"	
+75	"75 The median of an exponential distribution with rate parameter λ"	"is the natural logarithm 1 ln 2"	"of 2 divided by the rate parameter"	
+75	"75 The median of an exponential distribution with rate parameter λ"	"is"	"the natural logarithm λ & minus"	
+75	"75 The median of an exponential distribution with rate parameter λ"	"is"	"the natural logarithm 1 ln 2"	
+75	"2"	"be divided"	"by the rate parameter"	
+76	The median of a Weibull distribution with shape parameter k and scale parameter λ is&nbsp; λ ( ln&nbsp;2 ) 1/ k . 
+76	"76 The median of a Weibull distribution with shape parameter k"	"is"	"λ ln 2 1 k"	
+76	"76 The median of a Weibull distribution with shape parameter scale parameter λ"	"is"	"λ ln 2 1 k"	
+77	E(left|X-cright| ) , median = ( 6/2 )th item median = 3rd item median = 5 Order statistic Quantile A median is the 2nd quartile , 5th decile , and 50th percentile . 
+77	"77 E"	"is"	"left | X-cright |"	
+77	"77 E"	"is"	"median = 6/2 th item"	
+77	"77 E"	"is"	"median = 6/2 th 5th decile"	
+77	"77 E"	"is"	"median = 6/2 th 50th percentile"	
+77	"median = 3rd item median = 5 Order statistic Quantile A median"	"is"	"the 2nd quartile th item"	
+77	"median = 3rd item median = 5 Order statistic Quantile A median"	"is"	"the 2nd quartile th 5th decile"	
+77	"median = 3rd item median = 5 Order statistic Quantile A median"	"is"	"the 2nd quartile th 50th percentile"	
+78	A sample-median is ' 'median ''-unbiased but can be a ' 'mean ''-biased estimator . 
+78	"78 A sample-median"	"is"	"median unbiased biased estimator"	
+78	"78 A sample-median"	"is"	"median can be a mean biased estimator"	
+79	Absolute deviation Concentration of measure for Lipschitz functions Efficiency ( statistics ) , which explains why the sample mean is more statistically efficient than the sample median . 
+79	"79 Absolute deviation Concentration of measure for Lipschitz"	"functions"	"Efficiency"	
+79	"Efficiency"	"is"	"statistics"	
+79	"Efficiency"	"explains"	"why the sample mean is more statistically efficient than the sample median"	
+79	"the sample mean"	"is efficient"	"more statistically"	
+79	"the sample mean"	"is efficient"	"than the sample median"	
+79	"the sample mean"	"is"	"efficient"	
+80	Standard deviation as a bound on the difference between the mean and the median Median voter theory Median graph Geometric median , a generalization of the median for data in higher dimensions Centerpoint , another generalization to higher dimensions Median search Hinges ( statistics ) Theil–Sen estimator , a method for robust linear regression based on finding medians of slope . 
+80	"Centerpoint"	"is"	"another generalization to higher dimensions Median search Hinges Theil Sen estimator"	
+80	"Median search Hinges Theil Sen estimator"	"is"	"statistics"	
+80	"Sen estimator"	"is"	"a method for robust linear regression based on finding medians of slope"	
+80	"a method for robust linear regression"	"be based"	"on finding medians of slope"	
+81	" On Small-Sample Estimation . 
+82	" The Annals of Mathematical Statistics , Vol . 
+82	"The Annals of Mathematical Statistics"	"is"	"Vol"	
+83	18 , No. 
+84	4 ( Dec. 
+85	, 1947 ) , pp.&nbsp;582&ndash 
+86	;585 . 
+87	Lehmann_ E. 
+88	L. 
+89	" A General Concept of Unbiasedness " The Annals of Mathematical Statistics , Vol . 
+89	"The Annals of Mathematical Statistics"	"is"	"Vol"	
+90	22 , No. 
+91	4 ( Dec. 
+92	, 1951 ) , pp.&nbsp;587&ndash 
+93	;592 . 
+94	Allan Birnbaum . 
+95	1961 . 
+96	" A Unified Theory of Estimation , I" , The Annals of Mathematical Statistics , Vol . 
+96	"Mathematical Statistics"	"is"	"Vol"	
+97	32 , No. 
+98	1 ( Mar . 
+99	, 1961 ) , pp.&nbsp;112&ndash 
+100	;135 van der Vaart , H. 
+101	R. 
+102	1961 . 
+103	" Some Extensions of the Idea of Bias " The Annals of Mathematical Statistics , Vol . 
+103	"The Annals of Mathematical Statistics"	"is"	"Vol"	
+104	32 , No. 
+105	2 ( Jun . 
+106	, 1961 ) , pp.&nbsp;436&ndash 
+107	;447 . 
+108	Parametric Statistical Theory Pfanzagl Johann with the assistance of R. 
+109	Hamböker 1994 Walter de Gruyter 3-11-01-3863-8 1291393 StatisticalMedian Statistical Median for Median computations and income inequality metrics 

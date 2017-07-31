@@ -1,0 +1,597 @@
+December 2008 43 47 38.22 	0	query201_Seneca_College\S\0
+N 79 20 56.57 	1	query201_Seneca_College\S\1
+W title type :edu 200px Seneca College of Applied Arts and Technology " Seneca Changes You " 1967 Public college for applied arts and technology David Agnew Toronto Ontario Canada 17,000 full-time students and 90,000 part-time students . 	2	query201_Seneca_College\S\2
+10 Campuses across the Greater Toronto Area Red EA1717 &amp; Black 000000 Sammy Sting The Stings on bus route CCAA , ACCC , AUCC , CBIE , Polytechnics Canada Seneca College of Applied Arts and Technology is a Canadian public college in the greater Toronto area . 	3	query201_Seneca_College\S\3
+"10 Campuses across the Greater Toronto Area Red EA1717 & Black 000000 Sammy Sting The"	"Stings"	"on bus route CCAA"	3	query201_Seneca_College\P\3-0
+"bus route CCAA"	"is"	"Polytechnics Canada Seneca College of Applied Arts"	3	query201_Seneca_College\P\3-1
+"bus route CCAA"	"is"	"Polytechnics Canada Seneca College of Applied Technology"	3	query201_Seneca_College\P\3-2
+"bus route CCAA"	"is"	"ACCC"	3	query201_Seneca_College\P\3-3
+"bus route CCAA"	"is"	"AUCC"	3	query201_Seneca_College\P\3-4
+"bus route CCAA"	"is"	"CBIE"	3	query201_Seneca_College\P\3-5
+Seneca College is currently Canada 's largest college with approximately 108,000 students . 	4	query201_Seneca_College\S\4
+"Seneca College"	"is Canada 's largest college"	"currently"	4	query201_Seneca_College\P\4-0
+"Seneca College"	"is Canada 's largest college"	"with approximately 108,000 students"	4	query201_Seneca_College\P\4-1
+"Seneca College"	"is"	"Canada 's largest college"	4	query201_Seneca_College\P\4-2
+"Seneca College"	"is"	"Canada 's largest college"	4	query201_Seneca_College\P\4-3
+The college was established during the formation of Ontario ’s college system in 1967 . 	5	query201_Seneca_College\S\5
+"The college"	"was established"	"during the formation of Ontario 's college system in 1967"	5	query201_Seneca_College\P\5-0
+"The college"	"was established"	"during the formation of Ontario 's college system in 1967"	5	query201_Seneca_College\P\5-1
+The Colleges of Applied Arts and Technology were established on May 21 , 1965 . 	6	query201_Seneca_College\S\6
+"The Colleges of Applied Arts"	"were established"	"on May 21 1965"	6	query201_Seneca_College\P\6-0
+"The Colleges of Applied Technology"	"were established"	"on May 21 1965"	6	query201_Seneca_College\P\6-1
+The school was founded as part of a provincial initiative to provide career-oriented diploma and certificate courses , as well as continuing education programs to Ontario communities . 	7	query201_Seneca_College\S\7
+"The school"	"was founded"	"as part of a provincial initiative to provide career-oriented diploma"	7	query201_Seneca_College\P\7-0
+"The school"	"was founded"	"as part of a provincial initiative to provide career-oriented certificate courses as well as continuing education programs to Ontario communities"	7	query201_Seneca_College\P\7-1
+"The school"	"was founded"	"as part of a provincial initiative to career-oriented diploma continuing education programs to Ontario communities"	7	query201_Seneca_College\P\7-2
+"a provincial initiative to continuing education programs to Ontario communities"	"be provide"	"career-oriented diploma"	7	query201_Seneca_College\P\7-3
+"a provincial initiative to continuing education programs to Ontario communities"	"be provide"	"career-oriented certificate courses"	7	query201_Seneca_College\P\7-4
+"a provincial initiative to continuing education programs"	"be provide"	"career-oriented diploma to Ontario communities"	7	query201_Seneca_College\P\7-5
+"a provincial initiative to continuing education programs"	"be provide"	"career-oriented certificate courses to Ontario communities"	7	query201_Seneca_College\P\7-6
+Seneca has 10 campuses in total located throughout the Greater Toronto Area — each with its own academic specialties . 	8	query201_Seneca_College\S\8
+"Seneca"	"has"	"10 campuses in total located throughout the Greater Toronto Area each with its own academic specialties"	8	query201_Seneca_College\P\8-0
+"Seneca"	"has"	"10 campuses"	8	query201_Seneca_College\P\8-1
+"Seneca"	"has"	"10 campuses"	8	query201_Seneca_College\P\8-2
+The Newnham Campus is one of the largest college campuses in Canada . 	9	query201_Seneca_College\S\9
+"The Newnham Campus"	"is one"	"of the largest college campuses in Canada"	9	query201_Seneca_College\P\9-0
+"The Newnham Campus"	"is"	"one"	9	query201_Seneca_College\P\9-1
+It is home to full and part-time programs in the areas of Business , Applied Arts , Applied Science and Engineering Technology . 	10	query201_Seneca_College\S\10
+It is home to full and part-time programs in the areas of Business , Applied Arts , Applied Science and Engineering Technology . 	10	query201_Seneca_College\S\10
+It is home to full and part-time programs in the areas of Business , Applied Arts , Applied Science and Engineering Technology . 	10	query201_Seneca_College\S\10
+It is home to full and part-time programs in the areas of Business , Applied Arts , Applied Science and Engineering Technology . 	10	query201_Seneca_College\S\10
+It is home to full and part-time programs in the areas of Business , Applied Arts , Applied Science and Engineering Technology . 	10	query201_Seneca_College\S\10
+It is home to full and part-time programs in the areas of Business , Applied Arts , Applied Science and Engineering Technology . 	10	query201_Seneca_College\S\10
+It is home to full and part-time programs in the areas of Business , Applied Arts , Applied Science and Engineering Technology . 	10	query201_Seneca_College\S\10
+The campus is home to a 1,113 bed residence along with a sports centre .It 	11	query201_Seneca_College\S\11
+is located on the north side of Finch Avenue at Hwy . 	12	query201_Seneca_College\S\12
+is located on the north side of Finch Avenue at Hwy . 	12	query201_Seneca_College\S\12
+is located on the north side of Finch Avenue at Hwy . 	12	query201_Seneca_College\S\12
+404 ( Don Valley Parkway ) and Finch Avenue East . 	13	query201_Seneca_College\S\13
+"404"	"is"	"Don Valley Parkway"	13	query201_Seneca_College\P\13-0
+"Finch Avenue East"	"is"	"Don Valley Parkway"	13	query201_Seneca_College\P\13-1
+Construction is currently underway on a new four storey , 160,600 sqft m2 on off building at the campus . 	14	query201_Seneca_College\S\14
+"Construction"	"is underway"	"currently"	14	query201_Seneca_College\P\14-0
+"Construction"	"is underway"	"on a new four storey"	14	query201_Seneca_College\P\14-1
+"Construction"	"is"	"underway"	14	query201_Seneca_College\P\14-2
+"a new four storey"	"is"	"160,600 sqft m2 on off building at the campus"	14	query201_Seneca_College\P\14-3
+Upon completion in Fall 2011 , the new building will create space for an additional 1,100 students . 	15	query201_Seneca_College\S\15
+"the new building"	"will create"	"space for an additional 1,100 students"	15	query201_Seneca_College\P\15-0
+Seneca@York Campus includes the Stephen E. 	16	query201_Seneca_College\S\16
+"Seneca@York Campus"	"includes"	"the Stephen E."	16	query201_Seneca_College\P\16-0
+Quinlan Building and the Technology Enhanced Learning Building , situated on the Keele Campus of York University . 	17	query201_Seneca_College\S\17
+"Quinlan Building"	"Enhanced"	"Learning Building situated on the Keele Campus of York University"	17	query201_Seneca_College\P\17-0
+"Quinlan the Technology"	"Enhanced"	"Learning Building situated on the Keele Campus of York University"	17	query201_Seneca_College\P\17-1
+"Learning Building"	"be situated"	"on the Keele Campus of York University"	17	query201_Seneca_College\P\17-2
+Several schools are located at this Toronto campus , including Creative Arts and Animation , Biological Sciences &amp; Applied Chemistry , English and Liberal Studies and Information and Communications Technology . 	18	query201_Seneca_College\S\18
+"Several schools"	"are located Biological Sciences & Applied Chemistry"	"at this Toronto campus"	18	query201_Seneca_College\P\18-0
+"Several schools"	"are located Biological English"	"at this Toronto campus"	18	query201_Seneca_College\P\18-1
+"Several schools"	"are located Biological Liberal Studies"	"at this Toronto campus"	18	query201_Seneca_College\P\18-2
+"Several schools"	"are located Biological Information Technology"	"at this Toronto campus"	18	query201_Seneca_College\P\18-3
+"Several schools"	"are located Biological Communications Technology"	"at this Toronto campus"	18	query201_Seneca_College\P\18-4
+"Several schools"	"are located Biological Sciences & Applied Chemistry"	"including Creative Arts"	18	query201_Seneca_College\P\18-5
+"Several schools"	"are located Biological Sciences & Applied Chemistry"	"including Creative Animation"	18	query201_Seneca_College\P\18-6
+"Several schools"	"are located Biological English"	"including Creative Arts"	18	query201_Seneca_College\P\18-7
+"Several schools"	"are located Biological English"	"including Creative Animation"	18	query201_Seneca_College\P\18-8
+"Several schools"	"are located Biological Liberal Studies"	"including Creative Arts"	18	query201_Seneca_College\P\18-9
+"Several schools"	"are located Biological Liberal Studies"	"including Creative Animation"	18	query201_Seneca_College\P\18-10
+"Several schools"	"are located Biological Information Technology"	"including Creative Arts"	18	query201_Seneca_College\P\18-11
+"Several schools"	"are located Biological Information Technology"	"including Creative Animation"	18	query201_Seneca_College\P\18-12
+"Several schools"	"are located Biological Communications Technology"	"including Creative Arts"	18	query201_Seneca_College\P\18-13
+"Several schools"	"are located Biological Communications Technology"	"including Creative Animation"	18	query201_Seneca_College\P\18-14
+"Several schools"	"are"	"located Biological Sciences & Applied Chemistry"	18	query201_Seneca_College\P\18-15
+"Several schools"	"are"	"located Biological English"	18	query201_Seneca_College\P\18-16
+"Several schools"	"are"	"located Biological Liberal Studies"	18	query201_Seneca_College\P\18-17
+"Several schools"	"are"	"located Biological Information Technology"	18	query201_Seneca_College\P\18-18
+"Several schools"	"are"	"located Biological Communications Technology"	18	query201_Seneca_College\P\18-19
+thumbcenterSeneca@York campus King Campus is located in a natural setting of 282 ha acre 0 of woods , lake and fields . 	19	query201_Seneca_College\S\19
+"thumbcenterSeneca@York campus King Campus"	"is located"	"in a natural setting of 282 ha acre 0 of woods"	19	query201_Seneca_College\P\19-0
+"thumbcenterSeneca@York campus King Campus"	"is located"	"in a natural setting of 282 ha acre 0 of lake"	19	query201_Seneca_College\P\19-1
+"thumbcenterSeneca@York campus King Campus"	"is located"	"in a natural setting of 282 ha acre 0 of fields"	19	query201_Seneca_College\P\19-2
+"thumbcenterSeneca@York campus King Campus"	"is"	"located"	19	query201_Seneca_College\P\19-3
+It is home to full and part-time programs in the areas of applied arts and health sciences . 	20	query201_Seneca_College\S\20
+It is home to full and part-time programs in the areas of applied arts and health sciences . 	20	query201_Seneca_College\S\20
+It is home to full and part-time programs in the areas of applied arts and health sciences . 	20	query201_Seneca_College\S\20
+It is home to full and part-time programs in the areas of applied arts and health sciences . 	20	query201_Seneca_College\S\20
+It is home to full and part-time programs in the areas of applied arts and health sciences . 	20	query201_Seneca_College\S\20
+Programs at this campus include : Early Childhood Education , Law Enforcement , Nursing , Social Service Worker ( and Gerontology ) , Tourism Studies , Golf Course Technician , Environmental Landscape Management , Recreation and Leisure Services , Recreation Facility Management , and Veterinary Technician . 	21	query201_Seneca_College\S\21
+"Programs at this campus"	"include"	"Early Childhood Education Tourism Studies"	21	query201_Seneca_College\P\21-0
+"Programs at this campus"	"include"	"Early Childhood Law Enforcement Tourism Studies"	21	query201_Seneca_College\P\21-1
+"Programs at this campus"	"include"	"Early Childhood Law Enforcement Tourism Golf Course Technician"	21	query201_Seneca_College\P\21-2
+"Programs at this campus"	"include"	"Early Childhood Law Enforcement Tourism Environmental Landscape Management"	21	query201_Seneca_College\P\21-3
+"Programs at this campus"	"include"	"Early Childhood Law Enforcement Tourism Recreation"	21	query201_Seneca_College\P\21-4
+"Programs at this campus"	"include"	"Early Childhood Law Enforcement Tourism Leisure Services"	21	query201_Seneca_College\P\21-5
+"Programs at this campus"	"include"	"Early Childhood Law Enforcement Tourism Recreation Facility Management"	21	query201_Seneca_College\P\21-6
+"Programs at this campus"	"include"	"Early Childhood Law Enforcement Tourism Veterinary Technician"	21	query201_Seneca_College\P\21-7
+"Programs at this campus"	"include"	"Early Childhood Nursing Tourism Studies"	21	query201_Seneca_College\P\21-8
+"Programs at this campus"	"include"	"Early Childhood Nursing Tourism Golf Course Technician"	21	query201_Seneca_College\P\21-9
+"Programs at this campus"	"include"	"Early Childhood Nursing Tourism Environmental Landscape Management"	21	query201_Seneca_College\P\21-10
+"Programs at this campus"	"include"	"Early Childhood Nursing Tourism Recreation"	21	query201_Seneca_College\P\21-11
+"Programs at this campus"	"include"	"Early Childhood Nursing Tourism Leisure Services"	21	query201_Seneca_College\P\21-12
+"Programs at this campus"	"include"	"Early Childhood Nursing Tourism Recreation Facility Management"	21	query201_Seneca_College\P\21-13
+"Programs at this campus"	"include"	"Early Childhood Nursing Tourism Veterinary Technician"	21	query201_Seneca_College\P\21-14
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Tourism Studies"	21	query201_Seneca_College\P\21-15
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Gerontology Tourism Studies"	21	query201_Seneca_College\P\21-16
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Gerontology Tourism Golf Course Technician"	21	query201_Seneca_College\P\21-17
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Gerontology Tourism Environmental Landscape Management"	21	query201_Seneca_College\P\21-18
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Gerontology Tourism Recreation"	21	query201_Seneca_College\P\21-19
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Gerontology Tourism Leisure Services"	21	query201_Seneca_College\P\21-20
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Gerontology Tourism Recreation Facility Management"	21	query201_Seneca_College\P\21-21
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Gerontology Tourism Veterinary Technician"	21	query201_Seneca_College\P\21-22
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Tourism Golf Course Technician"	21	query201_Seneca_College\P\21-23
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Tourism Environmental Landscape Management"	21	query201_Seneca_College\P\21-24
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Tourism Recreation"	21	query201_Seneca_College\P\21-25
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Tourism Leisure Services"	21	query201_Seneca_College\P\21-26
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Tourism Recreation Facility Management"	21	query201_Seneca_College\P\21-27
+"Programs at this campus"	"include"	"Early Childhood Social Service Worker Tourism Veterinary Technician"	21	query201_Seneca_College\P\21-28
+"Programs at this campus"	"include"	"Early Childhood Education Tourism Golf Course Technician"	21	query201_Seneca_College\P\21-29
+"Programs at this campus"	"include"	"Early Childhood Education Tourism Environmental Landscape Management"	21	query201_Seneca_College\P\21-30
+"Programs at this campus"	"include"	"Early Childhood Education Tourism Recreation"	21	query201_Seneca_College\P\21-31
+"Programs at this campus"	"include"	"Early Childhood Education Tourism Leisure Services"	21	query201_Seneca_College\P\21-32
+"Programs at this campus"	"include"	"Early Childhood Education Tourism Recreation Facility Management"	21	query201_Seneca_College\P\21-33
+"Programs at this campus"	"include"	"Early Childhood Education Tourism Veterinary Technician"	21	query201_Seneca_College\P\21-34
+It is also offers training in Underwater Skills .It 	22	query201_Seneca_College\S\22
+is also home to a 233 bed residence . 	23	query201_Seneca_College\S\23
+is also home to a 233 bed residence . 	23	query201_Seneca_College\S\23
+is also home to a 233 bed residence . 	23	query201_Seneca_College\S\23
+is also home to a 233 bed residence . 	23	query201_Seneca_College\S\23
+thumb250pxKing City Campus ( Eaton Hall ) Markham Campus opened its doors in 2005 , becoming the first post-secondary education facility in the Town of Markham . 	24	query201_Seneca_College\S\24
+"thumb250pxKing City Campus"	"is"	"Eaton Hall"	24	query201_Seneca_College\P\24-0
+"thumb250pxKing City Campus Markham Campus"	"be becoming"	"the first post-secondary education facility in the Town of Markham"	24	query201_Seneca_College\P\24-1
+"thumb250pxKing City Campus Markham Campus"	"opened"	"its doors in 2005"	24	query201_Seneca_College\P\24-2
+"thumb250pxKing City Campus Markham Campus"	"opened"	"its doors becoming the first post-secondary education facility in the Town of Markham"	24	query201_Seneca_College\P\24-3
+"thumb250pxKing City Campus Markham Campus"	"opened"	"its doors"	24	query201_Seneca_College\P\24-4
+"thumb250pxKing City Campus Markham Campus"	"opened"	"its doors"	24	query201_Seneca_College\P\24-5
+The campus is home to full and part-time programs in the areas of business , marketing , tourism and aviation . 	25	query201_Seneca_College\S\25
+"The campus"	"is home"	"to full programs in the areas of business"	25	query201_Seneca_College\P\25-0
+"The campus"	"is home"	"to part-time programs in the areas of business marketing tourism and aviation"	25	query201_Seneca_College\P\25-1
+"The campus"	"is home"	"to full programs in the areas of marketing"	25	query201_Seneca_College\P\25-2
+"The campus"	"is home"	"to full programs in the areas of tourism"	25	query201_Seneca_College\P\25-3
+"The campus"	"is home"	"to full programs in the areas of aviation"	25	query201_Seneca_College\P\25-4
+"The campus"	"is"	"home"	25	query201_Seneca_College\P\25-5
+thumbnoneMarkham campus ‎ Jane Campus is home to Seneca ’s Centre for Advanced Technologies . 	26	query201_Seneca_College\S\26
+"thumbnoneMarkham campus Jane Campus"	"is home"	"to Seneca 's Centre for Advanced Technologies"	26	query201_Seneca_College\P\26-0
+"thumbnoneMarkham campus Jane Campus"	"is"	"home"	26	query201_Seneca_College\P\26-1
+"thumbnoneMarkham campus Jane Campus"	"is"	"home"	26	query201_Seneca_College\P\26-2
+Students studying at the campus pursue careers in the areas of Tool Design , Computer Numerical Control ( CNC) , and Metals Machining Trades such as Tool &amp; Die Maker and Mould Maker . 	27	query201_Seneca_College\S\27
+"Students"	"be studying"	"at the campus pursue careers in the areas of Tool Design"	27	query201_Seneca_College\P\27-0
+"Students"	"be studying"	"at the campus pursue careers in the areas of Tool Computer Numerical Control"	27	query201_Seneca_College\P\27-1
+"Students"	"be studying"	"at the campus pursue careers in the areas of Tool Metals Machining Trades such as Tool & Die Maker"	27	query201_Seneca_College\P\27-2
+"Students"	"be studying"	"at the campus pursue careers in the areas of Tool Metals Machining Trades such as Tool & Die Mould Maker"	27	query201_Seneca_College\P\27-3
+"Computer Numerical Control"	"is"	"CNC"	27	query201_Seneca_College\P\27-4
+The building can be seen from the westbound collector lanes of Highway 401 and is located at 21 Beverly Hills Drive in Toronto . 	28	query201_Seneca_College\S\28
+"The building"	"can be seen"	"from the westbound collector lanes of Highway 401"	28	query201_Seneca_College\P\28-0
+"The building"	"can be is located"	"from the westbound collector lanes of Highway 401"	28	query201_Seneca_College\P\28-1
+"The building"	"can be is located"	"at 21 Beverly Hills Drive in Toronto"	28	query201_Seneca_College\P\28-2
+"The building"	"can be is"	"located"	28	query201_Seneca_College\P\28-3
+Buttonville is the home of Seneca 's fleet of aircraft and flight training devices , used for training by students enrolled in the Bachelor of Aviation Program . 	29	query201_Seneca_College\S\29
+"the home of Seneca 's fleet of aircraft training devices"	"be used"	"for training by students enrolled in the Bachelor of Aviation Program"	29	query201_Seneca_College\P\29-0
+"the home of Seneca 's fleet of flight training devices"	"be used"	"for training by students enrolled in the Bachelor of Aviation Program"	29	query201_Seneca_College\P\29-1
+"Buttonville"	"is the home"	"of Seneca 's fleet of aircraft training devices"	29	query201_Seneca_College\P\29-2
+"Buttonville"	"is the home"	"of Seneca 's fleet of flight training devices"	29	query201_Seneca_College\P\29-3
+"Buttonville"	"is the home"	"used for training by students enrolled in the Bachelor of Aviation Program"	29	query201_Seneca_College\P\29-4
+"Buttonville"	"is"	"the home"	29	query201_Seneca_College\P\29-5
+"Buttonville"	"is"	"the home"	29	query201_Seneca_College\P\29-6
+"Buttonville"	"is"	"the home"	29	query201_Seneca_College\P\29-7
+"Buttonville"	"is"	"the home"	29	query201_Seneca_College\P\29-8
+All in-flight training is undertaken through the facilities at the Buttonville Airport . 	30	query201_Seneca_College\S\30
+"All in-flight training"	"is undertaken"	"through the facilities at the Buttonville Airport"	30	query201_Seneca_College\P\30-0
+Classroom-based instruction is divided between Markham and Buttonville Campuses .Seneca 	31	query201_Seneca_College\S\31
+'s fleet currently consists of 14 aircraft : 9 Cessna 172s , 4 Beechcraft Bonanzas and 2 Beechcraft Barons . 	32	query201_Seneca_College\S\32
+'s fleet currently consists of 14 aircraft : 9 Cessna 172s , 4 Beechcraft Bonanzas and 2 Beechcraft Barons . 	32	query201_Seneca_College\S\32
+"'s fleet"	"consists"	"of 14 aircraft currently"	32	query201_Seneca_College\P\32-0
+"'s fleet"	"consists"	"of 14 aircraft"	32	query201_Seneca_College\P\32-1
+"Cessna 172s"	"is"	"4 Beechcraft Bonanzas"	9	query201_Seneca_College\P\32-2
+"Cessna 172s"	"is"	"4 Beechcraft 2 Beechcraft Barons"	9	query201_Seneca_College\P\32-3
+Seneca 's community campuses offer community-based services delivered by the College such as employment services for adults and specialized programs for Internationally-Trained Immigrants and academic upgrading . 	33	query201_Seneca_College\S\33
+Seneca 's community campuses offer community-based services delivered by the College such as employment services for adults and specialized programs for Internationally-Trained Immigrants and academic upgrading . 	33	query201_Seneca_College\S\33
+"Seneca 's community campuses"	"offer"	"community-based services delivered by the College such as employment services for adults for Internationally-Trained Immigrants"	33	query201_Seneca_College\P\33-0
+"Seneca 's community campuses"	"offer"	"community-based services delivered by the College such as employment services for specialized programs for Internationally-Trained Immigrants and academic upgrading"	33	query201_Seneca_College\P\33-1
+"Seneca 's community campuses"	"offer"	"community-based services delivered by the College such as employment services for adults for Internationally-Trained academic upgrading"	33	query201_Seneca_College\P\33-2
+"community-based services"	"be delivered"	"by the College such as employment services for adults for Internationally-Trained Immigrants"	33	query201_Seneca_College\P\33-3
+"community-based services"	"be delivered"	"by the College such as employment services for adults for Internationally-Trained academic upgrading"	33	query201_Seneca_College\P\33-4
+"community-based services"	"be delivered"	"by the College such as employment services for specialized programs for Internationally-Trained Immigrants"	33	query201_Seneca_College\P\33-5
+"community-based services"	"be delivered"	"by the College such as employment services for specialized programs for Internationally-Trained academic upgrading"	33	query201_Seneca_College\P\33-6
+"community-based services"	"be delivered"	"by the College such as employment services for adults"	33	query201_Seneca_College\P\33-7
+"community-based services"	"be delivered"	"by the College such as employment services for specialized programs"	33	query201_Seneca_College\P\33-8
+The Newmarket Campus offers Employment Ontario services and access to resources and information . 	34	query201_Seneca_College\S\34
+"The Newmarket Campus"	"offers"	"Employment Ontario services 34"	34	query201_Seneca_College\P\34-0
+"The Newmarket Campus"	"access"	"Employment Ontario services to resources 34"	34	query201_Seneca_College\P\34-1
+"The Newmarket Campus"	"access"	"Employment Ontario services to information 34"	34	query201_Seneca_College\P\34-2
+"The Newmarket Campus"	"access"	"Employment Ontario services 34"	34	query201_Seneca_College\P\34-3
+Programs at this location include employment counselling , job search workshops and job development services . 	35	query201_Seneca_College\S\35
+"Programs at this location"	"include"	"employment counselling"	35	query201_Seneca_College\P\35-0
+"Programs at this location"	"include"	"employment job search workshops"	35	query201_Seneca_College\P\35-1
+"Programs at this location"	"include"	"employment job development services"	35	query201_Seneca_College\P\35-2
+Academic Upgrading is offered in the day and evening . 	36	query201_Seneca_College\S\36
+"Academic Upgrading"	"is offered"	"in the day"	36	query201_Seneca_College\P\36-0
+"Academic Upgrading"	"is offered"	"in the evening"	36	query201_Seneca_College\P\36-1
+Computer skills training is also available . 	37	query201_Seneca_College\S\37
+"Computer skills training"	"is available"	"also"	37	query201_Seneca_College\P\37-0
+"Computer skills training"	"is"	"available"	37	query201_Seneca_College\P\37-1
+The campus is located in the Weston Produce Plaza , 16655 Yonge St . 	38	query201_Seneca_College\S\38
+"The campus"	"is located"	"in the Weston Produce Plaza"	38	query201_Seneca_College\P\38-0
+"The campus"	"is"	"located"	38	query201_Seneca_College\P\38-1
+"The campus"	"is"	"located"	38	query201_Seneca_College\P\38-2
+"The campus"	"is"	"located"	38	query201_Seneca_College\P\38-3
+, Unit 3 Newmarket , Ontario . 	39	query201_Seneca_College\S\39
+"Newmarket"	"is"	"Ontario"	3	query201_Seneca_College\P\39-0
+The Scarborough site offers Employment Ontario services and access to resources and information . 	40	query201_Seneca_College\S\40
+"The Scarborough site"	"offers"	"Employment Ontario services"	40	query201_Seneca_College\P\40-0
+"The Scarborough site"	"access"	"Employment Ontario services to resources"	40	query201_Seneca_College\P\40-1
+"The Scarborough site"	"access"	"Employment Ontario services to information"	40	query201_Seneca_College\P\40-2
+"The Scarborough site"	"access"	"Employment Ontario services"	40	query201_Seneca_College\P\40-3
+Programs at this location include employment counselling , job search workshops , job development services and specialized programs for skilled immigrants such as mentorship . 	41	query201_Seneca_College\S\41
+"Programs at this location"	"include"	"employment counselling"	41	query201_Seneca_College\P\41-0
+"Programs at this location"	"include"	"employment job search workshops"	41	query201_Seneca_College\P\41-1
+"Programs at this location"	"include"	"employment job development services"	41	query201_Seneca_College\P\41-2
+"Programs at this location"	"include"	"employment specialized programs for skilled immigrants such as mentorship"	41	query201_Seneca_College\P\41-3
+Academic Upgrading is offered in the day and evening . 	42	query201_Seneca_College\S\42
+"Academic Upgrading"	"is offered"	"in the day"	42	query201_Seneca_College\P\42-0
+"Academic Upgrading"	"is offered"	"in the evening"	42	query201_Seneca_College\P\42-1
+It is located at 3660 Midland Ave . 	43	query201_Seneca_College\S\43
+It is located at 3660 Midland Ave . 	43	query201_Seneca_College\S\43
+It is located at 3660 Midland Ave . 	43	query201_Seneca_College\S\43
+2nd Floor , Scarborough , Ontario . 	44	query201_Seneca_College\S\44
+"2nd Floor"	"is"	"Scarborough"	44	query201_Seneca_College\P\44-0
+"2nd Floor"	"is"	"Scarborough"	44	query201_Seneca_College\P\44-1
+The Vaughan Campus officially opened its doors on January 28 , 2011 . 	45	query201_Seneca_College\S\45
+"The Vaughan Campus"	"opened"	"its doors 45 officially"	45	query201_Seneca_College\P\45-0
+"The Vaughan Campus"	"opened"	"its doors on January 28 2011 45"	45	query201_Seneca_College\P\45-1
+"The Vaughan Campus"	"opened"	"its doors 45"	45	query201_Seneca_College\P\45-2
+"The Vaughan Campus"	"opened"	"its doors 45"	45	query201_Seneca_College\P\45-3
+The new campus ( located at 1490 Major Mackenzie Drive West , Unit D5 ) offers Vaughan residents a range of services , including academic upgrading , employment services and workplace essential skills training for professionals , as well as a centre for entrepreneurship . 	46	query201_Seneca_College\S\46
+"Major Mackenzie Drive West"	"is"	"Unit D5"	1490	query201_Seneca_College\P\46-0
+"The new campus located at 1490 Major Mackenzie Drive West"	"offers"	"Vaughan residents a range of services including academic upgrading for professionals"	46	query201_Seneca_College\P\46-1
+"The new campus located at 1490 Major Mackenzie Drive West"	"offers"	"Vaughan residents a range of services including academic employment services for professionals as well as a centre for entrepreneurship"	46	query201_Seneca_College\P\46-2
+"The new campus located at 1490 Major Mackenzie Drive West"	"offers"	"Vaughan residents a range of services including academic workplace essential skills training for professionals as well as a centre for entrepreneurship"	46	query201_Seneca_College\P\46-3
+"The new campus located at 1490 Major Mackenzie Drive West"	"offers"	"Vaughan residents a of services including academic upgrading for professionals a centre for entrepreneurship"	46	query201_Seneca_College\P\46-4
+Students at the Yorkgate Campus can learn at their own pace with customized programs in academic upgrading and office systems . 	47	query201_Seneca_College\S\47
+"Students at the Yorkgate Campus"	"can learn"	"at their own pace with customized programs in academic upgrading"	47	query201_Seneca_College\P\47-0
+"Students at the Yorkgate Campus"	"can learn"	"at their own pace with customized programs in academic office systems"	47	query201_Seneca_College\P\47-1
+"Students at the Yorkgate Campus"	"can learn"	"at their own pace"	47	query201_Seneca_College\P\47-2
+"Students at the Yorkgate Campus"	"can learn"	"at their own pace"	47	query201_Seneca_College\P\47-3
+The Literacy and Basic Skills program is available , as are a variety of provincial and federal programs . 	48	query201_Seneca_College\S\48
+"The Literacy"	"is"	"available as are a variety of provincial programs"	48	query201_Seneca_College\P\48-0
+"The Basic Skills program"	"is"	"available as are a variety of provincial programs"	48	query201_Seneca_College\P\48-1
+"The Literacy"	"is"	"available as are a variety of federal programs"	48	query201_Seneca_College\P\48-2
+"The Basic Skills program"	"is"	"available as are a variety of federal programs"	48	query201_Seneca_College\P\48-3
+The Employment Resource Centre offers assisted services and extended hours on evenings and Saturdays . 	49	query201_Seneca_College\S\49
+"The Employment Resource Centre"	"offers"	"assisted services 49"	49	query201_Seneca_College\P\49-0
+"The Employment Resource Centre"	"extended"	"assisted services hours on evenings 49"	49	query201_Seneca_College\P\49-1
+"The Employment Resource Centre"	"extended"	"assisted services hours on Saturdays 49"	49	query201_Seneca_College\P\49-2
+"The Employment Resource Centre"	"extended"	"assisted services hours 49"	49	query201_Seneca_College\P\49-3
+The facility is located on the second floor of the Yorkgate Mall at Finch Avenue West and Jane Street . 	50	query201_Seneca_College\S\50
+"The facility"	"is located"	"on the second floor of the Yorkgate Mall"	50	query201_Seneca_College\P\50-0
+"The facility"	"is located"	"at Finch Avenue West"	50	query201_Seneca_College\P\50-1
+"The facility"	"is located"	"at Finch Avenue Jane Street"	50	query201_Seneca_College\P\50-2
+"The facility"	"is"	"located"	50	query201_Seneca_College\P\50-3
+Seneca offers more than 260 career program options including 11 Bachelor degree programs . 	51	query201_Seneca_College\S\51
+"Seneca"	"offers"	"more than 260 career program options including 11 Bachelor degree programs"	51	query201_Seneca_College\P\51-0
+OCAS Seneca College of Applied Arts and Technology http ://www.ontariocolleges.ca/portal/page/portal/ONTCOL/Plan/Seneca 	52	query201_Seneca_College\S\52
+23 June 2011 OCAS Seneca College of Applied Arts and Technology http ://www.ontariocolleges.ca/portal/page/portal/ONTCOL/Plan/Seneca 	53	query201_Seneca_College\S\53
+23 June 2011 Some programs offer co-op options , while others include a mandatory co-op period prior to graduation . 	54	query201_Seneca_College\S\54
+"23 June 2011 Some programs"	"offer"	"co-op options while others include a mandatory co-op period prior to graduation"	54	query201_Seneca_College\P\54-0
+"23 June 2011 Some programs"	"offer"	"co-op options"	54	query201_Seneca_College\P\54-1
+"23 June 2011 Some programs"	"offer"	"co-op options"	54	query201_Seneca_College\P\54-2
+Seneca also offers work placement assistance to students upon graduation . 	55	query201_Seneca_College\S\55
+"Seneca"	"offers"	"work placement assistance also"	55	query201_Seneca_College\P\55-0
+"Seneca"	"offers"	"work placement assistance to students"	55	query201_Seneca_College\P\55-1
+"Seneca"	"offers"	"work placement assistance upon graduation"	55	query201_Seneca_College\P\55-2
+"Seneca"	"offers"	"work placement assistance"	55	query201_Seneca_College\P\55-3
+All Seneca College programs are developed and kept current with the assistance of academic advisory committees . 	56	query201_Seneca_College\S\56
+"All Seneca College programs"	"are kept"	"current with the assistance of academic advisory committees"	56	query201_Seneca_College\P\56-0
+These committees are made up of Seneca 's academic advisors and key industry members . 	57	query201_Seneca_College\S\57
+"These committees"	"are made up"	"of Seneca 's academic advisors"	57	query201_Seneca_College\P\57-0
+"These committees"	"are made up"	"of Seneca 's academic key industry members"	57	query201_Seneca_College\P\57-1
+"These committees"	"are made up"	"of Seneca 's academic key industry members"	57	query201_Seneca_College\P\57-2
+They are in place to ensure the education students receive provides the skills necessary for career success . 	58	query201_Seneca_College\S\58
+They are in place to ensure the education students receive provides the skills necessary for career success . 	58	query201_Seneca_College\S\58
+They are in place to ensure the education students receive provides the skills necessary for career success . 	58	query201_Seneca_College\S\58
+They are in place to ensure the education students receive provides the skills necessary for career success . 	58	query201_Seneca_College\S\58
+They are in place to ensure the education students receive provides the skills necessary for career success . 	58	query201_Seneca_College\S\58
+Seneca College has more than 70 transfer agreements with universities throughout the world including countries such as Australia , Canada , England , South Africa , and the U.S.A. 	59	query201_Seneca_College\S\59
+"Seneca College"	"has"	"more than 70 transfer agreements with universities throughout the world including countries such as Australia"	59	query201_Seneca_College\P\59-0
+"Seneca College"	"has"	"more than 70 transfer agreements with universities throughout the world including countries such as Canada"	59	query201_Seneca_College\P\59-1
+"Seneca College"	"has"	"more than 70 transfer agreements with universities throughout the world including countries such as England"	59	query201_Seneca_College\P\59-2
+"Seneca College"	"has"	"more than 70 transfer agreements with universities throughout the world including countries such as South Africa"	59	query201_Seneca_College\P\59-3
+"Seneca College"	"has"	"more than 70 transfer agreements with universities throughout the world including countries such as the U.S.A."	59	query201_Seneca_College\P\59-4
+"Seneca College"	"has"	"more than 70 transfer agreements with universities"	59	query201_Seneca_College\P\59-5
+These agreements allow students to apply their college education to obtain credit towards a university degree . 	60	query201_Seneca_College\S\60
+"These agreements"	"allow"	"students to apply their college education to obtain credit towards a university degree"	60	query201_Seneca_College\P\60-0
+"These agreements"	"allow"	"students to apply their college education to obtain credit"	60	query201_Seneca_College\P\60-1
+"These agreements"	"allow"	"students to apply their college education to obtain credit"	60	query201_Seneca_College\P\60-2
+Applied Arts &amp; Health Sciences Applied Science &amp; Engineering Technology Business Communication , Art &amp; Design International Studies Liberal Arts Continuing Education and Training Workforce Skills Development The Seneca Libraries provide students , faculty and staff with resources and services both online and on-site to enhance academic pursuits . 	61	query201_Seneca_College\S\61
+"The Seneca Libraries"	"provide"	"students with resources online to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-0
+"The Seneca Libraries"	"provide"	"students with services online to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-1
+"The Seneca Libraries"	"provide"	"students with services on-site to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-2
+"The Seneca Libraries"	"provide"	"students with resources on-site to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-3
+"The Seneca Libraries"	"provide"	"faculty with resources online to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-4
+"The Seneca Libraries"	"provide"	"faculty with services online to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-5
+"The Seneca Libraries"	"provide"	"faculty with services on-site to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-6
+"The Seneca Libraries"	"provide"	"faculty with resources on-site to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-7
+"The Seneca Libraries"	"provide"	"staff with resources online to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-8
+"The Seneca Libraries"	"provide"	"staff with services online to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-9
+"The Seneca Libraries"	"provide"	"staff with services on-site to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-10
+"The Seneca Libraries"	"provide"	"staff with resources on-site to enhance academic pursuits Training Workforce Skills Development"	61	query201_Seneca_College\P\61-11
+"The Seneca Libraries"	"provide"	"students Training Workforce Skills Development"	61	query201_Seneca_College\P\61-12
+"The Seneca Libraries"	"provide"	"faculty Training Workforce Skills Development"	61	query201_Seneca_College\P\61-13
+"The Seneca Libraries"	"provide"	"staff Training Workforce Skills Development"	61	query201_Seneca_College\P\61-14
+"The Seneca Libraries"	"provide"	"staff Training Workforce Skills Development"	61	query201_Seneca_College\P\61-15
+"The Seneca Libraries"	"provide"	"staff Training Workforce Skills Development"	61	query201_Seneca_College\P\61-16
+The libraries offer print , audio visual and electronic resources including books , magazines , journals , videos , dvds , slides , recordings and a variety of topical databases . 	62	query201_Seneca_College\S\62
+"The libraries"	"offer"	"print resources including books"	62	query201_Seneca_College\P\62-0
+"The libraries"	"offer"	"audio visual resources including books magazines journals videos dvds slides recordings and a variety of topical databases"	62	query201_Seneca_College\P\62-1
+"The libraries"	"offer"	"electronic resources including books magazines journals videos dvds slides recordings and a variety of topical databases"	62	query201_Seneca_College\P\62-2
+"The libraries"	"offer"	"print resources including magazines"	62	query201_Seneca_College\P\62-3
+"The libraries"	"offer"	"print resources including journals"	62	query201_Seneca_College\P\62-4
+"The libraries"	"offer"	"print resources including videos"	62	query201_Seneca_College\P\62-5
+"The libraries"	"offer"	"print resources including dvds"	62	query201_Seneca_College\P\62-6
+"The libraries"	"offer"	"print resources including slides"	62	query201_Seneca_College\P\62-7
+"The libraries"	"offer"	"print resources including recordings"	62	query201_Seneca_College\P\62-8
+"The libraries"	"offer"	"print resources including a variety of topical databases"	62	query201_Seneca_College\P\62-9
+Services include research support , library instruction and a large circulating collection . 	63	query201_Seneca_College\S\63
+"Services"	"include"	"research support"	63	query201_Seneca_College\P\63-0
+"Services"	"include"	"research library instruction"	63	query201_Seneca_College\P\63-1
+"Services"	"include"	"research a large circulating collection"	63	query201_Seneca_College\P\63-2
+The libraries provide online help through e-mail and the live reference chat service , “AskON" . 	64	query201_Seneca_College\S\64
+"The libraries"	"provide"	"online help through e-mail"	64	query201_Seneca_College\P\64-0
+"The libraries"	"provide"	"online help"	64	query201_Seneca_College\P\64-1
+"The libraries"	"the live reference chat service"	"online help through e-mail"	64	query201_Seneca_College\P\64-2
+"The libraries"	"the live reference chat service"	"online help"	64	query201_Seneca_College\P\64-3
+As well , the hosts comprehensive research guides tailored to program specific offerings which supports the learning experience . 	65	query201_Seneca_College\S\65
+"comprehensive research guides"	"be tailored"	"to program specific offerings"	65	query201_Seneca_College\P\65-0
+"program specific offerings"	"supports"	"the learning experience"	65	query201_Seneca_College\P\65-1
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Through the Audio-Visual department they offer a centralized media collection and equipment for class presentations and assignments to all faculty , staff and students . 	66	query201_Seneca_College\S\66
+Their state of the art facilities , located at Newnham , York University , Markham and King campuses offers student spaces for group and individual study , audio visual screening classrooms and electronic training centers . 	67	query201_Seneca_College\S\67
+Their state of the art facilities , located at Newnham , York University , Markham and King campuses offers student spaces for group and individual study , audio visual screening classrooms and electronic training centers . 	67	query201_Seneca_College\S\67
+Their state of the art facilities , located at Newnham , York University , Markham and King campuses offers student spaces for group and individual study , audio visual screening classrooms and electronic training centers . 	67	query201_Seneca_College\S\67
+Their state of the art facilities , located at Newnham , York University , Markham and King campuses offers student spaces for group and individual study , audio visual screening classrooms and electronic training centers . 	67	query201_Seneca_College\S\67
+Their state of the art facilities , located at Newnham , York University , Markham and King campuses offers student spaces for group and individual study , audio visual screening classrooms and electronic training centers . 	67	query201_Seneca_College\S\67
+"Their state of the art facilities located at Newnham"	"offers"	"student spaces for group study audio visual screening classrooms"	67	query201_Seneca_College\P\67-0
+"Their state of the art facilities located at Newnham"	"offers"	"student spaces for group study audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-1
+"Their state of the art facilities located at Newnham"	"offers"	"student spaces for individual study audio visual screening classrooms"	67	query201_Seneca_College\P\67-2
+"Their state of the art facilities located at Newnham"	"offers"	"student spaces for individual study audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-3
+"Their state of the art facilities located at York University"	"offers"	"student spaces for group study audio visual screening classrooms"	67	query201_Seneca_College\P\67-4
+"Their state of the art facilities located at York University"	"offers"	"student spaces for group study audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-5
+"Their state of the art facilities located at York University"	"offers"	"student spaces for individual study audio visual screening classrooms"	67	query201_Seneca_College\P\67-6
+"Their state of the art facilities located at York University"	"offers"	"student spaces for individual study audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-7
+"Their state of the art facilities located at Markham"	"offers"	"student spaces for group study audio visual screening classrooms"	67	query201_Seneca_College\P\67-8
+"Their state of the art facilities located at Markham"	"offers"	"student spaces for group study audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-9
+"Their state of the art facilities located at Markham"	"offers"	"student spaces for individual study audio visual screening classrooms"	67	query201_Seneca_College\P\67-10
+"Their state of the art facilities located at Markham"	"offers"	"student spaces for individual study audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-11
+"Their state of the art facilities located at King campuses"	"offers"	"student spaces for group study audio visual screening classrooms"	67	query201_Seneca_College\P\67-12
+"Their state of the art facilities located at King campuses"	"offers"	"student spaces for group study audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-13
+"Their state of the art facilities located at King campuses"	"offers"	"student spaces for individual study audio visual screening classrooms"	67	query201_Seneca_College\P\67-14
+"Their state of the art facilities located at King campuses"	"offers"	"student spaces for individual study audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-15
+"Their state of the art facilities located at Newnham"	"offers"	"student spaces audio visual screening classrooms"	67	query201_Seneca_College\P\67-16
+"Their state of the art facilities located at Newnham"	"offers"	"student spaces audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-17
+"Their state of the art facilities located at York University"	"offers"	"student spaces audio visual screening classrooms"	67	query201_Seneca_College\P\67-18
+"Their state of the art facilities located at York University"	"offers"	"student spaces audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-19
+"Their state of the art facilities located at Markham"	"offers"	"student spaces audio visual screening classrooms"	67	query201_Seneca_College\P\67-20
+"Their state of the art facilities located at Markham"	"offers"	"student spaces audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-21
+"Their state of the art facilities located at King campuses"	"offers"	"student spaces audio visual screening classrooms"	67	query201_Seneca_College\P\67-22
+"Their state of the art facilities located at King campuses"	"offers"	"student spaces audio visual screening electronic training centers"	67	query201_Seneca_College\P\67-23
+They provide a large number of workstations equipped with instructional software and information resources tailored to course requirements . 	68	query201_Seneca_College\S\68
+They provide a large number of workstations equipped with instructional software and information resources tailored to course requirements . 	68	query201_Seneca_College\S\68
+They provide a large number of workstations equipped with instructional software and information resources tailored to course requirements . 	68	query201_Seneca_College\S\68
+They provide a large number of workstations equipped with instructional software and information resources tailored to course requirements . 	68	query201_Seneca_College\S\68
+They provide a large number of workstations equipped with instructional software and information resources tailored to course requirements . 	68	query201_Seneca_College\S\68
+"instructional software"	"be tailored"	"to course requirements"	68	query201_Seneca_College\P\68-0
+"instructional information resources"	"be tailored"	"to course requirements"	68	query201_Seneca_College\P\68-1
+The Seneca Student Federation , campus clubs , and athletics offer the chance to get involved in the wider community . 	69	query201_Seneca_College\S\69
+"The Seneca Student Federation"	"offer"	"the chance to get involved in the wider community 69"	69	query201_Seneca_College\P\69-0
+"The Seneca Student campus clubs"	"offer"	"the chance to get involved in the wider community 69"	69	query201_Seneca_College\P\69-1
+"The Seneca Student athletics"	"offer"	"the chance to get involved in the wider community 69"	69	query201_Seneca_College\P\69-2
+"the chance"	"be involved"	"in the wider community"	69	query201_Seneca_College\P\69-3
+Energetic and active students take on the task of representing their peers in the SSF. 	70	query201_Seneca_College\S\70
+"Energetic students"	"take"	"on the task of representing their peers in the SSF"	70	query201_Seneca_College\P\70-0
+"active students"	"take"	"on the task of representing their peers in the SSF"	70	query201_Seneca_College\P\70-1
+"active students"	"take"	"on the task of representing their peers in the SSF"	70	query201_Seneca_College\P\70-2
+Plan and promote events , participate in campus culture days , join a club for interest , or go on trips for professional development . 	71	query201_Seneca_College\S\71
+Whether for fun or competition , the championship teams at Seneca are always eager for great athletes . 	72	query201_Seneca_College\S\72
+"the championship teams at Seneca"	"are eager"	"for fun"	72	query201_Seneca_College\P\72-0
+"the championship teams at Seneca"	"are eager"	"for competition"	72	query201_Seneca_College\P\72-1
+"the championship teams at Seneca"	"are eager"	"always"	72	query201_Seneca_College\P\72-2
+"the championship teams at Seneca"	"are eager"	"for great athletes"	72	query201_Seneca_College\P\72-3
+"the championship teams at Seneca"	"are"	"eager"	72	query201_Seneca_College\P\72-4
+Seneca ’s student government and councils play an active role in student life , by offering programs &amp; events along with running the campus pub and in-house radio station . 	73	query201_Seneca_College\S\73
+Seneca ’s student government and councils play an active role in student life , by offering programs &amp; events along with running the campus pub and in-house radio station . 	73	query201_Seneca_College\S\73
+"Seneca 's student government"	"play"	"an active role in student life"	73	query201_Seneca_College\P\73-0
+"Seneca 's student councils"	"play"	"an active role in student life"	73	query201_Seneca_College\P\73-1
+"Seneca 's student government"	"play"	"an active role by offering programs & events along with running the campus pub"	73	query201_Seneca_College\P\73-2
+"Seneca 's student government"	"play"	"an active role by offering programs & events along with running the campus in-house radio station"	73	query201_Seneca_College\P\73-3
+"Seneca 's student councils"	"play"	"an active role by offering programs & events along with running the campus pub"	73	query201_Seneca_College\P\73-4
+"Seneca 's student councils"	"play"	"an active role by offering programs & events along with running the campus in-house radio station"	73	query201_Seneca_College\P\73-5
+"Seneca 's student government"	"play"	"an active role"	73	query201_Seneca_College\P\73-6
+"Seneca 's student councils"	"play"	"an active role"	73	query201_Seneca_College\P\73-7
+Get involved , get engaged , get excited and explore student life at Seneca . 	74	query201_Seneca_College\S\74
+Seneca College currently offers residence at both the Newnham Campus and the King Campus . 	75	query201_Seneca_College\S\75
+"Seneca College"	"offers"	"residence currently"	75	query201_Seneca_College\P\75-0
+"Seneca College"	"offers"	"residence at the Newnham Campus"	75	query201_Seneca_College\P\75-1
+"Seneca College"	"offers"	"residence at the Newnham the King Campus"	75	query201_Seneca_College\P\75-2
+"Seneca College"	"offers"	"residence"	75	query201_Seneca_College\P\75-3
+Seneca residences are composed of suite-style units containing two bedrooms , a bathroom and kitchenette . 	76	query201_Seneca_College\S\76
+"Seneca residences"	"are composed"	"of suite-style units containing two bedrooms"	76	query201_Seneca_College\P\76-0
+"suite-style units"	"be containing"	"two bedrooms"	76	query201_Seneca_College\P\76-1
+"two bedrooms"	"is"	"a bathroom"	76	query201_Seneca_College\P\76-2
+"two bedrooms"	"is"	"a kitchenette"	76	query201_Seneca_College\P\76-3
+Each bedroom contains a double bed , desk , chair , closet and dresser space , as well as cable TV , internet access and phone . 	77	query201_Seneca_College\S\77
+"Each bedroom"	"contains"	"a double bed"	77	query201_Seneca_College\P\77-0
+"Each bedroom"	"contains"	"a double desk"	77	query201_Seneca_College\P\77-1
+"Each bedroom"	"contains"	"a double chair"	77	query201_Seneca_College\P\77-2
+"Each bedroom"	"contains"	"a double closet"	77	query201_Seneca_College\P\77-3
+"Each bedroom"	"contains"	"a double dresser space"	77	query201_Seneca_College\P\77-4
+"Each bedroom"	"cable TV"	"a double bed"	77	query201_Seneca_College\P\77-5
+"Each bedroom"	"cable TV"	"a double desk"	77	query201_Seneca_College\P\77-6
+"Each bedroom"	"cable TV"	"a double chair"	77	query201_Seneca_College\P\77-7
+"Each bedroom"	"cable TV"	"a double closet"	77	query201_Seneca_College\P\77-8
+"Each bedroom"	"cable TV"	"a double dresser space"	77	query201_Seneca_College\P\77-9
+"Each bedroom"	"cable internet access"	"a double bed"	77	query201_Seneca_College\P\77-10
+"Each bedroom"	"cable internet access"	"a double desk"	77	query201_Seneca_College\P\77-11
+"Each bedroom"	"cable internet access"	"a double chair"	77	query201_Seneca_College\P\77-12
+"Each bedroom"	"cable internet access"	"a double closet"	77	query201_Seneca_College\P\77-13
+"Each bedroom"	"cable internet access"	"a double dresser space"	77	query201_Seneca_College\P\77-14
+"Each bedroom"	"cable phone"	"a double bed"	77	query201_Seneca_College\P\77-15
+"Each bedroom"	"cable phone"	"a double desk"	77	query201_Seneca_College\P\77-16
+"Each bedroom"	"cable phone"	"a double chair"	77	query201_Seneca_College\P\77-17
+"Each bedroom"	"cable phone"	"a double closet"	77	query201_Seneca_College\P\77-18
+"Each bedroom"	"cable phone"	"a double dresser space"	77	query201_Seneca_College\P\77-19
+Students also have access to a common kitchen , laundry rooms , lounge areas , games room and a convenience store . 	78	query201_Seneca_College\S\78
+"Students"	"have"	"access to a common kitchen also"	78	query201_Seneca_College\P\78-0
+"Students"	"have"	"access to a common laundry rooms also"	78	query201_Seneca_College\P\78-1
+"Students"	"have"	"access to a common lounge areas also"	78	query201_Seneca_College\P\78-2
+"Students"	"have"	"access to a common games room also"	78	query201_Seneca_College\P\78-3
+"Students"	"have"	"access to a common a convenience store also"	78	query201_Seneca_College\P\78-4
+"Students"	"have"	"access to a common kitchen"	78	query201_Seneca_College\P\78-5
+"Students"	"have"	"access to a common laundry rooms"	78	query201_Seneca_College\P\78-6
+"Students"	"have"	"access to a common lounge areas"	78	query201_Seneca_College\P\78-7
+"Students"	"have"	"access to a common games room"	78	query201_Seneca_College\P\78-8
+"Students"	"have"	"access to a common a convenience store"	78	query201_Seneca_College\P\78-9
+Buildings have a front desk and 24-hour video monitoring , and are accessed by swipe card . 	79	query201_Seneca_College\S\79
+"Buildings"	"have"	"a front desk"	79	query201_Seneca_College\P\79-0
+"Buildings"	"have"	"a front 24-hour video monitoring"	79	query201_Seneca_College\P\79-1
+"Buildings"	"are accessed"	"a front desk by swipe card"	79	query201_Seneca_College\P\79-2
+"Buildings"	"are accessed"	"a front 24-hour video monitoring by swipe card"	79	query201_Seneca_College\P\79-3
+"Buildings"	"are accessed"	"a front desk"	79	query201_Seneca_College\P\79-4
+"Buildings"	"are accessed"	"a front 24-hour video monitoring"	79	query201_Seneca_College\P\79-5
+The Newnham Campus residence holds 1,113 students while the King Campus only holds 233 students . 	80	query201_Seneca_College\S\80
+"The Newnham Campus residence"	"holds"	"1,113 students while the King Campus only holds 233 students"	80	query201_Seneca_College\P\80-0
+"The Newnham Campus residence"	"holds"	"1,113 students"	80	query201_Seneca_College\P\80-1
+"the King Campus"	"holds"	"233 students only"	80	query201_Seneca_College\P\80-2
+"the King Campus"	"holds"	"233 students"	80	query201_Seneca_College\P\80-3
+Residents of the Newnham Campus Residence have the pleasure of a dining hall , a convenience store and a subway restaurant all within the residence .Seneca 	81	query201_Seneca_College\S\81
+College Residence have organized a free shuttle service from the Newnham Campus to Markham , Seneca@York and King Campuses . 	82	query201_Seneca_College\S\82
+"College Residence"	"have organized"	"a free shuttle service from the Newnham Campus to Markham"	82	query201_Seneca_College\P\82-0
+"College Residence"	"have organized"	"a free shuttle service from the Newnham Campus to Seneca@York"	82	query201_Seneca_College\P\82-1
+"College Residence"	"have organized"	"a free shuttle service from the Newnham Campus to King Campuses"	82	query201_Seneca_College\P\82-2
+"College Residence"	"have organized"	"a free shuttle service from the Newnham Campus"	82	query201_Seneca_College\P\82-3
+The school 's athletic teams are named " The Sting" . 	83	query201_Seneca_College\S\83
+"The school"	"has"	"83 athletic teams"	83	query201_Seneca_College\P\83-0
+The Seneca Sting is one of the most-decorated athletic program in the history of the Ontario Colleges Athletic Association ( OCAA ) having won more than 450 medals since 1967 . 	84	query201_Seneca_College\S\84
+"The Seneca Sting"	"is one"	"of the most-decorated athletic program in the history of the Ontario Colleges Athletic Association having won more than 450 medals"	84	query201_Seneca_College\P\84-0
+"The Seneca Sting"	"is one"	"since 1967"	84	query201_Seneca_College\P\84-1
+"The Seneca Sting"	"is"	"one"	84	query201_Seneca_College\P\84-2
+"the most-decorated athletic program in the history of the Ontario Colleges Athletic Association"	"be won"	"more than 450 medals"	84	query201_Seneca_College\P\84-3
+"the Ontario Colleges Athletic Association"	"is"	"OCAA"	84	query201_Seneca_College\P\84-4
+Seneca has fifteen varsity sports teams , including Badminton , Basketball , Cross Country , Curling , Fastball , Golf , Rugby , Skiing , Soccer , and Volleyball , for both male and female student-athletes . 	85	query201_Seneca_College\S\85
+"Seneca"	"has"	"fifteen varsity sports teams including Badminton for male student-athletes"	85	query201_Seneca_College\P\85-0
+"Seneca"	"has"	"fifteen varsity sports teams including Basketball for both male and female student-athletes"	85	query201_Seneca_College\P\85-1
+"Seneca"	"has"	"fifteen varsity sports teams including Cross Country for both male and female student-athletes"	85	query201_Seneca_College\P\85-2
+"Seneca"	"has"	"fifteen varsity sports teams including Curling for both male and female student-athletes"	85	query201_Seneca_College\P\85-3
+"Seneca"	"has"	"fifteen varsity sports teams including Fastball for both male and female student-athletes"	85	query201_Seneca_College\P\85-4
+"Seneca"	"has"	"fifteen varsity sports teams including Golf for both male and female student-athletes"	85	query201_Seneca_College\P\85-5
+"Seneca"	"has"	"fifteen varsity sports teams including Rugby for both male and female student-athletes"	85	query201_Seneca_College\P\85-6
+"Seneca"	"has"	"fifteen varsity sports teams including Skiing for both male and female student-athletes"	85	query201_Seneca_College\P\85-7
+"Seneca"	"has"	"fifteen varsity sports teams including Soccer for both male and female student-athletes"	85	query201_Seneca_College\P\85-8
+"Seneca"	"has"	"fifteen varsity sports teams including Volleyball for both male and female student-athletes"	85	query201_Seneca_College\P\85-9
+"Seneca"	"has"	"fifteen varsity sports teams including Badminton for female student-athletes"	85	query201_Seneca_College\P\85-10
+The Seneca Sports center located at the Newnham Campus includes a full ice arena , a triple gymnasium , 6 tennis courts , a softball diamond , 2 beach volleyball courts , a soccer field , a fitness center along with a dance studio . 	86	query201_Seneca_College\S\86
+"The Seneca Sports center located at the Newnham Campus"	"includes"	"a full ice arena"	86	query201_Seneca_College\P\86-0
+"a full ice arena"	"is"	"2 beach volleyball courts"	86	query201_Seneca_College\P\86-1
+"a full ice arena"	"is"	"a soccer field"	86	query201_Seneca_College\P\86-2
+"a full ice arena"	"is"	"a fitness center along with a dance studio"	86	query201_Seneca_College\P\86-3
+"a full ice arena"	"is"	"a triple gymnasium"	86	query201_Seneca_College\P\86-4
+"a full ice arena"	"is"	"6 tennis courts"	86	query201_Seneca_College\P\86-5
+"a full ice arena"	"is"	"a softball diamond"	86	query201_Seneca_College\P\86-6
+Seneca College also offers various fields , gymnasiums and equipment at different campuses . 	87	query201_Seneca_College\S\87
+"Seneca College"	"offers"	"various fields also"	87	query201_Seneca_College\P\87-0
+"Seneca College"	"offers"	"various gymnasiums also"	87	query201_Seneca_College\P\87-1
+"Seneca College"	"offers"	"various equipment also"	87	query201_Seneca_College\P\87-2
+"Seneca College"	"offers"	"various fields at different campuses"	87	query201_Seneca_College\P\87-3
+"Seneca College"	"offers"	"various gymnasiums at different campuses"	87	query201_Seneca_College\P\87-4
+"Seneca College"	"offers"	"various equipment at different campuses"	87	query201_Seneca_College\P\87-5
+"Seneca College"	"offers"	"various fields"	87	query201_Seneca_College\P\87-6
+"Seneca College"	"offers"	"various gymnasiums"	87	query201_Seneca_College\P\87-7
+"Seneca College"	"offers"	"various equipment"	87	query201_Seneca_College\P\87-8
+The Elite 1 Professional Development League , plays at the Newnham Campus Gym . 	88	query201_Seneca_College\S\88
+"The Elite 1 Professional Development League"	"plays"	"at the Newnham Campus Gym"	88	query201_Seneca_College\P\88-0
+Elite 1 is a league created to further the development of Canadian basketball players , while making itself inclusive to professionals from other countries . 	89	query201_Seneca_College\S\89
+"Elite 1"	"is a league"	"created to further the development of Canadian basketball players"	89	query201_Seneca_College\P\89-0
+"Elite 1"	"is a league"	"while making itself inclusive to professionals from other countries"	89	query201_Seneca_College\P\89-1
+"Elite 1"	"is"	"a league"	89	query201_Seneca_College\P\89-2
+"a league while making itself inclusive to professionals from other countries"	"be created"	"to further the development of Canadian basketball players"	89	query201_Seneca_College\P\89-3
+"a league while making itself inclusive to professionals from other countries"	"be created"	"to further the development of Canadian basketball players"	89	query201_Seneca_College\P\89-4
+August 2011 http ://www.phase1basketball.com/node/264 	90	query201_Seneca_College\S\90
+August 2011 The College joined Project Hero , a scholarship program cofounded by General ( Ret 'd ) Rick Hillier , for the families of fallen Canadian Forces members . 	91	query201_Seneca_College\S\91
+"The College"	"joined"	"Project Hero 91 a scholarship program cofounded by General Ret 'd Rick Hillier for the families of fallen Canadian Forces members August 2011"	91	query201_Seneca_College\P\91-0
+"The College"	"joined"	"Project Hero 91 a scholarship program cofounded by General Ret 'd Rick Hillier for the families of fallen Canadian Forces members"	91	query201_Seneca_College\P\91-1
+"a scholarship program Ret 'd Rick Hillier for the families of fallen Canadian Forces members"	"be cofounded"	"by General"	91	query201_Seneca_College\P\91-2
+Seneca College c Category : Universities and colleges in Toronto Category :Nursing schools in Canada Category :Educational institutions established in 1967 Category :Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English and Liberal Studies Health Sciences Public Safety and Police Studies Recreation Underwater Skills Animation and Visual Effects Agilent Technologies Institute Aviation and Flight Technology Biological Sciences &amp; Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information and Communications Technology English and Liberal Studies Fire Protection York / Seneca Institute for Mathematics , Science , and Technology Education Accounting &amp; Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media &amp; Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients Vivienne Poy - fashion designer and Canadian Senator Beverly Thomson - host of Canada AM Alvin Curling - Canadian diplomat and former Liberal MPP Alan Frew - singer ; lead singer of Glass Tiger Chuck ( Spider ) Jones - broadcaster Mark Penney - film director Roger Petersen - broadcaster Rick Ralph - broadcaster FAN 590 Jully Black - Singer / Songwriter Bill Welychka - former MuchMusic and MuchMoreMusic personality , now weather anchor Danielle McGimsie - Television personality , eTalk . 	92	query201_Seneca_College\S\92
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services Centre for Human Resources English at Seneca Academic for Internationally Trained Persons Career Change College Preparation for Adults Employment Training for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-0
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Liberal Studies Health Sciences Public Safety Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-1
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Liberal Studies Health Sciences Public Safety Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Communications Technology English Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-2
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Liberal Studies Health Sciences Public Safety Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Liberal Studies Fire Protection York Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-3
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Studies Health Sciences Public Safety Police Studies Recreation Underwater Skills Animation Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-4
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Studies Health Sciences Public Safety Police Studies Recreation Underwater Skills Animation Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Communications Technology English Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-5
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Studies Health Sciences Public Safety Police Studies Recreation Underwater Skills Animation Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Liberal Studies Fire Protection York Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-6
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Studies Health Sciences Public Safety Visual Effects Agilent Technologies Institute Aviation Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-7
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Studies Health Sciences Public Safety Visual Effects Agilent Technologies Institute Aviation Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Communications Technology English Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-8
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Studies Health Sciences Public Safety Visual Effects Agilent Technologies Institute Aviation Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Liberal Studies Fire Protection York Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-9
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Studies Health Sciences Public Safety Flight Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-10
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Studies Health Sciences Public Safety Flight Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Communications Technology English Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-11
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education Studies Health Sciences Public Safety Flight Technology Biological Sciences for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Liberal Studies Fire Protection York Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-12
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Communications Technology English Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-13
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Liberal Studies Fire Protection York Seneca Institute for Mathematics Science and Technology Education Accounting & Financial Services Business Management Centre for Financial Services Centre for Human Resources English and Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-14
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Science for Financial Services Centre for Human Resources English at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-15
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Science for Financial Services Centre for Human Resources Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-16
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Science for Financial Services for Human Resources English Public Administration/Office Administration Creative Arts & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-17
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Science for Financial Services for Human Resources English Public Administration/Office Administration Creative Animation English at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-18
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Science for Financial Services for Human Resources English Public Administration/Office Administration Creative Liberal Studies Fashion Media at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-19
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Technology Education Accounting for Financial Services Centre for Human Resources English at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-20
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Technology Education Accounting for Financial Services Centre for Human Resources Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-21
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Technology Education Accounting for Financial Services for Human Resources English Public Administration/Office Administration Creative Arts & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-22
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Technology Education Accounting for Financial Services for Human Resources English Public Administration/Office Administration Creative Animation English at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-23
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Technology Education Accounting for Financial Services for Human Resources English Public Administration/Office Administration Creative Liberal Studies Fashion Media at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-24
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services Centre for Human Resources Liberal Studies Legal and Public Administration/Office Administration Creative Arts and Animation English and Liberal Studies Fashion Media & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-25
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services for Human Resources English Public Administration/Office Administration Creative Arts & Marketing International Business English Language Institute Tourism Liberal Arts Programs Part-time programs at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-26
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services for Human Resources English Public Administration/Office Administration Creative Animation English at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-27
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services for Human Resources English Public Administration/Office Administration Creative Liberal Studies Fashion Media at Seneca Academic and Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-28
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services Centre for Human Resources English at Seneca Career Entrance Business Office Skills Career Programs for Internationally Trained Persons Career Change College Preparation for Adults Employment Training and Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-29
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services Centre for Human Resources English at Seneca Academic for Internationally Trained Persons Career Change College Preparation for Adults Employment Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-30
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services Centre for Human Resources English at Seneca Academic for Internationally Trained Persons Career Change College Preparation for Adults Employment Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-31
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services Centre for Human Resources English at Seneca Academic for Internationally Trained Persons Career Change College Preparation for Adults Employment Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-32
+"Educational institutions Animation schools * EA1717 000000 Animal Health Community Services Early Childhood Education English Studies Health Sciences Public Safety Technology Biological Sciences & Applied Chemistry Centre for Advanced Technologies Centre for the Built Environment Civil Engineering Technology Information Seneca Institute for Mathematics & Financial Services Business Management Centre for Financial Services Centre for Human Resources English at Seneca Academic for Internationally Trained Persons Career Change College Preparation for Adults Employment Business Services Services for Skilled Immigrants Workforce Re-entry Programs for Employment Ontario Clients"	"be established"	"in 1967 Category"	92	query201_Seneca_College\P\92-33
+"Glass Tiger Chuck Jones broadcaster Mark Penney"	"is"	"Spider"	92	query201_Seneca_College\P\92-34
+"Jones broadcaster Mark Penney"	"is"	"film director Roger Petersen broadcaster Rick Ralph broadcaster FAN"	92	query201_Seneca_College\P\92-35
+"Jully Black Singer Songwriter Bill Welychka former MuchMusic"	"weather"	"anchor Danielle McGimsie Television personality broadcaster FAN now"	590	query201_Seneca_College\P\92-36
+"Jully Black Singer Songwriter Bill Welychka former MuchMoreMusic personality"	"weather"	"anchor Danielle McGimsie Television personality broadcaster FAN now"	590	query201_Seneca_College\P\92-37
+"Jully Black Singer Songwriter Bill Welychka former MuchMusic"	"weather"	"anchor Danielle McGimsie Television personality broadcaster FAN"	590	query201_Seneca_College\P\92-38
+"Jully Black Singer Songwriter Bill Welychka former MuchMoreMusic personality"	"weather"	"anchor Danielle McGimsie Television personality broadcaster FAN"	590	query201_Seneca_College\P\92-39
+"Television personality"	"is"	"eTalk"	590	query201_Seneca_College\P\92-40
+Camilla Di Giuseppe - Television reporter , CTV Calgary Bill Davis - Bachelor of Applied Studies 2006 Jim Balsillie - Bachelor of Applied Studies 2007 Russell Bannock - Bachelor of Applied Studies 2007 The Honorable Margaret McCain - Bachelor of Applied Studies 2007 The Honorable David Crombie - Bachelor of Applied Studies 2008 Mike Shaver - Bachelor of Applied Studies 2008 Michael " Pinball " Clemons - Bachelor of Applied Studies 2008 David Pecaut - Bachelor of Applied Studies 2008 Sonja Bata - Bachelor of Applied Studies 2009 George Roter - Bachelor of Applied Studies 2009 Parker Mitchell - Bachelor of Applied Studies 2009 Craig Kielburger and Marc Kielburger - Bachelor of Applied Studies 2009 Frances Lankin - Bachelor of Applied Studies 2010 Armand La Barge - Bachelor of Applied Studies 2010 Nanda Lwin , music historian and professor of engineering technology Yorkdale Campus located on ( 2999 ) Dufferin Street south of Lawrence Avenue West in North York was home to the Travel and Tourism program from the 1980s to 2000 . 	93	query201_Seneca_College\S\93
+"Television reporter Bachelor of Applied Studies"	"is"	"CTV Calgary Bill Davis"	93	query201_Seneca_College\P\93-0
+"Applied Studies"	"is"	"2006 Jim Balsillie Bachelor of Applied Studies 2007 Russell Bannock Bachelor of Applied Studies 2007 The Honorable Margaret McCain Bachelor of Applied Studies 2007 The Honorable David Crombie Bachelor of Applied Studies 2008 Mike Shaver Bachelor of Applied Studies 2008 Michael Pinball Clemons Bachelor of Applied Studies 2008 David Pecaut Bachelor of Applied Studies 2008 Sonja Bata Bachelor of Applied Studies 2009 George Roter Bachelor of Applied Studies 2009 Parker Mitchell Bachelor of Applied Studies 2009 Craig Kielburger Bachelor of Applied Studies 2009 Frances Lankin Bachelor of Applied Studies 2010 Armand La Barge Bachelor of Applied Studies 2010 Nanda Lwin"	93	query201_Seneca_College\P\93-1
+"Applied Studies"	"is"	"2006 Jim Balsillie Bachelor of Applied Studies 2007 Russell Bannock Bachelor of Applied Studies 2007 The Honorable Margaret McCain Bachelor of Applied Studies 2007 The Honorable David Crombie Bachelor of Applied Studies 2008 Mike Shaver Bachelor of Applied Studies 2008 Michael Pinball Clemons Bachelor of Applied Studies 2008 David Pecaut Bachelor of Applied Studies 2008 Sonja Bata Bachelor of Applied Studies 2009 George Roter Bachelor of Applied Studies 2009 Parker Mitchell Bachelor of Applied Studies 2009 Craig Marc Kielburger Bachelor of Applied Studies 2009 Frances Lankin Bachelor of Applied Studies 2010 Armand La Barge Bachelor of Applied Studies 2010 Nanda Lwin"	93	query201_Seneca_College\P\93-2
+"Applied Studies"	"is"	"2006 Jim Balsillie Bachelor of Applied Studies 2007 Russell Bannock Bachelor of Applied Studies 2007 The Honorable Margaret McCain Bachelor of Applied Studies 2007 The Honorable David Crombie Bachelor of Applied Studies 2008 Mike Shaver Bachelor of Applied Studies 2008 Michael Pinball Clemons Bachelor of Applied Studies 2008 David Pecaut Bachelor of Applied Studies 2008 Sonja Bata Bachelor of Applied Studies 2009 George Roter Bachelor of Applied Studies 2009 Parker Mitchell Bachelor of Applied Studies 2009 Craig Marc Kielburger Bachelor of Applied Studies 2009 Frances Lankin Bachelor of Applied Studies 2010 Armand La Barge Bachelor of Applied Studies 2010 Nanda music historian"	93	query201_Seneca_College\P\93-3
+"Applied Studies"	"is"	"2006 Jim Balsillie Bachelor of Applied Studies 2007 Russell Bannock Bachelor of Applied Studies 2007 The Honorable Margaret McCain Bachelor of Applied Studies 2007 The Honorable David Crombie Bachelor of Applied Studies 2008 Mike Shaver Bachelor of Applied Studies 2008 Michael Pinball Clemons Bachelor of Applied Studies 2008 David Pecaut Bachelor of Applied Studies 2008 Sonja Bata Bachelor of Applied Studies 2009 George Roter Bachelor of Applied Studies 2009 Parker Mitchell Bachelor of Applied Studies 2009 Craig Marc Kielburger Bachelor of Applied Studies 2009 Frances Lankin Bachelor of Applied Studies 2010 Armand La Barge Bachelor of Applied Studies 2010 Nanda professor of engineering technology Yorkdale Campus located on 2999 Dufferin Street south of Lawrence Avenue West in North York was home to the Travel from the 1980s to 2000"	93	query201_Seneca_College\P\93-4
+"Applied Studies"	"is"	"2006 Jim Balsillie Bachelor of Applied Studies 2007 Russell Bannock Bachelor of Applied Studies 2007 The Honorable Margaret McCain Bachelor of Applied Studies 2007 The Honorable David Crombie Bachelor of Applied Studies 2008 Mike Shaver Bachelor of Applied Studies 2008 Michael Pinball Clemons Bachelor of Applied Studies 2008 David Pecaut Bachelor of Applied Studies 2008 Sonja Bata Bachelor of Applied Studies 2009 George Roter Bachelor of Applied Studies 2009 Parker Mitchell Bachelor of Applied Studies 2009 Craig Marc Kielburger Bachelor of Applied Studies 2009 Frances Lankin Bachelor of Applied Studies 2010 Armand La Barge Bachelor of Applied Studies 2010 Nanda professor of engineering technology Yorkdale Campus located on 2999 Dufferin Street south of Lawrence Avenue West in North York was home to the Tourism program from the 1980s to 2000"	93	query201_Seneca_College\P\93-5
+"Applied Studies"	"is"	"2006 Jim Balsillie Bachelor of Applied Studies 2007 Russell Bannock Bachelor of Applied Studies 2007 The Honorable Margaret McCain Bachelor of Applied Studies 2007 The Honorable David Crombie Bachelor of Applied Studies 2008 Mike Shaver Bachelor of Applied Studies 2008 Michael Pinball Clemons Bachelor of Applied Studies 2008 David Pecaut Bachelor of Applied Studies 2008 Sonja Bata Bachelor of Applied Studies 2009 George Roter Bachelor of Applied Studies 2009 Parker Mitchell Bachelor of Applied Studies 2009 Craig Kielburger Bachelor of Applied Studies 2009 Frances Lankin Bachelor of Applied Studies 2010 Armand La Barge Bachelor of Applied Studies 2010 Nanda music historian"	93	query201_Seneca_College\P\93-6
+"Applied Studies"	"is"	"2006 Jim Balsillie Bachelor of Applied Studies 2007 Russell Bannock Bachelor of Applied Studies 2007 The Honorable Margaret McCain Bachelor of Applied Studies 2007 The Honorable David Crombie Bachelor of Applied Studies 2008 Mike Shaver Bachelor of Applied Studies 2008 Michael Pinball Clemons Bachelor of Applied Studies 2008 David Pecaut Bachelor of Applied Studies 2008 Sonja Bata Bachelor of Applied Studies 2009 George Roter Bachelor of Applied Studies 2009 Parker Mitchell Bachelor of Applied Studies 2009 Craig Kielburger Bachelor of Applied Studies 2009 Frances Lankin Bachelor of Applied Studies 2010 Armand La Barge Bachelor of Applied Studies 2010 Nanda professor of engineering technology Yorkdale Campus located on 2999 Dufferin Street south of Lawrence Avenue West in North York was home to the Travel from the 1980s to 2000"	93	query201_Seneca_College\P\93-7
+"Applied Studies"	"is"	"2006 Jim Balsillie Bachelor of Applied Studies 2007 Russell Bannock Bachelor of Applied Studies 2007 The Honorable Margaret McCain Bachelor of Applied Studies 2007 The Honorable David Crombie Bachelor of Applied Studies 2008 Mike Shaver Bachelor of Applied Studies 2008 Michael Pinball Clemons Bachelor of Applied Studies 2008 David Pecaut Bachelor of Applied Studies 2008 Sonja Bata Bachelor of Applied Studies 2009 George Roter Bachelor of Applied Studies 2009 Parker Mitchell Bachelor of Applied Studies 2009 Craig Kielburger Bachelor of Applied Studies 2009 Frances Lankin Bachelor of Applied Studies 2010 Armand La Barge Bachelor of Applied Studies 2010 Nanda professor of engineering technology Yorkdale Campus located on 2999 Dufferin Street south of Lawrence Avenue West in North York was home to the Tourism program from the 1980s to 2000"	93	query201_Seneca_College\P\93-8
+"Dufferin Street south of Lawrence Avenue West in North York"	"was 2999 home"	"to the Travel"	93	query201_Seneca_College\P\93-9
+"Dufferin Street south of Lawrence Avenue West in North York"	"was 2999 home"	"to the Tourism program"	93	query201_Seneca_College\P\93-10
+"Dufferin Street south of Lawrence Avenue West in North York"	"was"	"2999 home"	93	query201_Seneca_College\P\93-11
+Formerly C.B. 	94	query201_Seneca_College\S\94
+Parsons Junior High and is now home to Fieldstone Day School . 	95	query201_Seneca_College\S\95
+The building was owned by the North York Board of Education and now owned by the Toronto District School Board . 	96	query201_Seneca_College\S\96
+"The building"	"was owned"	"by the North York Board of Education"	96	query201_Seneca_College\P\96-0
+"The building"	"was owned"	"by the Toronto District School Board by the North York Board of Education"	96	query201_Seneca_College\P\96-1
+"The building"	"was owned"	"by the Toronto District School Board now"	96	query201_Seneca_College\P\96-2
+"The building"	"was owned"	"by the Toronto District School Board"	96	query201_Seneca_College\P\96-3
+Markham Learning Centre located at the northeast corner of McCowan Road and Highway 7. 	97	query201_Seneca_College\S\97
+List of colleges in Ontario Higher education in Ontario Canadian Interuniversity Sport Canadian government scientific research organizations Canadian university scientific research organizations Canadian industrial research and development organizations The Spine , a computer animated short by Chris Landreth created with Seneca College animators 	98	query201_Seneca_College\S\98
+"The Spine"	"is"	"a computer animated short by Chris Landreth created with Seneca College animators"	98	query201_Seneca_College\P\98-0
+"Chris Landreth"	"be created"	"with Seneca College animators"	98	query201_Seneca_College\P\98-1

@@ -1,0 +1,660 @@
+In mathematics , the harmonic mean ( sometimes called the subcontrary mean ) is one of several kinds of average . 	0	query300_Harmonic_mean\S\0
+"the harmonic mean sometimes called the subcontrary mean"	"is one"	"of several kinds of average"	0	query300_Harmonic_mean\P\0-0
+"the harmonic mean sometimes called the subcontrary mean"	"is"	"one"	0	query300_Harmonic_mean\P\0-1
+Typically , it is appropriate for situations when the average of rate is desired . 	1	query300_Harmonic_mean\S\1
+Typically , it is appropriate for situations when the average of rate is desired . 	1	query300_Harmonic_mean\S\1
+Typically , it is appropriate for situations when the average of rate is desired . 	1	query300_Harmonic_mean\S\1
+Typically , it is appropriate for situations when the average of rate is desired . 	1	query300_Harmonic_mean\S\1
+Typically , it is appropriate for situations when the average of rate is desired . 	1	query300_Harmonic_mean\S\1
+"the average of rate"	"is desired"	"when"	1	query300_Harmonic_mean\P\1-0
+The harmonic mean H of the positive real number x 1 ,&nbsp; x 2 ,&nbsp;... 	2	query300_Harmonic_mean\S\2
+,&nbsp; x n &nbsp;>&nbsp;0 is defined to be From the third formula in the above equation it is more apparent that the harmonic mean is related to the arithmetic mean and geometric mean . 	3	query300_Harmonic_mean\S\3
+,&nbsp; x n &nbsp;>&nbsp;0 is defined to be From the third formula in the above equation it is more apparent that the harmonic mean is related to the arithmetic mean and geometric mean . 	3	query300_Harmonic_mean\S\3
+,&nbsp; x n &nbsp;>&nbsp;0 is defined to be From the third formula in the above equation it is more apparent that the harmonic mean is related to the arithmetic mean and geometric mean . 	3	query300_Harmonic_mean\S\3
+,&nbsp; x n &nbsp;>&nbsp;0 is defined to be From the third formula in the above equation it is more apparent that the harmonic mean is related to the arithmetic mean and geometric mean . 	3	query300_Harmonic_mean\S\3
+,&nbsp; x n &nbsp;>&nbsp;0 is defined to be From the third formula in the above equation it is more apparent that the harmonic mean is related to the arithmetic mean and geometric mean . 	3	query300_Harmonic_mean\S\3
+"n > 0"	"is defined"	"to be From the third formula in the above equation it is more apparent that the harmonic mean is related to the arithmetic mean"	3	query300_Harmonic_mean\P\3-0
+"n > 0"	"is defined"	"to be From the third formula in the above equation it is more apparent that the harmonic mean is related to the arithmetic geometric mean"	3	query300_Harmonic_mean\P\3-1
+"n > 0"	"is defined"	"to be it is more apparent that the harmonic mean is related to the arithmetic mean"	3	query300_Harmonic_mean\P\3-2
+"n > 0"	"is defined"	"to be it is more apparent that the harmonic mean is related to the arithmetic geometric mean"	3	query300_Harmonic_mean\P\3-3
+"n > 0"	"is defined"	"to be it is more apparent that the harmonic mean is related to the arithmetic geometric mean"	3	query300_Harmonic_mean\P\3-4
+"n > 0"	"is defined"	"to be it is more apparent that the harmonic mean is related to the arithmetic geometric mean"	3	query300_Harmonic_mean\P\3-5
+"n > 0"	"is defined"	"to be it is more apparent that the harmonic mean is related to the arithmetic geometric mean"	3	query300_Harmonic_mean\P\3-6
+"n > 0"	"is defined"	"to be it is more apparent that the harmonic mean is related to the arithmetic geometric mean"	3	query300_Harmonic_mean\P\3-7
+"the harmonic mean"	"is related"	"to the arithmetic mean"	3	query300_Harmonic_mean\P\3-8
+"the harmonic mean"	"is related"	"to the arithmetic geometric mean"	3	query300_Harmonic_mean\P\3-9
+Equivalently , the harmonic mean is the reciprocal of the arithmetic mean of the reciprocals . 	4	query300_Harmonic_mean\S\4
+"the harmonic mean"	"is the reciprocal"	"Equivalently"	4	query300_Harmonic_mean\P\4-0
+"the harmonic mean"	"is the reciprocal"	"of the arithmetic mean of the reciprocals"	4	query300_Harmonic_mean\P\4-1
+"the harmonic mean"	"is"	"the reciprocal"	4	query300_Harmonic_mean\P\4-2
+As a simple example , the harmonic mean of 1 , 2 , and 4 is frac{3}{frac{1}{ 1}+frac{1}{ 2}+frac{1}{ 4} } = frac{1}{frac{1}{ 3}( frac{1}{ 1}+frac{1}{ 2}+frac{1}{ 4} ) } = frac{12}{ 7} , . 	5	query300_Harmonic_mean\S\5
+"the harmonic mean of 1"	"is"	"frac"	5	query300_Harmonic_mean\P\5-0
+"the harmonic mean of 2"	"is"	"frac"	5	query300_Harmonic_mean\P\5-1
+"the harmonic mean of 4"	"is"	"frac"	5	query300_Harmonic_mean\P\5-2
+"As a simple example the harmonic mean of 1 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 1 1 4 = frac"	5	query300_Harmonic_mean\P\5-3
+"As a simple example the harmonic mean of 1 is frac 3"	"is"	"frac 1 frac 1 2 1 4 = frac 1 frac 1 3 frac 1 1 + frac 1 2 + frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-4
+"As a simple example the harmonic mean of 1 is frac 3"	"is"	"frac 1 frac 1 4 = frac 1 frac 1 3 frac 1 1 + frac 1 2 + frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-5
+"As a simple example the harmonic mean of 1 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 frac 1 2 1 4 = frac"	5	query300_Harmonic_mean\P\5-6
+"As a simple example the harmonic mean of 1 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-7
+"As a simple example the harmonic mean of 2 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 1 1 4 = frac"	5	query300_Harmonic_mean\P\5-8
+"As a simple example the harmonic mean of 2 is frac 3"	"is"	"frac 1 frac 1 2 1 4 = frac 1 frac 1 3 frac 1 1 + frac 1 2 + frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-9
+"As a simple example the harmonic mean of 2 is frac 3"	"is"	"frac 1 frac 1 4 = frac 1 frac 1 3 frac 1 1 + frac 1 2 + frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-10
+"As a simple example the harmonic mean of 2 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 frac 1 2 1 4 = frac"	5	query300_Harmonic_mean\P\5-11
+"As a simple example the harmonic mean of 2 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-12
+"As a simple example the harmonic mean of 4 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 1 1 4 = frac"	5	query300_Harmonic_mean\P\5-13
+"As a simple example the harmonic mean of 4 is frac 3"	"is"	"frac 1 frac 1 2 1 4 = frac 1 frac 1 3 frac 1 1 + frac 1 2 + frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-14
+"As a simple example the harmonic mean of 4 is frac 3"	"is"	"frac 1 frac 1 4 = frac 1 frac 1 3 frac 1 1 + frac 1 2 + frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-15
+"As a simple example the harmonic mean of 4 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 frac 1 2 1 4 = frac"	5	query300_Harmonic_mean\P\5-16
+"As a simple example the harmonic mean of 4 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-17
+"As a simple example the harmonic mean of 4 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-18
+"As a simple example the harmonic mean of 4 is frac 3"	"is"	"frac 1 1 1 4 = frac 1 frac 1 3 frac 1 frac 1 4 = frac"	5	query300_Harmonic_mean\P\5-19
+thumbrightA geometric construction of the threePythagorean meansof two numbers _ ''a '' and ''b '' . 	6	query300_Harmonic_mean\S\6
+Harmonic mean is denoted by '' H '' in purple color . 	7	query300_Harmonic_mean\S\7
+"Harmonic mean"	"is denoted"	"by H in purple color"	7	query300_Harmonic_mean\P\7-0
+The '' Q '' denotes a fourth mean_ thequadratic mean . 	8	query300_Harmonic_mean\S\8
+"The Q"	"denotes"	"a fourth mean _ thequadratic mean"	8	query300_Harmonic_mean\P\8-0
+The harmonic mean is one of the three Pythagorean means . 	9	query300_Harmonic_mean\S\9
+"The harmonic mean"	"is one means"	"of the three Pythagorean"	9	query300_Harmonic_mean\P\9-0
+"The harmonic mean"	"is"	"one means"	9	query300_Harmonic_mean\P\9-1
+For all positive data sets containing at least one pair of nonequal values , the harmonic mean is always the least of the three means , while the arithmetic mean is always the greatest of the three and the geometric mean is always in between . 	10	query300_Harmonic_mean\S\10
+"all positive data sets"	"be containing"	"at least one pair of nonequal values"	10	query300_Harmonic_mean\P\10-0
+"the harmonic mean"	"is the least"	"10 For all positive data sets containing at least one pair of nonequal values always"	10	query300_Harmonic_mean\P\10-1
+"the harmonic mean"	"is the least"	"10 For all positive data sets containing at least one pair of nonequal values of the three means"	10	query300_Harmonic_mean\P\10-2
+"the harmonic mean"	"is the least"	"10 For all positive data sets containing at least one pair of nonequal values"	10	query300_Harmonic_mean\P\10-3
+"the arithmetic mean"	"is the greatest"	"always"	10	query300_Harmonic_mean\P\10-4
+"the arithmetic mean"	"is the greatest"	"of the three"	10	query300_Harmonic_mean\P\10-5
+"the arithmetic mean"	"is the greatest"	"of the the geometric mean"	10	query300_Harmonic_mean\P\10-6
+"the arithmetic mean"	"is"	"the greatest"	10	query300_Harmonic_mean\P\10-7
+( If all values in a nonempty dataset are equal , the three means are always equal to one another ; e.g 	11	query300_Harmonic_mean\S\11
+"all values in a nonempty dataset"	"are"	"equal"	11	query300_Harmonic_mean\P\11-0
+"the three means"	"are equal"	"If all values in a nonempty dataset are equal"	11	query300_Harmonic_mean\P\11-1
+"the three means"	"are equal"	"always"	11	query300_Harmonic_mean\P\11-2
+"the three means"	"are equal"	"to one another"	11	query300_Harmonic_mean\P\11-3
+"the three means"	"are"	"equal"	11	query300_Harmonic_mean\P\11-4
+. 	12	query300_Harmonic_mean\S\12
+the harmonic , geometric , and arithmetic means of {2 ,&nbsp;2 ,&nbsp;2 } are all&nbsp;2 . 	13	query300_Harmonic_mean\S\13
+) It is the special case M &minus ;1 of the power mean . 	14	query300_Harmonic_mean\S\14
+) It is the special case M &minus ;1 of the power mean . 	14	query300_Harmonic_mean\S\14
+) It is the special case M &minus ;1 of the power mean . 	14	query300_Harmonic_mean\S\14
+Since the harmonic mean of a list of numbers tends strongly toward the least elements of the list , it tends ( compared to the arithmetic mean ) to mitigate the impact of large outliers and aggravate the impact of small ones . 	15	query300_Harmonic_mean\S\15
+"the harmonic mean of a list of numbers"	"tends"	"strongly toward the least elements of the list"	15	query300_Harmonic_mean\P\15-0
+"the harmonic mean of a list of numbers"	"tends"	"strongly"	15	query300_Harmonic_mean\P\15-1
+"the harmonic mean of a list of numbers"	"tends"	"strongly"	15	query300_Harmonic_mean\P\15-2
+"the harmonic mean of a list of numbers"	"tends"	"strongly"	15	query300_Harmonic_mean\P\15-3
+The arithmetic mean is often mistakenly used in places calling for the harmonic mean . 	16	query300_Harmonic_mean\S\16
+"The arithmetic mean"	"is used"	"in places calling for the harmonic mean often"	16	query300_Harmonic_mean\P\16-0
+"The arithmetic mean"	"is used"	"in places calling for the harmonic mean mistakenly"	16	query300_Harmonic_mean\P\16-1
+"The arithmetic mean"	"is used"	"in places calling for the harmonic mean"	16	query300_Harmonic_mean\P\16-2
+"The arithmetic mean"	"is used"	"in places calling for the harmonic mean"	16	query300_Harmonic_mean\P\16-3
+Statistical Analysis , Ya-lun Chou , Holt International , 1969 , ISBN 0030730953 In the speed example below for instance the arithmetic mean 50 is incorrect , and too big . 	17	query300_Harmonic_mean\S\17
+"Statistical Analysis"	"is"	"Holt International 1969 In the speed example below for instance"	17	query300_Harmonic_mean\P\17-0
+"Statistical Ya-lun Chou"	"is"	"Holt International 1969 In the speed example below for instance"	17	query300_Harmonic_mean\P\17-1
+"Holt International 1969 In the speed example below for instance"	"is"	"ISBN 0030730953"	17	query300_Harmonic_mean\P\17-2
+"the arithmetic"	"mean"	"50 Holt International 1969 In the speed example below for instance"	17	query300_Harmonic_mean\P\17-3
+"Statistical Analysis"	"is"	"incorrect"	17	query300_Harmonic_mean\P\17-4
+"Statistical Ya-lun Chou"	"is"	"incorrect"	17	query300_Harmonic_mean\P\17-5
+"Statistical Analysis"	"is"	"too big"	17	query300_Harmonic_mean\P\17-6
+"Statistical Ya-lun Chou"	"is"	"too big"	17	query300_Harmonic_mean\P\17-7
+The harmonic mean is related to the other Pythagorean means , as seen in the third formula in the above equation . 	18	query300_Harmonic_mean\S\18
+"The harmonic mean"	"is related"	"to the other Pythagorean"	18	query300_Harmonic_mean\P\18-0
+This is noticed if we interpret the denominator to be the arithmetic mean of the product of numbers n times but each time we omit the j th term . 	19	query300_Harmonic_mean\S\19
+This is noticed if we interpret the denominator to be the arithmetic mean of the product of numbers n times but each time we omit the j th term . 	19	query300_Harmonic_mean\S\19
+This is noticed if we interpret the denominator to be the arithmetic mean of the product of numbers n times but each time we omit the j th term . 	19	query300_Harmonic_mean\S\19
+This is noticed if we interpret the denominator to be the arithmetic mean of the product of numbers n times but each time we omit the j th term . 	19	query300_Harmonic_mean\S\19
+This is noticed if we interpret the denominator to be the arithmetic mean of the product of numbers n times but each time we omit the j th term . 	19	query300_Harmonic_mean\S\19
+This is noticed if we interpret the denominator to be the arithmetic mean of the product of numbers n times but each time we omit the j th term . 	19	query300_Harmonic_mean\S\19
+This is noticed if we interpret the denominator to be the arithmetic mean of the product of numbers n times but each time we omit the j th term . 	19	query300_Harmonic_mean\S\19
+This is noticed if we interpret the denominator to be the arithmetic mean of the product of numbers n times but each time we omit the j th term . 	19	query300_Harmonic_mean\S\19
+That is , for the first term we multiply all n numbers but omit the first , for the second we multiply all n numbers but omit the second and so on . 	20	query300_Harmonic_mean\S\20
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-0
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-1
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-2
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-3
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-4
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-5
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-6
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-7
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-8
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-9
+"That"	"is"	"for the first term"	20	query300_Harmonic_mean\P\20-10
+The numerator , excluding the n , which goes with the arithmetic mean , is the geometric mean to the power&nbsp; n . 	21	query300_Harmonic_mean\S\21
+"the n"	"goes"	"with the arithmetic mean"	21	query300_Harmonic_mean\P\21-0
+"The numerator excluding the n"	"is the geometric mean"	"to the power n"	21	query300_Harmonic_mean\P\21-1
+"The numerator excluding the n"	"is"	"the geometric mean"	21	query300_Harmonic_mean\P\21-2
+Thus the n th harmonic mean is related to the n th geometric and arithmetic means . 	22	query300_Harmonic_mean\S\22
+"the n th harmonic mean"	"is related"	"to the n th geometric means 22"	22	query300_Harmonic_mean\P\22-0
+"the n th harmonic mean"	"is related"	"to the n th arithmetic means 22"	22	query300_Harmonic_mean\P\22-1
+"the n th harmonic mean"	"is related"	"22"	22	query300_Harmonic_mean\P\22-2
+If a set of non-identical numbers is subjected to a mean-preserving spread — that is , two or more elements of the set are " spread apart " from each other while leaving the arithmetic mean unchanged — then the harmonic mean always decreases . 	23	query300_Harmonic_mean\S\23
+"a set of non-identical numbers"	"is subjected"	"to a mean-preserving spread"	23	query300_Harmonic_mean\P\23-0
+"a set of non-identical numbers"	"is subjected"	"to a mean-preserving spread"	23	query300_Harmonic_mean\P\23-1
+"a set of non-identical numbers"	"is subjected"	"to a mean-preserving spread"	23	query300_Harmonic_mean\P\23-2
+"a set of non-identical numbers"	"is subjected"	"to a mean-preserving spread"	23	query300_Harmonic_mean\P\23-3
+"a set of non-identical numbers"	"is subjected"	"to a mean-preserving spread"	23	query300_Harmonic_mean\P\23-4
+"a set of non-identical numbers"	"is subjected"	"to a mean-preserving spread"	23	query300_Harmonic_mean\P\23-5
+"a set of non-identical numbers"	"is subjected"	"to a mean-preserving spread"	23	query300_Harmonic_mean\P\23-6
+"two elements of the set"	"that is are spread"	"apart from each other"	23	query300_Harmonic_mean\P\23-7
+"more elements of the set"	"that is are spread"	"apart from each other"	23	query300_Harmonic_mean\P\23-8
+"two elements of the set"	"that is are spread"	"apart while leaving the arithmetic mean unchanged"	23	query300_Harmonic_mean\P\23-9
+"more elements of the set"	"that is are spread"	"apart while leaving the arithmetic mean unchanged"	23	query300_Harmonic_mean\P\23-10
+"two elements of the set"	"that is are spread"	"apart"	23	query300_Harmonic_mean\P\23-11
+"more elements of the set"	"that is are spread"	"apart"	23	query300_Harmonic_mean\P\23-12
+"the arithmetic"	"mean"	"unchanged"	23	query300_Harmonic_mean\P\23-13
+"then the harmonic mean"	"decreases"	"always"	23	query300_Harmonic_mean\P\23-14
+"then the harmonic mean"	"decreases"	"always"	23	query300_Harmonic_mean\P\23-15
+Mitchell , Douglas W. 	24	query300_Harmonic_mean\S\24
+"Mitchell"	"is"	"Douglas W."	24	query300_Harmonic_mean\P\24-0
+, " More on spreads and non-arithmetic means , " The Mathematical Gazette 88 , March 2004 , 142-144 . 	25	query300_Harmonic_mean\S\25
+"142-144"	"is"	"March 2004"	88	query300_Harmonic_mean\P\25-0
+If a set of weights w_1 , ... 	26	query300_Harmonic_mean\S\26
+, w_n is associated to the dataset x_1 , ... 	27	query300_Harmonic_mean\S\27
+, w_n is associated to the dataset x_1 , ... 	27	query300_Harmonic_mean\S\27
+, w_n is associated to the dataset x_1 , ... 	27	query300_Harmonic_mean\S\27
+, x_n , the weighted harmonic mean is defined by The harmonic mean as defined is the special case where all of the weights are equal to 1 , and is equivalent to any weighted harmonic mean where all weights are equal In certain situations , especially many situations involving rate and ratio , the harmonic mean provides the truest average . 	28	query300_Harmonic_mean\S\28
+, x_n , the weighted harmonic mean is defined by The harmonic mean as defined is the special case where all of the weights are equal to 1 , and is equivalent to any weighted harmonic mean where all weights are equal In certain situations , especially many situations involving rate and ratio , the harmonic mean provides the truest average . 	28	query300_Harmonic_mean\S\28
+, x_n , the weighted harmonic mean is defined by The harmonic mean as defined is the special case where all of the weights are equal to 1 , and is equivalent to any weighted harmonic mean where all weights are equal In certain situations , especially many situations involving rate and ratio , the harmonic mean provides the truest average . 	28	query300_Harmonic_mean\S\28
+, x_n , the weighted harmonic mean is defined by The harmonic mean as defined is the special case where all of the weights are equal to 1 , and is equivalent to any weighted harmonic mean where all weights are equal In certain situations , especially many situations involving rate and ratio , the harmonic mean provides the truest average . 	28	query300_Harmonic_mean\S\28
+"the weighted harmonic mean"	"28 is defined"	"by The harmonic mean as defined"	28	query300_Harmonic_mean\P\28-0
+"the weighted harmonic mean"	"28 is defined"	"by The harmonic mean"	28	query300_Harmonic_mean\P\28-1
+"the weighted harmonic mean is defined by The harmonic mean as defined"	"is"	"the special case"	28	query300_Harmonic_mean\P\28-2
+"all of the weights"	"are equal"	"where"	28	query300_Harmonic_mean\P\28-3
+"all of the weights"	"are equal"	"to 1"	28	query300_Harmonic_mean\P\28-4
+"all of the weights"	"are"	"equal"	28	query300_Harmonic_mean\P\28-5
+"all of the weights"	"are is equivalent"	"where"	28	query300_Harmonic_mean\P\28-6
+"all of the weights"	"are is equivalent"	"to 1"	28	query300_Harmonic_mean\P\28-7
+"all of the weights"	"are is equivalent"	"to any weighted harmonic mean"	28	query300_Harmonic_mean\P\28-8
+"all of the weights"	"are is"	"equivalent"	28	query300_Harmonic_mean\P\28-9
+"all weights"	"are"	"equal especially many situations involving rate any weighted harmonic mean where"	28	query300_Harmonic_mean\P\28-10
+"all weights"	"are"	"equal especially many situations involving ratio any weighted harmonic mean where"	28	query300_Harmonic_mean\P\28-11
+"all weights"	"are"	"equal especially many situations involving rate In certain situations any weighted harmonic mean"	28	query300_Harmonic_mean\P\28-12
+"all weights"	"are"	"equal especially many situations involving ratio In certain situations any weighted harmonic mean"	28	query300_Harmonic_mean\P\28-13
+"all weights"	"are"	"equal especially many situations involving rate any weighted harmonic mean"	28	query300_Harmonic_mean\P\28-14
+"all weights"	"are"	"equal especially many situations involving ratio any weighted harmonic mean"	28	query300_Harmonic_mean\P\28-15
+"especially many situations"	"be involving"	"rate"	28	query300_Harmonic_mean\P\28-16
+"especially many situations"	"be involving"	"ratio"	28	query300_Harmonic_mean\P\28-17
+"the harmonic mean"	"provides"	"where all of the weights are equal to 1 the truest average the special case"	28	query300_Harmonic_mean\P\28-18
+"the harmonic mean"	"provides"	"where all of the weights are to 1 is equivalent to any weighted harmonic mean the truest average the special case"	28	query300_Harmonic_mean\P\28-19
+For instance , if a vehicle travels a certain distance at a speed x ( e .g 	29	query300_Harmonic_mean\S\29
+. 	30	query300_Harmonic_mean\S\30
+60 kilometres per hour ) and then the same distance again at a speed y ( e .g 	31	query300_Harmonic_mean\S\31
+. 	32	query300_Harmonic_mean\S\32
+40 kilometres per hour ) , then its average speed is the harmonic mean of x and y ( 48 kilometres per hour ) , and its total travel time is the same as if it had traveled the whole distance at that average speed . 	33	query300_Harmonic_mean\S\33
+40 kilometres per hour ) , then its average speed is the harmonic mean of x and y ( 48 kilometres per hour ) , and its total travel time is the same as if it had traveled the whole distance at that average speed . 	33	query300_Harmonic_mean\S\33
+"then its average speed"	"is"	"the harmonic mean of x 48 kilometres per hour 33 40 kilometres per hour"	33	query300_Harmonic_mean\P\33-0
+"then its average speed"	"is"	"the harmonic mean of y 48 kilometres per hour 33 40 kilometres per hour"	33	query300_Harmonic_mean\P\33-1
+"then its average speed"	"is"	"the harmonic mean 33 40 kilometres per hour"	33	query300_Harmonic_mean\P\33-2
+"then its average speed"	"is"	"the harmonic mean 33 40 kilometres per hour"	33	query300_Harmonic_mean\P\33-3
+"its total travel time"	"is the same"	"as if it had traveled the whole distance at that average speed"	33	query300_Harmonic_mean\P\33-4
+"its total travel time"	"is"	"the same"	33	query300_Harmonic_mean\P\33-5
+"its total travel time"	"is"	"the same"	33	query300_Harmonic_mean\P\33-6
+"its total travel time"	"is"	"the same"	33	query300_Harmonic_mean\P\33-7
+However , if the vehicle travels for a certain amount of time at a speed x and then the same amount of time at a speed y , then its average speed is the arithmetic mean of x and y , which in the above example is 50 kilometres per hour . 	34	query300_Harmonic_mean\S\34
+"the vehicle"	"travels"	"for a certain amount of time at a speed x"	34	query300_Harmonic_mean\P\34-0
+"the vehicle"	"travels"	"for a certain amount of time"	34	query300_Harmonic_mean\P\34-1
+"the vehicle"	"the same amount"	"of time for a certain amount of time"	34	query300_Harmonic_mean\P\34-2
+"the vehicle"	"the same amount"	"of time at a speed x"	34	query300_Harmonic_mean\P\34-3
+"the vehicle"	"the same amount"	"of time at a speed y"	34	query300_Harmonic_mean\P\34-4
+"the vehicle"	"the same amount"	"of time"	34	query300_Harmonic_mean\P\34-5
+"the vehicle"	"the same amount"	"of time"	34	query300_Harmonic_mean\P\34-6
+"then its average speed"	"is 34 However the arithmetic mean"	"if the vehicle travels for a certain amount of time at a speed x"	34	query300_Harmonic_mean\P\34-7
+"then its average speed"	"is 34 However the arithmetic mean"	"if the vehicle for a certain amount of time at a speed x then the same amount of time at a speed y"	34	query300_Harmonic_mean\P\34-8
+"then its average speed"	"is 34 However the arithmetic mean"	"of x"	34	query300_Harmonic_mean\P\34-9
+"then its average speed"	"is 34 However the arithmetic mean"	"of y"	34	query300_Harmonic_mean\P\34-10
+"then its average speed"	"is"	"34 However the arithmetic mean"	34	query300_Harmonic_mean\P\34-11
+"kilometres per hour"	"which is"	"34 However if the vehicle travels for a certain amount of time at a speed x the arithmetic mean of x in the above example"	50	query300_Harmonic_mean\P\34-12
+"kilometres per hour"	"which is"	"34 However if the vehicle for a certain amount of time at a speed x then the same amount of time at a speed y the arithmetic mean of x and y in the above example"	50	query300_Harmonic_mean\P\34-13
+"kilometres per hour"	"which is"	"34 However if the vehicle travels for a certain amount of time at a speed x the arithmetic mean of y in the above example"	50	query300_Harmonic_mean\P\34-14
+"kilometres per hour"	"which is"	"34 However if the vehicle travels for a certain amount of time at a speed x the arithmetic mean of x"	50	query300_Harmonic_mean\P\34-15
+"kilometres per hour"	"which is"	"34 However if the vehicle for a certain amount of time at a speed x then the same amount of time at a speed y the arithmetic mean of x and y"	50	query300_Harmonic_mean\P\34-16
+"kilometres per hour"	"which is"	"34 However if the vehicle travels for a certain amount of time at a speed x the arithmetic mean of y"	50	query300_Harmonic_mean\P\34-17
+"However if the vehicle travels for a certain amount of time at a speed x the arithmetic mean of x"	"is 50 kilometres per hour"	"in the above example"	34	query300_Harmonic_mean\P\34-18
+"However if the vehicle for a certain amount of time at a speed x then the same amount of time at a speed y the arithmetic mean of x and y"	"is 50 kilometres per hour"	"in the above example"	34	query300_Harmonic_mean\P\34-19
+"However if the vehicle travels for a certain amount of time at a speed x the arithmetic mean of y"	"is 50 kilometres per hour"	"in the above example"	34	query300_Harmonic_mean\P\34-20
+The same principle applies to more than two segments : given a series of sub-trips at different speeds , if each sub-trip covers the same distance , then the average speed is the harmonic mean of all the sub-trip speeds , and if each sub-trip takes the same amount of time , then the average speed is the arithmetic mean of all the sub-trip speeds . 	35	query300_Harmonic_mean\S\35
+"The same principle"	"applies"	"to more than two segments given a series of sub-trips at different speeds if each sub-trip covers the same distance then the average speed is the harmonic mean of all the sub-trip speeds"	35	query300_Harmonic_mean\P\35-0
+"The same principle"	"applies"	"to more than two segments given a series of sub-trips at different speeds if each sub-trip covers the same distance then the average speed is the harmonic of all the sub-trip speeds if each sub-trip takes the same amount of time then the average speed is the arithmetic mean of all the sub-trip speeds"	35	query300_Harmonic_mean\P\35-1
+"more than two segments"	"be given"	"a series of sub-trips at different speeds if each sub-trip covers the same distance"	35	query300_Harmonic_mean\P\35-2
+"more than two segments"	"be given"	"a series of sub-trips at different speeds"	35	query300_Harmonic_mean\P\35-3
+"each sub-trip"	"covers"	"the same distance"	35	query300_Harmonic_mean\P\35-4
+"the average speed"	"is the harmonic mean"	"of all the sub-trip speeds"	35	query300_Harmonic_mean\P\35-5
+"the average speed"	"is"	"the harmonic mean"	35	query300_Harmonic_mean\P\35-6
+"each sub-trip"	"takes"	"the same amount of time"	35	query300_Harmonic_mean\P\35-7
+"then the average speed"	"is the arithmetic mean"	"if each sub-trip takes the same amount of time"	35	query300_Harmonic_mean\P\35-8
+"then the average speed"	"is the arithmetic mean"	"of all the sub-trip speeds"	35	query300_Harmonic_mean\P\35-9
+"then the average speed"	"is"	"the arithmetic mean"	35	query300_Harmonic_mean\P\35-10
+( If neither is the case , then a weighted harmonic mean or weighted arithmetic mean is needed . 	36	query300_Harmonic_mean\S\36
+( If neither is the case , then a weighted harmonic mean or weighted arithmetic mean is needed . 	36	query300_Harmonic_mean\S\36
+) Similarly , if one connects two electrical resistor in parallel , one having resistance x ( e .g 	37	query300_Harmonic_mean\S\37
+. 	38	query300_Harmonic_mean\S\38
+60 Ω ) and one having resistance y ( e .g 	39	query300_Harmonic_mean\S\39
+. 	40	query300_Harmonic_mean\S\40
+40Ω ) , then the effect is the same as if one had used two resistors with the same resistance , both equal to the harmonic mean of x and y ( 48Ω ) : the equivalent resistance in either case is 24Ω (one-half of the harmonic mean ) . 	41	query300_Harmonic_mean\S\41
+"then the effect"	"is 41 40Ω the same"	"as if one had used two resistors with the same resistance equal to the harmonic mean of x the equivalent resistance in case is 24Ω one-half of the harmonic mean"	41	query300_Harmonic_mean\P\41-0
+"then the effect"	"is 41 40Ω the same"	"as if one had used two resistors with the same resistance equal to the harmonic mean of y the equivalent resistance in either case is 24Ω one-half of the harmonic mean"	41	query300_Harmonic_mean\P\41-1
+"then the effect"	"is"	"41 40Ω the same"	41	query300_Harmonic_mean\P\41-2
+"then the effect"	"is"	"41 40Ω the same"	41	query300_Harmonic_mean\P\41-3
+"then the effect"	"is"	"41 40Ω the same"	41	query300_Harmonic_mean\P\41-4
+"then the effect"	"is"	"41 40Ω the same"	41	query300_Harmonic_mean\P\41-5
+"then the effect"	"is"	"41 40Ω the same"	41	query300_Harmonic_mean\P\41-6
+"then the effect"	"is"	"41 40Ω the same"	41	query300_Harmonic_mean\P\41-7
+"then the effect"	"is"	"41 40Ω the same"	41	query300_Harmonic_mean\P\41-8
+"the equivalent resistance in case"	"is"	"24Ω one-half of the harmonic mean"	41	query300_Harmonic_mean\P\41-9
+However , if one connects the resistors in series , then the average resistance is the arithmetic mean of x and y ( with total resistance equal to the sum of x and y ) . 	42	query300_Harmonic_mean\S\42
+"However"	"one connects"	"the resistors in series"	42	query300_Harmonic_mean\P\42-0
+"However"	"one connects"	"the resistors then the average resistance is the arithmetic mean of x with total resistance equal to the sum of x"	42	query300_Harmonic_mean\P\42-1
+"However"	"one connects"	"the resistors then the average resistance is the arithmetic mean of y with total resistance equal to the sum of x and y"	42	query300_Harmonic_mean\P\42-2
+"However"	"one connects"	"the resistors then the average resistance is the arithmetic mean of x with total resistance equal to the sum of y"	42	query300_Harmonic_mean\P\42-3
+"However"	"one connects"	"the resistors"	42	query300_Harmonic_mean\P\42-4
+"However"	"one connects"	"the resistors"	42	query300_Harmonic_mean\P\42-5
+"However"	"one connects"	"the resistors"	42	query300_Harmonic_mean\P\42-6
+"However"	"one connects"	"the resistors"	42	query300_Harmonic_mean\P\42-7
+"However"	"one connects"	"the resistors"	42	query300_Harmonic_mean\P\42-8
+"However"	"one connects"	"the resistors"	42	query300_Harmonic_mean\P\42-9
+"the average resistance"	"is the arithmetic mean"	"of x"	42	query300_Harmonic_mean\P\42-10
+"the average resistance"	"is the arithmetic mean"	"of y"	42	query300_Harmonic_mean\P\42-11
+"the average resistance"	"is the arithmetic mean"	"with total resistance equal to the sum of x"	42	query300_Harmonic_mean\P\42-12
+"the average resistance"	"is the arithmetic mean"	"with total resistance equal to the sum of y"	42	query300_Harmonic_mean\P\42-13
+"the average resistance"	"is"	"the arithmetic mean"	42	query300_Harmonic_mean\P\42-14
+And , as with previous example , the same principle applies when more than two resistors are connected , provided that all are in parallel or all are in series . 	43	query300_Harmonic_mean\S\43
+"the same principle"	"applies"	"when more than two resistors are connected provided that all are in parallel 43"	43	query300_Harmonic_mean\P\43-0
+"the same principle"	"applies"	"when more than two resistors are connected provided that all are in parallel as with previous example"	43	query300_Harmonic_mean\P\43-1
+"the same principle"	"applies"	"when more than two resistors are connected provided that all in parallel all are in series 43"	43	query300_Harmonic_mean\P\43-2
+"the same principle"	"applies"	"when more than two resistors are connected provided that all in parallel all are in series as with previous example"	43	query300_Harmonic_mean\P\43-3
+"the same principle"	"applies"	"43"	43	query300_Harmonic_mean\P\43-4
+"the same principle"	"applies"	"as with previous example"	43	query300_Harmonic_mean\P\43-5
+"more than two resistors"	"are connected"	"provided that all are in parallel when"	43	query300_Harmonic_mean\P\43-6
+"more than two resistors"	"are connected"	"provided that all in parallel all are in series when"	43	query300_Harmonic_mean\P\43-7
+"more than two resistors"	"are connected"	"provided that all are in parallel"	43	query300_Harmonic_mean\P\43-8
+"more than two resistors"	"are connected"	"provided that all in parallel all are in series"	43	query300_Harmonic_mean\P\43-9
+"more than two resistors"	"be provided"	"that all are in parallel"	43	query300_Harmonic_mean\P\43-10
+"more than two resistors"	"be provided"	"that all in parallel all are in series"	43	query300_Harmonic_mean\P\43-11
+"more than two resistors"	"be provided"	"that all in parallel all are in series"	43	query300_Harmonic_mean\P\43-12
+"more than two resistors"	"be provided"	"that all in parallel all are in series"	43	query300_Harmonic_mean\P\43-13
+In computer science , specifically information retrieval and machine learning , the harmonic mean of the precision and the recall is often used as an aggregated performance score for the evaluation of algorithms and systems : the F-score ( or F-measure ) . 	44	query300_Harmonic_mean\S\44
+"specifically information retrieval learning"	"is used"	"as an aggregated performance score for the evaluation of algorithms often"	44	query300_Harmonic_mean\P\44-0
+"specifically information retrieval learning"	"is used"	"as an aggregated performance score for the evaluation of systems often"	44	query300_Harmonic_mean\P\44-1
+"specifically information machine learning the harmonic mean of the precision and the recall"	"is used"	"as an aggregated performance score for the evaluation of algorithms often"	44	query300_Harmonic_mean\P\44-2
+"specifically information machine learning the harmonic mean of the precision and the recall"	"is used"	"as an aggregated performance score for the evaluation of systems often"	44	query300_Harmonic_mean\P\44-3
+"specifically information retrieval the harmonic mean of the precision"	"is used"	"as an aggregated performance score for the evaluation of algorithms often"	44	query300_Harmonic_mean\P\44-4
+"specifically information retrieval the harmonic mean of the precision"	"is used"	"as an aggregated performance score for the evaluation of systems often"	44	query300_Harmonic_mean\P\44-5
+"specifically information retrieval the recall"	"is used"	"as an aggregated performance score for the evaluation of algorithms often"	44	query300_Harmonic_mean\P\44-6
+"specifically information retrieval the recall"	"is used"	"as an aggregated performance score for the evaluation of systems often"	44	query300_Harmonic_mean\P\44-7
+"specifically information retrieval learning"	"is used"	"as an aggregated performance score for the evaluation of algorithms"	44	query300_Harmonic_mean\P\44-8
+"specifically information retrieval learning"	"is used"	"as an aggregated performance score for the evaluation of systems"	44	query300_Harmonic_mean\P\44-9
+"specifically information machine learning the harmonic mean of the precision and the recall"	"is used"	"as an aggregated performance score for the evaluation of algorithms"	44	query300_Harmonic_mean\P\44-10
+"specifically information machine learning the harmonic mean of the precision and the recall"	"is used"	"as an aggregated performance score for the evaluation of systems"	44	query300_Harmonic_mean\P\44-11
+"specifically information retrieval the harmonic mean of the precision"	"is used"	"as an aggregated performance score for the evaluation of algorithms"	44	query300_Harmonic_mean\P\44-12
+"specifically information retrieval the harmonic mean of the precision"	"is used"	"as an aggregated performance score for the evaluation of systems"	44	query300_Harmonic_mean\P\44-13
+"specifically information retrieval the recall"	"is used"	"as an aggregated performance score for the evaluation of algorithms"	44	query300_Harmonic_mean\P\44-14
+"specifically information retrieval the recall"	"is used"	"as an aggregated performance score for the evaluation of systems"	44	query300_Harmonic_mean\P\44-15
+"the F-score"	"is"	"F-measure"	44	query300_Harmonic_mean\P\44-16
+An interesting consequence arises from basic algebra in problems of working together . 	45	query300_Harmonic_mean\S\45
+"An interesting consequence"	"arises"	"from basic algebra in problems of working together"	45	query300_Harmonic_mean\P\45-0
+"An interesting consequence"	"arises"	"from basic algebra"	45	query300_Harmonic_mean\P\45-1
+As an example , if a gas-powered pump can drain a pool in 4 hours and a battery-powered pump can drain the same pool in 6 hours , then it will take both pumps ( 6&nbsp;·&nbsp;4 )/( 6&nbsp;+&nbsp;4 ) , which is equal to 2.4 	46	query300_Harmonic_mean\S\46
+"a gas-powered pump"	"can drain"	"a pool in 4 hours"	46	query300_Harmonic_mean\P\46-0
+"a gas-powered pump"	"can drain"	"a pool"	46	query300_Harmonic_mean\P\46-1
+"a battery-powered pump"	"can drain"	"the same pool in 6 hours"	46	query300_Harmonic_mean\P\46-2
+"a battery-powered pump"	"can drain"	"the same pool"	46	query300_Harmonic_mean\P\46-3
+"As an example"	"then it will take"	"both pumps 6 · 4 if a gas-powered pump can drain a pool in 4 hours"	46	query300_Harmonic_mean\P\46-4
+"As an example"	"then it will take"	"both pumps 6 · 4 if a gas-powered pump can a pool in 4 hours a battery-powered pump can drain the same pool in 6 hours"	46	query300_Harmonic_mean\P\46-5
+"As an example"	"then it will take"	"both pumps 6 · 4"	46	query300_Harmonic_mean\P\46-6
+"then it"	"46 As an example will take"	"both pumps 6 · 4 if a gas-powered pump can drain a pool in 4 hours"	46	query300_Harmonic_mean\P\46-7
+"then it"	"46 As an example will take"	"both pumps 6 · 4 if a gas-powered pump can a pool in 4 hours a battery-powered pump can drain the same pool in 6 hours"	46	query300_Harmonic_mean\P\46-8
+"then it"	"46 As an example will take"	"both pumps 6 · 4"	46	query300_Harmonic_mean\P\46-9
+"then it"	"46 As an example will take"	"both pumps 6 · 4"	46	query300_Harmonic_mean\P\46-10
+"then it"	"46 As an example will take"	"both pumps 6 · 4"	46	query300_Harmonic_mean\P\46-11
+hours , to drain the pool together . 	47	query300_Harmonic_mean\S\47
+"hours"	"be drain"	"the pool together"	47	query300_Harmonic_mean\P\47-0
+Interestingly , this is one-half of the harmonic mean of 6 and 4 . 	48	query300_Harmonic_mean\S\48
+Interestingly , this is one-half of the harmonic mean of 6 and 4 . 	48	query300_Harmonic_mean\S\48
+Interestingly , this is one-half of the harmonic mean of 6 and 4 . 	48	query300_Harmonic_mean\S\48
+Interestingly , this is one-half of the harmonic mean of 6 and 4 . 	48	query300_Harmonic_mean\S\48
+Interestingly , this is one-half of the harmonic mean of 6 and 4 . 	48	query300_Harmonic_mean\S\48
+In hydrology the harmonic mean is used to average hydraulic conductivity values for flow that is perpendicular to layers ( e .g 	49	query300_Harmonic_mean\S\49
+. 	50	query300_Harmonic_mean\S\50
+geologic or soil ) while flow parallel to layers uses the arithmetic mean . 	51	query300_Harmonic_mean\S\51
+"geologic while flow parallel to layers"	"uses"	"the arithmetic mean"	51	query300_Harmonic_mean\P\51-0
+"soil while flow parallel to layers"	"uses"	"the arithmetic mean"	51	query300_Harmonic_mean\P\51-1
+This apparent difference in averaging is explained by the fact that hydrology uses conductivity , which is the inverse of resistivity . 	52	query300_Harmonic_mean\S\52
+"This apparent difference in averaging"	"is explained"	"by the fact that hydrology uses conductivity"	52	query300_Harmonic_mean\P\52-0
+"This apparent difference in averaging"	"is explained"	"by the fact that hydrology uses conductivity"	52	query300_Harmonic_mean\P\52-1
+"This apparent difference in averaging"	"is explained"	"by the fact that hydrology uses conductivity"	52	query300_Harmonic_mean\P\52-2
+"This apparent difference in averaging"	"is explained"	"by the fact that hydrology uses conductivity"	52	query300_Harmonic_mean\P\52-3
+In sabermetrics , the Power-speed number of a player is the harmonic mean of his home run and stolen base totals . 	53	query300_Harmonic_mean\S\53
+"the Power-speed number of a player"	"is 53 In sabermetrics the harmonic mean"	"of his home run"	53	query300_Harmonic_mean\P\53-0
+"the Power-speed number of a player"	"is 53 In sabermetrics the harmonic mean"	"of his home stolen base totals"	53	query300_Harmonic_mean\P\53-1
+"the Power-speed number of a player"	"is"	"53 In sabermetrics the harmonic mean"	53	query300_Harmonic_mean\P\53-2
+"the Power-speed number of a player"	"is"	"53 In sabermetrics the harmonic mean"	53	query300_Harmonic_mean\P\53-3
+In population genetics the harmonic mean is used when calculating the effects of fluctuations in generation size on the effective breeding population . 	54	query300_Harmonic_mean\S\54
+"the harmonic mean"	"is used"	"when calculating the effects of fluctuations in generation size on the effective breeding population 54 In population genetics"	54	query300_Harmonic_mean\P\54-0
+"the harmonic mean"	"is used"	"54 In population genetics"	54	query300_Harmonic_mean\P\54-1
+This is to take into account the fact that a very small generation is effectively like a bottleneck and means that a very small number of individuals are contributing disproportionately to the gene pool which can result in higher levels of inbreeding . 	55	query300_Harmonic_mean\S\55
+"This"	"is"	"to take into account the fact that a very small generation is effectively like a bottleneck"	55	query300_Harmonic_mean\P\55-0
+"This"	"is"	"to take into account the fact that a very small generation effectively like a bottleneck means that a very small number of individuals are contributing disproportionately to the gene pool which can result in higher levels of inbreeding"	55	query300_Harmonic_mean\P\55-1
+"a very small generation"	"is"	"effectively like a bottleneck"	55	query300_Harmonic_mean\P\55-2
+"a very small generation"	"means"	"that a very small number of individuals are contributing disproportionately to the gene pool which can result in higher levels of inbreeding effectively like a bottleneck"	55	query300_Harmonic_mean\P\55-3
+"a very small generation"	"means"	"that a very small number of individuals are contributing disproportionately to the gene pool which can result in higher levels of inbreeding"	55	query300_Harmonic_mean\P\55-4
+"a very small number of individuals"	"are contributing"	"disproportionately which can result in higher levels of inbreeding"	55	query300_Harmonic_mean\P\55-5
+"a very small number of individuals"	"are contributing"	"to the gene pool which can result in higher levels of inbreeding"	55	query300_Harmonic_mean\P\55-6
+"a very small number of individuals"	"are contributing"	"which can result in higher levels of inbreeding"	55	query300_Harmonic_mean\P\55-7
+"a very small number of individuals"	"are contributing"	"which can result in higher levels of inbreeding"	55	query300_Harmonic_mean\P\55-8
+When considering fuel economy in automobiles two measures are commonly used – miles per gallon ( mpg ) , and litres per 100&nbsp;km . 	56	query300_Harmonic_mean\S\56
+"two measures"	"are used"	"commonly"	56	query300_Harmonic_mean\P\56-0
+"two measures"	"are used"	"commonly"	56	query300_Harmonic_mean\P\56-1
+"miles per gallon"	"is"	"mpg"	56	query300_Harmonic_mean\P\56-2
+"per gallon litres per 100 km"	"is"	"mpg"	56	query300_Harmonic_mean\P\56-3
+As the dimensions of these quantities are the inverse of each other ( one is distance per volume , the other volume per distance ) when taking the mean value of the fuel-economy of a range of cars one measure will produce the harmonic mean of the other – i .e 	57	query300_Harmonic_mean\S\57
+. 	58	query300_Harmonic_mean\S\58
+converting the mean value of fuel economy expressed in litres per 100&nbsp;km to miles per gallon will produce the harmonic mean of the fuel economy expressed in miles-per-gallon . 	59	query300_Harmonic_mean\S\59
+converting the mean value of fuel economy expressed in litres per 100&nbsp;km to miles per gallon will produce the harmonic mean of the fuel economy expressed in miles-per-gallon . 	59	query300_Harmonic_mean\S\59
+"the mean value of fuel economy"	"be expressed"	"in litres per 100 km to miles per gallon"	59	query300_Harmonic_mean\P\59-0
+"the mean value of fuel economy"	"be expressed"	"in litres per 100 km"	59	query300_Harmonic_mean\P\59-1
+"converting the mean value of fuel economy expressed in litres per 100 km to miles per gallon"	"will produce"	"the harmonic mean of the fuel economy expressed in miles-per-gallon"	59	query300_Harmonic_mean\P\59-2
+"the fuel economy"	"be expressed"	"in miles-per-gallon"	59	query300_Harmonic_mean\P\59-3
+The harmonic mean is the preferable method for averaging multiples , such as the price/earning ratio , in which price is in the numerator . 	60	query300_Harmonic_mean\S\60
+"The harmonic mean"	"is the preferable method"	"for averaging multiples such as the price/earning ratio"	60	query300_Harmonic_mean\P\60-0
+"The harmonic mean"	"is"	"the preferable method"	60	query300_Harmonic_mean\P\60-1
+"The harmonic mean"	"is"	"the preferable method"	60	query300_Harmonic_mean\P\60-2
+"The harmonic mean"	"is"	"the preferable method"	60	query300_Harmonic_mean\P\60-3
+"The harmonic mean"	"is"	"the preferable method"	60	query300_Harmonic_mean\P\60-4
+If these ratios are averaged using an arithmetic mean ( a common error ) , high data points are given greater weights than low data points . 	61	query300_Harmonic_mean\S\61
+"these ratios"	"are averaged"	"using an arithmetic mean"	61	query300_Harmonic_mean\P\61-0
+"an arithmetic mean"	"is"	"high data points"	61	query300_Harmonic_mean\P\61-1
+"an arithmetic mean"	"is"	"a common error"	61	query300_Harmonic_mean\P\61-2
+"If these ratios are averaged using an arithmetic mean"	"are given"	"greater weights than low data points"	61	query300_Harmonic_mean\P\61-3
+The harmonic mean , on the other hand , gives equal weight to each data point . 	62	query300_Harmonic_mean\S\62
+"The harmonic mean on the other hand"	"gives"	"equal weight to each data point"	62	query300_Harmonic_mean\P\62-0
+"The harmonic mean on the other hand"	"gives"	"equal weight"	62	query300_Harmonic_mean\P\62-1
+" Fairness Opinions : Common Errors and Omissions " , The Handbook of Business Valuation and Intellectual Property Analysis , McGraw Hill , 2004 . 	63	query300_Harmonic_mean\S\63
+"Common Errors"	"is"	"The Handbook of Business Valuation"	63	query300_Harmonic_mean\P\63-0
+"Common Errors"	"is"	"The Handbook of Business Intellectual Property Analysis"	63	query300_Harmonic_mean\P\63-1
+"Common Omissions"	"is"	"The Handbook of Business Valuation"	63	query300_Harmonic_mean\P\63-2
+"Common Omissions"	"is"	"The Handbook of Business Intellectual Property Analysis"	63	query300_Harmonic_mean\P\63-3
+"The Handbook of Business Valuation"	"is"	"McGraw Hill"	63	query300_Harmonic_mean\P\63-4
+"The Handbook of Business Intellectual Property Analysis"	"is"	"McGraw Hill"	63	query300_Harmonic_mean\P\63-5
+"McGraw Hill"	"is"	"2004"	63	query300_Harmonic_mean\P\63-6
+ISBN 0071429670 In any triangle , the radius of the incircle is one-third the harmonic mean of the altitudes . 	64	query300_Harmonic_mean\S\64
+"the radius of the incircle"	"is"	"one-third the harmonic mean of the altitudes 64 ISBN 0071429670 In any triangle"	64	query300_Harmonic_mean\P\64-0
+"the radius of the incircle"	"is"	"one-third the harmonic mean 64 ISBN 0071429670 In any triangle"	64	query300_Harmonic_mean\P\64-1
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+For any point P on the minor arc BC of the circumcircle of an equilateral triangle ABC , with distances q and t from B and C respectively , and with the intersection of PA and BC being at a distance y from point P , we have that y is half the harmonic mean of q and t . 	65	query300_Harmonic_mean\S\65
+Posamentier , Alfred S. 	66	query300_Harmonic_mean\S\66
+"Posamentier"	"is"	"Alfred S."	66	query300_Harmonic_mean\P\66-0
+, and Salkind , Charles T. 	67	query300_Harmonic_mean\S\67
+, Challenging Problems in Geometry , second edition , Dover Publ . 	68	query300_Harmonic_mean\S\68
+, Challenging Problems in Geometry , second edition , Dover Publ . 	68	query300_Harmonic_mean\S\68
+"second edition"	"is"	"Dover Publ"	68	query300_Harmonic_mean\P\68-0
+Co. 	69	query300_Harmonic_mean\S\69
+, 1996 , p 172 . 	70	query300_Harmonic_mean\S\70
+, 1996 , p 172 . 	70	query300_Harmonic_mean\S\70
+, 1996 , p 172 . 	70	query300_Harmonic_mean\S\70
+In a right triangle with legs a and b and altitude h from the hypotenuse to the right angle , h 2 is half the harmonic mean of a 2 and b 2 . 	71	query300_Harmonic_mean\S\71
+"the right angle"	"is"	"h 2"	71	query300_Harmonic_mean\P\71-0
+"a from the hypotenuse to the right angle"	"is"	"half the harmonic mean of a 2 2 legs"	71	query300_Harmonic_mean\P\71-1
+"a from the hypotenuse to the right angle"	"is"	"half the harmonic mean of a b 2 legs"	71	query300_Harmonic_mean\P\71-2
+"b from the hypotenuse to the right angle"	"is"	"half the harmonic mean of a 2 2 legs"	71	query300_Harmonic_mean\P\71-3
+"b from the hypotenuse to the right angle"	"is"	"half the harmonic mean of a b 2 legs"	71	query300_Harmonic_mean\P\71-4
+"altitude h from the hypotenuse to the right angle"	"is"	"half the harmonic mean of a 2 2 legs"	71	query300_Harmonic_mean\P\71-5
+"altitude h from the hypotenuse to the right angle"	"is"	"half the harmonic mean of a b 2 legs"	71	query300_Harmonic_mean\P\71-6
+"a from the hypotenuse to the right angle"	"is"	"half the harmonic mean legs"	71	query300_Harmonic_mean\P\71-7
+"b from the hypotenuse to the right angle"	"is"	"half the harmonic mean legs"	71	query300_Harmonic_mean\P\71-8
+"altitude h from the hypotenuse to the right angle"	"is"	"half the harmonic mean legs"	71	query300_Harmonic_mean\P\71-9
+Voles , Roger , " Integer solutions of a^{-2}+b^{-2}=d^{-2} , " Mathematical Gazette 83 , July 1999 , 269&ndash ;271 . 	72	query300_Harmonic_mean\S\72
+"Voles Integer solutions of a Mathematical Gazette 83 271"	"is"	"Roger"	72	query300_Harmonic_mean\P\72-0
+"^ -2"	"=d"	"a"	72	query300_Harmonic_mean\P\72-1
+"b ^ -2"	"=d"	"a"	-2	query300_Harmonic_mean\P\72-2
+"b ^ -2"	"=d"	"a"	-2	query300_Harmonic_mean\P\72-3
+"Mathematical Gazette 83 271"	"is"	"July 1999 269 & ndash"	-2	query300_Harmonic_mean\P\72-4
+Richinick , Jennifer , " The upside-down Pythagorean Theorem , " Mathematical Gazette 92 , July 2008 , 313&ndash ; ;317 . 	73	query300_Harmonic_mean\S\73
+"Richinick The upside-down Pythagorean Theorem Mathematical Gazette 92 317"	"is"	"Jennifer"	73	query300_Harmonic_mean\P\73-0
+"Mathematical Gazette 92"	"is"	"July 2008 313 & ndash"	73	query300_Harmonic_mean\P\73-1
+Let t and s ( t > s ) be the sides of the two inscribed squares in a right triangle with hypotenuse c . 	74	query300_Harmonic_mean\S\74
+Let t and s ( t > s ) be the sides of the two inscribed squares in a right triangle with hypotenuse c . 	74	query300_Harmonic_mean\S\74
+Let t and s ( t > s ) be the sides of the two inscribed squares in a right triangle with hypotenuse c . 	74	query300_Harmonic_mean\S\74
+Let t and s ( t > s ) be the sides of the two inscribed squares in a right triangle with hypotenuse c . 	74	query300_Harmonic_mean\S\74
+Let t and s ( t > s ) be the sides of the two inscribed squares in a right triangle with hypotenuse c . 	74	query300_Harmonic_mean\S\74
+Let t and s ( t > s ) be the sides of the two inscribed squares in a right triangle with hypotenuse c . 	74	query300_Harmonic_mean\S\74
+Let t and s ( t > s ) be the sides of the two inscribed squares in a right triangle with hypotenuse c . 	74	query300_Harmonic_mean\S\74
+Then s 2 equals half the harmonic mean of c 2 and t 2 . 	75	query300_Harmonic_mean\S\75
+"Then s 2"	"equals"	"half the harmonic mean of c 2"	75	query300_Harmonic_mean\P\75-0
+"Then s 2"	"equals"	"half the harmonic mean of 2 t 2"	75	query300_Harmonic_mean\P\75-1
+Let a trapezoid have vertices A , B , C , and D in sequence and have parallel sides AB and CD. 	76	query300_Harmonic_mean\S\76
+Let a trapezoid have vertices A , B , C , and D in sequence and have parallel sides AB and CD. 	76	query300_Harmonic_mean\S\76
+Let a trapezoid have vertices A , B , C , and D in sequence and have parallel sides AB and CD. 	76	query300_Harmonic_mean\S\76
+Let a trapezoid have vertices A , B , C , and D in sequence and have parallel sides AB and CD. 	76	query300_Harmonic_mean\S\76
+"a trapezoid"	"have"	"vertices A in sequence"	76	query300_Harmonic_mean\P\76-0
+"a trapezoid"	"have"	"vertices A"	76	query300_Harmonic_mean\P\76-1
+"a trapezoid"	"have"	"vertices A"	76	query300_Harmonic_mean\P\76-2
+"a trapezoid"	"have"	"vertices A"	76	query300_Harmonic_mean\P\76-3
+"a trapezoid"	"have"	"vertices A"	76	query300_Harmonic_mean\P\76-4
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Let E be the intersection of the diagonal , and let F be on side DA and G be on side BC such that FEG is parallel to AB and CD. 	77	query300_Harmonic_mean\S\77
+Then FG is the harmonic mean of AB and DC . 	78	query300_Harmonic_mean\S\78
+"Then FG"	"is the harmonic mean"	"of AB"	78	query300_Harmonic_mean\P\78-0
+"Then FG"	"is the harmonic mean"	"of DC"	78	query300_Harmonic_mean\P\78-1
+"Then FG"	"is"	"the harmonic mean"	78	query300_Harmonic_mean\P\78-2
+( This is provable using similar triangles . 	79	query300_Harmonic_mean\S\79
+( This is provable using similar triangles . 	79	query300_Harmonic_mean\S\79
+) thumbrightCrossed ladders . 	80	query300_Harmonic_mean\S\80
+''h '' is half the harmonic mean of ''A '' and ''B '' In the crossed ladders problem , two ladders lie oppositely across an alley , each with feet at the base of one sidewall , with one leaning against a wall at height A and the other leaning against the opposite wall at height B , as shown . 	81	query300_Harmonic_mean\S\81
+"h"	"is half the harmonic mean two ladders lie oppositely across an alley each with feet at the base of one sidewall with one leaning against a wall at height A"	"of A"	81	query300_Harmonic_mean\P\81-0
+"h"	"is half the harmonic B In the crossed ladders problem two ladders lie oppositely across an alley each with feet at the base of one sidewall with one leaning against a wall at height A"	"of A"	81	query300_Harmonic_mean\P\81-1
+"h"	"is half the harmonic B In the crossed ladders problem two ladders lie oppositely across an alley each with feet at the base of one sidewall with one against a wall at height A the other leaning against the opposite wall at height B as shown"	"of A"	81	query300_Harmonic_mean\P\81-2
+"h"	"is half the harmonic mean two ladders lie oppositely across an alley each with feet at the base of one sidewall with one against a wall at height A the other leaning against the opposite wall at height B as shown"	"of A"	81	query300_Harmonic_mean\P\81-3
+"h"	"is"	"half the harmonic mean two ladders lie oppositely across an alley each with feet at the base of one sidewall with one leaning against a wall at height A"	81	query300_Harmonic_mean\P\81-4
+"h"	"is"	"half the harmonic B In the crossed ladders problem two ladders lie oppositely across an alley each with feet at the base of one sidewall with one leaning against a wall at height A"	81	query300_Harmonic_mean\P\81-5
+"h"	"is"	"half the harmonic B In the crossed ladders problem two ladders lie oppositely across an alley each with feet at the base of one sidewall with one against a wall at height A the other leaning against the opposite wall at height B as shown"	81	query300_Harmonic_mean\P\81-6
+"h"	"is"	"half the harmonic mean two ladders lie oppositely across an alley each with feet at the base of one sidewall with one against a wall at height A the other leaning against the opposite wall at height B as shown"	81	query300_Harmonic_mean\P\81-7
+"two ladders"	"lie"	"oppositely across an alley"	81	query300_Harmonic_mean\P\81-8
+"two ladders"	"lie"	"oppositely with one leaning against a wall at height A"	81	query300_Harmonic_mean\P\81-9
+"two ladders"	"lie"	"oppositely with one against a wall at height A the other leaning against the opposite wall at height B as shown"	81	query300_Harmonic_mean\P\81-10
+"two ladders"	"lie"	"oppositely"	81	query300_Harmonic_mean\P\81-11
+"two ladders"	"lie"	"oppositely"	81	query300_Harmonic_mean\P\81-12
+"two ladders"	"lie"	"oppositely"	81	query300_Harmonic_mean\P\81-13
+The ladders cross at a height of h above the alley floor . 	82	query300_Harmonic_mean\S\82
+"The ladders"	"cross"	"at a height of h above the alley floor"	82	query300_Harmonic_mean\P\82-0
+Then h is half the harmonic mean of A and B . 	83	query300_Harmonic_mean\S\83
+"Then h"	"is half the harmonic mean"	"of A"	83	query300_Harmonic_mean\P\83-0
+"Then h"	"is half the harmonic mean"	"of B"	83	query300_Harmonic_mean\P\83-1
+"Then h"	"is"	"half the harmonic mean"	83	query300_Harmonic_mean\P\83-2
+This result still holds if the walls are slanted but still parallel and the "heights " A , B , and h are measured as distances from the floor along lines parallel to the walls . 	84	query300_Harmonic_mean\S\84
+"This result"	"holds"	"if the walls are slanted still"	84	query300_Harmonic_mean\P\84-0
+"This result"	"holds"	"if the walls are still parallel still"	84	query300_Harmonic_mean\P\84-1
+"This result"	"holds"	"if the walls are the heights A B still"	84	query300_Harmonic_mean\P\84-2
+"This result"	"holds"	"if the walls are h are measured as distances from the floor along lines parallel to the walls still"	84	query300_Harmonic_mean\P\84-3
+"This result"	"holds"	"if the walls are slanted"	84	query300_Harmonic_mean\P\84-4
+"This result"	"holds"	"if the walls are still parallel"	84	query300_Harmonic_mean\P\84-5
+"This result"	"holds"	"if the walls are the heights A B"	84	query300_Harmonic_mean\P\84-6
+"This result"	"holds"	"if the walls are h are measured as distances from the floor along lines parallel to the walls"	84	query300_Harmonic_mean\P\84-7
+"the walls"	"are parallel"	"still"	84	query300_Harmonic_mean\P\84-8
+"the walls"	"are parallel"	"still"	84	query300_Harmonic_mean\P\84-9
+In an ellipse , the semi-latus rectum ( the distance from a focus to the ellipse along a line parallel to the minor axis ) is the harmonic mean of the maximum and minimum distances of the ellipse from a focus . 	85	query300_Harmonic_mean\S\85
+"In an ellipse"	"is"	"the semi-latus rectum"	85	query300_Harmonic_mean\P\85-0
+"the semi-latus rectum"	"is"	"the distance from a focus to the ellipse along a line parallel to the minor axis"	85	query300_Harmonic_mean\P\85-1
+"In an ellipse"	"is the harmonic mean"	"of the maximum distances of the ellipse"	85	query300_Harmonic_mean\P\85-2
+"In an ellipse"	"is the harmonic mean"	"of the minimum distances of the ellipse"	85	query300_Harmonic_mean\P\85-3
+"In an ellipse"	"is the harmonic mean"	"from a focus"	85	query300_Harmonic_mean\P\85-4
+"In an ellipse"	"is"	"the harmonic mean"	85	query300_Harmonic_mean\P\85-5
+In the case of the double-angle tangent identity , if the tangent of an angle A is given as a / b , then the tangent of 2 A is the product of ( 1 ) the harmonic mean of the numerator and denominator of tan A and ( 2 ) the reciprocal of ( the denominator minus the numerator of tan A ) . 	86	query300_Harmonic_mean\S\86
+"the tangent of an angle A"	"is given"	"as a b"	86	query300_Harmonic_mean\P\86-0
+"then the tangent of 2 A"	"is"	"the product 86 In the case of the double-angle tangent identity if the tangent of an angle A is given as a b"	86	query300_Harmonic_mean\P\86-1
+"then the tangent of 2 A"	"is"	"the product of 1 the harmonic mean of the numerator of tan A 86 In the case of the double-angle tangent identity"	86	query300_Harmonic_mean\P\86-2
+"then the tangent of 2 A"	"is"	"the product of 1 the harmonic mean of the denominator of tan A and 2 the reciprocal of the denominator minus the numerator of tan A 86 In the case of the double-angle tangent identity"	86	query300_Harmonic_mean\P\86-3
+"then the tangent of 2 A"	"is"	"the product of 1 the harmonic of the numerator of tan A 2 the reciprocal of the denominator 86 In the case of the double-angle tangent identity"	86	query300_Harmonic_mean\P\86-4
+"then the tangent of 2 A"	"is"	"the product of 1 the harmonic of the numerator of tan A 2 the reciprocal of the the numerator of tan A 86 In the case of the double-angle tangent identity"	86	query300_Harmonic_mean\P\86-5
+"then the tangent of 2 A"	"is"	"the product 86 In the case of the double-angle tangent identity"	86	query300_Harmonic_mean\P\86-6
+In general the double-angle formula can be written as if tan A = frac{a }{b } and a and b are real numbers . 	87	query300_Harmonic_mean\S\87
+"the double-angle formula"	"can be written"	"87 In general"	87	query300_Harmonic_mean\P\87-0
+"the double-angle formula"	"can be written"	"as if tan A = frac 87"	87	query300_Harmonic_mean\P\87-1
+"the double-angle formula"	"can be written"	"as if tan = frac a are real numbers 87"	87	query300_Harmonic_mean\P\87-2
+"the double-angle formula"	"can be written"	"as if tan = frac b are real numbers 87"	87	query300_Harmonic_mean\P\87-3
+"the double-angle formula"	"can be written"	"87"	87	query300_Harmonic_mean\P\87-4
+"the double-angle formula"	"can be written"	"87"	87	query300_Harmonic_mean\P\87-5
+"the double-angle formula"	"can be written"	"87"	87	query300_Harmonic_mean\P\87-6
+"the double-angle formula"	"can be written"	"87"	87	query300_Harmonic_mean\P\87-7
+For example , if then the most familiar form of the double-angle formula is but this can also be written as For the special case of just two numbers x_1 and x_2 , the harmonic mean can be written In this special case , the harmonic mean is related to the arithmetic mean A = frac{x_1 + x_2 }{ 2 } and the geometric mean G = sqrt{x_1 x_2} , by So G = sqrt{ A H} , meaning the two numbers ' geometric mean equals the geometric mean of their arithmetic and harmonic means . 	88	query300_Harmonic_mean\S\88
+For example , if then the most familiar form of the double-angle formula is but this can also be written as For the special case of just two numbers x_1 and x_2 , the harmonic mean can be written In this special case , the harmonic mean is related to the arithmetic mean A = frac{x_1 + x_2 }{ 2 } and the geometric mean G = sqrt{x_1 x_2} , by So G = sqrt{ A H} , meaning the two numbers ' geometric mean equals the geometric mean of their arithmetic and harmonic means . 	88	query300_Harmonic_mean\S\88
+For example , if then the most familiar form of the double-angle formula is but this can also be written as For the special case of just two numbers x_1 and x_2 , the harmonic mean can be written In this special case , the harmonic mean is related to the arithmetic mean A = frac{x_1 + x_2 }{ 2 } and the geometric mean G = sqrt{x_1 x_2} , by So G = sqrt{ A H} , meaning the two numbers ' geometric mean equals the geometric mean of their arithmetic and harmonic means . 	88	query300_Harmonic_mean\S\88
+For example , if then the most familiar form of the double-angle formula is but this can also be written as For the special case of just two numbers x_1 and x_2 , the harmonic mean can be written In this special case , the harmonic mean is related to the arithmetic mean A = frac{x_1 + x_2 }{ 2 } and the geometric mean G = sqrt{x_1 x_2} , by So G = sqrt{ A H} , meaning the two numbers ' geometric mean equals the geometric mean of their arithmetic and harmonic means . 	88	query300_Harmonic_mean\S\88
+For example , if then the most familiar form of the double-angle formula is but this can also be written as For the special case of just two numbers x_1 and x_2 , the harmonic mean can be written In this special case , the harmonic mean is related to the arithmetic mean A = frac{x_1 + x_2 }{ 2 } and the geometric mean G = sqrt{x_1 x_2} , by So G = sqrt{ A H} , meaning the two numbers ' geometric mean equals the geometric mean of their arithmetic and harmonic means . 	88	query300_Harmonic_mean\S\88
+"the harmonic mean"	"can be written"	"In this special case if then the most familiar form of the double-angle formula is"	88	query300_Harmonic_mean\P\88-0
+"the harmonic mean"	"can be written"	"In this special case if then the most familiar form of the double-angle formula this can also be written as For the special case of just two numbers x_1"	88	query300_Harmonic_mean\P\88-1
+"the harmonic mean"	"can be written"	"In this special case if then the most familiar form of the double-angle formula this can also be written as For the special case of just two numbers x_2"	88	query300_Harmonic_mean\P\88-2
+"the harmonic mean"	"can be written"	"In this special case"	88	query300_Harmonic_mean\P\88-3
+"the harmonic mean"	"is related"	"to the arithmetic mean A = frac x_1 88 For example if then the most familiar form of the double-angle formula is the harmonic mean can be written In this special case"	88	query300_Harmonic_mean\P\88-4
+"the harmonic mean"	"is related"	"to the arithmetic mean A = frac x_2 and the geometric mean G = sqrt x_1 x_2 88 For example if then the most familiar form of the double-angle formula is the harmonic mean can be written In this special case"	88	query300_Harmonic_mean\P\88-5
+"the harmonic mean"	"is related"	"to the arithmetic mean = frac x_1 the geometric mean G = sqrt x_1 x_2 88 For example if then the most familiar form of the double-angle formula is the harmonic mean can be written In this special case"	88	query300_Harmonic_mean\P\88-6
+"the harmonic mean"	"is related"	"to the arithmetic mean A = frac x_1 88 For example if then the most familiar form of the double-angle formula this can also be written as For the special case of just two numbers x_1 the harmonic mean can be written In this special case"	88	query300_Harmonic_mean\P\88-7
+"the harmonic mean"	"is related"	"to the arithmetic mean A = frac x_2 and the geometric mean G = sqrt x_1 x_2 88 For example if then the most familiar form of the double-angle formula this can also be written as For the special case of just two numbers x_1 the harmonic mean can be written In this special case"	88	query300_Harmonic_mean\P\88-8
+"the harmonic mean"	"is related"	"to the arithmetic mean = frac x_1 the geometric mean G = sqrt x_1 x_2 88 For example if then the most familiar form of the double-angle formula this can also be written as For the special case of just two numbers x_1 the harmonic mean can be written In this special case"	88	query300_Harmonic_mean\P\88-9
+"the harmonic mean"	"is related"	"to the arithmetic mean A = frac x_1 88 For example if then the most familiar form of the double-angle formula this can also be written as For the special case of just two numbers x_2 the harmonic mean can be written In this special case"	88	query300_Harmonic_mean\P\88-10
+"the harmonic mean"	"is related"	"to the arithmetic mean A = frac x_2 and the geometric mean G = sqrt x_1 x_2 88 For example if then the most familiar form of the double-angle formula this can also be written as For the special case of just two numbers x_2 the harmonic mean can be written In this special case"	88	query300_Harmonic_mean\P\88-11
+"the harmonic mean"	"is related"	"to the arithmetic mean = frac x_1 the geometric mean G = sqrt x_1 x_2 88 For example if then the most familiar form of the double-angle formula this can also be written as For the special case of just two numbers x_2 the harmonic mean can be written In this special case"	88	query300_Harmonic_mean\P\88-12
+"the harmonic mean"	"is related"	"to the arithmetic mean A = frac x_1"	88	query300_Harmonic_mean\P\88-13
+"the harmonic mean"	"is related"	"to the arithmetic mean A = frac x_2 and the geometric mean G = sqrt x_1 x_2"	88	query300_Harmonic_mean\P\88-14
+"the harmonic mean"	"is related"	"to the arithmetic mean = frac x_1 the geometric mean G = sqrt x_1 x_2"	88	query300_Harmonic_mean\P\88-15
+"frac x_1"	"is"	"2"	88	query300_Harmonic_mean\P\88-16
+"frac x_2"	"is"	"2"	88	query300_Harmonic_mean\P\88-17
+"G = sqrt"	"be meaning"	"the two numbers ' geometric mean"	88	query300_Harmonic_mean\P\88-18
+"G = sqrt"	"be meaning"	"the two numbers ' geometric mean"	88	query300_Harmonic_mean\P\88-19
+"the two numbers"	"has"	"geometric mean"	88	query300_Harmonic_mean\P\88-20
+"G = sqrt meaning the two numbers ' geometric mean"	"equals"	"the geometric mean of their arithmetic G = sqrt x_1 x_2"	88	query300_Harmonic_mean\P\88-21
+"G = sqrt meaning the two numbers ' geometric mean"	"equals"	"the geometric mean of their harmonic means G = sqrt x_1 x_2"	88	query300_Harmonic_mean\P\88-22
+"G = sqrt meaning the two numbers ' geometric mean"	"equals"	"the geometric mean of their harmonic means G = sqrt x_1 x_2"	88	query300_Harmonic_mean\P\88-23
+As noted above this relationship between the three Pythagorean means is not limited to n equals 1 or 2 ; there is a relationship for all n . 	89	query300_Harmonic_mean\S\89
+"a relationship for all n"	"there is"	"89 As noted above this relationship between the three Pythagorean means is not limited to n equals 1"	89	query300_Harmonic_mean\P\89-0
+"a relationship for all n"	"there is"	"89 As noted above this relationship between the three Pythagorean means is not limited to n equals 2"	89	query300_Harmonic_mean\P\89-1
+However it should be noted that for n equals 1 all means are equal and for n equals 2 we have the above relationship between the means . 	90	query300_Harmonic_mean\S\90
+However it should be noted that for n equals 1 all means are equal and for n equals 2 we have the above relationship between the means . 	90	query300_Harmonic_mean\S\90
+However it should be noted that for n equals 1 all means are equal and for n equals 2 we have the above relationship between the means . 	90	query300_Harmonic_mean\S\90
+"all means"	"are equal"	"for n"	1	query300_Harmonic_mean\P\90-0
+"all means"	"are"	"equal"	1	query300_Harmonic_mean\P\90-1
+"all means"	"are"	"equal"	1	query300_Harmonic_mean\P\90-2
+"all means"	"are"	"equal"	1	query300_Harmonic_mean\P\90-3
+For arbitrary n≥2 we may generalize this formula , as noted above , by interpreting the third equation for the harmonic mean differently . 	91	query300_Harmonic_mean\S\91
+For arbitrary n≥2 we may generalize this formula , as noted above , by interpreting the third equation for the harmonic mean differently . 	91	query300_Harmonic_mean\S\91
+For arbitrary n≥2 we may generalize this formula , as noted above , by interpreting the third equation for the harmonic mean differently . 	91	query300_Harmonic_mean\S\91
+The generalized relationship was already explained above . 	92	query300_Harmonic_mean\S\92
+"The generalized relationship"	"was explained"	"above already"	92	query300_Harmonic_mean\P\92-0
+"The generalized relationship"	"was explained"	"above"	92	query300_Harmonic_mean\P\92-1
+If one carefully observes the third equation one will notice it also works for n=1 . 	93	query300_Harmonic_mean\S\93
+If one carefully observes the third equation one will notice it also works for n=1 . 	93	query300_Harmonic_mean\S\93
+If one carefully observes the third equation one will notice it also works for n=1 . 	93	query300_Harmonic_mean\S\93
+"If one carefully observes the third equation one"	"will notice"	"it also"	93	query300_Harmonic_mean\P\93-0
+"If one carefully observes the third equation one"	"will notice"	"it"	93	query300_Harmonic_mean\P\93-1
+That is , it predicts the equivalence between the harmonic and geometric means but it falls short by not predicting the equivalence between the harmonic and arithmetic means . 	94	query300_Harmonic_mean\S\94
+That is , it predicts the equivalence between the harmonic and geometric means but it falls short by not predicting the equivalence between the harmonic and arithmetic means . 	94	query300_Harmonic_mean\S\94
+That is , it predicts the equivalence between the harmonic and geometric means but it falls short by not predicting the equivalence between the harmonic and arithmetic means . 	94	query300_Harmonic_mean\S\94
+That is , it predicts the equivalence between the harmonic and geometric means but it falls short by not predicting the equivalence between the harmonic and arithmetic means . 	94	query300_Harmonic_mean\S\94
+That is , it predicts the equivalence between the harmonic and geometric means but it falls short by not predicting the equivalence between the harmonic and arithmetic means . 	94	query300_Harmonic_mean\S\94
+That is , it predicts the equivalence between the harmonic and geometric means but it falls short by not predicting the equivalence between the harmonic and arithmetic means . 	94	query300_Harmonic_mean\S\94
+The general formula , which can be derived from the third formula for the harmonic mean by the reinterpretation as explained in relationship with other means , is Notice that for n=2 we have where we used the fact that the arithmetic mean evaluates to the same number independent of the order of the terms . 	95	query300_Harmonic_mean\S\95
+"The general formula"	"can be derived"	"from the third formula for the harmonic mean by the reinterpretation"	95	query300_Harmonic_mean\P\95-0
+"The general formula"	"can be derived"	"from the third formula for the harmonic mean as explained in relationship with other means"	95	query300_Harmonic_mean\P\95-1
+"The general formula"	"can be derived"	"from the third formula for the harmonic mean"	95	query300_Harmonic_mean\P\95-2
+"The general formula"	"is"	"Notice that for n = 2 we have where we used the fact that the arithmetic mean evaluates to the same number independent of the order of the terms"	95	query300_Harmonic_mean\P\95-3
+"The general formula"	"is"	"Notice that for n = 2 we have where we used the fact that the arithmetic mean evaluates to the same number independent of the order of the terms"	95	query300_Harmonic_mean\P\95-4
+"The general formula"	"is"	"Notice that for n = 2 we have where we used the fact that the arithmetic mean evaluates to the same number independent of the order of the terms"	95	query300_Harmonic_mean\P\95-5
+"The general formula"	"is"	"Notice that for n = 2 we have where we used the fact that the arithmetic mean evaluates to the same number independent of the order of the terms"	95	query300_Harmonic_mean\P\95-6
+"The general formula"	"is"	"Notice that for n = 2 we have where we used the fact that the arithmetic mean evaluates to the same number independent of the order of the terms"	95	query300_Harmonic_mean\P\95-7
+This equation can be reduced to the original equation if we reinterpret this result in terms of the operators themselves . 	96	query300_Harmonic_mean\S\96
+"This equation"	"can be reduced"	"to the original equation if we reinterpret this result in terms of the operators themselves"	96	query300_Harmonic_mean\P\96-0
+"This equation"	"can be reduced"	"to the original equation"	96	query300_Harmonic_mean\P\96-1
+"This equation"	"can be reduced"	"to the original equation"	96	query300_Harmonic_mean\P\96-2
+"This equation"	"can be reduced"	"to the original equation"	96	query300_Harmonic_mean\P\96-3
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+If we do this we get the symbolic equation because each function was evaluated at Statistics Mathematics descriptive Category :Means bg :Средно хармонично ca :Mitjana harmònica cs :Harmonický průměr da :Harmonisk gennemsnit de :Harmonisches Mittel es :Media armónica eo :Harmona meznombro eu:Batezbesteko harmoniko fa :میانگین هارمونیک fr :Moyenne harmonique gl:Media harmónica ko :조화 평균 hi :हरात्मक माध्य he :ממוצע הרמוני kk :Гармоникалық орта мән lt :Harmoninis vidurkis hu:Harmonikus közép nl :Harmonisch gemiddelde no :Harmonisk gjennomsnitt nn :Harmonisk gjennomsnitt pms :Media armònica pl :Średnia harmoniczna pt:Média harmônica ru:Среднее гармоническое sk :Harmonický priemer sl :Harmonična sredina sr :Хармонијска средина sh :Harmonijska sredina fi:Harmoninen keskiarvo sv :Harmoniskt medelvärde ta :இசைச ் சராசர ி tr :Harmonik ortalama ur :ایقاعی اوسط vi:Trung bình điều hòa zh :调和平均数 H = frac{n }{frac{1}{ x_1 } + frac{1}{ x_2 } + cdots + frac{1}{ x_n } } = frac{n }{sum_{i=1}^n frac{1}{ x_i} } = frac{n cdot prod_{j=1}^n x_j } { sum_{i=1}^n frac{prod_{j=1}^n x_j }{ x_i}} . 	97	query300_Harmonic_mean\S\97
+"each function"	"was evaluated"	"at Statistics Mathematics descriptive Category"	97	query300_Harmonic_mean\P\97-0
+"Harmonisches Mittel"	"es"	"Media armónica eo Harmona meznombro eu Batezbesteko harmoniko fa میانگین هارمونیک fr Moyenne harmonique gl Media harmónica ko 조화 평균 hi हरात्मक माध्य he ממוצע הרמוני kk Гармоникалық орта мән lt Harmoninis vidurkis hu Harmonikus közép nl Harmonisch gemiddelde no Harmonisk gjennomsnitt nn Harmonisk gjennomsnitt pms Media armònica pl Średnia harmoniczna pt Média harmônica ru Среднее гармоническое sk Harmonický priemer sl Harmonična sredina sr Хармонијска средина sh Harmonijska sredina fi Harmoninen keskiarvo sv Harmoniskt medelvärde ta இசைச ் சராசர ி tr Harmonik ortalama ur ایقاعی اوسط vi Trung bình điều hòa zh 调和平均数 H = frac frac 1 = frac sum _ i = 1 ^ n frac = frac n cdot prod _ j = 1 ^ n x_j sum _ i = 1 ^ n frac x_i"	97	query300_Harmonic_mean\P\97-1
+"Harmonisches Mittel"	"es"	"Media armónica eo Harmona meznombro eu Batezbesteko harmoniko fa میانگین هارمونیک fr Moyenne harmonique gl Media harmónica ko 조화 평균 hi हरात्मक माध्य he ממוצע הרמוני kk Гармоникалық орта мән lt Harmoninis vidurkis hu Harmonikus közép nl Harmonisch gemiddelde no Harmonisk gjennomsnitt nn Harmonisk gjennomsnitt pms Media armònica pl Średnia harmoniczna pt Média harmônica ru Среднее гармоническое sk Harmonický priemer sl Harmonična sredina sr Хармонијска средина sh Harmonijska sredina fi Harmoninen keskiarvo sv Harmoniskt medelvärde ta இசைச ் சராசர ி tr Harmonik ortalama ur ایقاعی اوسط vi Trung bình điều hòa zh 调和平均数 H = frac 1 frac = frac sum _ i = 1 ^ n frac = frac n cdot prod _ j = 1 ^ n x_j sum _ i = 1 ^ n frac x_i"	97	query300_Harmonic_mean\P\97-2
+"Harmonisches Mittel"	"es"	"Media armónica eo Harmona meznombro eu Batezbesteko harmoniko fa میانگین هارمونیک fr Moyenne harmonique gl Media harmónica ko 조화 평균 hi हरात्मक माध्य he ממוצע הרמוני kk Гармоникалық орта мән lt Harmoninis vidurkis hu Harmonikus közép nl Harmonisch gemiddelde no Harmonisk gjennomsnitt nn Harmonisk gjennomsnitt pms Media armònica pl Średnia harmoniczna pt Média harmônica ru Среднее гармоническое sk Harmonický priemer sl Harmonična sredina sr Хармонијска средина sh Harmonijska sredina fi Harmoninen keskiarvo sv Harmoniskt medelvärde ta இசைச ் சராசர ி tr Harmonik ortalama ur ایقاعی اوسط vi Trung bình điều hòa zh 调和平均数 H = frac 1 cdots = frac sum _ i = 1 ^ n frac = frac n cdot prod _ j = 1 ^ n x_j sum _ i = 1 ^ n frac x_i"	97	query300_Harmonic_mean\P\97-3
+"Harmonisches Mittel"	"es"	"Media armónica eo Harmona meznombro eu Batezbesteko harmoniko fa میانگین هارمونیک fr Moyenne harmonique gl Media harmónica ko 조화 평균 hi हरात्मक माध्य he ממוצע הרמוני kk Гармоникалық орта мән lt Harmoninis vidurkis hu Harmonikus közép nl Harmonisch gemiddelde no Harmonisk gjennomsnitt nn Harmonisk gjennomsnitt pms Media armònica pl Średnia harmoniczna pt Média harmônica ru Среднее гармоническое sk Harmonický priemer sl Harmonična sredina sr Хармонијска средина sh Harmonijska sredina fi Harmoninen keskiarvo sv Harmoniskt medelvärde ta இசைச ் சராசர ி tr Harmonik ortalama ur ایقاعی اوسط vi Trung bình điều hòa zh 调和平均数 H = frac 1 frac = frac sum _ i = 1 ^ n frac = frac n cdot prod _ j = 1 ^ n x_j sum _ i = 1 ^ n frac x_i"	97	query300_Harmonic_mean\P\97-4
+"Harmonisches Mittel"	"es"	"Media armónica eo Harmona meznombro eu Batezbesteko harmoniko fa میانگین هارمونیک fr Moyenne harmonique gl Media harmónica ko 조화 평균 hi हरात्मक माध्य he ממוצע הרמוני kk Гармоникалық орта мән lt Harmoninis vidurkis hu Harmonikus közép nl Harmonisch gemiddelde no Harmonisk gjennomsnitt nn Harmonisk gjennomsnitt pms Media armònica pl Średnia harmoniczna pt Média harmônica ru Среднее гармоническое sk Harmonický priemer sl Harmonična sredina sr Хармонијска средина sh Harmonijska sredina fi Harmoninen keskiarvo sv Harmoniskt medelvärde ta இசைச ் சராசர ி tr Harmonik ortalama ur ایقاعی اوسط vi Trung bình điều hòa zh 调和平均数 H = frac 1 frac = frac sum _ i = 1 ^ n frac = frac n cdot prod _ j = 1 ^ n x_j sum _ i = 1 ^ n frac x_i"	97	query300_Harmonic_mean\P\97-5
+"frac frac 1"	"is"	"x_1"	97	query300_Harmonic_mean\P\97-6
+"frac 1 frac"	"is"	"x_1"	97	query300_Harmonic_mean\P\97-7
+"frac 1 cdots"	"is"	"x_1"	97	query300_Harmonic_mean\P\97-8
+"frac 1 cdots frac"	"is"	"x_1"	97	query300_Harmonic_mean\P\97-9
+"frac 1 cdots frac"	"is"	"x_1"	97	query300_Harmonic_mean\P\97-10
+"frac 1 cdots frac"	"is"	"x_1"	97	query300_Harmonic_mean\P\97-11
+"frac 1 cdots frac"	"is"	"x_1"	97	query300_Harmonic_mean\P\97-12
+"frac 1 cdots frac"	"is"	"x_1"	97	query300_Harmonic_mean\P\97-13
+"^ n frac"	"is"	"1 x_i"	97	query300_Harmonic_mean\P\97-14
+"^ n frac"	"is"	"prod _ j = 1 ^ n x_j"	1	query300_Harmonic_mean\P\97-15
+Statistical Analysis , Ya-lun Chou , Holt International , 1969 , ISBN 0030730953 frac{sum_{i=1}^n w_i } { sum_{i=1}^n frac{w_i}{ x_i}} . 	98	query300_Harmonic_mean\S\98
+"Holt International 1969"	"is"	"ISBN 0030730953 frac sum _ i = 1 ^ n w_i sum _ i = 1 ^ n frac x_i"	98	query300_Harmonic_mean\P\98-0
+"Holt International 1969"	"is"	"ISBN 0030730953 frac sum _ i = 1 ^ n w_i sum _ i = 1 ^ n frac x_i"	98	query300_Harmonic_mean\P\98-1
+tan 2A = frac{2 a b}{a + b} * frac{1}{b - a} tan A = frac{3}{ 7} , tan 2A = frac{2 * frac{3}{ 7} }{ 1 - ( frac{3}{ 7} )^2 } = frac{21}{20} ; frac{2 * 3 * 7}{ 3 + 7} * frac{1}{7 - 3} = frac{21}{20} . 	99	query300_Harmonic_mean\S\99
+tan 2A = frac{2 a b}{a + b} * frac{1}{b - a} tan A = frac{3}{ 7} , tan 2A = frac{2 * frac{3}{ 7} }{ 1 - ( frac{3}{ 7} )^2 } = frac{21}{20} ; frac{2 * 3 * 7}{ 3 + 7} * frac{1}{7 - 3} = frac{21}{20} . 	99	query300_Harmonic_mean\S\99
+"a + b * frac tan A = frac"	"is"	"1 b a"	99	query300_Harmonic_mean\P\99-0
+"tan A = frac"	"is"	"tan 2A = frac 2 * frac 3 7"	99	query300_Harmonic_mean\P\99-1
+"tan A = frac"	"is"	"tan 2A = frac 2 * frac 3 7"	99	query300_Harmonic_mean\P\99-2
+"tan A = frac"	"is"	"tan 2A = frac 2 * frac 3 7"	99	query300_Harmonic_mean\P\99-3
+"tan A = frac"	"is"	"tan 2A = frac 2 * frac 3 7"	99	query300_Harmonic_mean\P\99-4
+"tan A = frac"	"is"	"tan 2A = frac 2 * frac 3 7"	99	query300_Harmonic_mean\P\99-5
+"tan A = frac"	"is"	"tan 2A = frac 2 * frac 3 7"	99	query300_Harmonic_mean\P\99-6
+"tan A = frac"	"is"	"tan 2A = frac 2 * frac 3 7"	99	query300_Harmonic_mean\P\99-7
+"frac 20"	"is"	"21"	99	query300_Harmonic_mean\P\99-8
+H = frac{2 x_1 x_2 }{ x_1 + x_2} . 	100	query300_Harmonic_mean\S\100
+H = frac{2 x_1 x_2 }{ x_1 + x_2} . 	100	query300_Harmonic_mean\S\100
+H = frac { G^2 } {A} . 	101	query300_Harmonic_mean\S\101
+H( x_1 , ldots , x_n ) = frac{( G( x_1 , ldots , x_n ) ) ^n }{ A( x_2x_3 cdots x_n , x_1x_3 cdots x_n , ldots , x_1x_2 cdots x_{n-1} ) } = frac{( G( x_1 , ldots , x_n ) ) ^n }{ Aleft ( frac{prod_{i=1}^n x_i}{ x_1} , frac{prod_{i=1}^n x_i}{ x_2} , ldots , frac{prod_{i=1}^n x_i}{ x_n } right ) } . 	102	query300_Harmonic_mean\S\102
+H( x_1 , ldots , x_n ) = frac{( G( x_1 , ldots , x_n ) ) ^n }{ A( x_2x_3 cdots x_n , x_1x_3 cdots x_n , ldots , x_1x_2 cdots x_{n-1} ) } = frac{( G( x_1 , ldots , x_n ) ) ^n }{ Aleft ( frac{prod_{i=1}^n x_i}{ x_1} , frac{prod_{i=1}^n x_i}{ x_2} , ldots , frac{prod_{i=1}^n x_i}{ x_n } right ) } . 	102	query300_Harmonic_mean\S\102
+H( x_1 , ldots , x_n ) = frac{( G( x_1 , ldots , x_n ) ) ^n }{ A( x_2x_3 cdots x_n , x_1x_3 cdots x_n , ldots , x_1x_2 cdots x_{n-1} ) } = frac{( G( x_1 , ldots , x_n ) ) ^n }{ Aleft ( frac{prod_{i=1}^n x_i}{ x_1} , frac{prod_{i=1}^n x_i}{ x_2} , ldots , frac{prod_{i=1}^n x_i}{ x_n } right ) } . 	102	query300_Harmonic_mean\S\102
+H( x_1 , ldots , x_n ) = frac{( G( x_1 , ldots , x_n ) ) ^n }{ A( x_2x_3 cdots x_n , x_1x_3 cdots x_n , ldots , x_1x_2 cdots x_{n-1} ) } = frac{( G( x_1 , ldots , x_n ) ) ^n }{ Aleft ( frac{prod_{i=1}^n x_i}{ x_1} , frac{prod_{i=1}^n x_i}{ x_2} , ldots , frac{prod_{i=1}^n x_i}{ x_n } right ) } . 	102	query300_Harmonic_mean\S\102
+H( x_1 , ldots , x_n ) = frac{( G( x_1 , ldots , x_n ) ) ^n }{ A( x_2x_3 cdots x_n , x_1x_3 cdots x_n , ldots , x_1x_2 cdots x_{n-1} ) } = frac{( G( x_1 , ldots , x_n ) ) ^n }{ Aleft ( frac{prod_{i=1}^n x_i}{ x_1} , frac{prod_{i=1}^n x_i}{ x_2} , ldots , frac{prod_{i=1}^n x_i}{ x_n } right ) } . 	102	query300_Harmonic_mean\S\102
+H( x_1 , ldots , x_n ) = frac{( G( x_1 , ldots , x_n ) ) ^n }{ A( x_2x_3 cdots x_n , x_1x_3 cdots x_n , ldots , x_1x_2 cdots x_{n-1} ) } = frac{( G( x_1 , ldots , x_n ) ) ^n }{ Aleft ( frac{prod_{i=1}^n x_i}{ x_1} , frac{prod_{i=1}^n x_i}{ x_2} , ldots , frac{prod_{i=1}^n x_i}{ x_n } right ) } . 	102	query300_Harmonic_mean\S\102
+H( x_1 , ldots , x_n ) = frac{( G( x_1 , ldots , x_n ) ) ^n }{ A( x_2x_3 cdots x_n , x_1x_3 cdots x_n , ldots , x_1x_2 cdots x_{n-1} ) } = frac{( G( x_1 , ldots , x_n ) ) ^n }{ Aleft ( frac{prod_{i=1}^n x_i}{ x_1} , frac{prod_{i=1}^n x_i}{ x_2} , ldots , frac{prod_{i=1}^n x_i}{ x_n } right ) } . 	102	query300_Harmonic_mean\S\102
+H( x_1 , ldots , x_n ) = frac{( G( x_1 , ldots , x_n ) ) ^n }{ A( x_2x_3 cdots x_n , x_1x_3 cdots x_n , ldots , x_1x_2 cdots x_{n-1} ) } = frac{( G( x_1 , ldots , x_n ) ) ^n }{ Aleft ( frac{prod_{i=1}^n x_i}{ x_1} , frac{prod_{i=1}^n x_i}{ x_2} , ldots , frac{prod_{i=1}^n x_i}{ x_n } right ) } . 	102	query300_Harmonic_mean\S\102
+"frac G x_1 ^ n"	"is"	"Aleft frac prod _ i = 1 ^ n x_i frac prod _ i = 1 ^ n x_i"	102	query300_Harmonic_mean\P\102-0
+"Aleft frac prod _ i = 1 ^ n x_i frac prod _ i = 1 ^ n x_i"	"is"	"x_1"	102	query300_Harmonic_mean\P\102-1
+"frac G x_1 ^ n x_2"	"is"	"frac prod _ i = 1 ^ n x_i right"	102	query300_Harmonic_mean\P\102-2
+"frac G x_1 ^ n ldots"	"is"	"frac prod _ i = 1 ^ n x_i right"	102	query300_Harmonic_mean\P\102-3
+"frac prod _ i = 1 ^ n x_i"	"is"	"x_n"	102	query300_Harmonic_mean\P\102-4
+H( x_1 , x_2 ) = frac{( G( x_1 , x_2 ) )^2 }{ A( x_2 , x_1 ) }=frac{( G( x_2 , x_1 ) )^2 }{ A( x_2 , x_1 ) } H = frac { G^2 } {A} ( x_1 , x_2 ) . 	103	query300_Harmonic_mean\S\103
+H( x_1 , x_2 ) = frac{( G( x_1 , x_2 ) )^2 }{ A( x_2 , x_1 ) }=frac{( G( x_2 , x_1 ) )^2 }{ A( x_2 , x_1 ) } H = frac { G^2 } {A} ( x_1 , x_2 ) . 	103	query300_Harmonic_mean\S\103
+H( x_1 , x_2 ) = frac{( G( x_1 , x_2 ) )^2 }{ A( x_2 , x_1 ) }=frac{( G( x_2 , x_1 ) )^2 }{ A( x_2 , x_1 ) } H = frac { G^2 } {A} ( x_1 , x_2 ) . 	103	query300_Harmonic_mean\S\103
+H( x_1 , x_2 ) = frac{( G( x_1 , x_2 ) )^2 }{ A( x_2 , x_1 ) }=frac{( G( x_2 , x_1 ) )^2 }{ A( x_2 , x_1 ) } H = frac { G^2 } {A} ( x_1 , x_2 ) . 	103	query300_Harmonic_mean\S\103
+H( x_1 , x_2 ) = frac{( G( x_1 , x_2 ) )^2 }{ A( x_2 , x_1 ) }=frac{( G( x_2 , x_1 ) )^2 }{ A( x_2 , x_1 ) } H = frac { G^2 } {A} ( x_1 , x_2 ) . 	103	query300_Harmonic_mean\S\103
+H( x_1 , x_2 ) = frac{( G( x_1 , x_2 ) )^2 }{ A( x_2 , x_1 ) }=frac{( G( x_2 , x_1 ) )^2 }{ A( x_2 , x_1 ) } H = frac { G^2 } {A} ( x_1 , x_2 ) . 	103	query300_Harmonic_mean\S\103
+Generalized mean Harmonic number Rate ( mathematics ) Weighted mean HarmonicMean Harmonic Mean at cut-the-knot 	104	query300_Harmonic_mean\S\104
+"Generalized"	"mean"	"Harmonic number Rate Weighted mean HarmonicMean Harmonic Mean at cut-the-knot"	104	query300_Harmonic_mean\P\104-0
+"Generalized"	"mean"	"Harmonic number Rate Weighted mean HarmonicMean Harmonic Mean"	104	query300_Harmonic_mean\P\104-1
+"Harmonic number Rate"	"is"	"mathematics"	104	query300_Harmonic_mean\P\104-2

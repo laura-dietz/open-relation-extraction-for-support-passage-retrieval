@@ -1,0 +1,301 @@
+0	SVC (S: Pierce@19, V: "is", C: Celtics@22)
+1	SVC (S: TSN@2, V: "is", C: Canada@4)	SVC (S: Others@6, V: "is", C: Celtics@84)	SVC (S: Jackson@19, V: "is", C: 2007@21)	SVO (V: defeated@85, S: Others@6, O: Pistons@86)	SVO (V: defeated@92, S: Lakers@91, O: Spurs@93)	SVOO (V: win@100, S: Celtics@99, O: championship@103, IO: Spurs@93)	SVC (C: series@111, V: was@108, S: Finals@107, A?: of@112)	SVO (S: season@125, V: "has", O: playoffs@127)
+2	SVC (S: Celtics@3, V: "is", C: champions@6)	SVO (V: defeated@12, S: Celtics@3, O: Lakers@16)	SVC (S: Lakers@16, V: "is", C: champions@19)	SVC (S: Lakers@16, V: "is", C: games@26)
+3	SVC (C: title@6, V: was@2, S: This@1, A?: since@7)	SVO (S: Boston@3, V: "has", O: title@6)
+4	SVO (V: marked@2, S: 2008@1, O: time@5)	SVA (V: met@15, S: seeds@11, A!: in@16)	SVA (V: time@22, S: seeds@11, A?: in@16, A!: since@23)	SVA (V: "be played", S: team@29, A!: in@31)
+5	SVA (V: appeared@3, S: Lakers@2, A!: in@4, A?: for@7)
+6	SVA (V: appeared@3, S: Celtics@2, A!: in@4, A?: for@7)
+7	SVA (V: "be Going", S: Celtics@7, A!: into@2)	SVA (V: won@9, S: Celtics@7, A?: Going@1, A!: all-time@13)	SVA (V: all-time@13, S: championships@12, A!: with@14)	SVC (C: second@21, V: were@20, S: Lakers@19, A?: with@22)
+8	SVC (S: clubs@3, V: "is", C: teams@8)	SVC (V: looked@13, S: clubs@3, XCOMP: renew@15)	SVO (S: their@22, V: "has", O: Finals@24)	SVA (V: meeting@25, S: Finals@24, A!: in@26)
+9	SVO (V: missed@3, S: They@1, A?: narrowly@2, O: meeting@4)	SVO (V: advanced@13, S: Lakers@12, A?: when@10, A?: to@14, O: 2002@8)	SVOA (V: led@23, S: Celtics@20, O: 2-1@24, A!: in@25)	SVA (V: fell@31, S: Celtics@20, A?: eventually@30, A!: to@32)
+10	SVC (C: time@5, V: was@2, S: This@1)	SVO (V: met@8, S: teams@7, A?: in@9, O: time@5)	SVA (V: "be winning", S: Celtics@15, A!: in@29)	SVO (V: won@16, S: Celtics@15, O: eight@17, A?: winning@28)	SVO (S: their@19, V: "has", O: meetings@23)	SVA (V: won@48, S: Lakers@47, A!: in@49)
+11	SVOO (V: gave@8, S: Celtics@2, IO: them@9, O: advantage@12)
+12	SVC (C: time@5, V: was@2, S: This@1, A?: since@6)	SVOO (V: beat@13, S: Bulls@12, A?: when@9, O: Jazz@16, A?: for@17, IO: 1997@7)	SVO (V: had@34, S: team@33, O: advantage@38)	SVO (V: Finals@42, S: team@33, O: advantage@38, A?: since@43, A?: feature@47)	SVA (V: "be feature", S: Finals@42, O: Duncan@50)
+13	SVO (V: narrated@3, S: Houston@2, O: documentary@10)	SVO (S: Celtics@6, V: "has", O: documentary@10)
+14	SVA (V: narrated@8, S: version@3, A!: by@9)
+15	SVO (V: making@4, S: Celtics@2, O: appearance@9)	SVO (S: their@5, V: "has", O: appearance@9)
+16	SVA (V: "be making", S: Celtics@7, O: playoffs@18, A!: in@19)	SVA (V: suffer@9, S: Celtics@7, A?: Over@1, A!: through@10, A?: making@16)
+17	SVO (V: suffered@12, S: Celtics@11, A?: through@13, O: departures@3)	SVC (S: passing@19, V: "is", C: a@26)	SVC (S: season@32, V: "is", C: hiring@36)	SVA (V: culminated@57, S: Johnson@55, A!: in@58)	SVA (V: "be highlighted", S: season@64, A!: by@67)
+18	SVA (V: was@3, S: hope@2, A!: on@4)
+19	SVO (V: saw@4, S: off-season@3, CCOMP: acquire@9)	SVOC (V: acquire@9, S: Ainge@8, O: Allen@11, XCOMP: join@16)
+20	SVOC (V: led@7, S: Three@5, O: Celtics@9, A?: to@10, XCOMP: finishing@16)
+21	SVA (V: pushed@7, S: Celtics@5, A?: In@1, A!: to@8, A?: by@11)	SVO (V: managed@28, S: they@27, A?: despite@20, XCOMP: prevail@30)	SVO (S: their@38, V: "has", O: court@40)
+22	SVO (V: break@5, S: Celtics@2, A?: finally@4, O: woes@8, A?: in@9)	SVO (S: their@6, V: "has", O: woes@8)	SVA (V: "be earning", S: win@12, O: finals@25)	SVO (S: their@23, V: "has", O: finals@25)
+23	SV (V: retired@19, S: Jackson@17, A?: After@1, A?: abruptly@18)
+24	SVO (V: decided@5, S: Lakers@4, A?: Soon@1, XCOMP: rebuild@7)
+25	SVO (V: saw@6, S: season@5, CCOMP: miss@9)	SVO (V: miss@9, S: Lakers@8, O: playoffs@11, A?: for@12)
+26	SVO (V: written@5, S: he@3, A-: Even@1, O: book@7)	SVA (V: "be called", S: book@7)	SVA (V: "be going", S: Season@11, A!: far@15)	SVO (V: returned@25, S: Jackson@24, A?: to@26, A?: for@29, O: season@34)	SVO (V: returned@25, S: Season@11, A?: to@26, A?: for@29, O: season@34)
+27	SVO (V: patch@5, S: Jackson@1, O: differences@7)	SVO (S: their@6, V: "has", O: differences@7)	SV (V: demanded@18, S: Bryant@17, A?: after@10)	SVO (V: retracted@22, S: Bryant@17, A?: after@10, A?: later@21, O: trade@25)
+28	SVO (S: Lakers@2, V: "has", O: season@5)	SVO (V: saw@6, S: season@5, CCOMP: win@9, A?: along@13, A?: recovering@27)	SVO (V: win@9, S: team@8, O: games@11)	SVA (V: "be adding", S: way@15, O: Gasol@20, A!: in@21)	SVA (V: recovering@27, S: Bynum@25, A!: from@28)
+29	SVO (V: eliminated@3, S: Lakers@2, O: Nuggets@6, A?: then@9)	SVO (S: their@31, V: "has", O: appearance@35)
+30	SVOC (V: won@7, S: Celtics@6, O: games@9, A?: in@10, O: Center@58)	SVC (S: Garden@35, V: "is", C: KCAL@38)	SVC (S: Garden@35, V: "is", C: December@41)	SVC (S: Center@58, V: "is", C: Celtics@64)	SVA (V: "be #merge", S: NBA_Finals@72, CCOMP: _@76)	SVO (V: _@76, S: from_2008_Finals@75, O: Celtics-Lakers_rivalry@80)
+31	
+32	
+33	SVA (V: "be listed", S: times@4, A!: below@6)	SVC (C: Time@10, V: are@7, S: February@1)
+34	
+35	
+36	SVC (S: Lakers@13, V: "is", C: Celtics@17)	SVC (S: Garnett@32, V: "is", C: Bryant@41)	SVC (S: Bryant@41, V: "is", C: TOs@47)	SVC (S: Garden@57, V: "is", C: Boston@59)
+37	
+38	
+39	SVC (S: ABC@4, V: "is", C: TSN@6)	SVC (S: TSN@6, V: "is", C: Canal@10)
+40	SVOC (V: scored@3, S: Pierce@2, O: points@5, A?: in@6, XCOMP: give@11)	SVO (V: paced@21, S: Garnett@20, O: attack@24, A?: with@25)
+41	SVO (V: struggled@3, S: Bryant@2, A?: with@4, XCOMP: finishing@9)	SVO (S: his@5, V: "has", O: touch@7)
+42	SVO (V: injured@5, S: Pierce@3, A?: apparently@4, O: knee@7, A?: by@8)	SVOC (V: taken@19, S: Pierce@3, A?: apparently@4, O: knee@7, A?: by@8, O: court@22)	SVO (S: his@6, V: "has", O: knee@7)	SVO (S: Perkins@13, V: "has", O: leg@15)
+43	SVO (S: Pierce@3, V: "has", O: reaction@5)	SVO (V: returned@14, S: he@13, CCOMP: injury@11, A?: to@15, A?: later@18, A?: to@19)
+44	SVO (V: suggested@2, S: Some@1, O: comparison@5)
+45	
+46	
+47	
+48	
+49	
+50	
+51	
+52	SVA (V: orchestrated@9, S: episode@7, A!: by@10, A?: as@12)	SV (V: moment@18, S: Reed@17)
+53	SVO (V: hit@3, S: He@1, A?: soon@2, O: three-pointers@5, A?: on@6)	SVOO (V: gave@11, S: possessions@9, IO: Boston@12, O: lead@14)	SVOO (V: finished@18, S: possessions@9, IO: Boston@12, O: lead@14, A?: with@19)
+54	SVO (V: had@6, S: Lakers@2, O: advantage@9, A?: throughout@10)	SVOC (V: trailed@18, S: Lakers@2, O: advantage@9, A?: throughout@10, O: series@20, A?: in@21)	SVO (V: had@27, S: Lakers@2, A?: now@26, XCOMP: do@29)
+55	SVC (S: Pierce@27, V: "is", C: Radmanović@32)	SVC (S: Pierce@27, V: "is", C: TOs@42)	SVA (S: Garden@52, V: "is in", C: Boston@54)
+56	
+57	
+58	SVC (S: ABC@4, V: "is", C: TSN@6)	SVC (S: Powe@22, V: "is", C: center@24)	SVOO (V: had@26, S: Canal@10, O: performance@29, IO: TSN@6)	SVO (V: jumped@35, S: Lakers@34, A?: to@37, O: lead@45)	SVA (V: "be answered", S: Celtics@49, A!: with@51)
+59	SVO (V: held@3, S: Celtics@2, O: lead@6)	SVA (V: "be go", S: lead@6, A!: in@14, A?: cut@21)	SVO (V: cut@21, S: Lakers@20, O: lead@23, A?: to@24, A?: with@27)
+60	SVA (V: "be go", S: seconds@1, A!: with@4)
+61	SVA (V: closed@7, S: Pierce@2, A-: then@6, A!: out@8, A?: throws@14)	SVO (V: throws@14, S: two@12, O: each@15)
+62	SVO (V: had@3, S: Lakers@2, O: chance@5)	SVA (V: "be cut", S: chance@5, A!: into@8)	SVO (S: Boston@9, V: "has", O: lead@13)	SVA (V: "be resulting", S: left@17, A!: in@33)	SVO (V: failed@22, S: ball@21, XCOMP: get@24)	SVA (V: "be shot", S: a@34, A!: by@36)	SVA (V: blocked@41, S: Vujačić@38, A!: by@42)
+63	SVO (V: finished@2, S: Bryant@1, O: game@4, A?: with@5)	SV (V: assists@10, S: 8@9)
+64	SVC (S: Powe@2, V: "is", C: player@8)	SVO (V: scored@10, S: Powe@2, O: points@12, A?: on@13)
+65	SVC (V: shot@10, S: Powe@9, A?: Over@1, ACOMP: free@12, A?: shot@17)	SVO (V: shot@17, S: Lakers@16, O: 10@18)
+66	SVA (V: "be suffered", S: injuries@2, A!: by@4)	SVC (S: Perkins@12, V: "is", C: sprain@16)	SVA (V: started@21, S: players@20, A?: Despite@1, A!: in@22)	SVOC (V: appeared@26, S: players@20, A?: Despite@1, A?: in@22, XCOMP: unhampered@30, O: Pierce@36)	SVA (V: finished@38, S: Pierce@36, A!: with@39)
+67	SVO (V: finished@2, S: Boston@1, O: game@4, A?: 10-for-10@14)	SVC (C: 10-for-10@14, V: were@13, S: Lakers@12)
+68	SVO (V: viewed@3, S: analysts@2, O: this@4, A?: as@5, A?: noted@14)	SVO (V: noted@14, S: others@13, CCOMP: led@23)	SVA (V: led@23, S: difference@17, A!: to@24)	SVC (C: 28@36, V: was@34, S: discrepancy@33, A?: only@35)
+69	SVC (S: Bryant@27, V: "is", C: Vujačić@30)	SVC (S: Center@49, V: "is", C: No@54)
+70	
+71	
+72	SVC (S: ABC@4, V: "is", C: TSN@6)	SVA (V: "be leading", S: ABC@4, O: Lakers@41)	SVC (S: Canal@10, V: "is", C: Canal@13)	SVOO (V: won@17, S: Lakers@16, O: game@18, IO: Canal@13)	SVO (V: scored@33, S: TSN@6, O: points@37)	SVO (S: their@43, V: "has", O: series@45)	SV (V: win@46, S: series@45)	SVA (V: adding@48, S: series@45, A!: to@49)	SVO (S: their@50, V: "has", O: streak@52)
+73	SVO (V: scored@3, S: Vujačić@2, O: points@5, A?: in@6)	SVA (V: "be making", S: Pierce@11, O: two@20)	SVO (V: had@12, S: Pierce@11, O: game@16, A?: making@18)	SVO (S: his@22, V: "has", O: attempts@26)
+74	SVO (V: had@4, S: Garnett@2, A?: also@3, O: shooting@6, A?: finishing@8)	SVA (V: "be finishing", S: Garnett@2, A!: with@9)
+75	SVC (C: member@6, V: was@3, S: Allen@2, A?: of@7, A?: with@18)	SVO (S: Boston@8, V: "has", O: Big@10)	SVA (V: scored@13, S: Big@10, A!: over@14)
+76	SVC (S: Pierce@25, V: "is", C: Gasol@34)	SVC (S: Pierce@25, V: "is", C: Stls@42)	SVC (S: Center@51, V: "is", C: No@56)
+77	
+78	
+79	SVC (S: ABC@4, V: "is", C: TSN@6)	SVC (S: TSN@6, V: "is", C: Canal@10)	SVO (V: jumped@17, S: Lakers@16, A?: to@19, A?: after@25, O: Canal@10)	SVC (C: lead@35, V: was@31, S: quarter@28, A?: in@36)
+80	SVOC (V: held@3, S: Lakers@2, O: ground@5, A?: for@6, XCOMP: leading@13)	SVO (S: their@4, V: "has", O: ground@5)
+81	SVC (V: went@5, S: Celtics@4, A?: However@1, A?: on@6, XCOMP: end@13, XCOMP: closing@18)
+82	SVA (V: "be remaining", S: 4:07@2, A!: in@4)	SVOA (V: took@11, S: Celtics@10, A?: With@1, O: lead@14, A!: made@24)	SVO (S: their@12, V: "has", O: lead@14)	SVO (S: Celtics@19, V: "has", O: House@23)	SVO (V: made@24, S: House@23, A?: when@18, O: m@28)
+83	SVO (S: House@2, V: "has", O: shot@4)	SVA (V: were@8, S: Celtics@7, A?: With@1, A!: in@9)
+84	SVO (S: Celtics@2, V: "has", O: victory@4)	SVC (C: comeback@11, V: was@8, S: victory@4, A?: in@12, A?: since@16)
+85	SVO (V: had@3, S: Bryant@2, O: points@5, A?: on@6, A?: go@15)	SVA (V: "be go", S: Bryant@2, A!: with@17)
+86	SVO (V: outscored@4, S: bench@3, O: bench@7)	SVC (S: 15@10, V: "is", C: 29@12)	SVA (V: "be coming", S: points@15, A!: from@17)
+87	SVA (V: finished@3, S: Garnett@2, A!: with@4, A?: in@10)	SVC (S: Allen@13, V: "is", C: 19@15)	SVC (S: Pierce@18, V: "is", C: 20@20)
+88	SVC (S: Center@46, V: "is", C: No@51)
+89	
+90	
+91	SVC (S: ABC@4, V: "is", C: TSN@6)	SVA (V: "be leading", S: ABC@4, O: 43@30)	SVC (S: Canal@10, V: "is", C: Canal@13)	SVO (V: jumped@22, S: Lakers@21, A?: to@24, O: TSN@6)	SVO (V: play@37, S: 24@32, A?: with@33, A?: in@38, O: 43@30)
+92	SVC (V: came@9, S: Celtics@8, A?: as@2, A?: back@10, XCOMP: taking@12)
+93	SVO (V: regained@4, S: Lakers@2, A?: finally@3, O: composure@6, A?: outscoring@8)	SVA (V: "be outscoring", S: Lakers@2, O: Boston@9)	SVO (S: their@5, V: "has", O: composure@6)
+94	SVA (V: outscored@8, S: Lakers@6, A?: In@1, A!: by@9)	SVC (S: 31@18, V: "is", C: 17@30)
+95	SVO (V: built@3, S: Lakers@2, O: lead@6)	SVA (V: came@16, S: Celtics@14, A?: again@15, A!: back@17, A?: with@18)	SVA (V: "be tie", S: run@23, O: game@27, A!: at@28)
+96	SVA (V: left@6, S: minute@5, A!: in@7)	SVO (V: had@13, S: Celtics@12, A?: left@6, O: ball@15, A?: with@16)	SVO (V: leading@19, S: Lakers@18, O: 97@20)
+97	SVO (V: beat@2, S: Pierce@1, O: Bryant@3, A?: off@4)	SVO (V: knocked@10, S: Bryant@9, O: ball@12, A?: out@13, A?: from@18)	SVO (S: Pierce@15, V: "has", O: hands@17)
+98	SVO (V: picked@3, S: Odom@2, O: ball@7, A?: giving@18)	SVOC (V: passed@9, S: Odom@2, O: ball@7, O: downcourt@10, A?: to@11, A?: for@13, A?: giving@18)	SVA (V: "be giving", S: Odom@2, IO: Lakers@20, O: 99@22)
+99	SVA (V: went@3, S: Lakers@2, A!: on@4)
+100	SVOC (V: shot@3, S: Bryant@2, O: 8@4, A?: from@7, A?: for@10, XCOMP: go@15)
+101	SVO (V: contributed@3, S: Gasol@2, O: points@5)	SV (V: assists@11, S: 6@10)
+102	SVC (S: Allen@15, V: "is", C: points@18)	SVO (V: receive@31, S: had@5, O: support@33)	SVA (V: "be clinch", S: support@33, O: championship@40, A!: at@41)	SVO (S: his@35, V: "has", O: teammates@36)
+103	SVA (V: "be stacked", S: odds@4, A!: against@6, XCOMP: come@10)	SVC (S: deficit@17, V: "is", C: Jackson@19)	SVO (V: said@20, S: deficit@17, A?: As@1, ACOMP: enough@29, XCOMP: do@31)	SVC (C: young@25, V: 're@24, S: We@23)
+104	SVC (S: Allen@28, V: "is", C: FG@40)	SVA (S: Garden@50, V: "is in", C: Boston@52)
+105	
+106	
+107	SVC (S: ABC@4, V: "is", C: TSN@6)	SVC (S: TSN@6, V: "is", C: Canal@10)	SVOC (V: wins@16, S: Boston@15, CCOMP: celebrate@32, O: Canal@10)	SV (V: _@24, S: Celticsfans@23)	SVO (V: celebrate@32, S: series@17, O: title@37, A?: needed@43)	SVO (V: celebrate@32, S: personnel@28, O: title@37, A?: needed@43)	SVO (S: franchise@34, V: "has", O: title@37)	SVO (V: needed@43, S: Celtics@42, O: games@45, A?: win@47)	SVA (V: "be win", S: Celtics@42, O: title@50)	SVO (S: their@48, V: "has", O: title@50)
+108	
+109	SVA (V: "be breaking", S: Entering@1, O: record@25)	SVOO (V: set@7, S: Celtics@6, O: record@9, IO: Game@2)	SVA (V: "be played", S: games@13, A!: in@15)	SVA (V: "be set", S: record@25, A!: by@29)	SVOC (V: Coach@39, S: Celtics@38, O: Knicks@35, O: Rivers@41)	SVA (V: lost@54, S: whom@53, A!: in@55, A?: in@59)	SVO (S: their@56, V: "has", O: finals@58)	SVC (S: Knicks@63, V: "is", C: Pistons@67)
+110	
+111	
+112	
+113	
+114	SVOC (C: best-of-five@44, V: was@42, S: round@41, O: D2@31)
+115	SVO (V: dominated@9, S: Celtics@8, A?: After@1, O: rest@11)
+116	SVO (S: Celtics@11, V: "has", O: Three@14)	SVA (V: "be performed", S: Three@14, A!: phenomenally@16)	SVO (V: smothered@22, S: team@21, O: offense@26, A?: with@27)	SVO (S: Lakers@24, V: "has", O: offense@26)	SVO (S: their@28, V: "has", O: defense@30)
+117	SVA (V: dominated@2, S: Boston@1, A!: in@3)	SVC (S: turnovers@26, V: "is", C: 7@28)	SV (V: steals@33, S: rebounds@9)	SV (V: assists@40, S: rebounds@9)	SV (V: blocks@47, S: rebounds@9)
+118	SVA (V: finished@3, S: Celtics@2, A!: in@4)
+119	SVO (V: hit@2, S: Allen@1, O: pointers@5, A?: tie@7)	SVA (V: "be tie", S: Allen@1, CCOMP: record@13)	SVC (C: record@13, V: was@9, S: what@8, A-: then@10)	SVO (V: broke@18, S: he@16, O: which@15, A?: subsequently@17, A?: during@19, A?: during@27)	SVO (V: had@34, S: Rondo@33, O: performance@38)	SVC (S: points@41, V: "is", C: rebounds@44)	SVO (V: assists@47, S: 7@46, O: points@41)	SVO (V: steals@50, S: 6@49, O: points@41)	SVO (V: turned@56, S: Celtics@54, A?: only@55, O: ball@58, A?: over@59)	SVOC (V: set@63, S: Celtics@54, A?: only@55, O: ball@58, A?: over@59, O: record@66, A?: steals@69)	SV (V: steals@69, S: 18@68)	SVO (V: saw@76, S: player@74, O: action@77)	SV (V: scored@78, S: player@74)
+120	
+121	
+122	SV (V: =@2, S: asp?gamecode@1)
+123	
+124	
+125	SV (V: =@2, S: asp?gamecode@1)
+126	SVC (S: June@1, V: "is", C: Globe@6)	SVC (C: largest@15, V: was@13, S: June@1, A?: ever@16, A?: in@17)
+127	
+128	
+129	
+130	
+131	SVOC (C: close@13, V: was@12, S: lead@11, A?: to@14, O: News@9)	SVA (V: "be set", S: record@18, A!: in@20, A?: in@23)	SVOO (V: led@30, S: Jordan@28, A?: where@25, O: team@33, IO: 1998@24)	SVC (S: points@40, V: "is", C: 96@42)
+132	
+133	
+134	
+135	
+136	
+137	SVC (S: Roll@2, V: "is", C: June@9)
+138	SVC (S: Roll@2, V: "is", C: June@9)	SVA (V: "be beating", S: Post@17, O: them@36, A!: in@37, A?: for@40)	SVOO (V: improved@22, S: Celtics@20, A?: also@21, O: record@25, A?: against@26, A?: to@29, A?: in@31, IO: Post@17)	SVO (S: their@23, V: "has", O: record@25)
+139	
+140	
+141	SV (V: =@2, S: asp?gamecode@1)
+142	
+143	
+144	SV (V: =@2, S: asp?gamecode@1)
+145	SVC (S: June@1, V: "is", C: Globe@6)	SVOC (C: championship@14, V: was@9, S: This@8, O: June@1)	SVO (S: Celtics@11, V: "has", O: championship@14)	SVO (S: their@16, V: "has", O: first@17)	SVO (S: their@22, V: "has", O: record@23)	SVA (V: "be won", S: championships@27, A!: by@29)
+146	SVOO (V: capped@3, S: this@2, O: season@10, IO: All@1)	SVO (S: Celtics@6, V: "has", O: season@10)	SVC (S: season@10, V: "is", C: 66-16@12)	SVO (S: their@15, V: "has", O: season@18)	SVOO (V: went@22, S: they@21, A?: in@19, O: 67-15@23, IO: season@18)
+147	SVC (C: sense@5, V: was@2, S: It@1, A?: also@3, A?: of@6, A?: set@12)	SVOC (V: set@12, S: Celtics@11, O: record@15, A?: for@16, A?: with@27, XCOMP: surpassing@30)	SVA (V: "be needed", S: games@19, A!: ever@20, XCOMP: win@23)
+148	SVO (V: win@4, S: Celtics@2, CCOMP: seen@7)	SVC (S: XXXIX@36, V: "is", C: seasons@43)	SVO (S: Sox@48, V: "has", O: Series@51)
+149	SVO (V: won@3, S: Celtics@2, O: series@5, A?: by@6)	SVO (V: met@26, S: teams@25, A?: in@27, O: time@22)	SVO (V: won@32, S: Lakers@31, A?: coincidentally@18, A?: time@22, O: series@34)
+150	SVC (S: HS@20, V: "is", C: PA@22)
+151	SVC (S: HS@2, V: "is", C: NJ@4)	SVA (V: "be yes", S: HS@2)
+152	
+153	SVC (S: C@12, V: "is", C: Texas@16)	SVC (S: Miami@24, V: "is", C: F@33)	SVC (S: Jackson@77, V: "is", C: Dakota@80)	SVC (S: Hamblen@84, V: "is", C: Syracuse@86)	SVC (S: Cleamons@118, V: "is", C: State@121)	SVC (S: Winter@125, V: "is", C: USC@127)
+154	
+155	
+156	
+157	SVC (S: University@94, V: "is", C: USA@99)	SVC (S: Hill@137, V: "is", C: Princeton@139)	SVC (S: Eastman@143, V: "is", C: Richmond@145)	SVC (S: Thibodeau@155, V: "is", C: Oklahoma@151)	SVC (S: Thibodeau@155, V: "is", C: State@158)
+158	
+159	
+160	SVO (V: =@5, S: class@4, O: toccolours@7)
+161	SV (V: =@2, S: colspan@1)
+162	
+163	
+164	SV (V: =@14, S: class@13)
+165	
+166	
+167	
+168	
+169	
+170	
+171	
+172	
+173	
+174	
+175	
+176	
+177	
+178	
+179	
+180	
+181	SVC (S: HS@23, V: "is", C: PA@25)
+182	SVC (S: HS@2, V: "is", C: NJ@4)	SVA (V: "be yes", S: HS@2)
+183	
+184	SVC (S: C@12, V: "is", C: Texas@16)	SVC (S: Miami@24, V: "is", C: F@33)	SVC (S: Jackson@77, V: "is", C: Dakota@80)	SVC (S: Hamblen@84, V: "is", C: Syracuse@86)	SVC (S: Cleamons@118, V: "is", C: State@121)	SVC (S: Winter@125, V: "is", C: USC@127)
+185	
+186	
+187	SVO (V: =@5, S: class@4, O: toccolours@7)
+188	SV (V: =@2, S: colspan@1)
+189	
+190	
+191	SV (V: =@14, S: class@13)
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	
+206	
+207	
+208	
+209	SVC (S: University@94, V: "is", C: USA@99)	SVC (S: Hill@137, V: "is", C: Princeton@139)	SVC (S: Eastman@143, V: "is", C: Richmond@145)	SVC (S: Thibodeau@155, V: "is", C: Oklahoma@151)	SVC (S: Thibodeau@155, V: "is", C: State@158)
+210	
+211	
+212	SVO (V: =@5, S: class@4, O: toccolours@7)
+213	SV (V: =@2, S: colspan@1)
+214	
+215	
+216	SV (V: =@14, S: class@13)
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	
+233	SVC (S: HS@23, V: "is", C: PA@25)
+234	SVC (S: HS@2, V: "is", C: NJ@4)	SVA (V: "be yes", S: HS@2)
+235	
+236	SVC (S: C@12, V: "is", C: Texas@16)	SVC (S: Miami@24, V: "is", C: F@33)	SVC (S: Jackson@77, V: "is", C: Dakota@80)	SVC (S: Hamblen@84, V: "is", C: Syracuse@86)	SVC (S: Cleamons@118, V: "is", C: State@121)	SVC (S: Winter@125, V: "is", C: USC@127)
+237	
+238	
+239	SVO (V: =@5, S: class@4, O: toccolours@7)
+240	SV (V: =@2, S: colspan@1)
+241	
+242	
+243	SV (V: =@14, S: class@13)
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	
+255	
+256	
+257	
+258	
+259	
+260	
+261	SVC (S: University@94, V: "is", C: USA@99)	SVC (S: Hill@137, V: "is", C: Princeton@139)	SVC (S: Eastman@143, V: "is", C: Richmond@145)	SVC (S: Thibodeau@155, V: "is", C: Oklahoma@151)	SVC (S: Thibodeau@155, V: "is", C: State@158)
+262	
+263	
+264	
+265	SVC (S: TSN@3, V: "is", C: Canada@5)	SVOC (V: covered@13, S: broadcasters@9, O: Finals@15, O: NBA.com@18)	SVOC (V: TSN@3, S: broadcasters@9, O: Finals@15, O: NBA.com@18)
+266	SVO (V: raced@7, S: Celtics@6, A?: In@1, A?: to@8, O: best@14, A?: ended@33)	SVO (V: ended@33, S: rematch@26, O: streak@38)
+267	SVO (V: injured@9, S: Garnett@8, O: knee@12)	SVO (V: lost@16, S: Garnett@8, O: knee@12, A?: for@17)	SVO (S: his@10, V: "has", O: knee@12)
+268	SVO (V: won@3, S: Celtics@2, O: games@5)	SVO (V: affected@12, S: absence@9, O: team@14, A?: eliminated@18)	SVA (V: eliminated@18, S: they@16, A!: in@19, A?: by@22)
+269	SVO (V: rebounded@3, S: Lakers@2, XCOMP: win@5)
+270	SVO (V: threatened@9, S: injury@5, A-: Even@1, O: drive@12)	SVO (S: their@10, V: "has", O: drive@12)	SVA (V: come@16, S: he@14, A?: threatened@9, A!: back@17, A?: late@18)
+271	SVC (V: became@3, S: Lakers@2, XCOMP: team@6)	SVA (V: "be win", S: team@6, O: Finals@15, A!: after@16)
+272	SVA (V: meet@5, S: teams@2, A?: eventually@4, A!: again@6, A?: in@7)	SVOO (V: defeated@12, S: Lakers@11, A?: where@9, O: Celtics@14, A?: in@15, IO: 2010@8)
+273	SVO (S: Celtics@2, V: "has", O: championship@5)	SVO (V: raised@6, S: championship@5, O: total@8, A?: to@16)	SVO (V: continued@21, S: it@20, O: string@23, A?: for@26, A?: decade@30)
+274	SVO (S: NFL@2, V: "has", O: Patriots@6)	SVO (V: won@7, S: Patriots@6, O: Bowl@10, A?: in@11)	SVOC (V: won@20, S: Patriots@6, O: Bowl@10, A?: in@11, A?: nearly@19, O: fourth@22)	SVOC (V: have@30, S: Patriots@6, O: Bowl@10, A?: in@11, A?: only@28, O: season@33)	SVA (V: "be denied", S: season@33, A!: by@35, A?: earlier@42)
+275	SVO (S: Baseball@3, V: "has", O: Sox@7)	SVA (V: "be adding", S: Sox@7, O: total@24, A!: to@25)	SVO (V: won@8, S: Sox@7, O: title@14, A?: adding@22)	SVO (S: their@10, V: "has", O: title@14)	SVO (S: their@23, V: "has", O: total@24)
+276	SVO (S: NHL@3, V: "has", O: Bruins@6)	SVO (V: winning@7, S: Bruins@6, O: Finals@12)	SVC (V: became@18, S: city@15, A?: winning@7, XCOMP: city@21)	SVA (V: "be win", S: city@21, O: championships@24, A!: in@25, A?: in@30)
+277	SVO (S: city@2, V: "has", O: tally@6)	SVA (V: stands@8, S: tally@6, A?: now@7, A!: at@9)
+278	SVO (V: finale@36, S: NBA@35, O: 2008@37)
+279	
+280	
+281	
+282	
+283	
+284	
+285	SVO (V: eee@4, S: Rush@3, O: No@5)
+286	
+287	
+288	SVO (V: eee@4, S: Mauer@3, O: No@5)
+289	
+290	
+291	SVO (V: eee@4, S: Wunderlich@3, O: No@5)
+292	
+293	
+294	SVO (V: eee@4, S: Washington@3, O: No@5)
+295	
+296	
+297	SVO (V: eee@4, S: Mauer@3, O: No@5)
+298	
+299	
+300	SVC (S: Jackson@19, V: "is", C: Dakota@22)	SVC (S: Hamblen@26, V: "is", C: Syracuse@28)	SVC (S: Rambis@32, V: "is", C: Clara@35)	SVC (S: Cleamons@60, V: "is", C: State@63)	SVC (S: Winter@67, V: "is", C: USC@69)	SVC (S: Rivers@73, V: "is", C: Marquette@75)	SVC (S: Hill@79, V: "is", C: Princeton@81)	SVC (S: Eastman@85, V: "is", C: Richmond@87)	SVC (S: Ray@91, V: "is", C: Oklahoma@93)	SVC (S: Thibodeau@97, V: "is", C: State@100)	SVC (S: Jackson@104, V: "is", C: Dakota@107)	SVC (S: Hamblen@111, V: "is", C: Syracuse@113)	SVC (S: Rambis@117, V: "is", C: Clara@120)	SVC (S: Cleamons@145, V: "is", C: State@148)	SVC (S: Winter@152, V: "is", C: USC@154)	SVC (S: Rivers@158, V: "is", C: Marquette@160)	SVC (S: Hill@164, V: "is", C: Princeton@166)	SVC (S: Eastman@170, V: "is", C: Richmond@172)	SVC (S: Ray@176, V: "is", C: Oklahoma@178)	SVC (S: Thibodeau@182, V: "is", C: State@185)	SVA (V: "be joined", S: 5@218, A!: in@220)	SVA (V: "be covered", S: games@224, A!: in@226)	SVC (S: TSN@236, V: "is", C: NBA@238)	SVC (S: CCTV-5@243, V: "is", C: broadcasters@247)	SVC (S: ESPN@279, V: "is", C: Sports@289)	SVC (S: ESPN@279, V: "is", C: Hungary@293)	SVC (S: ESPN@279, V: "is", C: Channel@286)	SVA (S: Sport1@295, V: "is in", C: India@298)	SVC (S: ESPN@303, V: "is", C: Italy@310)	SVC (S: Plus@322, V: "is", C: BS-1@325)	SVC (S: BS-1@325, V: "is", C: Korea@329)	SVC (S: Sports@332, V: "is", C: Latvia@336)	SVA (S: East@345, V: "is in", C: Africa@348)	SVC (S: RPN@361, V: "is", C: Poland@365)	SVOA (V: kept@419, S: curse@416, O: Celtics@421, A!: from@422)	SVA (V: broken@432, S: curse@416, A!: in@433)

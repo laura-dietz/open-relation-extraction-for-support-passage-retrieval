@@ -1,0 +1,148 @@
+0	
+1	SVC (C: level@4, V: is@2, S: Health@1, A?: of@5)
+2	SVC (C: condition@8, V: is@5, S: it@4, A?: In@1, A?: of@9, A?: meaning@20)	SVA (V: "be meaning", S: condition@8, A!: usually@19, XCOMP: free@23)	SVC (S: condition@8, V: "is", C: body@15)	SVO (S: person@11, V: "has", O: mind@13)
+3	
+4	
+5	SVO (S: its@11, V: "has", O: sense@13)
+6	
+7	
+8	
+9	SVC (S: 0@1, V: "is", C: 12@3)
+10	SVC (S: Conference@22, V: "is", C: York@25)
+11	
+12	
+13	
+14	
+15	SVC (S: edition@6, V: "is", C: October@10)
+16	SVC (C: subject@6, V: been@5, S: definition@3, A?: to@7)	SVA (V: "be created", S: problem@21, A!: by@23)	SVC (V: remains@33, S: it@32, A?: subject@6, A?: in@10, A?: as@12, XCOMP: enduring@36)
+17	
+18	
+19	
+20	SVC (S: AR@2, V: "is", C: L.@5)
+21	
+22	SVC (S: Health@21, V: "is", C: ICF@23)	SVC (S: Diseases@30, V: "is", C: ICD@32)	SVOC (V: used@37, S: Family@7, O: the@5, A?: commonly@36, XCOMP: define@39)
+23	SVA (V: achieved@8, S: maintenance@2, A!: through@9)
+24	
+25	
+26	
+27	
+28	
+29	
+30	SVC (S: Points@2, V: "is", C: Inc.@4)
+31	SVC (C: Charter@6, V: 's@3, S: WHO@2, A?: for@7)	SVO (V: furthered@10, S: Charter@6, CCOMP: state@17)	SVC (C: state@17, V: is@13, S: health@12, A?: just@15, A?: also@20)	SVC (S: resource@23, V: "is", C: objective@30)
+32	SVC (C: concept@5, V: is@2, S: Health@1, A?: emphasizing@6)	SVA (V: "be emphasizing", S: concept@5, O: resources@10)
+33	
+34	
+35	SVC (S: Promotion@10, V: "is", C: Ottawa@12)	SVC (S: Promotion@10, V: "is", C: November@15)
+36	
+37	SVA (V: "be prevent", S: activities@2, O: problems@8)	SVA (V: "be prevent", S: activities@2, O: problems@8)	SVA (V: "be prevent", S: activities@2, O: problems@8, O: health@12, A!: in@13)	SVA (V: delivered@16, S: activities@2, A!: by@17)
+38	SVA (V: covered@8, S: Applications@1, A!: by@9)
+39	SVA (V: used@9, S: term@2, A?: also@7, A?: widely@8, A!: in@10, A?: for@22)	SVO (S: their@20, V: "has", O: impacts@21)
+40	SVO (S: person@9, V: "has", O: surroundings@11)	SVO (V: known@19, S: number@14, A?: In@1, XCOMP: influence@21)	SVO (S: their@29, V: "has", O: background@30)	SVA (V: referred@42, S: these@40, A!: to@43, A?: as@44)
+41	SVA (V: "be is", S: lives@15, A!: of@17)
+42	SVO (V: recognized@4, S: It@1, A?: increasingly@3, CCOMP: maintained@8)	SVA (V: maintained@8, S: health@6, A!: through@13)	SVA (V: improved@10, S: health@6, A!: through@13)
+43	SVO (V: include@13, S: determinants@10, A?: According@1, O: environment@18)	SVO (S: person@26, V: "has", O: characteristics@29)
+44	
+45	
+46	
+47	SVO (V: found@9, S: factors@5, XCOMP: influence@11)	SVC (C: healthy@15, V: are@14, S: people@13)
+48	
+49	
+50	SVC (S: Lalonde@1, V: "is", C: Marc@3)
+51	
+52	
+53	SVO (V: examine@13, S: number@3, O: linkages@15)
+54	
+55	SVC (S: Alliance@8, V: "is", C: Education@13)	SVC (S: Education@13, V: "is", C: Study@35)
+56	
+57	SVC (S: Alliance@8, V: "is", C: Education@13)	SVA (V: focuses@42, S: Organization@39, A!: on@43)
+58	
+59	
+60	
+61	SVA (V: emerged@16, S: concept@2, A!: from@17)
+62	SVO (V: identified@3, S: report@2, O: fields@6, A?: as@7)	SVO (S: individual@12, V: "has", O: health@14)
+63	SVA (V: Focusing@4, S: These@1, A!: more@5, A?: on@6)	SVO (S: their@10, V: "has", O: relationships@11)	SVOC (V: suggested@22, S: data@16, CCOMP: Focusing@4, CCOMP: improve@26)	SVO (V: improve@26, S: people@24, O: health@28, A?: via@29)	SVO (S: their@27, V: "has", O: health@28)	SVA (V: "be maintaining", S: exercise@30, O: weight@39)	SVA (V: "be limiting", S: exercise@30, O: use@43)
+64	
+65	SVO (V: supported@5, S: model@4, CCOMP: play@33)	SVO (V: play@33, S: findings@7, O: role@36, A?: in@37)
+66	SVA (V: "be adapt", S: ability@5)	SVA (V: "be adapt", S: ability@5, A!: self@10)	SVA (V: suggested@14, S: manage@11, A!: as@15)
+67	
+68	
+69	
+70	
+71	SVA (V: cited@5, S: environment@2, A?: often@4, A!: as@6)	SVA (V: "be influencing", S: factor@9, O: status@13)
+72	SVO (V: includes@2, S: This@1, O: characteristics@3)
+73	SVC (S: Factors@1, V: "is", C: health@29)	SVOC (V: found@20, S: all@17, XCOMP: contribute@22, O: Factors@1)
+74	
+75	
+76	SVO (V: shown@4, S: studies@2, CCOMP: leads@15)	SVA (V: leads@15, S: lack@7, A!: to@16)	SVA (V: "be linked", S: levels@18, A!: to@29)
+77	
+78	SVO (V: suggests@11, S: This@10, CCOMP: taken@24)	SVA (V: taken@24, S: benefits@15, A!: into@25, A?: in@27)
+79	SVO (V: play@10, S: Genetics@1, A?: also@9, O: role@12, A?: in@13)
+80	SVO (V: encompass@3, S: This@1, O: predisposition@6)	SVO (S: their@27, V: "has", O: families@28)
+81	SVO (V: play@6, S: genetics@4, A?: For@1, O: role@8, A?: in@9)	SVO (V: cope@15, S: people@14, A?: in@12, A?: with@16, O: manner@11)
+82	SVC (C: debate@8, V: is@6, S: difficulty@3, A?: over@9)	SVA (V: be@25, S: interactions@19, A!: of@26)
+83	SVC (C: process@9, V: is@6, S: Achieving@2, A?: shaped@11)	SVA (V: "be shaped", S: process@9, A!: by@12)
+84	SVO (V: provides@10, S: Service@9, O: care@12, A?: for@13)	SVC (C: branch@27, V: is@25, S: provides@10, A?: of@28, A?: focused@30)	SVA (V: "be focused", S: branch@27, A!: on@31)
+85	EXISTENTIAL (V: are@2, S: approaches@5)	SVA (V: "be understand", S: study@11, CCOMP: function@28)	SVC (S: humans@23, V: "is", C: animals@26)	SVA (V: "be improve", S: application@32, O: health@38)	SVA (V: "be improve", S: application@32, O: health@38, O: disease@44)
+86	SVA (V: builds@3, S: science@2, A!: on@4)
+87	SVA (V: "be understand", S: endeavor@4, A!: better@6)	SVA (V: "be understand", S: endeavor@4, A!: better@6, O: health@11, A?: through@12)
+88	SVA (V: "be improve", S: interventions@2, O: health@5)	SVA (V: "be based", S: health@5, A!: on@7)	SVA (V: "be developed", S: principles@9, A!: through@13)	SVA (V: delivered@18, S: interventions@2, A!: among@19)	SVA (V: "be trained", S: practitioners@20, A!: in@22)
+89	SVA (V: focus@3, S: practitioners@2, A!: mainly@4, A?: on@5, A?: consider@15)	SVO (V: consider@15, S: practitioners@14, O: health@18)
+90	SVA (V: adopted@6, S: programs@3, A?: increasingly@5, A!: by@7, A?: in@12)	SVO (S: their@10, V: "has", O: value@11)	SVO (S: their@19, V: "has", O: employees@20)	SVA (V: "be improve", S: services@26, O: health@30)
+91	SVO (V: _@8, S: Zealand@7, O: 1933@9)
+92	SVA (V: promoted@5, S: health@2, A!: in@10)	SVA (V: depicted@8, S: health@2, A!: in@10)
+93	SVA (V: described@5, S: health@2, A!: as@6)
+94	
+95	
+96	
+97	
+98	
+99	
+100	
+101	SVA (V: concerned@3, S: It@1, A!: with@4)
+102	SVA (V: be@6, S: population@2, A!: as@7, A?: as@17)
+103	SVO (V: has@3, S: health@2, O: sub-fields@5)	SVOC (V: includes@9, S: health@2, O: sub-fields@5, A?: typically@8, O: categories@12)
+104	SVOC (C: important@16, V: are@14, S: health@2, A?: also@15, O: areas@17)
+105	SVC (V: is@7, S: focus@2, XCOMP: prevent@9)
+106	SVO (S: Its@1, V: "has", O: aim@2)	SVO (V: preventing@4, S: aim@2, A?: from@5, CCOMP: developing@16)
+107	
+108	SVOC (C: vital@16, V: be@15, S: treating@7, A?: to@17, O: 2010-06-24@2)
+109	SVA (V: "be prevent", S: programs@2, O: spread@10)	SVC (C: examples@15, V: are@14, S: programs@2, A?: of@16)	SVC (S: examples@15, V: "is", C: campaigns@26)	SVA (V: "be promote", S: campaigns@26, O: vaccination@29)
+110	SVOC (V: takes@4, S: health@2, A?: also@3, O: actions@6, XCOMP: limit@8)
+111	SVC (C: access@5, V: is@3, S: issue@2, A?: of@6, A?: to@10, A?: in@14, A?: in@23)
+112	SVO (V: include@9, S: Applications@3, O: areas@10)
+113	SV (V: acknowledged@11, S: impact@4, A?: widely@10)
+114	SVA (V: "be developed", S: policies@6, A!: through@10)	SVO (V: registered@17, S: century@16, A?: to@4, O: decrease@19)
+115	SVO (V: estimated@6, S: it@4, A?: For@1, CCOMP: increased@12)	SVC (S: estimated@6, V: "is", C: Association@21)	SVA (V: increased@12, S: expectancy@10, A!: for@13, A?: by@15, A?: since@18)
+116	
+117	
+118	
+119	
+120	SVO (V: washing@12, S: lady@11, O: hands@14)	SVO (S: her@13, V: "has", O: hands@14)	SV (V: c.@15, S: washing@12)
+121	SVA (V: depends@4, S: health@3, A!: partially@5, A?: on@6)	SVO (S: their@20, V: "has", O: health@22)
+122	SVO (V: include@2, S: These@1, O: actions@4)
+123	SVO (V: include@3, S: They@1, A?: also@2, O: practices@6)	SVA (V: "be prevent", S: practices@6, O: infection@9)
+124	SVA (V: "be gleaned", S: information@2, A!: from@4)
+125	
+126	SVC (V: feel@4, S: I@3, ACOMP: tired@5, A?: in@6, A?: going@12)	SVC (V: decisions@27, S: I@3, ACOMP: tired@5, A?: in@6, A?: going@12)	SVC (V: going@12, S: I@10, XCOMP: try@14)
+127	
+128	SVO (V: notices@5, S: patient@3, CCOMP: tighter@11)	SVC (C: tighter@11, V: are@10, S: shoes@9, A?: than@12)	SVO (V: having@16, S: patient@3, O: exacerbation@17)	SVOC (V: require@25, S: patient@3, O: exacerbation@17, O: medication@27, A?: reduce@29)	SVA (V: "be reduce", S: require@25, O: overload@31)
+129	
+130	
+131	SVA (V: depends@4, S: health@2, A?: also@3, A!: partially@5, A?: on@6)	SVO (S: person@12, V: "has", O: life@14)
+132	SVA (V: "be volunteering", S: maintenance@2)	SVA (V: linked@16, S: maintenance@2, A!: to@17)	SVO (V: increased@23, S: maintenance@2, A?: to@17, A-: even@22, O: longevity@24)
+133	SVO (V: found@9, S: study@3, CCOMP: associated@14)	SVA (V: associated@14, S: frequent@11, A!: with@15)	SVA (V: volunteer@27, S: persons@23, A!: regardless@29)
+134	SVC (S: AHS@2, V: "is", C: CE@5)
+135	SVC (S: Psychology@4, V: "is", C: 2005@6)
+136	SVO (V: reported@5, S: study@2, CCOMP: had@9)	SVOC (V: had@9, S: retirees@8, O: scores@14, O: symptoms@18)
+137	
+138	
+139	SVO (V: impact@6, S: stress@3, A?: negatively@5, O: health@7)	SVOC (V: cited@12, S: stress@3, A?: negatively@5, O: health@7, A?: as@13, O: illness@23)
+140	SVOC (C: application@51, V: is@49, S: management@48, A?: of@52, A?: reduce@56, O: role@12)	SVA (V: "be reduce", S: application@51, O: tolerance@60, A!: to@61)
+141	SVC (C: methods@5, V: are@3, S: technique@2, A?: used@6)	SVA (V: "be used", S: methods@5, XCOMP: relieve@8)
+142	SVO (V: include@3, S: methods@2, O: therapy@5)	SVA (V: work@13, S: thinking@11, A!: by@14)
+143	SVO (V: reduces@14, S: skills@3, O: uncertainty@15)	SVOC (V: builds@17, S: skills@3, O: uncertainty@15, O: confidence@18)	SVO (V: reduces@22, S: confidence@18, A?: also@21, O: reaction@24)	SVOC (C: applicable@32, V: are@31, S: skills@30, A?: where@28, O: situations@27)
+144	
+145	
+146	SVO (V: has@5, S: individual@4, A?: over@1, O: control@6)	SVO (V: said@11, S: control@6, XCOMP: contribute@13)	SVA (V: "be related", S: matters@26, A!: to@28)	SVO (V: has@41, S: individual@40, A?: over@37, O: little@42)	SVA (V: "be developed", S: aspects@50, A!: within@59, A?: influenced@64)
+147	SVC (S: burden@2, V: "is", C: portal@37)

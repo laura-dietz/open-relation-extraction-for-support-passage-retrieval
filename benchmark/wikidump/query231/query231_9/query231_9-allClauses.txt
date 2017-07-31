@@ -1,0 +1,125 @@
+0	SVC (S: See@5, V: "is", C: Sedes@8)	SVC (C: jurisdiction@18, V: is@15, S: See@5, A?: September@1, A?: of@19)	SVO (S: its@27, V: "has", O: Bishop@28)	SVOC (C: Pope@31, V: is@29, S: Bishop@28, A?: in@25, O: Church@23)
+1	SVC (C: episcopal@5, V: is@2, S: It@1)
+2	SVA (V: "be See", S: Holy@7, O: acts@9)
+3	SVA (V: recognized@4, S: It@1, A?: also@3, A!: by@5, A?: as@11)	SVO (S: headed@16, V: maintained@27, O: recognized@4)
+4	
+5	
+6	SVO (S: See@3, V: "has", O: sovereignty@5)	SVA (V: recognized@8, S: sovereignty@5, A!: explicitly@9, A?: in@10)	SVA (V: emphasized@17, S: sovereignty@5, A?: explicitly@9, A?: in@10, A?: particularly@16, A!: in@18)	SVOO (V: recognizes@34, S: Italy@33, A?: in@30, O: sovereignty@36, IO: Treaty@24)	SVO (S: its@50, V: "has", O: nature@51)	SVO (S: its@56, V: "has", O: tradition@57)	SVO (S: its@63, V: "has", O: mission@64)
+7	SVO (V: referred@6, S: it@3, A?: often@5, XCOMP: entity@21, A?: as@22)	SVC (C: entity@21, V: is@17, S: See@16)	SVA (V: came@29, S: State@26, A!: into@30, A?: in@33)	SVO (S: Holy@37, V: See@38, O: referred@6)	SVA (V: see@42, S: episcopal@41, A?: referred@6, A!: of@43)
+8	SV (V: accredited@4, S: Ambassadors@1, A?: officially@3)	SVA (V: recognized@28, S: representatives@21, A!: as@29)	SV (V: See@33, S: Holy@32)
+9	SV (V: see@4, S: episcopal@3)	SVA (V: See@17, S: Holy@16, A!: without@20)	SVA (V: used@26, S: considered@7, A?: normally@25, A!: in@27, A?: in@32)
+10	SVA (V: speaks@10, S: website@2, A!: of@11, A?: as@14, A?: of@19, A?: compares@26)	SV (V: See@22, S: Holy@21)	SVO (V: compares@26, S: it@25, O: personality@29)	SVOC (V: declares@43, S: it@25, O: personality@29, CCOMP: See@47)	SV (V: See@47, S: Holy@46)	SVC (C: identities@57, V: are@54, S: state@50)
+11	SVA (V: distinguishes@3, S: It@1, A?: also@2, A!: between@4)	SVA (V: "be working", S: 2,750@12, A!: in@14, A?: with@18)	SVA (V: "be working", S: 333@20, A!: in@22)	SVO (S: See@25, V: "has", O: missions@28)
+12	SVA (V: "be saying", S: Retrieved@1, CCOMP: See@21)	SVOO (V: See@11, S: Ambassador@7, O: language@15, IO: January@3)	SV (V: See@21, S: Holy@20)
+13	SVC (C: government@8, V: is@5, S: It@3, A?: of@9)	SVC (C: operates@14, V: is@5, S: It@3, A?: of@9, A?: from@15)
+14	SVA (V: "be added", S: emphasis@3)	SVA (V: agrees@7, S: This@6, A!: exactly@8, A?: with@9, A?: in@24)	SVA (V: "be used", S: expression@11, A!: by@13)	SV (V: See@31, S: Holy@30)	SV (V: State@36, S: Holy@30)	SVO (V: says@40, S: it@38, A?: too@39, CCOMP: See@44)	SV (V: See@44, S: Holy@43)
+15	
+16	
+17	
+18	
+19	SVO (V: governs@5, S: Pope@4, O: Church@8, A?: through@9)
+20	SVA (V: consists@4, S: Curia@3, A!: of@5)	SVO (V: administer@11, S: offices@9, O: affairs@13, A?: at@14)
+21	SVO (V: directs@13, S: Secretariat@2, A?: under@6, O: Curia@17)	SVO (V: coordinates@15, S: Secretariat@2, A?: under@6, O: Curia@17)
+22	SVC (C: equivalent@12, V: is@8, S: Bertone@6, A?: of@13)	SVO (S: See@10, V: "has", O: equivalent@12)
+23	SVC (S: Mamberti@3, V: "is", C: Secretary@5)	SVA (V: acts@19, S: Mamberti@3, A!: as@20)	SVO (S: See@23, V: "has", O: minister@25)
+24	SVA (V: named@5, S: Bertone@1, A!: in@6, A?: by@10, A?: in@14)	SVO (S: their@7, V: "has", O: roles@9)
+25	SVC (C: body@10, V: is@7, S: Secretariat@4, A?: of@11)	SVA (V: situated@16, S: Curia@13, A!: within@17)
+26	SVA (V: are@3, S: others@2, A!: in@4)	SVO (V: have@12, S: parts@8, O: rights@14)
+27	SV (V: are@10, S: Congregation@12, A?: Among@1)	SVO (V: oversees@21, S: Faith@18, O: doctrine@26)	SVO (S: Church@24, V: "has", O: doctrine@26)	SVO (V: coordinates@34, S: Bishops@31, O: appointment@36)	SVO (V: oversees@50, S: Peoples@47, O: activities@53)	SVA (V: deals@65, S: Council@58, A!: with@66)
+28	SVO (V: exercise@3, S: tribunals@2, O: power@5)
+29	SVO (V: handles@4, S: Rota@3, O: appeals@7)	SVC (S: appeals@7, V: "is", C: numerous@11)	SVOO (V: alleged@16, S: concern@15, O: nullity@17, IO: those@13)
+30	
+31	
+32	
+33	
+34	SVC (C: appellate@7, V: is@4, S: Signatura@3, A?: concerning@11)	SVA (V: "be concerning", S: appellate@7, O: decisions@12, A!: of@14)
+35	SVO (V: oversees@3, S: It@1, A?: also@2, O: work@5, A?: at@10)
+36	
+37	
+38	
+39	
+40	SVA (V: "be granting", S: deals@4, O: absolutions@19, A!: from@20)	SVO (V: grants@37, S: it@35, A?: also@36, O: indulgences@38)
+41	
+42	
+43	
+44	
+45	SV (V: See@10, S: Prefecture@2)	SVO (V: supervises@20, S: Prefecture@2, O: administration@22)	SVO (V: See@17, S: finances@13, O: departments@18)	SVC (C: degree@30, V: be@28, S: whatever@27, A?: of@31)	SVO (S: their@29, V: "has", O: degree@30)	SVO (V: manage@35, S: degree@30, O: finances@37)
+46	SVC (C: Administration@8, V: is@6, S: important@3, A?: of@9)
+47	SVC (C: responsible@8, V: is@7, S: Prefecture@2, A?: for@9)
+48	SVO (V: See@3, S: Holy@2, CCOMP: dissolve@6)	SVO (S: Pope@9, V: "has", O: death@11)
+49	SVA (V: operates@3, S: It@1, A?: instead@2, A!: under@4)
+50	
+51	
+52	
+53	
+54	SVA (V: falls@15, S: government@2, A-: then@14, A!: to@16)
+55	SVO (V: prohibits@3, S: law@2, O: College@5, A?: from@9)
+56	SV (V: See@6, S: Holy@5, A?: In@1)
+57	
+58	
+59	SV (V: See@10, S: status@6)	SV (V: recognized@16, S: See@13)
+60	SV (V: See@4, S: Holy@3)	SVC (S: territory@33, V: "is", C: government@37)	SVA (V: "be enter", S: territory@33, A!: into@43)	SVA (V: "be signed", S: enunciated@55, A!: on@68)
+61	SVO (S: its@2, V: "has", O: possession@3)	SVOA (V: shown@12, S: possession@3, A!: by@13, CCOMP: member-state@29)	SVO (V: maintains@18, S: it@17, O: relations@20)	SVC (C: member-state@29, V: is@27, S: it@26, A?: in@30)	SVA (V: respected@42, S: it@38, A!: by@43)	SVA (V: treated@51, S: it@38, A?: by@43, A!: as@52)	SVA (V: "be having", S: subject@54, O: capacity@60)	SVA (V: "be engage", S: capacity@60, A!: in@63)	SVA (V: "be engage", S: capacity@60, A!: in@63, A?: into@69)	SVO (V: geared@86, S: agreements@71, A?: largely@85, XCOMP: establish@88)
+62	SVC (S: Araujo@3, V: "is", C: ISBN@37)	SVC (S: Press@32, V: "is", C: 2004@34)	SVC (S: ISBN@37, V: "is", C: p@40)
+63	
+64	SVC (S: Crawford@4, V: "is", C: Creation@7)	SVC (S: Crawford@4, V: "is", C: 1979@15)
+65	
+66	
+67	SV (V: See@5, S: relations@1)
+68	SVO (V: see@17, S: episcopal@16, A?: of@18, O: times@14)	SVA (V: recognized@22, S: times@14, A!: as@23)
+69	
+70	
+71	
+72	SVC (S: 31@2, V: "is", C: May@3)
+73	
+74	
+75	
+76	SVO (V: have@6, S: states@5, O: relations@9)	SVO (V: See@13, S: Holy@12, O: Agency@16)
+77	
+78	SVO (V: have@6, S: states@5, O: relations@9)	SVO (V: See@13, S: Holy@12, O: Agency@16)	SVA (V: "be accredited", S: missions@27, A!: to@29)	SVO (V: situated@34, S: 11@17, A?: in@35, O: Agency@16)
+79	SVO (V: See@3, S: Holy@2, CCOMP: maintains@4)	SVOC (C: non-residential@15, V: are@14, S: 74@13, A?: of@11, O: missions@8)	SVO (S: its@21, V: "has", O: missions@24)	SVA (V: accredited@26, S: many@19, A!: to@27)
+80	SVA (V: directed@9, S: activities@3, A!: by@10, A?: through@25)
+81	EXISTENTIAL (V: are@2, S: states@6)	SVO (V: See@11, S: Holy@10, A?: with@7, O: states@6)
+82	
+83	
+84	SV (V: Impossible@5, S: Mission@4)	SVA (V: See@10, S: Holy@9, A!: from@11)	SVA (S: Afghanistan@37, V: "is in", C: Republic@62)	SVO (S: People@60, V: "has", O: Republic@62)
+85	
+86	
+87	SV (V: Impossible@5, S: Mission@4)	SVA (V: See@10, S: Holy@9, A!: from@11)	SVC (C: subject@44, V: is@40, S: See@39, A?: October@35, A?: of@45)	SVO (V: has@49, S: law@47, O: relations@52, A?: with@53)	SVA (S: China@57, V: "is in", C: Taiwan@59)
+88	SVC (C: member@6, V: is@4, S: See@3, A?: of@7)	SVC (S: Agency@18, V: "is", C: IAEA@20)	SVC (S: Agency@18, V: "is", C: Organization@40)	SVC (S: Agency@18, V: "is", C: Union@25)	SVC (S: Agency@18, V: "is", C: Organization@28)	SVC (S: Weapons@46, V: "is", C: OPCW@48)	SVC (S: Refugees@57, V: "is", C: UNHCR@59)
+89	SVC (C: observer@8, V: is@4, S: See@3, A?: also@5, A?: in@9)	SVC (S: Assembly@19, V: "is", C: Organization@41)	SVC (S: Assembly@19, V: "is", C: Council@22)	SVC (S: Assembly@19, V: "is", C: UNESCO@26)	SVC (S: UNESCO@26, V: "is", C: Educational@30)	SVC (S: Organization@41, V: "is", C: WTO@43)	SVC (S: Organization@51, V: "is", C: FAO@53)
+90	SVA (V: associated@7, S: See@4, A?: closely@6, A!: with@8)	SVC (S: territory@15, V: "is", C: entities@26)	SVOC (C: sovereign@22, V: is@21, S: See@20, A?: over@16, O: territory@15)	SVC (C: separate@28, V: are@27, S: territory@15, A?: associated@7)
+91	SVO (V: See@14, S: Holy@13, A?: After@1, CCOMP: had@15)
+92	SVO (V: continue@13, S: it@11, XCOMP: act@15)	SVA (V: "be See", S: Holy@25)	SVA (V: "be exercise", S: fact@29, O: right@33)	SVA (V: "be send", S: right@33, O: representatives@39)	SVA (V: "be send", S: right@33, O: representatives@39)	SVO (V: included@46, S: states@44, O: powers@49)
+93	SVC (C: member@21, V: was@17, S: Nuncio@16, A?: Where@1, A?: in@3, A?: only@19, A?: of@22)	SVO (S: its@27, V: "has", O: Dean@28)	SVC (S: Dean@28, V: "is", C: arrangement@31)	SVO (V: continued@32, S: Dean@28, XCOMP: accepted@35)
+94	SVC (S: Holy@11, V: "is", C: number@19)	SVA (V: "be See", S: Holy@11)	SVO (V: had@23, S: states@21, O: relations@25, A?: increased@37)	SVA (V: reduced@32, S: it@27, A!: to@33)	SVA (V: increased@37, S: it@27, A?: actually@36, A!: to@38)
+95	
+96	
+97	
+98	
+99	SVO (V: created@8, S: State@2, A?: by@9, A?: in@13, XCOMP: ensure@17)
+100	SVC (S: Tauran@3, V: "is", C: Secretary@10)	SVO (S: See@7, V: "has", O: Secretary@10)	SVO (V: said@16, S: Tauran@3, CCOMP: support-state@25)	SVC (C: support-state@25, V: is@21, S: City@20)	SVO (V: guarantees@27, S: support-state@25, O: freedom@30, A?: with@34)
+101	
+102	
+103	
+104	
+105	SVO (V: See@3, S: Holy@2, O: City@8)
+106	
+107	
+108	
+109	
+110	SVA (V: accredited@4, S: embassies@2, A!: to@5)	SVA (V: See@8, S: Holy@7, A!: to@11)	SVC (C: Holy@20, V: is@18, S: it@17, A?: See@21)	SVA (V: "be See", S: Holy@20, CCOMP: establishes@23)	SVO (V: establishes@23, S: that@22, O: treaties@24)
+111	SV (V: See@6, S: Holy@5, A?: necessary@2)
+112	SVC (S: Treaty@7, V: "is", C: See@11)
+113	SVA (V: extended@5, S: authority@3, A!: under@6, A?: over@9)
+114	SV (V: see@3, S: episcopal@2)
+115	SVO (V: applied@18, S: ἱερά@14, A?: constantly@17, XCOMP: sees@22)
+116	SV (V: added@10, S: adjective@6, A?: In@1, A?: commonly@9)	SVO (V: form@15, S: it@13, O: part@16)	SVC (S: Rome@28, V: "is", C: Bishopric@31)	SVC (S: Bishopric@31, V: "is", C: Archbishopric@37)	SVO (V: bears@51, S: Rome@28, CCOMP: See@58)	SVA (V: See@58, S: title@53, A!: of@59)
+117	SVO (V: see@4, S: term@2, O: seat@17)	SVA (V: refers@21, S: seat@17, A!: to@22)	SVC (S: throne@25, V: "is", C: cathedra@27)
+118	SVA (V: refer@8, S: Apostolic@4, A!: to@9)	SVA (V: "be founded", S: see@11, A!: by@13)	SVO (V: used@30, S: it@28, A?: used@22, A?: in@31, XCOMP: refer@36)	SVOC (V: sees@50, S: Church@49, O: Bishop@43, O: that@48, A?: as@51)	SVC (S: Peter@55, V: "is", C: head@58)
+119	SVO (V: See@3, S: Holy@2, O: Category@4)	SVO (V: sees@7, S: Apostolic@6, O: Category@8)	SVC (S: law@15, V: "is", C: Church@18)	SV (V: bs@39, S: Seu@38)	SVO (S: Stolica@42, V: ca@43, O: ar@31)	SV (V: cs@55, S: Sede@54)	SV (V: es@72, S: Tool@71)	SVC (S: 성좌@97, V: "is", C: 가톨릭@99)	SVC (C: áfastóll@115, V: is@113, S: Sede@112)	SV (V: vi@221, S: Sede@220)	SV (V: See@231, S: Dcc@230)	SVA (V: organisation@250, S: Vatican@233, A!: of@251)
+120	
+121	SVO (V: Die@9, S: Koeck@7, O: Stuhls@14)
+122	SVC (S: Organisationen@9, V: "is", C: Koeck@15)	SVC (S: Organisationen@9, V: "is", C: See@18)	SVC (S: Law@26, V: "is", C: Bd@28)
+123	SVC (S: 2@1, V: "is", C: Oxford@3)
+124	SVO (S: See@5, V: "has", O: geopolitics@7)	SVA (V: "be analyzed", S: geopolitics@7, A!: in@9)

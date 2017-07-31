@@ -1,0 +1,418 @@
+0	SVO (V: lifts@12, S: thumbWind@2, A?: yes@1, O: Wind@15)	SVO (V: lifts@12, S: breeze@11, A?: yes@1, O: Wind@15)	SVC (C: flow@18, V: is@16, S: lifts@12, A?: of@19, A?: on@21)
+1	SVA (V: consists@5, S: wind@4, A?: On@1, A!: of@6)
+2	SVC (C: movement@9, V: is@7, S: wind@6, A?: In@1, A?: of@10, A?: through@18, A?: outgassing@26)	SVC (C: outgassing@26, V: is@24, S: wind@23, A?: of@27, A?: from@31, A?: into@36)	SVO (S: planet@33, V: "has", O: atmosphere@35)
+3	SVO (V: classified@4, S: Winds@1, A?: commonly@3, A?: by@5, O: speed@11)	SVO (S: their@6, V: "has", O: scale@8)	SVC (S: speed@11, V: "is", C: regions@22)	SVO (S: their@10, V: "has", O: speed@11)	SVC (S: speed@11, V: "is", C: types@14)	SVO (V: cause@18, S: forces@16, O: them@19)	SVO (V: occur@26, S: they@25, A?: in@23, O: regions@22)	SVO (S: their@29, V: "has", O: effect@30)
+4	SVO (S: our@9, V: "has", O: system@11)	SVA (V: occur@12, S: winds@4, A!: on@13)
+5	SVA (V: referred@7, S: winds@4, A?: In@1, A?: often@6, A!: to@8)	SV (V: direction@16, S: winds@4, A?: In@1, A?: often@6, A?: to@8)	SVO (S: their@11, V: "has", O: strength@12)	SVO (V: blowing@22, S: wind@20, A?: from@17, O: direction@16)
+6	SVO (V: termed@8, S: bursts@2, O: gusts@9)
+7	SVO (V: termed@12, S: winds@2, XCOMP: squall@13)
+8	SVO (V: have@3, S: winds@2, O: names@5)	SVA (V: "be associated", S: names@5, A!: with@7)	SVO (S: their@8, V: "has", O: strength@10)
+9	SVA (V: occurs@2, S: Wind@1, A!: on@3, A?: from@9)	SVA (V: "be generated", S: breezes@19, A!: by@21)	SVA (V: "be resulting", S: winds@34, A!: from@36)
+10	SVC (C: heating@12, V: are@9, S: causes@4, A?: between@13)	SVC (S: planet@25, V: "is", C: effect@28)
+11	SVO (V: drive@14, S: circulations@7, A?: Within@1, O: circulations@16)
+12	SVO (V: define@12, S: breeze@6, A?: In@1, O: winds@14, A?: in@16)	SVO (V: have@19, S: areas@17, O: terrain@21)	SVOO (V: dominate@28, S: breezes@26, O: winds@30, IO: areas@17)
+13	SVO (V: inspired@7, S: wind@5, A?: In@1, O: mythology@8)	SVOC (V: expanded@16, S: wind@5, A?: In@1, O: mythology@8, O: range@18)	SVOC (V: provided@25, S: wind@5, A?: In@1, O: mythology@8, O: source@28)	SVOC (V: influenced@10, S: wind@5, A?: In@1, O: mythology@8, O: events@12)
+14	SVO (S: Earth@9, V: "has", O: oceans@11)
+15	SVO (V: use@4, S: balloon@3, O: wind@6, A?: take@8)	SVOC (V: powered@13, S: balloon@3, O: wind@6, A?: take@8, O: flight@14)	SVA (V: "be take", S: balloon@3, O: trips@10)
+16	SVA (V: "be caused", S: Areas@1, A!: by@6)	SVA (V: lead@11, S: Areas@1, A!: to@12)
+17	SVC (V: become@3, S: winds@2, A?: When@1, ACOMP: strong@4)	SV (V: damaged@11, S: trees@6, A?: become@3)	SV (V: destroyed@13, S: trees@6, A?: become@3)
+18	SVO (V: shape@3, S: Winds@1, O: landforms@4, A?: via@6)	SVO (V: by@25, S: Winds@1, O: landforms@4, A?: via@6, A?: erosion@26)
+19	SVO (V: moved@7, S: Dust@1, O: distances@9, A?: by@14)	SVO (S: its@11, V: "has", O: region@13)	SVA (V: accelerated@22, S: winds@19, A!: by@23)	SVO (V: assigned@33, S: winds@19, O: names@35, A?: in@36, A?: of@43)	SVO (S: their@44, V: "has", O: effects@46)
+20	SVO (V: affects@2, S: Wind@1, O: spread@4)
+21	SVO (V: disperse@2, S: Winds@1, O: seeds@3)
+22	SVO (V: has@8, S: wind@7, A?: combined@2, O: impact@11)
+23	SVO (V: affects@2, S: Wind@1, O: stores@6)	SVO (V: hunting@12, S: Wind@1, O: stores@6)	SVO (S: animals@3, V: "has", O: stores@6)	SVO (S: their@11, V: "has", O: hunting@12)
+24	
+25	SVO (V: indicate@6, S: Areas@1, O: winds@8)
+26	SVA (V: caused@3, S: Wind@1, A!: by@4)
+27	SV (V: exists@6, S: difference@3, A?: When@1)	SVO (V: accelerated@11, S: air@9, A?: exists@6, A?: from@12, XCOMP: lower@15)
+28	SVA (V: deflected@10, S: air@7, A?: On@1, A!: by@11, A?: except@16)
+29	SVC (S: factors@7, V: "is", C: circulation@14)	SVC (C: heating@19, V: are@16, S: factors@7, A?: Globally@1, A?: between@20)	SVA (V: "be leading", S: energy@32, A!: to@34)
+30	SVO (V: tend@16, S: winds@15, A?: Outside@1, XCOMP: approach@18)
+31	SVO (S: Earth@3, V: "has", O: surface@5)	SVOC (V: causes@8, S: friction@7, A?: Near@1, O: wind@10, XCOMP: slower@13)	SVC (C: otherwise@18, V: be@17, S: it@15)
+32	SVOC (V: causes@4, S: friction@2, A?: also@3, O: winds@5, XCOMP: blow@7)
+33	
+34	
+35	
+36	
+37	
+38	
+39	SVA (V: "be defined", S: Winds@1, A!: by@3)	SVA (V: used@10, S: Winds@1, A!: in@11)
+40	SVC (C: useful@3, V: are@2, S: They@1, A?: for@4)
+41	SVC (C: result@7, V: is@5, S: component@4, A?: of@8)
+42	SVO (V: flows@2, S: It@1, O: parallel@3)	SVOC (V: approximates@7, S: It@1, O: parallel@3, O: flow@9)
+43	
+44	
+45	SVC (C: difference@9, V: is@7, S: id@1, A?: in@10, A?: between@14)	SVA (V: "be =", S: id@1, O: wind@6)
+46	SVA (V: exists@2, S: It@1, A!: in@4)
+47	
+48	
+49	SVC (C: responsible@35, V: is@34, S: wind@31, A?: for@36)	SVO (V: filling@39, S: air@37, O: cyclones@42, A?: over@43)	SVO (V: =@2, S: p@1, O: 1@3)	SVO (V: submit@11, S: p@1, O: 1@3)
+50	
+51	
+52	SVO (V: =@2, S: p@1, O: 1@3)	SVO (V: submit@11, S: p@1, O: 1@3)	SVC (C: similar@24, V: is@23, S: =@2, A?: to@25)	SVOC (C: includes@31, V: is@23, S: =@2, A?: to@25, A?: also@30, O: force@33)
+53	
+54	
+55	SVO (V: originates@35, S: it@34, A?: from@32, O: direction@31)	SVO (V: occluded@16, S: style@12, O: tornado@18)	SVO (V: reported@28, S: direction@26, A?: by@29, O: tornado@18)
+56	
+57	
+58	
+59	
+60	
+61	
+62	
+63	
+64	
+65	
+66	SVO (V: used@16, S: id@1, A?: primarily@15, XCOMP: indicate@18)	SVOC (V: used@26, S: id@1, A?: primarily@15, XCOMP: indicate@18, A?: also@24, XCOMP: estimate@28)	SVO (S: its@32, V: "has", O: angle@33)
+67	
+68	
+69	SV (V: =@2, S: p@1)	SVA (V: measured@23, S: wind@7, A!: by@24)	SVA (V: "be using", S: most@27, A!: commonly@28, O: cups@31)
+70	SVA (V: needed@7, S: frequency@5, A?: When@1, A!: as@10)	SVA (V: measured@19, S: wind@16, A?: needed@7, A!: by@20)
+71	
+72	
+73	SVO (V: =@2, S: p@1, O: anemometer@7)	SVO (V: uses@21, S: Society@15, O: tube@23)	SVO (V: uses@21, S: type@18, O: tube@23)	SVO (V: take@25, S: tube@23, O: advantage@26)	SVA (V: "be determine", S: tube@38, O: pressure@49)	SVA (V: exposed@41, S: tube@38, A!: to@42)	SVO (V: used@54, S: pressure@49, A-: then@53, XCOMP: compute@56)
+74	
+75	
+76	SVA (V: =@2, S: p@1, A!: =@12)	SVA (V: averaged@35, S: p@1, A?: =@12, A!: over@36)
+77	SVO (V: reports@4, S: States@3, O: winds@5)	SVO (V: http@23, S: definitions@22, O: winds@5)
+78	SV (V: http@15, S: definitions@14)
+79	
+80	
+81	
+82	SVO (V: reports@3, S: India@1, A?: typically@2, O: winds@4)
+83	
+84	SVC (S: Jain@1, V: "is", C: K.@4)
+85	SVC (S: Agarwal@1, V: "is", C: P.@4)
+86	
+87	
+88	
+89	SVC (S: Jain@1, V: "is", C: K.@4)
+90	SVC (S: Agarwal@1, V: "is", C: P.@4)
+91	
+92	
+93	SVC (C: greater@38, V: is@34, S: id@1, A?: %@37, A?: than@39)	SVA (V: "be Knowing", S: 9781402051791@17, O: average@22)	SVC (C: important@24, V: is@23, S: Springer@14)
+94	
+95	
+96	
+97	
+98	
+99	
+100	
+101	
+102	SV (V: termed@18, S: Observation@2)	SVC (S: gust@21, V: "is", C: definition@25)	SV (V: is@30, S: gust@21)	SVO (V: exceed@35, S: maxima@33, O: speed@39)	SVA (V: "be measured", S: speed@39, A!: during@41)	SVA (V: "be interval", S: time@45, A!: by@47)
+103	SVC (C: doubling@5, V: is@3, S: squall@2, A?: of@6)	SVA (V: lasts@16, S: threshold@13, A!: for@17)
+104	SVO (V: determine@7, S: rawinsondes@6, A?: determine@2, O: speed@9)
+105	
+106	
+107	SVO (V: =@2, S: p@1, O: rawinsonde@7)	SVOC (V: tracked@28, S: movement@19, A?: from@29, XCOMP: using@33, O: rawinsonde@7)
+108	
+109	
+110	SVO (V: include@14, S: techniques@11, CCOMP: used@46)	SVO (V: measure@24, S: SODAR@15, O: shift@27)	SVA (V: "be scattered", S: radiation@30)	SVA (V: "be scattered", S: radiation@30)	SVO (V: used@46, S: SODAR@15, XCOMP: measure@48)
+111	SVO (V: used@5, S: roughness@2, XCOMP: estimate@7)
+112	SVO (V: used@6, S: imagery@3, XCOMP: estimate@8)	SVA (V: move@19, S: clouds@18, A?: far@17, A!: from@20, A?: to@23)
+113	SVO (V: describes@3, S: Engineering@2, O: study@5)
+114	SVC (S: Historically@7, V: "is", C: scale@13)	SVOO (V: provides@14, S: Historically@7, O: description@17, IO: analysis@6)	SVA (V: "be based", S: description@17, A!: on@22)
+115	SVC (C: scale@6, V: was@3, S: it@2, A?: Originally@1)	SVA (V: expanded@16, S: scale@14, A?: during@9, A!: to@17)
+116	
+117	
+118	
+119	
+120	
+121	
+122	EXISTENTIAL (V: are@18, S: terms@20, O: Principles@8)	SVO (V: differentiate@22, S: terms@20, O: winds@23)	SVC (S: breeze@31, V: "is", C: storm@37)	SVC (S: breeze@31, V: "is", C: tornado@39)	SVC (S: breeze@31, V: "is", C: gale@34)
+123	SVA (V: lie@8, S: winds@7, A?: Within@1, A!: between@9, A?: with@19)	SVO (S: wind@36, V: "has", O: strength@38)
+124	
+125	
+126	SVO (V: =@6, S: G@3, CCOMP: has@15)	SVO (V: has@15, S: storm@14, O: winds@16)
+127	
+128	
+129	SVA (V: differs@14, S: Society@7, A!: from@15, A?: to@18)	SVA (V: differs@14, S: terminology@10, A!: from@15, A?: to@18)	SVA (V: differs@14, S: id@1, A!: from@15, A?: to@18)
+130	SVO (V: use@4, S: basins@3, O: speed@8, A?: determine@10)	SVA (V: "be determine", S: basins@3, O: category@15)	SVO (S: cyclone@13, V: "has", O: category@15)
+131	SVC (C: summary@4, V: is@2, S: Below@1, A?: of@5)	SVA (V: "be used", S: classifications@7, A!: by@9)	SVC (S: Scale@19, V: "is", C: Scale@22)	SVA (V: "be based", S: strength@26, A!: on@34)	SVO (V: cause@38, S: they@37, O: damage@36)
+132	SV (V: is@2, S: Below@1)	SV (V: is@2, S: scale@4)
+133	
+134	SVA (V: "be broken", S: branches@14, O: trees@17)	SV (V: pushed@21, S: trees@20)
+135	
+136	
+137	SVA (V: remain@4, S: those@2, A!: in@5)	SVO (V: rated@11, S: those@2, A?: always@10, O: EF0@12)
+138	
+139	SV (V: stripped@3, S: Roofs@1, A?: severely@2)	SVO (S: homes@6, V: overturned@7, O: stripped@3)	SVA (V: "be broken", S: windows@17)
+140	
+141	SVA (V: "be torn", S: Roofs@1, O: houses@5)	SV (V: shifted@11, S: foundations@7)	SV (V: destroyed@16, S: homes@14, A?: completely@15)	SVO (S: trees@19, V: snapped@20, O: shifted@11)	SVA (V: "be generated", S: missiles@25)	SVO (V: lifted@29, S: cars@28, O: ground@31)
+142	
+143	SVA (V: "be destroyed", S: houses@5)	SVA (V: "be overturned", S: trains@18)	SV (V: debarked@22, S: trees@21)	SVO (V: lifted@26, S: cars@25, O: ground@29)	SVO (V: thrown@31, S: cars@25, O: ground@29)	SV (V: damaged@39, S: structures@33, A?: badly@38)
+144	
+145	SVO (V: leveled@7, S: houses@5, A?: completely@6, O: cars@9)	SVA (V: "be thrown", S: cars@9)	SVA (V: "be thrown", S: cars@9)
+146	
+147	SV (V: leveled@5, S: houses@4)	SVA (V: swept@9, S: foundations@8, A!: away@10)	SV (V: damaged@17, S: structures@14, A?: critically@16)	SVO (S: buildings@20, V: collapse@21, O: damaged@17)
+148	SVA (V: "be plotting", S: thumbrightWind@1, A!: within@3, O: model@9)	SVA (V: "be plotted", S: model@9, A!: on@11)	SVO (V: uses@15, S: thumbrightWind@1, O: barb@18, A?: show@20)	SVA (V: "be show", S: thumbrightWind@1, O: direction@23)
+149	SVOA (V: shows@4, S: barb@3, O: speed@6, A!: using@7)	SVA (V: "be using", S: barb@3, O: flags@9)
+150	SVA (V: depicted@3, S: Winds@1, A!: facing@12)	SV (V: facing@12, S: blowing@5)
+151	SVA (V: depicted@8, S: wind@5, A?: Therefore@1, A!: with@9, A?: with@21)	SVA (V: "be extending", S: line@11, A!: from@13, A?: to@17)	SVA (V: "be indicating", S: flags@22, O: speed@25)
+152	
+153	
+154	
+155	
+156	
+157	
+158	SVC (S: Service@10, V: "is", C: analysis@19)	SVA (V: "be plotted", S: Service@10, A!: Once@12, A?: on@14)
+159	SVC (C: useful@4, V: are@2, S: Isotachs@1, A?: particularly@3, A?: in@5)	SVC (C: located@23, V: are@2, S: Isotachs@1, A?: particularly@3, A?: in@5, A?: usually@22, A?: at@24)
+160	
+161	
+162	
+163	
+164	
+165	
+166	SVC (C: energy@22, V: is@19, S: id@1, A?: of@23, A?: in@26)
+167	SVA (V: "be flowing", S: energy@3, A!: through@5, A?: during@10)	SV (V: is@14, S: energy@3)	SV (V: is@18, S: velocity@21, A?: where@16)	SVC (C: density@27, V: is@24, S: is@18)
+168	SVA (V: "be presented", S: formula@2)	SVO (V: structured@5, S: formula@2, A?: in@6, CCOMP: volume@19)	SVA (V: "be passing", S: volume@19, A!: through@23)	SVO (V: considered@28, S: A@24, XCOMP: perpendicular@29)	SVO (S: energy@45, V: is@42, O: structured@5)
+169	SV (V: is@4, S: power@3)	SVC (C: proportional@10, V: is@8, S: power@7, A-: thus@9, A?: to@11)
+170	SVA (V: captured@6, S: power@3, A!: only@7, A?: reduced@13)	SVA (V: reduced@13, S: velocity@11, A!: to@14)
+171	SVC (C: impossible@8, V: is@7, S: this@6, A?: In@1, A?: leave@16)	SVO (V: leave@16, S: air@13, A?: also@15, O: turbine@18)
+172	SV (V: considered@12, S: relation@2)
+173	SVC (C: %@21, V: is@19, S: extraction@11, A?: of@22)
+174	SVC (S: College@4, V: "is", C: 2005@6)
+175	
+176	
+177	
+178	SVO (S: Betz@4, V: "has", O: law@6)
+179	SVO (V: reduce@20, S: insufficiencies@2, O: power@22)	SVA (V: "be delivered", S: power@22, A!: by@24)
+180	SVC (C: proportional@12, V: is@8, S: power@7, A?: to@13)	SV (V: remains@19, S: relation@3)
+181	SVC (C: part@10, V: are@9, S: Prevailing@1, A?: of@11)	SVO (S: Earth@12, V: "has", O: circulation@15)
+182	SVA (V: "be dominate", S: winds@2, O: pattern@10)	SVO (V: blow@17, S: winds@16, A?: across@18, A?: to@25, A?: dominate@36, O: pattern@10)	SVO (V: dominate@36, S: easterlies@34, A?: again@35, O: tropics@38)
+183	SVC (C: doldrums@8, V: are@6, S: Directly@1)	SVOC (C: lighter@17, V: are@16, S: winds@15, A?: where@14, O: latitudes@12)
+184	SVO (S: Earth@4, V: "has", O: deserts@6)	SVA (V: lie@7, S: Many@1, A!: near@8)	SVOO (V: reduces@19, S: descent@18, A?: where@17, O: humidity@22, IO: ridge@15)
+185	
+186	
+187	
+188	
+189	
+190	
+191	SVO (V: are@13, S: University@5, A?: in@14, O: Mares@1)	SVOO (V: meets@21, S: air@20, A?: where@17, O: air@23, A?: from@24, IO: mid-latitudes@16)
+192	SVOC (C: pattern@15, V: are@12, S: winds@6, A?: of@16, O: Monsoon@3)	SVA (V: "be found", S: winds@19, A!: in@21)	SVO (S: Earth@26, V: "has", O: equator@28)
+193	
+194	
+195	SVO (V: blow@7, S: winds@6, A?: predominantly@8, A?: from@9, O: trade-winds1@3)
+196	
+197	
+198	
+199	
+200	
+201	
+202	SVC (S: Shannon@1, V: "is", C: State@3)	SVO (V: act@10, S: winds@9, A?: as@11, O: Printing@4)	SVA (V: form@19, S: cyclones@17, A!: over@20)	SVO (S: world@21, V: "has", O: oceans@23)
+203	
+204	
+205	
+206	
+207	
+208	
+209	
+210	
+211	
+212	
+213	SVO (V: steer@11, S: winds@9, A?: also@10, O: dust@13, A?: westward@14, A?: across@15, A?: into@19)	SVO (V: portions@27, S: winds@9, A?: also@10, O: dust@13, A?: westward@14, A?: across@15, A?: into@19, A?: of@28)
+214	
+215	
+216	SVA (V: "be Called", S: Dust@2, O: Factor@6)	SVA (V: "be Affecting", S: Factor@6, O: U.S.@9)
+217	
+218	
+219	SVA (V: "be Called", S: Dust@2, O: Factor@6)	SVA (V: "be Affecting", S: Factor@6, O: U.S.@9)
+220	SVC (C: wind@10, V: is@6, S: monsoon@5)	SVA (V: lasts@12, S: wind@10, A!: for@13)
+221	SVO (V: used@5, S: term@2, A?: first@4, A?: in@6, A?: in@8, XCOMP: refer@19)	SVA (V: "be blowing", S: winds@24, A!: from@26, A?: in@33, A?: bringing@36)	SVA (V: "be bringing", S: blowing@25, O: rainfall@38, A!: to@39)
+222	
+223	
+224	SV (V: =@2, S: p@1)	SVO (S: Its@14, V: "has", O: progression@16)	SVA (V: accelerated@18, S: monsoon@7, A!: by@19, A?: during@36, A?: through@38)	SVA (V: over@42, S: monsoon@7, A?: by@19, A?: during@36, A?: through@38, A!: Australia@43, A?: in@44)
+225	
+226	SVO (V: Features@9, S: Onset@4, O: Centre@13)
+227	SVO (V: Features@9, S: Onset@4, O: Centre@13)
+228	
+229	
+230	
+231	
+232	
+233	
+234	
+235	
+236	
+237	
+238	
+239	
+240	
+241	SVO (S: Franklin@14, V: "has", O: map@16)	SVC (C: winds@30, V: are@27, S: map@16, A?: in@31, A?: between@35)	SVC (C: winds@30, V: are@27, S: Lesson@1, A?: in@31, A?: between@35)
+242	
+243	
+244	
+245	
+246	
+247	SVA (V: "be are", S: winds@2, A!: from@5)
+248	SVC (C: strongest@3, V: are@2, S: They@1, A?: in@4, A?: lower@11)	SVC (C: lower@11, V: is@10, S: pressure@9, A?: when@7, A?: over@12)	SVC (C: higher@25, V: are@24, S: pressures@23, A?: when@22, A?: over@26)
+249	
+250	
+251	SVOO (V: enabled@14, S: westerlies@13, O: route@18, IO: Íslands@4)	SVA (V: "be crossing", S: ships@21, O: Atlantic@24)	SVA (V: lead@32, S: westerlies@31, A!: to@33, A?: through@49)
+252	
+253	
+254	
+255	
+256	
+257	
+258	
+259	SVC (C: strong@6, V: be@4, S: westerlies@2, A?: particularly@5, A?: in@9)	EXISTENTIAL (V: is@16, S: land@18, A?: where@14, A?: in@19, A?: cause@24, O: hemisphere@12)	SVA (V: "be cause", S: land@18, O: pattern@27, A!: amplify@29)	SVA (V: "be amplify", S: cause@24, CCOMP: slows@32)	SVO (V: slows@32, S: which@31, O: winds@34, A?: down@35)
+260	SVA (V: are@9, S: winds@4, A!: within@10, A?: between@19)	SVA (V: "be known", S: band@12, A!: as@14)
+261	SVO (S: sailor@4, V: "has", O: W.@7)
+262	
+263	
+264	
+265	SVC (S: #PPA@22, V: "is", C: W.@33)	SVO (S: sailor@30, V: "has", O: W.@33)
+266	
+267	
+268	
+269	SVC (S: #PPA@22, V: "is", C: J.@53)	SVC (S: #PPA@22, V: "is", C: M1@25)	SVC (S: #PPA@22, V: "is", C: Bischof@50)	SVOO (V: play@29, S: Westerlies@28, O: role@32, A?: in@33, IO: M1@25)
+270	SVC (S: Mariano@1, V: "is", C: H.@4)
+271	
+272	
+273	
+274	
+275	SVC (S: Bischof@2, V: "is", C: J.@5)
+276	SVC (S: Mariano@1, V: "is", C: H.@4)
+277	
+278	
+279	
+280	
+281	
+282	SVC (S: Rasmussen@1, V: "is", C: John@3)
+283	SVC (S: Rasmussen@1, V: "is", C: Press@10)	SVO (S: its@19, V: "has", O: expanse@22)
+284	SVA (V: "be known", S: easterlies@5, A!: also@7, A?: as@9)	SVC (S: dry@15, V: "is", C: winds@19)	SVC (C: dry@15, V: are@14, S: easterlies@5)	SVA (V: blow@21, S: winds@19, A!: from@22)
+285	
+286	
+287	
+288	SVO (V: =@2, S: p@1, O: 1@3)	SVO (V: builds@29, S: air@28, XCOMP: creating@36)	SVO (V: subsides@32, S: air@28, A?: at@33, XCOMP: creating@36)	SVA (V: "be forcing", S: creating@36, O: outflow@44)
+289	
+290	
+291	
+292	
+293	
+294	SVO (V: deflected@18, S: outflow@16, O: Point@13, A?: eastward@19, A?: by@20)
+295	
+296	SVA (V: formed@4, S: winds@2, A!: through@5)	SVC (C: factors@50, V: be@48, S: breeze@22, A?: in@51)	SVO (S: location@53, V: "has", O: winds@56)
+297	SVA (V: warmed@4, S: sea@2, A!: by@5, A?: slowly@9, A?: of@11)	SVA (V: "be compared", S: heat@16, XCOMP: land@19)	SVO (S: water@12, V: "has", O: heat@16)
+298	
+299	
+300	
+301	
+302	
+303	
+304	SV (V: rises@18, S: University@5, A?: 2006-10-24@8)	SV (V: rises@18, S: temperature@11, A?: 2006-10-24@8)	SVOC (V: heats@22, S: land@21, CCOMP: rises@18, O: air@24, A?: above@25, A?: by@27)
+305	SVC (C: dense@6, V: is@4, S: air@3, A?: less@5, A?: than@7)	SV (V: rises@14, S: it@13)
+306	SVO (V: causes@2, S: This@1, O: gradient@5)
+307	SVO (V: flows@15, S: air@3, A?: inland@16, A?: into@17, XCOMP: creating@22)
+308	SVC (C: calm@5, V: are@4, S: winds@3, A?: When@1)	SVC (C: proportional@15, V: is@13, S: strength@8, A?: calm@5, A?: directly@14, A?: to@16)
+309	SV (V: exists@10, S: wind@4)	SVC (C: likely@17, V: is@15, S: breeze@14, A?: exists@10, XCOMP: develop@19)
+310	SVA (V: cools@6, S: land@5, A?: At@1, A!: quickly@9, A?: of@14)	SVO (S: their@17, V: "has", O: values@20)
+311	SVOC (V: causes@4, S: change@3, O: breeze@8, XCOMP: dissipate@10)
+312	SVC (S: temperature@3, V: "is", C: pressure@12)	SVO (V: cools@5, S: onshore@4, A?: below@6, A?: offshore@9, O: temperature@3)	SVC (C: lower@18, V: be@17, S: temperature@3, A?: When@1, A?: than@19)	SVC (C: strong@38, V: is@36, S: wind@35, A?: enough@39, XCOMP: oppose@41)
+313	
+314	
+315	
+316	
+317	
+318	
+319	
+320	SVA (V: flows@3, S: wind@2, A!: towards@4)	SVO (V: produces@8, S: wind@2, A?: towards@4, O: oscillation@11)	SVC (S: oscillation@11, V: "is", C: A@13)
+321	SVA (V: occurs@4, S: wave@3, A!: further@5, A?: away@6)
+322	SVA (V: form@4, S: clouds@3, A!: at@5)	SVC (S: waves@10, V: "is", C: B@12)
+323	SVO (V: exceeds@9, S: heating@5, A?: Over@1, O: heating@11, A?: at@16)	SVO (V: Office@47, S: heating@5, A?: Over@1, O: heating@11, A?: at@16, A?: in@48)	SV (V: existed@41, S: lows@36, A?: otherwise@40)
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	
+335	
+336	EXISTENTIAL (V: is@5, S: topography@7, A?: where@3, O: areas@2)	SVO (V: interrupts@10, S: topography@7, A?: significantly@9, O: flow@14)	SVC (C: contributor@27, V: is@23, S: circulation@18, A?: In@1, A?: to@28)
+337	SVOC (V: distort@5, S: Hills@1, A?: substantially@4, O: airflow@7, A?: by@8, A?: by@16, XCOMP: deflecting@26)	SVA (V: known@41, S: topography@37, A!: as@42)
+338	SVO (V: increase@5, S: jet@3, O: wind@9, A?: by@10)
+339	
+340	
+341	
+342	
+343	SVO (V: =@6, S: afficheN@3, O: influence@9)
+344	
+345	
+346	
+347	
+348	
+349	
+350	SVO (V: =@6, S: afficheN@3, O: influence@9)
+351	
+352	
+353	SVA (V: changes@4, S: direction@2, A?: also@3, A!: of@6)
+354	EXISTENTIAL (V: is@3, S: pass@5)	SVA (V: rush@13, S: winds@11, A?: is@3, A!: through@14, A?: of@21)	SVO (V: describes@26, S: principle@24, O: relationship@29)
+355	SVC (V: remain@4, S: airflow@2, ACOMP: turbulent@5)	SVC (V: erratic@7, S: airflow@2, ACOMP: turbulent@5, A?: for@8)
+356	SVC (C: dangerous@4, V: are@3, S: conditions@2, A?: to@5)
+357	
+358	
+359	
+360	
+361	SVO (S: Sierra@5, V: "has", O: waves@7)	SVA (V: "be accelerating", S: winds@17, A!: through@19)	SVO (V: given@24, S: Catching@3, O: names@26)
+362	SVO (V: include@6, S: examples@5, A?: In@1, O: wind@9)
+363	SVA (V: known@7, S: winds@5, A?: In@1, A!: as@8)
+364	SVOC (V: increase@10, S: they@9, XCOMP: mixing@11, O: blow@4)	SVO (V: elevates@20, S: layers@15, O: waters@25, A?: to@26)	SVA (V: leads@31, S: surface@28, A!: to@32)
+365	
+366	
+367	
+368	
+369	SVC (S: Drake@5, V: "is", C: distortion@22)	SVC (V: becomes@26, S: Drake@5, ACOMP: severe@27)
+370	SVO (V: combines@3, S: terrain@2, XCOMP: produce@5)	SVA (V: topped@19, S: rotors@14, A!: by@20)
+371	SVA (V: develop@7, S: updraft@2, A!: flows@11)	SVA (V: flows@11, S: air@10, A!: over@12)	SVA (V: down@15, S: air@10, A?: over@12, A!: valleys@16)
+372	SVA (V: occurs@3, S: precipitation@2, A!: on@4)	SVA (V: caused@12, S: precipitation@2, A?: on@4, A!: by@13)
+373	SVA (V: "be subjected", S: parts@3, A!: to@8)	SVO (V: prevails@26, S: climate@24, A?: usually@25, A?: on@27, A?: than@34, O: winds@18)
+374	SVO (V: removed@3, S: Moisture@1, A?: by@4, XCOMP: leaving@8)	SVO (V: observed@25, S: shadow@23, A?: where@20, O: side@19)
+375	
+376	
+377	
+378	
+379	SVC (S: Introduction@4, V: "is", C: e@9)
+380	SVO (V: Processes@3, S: Formation@2, O: Geography@5)
+381	
+382	
+383	
+384	SVC (S: Introduction@4, V: "is", C: e@9)
+385	SVO (V: Processes@3, S: Formation@2, O: Winds@7)	SVA (V: flow@9, S: Winds@7, A!: over@10)
+386	SVC (C: warm@4, V: are@3, S: winds@2)
+387	SVA (V: known@10, S: they@8, A?: In@1, A!: as@11)
+388	SVC (C: wiatr@9, V: is@6, S: example@5, A?: In@1)
+389	SVC (C: zonda@11, V: is@10, S: name@6, A?: In@1)
+390	SVC (C: koembang@11, V: is@10, S: name@6, A?: In@1)
+391	SVA (V: known@7, S: they@5, A?: In@1, A!: as@8)	SVA (V: accompanied@17, S: they@5, A?: In@1, A?: as@8, A!: by@18)	SVO (V: named@24, S: they@22, A?: inspired@28, O: formation@21)	SVO (V: inspired@28, S: that@26, O: artwork@29, A?: over@30)
+392	
+393	
+394	
+395	
+396	SVO (V: known@27, S: winds@25, A?: as@28, O: id@1)
+397	SVA (V: funneled@7, S: winds@5, A?: In@1, A!: through@8)	SVO (V: intensify@13, S: which@12, O: effect@15)	SVO (S: their@14, V: "has", O: effect@15)
+398	SVO (V: exceed@8, S: speeds@2, O: mph@12)
+399	
+400	
+401	
+402	
+403	SVO (S: Boulder@10, V: "has", O: winds@13)	SVOC (V: wind@14, S: Corporation@6, O: atlas@15, A?: described@17, CCOMP: means@33)	SVA (V: spread@26, S: winds@23, A!: evenly@27, A?: across@28)	SVO (V: means@33, S: which@32, CCOMP: differ@38)	SVA (V: differ@38, S: speeds@36, A?: also@37, A!: by@39)
+404	SVA (V: increases@8, S: speed@6, A?: In@1, A?: also@7, A!: with@9)
+405	SVA (V: "be used", S: yardstick@4, XCOMP: determine@7)	SVA (V: referred@16, S: yardstick@4, A?: Nowadays@1, A!: to@17, A?: as@18)	SVC (S: density@21, V: "is", C: WPD@23)
+406	SVC (C: calculation@4, V: is@2, S: It@1, A?: relating@5, A?: expressed@19)	SVA (V: "be expressed", S: calculation@4, A!: frequently@18, A?: in@20, A?: over@28)	SVA (V: "be relating", S: calculation@4, A!: to@6, A?: at@13)
+407	SVA (V: takes@2, S: It@1, A!: into@3)
+408	SVO (V: prepared@5, S: maps@3, A?: for@6, CCOMP: described@11)
+409	SVA (V: included@9, S: results@3, A!: in@10)	SVA (V: referred@21, S: results@3, A?: in@10, A!: to@22)	SVA (V: "be developed", S: index@12, A!: by@14)
+410	SVO (V: rated@12, S: it@10, A?: by@13, O: higher@9)
+411	SVC (S: Project@4, V: "is", C: Terrace@16)	SVC (S: Project@4, V: "is", C: Atlantic@7)	SVC (S: Project@4, V: "is", C: capacity@31)	SVC (S: Terrace@16, V: "is", C: Village@19)	SVC (S: Terrace@16, V: "is", C: Kansas@21)	SVC (C: 120.8@36, V: was@35, S: Project@4)
+412	
+413	SVOC (V: contribute@11, S: Association@4, A?: globally@10, XCOMP: secure@13, O: www.wwindea.org/home/index.php@23)	SVOC (V: contribute@11, S: Gigawatt@6, A?: globally@10, XCOMP: secure@13, O: www.wwindea.org/home/index.php@23)
+414	SVA (V: "be secure", S: view@7, O: release@33)	SV (V: contribute@27, S: Gigawatt@22, A?: globally@26)	SV (V: contribute@27, S: id@9, A?: globally@26)	SV (V: contribute@27, S: 223@11, A?: globally@26)
+415	SVO (V: produces@19, S: wind@18, O: 1.5@22)
+416	SVA (V: "be doubled", S: %@1, A!: in@14)	SVO (V: growing@9, S: it@7, A?: rapidly@10, O: %@1)
+417	

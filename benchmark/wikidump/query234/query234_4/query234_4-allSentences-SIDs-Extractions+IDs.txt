@@ -1,0 +1,1361 @@
+thumbCocoa beans in a cacao pod thumbCocoa beans before roasting thumbA roasted cocoa bean_ the papery skin rubbed loose . 	0	query234_Cocoa_bean\S\0
+"thumbCocoa beans in a cacao pod thumbCocoa beans before roasting thumbA roasted cocoa bean"	"_"	"the papery skin rubbed loose"	0	query234_Cocoa_bean\P\0-0
+"the papery skin"	"rubbed"	"loose"	0	query234_Cocoa_bean\P\0-1
+Cocoa bean ( also cacao bean , often simply cocoa and cacao ; Mayan : kakaw ; Nahuatl : cacaua ) is the dried and fully fermented fatty seed of Theobroma cacao , from which cocoa solids and cocoa butter are extracted . 	1	query234_Cocoa_bean\S\1
+"Cocoa bean also cacao bean Mayan kakaw Nahuatl cacaua"	"is the dried fatty seed"	"of Theobroma cacao"	1	query234_Cocoa_bean\P\1-0
+"Cocoa bean also cacao often simply cocoa Mayan kakaw Nahuatl cacaua"	"is the dried fatty seed"	"of Theobroma cacao"	1	query234_Cocoa_bean\P\1-1
+"Cocoa bean also cacao cacao Mayan kakaw Nahuatl cacaua"	"is the dried fatty seed"	"of Theobroma cacao"	1	query234_Cocoa_bean\P\1-2
+"Cocoa bean also cacao bean Mayan kakaw Nahuatl cacaua"	"is the fully fermented fatty seed"	"of Theobroma cacao"	1	query234_Cocoa_bean\P\1-3
+"Cocoa bean also cacao often simply cocoa Mayan kakaw Nahuatl cacaua"	"is the fully fermented fatty seed"	"of Theobroma cacao"	1	query234_Cocoa_bean\P\1-4
+"Cocoa bean also cacao cacao Mayan kakaw Nahuatl cacaua"	"is the fully fermented fatty seed"	"of Theobroma cacao"	1	query234_Cocoa_bean\P\1-5
+"Cocoa bean also cacao bean Mayan kakaw Nahuatl cacaua"	"is"	"the dried fatty seed"	1	query234_Cocoa_bean\P\1-6
+"Cocoa bean also cacao often simply cocoa Mayan kakaw Nahuatl cacaua"	"is"	"the dried fatty seed"	1	query234_Cocoa_bean\P\1-7
+"Cocoa bean also cacao cacao Mayan kakaw Nahuatl cacaua"	"is"	"the dried fatty seed"	1	query234_Cocoa_bean\P\1-8
+"Cocoa bean also cacao bean Mayan kakaw Nahuatl cacaua"	"is"	"the fully fermented fatty seed"	1	query234_Cocoa_bean\P\1-9
+"Cocoa bean also cacao often simply cocoa Mayan kakaw Nahuatl cacaua"	"is"	"the fully fermented fatty seed"	1	query234_Cocoa_bean\P\1-10
+"Cocoa bean also cacao cacao Mayan kakaw Nahuatl cacaua"	"is"	"the fully fermented fatty seed"	1	query234_Cocoa_bean\P\1-11
+"cocoa solids"	"are extracted"	"the dried fatty seed of Theobroma cacao from which"	1	query234_Cocoa_bean\P\1-12
+"cocoa solids"	"are extracted"	"the fully fermented fatty seed of Theobroma cacao from which"	1	query234_Cocoa_bean\P\1-13
+"cocoa cocoa butter"	"are extracted"	"the dried fatty seed of Theobroma cacao from which"	1	query234_Cocoa_bean\P\1-14
+"cocoa cocoa butter"	"are extracted"	"the fully fermented fatty seed of Theobroma cacao from which"	1	query234_Cocoa_bean\P\1-15
+"cocoa solids"	"are extracted"	"the dried fatty seed of Theobroma cacao"	1	query234_Cocoa_bean\P\1-16
+"cocoa solids"	"are extracted"	"the fully fermented fatty seed of Theobroma cacao"	1	query234_Cocoa_bean\P\1-17
+"cocoa cocoa butter"	"are extracted"	"the dried fatty seed of Theobroma cacao"	1	query234_Cocoa_bean\P\1-18
+"cocoa cocoa butter"	"are extracted"	"the fully fermented fatty seed of Theobroma cacao"	1	query234_Cocoa_bean\P\1-19
+They are the basis of chocolate , as well as many Mesoamerican foods such as mole sauce and tejate . 	2	query234_Cocoa_bean\S\2
+They are the basis of chocolate , as well as many Mesoamerican foods such as mole sauce and tejate . 	2	query234_Cocoa_bean\S\2
+They are the basis of chocolate , as well as many Mesoamerican foods such as mole sauce and tejate . 	2	query234_Cocoa_bean\S\2
+They are the basis of chocolate , as well as many Mesoamerican foods such as mole sauce and tejate . 	2	query234_Cocoa_bean\S\2
+They are the basis of chocolate , as well as many Mesoamerican foods such as mole sauce and tejate . 	2	query234_Cocoa_bean\S\2
+They are the basis of chocolate , as well as many Mesoamerican foods such as mole sauce and tejate . 	2	query234_Cocoa_bean\S\2
+They are the basis of chocolate , as well as many Mesoamerican foods such as mole sauce and tejate . 	2	query234_Cocoa_bean\S\2
+A cocoa pod ( fruit ) has a rough leathery rind about 3&nbsp;cm thick ( this varies with the origin and variety of pod ) . 	3	query234_Cocoa_bean\S\3
+"A cocoa pod"	"is"	"fruit"	3	query234_Cocoa_bean\P\3-0
+"A cocoa pod"	"has"	"a rough leathery rind about 3 cm thick"	3	query234_Cocoa_bean\P\3-1
+"A cocoa pod"	"has"	"a rough leathery rind about 3 cm thick"	3	query234_Cocoa_bean\P\3-2
+"A cocoa pod"	"has"	"a rough leathery rind about 3 cm thick"	3	query234_Cocoa_bean\P\3-3
+"A cocoa pod"	"has"	"a rough leathery rind about 3 cm thick"	3	query234_Cocoa_bean\P\3-4
+It is filled with sweet , mucilaginous pulp ( called 'baba de cacao ' in South America ) enclosing 30 to 50 large seeds that are fairly soft and white to pale lavender in color . 	4	query234_Cocoa_bean\S\4
+It is filled with sweet , mucilaginous pulp ( called 'baba de cacao ' in South America ) enclosing 30 to 50 large seeds that are fairly soft and white to pale lavender in color . 	4	query234_Cocoa_bean\S\4
+It is filled with sweet , mucilaginous pulp ( called 'baba de cacao ' in South America ) enclosing 30 to 50 large seeds that are fairly soft and white to pale lavender in color . 	4	query234_Cocoa_bean\S\4
+"sweet mucilaginous pulp called baba de cacao in South America"	"be enclosing"	"30 to 50 large seeds"	4	query234_Cocoa_bean\P\4-0
+"large seeds"	"are soft"	"fairly to pale lavender in color"	50	query234_Cocoa_bean\P\4-1
+"large seeds"	"are white"	"fairly to pale lavender in color"	50	query234_Cocoa_bean\P\4-2
+"large seeds"	"are soft"	"to pale lavender in color"	50	query234_Cocoa_bean\P\4-3
+"large seeds"	"are white"	"to pale lavender in color"	50	query234_Cocoa_bean\P\4-4
+While seeds are usually white , they become violet or reddish brown during the drying process . 	5	query234_Cocoa_bean\S\5
+While seeds are usually white , they become violet or reddish brown during the drying process . 	5	query234_Cocoa_bean\S\5
+While seeds are usually white , they become violet or reddish brown during the drying process . 	5	query234_Cocoa_bean\S\5
+While seeds are usually white , they become violet or reddish brown during the drying process . 	5	query234_Cocoa_bean\S\5
+While seeds are usually white , they become violet or reddish brown during the drying process . 	5	query234_Cocoa_bean\S\5
+While seeds are usually white , they become violet or reddish brown during the drying process . 	5	query234_Cocoa_bean\S\5
+While seeds are usually white , they become violet or reddish brown during the drying process . 	5	query234_Cocoa_bean\S\5
+While seeds are usually white , they become violet or reddish brown during the drying process . 	5	query234_Cocoa_bean\S\5
+While seeds are usually white , they become violet or reddish brown during the drying process . 	5	query234_Cocoa_bean\S\5
+The exception is rare varieties of white cacao , in which the seeds remain white . 	6	query234_Cocoa_bean\S\6
+"The exception"	"is rare varieties"	"of white cacao"	6	query234_Cocoa_bean\P\6-0
+"The exception"	"is"	"rare varieties"	6	query234_Cocoa_bean\P\6-1
+"the seeds"	"remain"	"white rare varieties of white cacao in which"	6	query234_Cocoa_bean\P\6-2
+"the seeds"	"remain"	"white rare varieties of white cacao"	6	query234_Cocoa_bean\P\6-3
+The manufacture of chocolate and other cacao preparations Paul Zipperer 2 Verlag von M. 	7	query234_Cocoa_bean\S\7
+Krayn Berlin 1902 14 http ://books .google 	8	query234_Cocoa_bean\S\8
+.com/books 	9	query234_Cocoa_bean\S\9
+?id=DIdIAAAAYAAJ&pg=PA14&dq="white+cacao " The manufacture of chocolate and other cacao preparations Paul Zipperer 2 Verlag von M. 	10	query234_Cocoa_bean\S\10
+Krayn Berlin 1902 14 http ://books .google 	11	query234_Cocoa_bean\S\11
+.com/books 	12	query234_Cocoa_bean\S\12
+?id=DIdIAAAAYAAJ&pg=PA14&dq="white+cacao " http ://www.freepatentsonline 	13	query234_Cocoa_bean\S\13
+.com/5395635.pdf 	14	query234_Cocoa_bean\S\14
+Historically , white cacao was cultivated by the Rama people of Nicaragua . 	15	query234_Cocoa_bean\S\15
+"Historically"	"is"	"white cacao"	15	query234_Cocoa_bean\P\15-0
+"Historically"	"was cultivated"	"by the Rama people of Nicaragua"	15	query234_Cocoa_bean\P\15-1
+January 2010 The word " cocoa" is derivative of " cacao" . 	16	query234_Cocoa_bean\S\16
+"January 2010 The word cocoa"	"is derivative"	"of cacao"	16	query234_Cocoa_bean\P\16-0
+"January 2010 The word cocoa"	"is"	"derivative"	16	query234_Cocoa_bean\P\16-1
+" Cocoa " can often also refer to the drink commonly known as hot chocolate ; Chocolate Facts 2005-06-11 http ://www.calacademy 	17	query234_Cocoa_bean\S\17
+"Cocoa"	"can refer"	"to the drink commonly known as hot chocolate often"	17	query234_Cocoa_bean\P\17-0
+"Cocoa"	"can refer"	"to the drink commonly known as hot chocolate also"	17	query234_Cocoa_bean\P\17-1
+"Cocoa"	"can refer"	"to the drink commonly known as hot chocolate"	17	query234_Cocoa_bean\P\17-2
+"Cocoa"	"can Chocolate Facts 2005-06-11 http"	"often"	17	query234_Cocoa_bean\P\17-3
+"Cocoa"	"can Chocolate Facts 2005-06-11 http"	"also"	17	query234_Cocoa_bean\P\17-4
+"Cocoa"	"can Chocolate Facts 2005-06-11 http"	"to the drink commonly known as hot chocolate"	17	query234_Cocoa_bean\P\17-5
+"the drink"	"be known"	"commonly as hot chocolate"	17	query234_Cocoa_bean\P\17-6
+"the drink"	"be known"	"commonly"	17	query234_Cocoa_bean\P\17-7
+.org/exhibits/chocolate/chocolate 	18	query234_Cocoa_bean\S\18
+.php 	19	query234_Cocoa_bean\S\19
+2007-11-12 Chocolate Facts 2005-06-11 http ://www.calacademy 	20	query234_Cocoa_bean\S\20
+.org/exhibits/chocolate/chocolate 	21	query234_Cocoa_bean\S\21
+.php 	22	query234_Cocoa_bean\S\22
+2007-11-12 to cocoa powder , the dry powder made by grinding cocoa seeds and removing the cocoa butter from the dark , bitter cocoa solids ; or to a mixture of cocoa powder and cocoa butter . 	23	query234_Cocoa_bean\S\23
+"the dry powder"	"be made"	"by grinding cocoa seeds"	23	query234_Cocoa_bean\P\23-0
+"the dry powder"	"be made"	"by cocoa seeds removing the cocoa butter from the dark bitter cocoa solids"	23	query234_Cocoa_bean\P\23-1
+"the dry to a mixture of cocoa powder"	"be made"	"by grinding cocoa seeds"	23	query234_Cocoa_bean\P\23-2
+"the dry to a mixture of cocoa powder"	"be made"	"by cocoa seeds removing the cocoa butter from the dark bitter cocoa solids"	23	query234_Cocoa_bean\P\23-3
+"the dry to a mixture of cocoa cocoa butter"	"be made"	"by grinding cocoa seeds"	23	query234_Cocoa_bean\P\23-4
+"the dry to a mixture of cocoa cocoa butter"	"be made"	"by cocoa seeds removing the cocoa butter from the dark bitter cocoa solids"	23	query234_Cocoa_bean\P\23-5
+Cacao Vs . 	24	query234_Cocoa_bean\S\24
+Cocoa : Updating Your Chocolate Vocabulary http ://www.allchocolate 	25	query234_Cocoa_bean\S\25
+Cocoa : Updating Your Chocolate Vocabulary http ://www.allchocolate 	25	query234_Cocoa_bean\S\25
+.com/understanding/cacao-vs-cocoa/ 	26	query234_Cocoa_bean\S\26
+2007-11-12 Cacao Vs . 	27	query234_Cocoa_bean\S\27
+Cocoa : Updating Your Chocolate Vocabulary http ://www.allchocolate 	28	query234_Cocoa_bean\S\28
+Cocoa : Updating Your Chocolate Vocabulary http ://www.allchocolate 	28	query234_Cocoa_bean\S\28
+.com/understanding/cacao-vs-cocoa/ 	29	query234_Cocoa_bean\S\29
+2007-11-12 The cacao tree is native to the Americas . 	30	query234_Cocoa_bean\S\30
+"2007-11-12 The cacao tree"	"is native"	"to the Americas"	30	query234_Cocoa_bean\P\30-0
+"2007-11-12 The cacao tree"	"is"	"native"	30	query234_Cocoa_bean\P\30-1
+It may have originated in the foothills of the Andes in the Amazon and Orinoco basins of South America , current day Venezuela , where today , examples of wild cacao still can be found . 	31	query234_Cocoa_bean\S\31
+It may have originated in the foothills of the Andes in the Amazon and Orinoco basins of South America , current day Venezuela , where today , examples of wild cacao still can be found . 	31	query234_Cocoa_bean\S\31
+It may have originated in the foothills of the Andes in the Amazon and Orinoco basins of South America , current day Venezuela , where today , examples of wild cacao still can be found . 	31	query234_Cocoa_bean\S\31
+It may have originated in the foothills of the Andes in the Amazon and Orinoco basins of South America , current day Venezuela , where today , examples of wild cacao still can be found . 	31	query234_Cocoa_bean\S\31
+"examples of wild cacao"	"can be found"	"Venezuela where"	31	query234_Cocoa_bean\P\31-0
+"examples of wild cacao"	"can be found"	"Venezuela today"	31	query234_Cocoa_bean\P\31-1
+"examples of wild cacao"	"can be found"	"Venezuela still"	31	query234_Cocoa_bean\P\31-2
+"examples of wild cacao"	"can be found"	"Venezuela"	31	query234_Cocoa_bean\P\31-3
+However , it may have had a larger range in the past , evidence for which may be obscured because of its cultivation in these areas long before , as well as after , the Spanish arrived . 	32	query234_Cocoa_bean\S\32
+However , it may have had a larger range in the past , evidence for which may be obscured because of its cultivation in these areas long before , as well as after , the Spanish arrived . 	32	query234_Cocoa_bean\S\32
+However , it may have had a larger range in the past , evidence for which may be obscured because of its cultivation in these areas long before , as well as after , the Spanish arrived . 	32	query234_Cocoa_bean\S\32
+"evidence for which"	"may be obscured"	"because of its cultivation in these areas long before"	32	query234_Cocoa_bean\P\32-0
+"evidence for which"	"may be obscured"	"because of its cultivation in these areas long after the Spanish arrived"	32	query234_Cocoa_bean\P\32-1
+"evidence for which"	"may be obscured"	"because of its cultivation in these areas long after the Spanish arrived"	32	query234_Cocoa_bean\P\32-2
+"the Spanish"	"arrived"	"after"	32	query234_Cocoa_bean\P\32-3
+It was first cultivated by the Olmec at least 1500 BC in Central America . 	33	query234_Cocoa_bean\S\33
+It was first cultivated by the Olmec at least 1500 BC in Central America . 	33	query234_Cocoa_bean\S\33
+http ://www.thenibble 	34	query234_Cocoa_bean\S\34
+.com/reviews/main/chocolate/the-history-of-chocolate 	35	query234_Cocoa_bean\S\35
+.asp 	36	query234_Cocoa_bean\S\36
+The cocoa bean was a common currency throughout Mesoamerica before the Spanish conquest . 	37	query234_Cocoa_bean\S\37
+"The cocoa bean"	"was a common currency"	"throughout Mesoamerica"	37	query234_Cocoa_bean\P\37-0
+"The cocoa bean"	"was a common currency"	"before the Spanish conquest"	37	query234_Cocoa_bean\P\37-1
+"The cocoa bean"	"was"	"a common currency"	37	query234_Cocoa_bean\P\37-2
+Cacao trees will grow in a limited geographical zone , of approximately 20 degrees to the north and south of the Equator . 	38	query234_Cocoa_bean\S\38
+"Cacao trees"	"will grow"	"in a limited geographical zone of approximately 20 degrees"	38	query234_Cocoa_bean\P\38-0
+"Cacao trees"	"will grow"	"in a limited geographical zone to the north of the Equator"	38	query234_Cocoa_bean\P\38-1
+"Cacao trees"	"will grow"	"in a limited geographical zone to the south of the Equator"	38	query234_Cocoa_bean\P\38-2
+"Cacao trees"	"will grow"	"in a limited geographical zone"	38	query234_Cocoa_bean\P\38-3
+Nearly 70 % of the world crop is grown in West Africa . 	39	query234_Cocoa_bean\S\39
+"Nearly 70 % of the world crop"	"is grown"	"in West Africa"	39	query234_Cocoa_bean\P\39-0
+Cocoa was an important commodity in pre-Columbian Mesoamerica . 	40	query234_Cocoa_bean\S\40
+"Cocoa"	"was an important commodity"	"in pre-Columbian Mesoamerica"	40	query234_Cocoa_bean\P\40-0
+"Cocoa"	"was"	"an important commodity"	40	query234_Cocoa_bean\P\40-1
+A Spanish soldier who was part of the conquest of Mexico by Hernán Cortés tells that when Moctezuma II , emperor of the Aztec , dined , he took no other beverage than chocolate , served in a gold goblet . 	41	query234_Cocoa_bean\S\41
+"A Spanish soldier"	"was part"	"of the conquest of Mexico"	41	query234_Cocoa_bean\P\41-0
+"A Spanish soldier"	"was part"	"by Hernán Cortés"	41	query234_Cocoa_bean\P\41-1
+"A Spanish soldier"	"was"	"part"	41	query234_Cocoa_bean\P\41-2
+"A Spanish soldier"	"tells"	"that when Moctezuma II dined he took no other beverage than chocolate served in a gold goblet"	41	query234_Cocoa_bean\P\41-3
+"Moctezuma II"	"is"	"emperor of the Aztec"	41	query234_Cocoa_bean\P\41-4
+"Moctezuma II"	"dined"	"when"	41	query234_Cocoa_bean\P\41-5
+"Moctezuma II"	"dined"	"when"	41	query234_Cocoa_bean\P\41-6
+"Moctezuma II"	"dined"	"when"	41	query234_Cocoa_bean\P\41-7
+"Moctezuma II"	"dined"	"when"	41	query234_Cocoa_bean\P\41-8
+Flavored with vanilla or other spice , his chocolate was whipped into a froth that dissolved in the mouth . 	42	query234_Cocoa_bean\S\42
+Flavored with vanilla or other spice , his chocolate was whipped into a froth that dissolved in the mouth . 	42	query234_Cocoa_bean\S\42
+Flavored with vanilla or other spice , his chocolate was whipped into a froth that dissolved in the mouth . 	42	query234_Cocoa_bean\S\42
+Flavored with vanilla or other spice , his chocolate was whipped into a froth that dissolved in the mouth . 	42	query234_Cocoa_bean\S\42
+"his chocolate"	"was whipped"	"into a froth 42 Flavored with vanilla"	42	query234_Cocoa_bean\P\42-0
+"his chocolate"	"was whipped"	"into a froth 42 Flavored with other spice"	42	query234_Cocoa_bean\P\42-1
+"his chocolate"	"was whipped"	"into a froth"	42	query234_Cocoa_bean\P\42-2
+"a froth"	"dissolved"	"in the mouth"	42	query234_Cocoa_bean\P\42-3
+It is reported that no fewer than 50 portions each day may have been consumed by Moctezuma II , and 2000 more by the noble of his court . 	43	query234_Cocoa_bean\S\43
+"It"	"is reported"	"that no fewer than 50 portions each day may have been consumed by Moctezuma II"	43	query234_Cocoa_bean\P\43-0
+"It"	"is reported"	"that no fewer than 50 portions each day may have been by Moctezuma II 2000 more by the noble of his court"	43	query234_Cocoa_bean\P\43-1
+"no fewer than 50 portions each day"	"may have been consumed"	"by Moctezuma II"	43	query234_Cocoa_bean\P\43-2
+"no fewer than 50 portions each day"	"may have been 2000 more"	"by the noble of his court by Moctezuma II"	43	query234_Cocoa_bean\P\43-3
+"no fewer than 50 portions each day"	"may have been 2000 more"	"by the noble of his court"	43	query234_Cocoa_bean\P\43-4
+"no fewer than 50 portions each day"	"may have been 2000 more"	"by the noble of his court"	43	query234_Cocoa_bean\P\43-5
+Díaz del Castillo , Bernal ( 2005 ) [1632] . 	44	query234_Cocoa_bean\S\44
+"Díaz del Castillo"	"is"	"Bernal"	44	query234_Cocoa_bean\P\44-0
+"Díaz del Castillo"	"is"	"Bernal"	44	query234_Cocoa_bean\P\44-1
+"Díaz del Castillo"	"is"	"Bernal"	44	query234_Cocoa_bean\P\44-2
+Historia verdadera de la conquista de la Nueva España . 	45	query234_Cocoa_bean\S\45
+Felipe Castro Gutiérrez ( Introduction ) . 	46	query234_Cocoa_bean\S\46
+"Felipe Castro Gutiérrez"	"is"	"Introduction"	46	query234_Cocoa_bean\P\46-0
+Mexico : Editores Mexicanos Unidos , S.A. 	47	query234_Cocoa_bean\S\47
+"Editores Mexicanos Unidos"	"is"	"S.A."	47	query234_Cocoa_bean\P\47-0
+. 	48	query234_Cocoa_bean\S\48
+ISBN 968-15-0863-7. 	49	query234_Cocoa_bean\S\49
+OCLC 34997012 Chocolate was introduced to Europe by the Spaniard , and became a popular beverage by the mid 17th century . 	50	query234_Cocoa_bean\S\50
+"Chocolate"	"was introduced"	"to Europe by the Spaniard"	34997012	query234_Cocoa_bean\P\50-0
+"Chocolate"	"was introduced"	"to Europe"	34997012	query234_Cocoa_bean\P\50-1
+"Chocolate"	"was became"	"a popular beverage to Europe"	34997012	query234_Cocoa_bean\P\50-2
+"Chocolate"	"was became"	"a popular beverage by the Spaniard"	34997012	query234_Cocoa_bean\P\50-3
+"Chocolate"	"was became"	"a popular beverage by the mid 17th century"	34997012	query234_Cocoa_bean\P\50-4
+"Chocolate"	"was became"	"a popular beverage"	34997012	query234_Cocoa_bean\P\50-5
+Chocolate History Time Line http ://www.chocolatemonthclub.com/chocolatehistory 	51	query234_Cocoa_bean\S\51
+.htm 	52	query234_Cocoa_bean\S\52
+2007-11-08 Chocolate History Time Line http ://www.chocolatemonthclub.com/chocolatehistory 	53	query234_Cocoa_bean\S\53
+.htm 	54	query234_Cocoa_bean\S\54
+2007-11-08 They also introduced the cacao tree into the West Indies and the Philippines . 	55	query234_Cocoa_bean\S\55
+2007-11-08 They also introduced the cacao tree into the West Indies and the Philippines . 	55	query234_Cocoa_bean\S\55
+2007-11-08 They also introduced the cacao tree into the West Indies and the Philippines . 	55	query234_Cocoa_bean\S\55
+2007-11-08 They also introduced the cacao tree into the West Indies and the Philippines . 	55	query234_Cocoa_bean\S\55
+2007-11-08 They also introduced the cacao tree into the West Indies and the Philippines . 	55	query234_Cocoa_bean\S\55
+The cacao plant was first given its botanical name by Swedish natural scientist Carl Linnaeus in his original classification of the plant kingdom , who called it Theobroma ( "food of the gods " ) cacao . 	56	query234_Cocoa_bean\S\56
+The cacao plant was first given its botanical name by Swedish natural scientist Carl Linnaeus in his original classification of the plant kingdom , who called it Theobroma ( "food of the gods " ) cacao . 	56	query234_Cocoa_bean\S\56
+The cacao plant was first given its botanical name by Swedish natural scientist Carl Linnaeus in his original classification of the plant kingdom , who called it Theobroma ( "food of the gods " ) cacao . 	56	query234_Cocoa_bean\S\56
+Children in cocoa production 2011 Cocoa Beans 1.222 	57	query234_Cocoa_bean\S\57
+0.800 	58	query234_Cocoa_bean\S\58
+0.662 	59	query234_Cocoa_bean\S\59
+0.370 	60	query234_Cocoa_bean\S\60
+0.226 	61	query234_Cocoa_bean\S\61
+0.218 	62	query234_Cocoa_bean\S\62
+0.121 	63	query234_Cocoa_bean\S\63
+0.105 	64	query234_Cocoa_bean\S\64
+0.051 	65	query234_Cocoa_bean\S\65
+0.051 	66	query234_Cocoa_bean\S\66
+4.082 	67	query234_Cocoa_bean\S\67
+thumbleftCocoa bean output in 2005 About 3000000 t on of cocoa is produced each year . 	68	query234_Cocoa_bean\S\68
+"About 3000000 t on of cocoa"	"is produced"	"each year 68 thumbleftCocoa bean output in 2005"	68	query234_Cocoa_bean\P\68-0
+"About 3000000 t on of cocoa"	"is produced"	"68 thumbleftCocoa bean output in 2005"	68	query234_Cocoa_bean\P\68-1
+The global production was The production increased by 131.7 	69	query234_Cocoa_bean\S\69
+"The global production"	"was The production"	"increased by 131.7"	69	query234_Cocoa_bean\P\69-0
+"The global production"	"was"	"The production"	69	query234_Cocoa_bean\P\69-1
+"The production"	"be increased"	"by 131.7"	69	query234_Cocoa_bean\P\69-2
+% in 30 years , representing a compound annual growth rate of 2.8 	70	query234_Cocoa_bean\S\70
+"% in 30 years"	"be representing"	"a compound annual growth rate of 2.8"	70	query234_Cocoa_bean\P\70-0
+% . 	71	query234_Cocoa_bean\S\71
+There are three main varieties of cacao : Forastero , Criollo , and Trinitario . 	72	query234_Cocoa_bean\S\72
+"three main varieties of cacao"	"There are"	"72 Forastero"	72	query234_Cocoa_bean\P\72-0
+"three main varieties of cacao"	"There are"	"72 Criollo"	72	query234_Cocoa_bean\P\72-1
+"three main varieties of cacao"	"There are"	"72 Trinitario"	72	query234_Cocoa_bean\P\72-2
+The first is the most widely used , comprising 95 % of the world production of cocoa . 	73	query234_Cocoa_bean\S\73
+"The first"	"is the used"	"comprising 95 % of the world production of cocoa 73 most widely"	73	query234_Cocoa_bean\P\73-0
+"The first"	"is the used"	"comprising 95 % of the world production of cocoa 73"	73	query234_Cocoa_bean\P\73-1
+Overall , the highest quality cocoa beans come from the Criollo variety , which is considered a delicacy . 	74	query234_Cocoa_bean\S\74
+"the highest quality cocoa beans"	"come"	"from the Criollo variety 74 Overall"	74	query234_Cocoa_bean\P\74-0
+"the highest quality cocoa beans"	"come"	"from the Criollo variety"	74	query234_Cocoa_bean\P\74-1
+"the Criollo variety"	"is considered"	"a delicacy"	74	query234_Cocoa_bean\P\74-2
+Criollo plantation have lower yields than those of Forastero , and also tend to be less resistant to several diseases that attack the cocoa plant , hence very few countries still produce it . 	75	query234_Cocoa_bean\S\75
+"Criollo plantation"	"have"	"lower yields than those of Forastero"	75	query234_Cocoa_bean\P\75-0
+"Criollo plantation"	"tend"	"lower yields than those of Forastero to be resistant less also"	75	query234_Cocoa_bean\P\75-1
+"Criollo plantation"	"tend"	"lower yields than those of Forastero to be resistant to several diseases also"	75	query234_Cocoa_bean\P\75-2
+"Criollo plantation"	"tend"	"lower yields than those of Forastero to be resistant also"	75	query234_Cocoa_bean\P\75-3
+"Criollo plantation"	"tend"	"lower yields than those of Forastero to be resistant less"	75	query234_Cocoa_bean\P\75-4
+"Criollo plantation"	"tend"	"lower yields than those of Forastero to be resistant to several diseases"	75	query234_Cocoa_bean\P\75-5
+"Criollo plantation"	"tend"	"lower yields than those of Forastero to be resistant"	75	query234_Cocoa_bean\P\75-6
+"several diseases"	"attack"	"the cocoa plant"	75	query234_Cocoa_bean\P\75-7
+"very few countries"	"produce"	"it hence"	75	query234_Cocoa_bean\P\75-8
+"very few countries"	"produce"	"it still"	75	query234_Cocoa_bean\P\75-9
+"very few countries"	"produce"	"it"	75	query234_Cocoa_bean\P\75-10
+One of the largest producers of Criollo beans is Venezuela ( Chuao and Porcelana ) . 	76	query234_Cocoa_bean\S\76
+"One of the largest producers of Criollo beans"	"is"	"Venezuela Chuao"	76	query234_Cocoa_bean\P\76-0
+"One of the largest producers of Criollo beans"	"is"	"Venezuela Porcelana"	76	query234_Cocoa_bean\P\76-1
+Hacienda San José , located in Paria/Venezuela , cultivates Criollo beans . 	77	query234_Cocoa_bean\S\77
+"Hacienda San José located in Paria/Venezuela"	"cultivates"	"Criollo beans"	77	query234_Cocoa_bean\P\77-0
+The total area of this hacienda is 320 hectares , of which 185 hectares are devoted to cacao , with a density of 1.000 	78	query234_Cocoa_bean\S\78
+"The total area of this hacienda"	"is 320 hectares"	"with a density of 1.000"	78	query234_Cocoa_bean\P\78-0
+"The total area of this hacienda"	"is"	"320 hectares"	78	query234_Cocoa_bean\P\78-1
+"hectares"	"are devoted"	"320 hectares with a density of 1.000 of which"	185	query234_Cocoa_bean\P\78-2
+"hectares"	"are devoted"	"to cacao 320 hectares with a density of 1.000"	185	query234_Cocoa_bean\P\78-3
+"hectares"	"are devoted"	"320 hectares with a density of 1.000"	185	query234_Cocoa_bean\P\78-4
+plants per hectare . 	79	query234_Cocoa_bean\S\79
+Trinitario is a hybrid between Criollo and Forastero varieties . 	80	query234_Cocoa_bean\S\80
+"Trinitario"	"is a hybrid"	"between Criollo and Forastero varieties"	80	query234_Cocoa_bean\P\80-0
+"Trinitario"	"is"	"a hybrid"	80	query234_Cocoa_bean\P\80-1
+It is considered to be of much higher quality than the latter , but has higher yields and is more resistant to disease than the former . 	81	query234_Cocoa_bean\S\81
+It is considered to be of much higher quality than the latter , but has higher yields and is more resistant to disease than the former . 	81	query234_Cocoa_bean\S\81
+It is considered to be of much higher quality than the latter , but has higher yields and is more resistant to disease than the former . 	81	query234_Cocoa_bean\S\81
+It is considered to be of much higher quality than the latter , but has higher yields and is more resistant to disease than the former . 	81	query234_Cocoa_bean\S\81
+It is considered to be of much higher quality than the latter , but has higher yields and is more resistant to disease than the former . 	81	query234_Cocoa_bean\S\81
+It is considered to be of much higher quality than the latter , but has higher yields and is more resistant to disease than the former . 	81	query234_Cocoa_bean\S\81
+It is considered to be of much higher quality than the latter , but has higher yields and is more resistant to disease than the former . 	81	query234_Cocoa_bean\S\81
+There are different metrics used for chocolate consumption . 	82	query234_Cocoa_bean\S\82
+"different metrics used for chocolate consumption"	"There are"	"82"	82	query234_Cocoa_bean\P\82-0
+"different metrics"	"be used"	"for chocolate consumption"	82	query234_Cocoa_bean\P\82-1
+The Netherlands has the highest monetary amount of cocoa bean imports ( US$ 2.1 	83	query234_Cocoa_bean\S\83
+"The Netherlands"	"has"	"the highest monetary amount of cocoa bean imports US$ 2.1"	83	query234_Cocoa_bean\P\83-0
+billion ) ; it is also one of the main ports into Europe . 	84	query234_Cocoa_bean\S\84
+billion ) ; it is also one of the main ports into Europe . 	84	query234_Cocoa_bean\S\84
+billion ) ; it is also one of the main ports into Europe . 	84	query234_Cocoa_bean\S\84
+billion ) ; it is also one of the main ports into Europe . 	84	query234_Cocoa_bean\S\84
+The United States has highest amount of cocoa powder imports ( $ 220 million ) ; the US has a large amount of cocoa complementary products . 	85	query234_Cocoa_bean\S\85
+"The United States"	"has"	"highest amount of cocoa powder imports $ 220 million"	85	query234_Cocoa_bean\P\85-0
+"the US"	"has"	"a large amount of cocoa complementary products"	85	query234_Cocoa_bean\P\85-1
+The United Kingdom has the highest amount of retail chocolate ( $ 1.3 	86	query234_Cocoa_bean\S\86
+"The United Kingdom"	"has"	"the highest amount of retail chocolate $ 1.3"	86	query234_Cocoa_bean\P\86-0
+billion ) and is one of the biggest chocolate consumption per capita markets . 	87	query234_Cocoa_bean\S\87
+Cocoa and its products ( including chocolate ) are used worldwide . 	88	query234_Cocoa_bean\S\88
+Cocoa and its products ( including chocolate ) are used worldwide . 	88	query234_Cocoa_bean\S\88
+"Cocoa"	"are used"	"worldwide"	88	query234_Cocoa_bean\P\88-0
+"its products including chocolate"	"are used"	"worldwide"	88	query234_Cocoa_bean\P\88-1
+Per capita consumption is poorly understood , with numerous countries claiming the highest : various reports state Switzerland , Belgium , and the UK have the highest consumption , but it can be claimed that because there is no clear mechanism to determine how much of a country 's production is consumed by residents and how much by visitors , this is all speculative . 	89	query234_Cocoa_bean\S\89
+"Per capita consumption"	"is understood"	"with numerous countries claiming the highest various reports poorly"	89	query234_Cocoa_bean\P\89-0
+"Per capita consumption"	"is understood"	"with numerous countries claiming the highest various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is consumed by residents this is all speculative poorly"	89	query234_Cocoa_bean\P\89-1
+"Per capita consumption"	"is understood"	"with numerous countries claiming the highest various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is by residents how much by visitors this is all speculative poorly"	89	query234_Cocoa_bean\P\89-2
+"Per capita consumption"	"is understood"	"with numerous countries claiming the highest various reports"	89	query234_Cocoa_bean\P\89-3
+"Per capita consumption"	"is understood"	"with numerous countries claiming the highest various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is consumed by residents this is all speculative"	89	query234_Cocoa_bean\P\89-4
+"Per capita consumption"	"is understood"	"with numerous countries claiming the highest various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is by residents how much by visitors this is all speculative"	89	query234_Cocoa_bean\P\89-5
+"numerous countries"	"claiming"	"the highest various reports"	89	query234_Cocoa_bean\P\89-6
+"numerous countries"	"claiming"	"the highest various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is consumed by residents this is all speculative"	89	query234_Cocoa_bean\P\89-7
+"numerous countries"	"claiming"	"the highest various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is by residents how much by visitors this is all speculative"	89	query234_Cocoa_bean\P\89-8
+"state Switzerland"	"have"	"the highest consumption various reports"	89	query234_Cocoa_bean\P\89-9
+"state Switzerland"	"have"	"the highest consumption various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is consumed by residents this is all speculative"	89	query234_Cocoa_bean\P\89-10
+"state Switzerland"	"have"	"the highest consumption various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is by residents how much by visitors this is all speculative"	89	query234_Cocoa_bean\P\89-11
+"state Belgium"	"have"	"the highest consumption various reports"	89	query234_Cocoa_bean\P\89-12
+"state Belgium"	"have"	"the highest consumption various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is consumed by residents this is all speculative"	89	query234_Cocoa_bean\P\89-13
+"state Belgium"	"have"	"the highest consumption various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is by residents how much by visitors this is all speculative"	89	query234_Cocoa_bean\P\89-14
+"state the UK"	"have"	"the highest consumption various reports"	89	query234_Cocoa_bean\P\89-15
+"state the UK"	"have"	"the highest consumption various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is consumed by residents this is all speculative"	89	query234_Cocoa_bean\P\89-16
+"state the UK"	"have"	"the highest consumption various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is by residents how much by visitors this is all speculative"	89	query234_Cocoa_bean\P\89-17
+"state the UK"	"have"	"the highest consumption various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is by residents how much by visitors this is all speculative"	89	query234_Cocoa_bean\P\89-18
+"state the UK"	"have"	"the highest consumption various it can be claimed that because there is no clear mechanism to determine how much of a country 's production is by residents how much by visitors this is all speculative"	89	query234_Cocoa_bean\P\89-19
+"no clear mechanism"	"be determine"	"how much of a country 's production is consumed by residents"	89	query234_Cocoa_bean\P\89-20
+"no clear mechanism"	"be determine"	"how much of a country 's production is by residents how much by visitors"	89	query234_Cocoa_bean\P\89-21
+"a country"	"has"	"production"	89	query234_Cocoa_bean\P\89-22
+"how much of a country 's production"	"is consumed"	"by residents"	89	query234_Cocoa_bean\P\89-23
+"how much of a country 's production"	"is much"	"by visitors by residents"	89	query234_Cocoa_bean\P\89-24
+"how much of a country 's production"	"is much"	"by visitors how"	89	query234_Cocoa_bean\P\89-25
+"how much of a country 's production"	"is much"	"by visitors"	89	query234_Cocoa_bean\P\89-26
+"how much of a country 's production"	"is much"	"by visitors"	89	query234_Cocoa_bean\P\89-27
+"how much of a country 's production"	"is much"	"by visitors"	89	query234_Cocoa_bean\P\89-28
+"how much of a country 's production"	"is much"	"by visitors"	89	query234_Cocoa_bean\P\89-29
+There were 3.54 	90	query234_Cocoa_bean\S\90
+There were 3.54 	90	query234_Cocoa_bean\S\90
+million tonnes of cocoa beans produced in the 2008–2009 growing year http ://www.worldcocoafoundation 	91	query234_Cocoa_bean\S\91
+"cocoa beans"	"be produced"	"in the 2008 2009 growing year http"	91	query234_Cocoa_bean\P\91-0
+.org/learn-about-cocoa/documents/CocoaMarketUpdateasof5.18.10.pdf 	92	query234_Cocoa_bean\S\92
+Cocoa Market Update World Cocoa Foundation May 2010 11 December 2011 http ://www.worldcocoafoundation 	93	query234_Cocoa_bean\S\93
+.org/learn-about-cocoa/documents/CocoaMarketUpdateasof5.18.10.pdf 	94	query234_Cocoa_bean\S\94
+Cocoa Market Update World Cocoa Foundation May 2010 11 December 2011 ( which runs ( October through September http ://www.icco.org/about/press2.aspx?Id=isq16806 	95	query234_Cocoa_bean\S\95
+ICCO Press Releases International Cocoa Organization 30 November 2011 11 December 2011 http ://www.icco.org/about/press2.aspx?Id=isq16806 	96	query234_Cocoa_bean\S\96
+ICCO Press Releases International Cocoa Organization 30 November 2011 11 December 2011 ) . 	97	query234_Cocoa_bean\S\97
+Of this total , African nations produced 2.45 	98	query234_Cocoa_bean\S\98
+"African nations"	"produced"	"2.45"	98	query234_Cocoa_bean\P\98-0
+million tonnes ( 69 % ) , Asia and Oceania produced 0.61 	99	query234_Cocoa_bean\S\99
+"million tonnes"	"is"	"69 %"	99	query234_Cocoa_bean\P\99-0
+"million tonnes"	"is"	"Asia"	99	query234_Cocoa_bean\P\99-1
+"million tonnes"	"is"	"Oceania"	99	query234_Cocoa_bean\P\99-2
+"million tonnes"	"produced"	"0.61"	99	query234_Cocoa_bean\P\99-3
+million tonnes ( 17 % ) and the Americas produced 0.48 	100	query234_Cocoa_bean\S\100
+"million tonnes"	"is"	"17 %"	100	query234_Cocoa_bean\P\100-0
+"million the Americas produced 0.48"	"is"	"17 %"	100	query234_Cocoa_bean\P\100-1
+"the Americas"	"produced"	"0.48"	100	query234_Cocoa_bean\P\100-2
+million tonnes ( 14 % ) . 	101	query234_Cocoa_bean\S\101
+"million tonnes"	"is"	"14 %"	101	query234_Cocoa_bean\P\101-0
+Two African nations , Côte d'Ivoire and Ghana , produce more than half of the world 's cocoa , with 1.23 	102	query234_Cocoa_bean\S\102
+"Two African nations"	"is"	"Côte d'Ivoire"	102	query234_Cocoa_bean\P\102-0
+"Two African nations"	"is"	"Côte Ghana"	102	query234_Cocoa_bean\P\102-1
+"Two African nations"	"produce"	"more than half of the world 's cocoa with 1.23"	102	query234_Cocoa_bean\P\102-2
+"Two African nations"	"produce"	"more than half of the world 's cocoa"	102	query234_Cocoa_bean\P\102-3
+"the world"	"has"	"cocoa"	102	query234_Cocoa_bean\P\102-4
+and 0.73 	103	query234_Cocoa_bean\S\103
+million tonnes respectively ( 35 % and 21 % , respectively ) . 	104	query234_Cocoa_bean\S\104
+The largest cocoa bean-producing countries in the world are as follows . 	105	query234_Cocoa_bean\S\105
+"The largest cocoa bean-producing countries in the world"	"are"	"as follows"	105	query234_Cocoa_bean\P\105-0
+thumbrightCocoa pods in various stages of ripening Cocoa trees grow in hot , rainy tropical areas within 20º of latitude from the equator . 	106	query234_Cocoa_bean\S\106
+"thumbrightCocoa pods in various stages of ripening Cocoa trees"	"grow"	"in hot rainy tropical areas within 20º of latitude from the equator"	106	query234_Cocoa_bean\P\106-0
+Cocoa harvest is not restricted to one period per year . 	107	query234_Cocoa_bean\S\107
+"Cocoa harvest"	"is not restricted"	"to one period per year"	107	query234_Cocoa_bean\P\107-0
+"Cocoa harvest"	"is not"	"restricted"	107	query234_Cocoa_bean\P\107-1
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Usually it occurs over several months and in many countries cocoa can be harvested at any time of the year . 	108	query234_Cocoa_bean\S\108
+Immature cocoa pods have a variety of colors but most often are green , red , or purple , and as they mature their color tends towards yellow or orange , particularly in their creases . 	109	query234_Cocoa_bean\S\109
+"Immature cocoa pods"	"have"	"a variety of colors"	109	query234_Cocoa_bean\P\109-0
+"Immature cocoa pods"	"are"	"green a variety of colors most often"	109	query234_Cocoa_bean\P\109-1
+"Immature cocoa pods"	"are"	"red a variety of colors most often"	109	query234_Cocoa_bean\P\109-2
+"Immature cocoa pods"	"are"	"purple a variety of colors most often"	109	query234_Cocoa_bean\P\109-3
+"Immature cocoa pods"	"are"	"as they mature their color tends towards yellow particularly in their creases a variety of colors most often"	109	query234_Cocoa_bean\P\109-4
+"Immature cocoa pods"	"are"	"as they mature their color tends towards orange particularly in their creases a variety of colors most often"	109	query234_Cocoa_bean\P\109-5
+"Immature cocoa pods"	"are"	"green a variety of colors"	109	query234_Cocoa_bean\P\109-6
+"Immature cocoa pods"	"are"	"red a variety of colors"	109	query234_Cocoa_bean\P\109-7
+"Immature cocoa pods"	"are"	"purple a variety of colors"	109	query234_Cocoa_bean\P\109-8
+"Immature cocoa pods"	"are"	"as they mature their color tends towards yellow particularly in their creases a variety of colors"	109	query234_Cocoa_bean\P\109-9
+"Immature cocoa pods"	"are"	"as they mature their color tends towards orange particularly in their creases a variety of colors"	109	query234_Cocoa_bean\P\109-10
+"Immature cocoa pods"	"are"	"as they mature their color tends towards orange particularly in their creases a variety of colors"	109	query234_Cocoa_bean\P\109-11
+"Immature cocoa pods"	"are"	"as they mature their color tends towards orange particularly in their creases a variety of colors"	109	query234_Cocoa_bean\P\109-12
+"Immature cocoa pods"	"are"	"as they mature their color tends towards orange particularly in their creases a variety of colors"	109	query234_Cocoa_bean\P\109-13
+"Immature cocoa pods"	"are"	"as they mature their color tends towards orange particularly in their creases a variety of colors"	109	query234_Cocoa_bean\P\109-14
+"Immature cocoa pods"	"are"	"as they mature their color tends towards orange particularly in their creases a variety of colors"	109	query234_Cocoa_bean\P\109-15
+"their color"	"tends"	"towards yellow"	109	query234_Cocoa_bean\P\109-16
+"their color"	"tends"	"towards orange"	109	query234_Cocoa_bean\P\109-17
+"their color"	"tends"	"towards orange"	109	query234_Cocoa_bean\P\109-18
+Wood G. 	110	query234_Cocoa_bean\S\110
+A. 	111	query234_Cocoa_bean\S\111
+R. 	112	query234_Cocoa_bean\S\112
+Lass R. 	113	query234_Cocoa_bean\S\113
+A. 	114	query234_Cocoa_bean\S\114
+Cocoa http ://books .google 	115	query234_Cocoa_bean\S\115
+.com/books 	116	query234_Cocoa_bean\S\116
+?id=urs9QCMKOw4C&pg=PA25&dq=ripe+cocoa+pods &hl=en&ei=8oFITa_VBYa-sQPStJn5AQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDQQ6AEwADgK#v=snippet&q=ripe %20colour&f=false 4 Tropical agriculture series 2001 John Wiley and Sons 063206398X Wood G. 	117	query234_Cocoa_bean\S\117
+A. 	118	query234_Cocoa_bean\S\118
+R. 	119	query234_Cocoa_bean\S\119
+Lass R. 	120	query234_Cocoa_bean\S\120
+A. 	121	query234_Cocoa_bean\S\121
+Cocoa http ://books .google 	122	query234_Cocoa_bean\S\122
+.com/books 	123	query234_Cocoa_bean\S\123
+?id=urs9QCMKOw4C&pg=PA25&dq=ripe+cocoa+pods &hl=en&ei=8oFITa_VBYa-sQPStJn5AQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDQQ6AEwADgK#v=snippet&q=ripe %20colour&f=false 4 Tropical agriculture series 2001 John Wiley and Sons 063206398X Hui Yiu H. 	124	query234_Cocoa_bean\S\124
+Handbook of food science , technology , and engineering http ://books .google 	125	query234_Cocoa_bean\S\125
+.com/books 	126	query234_Cocoa_bean\S\126
+?id=rTjysvUxB8wC&pg=PA22&dq=ripe+cacao+pod&hl=en&ei=oNZITePfAo3AsAPpwIDcCg&sa=X&oi=book_result&ct=result&resnum=6&ved=0CEYQ6AEwBTgy#v=onepage&q=ripe %20cacao %20pod&f=false 4 2006 CRC Press 0849398495 Hui Yiu H. 	127	query234_Cocoa_bean\S\127
+Handbook of food science , technology , and engineering http ://books .google 	128	query234_Cocoa_bean\S\128
+.com/books 	129	query234_Cocoa_bean\S\129
+?id=rTjysvUxB8wC&pg=PA22&dq=ripe+cacao+pod&hl=en&ei=oNZITePfAo3AsAPpwIDcCg&sa=X&oi=book_result&ct=result&resnum=6&ved=0CEYQ6AEwBTgy#v=onepage&q=ripe %20cacao %20pod&f=false 4 2006 CRC Press 0849398495 Unlike most fruiting trees , the cacao pod grows directly from the trunk or large branch of a tree rather than from the end of a branch . 	130	query234_Cocoa_bean\S\130
+"the cacao pod"	"grows"	"directly from the trunk of a tree"	130	query234_Cocoa_bean\P\130-0
+"the cacao pod"	"grows"	"directly from the large branch of a tree"	130	query234_Cocoa_bean\P\130-1
+"the cacao pod"	"grows"	"directly"	130	query234_Cocoa_bean\P\130-2
+"the cacao pod"	"from"	"the end of a branch directly"	130	query234_Cocoa_bean\P\130-3
+"the cacao pod"	"from"	"the end of a branch from the trunk of a tree"	130	query234_Cocoa_bean\P\130-4
+"the cacao pod"	"from"	"the end of a branch from the large branch of a tree"	130	query234_Cocoa_bean\P\130-5
+"the cacao pod"	"from"	"the end of a branch"	130	query234_Cocoa_bean\P\130-6
+This makes harvesting by hand easier as most of the pods will not be up in the higher branches.The 	131	query234_Cocoa_bean\S\131
+This makes harvesting by hand easier as most of the pods will not be up in the higher branches.The 	131	query234_Cocoa_bean\S\131
+This makes harvesting by hand easier as most of the pods will not be up in the higher branches.The 	131	query234_Cocoa_bean\S\131
+"most of the pods"	"will not be"	"up in the higher branches.The"	131	query234_Cocoa_bean\P\131-0
+"most of the pods"	"will not be"	"up"	131	query234_Cocoa_bean\P\131-1
+pods on a tree do not ripen together ; harvesting needs to be done periodically through the year . 	132	query234_Cocoa_bean\S\132
+"pods on a tree"	"do not ripen"	"together harvesting needs to be done periodically through the year"	132	query234_Cocoa_bean\P\132-0
+"pods on a tree"	"do not ripen"	"harvesting needs to be done periodically through the year"	132	query234_Cocoa_bean\P\132-1
+"harvesting needs"	"be done"	"periodically through the year"	132	query234_Cocoa_bean\P\132-2
+"harvesting needs"	"be done"	"periodically"	132	query234_Cocoa_bean\P\132-3
+Harvesting occurs between 3–4 times to weekly during the harvest season . 	133	query234_Cocoa_bean\S\133
+"Harvesting"	"occurs"	"between 3 4 times to weekly during the harvest season"	133	query234_Cocoa_bean\P\133-0
+The ripe and near-ripe pods , as judged by their color , are harvested from the trunk and branches of the cocoa tree with a curved knife on a long pole . 	134	query234_Cocoa_bean\S\134
+The ripe and near-ripe pods , as judged by their color , are harvested from the trunk and branches of the cocoa tree with a curved knife on a long pole . 	134	query234_Cocoa_bean\S\134
+"The ripe pods as judged by their color"	"are harvested"	"from the trunk of the cocoa tree with a curved knife"	134	query234_Cocoa_bean\P\134-0
+"The ripe pods as judged by their color"	"are harvested"	"from the branches of the cocoa tree with a curved knife"	134	query234_Cocoa_bean\P\134-1
+"The near-ripe pods as judged by their color"	"are harvested"	"from the trunk of the cocoa tree with a curved knife"	134	query234_Cocoa_bean\P\134-2
+"The near-ripe pods as judged by their color"	"are harvested"	"from the branches of the cocoa tree with a curved knife"	134	query234_Cocoa_bean\P\134-3
+"The ripe pods as judged by their color"	"are harvested"	"from the trunk of the cocoa tree on a long pole"	134	query234_Cocoa_bean\P\134-4
+"The ripe pods as judged by their color"	"are harvested"	"from the branches of the cocoa tree on a long pole"	134	query234_Cocoa_bean\P\134-5
+"The near-ripe pods as judged by their color"	"are harvested"	"from the trunk of the cocoa tree on a long pole"	134	query234_Cocoa_bean\P\134-6
+"The near-ripe pods as judged by their color"	"are harvested"	"from the branches of the cocoa tree on a long pole"	134	query234_Cocoa_bean\P\134-7
+"The ripe pods as judged by their color"	"are harvested"	"from the trunk of the cocoa tree"	134	query234_Cocoa_bean\P\134-8
+"The ripe pods as judged by their color"	"are harvested"	"from the branches of the cocoa tree"	134	query234_Cocoa_bean\P\134-9
+"The near-ripe pods as judged by their color"	"are harvested"	"from the trunk of the cocoa tree"	134	query234_Cocoa_bean\P\134-10
+"The near-ripe pods as judged by their color"	"are harvested"	"from the branches of the cocoa tree"	134	query234_Cocoa_bean\P\134-11
+Care must be used when cutting the stem of the pod to avoid injuring the junction of the stem with the tree , as this is where future flowers and pods will emerge . 	135	query234_Cocoa_bean\S\135
+"Care"	"must be used"	"when cutting the stem of the pod to avoid injuring the junction of the stem with the tree as this is where future flowers will emerge"	135	query234_Cocoa_bean\P\135-0
+"Care"	"must be used"	"when cutting the stem of the pod to avoid injuring the junction of the stem with the tree as this is where future pods will emerge"	135	query234_Cocoa_bean\P\135-1
+"when cutting the stem of the pod"	"be avoid"	"injuring the junction of the stem with the tree as this is where future flowers will emerge"	135	query234_Cocoa_bean\P\135-2
+"when cutting the stem of the pod"	"be avoid"	"injuring the junction of the stem with the tree as this is where future pods will emerge"	135	query234_Cocoa_bean\P\135-3
+"when cutting the stem of the pod"	"be avoid"	"injuring the junction of the stem with the tree"	135	query234_Cocoa_bean\P\135-4
+"when cutting the stem of the pod"	"be avoid"	"injuring the junction of the stem with the tree"	135	query234_Cocoa_bean\P\135-5
+"when cutting the stem of the pod"	"be avoid"	"injuring the junction of the stem with the tree"	135	query234_Cocoa_bean\P\135-6
+"future flowers"	"will emerge"	"where"	135	query234_Cocoa_bean\P\135-7
+"future pods"	"will emerge"	"where"	135	query234_Cocoa_bean\P\135-8
+Dand Robin The international cocoa trade http ://books .google 	136	query234_Cocoa_bean\S\136
+.com/books 	137	query234_Cocoa_bean\S\137
+?id=pj5Y3YpAoFUC&pg=PA51&dq=ripe+cacao+pod&hl=en&ei=MdFITdfrJ4nAsAP7tISTCg&sa=X&oi=book_result&ct=result&resnum=8&ved=0CFYQ6AEwBzgK#v=onepage&q&f=false 2 1999 Woodhead Publishing 1855734346 Dand Robin The international cocoa trade http ://books .google 	138	query234_Cocoa_bean\S\138
+.com/books 	139	query234_Cocoa_bean\S\139
+?id=pj5Y3YpAoFUC&pg=PA51&dq=ripe+cacao+pod&hl=en&ei=MdFITdfrJ4nAsAP7tISTCg&sa=X&oi=book_result&ct=result&resnum=8&ved=0CFYQ6AEwBzgK#v=onepage&q&f=false 2 1999 Woodhead Publishing 1855734346 It is estimated one person can harvest 650 pods per day . 	140	query234_Cocoa_bean\S\140
+?id=pj5Y3YpAoFUC&pg=PA51&dq=ripe+cacao+pod&hl=en&ei=MdFITdfrJ4nAsAP7tISTCg&sa=X&oi=book_result&ct=result&resnum=8&ved=0CFYQ6AEwBzgK#v=onepage&q&f=false 2 1999 Woodhead Publishing 1855734346 It is estimated one person can harvest 650 pods per day . 	140	query234_Cocoa_bean\S\140
+"one person"	"can harvest"	"650 pods per day"	140	query234_Cocoa_bean\P\140-0
+"one person"	"can harvest"	"650 pods"	140	query234_Cocoa_bean\P\140-1
+http ://books .google 	141	query234_Cocoa_bean\S\141
+.com/books 	142	query234_Cocoa_bean\S\142
+?id=Rw-NW5EFTs0C&pg=PA11&dq=ripe+cocoa+pods +harvest&hl=en&ei=lAvlTrqmDNGXtweWjdHxAw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CFUQ6AEwAw#v=onepage&q=ripe %20cocoa %20pods %20harvest&f=false Labor practices in the cocoa sector of Ghana with a special focus on the role of children Olivia Abenyega and James Gockowski International Institute of Tropical Agriculture 2003 9781312181 10–11 http ://books .google 	143	query234_Cocoa_bean\S\143
+.com/books 	144	query234_Cocoa_bean\S\144
+?id=Rw-NW5EFTs0C&pg=PA11&dq=ripe+cocoa+pods +harvest&hl=en&ei=lAvlTrqmDNGXtweWjdHxAw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CFUQ6AEwAw#v=onepage&q=ripe %20cocoa %20pods %20harvest&f=false Labor practices in the cocoa sector of Ghana with a special focus on the role of children Olivia Abenyega and James Gockowski International Institute of Tropical Agriculture 2003 9781312181 10–11 http ://books .google 	145	query234_Cocoa_bean\S\145
+.com/books 	146	query234_Cocoa_bean\S\146
+?id=E2x5hlVlaUUC&pg=PA12&dq=ripe+cocoa+pods +harvest&hl=en&ei=YRblTquMIqbz0gGz8riJBA&sa=X&oi=book_result&ct=result&resnum=7&ved=0CGQQ6AEwBg#v=onepage&q=ripe %20cocoa %20pods %20harvest&f=false Labor practices in the cocoa sector of southwest Nigeria with a focus on the role of children J. 	147	query234_Cocoa_bean\S\147
+Gockowski and S. 	148	query234_Cocoa_bean\S\148
+Oduwole International Institute of Tropical Agriculture 2003 9781312157 11–15 http ://books .google 	149	query234_Cocoa_bean\S\149
+.com/books 	150	query234_Cocoa_bean\S\150
+?id=E2x5hlVlaUUC&pg=PA12&dq=ripe+cocoa+pods +harvest&hl=en&ei=YRblTquMIqbz0gGz8riJBA&sa=X&oi=book_result&ct=result&resnum=7&ved=0CGQQ6AEwBg#v=onepage&q=ripe %20cocoa %20pods %20harvest&f=false Labor practices in the cocoa sector of southwest Nigeria with a focus on the role of children J. 	151	query234_Cocoa_bean\S\151
+Gockowski and S. 	152	query234_Cocoa_bean\S\152
+Oduwole International Institute of Tropical Agriculture 2003 9781312157 11–15 The pods are opened to expose the beans . 	153	query234_Cocoa_bean\S\153
+"The pods"	"are opened"	"to expose the beans"	15	query234_Cocoa_bean\P\153-0
+A typical pod contains 20 to 50 beans and about 400 dried beans are required to make one pound (880 per kilogram ) of chocolate . 	154	query234_Cocoa_bean\S\154
+"A typical pod"	"contains"	"20 to 50 beans"	154	query234_Cocoa_bean\P\154-0
+"about 400 dried beans"	"are required"	"to make one pound of chocolate"	154	query234_Cocoa_bean\P\154-1
+"one pound of chocolate"	"is"	"880 per kilogram"	154	query234_Cocoa_bean\P\154-2
+Cocoa pods weigh an average of 400 g lb 2 and each one yields 35 to 40 g lb 3 dried beans ( this yield is 40–44 % of the total weight in the pod ) . 	155	query234_Cocoa_bean\S\155
+"Cocoa pods"	"weigh"	"an average of 400 g lb 2"	155	query234_Cocoa_bean\P\155-0
+"Cocoa pods"	"each one yields"	"an average of 400 g lb 2"	155	query234_Cocoa_bean\P\155-1
+"to 40 g lb 3"	"dried"	"beans each one yields"	35	query234_Cocoa_bean\P\155-2
+"this yield"	"is"	"40 44 % of the total weight in the pod"	35	query234_Cocoa_bean\P\155-3
+It is estimated one person can separate the beans from 2000 pods per day . 	156	query234_Cocoa_bean\S\156
+It is estimated one person can separate the beans from 2000 pods per day . 	156	query234_Cocoa_bean\S\156
+"one person"	"can separate"	"the beans from 2000 pods per day"	156	query234_Cocoa_bean\P\156-0
+"one person"	"can separate"	"the beans"	156	query234_Cocoa_bean\P\156-1
+The wet beans are transported then to a facility so they can be fermented and dried . 	157	query234_Cocoa_bean\S\157
+"The wet beans"	"are transported"	"to a facility"	157	query234_Cocoa_bean\P\157-0
+"The wet beans"	"are transported"	"so they can be fermented"	157	query234_Cocoa_bean\P\157-1
+"The wet beans"	"are transported"	"so they can be dried"	157	query234_Cocoa_bean\P\157-2
+"The wet beans"	"are transported"	"so they can be dried"	157	query234_Cocoa_bean\P\157-3
+"The wet beans"	"are transported"	"so they can be dried"	157	query234_Cocoa_bean\P\157-4
+They are fermented for four to seven days and must be mixed every two days . 	158	query234_Cocoa_bean\S\158
+They are fermented for four to seven days and must be mixed every two days . 	158	query234_Cocoa_bean\S\158
+They are fermented for four to seven days and must be mixed every two days . 	158	query234_Cocoa_bean\S\158
+They are fermented for four to seven days and must be mixed every two days . 	158	query234_Cocoa_bean\S\158
+They are fermented for four to seven days and must be mixed every two days . 	158	query234_Cocoa_bean\S\158
+They are dried for five to fourteen days , depending on the climate conditions . 	159	query234_Cocoa_bean\S\159
+They are dried for five to fourteen days , depending on the climate conditions . 	159	query234_Cocoa_bean\S\159
+They are dried for five to fourteen days , depending on the climate conditions . 	159	query234_Cocoa_bean\S\159
+They are dried for five to fourteen days , depending on the climate conditions . 	159	query234_Cocoa_bean\S\159
+thumbleftCacao drying square in front of church_Chuao_ Venezuela The harvested pods are opened—typically with a machete —the pulp and cocoa seeds are removed and the rind is discarded . 	160	query234_Cocoa_bean\S\160
+"The harvested pods"	"are opened"	"church_Chuao"	160	query234_Cocoa_bean\P\160-0
+"The harvested pods"	"are opened"	"_ Venezuela"	160	query234_Cocoa_bean\P\160-1
+The pulp and seeds are then piled in heaps , placed in bins , or laid out on grates for several days . 	161	query234_Cocoa_bean\S\161
+"The pulp"	"are piled"	"in heaps 161"	161	query234_Cocoa_bean\P\161-0
+"The seeds"	"are piled"	"in heaps 161"	161	query234_Cocoa_bean\P\161-1
+"The pulp"	"are piled"	"161"	161	query234_Cocoa_bean\P\161-2
+"The seeds"	"are piled"	"161"	161	query234_Cocoa_bean\P\161-3
+"The seeds"	"are piled"	"161"	161	query234_Cocoa_bean\P\161-4
+"The seeds"	"are piled"	"161"	161	query234_Cocoa_bean\P\161-5
+During this time , the seeds and pulp undergo " sweating" , where the thick pulp liquefies as it ferments . 	162	query234_Cocoa_bean\S\162
+"During this time"	"is"	"the seeds"	162	query234_Cocoa_bean\P\162-0
+"During this time"	"is"	"the pulp"	162	query234_Cocoa_bean\P\162-1
+"During this time"	"undergo"	"sweating where the thick pulp liquefies as it ferments"	162	query234_Cocoa_bean\P\162-2
+"During this time"	"undergo"	"sweating"	162	query234_Cocoa_bean\P\162-3
+"the thick pulp"	"liquefies"	"as it ferments where"	162	query234_Cocoa_bean\P\162-4
+"the thick pulp"	"liquefies"	"as it ferments"	162	query234_Cocoa_bean\P\162-5
+The fermented pulp trickles away , leaving cocoa seeds behind to be collected . 	163	query234_Cocoa_bean\S\163
+"The fermented pulp trickles away"	"be leaving"	"cocoa seeds behind to be collected"	163	query234_Cocoa_bean\P\163-0
+Sweating is important for the quality of the beans , which originally have a strong bitter taste . 	164	query234_Cocoa_bean\S\164
+"Sweating"	"is important"	"for the quality of the beans"	164	query234_Cocoa_bean\P\164-0
+"Sweating"	"is"	"important"	164	query234_Cocoa_bean\P\164-1
+"the beans"	"have"	"a strong bitter taste originally"	164	query234_Cocoa_bean\P\164-2
+"the beans"	"have"	"a strong bitter taste"	164	query234_Cocoa_bean\P\164-3
+If sweating is interrupted , the resulting cocoa may be ruined ; if underdone , the cocoa seed maintains a flavor similar to raw potato and becomes susceptible to mildew . 	165	query234_Cocoa_bean\S\165
+If sweating is interrupted , the resulting cocoa may be ruined ; if underdone , the cocoa seed maintains a flavor similar to raw potato and becomes susceptible to mildew . 	165	query234_Cocoa_bean\S\165
+"the resulting cocoa"	"may be ruined"	"If sweating is interrupted"	165	query234_Cocoa_bean\P\165-0
+"the resulting cocoa"	"may be ruined"	"If sweating is interrupted"	165	query234_Cocoa_bean\P\165-1
+"the resulting cocoa"	"may be ruined"	"If sweating is interrupted"	165	query234_Cocoa_bean\P\165-2
+"the resulting cocoa"	"may be ruined"	"If sweating is interrupted"	165	query234_Cocoa_bean\P\165-3
+"the resulting cocoa"	"may be ruined"	"If sweating is interrupted"	165	query234_Cocoa_bean\P\165-4
+Some cocoa producing countries distil alcohol spirits using the liquefied pulp . 	166	query234_Cocoa_bean\S\166
+"Some cocoa producing countries"	"distil"	"alcohol spirits using the liquefied pulp"	166	query234_Cocoa_bean\P\166-0
+thumbrightWoman drying cocoa The fermented beans are dried by spreading them out over a large surface and constantly raking them . 	167	query234_Cocoa_bean\S\167
+"thumbrightWoman"	"be drying"	"cocoa The fermented beans"	167	query234_Cocoa_bean\P\167-0
+"thumbrightWoman drying cocoa The fermented beans"	"are dried"	"by spreading them out over a large surface"	167	query234_Cocoa_bean\P\167-1
+"thumbrightWoman drying cocoa The fermented beans"	"are dried"	"by them out over a large surface constantly raking them"	167	query234_Cocoa_bean\P\167-2
+In large plantation , this is done on huge trays under the sun or by using artificial heat . 	168	query234_Cocoa_bean\S\168
+In large plantation , this is done on huge trays under the sun or by using artificial heat . 	168	query234_Cocoa_bean\S\168
+In large plantation , this is done on huge trays under the sun or by using artificial heat . 	168	query234_Cocoa_bean\S\168
+Small plantations may dry their harvest on little trays or on cowhide . 	169	query234_Cocoa_bean\S\169
+"Small plantations"	"may dry"	"their harvest on little trays"	169	query234_Cocoa_bean\P\169-0
+"Small plantations"	"may dry"	"their harvest"	169	query234_Cocoa_bean\P\169-1
+"Small plantations"	"may on"	"their harvest on little trays"	169	query234_Cocoa_bean\P\169-2
+"Small plantations"	"may on"	"their harvest cowhide"	169	query234_Cocoa_bean\P\169-3
+"Small plantations"	"may on"	"their harvest"	169	query234_Cocoa_bean\P\169-4
+"Small plantations"	"may on"	"their harvest"	169	query234_Cocoa_bean\P\169-5
+Finally , the beans are trodden and shuffled about ( often using bare human feet ) and sometimes , during this process , red clay mixed with water is sprinkled over the beans to obtain a finer color , polish , and protection against molds during shipment to factories in the United States , the Netherlands , United Kingdom , and other countries . 	170	query234_Cocoa_bean\S\170
+"the beans"	"are 170 trodden"	"Finally"	170	query234_Cocoa_bean\P\170-0
+"the beans"	"are 170 trodden"	"about often using bare human feet"	170	query234_Cocoa_bean\P\170-1
+"the beans"	"are 170 trodden"	"often using bare human feet sometimes"	170	query234_Cocoa_bean\P\170-2
+"the beans"	"are 170 trodden"	"during this process"	170	query234_Cocoa_bean\P\170-3
+"the beans"	"are"	"170 trodden"	170	query234_Cocoa_bean\P\170-4
+"the beans"	"are 170 shuffled"	"Finally"	170	query234_Cocoa_bean\P\170-5
+"the beans"	"are 170 shuffled"	"about often using bare human feet"	170	query234_Cocoa_bean\P\170-6
+"the beans"	"are 170 shuffled"	"often using bare human feet sometimes"	170	query234_Cocoa_bean\P\170-7
+"the beans"	"are 170 shuffled"	"during this process"	170	query234_Cocoa_bean\P\170-8
+"the beans"	"are"	"170 shuffled"	170	query234_Cocoa_bean\P\170-9
+"Finally the beans are trodden about often using bare human feet during this process red clay"	"be mixed"	"with water"	170	query234_Cocoa_bean\P\170-10
+"Finally the beans are shuffled about often using bare human feet during this process red clay"	"be mixed"	"with water"	170	query234_Cocoa_bean\P\170-11
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay"	"be mixed"	"with water"	170	query234_Cocoa_bean\P\170-12
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay"	"be mixed"	"with water"	170	query234_Cocoa_bean\P\170-13
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer color the Netherlands"	170	query234_Cocoa_bean\P\170-14
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer color the other countries"	170	query234_Cocoa_bean\P\170-15
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer polish the Netherlands"	170	query234_Cocoa_bean\P\170-16
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer polish the other countries"	170	query234_Cocoa_bean\P\170-17
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer protection against molds during shipment to factories in the United States the Netherlands"	170	query234_Cocoa_bean\P\170-18
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer protection against molds during shipment to factories in the United States the other countries"	170	query234_Cocoa_bean\P\170-19
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer color the Netherlands"	170	query234_Cocoa_bean\P\170-20
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer color the other countries"	170	query234_Cocoa_bean\P\170-21
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer polish the Netherlands"	170	query234_Cocoa_bean\P\170-22
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer polish the other countries"	170	query234_Cocoa_bean\P\170-23
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer protection against molds during shipment to factories in the United States the Netherlands"	170	query234_Cocoa_bean\P\170-24
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer protection against molds during shipment to factories in the United States the other countries"	170	query234_Cocoa_bean\P\170-25
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer color the Netherlands"	170	query234_Cocoa_bean\P\170-26
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer color the other countries"	170	query234_Cocoa_bean\P\170-27
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer polish the Netherlands"	170	query234_Cocoa_bean\P\170-28
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer polish the other countries"	170	query234_Cocoa_bean\P\170-29
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer protection against molds during shipment to factories in the United States the Netherlands"	170	query234_Cocoa_bean\P\170-30
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer protection against molds during shipment to factories in the United States the other countries"	170	query234_Cocoa_bean\P\170-31
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer color the Netherlands"	170	query234_Cocoa_bean\P\170-32
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer color the other countries"	170	query234_Cocoa_bean\P\170-33
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer polish the Netherlands"	170	query234_Cocoa_bean\P\170-34
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer polish the other countries"	170	query234_Cocoa_bean\P\170-35
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer protection against molds during shipment to factories in the United States the Netherlands"	170	query234_Cocoa_bean\P\170-36
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"over the beans to obtain a finer protection against molds during shipment to factories in the United States the other countries"	170	query234_Cocoa_bean\P\170-37
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer color the Netherlands"	170	query234_Cocoa_bean\P\170-38
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer color the other countries"	170	query234_Cocoa_bean\P\170-39
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer polish the Netherlands"	170	query234_Cocoa_bean\P\170-40
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer polish the other countries"	170	query234_Cocoa_bean\P\170-41
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer protection against molds during shipment to factories in the United States the Netherlands"	170	query234_Cocoa_bean\P\170-42
+"Finally the beans are trodden about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer protection against molds during shipment to factories in the United States the other countries"	170	query234_Cocoa_bean\P\170-43
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer color the Netherlands"	170	query234_Cocoa_bean\P\170-44
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer color the other countries"	170	query234_Cocoa_bean\P\170-45
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer polish the Netherlands"	170	query234_Cocoa_bean\P\170-46
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer polish the other countries"	170	query234_Cocoa_bean\P\170-47
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer protection against molds during shipment to factories in the United States the Netherlands"	170	query234_Cocoa_bean\P\170-48
+"Finally the beans are shuffled about often using bare human feet during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer protection against molds during shipment to factories in the United States the other countries"	170	query234_Cocoa_bean\P\170-49
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer color the Netherlands"	170	query234_Cocoa_bean\P\170-50
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer color the other countries"	170	query234_Cocoa_bean\P\170-51
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer polish the Netherlands"	170	query234_Cocoa_bean\P\170-52
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer polish the other countries"	170	query234_Cocoa_bean\P\170-53
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer protection against molds during shipment to factories in the United States the Netherlands"	170	query234_Cocoa_bean\P\170-54
+"Finally the beans are shuffled often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer protection against molds during shipment to factories in the United States the other countries"	170	query234_Cocoa_bean\P\170-55
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer color the Netherlands"	170	query234_Cocoa_bean\P\170-56
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer color the other countries"	170	query234_Cocoa_bean\P\170-57
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer polish the Netherlands"	170	query234_Cocoa_bean\P\170-58
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer polish the other countries"	170	query234_Cocoa_bean\P\170-59
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer protection against molds during shipment to factories in the United States the Netherlands"	170	query234_Cocoa_bean\P\170-60
+"Finally the beans are trodden often using bare human feet sometimes during this process red clay mixed with water"	"is sprinkled"	"to obtain a finer protection against molds during shipment to factories in the United States the other countries"	170	query234_Cocoa_bean\P\170-61
+"the Netherlands"	"is in"	"United Kingdom"	170	query234_Cocoa_bean\P\170-62
+"the other countries"	"is in"	"United Kingdom"	170	query234_Cocoa_bean\P\170-63
+Drying in the sun is preferable to drying by artificial means , as no extraneous flavors such as smoke or oil are introduced which might otherwise taint the flavor . 	171	query234_Cocoa_bean\S\171
+Drying in the sun is preferable to drying by artificial means , as no extraneous flavors such as smoke or oil are introduced which might otherwise taint the flavor . 	171	query234_Cocoa_bean\S\171
+"Drying in the sun"	"is preferable"	"to drying by artificial means"	171	query234_Cocoa_bean\P\171-0
+"Drying in the sun"	"is preferable"	"as no extraneous flavors such as smoke"	171	query234_Cocoa_bean\P\171-1
+"Drying in the sun"	"is preferable"	"as no extraneous flavors such as oil"	171	query234_Cocoa_bean\P\171-2
+"Drying in the sun"	"is"	"preferable"	171	query234_Cocoa_bean\P\171-3
+"Drying in the sun is preferable to drying by artificial means as no extraneous flavors such as smoke"	"are introduced"	"which might otherwise taint the flavor"	171	query234_Cocoa_bean\P\171-4
+"Drying in the sun is preferable to drying by artificial means as no extraneous flavors such as oil"	"are introduced"	"which might otherwise taint the flavor"	171	query234_Cocoa_bean\P\171-5
+"Drying in the sun is preferable to drying by artificial means as no extraneous flavors such as oil"	"are introduced"	"which might otherwise taint the flavor"	171	query234_Cocoa_bean\P\171-6
+"Drying in the sun is preferable to drying by artificial means as no extraneous flavors such as oil"	"are introduced"	"which might otherwise taint the flavor"	171	query234_Cocoa_bean\P\171-7
+The beans should be dry for shipment (usually by sea ) . 	172	query234_Cocoa_bean\S\172
+"The beans"	"should be dry"	"for shipment usually by sea"	172	query234_Cocoa_bean\P\172-0
+"The beans"	"should be"	"dry"	172	query234_Cocoa_bean\P\172-1
+Traditionally exported in jute bags , over the last decade the beans are increasingly shipped in ' Mega-Bulk ' bulk parcels of several thousand tonnes at a time on ships , or in smaller lots of around 25 tonnes in 20 foot containers . 	173	query234_Cocoa_bean\S\173
+"over the last decade"	"be exported"	"Traditionally in jute bags"	173	query234_Cocoa_bean\P\173-0
+"over the last decade"	"be exported"	"Traditionally"	173	query234_Cocoa_bean\P\173-1
+"the beans"	"are shipped"	"in Mega-Bulk ' bulk parcels of several thousand tonnes increasingly"	173	query234_Cocoa_bean\P\173-2
+"the beans"	"are shipped"	"in Mega-Bulk ' bulk parcels of several thousand tonnes at a time on ships"	173	query234_Cocoa_bean\P\173-3
+"the beans"	"are shipped"	"in Mega-Bulk ' bulk parcels of several thousand tonnes"	173	query234_Cocoa_bean\P\173-4
+"the beans"	"are in"	"smaller lots of around 25 tonnes increasingly"	173	query234_Cocoa_bean\P\173-5
+"the beans"	"are in"	"smaller lots of around 25 tonnes in Mega-Bulk ' bulk parcels of several thousand tonnes"	173	query234_Cocoa_bean\P\173-6
+"the beans"	"are in"	"smaller lots of around 25 tonnes at a time on ships"	173	query234_Cocoa_bean\P\173-7
+"the beans"	"are in"	"smaller lots of around 25 tonnes in 20 foot containers"	173	query234_Cocoa_bean\P\173-8
+"the beans"	"are in"	"smaller lots of around 25 tonnes"	173	query234_Cocoa_bean\P\173-9
+"the beans"	"are in"	"smaller lots of around 25 tonnes"	173	query234_Cocoa_bean\P\173-10
+Shipping in bulk significantly reduces handling costs ; shipment in bags , however , either in a ship 's hold or in containers , is still commonly found . 	174	query234_Cocoa_bean\S\174
+Shipping in bulk significantly reduces handling costs ; shipment in bags , however , either in a ship 's hold or in containers , is still commonly found . 	174	query234_Cocoa_bean\S\174
+Shipping in bulk significantly reduces handling costs ; shipment in bags , however , either in a ship 's hold or in containers , is still commonly found . 	174	query234_Cocoa_bean\S\174
+"Shipping in bulk"	"174 reduces"	"handling costs significantly"	174	query234_Cocoa_bean\P\174-0
+"Shipping in bulk"	"174 reduces"	"handling costs"	174	query234_Cocoa_bean\P\174-1
+"a ship"	"has"	"hold"	174	query234_Cocoa_bean\P\174-2
+"shipment in bags however in a ship 's hold"	"is found"	"still"	174	query234_Cocoa_bean\P\174-3
+"shipment in bags however a ship 's hold in containers"	"is found"	"still"	174	query234_Cocoa_bean\P\174-4
+"shipment in bags however in a ship 's hold"	"is found"	"commonly"	174	query234_Cocoa_bean\P\174-5
+"shipment in bags however a ship 's hold in containers"	"is found"	"commonly"	174	query234_Cocoa_bean\P\174-6
+rightthumbA ''tiendas de chocolate '' mill inOaxaca _ where customers can have roasted cocoa beans and spices ground forchocolate_ or roastedchiliesground formole saucemole . 	175	query234_Cocoa_bean\S\175
+rightthumbA ''tiendas de chocolate '' mill inOaxaca _ where customers can have roasted cocoa beans and spices ground forchocolate_ or roastedchiliesground formole saucemole . 	175	query234_Cocoa_bean\S\175
+rightthumbA ''tiendas de chocolate '' mill inOaxaca _ where customers can have roasted cocoa beans and spices ground forchocolate_ or roastedchiliesground formole saucemole . 	175	query234_Cocoa_bean\S\175
+rightthumbA ''tiendas de chocolate '' mill inOaxaca _ where customers can have roasted cocoa beans and spices ground forchocolate_ or roastedchiliesground formole saucemole . 	175	query234_Cocoa_bean\S\175
+rightthumbA ''tiendas de chocolate '' mill inOaxaca _ where customers can have roasted cocoa beans and spices ground forchocolate_ or roastedchiliesground formole saucemole . 	175	query234_Cocoa_bean\S\175
+rightthumbA ''tiendas de chocolate '' mill inOaxaca _ where customers can have roasted cocoa beans and spices ground forchocolate_ or roastedchiliesground formole saucemole . 	175	query234_Cocoa_bean\S\175
+rightthumbA ''tiendas de chocolate '' mill inOaxaca _ where customers can have roasted cocoa beans and spices ground forchocolate_ or roastedchiliesground formole saucemole . 	175	query234_Cocoa_bean\S\175
+rightthumbA ''tiendas de chocolate '' mill inOaxaca _ where customers can have roasted cocoa beans and spices ground forchocolate_ or roastedchiliesground formole saucemole . 	175	query234_Cocoa_bean\S\175
+rightthumbA ''tiendas de chocolate '' mill inOaxaca _ where customers can have roasted cocoa beans and spices ground forchocolate_ or roastedchiliesground formole saucemole . 	175	query234_Cocoa_bean\S\175
+Throughout Mesoamerica where they are native , cocoa beans are used for a variety of foods . 	176	query234_Cocoa_bean\S\176
+Throughout Mesoamerica where they are native , cocoa beans are used for a variety of foods . 	176	query234_Cocoa_bean\S\176
+Throughout Mesoamerica where they are native , cocoa beans are used for a variety of foods . 	176	query234_Cocoa_bean\S\176
+"cocoa beans"	"are used"	"Mesoamerica where they are native"	176	query234_Cocoa_bean\P\176-0
+"cocoa beans"	"are used"	"for a variety of foods Mesoamerica"	176	query234_Cocoa_bean\P\176-1
+"cocoa beans"	"are used"	"Mesoamerica"	176	query234_Cocoa_bean\P\176-2
+The harvested and fermented beans may be ground to-order at tiendas de chocolate , or chocolate mills . 	177	query234_Cocoa_bean\S\177
+"The harvested beans"	"may be ground to-order"	"at tiendas de chocolate"	177	query234_Cocoa_bean\P\177-0
+"The fermented beans"	"may be ground to-order"	"at tiendas de chocolate"	177	query234_Cocoa_bean\P\177-1
+"The harvested beans"	"may be ground chocolate mills"	"at tiendas de chocolate"	177	query234_Cocoa_bean\P\177-2
+"The fermented beans"	"may be ground chocolate mills"	"at tiendas de chocolate"	177	query234_Cocoa_bean\P\177-3
+"The harvested beans"	"may be"	"ground to-order"	177	query234_Cocoa_bean\P\177-4
+"The fermented beans"	"may be"	"ground to-order"	177	query234_Cocoa_bean\P\177-5
+"The harvested beans"	"may be"	"ground chocolate mills"	177	query234_Cocoa_bean\P\177-6
+"The fermented beans"	"may be"	"ground chocolate mills"	177	query234_Cocoa_bean\P\177-7
+At these mills , the cocoa can be mixed with a variety of ingredients such as cinnamon , chilies , almonds , vanilla and other spices to create drinking chocolate . 	178	query234_Cocoa_bean\S\178
+"the cocoa"	"can be mixed"	"to create drinking chocolate 178 At these mills"	178	query234_Cocoa_bean\P\178-0
+"the cocoa"	"can be mixed"	"with a variety of ingredients such as cinnamon to create drinking chocolate"	178	query234_Cocoa_bean\P\178-1
+"the cocoa"	"can be mixed"	"with a variety of ingredients such as chilies to create drinking chocolate"	178	query234_Cocoa_bean\P\178-2
+"the cocoa"	"can be mixed"	"with a variety of ingredients such as almonds to create drinking chocolate"	178	query234_Cocoa_bean\P\178-3
+"the cocoa"	"can be mixed"	"with a variety of ingredients such as vanilla to create drinking chocolate"	178	query234_Cocoa_bean\P\178-4
+"the cocoa"	"can be mixed"	"with a variety of ingredients such as other spices to create drinking chocolate"	178	query234_Cocoa_bean\P\178-5
+"the cocoa"	"can be mixed"	"to create drinking chocolate"	178	query234_Cocoa_bean\P\178-6
+http ://food.theatlantic.com/artisans/mexican-chocolate-rustic-strong-better.php 	179	query234_Cocoa_bean\S\179
+The ground cocoa is also an important ingredient in tejate and a number of savory foods , such as mole . 	180	query234_Cocoa_bean\S\180
+"The ground cocoa"	"is"	"an important ingredient also 180"	180	query234_Cocoa_bean\P\180-0
+"The ground cocoa"	"is"	"an important ingredient in tejate 180"	180	query234_Cocoa_bean\P\180-1
+"The ground cocoa"	"is"	"an important ingredient in a number of savory foods such as mole 180"	180	query234_Cocoa_bean\P\180-2
+"The ground cocoa"	"is"	"an important ingredient 180"	180	query234_Cocoa_bean\P\180-3
+Chocolate# Production Chocolate Production thumbrightChocolate To make 1&nbsp;kg ( 2.2&nbsp;pounds 	181	query234_Cocoa_bean\S\181
+"Chocolate # Production Chocolate Production thumbrightChocolate"	"To make"	"1 kg 2.2 pounds"	181	query234_Cocoa_bean\P\181-0
+) of chocolate , about 300 to 600 beans are processed , depending on the desired cocoa content . 	182	query234_Cocoa_bean\S\182
+"of chocolate"	"is"	"about 300 to 600 beans"	182	query234_Cocoa_bean\P\182-0
+"of chocolate"	"are processed"	"depending on the desired cocoa content"	182	query234_Cocoa_bean\P\182-1
+In a factory , the beans are roasted . 	183	query234_Cocoa_bean\S\183
+"the beans"	"are"	"roasted 183 In a factory"	183	query234_Cocoa_bean\P\183-0
+Next they are cracked and then de-shelled by a "winnower " . 	184	query234_Cocoa_bean\S\184
+Next they are cracked and then de-shelled by a "winnower " . 	184	query234_Cocoa_bean\S\184
+The resulting pieces of beans are called nibs . 	185	query234_Cocoa_bean\S\185
+"The resulting pieces of beans"	"are called"	"nibs"	185	query234_Cocoa_bean\P\185-0
+They are usually sold in small packages at specialty stores and markets to be used in cooking , snacking and chocolate dishes . 	186	query234_Cocoa_bean\S\186
+They are usually sold in small packages at specialty stores and markets to be used in cooking , snacking and chocolate dishes . 	186	query234_Cocoa_bean\S\186
+They are usually sold in small packages at specialty stores and markets to be used in cooking , snacking and chocolate dishes . 	186	query234_Cocoa_bean\S\186
+They are usually sold in small packages at specialty stores and markets to be used in cooking , snacking and chocolate dishes . 	186	query234_Cocoa_bean\S\186
+They are usually sold in small packages at specialty stores and markets to be used in cooking , snacking and chocolate dishes . 	186	query234_Cocoa_bean\S\186
+They are usually sold in small packages at specialty stores and markets to be used in cooking , snacking and chocolate dishes . 	186	query234_Cocoa_bean\S\186
+They are usually sold in small packages at specialty stores and markets to be used in cooking , snacking and chocolate dishes . 	186	query234_Cocoa_bean\S\186
+Since nibs are directly from the cocoa tree , they contain high amounts of theobromine . 	187	query234_Cocoa_bean\S\187
+Since nibs are directly from the cocoa tree , they contain high amounts of theobromine . 	187	query234_Cocoa_bean\S\187
+Since nibs are directly from the cocoa tree , they contain high amounts of theobromine . 	187	query234_Cocoa_bean\S\187
+Since nibs are directly from the cocoa tree , they contain high amounts of theobromine . 	187	query234_Cocoa_bean\S\187
+Since nibs are directly from the cocoa tree , they contain high amounts of theobromine . 	187	query234_Cocoa_bean\S\187
+Since nibs are directly from the cocoa tree , they contain high amounts of theobromine . 	187	query234_Cocoa_bean\S\187
+Most nibs are ground , using various methods , into a thick creamy paste , known as chocolate liquor or cocoa paste . 	188	query234_Cocoa_bean\S\188
+"Most nibs"	"are ground paste known as chocolate liquor paste"	"using various methods"	188	query234_Cocoa_bean\P\188-0
+"Most nibs"	"are ground paste known as chocolate cocoa paste"	"using various methods"	188	query234_Cocoa_bean\P\188-1
+"Most nibs"	"are ground paste known as chocolate liquor paste"	"into a thick creamy"	188	query234_Cocoa_bean\P\188-2
+"Most nibs"	"are ground paste known as chocolate cocoa paste"	"into a thick creamy"	188	query234_Cocoa_bean\P\188-3
+"Most nibs"	"are"	"ground paste known as chocolate liquor paste"	188	query234_Cocoa_bean\P\188-4
+"Most nibs"	"are"	"ground paste known as chocolate cocoa paste"	188	query234_Cocoa_bean\P\188-5
+"ground into a thick creamy paste known as chocolate liquor paste"	"be using"	"various methods"	188	query234_Cocoa_bean\P\188-6
+"ground into a thick creamy paste known as chocolate cocoa paste"	"be using"	"various methods"	188	query234_Cocoa_bean\P\188-7
+"paste paste"	"be known"	"as chocolate liquor"	188	query234_Cocoa_bean\P\188-8
+"paste paste"	"be known"	"as chocolate cocoa"	188	query234_Cocoa_bean\P\188-9
+This "liquor " is then further processed into chocolate by mixing in ( more ) cocoa butter and sugar ( and sometimes vanilla and lecithin as an emulsifier ) , and then refined , conche and tempered . 	189	query234_Cocoa_bean\S\189
+"This liquor is then further processed into chocolate by mixing in more cocoa butter as an emulsifier"	"is"	"conche"	189	query234_Cocoa_bean\P\189-0
+"This liquor is then further processed into chocolate by mixing in more cocoa butter as an emulsifier"	"is"	"tempered"	189	query234_Cocoa_bean\P\189-1
+"This liquor is then further processed into chocolate by mixing in more cocoa sugar as an emulsifier and then refined"	"is"	"conche"	189	query234_Cocoa_bean\P\189-2
+"This liquor is then further processed into chocolate by mixing in more cocoa sugar as an emulsifier and then refined"	"is"	"tempered"	189	query234_Cocoa_bean\P\189-3
+"This liquor is then further processed into chocolate by mixing in more cocoa sometimes vanilla as an emulsifier and then refined"	"is"	"conche"	189	query234_Cocoa_bean\P\189-4
+"This liquor is then further processed into chocolate by mixing in more cocoa sometimes vanilla as an emulsifier and then refined"	"is"	"tempered"	189	query234_Cocoa_bean\P\189-5
+"This liquor is then further processed into chocolate by mixing in more cocoa lecithin as an emulsifier and then refined"	"is"	"conche"	189	query234_Cocoa_bean\P\189-6
+"This liquor is then further processed into chocolate by mixing in more cocoa lecithin as an emulsifier and then refined"	"is"	"tempered"	189	query234_Cocoa_bean\P\189-7
+"This is then further processed into chocolate by mixing in more cocoa butter as an emulsifier then refined"	"is"	"conche"	189	query234_Cocoa_bean\P\189-8
+"This is then further processed into chocolate by mixing in more cocoa butter as an emulsifier then refined"	"is"	"tempered"	189	query234_Cocoa_bean\P\189-9
+Alternatively , it can be separated into cocoa powder and cocoa butter using a hydraulic press or the Broma process . 	190	query234_Cocoa_bean\S\190
+Alternatively , it can be separated into cocoa powder and cocoa butter using a hydraulic press or the Broma process . 	190	query234_Cocoa_bean\S\190
+Alternatively , it can be separated into cocoa powder and cocoa butter using a hydraulic press or the Broma process . 	190	query234_Cocoa_bean\S\190
+Alternatively , it can be separated into cocoa powder and cocoa butter using a hydraulic press or the Broma process . 	190	query234_Cocoa_bean\S\190
+Alternatively , it can be separated into cocoa powder and cocoa butter using a hydraulic press or the Broma process . 	190	query234_Cocoa_bean\S\190
+Alternatively , it can be separated into cocoa powder and cocoa butter using a hydraulic press or the Broma process . 	190	query234_Cocoa_bean\S\190
+Alternatively , it can be separated into cocoa powder and cocoa butter using a hydraulic press or the Broma process . 	190	query234_Cocoa_bean\S\190
+Alternatively , it can be separated into cocoa powder and cocoa butter using a hydraulic press or the Broma process . 	190	query234_Cocoa_bean\S\190
+Alternatively , it can be separated into cocoa powder and cocoa butter using a hydraulic press or the Broma process . 	190	query234_Cocoa_bean\S\190
+This process produces around 50 % cocoa butter and 50 % cocoa powder . 	191	query234_Cocoa_bean\S\191
+"This process"	"produces"	"around 50 % cocoa butter"	191	query234_Cocoa_bean\P\191-0
+"This process"	"produces"	"around 50 % cocoa 50 % cocoa powder"	191	query234_Cocoa_bean\P\191-1
+Standard cocoa powder has a fat content of approximately 10–12 percent . 	192	query234_Cocoa_bean\S\192
+"Standard cocoa powder"	"has"	"a fat content of approximately 10 12 percent"	192	query234_Cocoa_bean\P\192-0
+Cocoa butter is used in chocolate bar manufacture , other confectionery , soap , and cosmetics . 	193	query234_Cocoa_bean\S\193
+"Cocoa butter"	"is used"	"in chocolate bar manufacture"	193	query234_Cocoa_bean\P\193-0
+"Cocoa butter"	"is used"	"in chocolate bar other confectionery"	193	query234_Cocoa_bean\P\193-1
+"Cocoa butter"	"is used"	"in chocolate bar soap"	193	query234_Cocoa_bean\P\193-2
+"Cocoa butter"	"is used"	"in chocolate bar cosmetics"	193	query234_Cocoa_bean\P\193-3
+Treating with alkali produces Dutch process cocoa powder , which is less acidic , darker and more mellow in flavor than what is generally available in most of the world . 	194	query234_Cocoa_bean\S\194
+Treating with alkali produces Dutch process cocoa powder , which is less acidic , darker and more mellow in flavor than what is generally available in most of the world . 	194	query234_Cocoa_bean\S\194
+"Treating with alkali"	"produces"	"Dutch process cocoa powder darker in flavor than what is generally available in most of the world"	194	query234_Cocoa_bean\P\194-0
+"Treating with alkali"	"produces"	"Dutch process cocoa powder more mellow in flavor than what is generally available in most of the world"	194	query234_Cocoa_bean\P\194-1
+"Dutch process cocoa powder darker in flavor than what is generally available in most of the world"	"is acidic"	"less"	194	query234_Cocoa_bean\P\194-2
+"Dutch process cocoa powder more mellow in flavor than what is generally available in most of the world"	"is acidic"	"less"	194	query234_Cocoa_bean\P\194-3
+"Dutch process cocoa powder darker in flavor than what is generally available in most of the world"	"is"	"acidic"	194	query234_Cocoa_bean\P\194-4
+"Dutch process cocoa powder more mellow in flavor than what is generally available in most of the world"	"is"	"acidic"	194	query234_Cocoa_bean\P\194-5
+"Dutch process cocoa powder more mellow in flavor than what is generally available in most of the world"	"is"	"acidic"	194	query234_Cocoa_bean\P\194-6
+"Dutch process cocoa powder more mellow in flavor than what is generally available in most of the world"	"is"	"acidic"	194	query234_Cocoa_bean\P\194-7
+"Dutch process cocoa powder more mellow in flavor than what is generally available in most of the world"	"is"	"acidic"	194	query234_Cocoa_bean\P\194-8
+Regular ( non-alkalized ) cocoa is acidic , March 2010 chocolate is usually described as "bitter" , which is typical of alkaline substances — acidic would be sour so when cocoa is treated with an alkaline ingredient , generally potassium carbonate , the pH increases . 	195	query234_Cocoa_bean\S\195
+"Regular non-alkalized cocoa"	"is"	"acidic March 2010 chocolate is usually described as bitter which is typical of alkaline substances acidic would be sour so when cocoa is treated with an alkaline ingredient"	195	query234_Cocoa_bean\P\195-0
+"March 2010 chocolate"	"is described"	"as bitter which is typical of alkaline substances acidic would be sour so when cocoa is treated with an alkaline ingredient usually"	195	query234_Cocoa_bean\P\195-1
+"March 2010 chocolate"	"is described"	"as bitter which is typical of alkaline substances acidic would be sour so when cocoa is treated with an alkaline ingredient"	195	query234_Cocoa_bean\P\195-2
+"March 2010 chocolate"	"is described"	"as bitter which is typical of alkaline substances acidic would be sour so when cocoa is treated with an alkaline ingredient"	195	query234_Cocoa_bean\P\195-3
+"March 2010 chocolate"	"is described"	"as bitter which is typical of alkaline substances acidic would be sour so when cocoa is treated with an alkaline ingredient"	195	query234_Cocoa_bean\P\195-4
+"March 2010 chocolate"	"is described"	"as bitter which is typical of alkaline substances acidic would be sour so when cocoa is treated with an alkaline ingredient"	195	query234_Cocoa_bean\P\195-5
+"March 2010 chocolate"	"is described"	"as bitter which is typical of alkaline substances acidic would be sour so when cocoa is treated with an alkaline ingredient"	195	query234_Cocoa_bean\P\195-6
+"March 2010 chocolate"	"is described"	"as bitter which is typical of alkaline substances acidic would be sour so when cocoa is treated with an alkaline ingredient"	195	query234_Cocoa_bean\P\195-7
+"March 2010 chocolate"	"is described"	"as bitter which is typical of alkaline substances acidic would be sour so when cocoa is treated with an alkaline ingredient"	195	query234_Cocoa_bean\P\195-8
+"an alkaline ingredient"	"is"	"the pH increases"	195	query234_Cocoa_bean\P\195-9
+"an alkaline ingredient"	"is"	"generally potassium carbonate"	195	query234_Cocoa_bean\P\195-10
+March 2010 simply adding alkali would increase the pH , but the cocoa is " treated " with alkali This process can be done at various stages during manufacturing , including during nib treatment , liquor treatment or press cake treatment . 	196	query234_Cocoa_bean\S\196
+"March 2010"	"adding"	"alkali simply"	196	query234_Cocoa_bean\P\196-0
+"March 2010"	"adding"	"alkali"	196	query234_Cocoa_bean\P\196-1
+"March 2010 simply adding alkali"	"would increase"	"the pH"	196	query234_Cocoa_bean\P\196-2
+"March 2010 simply adding alkali"	"would increase"	"the pH"	196	query234_Cocoa_bean\P\196-3
+"the cocoa"	"is treated"	"with alkali This process"	196	query234_Cocoa_bean\P\196-4
+Another process that helps develop the flavor is roasting . 	197	query234_Cocoa_bean\S\197
+"Another process"	"helps"	"develop the flavor"	197	query234_Cocoa_bean\P\197-0
+Roasting can be done on the whole bean before shelling or on the nib after shelling . 	198	query234_Cocoa_bean\S\198
+"Roasting"	"can be done"	"on the whole bean before shelling the nib after shelling"	198	query234_Cocoa_bean\P\198-0
+"Roasting"	"can be done"	"on the whole bean before on the nib after shelling"	198	query234_Cocoa_bean\P\198-1
+"Roasting"	"can be done"	"on the whole bean"	198	query234_Cocoa_bean\P\198-2
+The time and temperature of the roast affect the result : A "low roast " produces a more acid , aromatic flavor , while a high roast gives a more intense , bitter flavor lacking complex flavor notes . 	199	query234_Cocoa_bean\S\199
+"The time of the roast"	"affect"	"the result"	199	query234_Cocoa_bean\P\199-0
+"The temperature of the roast"	"affect"	"the result"	199	query234_Cocoa_bean\P\199-1
+"A low roast"	"produces"	"a more acid while a high roast gives a more intense bitter flavor lacking complex flavor notes"	199	query234_Cocoa_bean\P\199-2
+"A low roast"	"produces"	"a more acid"	199	query234_Cocoa_bean\P\199-3
+"a more acid"	"is"	"aromatic flavor"	199	query234_Cocoa_bean\P\199-4
+"a high roast"	"gives"	"a more intense bitter flavor lacking complex flavor notes"	199	query234_Cocoa_bean\P\199-5
+"a more intense bitter flavor"	"be lacking"	"complex flavor notes"	199	query234_Cocoa_bean\P\199-6
+Chocolate and cocoa contain a high level of flavonoid , specifically epicatechin , which may have beneficial cardiovascular effects on health . 	200	query234_Cocoa_bean\S\200
+"Chocolate"	"contain"	"a high level of flavonoid"	200	query234_Cocoa_bean\P\200-0
+"cocoa"	"contain"	"a high level of flavonoid"	200	query234_Cocoa_bean\P\200-1
+"specifically epicatechin"	"may have"	"beneficial cardiovascular effects on health"	200	query234_Cocoa_bean\P\200-2
+"specifically epicatechin"	"may have"	"beneficial cardiovascular effects"	200	query234_Cocoa_bean\P\200-3
+Taubert D , Roesen R, Schömig E Effect of cocoa and tea intake on blood pressure : a meta-analysis Arch . 	201	query234_Cocoa_bean\S\201
+"Taubert D on blood pressure a meta-analysis Arch"	"is"	"Roesen R"	201	query234_Cocoa_bean\P\201-0
+"Taubert D on blood pressure a meta-analysis Arch"	"is"	"Schömig E Effect of cocoa intake"	201	query234_Cocoa_bean\P\201-1
+"Taubert D on blood pressure a meta-analysis Arch"	"is"	"Schömig E Effect of tea intake"	201	query234_Cocoa_bean\P\201-2
+Intern . 	202	query234_Cocoa_bean\S\202
+Med . 	203	query234_Cocoa_bean\S\203
+167 7 626–34 2007 April 17420419 10.1001/archinte 	204	query234_Cocoa_bean\S\204
+.167.7.626 	205	query234_Cocoa_bean\S\205
+Taubert D , Roesen R, Schömig E Effect of cocoa and tea intake on blood pressure : a meta-analysis Arch . 	206	query234_Cocoa_bean\S\206
+"Taubert D on blood pressure a meta-analysis Arch"	"is"	"Roesen R"	206	query234_Cocoa_bean\P\206-0
+"Taubert D on blood pressure a meta-analysis Arch"	"is"	"Schömig E Effect of cocoa intake"	206	query234_Cocoa_bean\P\206-1
+"Taubert D on blood pressure a meta-analysis Arch"	"is"	"Schömig E Effect of tea intake"	206	query234_Cocoa_bean\P\206-2
+Intern . 	207	query234_Cocoa_bean\S\207
+Med . 	208	query234_Cocoa_bean\S\208
+167 7 626–34 2007 April 17420419 10.1001/archinte 	209	query234_Cocoa_bean\S\209
+.167.7.626 	210	query234_Cocoa_bean\S\210
+Schroeter H , Heiss C , Balzer J , et al . 	211	query234_Cocoa_bean\S\211
+"Schroeter H"	"is"	"Heiss C"	211	query234_Cocoa_bean\P\211-0
+"Schroeter H"	"is"	"Balzer J"	211	query234_Cocoa_bean\P\211-1
+"Schroeter H"	"is"	"et al"	211	query234_Cocoa_bean\P\211-2
+(-)-Epicatechin mediates beneficial effects of flavanol-rich cocoa on vascular function in humans Proc. 	212	query234_Cocoa_bean\S\212
+(-)-Epicatechin mediates beneficial effects of flavanol-rich cocoa on vascular function in humans Proc. 	212	query234_Cocoa_bean\S\212
+(-)-Epicatechin mediates beneficial effects of flavanol-rich cocoa on vascular function in humans Proc. 	212	query234_Cocoa_bean\S\212
+Natl . 	213	query234_Cocoa_bean\S\213
+Acad . 	214	query234_Cocoa_bean\S\214
+Sci . 	215	query234_Cocoa_bean\S\215
+U.S.A. 	216	query234_Cocoa_bean\S\216
+103 4 1024–9 2006 January 16418281 1327732 10.1073/pnas.0510168103 	217	query234_Cocoa_bean\S\217
+Schroeter H , Heiss C , Balzer J , et al . 	218	query234_Cocoa_bean\S\218
+"Schroeter H"	"is"	"Heiss C"	218	query234_Cocoa_bean\P\218-0
+"Schroeter H"	"is"	"Balzer J"	218	query234_Cocoa_bean\P\218-1
+"Schroeter H"	"is"	"et al"	218	query234_Cocoa_bean\P\218-2
+(-)-Epicatechin mediates beneficial effects of flavanol-rich cocoa on vascular function in humans Proc. 	219	query234_Cocoa_bean\S\219
+(-)-Epicatechin mediates beneficial effects of flavanol-rich cocoa on vascular function in humans Proc. 	219	query234_Cocoa_bean\S\219
+(-)-Epicatechin mediates beneficial effects of flavanol-rich cocoa on vascular function in humans Proc. 	219	query234_Cocoa_bean\S\219
+Natl . 	220	query234_Cocoa_bean\S\220
+Acad . 	221	query234_Cocoa_bean\S\221
+Sci . 	222	query234_Cocoa_bean\S\222
+U.S.A. 	223	query234_Cocoa_bean\S\223
+103 4 1024–9 2006 January 16418281 1327732 10.1073/pnas.0510168103 	224	query234_Cocoa_bean\S\224
+Prolonged intake of flavanol-rich cocoa has been linked to cardiovascular health benefits , though it should be noted that this refers to raw cocoa and to a lesser extent , dark chocolate , since flavonoids degrade during cooking and alkalizing processes . 	225	query234_Cocoa_bean\S\225
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"to cardiovascular health benefits dark chocolate"	225	query234_Cocoa_bean\P\225-0
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"though it should be noted that this refers to raw cocoa dark chocolate"	225	query234_Cocoa_bean\P\225-1
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"though it should be noted that this refers raw cocoa to a lesser extent dark chocolate"	225	query234_Cocoa_bean\P\225-2
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"dark chocolate since flavonoids degrade during cooking processes"	225	query234_Cocoa_bean\P\225-3
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"dark chocolate since flavonoids degrade during alkalizing processes"	225	query234_Cocoa_bean\P\225-4
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"dark chocolate"	225	query234_Cocoa_bean\P\225-5
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"dark chocolate"	225	query234_Cocoa_bean\P\225-6
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"dark chocolate"	225	query234_Cocoa_bean\P\225-7
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"dark chocolate"	225	query234_Cocoa_bean\P\225-8
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"dark chocolate"	225	query234_Cocoa_bean\P\225-9
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"dark chocolate"	225	query234_Cocoa_bean\P\225-10
+"Prolonged intake of flavanol-rich cocoa"	"has been linked"	"dark chocolate"	225	query234_Cocoa_bean\P\225-11
+http ://news .bbc.co.uk/2/hi/health/6430777.stm 	226	query234_Cocoa_bean\S\226
+BBC News Cocoa nutrient for 'lethal ills ' 2007-03-11 2010-04-30 http ://news .bbc.co.uk/2/hi/health/6430777.stm 	227	query234_Cocoa_bean\S\227
+BBC News Cocoa nutrient for 'lethal ills ' 2007-03-11 2010-04-30 Studies have found short term benefits in LDL cholesterol levels from dark chocolate consumption . 	228	query234_Cocoa_bean\S\228
+"lethal ills"	"has"	"2007-03-11 2010-04-30 Studies"	228	query234_Cocoa_bean\P\228-0
+"BBC News Cocoa nutrient for lethal ills ' 2007-03-11 2010-04-30 Studies"	"have found"	"short term benefits in LDL cholesterol levels from dark chocolate consumption"	228	query234_Cocoa_bean\P\228-1
+January 2010 The addition of whole milk to milk chocolate reduces the overall cocoa content per ounce while increasing saturated fat levels , possibly negating some of cocoa 's heart-healthy potential benefits . 	229	query234_Cocoa_bean\S\229
+"January 2010 The addition of whole milk to milk chocolate"	"reduces"	"the overall cocoa content per ounce while increasing saturated fat levels negating some of cocoa 's heart-healthy potential benefits possibly"	229	query234_Cocoa_bean\P\229-0
+"January 2010 The addition of whole milk to milk chocolate"	"reduces"	"the overall cocoa content per ounce while increasing saturated fat levels negating some of cocoa 's heart-healthy potential benefits"	229	query234_Cocoa_bean\P\229-1
+"January 2010 The addition of whole milk to milk chocolate"	"reduces"	"the overall cocoa content per ounce negating some of cocoa 's heart-healthy potential benefits possibly"	229	query234_Cocoa_bean\P\229-2
+"January 2010 The addition of whole milk to milk chocolate"	"reduces"	"the overall cocoa content per ounce negating some of cocoa 's heart-healthy potential benefits"	229	query234_Cocoa_bean\P\229-3
+"January 2010 The addition of whole milk to milk chocolate"	"reduces"	"the overall cocoa content per ounce negating some of cocoa 's heart-healthy potential benefits"	229	query234_Cocoa_bean\P\229-4
+December 2010 Although one study Mauro Serafini , Rossana Bugianesi , Giuseppe Maiani , Silvia Valtuena , Somone De Santis , Ala Crozier : " Plasma antioxidants from chocolate" , Nature 424 ( 2003)1013 . 	230	query234_Cocoa_bean\S\230
+"one study Mauro Serafini Plasma antioxidants from chocolate Nature 424 1013"	"is"	"Rossana Bugianesi"	230	query234_Cocoa_bean\P\230-0
+"one study Mauro Serafini Plasma antioxidants from chocolate Nature 424 1013"	"is"	"Giuseppe Maiani"	230	query234_Cocoa_bean\P\230-1
+"one study Mauro Serafini Plasma antioxidants from chocolate Nature 424 1013"	"is"	"Silvia Valtuena"	230	query234_Cocoa_bean\P\230-2
+"one study Mauro Serafini Plasma antioxidants from chocolate Nature 424 1013"	"is"	"Somone De Santis"	230	query234_Cocoa_bean\P\230-3
+"one study Mauro Serafini Plasma antioxidants from chocolate Nature 424 1013"	"is"	"Ala Crozier"	230	query234_Cocoa_bean\P\230-4
+"Nature 424 1013"	"is"	"2003"	230	query234_Cocoa_bean\P\230-5
+Downloaded from http ://eprints .gla.ac.uk/131/01/Crozier, 	231	query234_Cocoa_bean\S\231
+A_2003.pdf 	232	query234_Cocoa_bean\S\232
+has concluded that milk impairs the absorption of polyphenolic flavonoids , e.g 	233	query234_Cocoa_bean\S\233
+has concluded that milk impairs the absorption of polyphenolic flavonoids , e.g 	233	query234_Cocoa_bean\S\233
+has concluded that milk impairs the absorption of polyphenolic flavonoids , e.g 	233	query234_Cocoa_bean\S\233
+. 	234	query234_Cocoa_bean\S\234
+(-)epicatechin , a followup J.B. 	235	query234_Cocoa_bean\S\235
+(-)epicatechin , a followup J.B. 	235	query234_Cocoa_bean\S\235
+Keogh , J. 	236	query234_Cocoa_bean\S\236
+"Keogh"	"is"	"J."	236	query234_Cocoa_bean\P\236-0
+McInerney , and P.M. 	237	query234_Cocoa_bean\S\237
+Clifton : " The Effect of Milk Protein on the Bioavailability of Cocoa Polyphenols " , Journal of Food Science 72 ( 3)S230-S233 , 2007 . 	238	query234_Cocoa_bean\S\238
+"Cocoa Polyphenols"	"is"	"Journal of Food Science 72 S230-S233 2007"	238	query234_Cocoa_bean\P\238-0
+"Food Science 72"	"is"	"3"	238	query234_Cocoa_bean\P\238-1
+Downloaded from http ://onlinelibrary .wiley 	239	query234_Cocoa_bean\S\239
+.com/doi/10.1111/j.1750-3841.2007.00314.x/pdf 	240	query234_Cocoa_bean\S\240
+failed to find the effect . 	241	query234_Cocoa_bean\S\241
+failed to find the effect . 	241	query234_Cocoa_bean\S\241
+Hollenberg and colleagues of Harvard Medical School studied the effects of cocoa and flavanols on Panama 's Kuna Indian population , who are heavy consumers of cocoa . 	242	query234_Cocoa_bean\S\242
+"Hollenberg of Harvard Medical School"	"studied"	"the effects of cocoa on Panama 's Kuna Indian population"	242	query234_Cocoa_bean\P\242-0
+"Hollenberg of Harvard Medical School"	"studied"	"the effects of flavanols on Panama 's Kuna Indian population"	242	query234_Cocoa_bean\P\242-1
+"colleagues of Harvard Medical School"	"studied"	"the effects of cocoa on Panama 's Kuna Indian population"	242	query234_Cocoa_bean\P\242-2
+"colleagues of Harvard Medical School"	"studied"	"the effects of flavanols on Panama 's Kuna Indian population"	242	query234_Cocoa_bean\P\242-3
+"colleagues of Harvard Medical School"	"studied"	"the effects of flavanols on Panama 's Kuna Indian population"	242	query234_Cocoa_bean\P\242-4
+"Panama 's Kuna Indian population"	"are heavy consumers"	"of cocoa"	242	query234_Cocoa_bean\P\242-5
+"Panama 's Kuna Indian population"	"are"	"heavy consumers"	242	query234_Cocoa_bean\P\242-6
+The researchers found that the Kuna Indians living on the islands had significantly lower rates of heart disease and cancer compared to those on the mainland who do not drink cocoa as on the islands . 	243	query234_Cocoa_bean\S\243
+"The researchers"	"found"	"that the Kuna Indians living on the islands had significantly lower rates of heart disease compared to those on the mainland"	243	query234_Cocoa_bean\P\243-0
+"The researchers"	"found"	"that the Kuna Indians living on the islands had significantly lower rates of heart cancer compared to those on the mainland"	243	query234_Cocoa_bean\P\243-1
+"the Kuna Indians"	"be living"	"on the islands"	243	query234_Cocoa_bean\P\243-2
+"the Kuna Indians living on the islands"	"had"	"significantly lower rates of heart disease compared to those on the mainland"	243	query234_Cocoa_bean\P\243-3
+"the Kuna Indians living on the islands"	"had"	"significantly lower rates of heart cancer compared to those on the mainland"	243	query234_Cocoa_bean\P\243-4
+"the Kuna Indians living on the islands"	"had"	"significantly lower rates of heart disease"	243	query234_Cocoa_bean\P\243-5
+"the Kuna Indians living on the islands"	"had"	"significantly lower rates of heart cancer"	243	query234_Cocoa_bean\P\243-6
+"the mainland"	"do not drink"	"cocoa as on the islands"	243	query234_Cocoa_bean\P\243-7
+"the mainland"	"do not drink"	"cocoa"	243	query234_Cocoa_bean\P\243-8
+It is believed that the improved blood flow after consumption of flavanol-rich cocoa may help to achieve health benefits in hearts and other organs . 	244	query234_Cocoa_bean\S\244
+It is believed that the improved blood flow after consumption of flavanol-rich cocoa may help to achieve health benefits in hearts and other organs . 	244	query234_Cocoa_bean\S\244
+It is believed that the improved blood flow after consumption of flavanol-rich cocoa may help to achieve health benefits in hearts and other organs . 	244	query234_Cocoa_bean\S\244
+"the improved blood flow after consumption of flavanol-rich cocoa"	"may help"	"to achieve health benefits in hearts"	244	query234_Cocoa_bean\P\244-0
+"the improved blood flow after consumption of flavanol-rich cocoa"	"may help"	"to achieve health benefits in other organs"	244	query234_Cocoa_bean\P\244-1
+In particular , the benefits may extend to the brain and have important implications for learning and memory . 	245	query234_Cocoa_bean\S\245
+"the benefits"	"may extend"	"245 In particular to the brain"	245	query234_Cocoa_bean\P\245-0
+"the benefits"	"may extend"	"245 In particular"	245	query234_Cocoa_bean\P\245-1
+"the benefits"	"may have"	"245 In particular important implications for learning to the brain"	245	query234_Cocoa_bean\P\245-2
+"the benefits"	"may have"	"245 In particular important implications for memory to the brain"	245	query234_Cocoa_bean\P\245-3
+"the benefits"	"may have"	"245 In particular important implications for learning"	245	query234_Cocoa_bean\P\245-4
+"the benefits"	"may have"	"245 In particular important implications for memory"	245	query234_Cocoa_bean\P\245-5
+Bayard V , Chamorro F , Motta J , Hollenberg NK Does flavanol intake influence mortality from nitric oxide-dependent processes ? Ischemic heart disease , stroke , diabetes mellitus , and cancer in Panama Int J Med Sci 4 1 53–8 2007 17299579 1796954 http ://www.medsci.org/v4p53.htm 	246	query234_Cocoa_bean\S\246
+"Ischemic heart disease www.medsci.org/v4p53.htm"	"is"	"stroke"	246	query234_Cocoa_bean\P\246-0
+"Ischemic heart disease www.medsci.org/v4p53.htm"	"is"	"diabetes mellitus"	246	query234_Cocoa_bean\P\246-1
+"Ischemic heart disease www.medsci.org/v4p53.htm"	"is"	"cancer in Panama Int J"	246	query234_Cocoa_bean\P\246-2
+"Ischemic heart disease www.medsci.org/v4p53.htm"	"is"	"cancer in Panama Int J"	246	query234_Cocoa_bean\P\246-3
+Bayard V , Chamorro F , Motta J , Hollenberg NK Does flavanol intake influence mortality from nitric oxide-dependent processes ? Ischemic heart disease , stroke , diabetes mellitus , and cancer in Panama Int J Med Sci 4 1 53–8 2007 17299579 1796954 http ://www.medsci.org/v4p53.htm 	247	query234_Cocoa_bean\S\247
+"Ischemic heart disease www.medsci.org/v4p53.htm"	"is"	"stroke"	247	query234_Cocoa_bean\P\247-0
+"Ischemic heart disease www.medsci.org/v4p53.htm"	"is"	"diabetes mellitus"	247	query234_Cocoa_bean\P\247-1
+"Ischemic heart disease www.medsci.org/v4p53.htm"	"is"	"cancer in Panama Int J"	247	query234_Cocoa_bean\P\247-2
+"Ischemic heart disease www.medsci.org/v4p53.htm"	"is"	"cancer in Panama Int J"	247	query234_Cocoa_bean\P\247-3
+Foods rich in cocoa appear to reduce blood pressure but drinking green and black tea may not , according to an analysis of previously published research in the April 9 , 2007 issue of Archives of Internal Medicine , one of the JAMA/Archives journals . 	248	query234_Cocoa_bean\S\248
+"Foods rich in cocoa"	"appear"	"to reduce blood pressure may not according to an analysis of previously published research in the April 9"	248	query234_Cocoa_bean\P\248-0
+"Foods rich in cocoa"	"appear"	"to reduce blood drinking green tea may not according to an analysis of previously published research in the April 9"	248	query234_Cocoa_bean\P\248-1
+"Foods rich in cocoa"	"appear"	"to reduce blood drinking black tea may not according to an analysis of previously published research in the April 9"	248	query234_Cocoa_bean\P\248-2
+"April 9"	"is"	"2007 issue of Archives of Internal Medicine"	248	query234_Cocoa_bean\P\248-3
+"April 9"	"is"	"one of the JAMA/Archives journals"	248	query234_Cocoa_bean\P\248-4
+In June 2009 , Mars Botanicals , a division of Mars Inc. 	249	query234_Cocoa_bean\S\249
+"In June 2009"	"is"	"Mars Botanicals"	249	query234_Cocoa_bean\P\249-0
+"Mars Botanicals"	"is"	"a division of Mars Inc."	249	query234_Cocoa_bean\P\249-1
+, the candymaker and food company , launched Cirku , a cocoa extracthigh in flavanols . 	250	query234_Cocoa_bean\S\250
+, the candymaker and food company , launched Cirku , a cocoa extracthigh in flavanols . 	250	query234_Cocoa_bean\S\250
+, the candymaker and food company , launched Cirku , a cocoa extracthigh in flavanols . 	250	query234_Cocoa_bean\S\250
+, the candymaker and food company , launched Cirku , a cocoa extracthigh in flavanols . 	250	query234_Cocoa_bean\S\250
+, the candymaker and food company , launched Cirku , a cocoa extracthigh in flavanols . 	250	query234_Cocoa_bean\S\250
+http ://cirkuhealth.com/getattachment/65fec350-a6ad-4b62-b7d0-3eeb0a23e9a7/Cocoa-derived-Cirku-launched-for-better-circulatio.aspx 	251	query234_Cocoa_bean\S\251
+A 15-year study of elderly men Buijsse B , Feskens EJ , Kok FJ , Kromhout D Cocoa intake , blood pressure , and cardiovascular mortality : the Zutphen Elderly Study Arch . 	252	query234_Cocoa_bean\S\252
+"A 15-year study of elderly men Buijsse B the Zutphen Elderly Study Arch"	"is"	"Feskens EJ"	252	query234_Cocoa_bean\P\252-0
+"A 15-year study of elderly men Buijsse B the Zutphen Elderly Study Arch"	"is"	"Feskens Kok FJ"	252	query234_Cocoa_bean\P\252-1
+"A 15-year study of elderly men Buijsse B the Zutphen Elderly Study Arch"	"is"	"Feskens Kromhout D Cocoa intake"	252	query234_Cocoa_bean\P\252-2
+"A 15-year study of elderly men Buijsse B the Zutphen Elderly Study Arch"	"is"	"Feskens blood pressure"	252	query234_Cocoa_bean\P\252-3
+"A 15-year study of elderly men Buijsse B the Zutphen Elderly Study Arch"	"is"	"Feskens cardiovascular mortality"	252	query234_Cocoa_bean\P\252-4
+Intern . 	253	query234_Cocoa_bean\S\253
+Med . 	254	query234_Cocoa_bean\S\254
+166 4 411–7 2006 February 16505260 10.1001/.411 	255	query234_Cocoa_bean\S\255
+http ://archinte .ama-assn 	256	query234_Cocoa_bean\S\256
+.org/cgi/content/short/166/4/411 	257	query234_Cocoa_bean\S\257
+Buijsse B , Feskens EJ , Kok FJ , Kromhout D Cocoa intake , blood pressure , and cardiovascular mortality : the Zutphen Elderly Study Arch . 	258	query234_Cocoa_bean\S\258
+"Buijsse B the Zutphen Elderly Study Arch"	"is"	"Feskens EJ"	258	query234_Cocoa_bean\P\258-0
+"Buijsse cardiovascular mortality the Zutphen Elderly Study Arch"	"is"	"Feskens EJ"	258	query234_Cocoa_bean\P\258-1
+"Buijsse B the Zutphen Elderly Study Arch"	"is"	"Kok FJ"	258	query234_Cocoa_bean\P\258-2
+"Buijsse cardiovascular mortality the Zutphen Elderly Study Arch"	"is"	"Kok FJ"	258	query234_Cocoa_bean\P\258-3
+"Buijsse B the Zutphen Elderly Study Arch"	"is"	"Kromhout D Cocoa intake"	258	query234_Cocoa_bean\P\258-4
+"Buijsse cardiovascular mortality the Zutphen Elderly Study Arch"	"is"	"Kromhout D Cocoa intake"	258	query234_Cocoa_bean\P\258-5
+"Buijsse B the Zutphen Elderly Study Arch"	"is"	"blood pressure"	258	query234_Cocoa_bean\P\258-6
+"Buijsse cardiovascular mortality the Zutphen Elderly Study Arch"	"is"	"blood pressure"	258	query234_Cocoa_bean\P\258-7
+Intern . 	259	query234_Cocoa_bean\S\259
+Med . 	260	query234_Cocoa_bean\S\260
+166 4 411–7 2006 February 16505260 10.1001/.411 	261	query234_Cocoa_bean\S\261
+http ://archinte .ama-assn 	262	query234_Cocoa_bean\S\262
+.org/cgi/content/short/166/4/411 	263	query234_Cocoa_bean\S\263
+published in the Archives of Internal Medicine in 2006 found a 50 percent reduction in cardiovascular mortality and a 47 percent reduction in all-cause mortality for the men regularly consuming the most cocoa , compared to those consuming the least cocoa from all sources . 	264	query234_Cocoa_bean\S\264
+published in the Archives of Internal Medicine in 2006 found a 50 percent reduction in cardiovascular mortality and a 47 percent reduction in all-cause mortality for the men regularly consuming the most cocoa , compared to those consuming the least cocoa from all sources . 	264	query234_Cocoa_bean\S\264
+published in the Archives of Internal Medicine in 2006 found a 50 percent reduction in cardiovascular mortality and a 47 percent reduction in all-cause mortality for the men regularly consuming the most cocoa , compared to those consuming the least cocoa from all sources . 	264	query234_Cocoa_bean\S\264
+"published in the Archives of Internal Medicine in 2006"	"found"	"a 50 percent reduction in cardiovascular mortality compared to those consuming the least cocoa from all sources"	264	query234_Cocoa_bean\P\264-0
+"published in the Archives of Internal Medicine in 2006"	"found"	"a 50 percent in cardiovascular mortality a 47 percent reduction in all-cause mortality for the men regularly consuming the most cocoa compared to those consuming the least cocoa from all sources"	264	query234_Cocoa_bean\P\264-1
+"the men"	"be consuming"	"regularly the most cocoa"	264	query234_Cocoa_bean\P\264-2
+"the men"	"be consuming"	"regularly the most cocoa"	264	query234_Cocoa_bean\P\264-3
+Chocolate is a food product with appeal not only to the human population , but to many different animals as well . 	265	query234_Cocoa_bean\S\265
+"Chocolate"	"is a food product"	"with appeal"	265	query234_Cocoa_bean\P\265-0
+"Chocolate"	"is a food product"	"to the human population"	265	query234_Cocoa_bean\P\265-1
+"Chocolate"	"is a food product"	"the human population to many different animals as well"	265	query234_Cocoa_bean\P\265-2
+"Chocolate"	"is"	"a food product"	265	query234_Cocoa_bean\P\265-3
+However , chocolate and cocoa contain a high level of xanthine , specifically theobromine and to a much lesser extent caffeine , that are detrimental to the health of many animals , including dog and cat . 	266	query234_Cocoa_bean\S\266
+However , chocolate and cocoa contain a high level of xanthine , specifically theobromine and to a much lesser extent caffeine , that are detrimental to the health of many animals , including dog and cat . 	266	query234_Cocoa_bean\S\266
+However , chocolate and cocoa contain a high level of xanthine , specifically theobromine and to a much lesser extent caffeine , that are detrimental to the health of many animals , including dog and cat . 	266	query234_Cocoa_bean\S\266
+However , chocolate and cocoa contain a high level of xanthine , specifically theobromine and to a much lesser extent caffeine , that are detrimental to the health of many animals , including dog and cat . 	266	query234_Cocoa_bean\S\266
+However , chocolate and cocoa contain a high level of xanthine , specifically theobromine and to a much lesser extent caffeine , that are detrimental to the health of many animals , including dog and cat . 	266	query234_Cocoa_bean\S\266
+However , chocolate and cocoa contain a high level of xanthine , specifically theobromine and to a much lesser extent caffeine , that are detrimental to the health of many animals , including dog and cat . 	266	query234_Cocoa_bean\S\266
+However , chocolate and cocoa contain a high level of xanthine , specifically theobromine and to a much lesser extent caffeine , that are detrimental to the health of many animals , including dog and cat . 	266	query234_Cocoa_bean\S\266
+"a high level of xanthine"	"are detrimental"	"to the health of many animals including dog"	266	query234_Cocoa_bean\P\266-0
+"a high level of xanthine"	"are detrimental"	"to the health of many animals including cat"	266	query234_Cocoa_bean\P\266-1
+"a high of xanthine specifically theobromine"	"are detrimental"	"to the health of many animals including dog"	266	query234_Cocoa_bean\P\266-2
+"a high of xanthine specifically theobromine"	"are detrimental"	"to the health of many animals including cat"	266	query234_Cocoa_bean\P\266-3
+"a high of xanthine to a much lesser extent caffeine"	"are detrimental"	"to the health of many animals including dog"	266	query234_Cocoa_bean\P\266-4
+"a high of xanthine to a much lesser extent caffeine"	"are detrimental"	"to the health of many animals including cat"	266	query234_Cocoa_bean\P\266-5
+"a high level of xanthine"	"are"	"detrimental"	266	query234_Cocoa_bean\P\266-6
+"a high of xanthine specifically theobromine"	"are"	"detrimental"	266	query234_Cocoa_bean\P\266-7
+"a high of xanthine to a much lesser extent caffeine"	"are"	"detrimental"	266	query234_Cocoa_bean\P\266-8
+While these compounds have desirable effects in humans , they cannot be efficiently metabolized in many animals and can lead to cardiac and nervous system problems , and if consumed in high quantities , even lead to death . 	267	query234_Cocoa_bean\S\267
+"these compounds"	"have"	"desirable effects in humans"	267	query234_Cocoa_bean\P\267-0
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-1
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-2
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-3
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-4
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-5
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-6
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-7
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-8
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-9
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-10
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-11
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-12
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-13
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-14
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-15
+"these compounds"	"have"	"desirable effects"	267	query234_Cocoa_bean\P\267-16
+However , since the beginning of the 21st century , some cocoa derivatives with a low concentration of xanthines have been designed by specialized industry to be suitable for pet consumption , enabling the pet food industry to offer animal-safe chocolate and cocoa flavored products . 	268	query234_Cocoa_bean\S\268
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"to be suitable for pet consumption enabling the pet food industry to offer animal-safe chocolate since the beginning of the 21st century"	268	query234_Cocoa_bean\P\268-0
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"to be suitable for pet consumption enabling the pet food industry to offer animal-safe cocoa flavored products since the beginning of the 21st century"	268	query234_Cocoa_bean\P\268-1
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"to be suitable enabling the pet food industry to offer animal-safe chocolate since the beginning of the 21st century"	268	query234_Cocoa_bean\P\268-2
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"to be suitable enabling the pet food industry to offer animal-safe cocoa flavored products since the beginning of the 21st century"	268	query234_Cocoa_bean\P\268-3
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"by specialized industry to be suitable for pet consumption enabling the pet food industry to offer animal-safe chocolate"	268	query234_Cocoa_bean\P\268-4
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"by specialized industry to be suitable for pet consumption enabling the pet food industry to offer animal-safe cocoa flavored products"	268	query234_Cocoa_bean\P\268-5
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"by specialized industry to be suitable enabling the pet food industry to offer animal-safe chocolate"	268	query234_Cocoa_bean\P\268-6
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"by specialized industry to be suitable enabling the pet food industry to offer animal-safe cocoa flavored products"	268	query234_Cocoa_bean\P\268-7
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"to be suitable for pet consumption enabling the pet food industry to offer animal-safe chocolate"	268	query234_Cocoa_bean\P\268-8
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"to be suitable for pet consumption enabling the pet food industry to offer animal-safe cocoa flavored products"	268	query234_Cocoa_bean\P\268-9
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"to be suitable enabling the pet food industry to offer animal-safe chocolate"	268	query234_Cocoa_bean\P\268-10
+"However"	"some cocoa derivatives with a low concentration of xanthines have been designed"	"to be suitable enabling the pet food industry to offer animal-safe cocoa flavored products"	268	query234_Cocoa_bean\P\268-11
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"to be suitable for pet consumption enabling the pet food industry to offer animal-safe chocolate since the beginning of the 21st century"	268	query234_Cocoa_bean\P\268-12
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"to be suitable for pet consumption enabling the pet food industry to offer animal-safe cocoa flavored products since the beginning of the 21st century"	268	query234_Cocoa_bean\P\268-13
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"to be suitable enabling the pet food industry to offer animal-safe chocolate since the beginning of the 21st century"	268	query234_Cocoa_bean\P\268-14
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"to be suitable enabling the pet food industry to offer animal-safe cocoa flavored products since the beginning of the 21st century"	268	query234_Cocoa_bean\P\268-15
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"by specialized industry to be suitable for pet consumption enabling the pet food industry to offer animal-safe chocolate"	268	query234_Cocoa_bean\P\268-16
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"by specialized industry to be suitable for pet consumption enabling the pet food industry to offer animal-safe cocoa flavored products"	268	query234_Cocoa_bean\P\268-17
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"by specialized industry to be suitable enabling the pet food industry to offer animal-safe chocolate"	268	query234_Cocoa_bean\P\268-18
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"by specialized industry to be suitable enabling the pet food industry to offer animal-safe cocoa flavored products"	268	query234_Cocoa_bean\P\268-19
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"to be suitable for pet consumption enabling the pet food industry to offer animal-safe chocolate"	268	query234_Cocoa_bean\P\268-20
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"to be suitable for pet consumption enabling the pet food industry to offer animal-safe cocoa flavored products"	268	query234_Cocoa_bean\P\268-21
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"to be suitable enabling the pet food industry to offer animal-safe chocolate"	268	query234_Cocoa_bean\P\268-22
+"some cocoa derivatives with a low concentration of xanthines"	"268 However have been designed"	"to be suitable enabling the pet food industry to offer animal-safe cocoa flavored products"	268	query234_Cocoa_bean\P\268-23
+Dogs and Chocolate : Gourmet Treats http ://www.brooksidechocolates.com/fadogbo.html 	269	query234_Cocoa_bean\S\269
+Dogs and Chocolate : Gourmet Treats http ://www.brooksidechocolates.com/fadogbo.html 	269	query234_Cocoa_bean\S\269
+2007-11-12 Dogs and Chocolate : Gourmet Treats http ://www.brooksidechocolates.com/fadogbo.html 	270	query234_Cocoa_bean\S\270
+2007-11-12 Dogs and Chocolate : Gourmet Treats http ://www.brooksidechocolates.com/fadogbo.html 	270	query234_Cocoa_bean\S\270
+2007-11-12 Chocolicks , a brand of Chocolate Treats for Dogs http ://www.chocolicktreats 	271	query234_Cocoa_bean\S\271
+"2007-11-12 Chocolicks"	"is"	"a brand of Chocolate"	271	query234_Cocoa_bean\P\271-0
+"2007-11-12 Chocolicks"	"Treats"	"for Dogs"	271	query234_Cocoa_bean\P\271-1
+.com/ 	272	query234_Cocoa_bean\S\272
+2007-11-12 Chocolicks , a brand of Chocolate Treats for Dogs http ://www.chocolicktreats 	273	query234_Cocoa_bean\S\273
+"2007-11-12 Chocolicks"	"is"	"a brand of Chocolate"	273	query234_Cocoa_bean\P\273-0
+"2007-11-12 Chocolicks"	"Treats"	"for Dogs"	273	query234_Cocoa_bean\P\273-1
+.com/ 	274	query234_Cocoa_bean\S\274
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+2007-11-12 It results in products with a high concentration of fiber and protein , while maintaining low concentrations of sugar and other carbohydrate , thus enabling it to be used to create healthy functional cocoa pet products . 	275	query234_Cocoa_bean\S\275
+An initiative , called the , has developed from the growing requirement to face the challenges posed by sustainability . 	276	query234_Cocoa_bean\S\276
+"An initiative called the"	"has developed"	"from the growing requirement to face the challenges posed by sustainability"	276	query234_Cocoa_bean\P\276-0
+"the growing requirement"	"be face"	"the challenges posed by sustainability"	276	query234_Cocoa_bean\P\276-1
+"the challenges"	"be posed"	"by sustainability"	276	query234_Cocoa_bean\P\276-2
+It was launched in 2007 by the International Cocoa Organization ( ICCO ) and is steered by an independent working group with representation of major stakeholders . 	277	query234_Cocoa_bean\S\277
+It was launched in 2007 by the International Cocoa Organization ( ICCO ) and is steered by an independent working group with representation of major stakeholders . 	277	query234_Cocoa_bean\S\277
+It was launched in 2007 by the International Cocoa Organization ( ICCO ) and is steered by an independent working group with representation of major stakeholders . 	277	query234_Cocoa_bean\S\277
+It was launched in 2007 by the International Cocoa Organization ( ICCO ) and is steered by an independent working group with representation of major stakeholders . 	277	query234_Cocoa_bean\S\277
+It was launched in 2007 by the International Cocoa Organization ( ICCO ) and is steered by an independent working group with representation of major stakeholders . 	277	query234_Cocoa_bean\S\277
+It was launched in 2007 by the International Cocoa Organization ( ICCO ) and is steered by an independent working group with representation of major stakeholders . 	277	query234_Cocoa_bean\S\277
+It was launched in 2007 by the International Cocoa Organization ( ICCO ) and is steered by an independent working group with representation of major stakeholders . 	277	query234_Cocoa_bean\S\277
+It was launched in 2007 by the International Cocoa Organization ( ICCO ) and is steered by an independent working group with representation of major stakeholders . 	277	query234_Cocoa_bean\S\277
+"the International Cocoa Organization"	"is"	"ICCO"	277	query234_Cocoa_bean\P\277-0
+The mission of the Roundtable is to establish a participatory and transparent process towards economic , environmental and social sustainability in the global cocoa economy . 	278	query234_Cocoa_bean\S\278
+"The mission of the Roundtable"	"is"	"to establish a participatory process towards economic sustainability in the global cocoa economy"	278	query234_Cocoa_bean\P\278-0
+"The mission of the Roundtable"	"is"	"to establish a transparent process towards economic environmental and social sustainability in the global cocoa economy"	278	query234_Cocoa_bean\P\278-1
+"The mission of the Roundtable"	"is"	"to establish a participatory process towards environmental sustainability in the global cocoa economy"	278	query234_Cocoa_bean\P\278-2
+"The mission of the Roundtable"	"is"	"to establish a participatory process towards social sustainability in the global cocoa economy"	278	query234_Cocoa_bean\P\278-3
+"The mission of the Roundtable"	"is"	"to establish a participatory process towards economic sustainability"	278	query234_Cocoa_bean\P\278-4
+"The mission of the Roundtable"	"is"	"to establish a transparent process towards economic environmental and social sustainability"	278	query234_Cocoa_bean\P\278-5
+"The mission of the Roundtable"	"is"	"to establish a participatory process towards environmental sustainability"	278	query234_Cocoa_bean\P\278-6
+"The mission of the Roundtable"	"is"	"to establish a participatory process towards social sustainability"	278	query234_Cocoa_bean\P\278-7
+The 1st Roundtable in 2007 brought together more than 200 stakeholders representing 25 countries , including cocoa farmers , government officials from cocoa producing and consuming countries , traders , chocolate manufacturers , donor organizations and national and international NGOs . 	279	query234_Cocoa_bean\S\279
+"The 1st Roundtable in 2007"	"brought"	"together more than 200 stakeholders representing 25 countries including cocoa farmers"	279	query234_Cocoa_bean\P\279-0
+"more than 200 stakeholders"	"be representing"	"25 countries including cocoa farmers"	279	query234_Cocoa_bean\P\279-1
+"government officials from cocoa"	"producing"	"25 countries including cocoa farmers"	279	query234_Cocoa_bean\P\279-2
+"government officials from cocoa"	"consuming countries"	"25 countries including cocoa farmers"	279	query234_Cocoa_bean\P\279-3
+"government officials from cocoa"	"consuming traders"	"25 countries including cocoa farmers"	279	query234_Cocoa_bean\P\279-4
+"government officials from cocoa"	"consuming chocolate manufacturers"	"25 countries including cocoa farmers"	279	query234_Cocoa_bean\P\279-5
+"government officials from cocoa"	"consuming donor organizations"	"25 countries including cocoa farmers"	279	query234_Cocoa_bean\P\279-6
+"government officials from cocoa"	"consuming national NGOs"	"25 countries including cocoa farmers"	279	query234_Cocoa_bean\P\279-7
+"government officials from cocoa"	"consuming international NGOs"	"25 countries including cocoa farmers"	279	query234_Cocoa_bean\P\279-8
+June 2010 Children in cocoa production The Cocoa Protocol is an effort to end these practices . 	280	query234_Cocoa_bean\S\280
+"June 2010 Children in cocoa production"	"is an effort"	"to end these practices"	280	query234_Cocoa_bean\P\280-0
+"June 2010 Children in cocoa production"	"is"	"an effort"	280	query234_Cocoa_bean\P\280-1
+"The Cocoa Protocol"	"is an effort"	"to end these practices"	280	query234_Cocoa_bean\P\280-2
+"The Cocoa Protocol"	"is"	"an effort"	280	query234_Cocoa_bean\P\280-3
+"The Cocoa Protocol an effort"	"be end"	"these practices"	280	query234_Cocoa_bean\P\280-4
+It has , however , been criticized by some groups including the International Labor Rights Forum as an industry initiative which falls short . 	281	query234_Cocoa_bean\S\281
+It has , however , been criticized by some groups including the International Labor Rights Forum as an industry initiative which falls short . 	281	query234_Cocoa_bean\S\281
+It has , however , been criticized by some groups including the International Labor Rights Forum as an industry initiative which falls short . 	281	query234_Cocoa_bean\S\281
+"an industry initiative"	"falls"	"short"	281	query234_Cocoa_bean\P\281-0
+The relative poverty of many cocoa farmers means that environmental consequences such as deforestation are given little significance . 	282	query234_Cocoa_bean\S\282
+"The relative poverty of many cocoa farmers"	"means"	"that environmental consequences such as deforestation are given little significance"	282	query234_Cocoa_bean\P\282-0
+"environmental consequences such as deforestation"	"are given"	"little significance"	282	query234_Cocoa_bean\P\282-1
+For decades , cocoa farmers have encroached on virgin forest , mostly after the felling of trees by logging companies . 	283	query234_Cocoa_bean\S\283
+"cocoa farmers"	"have encroached"	"283 For decades on virgin forest"	283	query234_Cocoa_bean\P\283-0
+"cocoa farmers"	"have encroached"	"283 For decades mostly after the felling of trees"	283	query234_Cocoa_bean\P\283-1
+"cocoa farmers"	"have encroached"	"283 For decades by logging companies"	283	query234_Cocoa_bean\P\283-2
+"cocoa farmers"	"have encroached"	"283 For decades"	283	query234_Cocoa_bean\P\283-3
+This trend has decreased as many governments and communities are beginning to protect their remaining forested zones . 	284	query234_Cocoa_bean\S\284
+"This trend"	"has decreased"	"as many governments are beginning to protect their remaining forested zones"	284	query234_Cocoa_bean\P\284-0
+"This trend"	"has decreased"	"as many communities are beginning to protect their remaining forested zones"	284	query234_Cocoa_bean\P\284-1
+"many governments"	"are beginning"	"to protect their remaining forested zones"	284	query234_Cocoa_bean\P\284-2
+"many communities"	"are beginning"	"to protect their remaining forested zones"	284	query234_Cocoa_bean\P\284-3
+"many communities"	"are beginning"	"to protect their remaining forested zones"	284	query234_Cocoa_bean\P\284-4
+April 2011 In general , the use of chemical fertilizers and pesticides by cocoa farmers is limited . 	285	query234_Cocoa_bean\S\285
+"the use of chemical fertilizers by cocoa farmers"	"is limited"	"285 April 2011 In general"	285	query234_Cocoa_bean\P\285-0
+"the use of chemical pesticides by cocoa farmers"	"is limited"	"285 April 2011 In general"	285	query234_Cocoa_bean\P\285-1
+When cocoa bean prices are high , farmers may invest in their crops , leading to higher yields which , in turn tends to result in lower market prices and a renewed period of lower investment . 	286	query234_Cocoa_bean\S\286
+"When cocoa bean prices are high farmers may invest in their crops"	"be leading"	"to higher yields"	286	query234_Cocoa_bean\P\286-0
+"cocoa bean prices"	"are high"	"When"	286	query234_Cocoa_bean\P\286-1
+"cocoa bean prices"	"are"	"high"	286	query234_Cocoa_bean\P\286-2
+"cocoa bean prices"	"are"	"high"	286	query234_Cocoa_bean\P\286-3
+"cocoa bean prices"	"are"	"high"	286	query234_Cocoa_bean\P\286-4
+"cocoa bean prices"	"are"	"high"	286	query234_Cocoa_bean\P\286-5
+"higher yields"	"tends"	"to result in lower market prices in turn"	286	query234_Cocoa_bean\P\286-6
+"higher yields"	"tends"	"to result in lower market a renewed period of lower investment in turn"	286	query234_Cocoa_bean\P\286-7
+"higher yields"	"tends"	"to result in lower market prices"	286	query234_Cocoa_bean\P\286-8
+"higher yields"	"tends"	"to result in lower market a renewed period of lower investment"	286	query234_Cocoa_bean\P\286-9
+Cocoa beans , cocoa butter and cocoa powder are traded on two world exchanges : NYSE Euronext and IntercontinentalExchange ( ICE) . 	287	query234_Cocoa_bean\S\287
+"Cocoa beans"	"is"	"cocoa butter"	287	query234_Cocoa_bean\P\287-0
+"Cocoa beans"	"is"	"cocoa cocoa powder"	287	query234_Cocoa_bean\P\287-1
+"Cocoa beans"	"are traded"	"on two world exchanges"	287	query234_Cocoa_bean\P\287-2
+"Cocoa beans"	"are traded"	"on two world exchanges"	287	query234_Cocoa_bean\P\287-3
+"Cocoa beans"	"are traded"	"on two world exchanges"	287	query234_Cocoa_bean\P\287-4
+The London market is based on West African cocoa and New York on cocoa predominantly from Southeast Asia . 	288	query234_Cocoa_bean\S\288
+"The London market"	"is based"	"on West African cocoa on cocoa predominantly from Southeast Asia"	288	query234_Cocoa_bean\P\288-0
+"The London market"	"is based"	"on West African New York on cocoa predominantly from Southeast Asia"	288	query234_Cocoa_bean\P\288-1
+"The London market"	"is based"	"on West African cocoa"	288	query234_Cocoa_bean\P\288-2
+"The London market"	"is based"	"on West African New York"	288	query234_Cocoa_bean\P\288-3
+Cocoa is the world 's smallest soft commodity market . 	289	query234_Cocoa_bean\S\289
+"Cocoa"	"is"	"the world 's smallest soft commodity market"	289	query234_Cocoa_bean\P\289-0
+"the world"	"has"	"smallest soft commodity market"	289	query234_Cocoa_bean\P\289-1
+The future price of cocoa butter and cocoa powder is determined by multiplying the bean price by a ratio . 	290	query234_Cocoa_bean\S\290
+"The future price of cocoa butter"	"is determined"	"by multiplying the bean price by a ratio"	290	query234_Cocoa_bean\P\290-0
+"The future price of cocoa cocoa powder"	"is determined"	"by multiplying the bean price by a ratio"	290	query234_Cocoa_bean\P\290-1
+The combined butter and powder ratio has tended to be around 3.5 	291	query234_Cocoa_bean\S\291
+"The combined butter"	"has tended"	"to be around 3.5 291"	291	query234_Cocoa_bean\P\291-0
+"The combined powder ratio"	"has tended"	"to be around 3.5 291"	291	query234_Cocoa_bean\P\291-1
+. 	292	query234_Cocoa_bean\S\292
+If the combined ratio falls below 3.2 	293	query234_Cocoa_bean\S\293
+"the combined ratio"	"falls"	"below 3.2"	293	query234_Cocoa_bean\P\293-0
+or so , production ceases to be economically viable and some factories cease extraction of butter and powder and trade exclusively in cocoa liquor . 	294	query234_Cocoa_bean\S\294
+or so , production ceases to be economically viable and some factories cease extraction of butter and powder and trade exclusively in cocoa liquor . 	294	query234_Cocoa_bean\S\294
+or so , production ceases to be economically viable and some factories cease extraction of butter and powder and trade exclusively in cocoa liquor . 	294	query234_Cocoa_bean\S\294
+or so , production ceases to be economically viable and some factories cease extraction of butter and powder and trade exclusively in cocoa liquor . 	294	query234_Cocoa_bean\S\294
+or so , production ceases to be economically viable and some factories cease extraction of butter and powder and trade exclusively in cocoa liquor . 	294	query234_Cocoa_bean\S\294
+"some factories"	"cease"	"extraction of butter exclusively in cocoa liquor"	294	query234_Cocoa_bean\P\294-0
+"some factories"	"cease"	"extraction of powder exclusively in cocoa liquor"	294	query234_Cocoa_bean\P\294-1
+"some factories"	"cease"	"extraction of trade exclusively in cocoa liquor"	294	query234_Cocoa_bean\P\294-2
+"some factories"	"cease"	"extraction of butter"	294	query234_Cocoa_bean\P\294-3
+"some factories"	"cease"	"extraction of powder"	294	query234_Cocoa_bean\P\294-4
+"some factories"	"cease"	"extraction of trade"	294	query234_Cocoa_bean\P\294-5
+Cocoa beans can be held in storage for several years in bags or in bulk , during which the ownership can change several times , as the cocoa is traded much the same as metal or other commodities , to gain profit for the owner . 	295	query234_Cocoa_bean\S\295
+"Cocoa beans"	"can be held"	"in storage for several years in bags"	295	query234_Cocoa_bean\P\295-0
+"Cocoa beans"	"can be held"	"in storage several years in bags in bulk"	295	query234_Cocoa_bean\P\295-1
+"Cocoa beans"	"can be held"	"in storage during which the ownership can change several times as the cocoa"	295	query234_Cocoa_bean\P\295-2
+"Cocoa beans"	"can be held"	"in storage"	295	query234_Cocoa_bean\P\295-3
+"the ownership"	"can change"	"several times during which"	295	query234_Cocoa_bean\P\295-4
+"the ownership"	"can change"	"several times as the cocoa"	295	query234_Cocoa_bean\P\295-5
+"the ownership"	"can change"	"several times"	295	query234_Cocoa_bean\P\295-6
+"is traded much the same as metal"	"be gain"	"profit for the owner"	295	query234_Cocoa_bean\P\295-7
+"is traded much the same as other commodities"	"be gain"	"profit for the owner"	295	query234_Cocoa_bean\P\295-8
+In July 2010 , British hedge fund Armajaro , headed by speculator Anthony Ward , purchased 241,000 tonnes of cocoa beans . 	296	query234_Cocoa_bean\S\296
+"British hedge fund Armajaro"	"be headed"	"by speculator Anthony Ward"	296	query234_Cocoa_bean\P\296-0
+"British hedge fund Armajaro"	"be headed"	"by speculator Anthony Ward"	296	query234_Cocoa_bean\P\296-1
+"British hedge fund Armajaro"	"be headed"	"by speculator Anthony Ward"	296	query234_Cocoa_bean\P\296-2
+"British hedge fund Armajaro headed by speculator Anthony Ward"	"296 purchased"	"241,000 tonnes of cocoa beans In July 2010"	296	query234_Cocoa_bean\P\296-3
+"British hedge fund Armajaro headed by speculator Anthony Ward"	"296 purchased"	"241,000 tonnes of cocoa beans"	296	query234_Cocoa_bean\P\296-4
+The purchase was valued at £658 million and caused cocoa bean prices to rise to their highest level since 1977 . 	297	query234_Cocoa_bean\S\297
+"The purchase"	"was valued"	"at # 658 million"	297	query234_Cocoa_bean\P\297-0
+"The purchase"	"was caused"	"cocoa bean prices to rise to their highest level since 1977 at # 658 million"	297	query234_Cocoa_bean\P\297-1
+"The purchase"	"was caused"	"cocoa bean prices to rise to their highest level at # 658 million"	297	query234_Cocoa_bean\P\297-2
+"The purchase"	"was caused"	"cocoa bean prices to rise to their highest level since 1977"	297	query234_Cocoa_bean\P\297-3
+"The purchase"	"was caused"	"cocoa bean prices to rise to their highest level"	297	query234_Cocoa_bean\P\297-4
+"The purchase"	"was caused"	"cocoa bean prices to rise to their highest level"	297	query234_Cocoa_bean\P\297-5
+Sibun Jonathan Wallop Harry Mystery trader buys all Europe 's cocoa http ://www.telegraph.co.uk/finance/markets/7895242/Mystery-trader-buys-all-Europes-cocoa.html 	298	query234_Cocoa_bean\S\298
+"Sibun Jonathan Wallop Harry Mystery trader"	"buys"	"all Europe 's cocoa http www.telegraph.co.uk/finance/markets/7895242/Mystery-trader-buys-all-Europes-cocoa.html"	298	query234_Cocoa_bean\P\298-0
+"all Europe"	"has"	"cocoa http"	298	query234_Cocoa_bean\P\298-1
+27 July 2010 The Telegraph 17 July 2010 Sibun Jonathan Wallop Harry Mystery trader buys all Europe 's cocoa http ://www.telegraph.co.uk/finance/markets/7895242/Mystery-trader-buys-all-Europes-cocoa.html 	299	query234_Cocoa_bean\S\299
+"27 July 2010 The Telegraph 17 July 2010 Sibun Jonathan Wallop Harry Mystery trader"	"buys"	"all Europe 's cocoa http www.telegraph.co.uk/finance/markets/7895242/Mystery-trader-buys-all-Europes-cocoa.html"	299	query234_Cocoa_bean\P\299-0
+"all Europe"	"has"	"cocoa http"	299	query234_Cocoa_bean\P\299-1
+27 July 2010 The Telegraph 17 July 2010 Cocoa beans 30em Category :Chocolate Category :Edible nuts and seeds Category :Crops originating from Mexico Category :Crops originating from the Americas Category :Crops originating from Colombia Category :Crops originating from Ecuador Category :Mexican ingredients Category :Mexican cuisine Category :Cuisine of Oaxaca Category : Herbal and fungal stimulants af:Kakaoboon ar :كاكاو cs :Kakao de:Kakao el :Κακάο es :Grano de cacao eo:Kakao fa :کاکائو fr :Fève de cacao ko :코코아 hi :कोक ो io:Kakao he :קקאו lt :Kakava nah:Cacahuatetl nl:Cacaoboon nds-nl :Kakouboon ja :ココア no:Kakao nn:Kakao pl:Kakao ro:Cacao sq:Gatim me kakao sk :Kakao sl :Kakav sr :Какао sh :Kakao fi:Kaakao yi :קאקאו zh :可可豆 1556484 t on in 1974 , 1810611 t on in 1984 , 2672173 t on in 1994 , 3607052 t on in 2004 ( record ) . 	300	query234_Cocoa_bean\S\300
+"Crops Crops originating from the Americas Category Crops originating from Colombia Category Crops originating from Ecuador Category Mexican ingredients Category Mexican cuisine Category Cuisine of Oaxaca Category Herbal af Kakaoboon ar كاكاو cs Kakao de Kakao el Κακάο es Grano de cacao eo Kakao fa کاکائو fr Fève de cacao ko 코코아 hi कोक ो io Kakao he קקאו lt Kakava nah Cacahuatetl nl Cacaoboon nds-nl Kakouboon ja ココア no Kakao nn Kakao pl Kakao ro Cacao sq Gatim me kakao sk Kakao sl Kakav sr Какао sh Kakao fi Kaakao yi קאקאו zh 可可豆 1556484 t on in 1974 on in 1994"	"be originating"	"from Mexico Category"	300	query234_Cocoa_bean\P\300-0
+"Crops Crops originating from the Americas Category Crops originating from Colombia Category Crops originating from Ecuador Category Mexican ingredients Category Mexican cuisine Category Cuisine of Oaxaca Category fungal stimulants af Kakaoboon ar كاكاو cs Kakao de Kakao el Κακάο es Grano de cacao eo Kakao fa کاکائو fr Fève de cacao ko 코코아 hi कोक ो io Kakao he קקאו lt Kakava nah Cacahuatetl nl Cacaoboon nds-nl Kakouboon ja ココア no Kakao nn Kakao pl Kakao ro Cacao sq Gatim me kakao sk Kakao sl Kakav sr Какао sh Kakao fi Kaakao yi קאקאו zh 可可豆 1556484 t on in 1974 on in 1994"	"be originating"	"from Mexico Category"	300	query234_Cocoa_bean\P\300-1
+"Crops Crops originating from Colombia Category Crops originating from Ecuador Category Mexican ingredients Category Mexican cuisine Category Cuisine of Oaxaca Category Herbal af Kakaoboon ar كاكاو cs Kakao de Kakao el Κακάο es Grano de cacao eo Kakao fa کاکائو fr Fève de cacao ko 코코아 hi कोक ो io Kakao he קקאו lt Kakava nah Cacahuatetl nl Cacaoboon nds-nl Kakouboon ja ココア no Kakao nn Kakao pl Kakao ro Cacao sq Gatim me kakao sk Kakao sl Kakav sr Какао sh Kakao fi Kaakao yi קאקאו zh 可可豆 1556484 t on in 1974 on in 1994"	"be originating"	"from the Americas Category"	300	query234_Cocoa_bean\P\300-2
+"Crops Crops originating from Colombia Category Crops originating from Ecuador Category Mexican ingredients Category Mexican cuisine Category Cuisine of Oaxaca Category fungal stimulants af Kakaoboon ar كاكاو cs Kakao de Kakao el Κακάο es Grano de cacao eo Kakao fa کاکائو fr Fève de cacao ko 코코아 hi कोक ो io Kakao he קקאו lt Kakava nah Cacahuatetl nl Cacaoboon nds-nl Kakouboon ja ココア no Kakao nn Kakao pl Kakao ro Cacao sq Gatim me kakao sk Kakao sl Kakav sr Какао sh Kakao fi Kaakao yi קאקאו zh 可可豆 1556484 t on in 1974 on in 1994"	"be originating"	"from the Americas Category"	300	query234_Cocoa_bean\P\300-3
+"Crops Crops originating from Ecuador Category Mexican ingredients Category Mexican cuisine Category Cuisine of Oaxaca Category Herbal af Kakaoboon ar كاكاو cs Kakao de Kakao el Κακάο es Grano de cacao eo Kakao fa کاکائو fr Fève de cacao ko 코코아 hi कोक ो io Kakao he קקאו lt Kakava nah Cacahuatetl nl Cacaoboon nds-nl Kakouboon ja ココア no Kakao nn Kakao pl Kakao ro Cacao sq Gatim me kakao sk Kakao sl Kakav sr Какао sh Kakao fi Kaakao yi קאקאו zh 可可豆 1556484 t on in 1974 on in 1994"	"be originating"	"from Colombia Category"	300	query234_Cocoa_bean\P\300-4
+"Crops Crops originating from Ecuador Category Mexican ingredients Category Mexican cuisine Category Cuisine of Oaxaca Category fungal stimulants af Kakaoboon ar كاكاو cs Kakao de Kakao el Κακάο es Grano de cacao eo Kakao fa کاکائو fr Fève de cacao ko 코코아 hi कोक ो io Kakao he קקאו lt Kakava nah Cacahuatetl nl Cacaoboon nds-nl Kakouboon ja ココア no Kakao nn Kakao pl Kakao ro Cacao sq Gatim me kakao sk Kakao sl Kakav sr Какао sh Kakao fi Kaakao yi קאקאו zh 可可豆 1556484 t on in 1974 on in 1994"	"be originating"	"from Colombia Category"	300	query234_Cocoa_bean\P\300-5
+"Crops Mexican ingredients Category Mexican cuisine Category Cuisine of Oaxaca Category Herbal af Kakaoboon ar كاكاو cs Kakao de Kakao el Κακάο es Grano de cacao eo Kakao fa کاکائو fr Fève de cacao ko 코코아 hi कोक ो io Kakao he קקאו lt Kakava nah Cacahuatetl nl Cacaoboon nds-nl Kakouboon ja ココア no Kakao nn Kakao pl Kakao ro Cacao sq Gatim me kakao sk Kakao sl Kakav sr Какао sh Kakao fi Kaakao yi קאקאו zh 可可豆 1556484 t on in 1974 on in 1994"	"be originating"	"from Ecuador Category"	300	query234_Cocoa_bean\P\300-6
+"Crops Mexican ingredients Category Mexican cuisine Category Cuisine of Oaxaca Category fungal stimulants af Kakaoboon ar كاكاو cs Kakao de Kakao el Κακάο es Grano de cacao eo Kakao fa کاکائو fr Fève de cacao ko 코코아 hi कोक ो io Kakao he קקאו lt Kakava nah Cacahuatetl nl Cacaoboon nds-nl Kakouboon ja ココア no Kakao nn Kakao pl Kakao ro Cacao sq Gatim me kakao sk Kakao sl Kakav sr Какао sh Kakao fi Kaakao yi קאקאו zh 可可豆 1556484 t on in 1974 on in 1994"	"be originating"	"from Ecuador Category"	300	query234_Cocoa_bean\P\300-7
+"可可豆 1556484 t on in 1974 on in 1994"	"is"	"2672173 t"	300	query234_Cocoa_bean\P\300-8
+"可可豆 1556484 t on in 1974 on in 1994"	"is"	"3607052 t on in 2004"	300	query234_Cocoa_bean\P\300-9
+"可可豆 1556484 t on in 1974 on in 1994"	"is"	"1810611 t on in 1984"	300	query234_Cocoa_bean\P\300-10
+"可可豆 1556484 t on in 1974 on in 1994"	"is"	"1810611 t on in 1984"	300	query234_Cocoa_bean\P\300-11
+1556484 t on in 1974 , 1810611 t on in 1984 , 2672173 t on in 1994 , 3607052 t on in 2004 ( record ) . 	301	query234_Cocoa_bean\S\301
+"1556484 t on in 1974 on in 1994"	"is"	"3607052 t on in 2004"	301	query234_Cocoa_bean\P\301-0
+"1556484 t on in 1974 on in 1994"	"is"	"1810611 t on in 1984"	301	query234_Cocoa_bean\P\301-1
+"1556484 t on in 1974 on in 1994"	"is"	"2672173 t"	301	query234_Cocoa_bean\P\301-2
+"1556484 t on in 1974 on in 1994"	"is"	"2672173 t"	301	query234_Cocoa_bean\P\301-3
+According to a report by the International Labour Organization ( ILO ) , in 2002 , more than 109,000 children were working on cocoa farms in Côte d'Ivoire ( Ivory Coast ) , some of them in " the worst forms of child labour " . 	302	query234_Cocoa_bean\S\302
+"According to a report by the International Labour Organization in 2002"	"is"	"more than 109,000 children"	302	query234_Cocoa_bean\P\302-0
+"the International Labour Organization"	"is"	"ILO"	302	query234_Cocoa_bean\P\302-1
+"According to a report by the International Labour Organization in 2002"	"were working"	"on cocoa farms in Côte d'Ivoire"	302	query234_Cocoa_bean\P\302-2
+"According to a report by the International Labour Organization in 2002"	"were working"	"on cocoa farms"	302	query234_Cocoa_bean\P\302-3
+"Côte d'Ivoire"	"is"	"Ivory Coast"	302	query234_Cocoa_bean\P\302-4
+, 2005 Human Rights Report on Côte d'Ivoire The ILO later reported that 200,000 children were working in the cocoa industry in Côte d'Ivoire in 2005 . 	303	query234_Cocoa_bean\S\303
+, 2005 Human Rights Report on Côte d'Ivoire The ILO later reported that 200,000 children were working in the cocoa industry in Côte d'Ivoire in 2005 . 	303	query234_Cocoa_bean\S\303
+, 2005 Human Rights Report on Côte d'Ivoire The ILO later reported that 200,000 children were working in the cocoa industry in Côte d'Ivoire in 2005 . 	303	query234_Cocoa_bean\S\303
+, 2005 Human Rights Report on Côte d'Ivoire The ILO later reported that 200,000 children were working in the cocoa industry in Côte d'Ivoire in 2005 . 	303	query234_Cocoa_bean\S\303
+"200,000 children"	"were working"	"in the cocoa industry in Côte d'Ivoire"	303	query234_Cocoa_bean\P\303-0
+"200,000 children"	"were working"	"in the cocoa industry in 2005"	303	query234_Cocoa_bean\P\303-1
+"200,000 children"	"were working"	"in the cocoa industry"	303	query234_Cocoa_bean\P\303-2
+http ://ilo.law.cornell 	304	query234_Cocoa_bean\S\304
+.edu/public/english/standards/ipec/themes/cocoa/download/2005_02_cl_cocoa.pdf 	305	query234_Cocoa_bean\S\305
+The first allegations that child slavery is used in cocoa production appeared in 1998 . 	306	query234_Cocoa_bean\S\306
+"child slavery"	"is used"	"306 The first allegations in cocoa production"	306	query234_Cocoa_bean\P\306-0
+"child slavery"	"is used"	"306 The first allegations"	306	query234_Cocoa_bean\P\306-1
+"The first allegations"	"appeared"	"in 1998"	306	query234_Cocoa_bean\P\306-2
+The 2005 ILO report failed to fully characterize this problem , but estimated that up to 6 % of the 200,000 children involved in cocoa production could be victims of human trafficking or slavery . 	307	query234_Cocoa_bean\S\307
+"The 2005 ILO report"	"failed"	"to characterize this problem fully"	307	query234_Cocoa_bean\P\307-0
+"The 2005 ILO report"	"failed"	"to characterize this problem"	307	query234_Cocoa_bean\P\307-1
+"The 2005 ILO report"	"estimated"	"to characterize this problem fully that up to 6 % of the 200,000 children involved in cocoa production could be victims of human trafficking"	307	query234_Cocoa_bean\P\307-2
+"The 2005 ILO report"	"estimated"	"to characterize this problem fully that up to 6 % of the 200,000 children involved in cocoa production could be victims of human slavery"	307	query234_Cocoa_bean\P\307-3
+"The 2005 ILO report"	"estimated"	"to characterize this problem that up to 6 % of the 200,000 children involved in cocoa production could be victims of human trafficking"	307	query234_Cocoa_bean\P\307-4
+"The 2005 ILO report"	"estimated"	"to characterize this problem that up to 6 % of the 200,000 children involved in cocoa production could be victims of human slavery"	307	query234_Cocoa_bean\P\307-5
+"the 200,000 children"	"be involved"	"in cocoa production"	307	query234_Cocoa_bean\P\307-6
+"up to 6 % of the 200,000 children involved in cocoa production"	"could be victims"	"of human trafficking"	307	query234_Cocoa_bean\P\307-7
+"up to 6 % of the 200,000 children involved in cocoa production"	"could be victims"	"of human slavery"	307	query234_Cocoa_bean\P\307-8
+"up to 6 % of the 200,000 children involved in cocoa production"	"could be"	"victims"	307	query234_Cocoa_bean\P\307-9
+There are Fairtrade cocoa producer groups in Belize , Bolivia , Cameroon , Costa Rica , Dominican Republic , Ecuador , Ghana , Haiti , India , Côte d'Ivoire , Nicaragua , Panama , Peru , Sierra Leone and Sao Tome &amp; Principe . 	308	query234_Cocoa_bean\S\308
+"Fairtrade cocoa producer groups in Belize"	"There are"	"308"	308	query234_Cocoa_bean\P\308-0
+"Fairtrade cocoa producer groups in Bolivia"	"There are"	"308"	308	query234_Cocoa_bean\P\308-1
+"Fairtrade cocoa producer groups in Cameroon"	"There are"	"308"	308	query234_Cocoa_bean\P\308-2
+"Fairtrade cocoa producer groups in Costa Rica"	"There are"	"308"	308	query234_Cocoa_bean\P\308-3
+"Fairtrade cocoa producer groups in Dominican Republic"	"There are"	"308"	308	query234_Cocoa_bean\P\308-4
+"Fairtrade cocoa producer groups in Ecuador"	"There are"	"308"	308	query234_Cocoa_bean\P\308-5
+"Fairtrade cocoa producer groups in Ghana"	"There are"	"308"	308	query234_Cocoa_bean\P\308-6
+"Fairtrade cocoa producer groups in Haiti"	"There are"	"308"	308	query234_Cocoa_bean\P\308-7
+"Fairtrade cocoa producer groups in India"	"There are"	"308"	308	query234_Cocoa_bean\P\308-8
+"Fairtrade cocoa producer groups in Côte d'Ivoire"	"There are"	"308"	308	query234_Cocoa_bean\P\308-9
+"Fairtrade cocoa producer groups in Nicaragua"	"There are"	"308"	308	query234_Cocoa_bean\P\308-10
+"Fairtrade cocoa producer groups in Panama"	"There are"	"308"	308	query234_Cocoa_bean\P\308-11
+"Fairtrade cocoa producer groups in Peru"	"There are"	"308"	308	query234_Cocoa_bean\P\308-12
+"Fairtrade cocoa producer groups in Sierra Leone"	"There are"	"308"	308	query234_Cocoa_bean\P\308-13
+"Fairtrade cocoa producer groups in Sao Tome & Principe"	"There are"	"308"	308	query234_Cocoa_bean\P\308-14
+As of 2005 , less than 1 % of the chocolate market was Fair Trade . 	309	query234_Cocoa_bean\S\309
+"less than 1 % of the chocolate market"	"was"	"Fair Trade 309 As of 2005"	309	query234_Cocoa_bean\P\309-0
+“The News on Chocolate is Bittersweet : No Progress on Child Labor , but Fair Trade Chocolate is on the Rise . 	310	query234_Cocoa_bean\S\310
+"The News on Chocolate"	"is"	"310 Bittersweet No Progress on Child Labor"	310	query234_Cocoa_bean\P\310-0
+"The News on Chocolate"	"is"	"310 Bittersweet No on Child Labor Fair Trade Chocolate is on the Rise"	310	query234_Cocoa_bean\P\310-1
+"Fair Trade Chocolate"	"is"	"on the Rise"	310	query234_Cocoa_bean\P\310-2
+” Global Exchange June 2005 ( 8 pages ) . 	311	query234_Cocoa_bean\S\311
+” Global Exchange June 2005 ( 8 pages ) . 	311	query234_Cocoa_bean\S\311
+"June 2005"	"is"	"8 pages"	311	query234_Cocoa_bean\P\311-0
+Web. 	312	query234_Cocoa_bean\S\312
+<http ://www.globalexchange 	313	query234_Cocoa_bean\S\313
+.org/campaigns/fairtrade/cocoa/chocolatereport05.pdf> 	314	query234_Cocoa_bean\S\314
+. 	315	query234_Cocoa_bean\S\315
+1 July 2010 . 	316	query234_Cocoa_bean\S\316
+Seattle based Theo Chocolate became one of the first 100 % fair trade and organic chocolate producers . 	317	query234_Cocoa_bean\S\317
+"Seattle based Theo Chocolate"	"became"	"one of the first 100 % fair trade"	317	query234_Cocoa_bean\P\317-0
+"Seattle based Theo Chocolate"	"became"	"one of the first 100 % fair organic chocolate producers"	317	query234_Cocoa_bean\P\317-1
+<http ://www.grist 	318	query234_Cocoa_bean\S\318
+.org/article/Sweetness-in-Seattle 	319	query234_Cocoa_bean\S\319
+> Both :Organic and Fair Trade in Seattle Cadbury , one of the world 's largest chocolate companies , has begun certifying its Dairy Milk bars as Fair Trade ; according to Cadbury , in 2010 "around one quarter of ... 	320	query234_Cocoa_bean\S\320
+"the world"	"has"	"largest chocolate companies"	320	query234_Cocoa_bean\P\320-0
+"one of the world 's largest chocolate companies"	"has begun"	"certifying its Dairy Milk bars as Fair Trade"	320	query234_Cocoa_bean\P\320-1
+"one of the world 's largest chocolate companies"	"has begun"	"certifying its Dairy Milk bars"	320	query234_Cocoa_bean\P\320-2
+"one of the world 's largest chocolate companies"	"has begun"	"certifying its Dairy Milk bars"	320	query234_Cocoa_bean\P\320-3
+global sales " of these bars will be Fair Trade . 	321	query234_Cocoa_bean\S\321
+"global sales of these bars"	"will be"	"Fair Trade"	321	query234_Cocoa_bean\P\321-0
+“Fairtrade Cadbury Dairy Milk Goes Global as Canada , Australia , and New Zealand take Fairtrade Further Into Mainstream . 	322	query234_Cocoa_bean\S\322
+"Fairtrade Cadbury Dairy Milk"	"Goes"	"Global as Canada take Fairtrade Further Into Mainstream"	322	query234_Cocoa_bean\P\322-0
+"Fairtrade Cadbury Dairy Milk"	"Goes"	"Global as Australia take Fairtrade Further Into Mainstream"	322	query234_Cocoa_bean\P\322-1
+"Fairtrade Cadbury Dairy Milk"	"Goes"	"Global as New Zealand take Fairtrade Further Into Mainstream"	322	query234_Cocoa_bean\P\322-2
+"Fairtrade Cadbury Dairy Milk"	"Goes"	"Global"	322	query234_Cocoa_bean\P\322-3
+"Fairtrade Cadbury Dairy Milk"	"Goes"	"Global"	322	query234_Cocoa_bean\P\322-4
+"Fairtrade Cadbury Dairy Milk"	"Goes"	"Global"	322	query234_Cocoa_bean\P\322-5
+"New Zealand"	"take"	"Fairtrade Further Into Mainstream"	322	query234_Cocoa_bean\P\322-6
+” Cadbury PLC 2010 . 	323	query234_Cocoa_bean\S\323
+Web. 	324	query234_Cocoa_bean\S\324
+<http ://www.cadbury 	325	query234_Cocoa_bean\S\325
+.com/ourresponsibilities/fairtrade/Pages/fairtrade 	326	query234_Cocoa_bean\S\326
+.aspx> 	327	query234_Cocoa_bean\S\327
+. 	328	query234_Cocoa_bean\S\328
+1 July 2010 . 	329	query234_Cocoa_bean\S\329
+Cacao ( disambiguation ) Cash crop Coenraad Johannes van Houten for Dutch method Epicatechin , a flavonoid present in cocoa Ghana Cocoa Board Theobromine , an alkaloid present in cocoa Tejate Books Coe , S.D. 	330	query234_Cocoa_bean\S\330
+"Cacao Cash crop Coenraad Johannes van Houten for Dutch method Epicatechin S.D."	"is"	"disambiguation"	330	query234_Cocoa_bean\P\330-0
+"Dutch method Epicatechin"	"is"	"a flavonoid present in cocoa Ghana Cocoa Board Theobromine"	330	query234_Cocoa_bean\P\330-1
+"cocoa Ghana Cocoa Board Theobromine"	"is"	"an alkaloid present in cocoa Tejate Books Coe"	330	query234_Cocoa_bean\P\330-2
+/ Coe , M.D. 	331	query234_Cocoa_bean\S\331
+"Coe"	"is"	"M.D."	331	query234_Cocoa_bean\P\331-0
+( 2007 ) . 	332	query234_Cocoa_bean\S\332
+( 2007 ) . 	332	query234_Cocoa_bean\S\332
+The True Story of Chocolate ( 2nd edition ) . 	333	query234_Cocoa_bean\S\333
+"The True Story of Chocolate"	"is"	"2nd edition"	333	query234_Cocoa_bean\P\333-0
+Thames &amp; Hudson . 	334	query234_Cocoa_bean\S\334
+ISBN 9780500286968 Grivetti , L.E./Shapiro 	335	query234_Cocoa_bean\S\335
+"ISBN 9780500286968 Grivetti Shapiro"	"is"	"L.E."	335	query234_Cocoa_bean\P\335-0
+, H.-Y 	336	query234_Cocoa_bean\S\336
+, H.-Y 	336	query234_Cocoa_bean\S\336
+. 	337	query234_Cocoa_bean\S\337
+(eds . 	338	query234_Cocoa_bean\S\338
+2009 ) . 	339	query234_Cocoa_bean\S\339
+Chocolate : History , Culture , and Heritage . 	340	query234_Cocoa_bean\S\340
+Wiley . 	341	query234_Cocoa_bean\S\341
+ISBN 9780470121658 McNeil , C. 	342	query234_Cocoa_bean\S\342
+"ISBN 9780470121658 McNeil"	"is"	"C."	342	query234_Cocoa_bean\P\342-0
+L. 	343	query234_Cocoa_bean\S\343
+(editor , 2009 ) . 	344	query234_Cocoa_bean\S\344
+(editor , 2009 ) . 	344	query234_Cocoa_bean\S\344
+Chocolate in Mesoamerica : A Cultural History of Cacao . 	345	query234_Cocoa_bean\S\345
+University Press of Florida . 	346	query234_Cocoa_bean\S\346
+ISBN 9780813033822 Off , Carol ( 2008 ) . 	347	query234_Cocoa_bean\S\347
+ISBN 9780813033822 Off , Carol ( 2008 ) . 	347	query234_Cocoa_bean\S\347
+Bitter Chocolate : The Dark Side of the World ’s Most Seductive Sweet . 	348	query234_Cocoa_bean\S\348
+"the World"	"has"	"Most Seductive Sweet"	348	query234_Cocoa_bean\P\348-0
+New Press . 	349	query234_Cocoa_bean\S\349
+ISBN 9781595583307 Rosenblum , Mort ( 2006 ) . 	350	query234_Cocoa_bean\S\350
+"ISBN 9781595583307 Rosenblum"	"is"	"Mort"	350	query234_Cocoa_bean\P\350-0
+"ISBN 9781595583307 Rosenblum"	"is"	"Mort"	350	query234_Cocoa_bean\P\350-1
+Chocolate : A Bittersweet Saga of Dark and Light . 	351	query234_Cocoa_bean\S\351
+North Point Press . 	352	query234_Cocoa_bean\S\352
+ISBN 9780865477308 Ryan , Órla ( 2011 ) . 	353	query234_Cocoa_bean\S\353
+"ISBN 9780865477308 Ryan"	"is"	"Órla"	353	query234_Cocoa_bean\P\353-0
+"ISBN 9780865477308 Ryan"	"is"	"Órla"	353	query234_Cocoa_bean\P\353-1
+Chocolate Nations : Living and Dying for Cocoa in West Africa . 	354	query234_Cocoa_bean\S\354
+Zed Books . 	355	query234_Cocoa_bean\S\355
+ISBN 9781848130050 Young , Allen M. 	356	query234_Cocoa_bean\S\356
+"ISBN 9781848130050 Young"	"is"	"Allen M."	356	query234_Cocoa_bean\P\356-0
+( 2007 ) . 	357	query234_Cocoa_bean\S\357
+( 2007 ) . 	357	query234_Cocoa_bean\S\357
+The Chocolate Tree : A Natural History of Cacao ( Rev. 	358	query234_Cocoa_bean\S\358
+and expanded ed . 	359	query234_Cocoa_bean\S\359
+) . 	360	query234_Cocoa_bean\S\360
+University Press of Florida . 	361	query234_Cocoa_bean\S\361
+ISBN 9780813030449 Review articles on possible health benefits Buitrago-Lopez , A. 	362	query234_Cocoa_bean\S\362
+ISBN 9780813030449 Review articles on possible health benefits Buitrago-Lopez , A. 	362	query234_Cocoa_bean\S\362
+et al . 	363	query234_Cocoa_bean\S\363
+“Chocolate consumption and cardiometabolic disorders : systematic review and meta-analysis” , Editorial comment by Corder , Roger “Red wine , chocolate and vascular health : developing the evidence base” , Rimbach , G. 	364	query234_Cocoa_bean\S\364
+"the evidence base"	"is"	"Rimbach"	364	query234_Cocoa_bean\P\364-0
+"the evidence base"	"is"	"G."	364	query234_Cocoa_bean\P\364-1
+et al . 	365	query234_Cocoa_bean\S\365
+“Chocolate : (un )healthy source of polyphenols ? ” , Spencer , Jeremy P.E. 	366	query234_Cocoa_bean\S\366
+“Chocolate : (un )healthy source of polyphenols ? ” , Spencer , Jeremy P.E. 	366	query234_Cocoa_bean\S\366
+“Flavonoids and brain health : multiple effects underpinned by common mechanisms” , - working with all stakeholders from the cocoa economy towards a world cocoa economy that is economically viable , ecologically sound and socially acceptable - A multi-stakeholder initiative on upgrading the capacities of cocoa farmers and their organisations . 	367	query234_Cocoa_bean\S\367
+"multiple effects working with all stakeholders from the cocoa economy towards a world cocoa economy"	"be underpinned"	"by common mechanisms"	367	query234_Cocoa_bean\P\367-0
+"working with all stakeholders from the cocoa economy towards a world cocoa economy"	"is"	"ecologically sound A multi-stakeholder initiative on upgrading the capacities of cocoa farmers"	367	query234_Cocoa_bean\P\367-1
+"working with all stakeholders from the cocoa economy towards a world cocoa economy"	"is"	"ecologically socially acceptable A multi-stakeholder initiative on upgrading the capacities of cocoa farmers"	367	query234_Cocoa_bean\P\367-2
+"working with all stakeholders from the cocoa economy towards a world cocoa economy"	"is"	"ecologically socially acceptable A multi-stakeholder initiative on upgrading the of cocoa farmers their organisations"	367	query234_Cocoa_bean\P\367-3
+"working with all stakeholders from the cocoa economy towards a world cocoa economy"	"is"	"ecologically sound A multi-stakeholder initiative on upgrading the of cocoa farmers their organisations"	367	query234_Cocoa_bean\P\367-4
+"a world cocoa economy"	"is viable"	"economically"	367	query234_Cocoa_bean\P\367-5
+"a world cocoa economy"	"is"	"viable"	367	query234_Cocoa_bean\P\367-6
+"a world cocoa economy"	"is"	"viable"	367	query234_Cocoa_bean\P\367-7

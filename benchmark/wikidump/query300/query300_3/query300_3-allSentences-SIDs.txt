@@ -1,0 +1,110 @@
+0	the statistical concept In probability theory and statistics , median is described as the numerical value separating the higher half of a sample , a population , or a probability distribution , from the lower half . 
+1	The median of a finite list of numbers can be found by arranging all the observations from lowest value to highest value and picking the middle one . 
+2	If there is an even number of observations , then there is no single middle value ; the median is then usually defined to be the mean of the two middle values . 
+3	StatisticalMedian Statistical Median StatisticalMedian Statistical Median http ://www .stat.psu.edu/old_resources/ClassNotes/ljs_07/sld008.htm 
+4	Simon , Laura J " Descriptive statistics " Statistical Education Resource Kit Penn State Department of Statistics In a sample of data , or a finite population , there may be no member of the sample whose value is identical to the median ( in the case of an even sample size ) , and , if there is such a member , there may be more than one so that the median may not uniquely identify a sample member . 
+5	Nonetheless , the value of the median is uniquely determined with the usual definition . 
+6	A related concept , in which the outcome is forced to correspond to a member of the sample , is the medoid . 
+7	At most , half the population have values less than the median , and , at most , half have values greater than the median . 
+8	If both groups contain less than half the population , then some of the population is exactly equal to the median . 
+9	For example , if a &nbsp;<&nbsp; b &nbsp;<&nbsp; c , then the median of the list { a ,&nbsp; b ,&nbsp; c } is b , and , if a &nbsp;<&nbsp; b &nbsp;<&nbsp; c &nbsp;<&nbsp; d , then the median of the list { a ,&nbsp; b ,&nbsp; c ,&nbsp; d } is the mean of b and c ; i .e 
+10	. 
+11	, it is ( b &nbsp;+&nbsp; c )/2 . 
+12	The median can be used as a measure of location when a distribution is skewed , when end-values are not known , or when one requires reduced importance to be attached to outlier , e.g. 
+13	, because they may be measurement errors . 
+14	The median of some variable x is denoted either as tilde{x } or as mu_{ 1/2 }( x) , ! 
+15	. 
+16	When the median is used as a location parameter in descriptive statistics , there are several choices for a measure of variability : the range , the interquartile range , the mean absolute deviation , and the median absolute deviation . 
+17	Since the median is the same as the second quartile , its calculation is illustrated in the article on quartile . 
+18	For any probability distribution on the real line with cumulative distribution function &nbsp; F , regardless of whether it is any kind of continuous probability distribution , in particular an absolutely continuous distribution ( and therefore has a probability density function ) , or a discrete probability distribution , a median&nbsp; m satisfies the inequalities or in which a Lebesgue&ndash;Stieltjes integral is used . 
+19	For an absolutely continuous probability distribution with probability density function ƒ , we have The medians of certain types of distributions can be easily calculated from their parameters : thumb300pxComparison ofmean_medianandmode ( statistics )modeof twolog-normal distributionswith differentskewness . 
+20	The median is used primarily for skewed distributions , which it summarizes differently than the arithmetic mean . 
+21	Consider the multiset { 1 , 2 , 2 , 2 , 3 , 14 } . 
+22	The median is 2 in this case , as is the mode , and it might be seen as a better indication of central tendency than the arithmetic mean of 4 . 
+23	Calculation of medians is a popular technique in summary statistics and summarizing statistical data , since it is simple to understand and easy to calculate , while also giving a measure that is more robust in the presence of outlier values than is the mean . 
+24	A median is also a central point that minimizes the arithmetic mean of the absolute deviations . 
+25	In the above example , the median value of 2 minimizes the arithmetic mean of the absolute deviations ( 1&nbsp;+&nbsp;0&nbsp;+&nbsp;0&nbsp;+&nbsp;0&nbsp;+&nbsp;1&nbsp;+&nbsp;12 )&nbsp;/&nbsp;6&nbsp;=&nbsp;2.33 
+26	; in contrast , the mean value of 4 minimizes the arithmetic mean of the squares ( 9&nbsp;+&nbsp;4&nbsp;+&nbsp;4&nbsp;+&nbsp;4&nbsp;+&nbsp;1&nbsp;+&nbsp;100 )&nbsp;/&nbsp;6&nbsp;=&nbsp;20.33 
+27	. 
+28	In the language of statistics , a value of c that minimizes is a median of the probability distribution of the random variable &nbsp; X . 
+29	However , a median c need not be uniquely defined . 
+30	Where exactly one median exists , statisticians speak of " the median " correctly ; even when no unique median exists , some statisticians speak of " the median " informally . 
+31	See also ''k ''-medians clustering . 
+32	For continuous probability distributions , the difference between the median and the mean is never more than one standard deviation . 
+33	See an inequality on location and scale parameters . 
+34	Even though sorting n items requires ''O '' ( n &nbsp;log&nbsp; n ) operations , selection algorithm can compute the ''k ''th-smallest of ''n '' items ( e .g. 
+35	, the median ) with only O ( n ) operations . 
+36	" When I was working on the MEDIAN problem , my goal was to prove that any deterministic algorithm to find the MEDIAN of n integers must necessarily make roughly as many comparisons as it takes to sort n integers , i .e 
+37	. 
+38	, n log n comparisons . 
+39	I was shocked to discover that the median of n integers can be found with just O( n ) comparisons . 
+40	" -- Manuel Blum , As an example , we will calculate the sample median for the following set of observations : 1 , 5 , 2 , 8 , 7. 
+41	Start by sorting the values : 1 , 2 , 5 , 7 , 8. 
+42	In this case , the median is 5 since it is the middle observation in the ordered list . 
+43	The median is the ( ( n &nbsp;+&nbsp;1 )/2 )th item , where n is the number of values . 
+44	For example , for the list {1 ,&nbsp;2 ,&nbsp;5 ,&nbsp;7 ,&nbsp;8} , we have n &nbsp;=&nbsp;5 , so the median is the ( (5&nbsp;+&nbsp;1 )/2 )th item . 
+45	As an example , we will calculate the sample median for the following set of observations : 1 , 6 , 2 , 8 , 7 , 2. 
+46	Start by sorting the values : 1 , 2 , 2 , 6 , 7 , 8. 
+47	In this case , the arithmetic mean of the two middlemost terms is ( 2 + 6)/2 = 4 . 
+48	Therefore , the median is 4 since it is the arithmetic mean of the middle observations in the ordered list . 
+49	We also use this formula MEDIAN = {( n+1 )/2 } th item . 
+50	n= Number of values As above example 1 , 2 , 2 , 6 , 7 , 8n=6 Median ={( 6+1 )/2}th item =3.5 
+51	th item If data are represented by a statistical model specifying a particular family of probability distribution , then estimates of the median can be obtained by fitting that family of probability distributions to the data and calculating the theoretical median of the fitted distribution . 
+52	See , for example Pareto interpolation . 
+53	Any ' 'mean ''-unbiased estimator minimizes the risk ( expected loss ) with respect to the squared-error loss function , as observed by Gauss . 
+54	A ' 'median ''-unbiased estimator minimizes the risk with respect to the absolute-deviation loss function , as observed by Laplace . 
+55	Other loss functions are used in statistical theory , particularly in robust statistics . 
+56	The theory of median-unbiased estimators was revived by in 1947 : An estimate of a one-dimensional parameter θ will be said to be median-unbiased , if , for fixed θ , the median of the distribution of the estimate is at the value θ ; i .e 
+57	. 
+58	, the estimate underestimates just as often as it overestimates . 
+59	This requirement seems for most purposes to accomplish as much as the mean-unbiased requirement and has the additional property that it is invariant under one-to-one transformation . 
+60	[page 584] Further properties of median-unbiased estimators have been noted by Lehmann_ Birnbaum , van der Vaart and Pfanzagl . 
+61	In particular , median-unbiased estimators exist in cases where mean-unbiased and maximum-likelihood estimators do not exist . 
+62	Besides being invariant under one-to-one transformations , median-unbiased estimators have surprising robustness . 
+63	Median filter In monochrome raster image there is a type of noise , known as the salt and pepper noise , when each pixel independently becomes black ( with some small probability ) or white ( with some small probability ) , and is unchanged otherwise ( with the probability close to 1 ).An 
+64	image constructed of median values of neighborhoods ( like 3×3 square ) can effectively reduce noise in this case . 
+65	Gustav Fechner popularized the median into the formal analysis of data , although it had been used previously by Laplace . 
+66	Keynes , John Maynard ; A Treatise on Probability ( 1921 ) , Pt II Ch XVII §5 ( p 201 ) . 
+67	Statistics 5900 Median of a distribution descriptive Category :Means Category :Robust statistics ar :وسيط ( إحصاء ) bn :মধ্যক bg :Медиана ( статистика ) ca :Mediana cs :Medián da :Median de :Median et :Mediaan es :Mediana (estadística ) eo :Mediano ( statistiko ) eu:Mediana fa :میانه ( آمار ) fr :Médiane ( statistiques ) ko :중앙값 hr:Medijan io:Mediano id :Median is :Miðgildi it :Mediana ( statistica ) he :חציון lt :Mediana hu:Medián ms :Median nl :Mediaan ( statistiek ) ja :中央値 no:Median nn:Median pl :Mediana pt:Mediana (estatística ) ru:Медиана ( статистика ) sq:Mediana ( statistikë ) scn :Mediana simple :Median sk :Medián sl :Mediana sr :Медијана ( статистика ) sh :Medijan su:Median fi:Mediaani sv:Median ta :இடைநிலையளவ ு th :มัธยฐาน tg :Медиана tr :Medyan (tek-değişirli ) uk :Медіана ( статистика ) vi:Số trung vị zh :中位數 operatorname{P}( Xleq m ) geq frac{1}{ 2}text{ and }operatorname{P}(Xgeq m ) geq frac{1}{ 2} , ! 
+68	int_{-infty }^m mathrm{d}F(x ) geq frac{1}{ 2}text{ and }int_m^{infty } mathrm{d}F(x ) geq frac{1}{ 2} , ! 
+69	operatorname{P}( Xleq m ) = operatorname{P}(Xgeq m )=int_{-infty }^m f( x ) , mathrm{d}x=frac{1}{ 2}. 
+70	, ! 
+71	The median of a normal distribution with mean μ and variance σ 2 is&nbsp;μ . 
+72	In fact , for a normal distribution , mean = median = mode . 
+73	The median of a uniform distribution in the interval [ a ,&nbsp; b ] is ( a &nbsp;+&nbsp; b )&nbsp;/&nbsp;2 , which is also the mean . 
+74	The median of a Cauchy distribution with location parameter x 0 and scale parameter y is&nbsp; x 0 , the location parameter . 
+75	The median of an exponential distribution with rate parameter λ is the natural logarithm of 2 divided by the rate parameter : λ &minus ;1 ln&nbsp;2 . 
+76	The median of a Weibull distribution with shape parameter k and scale parameter λ is&nbsp; λ ( ln&nbsp;2 ) 1/ k . 
+77	E(left|X-cright| ) , median = ( 6/2 )th item median = 3rd item median = 5 Order statistic Quantile A median is the 2nd quartile , 5th decile , and 50th percentile . 
+78	A sample-median is ' 'median ''-unbiased but can be a ' 'mean ''-biased estimator . 
+79	Absolute deviation Concentration of measure for Lipschitz functions Efficiency ( statistics ) , which explains why the sample mean is more statistically efficient than the sample median . 
+80	Standard deviation as a bound on the difference between the mean and the median Median voter theory Median graph Geometric median , a generalization of the median for data in higher dimensions Centerpoint , another generalization to higher dimensions Median search Hinges ( statistics ) Theil–Sen estimator , a method for robust linear regression based on finding medians of slope . 
+81	" On Small-Sample Estimation . 
+82	" The Annals of Mathematical Statistics , Vol . 
+83	18 , No. 
+84	4 ( Dec. 
+85	, 1947 ) , pp.&nbsp;582&ndash 
+86	;585 . 
+87	Lehmann_ E. 
+88	L. 
+89	" A General Concept of Unbiasedness " The Annals of Mathematical Statistics , Vol . 
+90	22 , No. 
+91	4 ( Dec. 
+92	, 1951 ) , pp.&nbsp;587&ndash 
+93	;592 . 
+94	Allan Birnbaum . 
+95	1961 . 
+96	" A Unified Theory of Estimation , I" , The Annals of Mathematical Statistics , Vol . 
+97	32 , No. 
+98	1 ( Mar . 
+99	, 1961 ) , pp.&nbsp;112&ndash 
+100	;135 van der Vaart , H. 
+101	R. 
+102	1961 . 
+103	" Some Extensions of the Idea of Bias " The Annals of Mathematical Statistics , Vol . 
+104	32 , No. 
+105	2 ( Jun . 
+106	, 1961 ) , pp.&nbsp;436&ndash 
+107	;447 . 
+108	Parametric Statistical Theory Pfanzagl Johann with the assistance of R. 
+109	Hamböker 1994 Walter de Gruyter 3-11-01-3863-8 1291393 StatisticalMedian Statistical Median for Median computations and income inequality metrics 

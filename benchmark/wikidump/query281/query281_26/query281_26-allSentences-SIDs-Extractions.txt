@@ -1,0 +1,155 @@
+0	May 2008 thumbrightDiet Coke Diet food ( or dietetic food ) refers to any food or drink whose recipe has been altered in some way to make it part of a body modification diet . 
+0	"0 May 2008 thumbrightDiet Coke Diet food"	"is"	"dietetic food"	
+0	"0 May 2008 thumbrightDiet Coke Diet food"	"refers"	"to any food"	
+0	"0 May 2008 thumbrightDiet Coke Diet food"	"refers"	"to any drink"	
+0	"any food"	"has"	"recipe"	
+0	"any drink"	"has"	"recipe"	
+0	"any food recipe"	"has been altered"	"in some way to make it part of a body modification diet"	
+0	"any drink recipe"	"has been altered"	"in some way to make it part of a body modification diet"	
+0	"some way"	"be make"	"it part of a body modification diet"	
+0	"it"	"part"	"of a body modification diet"	
+1	Although the usual intention is weight loss and change in body type , sometimes the intention is to aid in gaining weight or muscle as in bodybuilding supplements . 
+1	"the usual intention"	"is"	"weight loss"	
+1	"the usual intention"	"is"	"weight change in body type"	
+1	"1 Although the usual intention is weight loss sometimes the intention"	"is"	"to aid in gaining weight as in bodybuilding supplements"	
+1	"1 Although the usual intention is weight loss sometimes the intention"	"is"	"to aid in gaining muscle as in bodybuilding supplements"	
+1	"1 Although the usual intention is weight change in body type sometimes the intention"	"is"	"to aid in gaining weight as in bodybuilding supplements"	
+1	"1 Although the usual intention is weight change in body type sometimes the intention"	"is"	"to aid in gaining muscle as in bodybuilding supplements"	
+2	In addition to diet other words or phrases are used to identify and describe these foods including light or lite , lean , no calorie , low calorie , low fat , no fat , fat free , no sugar , sugar free , and zero calorie . 
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including light"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including lite"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including lean"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including no calorie"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including low calorie"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including low fat"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including no fat"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including fat free"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including no sugar"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including sugar free"	
+2	"2 In addition to diet other words"	"are used"	"to identify these foods including zero calorie"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including light"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including lite"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including lean"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including no calorie"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including low calorie"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including low fat"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including no fat"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including fat free"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including no sugar"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including sugar free"	
+2	"2 In addition to diet other words"	"are used"	"to describe these foods including zero calorie"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including light"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including lite"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including lean"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including no calorie"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including low calorie"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including low fat"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including no fat"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including fat free"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including no sugar"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including sugar free"	
+2	"2 In addition to diet other phrases"	"are used"	"to identify these foods including zero calorie"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including light"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including lite"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including lean"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including no calorie"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including low calorie"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including low fat"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including no fat"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including fat free"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including no sugar"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including sugar free"	
+2	"2 In addition to diet other phrases"	"are used"	"to describe these foods including zero calorie"	
+3	In some areas use of these terms may be regulated by law . 
+3	"use of these terms"	"may be regulated"	"by law some areas"	
+3	"use of these terms"	"may be regulated"	"some areas"	
+4	For example in the U.S. 
+5	a product labeled low fat must not contain more than 3 grams of fat per serving ; and to be labeled fat free it must contain less than 0.5 
+5	"5 a product labeled low fat"	"must not contain"	"more than 3 grams of fat per serving"	
+5	"5 a product labeled low fat"	"must not to be labeled"	"more than 3 grams of fat per serving fat free it must contain less than 0.5"	
+5	"it"	"must contain"	"less than 0.5"	
+6	grams of fat per serving . 
+7	, U.S. 
+7	"7"	"is"	"U.S."	
+8	Food and Drug Administration The process of making a diet version of a food usually requires finding an acceptable low calorie substitute for some high calorie ingredient . 
+8	"8 Food The process of making a diet version of a food"	"requires"	"finding an acceptable low calorie substitute for some high calorie ingredient usually"	
+8	"8 Drug Administration The process of making a diet version of a food"	"requires"	"finding an acceptable low calorie substitute for some high calorie ingredient usually"	
+8	"8 Food The process of making a diet version of a food"	"requires"	"finding an acceptable low calorie substitute for some high calorie ingredient"	
+8	"8 Drug Administration The process of making a diet version of a food"	"requires"	"finding an acceptable low calorie substitute for some high calorie ingredient"	
+9	This can be as simple as replacing some or all of the food 's sugar with a sugar substitute as is common with diet soft drinks such as Coca-Cola ( for example Diet Coke ) . 
+9	"This"	"can be simple"	"as replacing some of the food 's sugar with a sugar substitute"	
+9	"This"	"can be simple"	"as replacing all of the food 's sugar with a sugar substitute"	
+9	"This"	"can be simple"	"as is common with diet soft drinks such as Coca-Cola"	
+9	"This"	"can be"	"simple"	
+9	"the food"	"has"	"sugar"	
+10	In some snacks , the food may be baked instead of fried thus reducing the calories . 
+10	"the food"	"may be baked thus reducing the calories"	"10 In some snacks"	
+10	"the food"	"may be baked thus reducing the calories"	"instead of fried"	
+10	"the food"	"may be"	"baked thus reducing the calories"	
+11	In other cases , low fat ingredients may be used as replacements . 
+11	"11 In other cases low fat ingredients"	"may be used"	"as replacements"	
+12	In whole grain foods , the higher fiber content effectively displaces some of the starch component of the flour . 
+12	"the higher fiber content"	"displaces"	"some of the starch component of the flour effectively"	
+12	"the higher fiber content"	"displaces"	"some of the starch component of the flour"	
+13	Since certain fibers have no calories , this results in a modest caloric reduction . 
+13	"certain fibers"	"have"	"no calories"	
+13	"13"	"this results"	"in a modest caloric reduction Since certain fibers have no calories"	
+13	"13"	"this results"	"in a modest caloric reduction"	
+13	"this"	"13 results"	"in a modest caloric reduction Since certain fibers have no calories"	
+13	"this"	"13 results"	"in a modest caloric reduction"	
+14	Another technique relies on the intentional addition of other reduced-calorie ingredients , such as resistant starch or dietary fiber , to replace part of the flour and achieve a more significant caloric reduction . 
+14	"14 Another technique"	"relies"	"on the intentional addition of other reduced-calorie ingredients such as resistant starch to replace part of the flour"	
+14	"14 Another technique"	"relies"	"on the intentional addition of other reduced-calorie ingredients such as resistant dietary fiber to replace part of the flour"	
+14	"14 Another technique"	"achieve"	"a more significant caloric reduction on the intentional addition of other reduced-calorie ingredients such as resistant starch to replace part of the flour"	
+14	"14 Another technique"	"achieve"	"a more significant caloric reduction on the intentional addition of other reduced-calorie ingredients such as resistant dietary fiber to replace part of the flour"	
+14	"14 Another technique"	"achieve"	"a more significant caloric reduction"	
+14	"the intentional addition of other reduced-calorie ingredients such as resistant starch"	"be replace"	"part of the flour"	
+14	"the intentional addition of other reduced-calorie ingredients such as resistant dietary fiber"	"be replace"	"part of the flour"	
+15	http ://www.fibergourmet.com/FiberTech 
+16	.aspx 
+17	Resistant starch replacement system Fibergourmet.com 
+18	2008-07-01 2011-12-18 http ://www.fibergourmet.com/FiberTech 
+19	.aspx 
+20	Resistant starch replacement system Fibergourmet.com 
+21	2008-07-01 2011-12-18 In diet foods , National Health Service which replace the sugar with lower-calorie substitutes , there is some controversy based around the possibility that the sugar substitute used to replace sugar are themselves harmful . 
+21	"21 2008-07-01 2011-12-18 In diet foods"	"is"	"National Health Service"	
+21	"National Health Service"	"replace"	"the sugar with lower-calorie substitutes"	
+21	"National Health Service"	"replace"	"the sugar"	
+21	"some controversy based around the possibility that the sugar substitute used to replace sugar are themselves harmful"	"there is"	
+21	"some controversy"	"be based"	"around the possibility that the sugar substitute used to replace sugar are themselves harmful"	
+21	"the sugar substitute"	"be used"	"to replace sugar"	
+21	"themselves"	"are"	"harmful"	
+21	"the sugar substitute used to replace sugar"	"are"	"harmful"	
+22	Even if this question is satisfactorily resolved ( which remains unlikely at this time http ://www.dietpedia.com 
+22	"this question"	"is resolved"	"satisfactorily"	
+22	"this question"	"is resolved"	
+22	"which"	"remains"	"unlikely at this time http www.dietpedia.com"	
+22	"which"	"remains"	"unlikely"	
+23	Welcome to DietPedia - The Diet Encyclopedia Dietpedia.com 
+23	"23"	"Welcome"	"to DietPedia The Diet Encyclopedia Dietpedia.com"	
+24	2011-12-18 http ://www.dietpedia.com 
+25	Welcome to DietPedia - The Diet Encyclopedia Dietpedia.com 
+25	"25"	"Welcome"	"to DietPedia The Diet Encyclopedia Dietpedia.com"	
+26	2011-12-18 ) , the question still remains as to whether the benefits of caloric reduction would outweigh the potential loss . 
+26	"26 2011-12-18"	"the question remains"	"as to whether the benefits of caloric reduction would outweigh the potential loss still"	
+26	"26 2011-12-18"	"the question remains"	"as to whether the benefits of caloric reduction would outweigh the potential loss"	
+26	"the question"	"26 2011-12-18 remains"	"as to whether the benefits of caloric reduction would outweigh the potential loss still"	
+26	"the question"	"26 2011-12-18 remains"	"as to whether the benefits of caloric reduction would outweigh the potential loss"	
+26	"the benefits of caloric reduction"	"would outweigh"	"the potential loss"	
+27	In many low-fat and fat-free foods the fat is replaced with sugar , flour , or other full-calorie ingredients , and the reduction in caloric value is small , if any . 
+27	"27 In many low-fat foods the fat"	"is replaced"	"with sugar"	
+27	"27 In many low-fat foods the fat"	"is replaced"	"with flour"	
+27	"27 In many low-fat foods the fat"	"is replaced"	"with other full-calorie ingredients"	
+27	"27 In many fat-free foods the fat"	"is replaced"	"with sugar"	
+27	"27 In many fat-free foods the fat"	"is replaced"	"with flour"	
+27	"27 In many fat-free foods the fat"	"is replaced"	"with other full-calorie ingredients"	
+27	"the reduction in caloric value"	"is small"	"if any"	
+27	"the reduction in caloric value"	"is"	"small"	
+28	, U.S. 
+28	"28"	"is"	"U.S."	
+29	Food and Drug Administration Furthermore , an excess of digestible sugar ( as well as an excess of any macronutrient ) is stored as fat . 
+29	"29 Food Furthermore"	"is"	"an excess of digestible sugar as well as an excess of any macronutrient is stored as fat"	
+29	"29 Drug Administration Furthermore"	"is"	"an excess of digestible sugar as well as an excess of any macronutrient is stored as fat"	
+29	"digestible sugar"	"be stored"	"as fat"	
+30	Category :Nutrition de:Light-Produkt es :Dietética gu :પરેજીયુક્ત આહાર hi :पथ्याहार nl :Lightproduct no:Diett sv:Lightprodukt te :డైట ్ ఫుడ ్ Calorie restriction diet Dieting Low GI diet Low-carbohydrate diet Olestra Online weight loss plans 
+30	"Light-Produkt"	"es"	

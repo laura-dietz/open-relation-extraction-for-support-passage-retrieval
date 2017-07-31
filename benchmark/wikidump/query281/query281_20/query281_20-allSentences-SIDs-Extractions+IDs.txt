@@ -1,0 +1,1369 @@
+2012-02-06T23 :55:36Z yes thumbMeasuring body weight on aweighing scalescale Dieting is the practice of eating food in a regulated fashion to achieve or maintain a controlled weight . 	0	query281_Dieting\S\0
+"2012-02-06T23 :55:36 Z"	"is the practice"	"of eating food in a regulated fashion to achieve a controlled weight"	0	query281_Dieting\P\0-0
+"2012-02-06T23 :55:36 Z"	"is the practice"	"of eating food in a regulated fashion to maintain a controlled weight"	0	query281_Dieting\P\0-1
+"2012-02-06T23 :55:36 Z"	"is"	"the practice"	0	query281_Dieting\P\0-2
+"yes thumbMeasuring body weight on aweighing scalescale Dieting"	"is the practice"	"of eating food in a regulated fashion to achieve a controlled weight"	0	query281_Dieting\P\0-3
+"yes thumbMeasuring body weight on aweighing scalescale Dieting"	"is the practice"	"of eating food in a regulated fashion to maintain a controlled weight"	0	query281_Dieting\P\0-4
+"yes thumbMeasuring body weight on aweighing scalescale Dieting"	"is"	"the practice"	0	query281_Dieting\P\0-5
+"eating food in a regulated fashion to maintain"	"be achieve"	"a controlled weight"	0	query281_Dieting\P\0-6
+"eating food in a regulated fashion to maintain"	"be achieve"	"a controlled weight"	0	query281_Dieting\P\0-7
+In most cases dieting is used in combination with physical exercise to lose weight in those who are overweight or obese . 	1	query281_Dieting\S\1
+In most cases dieting is used in combination with physical exercise to lose weight in those who are overweight or obese . 	1	query281_Dieting\S\1
+In most cases dieting is used in combination with physical exercise to lose weight in those who are overweight or obese . 	1	query281_Dieting\S\1
+In most cases dieting is used in combination with physical exercise to lose weight in those who are overweight or obese . 	1	query281_Dieting\S\1
+In most cases dieting is used in combination with physical exercise to lose weight in those who are overweight or obese . 	1	query281_Dieting\S\1
+In most cases dieting is used in combination with physical exercise to lose weight in those who are overweight or obese . 	1	query281_Dieting\S\1
+In most cases dieting is used in combination with physical exercise to lose weight in those who are overweight or obese . 	1	query281_Dieting\S\1
+In most cases dieting is used in combination with physical exercise to lose weight in those who are overweight or obese . 	1	query281_Dieting\S\1
+In most cases dieting is used in combination with physical exercise to lose weight in those who are overweight or obese . 	1	query281_Dieting\S\1
+George , A. 	2	query281_Dieting\S\2
+"George"	"is"	"A."	2	query281_Dieting\P\2-0
+( 2011 ) . 	3	query281_Dieting\S\3
+( 2011 ) . 	3	query281_Dieting\S\3
+. 	4	query281_Dieting\S\4
+Retrieved October 20 , 2011 . 	5	query281_Dieting\S\5
+Retrieved October 20 , 2011 . 	5	query281_Dieting\S\5
+Some athletes , however , follow a diet to gain weight (usually in the form of muscle ) . 	6	query281_Dieting\S\6
+"Some athletes"	"follow"	"a diet to gain weight usually in the form of muscle however"	6	query281_Dieting\P\6-0
+"Some athletes"	"follow"	"a diet to gain weight usually in the form of muscle"	6	query281_Dieting\P\6-1
+Diets can also be used to maintain a stable body weight . 	7	query281_Dieting\S\7
+"Diets"	"can be used"	"to maintain a stable body weight also"	7	query281_Dieting\P\7-0
+"Diets"	"can be used"	"to maintain a stable body weight"	7	query281_Dieting\P\7-1
+Diets to promote weight loss are generally divided into four categories : low-fat , low-carbohydrate , low-calorie , and very low calorie . 	8	query281_Dieting\S\8
+"Diets"	"be promote"	"weight loss"	8	query281_Dieting\P\8-0
+"Diets to promote weight loss"	"are divided"	"into four categories low-fat calorie generally"	8	query281_Dieting\P\8-1
+"Diets to promote weight loss"	"are divided"	"into four categories low-carbohydrate calorie generally"	8	query281_Dieting\P\8-2
+"Diets to promote weight loss"	"are divided"	"into four categories low-calorie calorie generally"	8	query281_Dieting\P\8-3
+"Diets to promote weight loss"	"are divided"	"into four categories very low calorie generally"	8	query281_Dieting\P\8-4
+"Diets to promote weight loss"	"are divided"	"into four categories low-fat calorie"	8	query281_Dieting\P\8-5
+"Diets to promote weight loss"	"are divided"	"into four categories low-carbohydrate calorie"	8	query281_Dieting\P\8-6
+"Diets to promote weight loss"	"are divided"	"into four categories low-calorie calorie"	8	query281_Dieting\P\8-7
+"Diets to promote weight loss"	"are divided"	"into four categories very low calorie"	8	query281_Dieting\P\8-8
+Strychar I Diet in the management of weight loss CMAJ 174 1 56–63 2006 January 16389240 1319349 10.1503/cmaj.045037 	9	query281_Dieting\S\9
+http ://www.cmaj.ca/cgi/content/full/174/1/56 	10	query281_Dieting\S\10
+Strychar I Diet in the management of weight loss CMAJ 174 1 56–63 2006 January 16389240 1319349 10.1503/cmaj.045037 	11	query281_Dieting\S\11
+http ://www.cmaj.ca/cgi/content/full/174/1/56 	12	query281_Dieting\S\12
+A meta-analysis of six randomized controlled trials found no difference between the main diet types ( low calorie , low carbohydrate , and low fat ) , with a 2–4 kilogram weight loss in all studies . 	13	query281_Dieting\S\13
+"A meta-analysis of six randomized controlled trials"	"found"	"no difference between the main diet types low calorie with a 2 4 kilogram weight loss in all studies"	13	query281_Dieting\P\13-0
+"A meta-analysis of six randomized controlled trials"	"found"	"no difference between the main diet types low low carbohydrate with a 2 4 kilogram weight loss in all studies"	13	query281_Dieting\P\13-1
+"A meta-analysis of six randomized controlled trials"	"found"	"no difference between the main diet types low low fat with a 2 4 kilogram weight loss in all studies"	13	query281_Dieting\P\13-2
+"A meta-analysis of six randomized controlled trials"	"found"	"no difference between the main diet types low calorie"	13	query281_Dieting\P\13-3
+"A meta-analysis of six randomized controlled trials"	"found"	"no difference between the main diet types low low carbohydrate"	13	query281_Dieting\P\13-4
+"A meta-analysis of six randomized controlled trials"	"found"	"no difference between the main diet types low low fat"	13	query281_Dieting\P\13-5
+At two years , all calorie-reduced diet types cause equal weight loss irrespective of the macronutrients emphasized . 	14	query281_Dieting\S\14
+Sacks FM , Bray GA , Carey VJ , et al . 	15	query281_Dieting\S\15
+"Sacks FM"	"is"	"Bray GA"	15	query281_Dieting\P\15-0
+"Sacks FM"	"is"	"Carey VJ"	15	query281_Dieting\P\15-1
+"Sacks FM"	"is"	"et al"	15	query281_Dieting\P\15-2
+Comparison of Weight-Loss Diets with Different Compositions of Fat , Protein , and Carbohydrates N. 	16	query281_Dieting\S\16
+Engl . 	17	query281_Dieting\S\17
+J. 	18	query281_Dieting\S\18
+Med . 	19	query281_Dieting\S\19
+360 9 859–73 2009 February 19246357 2763382 10.1056/NEJMoa0804748 	20	query281_Dieting\S\20
+Sacks FM , Bray GA , Carey VJ , et al . 	21	query281_Dieting\S\21
+"Sacks FM"	"is"	"Bray GA"	21	query281_Dieting\P\21-0
+"Sacks FM"	"is"	"Carey VJ"	21	query281_Dieting\P\21-1
+"Sacks FM"	"is"	"et al"	21	query281_Dieting\P\21-2
+Comparison of Weight-Loss Diets with Different Compositions of Fat , Protein , and Carbohydrates N. 	22	query281_Dieting\S\22
+Engl . 	23	query281_Dieting\S\23
+J. 	24	query281_Dieting\S\24
+Med . 	25	query281_Dieting\S\25
+360 9 859–73 2009 February 19246357 2763382 10.1056/NEJMoa0804748 	26	query281_Dieting\S\26
+The first popular diet was " Banting " , named after William Banting . 	27	query281_Dieting\S\27
+"The first popular diet"	"was Banting"	"named after William Banting"	27	query281_Dieting\P\27-0
+"The first popular diet"	"was"	"Banting"	27	query281_Dieting\P\27-1
+"The first popular diet"	"was"	"Banting"	27	query281_Dieting\P\27-2
+In his 1863 pamphlet , Letter on Corpulence , Addressed to the Public , he outlined the details of a particular low-carbohydrate , low-calorie diet that had led to his own dramatic weight loss . 	28	query281_Dieting\S\28
+"In his 1863 pamphlet Addressed to the Public"	"is"	"Letter on Corpulence"	28	query281_Dieting\P\28-0
+"In his 1863 pamphlet"	"be Addressed"	"to the Public"	28	query281_Dieting\P\28-1
+"In his 1863 pamphlet"	"be Addressed"	"to the Public"	28	query281_Dieting\P\28-2
+"In his 1863 pamphlet"	"be Addressed"	"to the Public"	28	query281_Dieting\P\28-3
+"a particular low-carbohydrate low-calorie diet"	"had led"	"to his own dramatic weight loss"	28	query281_Dieting\P\28-4
+"a particular low-carbohydrate low-calorie diet"	"had led"	"to his own dramatic weight loss"	28	query281_Dieting\P\28-5
+Jennifer Petrelli ; Kathleen Y . 	29	query281_Dieting\S\29
+Wolin Obesity ( Biographies of Disease ) Greenwood Westport , Conn 2009 11 0-313-35275-5 Jennifer Petrelli ; Kathleen Y . 	30	query281_Dieting\S\30
+"Greenwood Westport Kathleen Y"	"is"	"Conn 2009 11 0-313-35275-5 Jennifer Petrelli"	30	query281_Dieting\P\30-0
+Wolin Obesity ( Biographies of Disease ) Greenwood Westport , Conn 2009 11 0-313-35275-5 Low-fat diet Low-fat diets involve the reduction of the percentage of fat in one 's diet . 	31	query281_Dieting\S\31
+"Greenwood Westport"	"is"	"Conn 2009 11 0-313-35275-5 Low-fat diet Low-fat diets"	31	query281_Dieting\P\31-0
+"Greenwood Westport"	"involve"	"the reduction of the percentage of fat in one 's diet"	31	query281_Dieting\P\31-1
+"Greenwood Westport"	"involve"	"the reduction of the percentage of fat in one 's diet"	31	query281_Dieting\P\31-2
+Calorie consumption is reduced because less fat is consumed . 	32	query281_Dieting\S\32
+"Calorie consumption"	"is reduced"	"because less fat is consumed"	32	query281_Dieting\P\32-0
+Diets of this type include NCEP Step I and II . 	33	query281_Dieting\S\33
+"Diets of this type"	"include"	"NCEP Step I"	33	query281_Dieting\P\33-0
+"Diets of this type"	"include"	"NCEP Step II"	33	query281_Dieting\P\33-1
+A meta-analysis of 16 trials of 2–12&nbsp;months ' duration found that low-fat diets ( without intentional restriction of caloric intake ) resulted in average weight loss of 3.2&nbsp;kg 	34	query281_Dieting\S\34
+"months"	"has"	"duration"	12	query281_Dieting\P\34-0
+"months ' duration"	"found"	"that low-fat diets without intentional restriction of caloric intake resulted in average weight loss of 3.2 kg"	12	query281_Dieting\P\34-1
+"low-fat diets without intentional restriction of caloric intake"	"resulted"	"in average weight loss of 3.2 kg"	12	query281_Dieting\P\34-2
+( 7.1&nbsp;lb 	35	query281_Dieting\S\35
+) over habitual eating . 	36	query281_Dieting\S\36
+Low-carbohydrate diet Low carbohydrate diets such as Atkins and Protein Power are relatively high in protein . 	37	query281_Dieting\S\37
+"Low-carbohydrate diet Low carbohydrate diets such as Atkins"	"are high"	"relatively"	37	query281_Dieting\P\37-0
+"Low-carbohydrate diet Low carbohydrate diets such as Protein Power"	"are high"	"relatively"	37	query281_Dieting\P\37-1
+"Low-carbohydrate diet Low carbohydrate diets such as Atkins"	"are high"	"in protein"	37	query281_Dieting\P\37-2
+"Low-carbohydrate diet Low carbohydrate diets such as Protein Power"	"are high"	"in protein"	37	query281_Dieting\P\37-3
+"Low-carbohydrate diet Low carbohydrate diets such as Atkins"	"are"	"high"	37	query281_Dieting\P\37-4
+"Low-carbohydrate diet Low carbohydrate diets such as Protein Power"	"are"	"high"	37	query281_Dieting\P\37-5
+Low-carbohydrate diets are sometimes ketogenic ( i .e 	38	query281_Dieting\S\38
+. 	39	query281_Dieting\S\39
+they restrict carbohydrate intake sufficiently to cause ketosis ) . 	40	query281_Dieting\S\40
+they restrict carbohydrate intake sufficiently to cause ketosis ) . 	40	query281_Dieting\S\40
+"carbohydrate intake"	"be cause"	"sufficiently ketosis"	40	query281_Dieting\P\40-0
+Calorie restriction Low-calorie diets usually produce an energy deficit of 500–1,000 calories per day , which can result in a 0.5&nbsp;kilogram 	41	query281_Dieting\S\41
+"Calorie restriction Low-calorie diets"	"produce"	"an energy deficit of 500 1,000 calories per day usually"	41	query281_Dieting\P\41-0
+"Calorie restriction Low-calorie diets"	"produce"	"an energy deficit of 500 1,000 calories per day"	41	query281_Dieting\P\41-1
+"1,000 calories per day"	"can result"	"in a 0.5 kilogram"	41	query281_Dieting\P\41-2
+( 1.1&nbsp;lb 	42	query281_Dieting\S\42
+) to 1&nbsp;kilogram ( 2.2&nbsp;lb 	43	query281_Dieting\S\43
+) weight loss per week . 	44	query281_Dieting\S\44
+Amongst some of the most commonly used low-calorie diets include DASH diet , Diet to Go , and Weight Watchers . 	45	query281_Dieting\S\45
+"some of the most commonly used low-calorie diets"	"include"	"DASH diet"	45	query281_Dieting\P\45-0
+"some of the most commonly used low-calorie diets"	"include"	"DASH Weight Watchers"	45	query281_Dieting\P\45-1
+"some of the most commonly used low-calorie diets"	"include"	"DASH Weight Watchers"	45	query281_Dieting\P\45-2
+"some of the most commonly used low-calorie diets"	"include"	"DASH Weight Watchers"	45	query281_Dieting\P\45-3
+The National Institutes of Health reviewed 34 randomized controlled trial to determine the effectiveness of low-calorie diets . 	46	query281_Dieting\S\46
+"The National Institutes of Health reviewed 34 randomized controlled trial"	"be determine"	"the effectiveness of low-calorie diets"	46	query281_Dieting\P\46-0
+They found that these diets lowered total body mass by 8 % in the short term , over 3–12 months . 	47	query281_Dieting\S\47
+They found that these diets lowered total body mass by 8 % in the short term , over 3–12 months . 	47	query281_Dieting\S\47
+"these diets"	"lowered"	"total body mass by 8 %"	47	query281_Dieting\P\47-0
+"these diets"	"lowered"	"total body mass in the short term"	47	query281_Dieting\P\47-1
+"these diets"	"lowered"	"total body mass over 3"	47	query281_Dieting\P\47-2
+"these diets"	"lowered"	"total body mass 12 months"	47	query281_Dieting\P\47-3
+"these diets"	"lowered"	"total body mass"	47	query281_Dieting\P\47-4
+Very low calorie diet Very low calorie diets provide 200–800 calories per day , maintaining protein intake but limiting calories from both fat and carbohydrates . 	48	query281_Dieting\S\48
+"Very low calorie diet"	"Very low calorie diets provide"	"200 800 calories per day maintaining protein intake"	48	query281_Dieting\P\48-0
+"Very low calorie diet"	"Very low calorie diets provide"	"200 800 calories per day protein intake limiting calories from fat"	48	query281_Dieting\P\48-1
+"Very low calorie diet"	"Very low calorie diets provide"	"200 800 calories per day protein intake limiting calories from carbohydrates"	48	query281_Dieting\P\48-2
+"Very low calorie diets"	"48 Very low calorie diet provide"	"200 800 calories per day maintaining protein intake"	48	query281_Dieting\P\48-3
+"Very low calorie diets"	"48 Very low calorie diet provide"	"200 800 calories per day protein intake limiting calories from fat"	48	query281_Dieting\P\48-4
+"Very low calorie diets"	"48 Very low calorie diet provide"	"200 800 calories per day protein intake limiting calories from carbohydrates"	48	query281_Dieting\P\48-5
+They subject the body to starvation and produce an average weekly weight loss of 1.5–2.5&nbsp;kilograms 	49	query281_Dieting\S\49
+They subject the body to starvation and produce an average weekly weight loss of 1.5–2.5&nbsp;kilograms 	49	query281_Dieting\S\49
+They subject the body to starvation and produce an average weekly weight loss of 1.5–2.5&nbsp;kilograms 	49	query281_Dieting\S\49
+They subject the body to starvation and produce an average weekly weight loss of 1.5–2.5&nbsp;kilograms 	49	query281_Dieting\S\49
+They subject the body to starvation and produce an average weekly weight loss of 1.5–2.5&nbsp;kilograms 	49	query281_Dieting\S\49
+( 3.3–5.5&nbsp;lb 	50	query281_Dieting\S\50
+) . 	51	query281_Dieting\S\51
+"2-4-6-8" , a popular diet of this variety , follows a four-day cycle in which only 200 calories are consumed the first day , 400 the second day , 600 the third day , 800 the fourth day , and then the cycle repeats . 	52	query281_Dieting\S\52
+"2-4-6-8" , a popular diet of this variety , follows a four-day cycle in which only 200 calories are consumed the first day , 400 the second day , 600 the third day , 800 the fourth day , and then the cycle repeats . 	52	query281_Dieting\S\52
+"a popular diet of this variety"	"2-4-6-8 follows"	"a four-day cycle"	52	query281_Dieting\P\52-0
+"a four-day cycle"	"is"	"400 the second day"	52	query281_Dieting\P\52-1
+"a four-day cycle"	"is"	"400 the second then the cycle repeats"	52	query281_Dieting\P\52-2
+"only 200 calories"	"are consumed"	"a four-day cycle in which"	52	query281_Dieting\P\52-3
+"only 200 calories"	"are consumed"	"the first day a four-day cycle"	52	query281_Dieting\P\52-4
+"only 200 calories"	"are consumed"	"a four-day cycle"	52	query281_Dieting\P\52-5
+"the second day"	"is"	"600 the third day"	400	query281_Dieting\P\52-6
+"the second then the cycle repeats"	"is"	"600 the third day"	400	query281_Dieting\P\52-7
+"the second day"	"is"	"800 the fourth day"	400	query281_Dieting\P\52-8
+"the second then the cycle repeats"	"is"	"800 the fourth day"	400	query281_Dieting\P\52-9
+These diets are not recommended for general use as they are associated with adverse side effect such as loss of lean muscle mass , increased risks of gout , and electrolyte imbalance . 	53	query281_Dieting\S\53
+"These diets"	"are not recommended"	"for general use as they are associated with adverse side effect such as loss of lean muscle mass"	53	query281_Dieting\P\53-0
+"These diets"	"are not recommended"	"for general use"	53	query281_Dieting\P\53-1
+"These diets"	"are not electrolyte imbalance"	"for general use"	53	query281_Dieting\P\53-2
+"These diets"	"are not electrolyte imbalance"	"as they are associated with adverse side effect such as loss of lean muscle mass"	53	query281_Dieting\P\53-3
+"These diets"	"are not increased risks"	"of gout for general use"	53	query281_Dieting\P\53-4
+"These diets"	"are not increased risks"	"of gout as they are associated with adverse side effect such as loss of lean muscle mass"	53	query281_Dieting\P\53-5
+"These diets"	"are not increased risks"	"of gout"	53	query281_Dieting\P\53-6
+"These diets"	"are not increased risks"	"of gout"	53	query281_Dieting\P\53-7
+People attempting these diets must be monitored closely by a physician to prevent complications . 	54	query281_Dieting\S\54
+"People"	"be attempting"	"these diets"	54	query281_Dieting\P\54-0
+"People attempting these diets"	"must be monitored"	"closely to prevent complications"	54	query281_Dieting\P\54-1
+"People attempting these diets"	"must be monitored"	"by a physician to prevent complications"	54	query281_Dieting\P\54-2
+"People attempting these diets"	"must be monitored"	"to prevent complications"	54	query281_Dieting\P\54-3
+Each pound of body fat is maintained by less than one extra calorie per hour . 	55	query281_Dieting\S\55
+"Each pound of body fat"	"is maintained"	"by less than one extra calorie per hour"	55	query281_Dieting\P\55-0
+In general , obesity is not a condition maintained by overeating ; obesity is a condition brought about and maintained by eating a few too many calories , consistently . 	56	query281_Dieting\S\56
+"In general"	"is"	"obesity"	56	query281_Dieting\P\56-0
+"In general"	"is not a condition"	"maintained by overeating"	56	query281_Dieting\P\56-1
+"In general"	"is not"	"a condition"	56	query281_Dieting\P\56-2
+"not a condition"	"be maintained"	"by overeating"	56	query281_Dieting\P\56-3
+"a condition"	"be brought"	"about by eating a few too many calories consistently"	56	query281_Dieting\P\56-4
+"a condition"	"be brought"	"maintained by eating a few too many calories consistently"	56	query281_Dieting\P\56-5
+"a condition"	"be brought"	"about"	56	query281_Dieting\P\56-6
+"a condition"	"be brought"	"maintained"	56	query281_Dieting\P\56-7
+"a condition"	"be brought"	"maintained"	56	query281_Dieting\P\56-8
+"a condition"	"be brought"	"maintained"	56	query281_Dieting\P\56-9
+"a condition"	"be brought"	"maintained"	56	query281_Dieting\P\56-10
+As a practical example , eating twenty-five hamburgers a year that are Burger King Whoppers rather than twenty-five McDonald Quarter Pounders can cause a weight gain of more than one and one-half pounds in that year . 	57	query281_Dieting\S\57
+"As a practical example"	"be eating"	"twenty-five hamburgers a year"	57	query281_Dieting\P\57-0
+"twenty-five hamburgers a year"	"are"	"Burger King Whoppers"	57	query281_Dieting\P\57-1
+"twenty-five hamburgers a year"	"are"	"Burger King twenty-five McDonald Quarter Pounders"	57	query281_Dieting\P\57-2
+"As a practical example eating twenty-five hamburgers a year"	"can cause"	"a weight gain of more than one in that year"	57	query281_Dieting\P\57-3
+"As a practical example eating twenty-five hamburgers a year"	"can cause"	"a weight gain of more than one-half pounds in that year"	57	query281_Dieting\P\57-4
+Twenty-five hamburgers represent 2 % of yearly allotment of three meals a day . 	58	query281_Dieting\S\58
+"Twenty-five hamburgers"	"represent"	"2 % of yearly allotment of three meals a day"	58	query281_Dieting\P\58-0
+Making comparable choices at every meal for one year could yield an eighty-two-pound difference in body weight . 	59	query281_Dieting\S\59
+Making comparable choices at every meal for one year could yield an eighty-two-pound difference in body weight . 	59	query281_Dieting\S\59
+Making comparable choices at every meal for one year could yield an eighty-two-pound difference in body weight . 	59	query281_Dieting\S\59
+"Making comparable choices at every meal for one year"	"could yield"	"an eighty-two-pound difference in body weight"	59	query281_Dieting\P\59-0
+Feiden , Margo . 	60	query281_Dieting\S\60
+"Feiden"	"is"	"Margo"	60	query281_Dieting\P\60-0
+" Margo Feiden 's The Calorie Factor , " Simon &amp; Schuster Inc. 	61	query281_Dieting\S\61
+"Margo Feiden"	"has"	"61 The Calorie Factor"	61	query281_Dieting\P\61-0
+, 1989 , pp.11-13 	62	query281_Dieting\S\62
+, 1989 , pp.11-13 	62	query281_Dieting\S\62
+, 1989 , pp.11-13 	62	query281_Dieting\S\62
+. 	63	query281_Dieting\S\63
+Detox diet Detox diets claim to eliminate undesirable " toxins " from the human body rather than claiming to cause weight loss . 	64	query281_Dieting\S\64
+"Detox diet Detox diets"	"claim"	"to eliminate undesirable toxins from the human body"	64	query281_Dieting\P\64-0
+"Detox diet Detox diets"	"claim"	"to eliminate undesirable toxins rather than claiming to cause weight loss"	64	query281_Dieting\P\64-1
+"Detox diet Detox diets"	"claim"	"to eliminate undesirable toxins"	64	query281_Dieting\P\64-2
+Many of these use herbs and other homeopathic remedies , such as dandelion root ( for liver filtering ) and celery and other juicy low - calorie vegetables ( for salt absorption ) . 	65	query281_Dieting\S\65
+Weight loss typically involves the loss of fat , water and muscle . 	66	query281_Dieting\S\66
+"Weight loss"	"involves"	"the loss of fat typically"	66	query281_Dieting\P\66-0
+"Weight loss"	"involves"	"the loss of water typically"	66	query281_Dieting\P\66-1
+"Weight loss"	"involves"	"the loss of muscle typically"	66	query281_Dieting\P\66-2
+"Weight loss"	"involves"	"the loss of fat"	66	query281_Dieting\P\66-3
+"Weight loss"	"involves"	"the loss of water"	66	query281_Dieting\P\66-4
+"Weight loss"	"involves"	"the loss of muscle"	66	query281_Dieting\P\66-5
+Overweight people , or people suffering from obesity , typically aim to reduce the percentage of body fat . 	67	query281_Dieting\S\67
+"Overweight people"	"is"	"typically aim to reduce the percentage of body fat"	67	query281_Dieting\P\67-0
+"Overweight people suffering from obesity"	"is"	"typically aim to reduce the percentage of body fat"	67	query281_Dieting\P\67-1
+"Overweight people suffering from obesity"	"is"	"typically aim to reduce the percentage of body fat"	67	query281_Dieting\P\67-2
+"typically aim"	"be reduce"	"the percentage of body fat"	67	query281_Dieting\P\67-3
+Additionally , as muscle tissue is denser than fat , fat loss results in increased loss of body volume compared with muscle loss . 	68	query281_Dieting\S\68
+"Additionally as muscle tissue"	"is fat loss results"	"in increased loss of body volume compared with muscle loss denser than fat"	68	query281_Dieting\P\68-0
+"Additionally as muscle tissue"	"is fat loss results"	"in increased loss of body volume compared with muscle loss"	68	query281_Dieting\P\68-1
+"fat loss"	"68 Additionally as muscle tissue is results"	"in increased loss of body volume compared with muscle loss denser than fat"	68	query281_Dieting\P\68-2
+"fat loss"	"68 Additionally as muscle tissue is results"	"in increased loss of body volume compared with muscle loss"	68	query281_Dieting\P\68-3
+Reducing even 10 % body fat can therefore have a dramatic effect on a person 's body shape . 	69	query281_Dieting\S\69
+Reducing even 10 % body fat can therefore have a dramatic effect on a person 's body shape . 	69	query281_Dieting\S\69
+"Reducing even 10 % body fat"	"can have"	"a dramatic effect therefore"	69	query281_Dieting\P\69-0
+"Reducing even 10 % body fat"	"can have"	"a dramatic effect on a person 's body shape"	69	query281_Dieting\P\69-1
+"Reducing even 10 % body fat"	"can have"	"a dramatic effect"	69	query281_Dieting\P\69-2
+"a person"	"has"	"body shape"	69	query281_Dieting\P\69-3
+To determine the proportion of weight loss that is due to decreased fat tissue , various methods of measuring body fat percentage have been developed . 	70	query281_Dieting\S\70
+To determine the proportion of weight loss that is due to decreased fat tissue , various methods of measuring body fat percentage have been developed . 	70	query281_Dieting\S\70
+"weight loss"	"is due"	"to decreased fat tissue"	70	query281_Dieting\P\70-0
+"weight loss"	"is"	"due"	70	query281_Dieting\P\70-1
+"various methods of measuring body fat percentage"	"have been developed"	"70 To determine the proportion of weight loss"	70	query281_Dieting\P\70-2
+Muscle loss during weight loss can be restricted by regularly lifting weights ( or doing push-ups and other strength-oriented calisthenics ) and by maintaining sufficient protein intake . 	71	query281_Dieting\S\71
+"Muscle loss during weight loss"	"can be restricted"	"by regularly lifting weights doing push-ups"	71	query281_Dieting\P\71-0
+"Muscle loss during weight loss"	"can be restricted"	"by regularly lifting weights push-ups other strength-oriented calisthenics"	71	query281_Dieting\P\71-1
+"Muscle loss during weight loss"	"can be by maintaining sufficient protein intake"	"by regularly lifting weights doing push-ups"	71	query281_Dieting\P\71-2
+"Muscle loss during weight loss"	"can be by maintaining sufficient protein intake"	"by regularly lifting weights push-ups other strength-oriented calisthenics"	71	query281_Dieting\P\71-3
+Those on low-carbohydrate diets , and those doing particularly strenuous exercise , may wish to increase their protein intake . 	72	query281_Dieting\S\72
+Those on low-carbohydrate diets , and those doing particularly strenuous exercise , may wish to increase their protein intake . 	72	query281_Dieting\S\72
+"Those on low-carbohydrate diets"	"may wish"	"to increase their protein intake"	72	query281_Dieting\P\72-0
+"on low-carbohydrate diets those doing particularly strenuous exercise"	"may wish"	"to increase their protein intake"	72	query281_Dieting\P\72-1
+"on low-carbohydrate diets those doing particularly strenuous exercise"	"may wish"	"to increase their protein intake"	72	query281_Dieting\P\72-2
+According to the National Academy of Sciences , the Dietary Reference Intake for protein is 0.8&nbsp;grams 	73	query281_Dieting\S\73
+"the Dietary Reference Intake for protein"	"is"	"73 According to the National Academy of Sciences 0.8 grams"	73	query281_Dieting\P\73-0
+per kilogram of body weight for adults . 	74	query281_Dieting\S\74
+Excessive protein intake , though not connected to declined kidney functioning in healthy individuals , http ://www.nutritionandmetabolism.com/content/2/1/25 	75	query281_Dieting\S\75
+"Excessive protein intake www.nutritionandmetabolism.com/content/2/1/25"	"is"	"though not connected to declined kidney functioning in healthy individuals http"	75	query281_Dieting\P\75-0
+"Excessive protein intake www.nutritionandmetabolism.com/content/2/1/25"	"is"	"though not connected to declined kidney functioning in healthy individuals http"	75	query281_Dieting\P\75-1
+http ://www.annals 	76	query281_Dieting\S\76
+.org/content/138/6/460.abstract 	77	query281_Dieting\S\77
+may be harmful to those with certain kidney diseases . 	78	query281_Dieting\S\78
+may be harmful to those with certain kidney diseases . 	78	query281_Dieting\S\78
+may be harmful to those with certain kidney diseases . 	78	query281_Dieting\S\78
+http ://www.americanheart 	79	query281_Dieting\S\79
+.org/presenter 	80	query281_Dieting\S\80
+.jhtml 	81	query281_Dieting\S\81
+?identifier=11234 High-Protein Diets American Heart Association 2007-05-24 http ://www.americanheart 	82	query281_Dieting\S\82
+.org/presenter 	83	query281_Dieting\S\83
+.jhtml 	84	query281_Dieting\S\84
+?identifier=11234 High-Protein Diets American Heart Association 2007-05-24 There is no conclusive evidence that moderately high protein diets in healthy individuals are dangerous ; it has only been shown that these diets are dangerous in individuals already suffering from kidney and liver problems . 	85	query281_Dieting\S\85
+"these diets"	"are dangerous"	"in individuals already suffering from kidney problems"	85	query281_Dieting\P\85-0
+"these diets"	"are dangerous"	"in individuals already suffering from liver problems"	85	query281_Dieting\P\85-1
+"these diets"	"are"	"dangerous"	85	query281_Dieting\P\85-2
+"these diets"	"are"	"dangerous"	85	query281_Dieting\P\85-3
+"these diets"	"are"	"dangerous"	85	query281_Dieting\P\85-4
+"these diets"	"are"	"dangerous"	85	query281_Dieting\P\85-5
+"moderately high protein diets in healthy individuals"	"are"	"dangerous"	85	query281_Dieting\P\85-6
+"moderately high protein diets in healthy individuals"	"are"	"dangerous"	85	query281_Dieting\P\85-7
+"moderately high protein diets in healthy individuals"	"are"	"dangerous"	85	query281_Dieting\P\85-8
+"moderately high protein diets in healthy individuals"	"are"	"dangerous"	85	query281_Dieting\P\85-9
+"moderately high protein diets in healthy individuals"	"are"	"dangerous"	85	query281_Dieting\P\85-10
+The Basal Metabolic Rate , which is the amount of calories the body expends at rest , meaning without performing any physical activity , is influenced by the person 's total weight and total amount of muscle . 	86	query281_Dieting\S\86
+"The Basal Metabolic Rate"	"be meaning"	"without performing any physical activity"	86	query281_Dieting\P\86-0
+"The Basal Metabolic Rate meaning without performing any physical activity"	"is the amount"	"of calories"	86	query281_Dieting\P\86-1
+"The Basal Metabolic Rate meaning without performing any physical activity"	"is"	"the amount"	86	query281_Dieting\P\86-2
+"the body"	"expends"	"at rest calories"	86	query281_Dieting\P\86-3
+"the body"	"expends"	"calories"	86	query281_Dieting\P\86-4
+"The Basal Metabolic Rate meaning without performing any physical activity"	"is influenced"	"by the person 's total weight"	86	query281_Dieting\P\86-5
+"The Basal Metabolic Rate meaning without performing any physical activity"	"is influenced"	"by the person 's total total amount of muscle"	86	query281_Dieting\P\86-6
+"the person"	"has"	"total weight"	86	query281_Dieting\P\86-7
+The more muscle , the more calories a person can burn naturally . 	87	query281_Dieting\S\87
+"The more muscle"	"is"	"the more calories"	87	query281_Dieting\P\87-0
+"a person"	"can burn"	"naturally the more calories"	87	query281_Dieting\P\87-1
+"a person"	"can burn"	"the more calories"	87	query281_Dieting\P\87-2
+When the amount of muscle is increased , then more calories can be ingested without gaining weight . 	88	query281_Dieting\S\88
+"the amount of muscle"	"is increased"	"When"	88	query281_Dieting\P\88-0
+"then more calories"	"can be ingested"	"without gaining weight When the amount of muscle is increased"	88	query281_Dieting\P\88-1
+"then more calories"	"can be ingested"	"without gaining weight"	88	query281_Dieting\P\88-2
+Conversely , if the amount of fat is increased , increasing the number of calories ingested will only add weight . 	89	query281_Dieting\S\89
+Conversely , if the amount of fat is increased , increasing the number of calories ingested will only add weight . 	89	query281_Dieting\S\89
+Conversely , if the amount of fat is increased , increasing the number of calories ingested will only add weight . 	89	query281_Dieting\S\89
+Conversely , if the amount of fat is increased , increasing the number of calories ingested will only add weight . 	89	query281_Dieting\S\89
+Conversely , if the amount of fat is increased , increasing the number of calories ingested will only add weight . 	89	query281_Dieting\S\89
+"increasing the number of calories ingested"	"89 will add"	"weight Conversely"	89	query281_Dieting\P\89-0
+"increasing the number of calories ingested"	"89 will add"	"weight if the amount of fat is increased"	89	query281_Dieting\P\89-1
+"increasing the number of calories ingested"	"89 will add"	"weight only"	89	query281_Dieting\P\89-2
+"increasing the number of calories ingested"	"89 will add"	"weight"	89	query281_Dieting\P\89-3
+http ://jeffthejock .wordpress.com/2007/10/15/bmr-and-fat-loss-vs-muscle-loss/ 	90	query281_Dieting\S\90
+BMR and Fat Loss Vs Muscle Loss 2010-07-26 http ://jeffthejock .wordpress.com/2007/10/15/bmr-and-fat-loss-vs-muscle-loss/ 	91	query281_Dieting\S\91
+BMR and Fat Loss Vs Muscle Loss 2010-07-26 Normally , when people lose weight , they lose a combination of fat and muscle . 	92	query281_Dieting\S\92
+"BMR"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-0
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-1
+"BMR"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-2
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-3
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-4
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-5
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-6
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-7
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-8
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-9
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-10
+"Fat Loss"	"Vs"	"Muscle Loss 2010-07-26"	92	query281_Dieting\P\92-11
+If the diet plan includes a daily caloric intake greater than the basal metabolic rate ( BMR) , the person will most likely lose fat . 	93	query281_Dieting\S\93
+"the diet plan"	"includes"	"a daily caloric intake greater than the basal metabolic rate"	93	query281_Dieting\P\93-0
+"the basal metabolic rate"	"is"	"BMR"	93	query281_Dieting\P\93-1
+In contrast , if the person follows a diet that includes a lower caloric intake than the BMR , this person will lose fat but also a higher percentage of muscle . 	94	query281_Dieting\S\94
+"the person"	"follows"	"a diet"	94	query281_Dieting\P\94-0
+"the person"	"follows"	"a diet"	94	query281_Dieting\P\94-1
+"a diet"	"includes"	"a lower caloric intake than the BMR"	94	query281_Dieting\P\94-2
+"this person"	"will lose"	"fat"	94	query281_Dieting\P\94-3
+"this person"	"will also"	"fat"	94	query281_Dieting\P\94-4
+April 2011 Severe diets may make people lose 50 % fat and 50 % muscle weight thus affecting their metabolism because by losing muscle the BMR is affected . 	95	query281_Dieting\S\95
+"April 2011 Severe diets"	"may make"	"people lose 50 % fat thus affecting their metabolism because by losing muscle the BMR"	95	query281_Dieting\P\95-0
+"April 2011 Severe diets"	"may make"	"people lose 50 % 50 % muscle weight thus affecting their metabolism because by losing muscle the BMR"	95	query281_Dieting\P\95-1
+"April 2011 Severe diets"	"may make"	"people lose 50 % 50 % muscle weight thus affecting their metabolism because by losing muscle the BMR"	95	query281_Dieting\P\95-2
+"April 2011 Severe diets"	"may make"	"people lose 50 % 50 % muscle weight thus affecting their metabolism because by losing muscle the BMR"	95	query281_Dieting\P\95-3
+"April 2011 Severe diets"	"may make"	"people lose 50 % 50 % muscle weight thus affecting their metabolism because by losing muscle the BMR"	95	query281_Dieting\P\95-4
+"April 2011 Severe diets"	"may make"	"people lose 50 % 50 % muscle weight thus affecting their metabolism because by losing muscle the BMR"	95	query281_Dieting\P\95-5
+"April 2011 Severe diets"	"may make"	"people lose 50 % 50 % muscle weight thus affecting their metabolism because by losing muscle the BMR"	95	query281_Dieting\P\95-6
+Maintaining muscle mass while losing fat is therefore a key factor to reach both the ideal weight and body composition . 	96	query281_Dieting\S\96
+"losing fat"	"is a key factor"	"therefore"	96	query281_Dieting\P\96-0
+"losing fat"	"is a key factor"	"to reach the ideal weight composition"	96	query281_Dieting\P\96-1
+"losing fat"	"is a key factor"	"to reach the ideal body composition"	96	query281_Dieting\P\96-2
+"losing fat"	"is"	"a key factor"	96	query281_Dieting\P\96-3
+"while therefore a key factor"	"be reach"	"the ideal weight composition"	96	query281_Dieting\P\96-4
+"while therefore a key factor"	"be reach"	"the ideal body composition"	96	query281_Dieting\P\96-5
+To achieve this goal , experts advise not to reduce carbohydrates aggressively . 	97	query281_Dieting\S\97
+To achieve this goal , experts advise not to reduce carbohydrates aggressively . 	97	query281_Dieting\S\97
+To achieve this goal , experts advise not to reduce carbohydrates aggressively . 	97	query281_Dieting\S\97
+To achieve this goal , experts advise not to reduce carbohydrates aggressively . 	97	query281_Dieting\S\97
+Fat can be lost by reducing the calorie intake by 20 % of daily needs for two days . 	98	query281_Dieting\S\98
+"Fat"	"can be lost"	"by reducing the calorie intake by 20 % of daily needs for two days"	98	query281_Dieting\P\98-0
+August 2010 This reduced calorie intake , even in the presence of 100 % carbohydrate consumption , allows for reduction of fat without muscle loss because the glycogen in the muscle is properly replenished . 	99	query281_Dieting\S\99
+"August 2010 This reduced calorie intake even in the presence of 100 % carbohydrate consumption"	"allows"	"for reduction of fat without muscle loss because the glycogen in the muscle is properly replenished"	99	query281_Dieting\P\99-0
+"August 2010 This reduced calorie intake even in the presence of 100 % carbohydrate consumption"	"allows"	"for reduction of fat without muscle loss"	99	query281_Dieting\P\99-1
+"the glycogen in the muscle"	"is replenished"	"properly"	99	query281_Dieting\P\99-2
+http ://healing .about.com/cs/uc_directory/a/fatlosscoach_2.htm 	100	query281_Dieting\S\100
+Keys to losing fat without losing muscle 2010-07-26 http ://healing .about.com/cs/uc_directory/a/fatlosscoach_2.htm 	101	query281_Dieting\S\101
+Keys to losing fat without losing muscle 2010-07-26 Exercising on days when the highest amount of carbohydrates is consumed , 1.5 	102	query281_Dieting\S\102
+"the highest amount of carbohydrates"	"is consumed"	"days when"	102	query281_Dieting\P\102-0
+"the highest amount of carbohydrates"	"is consumed"	"days"	102	query281_Dieting\P\102-1
+to 2 hours after eating , is also helpful to achieve a balanced fat reduction in the absence of muscle loss . 	103	query281_Dieting\S\103
+"to 2 hours after eating"	"is helpful"	"also to achieve a balanced fat reduction in the absence of muscle loss"	103	query281_Dieting\P\103-0
+"to 2 hours after eating"	"is helpful"	"to achieve a balanced fat reduction in the absence of muscle loss"	103	query281_Dieting\P\103-1
+Within this window of time , sugar and insulin levels are undergoing a slow decline . 	104	query281_Dieting\S\104
+"sugar levels"	"are undergoing"	"a slow decline 104 Within this window of time"	104	query281_Dieting\P\104-0
+"insulin levels"	"are undergoing"	"a slow decline 104 Within this window of time"	104	query281_Dieting\P\104-1
+When insulin levels start dropping , the pancreas then produces the hormone glucagon while releasing nutrients stored in the fat cells to the blood to be turned into energy . 	105	query281_Dieting\S\105
+"insulin levels"	"start"	"dropping 105 When"	105	query281_Dieting\P\105-0
+"insulin levels"	"start"	"dropping 105"	105	query281_Dieting\P\105-1
+"the pancreas"	"produces"	"the hormone glucagon while releasing nutrients stored in the fat cells to the blood to be turned into energy"	105	query281_Dieting\P\105-2
+"the pancreas"	"produces"	"the hormone glucagon"	105	query281_Dieting\P\105-3
+"the pancreas"	"produces"	"the hormone glucagon"	105	query281_Dieting\P\105-4
+"the pancreas"	"produces"	"the hormone glucagon"	105	query281_Dieting\P\105-5
+"the pancreas"	"produces"	"the hormone glucagon"	105	query281_Dieting\P\105-6
+"stored in the fat cells to the blood"	"be turned"	"into energy"	105	query281_Dieting\P\105-7
+Conversely , if blood sugar levels suffer a high increase , insulin feeds the muscle cells and deposits excess into fat cells . 	106	query281_Dieting\S\106
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-0
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-1
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-2
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-3
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-4
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-5
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-6
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-7
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-8
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-9
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-10
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-11
+"blood sugar levels"	"suffer"	"a high increase"	106	query281_Dieting\P\106-12
+Furthermore , if insulin levels decrease too much , the muscle cells do not receive the appropriate amount of food they require . 	107	query281_Dieting\S\107
+"insulin levels"	"decrease"	"too much"	107	query281_Dieting\P\107-0
+"the muscle cells"	"do not receive"	"the appropriate amount of food 107 Furthermore"	107	query281_Dieting\P\107-1
+"the muscle cells"	"do not receive"	"the appropriate amount of food if insulin levels decrease too much"	107	query281_Dieting\P\107-2
+"the muscle cells"	"do not receive"	"the appropriate amount of food"	107	query281_Dieting\P\107-3
+"the muscle cells"	"do not receive"	"the appropriate amount of food"	107	query281_Dieting\P\107-4
+There should always be a meal left during the day after exercising to allow the muscles to recover from exercise . 	108	query281_Dieting\S\108
+"There should always be a meal"	"left"	"during the day after exercising to allow the muscles to recover from exercise"	108	query281_Dieting\P\108-0
+"There should always be a meal"	"left"	"during the day"	108	query281_Dieting\P\108-1
+The energy intake from food is limited by the efficiency of digestion and the efficiency of utilization . 	109	query281_Dieting\S\109
+"The energy intake from food"	"is limited"	"by the efficiency of digestion"	109	query281_Dieting\P\109-0
+"The energy intake from food"	"is limited"	"by the of digestion the efficiency of utilization"	109	query281_Dieting\P\109-1
+The efficiency of digestion is largely dependent on the type of food being eaten , while efficiency of utilization is affected by a variety of factors , including age , gender , body weight , hormone levels , and many more . 	110	query281_Dieting\S\110
+"The efficiency of digestion"	"is dependent"	"largely"	110	query281_Dieting\P\110-0
+"The efficiency of digestion"	"is dependent"	"on the type of food being eaten"	110	query281_Dieting\P\110-1
+"The efficiency of digestion"	"is dependent"	"while efficiency of utilization is affected by a variety of factors including age"	110	query281_Dieting\P\110-2
+"The efficiency of digestion"	"is dependent"	"while efficiency of utilization is affected by a variety of factors including gender"	110	query281_Dieting\P\110-3
+"The efficiency of digestion"	"is dependent"	"while efficiency of utilization is affected by a variety of factors including body weight"	110	query281_Dieting\P\110-4
+"The efficiency of digestion"	"is dependent"	"while efficiency of utilization is affected by a variety of factors including hormone levels"	110	query281_Dieting\P\110-5
+"The efficiency of digestion"	"is dependent"	"while efficiency of utilization is affected by a variety of factors including many more"	110	query281_Dieting\P\110-6
+"The efficiency of digestion"	"is"	"dependent"	110	query281_Dieting\P\110-7
+"efficiency of utilization"	"is affected"	"by a variety of factors including age"	110	query281_Dieting\P\110-8
+"efficiency of utilization"	"is affected"	"by a variety of factors including gender"	110	query281_Dieting\P\110-9
+"efficiency of utilization"	"is affected"	"by a variety of factors including body weight"	110	query281_Dieting\P\110-10
+"efficiency of utilization"	"is affected"	"by a variety of factors including hormone levels"	110	query281_Dieting\P\110-11
+"efficiency of utilization"	"is affected"	"by a variety of factors including many more"	110	query281_Dieting\P\110-12
+Chewing , especially in the elderly , has been shown to increase the intake of micronutrient . 	111	query281_Dieting\S\111
+"Chewing especially in the elderly"	"has been shown"	"to increase the intake of micronutrient"	111	query281_Dieting\P\111-0
+However , the effect of chewing on the intake of macronutrient , such as sugars , fats , and proteins has not been observed . 	112	query281_Dieting\S\112
+"the effect of chewing on the intake of macronutrient such as sugars"	"has not been observed"	"112 However"	112	query281_Dieting\P\112-0
+"the effect of chewing on the intake of macronutrient such as fats"	"has not been observed"	"112 However"	112	query281_Dieting\P\112-1
+"the effect of chewing on the intake of macronutrient such as proteins"	"has not been observed"	"112 However"	112	query281_Dieting\P\112-2
+Ildebrando appollonio , Corrado Carabellese , Alessandra Frattola , Marco Trabucchi : " Influence of dental status on dietary intake and survival in community-dwelling elderly subjects " . 	113	query281_Dieting\S\113
+"Ildebrando appollonio Influence of dental status on dietary intake in community-dwelling elderly subjects"	"is"	"Marco Trabucchi"	113	query281_Dieting\P\113-0
+"Ildebrando Corrado Carabellese Influence of dental status on dietary intake in community-dwelling elderly subjects"	"is"	"Marco Trabucchi"	113	query281_Dieting\P\113-1
+"Ildebrando Corrado Carabellese Influence of dental status on dietary survival in community-dwelling elderly subjects"	"is"	"Marco Trabucchi"	113	query281_Dieting\P\113-2
+"Ildebrando Alessandra Frattola Influence of dental status on dietary intake in community-dwelling elderly subjects"	"is"	"Marco Trabucchi"	113	query281_Dieting\P\113-3
+"Ildebrando Alessandra Frattola Influence of dental status on dietary survival in community-dwelling elderly subjects"	"is"	"Marco Trabucchi"	113	query281_Dieting\P\113-4
+"Ildebrando appollonio Influence of dental status on dietary survival in community-dwelling elderly subjects"	"is"	"Marco Trabucchi"	113	query281_Dieting\P\113-5
+Oxford University Press , 1997 . 	114	query281_Dieting\S\114
+Food provides nutrients from six broad classes : protein , fat , carbohydrate , vitamin , dietary mineral , and water . 	115	query281_Dieting\S\115
+"Food"	"provides"	"nutrients from six broad classes"	115	query281_Dieting\P\115-0
+"Food"	"provides"	"nutrients from six broad classes"	115	query281_Dieting\P\115-1
+"Food"	"provides"	"nutrients from six broad classes"	115	query281_Dieting\P\115-2
+"Food"	"provides"	"nutrients from six broad classes"	115	query281_Dieting\P\115-3
+"Food"	"provides"	"nutrients from six broad classes"	115	query281_Dieting\P\115-4
+"Food"	"provides"	"nutrients from six broad classes"	115	query281_Dieting\P\115-5
+"Food"	"provides"	"nutrients"	115	query281_Dieting\P\115-6
+"Food"	"provides"	"nutrients"	115	query281_Dieting\P\115-7
+"Food"	"provides"	"nutrients"	115	query281_Dieting\P\115-8
+"Food"	"provides"	"nutrients"	115	query281_Dieting\P\115-9
+"Food"	"provides"	"nutrients"	115	query281_Dieting\P\115-10
+"Food"	"provides"	"nutrients"	115	query281_Dieting\P\115-11
+Carbohydrates are metabolized to provide energy . 	116	query281_Dieting\S\116
+"Carbohydrates"	"are metabolized"	"to provide energy"	116	query281_Dieting\P\116-0
+Proteins provide amino acid , which are required for cell construction , especially for the construction of muscle cells . 	117	query281_Dieting\S\117
+"Proteins"	"provide"	"amino acid especially for the construction of muscle cells"	117	query281_Dieting\P\117-0
+"Proteins"	"provide"	"amino acid"	117	query281_Dieting\P\117-1
+"amino acid"	"are required"	"for cell construction"	117	query281_Dieting\P\117-2
+Essential fatty acid are required for brain and cell membrane construction . 	118	query281_Dieting\S\118
+"Essential fatty acid"	"are required"	"for brain"	118	query281_Dieting\P\118-0
+"Essential fatty acid"	"are required"	"for cell membrane construction"	118	query281_Dieting\P\118-1
+Vitamins and trace minerals helps to keep good electrolyte balance and are used for metabolic processes . 	119	query281_Dieting\S\119
+"Vitamins"	"helps"	"to keep good electrolyte balance"	119	query281_Dieting\P\119-0
+"trace minerals"	"helps"	"to keep good electrolyte balance"	119	query281_Dieting\P\119-1
+"Vitamins"	"are used"	"to keep good electrolyte balance for metabolic processes"	119	query281_Dieting\P\119-2
+"trace minerals"	"are used"	"to keep good electrolyte balance for metabolic processes"	119	query281_Dieting\P\119-3
+"Vitamins"	"are used"	"to keep good electrolyte balance"	119	query281_Dieting\P\119-4
+"trace minerals"	"are used"	"to keep good electrolyte balance"	119	query281_Dieting\P\119-5
+Dietary fiber also affects one 's health , although it 's not digested into the body . 	120	query281_Dieting\S\120
+"Dietary fiber"	"affects"	"one 's health also"	120	query281_Dieting\P\120-0
+"Dietary fiber"	"affects"	"one 's health although it 's not digested into the body"	120	query281_Dieting\P\120-1
+"Dietary fiber"	"affects"	"one 's health"	120	query281_Dieting\P\120-2
+"Dietary fiber"	"affects"	"one 's health"	120	query281_Dieting\P\120-3
+"Dietary fiber"	"affects"	"one 's health"	120	query281_Dieting\P\120-4
+The National Academy of Sciences and the World Health Organization publish guidelines for dietary intakes of all known essential nutrients . 	121	query281_Dieting\S\121
+"the World Health Organization"	"publish"	"guidelines for dietary intakes of all known essential nutrients"	121	query281_Dieting\P\121-0
+Sometimes dieters will ingest excessive amounts of vitamin and mineral supplements . 	122	query281_Dieting\S\122
+Sometimes dieters will ingest excessive amounts of vitamin and mineral supplements . 	122	query281_Dieting\S\122
+Sometimes dieters will ingest excessive amounts of vitamin and mineral supplements . 	122	query281_Dieting\S\122
+Sometimes dieters will ingest excessive amounts of vitamin and mineral supplements . 	122	query281_Dieting\S\122
+Sometimes dieters will ingest excessive amounts of vitamin and mineral supplements . 	122	query281_Dieting\S\122
+While this is usually harmless , some nutrients are dangerous . 	123	query281_Dieting\S\123
+While this is usually harmless , some nutrients are dangerous . 	123	query281_Dieting\S\123
+While this is usually harmless , some nutrients are dangerous . 	123	query281_Dieting\S\123
+"some nutrients"	"are 123 dangerous"	"While this is usually harmless"	123	query281_Dieting\P\123-0
+"some nutrients"	"are"	"123 dangerous"	123	query281_Dieting\P\123-1
+Men ( and women who do n't menstruate ) need to be wary of iron poisoning . 	124	query281_Dieting\S\124
+"Men women"	"need"	"to be wary of iron poisoning"	124	query281_Dieting\P\124-0
+"Men women"	"need"	"to be wary"	124	query281_Dieting\P\124-1
+August 2010 Retinol ( oil-soluble vitamin A) is toxic in large doses . 	125	query281_Dieting\S\125
+"August 2010 Retinol"	"is"	"oil-soluble vitamin A"	125	query281_Dieting\P\125-0
+"August 2010 Retinol"	"is toxic"	"in large doses"	125	query281_Dieting\P\125-1
+"August 2010 Retinol"	"is"	"toxic"	125	query281_Dieting\P\125-2
+Vitamin E supplements have been found in some studies to increase mortality , congenital heart defects in offspring and an increased risk of stroke ( see the corresponding article ) . 	126	query281_Dieting\S\126
+"Vitamin E supplements"	"have been found"	"in some studies to increase mortality"	126	query281_Dieting\P\126-0
+"some studies"	"be increase"	"mortality"	126	query281_Dieting\P\126-1
+"some studies"	"be increase"	"mortality"	126	query281_Dieting\P\126-2
+"some studies"	"be increase"	"mortality"	126	query281_Dieting\P\126-3
+August 2010 Most people can obtain their nutritional needs from their diet . 	127	query281_Dieting\S\127
+"August 2010 Most people"	"can obtain"	"their nutritional needs from their diet"	127	query281_Dieting\P\127-0
+"August 2010 Most people"	"can obtain"	"their nutritional needs"	127	query281_Dieting\P\127-1
+"August 2010 Most people"	"can obtain"	"their nutritional needs"	127	query281_Dieting\P\127-2
+"August 2010 Most people"	"can obtain"	"their nutritional needs"	127	query281_Dieting\P\127-3
+In any event , a multivitamin taken once a day will suffice for the majority of the population . 	128	query281_Dieting\S\128
+"In any event"	"is"	"a multivitamin taken once a day will suffice for the majority of the population"	128	query281_Dieting\P\128-0
+"In any event"	"is"	"a multivitamin taken once a day will suffice for the majority of the population"	128	query281_Dieting\P\128-1
+"a day"	"will suffice"	"for the majority of the population once"	128	query281_Dieting\P\128-2
+"a day"	"will suffice"	"for the majority of the population"	128	query281_Dieting\P\128-3
+Weight loss diets that manipulate the proportion of macronutrients ( low-fat , low-carbohydrate , etc. 	129	query281_Dieting\S\129
+"Weight loss diets"	"manipulate"	"the proportion of macronutrients low-fat low-carbohydrate etc."	129	query281_Dieting\P\129-0
+) have not been shown to be any more effective than diets that maintain a typical mix of foods with smaller portions and perhaps some substitutions ( e .g 	130	query281_Dieting\S\130
+. 	131	query281_Dieting\S\131
+low-fat milk , or less salad dressing ) . 	132	query281_Dieting\S\132
+http ://www.aafp.org/afp/20030201/cochrane 	133	query281_Dieting\S\133
+.html 	134	query281_Dieting\S\134
+Extreme diets may , in some cases , lead to malnutrition . 	135	query281_Dieting\S\135
+"Extreme diets"	"may lead"	"to malnutrition in some cases"	135	query281_Dieting\P\135-0
+"Extreme diets"	"may lead"	"to malnutrition"	135	query281_Dieting\P\135-1
+Besides the importance of eating a balanced diet that includes all the necessary nutrients , other factors also contribute to healthy nutrition . 	136	query281_Dieting\S\136
+"a balanced diet"	"includes"	"all the necessary nutrients also contribute to healthy nutrition"	136	query281_Dieting\P\136-0
+"all the necessary nutrients"	"is"	"other factors"	136	query281_Dieting\P\136-1
+"all the necessary nutrients"	"contribute"	"to healthy nutrition also"	136	query281_Dieting\P\136-2
+"all the necessary nutrients"	"contribute"	"to healthy nutrition"	136	query281_Dieting\P\136-3
+As well , drinking sufficient amounts of water can help eliminate toxins and fat . 	137	query281_Dieting\S\137
+"As well drinking sufficient amounts of water"	"can help"	"eliminate toxins"	137	query281_Dieting\P\137-0
+"As well drinking sufficient amounts of water"	"can help"	"eliminate fat"	137	query281_Dieting\P\137-1
+September 2010 Heavily processed and fried foods as well as sweets , junk foods , and alcohol should also be avoided in a healthy diet . 	138	query281_Dieting\S\138
+"September 2010 Heavily processed foods"	"should be avoided"	"in a healthy diet also"	138	query281_Dieting\P\138-0
+"September 2010 Heavily fried foods as well as sweets junk foods and alcohol"	"should be avoided"	"in a healthy diet also"	138	query281_Dieting\P\138-1
+"September 2010 Heavily processed sweets"	"should be avoided"	"in a healthy diet also"	138	query281_Dieting\P\138-2
+"September 2010 Heavily processed sweets junk foods and alcohol"	"should be avoided"	"in a healthy diet also"	138	query281_Dieting\P\138-3
+"September 2010 Heavily processed sweets alcohol"	"should be avoided"	"in a healthy diet also"	138	query281_Dieting\P\138-4
+"September 2010 Heavily processed foods"	"should be avoided"	"in a healthy diet"	138	query281_Dieting\P\138-5
+"September 2010 Heavily fried foods as well as sweets junk foods and alcohol"	"should be avoided"	"in a healthy diet"	138	query281_Dieting\P\138-6
+"September 2010 Heavily processed sweets"	"should be avoided"	"in a healthy diet"	138	query281_Dieting\P\138-7
+"September 2010 Heavily processed sweets junk foods and alcohol"	"should be avoided"	"in a healthy diet"	138	query281_Dieting\P\138-8
+"September 2010 Heavily processed sweets alcohol"	"should be avoided"	"in a healthy diet"	138	query281_Dieting\P\138-9
+http ://www.mikesfitness.com/article_nutrition.php 	139	query281_Dieting\S\139
+Nutrition 2010-07-26 http ://www.mikesfitness.com/article_nutrition.php 	140	query281_Dieting\S\140
+Nutrition 2010-07-26 Also a topic of great importance discussed among nutritionists as well as psychologists is the attitude to weight-loss and the consumption of food in general . 	141	query281_Dieting\S\141
+"Nutrition 2010-07-26"	"a topic"	"of great importance Also"	141	query281_Dieting\P\141-0
+"Nutrition 2010-07-26"	"a topic"	"of great importance discussed among nutritionists"	141	query281_Dieting\P\141-1
+"Nutrition 2010-07-26"	"a topic"	"of great importance discussed among psychologists"	141	query281_Dieting\P\141-2
+"Nutrition 2010-07-26"	"a topic"	"of great importance"	141	query281_Dieting\P\141-3
+"Nutrition 2010-07-26 Also a topic of great importance"	"be discussed"	"among nutritionists"	141	query281_Dieting\P\141-4
+"Nutrition 2010-07-26 Also a topic of great importance"	"be discussed"	"among psychologists"	141	query281_Dieting\P\141-5
+"Nutrition 2010-07-26 Also a topic of great importance discussed among nutritionists"	"is the attitude"	"to weight-loss"	141	query281_Dieting\P\141-6
+"Nutrition 2010-07-26 Also a topic of great importance discussed among nutritionists"	"is the attitude"	"to the consumption of food"	141	query281_Dieting\P\141-7
+"Nutrition 2010-07-26 Also a topic of great importance discussed among psychologists"	"is the attitude"	"to weight-loss"	141	query281_Dieting\P\141-8
+"Nutrition 2010-07-26 Also a topic of great importance discussed among psychologists"	"is the attitude"	"to the consumption of food"	141	query281_Dieting\P\141-9
+"Nutrition 2010-07-26 Also a topic of great importance discussed among nutritionists"	"is the attitude"	"in general"	141	query281_Dieting\P\141-10
+"Nutrition 2010-07-26 Also a topic of great importance discussed among psychologists"	"is the attitude"	"in general"	141	query281_Dieting\P\141-11
+"Nutrition 2010-07-26 Also a topic of great importance discussed among nutritionists"	"is"	"the attitude"	141	query281_Dieting\P\141-12
+"Nutrition 2010-07-26 Also a topic of great importance discussed among psychologists"	"is"	"the attitude"	141	query281_Dieting\P\141-13
+Voicing ideas such as "it 's just one burger " during and after weight loss regimes is discouraged , and often is said on the part of an insecure individual who has reached the unfortunate conclusion that nothing can be done any longer and that any effort to do so is futile . 	142	query281_Dieting\S\142
+Voicing ideas such as "it 's just one burger " during and after weight loss regimes is discouraged , and often is said on the part of an insecure individual who has reached the unfortunate conclusion that nothing can be done any longer and that any effort to do so is futile . 	142	query281_Dieting\S\142
+"Voicing ideas such as it 's just one burger during weight loss regimes"	"is is said"	"on the part of an insecure individual often"	142	query281_Dieting\P\142-0
+"Voicing ideas such as it 's just one burger after weight loss regimes"	"is is said"	"on the part of an insecure individual often"	142	query281_Dieting\P\142-1
+"Voicing ideas such as it 's just one burger during weight loss regimes"	"is is said"	"on the part of an insecure individual"	142	query281_Dieting\P\142-2
+"Voicing ideas such as it 's just one burger after weight loss regimes"	"is is said"	"on the part of an insecure individual"	142	query281_Dieting\P\142-3
+"an insecure individual"	"has reached"	"the unfortunate conclusion that nothing can be done any longer"	142	query281_Dieting\P\142-4
+"an insecure individual"	"has reached"	"the unfortunate conclusion that nothing can be done any that any effort to do so is futile"	142	query281_Dieting\P\142-5
+"an insecure individual"	"has reached"	"the unfortunate conclusion that nothing can be done any that any effort to do so is futile"	142	query281_Dieting\P\142-6
+"an insecure individual"	"has reached"	"the unfortunate conclusion that nothing can be done any that any effort to do so is futile"	142	query281_Dieting\P\142-7
+"any effort to do so"	"is"	"futile"	142	query281_Dieting\P\142-8
+The advice given is , avoid reaching such a conclusion , as not only does it change one 's perception of the effect of excessive amounts of food on the body , but also encourages a 'lack-lustre ' lifestyle and approach to life as a whole . 	143	query281_Dieting\S\143
+"The advice given"	"is"	"avoid reaching such a conclusion as does it change one 's perception of the effect of excessive amounts of food on the body"	143	query281_Dieting\P\143-0
+"The advice given"	"is"	"avoid reaching such a conclusion as does it one 's perception of the effect of excessive amounts of food on the body encourages a lack-lustre lifestyle as a whole"	143	query281_Dieting\P\143-1
+"The advice given"	"is"	"avoid reaching such a conclusion as does it one 's perception of the effect of excessive amounts of food on the body encourages a lack-lustre approach to life as a whole"	143	query281_Dieting\P\143-2
+"The advice given"	"is"	"avoid reaching such a conclusion as does it one 's perception of the effect of excessive amounts of food on the body encourages a lack-lustre approach to life as a whole"	143	query281_Dieting\P\143-3
+"The advice given"	"is"	"avoid reaching such a conclusion as does it one 's perception of the effect of excessive amounts of food on the body encourages a lack-lustre approach to life as a whole"	143	query281_Dieting\P\143-4
+"The advice given"	"is"	"avoid reaching such a conclusion as does it one 's perception of the effect of excessive amounts of food on the body encourages a lack-lustre approach to life as a whole"	143	query281_Dieting\P\143-5
+"The advice given"	"is"	"avoid reaching such a conclusion as does it one 's perception of the effect of excessive amounts of food on the body encourages a lack-lustre approach to life as a whole"	143	query281_Dieting\P\143-6
+"The advice given"	"is"	"avoid reaching such a conclusion as does it one 's perception of the effect of excessive amounts of food on the body encourages a lack-lustre approach to life as a whole"	143	query281_Dieting\P\143-7
+"The advice given"	"is"	"avoid reaching such a conclusion as does it one 's perception of the effect of excessive amounts of food on the body encourages a lack-lustre approach to life as a whole"	143	query281_Dieting\P\143-8
+Nutritionists also agree on the importance of avoiding fats , especially saturated fats , to reduce weight and to be healthier . 	144	query281_Dieting\S\144
+"Nutritionists"	"agree"	"especially saturated fats to reduce weight also"	144	query281_Dieting\P\144-0
+"Nutritionists"	"agree"	"especially saturated fats to weight to be healthier also"	144	query281_Dieting\P\144-1
+"Nutritionists"	"agree"	"on the importance of avoiding fats especially saturated fats to reduce weight"	144	query281_Dieting\P\144-2
+"Nutritionists"	"agree"	"on the importance of avoiding fats especially saturated fats to weight to be healthier"	144	query281_Dieting\P\144-3
+"Nutritionists"	"agree"	"especially saturated fats to reduce weight"	144	query281_Dieting\P\144-4
+"Nutritionists"	"agree"	"especially saturated fats to weight to be healthier"	144	query281_Dieting\P\144-5
+"especially saturated fats to to be healthier"	"be reduce"	"weight"	144	query281_Dieting\P\144-6
+"especially saturated fats"	"be reduce"	"healthier weight"	144	query281_Dieting\P\144-7
+They also agree on the importance of reducing salt intake because commercial foods such as snacks , biscuits , and bread , among others , already contain salt , thus contributing to an excess of salt daily intake . 	145	query281_Dieting\S\145
+They also agree on the importance of reducing salt intake because commercial foods such as snacks , biscuits , and bread , among others , already contain salt , thus contributing to an excess of salt daily intake . 	145	query281_Dieting\S\145
+They also agree on the importance of reducing salt intake because commercial foods such as snacks , biscuits , and bread , among others , already contain salt , thus contributing to an excess of salt daily intake . 	145	query281_Dieting\S\145
+They also agree on the importance of reducing salt intake because commercial foods such as snacks , biscuits , and bread , among others , already contain salt , thus contributing to an excess of salt daily intake . 	145	query281_Dieting\S\145
+They also agree on the importance of reducing salt intake because commercial foods such as snacks , biscuits , and bread , among others , already contain salt , thus contributing to an excess of salt daily intake . 	145	query281_Dieting\S\145
+They also agree on the importance of reducing salt intake because commercial foods such as snacks , biscuits , and bread , among others , already contain salt , thus contributing to an excess of salt daily intake . 	145	query281_Dieting\S\145
+"commercial foods such as snacks among others"	"be contributing"	"to an excess of salt daily intake"	145	query281_Dieting\P\145-0
+"commercial foods such as biscuits among others"	"be contributing"	"to an excess of salt daily intake"	145	query281_Dieting\P\145-1
+"commercial foods such as bread among others"	"be contributing"	"to an excess of salt daily intake"	145	query281_Dieting\P\145-2
+"commercial foods such as snacks among others"	"contain"	"salt already"	145	query281_Dieting\P\145-3
+"commercial foods such as biscuits among others"	"contain"	"salt already"	145	query281_Dieting\P\145-4
+"commercial foods such as bread among others"	"contain"	"salt already"	145	query281_Dieting\P\145-5
+"commercial foods such as snacks among others"	"contain"	"salt thus contributing to an excess of salt daily intake"	145	query281_Dieting\P\145-6
+"commercial foods such as biscuits among others"	"contain"	"salt thus contributing to an excess of salt daily intake"	145	query281_Dieting\P\145-7
+"commercial foods such as bread among others"	"contain"	"salt thus contributing to an excess of salt daily intake"	145	query281_Dieting\P\145-8
+"commercial foods such as snacks among others"	"contain"	"salt"	145	query281_Dieting\P\145-9
+"commercial foods such as biscuits among others"	"contain"	"salt"	145	query281_Dieting\P\145-10
+"commercial foods such as bread among others"	"contain"	"salt"	145	query281_Dieting\P\145-11
+http ://studentaffairs.case 	146	query281_Dieting\S\146
+.edu/health/medical/nutrition 	147	query281_Dieting\S\147
+.html 	148	query281_Dieting\S\148
+Why is Proper Nutrition Important ? 2010-07-26 http ://studentaffairs.case 	149	query281_Dieting\S\149
+.edu/health/medical/nutrition 	150	query281_Dieting\S\150
+.html 	151	query281_Dieting\S\151
+Why is Proper Nutrition Important ? 2010-07-26 MyPyramid Food Guidance System is the result of extensive research performed by the United States Department of Agriculture to revise the original Food Guide Pyramid . 	152	query281_Dieting\S\152
+"2010-07-26 MyPyramid Food Guidance System"	"is the result"	"of extensive research performed by the United States Department of Agriculture"	152	query281_Dieting\P\152-0
+"2010-07-26 MyPyramid Food Guidance System"	"is the result"	"to revise the original Food Guide Pyramid"	152	query281_Dieting\P\152-1
+"2010-07-26 MyPyramid Food Guidance System"	"is"	"the result"	152	query281_Dieting\P\152-2
+"the result of extensive research performed by the United States Department of Agriculture"	"be revise"	"the original Food Guide Pyramid"	152	query281_Dieting\P\152-3
+"extensive research"	"be performed"	"by the United States Department of Agriculture"	152	query281_Dieting\P\152-4
+It offers a wide array of personalized options to help individuals make healthy food choices . 	153	query281_Dieting\S\153
+It offers a wide array of personalized options to help individuals make healthy food choices . 	153	query281_Dieting\S\153
+It offers a wide array of personalized options to help individuals make healthy food choices . 	153	query281_Dieting\S\153
+It offers a wide array of personalized options to help individuals make healthy food choices . 	153	query281_Dieting\S\153
+It offers a wide array of personalized options to help individuals make healthy food choices . 	153	query281_Dieting\S\153
+It also provides advice on physical activity . 	154	query281_Dieting\S\154
+It also provides advice on physical activity . 	154	query281_Dieting\S\154
+It also provides advice on physical activity . 	154	query281_Dieting\S\154
+It also provides advice on physical activity . 	154	query281_Dieting\S\154
+http ://www.mypyramid.gov/guidelines/index 	155	query281_Dieting\S\155
+.html 	156	query281_Dieting\S\156
+Dietary Guidelines 2010-07-26 http ://www.mypyramid.gov/guidelines/index 	157	query281_Dieting\S\157
+.html 	158	query281_Dieting\S\158
+Dietary Guidelines 2010-07-26 All body processes require energy in order to function properly . 	159	query281_Dieting\S\159
+"2010-07-26 All body processes"	"require"	"energy in order to function properly 159 Dietary Guidelines"	159	query281_Dieting\P\159-0
+"2010-07-26 All body processes"	"require"	"energy 159 Dietary Guidelines"	159	query281_Dieting\P\159-1
+When the body is expending more energy than it is consuming ( e .g 	160	query281_Dieting\S\160
+. 	161	query281_Dieting\S\161
+when exercising ) , the body 's cells rely on internally stored energy sources , such as complex carbohydrates and fats , for energy . 	162	query281_Dieting\S\162
+"when exercising"	"is"	"the body 's cells"	162	query281_Dieting\P\162-0
+"the body"	"has"	"cells"	162	query281_Dieting\P\162-1
+"when exercising"	"rely"	"on internally stored energy sources such as complex carbohydrates for energy"	162	query281_Dieting\P\162-2
+"when exercising"	"rely"	"on internally stored energy sources such as complex fats for energy"	162	query281_Dieting\P\162-3
+The first source to which the body turns is glycogen ( by glycogenolysis ) . 	163	query281_Dieting\S\163
+"the body"	"turns"	"163 The first source to which"	163	query281_Dieting\P\163-0
+"the body"	"turns"	"163 The first source"	163	query281_Dieting\P\163-1
+"The first source"	"is glycogen"	"by glycogenolysis"	163	query281_Dieting\P\163-2
+"The first source"	"is"	"glycogen"	163	query281_Dieting\P\163-3
+Glycogen is a complex carbohydrate , 65 % of which is stored in skeletal muscles and the remainder , in the liver ( totaling about 2,000 kcal in the whole body ) . 	164	query281_Dieting\S\164
+"Glycogen"	"is"	"a complex carbohydrate"	164	query281_Dieting\P\164-0
+"% of which"	"is stored"	"in skeletal muscles a complex carbohydrate"	65	query281_Dieting\P\164-1
+"% of which"	"is stored"	"a complex carbohydrate"	65	query281_Dieting\P\164-2
+"% of which"	"is the remainder"	"a complex carbohydrate in skeletal muscles"	65	query281_Dieting\P\164-3
+"% of which"	"is the remainder"	"in the liver a complex carbohydrate"	65	query281_Dieting\P\164-4
+"% of which"	"is the remainder"	"a complex carbohydrate"	65	query281_Dieting\P\164-5
+It is created from the excess of ingested macronutrients , mainly carbohydrates . 	165	query281_Dieting\S\165
+It is created from the excess of ingested macronutrients , mainly carbohydrates . 	165	query281_Dieting\S\165
+It is created from the excess of ingested macronutrients , mainly carbohydrates . 	165	query281_Dieting\S\165
+It is created from the excess of ingested macronutrients , mainly carbohydrates . 	165	query281_Dieting\S\165
+When glycogen is nearly depleted , the body begins lipolysis , the mobilization and catabolism of fat stores for energy . 	166	query281_Dieting\S\166
+When glycogen is nearly depleted , the body begins lipolysis , the mobilization and catabolism of fat stores for energy . 	166	query281_Dieting\S\166
+When glycogen is nearly depleted , the body begins lipolysis , the mobilization and catabolism of fat stores for energy . 	166	query281_Dieting\S\166
+"the body"	"begins"	"lipolysis When glycogen is nearly depleted"	166	query281_Dieting\P\166-0
+"the body"	"begins"	"the mobilization When glycogen is nearly depleted"	166	query281_Dieting\P\166-1
+"the body"	"begins"	"catabolism of fat stores When glycogen is nearly depleted"	166	query281_Dieting\P\166-2
+"the body"	"begins"	"lipolysis for energy"	166	query281_Dieting\P\166-3
+"the body"	"begins"	"the mobilization for energy"	166	query281_Dieting\P\166-4
+"the body"	"begins"	"catabolism of fat stores for energy"	166	query281_Dieting\P\166-5
+"the body"	"begins"	"lipolysis"	166	query281_Dieting\P\166-6
+"the body"	"begins"	"the mobilization"	166	query281_Dieting\P\166-7
+"the body"	"begins"	"catabolism of fat stores"	166	query281_Dieting\P\166-8
+In this process , fats , obtained from adipose tissue , or fat cells , are broken down into glycerol and fatty acids , which can be used to generate energy . 	167	query281_Dieting\S\167
+"In this process"	"is"	"fats obtained from adipose tissue"	167	query281_Dieting\P\167-0
+"In this process"	"is"	"fats obtained from adipose fat cells"	167	query281_Dieting\P\167-1
+"In this process"	"is"	"fats obtained from adipose fat cells"	167	query281_Dieting\P\167-2
+"In this process"	"is"	"fats obtained from adipose fat cells"	167	query281_Dieting\P\167-3
+"In this process"	"are broken down"	"into glycerol acids"	167	query281_Dieting\P\167-4
+"In this process"	"are broken down"	"into fatty acids"	167	query281_Dieting\P\167-5
+"glycerol acids"	"can be used"	"to generate energy"	167	query281_Dieting\P\167-6
+"fatty acids"	"can be used"	"to generate energy"	167	query281_Dieting\P\167-7
+The primary by-products of metabolism are carbon dioxide and water ; carbon dioxide is expelled through the respiratory system . 	168	query281_Dieting\S\168
+"The primary by-products of metabolism"	"are"	"carbon dioxide"	168	query281_Dieting\P\168-0
+"The primary by-products of metabolism"	"are"	"carbon water"	168	query281_Dieting\P\168-1
+"carbon dioxide"	"is expelled"	"through the respiratory system"	168	query281_Dieting\P\168-2
+Fats are also secreted by the sebaceous gland ( in the skin ) . 	169	query281_Dieting\S\169
+"Fats"	"are secreted"	"by the sebaceous gland also"	169	query281_Dieting\P\169-0
+"Fats"	"are secreted"	"by the sebaceous gland in the skin"	169	query281_Dieting\P\169-1
+"Fats"	"are secreted"	"by the sebaceous gland"	169	query281_Dieting\P\169-2
+Cognitive Behavior Therapy has been effective in producing long term weight loss . 	170	query281_Dieting\S\170
+"Cognitive Behavior Therapy"	"has been effective"	"in producing long term weight loss"	170	query281_Dieting\P\170-0
+"Cognitive Behavior Therapy"	"has been"	"effective"	170	query281_Dieting\P\170-1
+L. 	171	query281_Dieting\S\171
+Stahre et al . 	172	query281_Dieting\S\172
+, " A short-term cognitive group treatment program gives substantial weight reduction up to 18 months from the end of treatment . 	173	query281_Dieting\S\173
+, " A short-term cognitive group treatment program gives substantial weight reduction up to 18 months from the end of treatment . 	173	query281_Dieting\S\173
+, " A short-term cognitive group treatment program gives substantial weight reduction up to 18 months from the end of treatment . 	173	query281_Dieting\S\173
+, " A short-term cognitive group treatment program gives substantial weight reduction up to 18 months from the end of treatment . 	173	query281_Dieting\S\173
+"A short-term cognitive group treatment program"	"173 gives"	"substantial weight reduction up to 18 months"	173	query281_Dieting\P\173-0
+"A short-term cognitive group treatment program"	"173 gives"	"substantial weight reduction from the end of treatment"	173	query281_Dieting\P\173-1
+"A short-term cognitive group treatment program"	"173 gives"	"substantial weight reduction"	173	query281_Dieting\P\173-2
+A randomized controlled trial . 	174	query281_Dieting\S\174
+" Eating and Weight Disorders . 	175	query281_Dieting\S\175
+Vol . 	176	query281_Dieting\S\176
+10 . 	177	query281_Dieting\S\177
+p 51-58 ( 2005 ) Some weight loss groups aim to make money , others work as charities . 	178	query281_Dieting\S\178
+"p 51-58"	"is"	"2005"	178	query281_Dieting\P\178-0
+"p 51-58 Some weight loss groups"	"aim"	"to make money"	178	query281_Dieting\P\178-1
+"p 51-58 Some weight loss groups"	"aim"	"to make money"	178	query281_Dieting\P\178-2
+"p 51-58 Some weight loss groups"	"aim"	"to make money"	178	query281_Dieting\P\178-3
+The former include Weight Watchers and Peertrainer . 	179	query281_Dieting\S\179
+"The former"	"include"	"Weight Watchers 179"	179	query281_Dieting\P\179-0
+"The former"	"include"	"Weight Peertrainer 179"	179	query281_Dieting\P\179-1
+The latter include , Overeaters Anonymous , also several groups run by local churches , hospitals , and like-minded individuals . 	180	query281_Dieting\S\180
+"The latter"	"include"	"Overeaters Anonymous"	180	query281_Dieting\P\180-0
+"Overeaters Anonymous"	"is"	"also several groups run by local churches"	180	query281_Dieting\P\180-1
+"Overeaters Anonymous"	"is"	"also several groups run by local hospitals"	180	query281_Dieting\P\180-2
+"Overeaters Anonymous"	"is"	"also several groups run by local like-minded individuals"	180	query281_Dieting\P\180-3
+"also several groups"	"be run"	"by local churches"	180	query281_Dieting\P\180-4
+"also several groups"	"be run"	"by local hospitals"	180	query281_Dieting\P\180-5
+"also several groups"	"be run"	"by local like-minded individuals"	180	query281_Dieting\P\180-6
+These organizations ' customs and practices differ widely . 	181	query281_Dieting\S\181
+"These organizations"	"has"	"181 customs"	181	query281_Dieting\P\181-0
+"These organizations ' customs"	"differ"	"widely"	181	query281_Dieting\P\181-1
+"These organizations ' practices"	"differ"	"widely"	181	query281_Dieting\P\181-2
+Some groups are modelled on twelve-step program , while others are quite informal . 	182	query281_Dieting\S\182
+"Some groups"	"are modelled"	"on twelve-step program while others are quite informal"	182	query281_Dieting\P\182-0
+"Some groups"	"are modelled"	"on twelve-step program"	182	query281_Dieting\P\182-1
+"Some groups"	"are modelled"	"on twelve-step program"	182	query281_Dieting\P\182-2
+"Some groups"	"are modelled"	"on twelve-step program"	182	query281_Dieting\P\182-3
+Some groups advocate certain prepared foods or special menus , while others train dieters to make healthy choices from restaurant menus and while grocery-shopping and cooking . 	183	query281_Dieting\S\183
+"Some groups"	"advocate"	"certain prepared foods while others train dieters to make healthy choices from restaurant menus"	183	query281_Dieting\P\183-0
+"Some groups"	"advocate"	"certain prepared foods while others dieters to make healthy choices from restaurant menus while grocery-shopping"	183	query281_Dieting\P\183-1
+"Some groups"	"advocate"	"certain prepared foods while others dieters to make healthy choices from restaurant menus while cooking"	183	query281_Dieting\P\183-2
+"Some groups"	"advocate"	"certain prepared special menus while others train dieters to make healthy choices from restaurant menus"	183	query281_Dieting\P\183-3
+"Some groups"	"advocate"	"certain prepared special menus while others dieters to make healthy choices from restaurant menus while grocery-shopping"	183	query281_Dieting\P\183-4
+"Some groups"	"advocate"	"certain prepared special menus while others dieters to make healthy choices from restaurant menus while cooking"	183	query281_Dieting\P\183-5
+"Some groups"	"advocate"	"certain prepared foods"	183	query281_Dieting\P\183-6
+"Some groups"	"advocate"	"certain prepared special menus"	183	query281_Dieting\P\183-7
+"Some groups"	"advocate"	"certain prepared special menus"	183	query281_Dieting\P\183-8
+"Some groups"	"advocate"	"certain prepared special menus"	183	query281_Dieting\P\183-9
+"Some groups"	"advocate"	"certain prepared special menus"	183	query281_Dieting\P\183-10
+"Some groups"	"advocate"	"certain prepared special menus"	183	query281_Dieting\P\183-11
+"Some groups"	"advocate"	"certain prepared special menus"	183	query281_Dieting\P\183-12
+"Some groups"	"advocate"	"certain prepared special menus"	183	query281_Dieting\P\183-13
+"Some groups"	"advocate"	"certain prepared special menus"	183	query281_Dieting\P\183-14
+A 2008 study published in the American Journal of Preventive Medicine showed that dieters who kept a daily food diary ( or diet journal ) , lost twice as much weight as those who did not keep a food log , suggesting that if you write your food down , you would n't eat as many calories . 	184	query281_Dieting\S\184
+"A 2008 study"	"be published"	"in the American Journal of Preventive Medicine"	184	query281_Dieting\P\184-0
+"A 2008 study published in the American Journal of Preventive Medicine"	"showed"	"that dieters lost twice as much weight as those suggesting that if you write your food down you would n't eat as many calories"	184	query281_Dieting\P\184-1
+"A 2008 study published in the American Journal of Preventive Medicine"	"showed"	"that dieters lost twice as much weight as those suggesting that if you write your food down you would n't eat as many calories"	184	query281_Dieting\P\184-2
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-3
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-4
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-5
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-6
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-7
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-8
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-9
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-10
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-11
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-12
+"a daily food diary"	"is"	"diet journal"	184	query281_Dieting\P\184-13
+Using food diaries doubles weight loss , study shows http ://www .usatoday 	185	query281_Dieting\S\185
+.com/news/health/weightloss/2008-07-08-food-diaries 	186	query281_Dieting\S\186
+%5FN.htm 	187	query281_Dieting\S\187
+July 8 , 2008 USA Today Nanci Hellmich May 1 , 2010 Using food diaries doubles weight loss , study shows http ://www .usatoday 	188	query281_Dieting\S\188
+.com/news/health/weightloss/2008-07-08-food-diaries 	189	query281_Dieting\S\189
+%5FN.htm 	190	query281_Dieting\S\190
+July 8 , 2008 USA Today Nanci Hellmich May 1 , 2010 Accordingly , diet journal software and websites have gained significant popularity , and help people track calorie consumption , calorie burning , weight loss goals , and nutritional balance . 	191	query281_Dieting\S\191
+"July 8"	"be gained"	"May 1 2010 Accordingly significant popularity"	191	query281_Dieting\P\191-0
+"8 help people track calorie consumption"	"be gained"	"May 1 2010 Accordingly significant popularity"	191	query281_Dieting\P\191-1
+"8 help people track calorie calorie burning"	"be gained"	"May 1 2010 Accordingly significant popularity"	191	query281_Dieting\P\191-2
+"8 help people track calorie weight loss goals"	"be gained"	"May 1 2010 Accordingly significant popularity"	191	query281_Dieting\P\191-3
+"8 help people track calorie nutritional balance"	"be gained"	"May 1 2010 Accordingly significant popularity"	191	query281_Dieting\P\191-4
+"diet journal software"	"have gained"	"significant popularity May 1 2010 Accordingly"	191	query281_Dieting\P\191-5
+"diet journal websites"	"have gained"	"significant popularity May 1 2010 Accordingly"	191	query281_Dieting\P\191-6
+"diet journal software"	"have gained"	"significant popularity"	191	query281_Dieting\P\191-7
+"diet journal websites"	"have gained"	"significant popularity"	191	query281_Dieting\P\191-8
+"diet journal websites"	"have gained"	"significant popularity"	191	query281_Dieting\P\191-9
+"diet journal websites"	"have gained"	"significant popularity"	191	query281_Dieting\P\191-10
+"diet journal websites"	"have gained"	"significant popularity"	191	query281_Dieting\P\191-11
+"diet journal websites"	"have gained"	"significant popularity"	191	query281_Dieting\P\191-12
+Certain medications can be prescribed to assist in weight loss . 	192	query281_Dieting\S\192
+"Certain medications"	"can be prescribed"	"to assist in weight loss"	192	query281_Dieting\P\192-0
+The most recent prescription weight loss medication released is Acomplia ( generic name Rimonabant ) , manufactured by Sanofi Aventis . 	193	query281_Dieting\S\193
+The most recent prescription weight loss medication released is Acomplia ( generic name Rimonabant ) , manufactured by Sanofi Aventis . 	193	query281_Dieting\S\193
+"The most recent prescription weight loss medication released"	"is Acomplia"	"manufactured by Sanofi Aventis"	193	query281_Dieting\P\193-0
+"The most recent prescription weight loss medication released"	"is"	"Acomplia"	193	query281_Dieting\P\193-1
+"The most recent prescription weight loss medication released is Acomplia manufactured by Sanofi Aventis"	"is"	"generic name Rimonabant"	193	query281_Dieting\P\193-2
+Used to treat obesity in persons with a BMI ( body mass index ) of 30 or above , as well as for smoking cessation treatments , Acomplia is still pending FDA approval for use in the United States . 	194	query281_Dieting\S\194
+"of 30"	"be Used"	"to treat obesity in persons with a BMI body mass index"	194	query281_Dieting\P\194-0
+"of 30"	"be Used"	"to treat obesity"	194	query281_Dieting\P\194-1
+"of above as well as for smoking cessation treatments Acomplia"	"be Used"	"to treat obesity in persons with a BMI body mass index"	194	query281_Dieting\P\194-2
+"of above as well as for smoking cessation treatments Acomplia"	"be Used"	"to treat obesity"	194	query281_Dieting\P\194-3
+"of 30 for smoking cessation treatments"	"be Used"	"to treat obesity in persons with a BMI body mass index"	194	query281_Dieting\P\194-4
+"of 30 for smoking cessation treatments"	"be Used"	"to treat obesity"	194	query281_Dieting\P\194-5
+"of 30 Acomplia"	"be Used"	"to treat obesity in persons with a BMI body mass index"	194	query281_Dieting\P\194-6
+"of 30 Acomplia"	"be Used"	"to treat obesity"	194	query281_Dieting\P\194-7
+"Used to treat obesity in persons with a BMI body mass index of 30"	"is pending"	"FDA approval for use in the United States still"	194	query281_Dieting\P\194-8
+"Used to treat obesity in persons with a BMI body mass index of above as well as for smoking cessation treatments Acomplia"	"is pending"	"FDA approval for use in the United States still"	194	query281_Dieting\P\194-9
+"Used to treat obesity in persons with a BMI body mass index of 30 for smoking cessation treatments"	"is pending"	"FDA approval for use in the United States still"	194	query281_Dieting\P\194-10
+"Used to treat obesity in persons with a BMI body mass index of 30 Acomplia"	"is pending"	"FDA approval for use in the United States still"	194	query281_Dieting\P\194-11
+"Used to treat obesity in persons with a BMI body mass index of 30"	"is pending"	"FDA approval for use in the United States"	194	query281_Dieting\P\194-12
+"Used to treat obesity in persons with a BMI body mass index of above as well as for smoking cessation treatments Acomplia"	"is pending"	"FDA approval for use in the United States"	194	query281_Dieting\P\194-13
+"Used to treat obesity in persons with a BMI body mass index of 30 for smoking cessation treatments"	"is pending"	"FDA approval for use in the United States"	194	query281_Dieting\P\194-14
+"Used to treat obesity in persons with a BMI body mass index of 30 Acomplia"	"is pending"	"FDA approval for use in the United States"	194	query281_Dieting\P\194-15
+Other weight loss medications , like amphetamine , are dangerous and are now banned for casual weight loss . 	195	query281_Dieting\S\195
+"Other weight loss medications like amphetamine"	"are"	"dangerous"	195	query281_Dieting\P\195-0
+"Other weight loss medications like amphetamine"	"are are banned"	"now"	195	query281_Dieting\P\195-1
+"Other weight loss medications like amphetamine"	"are are banned"	"for casual weight loss"	195	query281_Dieting\P\195-2
+"Other weight loss medications like amphetamine"	"are are"	"banned"	195	query281_Dieting\P\195-3
+Some supplements , including those containing vitamin and minerals , may not be effective for weight loss . 	196	query281_Dieting\S\196
+Some supplements , including those containing vitamin and minerals , may not be effective for weight loss . 	196	query281_Dieting\S\196
+Some supplements , including those containing vitamin and minerals , may not be effective for weight loss . 	196	query281_Dieting\S\196
+"Some supplements including those containing vitamin"	"may not be effective"	"for weight loss"	196	query281_Dieting\P\196-0
+"Some supplements including those containing minerals"	"may not be effective"	"for weight loss"	196	query281_Dieting\P\196-1
+"Some supplements including those containing vitamin"	"may not be"	"effective"	196	query281_Dieting\P\196-2
+"Some supplements including those containing minerals"	"may not be"	"effective"	196	query281_Dieting\P\196-3
+Diuretic induce weight loss through the excretion of water . 	197	query281_Dieting\S\197
+Diuretic induce weight loss through the excretion of water . 	197	query281_Dieting\S\197
+Diuretic induce weight loss through the excretion of water . 	197	query281_Dieting\S\197
+Diuretics , which can be used in the forms of medications , supplements , or herb , reduce overall body weight , but have no effect on an individual 's total body fat content . 	198	query281_Dieting\S\198
+"Diuretics"	"can be used"	"in the forms of medications"	198	query281_Dieting\P\198-0
+"Diuretics"	"can be used"	"in the forms of supplements"	198	query281_Dieting\P\198-1
+"Diuretics"	"can be used"	"in the forms of herb"	198	query281_Dieting\P\198-2
+"Diuretics"	"reduce"	"overall body weight"	198	query281_Dieting\P\198-3
+"Diuretics"	"have"	"overall body weight no effect on an individual 's total body fat content"	198	query281_Dieting\P\198-4
+"Diuretics"	"have"	"overall body weight no effect"	198	query281_Dieting\P\198-5
+"an individual"	"has"	"total body fat content"	198	query281_Dieting\P\198-6
+Diuretics can thicken the blood , cause cramping , kidney and liver damage . 	199	query281_Dieting\S\199
+"Diuretics"	"can thicken"	"the blood"	199	query281_Dieting\P\199-0
+"Diuretics"	"can thicken"	"the blood"	199	query281_Dieting\P\199-1
+"Diuretics"	"can thicken"	"the blood"	199	query281_Dieting\P\199-2
+In a single report , the death of Jacqueline Henson was found to be related to swelling in her brain , which was associated with excessive water consumption over a short period of time , while she was on a special water diet . 	200	query281_Dieting\S\200
+"the death of Jacqueline Henson"	"was found"	"to be related to swelling in her brain 200 In a single report while she was on a special water diet"	200	query281_Dieting\P\200-0
+"the death of Jacqueline Henson"	"was found"	"to be related to swelling in her brain 200 In a single report while she was on a special water diet"	200	query281_Dieting\P\200-1
+"her brain"	"was associated"	"with excessive water consumption over a short period of time"	200	query281_Dieting\P\200-2
+"her brain"	"was associated"	"with excessive water consumption over a short period of time"	200	query281_Dieting\P\200-3
+Stimulant such as ephedrine , green tea , caffeine or synephrine work to increase the basal metabolic rate . 	201	query281_Dieting\S\201
+"Stimulant such as ephedrine"	"be increase"	"the basal metabolic rate"	201	query281_Dieting\P\201-0
+"Stimulant such as green tea"	"be increase"	"the basal metabolic rate"	201	query281_Dieting\P\201-1
+"Stimulant such as caffeine"	"be increase"	"the basal metabolic rate"	201	query281_Dieting\P\201-2
+"Stimulant such as synephrine work"	"be increase"	"the basal metabolic rate"	201	query281_Dieting\P\201-3
+July 2009 Fasting Lengthy fasting can be dangerous due to the risk of malnutrition and should be carried out under medical supervision . 	202	query281_Dieting\S\202
+"July 2009 Fasting Lengthy fasting"	"can be dangerous"	"due to the risk of malnutrition"	202	query281_Dieting\P\202-0
+"July 2009 Fasting Lengthy fasting"	"can be"	"dangerous"	202	query281_Dieting\P\202-1
+"July 2009 Fasting Lengthy fasting"	"can be should be carried out"	"due to the risk of malnutrition"	202	query281_Dieting\P\202-2
+"July 2009 Fasting Lengthy fasting"	"can be should be carried out"	"under medical supervision"	202	query281_Dieting\P\202-3
+"July 2009 Fasting Lengthy fasting"	"can be should be"	"carried out"	202	query281_Dieting\P\202-4
+During prolonged fasting or very low calorie diet , the reduction of blood glucose , the preferred energy source of the brain , causes the body to deplete its glycogen stores . 	203	query281_Dieting\S\203
+"During prolonged fasting"	"is"	"the preferred energy source of the brain"	203	query281_Dieting\P\203-0
+"During prolonged very low calorie diet"	"is"	"the preferred energy source of the brain"	203	query281_Dieting\P\203-1
+"During prolonged fasting"	"is"	"the reduction of blood glucose"	203	query281_Dieting\P\203-2
+"During prolonged very low calorie diet"	"is"	"the reduction of blood glucose"	203	query281_Dieting\P\203-3
+"During prolonged fasting"	"causes"	"the body to deplete its glycogen stores"	203	query281_Dieting\P\203-4
+"During prolonged very low calorie diet"	"causes"	"the body to deplete its glycogen stores"	203	query281_Dieting\P\203-5
+"During prolonged very low calorie diet"	"causes"	"the body to deplete its glycogen stores"	203	query281_Dieting\P\203-6
+Once glycogen is depleted the body begins to fuel the brain using ketones , while also metabolizing body protein ( including but not limited to skeletal muscle ) to be used to synthesize sugars for use as energy by the rest of the body . 	204	query281_Dieting\S\204
+"Once glycogen"	"is depleted"	"the body begins to fuel the brain using ketones while also metabolizing body protein including to be used to synthesize sugars for use as energy by the rest of the body"	204	query281_Dieting\P\204-0
+"Once glycogen"	"is depleted"	"the body begins to fuel the brain using ketones while also metabolizing body protein not limited to skeletal muscle to be used to synthesize sugars for use as energy by the rest of the body"	204	query281_Dieting\P\204-1
+"Once glycogen"	"is depleted"	"the body begins to fuel the brain using ketones"	204	query281_Dieting\P\204-2
+"the body"	"begins"	"to fuel the brain using ketones"	204	query281_Dieting\P\204-3
+"the body"	"begins"	"to fuel the brain"	204	query281_Dieting\P\204-4
+"to fuel the brain"	"be using"	"ketones"	204	query281_Dieting\P\204-5
+"while also metabolizing body protein including"	"be used"	"to synthesize sugars for use as energy"	204	query281_Dieting\P\204-6
+"while also metabolizing body protein including"	"be used"	"to synthesize sugars by the rest of the body"	204	query281_Dieting\P\204-7
+"while also metabolizing body protein including"	"be used"	"to synthesize sugars"	204	query281_Dieting\P\204-8
+"while also metabolizing body protein not limited to skeletal muscle"	"be used"	"to synthesize sugars for use as energy"	204	query281_Dieting\P\204-9
+"while also metabolizing body protein not limited to skeletal muscle"	"be used"	"to synthesize sugars by the rest of the body"	204	query281_Dieting\P\204-10
+"while also metabolizing body protein not limited to skeletal muscle"	"be used"	"to synthesize sugars"	204	query281_Dieting\P\204-11
+Most experts believe that a prolonged fast can lead to muscle wasting although some dispute this . 	205	query281_Dieting\S\205
+"Most experts"	"believe"	"that a prolonged fast can lead to muscle wasting although some dispute this"	205	query281_Dieting\P\205-0
+"a prolonged fast"	"can lead"	"to muscle wasting although some dispute this"	205	query281_Dieting\P\205-1
+"a prolonged fast"	"can lead"	"to muscle wasting"	205	query281_Dieting\P\205-2
+The use of short-term fasting , or various forms of intermittent fasting have been used as a form of dieting to circumvent this issue . 	206	query281_Dieting\S\206
+"The use of short-term fasting"	"have been used"	"as a form of dieting to circumvent this issue"	206	query281_Dieting\P\206-0
+"The use of short-term various forms of intermittent fasting"	"have been used"	"as a form of dieting to circumvent this issue"	206	query281_Dieting\P\206-1
+"a form of dieting"	"be circumvent"	"this issue"	206	query281_Dieting\P\206-2
+Dieting , especially extreme food-intake reduction and rapid weight loss , can have the following side effects and consequences : Medical research related to low-carbohydrate diets Many studies have focused on diets that reduce calories via a low-carbohydrate ( Atkins diet , Scarsdale diet , Zone diet ) diet versus a low-fat diet ( LEARN diet , Ornish diet ) . 	207	query281_Dieting\S\207
+"Dieting"	"is"	"especially extreme food-intake reduction"	207	query281_Dieting\P\207-0
+"Dieting"	"is"	"especially extreme food-intake rapid weight loss"	207	query281_Dieting\P\207-1
+"Dieting"	"can have"	"the following side effects"	207	query281_Dieting\P\207-2
+"Dieting"	"can have"	"the following side consequences"	207	query281_Dieting\P\207-3
+"Many studies"	"have focused"	"on diets low-carbohydrate diets"	207	query281_Dieting\P\207-4
+"Many studies"	"have focused"	"low-carbohydrate diets"	207	query281_Dieting\P\207-5
+"Many studies"	"have focused"	"low-carbohydrate diets"	207	query281_Dieting\P\207-6
+"Many studies"	"have focused"	"low-carbohydrate diets"	207	query281_Dieting\P\207-7
+"Many studies"	"have focused"	"low-carbohydrate diets"	207	query281_Dieting\P\207-8
+"Many studies"	"have focused"	"low-carbohydrate diets"	207	query281_Dieting\P\207-9
+"a low-carbohydrate Atkins diet"	"is"	"Zone diet"	207	query281_Dieting\P\207-10
+"a low-carbohydrate Atkins Scarsdale diet"	"is"	"Zone diet"	207	query281_Dieting\P\207-11
+"LEARN diet"	"is"	"Ornish diet"	207	query281_Dieting\P\207-12
+The Nurses ' Health Study , an observational cohort study , found that low carbohydrate diets based on vegetable sources of fat and protein are associated with less coronary heart disease . 	208	query281_Dieting\S\208
+"The Nurses"	"has"	"208 Health Study"	208	query281_Dieting\P\208-0
+"The Nurses ' Health Study"	"is"	"an observational cohort study"	208	query281_Dieting\P\208-1
+"The Nurses ' Health Study"	"found"	"that low carbohydrate diets based on vegetable sources of fat are associated with less coronary heart disease"	208	query281_Dieting\P\208-2
+"The Nurses ' Health Study"	"found"	"that low carbohydrate diets based on vegetable sources of protein are associated with less coronary heart disease"	208	query281_Dieting\P\208-3
+"low carbohydrate diets"	"be based"	"on vegetable sources of fat"	208	query281_Dieting\P\208-4
+"low carbohydrate diets"	"be based"	"on vegetable sources of protein"	208	query281_Dieting\P\208-5
+"low carbohydrate diets based on vegetable sources of fat"	"are associated"	"with less coronary heart disease"	208	query281_Dieting\P\208-6
+"low carbohydrate diets based on vegetable sources of protein"	"are associated"	"with less coronary heart disease"	208	query281_Dieting\P\208-7
+Halton TL , Willett WC , Liu S , et al . 	209	query281_Dieting\S\209
+"Halton TL"	"is"	"Willett WC"	209	query281_Dieting\P\209-0
+"Willett WC"	"is"	"Liu S"	209	query281_Dieting\P\209-1
+"Willett WC"	"is"	"et al"	209	query281_Dieting\P\209-2
+Low-carbohydrate-diet score and the risk of coronary heart disease in women N. 	210	query281_Dieting\S\210
+Engl . 	211	query281_Dieting\S\211
+J. 	212	query281_Dieting\S\212
+Med . 	213	query281_Dieting\S\213
+355 19 1991–2002 2006 17093250 10.1056/NEJMoa055317 	214	query281_Dieting\S\214
+Halton TL , Willett WC , Liu S , et al . 	215	query281_Dieting\S\215
+"Halton TL"	"is"	"Willett WC"	215	query281_Dieting\P\215-0
+"Willett WC"	"is"	"Liu S"	215	query281_Dieting\P\215-1
+"Willett WC"	"is"	"et al"	215	query281_Dieting\P\215-2
+Low-carbohydrate-diet score and the risk of coronary heart disease in women N. 	216	query281_Dieting\S\216
+Engl . 	217	query281_Dieting\S\217
+J. 	218	query281_Dieting\S\218
+Med . 	219	query281_Dieting\S\219
+355 19 1991–2002 2006 17093250 10.1056/NEJMoa055317 	220	query281_Dieting\S\220
+The same study also found no correlation ( with multivariate adjustment ) between animal fat intake and coronary heart disease ( table 4) . 	221	query281_Dieting\S\221
+"The same study"	"found"	"no correlation with multivariate adjustment between animal fat intake and coronary heart disease also"	221	query281_Dieting\P\221-0
+"The same study"	"found"	"no correlation with multivariate adjustment between animal fat intake and coronary heart disease"	221	query281_Dieting\P\221-1
+"animal fat intake and coronary heart disease"	"is"	"table 4"	221	query281_Dieting\P\221-2
+A meta-analysis of randomized controlled trials by the international Cochrane Collaboration in 2002 concluded Pirozzo S , Summerbell C , Cameron C , Glasziou P Advice on low-fat diets for obesity Cochrane database of systematic reviews ( Online ) 2 CD003640 2002 12076496 10.1002/14651858.CD003640 	222	query281_Dieting\S\222
+Pirozzo Sandi Pirozzo S , Summerbell C , Cameron C , Glasziou P Advice on low-fat diets for obesity Cochrane database of systematic reviews ( Online ) 2 CD003640 2002 12076496 10.1002/14651858.CD003640 	223	query281_Dieting\S\223
+Pirozzo Sandi that fat-restricted diets are no better than calorie restricted diets in achieving long term weight loss in overweight or obese people . 	224	query281_Dieting\S\224
+"fat-restricted diets"	"are no better"	"than calorie restricted diets"	224	query281_Dieting\P\224-0
+"fat-restricted diets"	"are no better"	"in achieving long term weight loss in overweight people"	224	query281_Dieting\P\224-1
+"fat-restricted diets"	"are no better"	"in achieving long term weight loss in obese people"	224	query281_Dieting\P\224-2
+"fat-restricted diets"	"are no"	"better"	224	query281_Dieting\P\224-3
+A more recent meta-analysis that included randomized controlled trials published after the Cochrane review Samaha FF , Iqbal N , Seshadri P , et al . 	225	query281_Dieting\S\225
+"A more recent meta-analysis"	"included"	"randomized controlled trials published after the Cochrane review Samaha FF"	225	query281_Dieting\P\225-0
+"randomized controlled trials"	"be published"	"after the Cochrane review Samaha FF"	225	query281_Dieting\P\225-1
+"the Cochrane review Samaha FF"	"is"	"Iqbal N"	225	query281_Dieting\P\225-2
+"the Cochrane review Samaha FF"	"is"	"Seshadri P"	225	query281_Dieting\P\225-3
+"the Cochrane review Samaha FF"	"is"	"et al"	225	query281_Dieting\P\225-4
+A low-carbohydrate as compared with a low-fat diet in severe obesity N. 	226	query281_Dieting\S\226
+Engl . 	227	query281_Dieting\S\227
+J. 	228	query281_Dieting\S\228
+Med . 	229	query281_Dieting\S\229
+348 21 2074–81 2003 12761364 10.1056/NEJMoa022637 	230	query281_Dieting\S\230
+Samaha FF , Iqbal N , Seshadri P , et al . 	231	query281_Dieting\S\231
+"Samaha FF"	"is"	"Iqbal N"	231	query281_Dieting\P\231-0
+"Iqbal N"	"is"	"Seshadri P"	231	query281_Dieting\P\231-1
+"Iqbal N"	"is"	"et al"	231	query281_Dieting\P\231-2
+A low-carbohydrate as compared with a low-fat diet in severe obesity N. 	232	query281_Dieting\S\232
+Engl . 	233	query281_Dieting\S\233
+J. 	234	query281_Dieting\S\234
+Med . 	235	query281_Dieting\S\235
+348 21 2074–81 2003 12761364 10.1056/NEJMoa022637 	236	query281_Dieting\S\236
+Foster GD , Wyatt HR , Hill JO , et al . 	237	query281_Dieting\S\237
+"Foster GD"	"is"	"Hill JO"	237	query281_Dieting\P\237-0
+"Foster Wyatt HR"	"is"	"Hill JO"	237	query281_Dieting\P\237-1
+"Foster GD"	"is"	"et al"	237	query281_Dieting\P\237-2
+"Foster Wyatt HR"	"is"	"et al"	237	query281_Dieting\P\237-3
+A randomized trial of a low-carbohydrate diet for obesity N. 	238	query281_Dieting\S\238
+Engl . 	239	query281_Dieting\S\239
+J. 	240	query281_Dieting\S\240
+Med . 	241	query281_Dieting\S\241
+348 21 2082–90 2003 12761365 10.1056/NEJMoa022207 	242	query281_Dieting\S\242
+Foster GD , Wyatt HR , Hill JO , et al . 	243	query281_Dieting\S\243
+"Foster GD"	"is"	"Hill JO"	243	query281_Dieting\P\243-0
+"Foster Wyatt HR"	"is"	"Hill JO"	243	query281_Dieting\P\243-1
+"Foster GD"	"is"	"et al"	243	query281_Dieting\P\243-2
+"Foster Wyatt HR"	"is"	"et al"	243	query281_Dieting\P\243-3
+A randomized trial of a low-carbohydrate diet for obesity N. 	244	query281_Dieting\S\244
+Engl . 	245	query281_Dieting\S\245
+J. 	246	query281_Dieting\S\246
+Med . 	247	query281_Dieting\S\247
+348 21 2082–90 2003 12761365 10.1056/NEJMoa022207 	248	query281_Dieting\S\248
+found that "low-carbohydrate , non-energy-restricted diets appear to be at least as effective as low-fat , energy-restricted diets in inducing weight loss for up to 1 year . 	249	query281_Dieting\S\249
+found that "low-carbohydrate , non-energy-restricted diets appear to be at least as effective as low-fat , energy-restricted diets in inducing weight loss for up to 1 year . 	249	query281_Dieting\S\249
+found that "low-carbohydrate , non-energy-restricted diets appear to be at least as effective as low-fat , energy-restricted diets in inducing weight loss for up to 1 year . 	249	query281_Dieting\S\249
+"non-energy-restricted diets"	"appear"	"to be at least as effective as low-fat low-carbohydrate"	249	query281_Dieting\P\249-0
+"non-energy-restricted diets"	"appear"	"to be at least as effective as energy-restricted diets in inducing weight loss for up to 1 year low-carbohydrate"	249	query281_Dieting\P\249-1
+"non-energy-restricted diets"	"appear"	"to be at least as effective as low-fat"	249	query281_Dieting\P\249-2
+"non-energy-restricted diets"	"appear"	"to be at least as effective as energy-restricted diets in inducing weight loss for up to 1 year"	249	query281_Dieting\P\249-3
+However , potential favorable changes in triglyceride and high-density lipoprotein cholesterol values should be weighed against potential unfavorable changes in low-density lipoprotein cholesterol values when low-carbohydrate diets to induce weight loss are considered . 	250	query281_Dieting\S\250
+"However potential favorable changes in triglyceride"	"should be weighed"	"against potential unfavorable changes in low-density lipoprotein cholesterol values"	250	query281_Dieting\P\250-0
+"However potential favorable changes in high-density lipoprotein cholesterol values"	"should be weighed"	"against potential unfavorable changes in low-density lipoprotein cholesterol values"	250	query281_Dieting\P\250-1
+"low-carbohydrate diets"	"be induce"	"weight loss"	250	query281_Dieting\P\250-2
+"low-carbohydrate diets to induce weight loss"	"are considered"	"potential unfavorable changes in low-density lipoprotein cholesterol values when"	250	query281_Dieting\P\250-3
+"low-carbohydrate diets to induce weight loss"	"are considered"	"potential unfavorable changes in low-density lipoprotein cholesterol values"	250	query281_Dieting\P\250-4
+" Nordmann AJ , Nordmann A , Briel M , et al . 	251	query281_Dieting\S\251
+"Nordmann AJ"	"is"	"Nordmann A et al"	251	query281_Dieting\P\251-0
+"Nordmann A et al"	"is"	"Briel M"	251	query281_Dieting\P\251-1
+Effects of low-carbohydrate vs low-fat diets on weight loss and cardiovascular risk factors : a meta-analysis of randomized controlled trials Arch . 	252	query281_Dieting\S\252
+Intern . 	253	query281_Dieting\S\253
+Med . 	254	query281_Dieting\S\254
+166 3 285–93 2006 16476868 10.1001/archinte 	255	query281_Dieting\S\255
+.166.3.285 	256	query281_Dieting\S\256
+Nordmann AJ , Nordmann A , Briel M , et al . 	257	query281_Dieting\S\257
+"Nordmann AJ"	"is"	"Nordmann A et al"	257	query281_Dieting\P\257-0
+"Nordmann A et al"	"is"	"Briel M"	257	query281_Dieting\P\257-1
+Effects of low-carbohydrate vs low-fat diets on weight loss and cardiovascular risk factors : a meta-analysis of randomized controlled trials Arch . 	258	query281_Dieting\S\258
+Intern . 	259	query281_Dieting\S\259
+Med . 	260	query281_Dieting\S\260
+166 3 285–93 2006 16476868 10.1001/archinte 	261	query281_Dieting\S\261
+.166.3.285 	262	query281_Dieting\S\262
+The Women 's Health Initiative Randomized Controlled Dietary Modification Trial Howard BV , Manson JE , Stefanick ML , et al . 	263	query281_Dieting\S\263
+"The Women"	"has"	"263 Health Initiative Randomized Controlled Dietary Modification Trial Howard BV"	263	query281_Dieting\P\263-0
+"The Women 's Health Initiative Randomized Controlled Dietary Modification Trial Howard BV"	"is"	"Manson JE"	263	query281_Dieting\P\263-1
+"Manson JE"	"is"	"Stefanick ML"	263	query281_Dieting\P\263-2
+"Manson JE"	"is"	"et al"	263	query281_Dieting\P\263-3
+Low-fat dietary pattern and weight change over 7 years : the Women 's Health Initiative Dietary Modification Trial JAMA 295 1 39–49 2006 16391215 10.1001/jama.295.1.39 	264	query281_Dieting\S\264
+Howard BV , Manson JE , Stefanick ML , et al . 	265	query281_Dieting\S\265
+"Howard BV"	"is"	"et al"	265	query281_Dieting\P\265-0
+"Howard Manson JE"	"is"	"et al"	265	query281_Dieting\P\265-1
+"Howard Stefanick ML"	"is"	"et al"	265	query281_Dieting\P\265-2
+Low-fat dietary pattern and weight change over 7 years : the Women 's Health Initiative Dietary Modification Trial JAMA 295 1 39–49 2006 16391215 10.1001/jama.295.1.39 	266	query281_Dieting\S\266
+found that a diet of total fat to 20 % of energy and increasing consumption of vegetables and fruit to at least 5 servings daily and grains to at least 6 servings daily resulted in : Additional recent randomized controlled trials have found that : The American Diabetes Association released for the first time a recommendation ( in its January 2008 Clinical Practice Recommendations ) for a low carbohydrate diet to reduce weight for those with or at risk of Type 2 diabetes . 	267	query281_Dieting\S\267
+found that a diet of total fat to 20 % of energy and increasing consumption of vegetables and fruit to at least 5 servings daily and grains to at least 6 servings daily resulted in : Additional recent randomized controlled trials have found that : The American Diabetes Association released for the first time a recommendation ( in its January 2008 Clinical Practice Recommendations ) for a low carbohydrate diet to reduce weight for those with or at risk of Type 2 diabetes . 	267	query281_Dieting\S\267
+found that a diet of total fat to 20 % of energy and increasing consumption of vegetables and fruit to at least 5 servings daily and grains to at least 6 servings daily resulted in : Additional recent randomized controlled trials have found that : The American Diabetes Association released for the first time a recommendation ( in its January 2008 Clinical Practice Recommendations ) for a low carbohydrate diet to reduce weight for those with or at risk of Type 2 diabetes . 	267	query281_Dieting\S\267
+found that a diet of total fat to 20 % of energy and increasing consumption of vegetables and fruit to at least 5 servings daily and grains to at least 6 servings daily resulted in : Additional recent randomized controlled trials have found that : The American Diabetes Association released for the first time a recommendation ( in its January 2008 Clinical Practice Recommendations ) for a low carbohydrate diet to reduce weight for those with or at risk of Type 2 diabetes . 	267	query281_Dieting\S\267
+found that a diet of total fat to 20 % of energy and increasing consumption of vegetables and fruit to at least 5 servings daily and grains to at least 6 servings daily resulted in : Additional recent randomized controlled trials have found that : The American Diabetes Association released for the first time a recommendation ( in its January 2008 Clinical Practice Recommendations ) for a low carbohydrate diet to reduce weight for those with or at risk of Type 2 diabetes . 	267	query281_Dieting\S\267
+found that a diet of total fat to 20 % of energy and increasing consumption of vegetables and fruit to at least 5 servings daily and grains to at least 6 servings daily resulted in : Additional recent randomized controlled trials have found that : The American Diabetes Association released for the first time a recommendation ( in its January 2008 Clinical Practice Recommendations ) for a low carbohydrate diet to reduce weight for those with or at risk of Type 2 diabetes . 	267	query281_Dieting\S\267
+"a diet of total fat to 20 % of energy"	"resulted"	"in Additional recent randomized controlled trials have found that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those with risk of Type 2 diabetes"	267	query281_Dieting\P\267-0
+"a diet of total fat to 20 % of energy"	"resulted"	"in Additional recent randomized controlled trials have found that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those at risk of Type 2 diabetes"	267	query281_Dieting\P\267-1
+"a of total fat to 20 % of energy increasing consumption of vegetables to at least 5 servings daily to at least 6 servings daily"	"resulted"	"in Additional recent randomized controlled trials have found that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those with risk of Type 2 diabetes"	267	query281_Dieting\P\267-2
+"a of total fat to 20 % of energy increasing consumption of vegetables to at least 5 servings daily to at least 6 servings daily"	"resulted"	"in Additional recent randomized controlled trials have found that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those at risk of Type 2 diabetes"	267	query281_Dieting\P\267-3
+"a of total fat to 20 % of energy increasing consumption of fruit to at least 5 servings daily and grains to at least 6 servings daily"	"resulted"	"in Additional recent randomized controlled trials have found that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those with risk of Type 2 diabetes"	267	query281_Dieting\P\267-4
+"a of total fat to 20 % of energy increasing consumption of fruit to at least 5 servings daily and grains to at least 6 servings daily"	"resulted"	"in Additional recent randomized controlled trials have found that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those at risk of Type 2 diabetes"	267	query281_Dieting\P\267-5
+"a of total fat to 20 % of energy increasing consumption of vegetables to at least 5 servings grains to at least 6 servings daily"	"resulted"	"in Additional recent randomized controlled trials have found that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those with risk of Type 2 diabetes"	267	query281_Dieting\P\267-6
+"a of total fat to 20 % of energy increasing consumption of vegetables to at least 5 servings grains to at least 6 servings daily"	"resulted"	"in Additional recent randomized controlled trials have found that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those at risk of Type 2 diabetes"	267	query281_Dieting\P\267-7
+"Additional recent randomized controlled trials"	"have found"	"that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those with risk of Type 2 diabetes"	267	query281_Dieting\P\267-8
+"Additional recent randomized controlled trials"	"have found"	"that The American Diabetes Association released for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those at risk of Type 2 diabetes"	267	query281_Dieting\P\267-9
+"The American Diabetes Association"	"released"	"for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those with risk of Type 2 diabetes"	267	query281_Dieting\P\267-10
+"The American Diabetes Association"	"released"	"for the first time a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet to reduce weight for those at risk of Type 2 diabetes"	267	query281_Dieting\P\267-11
+"a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet"	"be reduce"	"weight for those with risk of Type 2 diabetes"	267	query281_Dieting\P\267-12
+"a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet"	"be reduce"	"weight for those at risk of Type 2 diabetes"	267	query281_Dieting\P\267-13
+"a recommendation in its January 2008 Clinical Practice Recommendations for a low carbohydrate diet"	"be reduce"	"weight for those at risk of Type 2 diabetes"	267	query281_Dieting\P\267-14
+American Diabetes Association Nutrition Recommendations and Interventions for Diabetes Diabetes Care 31 Suppl 1 S61–78 2008 10.2337/dc08-S061 	268	query281_Dieting\S\268
+http ://care .diabetesjournals 	269	query281_Dieting\S\269
+.org/cgi/content/full/31/Supplement_1/S61 	270	query281_Dieting\S\270
+18165339 Bantle JP Wylie-Rosett J Albright AL Apovian CM Clark NG Franz MJ Hoogwerf BJ Lichtenstein AH American Diabetes Association Nutrition Recommendations and Interventions for Diabetes Diabetes Care 31 Suppl 1 S61–78 2008 10.2337/dc08-S061 	271	query281_Dieting\S\271
+http ://care .diabetesjournals 	272	query281_Dieting\S\272
+.org/cgi/content/full/31/Supplement_1/S61 	273	query281_Dieting\S\273
+18165339 Bantle JP Wylie-Rosett J Albright AL Apovian CM Clark NG Franz MJ Hoogwerf BJ Lichtenstein AH " The glycemic index ( GI ) factor is a ranking of foods based on their overall effect on blood sugar levels . 	274	query281_Dieting\S\274
+"The glycemic index"	"is"	"GI"	274	query281_Dieting\P\274-0
+"18165339 Bantle JP Wylie-Rosett J Albright AL Apovian CM Clark NG Franz MJ Hoogwerf BJ Lichtenstein AH The glycemic index factor"	"is a ranking"	"of foods"	274	query281_Dieting\P\274-1
+"18165339 Bantle JP Wylie-Rosett J Albright AL Apovian CM Clark NG Franz MJ Hoogwerf BJ Lichtenstein AH The glycemic index factor"	"is a ranking"	"based on their overall effect on blood sugar levels"	274	query281_Dieting\P\274-2
+"18165339 Bantle JP Wylie-Rosett J Albright AL Apovian CM Clark NG Franz MJ Hoogwerf BJ Lichtenstein AH The glycemic index factor"	"is"	"a ranking"	274	query281_Dieting\P\274-3
+"18165339 Bantle JP Wylie-Rosett J Albright AL Apovian CM Clark NG Franz MJ Hoogwerf BJ Lichtenstein AH The glycemic index factor"	"is"	"a ranking"	274	query281_Dieting\P\274-4
+The diet based around this research is called the Low GI diet . 	275	query281_Dieting\S\275
+"The diet"	"be based"	"around this research"	275	query281_Dieting\P\275-0
+"The diet based around this research"	"is called"	"the Low GI diet"	275	query281_Dieting\P\275-1
+Low glycemic index foods , such as lentils , provide a slower , more consistent source of glucose to the bloodstream , thereby stimulating less insulin release than high glycemic index foods , such as white bread . 	276	query281_Dieting\S\276
+"Low glycemic index foods such as lentils"	"provide"	"a slower more consistent source of glucose to the bloodstream thereby stimulating less insulin release than high glycemic index foods such as white bread"	276	query281_Dieting\P\276-0
+"Low glycemic index foods such as lentils"	"provide"	"a slower more consistent source of glucose to the bloodstream"	276	query281_Dieting\P\276-1
+"Low glycemic index foods such as lentils"	"be stimulating"	"thereby less insulin release than high glycemic index foods such as white bread"	276	query281_Dieting\P\276-2
+" Thomas Diana Elliott Elizabeth J. 	277	query281_Dieting\S\277
+Baur Louise Low glycaemic index or low glycaemic load diets for overweight and obesity Cochrane database of systematic reviews ( Online ) 3 3 CD005105 2007.Jul.18 	278	query281_Dieting\S\278
+2006.Jul.31 	279	query281_Dieting\S\279
+17636786 10.1002/14651858.CD005105.pub2 	280	query281_Dieting\S\280
+John Wiley &amp; Sons , Ltd. 	281	query281_Dieting\S\281
+"John Wiley & Sons"	"is"	"Ltd."	281	query281_Dieting\P\281-0
+USA University of Sydney , Children 's Hospital at Westmead , CEBPGAN ( Centre for Evidence Based Paediatrics Gastroenterology and Nutrition http ://onlinelibrary .wiley 	282	query281_Dieting\S\282
+.com/o/cochrane/clsysrev/articles/CD005105/pdf_fs 	283	query281_Dieting\S\283
+.html 	284	query281_Dieting\S\284
+PDF Thomas Diana Thomas Diana Elliott Elizabeth J. 	285	query281_Dieting\S\285
+Baur Louise Low glycaemic index or low glycaemic load diets for overweight and obesity Cochrane database of systematic reviews ( Online ) 3 3 CD005105 2007.Jul.18 	286	query281_Dieting\S\286
+2006.Jul.31 	287	query281_Dieting\S\287
+17636786 10.1002/14651858.CD005105.pub2 	288	query281_Dieting\S\288
+John Wiley &amp; Sons , Ltd. 	289	query281_Dieting\S\289
+"John Wiley & Sons"	"is"	"Ltd."	289	query281_Dieting\P\289-0
+USA University of Sydney , Children 's Hospital at Westmead , CEBPGAN ( Centre for Evidence Based Paediatrics Gastroenterology and Nutrition http ://onlinelibrary .wiley 	290	query281_Dieting\S\290
+.com/o/cochrane/clsysrev/articles/CD005105/pdf_fs 	291	query281_Dieting\S\291
+.html 	292	query281_Dieting\S\292
+PDF Thomas Diana Jenkins D.J. 	293	query281_Dieting\S\293
+Wolever T.M. 	294	query281_Dieting\S\294
+Taylor R.H. 	295	query281_Dieting\S\295
+Barker H. 	296	query281_Dieting\S\296
+Fielden H. 	297	query281_Dieting\S\297
+Baldwin J.M. 	298	query281_Dieting\S\298
+Bowling A.C. 	299	query281_Dieting\S\299
+Newman H.C. 	300	query281_Dieting\S\300
+Jenkins A.L. 	301	query281_Dieting\S\301
+Glycemic index of foods : a physiological basis for carbohydrate exchange USA The American Society for Clinical Nutrition , Inc 34 3 362–6 1981.Mar 	302	query281_Dieting\S\302
+6259925 http ://www.ajcn 	303	query281_Dieting\S\303
+.org/cgi/reprint/34/3/362.pdf 	304	query281_Dieting\S\304
+PDF Jenkins D.J. 	305	query281_Dieting\S\305
+Wolever T.M. 	306	query281_Dieting\S\306
+Taylor R.H. 	307	query281_Dieting\S\307
+Barker H. 	308	query281_Dieting\S\308
+Fielden H. 	309	query281_Dieting\S\309
+Baldwin J.M. 	310	query281_Dieting\S\310
+Bowling A.C. 	311	query281_Dieting\S\311
+Newman H.C. 	312	query281_Dieting\S\312
+Jenkins A.L. 	313	query281_Dieting\S\313
+Glycemic index of foods : a physiological basis for carbohydrate exchange USA The American Society for Clinical Nutrition , Inc 34 3 362–6 1981.Mar 	314	query281_Dieting\S\314
+6259925 http ://www.ajcn 	315	query281_Dieting\S\315
+.org/cgi/reprint/34/3/362.pdf 	316	query281_Dieting\S\316
+PDF The glycemic load is " the mathematical product of the glycemic index and the carbohydrate amount " . 	317	query281_Dieting\S\317
+"PDF The glycemic load"	"is the mathematical product"	"of the glycemic index"	317	query281_Dieting\P\317-0
+"PDF The glycemic load"	"is the mathematical product"	"of the glycemic the carbohydrate amount"	317	query281_Dieting\P\317-1
+"PDF The glycemic load"	"is"	"the mathematical product"	317	query281_Dieting\P\317-2
+Brand-Miller Janette Cecile Thomas M. 	318	query281_Dieting\S\318
+Swan V. 	319	query281_Dieting\S\319
+Ahmad Z.I. 	320	query281_Dieting\S\320
+Petocz P. 	321	query281_Dieting\S\321
+Colagiuri S. 	322	query281_Dieting\S\322
+Jennie Brand-Miller Physiological Validation of the Concept of Glycemic Load in Lean Young Adults The Journal of Nutrition 133 9 2728–32 2003.09.01 	323	query281_Dieting\S\323
+12949357 The American Society for Nutritional Sciences USA Human Nutrition Unit , School of Molecular and Microbial Biosciences , University of Sydney , Sydney , NSW , Australia http ://jn.nutrition 	324	query281_Dieting\S\324
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular Biosciences jn.nutrition"	324	query281_Dieting\P\324-0
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Microbial Biosciences University of Sydney Sydney NSW Australia http jn.nutrition"	324	query281_Dieting\P\324-1
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular University of Sydney jn.nutrition"	324	query281_Dieting\P\324-2
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular Sydney jn.nutrition"	324	query281_Dieting\P\324-3
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular NSW jn.nutrition"	324	query281_Dieting\P\324-4
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular Australia http jn.nutrition"	324	query281_Dieting\P\324-5
+.org/cgi/reprint/133/9/2728.pdf 	325	query281_Dieting\S\325
+PDF 2003 Brand-Miller Janette Cecile Thomas M. 	326	query281_Dieting\S\326
+Swan V. 	327	query281_Dieting\S\327
+Ahmad Z.I. 	328	query281_Dieting\S\328
+Petocz P. 	329	query281_Dieting\S\329
+Colagiuri S. 	330	query281_Dieting\S\330
+Jennie Brand-Miller Physiological Validation of the Concept of Glycemic Load in Lean Young Adults The Journal of Nutrition 133 9 2728–32 2003.09.01 	331	query281_Dieting\S\331
+12949357 The American Society for Nutritional Sciences USA Human Nutrition Unit , School of Molecular and Microbial Biosciences , University of Sydney , Sydney , NSW , Australia http ://jn.nutrition 	332	query281_Dieting\S\332
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular Biosciences jn.nutrition"	332	query281_Dieting\P\332-0
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Microbial Biosciences University of Sydney Sydney NSW Australia http jn.nutrition"	332	query281_Dieting\P\332-1
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular University of Sydney jn.nutrition"	332	query281_Dieting\P\332-2
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular Sydney jn.nutrition"	332	query281_Dieting\P\332-3
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular NSW jn.nutrition"	332	query281_Dieting\P\332-4
+"Nutritional Sciences USA Human Nutrition Unit"	"is"	"School of Molecular Australia http jn.nutrition"	332	query281_Dieting\P\332-5
+.org/cgi/reprint/133/9/2728.pdf 	333	query281_Dieting\S\333
+PDF 2003 In a randomized controlled trial that compared four diets that varied in carbohydrate amount and glycemic index found complicated results McMillan-Price J. 	334	query281_Dieting\S\334
+"four diets"	"varied"	"in carbohydrate amount"	334	query281_Dieting\P\334-0
+"four diets"	"varied"	"in carbohydrate glycemic index"	334	query281_Dieting\P\334-1
+Petocz P. 	335	query281_Dieting\S\335
+Atkinson F. 	336	query281_Dieting\S\336
+O'neill K. 	337	query281_Dieting\S\337
+Samman S. 	338	query281_Dieting\S\338
+Steinbeck K. 	339	query281_Dieting\S\339
+Caterson I. 	340	query281_Dieting\S\340
+Brand-Miller Janette Cecile Jennie Brand-Miller Comparison of 4 Diets of Varying Glycemic Load on Weight Loss and Cardiovascular Risk Reduction in Overweight and Obese Young Adults : A Randomized Controlled Trial Archives of Internal Medicine American Medical Association USA Human Nutrition Unit , University of Sydney , Sydney , Australia 166 14 1466–75 2006.Jul.24 	341	query281_Dieting\S\341
+16864756 10.1001/archinte 	342	query281_Dieting\S\342
+.166.14.1466 	343	query281_Dieting\S\343
+http ://archinte .ama-assn 	344	query281_Dieting\S\344
+.org/cgi/reprint/166/14/1466.pdf 	345	query281_Dieting\S\345
+PDF 2006 McMillan-Price J. 	346	query281_Dieting\S\346
+Petocz P. 	347	query281_Dieting\S\347
+Atkinson F. 	348	query281_Dieting\S\348
+O'neill K. 	349	query281_Dieting\S\349
+Samman S. 	350	query281_Dieting\S\350
+Steinbeck K. 	351	query281_Dieting\S\351
+Caterson I. 	352	query281_Dieting\S\352
+Brand-Miller Janette Cecile Jennie Brand-Miller Comparison of 4 Diets of Varying Glycemic Load on Weight Loss and Cardiovascular Risk Reduction in Overweight and Obese Young Adults : A Randomized Controlled Trial Archives of Internal Medicine American Medical Association USA Human Nutrition Unit , University of Sydney , Sydney , Australia 166 14 1466–75 2006.Jul.24 	353	query281_Dieting\S\353
+16864756 10.1001/archinte 	354	query281_Dieting\S\354
+.166.14.1466 	355	query281_Dieting\S\355
+http ://archinte .ama-assn 	356	query281_Dieting\S\356
+.org/cgi/reprint/166/14/1466.pdf 	357	query281_Dieting\S\357
+PDF 2006 : Diets 2 and 3 lost the most weight and fat mass ; however , low density lipoprotein fell in Diet 2 and rose in Diet 3. 	358	query281_Dieting\S\358
+"Diets 2"	"lost"	"the most weight"	358	query281_Dieting\P\358-0
+"Diets 2"	"lost"	"the most fat mass"	358	query281_Dieting\P\358-1
+"3"	"lost"	"the most weight"	2	query281_Dieting\P\358-2
+"3"	"lost"	"the most fat mass"	2	query281_Dieting\P\358-3
+"low density lipoprotein"	"fell"	"in Diet 2 however"	2	query281_Dieting\P\358-4
+"low density lipoprotein"	"fell"	"in Diet 2"	2	query281_Dieting\P\358-5
+"low density lipoprotein"	"rose"	"in Diet 3 however"	2	query281_Dieting\P\358-6
+"low density lipoprotein"	"rose"	"in Diet 3 in Diet 2"	2	query281_Dieting\P\358-7
+"low density lipoprotein"	"rose"	"in Diet 3"	2	query281_Dieting\P\358-8
+Thus the authors concluded that the high-carbohydrate , low-glycemic index diet was the most favorable . 	359	query281_Dieting\S\359
+Thus the authors concluded that the high-carbohydrate , low-glycemic index diet was the most favorable . 	359	query281_Dieting\S\359
+"the authors"	"359 concluded"	"that the high-carbohydrate low-glycemic index diet was the most favorable"	359	query281_Dieting\P\359-0
+"the high-carbohydrate low-glycemic index diet"	"was the favorable"	"most"	359	query281_Dieting\P\359-1
+"the high-carbohydrate low-glycemic index diet"	"was"	"the favorable"	359	query281_Dieting\P\359-2
+A meta-analysis by the Cochrane Collaboration concluded that low glycemic index or low glycemic load diets led to more weight loss and better lipid profiles . 	360	query281_Dieting\S\360
+"A meta-analysis by the Cochrane Collaboration"	"concluded"	"that low glycemic index led to more weight loss"	360	query281_Dieting\P\360-0
+"A meta-analysis by the Cochrane Collaboration"	"concluded"	"that low glycemic low glycemic load diets led to more weight loss and better lipid profiles"	360	query281_Dieting\P\360-1
+"A meta-analysis by the Cochrane Collaboration"	"concluded"	"that low glycemic index led to more weight better lipid profiles"	360	query281_Dieting\P\360-2
+"low glycemic index"	"led"	"to more weight loss"	360	query281_Dieting\P\360-3
+"low glycemic index"	"led"	"to more weight better lipid profiles"	360	query281_Dieting\P\360-4
+"low glycemic low glycemic load diets"	"led"	"to more weight loss"	360	query281_Dieting\P\360-5
+"low glycemic low glycemic load diets"	"led"	"to more weight better lipid profiles"	360	query281_Dieting\P\360-6
+However , the Cochrane Collaboration grouped low glycemic index and low glycemic load diets together and did not try to separate the effects of the load versus the index . 	361	query281_Dieting\S\361
+"the Cochrane Collaboration"	"grouped"	"361 However low glycemic index together"	361	query281_Dieting\P\361-0
+"the Cochrane Collaboration"	"grouped"	"361 However low glycemic low glycemic load diets together"	361	query281_Dieting\P\361-1
+"the Cochrane Collaboration"	"grouped"	"361 However low glycemic index"	361	query281_Dieting\P\361-2
+"the Cochrane Collaboration"	"grouped"	"361 However low glycemic low glycemic load diets"	361	query281_Dieting\P\361-3
+"the Cochrane Collaboration"	"did not try"	"361 However low glycemic index to separate the effects of the load together"	361	query281_Dieting\P\361-4
+"the Cochrane Collaboration"	"did not try"	"361 However low glycemic index to separate the of the load the index together"	361	query281_Dieting\P\361-5
+"the Cochrane Collaboration"	"did not try"	"361 However low glycemic low glycemic load diets to separate the effects of the load together"	361	query281_Dieting\P\361-6
+"the Cochrane Collaboration"	"did not try"	"361 However low glycemic low glycemic load diets to separate the of the load the index together"	361	query281_Dieting\P\361-7
+"the Cochrane Collaboration"	"did not try"	"361 However low glycemic index to separate the effects of the load"	361	query281_Dieting\P\361-8
+"the Cochrane Collaboration"	"did not try"	"361 However low glycemic index to separate the of the load the index"	361	query281_Dieting\P\361-9
+"the Cochrane Collaboration"	"did not try"	"361 However low glycemic low glycemic load diets to separate the effects of the load"	361	query281_Dieting\P\361-10
+"the Cochrane Collaboration"	"did not try"	"361 However low glycemic low glycemic load diets to separate the of the load the index"	361	query281_Dieting\P\361-11
+Thomas DE , Elliott E , Baur L Low glycaemic index or low glycaemic load diets for overweight and obesity Cochrane database of systematic reviews ( Online ) 3 CD005105 2007 17636786 10.1002/14651858.CD005105.pub2 	362	query281_Dieting\S\362
+Thomas Diana Thomas DE , Elliott E , Baur L Low glycaemic index or low glycaemic load diets for overweight and obesity Cochrane database of systematic reviews ( Online ) 3 CD005105 2007 17636786 10.1002/14651858.CD005105.pub2 	363	query281_Dieting\S\363
+Thomas Diana Diet 2 Category :Diets Category :Nutrition Category :Obesity ar :تخسيس cs :Dieta da :Slankekur es :Dieta eo :Dieto ( nutrado ) fr :Régime amaigrissant ko :식이요법 he :דיאטת הרזיה mk :Начин на исхрана arz :ريچييم ja :ダイエット pl :Odchudzanie pt:Dieta sr :Дијета fi:Laihduttaminen sv:Bantning tg :Парҳез yi :דיעטע zh :节食 Subsequent weight re-gain Lowered metabolism , causing future attempts at weight loss to become more difficult , and making weight gain easier Muscle atrophy Risk of developing Eating Disorder , especially Anorexia Nervosa or Bulimia Nervosa , even if initial intentions of dieting were health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems (especially post-nasal drip ) Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition , possibly leading to death Constipation , due to lack of food-intake Dehydration , due to lack of fluid-intake no reduction in cardiovascular disease Howard BV , Van Horn L, Hsia J , et al . 	364	query281_Dieting\S\364
+Thomas Diana Diet 2 Category :Diets Category :Nutrition Category :Obesity ar :تخسيس cs :Dieta da :Slankekur es :Dieta eo :Dieto ( nutrado ) fr :Régime amaigrissant ko :식이요법 he :דיאטת הרזיה mk :Начин на исхрана arz :ريچييم ja :ダイエット pl :Odchudzanie pt:Dieta sr :Дијета fi:Laihduttaminen sv:Bantning tg :Парҳез yi :דיעטע zh :节食 Subsequent weight re-gain Lowered metabolism , causing future attempts at weight loss to become more difficult , and making weight gain easier Muscle atrophy Risk of developing Eating Disorder , especially Anorexia Nervosa or Bulimia Nervosa , even if initial intentions of dieting were health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems (especially post-nasal drip ) Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition , possibly leading to death Constipation , due to lack of food-intake Dehydration , due to lack of fluid-intake no reduction in cardiovascular disease Howard BV , Van Horn L, Hsia J , et al . 	364	query281_Dieting\S\364
+"节食 Subsequent weight re-gain Lowered metabolism"	"be causing"	"future attempts at weight loss to become more difficult"	364	query281_Dieting\P\364-0
+"节食 Subsequent weight Lowered metabolism making weight gain easier Muscle atrophy Risk of developing Eating Disorder even if initial intentions of dieting were health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard BV"	"be causing"	"future attempts at weight loss to become more difficult"	364	query281_Dieting\P\364-1
+"节食 Subsequent weight Lowered metabolism making weight gain easier Muscle atrophy Risk of developing Eating Disorder even if initial intentions of dieting were health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Van Horn L"	"be causing"	"future attempts at weight loss to become more difficult"	364	query281_Dieting\P\364-2
+"节食 Subsequent weight Lowered metabolism making weight gain easier Muscle atrophy Risk of developing Eating Disorder even if initial intentions of dieting were health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Hsia J"	"be causing"	"future attempts at weight loss to become more difficult"	364	query281_Dieting\P\364-3
+"weight gain"	"easier Muscle atrophy Risk"	"of developing Eating Disorder even if initial intentions of dieting were health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard BV"	364	query281_Dieting\P\364-4
+"weight gain"	"easier Muscle atrophy Risk"	"of developing Eating Disorder even if initial intentions of dieting were health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Van Horn L"	364	query281_Dieting\P\364-5
+"weight gain"	"easier Muscle atrophy Risk"	"of developing Eating Disorder even if initial intentions of dieting were health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Hsia J"	364	query281_Dieting\P\364-6
+"weight gain"	"easier Muscle atrophy Risk"	"of developing Eating Disorder"	364	query281_Dieting\P\364-7
+"Eating Disorder"	"is"	"especially Anorexia Nervosa"	364	query281_Dieting\P\364-8
+"Eating Disorder"	"is"	"especially Anorexia Bulimia Nervosa"	364	query281_Dieting\P\364-9
+"initial intentions of dieting"	"were"	"health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard BV"	364	query281_Dieting\P\364-10
+"initial intentions of dieting"	"were"	"health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Van Horn L"	364	query281_Dieting\P\364-11
+"initial intentions of dieting"	"were"	"health-wise Prolonged hunger Depression Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Hsia J"	364	query281_Dieting\P\364-12
+"Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard BV"	"is"	"especially post-nasal drip"	364	query281_Dieting\P\364-13
+"Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Van Horn L"	"is"	"especially post-nasal drip"	364	query281_Dieting\P\364-14
+"Reduced sex drive Fatigue Irritability Fainting Sinus problems Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition possibly leading to death Constipation due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Hsia J"	"is"	"especially post-nasal drip"	364	query281_Dieting\P\364-15
+"Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard BV"	"be leading"	"possibly to death Constipation"	364	query281_Dieting\P\364-16
+"Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Van Horn L"	"be leading"	"possibly to death Constipation"	364	query281_Dieting\P\364-17
+"Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Hsia J"	"be leading"	"possibly to death Constipation"	364	query281_Dieting\P\364-18
+"Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard BV"	"be leading"	"possibly"	364	query281_Dieting\P\364-19
+"Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Van Horn L"	"be leading"	"possibly"	364	query281_Dieting\P\364-20
+"Rash Acidosis Bloodshot eyes Gallbladder disease Seizures Malnutrition due to lack of food-intake Dehydration due to lack of fluid-intake no reduction in cardiovascular disease Howard Hsia J"	"be leading"	"possibly"	364	query281_Dieting\P\364-21
+"cardiovascular disease Howard BV"	"is"	"et al"	364	query281_Dieting\P\364-22
+"cardiovascular disease Howard Van Horn L"	"is"	"et al"	364	query281_Dieting\P\364-23
+"cardiovascular disease Howard Hsia J"	"is"	"et al"	364	query281_Dieting\P\364-24
+Low-fat dietary pattern and risk of cardiovascular disease : the Women 's Health Initiative Randomized Controlled Dietary Modification Trial JAMA 295 6 655–66 2006 16467234 10.1001/jama.295.6.655 	365	query281_Dieting\S\365
+Howard BV , Van Horn L, Hsia J , et al . 	366	query281_Dieting\S\366
+"Howard BV"	"is"	"Hsia J"	366	query281_Dieting\P\366-0
+"Howard Van Horn L"	"is"	"Hsia J"	366	query281_Dieting\P\366-1
+"Howard BV"	"is"	"et al"	366	query281_Dieting\P\366-2
+"Howard Van Horn L"	"is"	"et al"	366	query281_Dieting\P\366-3
+Low-fat dietary pattern and risk of cardiovascular disease : the Women 's Health Initiative Randomized Controlled Dietary Modification Trial JAMA 295 6 655–66 2006 16467234 10.1001/jama.295.6.655 	367	query281_Dieting\S\367
+no statistically significant reduction in invasive breast cancer Prentice RL , Caan B , Chlebowski RT , et al . 	368	query281_Dieting\S\368
+Low-fat dietary pattern and risk of invasive breast cancer : the Women 's Health Initiative Randomized Controlled Dietary Modification Trial JAMA 295 6 629–42 2006 16467232 10.1001/jama.295.6.629 	369	query281_Dieting\S\369
+Prentice RL , Caan B , Chlebowski RT , et al . 	370	query281_Dieting\S\370
+"Prentice RL"	"is"	"Caan B"	370	query281_Dieting\P\370-0
+"Caan B"	"is"	"Chlebowski RT"	370	query281_Dieting\P\370-1
+"Caan B"	"is"	"et al"	370	query281_Dieting\P\370-2
+Low-fat dietary pattern and risk of invasive breast cancer : the Women 's Health Initiative Randomized Controlled Dietary Modification Trial JAMA 295 6 629–42 2006 16467232 10.1001/jama.295.6.629 	371	query281_Dieting\S\371
+no reductions in colorectal cancer Beresford SA , Johnson KC , Ritenbaugh C , et al . 	372	query281_Dieting\S\372
+"colorectal cancer Beresford SA"	"is"	"et al"	372	query281_Dieting\P\372-0
+"colorectal cancer Beresford Johnson KC"	"is"	"et al"	372	query281_Dieting\P\372-1
+"colorectal cancer Beresford Ritenbaugh C"	"is"	"et al"	372	query281_Dieting\P\372-2
+Low-fat dietary pattern and risk of colorectal cancer : the Women 's Health Initiative Randomized Controlled Dietary Modification Trial JAMA 295 6 643–54 2006 16467233 10.1001/jama.295.6.643 	373	query281_Dieting\S\373
+Beresford SA , Johnson KC , Ritenbaugh C , et al . 	374	query281_Dieting\S\374
+"Beresford SA"	"is"	"Johnson KC"	374	query281_Dieting\P\374-0
+"Johnson KC"	"is"	"Ritenbaugh C"	374	query281_Dieting\P\374-1
+"Johnson KC"	"is"	"et al"	374	query281_Dieting\P\374-2
+Low-fat dietary pattern and risk of colorectal cancer : the Women 's Health Initiative Randomized Controlled Dietary Modification Trial JAMA 295 6 643–54 2006 16467233 10.1001/jama.295.6.643 	375	query281_Dieting\S\375
+A comparison of Atkins , Zone diet , Ornish diet , and LEARN diet in premenopausal women found the greatest benefit from the Atkins diet . 	376	query281_Dieting\S\376
+A comparison of Atkins , Zone diet , Ornish diet , and LEARN diet in premenopausal women found the greatest benefit from the Atkins diet . 	376	query281_Dieting\S\376
+"LEARN diet"	"is"	"Zone diet"	376	query281_Dieting\P\376-0
+"LEARN diet"	"is"	"Zone diet"	376	query281_Dieting\P\376-1
+"LEARN diet"	"is"	"Ornish diet"	376	query281_Dieting\P\376-2
+"A comparison of Atkins in premenopausal women"	"found"	"the greatest benefit from the Atkins diet"	376	query281_Dieting\P\376-3
+"A comparison of LEARN diet in premenopausal women"	"found"	"the greatest benefit from the Atkins diet"	376	query281_Dieting\P\376-4
+Gardner CD , Kiazand A , Alhassan S , et al . 	377	query281_Dieting\S\377
+"Gardner CD"	"is"	"Kiazand A"	377	query281_Dieting\P\377-0
+"Kiazand A"	"is"	"Alhassan S"	377	query281_Dieting\P\377-1
+"Kiazand A"	"is"	"et al"	377	query281_Dieting\P\377-2
+Comparison of the Atkins , Zone , Ornish , and LEARN diets for change in weight and related risk factors among overweight premenopausal women : the A TO Z Weight Loss Study : a randomized trial JAMA 297 9 969–77 2007 17341711 10.1001/jama.297.9.969 	378	query281_Dieting\S\378
+Gardner CD , Kiazand A , Alhassan S , et al . 	379	query281_Dieting\S\379
+"Gardner CD"	"is"	"Kiazand A"	379	query281_Dieting\P\379-0
+"Kiazand A"	"is"	"Alhassan S"	379	query281_Dieting\P\379-1
+"Kiazand A"	"is"	"et al"	379	query281_Dieting\P\379-2
+Comparison of the Atkins , Zone , Ornish , and LEARN diets for change in weight and related risk factors among overweight premenopausal women : the A TO Z Weight Loss Study : a randomized trial JAMA 297 9 969–77 2007 17341711 10.1001/jama.297.9.969 	380	query281_Dieting\S\380
+The choice of diet for a specific person may be influenced by measuring the individual 's insulin secretion : In young adults " Reducing glycemic [carbohydrate ] load may be especially important to achieve weight loss among individuals with high insulin secretion . 	381	query281_Dieting\S\381
+"The choice of diet for a specific person"	"may be influenced"	"by measuring the individual 's insulin secretion"	381	query281_Dieting\P\381-0
+"the individual"	"has"	"insulin secretion"	381	query281_Dieting\P\381-1
+"In young adults"	"be Reducing"	"glycemic carbohydrate load"	381	query281_Dieting\P\381-2
+"In young adults Reducing glycemic carbohydrate load"	"may be important"	"especially to achieve weight loss among individuals with high insulin secretion"	381	query281_Dieting\P\381-3
+"In young adults Reducing glycemic carbohydrate load"	"may be important"	"to achieve weight loss among individuals with high insulin secretion"	381	query281_Dieting\P\381-4
+" Ebbeling CB , Leidig MM , Feldman HA , Lovesky MM , Ludwig DS Effects of a low-glycemic load vs low-fat diet in obese young adults : a randomized trial JAMA 297 19 2092–102 2007 17507345 10.1001/jama.297.19.2092 	382	query281_Dieting\S\382
+Ebbeling CB , Leidig MM , Feldman HA , Lovesky MM , Ludwig DS Effects of a low-glycemic load vs low-fat diet in obese young adults : a randomized trial JAMA 297 19 2092–102 2007 17507345 10.1001/jama.297.19.2092 	383	query281_Dieting\S\383
+"Ebbeling CB a randomized trial JAMA 297 19 2092 102 2007 17507345 10.1001 jama .297.19.2092"	"is"	"Ludwig DS Effects of a low-glycemic load in obese young adults"	383	query281_Dieting\P\383-0
+"Ebbeling CB a randomized trial JAMA 297 19 2092 102 2007 17507345 10.1001 jama .297.19.2092"	"is"	"Ludwig DS Effects of a low-glycemic low-fat diet in obese young adults"	383	query281_Dieting\P\383-1
+"Ebbeling CB a randomized trial JAMA 297 19 2092 102 2007 17507345 10.1001 jama .297.19.2092"	"is"	"Leidig MM"	383	query281_Dieting\P\383-2
+"Ebbeling CB a randomized trial JAMA 297 19 2092 102 2007 17507345 10.1001 jama .297.19.2092"	"is"	"Feldman HA"	383	query281_Dieting\P\383-3
+"Ebbeling CB a randomized trial JAMA 297 19 2092 102 2007 17507345 10.1001 jama .297.19.2092"	"is"	"Lovesky MM"	383	query281_Dieting\P\383-4
+This is consistent with prior studies of diabetic patients in which low carbohydrate diets were more beneficial . 	384	query281_Dieting\S\384
+"This"	"is consistent"	"with prior studies of diabetic patients"	384	query281_Dieting\P\384-0
+"This"	"is"	"consistent"	384	query281_Dieting\P\384-1
+"low carbohydrate diets"	"were"	"beneficial diabetic patients in which"	384	query281_Dieting\P\384-2
+"low carbohydrate diets"	"were"	"beneficial more diabetic patients"	384	query281_Dieting\P\384-3
+"low carbohydrate diets"	"were"	"beneficial diabetic patients"	384	query281_Dieting\P\384-4
+Stern L, Iqbal N , Seshadri P , et al . 	385	query281_Dieting\S\385
+"Stern L"	"is"	"Iqbal N"	385	query281_Dieting\P\385-0
+"Stern L"	"is"	"Seshadri P"	385	query281_Dieting\P\385-1
+"Stern L"	"is"	"et al"	385	query281_Dieting\P\385-2
+The effects of low-carbohydrate versus conventional weight loss diets in severely obese adults : one-year follow-up of a randomized trial Ann . 	386	query281_Dieting\S\386
+Intern . 	387	query281_Dieting\S\387
+Med . 	388	query281_Dieting\S\388
+140 10 778–85 2004 15148064 Stern L, Iqbal N , Seshadri P , et al . 	389	query281_Dieting\S\389
+"85 2004 15148064 Stern L"	"is"	"et al"	389	query281_Dieting\P\389-0
+"85 2004 15148064 Stern L"	"is"	"Iqbal N"	389	query281_Dieting\P\389-1
+"85 2004 15148064 Stern L"	"is"	"Seshadri P"	389	query281_Dieting\P\389-2
+The effects of low-carbohydrate versus conventional weight loss diets in severely obese adults : one-year follow-up of a randomized trial Ann . 	390	query281_Dieting\S\390
+Intern . 	391	query281_Dieting\S\391
+Med . 	392	query281_Dieting\S\392
+140 10 778–85 2004 15148064 Garg A , Bantle JP , Henry RR , et al . 	393	query281_Dieting\S\393
+"85 2004 15148064 Garg A"	"is"	"et al"	393	query281_Dieting\P\393-0
+"85 2004 15148064 Garg A"	"is"	"Bantle JP"	393	query281_Dieting\P\393-1
+"85 2004 15148064 Garg A"	"is"	"Henry RR"	393	query281_Dieting\P\393-2
+Effects of varying carbohydrate content of diet in patients with non-insulin-dependent diabetes mellitus JAMA 271 18 1421–8 1994 7848401 10.1001/jama.271.18.1421 	394	query281_Dieting\S\394
+Garg A , Bantle JP , Henry RR , et al . 	395	query281_Dieting\S\395
+"Garg A"	"is"	"Bantle JP"	395	query281_Dieting\P\395-0
+"Garg A"	"is"	"Henry RR"	395	query281_Dieting\P\395-1
+"Garg A"	"is"	"et al"	395	query281_Dieting\P\395-2
+Effects of varying carbohydrate content of diet in patients with non-insulin-dependent diabetes mellitus JAMA 271 18 1421–8 1994 7848401 10.1001/jama.271.18.1421 	396	query281_Dieting\S\396
+Diet 1 and 2 were high carbohydrate ( 55 % of total energy intake ) Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 and 4 were high protein ( 25 % of total energy intake ) Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 was high-glycemic index Diet 4 was low-glycemic index Body image Eating disorder Carbon footprint Crash diet Dietitian Fasting Food Balance Wheel Food faddism Healthy diet Intermittent fasting List of diets National Weight Control Registry Nutrigenomics Nutritional rating systems Nutrition scale High residue diet Underweight Online weight loss plans American Dietetic Association . 	397	query281_Dieting\S\397
+"Diet 1"	"were"	"high carbohydrate 55 % of total energy intake"	397	query281_Dieting\P\397-0
+"Diet 2"	"were"	"high carbohydrate 55 % of total energy intake"	397	query281_Dieting\P\397-1
+"Diet 1"	"was"	"high-glycemic index Diet 2"	397	query281_Dieting\P\397-2
+"Diet 1 was high-glycemic index Diet 2"	"was"	"low-glycemic index Diet 3"	397	query281_Dieting\P\397-3
+"Diet 1 was high-glycemic index Diet 2"	"was"	"low-glycemic index 3 4"	397	query281_Dieting\P\397-4
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3"	"were"	"high protein 25 % of total energy intake Diet 3"	397	query281_Dieting\P\397-5
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index 3 4"	"were"	"high protein 25 % of total energy intake Diet 3"	397	query281_Dieting\P\397-6
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 were high protein 25 % of total energy intake Diet 3"	"was"	"high-glycemic index Diet 4"	397	query281_Dieting\P\397-7
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index 3 4 were high protein 25 % of total energy intake Diet 3"	"was"	"high-glycemic index Diet 4"	397	query281_Dieting\P\397-8
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4"	"was"	"low-glycemic index Diet 1"	397	query281_Dieting\P\397-9
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index 3 4 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4"	"was"	"low-glycemic index Diet 1"	397	query281_Dieting\P\397-10
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1"	"was"	"high-glycemic index Diet 2"	397	query281_Dieting\P\397-11
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index 3 4 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1"	"was"	"high-glycemic index Diet 2"	397	query281_Dieting\P\397-12
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2"	"was"	"low-glycemic index Diet 3"	397	query281_Dieting\P\397-13
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index 3 4 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2"	"was"	"low-glycemic index Diet 3"	397	query281_Dieting\P\397-14
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3"	"was"	"high-glycemic index Diet 4"	397	query281_Dieting\P\397-15
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index 3 4 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3"	"was"	"high-glycemic index Diet 4"	397	query281_Dieting\P\397-16
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 was high-glycemic index Diet 4"	"was"	"low-glycemic index Body image Eating disorder Carbon footprint Crash diet Dietitian Fasting Food Balance Wheel Food faddism Healthy diet Intermittent fasting List of diets National Weight Control Registry Nutrigenomics Nutritional rating systems Nutrition scale High residue diet Underweight Online weight loss high carbohydrate 55 % of total energy intake"	397	query281_Dieting\P\397-17
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index 3 4 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 was high-glycemic index Diet 4"	"was"	"low-glycemic index Body image Eating disorder Carbon footprint Crash diet Dietitian Fasting Food Balance Wheel Food faddism Healthy diet Intermittent fasting List of diets National Weight Control Registry Nutrigenomics Nutritional rating systems Nutrition scale High residue diet Underweight Online weight loss high carbohydrate 55 % of total energy intake"	397	query281_Dieting\P\397-18
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 was high-glycemic index Diet 4"	"was"	"low-glycemic index Body image Eating disorder Carbon footprint Crash diet Dietitian Fasting Food Balance Wheel Food faddism Healthy diet Intermittent fasting List plans American Dietetic Association high carbohydrate 55 % of total energy intake"	397	query281_Dieting\P\397-19
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index 3 4 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 was high-glycemic index Diet 4"	"was"	"low-glycemic index Body image Eating disorder Carbon footprint Crash diet Dietitian Fasting Food Balance Wheel Food faddism Healthy diet Intermittent fasting List plans American Dietetic Association high carbohydrate 55 % of total energy intake"	397	query281_Dieting\P\397-20
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 was high-glycemic index Diet 4"	"was"	"low-glycemic index Body image Eating disorder Carbon footprint Crash diet Dietitian Fasting Food Balance Wheel Food faddism Healthy diet Intermittent fasting List high carbohydrate 55 % of total energy intake"	397	query281_Dieting\P\397-21
+"Diet 1 was high-glycemic index Diet 2 was low-glycemic index 3 4 were high protein 25 % of total energy intake Diet 3 was high-glycemic index Diet 4 was low-glycemic index Diet 1 was high-glycemic index Diet 2 was low-glycemic index Diet 3 was high-glycemic index Diet 4"	"was"	"low-glycemic index Body image Eating disorder Carbon footprint Crash diet Dietitian Fasting Food Balance Wheel Food faddism Healthy diet Intermittent fasting List high carbohydrate 55 % of total energy intake"	397	query281_Dieting\P\397-22
+"low-glycemic index Body image Eating disorder Carbon footprint Crash diet Dietitian Fasting Food Balance Wheel Food faddism Healthy diet Intermittent fasting List of diets National Weight Control Registry Nutrigenomics Nutritional rating systems Nutrition scale High residue diet Underweight Online weight loss"	"be plans"	"American Dietetic Association"	397	query281_Dieting\P\397-23
+2003 . 	398	query281_Dieting\S\398
+Position paper on vegetarian diets . 	399	query281_Dieting\S\399
+J Am Diet Assoc. 	400	query281_Dieting\S\400
+103 :748-765 . 	401	query281_Dieting\S\401
+Curley , Sandra and Mark, The Natural Guide to Good Health . 	402	query281_Dieting\S\402
+"Curley"	"is"	"Sandra"	402	query281_Dieting\P\402-0
+"Curley"	"is"	"Mark"	402	query281_Dieting\P\402-1
+"Curley"	"is"	"The Natural Guide to Good Health"	402	query281_Dieting\P\402-2
+Lafayette , Louisiana . 	403	query281_Dieting\S\403
+"Lafayette"	"is in"	"Louisiana"	403	query281_Dieting\P\403-0
+Supreme Publishing 1990 Dansinger , M.L. 	404	query281_Dieting\S\404
+"Supreme Publishing 1990 Dansinger"	"is"	"M.L."	404	query281_Dieting\P\404-0
+, Gleason , J. 	405	query281_Dieting\S\405
+"Gleason"	"is"	"J."	405	query281_Dieting\P\405-0
+L. 	406	query281_Dieting\S\406
+, Griffith , J.L. 	407	query281_Dieting\S\407
+, Griffith , J.L. 	407	query281_Dieting\S\407
+, et al . 	408	query281_Dieting\S\408
+, " One Year Effectiveness of the Atkins , Ornish , Weight Watchers , and Zone Diets in Decreasing Body Weight and Heart Disease Risk" , Presented at the American Heart Association Scientific Sessions November 12 , 2003 in Orlando , Florida . 	409	query281_Dieting\S\409
+"Atkins in Decreasing Body Weight"	"be Presented"	"at the American Heart Association Scientific Sessions November 12 2003 in Orlando"	409	query281_Dieting\P\409-0
+"Ornish in Decreasing Body Weight"	"be Presented"	"at the American Heart Association Scientific Sessions November 12 2003 in Orlando"	409	query281_Dieting\P\409-1
+"Ornish in Decreasing Body Heart Disease Risk"	"be Presented"	"at the American Heart Association Scientific Sessions November 12 2003 in Orlando"	409	query281_Dieting\P\409-2
+"Weight Watchers in Decreasing Body Weight"	"be Presented"	"at the American Heart Association Scientific Sessions November 12 2003 in Orlando"	409	query281_Dieting\P\409-3
+"Weight Watchers in Decreasing Body Heart Disease Risk"	"be Presented"	"at the American Heart Association Scientific Sessions November 12 2003 in Orlando"	409	query281_Dieting\P\409-4
+"Zone Diets in Decreasing Body Weight"	"be Presented"	"at the American Heart Association Scientific Sessions November 12 2003 in Orlando"	409	query281_Dieting\P\409-5
+"Zone Diets in Decreasing Body Heart Disease Risk"	"be Presented"	"at the American Heart Association Scientific Sessions November 12 2003 in Orlando"	409	query281_Dieting\P\409-6
+"Atkins in Decreasing Body Heart Disease Risk"	"be Presented"	"at the American Heart Association Scientific Sessions November 12 2003 in Orlando"	409	query281_Dieting\P\409-7
+"Atkins in Decreasing Body Heart Disease Risk"	"be Presented"	"at the American Heart Association Scientific Sessions November 12 2003 in Orlando"	409	query281_Dieting\P\409-8
+) Davis , B. 	410	query281_Dieting\S\410
+"Davis"	"is"	"B."	410	query281_Dieting\P\410-0
+and Melina , V. 	411	query281_Dieting\S\411
+2000 . 	412	query281_Dieting\S\412
+Becoming Vegan . 	413	query281_Dieting\S\413
+pg . 	414	query281_Dieting\S\414
+22 . 	415	query281_Dieting\S\415
+Wansink , B. 	416	query281_Dieting\S\416
+"Wansink"	"is"	"B."	416	query281_Dieting\P\416-0
+Mindless Eating : Why We Eat More Than We Think , New York : Bantam Dell ( 2006 ) . 	417	query281_Dieting\S\417
+Mindless Eating : Why We Eat More Than We Think , New York : Bantam Dell ( 2006 ) . 	417	query281_Dieting\S\417
+Mindless Eating : Why We Eat More Than We Think , New York : Bantam Dell ( 2006 ) . 	417	query281_Dieting\S\417
+"Bantam Dell"	"is"	"2006"	417	query281_Dieting\P\417-0
+Cheraskin , Emmanuel , M.D. 	418	query281_Dieting\S\418
+"Cheraskin"	"is"	"Emmanuel"	418	query281_Dieting\P\418-0
+"Cheraskin"	"is"	"M.D."	418	query281_Dieting\P\418-1
+, D.M.D.. 	419	query281_Dieting\S\419
+, D.M.D.. 	419	query281_Dieting\S\419
+. 	420	query281_Dieting\S\420
+“The Breakfast/Lunch/Dinner Ritual” , Journal of Orthomolecular Medicine Vol.8 	421	query281_Dieting\S\421
+"The Breakfast/Lunch/Dinner Ritual"	"is"	"Journal of Orthomolecular Medicine Vol .8"	421	query281_Dieting\P\421-0
+, No.1 	422	query281_Dieting\S\422
+, No.1 	422	query281_Dieting\S\422
+, 1993 . 	423	query281_Dieting\S\423
+, 1993 . 	423	query281_Dieting\S\423
+Appleton , Nancy , Ph.D. 	424	query281_Dieting\S\424
+"Appleton"	"is"	"Nancy"	424	query281_Dieting\P\424-0
+"Appleton"	"is"	"Ph.D."	424	query281_Dieting\P\424-1
+, “Nibbling , Grazing and Frequent Meals ” . 	425	query281_Dieting\S\425
+, “Nibbling , Grazing and Frequent Meals ” . 	425	query281_Dieting\S\425
+, “Nibbling , Grazing and Frequent Meals ” . 	425	query281_Dieting\S\425
+, “Nibbling , Grazing and Frequent Meals ” . 	425	query281_Dieting\S\425
+Health/Weight_Loss/ . 	426	query281_Dieting\S\426
+Excerpt from Good Calories , Bad Calories and NPR interview with Gary Taubes and Dr. 	427	query281_Dieting\S\427
+Ronald Krauss ( November 2 , 2007 ) . 	428	query281_Dieting\S\428
+"Ronald Krauss"	"is"	"November 2 2007"	428	query281_Dieting\P\428-0

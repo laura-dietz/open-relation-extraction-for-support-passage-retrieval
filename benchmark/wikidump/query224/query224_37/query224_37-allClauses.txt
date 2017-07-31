@@ -1,0 +1,441 @@
+0	SVC (S: salt@5, V: "is", C: NaCl@7)	SVA (V: "be boiled", S: thumb300pxBrinebeing@10, XCOMP: produce@14)	SVO (S: inZigong_People@20, V: "has", O: Republic@22)
+1	SVA (V: "be known", S: Salt@1, A!: also@3, A?: as@5)	SVC (C: mineral@15, V: is@13, S: Salt@1)	SVA (V: composed@18, S: mineral@15, A!: of@20)	SVC (S: chloride@22, V: "is", C: NaCl@24)	SVC (S: chloride@22, V: "is", C: compound@29)	SVA (V: "be belonging", S: compound@29, A!: to@31)
+2	SVC (C: essential@3, V: is@2, S: It@1, A?: for@4)	SVC (C: harmful@13, V: is@2, S: It@1, A?: for@4, A?: to@14, A?: in@18)
+3	SVC (C: one@3, V: is@2, S: Salt@1, A?: of@4)	SVC (C: method@17, V: is@14, S: one@3, A?: of@18)
+4	SVC (S: salt@4, V: "is", C: saltiness@6)	SVC (C: one@9, V: is@8, S: taste@2, A?: of@10)
+5	SVA (V: produced@6, S: Salt@1, A!: in@7)	SVC (S: salt@21, V: "is", C: table@23)
+6	SVC (C: pink@10, V: is@2, S: It@1, A?: in@14, A?: obtained@18)	SVA (V: "be obtained", S: pink@10, A!: normally@17, A?: from@19)
+7	SVC (C: grayish@7, V: be@5, S: salts@3, A?: slightly@6, A?: in@8, A?: of@11)
+8	SVC (S: ions@4, V: "is", C: components@9)	SVA (V: needed@14, S: ions@4, A!: by@15)
+9	SVA (V: involved@3, S: Salt@1, A!: in@4)	SVC (S: content@8, V: "is", C: balance@11)
+10	SVA (V: used@6, S: ion@3, A!: for@7)
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	SVO (S: its@24, V: "has", O: importance@25)	SVOO (V: considered@33, S: salt@29, A?: often@31, O: commodity@36, A?: during@37, IO: Proceedings@1)
+20	SVA (V: increased@7, S: consumption@5, A!: during@8)	SVC (V: become@14, S: scientists@12, A?: However@1, A?: increased@7, ACOMP: aware@15)	SVA (V: "be associated", S: risks@19, A!: with@21)
+21	SVO (V: recommended@5, S: authorities@3, A?: Therefore@1, O: limitations@6)
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	SVA (V: Eat@3, S: Chloride@2, A!: Well@4)
+36	
+37	
+38	SVC (S: Living@5, V: "is", C: Sodium@7)	SVO (V: recommends@25, S: Canada@2, CCOMP: consume@28)	SVO (V: consume@28, S: individuals@27, O: no@29)	SVO (V: depending@48, S: mg@35, A?: on@49, O: no@29)
+39	SVC (S: Saxony-Anhalt@30, V: "is", C: 1670@32)	SVOC (V: used@47, S: people@45, O: canning@48, XCOMP: preserve@53)	SVOC (C: preservative@69, V: been@65, S: salt@63, O: Department@3)
+40	SVA (V: discovered@14, S: operation@11, A!: at@15, A?: next@21)	SVA (S: County@30, V: "is in", C: Romania@32)
+41	SVO (V: indicates@2, S: Evidence@1, CCOMP: boiling@11)	SVO (V: boiling@11, S: people@5, O: water@15, A?: through@16, A?: extract@22)	SVA (V: "be extract", S: people@5, O: salt@24, A!: as@25)
+42	SVC (S: Weller@2, V: "is", C: Vol@8)	SVA (V: "be extracted", S: salt@15, A!: from@17)	SVOO (V: had@22, S: No@10, O: correlation@25, A?: began@40, IO: Vol@8)	SVO (S: society@32, V: "has", O: population@34)	SVO (S: its@37, V: "has", O: production@39)	SV (V: began@40, S: production@39)
+43	SVA (V: "be making", S: harvest@23, XCOMP: one@48)	SVO (V: dates@38, S: China@37, A?: back@39, A?: to@40, O: harvest@23)	SVA (V: one@48, S: it@47, A!: of@49)
+44	SVA (V: included@12, S: Kurlansky@1, A!: among@13, A?: birds@30)	SVA (V: included@12, S: Salt@10, A!: among@13, A?: birds@30)	SVA (V: "be found", S: offerings@15, A!: in@17, A?: from@21)
+45	SVOC (V: began@11, S: Egyptians@10, CCOMP: 38@1, XCOMP: exporting@12)	SVO (V: traded@34, S: Phoenicia@33, O: fish@37, A?: from@40, A?: throughout@43)	SVO (S: their@44, V: "has", O: empire@47)
+46	SVO (V: maintain@10, S: Tuareg@9, O: routes@11, A?: for@13)	SVC (S: Azalai@19, V: "is", C: caravans@22)
+47	SVO (V: transported@7, S: caravans@5, A?: In@1, A?: still@6, O: tons@10)	SVA (V: declined@19, S: trade@16, A?: now@18, A!: to@20)
+48	SVA (V: "be based", S: Wereld@2, A!: on@8)	SVO (S: Gersi@10, V: "has", O: travels@12)	SVA (V: lie@20, S: Wereld@2, A!: on@21, A?: within@29)
+49	SV (V: means@3, S: Salzach@1, A?: literally@2)	SV (V: water@6, S: Salzach@1, A?: literally@2)	SV (V: city@12, S: Salzach@1, A?: literally@2)	SVA (V: "be taking", S: both@15, O: names@18, A!: from@19)	SVO (S: their@17, V: "has", O: names@18)	SVC (S: salt@24, V: "is", C: Salz@27)
+50	SVO (V: gave@2, S: Hallstatt@1, O: name@4, A?: to@5)	SVO (S: its@3, V: "has", O: name@4)	SVO (V: began@11, S: culture@9, XCOMP: mining@12)
+51	SVA (V: mined@12, S: Celts@7, A?: heretofore@11, A!: for@13)	SVO (V: began@16, S: Celts@7, A?: Around@1, XCOMP: making@20)	SV (V: making@20, S: salt@19)
+52	SVO (V: grew@9, S: communities@8, A?: During@1, O: salt@12, A?: to@16, A?: in@22)
+53	SVA (V: originates@4, S: salary@3, A!: from@5)	SVA (V: referred@8, S: salarium@6, A!: to@9)	SVA (V: "be paid", S: money@11, A!: to@13, A?: for@19)	SVO (S: Army@16, V: "has", O: soldiers@18)
+54	SVC (S: Dictionary@8, V: "is", C: Answers.com@16)
+55	
+56	SVC (S: Dictionary@5, V: "is", C: Answers.com@13)
+57	
+58	SV (V: means@6, S: 2008-12-14@1, A?: literally@5)	SVA (V: comes@12, S: 2008-12-14@1, A?: literally@5, A!: from@13)
+59	SVOA (V: led@6, S: Gandhi@5, O: people@10, A!: on@11)	SVO (V: made@26, S: protesters@25, A?: in@23, O: salt@29, A?: from@30, A?: avoided@43)	SVO (S: their@27, V: "has", O: salt@29)	SVC (C: illegal@36, V: was@35, S: sea@32, A?: under@37)	SVO (V: avoided@43, S: it@42, XCOMP: paying@44)
+60	SVO (V: inspired@4, S: disobedience@3, O: millions@5)	SVOC (V: elevated@11, S: disobedience@3, O: millions@5, O: movement@15, A?: from@16)
+61	SVA (V: "be giving", S: pack@9, O: flavor@25)	SVO (V: have@16, S: pack@9, O: mineralities@18, A?: giving@20)
+62	SVC (S: sel@3, V: "is", C: salt@8)	SVO (V: has@19, S: sel@3, O: flavor@22)	SVA (V: "be varying", S: flavor@22, A!: from@24, A?: to@26)
+63	SVA (V: prepared@12, S: salt@9, A!: by@13)
+64	
+65	
+66	
+67	
+68	
+69	SVA (V: plugged@12, S: PA45@7, A!: with@13, A?: at@15)
+70	SVO (V: absorbs@3, S: product@2, O: minerals@4, A?: from@5)	SVOC (V: shown@15, S: product@2, O: minerals@4, A?: from@5, XCOMP: increase@17)
+71	SVC (S: Shahidi@1, V: "is", C: Fereidoon@3)	SVC (S: Ho@28, V: "is", C: salt@44)	SVC (C: bitter@46, V: is@45, S: Ho@28, A?: of@48)
+72	SVO (V: cites@5, S: industry@4, O: studies@7)	SVA (V: "be saying", S: studies@7, CCOMP: contain@17)	SVO (V: contain@17, S: sea@11, O: salts@20)	SVA (V: "be prevent", S: salts@20, O: diseases@25)
+73	
+74	
+75	
+76	
+77	SVA (V: used@13, S: salts@9, A?: also@11, A?: commonly@12, A!: as@14)
+78	SVC (C: salts@5, V: is@3, S: example@2)	SVO (V: uses@8, S: salts@5, O: salt@10, A?: as@11)	SVO (S: its@12, V: "has", O: ingredient@14)	SVO (S: its@23, V: "has", O: healing@25)
+79	SVA (V: used@15, S: salt@9, A?: widely@14, A!: presently@16)	SVC (C: chloride@21, V: is@18, S: salt@9, A?: mainly@19)
+80	
+81	
+82	
+83	
+84	SVO (V: uses@6, S: food@5, A?: worldwide@3, O: account@7, A?: for@8)
+85	
+86	
+87	
+88	
+89	
+90	SVA (V: sold@4, S: majority@2, A!: for@5)
+91	SVO (V: has@2, S: Salt@1, O: value@5, A?: ingredient@11)	SVC (C: ingredient@11, V: is@8, S: it@7, A?: in@12)
+92	SVO (V: include@5, S: examples@4, O: production@8)
+93	SVC (C: one@8, V: is@7, S: manufacture@2, A?: of@9)
+94	
+95	
+96	
+97	
+98	
+99	SVA (V: obtained@4, S: Salt@1, A!: by@5, A?: in@12)	SVA (V: "be warmed", S: basins@14, A!: by@16)
+100	
+101	
+102	
+103	SVA (V: "be obtained", S: salt@1, A-: so@2)	SVO (V: called@6, S: salt@1, A?: formerly@5, XCOMP: salt@8)	SVO (V: called@14, S: salt@1, A?: formerly@5, XCOMP: salt@8, A?: now@12, A?: often@13)
+104	SVA (V: formed@5, S: deposits@3, A!: by@6)	SVA (V: mined@22, S: deposits@3, A?: by@6, A!: conventionally@23)	SVC (S: lakes@12, V: "is", C: Association@18)	SVO (S: Manufacturers@16, V: "has", O: Association@18)
+105	SVO (V: dissolves@3, S: water@2, O: salt@5)	SVA (V: pumped@13, S: solution@10, A!: to@14)	SVO (V: collected@21, S: salt@19, A?: where@17, O: surface@16)
+106	SVO (S: theDevil@5, V: "has", O: view@15)	SVO (S: atDevil@19, V: "has", O: Course@22)	SV (V: obtained@28, S: salt@26)	SVO (V: refined@32, S: it@30, XCOMP: purify@34)	SVO (S: its@38, V: "has", O: storage@39)
+107	SVO (V: involves@3, S: Purification@1, A?: usually@2, O: recrystallization@4)
+108	SVA (V: treated@8, S: solution@6, A?: In@1, A!: with@9)	SVO (V: precipitate@12, S: chemicals@10, O: impurities@14)
+109	
+110	SVA (V: stages@6, S: Association@4, A!: of@7)	SVO (V: used@11, S: stages@6, A-: then@10, XCOMP: collect@13)	SVC (C: kiln@21, V: are@20, S: crystals@17)
+111	SVA (V: used@7, S: salt@5, A?: In@1, A!: in@8)	SVC (V: made@13, S: salt@5, A?: In@1, A?: in@8, A?: also@12, ACOMP: available@14)
+112	SVO (V: refined@4, S: salt@2, O: salt@5)	SVO (V: contains@8, S: salt@5, O: chloride@16)
+113	
+114	
+115	SVA (V: "be provided", S: analysis@6, A!: with@8)	SVO (V: states@12, S: analysis@6, O: 38.9@13)
+116	SVO (V: equals@6, S: sodium@2, O: 97.3@7)
+117	
+118	
+119	SVA (V: "be provided", S: analysis@6, A!: with@8)	SVO (V: states@12, S: analysis@6, O: 38.9@13)
+120	SVO (V: equals@6, S: sodium@2, O: 97.3@7)
+121	
+122	
+123	
+124	
+125	
+126	
+127	
+128	
+129	SVO (V: contains@3, S: It@1, A?: usually@2, O: substances@4)	SVO (V: make@6, S: substances@4, O: it@7)
+130	SVO (V: add@4, S: people@2, A?: also@3, O: desiccant@6)	SVC (S: rice@15, V: "is", C: http@17)
+131	SVOC (V: Ask@5, S: Rice@1, O: http@9, O: www.newton.dep.anl.gov/askasci/gen01/gen01420.htm@13)
+132	SVOC (V: Ask@5, S: Rice@1, O: 2008-07-29@8, O: ww3.komotv.com@17)
+133	
+134	SVO (V: break@18, S: help@17, O: clumps@20, A?: enough@26)	SVC (C: enough@26, V: are@24, S: agents@23, A?: when@21)
+135	SVO (V: has@3, S: salt@2, O: density@6)
+136	SVC (S: density@7, V: "is", C: gradation@14)
+137	
+138	
+139	
+140	
+141	
+142	SVA (V: "be sold", S: salt@9, A!: for@11)	SVO (V: contains@13, S: salt@9, O: variety@15, A?: in@28)	SVO (V: address@20, S: additives@17, O: variety@22)
+143	SVA (V: vary@5, S: amounts@2, A!: widely@6, A?: from@7)
+144	SVA (V: "be containing", S: Iodine@3, O: compounds@6)	SVA (V: added@8, S: Iodine@3, A!: to@9)
+145	SVO (V: affects@3, S: deficiency@2, O: people@7)	SVOC (C: cause@13, V: is@9, S: deficiency@2, O: people@7, A?: of@14)
+146	
+147	
+148	SVO (S: World@7, V: "has", O: I.Q.@9)
+149	
+150	
+151	
+152	SVO (S: World@7, V: "has", O: I.Q.@9)
+153	
+154	SVA (V: began@9, S: Jr@1, A!: in@10)
+155	SVO (V: rains@6, S: it@5, A?: When@4, O: H@2)	SVO (V: pours@8, S: it@7, O: rains@6)	SVC (S: goiter@12, V: "is", C: journal@24)
+156	SVO (V: rains@7, S: it@6, A?: When@5, O: H@3)	SVO (V: pours@9, S: it@8, O: rains@7)	SVC (S: goiter@13, V: "is", C: journal@25)
+157	SV (V: is@4, S: table@6)	SVA (V: "be mixed", S: salt@7, A!: with@9)
+158	SVO (V: used@4, S: salt@2, XCOMP: help@6)
+159	SVA (V: leads@4, S: deficiency@2, A?: commonly@3, A!: to@5)	SVC (S: problems@8, V: "is", C: goiter@12)	SVC (S: goiter@12, V: "is", C: disease@15)	SVA (V: "be characterized", S: disease@15, A!: by@17)	SVA (V: "be resulting", S: swelling@19, A!: usually@25, A?: in@27)
+160	SVO (V: reduced@6, S: salt@3, A?: significantly@5, O: disorders@7)	SVO (V: used@16, S: it@14, A?: where@13, O: countries@12)
+161	
+162	
+163	
+164	
+165	SVC (C: important@9, V: is@8, S: Iodine@7, XCOMP: prevent@11)	SVC (S: hormone@17, V: "is", C: hypothyroidism@19)	SVO (V: cause@24, S: production@14, O: goitre@25, A?: in@33)
+166	SVA (V: added@10, S: amount@2, A!: to@11)
+167	SVO (V: recommends@11, S: Administration@10, A?: In@1, O: CFR@14)
+168	SVC (S: c@2, V: "is", C: iv@8)
+169	SVO (V: iodized@2, S: US@1, CCOMP: contains@4)	SVO (V: contains@4, S: salt@3, O: 46@5)	SVC (S: ppm@8, V: "is", C: parts@10)	SVO (V: recommended@26, S: content@21, A?: in@16, XCOMP: 10@29)
+170	SV (V: http@17, S: Paper@2)
+171	SV (V: http@24, S: Paper@9)
+172	SVC (S: December@6, V: "is", C: salt@11)	SVOC (C: common@14, V: is@12, S: December@6, A?: more@13, A?: in@15, A?: than@24, O: Health@2)
+173	SVA (V: benefited@7, S: countries@3, A!: from@8)	SVA (V: added@18, S: salts@16, A?: in@2, A!: to@19)
+174	SVC (C: common@5, V: is@3, S: practice@2, A?: more@4, A?: in@6)	SVO (V: practiced@16, S: fluoridation@13, A?: where@11, O: countries@9)
+175	SVO (V: contains@10, S: %@5, A?: In@1, O: fluoride@12)
+176	
+177	
+178	SVA (V: "be known", S: ferrocyanide@2, A!: also@4, A?: as@6)	SVA (V: added@14, S: ferrocyanide@2, A?: sometimes@13, A!: to@15, A?: as@17)
+179	SVO (V: considered@4, S: additive@2, XCOMP: safe@5)
+180	
+181	
+182	
+183	SVA (V: added@6, S: agents@3, A!: since@7)	SVOC (V: added@16, S: carbonate@13, A?: when@11, A?: first@15, A?: to@17, XCOMP: make@20, O: 1911@10)	SVA (V: flow@22, S: it@21, A!: freely@24)
+184	
+185	
+186	
+187	
+188	
+189	SVOC (V: found@15, S: safety@6, XCOMP: acceptable@19, O: Association@4)
+190	
+191	
+192	
+193	
+194	SVO (V: include@5, S: agents@4, O: phosphate@7)	SVC (S: salts@16, V: "is", C: salt@19)
+195	SVC (S: Administration@12, V: "is", C: FDA@14)	SVO (V: permitted@16, S: Union@4, O: use@18)
+196	
+197	SVC (S: Mason@1, V: "is", C: School@3)	SVC (S: Mason@1, V: "is", C: iodide@20)	SVC (S: Mason@1, V: "is", C: University@11)	SV (V: added@25, S: Mason@1)
+198	SVA (V: interferes@9, S: anemia@6, A!: with@10)
+199	SVC (C: fumarate@7, V: is@5, S: source@4)
+200	SVC (C: acid@12, V: is@10, S: additive@2)	SVC (S: acid@12, V: "is", C: B@15)	SVO (V: gives@20, S: acid@12, O: table@22)
+201	SVO (V: helps@3, S: acid@2, O: prevent@4)	SVC (S: defect@7, V: "is", C: NTDs@9)	SVO (V: affect@15, S: prevent@4, O: mothers@17)
+202	SVC (S: brand@7, V: "is", C: Salt@10)	SVO (V: contains@12, S: brand@7, A?: In@1, O: syrup@15)
+203	SVA (V: used@13, S: salt@9, A?: July@1, A?: traditionally@12, A!: as@14)
+204	
+205	
+206	
+207	
+208	
+209	SVO (S: its@2, V: "has", O: place@3)	SVO (V: tend@16, S: condiments@5, A?: In@1, XCOMP: have@18)
+210	SVA (V: used@5, S: They@1, A?: often@4, A!: for@6)
+211	SVA (V: lead@20, S: thumbScanning@1, A!: to@21)	SVO (V: cause@33, S: cramps@23, O: problems@35)
+212	
+213	
+214	
+215	
+216	SVOA (V: puts@11, S: Drinking@1, O: person@13, A!: at@14)	SVC (S: intoxication@18, V: "is", C: hyponatremia@20)
+217	SVA (V: used@4, S: Salt@1, A?: sometimes@3, A!: as@5)
+218	
+219	
+220	
+221	
+222	SVA (V: occur@3, S: Death@1, A!: by@4, A?: about@16)
+223	
+224	
+225	SVA (V: resulted@4, S: Deaths@1, A?: also@3, A!: from@5)
+226	
+227	
+228	SVC (S: Schulz@9, V: "is", C: F@10)	SVC (S: Gehl@13, V: "is", C: A@14)
+229	
+230	SVC (C: controversial@38, V: is@37, S: Tsokos@15)
+231	
+232	
+233	
+234	
+235	SVC (V: appears@3, S: reduction@2, XCOMP: have@5)	SVC (S: Ashton@14, V: "is", C: KE@16)	SVC (S: Meta-Analysis@40, V: "is", C: Review@47)
+236	SVC (S: Ashton@3, V: "is", C: KE@5)	SVC (S: Meta-Analysis@29, V: "is", C: Review@36)
+237	SVO (S: its@2, V: "has", O: effect@3)	SVC (C: unknown@7, V: is@6, S: effect@3)
+238	SV (V: include@3, S: associations@2)	SVA (V: found@8, S: Collaboration@7, A!: that@9)
+239	
+240	SVO (S: our@3, V: "has", O: study@4)	SVC (C: consistent@6, V: is@5, S: study@4, A?: Furthermore@1, A?: with@7)	SVC (S: intake@15, V: "is", C: lower@18)
+241	
+242	
+243	SVC (S: Effect@1, V: "is", C: MacGregor@13)	SVO (V: FJ@11, S: He@10, O: pressure@9)
+244	
+245	SVC (S: Effect@1, V: "is", C: MacGregor@13)	SVO (V: FJ@11, S: He@10, O: pressure@9)	SVOC (V: found@43, S: Collaboration@25, XCOMP: consume@45, O: Reviews@22)
+246	SVO (V: indicate@3, S: This@1, O: adaptation@5)	SVA (V: originated@14, S: sodium@12, A!: in@15)
+247	
+248	
+249	SV (V: varies@38, S: Nelson@21)	SV (V: varies@38, S: Silva@26)
+250	SVO (V: asserted@3, S: Some@1, CCOMP: exaggerated@20)	SVC (C: real@14, V: are@13, S: risks@7)	SVA (V: exaggerated@20, S: risks@17, A?: real@14, A!: for@21)	SVA (V: "be done", S: studies@28, A!: on@30)	SVA (V: interpreted@37, S: studies@28, A!: in@38)
+251	
+252	
+253	
+254	
+255	EXISTENTIAL (C: debates@20, V: been@17, S: Science@7, A?: also@16, A?: upon@21)	SVO (S: our@28, V: "has", O: diet@29)	SVO (V: has@30, S: sodium@26, O: effect@33, A?: at@34)	SVO (V: correlates@50, S: years@44, A?: strongly@49, O: intake@52)	SVC (C: misinterpretation@61, V: be@57, S: years@44, A?: just@56, A?: of@62)
+256	
+257	
+258	
+259	
+260	
+261	
+262	
+263	
+264	
+265	
+266	
+267	
+268	
+269	
+270	
+271	SVC (S: Esquire@1, V: "is", C: 2008-04-30@3)
+272	
+273	SVC (C: one@3, V: is@2, S: Sodium@1, A?: of@4)
+274	SVC (C: available@16, V: are@15, S: electrolytes@4, A?: in@17, A?: as@21)	SV (V: are@22, S: minerals@25)	SVA (V: "be needed", S: minerals@25, A!: for@27)
+275	SVA (V: expressed@7, S: intakes@2, A?: usually@6, A!: in@8)
+276	SVO (V: contains@7, S: Salt@1, O: 39.3@8)
+277	
+278	SVO (V: found@4, S: meta-analysis@3, CCOMP: fit@15)	SVA (V: fit@15, S: consumption@8, A!: into@16)
+279	SVO (V: suggest@13, S: range@3, CCOMP: controlled@19)	SVO (V: controlled@19, S: intake@16, A?: tightly@18, A?: by@20, XCOMP: making@27)	SVA (V: "be reduce", S: recommendations@28, O: consumption@32)
+280	
+281	
+282	
+283	
+284	
+285	
+286	
+287	
+288	
+289	
+290	
+291	
+292	
+293	
+294	
+295	
+296	
+297	
+298	SVO (V: defines@20, S: Agency@19, O: level@22, A?: follows@28)	SVC (C: 1.5@35, V: is@32, S: High@31)
+299	
+300	
+301	
+302	
+303	
+304	SVA (V: is@9, S: amount@3, A!: in@10)	SVC (C: level@20, V: is@17, S: that@16, A-: then@15, A?: of@21)
+305	SVA (V: "be produced", S: foods@6, A!: by@8)	SVO (V: have@13, S: foods@6, A?: In@2, O: colors@18, A?: on@19)	SVC (S: Red@26, V: "is", C: High@28)	SVC (S: Red@26, V: "is", C: Amber@31)	SVC (S: Amber@31, V: "is", C: Medium@33)
+306	
+307	
+308	
+309	
+310	SVO (V: stipulates@8, S: Guide@7, CCOMP: labeled@14)	SVA (V: labeled@14, S: food@11, A!: as@15)
+311	
+312	
+313	
+314	SVA (V: required@7, S: statement@5, A!: exceeds@11)	SVO (V: exceeds@11, S: food@10, O: mg@13)
+315	SVO (S: Britain@9, V: "has", O: Agency@13)	SVOO (V: started@14, S: Agency@13, O: campaign@18, IO: Administration@5)	SVA (V: "be called", S: campaign@18)	SVO (V: recommends@28, S: campaign@18, O: no@29)	SVO (V: features@39, S: it@38, O: character@41)	SVO (V: criticised@48, S: it@38, O: character@41, A?: by@49)	SVA (V: "be called", S: character@41)	SVC (S: Association@53, V: "is", C: SMA@55)
+316	SVOO (V: uphold@12, S: Authority@9, O: complaint@15, IO: release@5)	SVO (S: its@17, V: "has", O: adjudication@18)
+317	SVC (S: Authority@3, V: "is", C: PDF@5)	SVO (V: launched@13, S: Authority@3, O: phase@16)	SVO (V: launched@13, S: FSA@12, O: phase@16)	SVO (S: their@18, V: "has", O: campaign@19)
+318	
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	
+327	SVA (V: "be educate", S: Beard@7, O: people@19, A!: about@20)
+328	
+329	
+330	SVA (V: "be raise", S: campaigns@6, O: awareness@9)
+331	SV (V: includes@4, S: focus@3)	SVA (V: "be hidden", S: salt@11, A!: in@13)
+332	SV (V: http@11, S: fears@3)
+333	
+334	SVO (V: fears@14, S: Smithers@8, A?: over@15, O: January@2)
+335	
+336	SVO (V: launched@19, S: City@18, O: Initiative@24)
+337	SVO (V: calls@3, S: campaign@2, A?: on@4, XCOMP: reduce@9, A?: from@18, A?: with@33)	SVO (S: their@15, V: "has", O: foods@16)
+338	SVC (S: Caruso@1, V: "is", C: B.@4)
+339	SVC (S: Press@2, V: "is", C: January@4)
+340	SVO (V: pledged@8, S: number@2, XCOMP: reduce@10)	SVO (S: their@15, V: "has", O: food@16)
+341	SVO (V: developing@3, S: Pepsi@1, O: salt@7)	SVC (C: powdery@13, V: 's@10, S: salt@7, A?: more@12, A?: than@14)	SVO (V: uses@19, S: it@17, A?: regularly@18, O: salt@16)
+342	SVO (V: hopes@3, S: company@2, CCOMP: cut@10)	SVO (V: cut@10, S: form@6, O: levels@12, A?: by@13, A?: in@16)	SVO (S: its@17, V: "has", O: Lay@18)	SVO (S: Lay@18, V: "has", O: chips@21)
+343	SVC (S: McKay@1, V: "is", C: Betsy@3)
+344	SVC (S: Journal@4, V: "is", C: March@6)	SVC (S: March@6, V: "is", C: company@14)	SVO (S: Nestlé@10, V: "has", O: company@14)	SVO (V: produces@17, S: March@6, O: meals@19)	SVO (V: announced@21, S: Journal@4, CCOMP: reduce@25)	SVO (V: reduce@25, S: it@23, O: sodium@26, A?: in@27, A?: by@30, A?: by@33)	SVO (S: its@28, V: "has", O: foods@29)
+345	SVO (V: announced@5, S: Mills@4, CCOMP: reduce@9)	SVO (V: reduce@9, S: it@7, O: content@12, A?: by@19, A?: by@23)	SVO (S: its@17, V: "has", O: foods@18)
+346	
+347	SVA (V: proposed@6, S: Taxation@1, A!: as@7)	SVO (V: improving@16, S: Taxation@1, A?: as@7, A?: thereby@15, O: health@17, A?: in@18)	SVOC (C: high@29, V: is@28, S: consumption@27, A?: where@24, O: States@23)
+348	
+349	SVOC (V: reduce@6, S: tax@4, O: intake@10, O: www.bmj.com/cgi/content/extract/329/7471/918-c@16)	SVO (S: population@7, V: "has", O: intake@10)
+350	SVOC (V: reduce@6, S: tax@4, O: intake@10, O: www.incirculation@16)	SVO (S: population@7, V: "has", O: intake@10)
+351	
+352	
+353	SVOC (V: reduce@7, S: tax@4, A?: massively@6, O: rates@10, O: www.incirculation@21)
+354	
+355	
+356	
+357	
+358	
+359	
+360	
+361	
+362	
+363	
+364	
+365	SVO (V: reduces@15, S: diet@14, O: intake@16, A?: by@19)	SVO (V: by@25, S: diet@14, O: intake@16, A?: by@19, A?: potentially@24, A?: use@26)
+366	SVO (V: has@3, S: salt@2, O: content@7)
+367	
+368	
+369	SVC (S: Cutler@1, V: "is", C: 2011-04-27@3)
+370	
+371	SVA (V: produced@14, S: List@1, A!: by@15)	SVA (V: "be called", S: salt@37)
+372	SVO (V: estimated@20, S: production@6, A?: In@1, A?: at@21, CCOMP: States@33)	SVC (C: States@33, V: being@30, S: producers@29)
+373	
+374	
+375	
+376	
+377	
+378	
+379	
+380	
+381	
+382	SVA (V: Apart@7, S: Wiley@2, A!: from@8)	SVO (S: its@9, V: "has", O: use@10)	SVC (C: chemical@24, V: is@20, S: chloride@19, A?: Apart@7)
+383	SVO (V: occurs@2, S: It@1, A?: widely@3, XCOMP: component@9)	SVOC (V: plays@15, S: It@1, A?: widely@3, XCOMP: component@9, O: role@17, A?: in@18)
+384	SVO (V: said@4, S: Seais@3, XCOMP: ofSodom@9)
+385	SVC (C: high@8, V: is@6, S: concentration@3, A-: so@7, CCOMP: allows@11)	SVOC (V: allows@11, S: it@10, O: body@13, XCOMP: float@15)	SVO (V: mention@29, S: verses@28, O: salt@30)	SVC (C: story@40, V: being@38, S: one@35, A?: of@41, A?: destroyed@78)	SVO (S: Lot@42, V: "has", O: wife@44)	SVA (V: turned@54, S: wife@44, A?: according@48, A!: into@55, A?: looked@62)	SVA (V: looked@62, S: she@61, A?: when@60, A!: back@63, A?: at@64)	SV (V: destroyed@78, S: they@76)
+386	SVO (V: destroyed@4, S: Abimelech@3, A?: When@1, O: city@6)	SVO (V: said@12, S: he@10, A?: destroyed@4, XCOMP: have@14, A?: probably@22)	SVO (V: re-inhabit@30, S: anyone@27, O: it@31)
+387	SVO (V: contains@9, S: Judges@2, O: mention@12, A?: as@15)
+388	SVOO (V: mention@13, S: verses@12, O: salt@14, IO: Job@2)
+389	SVA (V: referred@9, S: Jesus@8, A?: In@1, A!: to@10, A?: as@13)	SVO (S: his@11, V: "has", O: followers@12)
+390	SVOC (V: encouraged@5, S: Paul@3, A?: also@4, O: Christians@6, XCOMP: let@9)	SVO (S: your@10, V: "has", O: conversation@11)	SVC (C: full@14, V: be@12, S: conversation@11, A?: always@13, A?: of@15)	SVC (S: grace@16, V: "is", C: Colossians@23)
+391	SVA (V: "be recorded", S: Hadith@5, A!: in@7)	SVC (S: Majah@10, V: "is", C: Muhammad@13)	SVC (C: master@25, V: is@23, S: Salt@22, A?: of@26)	SVO (S: your@27, V: "has", O: food@28)
+392	SVOC (V: sent@2, S: God@1, O: blessings@5, A?: from@6, CCOMP: mandatory@20)	SVC (C: mandatory@20, V: is@19, S: Salt@18, A?: in@21)
+393	SVA (V: used@5, S: Salt@3, A!: in@6)	SVO (V: includes@12, S: which@11, O: Exorcism@14)
+394	SVA (V: employed@6, S: Rite@2, A!: in@7)
+395	SVA (V: added@4, S: Salt@1, A!: to@5)	SVOC (C: customary@12, V: is@11, S: it@10, A?: where@9, A?: in@14, O: water@7)
+396	SVO (V: considered@3, S: Salt@1, XCOMP: substance@9)	SVO (V: used@15, S: Salt@1, XCOMP: substance@9, A?: in@16)
+397	SVO (V: considered@3, S: Salt@1, XCOMP: substance@8)
+398	SVO (V: offer@2, S: Devotees@1, O: rice@4, A?: before@10)	SVA (V: "be signify", S: deity@12, XCOMP: equivalent@17)	SVO (S: their@15, V: "has", O: devotion@16)	SVA (V: equivalent@17, S: devotion@16, A!: to@18)	SVA (V: "be signified", S: others@24, A!: by@26)
+399	SVO (V: recommended@6, S: it@4, A?: In@1, XCOMP: have@8)	SVC (C: unsalted@24, V: is@23, S: bread@22, A?: doing@26)
+400	SVC (C: customary@3, V: is@2, S: It@1, XCOMP: spread@5)
+401	
+402	SVO (S: their@6, V: "has", O: people@7)	SVO (V: dip@12, S: Jews@11, A?: preserve@2, O: bread@15, A?: in@16)
+403	SVA (V: know@7, S: you@4, A!: about@8)
+404	
+405	SVA (V: know@7, S: you@4, A!: about@8)
+406	
+407	SVC (C: symbolic@6, V: is@5, S: salt@4, A?: In@1, A?: of@7)
+408	SVO (V: believed@4, S: It@1, A?: also@3, XCOMP: cleanse@6)
+409	SVC (C: present@13, V: are@10, S: dish@2, A?: always@12, A?: on@14)
+410	SVO (V: mixed@4, S: salt@2, A?: with@5, XCOMP: consecrate@9, A?: in@12)	SVA (V: "be producing", S: effect@13, O: water@16)
+411	SVA (V: used@4, S: mixture@2, A!: in@5)
+412	SVA (V: used@10, S: salt@8, A?: In@1, A!: for@11)	SVC (S: harae@19, V: "is", C: shubatsu@22)	SVA (V: "be called", S: piles@33)	SVA (V: placed@48, S: piles@33, A!: in@49, A?: by@51)
+413	SVC (S: Camara@3, V: "is", C: March@5)	SVC (S: Camara@3, V: "is", C: Huixtocihuatl@13)	SVC (C: goddess@17, V: was@14, S: Camara@3)	SVA (V: presided@19, S: goddess@17, A!: over@20)
+414	SVC (S: Egyptians@3, V: "is", C: Greeks@5)	SVO (V: invoked@8, S: Egyptians@3, O: gods@10, A?: with@11)	SVO (S: their@9, V: "has", O: gods@10)
+415	SVOC (V: think@2, S: Some@1, O: this@3, XCOMP: origin@7)
+416	SV (V: Cookbook@21, S: salt@3)	SVO (S: Littell@24, V: "has", O: 34/Salt@29)	SVC (C: be-x-old@83, V: be@80, S: Iâm@79)	SV (V: es@117, S: Αλάτι@116)	SVC (S: ಪ@169, V: "is", C: ಯ@173)	SVC (S: Со@252, V: "is", C: зачин@254)
+417	
+418	SVC (S: P@4, V: "is", C: L@7)	SVC (S: L@7, V: "is", C: stroke@17)	SVC (S: L@7, V: "is", C: NB@10)	SVC (S: L@7, V: "is", C: intake@15)
+419	SVO (V: shows@8, S: Evidence@7, O: association@10)
+420	SVC (S: Nutrition@5, V: "is", C: SACN@7)	SVO (V: results@16, S: intake@14, A?: also@15, A?: in@17, O: Committee@3)
+421	SVC (S: hypertrophy@3, V: "is", C: enlargement@6)	SVO (V: suggests@11, S: Evidence@10, CCOMP: causes@16)	SVO (V: causes@16, S: intake@15, O: hypertrophy@19)	SVC (S: hypertrophy@19, V: "is", C: factor@24)
+422	
+423	SVO (V: predicts@8, S: intake@7, O: hypertrophy@11)
+424	SVC (S: Authority@4, V: "is", C: p@8)
+425	SVC (S: salt@3, V: "is", C: sodium@5)	SVA (V: "be combined", S: intake@7, A!: with@10)	SVO (V: cause@18, S: intake@7, O: hypernatremia@19)
+426	SVO (V: exacerbate@3, S: It@1, O: disease@5)
+427	SVO (V: suggested@10, S: decrease@4, XCOMP: treat@12)	SVC (S: edema@13, V: "is", C: retention@16)
+428	SVA (S: Australia@7, V: "is in", C: Victoria@9)	SVA (V: associated@14, S: cancer@12, A!: with@15)	SVA (V: relate@28, S: evidence@24, A?: generally@27, A!: to@29)	SVA (V: "be consumed", S: foods@30, A!: typically@31, A?: in@33)
+429	SVC (S: Committee@4, V: "is", C: page@11)	SVC (S: Nutrition@6, V: "is", C: SACN@8)	SVC (C: higher@21, V: is@20, S: consumption@19)
+430	SVC (S: News@3, V: "is", C: process@9)	SVC (S: salt@11, V: "is", C: disambiguation@13)	SVC (S: Curing@15, V: "is", C: preservation@18)
+431	SVC (S: Walker@19, V: "is", C: a.C.-II@36)
+432	SV (V: d.C.@2, S: I@1)
+433	SVC (S: produzione@4, V: "is", C: commerciale@7)	SVC (S: commerciale@7, V: "is", C: antico@16)
+434	
+435	
+436	
+437	
+438	
+439	
+440	

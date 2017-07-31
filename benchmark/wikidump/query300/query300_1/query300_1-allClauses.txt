@@ -1,0 +1,185 @@
+0	SVO (S: measures@17, V: are@14, O: mean@7)	SVA (V: confused@22, S: measures@17, A!: with@23)
+1	
+2	
+3	SVA (V: "be has", S: distribution@5, O: mean@9)	SVC (S: mean@9, V: "is", C: variance@12)
+4	SVC (C: sum@10, V: is@8, S: mean@7, A?: For@1, A?: of@11)	SVA (V: "be divided", S: values@13, A!: by@15)
+5	
+6	SVC (S: bar@8, V: "is", C: x@10)
+7	SVC (C: type@5, V: is@3, S: mean@2, A?: of@6)
+8	SVA (V: "be set", S: data@3)	SVA (V: based@6, S: data@3, A!: on@7)	SVA (V: "be obtained", S: observations@11, A!: by@13)	SVO (V: termed@22, S: mean@20, A?: based@6, O: mean@26)	SVA (V: "be distinguish", S: mean@26, O: it@36, A!: from@37)	SVC (S: bar@29, V: "is", C: x@31)
+9	SVA (V: quoted@5, S: mean@2, A?: often@4, A!: along@6)	SVO (V: describes@14, S: mean@13, O: location@17)	SVO (V: describes@26, S: deviation@25, O: spread@28)
+10	SVC (C: deviation@9, V: is@6, S: measure@3)
+11	SVC (C: sensitive@4, V: is@2, S: It@1, A?: less@3, A?: to@5)
+12	SVA (V: sampled@7, S: series@3, A!: from@8)	SVA (V: "be drawn", S: sample@18, A!: from@22)	SVO (V: gives@38, S: distribution@36, O: probabilities@40)	SV (V: mean@61, S: population@60)	SVC (C: value@69, V: is@65, S: which@64, A?: also@66, A?: for@70)	SVA (V: "be drawn", S: sample@72, A!: from@74)
+13	SVC (C: mean@12, V: be@9, S: this@6, A?: For@1, A?: simply@8, A?: of@13)
+14	SVC (C: sum@10, V: be@8, S: this@6, A?: For@1)	SVA (V: "be weighted", S: value@16, A!: by@18)
+15	SVC (C: convention@5, V: is@2, S: It@1, A?: represent@7)	SVA (V: "be represent", S: convention@5, O: population@9)	SVA (V: "be mean", S: population@9, A!: by@11)
+16	SVC (S: Underhill@1, V: "is", C: L.G.@3)
+17	
+18	
+19	SVO (V: given@21, S: mean@13, A?: by@22, O: 070213838X@2)	SVC (S: P@35, V: "is", C: x@37)	SVC (S: P@53, V: "is", C: x@55)
+20	
+21	
+22	SVO (V: differ@7, S: mean@5, A?: from@8, O: Kuby@1)	SVA (V: dictates@24, S: law@20, A!: that@25)	SVOC (V: is@38, S: it@37, CCOMP: close@45, O: size@29)	SVC (C: close@45, V: be@44, S: mean@42, A?: to@46)
+23	SVO (S: Schaum@1, V: "has", O: Outline@3)	SVO (V: used@25, S: means@22, A?: often@24, A?: in@26, O: Outline@3)	SVA (V: developed@38, S: range@33, A!: for@39)	SVC (C: much@46, V: are@44, S: purposes@41, A?: used@47)	SVA (V: "be used", S: much@46, A!: in@48)
+24	SVA (V: listed@3, S: These@1, A!: below@4)
+25	SVC (C: standard@9, V: is@6, S: mean@5)	SVA (V: "be called", S: average@11, A!: often@13, A?: simply@14)
+26	SVA (V: confused@6, S: mean@2, A?: often@4, A!: with@7)
+27	SVC (C: average@6, V: is@3, S: mean@2, A?: of@7)	SVC (C: same@28, V: is@24, S: mean@23, A?: however@16, A?: for@18, A?: necessarily@26, A?: as@29)	SVC (S: value@32, V: "is", C: median@34)
+28	SVC (C: upwards@8, V: is@6, S: income@5, A?: For@1, A?: by@9)	SVO (V: have@24, S: majority@23, A-: so@20, O: income@26)
+29	SVC (C: level@9, V: is@7, S: income@6, A?: By@1)	SVO (V: is@15, S: population@14, A?: at@10, A?: is@19, O: level@9)
+30	SVC (C: income@8, V: is@4, S: income@3)	SVOC (C: favors@11, V: is@4, S: income@3, O: number@14)
+31	SVOC (C: intuitive@8, V: are@5, S: median@2, A?: often@6, A?: more@7, O: measures@9)
+32	SVA (V: described@8, S: distributions@5, A?: Nevertheless@1, A?: best@7, A!: by@9, A?: as@16)	SVO (S: their@10, V: "has", O: mean@11)
+33	SVA (V: mean@6, S: arithmetic@5, A?: For@1, A!: of@7)	SVC (C: mean@24, V: is@22, S: 5@11, CCOMP: average@30)	SVC (C: average@30, V: is@28, S: mean@27)	SVC (C: useful@33, V: is@32, S: average@30, A?: for@34)	SVA (V: interpreted@41, S: sets@35, A!: according@42)	SVO (S: their@44, V: "has", O: product@45)	SVO (S: their@48, V: "has", O: sum@49)
+34	
+35	
+36	SVC (S: t@27, V: "is", C: distance@54)	SVOC (C: average@33, V: is@31, S: mean@30, O: t@27)	SVC (C: useful@36, V: is@35, S: t@27, A?: for@37)	SVA (V: defined@43, S: numbers@40, A!: in@44)
+37	SVC (S: t@2, V: "is", C: mean@8)	SVC (C: Inequality@27, V: is@26, S: 34@14, A?: of@28)	SVO (V: satisfy@39, S: GM@35, O: inequalities@41)	SVO (V: satisfy@39, S: Inequality@27, O: inequalities@41)	SVC (V: holds@44, S: Equality@43, ACOMP: equal@55)	SVC (C: equal@55, V: are@54, S: elements@49, A?: only@45, A?: when@46)
+38	SVA (V: "be known", S: mean@3, A!: also@5, A?: as@7)	SVC (C: abstraction@17, V: is@15, S: mean@3, A?: of@18)
+39	SVA (V: defined@3, S: It@1, A!: for@4, A?: by@13)	SVO (V: get@24, S: we@23, O: means@26)	SVA (V: generalized@31, S: This@28, A!: further@32, A?: as@33)	SVA (V: choice@41, S: This@28, A?: further@32, A?: as@33, A?: again@38, A!: of@42)	SVO (V: give@47, S: generalized@31, O: mean@51)	SVA (V: used@53, S: give@47, A!: wants@57)	SVO (V: wants@57, S: one@56, XCOMP: combine@59)	SVO (V: w_i@75, S: weights@74, CCOMP: represent@76)
+40	SVO (V: represent@5, S: they@4, A?: In@1, O: measure@7, A?: upon@14)
+41	
+42	
+43	
+44	SVC (C: data@5, V: are@3, S: outliers@2, A?: caused@6)	SVA (V: "be caused", S: data@5, A!: by@7)
+45	SVO (V: use@6, S: one@4, A?: In@1, O: mean@9)
+46	SVO (V: involves@2, S: It@1, XCOMP: discarding@3)
+47	SVA (V: "be removed", S: number@2)	SVA (V: indicated@7, S: number@2, A!: as@8)
+48	SVC (C: example@7, V: is@4, S: mean@3, A?: of@8)
+49	SVC (C: arithmetic@5, V: is@2, S: It@1, A?: simply@3)
+50	SV (V: ordered@6, S: values@3)	SV (V: is@9, S: example@13, A-: so@8)
+51	SVC (S: calculus@7, V: "is", C: mean@10)	SVA (V: defined@16, S: calculus@7, A?: loosely@15, A!: as@17)	SVO (S: its@25, V: "has", O: domain@26)
+52	SVC (S: function@9, V: "is", C: x@12)	SVC (S: interval@16, V: "is", C: b@20)	SVA (V: defined@23, S: mean@6, A?: In@1, A!: by@24)	SVC (S: bar@34, V: "is", C: y@36)	SVC (S: y_1@42, V: "is", C: y_n@48)	SVA (V: is@49, S: property@29, A!: that@50)	SVC (S: nbar@51, V: "is", C: y@53)
+53	SVC (S: bar@5, V: "is", C: y@7)	SVC (C: value@12, V: is@9, S: bar@5, A?: In@1)	SVOC (V: equals@20, S: times@19, O: value@12, A?: added@15, O: result@22)
+54	SVC (S: property@5, V: "is", C: b@23)	SVC (S: bar@10, V: "is", C: f@12)	SVC (V: is@25, S: property@5, A?: By@1, CCOMP: value@38)	SVC (S: bar@31, V: "is", C: f@33)	SVC (C: value@38, V: is@35, S: bar@31, A?: In@27)	SVO (V: equals@48, S: which@39, O: result@50)
+55	SVC (S: bar@15, V: "is", C: f@17)	SVO (V: See@21, S: integral@11, A?: by@2, A?: just@20, A?: also@22, O: theorem@27)	SVC (C: continuous@36, V: is@35, S: f@34)	SVC (S: point@52, V: "is", C: c@55)	SV (V: called@58, S: point@52)
+56	SVO (V: write@3, S: we@2, O: bar@4)	SVOC (V: rearrange@14, S: we@2, O: bar@4, O: equation@17, A?: get@19)	SVA (V: "be get", S: rearrange@14, O: definition@22)
+57	SVA (V: defined@18, S: mean@6, A?: In@1, A!: by@19)
+58	SVC (C: possible@9, V: is@7, S: it@6, A?: On@1, A?: also@8, XCOMP: generalize@11)	SVO (V: plays@39, S: sort@36, A?: generally@27, O: role@42)	SVO (V: plays@39, S: mean@21, A?: generally@27, O: role@42)
+59	SVO (S: Jensen@5, V: "has", O: places@8)
+60	EXISTENTIAL (V: is@2, S: average@6, A?: also@3)
+61	
+62	SVO (V: fail@6, S: Most@1, A?: on@7, A?: like@11, O: daytimes@14)	SVC (S: daytimes@14, V: "is", C: part@17)
+63	SVO (V: need@5, S: you@4, A?: For@1, O: mean@7)
+64	SV (V: mean@3, S: Fréchet@2)
+0	SVO (S: measures@17, V: are@14, O: mean@7)	SVA (V: confused@22, S: measures@17, A!: with@23)
+1	
+2	
+3	SVA (V: "be has", S: distribution@5, O: mean@9)	SVC (S: mean@9, V: "is", C: variance@12)
+4	SVC (C: sum@10, V: is@8, S: mean@7, A?: For@1, A?: of@11)	SVA (V: "be divided", S: values@13, A!: by@15)
+5	
+6	SVC (S: bar@8, V: "is", C: x@10)
+7	SVC (C: type@5, V: is@3, S: mean@2, A?: of@6)
+8	SVA (V: "be set", S: data@3)	SVA (V: based@6, S: data@3, A!: on@7)	SVA (V: "be obtained", S: observations@11, A!: by@13)	SVO (V: termed@22, S: mean@20, A?: based@6, O: mean@26)	SVA (V: "be distinguish", S: mean@26, O: it@36, A!: from@37)	SVC (S: bar@29, V: "is", C: x@31)
+9	SVA (V: quoted@5, S: mean@2, A?: often@4, A!: along@6)	SVO (V: describes@14, S: mean@13, O: location@17)	SVO (V: describes@26, S: deviation@25, O: spread@28)
+10	SVC (C: deviation@9, V: is@6, S: measure@3)
+11	SVC (C: sensitive@4, V: is@2, S: It@1, A?: less@3, A?: to@5)
+12	SVA (V: sampled@7, S: series@3, A!: from@8)	SVA (V: "be drawn", S: sample@18, A!: from@22)	SVO (V: gives@38, S: distribution@36, O: probabilities@40)	SV (V: mean@61, S: population@60)	SVC (C: value@69, V: is@65, S: which@64, A?: also@66, A?: for@70)	SVA (V: "be drawn", S: sample@72, A!: from@74)
+13	SVC (C: mean@12, V: be@9, S: this@6, A?: For@1, A?: simply@8, A?: of@13)
+14	SVC (C: sum@10, V: be@8, S: this@6, A?: For@1)	SVA (V: "be weighted", S: value@16, A!: by@18)
+15	SVC (C: convention@5, V: is@2, S: It@1, A?: represent@7)	SVA (V: "be represent", S: convention@5, O: population@9)	SVA (V: "be mean", S: population@9, A!: by@11)
+16	SVC (S: Underhill@1, V: "is", C: L.G.@3)
+17	
+18	
+19	SVO (V: given@21, S: mean@13, A?: by@22, O: 070213838X@2)	SVC (S: P@35, V: "is", C: x@37)	SVC (S: P@53, V: "is", C: x@55)
+20	
+21	
+22	SVO (V: differ@7, S: mean@5, A?: from@8, O: Kuby@1)	SVA (V: dictates@24, S: law@20, A!: that@25)	SVOC (V: is@38, S: it@37, CCOMP: close@45, O: size@29)	SVC (C: close@45, V: be@44, S: mean@42, A?: to@46)
+23	SVO (S: Schaum@1, V: "has", O: Outline@3)	SVO (V: used@25, S: means@22, A?: often@24, A?: in@26, O: Outline@3)	SVA (V: developed@38, S: range@33, A!: for@39)	SVC (C: much@46, V: are@44, S: purposes@41, A?: used@47)	SVA (V: "be used", S: much@46, A!: in@48)
+24	SVA (V: listed@3, S: These@1, A!: below@4)
+25	SVC (C: standard@9, V: is@6, S: mean@5)	SVA (V: "be called", S: average@11, A!: often@13, A?: simply@14)
+26	SVA (V: confused@6, S: mean@2, A?: often@4, A!: with@7)
+27	SVC (C: average@6, V: is@3, S: mean@2, A?: of@7)	SVC (C: same@28, V: is@24, S: mean@23, A?: however@16, A?: for@18, A?: necessarily@26, A?: as@29)	SVC (S: value@32, V: "is", C: median@34)
+28	SVC (C: upwards@8, V: is@6, S: income@5, A?: For@1, A?: by@9)	SVO (V: have@24, S: majority@23, A-: so@20, O: income@26)
+29	SVC (C: level@9, V: is@7, S: income@6, A?: By@1)	SVO (V: is@15, S: population@14, A?: at@10, A?: is@19, O: level@9)
+30	SVC (C: income@8, V: is@4, S: income@3)	SVOC (C: favors@11, V: is@4, S: income@3, O: number@14)
+31	SVOC (C: intuitive@8, V: are@5, S: median@2, A?: often@6, A?: more@7, O: measures@9)
+32	SVA (V: described@8, S: distributions@5, A?: Nevertheless@1, A?: best@7, A!: by@9, A?: as@16)	SVO (S: their@10, V: "has", O: mean@11)
+33	SVA (V: mean@6, S: arithmetic@5, A?: For@1, A!: of@7)	SVC (C: mean@24, V: is@22, S: 5@11, CCOMP: average@30)	SVC (C: average@30, V: is@28, S: mean@27)	SVC (C: useful@33, V: is@32, S: average@30, A?: for@34)	SVA (V: interpreted@41, S: sets@35, A!: according@42)	SVO (S: their@44, V: "has", O: product@45)	SVO (S: their@48, V: "has", O: sum@49)
+34	
+35	
+36	SVC (S: t@27, V: "is", C: distance@54)	SVOC (C: average@33, V: is@31, S: mean@30, O: t@27)	SVC (C: useful@36, V: is@35, S: t@27, A?: for@37)	SVA (V: defined@43, S: numbers@40, A!: in@44)
+37	SVC (S: t@2, V: "is", C: mean@8)	SVC (C: Inequality@27, V: is@26, S: 34@14, A?: of@28)	SVO (V: satisfy@39, S: GM@35, O: inequalities@41)	SVO (V: satisfy@39, S: Inequality@27, O: inequalities@41)	SVC (V: holds@44, S: Equality@43, ACOMP: equal@55)	SVC (C: equal@55, V: are@54, S: elements@49, A?: only@45, A?: when@46)
+38	SVA (V: "be known", S: mean@3, A!: also@5, A?: as@7)	SVC (C: abstraction@17, V: is@15, S: mean@3, A?: of@18)
+39	SVA (V: defined@3, S: It@1, A!: for@4, A?: by@13)	SVO (V: get@24, S: we@23, O: means@26)	SVA (V: generalized@31, S: This@28, A!: further@32, A?: as@33)	SVA (V: choice@41, S: This@28, A?: further@32, A?: as@33, A?: again@38, A!: of@42)	SVO (V: give@47, S: generalized@31, O: mean@51)	SVA (V: used@53, S: give@47, A!: wants@57)	SVO (V: wants@57, S: one@56, XCOMP: combine@59)	SVO (V: w_i@75, S: weights@74, CCOMP: represent@76)
+40	SVO (V: represent@5, S: they@4, A?: In@1, O: measure@7, A?: upon@14)
+41	
+42	
+43	
+44	SVC (C: data@5, V: are@3, S: outliers@2, A?: caused@6)	SVA (V: "be caused", S: data@5, A!: by@7)
+45	SVO (V: use@6, S: one@4, A?: In@1, O: mean@9)
+46	SVO (V: involves@2, S: It@1, XCOMP: discarding@3)
+47	SVA (V: "be removed", S: number@2)	SVA (V: indicated@7, S: number@2, A!: as@8)
+48	SVC (C: example@7, V: is@4, S: mean@3, A?: of@8)
+49	SVC (C: arithmetic@5, V: is@2, S: It@1, A?: simply@3)
+50	SV (V: ordered@6, S: values@3)	SV (V: is@9, S: example@13, A-: so@8)
+51	SVC (S: calculus@7, V: "is", C: mean@10)	SVA (V: defined@16, S: calculus@7, A?: loosely@15, A!: as@17)	SVO (S: its@25, V: "has", O: domain@26)
+52	SVC (S: function@9, V: "is", C: x@12)	SVC (S: interval@16, V: "is", C: b@20)	SVA (V: defined@23, S: mean@6, A?: In@1, A!: by@24)	SVC (S: bar@34, V: "is", C: y@36)	SVC (S: y_1@42, V: "is", C: y_n@48)	SVA (V: is@49, S: property@29, A!: that@50)	SVC (S: nbar@51, V: "is", C: y@53)
+53	SVC (S: bar@5, V: "is", C: y@7)	SVC (C: value@12, V: is@9, S: bar@5, A?: In@1)	SVOC (V: equals@20, S: times@19, O: value@12, A?: added@15, O: result@22)
+54	SVC (S: property@5, V: "is", C: b@23)	SVC (S: bar@10, V: "is", C: f@12)	SVC (V: is@25, S: property@5, A?: By@1, CCOMP: value@38)	SVC (S: bar@31, V: "is", C: f@33)	SVC (C: value@38, V: is@35, S: bar@31, A?: In@27)	SVO (V: equals@48, S: which@39, O: result@50)
+55	SVC (S: bar@15, V: "is", C: f@17)	SVO (V: See@21, S: integral@11, A?: by@2, A?: just@20, A?: also@22, O: theorem@27)	SVC (C: continuous@36, V: is@35, S: f@34)	SVC (S: point@52, V: "is", C: c@55)	SV (V: called@58, S: point@52)
+56	SVO (V: write@3, S: we@2, O: bar@4)	SVOC (V: rearrange@14, S: we@2, O: bar@4, O: equation@17, A?: get@19)	SVA (V: "be get", S: rearrange@14, O: definition@22)
+57	SVA (V: defined@18, S: mean@6, A?: In@1, A!: by@19)
+58	SVC (C: possible@9, V: is@7, S: it@6, A?: On@1, A?: also@8, XCOMP: generalize@11)	SVO (V: plays@39, S: sort@36, A?: generally@27, O: role@42)	SVO (V: plays@39, S: mean@21, A?: generally@27, O: role@42)
+59	SVO (S: Jensen@5, V: "has", O: places@8)
+60	EXISTENTIAL (V: is@2, S: average@6, A?: also@3)
+61	
+62	SVO (V: fail@6, S: Most@1, A?: on@7, A?: like@11, O: daytimes@14)	SVC (S: daytimes@14, V: "is", C: part@17)
+63	SVO (V: need@5, S: you@4, A?: For@1, O: mean@7)
+64	SV (V: mean@3, S: Fréchet@2)
+65	
+66	
+67	
+68	
+69	SVC (C: function@7, V: is@5, S: M@4, A?: If@38)	SVO (V: maps@9, S: function@7, O: tuples@10, A?: to@14)	SVO (V: hold@23, S: properties@22, O: number@17)	SVO (V: follows@26, S: It@25, O: The@27)	SVA (V: "be construct", S: techniques@31, O: means@36)	SVC (S: C@39, V: "is", C: M@41)
+70	SVC (C: means@6, V: are@4, S: m@3)	SVC (C: number@13, V: is@9, S: p@8)	SVA (V: "be defined", S: A@16, A!: by@20)	SVC (C: weighted@23, V: are@21, S: A@16, A-: then@15, A?: also@22)
+71	
+72	
+73	SVC (V: is@6, S: view@2, CCOMP: swapped@13)	SVA (V: swapped@13, S: inputs@10, A!: without@14)
+74	SVOC (V: define@3, S: we@2, A-: Thus@1, O: M@4, XCOMP: mean@9)	SVC (C: meanand@15, V: is@12, S: it@11, A?: for@16)	SVC (C: same@27, V: is@25, S: result@24, A?: meanand@15)
+75	SVC (C: mean@12, V: is@9, S: C@8)
+76	SVC (C: means@6, V: are@4, S: m@3)	SVC (C: number@13, V: is@9, S: p@8)	SVA (V: "be defined", S: A@16, A!: by@20)	SVC (C: means@24, V: are@21, S: A@16, A-: then@15, A?: also@22)
+77	SVA (V: turned@6, S: mean@3, A!: into@7, A?: by@11)
+78	SVO (V: used@5, S: connection@1, A?: also@3, A?: to@6, CCOMP: version@14)	SVC (C: version@14, V: is@11, S: mean@10, A?: of@15)
+79	
+80	
+81	SVA (V: obtained@7, S: A@5, A!: by@8)	SVA (V: defined@14, S: M@12, A!: for@15)	SVO (V: expects@24, S: one@22, A?: also@23, CCOMP: bounded@32)	SVA (V: bounded@32, S: mean@27, A!: by@33)
+82	SVA (V: "be known", S: value@11, A!: mean@19)	SV (V: mean@19, S: population@18)
+83	SV (V: mean@3, S: sample@2)	SVO (S: its@14, V: "has", O: value@16)	SVC (C: same@19, V: is@17, S: value@16, A?: mean@23)	SV (V: mean@23, S: population@22)
+84	SVA (V: mean@3, S: sample@2, A!: of@4)	SVC (C: variable@10, V: is@7, S: mean@3)	SVO (V: have@20, S: it@18, A?: consequently@17, O: distribution@23)	SVO (S: its@21, V: "has", O: distribution@23)
+85	SVC (C: parameter@28, V: is@25, S: variance@24)	SVA (V: estimated@32, S: sample@15, A?: For@1, A?: from@8, A?: Often@19, A?: parameter@28, A!: by@33)	SVA (V: estimated@32, S: it@30, A?: For@1, A?: from@8, A?: Often@19, A?: parameter@28, A!: by@33)	SVO (V: changes@41, S: sum@36, CCOMP: mean@47)	SVA (V: mean@47, S: distribution@43, A!: from@48)	SVO (S: Student@54, V: "has", O: distribution@57)
+86	SVC (S: _@31, V: "is", C: statistica@33)	SV (V: ms@49, S: Vidurkis@48)	SVC (S: Mean@64, V: "is", C: statistics@66)
+87	SVO (V: called@12, S: variable@7, A?: also@11, XCOMP: mean@15)	SV (V: mean@15, S: population@14)
+88	SVO (V: =@18, S: i@17, O: 1@19)	SVC (S: n@22, V: "is", C: frac@26)	SVC (S: frac@39, V: "is", C: 91@41)
+89	SV (V: =@12, S: i@11)	SVC (S: n@16, V: "is", C: x_i@18)
+90	
+91	SVO (V: left@8, S: cdot@7, O: sum@10)	SVO (V: =@14, S: i@13, O: frac@37)	SVC (S: frac@19, V: "is", C: frac@32)	SVC (S: frac@19, V: "is", C: right@26)	SVC (S: frac@45, V: "is", C: 27@50)	SVC (S: frac@69, V: "is", C: 22@74)	SVC (S: frac@86, V: "is", C: 60588@88)
+92	
+93	SVC (S: HM@5, V: "is", C: x@9)	SVC (S: HM@5, V: "is", C: m@12)	SVC (S: frac@17, V: "is", C: n@22)	SVO (V: =@28, S: i@27, O: 1@29)	SVC (S: bar@42, V: "is", C: x@44)	SVC (S: ^@48, V: "is", C: -1@50)	SVO (V: left@52, S: x_i@34, O: frac@55)	SVO (V: left@52, S: bar@42, O: frac@55)	SVO (V: =@66, S: i@65, O: 1@67)	SVC (S: n@70, V: "is", C: n@60)	SV (V: sum@87, S: HM@5)	SVO (V: =@91, S: i@90, O: 1@92)	SVC (S: n@95, V: "is", C: x_i@99)	SV (V: =@107, S: i@106)	SVC (S: n@111, V: "is", C: w_i@113)
+94	SVC (S: ^@20, V: "is", C: 3n/4@22)	SVC (S: bf@41, V: "is", C: x@43)	SVC (S: bf@41, V: "is", C: dx@46)
+95	SVC (S: int_a@1, V: "is", C: dx@8)	SVC (S: bbar@3, V: "is", C: f@5)	SVC (S: bf@12, V: "is", C: x@14)	SVC (S: bbar@20, V: "is", C: f@22)	SVC (S: bar@38, V: "is", C: f@40)	SVC (S: bf@61, V: "is", C: c@70)	SVC (S: bf@61, V: "is", C: x@63)	SVC (S: hbox@87, V: "is", C: Vol@89)	SVC (S: hbox@87, V: "is", C: U@92)	SV (V: f@98, S: U@97)
+96	SVC (S: expleft@1, V: "is", C: frac@3)	SVC (S: hbox@8, V: "is", C: Vol@10)	SVC (S: hbox@8, V: "is", C: U@13)
+97	SVO (V: mean@6, S: Cesàro@5, CCOMP: mean@8)	SVO (V: mean@8, S: Chisini@7, CCOMP: mean@10)	SVO (V: mean@10, S: Contraharmonic@9, CCOMP: mean@17)	SVC (V: mean@17, S: Heinz@16, ACOMP: Heronian@18)	SVO (V: mean@23, S: Lehmer@22, CCOMP: mean@30)	SVO (V: mean@30, S: Root@29, O: point@65)	SVO (S: Rényi@32, V: "has", O: entropy@34)	SVC (S: entropy@34, V: "is", C: f-mean@38)	SVO (V: mean@41, S: Stolarsky@40, O: M@48)	SVC (S: 0@59, V: "is", C: infty@61)
+98	SVC (S: M@6, V: "is", C: x@9)
+99	SVC (S: M@8, V: "is", C: x@10)
+100	
+101	SVC (S: M@5, V: "is", C: x@8)
+102	SVC (S: i@11, V: "is", C: then@13)	SVO (S: My@16, V: "has", O: Boundedness@17)	EXISTENTIAL (V: are@40, S: means@41, O: y@38)	SVC (C: differentiable@45, V: are@43, S: means@41)
+103	SVO (V: considered@11, S: number@6, A?: For@1, XCOMP: mean@13)	SVC (C: differentiable@37, V: is@35, S: number@6, A?: For@1, XCOMP: mean@13)
+104	SVA (V: "be listed", S: means@2, A!: above@4)
+105	SVC (C: bijective@4, V: is@3, S: f@2)	SVO (V: satisfies@10, S: f-mean@9, A?: bijective@4, A-: then@6, O: property@14)
+106	SVC (C: monotonic@5, V: is@3, S: f@2, A?: strictly@4)	SVO (V: satisfy@11, S: f-mean@10, A?: monotonic@5, A-: then@7, O: property@15)
+107	
+108	SVC (C: bijective@4, V: is@3, S: f@2)	SVO (V: satisfies@10, S: f-mean@9, A?: bijective@4, A-: then@6, O: property@14)
+109	SVC (C: monotonic@5, V: is@3, S: f@2, A?: strictly@4)	SVO (V: satisfy@11, S: f-mean@10, A?: monotonic@5, A-: then@7, O: property@15)
+110	
+111	SVC (S: x@7, V: "is", C: dots@9)	SVC (S: x@7, V: "is", C: x@12)	SVC (S: sqrt@18, V: "is", C: p@20)	SVC (S: C@23, V: "is", C: Symmetry@37)	SVC (S: p@27, V: "is", C: p@33)	SVC (S: p@27, V: "is", C: dots@29)
+112	SVC (S: x@7, V: "is", C: dots@9)	SVC (S: x@7, V: "is", C: x@12)	SVC (S: sqrt@18, V: "is", C: p@20)	SVC (S: p@27, V: "is", C: p@33)	SVC (S: x_1@39, V: "is", C: x_n@43)	SVC (S: underbrace@48, V: "is", C: a_1@58)	SVC (S: x_1@50, V: "is", C: dots@52)	SVC (S: x_1@50, V: "is", C: x_1@54)	SVC (S: _@66, V: "is", C: n-1@68)
+113	SVA (V: partitioned@9, S: x@5, A!: into@10)
+114	SVC (S: k@3, V: "is", C: x@7)	SVC (S: mathrm@9, V: "is", C: convexhull@11)	SVC (S: y_1@15, V: "is", C: dots@17)	SVC (S: y_1@15, V: "is", C: y_k@20)
+115	
+116	SVC (S: mathrm@5, V: "is", C: convexhull@7)	SVC (S: y_1@11, V: "is", C: y_k@16)	SVC (S: y_1@11, V: "is", C: dots@13)
+117	SVC (S: bar@1, V: "is", C: x@3)	SVC (S: mu@8, V: "is", C: right@19)
+118	SVC (C: estimator@32, V: is@29, S: mean@25, A?: for@33)
+119	SVC (S: Mode@6, V: "is", C: statistics@8)	SVOO (V: Weighted@14, S: statistics@13, O: Arithmetic@19, IO: Law@2)

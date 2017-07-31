@@ -1,0 +1,296 @@
+0	SVA (V: "be proposed", S: plan@3, A!: by@5)
+1	
+2	SVC (S: Association@5, V: "is", C: USGA@7)	SVC (C: association@15, V: is@9, S: Association@5, A?: of@16)	SVO (S: States@12, V: "has", O: association@15)
+3	
+4	SVO (V: produces@8, S: USGA@7, A?: Together@1, O: Rules@12)	SVO (V: interprets@10, S: USGA@7, A?: Together@1, O: Rules@12)
+5	SVO (V: provides@4, S: USGA@2, A?: also@3, O: system@8)	SVOC (V: conducts@12, S: USGA@2, A?: also@3, O: system@8, O: championships@15)
+6	SVC (S: Open@1, V: "is", C: U.S.@3)
+7	SVO (S: Women@1, V: "has", O: Open@3)
+8	
+9	SVC (C: leader@8, V: is@6, S: USGA@5, A?: In@1, A?: in@9, A?: through@12)	SVO (S: its@13, V: "has", O: Section@15)	SVO (V: provides@18, S: it@17, O: hundreds@19, A?: through@25)	SVO (S: its@26, V: "has", O: Foundation@27)
+10	SVO (V: provided@5, S: Foundation@3, O: $@8, A?: to@13)
+11	SVC (C: contributor@5, V: is@2, S: It@1, A?: to@6)
+12	SVA (V: led@5, S: USGA@2, A?: currently@4, A!: by@6)	SV (V: Hyler@15, S: USGA@2, A?: currently@4, A?: by@6)
+13	SVC (S: Answers@3, V: "is", C: http@14)
+14	
+15	SV (V: =@3, S: r@2)	SVC (S: 1@4, V: "is", C: http@45)	SVA (V: Answers@34, S: Company@29, A!: for@35)
+16	
+17	SV (V: =@3, S: r@2)	SVA (V: "be given", S: honor@39, A!: by@41)	SVC (C: honor@39, V: is@36, S: Company@29, A?: Times@24, A?: given@40)
+18	SVA (V: given@5, S: award@3, A!: in@6)
+19	SVO (V: formed@5, S: USGA@2, A?: originally@4, A?: in@6, XCOMP: resolve@9)
+20	SVC (S: Club@8, V: "is", C: York@19)	SVO (S: Andrew@11, V: "has", O: Club@14)	SVO (V: declared@22, S: both@21, A?: year@3, O: winners@24)	SVO (V: declared@22, S: Club@8, A?: year@3, O: winners@24)	SVO (S: their@26, V: "has", O: tournaments@27)
+21	SVC (S: autumn@3, V: "is", C: delegates@5)	SVA (S: Newport@7, V: "is in", C: St@9)
+22	SVC (S: Club@6, V: "is", C: Club@10)	SVO (V: met@17, S: Club@6, A?: in@18, XCOMP: form@23)	SVO (V: administer@31, S: body@27, O: championship@33)	SVO (V: also@35, S: body@27, O: championship@33)
+23	SV (V: formed@17, S: Association@10, A?: On@1, A?: officially@16)	SVO (V: renamed@23, S: Association@10, A?: On@1, A?: officially@16, A?: thereafter@22, XCOMP: Association@29)
+24	SVC (C: president@7, V: was@4, S: Havemeyer@3)
+25	SVA (V: named@4, S: trophy@2, A!: in@5)	SVO (S: his@6, V: "has", O: honor@7)
+26	
+27	SVA (V: held@3, S: Amateur@1, A!: in@4, A?: at@6, A?: with@12)
+28	SVA (V: "be winning", S: Macdonald@1, O: championship@17)	SVC (C: runner-up@5, V: was@4, S: who@3, A?: at@6)	SVO (S: year@11, V: "has", O: tournaments@13)
+29	
+30	SVA (V: held@3, S: Open@1, A!: day@6, A?: as@9)
+31	SVC (V: was@2, S: It@1, A?: until@4, CCOMP: held@11)	SVA (V: held@11, S: events@9, A!: at@12)
+32	SVO (V: administers@5, S: USGA@4, A?: Today@1, O: championships@9)
+33	SVO (V: expanded@4, S: USGA@2, A?: gradually@3, O: membership@6, A?: from@7)	SVO (S: its@5, V: "has", O: membership@6)
+34	EXISTENTIAL (V: were@2, S: members@5)	EXISTENTIAL (V: clubs@11, S: members@5, A?: by@12)
+35	SVA (V: fell@2, S: Membership@1, A!: during@4)	SVA (V: recovered@14, S: Membership@1, A?: during@4, A!: by@15)
+36	EXISTENTIAL (V: were@4, S: clubs@7, A?: By@1)	SVO (V: exceeds@12, S: membership@11, O: 9,700@13)
+37	
+38	
+39	SV (V: http@6, S: Association@4)
+40	
+41	
+42	
+43	
+44	
+45	SV (V: http@6, S: Association@4)
+46	
+47	
+48	
+49	SVO (V: organizes@4, S: USGA@3, O: competitions@9)	SVO (V: co-organizes@6, S: USGA@3, O: competitions@9)	SVC (C: one@18, V: is@17, S: championship@16)	SVO (V: enter@25, S: professionals@21, O: one@18)
+50	SVA (V: won@8, S: events@5, A?: In@1, A?: always@7, A!: by@9, A?: nowadays@11)
+51	SVA (V: "be leading", S: two@2)	SVA (V: opens@4, S: two@2, A!: in@5)
+52	SVO (V: conducts@6, S: USGA@4, A?: also@5, O: U.S.@8)
+53	
+54	SVC (C: one@3, V: is@2, S: This@1, A?: of@4)	SVA (V: "be recognized", S: majors@7, A!: by@9)	SVO (S: world@11, V: "has", O: tour@14)
+55	SVA (V: play@7, S: majority@3, A!: regularly@8, A?: on@9)
+56	SVA (V: compete@6, S: Many@1, A!: on@7)	SVC (S: counterpart@13, V: "is", C: Tour@18)	SVO (S: Tour@10, V: "has", O: counterpart@13)	SVO (V: recognizes@21, S: Tour@18, O: U.S.@23)
+57	SVO (S: its@6, V: "has", O: majors@8)
+58	SVO (S: women@3, V: "has", O: tour@6)	SVA (V: "be known", S: 50@17, A!: now@20, A?: as@22)	SVO (V: existed@28, S: 50@17, A?: since@29, CCOMP: created@37)	SVO (V: created@37, S: USGA@33, A?: yet@36, O: Open@42)	SVO (S: Women@40, V: "has", O: Open@42)
+59	
+60	SVC (S: Tour@7, V: "is", C: LPGA@10)
+61	SVA (V: is@5, S: USGA@4, A?: However@1, A!: at@6, A?: in@12)	SVO (V: organizes@16, S: USGA@4, A?: However@1, A?: at@6, A?: in@12, O: championships@21)
+62	SVC (C: open@5, V: are@4, S: events@3, A?: to@6)	SVC (C: won@14, V: are@4, S: events@3, A?: to@6, A?: usually@13, A?: by@15, A?: in@17)	SVO (S: their@18, V: "has", O: twenties@20)	SVA (V: working@23, S: who@21, A!: towards@24)	SVO (S: championships@35, V: are@33, O: working@23)
+63	
+64	SVO (S: Women@1, V: "has", O: Amateur@3)	SVC (V: became@4, S: Amateur@3, XCOMP: dominated@6, XCOMP: added@16)	SVC (S: professionals@10, V: "is", C: championships@14)	SVC (C: years@28, V: were@26, S: amateurs@23, A?: of@29)	EXISTENTIAL (V: are@35, S: events@38, A?: also@36)
+65	SVA (V: excluded@7, S: Members@1, A!: from@8)	SVO (S: women@17, V: "has", O: championships@21)	SV (V: were@22, S: first@23)	SVA (V: "be conducted", S: first@23, A!: in@25, A?: as@27)	SVO (S: USGA@32, V: "has", O: celebration@35)
+66	SVO (V: conducted@5, S: championships@3, CCOMP: numbered@9)
+67	SVO (S: men@5, V: "has", O: championship@7)	SVA (V: conducted@10, S: Starting@1, A!: in@11)	SVO (S: women@17, V: "has", O: championship@19)	SVO (V: numbered@22, S: championship@19, O: years@23)
+68	SVC (C: eligible@10, V: are@8, S: golfers@7, A?: According@1)
+69	SVO (V: co-organizes@3, S: USGA@2, O: competitions@8)	SVA (V: "be representing", S: team@16, O: Britain@19)	SVO (S: its@37, V: "has", O: membership@38)	SVO (V: involved@47, S: USGA@45, A?: Through@36, A?: in@48, O: Kingdom@29)	SVA (V: played@63, S: Championships@58, A!: biennially@64, A?: in@65)
+70	SVO (V: won@5, S: golfers@3, O: event@11, A?: in@12)	SVO (V: won@20, S: people@18, O: events@25)	SVO (S: their@27, V: "has", O: careers@28)	SVO (V: won@34, S: people@32, O: events@39)	SVO (S: their@41, V: "has", O: careers@42)	SVA (V: found@53, S: winners@47, A!: in@54)	SVO (S: event@56, V: "has", O: article@58)
+71	SVO (V: partnered@3, S: USGA@2, A?: with@4, A?: in@8, XCOMP: co-host@11)
+72	
+73	SVO (V: attracted@2, S: Open@1, O: hundreds@3, A?: from@8)
+74	SVO (V: took@5, S: winner@4, O: home@6)
+75	SVO (S: year@15, V: "has", O: event@17)
+76	
+77	SVC (S: March@1, V: "is", C: http@5)
+78	
+79	SVC (S: May@1, V: "is", C: GDC@7)
+80	SVC (S: March@1, V: "is", C: http@5)
+81	
+82	SVC (S: May@1, V: "is", C: Category@5)	SVC (S: associations@8, V: "is", C: Category@9)
+83	
+84	
+85	SVA (V: "be Established", S: one@7, A!: in@2)	SVC (C: one@7, V: is@6, S: it@5, A?: Established@1, A?: of@8)
+86	
+87	SVO (S: Women@1, V: "has", O: Open@3)	SVC (S: Open@3, V: "is", C: restrictions@9)	SVC (S: Open@3, V: "is", C: requirement@13)
+88	
+89	SVA (V: "be administered", S: Established@1, A!: by@6, A?: since@9)	SVC (S: Established@1, V: "is", C: one@12)	SVO (S: women@15, V: "has", O: majors@17)
+90	
+91	SVC (S: Open@2, V: "is", C: requirement@16)	SVC (S: Open@2, V: "is", C: age@9)
+92	
+93	
+94	SVC (S: age@4, V: "is", C: index@10)
+95	
+96	
+97	SVC (S: Amateur@3, V: "is", C: females@9)
+98	
+99	
+100	SVC (S: Junior@1, V: "is", C: index@9)
+101	
+102	SVO (S: Girls@1, V: "has", O: Junior@3)
+103	
+104	
+105	
+106	
+107	
+108	SVC (S: restriction@5, V: "is", C: index@14)
+109	
+110	SVO (S: Women@1, V: "has", O: Mid-Amateur@3)
+111	
+112	SVA (V: "be known", S: Links@3, A!: popularly@5, A?: as@7)	SVC (S: restriction@15, V: "is", C: index@18)
+113	
+114	SVO (S: Women@1, V: "has", O: Links@5)	SVA (V: "be known", S: Links@5, A!: popularly@7, A?: as@9)	SVO (S: Women@12, V: "has", O: Publinx@14)
+115	SVO (S: Men@8, V: "has", O: Women@14)	SVA (V: "be played", S: Cup@20, A!: in@27)	SVO (S: Women@14, V: "has", O: Cup@20)
+116	SVC (C: co-organizer@5, V: is@3, S: R&A@2)
+117	SVA (V: "be played", S: Cup@2, A!: in@8)
+118	SVO (S: Ladies@2, V: "has", O: Union@5)	SVC (C: co-organizer@8, V: is@6, S: Union@5)
+119	SVO (V: won@14, S: Trophy@2, O: U.S.@16)
+120	
+121	
+122	SVA (V: went@2, S: He@1, A!: on@3)
+123	
+124	SVO (V: won@3, S: Jones@2, O: U.S.@5)
+125	
+126	SVO (S: his@5, V: "has", O: Slam@8)
+127	SVO (V: won@4, S: Jones@1, A?: previously@3, O: U.S.@6)
+128	
+129	
+130	SVO (V: won@3, S: Sigel@2, O: U.S.@5)
+131	
+132	
+133	SVO (V: won@3, S: He@1, O: U.S.@5)
+134	
+135	SVO (V: won@3, S: Sinn@2, O: Links@8)	SVO (S: Women@5, V: "has", O: Links@8)	SVO (S: Women@10, V: "has", O: Amateur@12)
+136	SVO (V: defended@3, S: She@1, A?: successfully@2, O: title@8, A?: in@9)	SVO (S: her@4, V: "has", O: Women@5)	SVO (S: Women@5, V: "has", O: title@8)
+137	SVO (V: won@3, S: Moore@2, O: U.S.@5)
+138	
+139	
+140	SVO (V: won@4, S: He@1, A?: previously@3, O: Publinx@6, A?: in@7)
+141	SVO (V: won@3, S: Knost@2, O: U.S.@5)
+142	
+143	
+144	SVO (V: won@3, S: Song@2, O: Links@8)	SVO (S: Women@5, V: "has", O: Links@8)	SVO (S: Women@10, V: "has", O: Amateur@12)
+145	SVC (S: Carner@2, V: "is", C: Gunderson@5)	SVO (S: Women@16, V: "has", O: 1957@20)	SVC (S: Open@32, V: "is", C: Palmer@38)	SVO (S: Women@30, V: "has", O: Open@32)	SVC (S: Amat@59, V: "is", C: 1961@63)	SVC (S: Open@76, V: "is", C: Thompson@83)	SVO (S: Women@87, V: Am@89, O: 1962@67)	SVO (S: Women@93, V: "has", O: Mid-Am@95)	SVO (S: Women@102, V: "has", O: 1999@106)	SVC (S: 1999@106, V: "is", C: 2000@108)	SVC (S: 1999@106, V: "is", C: 2001@110)	SVC (S: Amat@127, V: "is", C: 1996@133)	SVC (S: Amat@161, V: "is", C: 1913@169)	SVC (S: Amat@191, V: "is", C: 1935@195)	SVO (S: Women@205, V: Am@207, O: 2000@137)	SVO (S: Women@211, V: "has", O: Open@213)	SVO (S: Women@221, V: Am@223, O: 1962@67)	SVO (S: Women@229, V: "has", O: Open@231)	SVO (S: Women@239, V: Am@241, O: 1962@67)	SVO (S: Women@245, V: "has", O: Open@247)	SVC (S: Open@247, V: "is", C: Suggs@255)	SVO (S: Women@259, V: Am@261, O: Open@247)	SVC (S: Open@267, V: "is", C: Wright@273)	SVO (S: Women@265, V: "has", O: Open@267)	SVC (S: Open@285, V: "is", C: Littler@295)	SVO (S: Women@283, V: "has", O: Open@285)	SVO (S: Women@309, V: "has", O: Open@311)	SVO (S: Women@315, V: "has", O: Andrews@321)	SV (V: Am@366, S: Women@364)	SVO (S: Women@371, V: "has", O: 1977@375)	SVC (S: 1977@375, V: "is", C: 1980@377)	SVC (S: 1977@375, V: "is", C: 1981@379)	SVC (S: Open@399, V: "is", C: C.@407)	SVO (S: Women@397, V: "has", O: Open@399)
+146	SVC (S: Amat@10, V: "is", C: Castillo@16)	SVC (S: Publinx@28, V: "is", C: Alcott@34)	SVO (S: Women@26, V: "has", O: Publinx@28)	SVO (S: Women@44, V: "has", O: Open@46)	SVO (S: Women@75, V: "has", O: Publinx@77)	SVC (S: Streit@81, V: "is", C: Stewart@84)	SV (V: Am@91, S: Women@89)	SVO (S: Women@96, V: "has", O: 1985@100)	SVC (S: Open@127, V: "is", C: Quast@133)	SVC (S: Decker@136, V: "is", C: Welts@138)	SVC (S: Decker@136, V: "is", C: Sander@140)	SVO (S: Women@145, V: "has", O: 1958@149)	SVO (S: Women@156, V: Am@158, O: 1958@149)	SV (V: Am@193, S: Women@191)	SV (V: Am@218, S: Women@216)	SVO (S: Women@222, V: "has", O: Publinx@224)	SVO (S: Women@232, V: Am@234, O: 1958@149)	SVO (S: Women@238, V: "has", O: Publinx@240)	SVO (S: Women@254, V: "has", O: 1995@258)	SVO (S: Women@273, V: "has", O: Irwin@279)	SVO (S: Women@302, V: "has", O: 1980@306)	SVC (S: Open@314, V: "is", C: Fleisher@320)	SVO (S: Women@312, V: "has", O: Open@314)	SVO (S: Women@343, V: "has", O: Open@345)	SVC (S: Amat@378, V: "is", C: Woods@390)	SVC (S: Amat@405, V: "is", C: 1996@411)	SVC (S: 1957@437, V: "is", C: 1990@515)	SVC (S: 1957@437, V: "is", C: 1992@517)	SVC (S: 1957@437, V: "is", C: Thompson@522)	SVO (S: Women@433, V: "has", O: 1957@437)	SVC (S: Op@449, V: "is", C: Nicklaus@455)	SVO (S: Women@447, V: "has", O: Op@449)	SVC (S: Open@478, V: "is", C: Quast@484)	SVC (S: Decker@487, V: "is", C: Welts@489)	SVC (S: Decker@487, V: "is", C: Sander@491)	SVO (S: Women@498, V: Am@500, O: 1962@469)	SVO (S: Women@509, V: Am@511, O: 1957@437)	SV (V: Am@530, S: Women@528)	SVO (S: Women@534, V: "has", O: Mid-Am@536)	SVC (S: 1999@547, V: "is", C: 2000@549)	SVC (S: 1999@547, V: "is", C: 2001@551)	SVC (S: 1999@547, V: "is", C: Collett@555)	SVO (S: Women@543, V: "has", O: 1999@547)	SVC (S: Collett@555, V: "is", C: Vare@557)	SVO (S: Women@564, V: "has", O: 1922@568)	SVO (S: Women@596, V: "has", O: Open@598)	SVC (S: Open@598, V: "is", C: Travers@606)	SVC (S: Amat@612, V: "is", C: 1913@620)	SVC (S: Op@640, V: "is", C: Cudone@650)	SVO (S: Women@638, V: "has", O: Op@640)	SV (V: Am@659, S: Women@657)	SV (V: Am@672, S: Women@670)
+147	
+0	SVA (V: "be proposed", S: plan@3, A!: by@5)
+1	
+2	SVC (S: Association@5, V: "is", C: USGA@7)	SVC (C: association@15, V: is@9, S: Association@5, A?: of@16)	SVO (S: States@12, V: "has", O: association@15)
+3	
+4	SVO (V: produces@8, S: USGA@7, A?: Together@1, O: Rules@12)	SVO (V: interprets@10, S: USGA@7, A?: Together@1, O: Rules@12)
+5	SVO (V: provides@4, S: USGA@2, A?: also@3, O: system@8)	SVOC (V: conducts@12, S: USGA@2, A?: also@3, O: system@8, O: championships@15)
+6	SVC (S: Open@1, V: "is", C: U.S.@3)
+7	SVO (S: Women@1, V: "has", O: Open@3)
+8	
+9	SVC (C: leader@8, V: is@6, S: USGA@5, A?: In@1, A?: in@9, A?: through@12)	SVO (S: its@13, V: "has", O: Section@15)	SVO (V: provides@18, S: it@17, O: hundreds@19, A?: through@25)	SVO (S: its@26, V: "has", O: Foundation@27)
+10	SVO (V: provided@5, S: Foundation@3, O: $@8, A?: to@13)
+11	SVC (C: contributor@5, V: is@2, S: It@1, A?: to@6)
+12	SVA (V: led@5, S: USGA@2, A?: currently@4, A!: by@6)	SV (V: Hyler@15, S: USGA@2, A?: currently@4, A?: by@6)
+13	SVC (S: Answers@3, V: "is", C: http@14)
+14	
+15	SV (V: =@3, S: r@2)	SVC (S: 1@4, V: "is", C: http@45)	SVA (V: Answers@34, S: Company@29, A!: for@35)
+16	
+17	SV (V: =@3, S: r@2)	SVA (V: "be given", S: honor@39, A!: by@41)	SVC (C: honor@39, V: is@36, S: Company@29, A?: Times@24, A?: given@40)
+18	SVA (V: given@5, S: award@3, A!: in@6)
+19	SVO (V: formed@5, S: USGA@2, A?: originally@4, A?: in@6, XCOMP: resolve@9)
+20	SVC (S: Club@8, V: "is", C: York@19)	SVO (S: Andrew@11, V: "has", O: Club@14)	SVO (V: declared@22, S: both@21, A?: year@3, O: winners@24)	SVO (V: declared@22, S: Club@8, A?: year@3, O: winners@24)	SVO (S: their@26, V: "has", O: tournaments@27)
+21	SVC (S: autumn@3, V: "is", C: delegates@5)	SVA (S: Newport@7, V: "is in", C: St@9)
+22	SVC (S: Club@6, V: "is", C: Club@10)	SVO (V: met@17, S: Club@6, A?: in@18, XCOMP: form@23)	SVO (V: administer@31, S: body@27, O: championship@33)	SVO (V: also@35, S: body@27, O: championship@33)
+23	SV (V: formed@17, S: Association@10, A?: On@1, A?: officially@16)	SVO (V: renamed@23, S: Association@10, A?: On@1, A?: officially@16, A?: thereafter@22, XCOMP: Association@29)
+24	SVC (C: president@7, V: was@4, S: Havemeyer@3)
+25	SVA (V: named@4, S: trophy@2, A!: in@5)	SVO (S: his@6, V: "has", O: honor@7)
+26	
+27	SVA (V: held@3, S: Amateur@1, A!: in@4, A?: at@6, A?: with@12)
+28	SVA (V: "be winning", S: Macdonald@1, O: championship@17)	SVC (C: runner-up@5, V: was@4, S: who@3, A?: at@6)	SVO (S: year@11, V: "has", O: tournaments@13)
+29	
+30	SVA (V: held@3, S: Open@1, A!: day@6, A?: as@9)
+31	SVC (V: was@2, S: It@1, A?: until@4, CCOMP: held@11)	SVA (V: held@11, S: events@9, A!: at@12)
+32	SVO (V: administers@5, S: USGA@4, A?: Today@1, O: championships@9)
+33	SVO (V: expanded@4, S: USGA@2, A?: gradually@3, O: membership@6, A?: from@7)	SVO (S: its@5, V: "has", O: membership@6)
+34	EXISTENTIAL (V: were@2, S: members@5)	EXISTENTIAL (V: clubs@11, S: members@5, A?: by@12)
+35	SVA (V: fell@2, S: Membership@1, A!: during@4)	SVA (V: recovered@14, S: Membership@1, A?: during@4, A!: by@15)
+36	EXISTENTIAL (V: were@4, S: clubs@7, A?: By@1)	SVO (V: exceeds@12, S: membership@11, O: 9,700@13)
+37	
+38	
+39	SV (V: http@6, S: Association@4)
+40	
+41	
+42	
+43	
+44	
+45	SV (V: http@6, S: Association@4)
+46	
+47	
+48	
+49	SVO (V: organizes@4, S: USGA@3, O: competitions@9)	SVO (V: co-organizes@6, S: USGA@3, O: competitions@9)	SVC (C: one@18, V: is@17, S: championship@16)	SVO (V: enter@25, S: professionals@21, O: one@18)
+50	SVA (V: won@8, S: events@5, A?: In@1, A?: always@7, A!: by@9, A?: nowadays@11)
+51	SVA (V: "be leading", S: two@2)	SVA (V: opens@4, S: two@2, A!: in@5)
+52	SVO (V: conducts@6, S: USGA@4, A?: also@5, O: U.S.@8)
+53	
+54	SVC (C: one@3, V: is@2, S: This@1, A?: of@4)	SVA (V: "be recognized", S: majors@7, A!: by@9)	SVO (S: world@11, V: "has", O: tour@14)
+55	SVA (V: play@7, S: majority@3, A!: regularly@8, A?: on@9)
+56	SVA (V: compete@6, S: Many@1, A!: on@7)	SVC (S: counterpart@13, V: "is", C: Tour@18)	SVO (S: Tour@10, V: "has", O: counterpart@13)	SVO (V: recognizes@21, S: Tour@18, O: U.S.@23)
+57	SVO (S: its@6, V: "has", O: majors@8)
+58	SVO (S: women@3, V: "has", O: tour@6)	SVA (V: "be known", S: 50@17, A!: now@20, A?: as@22)	SVO (V: existed@28, S: 50@17, A?: since@29, CCOMP: created@37)	SVO (V: created@37, S: USGA@33, A?: yet@36, O: Open@42)	SVO (S: Women@40, V: "has", O: Open@42)
+59	
+60	SVC (S: Tour@7, V: "is", C: LPGA@10)
+61	SVA (V: is@5, S: USGA@4, A?: However@1, A!: at@6, A?: in@12)	SVO (V: organizes@16, S: USGA@4, A?: However@1, A?: at@6, A?: in@12, O: championships@21)
+62	SVC (C: open@5, V: are@4, S: events@3, A?: to@6)	SVC (C: won@14, V: are@4, S: events@3, A?: to@6, A?: usually@13, A?: by@15, A?: in@17)	SVO (S: their@18, V: "has", O: twenties@20)	SVA (V: working@23, S: who@21, A!: towards@24)	SVO (S: championships@35, V: are@33, O: working@23)
+63	
+64	SVO (S: Women@1, V: "has", O: Amateur@3)	SVC (V: became@4, S: Amateur@3, XCOMP: dominated@6, XCOMP: added@16)	SVC (S: professionals@10, V: "is", C: championships@14)	SVC (C: years@28, V: were@26, S: amateurs@23, A?: of@29)	EXISTENTIAL (V: are@35, S: events@38, A?: also@36)
+65	SVA (V: excluded@7, S: Members@1, A!: from@8)	SVO (S: women@17, V: "has", O: championships@21)	SV (V: were@22, S: first@23)	SVA (V: "be conducted", S: first@23, A!: in@25, A?: as@27)	SVO (S: USGA@32, V: "has", O: celebration@35)
+66	SVO (V: conducted@5, S: championships@3, CCOMP: numbered@9)
+67	SVO (S: men@5, V: "has", O: championship@7)	SVA (V: conducted@10, S: Starting@1, A!: in@11)	SVO (S: women@17, V: "has", O: championship@19)	SVO (V: numbered@22, S: championship@19, O: years@23)
+68	SVC (C: eligible@10, V: are@8, S: golfers@7, A?: According@1)
+69	SVO (V: co-organizes@3, S: USGA@2, O: competitions@8)	SVA (V: "be representing", S: team@16, O: Britain@19)	SVO (S: its@37, V: "has", O: membership@38)	SVO (V: involved@47, S: USGA@45, A?: Through@36, A?: in@48, O: Kingdom@29)	SVA (V: played@63, S: Championships@58, A!: biennially@64, A?: in@65)
+70	SVO (V: won@5, S: golfers@3, O: event@11, A?: in@12)	SVO (V: won@20, S: people@18, O: events@25)	SVO (S: their@27, V: "has", O: careers@28)	SVO (V: won@34, S: people@32, O: events@39)	SVO (S: their@41, V: "has", O: careers@42)	SVA (V: found@53, S: winners@47, A!: in@54)	SVO (S: event@56, V: "has", O: article@58)
+71	SVO (V: partnered@3, S: USGA@2, A?: with@4, A?: in@8, XCOMP: co-host@11)
+72	
+73	SVO (V: attracted@2, S: Open@1, O: hundreds@3, A?: from@8)
+74	SVO (V: took@5, S: winner@4, O: home@6)
+75	SVO (S: year@15, V: "has", O: event@17)
+76	
+77	SVC (S: March@1, V: "is", C: http@5)
+78	
+79	SVC (S: May@1, V: "is", C: GDC@7)
+80	SVC (S: March@1, V: "is", C: http@5)
+81	
+82	SVC (S: May@1, V: "is", C: Category@5)	SVC (S: associations@8, V: "is", C: Category@9)
+83	
+84	
+85	SVA (V: "be Established", S: one@7, A!: in@2)	SVC (C: one@7, V: is@6, S: it@5, A?: Established@1, A?: of@8)
+86	
+87	SVO (S: Women@1, V: "has", O: Open@3)	SVC (S: Open@3, V: "is", C: restrictions@9)	SVC (S: Open@3, V: "is", C: requirement@13)
+88	
+89	SVA (V: "be administered", S: Established@1, A!: by@6, A?: since@9)	SVC (S: Established@1, V: "is", C: one@12)	SVO (S: women@15, V: "has", O: majors@17)
+90	
+91	SVC (S: Open@2, V: "is", C: requirement@16)	SVC (S: Open@2, V: "is", C: age@9)
+92	
+93	
+94	SVC (S: age@4, V: "is", C: index@10)
+95	
+96	
+97	SVC (S: Amateur@3, V: "is", C: females@9)
+98	
+99	
+100	SVC (S: Junior@1, V: "is", C: index@9)
+101	
+102	SVO (S: Girls@1, V: "has", O: Junior@3)
+103	
+104	
+105	
+106	
+107	
+108	SVC (S: restriction@5, V: "is", C: index@14)
+109	
+110	SVO (S: Women@1, V: "has", O: Mid-Amateur@3)
+111	
+112	SVA (V: "be known", S: Links@3, A!: popularly@5, A?: as@7)	SVC (S: restriction@15, V: "is", C: index@18)
+113	
+114	SVO (S: Women@1, V: "has", O: Links@5)	SVA (V: "be known", S: Links@5, A!: popularly@7, A?: as@9)	SVO (S: Women@12, V: "has", O: Publinx@14)
+115	SVO (S: Men@8, V: "has", O: Women@14)	SVA (V: "be played", S: Cup@20, A!: in@27)	SVO (S: Women@14, V: "has", O: Cup@20)
+116	SVC (C: co-organizer@5, V: is@3, S: R&A@2)
+117	SVA (V: "be played", S: Cup@2, A!: in@8)
+118	SVO (S: Ladies@2, V: "has", O: Union@5)	SVC (C: co-organizer@8, V: is@6, S: Union@5)
+119	SVO (V: won@14, S: Trophy@2, O: U.S.@16)
+120	
+121	
+122	SVA (V: went@2, S: He@1, A!: on@3)
+123	
+124	SVO (V: won@3, S: Jones@2, O: U.S.@5)
+125	
+126	SVO (S: his@5, V: "has", O: Slam@8)
+127	SVO (V: won@4, S: Jones@1, A?: previously@3, O: U.S.@6)
+128	
+129	
+130	SVO (V: won@3, S: Sigel@2, O: U.S.@5)
+131	
+132	
+133	SVO (V: won@3, S: He@1, O: U.S.@5)
+134	
+135	SVO (V: won@3, S: Sinn@2, O: Links@8)	SVO (S: Women@5, V: "has", O: Links@8)	SVO (S: Women@10, V: "has", O: Amateur@12)
+136	SVO (V: defended@3, S: She@1, A?: successfully@2, O: title@8, A?: in@9)	SVO (S: her@4, V: "has", O: Women@5)	SVO (S: Women@5, V: "has", O: title@8)
+137	SVO (V: won@3, S: Moore@2, O: U.S.@5)
+138	
+139	
+140	SVO (V: won@4, S: He@1, A?: previously@3, O: Publinx@6, A?: in@7)
+141	SVO (V: won@3, S: Knost@2, O: U.S.@5)
+142	
+143	
+144	SVO (V: won@3, S: Song@2, O: Links@8)	SVO (S: Women@5, V: "has", O: Links@8)	SVO (S: Women@10, V: "has", O: Amateur@12)
+145	SVC (S: Carner@2, V: "is", C: Gunderson@5)	SVO (S: Women@16, V: "has", O: 1957@20)	SVC (S: Open@32, V: "is", C: Palmer@38)	SVO (S: Women@30, V: "has", O: Open@32)	SVC (S: Amat@59, V: "is", C: 1961@63)	SVC (S: Open@76, V: "is", C: Thompson@83)	SVO (S: Women@87, V: Am@89, O: 1962@67)	SVO (S: Women@93, V: "has", O: Mid-Am@95)	SVO (S: Women@102, V: "has", O: 1999@106)	SVC (S: 1999@106, V: "is", C: 2000@108)	SVC (S: 1999@106, V: "is", C: 2001@110)	SVC (S: Amat@127, V: "is", C: 1996@133)	SVC (S: Amat@161, V: "is", C: 1913@169)	SVC (S: Amat@191, V: "is", C: 1935@195)	SVO (S: Women@205, V: Am@207, O: 2000@137)	SVO (S: Women@211, V: "has", O: Open@213)	SVO (S: Women@221, V: Am@223, O: 1962@67)	SVO (S: Women@229, V: "has", O: Open@231)	SVO (S: Women@239, V: Am@241, O: 1962@67)	SVO (S: Women@245, V: "has", O: Open@247)	SVC (S: Open@247, V: "is", C: Suggs@255)	SVO (S: Women@259, V: Am@261, O: Open@247)	SVC (S: Open@267, V: "is", C: Wright@273)	SVO (S: Women@265, V: "has", O: Open@267)	SVC (S: Open@285, V: "is", C: Littler@295)	SVO (S: Women@283, V: "has", O: Open@285)	SVO (S: Women@309, V: "has", O: Open@311)	SVO (S: Women@315, V: "has", O: Andrews@321)	SV (V: Am@366, S: Women@364)	SVO (S: Women@371, V: "has", O: 1977@375)	SVC (S: 1977@375, V: "is", C: 1980@377)	SVC (S: 1977@375, V: "is", C: 1981@379)	SVC (S: Open@399, V: "is", C: C.@407)	SVO (S: Women@397, V: "has", O: Open@399)
+146	SVC (S: Amat@10, V: "is", C: Castillo@16)	SVC (S: Publinx@28, V: "is", C: Alcott@34)	SVO (S: Women@26, V: "has", O: Publinx@28)	SVO (S: Women@44, V: "has", O: Open@46)	SVO (S: Women@75, V: "has", O: Publinx@77)	SVC (S: Streit@81, V: "is", C: Stewart@84)	SV (V: Am@91, S: Women@89)	SVO (S: Women@96, V: "has", O: 1985@100)	SVC (S: Open@127, V: "is", C: Quast@133)	SVC (S: Decker@136, V: "is", C: Welts@138)	SVC (S: Decker@136, V: "is", C: Sander@140)	SVO (S: Women@145, V: "has", O: 1958@149)	SVO (S: Women@156, V: Am@158, O: 1958@149)	SV (V: Am@193, S: Women@191)	SV (V: Am@218, S: Women@216)	SVO (S: Women@222, V: "has", O: Publinx@224)	SVO (S: Women@232, V: Am@234, O: 1958@149)	SVO (S: Women@238, V: "has", O: Publinx@240)	SVO (S: Women@254, V: "has", O: 1995@258)	SVO (S: Women@273, V: "has", O: Irwin@279)	SVO (S: Women@302, V: "has", O: 1980@306)	SVC (S: Open@314, V: "is", C: Fleisher@320)	SVO (S: Women@312, V: "has", O: Open@314)	SVO (S: Women@343, V: "has", O: Open@345)	SVC (S: Amat@378, V: "is", C: Woods@390)	SVC (S: Amat@405, V: "is", C: 1996@411)	SVC (S: 1957@437, V: "is", C: 1990@515)	SVC (S: 1957@437, V: "is", C: 1992@517)	SVC (S: 1957@437, V: "is", C: Thompson@522)	SVO (S: Women@433, V: "has", O: 1957@437)	SVC (S: Op@449, V: "is", C: Nicklaus@455)	SVO (S: Women@447, V: "has", O: Op@449)	SVC (S: Open@478, V: "is", C: Quast@484)	SVC (S: Decker@487, V: "is", C: Welts@489)	SVC (S: Decker@487, V: "is", C: Sander@491)	SVO (S: Women@498, V: Am@500, O: 1962@469)	SVO (S: Women@509, V: Am@511, O: 1957@437)	SV (V: Am@530, S: Women@528)	SVO (S: Women@534, V: "has", O: Mid-Am@536)	SVC (S: 1999@547, V: "is", C: 2000@549)	SVC (S: 1999@547, V: "is", C: 2001@551)	SVC (S: 1999@547, V: "is", C: Collett@555)	SVO (S: Women@543, V: "has", O: 1999@547)	SVC (S: Collett@555, V: "is", C: Vare@557)	SVO (S: Women@564, V: "has", O: 1922@568)	SVO (S: Women@596, V: "has", O: Open@598)	SVC (S: Open@598, V: "is", C: Travers@606)	SVC (S: Amat@612, V: "is", C: 1913@620)	SVC (S: Op@640, V: "is", C: Cudone@650)	SVO (S: Women@638, V: "has", O: Op@640)	SV (V: Am@659, S: Women@657)	SV (V: Am@672, S: Women@670)
+147	

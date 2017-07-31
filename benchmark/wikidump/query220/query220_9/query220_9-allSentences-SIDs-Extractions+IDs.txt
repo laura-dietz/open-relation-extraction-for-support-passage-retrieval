@@ -1,0 +1,295 @@
+The All-NBA Team is an annual National Basketball Association ( NBA ) honor bestowed on the best players in the league following every NBA season . 	0	query220_All-NBA_Team\S\0
+"The All-NBA Team"	"is"	"an annual National Basketball Association honor bestowed on the best players in the league following every NBA season"	0	query220_All-NBA_Team\P\0-0
+"The All-NBA Team is an annual National Basketball Association honor bestowed on the best players in the league following every NBA season"	"is"	"NBA"	0	query220_All-NBA_Team\P\0-1
+"The All-NBA Team is an annual National Basketball Association honor bestowed on the best players in the league following every NBA season"	"is"	"NBA"	0	query220_All-NBA_Team\P\0-2
+"The All-NBA Team is an annual National Basketball Association honor bestowed on the best players in the league following every NBA season"	"is"	"NBA"	0	query220_All-NBA_Team\P\0-3
+The voting is conducted by a panel of sportswriters and broadcasters throughout the United States and Canada . 	1	query220_All-NBA_Team\S\1
+"The voting"	"is conducted"	"by a panel of sportswriters throughout the United States"	1	query220_All-NBA_Team\P\1-0
+"The voting"	"is conducted"	"by a panel of broadcasters throughout the United States and Canada"	1	query220_All-NBA_Team\P\1-1
+"The voting"	"is conducted"	"by a panel of sportswriters throughout the United Canada"	1	query220_All-NBA_Team\P\1-2
+http ://www.nba.com/news/AllNBA_060517.html 	2	query220_All-NBA_Team\S\2
+MVP Nash Highlights All-NBA First Team Turner Sports Interactive , Inc NBA.com 	3	query220_All-NBA_Team\S\3
+"MVP Nash Highlights All-NBA First Team Turner Sports Interactive"	"is"	"Inc NBA.com"	3	query220_All-NBA_Team\P\3-0
+January 18 , 2007 May 17 , 2006 http ://www.nba.com/news/AllNBA_060517.html 	4	query220_All-NBA_Team\S\4
+"January 18 www.nba.com/news/AllNBA_060517.html"	"is"	"2007 May 17"	4	query220_All-NBA_Team\P\4-0
+"May 17"	"is"	"2006 http"	2007	query220_All-NBA_Team\P\4-1
+MVP Nash Highlights All-NBA First Team Turner Sports Interactive , Inc NBA.com 	5	query220_All-NBA_Team\S\5
+"MVP Nash Highlights All-NBA First Team Turner Sports Interactive"	"is"	"Inc NBA.com"	5	query220_All-NBA_Team\P\5-0
+January 18 , 2007 May 17 , 2006 The team has been selected in every season of the league 's existence , dating back to its inaugural season in 1946 . 	6	query220_All-NBA_Team\S\6
+"January 18"	"be dating"	"back to its inaugural season in 1946"	6	query220_All-NBA_Team\P\6-0
+"January 18"	"be dating"	"back to its inaugural season"	6	query220_All-NBA_Team\P\6-1
+"The team"	"has been selected"	"6 January 18 dating back to its inaugural season in 1946 2007 May 17 2006"	6	query220_All-NBA_Team\P\6-2
+"The team"	"has been selected"	"in every season of the league 's existence 6 January 18 dating back to its inaugural season in 1946"	6	query220_All-NBA_Team\P\6-3
+"The team"	"has been selected"	"6 January 18 dating back to its inaugural season in 1946"	6	query220_All-NBA_Team\P\6-4
+"the league"	"has"	"existence"	6	query220_All-NBA_Team\P\6-5
+"the league"	"has"	"existence"	6	query220_All-NBA_Team\P\6-6
+http ://www.nba.com/history/awards_allnba 	7	query220_All-NBA_Team\S\7
+.html 	8	query220_All-NBA_Team\S\8
+All-NBA Teams Turner Sports Interactive , Inc NBA.com 	9	query220_All-NBA_Team\S\9
+"All-NBA Teams Turner Sports Interactive"	"is"	"Inc NBA.com"	9	query220_All-NBA_Team\P\9-0
+August 7 , 2008 http ://www.nba.com/history/awards_allnba 	10	query220_All-NBA_Team\S\10
+"August 7 www.nba.com/history/awards_allnba"	"is"	"2008 http"	10	query220_All-NBA_Team\P\10-0
+.html 	11	query220_All-NBA_Team\S\11
+All-NBA Teams Turner Sports Interactive , Inc NBA.com 	12	query220_All-NBA_Team\S\12
+"All-NBA Teams Turner Sports Interactive"	"is"	"Inc NBA.com"	12	query220_All-NBA_Team\P\12-0
+August 7 , 2008 The All-NBA Team is composed of three five-man lineups—a first , second , and third team , typically comprising a total of 15 roster spots . 	13	query220_All-NBA_Team\S\13
+"The All-NBA Team"	"is composed"	"of three five-man lineups a first"	13	query220_All-NBA_Team\P\13-0
+The All-NBA Team originally had two teams , but was expanded to three teams in 1988 . 	14	query220_All-NBA_Team\S\14
+"The All-NBA Team"	"had"	"two teams originally"	14	query220_All-NBA_Team\P\14-0
+"The All-NBA Team"	"had"	"two teams"	14	query220_All-NBA_Team\P\14-1
+"The All-NBA Team"	"was expanded"	"two teams originally"	14	query220_All-NBA_Team\P\14-2
+"The All-NBA Team"	"was expanded"	"two teams to three teams"	14	query220_All-NBA_Team\P\14-3
+"The All-NBA Team"	"was expanded"	"two teams in 1988"	14	query220_All-NBA_Team\P\14-4
+"The All-NBA Team"	"was expanded"	"two teams"	14	query220_All-NBA_Team\P\14-5
+Players receive five points for a first team vote , three points for a second team vote , and one point for a third team vote . 	15	query220_All-NBA_Team\S\15
+"Players"	"receive"	"five points for a first team vote three points for a second team vote"	15	query220_All-NBA_Team\P\15-0
+"Players"	"receive"	"five points three points for a second team vote"	15	query220_All-NBA_Team\P\15-1
+"Players"	"one point"	"five points three points for a second team vote for a first team vote"	15	query220_All-NBA_Team\P\15-2
+"Players"	"one point"	"five points three points for a second team vote for a third team vote"	15	query220_All-NBA_Team\P\15-3
+"Players"	"one point"	"five points three points for a second team vote"	15	query220_All-NBA_Team\P\15-4
+The five players with the highest point totals make the first team , with the next five making the second team and so forth . 	16	query220_All-NBA_Team\S\16
+"The five players with the highest point totals"	"make"	"the first team with the next five making the second team"	16	query220_All-NBA_Team\P\16-0
+"The five players with the highest point totals"	"make"	"the first team so forth"	16	query220_All-NBA_Team\P\16-1
+"The five players with the highest point totals"	"make"	"the first team"	16	query220_All-NBA_Team\P\16-2
+"the next five"	"be making"	"the second team"	16	query220_All-NBA_Team\P\16-3
+In the case of a tie at the fifth position of any team , the roster is expanded . 	17	query220_All-NBA_Team\S\17
+If the first team consists of six players due to a tie , the second team will still consist of five players with the potential for more expansion in the event of additional ties . 	18	query220_All-NBA_Team\S\18
+"the first team"	"consists"	"of six players due to a tie"	18	query220_All-NBA_Team\P\18-0
+"the second team"	"will consist"	"six players due to a tie still"	18	query220_All-NBA_Team\P\18-1
+"the second team"	"will consist"	"of five players with the potential for more expansion in the event of additional ties six players due to a tie"	18	query220_All-NBA_Team\P\18-2
+"the second team"	"will consist"	"six players due to a tie"	18	query220_All-NBA_Team\P\18-3
+A tie has occurred only once , in 1952 , when Bob Davies and Dolph Schayes tied in votes received . 	19	query220_All-NBA_Team\S\19
+"A tie"	"has occurred"	"only once in 1952 when Bob Davies"	19	query220_All-NBA_Team\P\19-0
+"A tie"	"has occurred"	"only once in 1952 when Bob Dolph Schayes tied in votes received"	19	query220_All-NBA_Team\P\19-1
+"A tie"	"has occurred"	"only once"	19	query220_All-NBA_Team\P\19-2
+"Dolph Schayes"	"be tied"	"in votes received"	19	query220_All-NBA_Team\P\19-3
+From 1946 to 1955 , players were selected without regard to position ; however , each team has consisted of two forwards , one center , and two guards beginning with the 1956 teams . 	20	query220_All-NBA_Team\S\20
+From 1946 to 1955 , players were selected without regard to position ; however , each team has consisted of two forwards , one center , and two guards beginning with the 1956 teams . 	20	query220_All-NBA_Team\S\20
+"each team"	"has consisted"	"of two forwards however"	20	query220_All-NBA_Team\P\20-0
+"each team"	"has consisted"	"of forwards one center however"	20	query220_All-NBA_Team\P\20-1
+"each team"	"has consisted"	"of forwards two guards beginning with the 1956 teams however"	20	query220_All-NBA_Team\P\20-2
+"each team"	"has consisted"	"of two forwards"	20	query220_All-NBA_Team\P\20-3
+"each team"	"has consisted"	"of forwards one center"	20	query220_All-NBA_Team\P\20-4
+"each team"	"has consisted"	"of forwards two guards beginning with the 1956 teams"	20	query220_All-NBA_Team\P\20-5
+"two guards"	"be beginning"	"with the 1956 teams"	20	query220_All-NBA_Team\P\20-6
+Kareem Abdul-Jabbar holds the record for the most total selections with fifteen . 	21	query220_All-NBA_Team\S\21
+"Kareem Abdul-Jabbar"	"holds"	"the record for the most total selections with fifteen"	21	query220_All-NBA_Team\P\21-0
+http ://www.basketball-reference 	22	query220_All-NBA_Team\S\22
+.com/awards/all_league_by_player 	23	query220_All-NBA_Team\S\23
+.html 	24	query220_All-NBA_Team\S\24
+All-League Selections by Player Sports Reference LLC basketball-reference .com 	25	query220_All-NBA_Team\S\25
+August 7 , 2008 http ://www.basketball-reference 	26	query220_All-NBA_Team\S\26
+"August 7 www.basketball-reference"	"is"	"2008 http"	26	query220_All-NBA_Team\P\26-0
+.com/awards/all_league_by_player 	27	query220_All-NBA_Team\S\27
+.html 	28	query220_All-NBA_Team\S\28
+All-League Selections by Player Sports Reference LLC basketball-reference .com 	29	query220_All-NBA_Team\S\29
+August 7 , 2008 Karl Malone and Shaquille O'Neal follow with fourteen total honors , Tim Duncan and Kobe Bryant with thirteen total honors , and Dolph Schayes , Bob Cousy , Jerry West and Hakeem Olajuwon with twelve selections . 	30	query220_All-NBA_Team\S\30
+"August 7"	"follow"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-0
+"August 7"	"follow"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-1
+"August 7"	"follow"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-2
+"7 2008 Karl Malone"	"follow"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-3
+"7 2008 Karl Malone"	"follow"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-4
+"7 2008 Karl Malone"	"follow"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-5
+"7 Shaquille O'Neal"	"follow"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-6
+"7 Shaquille O'Neal"	"follow"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-7
+"7 Shaquille O'Neal"	"follow"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-8
+"August 7"	"Dolph Schayes"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-9
+"August 7"	"Dolph Schayes"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-10
+"August 7"	"Dolph Schayes"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-11
+"7 2008 Karl Malone"	"Dolph Schayes"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-12
+"7 2008 Karl Malone"	"Dolph Schayes"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-13
+"7 2008 Karl Malone"	"Dolph Schayes"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-14
+"7 Shaquille O'Neal"	"Dolph Schayes"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-15
+"7 Shaquille O'Neal"	"Dolph Schayes"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-16
+"7 Shaquille O'Neal"	"Dolph Schayes"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-17
+"August 7"	"Dolph Bob Cousy"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-18
+"August 7"	"Dolph Bob Cousy"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-19
+"August 7"	"Dolph Bob Cousy"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-20
+"7 2008 Karl Malone"	"Dolph Bob Cousy"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-21
+"7 2008 Karl Malone"	"Dolph Bob Cousy"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-22
+"7 2008 Karl Malone"	"Dolph Bob Cousy"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-23
+"7 Shaquille O'Neal"	"Dolph Bob Cousy"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-24
+"7 Shaquille O'Neal"	"Dolph Bob Cousy"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-25
+"7 Shaquille O'Neal"	"Dolph Bob Cousy"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-26
+"August 7"	"Dolph Jerry West"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-27
+"August 7"	"Dolph Jerry West"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-28
+"August 7"	"Dolph Jerry West"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-29
+"7 2008 Karl Malone"	"Dolph Jerry West"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-30
+"7 2008 Karl Malone"	"Dolph Jerry West"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-31
+"7 2008 Karl Malone"	"Dolph Jerry West"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-32
+"7 Shaquille O'Neal"	"Dolph Jerry West"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-33
+"7 Shaquille O'Neal"	"Dolph Jerry West"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-34
+"7 Shaquille O'Neal"	"Dolph Jerry West"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-35
+"August 7"	"Dolph Hakeem Olajuwon with twelve selections"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-36
+"August 7"	"Dolph Hakeem Olajuwon with twelve selections"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-37
+"August 7"	"Dolph Hakeem Olajuwon with twelve selections"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-38
+"7 2008 Karl Malone"	"Dolph Hakeem Olajuwon with twelve selections"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-39
+"7 2008 Karl Malone"	"Dolph Hakeem Olajuwon with twelve selections"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-40
+"7 2008 Karl Malone"	"Dolph Hakeem Olajuwon with twelve selections"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-41
+"7 Shaquille O'Neal"	"Dolph Hakeem Olajuwon with twelve selections"	"with fourteen total honors"	30	query220_All-NBA_Team\P\30-42
+"7 Shaquille O'Neal"	"Dolph Hakeem Olajuwon with twelve selections"	"with fourteen total Tim Duncan"	30	query220_All-NBA_Team\P\30-43
+"7 Shaquille O'Neal"	"Dolph Hakeem Olajuwon with twelve selections"	"with fourteen total Kobe Bryant with thirteen total honors"	30	query220_All-NBA_Team\P\30-44
+Malone has the most All-NBA first team honors with eleven , while Cousy , Bob Pettit , Elgin Baylor , West , Abdul-Jabbar and Michael Jordan are all tied for second-most with ten . 	31	query220_All-NBA_Team\S\31
+"Malone"	"has"	"the most All-NBA first team honors with eleven while Cousy are all tied for second-most with ten"	31	query220_All-NBA_Team\P\31-0
+"Malone"	"has"	"the most All-NBA first team honors with eleven while Bob Pettit are all tied for second-most with ten"	31	query220_All-NBA_Team\P\31-1
+"Malone"	"has"	"the most All-NBA first team honors with eleven while Elgin Baylor are all tied for second-most with ten"	31	query220_All-NBA_Team\P\31-2
+"Malone"	"has"	"the most All-NBA first team honors with eleven while West are all tied for second-most with ten"	31	query220_All-NBA_Team\P\31-3
+"Malone"	"has"	"the most All-NBA first team honors with eleven while Abdul-Jabbar are all tied for second-most with ten"	31	query220_All-NBA_Team\P\31-4
+"Malone"	"has"	"the most All-NBA first team honors with eleven while Michael Jordan are all tied for second-most with ten"	31	query220_All-NBA_Team\P\31-5
+"Malone"	"has"	"the most All-NBA first team honors with eleven"	31	query220_All-NBA_Team\P\31-6
+"Malone"	"has"	"the most All-NBA first team honors with eleven"	31	query220_All-NBA_Team\P\31-7
+"Bob Pettit"	"are tied"	"for second-most with ten"	31	query220_All-NBA_Team\P\31-8
+"Elgin Baylor"	"are tied"	"for second-most with ten"	31	query220_All-NBA_Team\P\31-9
+"Elgin Baylor"	"are tied"	"for second-most with ten"	31	query220_All-NBA_Team\P\31-10
+"Elgin Baylor"	"are tied"	"for second-most with ten"	31	query220_All-NBA_Team\P\31-11
+"Michael Jordan"	"are tied"	"for second-most with ten"	31	query220_All-NBA_Team\P\31-12
+50 % thumbrightuprightBob Cousyhas been selected to the All-NBA team 11 times .alt=A 	32	query220_All-NBA_Team\S\32
+basketball player chases after a basketball across the court . 	33	query220_All-NBA_Team\S\33
+"basketball player"	"chases"	"after a basketball across the court"	33	query220_All-NBA_Team\P\33-0
+He stands in front of two other players with jerseys with the words " NEW YORK" From the 1946–47 season to 1954–55 season , the All-NBA Team was composed of two teams , each with five roster spots , except when there were ties . 	34	query220_All-NBA_Team\S\34
+He stands in front of two other players with jerseys with the words " NEW YORK" From the 1946–47 season to 1954–55 season , the All-NBA Team was composed of two teams , each with five roster spots , except when there were ties . 	34	query220_All-NBA_Team\S\34
+"the All-NBA Team"	"was composed"	"of two teams except when there were ties"	34	query220_All-NBA_Team\P\34-0
+"two teams except when there were ties"	"is"	"each with five roster spots"	34	query220_All-NBA_Team\P\34-1
+"two teams except when there were ties"	"is"	"each with five roster spots"	34	query220_All-NBA_Team\P\34-2
+During this period , players were selected without regard to position . 	35	query220_All-NBA_Team\S\35
+During this period , players were selected without regard to position . 	35	query220_All-NBA_Team\S\35
+During this period , players were selected without regard to position . 	35	query220_All-NBA_Team\S\35
+thumbrightuprightBill Russell( left ) has been selected to the All-NBA team 11 times .alt=A 	36	query220_All-NBA_Team\S\36
+basketball player _ wearing a light-colored jersey with the number " 13" _ is holding a basketball in front of another basketball player who is wearing a dark-colored jersey with the number " 6" . 	37	query220_All-NBA_Team\S\37
+"basketball player _"	"be wearing"	"a light-colored jersey with the number 13"	37	query220_All-NBA_Team\P\37-0
+"basketball player _"	"be wearing"	"a light-colored jersey with the number 13"	37	query220_All-NBA_Team\P\37-1
+"basketball player _"	"be wearing"	"a light-colored jersey with the number 13"	37	query220_All-NBA_Team\P\37-2
+"another basketball player"	"is wearing"	"a dark-colored jersey with the number 6"	37	query220_All-NBA_Team\P\37-3
+"another basketball player"	"is wearing"	"a dark-colored jersey"	37	query220_All-NBA_Team\P\37-4
+thumbrightuprightWilt Chamberlainhas been selected to the All-NBA team 10 times .alt=A 	38	query220_All-NBA_Team\S\38
+black basketball player _ wearing red and white pants and blue jersey and holding a basketball _ stands with his right leg up thumbuprightrightKareem Abdul-Jabbar _ also known as Lew Alcindor_ has been selected to the All-NBA team a record of 15 times .alt=A 	39	query220_All-NBA_Team\S\39
+bald black person _ wearing a gray suit and a tie_ looks to the left . 	40	query220_All-NBA_Team\S\40
+bald black person _ wearing a gray suit and a tie_ looks to the left . 	40	query220_All-NBA_Team\S\40
+"a tie _"	"looks"	"to the left"	40	query220_All-NBA_Team\P\40-0
+thumbuprightrightMichael Jordanhas been selected to the All-NBA team 11 times .alt=A 	41	query220_All-NBA_Team\S\41
+smiling bald black man wearing a silver earring and herringbone jacket thumbuprightrightPatrick Ewinghas been selected to the All-NBA team 7 times .alt=A 	42	query220_All-NBA_Team\S\42
+black basketball player attempts a jump shot . 	43	query220_All-NBA_Team\S\43
+"black basketball player"	"attempts"	"a jump shot"	43	query220_All-NBA_Team\P\43-0
+He wears a white jersey with an orange " NEW YORK" and " 33" _ and spectators can be seen in the background . 	44	query220_All-NBA_Team\S\44
+He wears a white jersey with an orange " NEW YORK" and " 33" _ and spectators can be seen in the background . 	44	query220_All-NBA_Team\S\44
+He wears a white jersey with an orange " NEW YORK" and " 33" _ and spectators can be seen in the background . 	44	query220_All-NBA_Team\S\44
+He wears a white jersey with an orange " NEW YORK" and " 33" _ and spectators can be seen in the background . 	44	query220_All-NBA_Team\S\44
+He wears a white jersey with an orange " NEW YORK" and " 33" _ and spectators can be seen in the background . 	44	query220_All-NBA_Team\S\44
+He wears a white jersey with an orange " NEW YORK" and " 33" _ and spectators can be seen in the background . 	44	query220_All-NBA_Team\S\44
+He wears a white jersey with an orange " NEW YORK" and " 33" _ and spectators can be seen in the background . 	44	query220_All-NBA_Team\S\44
+He wears a white jersey with an orange " NEW YORK" and " 33" _ and spectators can be seen in the background . 	44	query220_All-NBA_Team\S\44
+"_"	"can be seen"	"in the background"	33	query220_All-NBA_Team\P\44-0
+"_"	"can be seen"	"in the background"	33	query220_All-NBA_Team\P\44-1
+From the 1955–56 season to 1987 –88 season , the All-NBA Team was composed of two teams , each with five roster spots , except when there were ties . 	45	query220_All-NBA_Team\S\45
+"the All-NBA Team"	"was composed"	"of two teams except when there were ties"	45	query220_All-NBA_Team\P\45-0
+"two teams except when there were ties"	"is"	"each with five roster spots"	45	query220_All-NBA_Team\P\45-1
+"two teams except when there were ties"	"is"	"each with five roster spots"	45	query220_All-NBA_Team\P\45-2
+During this time , players were selected with regard to position ; they are listed according to position in the following descending order : two forwards , one center and two guards . 	46	query220_All-NBA_Team\S\46
+During this time , players were selected with regard to position ; they are listed according to position in the following descending order : two forwards , one center and two guards . 	46	query220_All-NBA_Team\S\46
+During this time , players were selected with regard to position ; they are listed according to position in the following descending order : two forwards , one center and two guards . 	46	query220_All-NBA_Team\S\46
+During this time , players were selected with regard to position ; they are listed according to position in the following descending order : two forwards , one center and two guards . 	46	query220_All-NBA_Team\S\46
+During this time , players were selected with regard to position ; they are listed according to position in the following descending order : two forwards , one center and two guards . 	46	query220_All-NBA_Team\S\46
+Since the 1988 –89 season , the All-NBA Team has been composed of three teams , each with five roster spots , except when there are ties . 	47	query220_All-NBA_Team\S\47
+"season"	"is"	"the All-NBA Team"	89	query220_All-NBA_Team\P\47-0
+"Since the 1988"	"89 season has been composed"	"of three teams except when there are ties"	47	query220_All-NBA_Team\P\47-1
+"season"	"47 Since the 1988 has been composed"	"of three teams except when there are ties"	89	query220_All-NBA_Team\P\47-2
+"three teams except when there are ties"	"is"	"each with five roster spots"	89	query220_All-NBA_Team\P\47-3
+"three teams except when there are ties"	"is"	"each with five roster spots"	89	query220_All-NBA_Team\P\47-4
+Players are selected with regard to position ; they are listed according to position in the following descending order : two forwards , one center and two guards . 	48	query220_All-NBA_Team\S\48
+"Players"	"are selected"	"with regard to position"	48	query220_All-NBA_Team\P\48-0
+"Players"	"are selected"	"with regard to position"	48	query220_All-NBA_Team\P\48-1
+"Players"	"are selected"	"with regard to position"	48	query220_All-NBA_Team\P\48-2
+2 Category :National Basketball Association awards Category :National Basketball Association lists ca :Equip All-NBA de:All-NBA Team es :Mejor Quinteto de la NBA fr:All-NBA Team gl:Equipo All-NBA hr:All-NBA momčad it :All-NBA Team he :חמישיית העונה ב-NBA lv:NBA simboliskā izlase no:All-NBA Team pl:All-NBA Team pt:All-NBA Team ru:Сборная всех звёзд НБА fi:NBA :n tähdistöjoukkue th :ทีมออล-เอ็นบีเอ tr:All-NBA Team zh :NBA最佳阵容 Note1 a a The Most Valuable Player award was first established in 1956 . 	49	query220_All-NBA_Team\S\49
+"National Basketball Association lists"	"ca Equip"	"All-NBA de Mejor Quinteto de la NBA fr All-NBA Team gl Equipo All-NBA hr All-NBA momčad it All-NBA Team he חמישיית העונה ב-NBA lv NBA simboliskā izlase no All-NBA Team pl All-NBA Team pt All-NBA Team ru Сборная всех звёзд НБА fi NBA n tähdistöjoukkue th ทีมออล เอ็นบีเอ tr All-NBA Team zh NBA最佳阵容 Note1 a a The Most Valuable Player award was first established in 1956"	49	query220_All-NBA_Team\P\49-0
+"All-NBA Team"	"es"	"National Basketball Association lists ca Equip All-NBA de Mejor Quinteto de la NBA fr All-NBA Team gl Equipo All-NBA hr All-NBA momčad it All-NBA Team he חמישיית העונה ב-NBA lv NBA simboliskā izlase no All-NBA Team pl All-NBA Team pt All-NBA Team ru Сборная всех звёзд НБА fi NBA n tähdistöjoukkue th ทีมออล เอ็นบีเอ tr All-NBA Team zh NBA最佳阵容 Note1 a a The Most Valuable Player award was first established in 1956"	49	query220_All-NBA_Team\P\49-1
+"All-NBA Team"	"es"	"National Basketball Association lists ca Equip All-NBA de Mejor Quinteto de la NBA fr All-NBA Team gl Equipo All-NBA hr All-NBA momčad it All-NBA Team he חמישיית העונה ב-NBA lv NBA simboliskā izlase no All-NBA Team pl All-NBA Team pt All-NBA Team ru Сборная всех звёзд НБА fi NBA n tähdistöjoukkue th ทีมออล เอ็นบีเอ tr All-NBA Team zh NBA最佳阵容 Note1 a a The Most Valuable Player award was first established in 1956"	49	query220_All-NBA_Team\P\49-2
+Note2 b b Before the 1971–72 season , Lew Alcindor changed his name to Kareem Abdul-Jabbar . 	50	query220_All-NBA_Team\S\50
+"season"	"is"	"Lew Alcindor"	72	query220_All-NBA_Team\P\50-0
+"season"	"changed"	"his name to Kareem Abdul-Jabbar"	72	query220_All-NBA_Team\P\50-1
+"season"	"changed"	"his name"	72	query220_All-NBA_Team\P\50-2
+"season"	"changed"	"his name"	72	query220_All-NBA_Team\P\50-3
+http ://www.nba.com/history/players/abduljabbar_bio.html 	51	query220_All-NBA_Team\S\51
+Kareem Abdul-Jabbar Bio August 4 , 2008 Turner Sports Interactive , Inc NBA.com 	52	query220_All-NBA_Team\S\52
+"Kareem Abdul-Jabbar Bio August 4"	"is"	"Inc NBA.com"	52	query220_All-NBA_Team\P\52-0
+"Kareem Abdul-Jabbar Bio 4 2008 Turner Sports Interactive"	"is"	"Inc NBA.com"	52	query220_All-NBA_Team\P\52-1
+http ://www.nba.com/history/players/abduljabbar_bio.html 	53	query220_All-NBA_Team\S\53
+Kareem Abdul-Jabbar Bio August 4 , 2008 Turner Sports Interactive , Inc NBA.com 	54	query220_All-NBA_Team\S\54
+"Kareem Abdul-Jabbar Bio August 4"	"is"	"Inc NBA.com"	54	query220_All-NBA_Team\P\54-0
+"Kareem Abdul-Jabbar Bio 4 2008 Turner Sports Interactive"	"is"	"Inc NBA.com"	54	query220_All-NBA_Team\P\54-1
+Note3 c c When Olajuwon arrived in the United States , the University of Houston incorrectly spelled his first name " Akeem " . 	55	query220_All-NBA_Team\S\55
+Note3 c c When Olajuwon arrived in the United States , the University of Houston incorrectly spelled his first name " Akeem " . 	55	query220_All-NBA_Team\S\55
+Note3 c c When Olajuwon arrived in the United States , the University of Houston incorrectly spelled his first name " Akeem " . 	55	query220_All-NBA_Team\S\55
+Note3 c c When Olajuwon arrived in the United States , the University of Houston incorrectly spelled his first name " Akeem " . 	55	query220_All-NBA_Team\S\55
+"Note3 c c"	"the University of Houston spelled"	"his first name Akeem incorrectly"	55	query220_All-NBA_Team\P\55-0
+"Note3 c c"	"the University of Houston spelled"	"his first name Akeem"	55	query220_All-NBA_Team\P\55-1
+"the University of Houston"	"55 Note3 c c spelled"	"his first name Akeem incorrectly"	55	query220_All-NBA_Team\P\55-2
+"the University of Houston"	"55 Note3 c c spelled"	"his first name Akeem"	55	query220_All-NBA_Team\P\55-3
+"the University of Houston"	"55 Note3 c c spelled"	"his first name Akeem"	55	query220_All-NBA_Team\P\55-4
+He used that spelling until March 9 , 1991 , when he announced that he would add an H. 	56	query220_All-NBA_Team\S\56
+He used that spelling until March 9 , 1991 , when he announced that he would add an H. 	56	query220_All-NBA_Team\S\56
+He used that spelling until March 9 , 1991 , when he announced that he would add an H. 	56	query220_All-NBA_Team\S\56
+He used that spelling until March 9 , 1991 , when he announced that he would add an H. 	56	query220_All-NBA_Team\S\56
+He used that spelling until March 9 , 1991 , when he announced that he would add an H. 	56	query220_All-NBA_Team\S\56
+http ://www.nba.com/playerfile/hakeem_olajuwon/bio.html 	57	query220_All-NBA_Team\S\57
+Hakeem Olajuwon Bio : 1992-93 June 15 , 2008 Turner Sports Interactive , Inc NBA.com 	58	query220_All-NBA_Team\S\58
+http ://www.nba.com/playerfile/hakeem_olajuwon/bio.html 	59	query220_All-NBA_Team\S\59
+Hakeem Olajuwon Bio : 1992-93 June 15 , 2008 Turner Sports Interactive , Inc NBA.com 	60	query220_All-NBA_Team\S\60
+Chris Dufresne Hakeem Still Can Be Called 'the Dream ' Los Angeles Times 2 March 11 , 1991 Chris Dufresne Hakeem Still Can Be Called 'the Dream ' Los Angeles Times 2 March 11 , 1991 Note4 d d Ron Artest changed his name into Metta World Peace on September 16 , 2011 . 	61	query220_All-NBA_Team\S\61
+"Chris Dufresne Hakeem"	"Can Be Called"	"Los Angeles Times 2 March 11 1991 Chris Dufresne Hakeem Still Can Be Called the Dream Los Angeles Times Still"	61	query220_All-NBA_Team\P\61-0
+"Chris Dufresne Hakeem"	"Can Be Called"	"Los Angeles Times 2 March 11 1991 Chris Dufresne Hakeem Still Can Be Called the Dream Los Angeles Times"	61	query220_All-NBA_Team\P\61-1
+"Chris Dufresne Hakeem"	"be Called"	"Still"	61	query220_All-NBA_Team\P\61-2
+"March 11"	"is"	"1991 Note4 d d Ron Artest"	2	query220_All-NBA_Team\P\61-3
+"March 11"	"changed"	"his name into Metta World Peace the Dream Los Angeles Times"	2	query220_All-NBA_Team\P\61-4
+"March 11"	"changed"	"his name on September 16 2011 the Dream Los Angeles Times"	2	query220_All-NBA_Team\P\61-5
+"March 11"	"changed"	"his name the Dream Los Angeles Times"	2	query220_All-NBA_Team\P\61-6
+"March 11"	"changed"	"his name the Dream Los Angeles Times"	2	query220_All-NBA_Team\P\61-7
+http ://www.nytimes.com/aponline/2011/09/16/sports/basketball/AP-BKN-Artest-Name-Change 	62	query220_All-NBA_Team\S\62
+.html 	63	query220_All-NBA_Team\S\63
+Artest 's Name Change to Metta World Peace Approved September 16 , 2011 September 16 , 2011 The New York Times http ://www.nytimes.com/aponline/2011/09/16/sports/basketball/AP-BKN-Artest-Name-Change 	64	query220_All-NBA_Team\S\64
+"Metta World Peace Approved September 16"	"is"	"2011 The New York Times http"	64	query220_All-NBA_Team\P\64-0
+"Metta World Peace Approved September 16"	"is"	"2011 September 16"	64	query220_All-NBA_Team\P\64-1
+.html 	65	query220_All-NBA_Team\S\65
+Artest 's Name Change to Metta World Peace Approved September 16 , 2011 September 16 , 2011 The New York Times Note5 e e Amar 'e Stoudemire 's first name had previously been spelled incorrectly as " Amaré " or " Amare " since joining the NBA , but was changed to " Amar 'e " in October 2008 . 	66	query220_All-NBA_Team\S\66
+"Metta World Peace Approved September 16"	"is"	"2011 The New York Times Note5 e e Amar ' e Stoudemire 's first name had previously been spelled incorrectly as Amaré Amare since joining the NBA"	66	query220_All-NBA_Team\P\66-0
+"Metta World Peace Approved September 16"	"is"	"2011 September 16"	66	query220_All-NBA_Team\P\66-1
+"The New York Times Note5 e e Amar '"	"be spelled"	"previously incorrectly Amare"	66	query220_All-NBA_Team\P\66-2
+"The New York Times Note5 e e Amar '"	"be spelled"	"previously as Amaré Amare"	66	query220_All-NBA_Team\P\66-3
+"The New York Times Note5 e e Amar '"	"be spelled"	"previously Amare since joining the NBA"	66	query220_All-NBA_Team\P\66-4
+"The New York Times Note5 e e Amar '"	"be spelled"	"previously Amare"	66	query220_All-NBA_Team\P\66-5
+"The New York Times Note5 e e Amar '"	"be spelled"	"previously Amare"	66	query220_All-NBA_Team\P\66-6
+"Stoudemire 's first name"	"had been spelled"	"Amare previously"	66	query220_All-NBA_Team\P\66-7
+"Stoudemire 's first name"	"had been spelled"	"incorrectly Amare"	66	query220_All-NBA_Team\P\66-8
+"Stoudemire 's first name"	"had been spelled"	"as Amaré Amare"	66	query220_All-NBA_Team\P\66-9
+"Stoudemire 's first name"	"had been spelled"	"Amare since joining the NBA"	66	query220_All-NBA_Team\P\66-10
+"Stoudemire 's first name"	"had been spelled"	"Amare"	66	query220_All-NBA_Team\P\66-11
+"Artest 's Name Change to Metta World Peace Approved September 16"	"was changed"	"to Amar ' e in October 2008"	66	query220_All-NBA_Team\P\66-12
+"Artest 's Name Change to Metta World Peace Approved September 16"	"was changed"	"to Amar ' e"	66	query220_All-NBA_Team\P\66-13
+"Artest 's Name Change to Metta World Peace Approved September 16"	"was changed"	"to Amar ' e"	66	query220_All-NBA_Team\P\66-14
+http ://www.azcentral.com/arizonarepublic/sports/articles/2008/10/30/20081030spt-bickley 	67	query220_All-NBA_Team\S\67
+.html 	68	query220_All-NBA_Team\S\68
+Bickley on Amaré : Awaking the giant Dan Bickley The Arizona Republic October 30 , 2008 March 25 , 2009 http ://www.azcentral.com/arizonarepublic/sports/articles/2008/10/30/20081030spt-bickley 	69	query220_All-NBA_Team\S\69
+"The Arizona Republic October 30"	"is"	"2008 March 25"	69	query220_All-NBA_Team\P\69-0
+"The Arizona Republic October 30"	"is"	"2009 http"	69	query220_All-NBA_Team\P\69-1
+.html 	70	query220_All-NBA_Team\S\70
+Bickley on Amaré : Awaking the giant Dan Bickley The Arizona Republic October 30 , 2008 March 25 , 2009 http ://www.nba.com/2008/news/features/dave_mcmenamin/11/20/112008amareqa/index 	71	query220_All-NBA_Team\S\71
+"The Arizona Republic October 30"	"is"	"2008 March 25"	71	query220_All-NBA_Team\P\71-0
+"The Arizona Republic October 30"	"is"	"2009 http"	71	query220_All-NBA_Team\P\71-1
+.html 	72	query220_All-NBA_Team\S\72
+Change the name of the game for Stoudemire this season Dave McMenamin Turner Sports Interactive , Inc NBA.com 	73	query220_All-NBA_Team\S\73
+"this season Dave McMenamin Turner Sports Interactive"	"is"	"Inc NBA.com"	73	query220_All-NBA_Team\P\73-0
+November 20 , 2008 March 25 , 2009 http ://www.nba.com/2008/news/features/dave_mcmenamin/11/20/112008amareqa/index 	74	query220_All-NBA_Team\S\74
+"November 20 www.nba.com/2008/news/features/dave_mcmenamin/11/20/112008amareqa/index"	"is"	"2008 March 25 2009 http"	74	query220_All-NBA_Team\P\74-0
+.html 	75	query220_All-NBA_Team\S\75
+Change the name of the game for Stoudemire this season Dave McMenamin Turner Sports Interactive , Inc NBA.com 	76	query220_All-NBA_Team\S\76
+"this season Dave McMenamin Turner Sports Interactive"	"is"	"Inc NBA.com"	76	query220_All-NBA_Team\P\76-0
+November 20 , 2008 March 25 , 2009 All-NBA Development League Team General http ://www.nba.com/history/awards_allnba 	77	query220_All-NBA_Team\S\77
+"November 20 www.nba.com/history/awards_allnba"	"is"	"2008 March 25 2009 All-NBA Development League Team General http"	77	query220_All-NBA_Team\P\77-0
+.html 	78	query220_All-NBA_Team\S\78
+All-NBA Teams Turner Sports Interactive , Inc NBA.com 	79	query220_All-NBA_Team\S\79
+"All-NBA Teams Turner Sports Interactive"	"is"	"Inc NBA.com"	79	query220_All-NBA_Team\P\79-0
+August 7 , 2008 http ://www.basketball-reference 	80	query220_All-NBA_Team\S\80
+"August 7 www.basketball-reference"	"is"	"2008 http"	80	query220_All-NBA_Team\P\80-0
+.com/awards/all_league 	81	query220_All-NBA_Team\S\81
+.html 	82	query220_All-NBA_Team\S\82
+All-NBA and All-ABA Teams Sports Reference LLC basketball-reference .com 	83	query220_All-NBA_Team\S\83
+August 7 , 2008 Specific 	84	query220_All-NBA_Team\S\84

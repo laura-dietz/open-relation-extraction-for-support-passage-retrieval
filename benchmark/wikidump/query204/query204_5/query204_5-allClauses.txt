@@ -1,0 +1,40 @@
+0	
+1	SVC (C: one@11, V: is@10, S: Club@6, A?: of@12)	SVC (S: one@11, V: "is", C: oldest@25)
+2	SVA (V: based@3, S: It@1, A!: in@4)	SVC (S: Andrews@6, V: "is", C: Fife@8)	SVC (S: Fife@8, V: "is", C: Scotland@10)
+3	SVC (C: one@12, V: was@10, S: it@9, A?: also@11, A?: of@13)	SVA (V: handed@27, S: role@25, A?: in@22, A!: over@28)	SVA (V: "be known", S: companies@35, A!: collectively@37, A?: as@39)
+4	SVA (V: founded@4, S: organisation@2, A!: in@5, A?: as@7)	SVA (V: grew@27, S: organisation@2, A?: in@5, A?: as@7, A?: quickly@26, A!: in@28)	SVC (S: Society@9, V: "is", C: club@18)	SVA (V: "be playing", S: club@18, A!: at@20)
+5	SVC (V: became@7, S: IV@6, A?: In@1, CCOMP: became@13)	SVO (S: its@8, V: "has", O: patron@9)	SVC (V: became@13, S: patron@9, ACOMP: known@14)	SVO (S: its@16, V: "has", O: name@18)
+6	SVO (V: codified@6, S: Society@5, A?: In@1, O: rules@8)	SVOC (V: invited@22, S: Society@5, A?: In@1, O: rules@8, A?: over@15, XCOMP: take@24)
+7	SVC (C: authority@15, V: is@12, S: rightframeRoyal@1, A?: of@16, A?: throughout@18, A?: except@21)	SVO (V: rests@31, S: responsibility@30, A?: where@28, A?: with@32, O: States@24)	SVC (S: Association@37, V: "is", C: USGA@39)
+8	SVA (V: works@2, S: It@1, A!: in@3, A?: in@12)
+9	SVO (V: cooperates@3, S: R&A@2, A?: with@4, A?: in@7, O: Rules@14)	SVO (V: issued@24, S: bodies@22, O: rules@26, A?: jointly@27, A?: since@28)
+10	SVO (V: collaborate@3, S: They@1, A?: also@2, A?: on@4, O: Decisions@12)
+11	SVA (V: involved@5, S: R&A@2, A?: also@4, A!: in@6)
+12	SVC (C: Director@7, V: is@4, S: Otto@3, A?: at@8)
+13	SVA (V: based@6, S: R@2, A!: in@7)	SVA (S: Andrews@9, V: "is in", C: Scotland@13)
+14	SVO (V: founded@3, S: R&A@2, CCOMP: Ranking@11)	SVC (C: Ranking@11, V: is@5, S: what@4, A?: now@6, A?: for@12, A?: in@15)
+15	SVO (V: organises@3, S: R&A@2, O: championships@5)	SVA (V: are@20, S: all@16, A?: Apart@10, A!: for@21)
+16	SVO (V: organises@5, S: Union@4, O: range@8)	SVO (S: Women@19, V: "has", O: Open@22)
+17	SVA (V: involved@5, S: R&A@2, A?: also@4, A!: in@6, A?: through@30)	SVO (S: its@31, V: "has", O: role@32)
+18	SVC (C: club@16, V: is@11, S: Club@6, A?: now@12, A?: simply@13)
+19	SVO (V: has@2, S: It@1, O: members@4)
+20	SVA (V: situated@5, S: clubhouse@3, A!: behind@7)	SVO (V: own@20, S: club@17, A?: situated@5, O: any@21, A?: despite@28)	SVOC (V: share@35, S: club@17, A?: situated@5, O: any@21, A?: despite@28, O: times@38, A?: with@39)
+21	SVA (V: undertaken@9, S: Responsibility@1, A!: by@10)	SVC (S: Trust@15, V: "is", C: organization@19)	SV (V: owns@21, S: organization@19)	SVO (V: runs@23, S: organization@19, O: courses@26)
+22	
+23	
+24	SVO (V: es@97, S: Royal@89, O: Club@104)
+25	SVO (S: men@74, V: "has", O: golf@76)
+26	SVC (C: one@7, V: was@6, S: which@5, A?: of@8)	SVC (C: one@22, V: was@6, S: which@5, A?: of@8, A?: still@21, A?: of@23)
+27	
+28	
+29	SVO (V: Open@2, S: Seniors@1, O: Championship@4, A?: for@6)
+30	
+31	SVO (V: introduced@4, S: tournament@2, XCOMP: provide@6)	SVC (V: turn@14, S: golfers@11, ACOMP: professional@15, A?: dominated@22)	SVA (V: dominated@22, S: Championship@20, A!: by@23, A?: in@26)	SVO (S: their@27, V: "has", O: teens@29)
+32	
+33	
+34	SVO (S: men@6, V: "has", O: competition@10)	SVA (V: "be contested", S: competition@10, A!: by@12)
+35	
+36	
+37	SVO (S: men@6, V: "has", O: competition@10)	SVA (V: "be contested", S: competition@10, A!: by@12)
+38	SVO (S: boys@6, V: "has", O: competition@10)	SVA (V: "be contested", S: competition@10, A!: by@12)
+39	

@@ -1,0 +1,74 @@
+0	
+1	
+2	SVC (S: Pictures@3, V: "is", C: International@5)	SVC (S: 1@11, V: "is", C: English@12)	SVC (C: remake@25, V: is@21, S: Pictures@3, A?: of@26)
+3	SV (V: written@3, S: It@1)	SVA (V: directed@5, S: It@1, A!: by@6)
+4	SVA (V: received@5, S: film@2, A?: poorly@4, A!: by@6)	SVC (S: Hardy@11, V: "is", C: co-creator@13)	SVO (V: disassociated@22, S: Hardy@11, O: himself@23, A?: from@24)
+5	SVC (S: Malus@2, V: "is", C: Cage@5)	SVC (S: Malus@2, V: "is", C: policeman@10)	SVO (V: receives@12, S: Malus@2, O: news@13)	SVC (S: ex-fiancée@16, V: "is", C: Woodward@19)	SVO (S: his@15, V: "has", O: ex-fiancée@16)	SVC (S: Woodward@19, V: "is", C: Beahan@22)	SVO (S: her@26, V: "has", O: daughter@27)	SVC (S: daughter@27, V: "is", C: Rowan@29)	SVC (S: Rowan@29, V: "is", C: Gair@33)	SVO (V: missing@37, S: daughter@27, O: ex-fiancée@16)
+6	SVO (V: gets@2, S: He@1, O: pilot@4)	SVC (S: pilot@4, V: "is", C: Walker@7)	SVA (V: "be take", S: pilot@4, O: him@11, A!: to@12, A?: off@15)	SVO (V: live@26, S: group@23, A?: where@21, O: state@20)
+7	SVA (V: led@4, S: island@2, A!: by@5)	SVC (S: Summersisle@7, V: "is", C: Burstyn@10)	SVC (S: Summersisle@7, V: "is", C: woman@15)	SVA (V: treated@18, S: woman@15, A!: like@19)
+8	SVA (V: relies@6, S: economy@2, A!: on@7)	SVOC (V: learns@16, S: Malus@15, O: honey@12, CCOMP: been@18)
+9	SVO (V: asks@2, S: Malus@1, O: villagers@4, A?: about@5)	SVOO (V: give@10, S: they@9, IO: him@11, O: answers@13)
+10	SVO (V: sees@3, S: He@1, A?: later@2, O: men@5)	SVA (V: "be carrying", S: men@5, O: bag@9)	SVC (V: appears@11, S: bag@9, XCOMP: dripping@14)	SVO (V: finds@19, S: he@18, A-: then@17, O: grave@24, A?: in@25)
+11	SVC (V: turns@3, S: grave@2, XCOMP: contain@7)	SVO (V: finds@14, S: Malus@13, O: sweater@17, A?: in@18)	SVO (S: Rowan@15, V: "has", O: sweater@17)
+12	SVC (S: Rose@8, V: "is", C: Parker@11)	SVO (V: tries@13, S: Rose@8, A?: At@1, XCOMP: prevent@15)
+13	SVO (V: sees@3, S: he@2, A?: When@1, CCOMP: crossed@10)	SVO (S: Rowan@5, V: "has", O: name@7)	SVA (V: crossed@10, S: name@7, A!: becomes@13)	SVC (V: becomes@13, S: he@12, ACOMP: enraged@14, A?: at@15)	SVO (S: Rowan@20, V: "has", O: classmates@22)	SVO (S: teacher@17, V: "has", O: lies@24)
+14	SVO (V: demands@2, S: Rose@1, O: Malus@3, A?: talk@5)	SVA (V: "be talk", S: Rose@1, ACOMP: outside@6)	SVA (V: "be talk", S: Rose@1, ACOMP: outside@6, A!: discussion@11)	SVO (S: people@15, V: "has", O: view@17)	SVO (V: explains@23, S: Rose@22, CCOMP: missing@29)	SV (V: missing@29, S: Rowan@25)
+15	SVO (V: asks@2, S: Malus@1, CCOMP: died@5)	SV (V: died@5, S: Rowan@4, A?: how@3)	SV (V: Rose@7, S: Rowan@4, A?: how@3)	SVA (V: burn@15, S: she@13, A!: to@16)
+16	SVO (V: uses@7, S: she@6, O: tense@5)	SV (V: 'll@12, S: she@11)	SVO (V: corrects@16, S: catches@3, A?: When@1, O: herself@17, A?: quickly@18)	SVOC (V: rushes@20, S: catches@3, A?: When@1, O: herself@17, A?: quickly@18, O: herself@21, A?: back@22)	SVO (V: corrects@16, S: Rose@15, A?: When@1, O: herself@17, A?: quickly@18)	SVOC (V: rushes@20, S: Rose@15, A?: When@1, O: herself@17, A?: quickly@18, O: herself@21, A?: back@22)	SVO (S: her@24, V: "has", O: class@25)
+17	SVO (V: searches@10, S: Malus@8, A?: On@1, A?: frantically@9, O: village@12, A?: for@13)
+18	SVO (V: attacks@2, S: He@1, O: Beech@4)	SVC (S: Beech@4, V: "is", C: Delano@7)	SVO (V: has@11, S: Beech@4, O: costume@14)
+19	SVO (V: steals@2, S: Malus@1, O: costume@4)	SVOC (V: joins@6, S: Malus@1, O: costume@4, O: parade@8)	SVO (S: her@3, V: "has", O: costume@4)	SVA (V: "be led", S: parade@8, A!: by@10)
+20	SVA (V: ends@3, S: parade@2, A!: at@4)
+21	SVA (V: tied@3, S: Rowan@1, A!: to@4, A?: burned@12)
+22	SVO (V: rescues@2, S: Malus@1, O: Rowan@3)	SVA (V: run@6, S: they@5, A!: away@7, A?: through@8)	SVOA (V: leads@14, S: Rowan@13, O: him@15, A!: back@16)
+23	SVO (S: her@6, V: "has", O: help@7)	SVO (V: realizes@11, S: Rowan@4, CCOMP: trap@19)	SVC (C: trap@19, V: was@17, S: search@14)
+24	SVOC (V: extended@20, S: scene@18, XCOMP: showing@22, O: version@15)	SVO (V: break@27, S: they@26, O: legs@29)	SVOC (V: place@31, S: they@26, O: legs@29, O: mask@33, A?: on@36)	SVO (S: his@28, V: "has", O: legs@29)	SVO (S: his@37, V: "has", O: head@38)
+25	SVO (V: carry@3, S: women@2, O: him@4, A?: to@5)	SVOC (V: shut@11, S: women@2, O: him@4, A?: to@5, O: him@12, A?: inside@13)
+26	SVOA (V: sets@2, S: Rowan@1, O: fire@3, A!: to@4)	SV (V: sacrificed@11, S: sets@2)
+27	SVO (V: die@8, S: drone@6, O: chants@3)
+28	SVO (S: Malus@5, V: "has", O: sacrifice@7)	SVO (V: restore@9, S: sacrifice@7, O: production@12)	SVO (S: their@10, V: "has", O: production@12)
+29	SVA (V: shown@5, S: scene@3, A!: with@6)	SVC (S: Willow@7, V: "is", C: Sobieski@13)	SVA (V: going@15, S: Willow@7, A!: into@16)	SVA (V: talking@20, S: Willow@7, A?: into@16, A!: with@21)	SVC (S: officers@25, V: "is", C: Franco@28)
+30	SVOC (V: invite@3, S: women@2, O: them@4, XCOMP: go@6)	SV (V: was@20, S: Malus@19, A?: just@17)
+31	SVA (V: heard@7, S: Screaming@1, A!: fades@11)	SVA (V: fades@11, S: film@10, A!: into@12)	SVC (C: absent@18, V: are@17, S: scenes@16, A?: from@19)
+32	SVO (S: film@3, V: "has", O: director@5)	SVC (S: director@5, V: "is", C: Hardy@8)	SVO (V: expressed@11, S: director@5, O: skepticism@12)	SVO (S: his@20, V: "has", O: lawyers@21)	SVO (V: make@22, S: lawyers@21, O: Bros.@24)
+33	SVO (S: his@2, V: "has", O: name@3)	SVO (S: remake@6, V: "has", O: material@9)
+34	SVO (V: given@7, S: he@5, A?: According@1, XCOMP: writing@8)	SVO (V: received@18, S: he@15, A?: when@14, O: any@19)
+35	
+36	EXISTENTIAL (V: 's@2, S: nothing@3)	SVA (V: "be say", S: nothing@3)
+37	
+38	
+39	
+40	
+41	SVO (V: received@10, S: film@9, O: reviews@13, A?: from@14)	SVO (V: holds@20, S: film@19, O: rating@24)
+42	
+43	
+44	
+45	SVO (V: garnered@2, S: film@1, O: nominations@6)	SVC (S: nominations@6, V: "is", C: Actor@13)	SVC (S: Actor@13, V: "is", C: Screenplay@19)	SVC (S: Actor@13, V: "is", C: Cage@15)	SVO (S: his@31, V: "has", O: bearsuit@32)
+46	SVO (V: saw@16, S: critics@6, A?: However@1, O: film@18, A?: in@19, A?: with@25)	SVO (V: saying@27, S: Gleiberman@26, CCOMP: brought@32)	SVOA (V: brought@32, S: LaBute@31, O: innovation@35, A!: over@37)
+47	
+48	
+49	
+50	
+51	SVO (V: acknowledged@18, S: Gleiberman@7, CCOMP: absurd@24)	SVC (C: absurd@24, V: was@22, S: movie@21)
+52	SVO (V: known@12, S: I@9, CCOMP: meant@17)	SVO (V: known@12, S: kind@4, CCOMP: meant@17)	SVO (V: meant@17, S: movie@15, XCOMP: absurd@20)	SVA (V: kind@4, S: I@2, A?: finally@3, A!: of@5)
+53	SVC (C: OK@10, V: is@9, S: fact@8, A?: now@5)	SVOC (C: say@14, V: is@9, S: fact@8, A?: now@5, O: it@15, A?: before@16)	SVO (V: have@24, S: you@23, XCOMP: let@26)	SVO (V: have@29, S: movie@28, O: life@32)	SVO (S: its@30, V: "has", O: life@32)
+54	
+55	
+56	SVOO (V: totalled@26, S: receipts@25, O: $@27, A?: with@29, IO: McWeeny@6)	SVA (V: "be earned", S: receipts@34, A!: in@36)
+57	
+58	
+59	
+60	SVOC (V: making@10, S: August@8, XCOMP: unsuccessful@13, O: Mojo@6)	SVA (V: unsuccessful@13, S: it@11, A?: financially@12, A!: totalled@17)	SVO (S: its@15, V: "has", O: costs@16)	SVO (V: totalled@17, S: costs@16, O: $@18)
+61	SVA (V: released@4, S: DVD@2, A!: on@5, A?: with@11)	SVA (V: "be ending", S: alternate@14)
+62	SV (V: held@8, S: Malus@6, A?: In@1)	SVO (S: his@11, V: "has", O: legs@12)	SVA (V: broken@14, S: legs@12, A!: at@15)
+63	SVA (V: placed@6, S: helmet@4, A!: over@7)	SVO (S: his@8, V: "has", O: head@9)	SVA (V: poured@14, S: bees@12, A!: in@15)
+64	SVC (S: no@6, V: "is", C: bees@10)
+65	
+66	SV (V: passes@4, S: he@3)	SV (V: removed@10, S: helmet@8, A?: passes@4)	SVA (V: revived@14, S: he@12, A!: with@15)
+67	SVC (V: keeps@6, S: he@5, A?: Throughout@1, XCOMP: asking@7)	SVC (C: sacrifice@14, V: be@11, S: he@10, A?: how@8)	SVA (V: believe@19, S: he@16, A!: in@20)	SVO (S: their@21, V: "has", O: religion@22)
+68	SVA (V: continues@3, S: movie@2, A!: in@4)	SVA (V: begin@15, S: credits@14, A!: falls@23)	SVO (S: man@19, V: "has", O: head@22)	SV (V: falls@23, S: head@22)
+69	SVO (V: missing@9, S: scene@7, O: months@4)
+70	SVO (V: remakes@30, S: Film@29, O: Category@31)	SVA (V: "be directed", S: Films@33, A!: by@35)	SVA (V: "be shot", S: Films@40, A!: in@42)	SVA (V: "be shot", S: Films@46, A!: in@48)
+71	SVC (S: Man@6, V: "is", C: 2006@8)	SVO (V: es@10, S: Man@6, O: Man@14)	SVC (S: Man@31, V: "is", C: film@33)	SVC (S: ウィッカーマン@50, V: "is", C: 2006年の映画@52)	SVC (S: Man@58, V: "is", C: 2006@60)	SVC (S: Kult@64, V: "is", C: film@66)	SVC (S: Man@73, V: "is", C: 2006@75)	SVC (S: человек@80, V: "is", C: фильм@82)
+72	
+73	

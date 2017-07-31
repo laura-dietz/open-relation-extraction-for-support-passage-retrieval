@@ -1,0 +1,54 @@
+0	
+1	
+2	
+3	
+4	
+5	SVA (V: "be known", S: English@1, A!: formerly@6, A?: Jumps@12)	SV (V: Jumps@12, S: Rabbit@11)	SVC (C: film@18, V: is@14, S: English@1, A?: starring@19)	SVA (V: "be starring", S: film@18, O: Cage@21)
+6	SVA (V: directed@4, S: film@2, A!: by@5)	SVA (V: produced@9, S: film@2, A?: by@5, A!: by@10)
+7	SVOA (V: took@2, S: Filming@1, O: place@3, A!: in@4)	SVA (S: Orleans@6, V: "is in", C: Louisiana@8)
+8	SVA (V: released@5, S: trailer@3, A!: in@6)
+9	
+10	
+11	SVA (V: "be is", S: film@6, A!: about@8)	SVO (S: his@17, V: "has", O: wife@18)	SVC (S: Laura@19, V: "is", C: Jones@21)	SV (V: raped@24, S: Cage@12, A?: after@16)	SV (V: assaulted@26, S: Cage@12, A?: after@16)	SVO (V: enlists@28, S: September@1, O: services@30, A?: help@36)	SVA (V: "be help", S: September@1, CCOMP: settle@38)	SVO (V: settle@38, S: him@37, O: score@40)
+12	SVO (V: discovers@3, S: Nick@2, A?: However@1, CCOMP: demands@14)	SVA (V: "be led", S: group@7, A!: by@9)	SVC (S: Simon@10, V: "is", C: Pearce@12)	SVO (V: demands@14, S: some@4, O: favour@16, A?: in@17)	SV (V: refuses@22, S: he@21, A?: when@20)	SVO (V: frame@25, S: they@24, A?: refuses@22, O: him@26, A?: for@27)
+13	SVO (V: deemed@10, S: anyone@7, XCOMP: threat@14)	SVA (V: dealt@19, S: anyone@7, A?: where@6, A!: with@20)	SVO (V: knows@24, S: he@23, O: anyone@22)	SVC (C: member@29, V: be@26, S: anyone@22, A?: of@30)
+14	SVA (V: begins@3, S: film@2, A!: with@4)	SVA (V: "be showing", S: scene@6, O: recording@9)	SVO (V: questioning@13, S: Marsh@12, O: one@14)	SVO (S: Simon@19, V: "has", O: group@21)
+15	SVO (V: leaves@3, S: man@2, O: Marsh@4)	SVO (V: proceeds@6, S: man@2, O: Marsh@4, A?: to@7)	SVO (S: his@8, V: "has", O: car@9)
+16	SVO (V: notices@3, S: He@1, A-: then@2, CCOMP: watched@7)	SVOC (V: made@37, S: He@1, A-: then@2, CCOMP: watched@7, XCOMP: look@39)	SVA (V: watched@7, S: he@4, A!: by@8, A?: by@19)	SVA (V: murdered@17, S: he@4, A?: by@8, A!: by@19)	SVO (S: Simon@12, V: "has", O: group@14)	SVO (S: his@21, V: "has", O: car@22)
+17	SVC (V: go@3, S: We@1, A-: then@2, A?: to@4, CCOMP: celebrating@12)	SVO (V: celebrating@12, S: Will@8, O: anniversary@14)	SVO (S: their@13, V: "has", O: anniversary@14)	SVOO (V: see@17, S: they@15, A-: then@16, O: report@20, IO: anniversary@14)	SVO (S: Simon@29, V: "has", O: group@31)	SVOC (V: shown@33, S: death@24, A?: where@22, XCOMP: suicide@37, O: report@20)
+18	SVOO (V: gives@5, S: night@3, A?: Later@1, IO: Laura@6, O: necklace@8, A?: as@9)
+19	SVC (V: goes@5, S: day@3, XCOMP: work@7)	SVOC (V: explains@16, S: day@3, XCOMP: work@7, CCOMP: uses@19)	SVO (V: uses@19, S: Shakespeare@18, A?: how@17, O: words@20, A?: relieve@22)	SVA (V: "be relieve", S: Shakespeare@18, O: anger@23)
+20	SVO (V: permitted@11, S: phones@9, A?: where@6, O: pub@4)	SVO (V: turned@15, S: phones@9, A?: where@6, O: pub@4)	SVO (V: playing@20, S: Will@18, A-: Then@1, A?: at@2, O: chess@21, A?: with@22)	SVO (V: works@36, S: he@35, O: principal@29, A?: at@37)
+21	SVO (V: see@3, S: We@1, A-: then@2, O: rehearsals@7)	SVO (S: her@11, V: "has", O: friends@12)
+22	SVO (V: enters@3, S: she@1, A-: then@2, O: car@5)
+23	SVA (V: approached@5, S: she@3, A?: later@2, A!: by@6)	SV (V: raped@16, S: she@13, A?: brutally@15)
+24	SVO (V: takes@6, S: rapist@5, A?: during@1, O: necklace@8)	SVO (S: her@7, V: "has", O: necklace@8)	SVO (V: gave@11, S: necklace@8, O: her@12)
+25	SVC (V: leaves@3, S: Will@2, CCOMP: turns@6)	SVA (V: turns@6, S: pub@5, A!: on@7)	SVO (V: realizes@11, S: pub@5, A?: on@7, CCOMP: tried@16)	SVO (S: his@8, V: "has", O: phone@9)	SVO (V: tried@16, S: hospital@14, XCOMP: contact@18)
+26	SVO (V: informed@3, S: He@1, CCOMP: raped@7)	SV (V: raped@7, S: she@4)	SV (V: beaten@9, S: she@4)
+27	SVO (V: introduces@8, S: man@7, A?: in@2, O: himself@9, A?: as@10)
+28	
+29	SVO (V: admits@2, S: He@1, CCOMP: experienced@5)	SVO (V: experienced@5, S: he@4, O: thing@8)
+30	SVO (V: tells@3, S: He@1, A-: then@2, O: will@4)	SVO (V: raped@9, S: man@7, O: wife@11)	SVO (S: his@10, V: "has", O: wife@11)	SVC (S: wife@11, V: "is", C: Laura@13)	SVA (V: paroled@16, S: man@7, A!: back@20)	SV (V: wanted@26, S: Will@25)	SVO (V: take@31, S: he@28, A?: wanted@26, O: care@32)
+31	SVO (V: tells@2, S: He@1, CCOMP: will@3)	SVA (V: dealt@8, S: police@7, A!: with@9)	SVA (V: be@13, S: it@11, A?: dealt@8, A!: to@14)	SVA (V: "be go", S: hassle@16, A!: through@19)	SVO (V: get@28, S: rapist@24, A?: only@27, O: months@33)
+32	SVA (V: explained@2, S: He@1, A!: let@4)	SVOC (V: take@6, S: him@5, O: care@7, A?: of@8, CCOMP: free@14)	SVC (C: free@14, V: be@13, S: it@11, A?: of@15, CCOMP: have@26)	SVO (V: have@26, S: that@19, A?: only@18, A?: sometime@20, XCOMP: repay@28)
+33	SVOO (V: rethinks@20, S: he@19, O: it@21, IO: room@18)
+34	SVO (V: explains@2, S: Simon@1, CCOMP: is@5)	EXISTENTIAL (V: is@5, S: room@7)	EXISTENTIAL (V: that@12, S: room@7)	SVOC (V: wants@15, S: he@14, O: him@16, XCOMP: take@18)	SVO (V: have@25, S: he@23, A-: then@22, XCOMP: buy@27)	SV (V: does@34, S: bars@30)
+35	SV (V: walks@4, S: rapist@3, A-: Then@1, A?: into@5, A?: proceeds@21)	SVOA (V: puts@9, S: rapist@3, A-: Then@1, A?: into@5, O: necklace@11, A!: proceeds@21)	SVO (S: his@6, V: "has", O: house@7)	SVO (V: stole@13, S: he@12, A?: on@14, O: necklace@11)	SVO (V: proceeds@21, S: he@20, XCOMP: have@23)
+36	SVO (S: simon@4, V: "has", O: breaks@7)	SVO (S: rapist@10, V: "has", O: house@12)	SVO (S: his@18, V: "has", O: head@19)
+37	EXISTENTIAL (V: is@2, S: struggle@4, CCOMP: murders@14)	SVO (S: Simon@6, V: "has", O: man@8)	SVO (V: murders@14, S: rapist@12, A-: then@13, O: him@15)
+38	SV (V: exits@3, S: he@1, A-: then@2)	SVO (V: recites@10, S: he@1, A-: then@2, O: phrase@12)	SVO (V: jumps@17, S: rabbit@16, O: phrase@12)
+39	SVA (V: go@3, S: we@1, A-: then@2, A!: to@4, A?: seen@10)	SVO (V: seen@10, S: Will@8, A?: where@7, XCOMP: sleeping@11)	SVO (V: approached@18, S: Will@8, A?: where@7, XCOMP: sleeping@11, A?: by@19)	SVA (V: "be claiming", S: man@21, XCOMP: be@24)
+40	SVO (S: his@15, V: "has", O: wife@16)	SVO (S: wife@16, V: "has", O: necklace@18)	SV (V: returned@19, S: picture@9)
+41	SVO (V: walks@9, S: he@8, A?: away@10, O: anything@7)
+42	SVOC (V: informs@3, S: He@1, A-: then@2, O: wife@5, CCOMP: committed@10)	SVO (S: his@4, V: "has", O: wife@5)	SVO (V: committed@10, S: rapist@8, O: suicide@11)
+43	SVO (V: return@3, S: they@1, A-: then@2, O: home@4)	SVA (V: seen@8, S: Laura@6, A!: with@9)
+44	SVO (V: tells@5, S: Laura@4, A?: later@3, CCOMP: wants@8)	SVO (V: wants@8, S: she@7, XCOMP: purchase@10)	SVO (V: refuses@15, S: he@14, CCOMP: tells@5)
+45	SVA (V: does@2, S: She@1, A-: so@3, A?: anyway@4, A?: along@6)
+46	SVO (V: playing@4, S: they@2, O: billiards@5, A?: in@6)	SVA (V: contacted@12, S: Will@10, A?: playing@4, A!: by@13)
+47	SVA (V: gives@2, S: Simon@1, A!: Will@3)	SV (V: Will@3, S: envelope@5)	SVA (V: "be mailed", S: envelope@5, A!: at@9)
+48	
+49	SVO (V: told@3, S: He@1, XCOMP: follow@5)	SVO (S: her@9, V: "has", O: kids@11)	SVC (S: man@17, V: "is", C: Marsh@20)	SVO (V: arrives@22, S: man@17, XCOMP: call@24)	SV (V: jumps@33, S: rabbit@32)
+50	SVO (V: see@7, S: day@3, CCOMP: number@10)	SVO (S: his@12, V: "has", O: board@15)
+51	
+52	SVO (V: contains@2, S: It@1, O: picture@3)	SVA (V: "be called", S: man@6)
+53	SVC (S: films@4, V: "is", C: Category@5)	SVA (V: "be directed", S: Films@15, A!: by@17)	SVA (V: "be shot", S: Films@22, A!: in@24)	SVC (S: Pacte@38, V: "is", C: film@40)	SVO (V: Seeking@99, S: Green@97, O: Justice@100)

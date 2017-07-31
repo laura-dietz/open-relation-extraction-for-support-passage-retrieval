@@ -1,0 +1,205 @@
+May 2009 Golf instruction involves the teaching and learning of the game of golf . 	0	query204_Golf_instruction\S\0
+"May 2009 Golf instruction"	"involves"	"the teaching of the game of golf"	0	query204_Golf_instruction\P\0-0
+"May 2009 Golf instruction"	"involves"	"the learning of the game of golf"	0	query204_Golf_instruction\P\0-1
+Proficiency in teaching golf instruction requires not only technical and physical ability , but also knowledge of the rules and etiquette of the game . 	1	query204_Golf_instruction\S\1
+"Proficiency in teaching golf instruction"	"requires"	"not only technical ability also knowledge of the rules of the game"	1	query204_Golf_instruction\P\1-0
+"Proficiency in teaching golf instruction"	"requires"	"not only physical ability also knowledge of the rules of the game"	1	query204_Golf_instruction\P\1-1
+"Proficiency in teaching golf instruction"	"requires"	"not only physical ability also knowledge of the etiquette of the game"	1	query204_Golf_instruction\P\1-2
+"Proficiency in teaching golf instruction"	"requires"	"not only technical ability also knowledge of the etiquette of the game"	1	query204_Golf_instruction\P\1-3
+Golf instruction is best performed by recognised teachers certified by the relevant bodies ; in the United States , the recommended teachers are those who are PGA Class A Professionals although many of the greatest teachers are not affiliated to the PGA . 	2	query204_Golf_instruction\S\2
+"Golf instruction"	"is best"	"performed by recognised teachers certified by the relevant bodies"	2	query204_Golf_instruction\P\2-0
+"Golf instruction"	"is"	"best"	2	query204_Golf_instruction\P\2-1
+"Golf instruction"	"is"	"best"	2	query204_Golf_instruction\P\2-2
+"recognised teachers"	"be certified"	"by the relevant bodies"	2	query204_Golf_instruction\P\2-3
+"the recommended teachers"	"are those"	"in the United States"	2	query204_Golf_instruction\P\2-4
+"the recommended teachers"	"are"	"those"	2	query204_Golf_instruction\P\2-5
+"in the United States those"	"are PGA Class A Professionals"	"although many of the greatest teachers are not affiliated to the PGA"	2	query204_Golf_instruction\P\2-6
+"in the United States those"	"are"	"PGA Class A Professionals"	2	query204_Golf_instruction\P\2-7
+"many of the greatest teachers"	"are not affiliated"	"to the PGA"	2	query204_Golf_instruction\P\2-8
+Instructors use a combination of physical conditioning , mental visualization , classroom sessions , club fitting , driving range instruction , on-course play under real conditions , and review of videotaped swings in slow motion to teach golf . 	3	query204_Golf_instruction\S\3
+"Instructors"	"use"	"a combination of physical conditioning mental visualization driving range instruction"	3	query204_Golf_instruction\P\3-0
+"Instructors"	"use"	"a combination of physical conditioning mental classroom sessions driving range instruction"	3	query204_Golf_instruction\P\3-1
+"Instructors"	"use"	"a combination of physical conditioning mental classroom sessions driving range on-course play under real conditions"	3	query204_Golf_instruction\P\3-2
+"Instructors"	"use"	"a combination of physical conditioning mental classroom sessions driving range review of videotaped swings in slow motion to teach golf"	3	query204_Golf_instruction\P\3-3
+"Instructors"	"use"	"a combination of physical conditioning mental club fitting driving range instruction"	3	query204_Golf_instruction\P\3-4
+"Instructors"	"use"	"a combination of physical conditioning mental club fitting driving range on-course play under real conditions"	3	query204_Golf_instruction\P\3-5
+"Instructors"	"use"	"a combination of physical conditioning mental club fitting driving range review of videotaped swings in slow motion to teach golf"	3	query204_Golf_instruction\P\3-6
+"Instructors"	"use"	"a combination of physical conditioning mental visualization driving range on-course play under real conditions"	3	query204_Golf_instruction\P\3-7
+"Instructors"	"use"	"a combination of physical conditioning mental visualization driving range review of videotaped swings in slow motion to teach golf"	3	query204_Golf_instruction\P\3-8
+"mental visualization"	"be driving"	"range instruction"	3	query204_Golf_instruction\P\3-9
+"mental visualization"	"be driving"	"range on-course play under real conditions"	3	query204_Golf_instruction\P\3-10
+"mental visualization"	"be driving"	"range review of videotaped swings in slow motion to teach golf"	3	query204_Golf_instruction\P\3-11
+"mental classroom sessions"	"be driving"	"range instruction"	3	query204_Golf_instruction\P\3-12
+"mental classroom sessions"	"be driving"	"range on-course play under real conditions"	3	query204_Golf_instruction\P\3-13
+"mental classroom sessions"	"be driving"	"range review of videotaped swings in slow motion to teach golf"	3	query204_Golf_instruction\P\3-14
+"mental club fitting"	"be driving"	"range instruction"	3	query204_Golf_instruction\P\3-15
+"mental club fitting"	"be driving"	"range on-course play under real conditions"	3	query204_Golf_instruction\P\3-16
+"mental club fitting"	"be driving"	"range review of videotaped swings in slow motion to teach golf"	3	query204_Golf_instruction\P\3-17
+"slow motion"	"be teach"	"golf"	3	query204_Golf_instruction\P\3-18
+Beginning players typically receive a series of lessons , in either a group or individual setting , covering the fundamentals of the golf swing and aspects of pitching , chipping , and putting . 	4	query204_Golf_instruction\S\4
+"Beginning players"	"receive"	"a series of lessons typically"	4	query204_Golf_instruction\P\4-0
+"Beginning players"	"receive"	"a series of lessons typically"	4	query204_Golf_instruction\P\4-1
+"Beginning players"	"receive"	"a series of lessons typically"	4	query204_Golf_instruction\P\4-2
+"Beginning players"	"receive"	"a series of lessons typically"	4	query204_Golf_instruction\P\4-3
+"Beginning players"	"receive"	"a series of lessons in a group setting"	4	query204_Golf_instruction\P\4-4
+"Beginning players"	"receive"	"a series of lessons in a individual setting"	4	query204_Golf_instruction\P\4-5
+"Beginning players"	"receive"	"a series of lessons in a group setting"	4	query204_Golf_instruction\P\4-6
+"Beginning players"	"receive"	"a series of lessons in a individual setting"	4	query204_Golf_instruction\P\4-7
+"Beginning players"	"receive"	"a series of lessons in a group setting"	4	query204_Golf_instruction\P\4-8
+"Beginning players"	"receive"	"a series of lessons in a individual setting"	4	query204_Golf_instruction\P\4-9
+"Beginning players"	"receive"	"a series of lessons in a group setting"	4	query204_Golf_instruction\P\4-10
+"Beginning players"	"receive"	"a series of lessons in a individual setting"	4	query204_Golf_instruction\P\4-11
+"Beginning players"	"receive"	"a series of lessons"	4	query204_Golf_instruction\P\4-12
+"Beginning players"	"receive"	"a series of lessons"	4	query204_Golf_instruction\P\4-13
+"Beginning players"	"receive"	"a series of lessons"	4	query204_Golf_instruction\P\4-14
+"Beginning players"	"receive"	"a series of lessons"	4	query204_Golf_instruction\P\4-15
+Experienced recreational players often return for instruction , either to fix a specific problem they are encountering or to improve their game . 	5	query204_Golf_instruction\S\5
+"Experienced recreational players"	"return"	"to fix a specific problem often"	5	query204_Golf_instruction\P\5-0
+"Experienced recreational players"	"return"	"for instruction to fix a specific problem"	5	query204_Golf_instruction\P\5-1
+"Experienced recreational players"	"return"	"to fix a specific problem"	5	query204_Golf_instruction\P\5-2
+"Experienced recreational players"	"return"	"to fix a specific problem"	5	query204_Golf_instruction\P\5-3
+"Experienced recreational players"	"return"	"to fix a specific problem"	5	query204_Golf_instruction\P\5-4
+"Experienced recreational players"	"return"	"to fix a specific problem"	5	query204_Golf_instruction\P\5-5
+Reconstruction of a golf swing to reach a high level of play often involves series of lessons over an extended period of time . 	6	query204_Golf_instruction\S\6
+"Reconstruction of a golf swing"	"be reach"	"a high level of play"	6	query204_Golf_instruction\P\6-0
+"Reconstruction of a golf swing to reach a high level of play"	"involves"	"series of lessons over an extended period of time often"	6	query204_Golf_instruction\P\6-1
+"Reconstruction of a golf swing to reach a high level of play"	"involves"	"series of lessons over an extended period of time"	6	query204_Golf_instruction\P\6-2
+Junior golfers often begin receiving instruction by age 10 or younger , and often retain private teachers even when coached on a high school golf team . 	7	query204_Golf_instruction\S\7
+"Junior golfers"	"begin"	"receiving instruction by age 10 often"	7	query204_Golf_instruction\P\7-0
+"Junior golfers"	"begin"	"receiving instruction by 10 younger often"	7	query204_Golf_instruction\P\7-1
+"Junior golfers"	"begin"	"receiving instruction often"	7	query204_Golf_instruction\P\7-2
+"Junior golfers"	"begin"	"receiving instruction by age 10"	7	query204_Golf_instruction\P\7-3
+"Junior golfers"	"begin"	"receiving instruction by 10 younger"	7	query204_Golf_instruction\P\7-4
+"Junior golfers"	"begin"	"receiving instruction"	7	query204_Golf_instruction\P\7-5
+"Junior golfers"	"retain"	"receiving instruction by age 10 private teachers often"	7	query204_Golf_instruction\P\7-6
+"Junior golfers"	"retain"	"receiving instruction by 10 younger private teachers often"	7	query204_Golf_instruction\P\7-7
+"Junior golfers"	"retain"	"receiving instruction private teachers often"	7	query204_Golf_instruction\P\7-8
+"Junior golfers"	"retain"	"receiving instruction by age 10 private teachers often"	7	query204_Golf_instruction\P\7-9
+"Junior golfers"	"retain"	"receiving instruction by 10 younger private teachers often"	7	query204_Golf_instruction\P\7-10
+"Junior golfers"	"retain"	"receiving instruction private teachers often"	7	query204_Golf_instruction\P\7-11
+"Junior golfers"	"retain"	"receiving instruction by age 10 private teachers even when coached on a high school golf team"	7	query204_Golf_instruction\P\7-12
+"Junior golfers"	"retain"	"receiving instruction by 10 younger private teachers even when coached on a high school golf team"	7	query204_Golf_instruction\P\7-13
+"Junior golfers"	"retain"	"receiving instruction private teachers even when coached on a high school golf team"	7	query204_Golf_instruction\P\7-14
+"Junior golfers"	"retain"	"receiving instruction by age 10 private teachers"	7	query204_Golf_instruction\P\7-15
+"Junior golfers"	"retain"	"receiving instruction by 10 younger private teachers"	7	query204_Golf_instruction\P\7-16
+"Junior golfers"	"retain"	"receiving instruction private teachers"	7	query204_Golf_instruction\P\7-17
+Some top instructors who work with professional golfers have become quite well known in their own right over the years , including Harvey Penick , Jack Grout , Dick Harmon , Jim McLean , David Leadbetter , Butch Harmon , Hank Haney , Richard Trammel , Ben Doyle , Mike Bender Sean Foley , Mike Bennett and Andy Plummer . 	8	query204_Golf_instruction\S\8
+"Some top instructors"	"work"	"with professional golfers"	8	query204_Golf_instruction\P\8-0
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Penick"	8	query204_Golf_instruction\P\8-1
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Jack Grout"	8	query204_Golf_instruction\P\8-2
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Dick Harmon"	8	query204_Golf_instruction\P\8-3
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Jim McLean"	8	query204_Golf_instruction\P\8-4
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey David Leadbetter"	8	query204_Golf_instruction\P\8-5
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Butch Harmon"	8	query204_Golf_instruction\P\8-6
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Hank Haney"	8	query204_Golf_instruction\P\8-7
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Richard Trammel"	8	query204_Golf_instruction\P\8-8
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Ben Doyle"	8	query204_Golf_instruction\P\8-9
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Mike Bender Sean Foley"	8	query204_Golf_instruction\P\8-10
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Mike Bennett"	8	query204_Golf_instruction\P\8-11
+"Some top instructors"	"have become"	"known in their own right over the years quite well including Harvey Andy Plummer"	8	query204_Golf_instruction\P\8-12
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Penick"	8	query204_Golf_instruction\P\8-13
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Jack Grout"	8	query204_Golf_instruction\P\8-14
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Dick Harmon"	8	query204_Golf_instruction\P\8-15
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Jim McLean"	8	query204_Golf_instruction\P\8-16
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey David Leadbetter"	8	query204_Golf_instruction\P\8-17
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Butch Harmon"	8	query204_Golf_instruction\P\8-18
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Hank Haney"	8	query204_Golf_instruction\P\8-19
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Richard Trammel"	8	query204_Golf_instruction\P\8-20
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Ben Doyle"	8	query204_Golf_instruction\P\8-21
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Mike Bender Sean Foley"	8	query204_Golf_instruction\P\8-22
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Mike Bennett"	8	query204_Golf_instruction\P\8-23
+"Some top instructors"	"have become"	"known in their own right over the years including Harvey Andy Plummer"	8	query204_Golf_instruction\P\8-24
+"Some top instructors"	"have become"	"known in their own right over the years quite well"	8	query204_Golf_instruction\P\8-25
+"Some top instructors"	"have become"	"known in their own right over the years"	8	query204_Golf_instruction\P\8-26
+"Some top instructors"	"have become"	"known in their own right over the years"	8	query204_Golf_instruction\P\8-27
+Some of the teachers maintain teaching facilities or schools , such as the Jim McLean Golf Schools or the David Leadbetter Golf Academy , where they or their disciples use their methods or systems . 	9	query204_Golf_instruction\S\9
+"Some of the teachers"	"maintain"	"teaching facilities such as the Jim McLean Golf Schools"	9	query204_Golf_instruction\P\9-0
+"Some of the teachers"	"maintain"	"teaching schools such as the Jim McLean Golf Schools"	9	query204_Golf_instruction\P\9-1
+"Some of the teachers"	"maintain"	"teaching schools such as the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-2
+"Some of the teachers"	"maintain"	"teaching facilities such as the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-3
+"Some of the teachers"	"maintain"	"teaching facilities such as the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-4
+"Some of the teachers"	"maintain"	"teaching facilities such as the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-5
+"Some of the teachers"	"maintain"	"teaching facilities such as the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-6
+"Some of the teachers"	"maintain"	"teaching facilities such as the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-7
+"Some of the teachers"	"maintain"	"teaching facilities such as the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-8
+"their disciples"	"use"	"their methods the Jim McLean Golf Schools where"	9	query204_Golf_instruction\P\9-9
+"their disciples"	"use"	"their methods the Jim McLean Golf the David Leadbetter Golf Academy where"	9	query204_Golf_instruction\P\9-10
+"their disciples"	"use"	"their systems the Jim McLean Golf Schools where"	9	query204_Golf_instruction\P\9-11
+"their disciples"	"use"	"their systems the Jim McLean Golf the David Leadbetter Golf Academy where"	9	query204_Golf_instruction\P\9-12
+"their disciples"	"use"	"their systems the Jim McLean Golf the David Leadbetter Golf Academy where"	9	query204_Golf_instruction\P\9-13
+"their disciples"	"use"	"their systems the Jim McLean Golf the David Leadbetter Golf Academy where"	9	query204_Golf_instruction\P\9-14
+"their disciples"	"use"	"their systems the Jim McLean Golf the David Leadbetter Golf Academy where"	9	query204_Golf_instruction\P\9-15
+"their disciples"	"use"	"their systems the Jim McLean Golf the David Leadbetter Golf Academy where"	9	query204_Golf_instruction\P\9-16
+"their disciples"	"use"	"their methods the Jim McLean Golf Schools"	9	query204_Golf_instruction\P\9-17
+"their disciples"	"use"	"their methods the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-18
+"their disciples"	"use"	"their systems the Jim McLean Golf Schools"	9	query204_Golf_instruction\P\9-19
+"their disciples"	"use"	"their systems the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-20
+"their disciples"	"use"	"their systems the Jim McLean Golf the David Leadbetter Golf Academy"	9	query204_Golf_instruction\P\9-21
+A few instructors focus solely on a particular aspect of the sport , such as Dave Pelz with the short game and Bob Rotella with the mental game . 	10	query204_Golf_instruction\S\10
+"A few instructors"	"focus"	"solely on a particular aspect of the sport such as Dave Pelz with the short game with the mental game"	10	query204_Golf_instruction\P\10-0
+"A few instructors"	"focus"	"solely on a particular aspect of the sport such as Dave Pelz with the short Bob Rotella with the mental game"	10	query204_Golf_instruction\P\10-1
+"A few instructors"	"focus"	"solely"	10	query204_Golf_instruction\P\10-2
+Some famous golfers have been tightly bound with their instructor , such as Jack Nicklaus with Jack Grout , while in other cases golfers have made high-profile switches from one instructor to another , such as Tiger Woods moving from Butch Harmon to various other instructors . 	11	query204_Golf_instruction\S\11
+"Some famous golfers"	"have been bound"	"with their instructor such as Jack Nicklaus with Jack Grout tightly"	11	query204_Golf_instruction\P\11-0
+"Some famous golfers"	"have been bound"	"with their instructor such as Jack Nicklaus with Jack Grout while in other cases golfers have made high-profile switches from one instructor to another such as Tiger Woods moving from Butch Harmon to various other instructors"	11	query204_Golf_instruction\P\11-1
+"Some famous golfers"	"have been bound"	"with their instructor such as Jack Nicklaus with Jack Grout"	11	query204_Golf_instruction\P\11-2
+"Some famous golfers"	"have been bound"	"with their instructor such as Jack Nicklaus with Jack Grout"	11	query204_Golf_instruction\P\11-3
+"Tiger Woods"	"moving"	"from Butch Harmon to various other instructors"	11	query204_Golf_instruction\P\11-4
+"Tiger Woods"	"moving"	"from Butch Harmon"	11	query204_Golf_instruction\P\11-5
+Recreational golfers are constantly seeking tips on how to improve , and the major golf publications such as Golf Magazine and Golf Digest devote substantial portions of their pages to instructional material of various kinds , often written by top-level instructors . 	12	query204_Golf_instruction\S\12
+"Recreational golfers"	"are seeking"	"tips constantly"	12	query204_Golf_instruction\P\12-0
+"Recreational golfers"	"are seeking"	"tips on how to improve"	12	query204_Golf_instruction\P\12-1
+"Recreational golfers"	"are seeking"	"tips"	12	query204_Golf_instruction\P\12-2
+"the major golf publications such as Golf Magazine"	"devote"	"substantial portions of their pages to instructional material of various kinds"	12	query204_Golf_instruction\P\12-3
+"the major golf publications such as Golf Golf Digest"	"devote"	"substantial portions of their pages to instructional material of various kinds"	12	query204_Golf_instruction\P\12-4
+"the major golf publications such as Golf Magazine"	"devote"	"substantial portions of their pages often written by top-level instructors"	12	query204_Golf_instruction\P\12-5
+"the major golf publications such as Golf Golf Digest"	"devote"	"substantial portions of their pages often written by top-level instructors"	12	query204_Golf_instruction\P\12-6
+"the major golf publications such as Golf Magazine"	"devote"	"substantial portions of their pages"	12	query204_Golf_instruction\P\12-7
+"the major golf publications such as Golf Golf Digest"	"devote"	"substantial portions of their pages"	12	query204_Golf_instruction\P\12-8
+"the major golf publications such as Golf Magazine"	"be written"	"often by top-level instructors"	12	query204_Golf_instruction\P\12-9
+"the major golf publications such as Golf Golf Digest"	"be written"	"often by top-level instructors"	12	query204_Golf_instruction\P\12-10
+"the major golf publications such as Golf Magazine"	"be written"	"often"	12	query204_Golf_instruction\P\12-11
+"the major golf publications such as Golf Golf Digest"	"be written"	"often"	12	query204_Golf_instruction\P\12-12
+"the major golf publications such as Golf Golf Digest"	"be written"	"often"	12	query204_Golf_instruction\P\12-13
+Even television broadcasts of professional golf tournaments often contain short instructional segments , delivered by commentators who are also instructors such as Peter Kostis . 	13	query204_Golf_instruction\S\13
+"Even television broadcasts of professional golf tournaments"	"contain"	"short instructional segments delivered by commentators often"	13	query204_Golf_instruction\P\13-0
+"Even television broadcasts of professional golf tournaments"	"contain"	"short instructional segments delivered by commentators"	13	query204_Golf_instruction\P\13-1
+"short instructional segments"	"be delivered"	"by commentators"	13	query204_Golf_instruction\P\13-2
+"short instructional segments"	"be delivered"	"by commentators"	13	query204_Golf_instruction\P\13-3
+"short instructional segments"	"be delivered"	"by commentators"	13	query204_Golf_instruction\P\13-4
+"short instructional segments"	"be delivered"	"by commentators"	13	query204_Golf_instruction\P\13-5
+Golf instruction may be augmented by training aids such as specially weighting or jointed clubs , putting cups for practice on the den room carpet , mini practice tees with feedback for use in garages , and so forth . 	14	query204_Golf_instruction\S\14
+"Golf instruction"	"may be augmented"	"by training aids such as specially weighting putting cups for practice on the den room carpet so forth"	14	query204_Golf_instruction\P\14-0
+"Golf instruction"	"may be augmented"	"by training aids such as specially jointed clubs putting cups for practice on the den room carpet so forth"	14	query204_Golf_instruction\P\14-1
+"specially weighting so forth"	"be putting"	"cups for practice on the den room carpet"	14	query204_Golf_instruction\P\14-2
+"specially jointed clubs so forth"	"be putting"	"cups for practice on the den room carpet"	14	query204_Golf_instruction\P\14-3
+"specially weighting so forth"	"be putting"	"cups for practice"	14	query204_Golf_instruction\P\14-4
+"specially jointed clubs so forth"	"be putting"	"cups for practice"	14	query204_Golf_instruction\P\14-5
+"mini practice"	"tees"	"with feedback for use in garages specially weighting putting cups for practice on the den room carpet so forth"	14	query204_Golf_instruction\P\14-6
+"mini practice"	"tees"	"with feedback for use in garages specially jointed clubs putting cups for practice on the den room carpet so forth"	14	query204_Golf_instruction\P\14-7
+"mini practice"	"tees"	"specially weighting putting cups for practice on the den room carpet so forth"	14	query204_Golf_instruction\P\14-8
+"mini practice"	"tees"	"specially jointed clubs putting cups for practice on the den room carpet so forth"	14	query204_Golf_instruction\P\14-9
+Some training aids are sold via television infomercials and the more peculiar varieties were satirized in the 1996 film Tin Cup . 	15	query204_Golf_instruction\S\15
+"Some training aids"	"are sold"	"via television infomercials"	15	query204_Golf_instruction\P\15-0
+"the more peculiar varieties"	"were satirized"	"in the 1996 film Tin Cup"	15	query204_Golf_instruction\P\15-1
+Golf instruction is no guarantee of success or improved play in the game . 	16	query204_Golf_instruction\S\16
+"Golf instruction"	"is no guarantee"	"of success in the game"	16	query204_Golf_instruction\P\16-0
+"Golf instruction"	"is no guarantee"	"of improved play in the game"	16	query204_Golf_instruction\P\16-1
+"Golf instruction"	"is no"	"guarantee"	16	query204_Golf_instruction\P\16-2
+Bad mechanics can be deeply ingrained in a subject 's swing , and psychological factors can also hinder progress . 	17	query204_Golf_instruction\S\17
+"Bad mechanics"	"can be ingrained"	"deeply"	17	query204_Golf_instruction\P\17-0
+"Bad mechanics"	"can be ingrained"	"in a subject 's swing"	17	query204_Golf_instruction\P\17-1
+"Bad mechanics"	"can be"	"ingrained"	17	query204_Golf_instruction\P\17-2
+"a subject"	"has"	"swing"	17	query204_Golf_instruction\P\17-3
+"psychological factors"	"can hinder"	"progress also"	17	query204_Golf_instruction\P\17-4
+"psychological factors"	"can hinder"	"progress"	17	query204_Golf_instruction\P\17-5
+The 2009 Golf Channel program The Haney Project : Charles Barkley showcased some of these issues , as Hank Haney attempted to fix former NBA great Charles Barkley 's infamously bad swing . 	18	query204_Golf_instruction\S\18
+"Charles Barkley"	"showcased"	"some of these issues as Hank Haney attempted to fix former NBA great Charles Barkley 's infamously bad swing"	18	query204_Golf_instruction\P\18-0
+"Charles Barkley"	"showcased"	"some of these issues"	18	query204_Golf_instruction\P\18-1
+"Hank Haney"	"attempted"	"to fix former NBA great Charles Barkley 's infamously bad swing"	18	query204_Golf_instruction\P\18-2
+"former NBA great Charles Barkley"	"has"	"bad swing"	18	query204_Golf_instruction\P\18-3
+http ://www.golfdigest.com/instruction/2009/03/charlesbarkley 	19	query204_Golf_instruction\S\19
+The Haney Project : Can Hank Haney fix this swing ? Rudy , Matthew Golf Digest March 2009 2009-04-26 http ://www.golfdigest.com/instruction/2009/03/charlesbarkley 	20	query204_Golf_instruction\S\20
+"Rudy www.golfdigest.com/instruction/2009/03/charlesbarkley"	"is"	"Matthew Golf Digest March 2009 2009-04-26 http"	20	query204_Golf_instruction\P\20-0
+The Haney Project : Can Hank Haney fix this swing ? Rudy , Matthew Golf Digest March 2009 2009-04-26 Category :Golf instruction 	21	query204_Golf_instruction\S\21
+"Rudy Golf instruction"	"is"	"Matthew Golf Digest March 2009 2009-04-26 Category"	21	query204_Golf_instruction\P\21-0

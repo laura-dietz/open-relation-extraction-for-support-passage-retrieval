@@ -1,0 +1,1455 @@
+common table salt thumb300pxTable salt ( NaCl ) crystal thumb300pxBrinebeing boiled down to produce salt at the Xinhai Well inZigong_People 's Republic of China thumb300pxThesalt worksnorth ofPondicherry_ India . 	0	query224_Salt\S\0
+"common table salt thumb300pxTable salt"	"is"	"NaCl"	0	query224_Salt\P\0-0
+"common table salt thumb300pxTable salt crystal thumb300pxBrinebeing"	"be boiled"	"to produce salt at the Xinhai Well inZigong_People 's Republic of China thumb300pxThesalt worksnorth ofPondicherry _ India"	0	query224_Salt\P\0-1
+"common table salt thumb300pxTable salt crystal thumb300pxBrinebeing"	"be boiled"	"to produce salt"	0	query224_Salt\P\0-2
+"the Xinhai Well inZigong_People"	"has"	"Republic of China thumb300pxThesalt worksnorth ofPondicherry _ India"	0	query224_Salt\P\0-3
+Salt , also known as table salt , or rock salt , is a mineral that is composed primarily of sodium chloride ( NaCl ) , a chemical compound belonging to the larger class of ionic salts . 	1	query224_Salt\S\1
+"Salt"	"be known"	"also as table salt"	1	query224_Salt\P\1-0
+"Salt"	"be known"	"also as table rock salt"	1	query224_Salt\P\1-1
+"Salt"	"be known"	"also"	1	query224_Salt\P\1-2
+"Salt also known as table salt"	"is"	"a mineral"	1	query224_Salt\P\1-3
+"Salt also known as table rock salt"	"is"	"a mineral"	1	query224_Salt\P\1-4
+"a mineral"	"is composed"	"of primarily sodium chloride"	1	query224_Salt\P\1-5
+"sodium chloride"	"is"	"NaCl"	1	query224_Salt\P\1-6
+"sodium chloride"	"is"	"a chemical compound belonging to the larger class of ionic salts"	1	query224_Salt\P\1-7
+"a chemical compound"	"be belonging"	"to the larger class of ionic salts"	1	query224_Salt\P\1-8
+It is essential for animal life in small quantities , but is harmful to animals and plants in excess . 	2	query224_Salt\S\2
+"It"	"is essential"	"for animal life in small quantities"	2	query224_Salt\P\2-0
+"It"	"is"	"essential"	2	query224_Salt\P\2-1
+"It"	"is is harmful"	"for animal life in small quantities"	2	query224_Salt\P\2-2
+"It"	"is is harmful"	"to animals"	2	query224_Salt\P\2-3
+"It"	"is is harmful"	"to plants"	2	query224_Salt\P\2-4
+"It"	"is is harmful"	"in excess"	2	query224_Salt\P\2-5
+"It"	"is is"	"harmful"	2	query224_Salt\P\2-6
+Salt is one of the oldest , most ubiquitous food seasonings and salting is an important method of food preservation . 	3	query224_Salt\S\3
+"Salt"	"is one"	"of the oldest most ubiquitous food seasonings"	3	query224_Salt\P\3-0
+"Salt"	"is one"	"of the oldest most ubiquitous food salting"	3	query224_Salt\P\3-1
+"Salt"	"is"	"one"	3	query224_Salt\P\3-2
+"Salt is one of the oldest most ubiquitous food seasonings"	"is an important method"	"of food preservation"	3	query224_Salt\P\3-3
+"Salt is one of the oldest most ubiquitous food salting"	"is an important method"	"of food preservation"	3	query224_Salt\P\3-4
+"Salt is one of the oldest most ubiquitous food seasonings"	"is"	"an important method"	3	query224_Salt\P\3-5
+"Salt is one of the oldest most ubiquitous food salting"	"is"	"an important method"	3	query224_Salt\P\3-6
+The taste of salt ( saltiness ) is one of the basic human taste . 	4	query224_Salt\S\4
+The taste of salt ( saltiness ) is one of the basic human taste . 	4	query224_Salt\S\4
+"The taste of salt"	"is one"	"of the basic human taste"	4	query224_Salt\P\4-0
+"The taste of salt"	"is"	"one"	4	query224_Salt\P\4-1
+Salt for human consumption is produced in different forms : unrefined salt ( such as sea salt ) , refined salt ( table salt ) , and iodized salt . 	5	query224_Salt\S\5
+"Salt for human consumption"	"is produced"	"in different forms unrefined salt such as sea salt"	5	query224_Salt\P\5-0
+"Salt for human consumption"	"is produced"	"in different forms unrefined such as sea salt refined salt"	5	query224_Salt\P\5-1
+"Salt for human consumption"	"is produced"	"in different forms unrefined such as sea salt iodized salt"	5	query224_Salt\P\5-2
+"Salt for human consumption"	"is produced"	"unrefined salt such as sea salt"	5	query224_Salt\P\5-3
+"Salt for human consumption"	"is produced"	"unrefined such as sea salt refined salt"	5	query224_Salt\P\5-4
+"Salt for human consumption"	"is produced"	"unrefined such as sea salt iodized salt"	5	query224_Salt\P\5-5
+"refined salt"	"is"	"table salt"	5	query224_Salt\P\5-6
+It is a crystalline solid , white , pale pink or light gray in color , normally obtained from sea water or rock deposits . 	6	query224_Salt\S\6
+It is a crystalline solid , white , pale pink or light gray in color , normally obtained from sea water or rock deposits . 	6	query224_Salt\S\6
+It is a crystalline solid , white , pale pink or light gray in color , normally obtained from sea water or rock deposits . 	6	query224_Salt\S\6
+It is a crystalline solid , white , pale pink or light gray in color , normally obtained from sea water or rock deposits . 	6	query224_Salt\S\6
+It is a crystalline solid , white , pale pink or light gray in color , normally obtained from sea water or rock deposits . 	6	query224_Salt\S\6
+It is a crystalline solid , white , pale pink or light gray in color , normally obtained from sea water or rock deposits . 	6	query224_Salt\S\6
+It is a crystalline solid , white , pale pink or light gray in color , normally obtained from sea water or rock deposits . 	6	query224_Salt\S\6
+It is a crystalline solid , white , pale pink or light gray in color , normally obtained from sea water or rock deposits . 	6	query224_Salt\S\6
+It is a crystalline solid , white , pale pink or light gray in color , normally obtained from sea water or rock deposits . 	6	query224_Salt\S\6
+"a crystalline solid white pale pink in color"	"be obtained"	"normally from sea water"	6	query224_Salt\P\6-0
+"a crystalline solid white pale pink in color"	"be obtained"	"normally from sea rock deposits"	6	query224_Salt\P\6-1
+"a crystalline solid white pale light gray in color"	"be obtained"	"normally from sea water"	6	query224_Salt\P\6-2
+"a crystalline solid white pale light gray in color"	"be obtained"	"normally from sea rock deposits"	6	query224_Salt\P\6-3
+"a crystalline solid white pale pink in color"	"be obtained"	"normally"	6	query224_Salt\P\6-4
+"a crystalline solid white pale light gray in color"	"be obtained"	"normally"	6	query224_Salt\P\6-5
+Edible rock salts may be slightly grayish in color because of mineral content . 	7	query224_Salt\S\7
+"Edible rock salts"	"may be grayish"	"slightly"	7	query224_Salt\P\7-0
+"Edible rock salts"	"may be grayish"	"in color"	7	query224_Salt\P\7-1
+"Edible rock salts"	"may be grayish"	"because of mineral content"	7	query224_Salt\P\7-2
+"Edible rock salts"	"may be"	"grayish"	7	query224_Salt\P\7-3
+Chloride and sodium ions , the two major components of salt , are needed by all known living creatures in small quantities . 	8	query224_Salt\S\8
+"Chloride"	"is"	"the two major components of salt"	8	query224_Salt\P\8-0
+"sodium ions"	"is"	"the two major components of salt"	8	query224_Salt\P\8-1
+"Chloride"	"are needed"	"by all known living creatures in small quantities"	8	query224_Salt\P\8-2
+"sodium ions"	"are needed"	"by all known living creatures in small quantities"	8	query224_Salt\P\8-3
+Salt is involved in regulating the water content ( fluid balance ) of the body . 	9	query224_Salt\S\9
+"Salt"	"is involved"	"in regulating the water content of the body"	9	query224_Salt\P\9-0
+"the water content of the body"	"is"	"fluid balance"	9	query224_Salt\P\9-1
+The sodium ion itself is used for electrical signaling in the nervous system . 	10	query224_Salt\S\10
+"The sodium ion itself"	"is used"	"for electrical signaling in the nervous system"	10	query224_Salt\P\10-0
+10.1073/pnas.090034797 	11	query224_Salt\S\11
+Sodium channel Nav1.6 	12	query224_Salt\S\12
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	13	query224_Salt\S\13
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	13	query224_Salt\S\13
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	13	query224_Salt\S\13
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	13	query224_Salt\S\13
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	13	query224_Salt\S\13
+H. 	14	query224_Salt\S\14
+Proceedings of the National Academy of Sciences 97 10 5616–5620 10779552 25877 Schaller KL Lasher RS Peles E Levinson SR 10.1073/pnas.090034797 	15	query224_Salt\S\15
+Sodium channel Nav1.6 	16	query224_Salt\S\16
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	17	query224_Salt\S\17
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	17	query224_Salt\S\17
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	17	query224_Salt\S\17
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	17	query224_Salt\S\17
+is localized at nodes of Ranvier , dendrites , and synapses 2000 Caldwell J. 	17	query224_Salt\S\17
+H. 	18	query224_Salt\S\18
+Proceedings of the National Academy of Sciences 97 10 5616–5620 10779552 25877 Schaller KL Lasher RS Peles E Levinson SR Because of its importance to survival , salt has often been considered a valuable commodity during human history . 	19	query224_Salt\S\19
+Proceedings of the National Academy of Sciences 97 10 5616–5620 10779552 25877 Schaller KL Lasher RS Peles E Levinson SR Because of its importance to survival , salt has often been considered a valuable commodity during human history . 	19	query224_Salt\S\19
+Proceedings of the National Academy of Sciences 97 10 5616–5620 10779552 25877 Schaller KL Lasher RS Peles E Levinson SR Because of its importance to survival , salt has often been considered a valuable commodity during human history . 	19	query224_Salt\S\19
+Proceedings of the National Academy of Sciences 97 10 5616–5620 10779552 25877 Schaller KL Lasher RS Peles E Levinson SR Because of its importance to survival , salt has often been considered a valuable commodity during human history . 	19	query224_Salt\S\19
+Proceedings of the National Academy of Sciences 97 10 5616–5620 10779552 25877 Schaller KL Lasher RS Peles E Levinson SR Because of its importance to survival , salt has often been considered a valuable commodity during human history . 	19	query224_Salt\S\19
+However , as salt consumption has increased during modern times , scientists have become aware of the health risks associated with too much salt intake , including high blood pressure . 	20	query224_Salt\S\20
+"salt consumption"	"has increased"	"during modern times 20 However"	20	query224_Salt\P\20-0
+"salt consumption"	"has increased"	"20 However"	20	query224_Salt\P\20-1
+"salt consumption"	"has increased"	"20 However"	20	query224_Salt\P\20-2
+"the health risks"	"be associated"	"with too much salt intake including high blood pressure"	20	query224_Salt\P\20-3
+Therefore health authorities have recommended limitations of dietary sodium . 	21	query224_Salt\S\21
+"health authorities"	"have recommended"	"limitations of dietary sodium 21 Therefore"	21	query224_Salt\P\21-0
+"health authorities"	"have recommended"	"limitations of dietary sodium 21"	21	query224_Salt\P\21-1
+http ://www.cnpp.usda.gov/Publications/DietaryGuidelines/2010/Meeting2/CommentAttachments/AHA-220e 	22	query224_Salt\S\22
+.pdf 	23	query224_Salt\S\23
+American Heart Association 2010 Dietary Guidelines 23 January 2009 2010 Dietary Guidelines American Heart Association 16 May 2010 http ://www.cnpp.usda.gov/Publications/DietaryGuidelines/2010/Meeting2/CommentAttachments/AHA-220e 	24	query224_Salt\S\24
+.pdf 	25	query224_Salt\S\25
+American Heart Association 2010 Dietary Guidelines 23 January 2009 2010 Dietary Guidelines American Heart Association 16 May 2010 http ://www.nrv.gov.au/nutrients/sodium 	26	query224_Salt\S\26
+.htm 	27	query224_Salt\S\27
+Nutrient Reference Values for Australia and New Zealand – Sodium Nutrient Reference Values for Australia and New Zealand Australian Government National Health and Medical Research Council/ New Zealand Ministry of Health 16 May 2010 http ://www.nrv.gov.au/nutrients/sodium 	28	query224_Salt\S\28
+.htm 	29	query224_Salt\S\29
+Nutrient Reference Values for Australia and New Zealand – Sodium Nutrient Reference Values for Australia and New Zealand Australian Government National Health and Medical Research Council/ New Zealand Ministry of Health 16 May 2010 http ://www.foodnavigator-usa.com/On-your-radar/The-obesity-problem/Dietary-Guidelines-focus-on-sodium-intake-sugary-drinks-dairy-alternatives 	30	query224_Salt\S\30
+Dietary Guidelines focus on sodium intake , sugary drinks , dairy alternatives 27 April 2010 Food Navigator-usa.com 	31	query224_Salt\S\31
+Decision News Media 16 May 2010 http ://www.foodnavigator-usa.com/On-your-radar/The-obesity-problem/Dietary-Guidelines-focus-on-sodium-intake-sugary-drinks-dairy-alternatives 	32	query224_Salt\S\32
+Dietary Guidelines focus on sodium intake , sugary drinks , dairy alternatives 27 April 2010 Food Navigator-usa.com 	33	query224_Salt\S\33
+Decision News Media 16 May 2010 http ://www.eatwell.gov.uk/healthydiet/nutritionessentials/vitaminsandminerals/sodiumchloride/ 	34	query224_Salt\S\34
+Sodium Chloride Eat Well , Be Well UK Government Food Standards Agency 16 May 2010 http ://www.eatwell.gov.uk/healthydiet/nutritionessentials/vitaminsandminerals/sodiumchloride/ 	35	query224_Salt\S\35
+"Sodium Chloride"	"Eat"	"Well Be Well UK Government Food Standards Agency 16 May 2010 http www.eatwell.gov.uk/healthydiet/nutritionessentials/vitaminsandminerals/sodiumchloride/"	35	query224_Salt\P\35-0
+"Sodium Chloride"	"Eat"	"Be Well UK Government Food Standards Agency 16 May 2010 http www.eatwell.gov.uk/healthydiet/nutritionessentials/vitaminsandminerals/sodiumchloride/"	35	query224_Salt\P\35-1
+Sodium Chloride Eat Well , Be Well UK Government Food Standards Agency 16 May 2010 http ://www .hc-sc.gc.ca/hl-vs/iyh-vsv/food-aliment/sodium-eng.php 	36	query224_Salt\S\36
+Health Canada , Healthy Living , Sodium 2008 Healthy Living Health Canada 16 May 2010 http ://www .hc-sc.gc.ca/hl-vs/iyh-vsv/food-aliment/sodium-eng.php 	37	query224_Salt\S\37
+Health Canada , Healthy Living , Sodium 2008 Healthy Living Health Canada 16 May 2010 The United States Department of Health and Human Services recommends that individuals consume no more than 1500–2300 mg of sodium ( 3750–5750 mg of salt ) per day depending on age . 	38	query224_Salt\S\38
+Health Canada , Healthy Living , Sodium 2008 Healthy Living Health Canada 16 May 2010 The United States Department of Health and Human Services recommends that individuals consume no more than 1500–2300 mg of sodium ( 3750–5750 mg of salt ) per day depending on age . 	38	query224_Salt\S\38
+Health Canada , Healthy Living , Sodium 2008 Healthy Living Health Canada 16 May 2010 The United States Department of Health and Human Services recommends that individuals consume no more than 1500–2300 mg of sodium ( 3750–5750 mg of salt ) per day depending on age . 	38	query224_Salt\S\38
+"Health Canada Healthy Living"	"recommends"	"that individuals consume no more than 1500"	38	query224_Salt\P\38-0
+"Health Canada Healthy Living"	"recommends"	"that individuals consume no more than 1500"	38	query224_Salt\P\38-1
+"mg of sodium 3750 5750 mg of salt per day"	"depending"	"on age no more than 1500"	2300	query224_Salt\P\38-2
+"mg of sodium 3750 5750 mg of salt per day"	"depending"	"no more than 1500"	2300	query224_Salt\P\38-3
+, US Department of Agriculture and US Department of Health and Human Services thumb300pxEvaporation pans in theSalt Valley of Añana_ Spain History of salt thumbSalt production inHalle _ Saxony-Anhalt( 1670 ) thumbSea salt harvesting in Pak Thale _ Phetchaburi_ Thailand While people have used canning and artificial refrigeration to preserve food for the last hundred years or so , salt has been the best-known food preservative , especially for meat , for many thousands of years . 	39	query224_Salt\S\39
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-0
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-1
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-2
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-3
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-4
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-5
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-6
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-7
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-8
+"salt thumbSalt production inHalle _ Saxony-Anhalt"	"is"	"1670"	39	query224_Salt\P\39-9
+Barber 1999 136 Barber 1999 136 A very ancient saltworks operation has been discovered at the Poiana Slatinei archaeological site next to a salt spring in Lunca , Neamţ County , Romania . 	40	query224_Salt\S\40
+"Barber 1999 136 Barber 1999 136 A very ancient saltworks operation"	"has been discovered"	"at the Poiana Slatinei archaeological site next to a salt spring in Lunca Neamţ County"	40	query224_Salt\P\40-0
+"Barber 1999 136 Barber 1999 136 A very ancient saltworks operation"	"has been discovered"	"next to a salt spring in Lunca Neamţ County"	40	query224_Salt\P\40-1
+"next to a salt spring in Lunca Neamţ County"	"is in"	"Romania"	40	query224_Salt\P\40-2
+Evidence indicates that Neolithic people of the Precucuteni Culture were boiling the salt-laden spring water through the process of briquetage to extract the salt as far back as 6050 BC . 	41	query224_Salt\S\41
+"Evidence"	"indicates"	"that Neolithic people of the Precucuteni Culture were boiling the salt-laden spring water through the process of briquetage to extract the salt as far back as 6050 BC"	41	query224_Salt\P\41-0
+"Neolithic people of the Precucuteni Culture"	"were boiling"	"the salt-laden spring water through the process of briquetage"	41	query224_Salt\P\41-1
+"Neolithic people of the Precucuteni Culture"	"were boiling"	"the salt-laden spring water to extract the salt as far back as 6050 BC"	41	query224_Salt\P\41-2
+"Neolithic people of the Precucuteni Culture"	"were boiling"	"the salt-laden spring water"	41	query224_Salt\P\41-3
+"Neolithic people of the Precucuteni Culture"	"be extract"	"the salt as far back as 6050 BC"	41	query224_Salt\P\41-4
+Olivier Weller &amp; Gheorghe Dumitroaia Antiquity , Vol 79 No 306 December 2005 The salt extracted from this operation may have had a direct correlation to the rapid growth of this society 's population soon after its initial production began . 	42	query224_Salt\S\42
+"Olivier Weller & Gheorghe Dumitroaia Antiquity"	"is"	"Vol"	42	query224_Salt\P\42-0
+"The salt"	"be extracted"	"from this operation"	42	query224_Salt\P\42-1
+"No 306 December 2005 The salt extracted from this operation"	"may have had"	"a direct correlation to the rapid growth of this society 's population soon after its initial production began Vol"	42	query224_Salt\P\42-2
+"No 306 December 2005 The salt extracted from this operation"	"may have had"	"a direct correlation to the rapid growth of this society 's population Vol"	42	query224_Salt\P\42-3
+"this society"	"has"	"population"	42	query224_Salt\P\42-4
+"this society"	"has"	"population"	42	query224_Salt\P\42-5
+ArchæDyn – Dijon , 23–25 june 2008 Dynamics settlement pattern , production and trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi , China dates back to at least 6000 BC , making it one of the oldest verifiable saltworks . 	43	query224_Salt\S\43
+"ArchæDyn Dijon 23 25 june 2008 Dynamics settlement pattern from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-0
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern production from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-1
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-2
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-3
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-4
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-5
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-6
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-7
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-8
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-9
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-10
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-11
+"ArchæDyn 23 25 june 2008 Dynamics settlement pattern trades from Neolithic to Middle Ages The harvest of salt from the surface of Xiechi Lake near Yuncheng in Shanxi"	"be making"	"it one of the oldest verifiable saltworks"	43	query224_Salt\P\43-12
+Kurlansky 2002 Kurlansky 2002 18–19 May 2009 Salt was included among funereal offerings found in ancient Egypt tombs from the third millennium BC , as were salted birds and salt fish . 	44	query224_Salt\S\44
+"May 2009 Salt"	"was included"	"among funereal offerings found in ancient Egypt tombs from the third millennium BC as were salted birds"	19	query224_Salt\P\44-0
+"May 2009 Salt"	"was included"	"among funereal offerings found in ancient Egypt tombs from the third millennium BC as were salted salt fish"	19	query224_Salt\P\44-1
+"May 2009 Salt"	"was included"	"among funereal offerings found in ancient Egypt tombs from the third millennium BC"	19	query224_Salt\P\44-2
+"funereal offerings"	"be found"	"in ancient Egypt tombs from the third millennium BC"	19	query224_Salt\P\44-3
+"funereal offerings"	"be found"	"in ancient Egypt tombs"	19	query224_Salt\P\44-4
+38 May 2009 From about 2800 BC , the Egyptians began exporting salt fish to the Phoenicia in return for Lebanon cedar , glass , and the dye Tyrian purple ; the Phoenicia traded Egyptian salt fish and salt from North Africa throughout their Mediterranean trade empire . 	45	query224_Salt\S\45
+"the Egyptians"	"began"	"exporting salt fish to the Phoenicia 45 38 May 2009 From about 2800 BC"	45	query224_Salt\P\45-0
+"the Egyptians"	"began"	"exporting salt fish in return for Lebanon cedar 45 38 May 2009 From about 2800 BC"	45	query224_Salt\P\45-1
+"the Egyptians"	"began"	"exporting salt fish in return for Lebanon glass 45 38 May 2009 From about 2800 BC"	45	query224_Salt\P\45-2
+"the Egyptians"	"began"	"exporting salt fish in return for Lebanon the dye Tyrian purple 45 38 May 2009 From about 2800 BC"	45	query224_Salt\P\45-3
+"the Egyptians"	"began"	"exporting salt fish 45 38 May 2009 From about 2800 BC"	45	query224_Salt\P\45-4
+"the Phoenicia"	"traded"	"Egyptian salt fish from North Africa"	45	query224_Salt\P\45-5
+"the Phoenicia"	"traded"	"Egyptian salt salt from North Africa"	45	query224_Salt\P\45-6
+"the Phoenicia"	"traded"	"Egyptian salt fish throughout their Mediterranean trade empire"	45	query224_Salt\P\45-7
+"the Phoenicia"	"traded"	"Egyptian salt salt throughout their Mediterranean trade empire"	45	query224_Salt\P\45-8
+"the Phoenicia"	"traded"	"Egyptian salt fish"	45	query224_Salt\P\45-9
+"the Phoenicia"	"traded"	"Egyptian salt salt"	45	query224_Salt\P\45-10
+"the Phoenicia"	"traded"	"Egyptian salt salt"	45	query224_Salt\P\45-11
+44 May 2009 Along the Sahara , the Tuareg maintain routes especially for the transport of salt by Azalai ( salt caravans ) . 	46	query224_Salt\S\46
+"the Tuareg"	"maintain"	"routes especially for the transport of salt by Azalai"	46	query224_Salt\P\46-0
+"the Tuareg"	"maintain"	"routes especially for the transport of salt by Azalai"	46	query224_Salt\P\46-1
+In 1960 , the caravans still transported some 15,000 tons of salt , but this trade has now declined to roughly a third of this figure . 	47	query224_Salt\S\47
+"the caravans"	"transported"	"47 In 1960 some 15,000 tons of salt still"	47	query224_Salt\P\47-0
+"the caravans"	"transported"	"47 In 1960 some 15,000 tons of salt"	47	query224_Salt\P\47-1
+"this trade"	"has declined"	"to roughly a third of this figure now"	47	query224_Salt\P\47-2
+"this trade"	"has declined"	"to roughly a third of this figure"	47	query224_Salt\P\47-3
+Onbekende Wereld by Wim Offeciers ( based on Douchan Gersi 's travels ) Salzburg , Hallstatt , and Hallein lie on the river Salzach in central Austria , within a radius of no more than 17 kilometres . 	48	query224_Salt\S\48
+"Onbekende Wereld by Wim Offeciers"	"be based"	"on Douchan Gersi 's travels Salzburg"	48	query224_Salt\P\48-0
+"Onbekende Wereld by Wim Offeciers"	"be based"	"on Douchan Gersi 's travels Hallstatt"	48	query224_Salt\P\48-1
+"Onbekende Wereld by Wim Offeciers"	"be based"	"on Douchan Gersi 's travels Hallein"	48	query224_Salt\P\48-2
+"Douchan Gersi"	"has"	"travels Salzburg"	48	query224_Salt\P\48-3
+"Douchan Gersi"	"has"	"travels Hallstatt"	48	query224_Salt\P\48-4
+"Douchan Gersi"	"has"	"travels Hallein"	48	query224_Salt\P\48-5
+"Onbekende Wereld by Wim Offeciers based on Douchan Gersi 's travels Salzburg"	"lie"	"on the river Salzach in central Austria within a radius of no more than 17 kilometres"	48	query224_Salt\P\48-6
+"Onbekende Wereld by Wim Offeciers based on Douchan Gersi 's travels Hallstatt"	"lie"	"on the river Salzach in central Austria within a radius of no more than 17 kilometres"	48	query224_Salt\P\48-7
+"Onbekende Wereld by Wim Offeciers based on Douchan Gersi 's travels Hallein"	"lie"	"on the river Salzach in central Austria within a radius of no more than 17 kilometres"	48	query224_Salt\P\48-8
+"Onbekende Wereld by Wim Offeciers based on Douchan Gersi 's travels Salzburg"	"lie"	"on the river Salzach in central Austria"	48	query224_Salt\P\48-9
+"Onbekende Wereld by Wim Offeciers based on Douchan Gersi 's travels Hallstatt"	"lie"	"on the river Salzach in central Austria"	48	query224_Salt\P\48-10
+"Onbekende Wereld by Wim Offeciers based on Douchan Gersi 's travels Hallein"	"lie"	"on the river Salzach in central Austria"	48	query224_Salt\P\48-11
+Salzach literally means " salt water " and Salzburg " salt city" , both taking their names from the German word for salt , de Salz . 	49	query224_Salt\S\49
+"Salzach"	"means"	"salt water literally"	49	query224_Salt\P\49-0
+"Salzach"	"means"	"salt Salzburg salt city literally"	49	query224_Salt\P\49-1
+"Salzach"	"means"	"salt water"	49	query224_Salt\P\49-2
+"Salzach"	"means"	"salt Salzburg salt city"	49	query224_Salt\P\49-3
+"Salzach"	"means"	"salt Salzburg salt city"	49	query224_Salt\P\49-4
+"Salzach"	"means"	"salt Salzburg salt city"	49	query224_Salt\P\49-5
+"Salzach"	"means"	"salt Salzburg salt city"	49	query224_Salt\P\49-6
+Hallstatt gave its name to the Celt archaeological culture that began mining for salt in the area in around 800 BC . 	50	query224_Salt\S\50
+"Hallstatt"	"gave"	"its name to the Celt archaeological culture"	50	query224_Salt\P\50-0
+"Hallstatt"	"gave"	"its name"	50	query224_Salt\P\50-1
+"Hallstatt"	"gave"	"its name"	50	query224_Salt\P\50-2
+"the Celt archaeological culture"	"began"	"mining for salt in the area"	50	query224_Salt\P\50-3
+"the Celt archaeological culture"	"began"	"mining for salt in around 800 BC"	50	query224_Salt\P\50-4
+"the Celt archaeological culture"	"began"	"mining for salt"	50	query224_Salt\P\50-5
+Around 400 BC , the Hallstatt Celts , who had heretofore mined for salt , began open pan salt making . 	51	query224_Salt\S\51
+"Around 400 BC"	"is"	"the Hallstatt Celts"	51	query224_Salt\P\51-0
+"Around 400 BC"	"had mined"	"for salt heretofore"	51	query224_Salt\P\51-1
+"Around 400 BC"	"had mined"	"for salt"	51	query224_Salt\P\51-2
+"Around 400 BC"	"began"	"open pan salt making"	51	query224_Salt\P\51-3
+During the first millennium BC , Celtic communities grew rich trading salt and salted meat to Ancient Greece and Ancient Rome in exchange for wine and other luxuries . 	52	query224_Salt\S\52
+"Celtic communities"	"grew"	"rich trading salt to Ancient Greece 52 During the first millennium BC"	52	query224_Salt\P\52-0
+"Celtic communities"	"grew"	"rich trading salt to Ancient Ancient Rome 52 During the first millennium BC"	52	query224_Salt\P\52-1
+"Celtic communities"	"grew"	"rich trading salted meat to Ancient Greece 52 During the first millennium BC"	52	query224_Salt\P\52-2
+"Celtic communities"	"grew"	"rich trading salted meat to Ancient Ancient Rome 52 During the first millennium BC"	52	query224_Salt\P\52-3
+"Celtic communities"	"grew"	"rich trading salt in exchange for wine 52 During the first millennium BC"	52	query224_Salt\P\52-4
+"Celtic communities"	"grew"	"rich trading salt in exchange for other luxuries 52 During the first millennium BC"	52	query224_Salt\P\52-5
+"Celtic communities"	"grew"	"rich trading salted meat in exchange for wine 52 During the first millennium BC"	52	query224_Salt\P\52-6
+"Celtic communities"	"grew"	"rich trading salted meat in exchange for other luxuries 52 During the first millennium BC"	52	query224_Salt\P\52-7
+"Celtic communities"	"grew"	"rich trading salt 52 During the first millennium BC"	52	query224_Salt\P\52-8
+"Celtic communities"	"grew"	"rich trading salted meat 52 During the first millennium BC"	52	query224_Salt\P\52-9
+The word salary originates from salarium which referred to the money paid to the Roman Army 's soldiers for the purchase of salt . 	53	query224_Salt\S\53
+"The word salary"	"originates"	"from salarium"	53	query224_Salt\P\53-0
+"The word salary"	"originates"	"from salarium"	53	query224_Salt\P\53-1
+"the money"	"be paid"	"to the Roman Army 's soldiers for the purchase of salt"	53	query224_Salt\P\53-2
+"the money"	"be paid"	"to the Roman Army 's soldiers"	53	query224_Salt\P\53-3
+"the Roman Army"	"has"	"soldiers"	53	query224_Salt\P\53-4
+salt salt salt salt The American Heritage Dictionary of the English Language , 4th edition Answers.com 	54	query224_Salt\S\54
+"The American Heritage Dictionary of the English Language"	"is"	"4th edition Answers.com"	54	query224_Salt\P\54-0
+http ://www.answers.com/salary 	55	query224_Salt\S\55
+2008-12-14 The American Heritage Dictionary of the English Language , 4th edition Answers.com 	56	query224_Salt\S\56
+"2008-12-14 The American Heritage Dictionary of the English Language"	"is"	"4th edition Answers.com"	56	query224_Salt\P\56-0
+http ://www.answers.com/salary 	57	query224_Salt\S\57
+2008-12-14 The word salad literally means " salted , " and comes from the ancient Roman practice of salting leaf vegetable . 	58	query224_Salt\S\58
+"2008-12-14 The word salad"	"means"	"literally"	58	query224_Salt\P\58-0
+"2008-12-14 The word salad"	"comes"	"from the ancient Roman practice of salting leaf vegetable literally"	58	query224_Salt\P\58-1
+"2008-12-14 The word salad"	"comes"	"from the ancient Roman practice of salting leaf vegetable"	58	query224_Salt\P\58-2
+64 May 2009 Mahatma Gandhi led at least 100,000 people on the " Dandi March " or " Salt Satyagraha " , in which protesters made their own salt from the sea , which was illegal under British rule , as it avoided paying the " salt tax " . 	59	query224_Salt\S\59
+"64 May 2009 Mahatma Gandhi"	"led"	"at least 100,000 people on the Dandi March Salt Satyagraha"	59	query224_Salt\P\59-0
+"64 May 2009 Mahatma Gandhi"	"led"	"at least 100,000 people on the Dandi March Salt Satyagraha"	59	query224_Salt\P\59-1
+"64 May 2009 Mahatma Gandhi"	"led"	"at least 100,000 people on the Dandi March Salt Satyagraha"	59	query224_Salt\P\59-2
+"64 May 2009 Mahatma Gandhi"	"led"	"at least 100,000 people on the Dandi March Salt Satyagraha"	59	query224_Salt\P\59-3
+"64 May 2009 Mahatma Gandhi"	"led"	"at least 100,000 people on the Dandi March Salt Satyagraha"	59	query224_Salt\P\59-4
+"64 May 2009 Mahatma Gandhi"	"led"	"at least 100,000 people on the Dandi March Salt Satyagraha"	59	query224_Salt\P\59-5
+"the sea"	"was illegal"	"under British rule"	59	query224_Salt\P\59-6
+"the sea"	"was"	"illegal"	59	query224_Salt\P\59-7
+"the sea"	"was"	"illegal"	59	query224_Salt\P\59-8
+This civil disobedience inspired millions of common people , and elevated the Indian independence movement from an elitist struggle to a national struggle . 	60	query224_Salt\S\60
+"This civil disobedience"	"inspired"	"millions of common people"	60	query224_Salt\P\60-0
+"This civil disobedience"	"elevated"	"millions of common people the Indian independence movement from an elitist struggle to a national struggle"	60	query224_Salt\P\60-1
+"This civil disobedience"	"elevated"	"millions of common people the Indian independence movement"	60	query224_Salt\P\60-2
+Sea salt Halite Fleur de sel thumbA commercial pack of sea salt Different natural salts have different mineralities , giving each one a unique flavor . 	61	query224_Salt\S\61
+"Sea salt Halite Fleur de sel thumbA commercial pack of sea salt Different natural salts"	"be giving"	"each one a unique flavor"	61	query224_Salt\P\61-0
+"Sea salt Halite Fleur de sel thumbA commercial pack of sea salt Different natural salts"	"have"	"different mineralities giving each one a unique flavor"	61	query224_Salt\P\61-1
+"Sea salt Halite Fleur de sel thumbA commercial pack of sea salt Different natural salts"	"have"	"different mineralities"	61	query224_Salt\P\61-2
+Fleur de sel , a natural sea salt from the surface of evaporating brine in salt pans , has a unique flavor varying from region to region . 	62	query224_Salt\S\62
+"Fleur de sel"	"is"	"a natural sea salt from the surface of evaporating brine in salt pans"	62	query224_Salt\P\62-0
+"Fleur de sel"	"has"	"a unique flavor varying from region to region"	62	query224_Salt\P\62-1
+"a unique flavor"	"be varying"	"from region to region"	62	query224_Salt\P\62-2
+"a unique flavor"	"be varying"	"from region"	62	query224_Salt\P\62-3
+In traditional Korean cuisine , so-called " bamboo salt " is prepared by roasting salt James V. 	63	query224_Salt\S\63
+"In traditional Korean cuisine so-called bamboo salt"	"is prepared"	"by roasting salt James V."	63	query224_Salt\P\63-0
+Livingston Agriculture and soil pollution : new research Nova Publishers 2005 45 1594543100 http ://books .google 	64	query224_Salt\S\64
+.com/books 	65	query224_Salt\S\65
+?id=W6ToDne5AsMC&pg=PA45 James V. 	66	query224_Salt\S\66
+Livingston Agriculture and soil pollution : new research Nova Publishers 2005 45 1594543100 http ://books .google 	67	query224_Salt\S\67
+.com/books 	68	query224_Salt\S\68
+?id=W6ToDne5AsMC&pg=PA45 in a bamboo container plugged with mud at both ends . 	69	query224_Salt\S\69
+"id = W6ToDne5AsMC & pg = PA45 in a bamboo container"	"plugged"	"with mud at both ends"	69	query224_Salt\P\69-0
+"id = W6ToDne5AsMC & pg = PA45 in a bamboo container"	"plugged"	"with mud"	69	query224_Salt\P\69-1
+This product absorbs minerals from the bamboo and the mud , and has been shown to increase the anticlastogenic and antimutagenic properties of doenjang . 	70	query224_Salt\S\70
+"This product"	"absorbs"	"minerals from the bamboo"	70	query224_Salt\P\70-0
+"This product"	"absorbs"	"minerals from the the mud"	70	query224_Salt\P\70-1
+"This product"	"absorbs"	"minerals"	70	query224_Salt\P\70-2
+"This product"	"has been shown"	"minerals to increase the anticlastogenic properties of doenjang from the bamboo"	70	query224_Salt\P\70-3
+"This product"	"has been shown"	"minerals to increase the antimutagenic properties of doenjang from the bamboo"	70	query224_Salt\P\70-4
+"This product"	"has been shown"	"minerals to increase the anticlastogenic properties of doenjang from the the mud"	70	query224_Salt\P\70-5
+"This product"	"has been shown"	"minerals to increase the antimutagenic properties of doenjang from the the mud"	70	query224_Salt\P\70-6
+"This product"	"has been shown"	"minerals to increase the anticlastogenic properties of doenjang"	70	query224_Salt\P\70-7
+"This product"	"has been shown"	"minerals to increase the antimutagenic properties of doenjang"	70	query224_Salt\P\70-8
+Shahidi , Fereidoon ; John Shi ; Ho , Chi-Tang Asian functional foods CRC Press Boca Raton 2005 575 0-8247-5855-2 Shahidi , Fereidoon ; John Shi ; Ho , Chi-Tang Asian functional foods CRC Press Boca Raton 2005 575 0-8247-5855-2 Completely raw sea salt is bitter because of magnesium and calcium compounds , and thus is rarely eaten . 	71	query224_Salt\S\71
+"Shahidi John Shi Ho Ho is bitter because of magnesium compounds"	"is"	"Fereidoon"	71	query224_Salt\P\71-0
+"Shahidi John Shi Chi-Tang Asian functional foods CRC Press Boca Raton 2005 575 0-8247-5855-2 Shahidi Ho is bitter because of magnesium and calcium compounds and thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-1
+"Shahidi John Shi Fereidoon Ho is bitter because of magnesium and calcium compounds and thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-2
+"Shahidi John Shi John Shi Ho is bitter because of magnesium and calcium compounds and thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-3
+"Shahidi John Shi Ho Ho is bitter because of calcium compounds and thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-4
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-5
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-6
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-7
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-8
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-9
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-10
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-11
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-12
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-13
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-14
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-15
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-16
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-17
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-18
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-19
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-20
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-21
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-22
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-23
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-24
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-25
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-26
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-27
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-28
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-29
+"Shahidi John Shi Ho Ho is because of magnesium compounds thus is rarely eaten"	"is"	"Fereidoon"	71	query224_Salt\P\71-30
+The refined salt industry cites scientific studies saying that raw sea and rock salts do not contain enough iodine salts to prevent iodine deficiency diseases . 	72	query224_Salt\S\72
+"The refined salt industry"	"cites"	"scientific studies saying that raw sea do not contain enough iodine salts to prevent iodine deficiency diseases"	72	query224_Salt\P\72-0
+"The refined salt industry"	"cites"	"scientific studies saying that raw rock salts do not contain enough iodine salts to prevent iodine deficiency diseases"	72	query224_Salt\P\72-1
+"scientific studies"	"be saying"	"that raw sea do not contain enough iodine salts to prevent iodine deficiency diseases"	72	query224_Salt\P\72-2
+"scientific studies"	"be saying"	"that raw rock salts do not contain enough iodine salts to prevent iodine deficiency diseases"	72	query224_Salt\P\72-3
+"raw sea"	"do not contain"	"enough iodine salts to prevent iodine deficiency diseases"	72	query224_Salt\P\72-4
+"raw rock salts"	"do not contain"	"enough iodine salts to prevent iodine deficiency diseases"	72	query224_Salt\P\72-5
+"enough iodine salts"	"be prevent"	"iodine deficiency diseases"	72	query224_Salt\P\72-6
+References on food salt &amp; health issues http ://www .saltinstitute 	73	query224_Salt\S\73
+.org/Articles-references/References-on-salt-issues/References-on-salt-issues/References-on-food-salt-health-issues 	74	query224_Salt\S\74
+Salt Institute 5 December 2010 2009 References on food salt &amp; health issues http ://www .saltinstitute 	75	query224_Salt\S\75
+.org/Articles-references/References-on-salt-issues/References-on-salt-issues/References-on-food-salt-health-issues 	76	query224_Salt\S\76
+Salt Institute 5 December 2010 2009 Unrefined sea salts are also commonly used as ingredients in bathing additives and cosmetic products . 	77	query224_Salt\S\77
+"Salt Institute 5 December 2010 2009 Unrefined sea salts"	"are used"	"as ingredients in bathing additives also"	77	query224_Salt\P\77-0
+"Salt Institute 5 December 2010 2009 Unrefined sea salts"	"are used"	"as ingredients in bathing cosmetic products also"	77	query224_Salt\P\77-1
+"Salt Institute 5 December 2010 2009 Unrefined sea salts"	"are used"	"as ingredients in bathing additives commonly"	77	query224_Salt\P\77-2
+"Salt Institute 5 December 2010 2009 Unrefined sea salts"	"are used"	"as ingredients in bathing cosmetic products commonly"	77	query224_Salt\P\77-3
+"Salt Institute 5 December 2010 2009 Unrefined sea salts"	"are used"	"as ingredients in bathing additives"	77	query224_Salt\P\77-4
+"Salt Institute 5 December 2010 2009 Unrefined sea salts"	"are used"	"as ingredients in bathing cosmetic products"	77	query224_Salt\P\77-5
+One example is bath salts , which uses sea salt as its main ingredient and combined with other ingredients is used for its alleged healing and therapeutic effects . 	78	query224_Salt\S\78
+"One example"	"is"	"bath salts"	78	query224_Salt\P\78-0
+"bath salts"	"uses"	"sea salt as its main ingredient"	78	query224_Salt\P\78-1
+"bath salts"	"uses"	"sea salt as its main combined with other ingredients"	78	query224_Salt\P\78-2
+"bath salts"	"uses"	"sea salt as its main ingredient"	78	query224_Salt\P\78-3
+"bath salts"	"uses"	"sea salt as its main combined with other ingredients"	78	query224_Salt\P\78-4
+"bath salts"	"uses"	"sea salt"	78	query224_Salt\P\78-5
+"bath salts"	"uses"	"sea salt"	78	query224_Salt\P\78-6
+"bath salts"	"uses"	"sea salt"	78	query224_Salt\P\78-7
+"bath salts"	"uses"	"sea salt"	78	query224_Salt\P\78-8
+December 2011 thumbleftSalt mounds inSalar de Uyuni_Bolivia Refined salt , which is most widely used presently , is mainly sodium chloride . 	79	query224_Salt\S\79
+"December 2011 thumbleftSalt mounds inSalar de Uyuni_Bolivia Refined salt"	"is used"	"presently most widely"	79	query224_Salt\P\79-0
+"December 2011 thumbleftSalt mounds inSalar de Uyuni_Bolivia Refined salt"	"is used"	"presently"	79	query224_Salt\P\79-1
+"December 2011 thumbleftSalt mounds inSalar de Uyuni_Bolivia Refined salt"	"is sodium chloride"	"mainly"	79	query224_Salt\P\79-2
+"December 2011 thumbleftSalt mounds inSalar de Uyuni_Bolivia Refined salt"	"is"	"sodium chloride"	79	query224_Salt\P\79-3
+Food grade salt accounts for only a small part of salt production in industrialized countries ( 3 % in Europe . 	80	query224_Salt\S\80
+Eu-salt.com 	81	query224_Salt\S\81
+. 	82	query224_Salt\S\82
+Retrieved on 2011-07-07 . 	83	query224_Salt\S\83
+Retrieved on 2011-07-07 . 	83	query224_Salt\S\83
+) although worldwide , food uses account for 17.5 	84	query224_Salt\S\84
+) although worldwide , food uses account for 17.5 	84	query224_Salt\S\84
+) although worldwide , food uses account for 17.5 	84	query224_Salt\S\84
+) although worldwide , food uses account for 17.5 	84	query224_Salt\S\84
+% of salt production . 	85	query224_Salt\S\85
+. 	86	query224_Salt\S\86
+Roskill.com 	87	query224_Salt\S\87
+( 2011-03-30 ) . 	88	query224_Salt\S\88
+( 2011-03-30 ) . 	88	query224_Salt\S\88
+Retrieved on 2011-07-07 . 	89	query224_Salt\S\89
+Retrieved on 2011-07-07 . 	89	query224_Salt\S\89
+The majority is sold for industrial use . 	90	query224_Salt\S\90
+"The majority"	"is sold"	"for industrial use"	90	query224_Salt\P\90-0
+Salt has great commercial value because it is a necessary ingredient in many manufacturing processes . 	91	query224_Salt\S\91
+"Salt"	"has"	"great commercial value because it is a necessary ingredient in many manufacturing processes"	91	query224_Salt\P\91-0
+"Salt"	"has"	"great commercial value"	91	query224_Salt\P\91-1
+"Salt"	"has"	"great commercial value"	91	query224_Salt\P\91-2
+"Salt"	"has"	"great commercial value"	91	query224_Salt\P\91-3
+A few common examples include : the production of pulp and paper , setting dyes in textiles and fabrics , and the making of soaps and detergents . 	92	query224_Salt\S\92
+"A few common examples"	"include"	"the production of pulp"	92	query224_Salt\P\92-0
+"A few common examples"	"include"	"the production of paper setting dyes in textiles and fabrics and the making of soaps and detergents"	92	query224_Salt\P\92-1
+"A few common examples"	"include"	"the of pulp setting dyes in textiles"	92	query224_Salt\P\92-2
+"A few common examples"	"include"	"the of pulp setting dyes in fabrics"	92	query224_Salt\P\92-3
+"A few common examples"	"include"	"the of pulp the making of soaps"	92	query224_Salt\P\92-4
+"A few common examples"	"include"	"the of pulp the making of detergents"	92	query224_Salt\P\92-5
+The manufacture and use of salt is one of the oldest chemical industries . 	93	query224_Salt\S\93
+"The manufacture of salt"	"is one"	"of the oldest chemical industries"	93	query224_Salt\P\93-0
+"The use of salt"	"is one"	"of the oldest chemical industries"	93	query224_Salt\P\93-1
+"The manufacture of salt"	"is"	"one"	93	query224_Salt\P\93-2
+"The use of salt"	"is"	"one"	93	query224_Salt\P\93-3
+. 	94	query224_Salt\S\94
+Salt .org 	95	query224_Salt\S\95
+.il 	96	query224_Salt\S\96
+( 1997-09-01 ) . 	97	query224_Salt\S\97
+( 1997-09-01 ) . 	97	query224_Salt\S\97
+Retrieved on 2011-07-07 . 	98	query224_Salt\S\98
+Retrieved on 2011-07-07 . 	98	query224_Salt\S\98
+Salt can be obtained by evaporation of sea water , usually in shallow basins warmed by sunlight ; . 	99	query224_Salt\S\99
+"Salt"	"can be obtained"	"by evaporation of sea water usually in shallow basins warmed by sunlight"	99	query224_Salt\P\99-0
+"Salt"	"can be obtained"	"by evaporation of sea water"	99	query224_Salt\P\99-1
+"shallow basins"	"be warmed"	"by sunlight"	99	query224_Salt\P\99-2
+Nauticus .org 	100	query224_Salt\S\100
+. 	101	query224_Salt\S\101
+Retrieved on 2011-07-07 . 	102	query224_Salt\S\102
+Retrieved on 2011-07-07 . 	102	query224_Salt\S\102
+salt so obtained was formerly called bay salt , and is now often called sea salt or solar salt . 	103	query224_Salt\S\103
+"salt so obtained"	"was called"	"bay salt formerly"	103	query224_Salt\P\103-0
+"salt so obtained"	"was called"	"bay salt"	103	query224_Salt\P\103-1
+"salt so obtained"	"was is called"	"bay salt formerly"	103	query224_Salt\P\103-2
+"salt so obtained"	"was is called"	"bay salt formerly"	103	query224_Salt\P\103-3
+"salt so obtained"	"was is called"	"bay salt now"	103	query224_Salt\P\103-4
+"salt so obtained"	"was is called"	"bay salt now"	103	query224_Salt\P\103-5
+"salt so obtained"	"was is called"	"bay salt often"	103	query224_Salt\P\103-6
+"salt so obtained"	"was is called"	"bay salt often"	103	query224_Salt\P\103-7
+"salt so obtained"	"was is called"	"bay salt"	103	query224_Salt\P\103-8
+"salt so obtained"	"was is called"	"bay salt"	103	query224_Salt\P\103-9
+Rock salt deposits are formed by the evaporation of ancient salt lakes , UK Salt Manufacturers ' Association and may be mined conventionally or through the injection of water . 	104	query224_Salt\S\104
+"Rock salt deposits"	"are formed"	"by the evaporation of ancient salt lakes"	104	query224_Salt\P\104-0
+"Rock salt deposits"	"are may be mined"	"conventionally by the evaporation of ancient salt lakes"	104	query224_Salt\P\104-1
+"Rock salt deposits"	"are may be mined"	"through the injection of water by the evaporation of ancient salt lakes"	104	query224_Salt\P\104-2
+"Rock salt deposits"	"are may be mined"	"conventionally"	104	query224_Salt\P\104-3
+"Rock salt deposits"	"are may be mined"	"through the injection of water"	104	query224_Salt\P\104-4
+"ancient salt lakes"	"is"	"UK Salt Manufacturers ' Association"	104	query224_Salt\P\104-5
+"UK Salt Manufacturers"	"has"	"Association"	104	query224_Salt\P\104-6
+Injected water dissolves the salt , and the brine solution can be pumped to the surface where the salt is collected . 	105	query224_Salt\S\105
+"Injected water"	"dissolves"	"the salt"	105	query224_Salt\P\105-0
+"the brine solution"	"can be pumped"	"to the surface"	105	query224_Salt\P\105-1
+"the salt"	"is collected"	"the surface where"	105	query224_Salt\P\105-2
+"the salt"	"is collected"	"the surface"	105	query224_Salt\P\105-3
+thumbJagged salt pinnacles at theDevil 's Golf CourseinDeath Valley National Park _ US thumbClose-up view of salt crystals atDevil 's Golf Course After the raw salt is obtained , it is refined to purify it and improve its storage and handling characteristics . 	106	query224_Salt\S\106
+thumbJagged salt pinnacles at theDevil 's Golf CourseinDeath Valley National Park _ US thumbClose-up view of salt crystals atDevil 's Golf Course After the raw salt is obtained , it is refined to purify it and improve its storage and handling characteristics . 	106	query224_Salt\S\106
+thumbJagged salt pinnacles at theDevil 's Golf CourseinDeath Valley National Park _ US thumbClose-up view of salt crystals atDevil 's Golf Course After the raw salt is obtained , it is refined to purify it and improve its storage and handling characteristics . 	106	query224_Salt\S\106
+thumbJagged salt pinnacles at theDevil 's Golf CourseinDeath Valley National Park _ US thumbClose-up view of salt crystals atDevil 's Golf Course After the raw salt is obtained , it is refined to purify it and improve its storage and handling characteristics . 	106	query224_Salt\S\106
+thumbJagged salt pinnacles at theDevil 's Golf CourseinDeath Valley National Park _ US thumbClose-up view of salt crystals atDevil 's Golf Course After the raw salt is obtained , it is refined to purify it and improve its storage and handling characteristics . 	106	query224_Salt\S\106
+thumbJagged salt pinnacles at theDevil 's Golf CourseinDeath Valley National Park _ US thumbClose-up view of salt crystals atDevil 's Golf Course After the raw salt is obtained , it is refined to purify it and improve its storage and handling characteristics . 	106	query224_Salt\S\106
+thumbJagged salt pinnacles at theDevil 's Golf CourseinDeath Valley National Park _ US thumbClose-up view of salt crystals atDevil 's Golf Course After the raw salt is obtained , it is refined to purify it and improve its storage and handling characteristics . 	106	query224_Salt\S\106
+Purification usually involves recrystallization . 	107	query224_Salt\S\107
+"Purification"	"involves"	"recrystallization usually"	107	query224_Salt\P\107-0
+"Purification"	"involves"	"recrystallization"	107	query224_Salt\P\107-1
+In recrystallization , a brine solution is treated with chemicals that precipitate most impurities ( largely magnesium and calcium salts ) . 	108	query224_Salt\S\108
+"In recrystallization"	"is"	"a brine solution"	108	query224_Salt\P\108-0
+"In recrystallization"	"is treated"	"with chemicals largely magnesium"	108	query224_Salt\P\108-1
+"In recrystallization"	"is treated"	"with chemicals largely calcium salts"	108	query224_Salt\P\108-2
+"chemicals largely magnesium"	"precipitate"	"most impurities"	108	query224_Salt\P\108-3
+"chemicals largely calcium salts"	"precipitate"	"most impurities"	108	query224_Salt\P\108-4
+. 	109	query224_Salt\S\109
+The Salt Manufacturers Association Multiple stages of evaporation are then used to collect pure sodium chloride crystals , which are kiln -dried . 	110	query224_Salt\S\110
+"The Salt Manufacturers Association Multiple stages of evaporation"	"are used"	"to collect pure sodium chloride crystals"	110	query224_Salt\P\110-0
+"pure sodium chloride crystals"	"are"	"kiln dried"	110	query224_Salt\P\110-1
+In Western cuisine , salt is used in cooking , and also made available to diners in salt shaker on the table . 	111	query224_Salt\S\111
+In Western cuisine , salt is used in cooking , and also made available to diners in salt shaker on the table . 	111	query224_Salt\S\111
+In Western cuisine , salt is used in cooking , and also made available to diners in salt shaker on the table . 	111	query224_Salt\S\111
+In Western cuisine , salt is used in cooking , and also made available to diners in salt shaker on the table . 	111	query224_Salt\S\111
+In Western cuisine , salt is used in cooking , and also made available to diners in salt shaker on the table . 	111	query224_Salt\S\111
+Table salt is refined salt , which contains about 97 % to 99 % sodium chloride . 	112	query224_Salt\S\112
+"Table salt"	"is refined"	"salt"	112	query224_Salt\P\112-0
+"Table salt"	"is refined"	"salt"	112	query224_Salt\P\112-1
+Tesco Table Salt 750g http ://www.tesco.com/superstore/xpi/8 	113	query224_Salt\S\113
+/xpi50042778.htm 	114	query224_Salt\S\114
+Tesco 5 December 2010 Nutritional analysis provided with Tesco Table Salt states 38.9 	115	query224_Salt\S\115
+"Tesco 5 December 2010 Nutritional analysis"	"be provided"	"with Tesco Table Salt"	115	query224_Salt\P\115-0
+"Tesco 5 December 2010 Nutritional analysis provided with Tesco Table Salt"	"states"	"38.9"	115	query224_Salt\P\115-1
+% sodium by weight which equals 97.3 	116	query224_Salt\S\116
+"% sodium by weight"	"equals"	"97.3"	116	query224_Salt\P\116-0
+% sodium chloride Tesco Table Salt 750g http ://www.tesco.com/superstore/xpi/8 	117	query224_Salt\S\117
+/xpi50042778.htm 	118	query224_Salt\S\118
+Tesco 5 December 2010 Nutritional analysis provided with Tesco Table Salt states 38.9 	119	query224_Salt\S\119
+"Tesco 5 December 2010 Nutritional analysis"	"be provided"	"with Tesco Table Salt"	119	query224_Salt\P\119-0
+"Tesco 5 December 2010 Nutritional analysis provided with Tesco Table Salt"	"states"	"38.9"	119	query224_Salt\P\119-1
+% sodium by weight which equals 97.3 	120	query224_Salt\S\120
+"% sodium by weight"	"equals"	"97.3"	120	query224_Salt\P\120-0
+% sodium chloride . 	121	query224_Salt\S\121
+Wasalt.com 	122	query224_Salt\S\122
+.au 	123	query224_Salt\S\123
+. 	124	query224_Salt\S\124
+Retrieved on 2011-07-07 . 	125	query224_Salt\S\125
+Retrieved on 2011-07-07 . 	125	query224_Salt\S\125
+. 	126	query224_Salt\S\126
+( PDF) . 	127	query224_Salt\S\127
+( PDF) . 	127	query224_Salt\S\127
+Retrieved on 2011-07-07 . 	128	query224_Salt\S\128
+Retrieved on 2011-07-07 . 	128	query224_Salt\S\128
+It usually contains substances that make it free-flowing ( anticaking agents ) such as sodium silicoaluminate or magnesium carbonate . 	129	query224_Salt\S\129
+It usually contains substances that make it free-flowing ( anticaking agents ) such as sodium silicoaluminate or magnesium carbonate . 	129	query224_Salt\S\129
+It usually contains substances that make it free-flowing ( anticaking agents ) such as sodium silicoaluminate or magnesium carbonate . 	129	query224_Salt\S\129
+It usually contains substances that make it free-flowing ( anticaking agents ) such as sodium silicoaluminate or magnesium carbonate . 	129	query224_Salt\S\129
+It usually contains substances that make it free-flowing ( anticaking agents ) such as sodium silicoaluminate or magnesium carbonate . 	129	query224_Salt\S\129
+Some people also add a desiccant , such as a few grains of uncooked rice , http ://www.newton.dep.anl.gov/askasci/gen01/gen01420.htm 	130	query224_Salt\S\130
+"Some people"	"add"	"a desiccant such as a few grains of uncooked rice www.newton.dep.anl.gov/askasci/gen01/gen01420.htm also"	130	query224_Salt\P\130-0
+"Some people"	"add"	"a desiccant such as a few grains of uncooked rice www.newton.dep.anl.gov/askasci/gen01/gen01420.htm"	130	query224_Salt\P\130-1
+"uncooked rice"	"is"	"http"	130	query224_Salt\P\130-2
+Rice in Salt Shakers Ask a Scientist 2008-07-29 http ://www.newton.dep.anl.gov/askasci/gen01/gen01420.htm 	131	query224_Salt\S\131
+"Rice in Salt Shakers"	"Ask"	"a Scientist 2008-07-29 http www.newton.dep.anl.gov/askasci/gen01/gen01420.htm"	131	query224_Salt\P\131-0
+Rice in Salt Shakers Ask a Scientist 2008-07-29 or a saltine cracker http ://ww3.komotv.com/story/1454284/food-freshness 	132	query224_Salt\S\132
+"Rice in Salt Shakers"	"Ask"	"a Scientist 2008-07-29 ww3.komotv.com story/1454284/food-freshness"	132	query224_Salt\P\132-0
+"Rice in Salt Shakers"	"Ask"	"a Scientist a saltine cracker http ww3.komotv.com story/1454284/food-freshness"	132	query224_Salt\P\132-1
+?redirected=true Food Freshness KOMO News 2011-07-08 http ://ww3.komotv.com/story/1454284/food-freshness 	133	query224_Salt\S\133
+?redirected=true Food Freshness KOMO News 2011-07-08 in salt shakers to absorb extra moisture and help break up clumps when anticaking agents are not enough. 	134	query224_Salt\S\134
+?redirected=true Food Freshness KOMO News 2011-07-08 in salt shakers to absorb extra moisture and help break up clumps when anticaking agents are not enough. 	134	query224_Salt\S\134
+?redirected=true Food Freshness KOMO News 2011-07-08 in salt shakers to absorb extra moisture and help break up clumps when anticaking agents are not enough. 	134	query224_Salt\S\134
+"anticaking agents"	"are not enough"	"when"	134	query224_Salt\P\134-0
+"anticaking agents"	"are not"	"enough"	134	query224_Salt\P\134-1
+Table salt has a particle density of 2.165 	135	query224_Salt\S\135
+"Table salt"	"has"	"a particle density of 2.165"	135	query224_Salt\P\135-0
+g/cm 3 , and a bulk density ( dry , ASTM D 632 gradation ) of about 1.154 	136	query224_Salt\S\136
+"a bulk density of about 1.154"	"is"	"dry ASTM D 632 gradation"	136	query224_Salt\P\136-0
+g/cm 3 . 	137	query224_Salt\S\137
+Physical properties http ://www .saltinstitute 	138	query224_Salt\S\138
+.org/About-salt/Physical-properties 	139	query224_Salt\S\139
+Salt Institute 5 December 2010 2010 Physical properties http ://www .saltinstitute 	140	query224_Salt\S\140
+.org/About-salt/Physical-properties 	141	query224_Salt\S\141
+Salt Institute 5 December 2010 2010 Most table salt sold for consumption contains a variety of additives , which address a variety of health concerns , especially in the developing world . 	142	query224_Salt\S\142
+"December 2010 2010 Most table salt"	"be sold"	"for consumption"	5	query224_Salt\P\142-0
+"Salt Institute 5 December 2010 2010 Most table salt sold for consumption"	"contains"	"a variety of additives especially in the developing world"	142	query224_Salt\P\142-1
+"Salt Institute 5 December 2010 2010 Most table salt sold for consumption"	"contains"	"a variety of additives"	142	query224_Salt\P\142-2
+"Salt Institute 5 December 2010 2010 Most table salt sold for consumption"	"contains"	"a variety of additives"	142	query224_Salt\P\142-3
+The amounts of additives vary widely from country to country . 	143	query224_Salt\S\143
+"The amounts of additives"	"vary"	"widely from country to country"	143	query224_Salt\P\143-0
+"The amounts of additives"	"vary"	"widely"	143	query224_Salt\P\143-1
+Iodized salt Iodine -containing compounds are added to table salt . 	144	query224_Salt\S\144
+"Iodized salt Iodine"	"be containing"	"compounds"	144	query224_Salt\P\144-0
+"Iodized salt Iodine containing compounds"	"are added"	"to table salt"	144	query224_Salt\P\144-1
+Iodine deficiency affects about two billion people and is the leading preventable cause of mental retardation . 	145	query224_Salt\S\145
+"Iodine deficiency"	"affects"	"about two billion people"	145	query224_Salt\P\145-0
+"Iodine deficiency"	"is"	"the leading preventable cause about two billion people of mental retardation"	145	query224_Salt\P\145-1
+"Iodine deficiency"	"is"	"the leading preventable cause about two billion people"	145	query224_Salt\P\145-2
+http ://www.nytimes.com/2006/12/16/health/16iodine 	146	query224_Salt\S\146
+.html 	147	query224_Salt\S\147
+?fta=y In Raising the World ’s I.Q. 	148	query224_Salt\S\148
+"the World"	"has"	"I.Q."	148	query224_Salt\P\148-0
+, the Secret’s in the Salt McNeil Donald G. 	149	query224_Salt\S\149
+, the Secret’s in the Salt McNeil Donald G. 	149	query224_Salt\S\149
+Jr 2006-12-16 New York Times 2008-12-04 http ://www.nytimes.com/2006/12/16/health/16iodine 	150	query224_Salt\S\150
+.html 	151	query224_Salt\S\151
+?fta=y In Raising the World ’s I.Q. 	152	query224_Salt\S\152
+"the World"	"has"	"I.Q."	152	query224_Salt\P\152-0
+, the Secret’s in the Salt McNeil Donald G. 	153	query224_Salt\S\153
+Jr 2006-12-16 New York Times 2008-12-04 The practice began in 1924 . 	154	query224_Salt\S\154
+"Jr 2006-12-16 New York Times 2008-12-04 The practice"	"began"	"in 1924"	154	query224_Salt\P\154-0
+Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	155	query224_Salt\S\155
+Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	155	query224_Salt\S\155
+Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	155	query224_Salt\S\155
+Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	155	query224_Salt\S\155
+Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	155	query224_Salt\S\155
+Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	155	query224_Salt\S\155
+Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	155	query224_Salt\S\155
+Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	155	query224_Salt\S\155
+"endemic goiter 29 1987 3541654 10.2105 AJPH .77.2.219"	"is"	"MD American journal of public health 77 2 219"	155	query224_Salt\P\155-0
+"endemic iodized salt 29 1987 3541654 10.2105 AJPH .77.2.219"	"is"	"MD American journal of public health 77 2 219"	155	query224_Salt\P\155-1
+"endemic David Murray Cowie 29 1987 3541654 10.2105 AJPH .77.2.219"	"is"	"MD American journal of public health 77 2 219"	155	query224_Salt\P\155-2
+1646845 Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	156	query224_Salt\S\156
+1646845 Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	156	query224_Salt\S\156
+1646845 Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	156	query224_Salt\S\156
+1646845 Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	156	query224_Salt\S\156
+1646845 Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	156	query224_Salt\S\156
+1646845 Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	156	query224_Salt\S\156
+1646845 Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	156	query224_Salt\S\156
+1646845 Markel H " When it rains it pours " : endemic goiter , iodized salt , and David Murray Cowie , MD American journal of public health 77 2 219–29 1987 3541654 10.2105/AJPH.77.2.219 	156	query224_Salt\S\156
+"endemic goiter 29 1987 3541654 10.2105 AJPH .77.2.219"	"is"	"MD American journal of public health 77 2 219"	156	query224_Salt\P\156-0
+"endemic iodized salt 29 1987 3541654 10.2105 AJPH .77.2.219"	"is"	"MD American journal of public health 77 2 219"	156	query224_Salt\P\156-1
+"endemic David Murray Cowie 29 1987 3541654 10.2105 AJPH .77.2.219"	"is"	"MD American journal of public health 77 2 219"	156	query224_Salt\P\156-2
+1646845 Iodized salt is thus table salt mixed with a minute amount of potassium iodide , sodium iodide , or sodium iodate . 	157	query224_Salt\S\157
+1646845 Iodized salt is thus table salt mixed with a minute amount of potassium iodide , sodium iodide , or sodium iodate . 	157	query224_Salt\S\157
+1646845 Iodized salt is thus table salt mixed with a minute amount of potassium iodide , sodium iodide , or sodium iodate . 	157	query224_Salt\S\157
+1646845 Iodized salt is thus table salt mixed with a minute amount of potassium iodide , sodium iodide , or sodium iodate . 	157	query224_Salt\S\157
+Iodized salt is used to help reduce the incidence of iodine deficiency in humans . 	158	query224_Salt\S\158
+"Iodized salt"	"is used"	"to help reduce the incidence of iodine deficiency in humans"	158	query224_Salt\P\158-0
+Iodine deficiency commonly leads to thyroid gland problems , specifically endemic goiter , a disease characterized by a swelling of the thyroid gland , usually resulting in a bulbous protrusion on the neck . 	159	query224_Salt\S\159
+"Iodine deficiency"	"leads"	"to thyroid gland problems commonly"	159	query224_Salt\P\159-0
+"Iodine deficiency"	"leads"	"to thyroid gland problems"	159	query224_Salt\P\159-1
+"thyroid gland problems"	"is"	"specifically endemic goiter"	159	query224_Salt\P\159-2
+"specifically endemic goiter"	"is"	"a disease characterized by a swelling of the thyroid gland usually resulting in a bulbous protrusion on the neck"	159	query224_Salt\P\159-3
+"a disease"	"be characterized"	"by a swelling of the thyroid gland usually resulting in a bulbous protrusion on the neck"	159	query224_Salt\P\159-4
+"a swelling of the thyroid gland"	"be resulting"	"usually in a bulbous protrusion on the neck"	159	query224_Salt\P\159-5
+"a swelling of the thyroid gland"	"be resulting"	"usually"	159	query224_Salt\P\159-6
+Iodized table salt has significantly reduced disorders of iodine deficiency in countries where it is used . 	160	query224_Salt\S\160
+"Iodized table salt"	"has reduced"	"disorders of iodine deficiency in countries significantly"	160	query224_Salt\P\160-0
+"Iodized table salt"	"has reduced"	"disorders of iodine deficiency in countries"	160	query224_Salt\P\160-1
+"Iodized table salt"	"has reduced"	"disorders of iodine deficiency in countries"	160	query224_Salt\P\160-2
+"Iodized table salt"	"has reduced"	"disorders of iodine deficiency in countries"	160	query224_Salt\P\160-3
+Iodized salt http ://www .saltinstitute 	161	query224_Salt\S\161
+.org/Uses-benefits/Salt-in-Food/Essential-nutrient/Iodized-salt 	162	query224_Salt\S\162
+Salt Institute 5 December 2010 2009 Iodized salt http ://www .saltinstitute 	163	query224_Salt\S\163
+.org/Uses-benefits/Salt-in-Food/Essential-nutrient/Iodized-salt 	164	query224_Salt\S\164
+Salt Institute 5 December 2010 2009 Iodine is important to prevent the insufficient production of thyroid hormone ( hypothyroidism ) , which can cause goitre , cretinism in children , and myxedema in adults . 	165	query224_Salt\S\165
+"Salt Institute 5 December 2010 2009 Iodine"	"is"	"important to prevent the insufficient production of thyroid hormone"	165	query224_Salt\P\165-0
+"thyroid hormone"	"is"	"hypothyroidism"	165	query224_Salt\P\165-1
+"the insufficient production of thyroid hormone"	"can cause"	"goitre in adults"	165	query224_Salt\P\165-2
+"the insufficient production of thyroid hormone"	"can cause"	"cretinism in children in adults"	165	query224_Salt\P\165-3
+"the insufficient production of thyroid hormone"	"can cause"	"myxedema in adults"	165	query224_Salt\P\165-4
+"the insufficient production of thyroid hormone"	"can cause"	"goitre"	165	query224_Salt\P\165-5
+"the insufficient production of thyroid hormone"	"can cause"	"cretinism in children"	165	query224_Salt\P\165-6
+"the insufficient production of thyroid hormone"	"can cause"	"myxedema"	165	query224_Salt\P\165-7
+The amount of iodine and the specific iodine compound added to salt varies from country to country . 	166	query224_Salt\S\166
+"The amount of iodine"	"added"	"to salt"	166	query224_Salt\P\166-0
+"The of iodine the specific iodine compound"	"added"	"to salt"	166	query224_Salt\P\166-1
+In the United States , the Food and Drug Administration recommends [21 CFR 101.9 	167	query224_Salt\S\167
+"In the United States"	"is"	"the Food"	167	query224_Salt\P\167-0
+"In the United States"	"is"	"the Drug Administration"	167	query224_Salt\P\167-1
+"In the United States"	"recommends"	"21 CFR 101.9"	167	query224_Salt\P\167-2
+( c )( 8 )( iv) ] 150 micrograms of iodine per day for both men and women . 	168	query224_Salt\S\168
+"150 micrograms of iodine per day for men"	"is"	"c"	168	query224_Salt\P\168-0
+"150 micrograms of iodine per day for women"	"is"	"c"	168	query224_Salt\P\168-1
+"150 micrograms of iodine per day for men"	"is"	"8"	168	query224_Salt\P\168-2
+"150 micrograms of iodine per day for women"	"is"	"8"	168	query224_Salt\P\168-3
+"150 micrograms of iodine per day for men"	"is"	"iv"	168	query224_Salt\P\168-4
+"150 micrograms of iodine per day for women"	"is"	"iv"	168	query224_Salt\P\168-5
+US iodized salt contains 46–77 ppm ( parts per million ) , whereas in the UK the iodine content of iodized salt is recommended to be 10–22 ppm . 	169	query224_Salt\S\169
+"US iodized salt"	"contains"	"46 77 ppm whereas"	169	query224_Salt\P\169-0
+"ppm whereas"	"is"	"parts per million"	77	query224_Salt\P\169-1
+"the iodine content of iodized salt"	"is recommended"	"to be 10 22 ppm in the UK"	77	query224_Salt\P\169-2
+"the iodine content of iodized salt"	"is recommended"	"to be 10 22 ppm"	77	query224_Salt\P\169-3
+Discussion Paper on the setting of maximum and minimum amounts for vitamins and minerals in foodstuffs http ://ec.europa.eu/food/food/labellingnutrition/supplements/documents/akj_en.pdf 	170	query224_Salt\S\170
+Directorate-General Health &amp; Consumers 5 December 2010 Discussion Paper on the setting of maximum and minimum amounts for vitamins and minerals in foodstuffs http ://ec.europa.eu/food/food/labellingnutrition/supplements/documents/akj_en.pdf 	171	query224_Salt\S\171
+Directorate-General Health &amp; Consumers 5 December 2010 Today , iodized salt is more common in the United States , Australia and New Zealand than in the United Kingdom . 	172	query224_Salt\S\172
+"iodized salt"	"is"	"common more 172 Directorate-General Health & Consumers 5 December 2010 Today"	172	query224_Salt\P\172-0
+"iodized salt"	"is"	"common in the United States 172 Directorate-General Health & Consumers 5 December 2010 Today"	172	query224_Salt\P\172-1
+"iodized salt"	"is"	"common in the United Australia 172 Directorate-General Health & Consumers 5 December 2010 Today"	172	query224_Salt\P\172-2
+"iodized salt"	"is"	"common in the United New Zealand 172 Directorate-General Health & Consumers 5 December 2010 Today"	172	query224_Salt\P\172-3
+"iodized salt"	"is"	"common than in the United Kingdom 172 Directorate-General Health & Consumers 5 December 2010 Today"	172	query224_Salt\P\172-4
+"iodized salt"	"is"	"common 172 Directorate-General Health & Consumers 5 December 2010 Today"	172	query224_Salt\P\172-5
+Especially in countries that have not benefited from fluoridated toothpastes and fluoridated water , fluoride salts are added to table salt . 	173	query224_Salt\S\173
+Especially in countries that have not benefited from fluoridated toothpastes and fluoridated water , fluoride salts are added to table salt . 	173	query224_Salt\S\173
+Especially in countries that have not benefited from fluoridated toothpastes and fluoridated water , fluoride salts are added to table salt . 	173	query224_Salt\S\173
+"fluoride salts"	"are added"	"173 Especially in countries to table salt"	173	query224_Salt\P\173-0
+"fluoride salts"	"are added"	"173 Especially in countries"	173	query224_Salt\P\173-1
+The practice is more common in some European countries , where water fluoridation is not practiced . 	174	query224_Salt\S\174
+"The practice"	"is common"	"more"	174	query224_Salt\P\174-0
+"The practice"	"is common"	"in some European countries"	174	query224_Salt\P\174-1
+"The practice"	"is"	"common"	174	query224_Salt\P\174-2
+"water fluoridation"	"is not practiced"	"some European countries where"	174	query224_Salt\P\174-3
+"water fluoridation"	"is not practiced"	"some European countries"	174	query224_Salt\P\174-4
+In France , 35 % of sold table salt contains sodium fluoride . 	175	query224_Salt\S\175
+"% of sold table salt"	"contains"	"sodium fluoride"	35	query224_Salt\P\175-0
+10.1002/14356007.a24_317.pub4 	176	query224_Salt\S\176
+Gisbert Westphal , Gerhard Kristen , Wilhelm Wegener , Peter Ambatiello , Helmut Geyer , Bernard Epron , Christian Bonal , Georg Steinhauser , Franz Götzfried " Sodium Chloride " in Ullmann 's Encyclopedia of Industrial Chemistry , 2002 , Wiley-VCH , Weinheim 10.1002/14356007.a24_317.pub4 	177	query224_Salt\S\177
+Sodium ferrocyanide , also known as yellow prussiate of soda , is sometimes added to salt as an anticaking agent . 	178	query224_Salt\S\178
+"Sodium ferrocyanide"	"be known"	"also as yellow prussiate of soda"	178	query224_Salt\P\178-0
+"Sodium ferrocyanide"	"be known"	"also"	178	query224_Salt\P\178-1
+"Sodium ferrocyanide also known as yellow prussiate of soda"	"is added"	"to salt sometimes"	178	query224_Salt\P\178-2
+"Sodium ferrocyanide also known as yellow prussiate of soda"	"is added"	"to salt as an anticaking agent"	178	query224_Salt\P\178-3
+"Sodium ferrocyanide also known as yellow prussiate of soda"	"is added"	"to salt"	178	query224_Salt\P\178-4
+The additive is considered safe for human consumption . 	179	query224_Salt\S\179
+"The additive"	"is considered"	"safe for human consumption 179"	179	query224_Salt\P\179-0
+. 	180	query224_Salt\S\180
+( PDF) . 	181	query224_Salt\S\181
+( PDF) . 	181	query224_Salt\S\181
+Retrieved on 2011-07-07 . 	182	query224_Salt\S\182
+Retrieved on 2011-07-07 . 	182	query224_Salt\S\182
+Such anti-caking agents have been added since at least 1911 when magnesium carbonate was first added to salt to make it flow more freely . 	183	query224_Salt\S\183
+"Such anti-caking agents"	"have been added"	"since at least 1911"	183	query224_Salt\P\183-0
+"magnesium carbonate"	"was added"	"to make it flow more freely at least 1911 when"	183	query224_Salt\P\183-1
+"magnesium carbonate"	"was added"	"to make it flow more freely at least 1911 first"	183	query224_Salt\P\183-2
+"magnesium carbonate"	"was added"	"to salt to make it flow more freely at least 1911"	183	query224_Salt\P\183-3
+"magnesium carbonate"	"was added"	"to make it flow more freely at least 1911"	183	query224_Salt\P\183-4
+"magnesium carbonate"	"was added"	"to make it flow more freely at least 1911"	183	query224_Salt\P\183-5
+Morton Salt FAQ http ://www.mortonsalt.com/faqs/index 	184	query224_Salt\S\184
+.html#q3 	185	query224_Salt\S\185
+2007-05-12 Morton Salt FAQ http ://www.mortonsalt.com/faqs/index 	186	query224_Salt\S\186
+.html#q3 	187	query224_Salt\S\187
+2007-05-12 . 	188	query224_Salt\S\188
+The Salt Manufacturers Association The safety of sodium ferrocyanide as a food additive was found to be provisionally acceptable by the Committee on Toxicity in 1988 . 	189	query224_Salt\S\189
+"The Salt Manufacturers Association The safety of sodium ferrocyanide as a food additive"	"was found"	"to be acceptable provisionally 189"	189	query224_Salt\P\189-0
+"The Salt Manufacturers Association The safety of sodium ferrocyanide as a food additive"	"was found"	"to be acceptable by the Committee on Toxicity 189"	189	query224_Salt\P\189-1
+"The Salt Manufacturers Association The safety of sodium ferrocyanide as a food additive"	"was found"	"to be acceptable in 1988 189"	189	query224_Salt\P\189-2
+"The Salt Manufacturers Association The safety of sodium ferrocyanide as a food additive"	"was found"	"to be acceptable 189"	189	query224_Salt\P\189-3
+. 	190	query224_Salt\S\190
+Hansard .millbanksystems.com 	191	query224_Salt\S\191
+( 1993-05-05 ) . 	192	query224_Salt\S\192
+( 1993-05-05 ) . 	192	query224_Salt\S\192
+Retrieved on 2011-07-07 . 	193	query224_Salt\S\193
+Retrieved on 2011-07-07 . 	193	query224_Salt\S\193
+Some other anticaking agents include tricalcium phosphate , calcium or magnesium carbonate , fatty acid salts ( acid salt ) , magnesium oxide , silicon dioxide , calcium silicate , sodium aluminosilicate , and calcium aluminosilicate . 	194	query224_Salt\S\194
+"Some other anticaking agents"	"include"	"tricalcium phosphate"	194	query224_Salt\P\194-0
+"Some other anticaking agents"	"include"	"tricalcium calcium"	194	query224_Salt\P\194-1
+"Some other anticaking agents"	"include"	"tricalcium magnesium carbonate"	194	query224_Salt\P\194-2
+"Some other anticaking agents"	"include"	"tricalcium fatty acid salts"	194	query224_Salt\P\194-3
+"Some other anticaking agents"	"include"	"tricalcium magnesium oxide"	194	query224_Salt\P\194-4
+"Some other anticaking agents"	"include"	"tricalcium silicon dioxide"	194	query224_Salt\P\194-5
+"Some other anticaking agents"	"include"	"tricalcium calcium silicate"	194	query224_Salt\P\194-6
+"Some other anticaking agents"	"include"	"tricalcium sodium aluminosilicate"	194	query224_Salt\P\194-7
+"Some other anticaking agents"	"include"	"tricalcium calcium aluminosilicate"	194	query224_Salt\P\194-8
+"fatty acid salts"	"is"	"acid salt"	194	query224_Salt\P\194-9
+Both the European Union and the United States Food and Drug Administration ( FDA ) permitted the use of aluminum in the latter two compounds . 	195	query224_Salt\S\195
+"the European Union"	"is"	"FDA"	195	query224_Salt\P\195-0
+"the European the United States Food"	"is"	"FDA"	195	query224_Salt\P\195-1
+"the European Drug Administration"	"is"	"FDA"	195	query224_Salt\P\195-2
+"the European Union"	"permitted"	"the use of aluminum in the latter two compounds"	195	query224_Salt\P\195-3
+"the European the United States Food"	"permitted"	"the use of aluminum in the latter two compounds"	195	query224_Salt\P\195-4
+"the European Drug Administration"	"permitted"	"the use of aluminum in the latter two compounds"	195	query224_Salt\P\195-5
+Wilella Daniels Burgess and April C. 	196	query224_Salt\S\196
+Mason , School of Consumer and Family Sciences , Purdue University In "doubly fortified salt" , both iodide and iron salts are added . 	197	query224_Salt\S\197
+"Mason"	"is"	"School of Consumer Sciences"	197	query224_Salt\P\197-0
+"Mason"	"is"	"School of Family Sciences"	197	query224_Salt\P\197-1
+"Mason"	"is"	"iodide"	197	query224_Salt\P\197-2
+"Mason"	"is"	"iron salts"	197	query224_Salt\P\197-3
+"Mason"	"is"	"Purdue University In doubly fortified salt"	197	query224_Salt\P\197-4
+This additive alleviates iron deficiency anemia , which interferes with the mental development of an estimated 40 % of infants in the developing world . 	198	query224_Salt\S\198
+"This additive alleviates iron deficiency anemia"	"interferes"	"with the mental development of an estimated 40 % of infants in the developing world"	198	query224_Salt\P\198-0
+A typical iron source is ferrous fumarate . 	199	query224_Salt\S\199
+"A typical iron source"	"is"	"ferrous fumarate"	199	query224_Salt\P\199-0
+Another additive , especially important for pregnant women , is folic acid (vitamin B 9 ) , which gives the table salt a yellow color . 	200	query224_Salt\S\200
+"Another additive especially important for pregnant women is folic acid"	"is"	"vitamin B 9"	200	query224_Salt\P\200-0
+"Another additive especially important for pregnant women"	"is"	"200 folic acid"	200	query224_Salt\P\200-1
+"folic acid"	"gives"	"the table salt a yellow color"	200	query224_Salt\P\200-2
+Folic acid helps prevent neural tube defect (NTDs ) and anemia , which affect young mothers , especially in developing countries . 	201	query224_Salt\S\201
+"Folic acid"	"helps"	"prevent neural tube defect"	201	query224_Salt\P\201-0
+"Folic acid"	"helps"	"prevent neural tube anemia"	201	query224_Salt\P\201-1
+"neural tube defect"	"is"	"NTDs"	201	query224_Salt\P\201-2
+"neural tube anemia"	"is"	"NTDs"	201	query224_Salt\P\201-3
+"prevent neural tube defect"	"affect"	"young mothers especially in developing countries"	201	query224_Salt\P\201-4
+"prevent neural tube anemia"	"affect"	"young mothers especially in developing countries"	201	query224_Salt\P\201-5
+In Canada , at least one brand ( Windsor Salt ) contains inverted sugar syrup . 	202	query224_Salt\S\202
+"at least one brand"	"is"	"Windsor Salt"	202	query224_Salt\P\202-0
+"at least one brand"	"contains"	"inverted sugar syrup"	202	query224_Salt\P\202-1
+July 2010 In many East Asian cultures , salt is not traditionally used as a condiment . 	203	query224_Salt\S\203
+July 2010 In many East Asian cultures , salt is not traditionally used as a condiment . 	203	query224_Salt\S\203
+July 2010 In many East Asian cultures , salt is not traditionally used as a condiment . 	203	query224_Salt\S\203
+July 2010 In many East Asian cultures , salt is not traditionally used as a condiment . 	203	query224_Salt\S\203
+. 	204	query224_Salt\S\204
+Seattletimes .nwsource 	205	query224_Salt\S\205
+.com 	206	query224_Salt\S\206
+. 	207	query224_Salt\S\207
+Retrieved on 2011-07-07 . 	208	query224_Salt\S\208
+Retrieved on 2011-07-07 . 	208	query224_Salt\S\208
+In its place , condiments such as soy sauce , fish sauce and oyster sauce tend to have a high sodium content and fill a similar role to table salt in western cultures . 	209	query224_Salt\S\209
+In its place , condiments such as soy sauce , fish sauce and oyster sauce tend to have a high sodium content and fill a similar role to table salt in western cultures . 	209	query224_Salt\S\209
+"condiments such as soy sauce"	"tend"	"to have a high sodium content 209 In its place"	209	query224_Salt\P\209-0
+"condiments such as soy sauce"	"tend"	"to fill a high sodium content a similar role to table salt in western cultures 209 In its place"	209	query224_Salt\P\209-1
+"condiments such as soy sauce"	"tend"	"to fill a high sodium content a similar role to table salt 209 In its place"	209	query224_Salt\P\209-2
+"condiments such as soy fish sauce"	"tend"	"to have a high sodium content 209 In its place"	209	query224_Salt\P\209-3
+"condiments such as soy fish sauce"	"tend"	"to fill a high sodium content a similar role to table salt in western cultures 209 In its place"	209	query224_Salt\P\209-4
+"condiments such as soy fish sauce"	"tend"	"to fill a high sodium content a similar role to table salt 209 In its place"	209	query224_Salt\P\209-5
+"condiments such as soy oyster sauce"	"tend"	"to have a high sodium content 209 In its place"	209	query224_Salt\P\209-6
+"condiments such as soy oyster sauce"	"tend"	"to fill a high sodium content a similar role to table salt in western cultures 209 In its place"	209	query224_Salt\P\209-7
+"condiments such as soy oyster sauce"	"tend"	"to fill a high sodium content a similar role to table salt 209 In its place"	209	query224_Salt\P\209-8
+They are most often used for cooking rather than as table condiments . 	210	query224_Salt\S\210
+They are most often used for cooking rather than as table condiments . 	210	query224_Salt\S\210
+They are most often used for cooking rather than as table condiments . 	210	query224_Salt\S\210
+They are most often used for cooking rather than as table condiments . 	210	query224_Salt\S\210
+They are most often used for cooking rather than as table condiments . 	210	query224_Salt\S\210
+thumbScanning electron microscopeSEMimage of a grain of table salt Too much or too little salt in the diet can lead to muscle cramps , dizziness , or electrolyte disturbance , which can cause neurological problems , or death . 	211	query224_Salt\S\211
+"thumbScanning electron microscopeSEMimage of a grain of table salt Too much salt in the diet"	"can lead"	"to muscle cramps"	211	query224_Salt\P\211-0
+"thumbScanning electron microscopeSEMimage of a grain of table salt Too much salt in the diet"	"can lead"	"to muscle dizziness"	211	query224_Salt\P\211-1
+"thumbScanning electron microscopeSEMimage of a grain of table salt Too much salt in the diet"	"can lead"	"to muscle electrolyte disturbance"	211	query224_Salt\P\211-2
+"thumbScanning electron microscopeSEMimage of a grain of table salt Too too little salt in the diet"	"can lead"	"to muscle cramps"	211	query224_Salt\P\211-3
+"thumbScanning electron microscopeSEMimage of a grain of table salt Too too little salt in the diet"	"can lead"	"to muscle dizziness"	211	query224_Salt\P\211-4
+"thumbScanning electron microscopeSEMimage of a grain of table salt Too too little salt in the diet"	"can lead"	"to muscle electrolyte disturbance"	211	query224_Salt\P\211-5
+"muscle cramps"	"can cause"	"neurological problems"	211	query224_Salt\P\211-6
+"muscle cramps"	"can cause"	"neurological death"	211	query224_Salt\P\211-7
+"muscle dizziness"	"can cause"	"neurological problems"	211	query224_Salt\P\211-8
+"muscle dizziness"	"can cause"	"neurological death"	211	query224_Salt\P\211-9
+"muscle electrolyte disturbance"	"can cause"	"neurological problems"	211	query224_Salt\P\211-10
+"muscle electrolyte disturbance"	"can cause"	"neurological death"	211	query224_Salt\P\211-11
+. 	212	query224_Salt\S\212
+Betterhealth .vic.gov.au 	213	query224_Salt\S\213
+. 	214	query224_Salt\S\214
+Retrieved on 2011-07-07 . 	215	query224_Salt\S\215
+Retrieved on 2011-07-07 . 	215	query224_Salt\S\215
+Drinking too much water , with insufficient salt intake , puts a person at risk of water intoxication ( hyponatremia ) . 	216	query224_Salt\S\216
+"Drinking too much water with insufficient salt intake"	"puts"	"a person at risk of water intoxication"	216	query224_Salt\P\216-0
+"water intoxication"	"is"	"hyponatremia"	216	query224_Salt\P\216-1
+Salt is sometimes used as a health aid , such as in treatment of dysautonomia . 	217	query224_Salt\S\217
+"Salt"	"is used"	"as a health aid such as in treatment of dysautonomia sometimes"	217	query224_Salt\P\217-0
+"Salt"	"is used"	"as a health aid such as in treatment of dysautonomia"	217	query224_Salt\P\217-1
+. 	218	query224_Salt\S\218
+Clevelandclinic.org 	219	query224_Salt\S\219
+. 	220	query224_Salt\S\220
+Retrieved on 2011-07-07 . 	221	query224_Salt\S\221
+Retrieved on 2011-07-07 . 	221	query224_Salt\S\221
+Death can occur by ingestion of large amounts of salt in a short time ( about 1 g per kg of body weight ) . 	222	query224_Salt\S\222
+"Death"	"can occur"	"by ingestion of large amounts of salt in a short time about 1 g per kg of body weight"	222	query224_Salt\P\222-0
+"Death"	"can occur"	"by ingestion of large amounts of salt in a short time"	222	query224_Salt\P\222-1
+The Physical and Theoretical Chemistry Laboratory of Oxford University ( 2005-11-18 ) . 	223	query224_Salt\S\223
+Retrieved on 2011-07-07 . 	224	query224_Salt\S\224
+Retrieved on 2011-07-07 . 	224	query224_Salt\S\224
+Deaths have also resulted from attempted use of salt solutions as emetic , forced salt intake , and accidental confusion of salt with sugar in child food . 	225	query224_Salt\S\225
+"Deaths"	"have resulted"	"from attempted use of salt solutions as emetic confusion of salt with sugar in child food also"	225	query224_Salt\P\225-0
+"Deaths"	"have resulted"	"from attempted use of salt solutions as forced salt intake confusion of salt with sugar in child food also"	225	query224_Salt\P\225-1
+"Deaths"	"have resulted"	"from attempted use of salt solutions as accidental confusion of salt with sugar in child food also"	225	query224_Salt\P\225-2
+"Deaths"	"have resulted"	"from attempted use of salt solutions as emetic confusion of salt with sugar in child food"	225	query224_Salt\P\225-3
+"Deaths"	"have resulted"	"from attempted use of salt solutions as forced salt intake confusion of salt with sugar in child food"	225	query224_Salt\P\225-4
+"Deaths"	"have resulted"	"from attempted use of salt solutions as accidental confusion of salt with sugar in child food"	225	query224_Salt\P\225-5
+10.1016/j.legalmed 	226	query224_Salt\S\226
+.2004.06.005 	227	query224_Salt\S\227
+Fatal hypernatremia after using salt as an emetic ?report of three autopsy cases 2005 Turk E Schulz F Koops E Gehl A Tsokos M Legal Medicine 7 47 harv 15556015 1 47–50 10.1016/j.legalmed 	228	query224_Salt\S\228
+Fatal hypernatremia after using salt as an emetic ?report of three autopsy cases 2005 Turk E Schulz F Koops E Gehl A Tsokos M Legal Medicine 7 47 harv 15556015 1 47–50 10.1016/j.legalmed 	228	query224_Salt\S\228
+Fatal hypernatremia after using salt as an emetic ?report of three autopsy cases 2005 Turk E Schulz F Koops E Gehl A Tsokos M Legal Medicine 7 47 harv 15556015 1 47–50 10.1016/j.legalmed 	228	query224_Salt\S\228
+.2004.06.005 	229	query224_Salt\S\229
+Fatal hypernatremia after using salt as an emetic ?report of three autopsy cases 2005 Turk E Schulz F Koops E Gehl A Tsokos M Legal Medicine 7 47 harv 15556015 1 47–50 The effect of salt consumption on long term health outcomes is controversial . 	230	query224_Salt\S\230
+"Tsokos M Legal Medicine 7 47 harv 15556015 1 47 50 The effect of salt consumption on long term health outcomes"	"is"	"2005 Turk E Schulz F Koops E Gehl A controversial"	230	query224_Salt\P\230-0
+Dumler F Dietary sodium intake and arterial blood pressure Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation 2009 Jan 19 1 57–60 19121772 10.1053/j 	231	query224_Salt\S\231
+.jrn.2008.10.006 	232	query224_Salt\S\232
+Dumler F Dietary sodium intake and arterial blood pressure Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation 2009 Jan 19 1 57–60 19121772 10.1053/j 	233	query224_Salt\S\233
+.jrn.2008.10.006 	234	query224_Salt\S\234
+Salt reduction appears to have little or no effect on mortality Taylor RS Ashton , KE , Moxham , T , Hooper , L, Ebrahim , S Reduced Dietary Salt for the Prevention of Cardiovascular Disease : A Meta-Analysis of Randomized Controlled Trials ( Cochrane Review ) American journal of hypertension 2011 Jul 6 21731062 24 8 843–53 10.1038/ajh.2011.115 	235	query224_Salt\S\235
+"Salt reduction"	"appears"	"to have little effect on mortality Taylor RS Ashton"	235	query224_Salt\P\235-0
+"Salt reduction"	"appears"	"to have no effect on mortality Taylor RS Ashton"	235	query224_Salt\P\235-1
+"mortality Taylor RS Ashton"	"is"	"KE A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	235	query224_Salt\P\235-2
+"mortality Taylor RS Ashton"	"is"	"Moxham A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	235	query224_Salt\P\235-3
+"mortality Taylor RS Ashton"	"is"	"T A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	235	query224_Salt\P\235-4
+"mortality Taylor RS Ashton"	"is"	"Hooper A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	235	query224_Salt\P\235-5
+"mortality Taylor RS Ashton"	"is"	"L A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	235	query224_Salt\P\235-6
+"mortality Taylor RS Ashton"	"is"	"Ebrahim A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	235	query224_Salt\P\235-7
+"mortality Taylor RS Ashton"	"is"	"S Reduced Dietary Salt for the Prevention of Cardiovascular Disease A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	235	query224_Salt\P\235-8
+"A Meta-Analysis of Randomized Controlled Trials"	"is"	"Cochrane Review"	235	query224_Salt\P\235-9
+Taylor RS Ashton , KE , Moxham , T , Hooper , L, Ebrahim , S Reduced Dietary Salt for the Prevention of Cardiovascular Disease : A Meta-Analysis of Randomized Controlled Trials ( Cochrane Review ) American journal of hypertension 2011 Jul 6 21731062 24 8 843–53 10.1038/ajh.2011.115 	236	query224_Salt\S\236
+"Taylor RS Ashton"	"is"	"KE A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	236	query224_Salt\P\236-0
+"Taylor RS Ashton"	"is"	"Moxham A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	236	query224_Salt\P\236-1
+"Taylor RS Ashton"	"is"	"T A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	236	query224_Salt\P\236-2
+"Taylor RS Ashton"	"is"	"Hooper A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	236	query224_Salt\P\236-3
+"Taylor RS Ashton"	"is"	"L A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	236	query224_Salt\P\236-4
+"Taylor RS Ashton"	"is"	"Ebrahim A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	236	query224_Salt\P\236-5
+"Taylor RS Ashton"	"is"	"S Reduced Dietary Salt for the Prevention of Cardiovascular Disease A Meta-Analysis of Randomized Controlled Trials American journal of hypertension 2011 Jul 6 21731062 24 8 843 53 10.1038 ajh .2011.115"	236	query224_Salt\P\236-6
+"A Meta-Analysis of Randomized Controlled Trials"	"is"	"Cochrane Review"	236	query224_Salt\P\236-7
+and its effect on morbidity is unknown . 	237	query224_Salt\S\237
+and its effect on morbidity is unknown . 	237	query224_Salt\S\237
+"on morbidity"	"is"	"unknown"	237	query224_Salt\P\237-0
+"its effect on morbidity"	"is"	"unknown"	237	query224_Salt\P\237-1
+Some associations include : The Cochrane Collaboration found that " a modest and long term reduction in population salt intake [ ...] 	238	query224_Salt\S\238
+"The Cochrane Collaboration"	"found"	"that a modest term reduction in population salt intake -LSB-"	238	query224_Salt\P\238-0
+"The Cochrane Collaboration"	"found"	"that a long term reduction in population salt intake -LSB-"	238	query224_Salt\P\238-1
+would result in a lower population blood pressure , and a reduction in strokes , heart attacks and heart failure . 	239	query224_Salt\S\239
+would result in a lower population blood pressure , and a reduction in strokes , heart attacks and heart failure . 	239	query224_Salt\S\239
+would result in a lower population blood pressure , and a reduction in strokes , heart attacks and heart failure . 	239	query224_Salt\S\239
+would result in a lower population blood pressure , and a reduction in strokes , heart attacks and heart failure . 	239	query224_Salt\S\239
+would result in a lower population blood pressure , and a reduction in strokes , heart attacks and heart failure . 	239	query224_Salt\S\239
+would result in a lower population blood pressure , and a reduction in strokes , heart attacks and heart failure . 	239	query224_Salt\S\239
+would result in a lower population blood pressure , and a reduction in strokes , heart attacks and heart failure . 	239	query224_Salt\S\239
+would result in a lower population blood pressure , and a reduction in strokes , heart attacks and heart failure . 	239	query224_Salt\S\239
+Furthermore , our study is consistent with the fact that the lower the salt intake , the lower the blood pressure . 	240	query224_Salt\S\240
+Furthermore , our study is consistent with the fact that the lower the salt intake , the lower the blood pressure . 	240	query224_Salt\S\240
+"our study"	"is consistent"	"240 Furthermore"	240	query224_Salt\P\240-0
+"our study"	"is consistent"	"with the fact that the lower the salt intake"	240	query224_Salt\P\240-1
+"our study"	"is"	"consistent"	240	query224_Salt\P\240-2
+"the lower the salt intake"	"is"	"the lower the blood pressure"	240	query224_Salt\P\240-3
+" http ://www2.cochrane 	241	query224_Salt\S\241
+.org/reviews/en/ab004937.html 	242	query224_Salt\S\242
+Effect of longer-term modest salt reduction on blood pressure He FJ , MacGregor GA 9 May 2005 The Cochrane Collaboration Cochrane Reviews The Cochrane Collaboration 24 May 2010 http ://www2.cochrane 	243	query224_Salt\S\243
+"Effect of longer-term modest salt reduction on blood pressure"	"is"	"MacGregor GA 9 May 2005 The Cochrane Collaboration Cochrane Reviews The Cochrane Collaboration 24 May 2010 http www2.cochrane"	243	query224_Salt\P\243-0
+"Effect of longer-term modest salt reduction on blood pressure"	"is"	"MacGregor GA 9 May 2005 The Cochrane Collaboration Cochrane Reviews The Cochrane Collaboration 24 May 2010 http www2.cochrane"	243	query224_Salt\P\243-1
+.org/reviews/en/ab004937.html 	244	query224_Salt\S\244
+Effect of longer-term modest salt reduction on blood pressure He FJ , MacGregor GA 9 May 2005 The Cochrane Collaboration Cochrane Reviews The Cochrane Collaboration 24 May 2010 Some isolated cultures , such as the Yanomami in South America , have been found to consume little salt and are still capable of regular activity . 	245	query224_Salt\S\245
+"Effect of longer-term modest salt reduction on blood pressure"	"is"	"MacGregor GA 9 May 2005 The Cochrane Collaboration Cochrane Reviews"	245	query224_Salt\P\245-0
+"Effect of longer-term modest salt reduction on blood pressure"	"is"	"MacGregor GA 9 May 2005 The Collaboration Cochrane Reviews are still capable of regular activity"	245	query224_Salt\P\245-1
+"Effect of longer-term modest salt reduction on blood pressure"	"is"	"MacGregor GA 9 May 2005 The Collaboration Cochrane Reviews are still capable of regular activity"	245	query224_Salt\P\245-2
+"The Cochrane Collaboration 24 May 2010 Some isolated cultures such as the Yanomami in South America"	"have been found"	"to consume little salt Reviews"	245	query224_Salt\P\245-3
+This may indicate an adaptation of humans to low levels of sodium that originated in the predominantly vegetarian diet of human primate ancestors . 	246	query224_Salt\S\246
+This may indicate an adaptation of humans to low levels of sodium that originated in the predominantly vegetarian diet of human primate ancestors . 	246	query224_Salt\S\246
+This may indicate an adaptation of humans to low levels of sodium that originated in the predominantly vegetarian diet of human primate ancestors . 	246	query224_Salt\S\246
+http ://www .scielo.br/pdf/abc/v80n3/a05v80n3.pdf 	247	query224_Salt\S\247
+Yanomami Indians in the INTERSALT study Arq Bras Cardiol 80 3 295–300 2003 Jairo de Jesus Mancilha-Carvalho , Nelson Albuquerque de Souza e Silva http ://www .scielo.br/pdf/abc/v80n3/a05v80n3.pdf 	248	query224_Salt\S\248
+Yanomami Indians in the INTERSALT study Arq Bras Cardiol 80 3 295–300 2003 Jairo de Jesus Mancilha-Carvalho , Nelson Albuquerque de Souza e Silva The risk for disease due to insufficient or excessive salt intake varies because of biochemical individuality . 	249	query224_Salt\S\249
+Some have asserted that while the risks of consuming too much salt are real , the risks have been exaggerated for most people , or that the studies done on the consumption of salt can be interpreted in many different ways . 	250	query224_Salt\S\250
+"Some"	"have asserted"	"that while the risks of consuming too much salt are real the risks have been exaggerated for most people"	250	query224_Salt\P\250-0
+"Some"	"have asserted"	"that while the risks of consuming too much salt are real the risks have been for most people that the studies done on the consumption of salt can be interpreted in many different ways"	250	query224_Salt\P\250-1
+"the risks of consuming too much salt"	"are"	"real"	250	query224_Salt\P\250-2
+"the risks"	"have been exaggerated"	"for most people while the risks of consuming too much salt are real"	250	query224_Salt\P\250-3
+"the risks"	"have been exaggerated"	"for most people"	250	query224_Salt\P\250-4
+"the studies"	"be done"	"on the consumption of salt"	250	query224_Salt\P\250-5
+"the studies done on the consumption of salt"	"can be interpreted"	"in many different ways"	250	query224_Salt\P\250-6
+Why Files article 10.1126/science 	251	query224_Salt\S\251
+.281.5379.898 	252	query224_Salt\S\252
+Gary Taubes The ( Political ) Science of Salt Science 1998 281 898–907 5379 9722464 10.1126/science 	253	query224_Salt\S\253
+.281.5379.898 	254	query224_Salt\S\254
+Gary Taubes The ( Political ) Science of Salt Science 1998 281 898–907 5379 9722464 There have also been recent scientific debates upon whether 'excess ' sodium in our diet has any adverse effect at all on healthy individuals and whether the last 50 years of scientific research that strongly correlates salt intake and hypertension might just be a well intentioned misinterpretation of the scientific data . 	255	query224_Salt\S\255
+"Gary Taubes The Political Science of Salt Science 1998 281 898 907 5379 9722464"	"have been"	"There recent scientific debates also"	255	query224_Salt\P\255-0
+"Gary Taubes The Political Science of Salt Science 1998 281 898 907 5379 9722464"	"have been"	"There recent scientific debates upon whether excess sodium in our diet has any adverse effect at all on healthy individuals"	255	query224_Salt\P\255-1
+"Gary Taubes The Political Science of Salt Science 1998 281 898 907 5379 9722464"	"have been"	"There recent scientific debates upon whether excess sodium in our diet any adverse effect at all on healthy individuals whether the last 50 years of scientific research might just be a well intentioned misinterpretation of the scientific data"	255	query224_Salt\P\255-2
+"Gary Taubes The Political Science of Salt Science 1998 281 898 907 5379 9722464"	"have been"	"There recent scientific debates"	255	query224_Salt\P\255-3
+"Gary Taubes The Political Science of Salt Science 1998 281 898 907 5379 9722464"	"have been"	"There recent scientific debates"	255	query224_Salt\P\255-4
+"excess sodium in our diet"	"has"	"any adverse effect at all on healthy individuals"	255	query224_Salt\P\255-5
+"excess sodium in our diet"	"has"	"any adverse effect"	255	query224_Salt\P\255-6
+"the last 50 years of scientific research"	"correlates"	"salt intake strongly"	255	query224_Salt\P\255-7
+"the last 50 years of scientific research"	"correlates"	"salt hypertension strongly"	255	query224_Salt\P\255-8
+"the last 50 years of scientific research"	"correlates"	"salt intake"	255	query224_Salt\P\255-9
+"the last 50 years of scientific research"	"correlates"	"salt hypertension"	255	query224_Salt\P\255-10
+"the last 50 years of scientific research"	"might be a well intentioned misinterpretation"	"just"	255	query224_Salt\P\255-11
+"the last 50 years of scientific research"	"might be a well intentioned misinterpretation"	"of the scientific data"	255	query224_Salt\P\255-12
+"the last 50 years of scientific research"	"might be"	"a well intentioned misinterpretation"	255	query224_Salt\P\255-13
+. 	256	query224_Salt\S\256
+Health-report.co.uk 	257	query224_Salt\S\257
+. 	258	query224_Salt\S\258
+Retrieved on 2011-09-30 . 	259	query224_Salt\S\259
+Retrieved on 2011-09-30 . 	259	query224_Salt\S\259
+. 	260	query224_Salt\S\260
+Consumerfreedom.com 	261	query224_Salt\S\261
+. 	262	query224_Salt\S\262
+Retrieved on 2011-09-30 . 	263	query224_Salt\S\263
+Retrieved on 2011-09-30 . 	263	query224_Salt\S\263
+10.1016/0277-9536(88)90393-0 	264	query224_Salt\S\264
+10.1016/0277-9536(88)90393-0 	265	query224_Salt\S\265
+. 	266	query224_Salt\S\266
+Prnewswire .co.uk 	267	query224_Salt\S\267
+( 2006-11-29 ) . 	268	query224_Salt\S\268
+( 2006-11-29 ) . 	268	query224_Salt\S\268
+Retrieved on 2011-09-30 . 	269	query224_Salt\S\269
+Retrieved on 2011-09-30 . 	269	query224_Salt\S\269
+. 	270	query224_Salt\S\270
+Esquire ( 2008-04-30 ) . 	271	query224_Salt\S\271
+"Esquire"	"is"	"2008-04-30"	271	query224_Salt\P\271-0
+Retrieved on 2011-09-30 . 	272	query224_Salt\S\272
+Retrieved on 2011-09-30 . 	272	query224_Salt\S\272
+Sodium is one of the primary electrolyte in the body . 	273	query224_Salt\S\273
+"Sodium"	"is one"	"of the primary electrolyte in the body"	273	query224_Salt\P\273-0
+"Sodium"	"is"	"one"	273	query224_Salt\P\273-1
+All four cationic electrolytes ( sodium , potassium , magnesium , and calcium ) are available in unrefined salt , as are other vital minerals needed for optimal bodily function . 	274	query224_Salt\S\274
+"All four cationic electrolytes sodium"	"are available"	"in unrefined salt"	274	query224_Salt\P\274-0
+"All four cationic electrolytes potassium"	"are available"	"in unrefined salt"	274	query224_Salt\P\274-1
+"All four cationic electrolytes magnesium"	"are available"	"in unrefined salt"	274	query224_Salt\P\274-2
+"All four cationic electrolytes calcium"	"are available"	"in unrefined salt"	274	query224_Salt\P\274-3
+"All four cationic electrolytes sodium"	"are available"	"as are other vital minerals needed for optimal bodily function"	274	query224_Salt\P\274-4
+"All four cationic electrolytes potassium"	"are available"	"as are other vital minerals needed for optimal bodily function"	274	query224_Salt\P\274-5
+"All four cationic electrolytes magnesium"	"are available"	"as are other vital minerals needed for optimal bodily function"	274	query224_Salt\P\274-6
+"All four cationic electrolytes calcium"	"are available"	"as are other vital minerals needed for optimal bodily function"	274	query224_Salt\P\274-7
+"All four cationic electrolytes sodium"	"are"	"available"	274	query224_Salt\P\274-8
+"All four cationic electrolytes potassium"	"are"	"available"	274	query224_Salt\P\274-9
+"All four cationic electrolytes magnesium"	"are"	"available"	274	query224_Salt\P\274-10
+"All four cationic electrolytes calcium"	"are"	"available"	274	query224_Salt\P\274-11
+"other vital minerals"	"be needed"	"for optimal bodily function"	274	query224_Salt\P\274-12
+Recommended intakes of salt are usually expressed in terms of sodium intake . 	275	query224_Salt\S\275
+"Recommended intakes of salt"	"are expressed"	"in terms of sodium intake usually"	275	query224_Salt\P\275-0
+"Recommended intakes of salt"	"are expressed"	"in terms of sodium intake"	275	query224_Salt\P\275-1
+Salt ( as sodium chloride ) contains 39.3 	276	query224_Salt\S\276
+"Salt as sodium chloride"	"contains"	"39.3"	276	query224_Salt\P\276-0
+% of sodium by weight . 	277	query224_Salt\S\277
+A 2009 meta-analysis found that the sodium consumption of 19,151 individuals from 33 countries fit into the narrow range of 2,700 to 4,900&nbsp;mg/day . 	278	query224_Salt\S\278
+"A 2009 meta-analysis"	"found"	"that the sodium consumption of 19,151 individuals from 33 countries fit into the narrow range of 2,700 to 4,900 mg/day"	278	query224_Salt\P\278-0
+"the sodium consumption of 19,151 individuals from 33 countries"	"fit"	"into the narrow range of 2,700 to 4,900 mg/day"	278	query224_Salt\P\278-1
+The small range across many cultures , together with animal studies , suggest that sodium intake is tightly controlled by feedback loops in the body , making recommendations to reduce sodium consumption below 2,700&nbsp;mg/day potentially futile . 	279	query224_Salt\S\279
+"The small range across many cultures together with animal studies"	"suggest"	"that sodium intake is tightly controlled by feedback loops in the body making recommendations to reduce sodium consumption below 2,700 mg/day potentially futile"	279	query224_Salt\P\279-0
+"sodium intake"	"is controlled"	"making recommendations to reduce sodium consumption below 2,700 mg/day potentially futile tightly"	279	query224_Salt\P\279-1
+"sodium intake"	"is controlled"	"by feedback loops in the body making recommendations to reduce sodium consumption below 2,700 mg/day potentially futile"	279	query224_Salt\P\279-2
+"sodium intake"	"is controlled"	"making recommendations to reduce sodium consumption below 2,700 mg/day potentially futile"	279	query224_Salt\P\279-3
+"sodium intake"	"is controlled"	"making recommendations to reduce sodium consumption below 2,700 mg/day potentially futile"	279	query224_Salt\P\279-4
+10.2215/CJN.04660709 	280	query224_Salt\S\280
+Can Dietary Sodium Intake Be Modified by Public Policy ? 2009 McCarron D. 	281	query224_Salt\S\281
+A. 	282	query224_Salt\S\282
+Geerling J. 	283	query224_Salt\S\283
+C. 	284	query224_Salt\S\284
+Kazaks A. 	285	query224_Salt\S\285
+G. 	286	query224_Salt\S\286
+Stern J. 	287	query224_Salt\S\287
+S. 	288	query224_Salt\S\288
+Clinical Journal of the American Society of Nephrology 4 1878 harv 19833911 11 10.2215/CJN.04660709 	289	query224_Salt\S\289
+Can Dietary Sodium Intake Be Modified by Public Policy ? 2009 McCarron D. 	290	query224_Salt\S\290
+A. 	291	query224_Salt\S\291
+Geerling J. 	292	query224_Salt\S\292
+C. 	293	query224_Salt\S\293
+Kazaks A. 	294	query224_Salt\S\294
+G. 	295	query224_Salt\S\295
+Stern J. 	296	query224_Salt\S\296
+S. 	297	query224_Salt\S\297
+Clinical Journal of the American Society of Nephrology 4 1878 harv 19833911 11 UK: The Food Standards Agency defines the level of salt in foods as follows : " High is more than 1.5 	298	query224_Salt\S\298
+"The Food Standards Agency"	"defines"	"the level of salt in foods as follows"	298	query224_Salt\P\298-0
+"The Food Standards Agency"	"defines"	"the level of salt in foods"	298	query224_Salt\P\298-1
+"The Food Standards Agency"	"defines"	"the level of salt in foods"	298	query224_Salt\P\298-2
+g salt per 100 g ( or 0.6 	299	query224_Salt\S\299
+g sodium ) . 	300	query224_Salt\S\300
+Low is 0.3 	301	query224_Salt\S\301
+"Low"	"is"	"0.3"	301	query224_Salt\P\301-0
+g salt or less per 100 g ( or 0.1 	302	query224_Salt\S\302
+g sodium ) . 	303	query224_Salt\S\303
+If the amount of salt per 100 g is in between these figures , then that is a medium level of salt . 	304	query224_Salt\S\304
+"the amount of salt per 100 g"	"is"	"in between these figures"	304	query224_Salt\P\304-0
+"the amount of salt per 100 g"	"is"	"in between these figures"	304	query224_Salt\P\304-1
+"the amount of salt per 100 g"	"is"	"in between these figures"	304	query224_Salt\P\304-2
+" In the UK, foods produced by some supermarkets and manufacturers have ‘traffic light ’ colors on the front of the pack : Red ( High ) , Amber ( Medium ) , or Green ( Low ) . 	305	query224_Salt\S\305
+" In the UK, foods produced by some supermarkets and manufacturers have ‘traffic light ’ colors on the front of the pack : Red ( High ) , Amber ( Medium ) , or Green ( Low ) . 	305	query224_Salt\S\305
+" In the UK, foods produced by some supermarkets and manufacturers have ‘traffic light ’ colors on the front of the pack : Red ( High ) , Amber ( Medium ) , or Green ( Low ) . 	305	query224_Salt\S\305
+"foods produced by some supermarkets"	"have"	"traffic light colors on the front of the pack Red 305 In the UK"	305	query224_Salt\P\305-0
+"foods produced by some supermarkets"	"have"	"traffic light colors on the front of the pack Green Low 305 In the UK"	305	query224_Salt\P\305-1
+"foods produced by some manufacturers"	"have"	"traffic light colors on the front of the pack Red 305 In the UK"	305	query224_Salt\P\305-2
+"foods produced by some manufacturers"	"have"	"traffic light colors on the front of the pack Green Low 305 In the UK"	305	query224_Salt\P\305-3
+"foods produced by some supermarkets"	"have"	"traffic light colors on the front of the pack Red"	305	query224_Salt\P\305-4
+"foods produced by some supermarkets"	"have"	"traffic light colors on the front of the pack Green Low"	305	query224_Salt\P\305-5
+"foods produced by some manufacturers"	"have"	"traffic light colors on the front of the pack Red"	305	query224_Salt\P\305-6
+"foods produced by some manufacturers"	"have"	"traffic light colors on the front of the pack Green Low"	305	query224_Salt\P\305-7
+"foods produced by some manufacturers"	"have"	"traffic light colors on the front of the pack Green Low"	305	query224_Salt\P\305-8
+"Green Low"	"is"	"Amber"	305	query224_Salt\P\305-9
+"Green Low"	"is"	"Amber"	305	query224_Salt\P\305-10
+"Green Low"	"is"	"High"	305	query224_Salt\P\305-11
+"Green Low"	"is"	"High"	305	query224_Salt\P\305-12
+. 	306	query224_Salt\S\306
+Salt.gov.uk 	307	query224_Salt\S\307
+( 2009-11-06 ) . 	308	query224_Salt\S\308
+( 2009-11-06 ) . 	308	query224_Salt\S\308
+Retrieved on 2011-07-07 . 	309	query224_Salt\S\309
+Retrieved on 2011-07-07 . 	309	query224_Salt\S\309
+USA : The FDA Food Labeling Guide stipulates whether a food can be labeled as "free . 	310	query224_Salt\S\310
+"The FDA Food Labeling Guide"	"stipulates"	"whether a food can be labeled as free"	310	query224_Salt\P\310-0
+"a food"	"can be labeled"	"as free"	310	query224_Salt\P\310-1
+" "low , " or "reduced/less " in respect of sodium . 	311	query224_Salt\S\311
+When other health claims are made about a food ( e .g. 	312	query224_Salt\S\312
+, low in fat , calories , etc. 	313	query224_Salt\S\313
+) , a disclosure statement is required if the food exceeds 480&nbsp;mg of sodium per 'serving . 	314	query224_Salt\S\314
+"a disclosure statement"	"is required"	"if the food exceeds 480 mg of sodium per serving"	314	query224_Salt\P\314-0
+"the food"	"exceeds"	"480 mg of sodium per serving"	314	query224_Salt\P\314-1
+' Food and Drug Administration In 2004 , Britain 's Food Standards Agency started a public health campaign called " Salt – Watch it " , which recommends no more than 6g of salt per day ; it features a character called Sid the Slug and was criticised by the Salt Manufacturers Association ( SMA ) . 	315	query224_Salt\S\315
+' Food and Drug Administration In 2004 , Britain 's Food Standards Agency started a public health campaign called " Salt – Watch it " , which recommends no more than 6g of salt per day ; it features a character called Sid the Slug and was criticised by the Salt Manufacturers Association ( SMA ) . 	315	query224_Salt\S\315
+"Food In 2004"	"Britain 's Food Standards Agency started"	"a public health campaign called Salt"	315	query224_Salt\P\315-0
+"Drug Administration In 2004"	"Britain 's Food Standards Agency started"	"a public health campaign called Salt"	315	query224_Salt\P\315-1
+"Britain 's Food Standards Agency"	"315 Food In 2004 started"	"a public health campaign called Salt"	315	query224_Salt\P\315-2
+"Britain 's Food Standards Agency"	"315 Drug Administration In 2004 started"	"a public health campaign called Salt"	315	query224_Salt\P\315-3
+"Britain 's Food Standards Agency"	"315 Drug Administration In 2004 started"	"a public health campaign called Salt"	315	query224_Salt\P\315-4
+"Britain 's Food Standards Agency"	"315 Drug Administration In 2004 started"	"a public health campaign called Salt"	315	query224_Salt\P\315-5
+"Britain 's Food Standards Agency"	"315 Drug Administration In 2004 started"	"a public health campaign called Salt"	315	query224_Salt\P\315-6
+"Britain 's Food Standards Agency"	"315 Drug Administration In 2004 started"	"a public health campaign called Salt"	315	query224_Salt\P\315-7
+"the Salt Manufacturers Association"	"is"	"SMA"	315	query224_Salt\P\315-8
+Salt Manufacturers Association press release The Advertising Standards Authority did not uphold the SMA complaint in its adjudication . 	316	query224_Salt\S\316
+"The Advertising Standards Authority"	"did not uphold"	"the SMA complaint in its adjudication 316 Salt Manufacturers Association press release"	316	query224_Salt\P\316-0
+"The Advertising Standards Authority"	"did not uphold"	"the SMA complaint in its adjudication 316 Salt Manufacturers Association press release"	316	query224_Salt\P\316-1
+Advertising Standards Authority ( PDF) In March 2007 , the FSA launched the third phase of their campaign with the slogan " Salt . 	317	query224_Salt\S\317
+"Advertising Standards Authority In March 2007"	"is"	"PDF"	317	query224_Salt\P\317-0
+"Advertising Standards Authority In March 2007"	"the FSA launched"	"the third phase of their campaign with the slogan Salt"	317	query224_Salt\P\317-1
+"the FSA"	"317 Advertising Standards Authority In March 2007 launched"	"the third phase of their campaign with the slogan Salt"	317	query224_Salt\P\317-2
+"the FSA"	"317 Advertising Standards Authority In March 2007 launched"	"the third phase of their campaign with the slogan Salt"	317	query224_Salt\P\317-3
+Is your food full of it ? " fronted by comedienne Jenny Eclair . 	318	query224_Salt\S\318
+. 	319	query224_Salt\S\319
+Salt.gov.uk 	320	query224_Salt\S\320
+( 2009-11-06 ) . 	321	query224_Salt\S\321
+( 2009-11-06 ) . 	321	query224_Salt\S\321
+Retrieved on 2011-07-07 . 	322	query224_Salt\S\322
+Retrieved on 2011-07-07 . 	322	query224_Salt\S\322
+The University of Tasmania 's Menzies Research Institute maintains a website http ://www .saltmatters 	323	query224_Salt\S\323
+.org/ 	324	query224_Salt\S\324
+Salt Matters Salt Matters Dr Trevor Beard 26 March 2009 University of Tasmania 17 May 2010 http ://www .saltmatters 	325	query224_Salt\S\325
+.org/ 	326	query224_Salt\S\326
+Salt Matters Salt Matters Dr Trevor Beard 26 March 2009 University of Tasmania 17 May 2010 to educate people about the problems of a salt-laden diet . 	327	query224_Salt\S\327
+"Salt Matters Salt Matters Dr Trevor Beard 26 March 2009 University of Tasmania 17 May 2010"	"be educate"	"people about the problems of a salt-laden diet"	327	query224_Salt\P\327-0
+Consensus Action on Salt and Health ( CASH) CASH Consensus Action on Salt http ://www .hyp.ac.uk/cash/ 	328	query224_Salt\S\328
+CASH Consensus Action on Salt http ://www .hyp.ac.uk/cash/ 	329	query224_Salt\S\329
+established in 1996 , actively campaigns to raise awareness of the harmful health effects of salt . 	330	query224_Salt\S\330
+established in 1996 , actively campaigns to raise awareness of the harmful health effects of salt . 	330	query224_Salt\S\330
+"established in 1996"	"is"	"actively campaigns to raise awareness of the harmful health effects of salt"	330	query224_Salt\P\330-0
+"actively campaigns"	"be raise"	"awareness of the harmful health effects of salt"	330	query224_Salt\P\330-1
+The 2008 focus includes raising awareness of high levels of salt hidden in sweet foods and marketed towards children . 	331	query224_Salt\S\331
+The 2008 focus includes raising awareness of high levels of salt hidden in sweet foods and marketed towards children . 	331	query224_Salt\S\331
+Child health fears over high salt levels in sweet foods http ://www.guardian.co.uk/society/2008/jan/28/foodanddrink 	332	query224_Salt\S\332
+.healthandwellbeing 	333	query224_Salt\S\333
+28 January 2008 The Guardian London Rebecca Smithers 23 May 2010 Child health fears over high salt levels in sweet foods http ://www.guardian.co.uk/society/2008/jan/28/foodanddrink 	334	query224_Salt\S\334
+"The Guardian London Rebecca Smithers"	"23 May 2010 Child health fears"	"over high salt levels in sweet foods January 2008"	334	query224_Salt\P\334-0
+"The Guardian London Rebecca Smithers"	"23 May 2010 Child health fears"	"January 2008"	334	query224_Salt\P\334-1
+.healthandwellbeing 	335	query224_Salt\S\335
+28 January 2008 The Guardian London Rebecca Smithers 23 May 2010 In January 2010 , New York City launched the National Salt Reduction Initiative , modeled after an initiative in the United Kingdom . 	336	query224_Salt\S\336
+28 January 2008 The Guardian London Rebecca Smithers 23 May 2010 In January 2010 , New York City launched the National Salt Reduction Initiative , modeled after an initiative in the United Kingdom . 	336	query224_Salt\S\336
+"New York City"	"336 launched"	"the National Salt Reduction Initiative modeled after an initiative in the United Kingdom"	336	query224_Salt\P\336-0
+"the National Salt Reduction Initiative"	"be modeled"	"after an initiative in the United Kingdom"	336	query224_Salt\P\336-1
+The campaign calls on food makers to voluntarily reduce the amount of sodium in their foods , from 20 percent in peanut butter to a 40 percent reduction in canned vegetables , with an overall goal of reducing sodium in packaged and restaurant foods by 25 percent by 2015 . 	337	query224_Salt\S\337
+"The campaign"	"calls"	"on food makers to reduce the amount of sodium voluntarily"	337	query224_Salt\P\337-0
+"The campaign"	"calls"	"on food makers to reduce the amount of sodium in their foods"	337	query224_Salt\P\337-1
+"The campaign"	"calls"	"on food makers to reduce the amount of sodium"	337	query224_Salt\P\337-2
+"The campaign"	"calls"	"to reduce the amount of sodium voluntarily from 20 percent in peanut butter to a 40 percent reduction in canned vegetables"	337	query224_Salt\P\337-3
+"The campaign"	"calls"	"to reduce the amount of sodium in their foods from 20 percent in peanut butter to a 40 percent reduction in canned vegetables"	337	query224_Salt\P\337-4
+"The campaign"	"calls"	"to reduce the amount of sodium from 20 percent in peanut butter to a 40 percent reduction in canned vegetables"	337	query224_Salt\P\337-5
+"The campaign"	"calls"	"to reduce the amount of sodium voluntarily with an overall goal of reducing sodium in packaged foods by 25 percent by 2015"	337	query224_Salt\P\337-6
+"The campaign"	"calls"	"to reduce the amount of sodium voluntarily with an overall goal of reducing sodium in restaurant foods by 25 percent by 2015"	337	query224_Salt\P\337-7
+"The campaign"	"calls"	"to reduce the amount of sodium in their foods with an overall goal of reducing sodium in packaged foods by 25 percent by 2015"	337	query224_Salt\P\337-8
+"The campaign"	"calls"	"to reduce the amount of sodium in their foods with an overall goal of reducing sodium in restaurant foods by 25 percent by 2015"	337	query224_Salt\P\337-9
+"The campaign"	"calls"	"to reduce the amount of sodium with an overall goal of reducing sodium in packaged foods by 25 percent by 2015"	337	query224_Salt\P\337-10
+"The campaign"	"calls"	"to reduce the amount of sodium with an overall goal of reducing sodium in restaurant foods by 25 percent by 2015"	337	query224_Salt\P\337-11
+"The campaign"	"calls"	"to reduce the amount of sodium voluntarily"	337	query224_Salt\P\337-12
+"The campaign"	"calls"	"to reduce the amount of sodium in their foods"	337	query224_Salt\P\337-13
+"The campaign"	"calls"	"to reduce the amount of sodium"	337	query224_Salt\P\337-14
+"The campaign"	"calls"	"to reduce the amount of sodium"	337	query224_Salt\P\337-15
+Caruso , David B. 	338	query224_Salt\S\338
+"Caruso"	"is"	"David B."	338	query224_Salt\P\338-0
+Associated Press , January 11 , 2010 . 	339	query224_Salt\S\339
+"Associated Press"	"is"	"January 11 2010"	339	query224_Salt\P\339-0
+A number of major food producers have pledged to reduce the sodium content of their food . 	340	query224_Salt\S\340
+"A number of major food producers"	"have pledged"	"to reduce the sodium content of their food"	340	query224_Salt\P\340-0
+"A number of major food producers"	"have pledged"	"to reduce the sodium content of their food"	340	query224_Salt\P\340-1
+Pepsi is developing a “designer salt ” that ’s slightly more powdery than the salt it regularly uses . 	341	query224_Salt\S\341
+"Pepsi"	"is developing"	"a designer salt"	341	query224_Salt\P\341-0
+"a designer salt"	"'s powdery"	"slightly more"	341	query224_Salt\P\341-1
+"a designer salt"	"'s powdery"	"than the salt"	341	query224_Salt\P\341-2
+"a designer salt"	"'s"	"powdery"	341	query224_Salt\P\341-3
+"a designer salt"	"'s"	"powdery"	341	query224_Salt\P\341-4
+"a designer salt"	"'s"	"powdery"	341	query224_Salt\P\341-5
+The company hopes this new form of salt will cut sodium levels by 25 percent in its Lay’s potato chips . 	342	query224_Salt\S\342
+"The company"	"hopes"	"this new form of salt will cut sodium levels by 25 percent in its Lay 's potato chips"	342	query224_Salt\P\342-0
+"this new form of salt"	"will cut"	"sodium levels by 25 percent"	342	query224_Salt\P\342-1
+"this new form of salt"	"will cut"	"sodium levels in its Lay 's potato chips"	342	query224_Salt\P\342-2
+"this new form of salt"	"will cut"	"sodium levels"	342	query224_Salt\P\342-3
+"this new form of salt"	"will cut"	"sodium levels"	342	query224_Salt\P\342-4
+"its Lay"	"has"	"potato chips"	342	query224_Salt\P\342-5
+McKay , Betsy . 	343	query224_Salt\S\343
+"McKay"	"is"	"Betsy"	343	query224_Salt\P\343-0
+The Wall Street Journal , March 22 , 2010 Nestlé 's prepared foods company , which produces frozen meals , announced that it will reduce sodium in its foods by 10 % by 2015 . 	344	query224_Salt\S\344
+"The Wall Street Journal"	"is"	"March 22"	344	query224_Salt\P\344-0
+"March 22"	"is"	"2010 Nestlé 's prepared foods company"	344	query224_Salt\P\344-1
+"Nestlé"	"has"	"prepared foods company"	2010	query224_Salt\P\344-2
+"March 22"	"produces"	"frozen meals"	2010	query224_Salt\P\344-3
+"The Wall Street Journal"	"announced"	"that it will reduce sodium in its foods by 10 % by 2015"	344	query224_Salt\P\344-4
+"The Wall Street Journal"	"announced"	"that it will reduce sodium in its foods by 10 % by 2015"	344	query224_Salt\P\344-5
+"The Wall Street Journal"	"announced"	"that it will reduce sodium in its foods by 10 % by 2015"	344	query224_Salt\P\344-6
+"The Wall Street Journal"	"announced"	"that it will reduce sodium in its foods by 10 % by 2015"	344	query224_Salt\P\344-7
+"The Wall Street Journal"	"announced"	"that it will reduce sodium in its foods by 10 % by 2015"	344	query224_Salt\P\344-8
+"The Wall Street Journal"	"announced"	"that it will reduce sodium in its foods by 10 % by 2015"	344	query224_Salt\P\344-9
+, Prnewswire General Mills announced that it will reduce the sodium content of 40 percent of its foods by about 20 percent by 2015 . 	345	query224_Salt\S\345
+"Prnewswire General Mills"	"announced"	"that it will reduce the sodium content of 40 percent of its foods by about 20 percent by 2015"	345	query224_Salt\P\345-0
+"Prnewswire General Mills"	"announced"	"that it will reduce the sodium content of 40 percent of its foods by about 20 percent by 2015"	345	query224_Salt\P\345-1
+"Prnewswire General Mills"	"announced"	"that it will reduce the sodium content of 40 percent of its foods by about 20 percent by 2015"	345	query224_Salt\P\345-2
+"Prnewswire General Mills"	"announced"	"that it will reduce the sodium content of 40 percent of its foods by about 20 percent by 2015"	345	query224_Salt\P\345-3
+"Prnewswire General Mills"	"announced"	"that it will reduce the sodium content of 40 percent of its foods by about 20 percent by 2015"	345	query224_Salt\P\345-4
+Scott-Thomas , Caroline , Food Navigator , April 14 , 2010 . 	346	query224_Salt\S\346
+"Scott-Thomas"	"is"	"April 14 2010"	346	query224_Salt\P\346-0
+"Caroline"	"is"	"April 14 2010"	346	query224_Salt\P\346-1
+"Food Navigator"	"is"	"April 14 2010"	346	query224_Salt\P\346-2
+Taxation of sodium has been proposed as a method of decreasing sodium intake and thereby improving health in countries like the United States where typical salt consumption is high . 	347	query224_Salt\S\347
+"Taxation of sodium"	"has been proposed"	"as a method of decreasing sodium intake"	347	query224_Salt\P\347-0
+"Taxation of sodium"	"has been improving"	"health as a method of decreasing sodium intake"	347	query224_Salt\P\347-1
+"Taxation of sodium"	"has been improving"	"health thereby"	347	query224_Salt\P\347-2
+"Taxation of sodium"	"has been improving"	"health in countries like the United States"	347	query224_Salt\P\347-3
+"Taxation of sodium"	"has been improving"	"health"	347	query224_Salt\P\347-4
+"typical salt consumption"	"is"	"high the United States where"	347	query224_Salt\P\347-5
+"typical salt consumption"	"is"	"high the United States"	347	query224_Salt\P\347-6
+http ://www.bmj.com/cgi/content/extract/329/7471/918-c 	348	query224_Salt\S\348
+Letter : Salt tax could reduce population 's salt intake 2010-04-01 http ://www.bmj.com/cgi/content/extract/329/7471/918-c 	349	query224_Salt\S\349
+"Salt tax"	"could reduce"	"population 's salt intake 2010-04-01 http www.bmj.com/cgi/content/extract/329/7471/918-c"	349	query224_Salt\P\349-0
+"Salt tax"	"could reduce"	"population 's salt intake 2010-04-01 http www.bmj.com/cgi/content/extract/329/7471/918-c"	349	query224_Salt\P\349-1
+Letter : Salt tax could reduce population 's salt intake 2010-04-01 http ://www.incirculation 	350	query224_Salt\S\350
+"Salt tax"	"could reduce"	"population 's salt intake 2010-04-01 http www.incirculation"	350	query224_Salt\P\350-0
+"Salt tax"	"could reduce"	"population 's salt intake 2010-04-01 http www.incirculation"	350	query224_Salt\P\350-1
+.net/hypertension/NewsItem/Salt-tax-could-massively-reduce-US-mortality-rates 	351	query224_Salt\S\351
+.aspx 	352	query224_Salt\S\352
+?usechannel= Salt tax could massively reduce US mortality rates , healthcare costs 11 March 2010 http ://www.incirculation 	353	query224_Salt\S\353
+"usechannel = Salt tax"	"could reduce"	"US mortality rates www.incirculation massively"	353	query224_Salt\P\353-0
+"usechannel = Salt tax"	"could reduce"	"US mortality rates www.incirculation"	353	query224_Salt\P\353-1
+.net/hypertension/NewsItem/Salt-tax-could-massively-reduce-US-mortality-rates 	354	query224_Salt\S\354
+.aspx 	355	query224_Salt\S\355
+?usechannel= Salt tax could massively reduce US mortality rates , healthcare costs 11 March 2010 The Salt Institute , a salt industry body , is active in promoting the use of salt , http ://www .saltinstitute 	356	query224_Salt\S\356
+.org/About-Us 	357	query224_Salt\S\357
+About the Salt Institute 2009 Salt Institute 5 December 2010 http ://www .saltinstitute 	358	query224_Salt\S\358
+.org/About-Us 	359	query224_Salt\S\359
+About the Salt Institute 2009 Salt Institute 5 December 2010 and questioning or opposing restrictions on salt intake . 	360	query224_Salt\S\360
+http ://www .saltinstitute 	361	query224_Salt\S\361
+.org/Issues-in-focus/Food-salt-health 	362	query224_Salt\S\362
+Food salt &amp; health 2009 Salt Institute 5 December 2010 http ://www .saltinstitute 	363	query224_Salt\S\363
+.org/Issues-in-focus/Food-salt-health 	364	query224_Salt\S\364
+Food salt &amp; health 2009 Salt Institute 5 December 2010 A low sodium diet reduces intake of sodium by selection of food and potentially by use of salt substitute . 	365	query224_Salt\S\365
+"Food salt & health 2009 Salt Institute 5 December 2010 A low sodium diet"	"reduces"	"intake of sodium by selection of food"	365	query224_Salt\P\365-0
+"Food salt & health 2009 Salt Institute 5 December 2010 A low sodium diet"	"reduces"	"intake of sodium"	365	query224_Salt\P\365-1
+"Food salt & health 2009 Salt Institute 5 December 2010 A low sodium diet"	"by"	"intake of sodium by selection of food"	365	query224_Salt\P\365-2
+"Food salt & health 2009 Salt Institute 5 December 2010 A low sodium diet"	"by"	"intake of sodium potentially"	365	query224_Salt\P\365-3
+"Food salt & health 2009 Salt Institute 5 December 2010 A low sodium diet"	"by"	"intake of sodium use of salt substitute"	365	query224_Salt\P\365-4
+"Food salt & health 2009 Salt Institute 5 December 2010 A low sodium diet"	"by"	"intake of sodium"	365	query224_Salt\P\365-5
+Sea salt has the same sodium content as table salt . 	366	query224_Salt\S\366
+"Sea salt"	"has"	"the same sodium content as table salt"	366	query224_Salt\P\366-0
+. 	367	query224_Salt\S\367
+Dr. 	368	query224_Salt\S\368
+Cutler ( 2011-04-27 ) . 	369	query224_Salt\S\369
+"Cutler"	"is"	"2011-04-27"	369	query224_Salt\P\369-0
+Retrieved on 2011-05-05 . 	370	query224_Salt\S\370
+Retrieved on 2011-05-05 . 	370	query224_Salt\S\370
+List of countries by salt production thumbGlobal salt output in 2005 Salt is produced by evaporation of seawater or brine from other sources , such as brine well and salt lake , and by mining rock salt , called halite . 	371	query224_Salt\S\371
+"List of countries by salt production thumbGlobal salt output in 2005 Salt"	"is produced"	"by evaporation of seawater from other sources such as brine well"	371	query224_Salt\P\371-0
+"List of countries by salt production thumbGlobal salt output in 2005 Salt"	"is produced"	"by evaporation of brine from other sources such as brine well and salt lake and by mining rock salt called halite"	371	query224_Salt\P\371-1
+"List of countries by salt production thumbGlobal salt output in 2005 Salt"	"is produced"	"by evaporation of seawater from other sources such as well salt lake and by mining rock salt called halite"	371	query224_Salt\P\371-2
+"List of countries by salt production thumbGlobal salt output in 2005 Salt"	"is produced"	"evaporation of seawater from other sources such as brine well by mining rock salt called halite"	371	query224_Salt\P\371-3
+In 2002 , total world production ( of sodium chloride in general , not just table salt ) was estimated at 210 million tonne , the top five producers being the United States ( 40.3 	372	query224_Salt\S\372
+"In 2002"	"is"	"total world production of sodium chloride in general not just table salt"	372	query224_Salt\P\372-0
+"In 2002"	"was estimated"	"at 210 million tonne the top five producers being the United States 40.3"	372	query224_Salt\P\372-1
+"In 2002"	"was estimated"	"the top five producers being the United States 40.3"	372	query224_Salt\P\372-2
+"the top five producers"	"being"	"the United States 40.3"	372	query224_Salt\P\372-3
+million tonnes ) , China ( 32.9 	373	query224_Salt\S\373
+) , Germany ( 17.7 	374	query224_Salt\S\374
+) , Germany ( 17.7 	374	query224_Salt\S\374
+) , India ( 14.5 	375	query224_Salt\S\375
+) , and Canada ( 12.3 	376	query224_Salt\S\376
+) . 	377	query224_Salt\S\377
+10.1002/0471238961.1915040902051820.a01.pub2 	378	query224_Salt\S\378
+Sodium Chloride in Kirk-Othmer Encyclopedia of Chemical Technology 2005 Feldman Susan R. 	379	query224_Salt\S\379
+John Wiley &amp; Sons 10.1002/0471238961.1915040902051820.a01.pub2 	380	query224_Salt\S\380
+Sodium Chloride in Kirk-Othmer Encyclopedia of Chemical Technology 2005 Feldman Susan R. 	381	query224_Salt\S\381
+John Wiley &amp; Sons Sodium chloride Apart from its use in table salt in the diet , sodium chloride is a major industrial chemical . 	382	query224_Salt\S\382
+"John Wiley & Sons Sodium chloride"	"Apart"	"from its use in table salt in the diet"	382	query224_Salt\P\382-0
+"John Wiley & Sons Sodium chloride"	"Apart"	"from its use in table salt in the diet"	382	query224_Salt\P\382-1
+"sodium chloride"	"is a major industrial chemical"	"382 John Wiley & Sons Sodium chloride Apart from its use in table salt in the diet"	382	query224_Salt\P\382-2
+"sodium chloride"	"is"	"a major industrial chemical"	382	query224_Salt\P\382-3
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+It occurs widely , being the main saline component of the ocean , and plays a role in formation of clouds . 	383	query224_Salt\S\383
+thumbThe Dead Seais said to be the site ofSodom and Gomorrah . 	384	query224_Salt\S\384
+"thumbThe Dead Seais"	"said"	"to be the site ofSodom"	384	query224_Salt\P\384-0
+"thumbThe Dead Seais"	"said"	"to be the site Gomorrah"	384	query224_Salt\P\384-1
+The salt concentration in it is so high that it allows the body to float easily with no effort at all In the Hebrew Bible , thirty-five verses mention salt , Strong 's Concordance one of which being the story of Lot 's wife , who , according to the legend , was turned into a pillar of salt when she looked back at the cities of Sodom and Gomorrah ( Genesis 19:26 ) as they were destroyed . 	385	query224_Salt\S\385
+"The salt concentration in it"	"is high"	"that it allows the body to float easily with no effort at all In the Hebrew Bible thirty-five verses mention salt Strong 's Concordance one of which being the story of Lot 's wife Genesis 19:26 as they were destroyed"	385	query224_Salt\P\385-0
+"The salt concentration in it"	"is high"	"that it allows the body to float easily with no effort at all In the Hebrew Bible thirty-five verses mention salt Strong 's Concordance one of which being the story of Lot 's wife Genesis 19:26 as they were destroyed"	385	query224_Salt\P\385-1
+"The salt concentration in it"	"is high"	"that it allows the body to float easily with no effort at all In the Hebrew Bible thirty-five verses mention salt Strong 's Concordance one of which being the story of Lot 's wife Genesis 19:26 as they were destroyed"	385	query224_Salt\P\385-2
+"thirty-five verses"	"mention"	"salt Strong 's Concordance one of which being the story of Lot 's wife Genesis 19:26 as they were destroyed"	385	query224_Salt\P\385-3
+"Strong 's Concordance one of which"	"being the story Genesis 19:26"	"of Lot 's wife"	385	query224_Salt\P\385-4
+"Strong 's Concordance one of which"	"being the story Genesis 19:26"	"as they were destroyed"	385	query224_Salt\P\385-5
+"Strong 's Concordance one of which"	"being"	"the story Genesis 19:26"	385	query224_Salt\P\385-6
+"Strong 's Concordance one of which"	"being"	"the story Genesis 19:26"	385	query224_Salt\P\385-7
+"Lot 's wife"	"was turned"	"into a pillar of salt according to the legend"	385	query224_Salt\P\385-8
+"Lot 's wife"	"was turned"	"into a pillar of salt when she looked back at the cities of Sodom"	385	query224_Salt\P\385-9
+"Lot 's wife"	"was turned"	"into a pillar of salt when she looked back at the cities of Gomorrah"	385	query224_Salt\P\385-10
+"Lot 's wife"	"was turned"	"into a pillar of salt"	385	query224_Salt\P\385-11
+"Lot 's wife"	"was turned"	"into a pillar of salt"	385	query224_Salt\P\385-12
+"Lot 's wife"	"was turned"	"into a pillar of salt"	385	query224_Salt\P\385-13
+"Lot 's wife"	"was turned"	"into a pillar of salt"	385	query224_Salt\P\385-14
+"Lot 's wife"	"was turned"	"into a pillar of salt"	385	query224_Salt\P\385-15
+When King Abimelech destroyed the city of Shechem , he is said to have " sown salt on it , " probably as a curse on anyone who would re-inhabit it . 	386	query224_Salt\S\386
+"King Abimelech"	"destroyed"	"the city of Shechem 386 When"	386	query224_Salt\P\386-0
+"King Abimelech"	"destroyed"	"the city of Shechem 386"	386	query224_Salt\P\386-1
+"King Abimelech"	"destroyed"	"the city of Shechem 386"	386	query224_Salt\P\386-2
+"King Abimelech"	"destroyed"	"the city of Shechem 386"	386	query224_Salt\P\386-3
+"King Abimelech"	"destroyed"	"the city of Shechem 386"	386	query224_Salt\P\386-4
+"King Abimelech"	"destroyed"	"the city of Shechem 386"	386	query224_Salt\P\386-5
+"King Abimelech"	"destroyed"	"the city of Shechem 386"	386	query224_Salt\P\386-6
+( Judges 9:45 ) The Book of Job contains the first mention of salt as a condiment . 	387	query224_Salt\S\387
+"The Book of Job"	"is"	"Judges 9:45"	387	query224_Salt\P\387-0
+"The Book of Job"	"contains"	"the first mention of salt as a condiment"	387	query224_Salt\P\387-1
+"The Book of Job"	"contains"	"the first mention of salt"	387	query224_Salt\P\387-2
+" Can that which is unsavory be eaten without salt ? or is there any taste in the white of an egg ? " ( Job 6:6) In the Christian New Testament , six verses mention salt . 	388	query224_Salt\S\388
+"six verses"	"mention"	"salt Job 6:6 In the Christian New Testament"	388	query224_Salt\P\388-0
+In the Sermon on the Mount , Jesus referred to his followers as the " salt of the earth " . 	389	query224_Salt\S\389
+In the Sermon on the Mount , Jesus referred to his followers as the " salt of the earth " . 	389	query224_Salt\S\389
+In the Sermon on the Mount , Jesus referred to his followers as the " salt of the earth " . 	389	query224_Salt\S\389
+In the Sermon on the Mount , Jesus referred to his followers as the " salt of the earth " . 	389	query224_Salt\S\389
+In the Sermon on the Mount , Jesus referred to his followers as the " salt of the earth " . 	389	query224_Salt\S\389
+The apostle Paul also encouraged Christians to "let your conversation be always full of grace , seasoned with salt " ( Colossians 4:6) . 	390	query224_Salt\S\390
+"The apostle Paul"	"encouraged"	"Christians to let your conversation be always full of grace seasoned with salt 390 also"	390	query224_Salt\P\390-0
+"The apostle Paul"	"encouraged"	"Christians to let your conversation be always full of grace seasoned with salt 390"	390	query224_Salt\P\390-1
+"The apostle Paul"	"encouraged"	"Christians to let your conversation be always full of grace seasoned with salt 390"	390	query224_Salt\P\390-2
+"your conversation"	"be full"	"always"	390	query224_Salt\P\390-3
+"your conversation"	"be full"	"of grace seasoned with salt"	390	query224_Salt\P\390-4
+"your conversation"	"be"	"full"	390	query224_Salt\P\390-5
+"grace seasoned with salt"	"is"	"Colossians 4:6"	390	query224_Salt\P\390-6
+In one of the Hadith recorded in Sunan Ibn Majah , Prophet Muhammad is reported to have said that : " Salt is the master of your food . 	391	query224_Salt\S\391
+"the Hadith"	"be recorded"	"in Sunan Ibn Majah"	391	query224_Salt\P\391-0
+"Sunan Ibn Majah"	"is"	"Prophet Muhammad"	391	query224_Salt\P\391-1
+"In one of the Hadith recorded in Sunan Ibn Majah"	"is reported"	"to have said that Salt is the master of your food"	391	query224_Salt\P\391-2
+"In one of the Hadith recorded in Sunan Ibn Majah"	"is reported"	"to have said that Salt is the master of your food"	391	query224_Salt\P\391-3
+"In one of the Hadith recorded in Sunan Ibn Majah"	"is reported"	"to have said that Salt is the master of your food"	391	query224_Salt\P\391-4
+"In one of the Hadith recorded in Sunan Ibn Majah"	"is reported"	"to have said that Salt is the master of your food"	391	query224_Salt\P\391-5
+God sent down four blessings from the sky – fire , water , iron and salt " Salt is mandatory in the rite of the Tridentine Mass . 	392	query224_Salt\S\392
+"God"	"sent down"	"four blessings from the sky fire Salt"	392	query224_Salt\P\392-0
+"God"	"sent down"	"four blessings from the sky water Salt"	392	query224_Salt\P\392-1
+"God"	"sent down"	"four blessings from the sky iron Salt"	392	query224_Salt\P\392-2
+"God"	"sent down"	"four blessings from the sky salt Salt"	392	query224_Salt\P\392-3
+"God sent down four blessings from the sky fire Salt"	"is mandatory"	"in the rite of the Tridentine Mass"	392	query224_Salt\P\392-4
+"God sent down four blessings from the sky water Salt"	"is mandatory"	"in the rite of the Tridentine Mass"	392	query224_Salt\P\392-5
+"God sent down four blessings from the sky iron Salt"	"is mandatory"	"in the rite of the Tridentine Mass"	392	query224_Salt\P\392-6
+"God sent down four blessings from the sky salt Salt"	"is mandatory"	"in the rite of the Tridentine Mass"	392	query224_Salt\P\392-7
+"God sent down four blessings from the sky fire Salt"	"is"	"mandatory"	392	query224_Salt\P\392-8
+"God sent down four blessings from the sky water Salt"	"is"	"mandatory"	392	query224_Salt\P\392-9
+"God sent down four blessings from the sky iron Salt"	"is"	"mandatory"	392	query224_Salt\P\392-10
+"God sent down four blessings from the sky salt Salt"	"is"	"mandatory"	392	query224_Salt\P\392-11
+Salt Salt Salt is used in the third item ( which includes an Exorcism ) of the Celtic Consecration ( cf . 	393	query224_Salt\S\393
+"Salt Salt Salt"	"is used"	"in the third item which includes an Exorcism of the Celtic Consecration cf"	393	query224_Salt\P\393-0
+"Salt Salt Salt"	"is used"	"in the third item which includes an Exorcism of the Celtic Consecration cf"	393	query224_Salt\P\393-1
+Gallican Rite ) that is employed in the consecration of a church . 	394	query224_Salt\S\394
+"Gallican Rite"	"is employed"	"in the consecration of a church"	394	query224_Salt\P\394-0
+Salt may be added to the water "where it is customary " in the Roman Catholic rite of Holy water . 	395	query224_Salt\S\395
+"Salt"	"may be added"	"to the water"	395	query224_Salt\P\395-0
+"Salt"	"may be added"	"to the water"	395	query224_Salt\P\395-1
+"Salt"	"may be added"	"to the water"	395	query224_Salt\P\395-2
+"Salt"	"may be added"	"to the water"	395	query224_Salt\P\395-3
+Salt is considered to be a very auspicious substance in Hinduism , and is used in particular religious ceremonies like housewarmings and weddings . 	396	query224_Salt\S\396
+"Salt"	"is considered"	"to be a very auspicious substance in Hinduism"	396	query224_Salt\P\396-0
+"Salt"	"is considered"	"to be a very auspicious substance"	396	query224_Salt\P\396-1
+"Salt"	"is is used"	"to be a very auspicious substance in Hinduism in particular religious ceremonies like housewarmings"	396	query224_Salt\P\396-2
+"Salt"	"is is used"	"to be a very auspicious substance in Hinduism in particular religious ceremonies like weddings"	396	query224_Salt\P\396-3
+"Salt"	"is is used"	"to be a very auspicious substance in particular religious ceremonies like housewarmings"	396	query224_Salt\P\396-4
+"Salt"	"is is used"	"to be a very auspicious substance in particular religious ceremonies like weddings"	396	query224_Salt\P\396-5
+"Salt"	"is is used"	"to be a very auspicious substance in Hinduism"	396	query224_Salt\P\396-6
+"Salt"	"is is used"	"to be a very auspicious substance"	396	query224_Salt\P\396-7
+Salt is considered to be very auspicious substance in Jainism too . 	397	query224_Salt\S\397
+"Salt"	"is considered"	"to be very auspicious substance in Jainism"	397	query224_Salt\P\397-0
+"Salt"	"is considered"	"to be very auspicious substance too"	397	query224_Salt\P\397-1
+"Salt"	"is considered"	"to be very auspicious substance"	397	query224_Salt\P\397-2
+Devotees offer raw rice and a pinch of salt before the deity to signify their devotion equivalent to the importance of salt among others signified by raw rice . 	398	query224_Salt\S\398
+"Devotees"	"offer"	"raw rice before the deity to signify their devotion equivalent to the importance of salt among others signified by raw rice"	398	query224_Salt\P\398-0
+"Devotees"	"offer"	"raw a pinch of salt before the deity to signify their devotion equivalent to the importance of salt among others signified by raw rice"	398	query224_Salt\P\398-1
+"Devotees"	"offer"	"raw rice"	398	query224_Salt\P\398-2
+"Devotees"	"offer"	"raw a pinch of salt"	398	query224_Salt\P\398-3
+"the deity"	"be signify"	"their devotion equivalent to the importance of salt among others signified by raw rice"	398	query224_Salt\P\398-4
+"the deity"	"be signify"	"their devotion equivalent to the importance of salt among others signified by raw rice"	398	query224_Salt\P\398-5
+"their devotion"	"equivalent"	"to the importance of salt among others signified by raw rice"	398	query224_Salt\P\398-6
+"their devotion"	"equivalent"	"to the importance of salt among others signified by raw rice"	398	query224_Salt\P\398-7
+In Judaism , it is recommended to have either a salty bread or to add salt to the bread if this bread is unsalted when doing Kiddush for Shabbat . 	399	query224_Salt\S\399
+In Judaism , it is recommended to have either a salty bread or to add salt to the bread if this bread is unsalted when doing Kiddush for Shabbat . 	399	query224_Salt\S\399
+In Judaism , it is recommended to have either a salty bread or to add salt to the bread if this bread is unsalted when doing Kiddush for Shabbat . 	399	query224_Salt\S\399
+In Judaism , it is recommended to have either a salty bread or to add salt to the bread if this bread is unsalted when doing Kiddush for Shabbat . 	399	query224_Salt\S\399
+In Judaism , it is recommended to have either a salty bread or to add salt to the bread if this bread is unsalted when doing Kiddush for Shabbat . 	399	query224_Salt\S\399
+"this bread"	"is unsalted"	"when doing Kiddush for Shabbat"	399	query224_Salt\P\399-0
+"this bread"	"is"	"unsalted"	399	query224_Salt\P\399-1
+It is customary to spread some salt over the bread or to dip the bread in a little salt when passing the bread around the table after the Kiddush . 	400	query224_Salt\S\400
+It is customary to spread some salt over the bread or to dip the bread in a little salt when passing the bread around the table after the Kiddush . 	400	query224_Salt\S\400
+It is customary to spread some salt over the bread or to dip the bread in a little salt when passing the bread around the table after the Kiddush . 	400	query224_Salt\S\400
+Naftali Silberberg , Chabad .org 	401	query224_Salt\S\401
+To preserve the covenant between their people and God , Jews dip the Sabbath bread in salt . 	402	query224_Salt\S\402
+To preserve the covenant between their people and God , Jews dip the Sabbath bread in salt . 	402	query224_Salt\S\402
+To preserve the covenant between their people and God , Jews dip the Sabbath bread in salt . 	402	query224_Salt\S\402
+To preserve the covenant between their people and God , Jews dip the Sabbath bread in salt . 	402	query224_Salt\S\402
+To preserve the covenant between their people and God , Jews dip the Sabbath bread in salt . 	402	query224_Salt\S\402
+10+1 Things you may not know about Salt Epikouria 2006 Fall/Winter 3 http ://www.epikouria.com/issue3/article6-things 	403	query224_Salt\S\403
+10+1 Things you may not know about Salt Epikouria 2006 Fall/Winter 3 http ://www.epikouria.com/issue3/article6-things 	403	query224_Salt\S\403
+10+1 Things you may not know about Salt Epikouria 2006 Fall/Winter 3 http ://www.epikouria.com/issue3/article6-things 	403	query224_Salt\S\403
+.php 	404	query224_Salt\S\404
+10+1 Things you may not know about Salt Epikouria 2006 Fall/Winter 3 http ://www.epikouria.com/issue3/article6-things 	405	query224_Salt\S\405
+10+1 Things you may not know about Salt Epikouria 2006 Fall/Winter 3 http ://www.epikouria.com/issue3/article6-things 	405	query224_Salt\S\405
+10+1 Things you may not know about Salt Epikouria 2006 Fall/Winter 3 http ://www.epikouria.com/issue3/article6-things 	405	query224_Salt\S\405
+.php 	406	query224_Salt\S\406
+In Wicca , salt is symbolic of the element Earth . 	407	query224_Salt\S\407
+In Wicca , salt is symbolic of the element Earth . 	407	query224_Salt\S\407
+In Wicca , salt is symbolic of the element Earth . 	407	query224_Salt\S\407
+It is also believed to cleanse an area of harmful or negative energies . 	408	query224_Salt\S\408
+"It"	"is believed"	"to cleanse an area of harmful energies also"	408	query224_Salt\P\408-0
+"It"	"is believed"	"to cleanse an area of negative energies also"	408	query224_Salt\P\408-1
+"It"	"is believed"	"to cleanse an area of harmful energies"	408	query224_Salt\P\408-2
+"It"	"is believed"	"to cleanse an area of negative energies"	408	query224_Salt\P\408-3
+A dish of salt and a dish of water are almost always present on an altar . 	409	query224_Salt\S\409
+"A dish of salt"	"are present"	"almost always"	409	query224_Salt\P\409-0
+"A dish of a dish of water"	"are present"	"almost always"	409	query224_Salt\P\409-1
+"A dish of salt"	"are present"	"on an altar"	409	query224_Salt\P\409-2
+"A dish of a dish of water"	"are present"	"on an altar"	409	query224_Salt\P\409-3
+"A dish of salt"	"are"	"present"	409	query224_Salt\P\409-4
+"A dish of a dish of water"	"are"	"present"	409	query224_Salt\P\409-5
+The salt is mixed with the water to consecrate it , in effect producing holy water . 	410	query224_Salt\S\410
+"The salt"	"is mixed"	"with the water to consecrate it"	410	query224_Salt\P\410-0
+"The salt"	"is mixed"	"to consecrate it in effect producing holy water"	410	query224_Salt\P\410-1
+"The salt"	"is mixed"	"to consecrate it"	410	query224_Salt\P\410-2
+"The salt"	"is mixed"	"to consecrate it"	410	query224_Salt\P\410-3
+This mixture is used in a wide variety of rituals and ceremonies . 	411	query224_Salt\S\411
+"This mixture"	"is used"	"in a wide variety of rituals"	411	query224_Salt\P\411-0
+"This mixture"	"is used"	"in a wide variety of ceremonies"	411	query224_Salt\P\411-1
+In the native Japanese religion Shinto , salt is used for ritual purification of locations and people ( harae , specifically shubatsu) , such as in sumo wrestling , and small piles of salt called 盛り塩 morijio pile of salt or 塩花 shiobana salt flowers are placed in dishes by the entrance of establishments for the two-fold purposes of warding off evil and attracting patrons . 	412	query224_Salt\S\412
+In the native Japanese religion Shinto , salt is used for ritual purification of locations and people ( harae , specifically shubatsu) , such as in sumo wrestling , and small piles of salt called 盛り塩 morijio pile of salt or 塩花 shiobana salt flowers are placed in dishes by the entrance of establishments for the two-fold purposes of warding off evil and attracting patrons . 	412	query224_Salt\S\412
+In the native Japanese religion Shinto , salt is used for ritual purification of locations and people ( harae , specifically shubatsu) , such as in sumo wrestling , and small piles of salt called 盛り塩 morijio pile of salt or 塩花 shiobana salt flowers are placed in dishes by the entrance of establishments for the two-fold purposes of warding off evil and attracting patrons . 	412	query224_Salt\S\412
+In the native Japanese religion Shinto , salt is used for ritual purification of locations and people ( harae , specifically shubatsu) , such as in sumo wrestling , and small piles of salt called 盛り塩 morijio pile of salt or 塩花 shiobana salt flowers are placed in dishes by the entrance of establishments for the two-fold purposes of warding off evil and attracting patrons . 	412	query224_Salt\S\412
+"small piles of salt called 盛り塩 morijio pile of salt shiobana salt flowers"	"are placed"	"in dishes by the entrance of establishments for the two-fold purposes of warding off evil"	412	query224_Salt\P\412-0
+"small piles of salt called 盛り塩 morijio pile of salt shiobana salt flowers"	"are placed"	"in dishes by the entrance of establishments for the two-fold purposes of off evil attracting patrons"	412	query224_Salt\P\412-1
+"small piles of salt called 盛り塩 morijio pile of 塩花 shiobana salt flowers"	"are placed"	"in dishes by the entrance of establishments for the two-fold purposes of warding off evil"	412	query224_Salt\P\412-2
+"small piles of salt called 盛り塩 morijio pile of 塩花 shiobana salt flowers"	"are placed"	"in dishes by the entrance of establishments for the two-fold purposes of off evil attracting patrons"	412	query224_Salt\P\412-3
+"small piles of salt called 盛り塩 morijio pile of salt shiobana salt flowers"	"are placed"	"in dishes"	412	query224_Salt\P\412-4
+"small piles of salt called 盛り塩 morijio pile of 塩花 shiobana salt flowers"	"are placed"	"in dishes"	412	query224_Salt\P\412-5
+, Robert Camara , March 30 , 2009 In Aztec mythology , Huixtocihuatl was a fertility goddess who presided over salt and salt water . 	413	query224_Salt\S\413
+"Robert Camara"	"is"	"March 30 2009 In Aztec mythology"	413	query224_Salt\P\413-0
+"Robert Camara"	"is"	"Huixtocihuatl"	413	query224_Salt\P\413-1
+"Robert Camara"	"was"	"413 a fertility goddess"	413	query224_Salt\P\413-2
+"a fertility goddess"	"presided"	"over salt water"	413	query224_Salt\P\413-3
+"a fertility goddess"	"presided"	"over salt water"	413	query224_Salt\P\413-4
+The ancient Egyptians , Greeks and Romans invoked their gods with offerings of salt and water . 	414	query224_Salt\S\414
+"The ancient Egyptians"	"is"	"Greeks"	414	query224_Salt\P\414-0
+"The ancient Egyptians"	"is"	"Romans"	414	query224_Salt\P\414-1
+"The ancient Egyptians"	"invoked"	"their gods with offerings of salt 414"	414	query224_Salt\P\414-2
+"The ancient Egyptians"	"invoked"	"their gods with offerings of water 414"	414	query224_Salt\P\414-3
+"The ancient Egyptians"	"invoked"	"their gods 414"	414	query224_Salt\P\414-4
+"The ancient Egyptians"	"invoked"	"their gods 414"	414	query224_Salt\P\414-5
+Some think this to be the origin of Holy Water in the Christian faith . 	415	query224_Salt\S\415
+"Some"	"think"	"this to be the origin of Holy Water"	415	query224_Salt\P\415-0
+"Some"	"think"	"this to be the origin in the Christian faith"	415	query224_Salt\P\415-1
+"Some"	"think"	"this to be the origin"	415	query224_Salt\P\415-2
+thumb400pxShip loading salt at a terminal in the Port ofAreia Branca _ Rio Grande do NorteAreia Branca_Brazil 30em salt Salt Cookbook :Salt Littell 's Living Age/Volume 4/Issue 34/Salt in Abyssinia Extra info on food consumption# Salt/potassium intake no no November 2010 Category :Edible salt ace :Sira af :Sout ar :ملح الطعام arc :ܡܠܚܐ ay :Jayu az :Duz bn :লবণ ( খাদ্য ) bjn:Uyah padu zh-min-nan :Iâm be :Галіт be-x-old :Соль bar :Soiz bo :ཚྭ ། bs :So br :Holen ca :Sal comuna ceb:Alasinon sn :Munyu de :Speisesalz nv :Áshįįh el :Αλάτι es :Sal fa :نمک fr :Sel alimentaire ga :Salann gd :Salann gu :મીઠુ ં hak :Yàm he :מלח בישול ko :소금 hi :साधारण नमक hr:Kuhinjska sol io:Manjebla salo id :Garam dapur jv:Uyah kn :ಉಪ್ಪ ು ( ಖಾದ್ಯ ) ka :სუფრის მარილი rw :Umunyu ht :Sèl ku :Xwê lv :Sāls hu:Konyhasó ml :കറിയുപ്പ ് mr :मीठ ms :Garam mdf :Сал nah :Iztatl nl :Keukenzout ja :塩 ps :مالګه pl :Sól kuchenna pt :Sal de cozinha ro :Sare de bucătărie ru:Поваренная соль sah :Туус sq:Kripa si :ලුණ ු sl :Sol sr :Со ( зачин ) fi:Ruokasuola sv:Salt tl:Asin ta :உப்ப ு te :ఉప్ప ు th :เกลือ tr :Yemek tuzu uk :Кухонна сіль ur :نمک ug:تۇز vi:Muối ăn war :Asin yo:Iyọ ̀ bat-smg :Droska zh :食盐 Stroke and cardiovascular disease . 	416	query224_Salt\S\416
+thumb400pxShip loading salt at a terminal in the Port ofAreia Branca _ Rio Grande do NorteAreia Branca_Brazil 30em salt Salt Cookbook :Salt Littell 's Living Age/Volume 4/Issue 34/Salt in Abyssinia Extra info on food consumption# Salt/potassium intake no no November 2010 Category :Edible salt ace :Sira af :Sout ar :ملح الطعام arc :ܡܠܚܐ ay :Jayu az :Duz bn :লবণ ( খাদ্য ) bjn:Uyah padu zh-min-nan :Iâm be :Галіт be-x-old :Соль bar :Soiz bo :ཚྭ ། bs :So br :Holen ca :Sal comuna ceb:Alasinon sn :Munyu de :Speisesalz nv :Áshįįh el :Αλάτι es :Sal fa :نمک fr :Sel alimentaire ga :Salann gd :Salann gu :મીઠુ ં hak :Yàm he :מלח בישול ko :소금 hi :साधारण नमक hr:Kuhinjska sol io:Manjebla salo id :Garam dapur jv:Uyah kn :ಉಪ್ಪ ು ( ಖಾದ್ಯ ) ka :სუფრის მარილი rw :Umunyu ht :Sèl ku :Xwê lv :Sāls hu:Konyhasó ml :കറിയുപ്പ ് mr :मीठ ms :Garam mdf :Сал nah :Iztatl nl :Keukenzout ja :塩 ps :مالګه pl :Sól kuchenna pt :Sal de cozinha ro :Sare de bucătărie ru:Поваренная соль sah :Туус sq:Kripa si :ලුණ ු sl :Sol sr :Со ( зачин ) fi:Ruokasuola sv:Salt tl:Asin ta :உப்ப ு te :ఉప్ప ు th :เกลือ tr :Yemek tuzu uk :Кухонна сіль ur :نمک ug:تۇز vi:Muối ăn war :Asin yo:Iyọ ̀ bat-smg :Droska zh :食盐 Stroke and cardiovascular disease . 	416	query224_Salt\S\416
+thumb400pxShip loading salt at a terminal in the Port ofAreia Branca _ Rio Grande do NorteAreia Branca_Brazil 30em salt Salt Cookbook :Salt Littell 's Living Age/Volume 4/Issue 34/Salt in Abyssinia Extra info on food consumption# Salt/potassium intake no no November 2010 Category :Edible salt ace :Sira af :Sout ar :ملح الطعام arc :ܡܠܚܐ ay :Jayu az :Duz bn :লবণ ( খাদ্য ) bjn:Uyah padu zh-min-nan :Iâm be :Галіт be-x-old :Соль bar :Soiz bo :ཚྭ ། bs :So br :Holen ca :Sal comuna ceb:Alasinon sn :Munyu de :Speisesalz nv :Áshįįh el :Αλάτι es :Sal fa :نمک fr :Sel alimentaire ga :Salann gd :Salann gu :મીઠુ ં hak :Yàm he :מלח בישול ko :소금 hi :साधारण नमक hr:Kuhinjska sol io:Manjebla salo id :Garam dapur jv:Uyah kn :ಉಪ್ಪ ು ( ಖಾದ್ಯ ) ka :სუფრის მარილი rw :Umunyu ht :Sèl ku :Xwê lv :Sāls hu:Konyhasó ml :കറിയുപ്പ ് mr :मीठ ms :Garam mdf :Сал nah :Iztatl nl :Keukenzout ja :塩 ps :مالګه pl :Sól kuchenna pt :Sal de cozinha ro :Sare de bucătărie ru:Поваренная соль sah :Туус sq:Kripa si :ලුණ ු sl :Sol sr :Со ( зачин ) fi:Ruokasuola sv:Salt tl:Asin ta :உப்ப ு te :ఉప్ప ు th :เกลือ tr :Yemek tuzu uk :Кухонна сіль ur :نمک ug:تۇز vi:Muối ăn war :Asin yo:Iyọ ̀ bat-smg :Droska zh :食盐 Stroke and cardiovascular disease . 	416	query224_Salt\S\416
+"Salt Littell"	"has"	"Living Age/Volume 4/Issue 34/Salt in Abyssinia Extra info on food consumption # Salt/potassium intake no no November 2010 Category Edible salt ace Sira af Sout ar ملح الطعام arc ܡܠܚܐ ay Jayu az Duz bn লবণ খাদ্য bjn Uyah padu zh-min-nan Iâm be Галіт be-x-old Соль bar Soiz bo ཚ bs So br Holen ca Sal comuna ceb Alasinon sn Munyu de Speisesalz nv Áshįįh el Αλάτι es Sal fa نمک fr Sel alimentaire ga Salann gd Salann gu મીઠુ ં hak Yàm he מלח בישול ko 소금 hi साधारण नमक hr Kuhinjska sol io Manjebla salo id Garam dapur jv Uyah kn ಉಪ ಪ ka სუფრის მარილი rw Umunyu ht Sèl ku Xwê lv Sāls hu Konyhasó ml കറിയുപ പ mr मीठ ms Garam mdf Сал nah Iztatl nl Keukenzout ja 塩 ps مالګه pl Sól kuchenna pt Sal de cozinha ro Sare de bucătărie ru Поваренная соль sah Туус sq Kripa si ල ණ sl Sol sr Со fi Ruokasuola sv Salt tl Asin ta உப்ப ு te ఉప్ప ు th เกลือ tr Yemek tuzu uk Кухонна сіль ur نمک ug تۇز vi Muối ăn war Asin yo Iyọ ̀ bat-smg Droska zh 食盐 Stroke"	416	query224_Salt\P\416-0
+"Salt Littell"	"has"	"Living Age/Volume 4/Issue 34/Salt in Abyssinia Extra info on food consumption # Salt/potassium intake no no November 2010 Category Edible salt ace Sira af Sout ar ملح الطعام arc ܡܠܚܐ ay Jayu az Duz bn লবণ খাদ্য bjn Uyah padu zh-min-nan Iâm be Галіт be-x-old Соль bar Soiz bo ཚ bs So br Holen ca Sal comuna ceb Alasinon sn Munyu de Speisesalz nv Áshįįh el Αλάτι es Sal fa نمک fr Sel alimentaire ga Salann gd Salann gu મીઠુ ં hak Yàm he מלח בישול ko 소금 hi साधारण नमक hr Kuhinjska sol io Manjebla salo id Garam dapur jv Uyah kn ಉಪ ಪ ka სუფრის მარილი rw Umunyu ht Sèl ku Xwê lv Sāls hu Konyhasó ml കറിയുപ പ mr मीठ ms Garam mdf Сал nah Iztatl nl Keukenzout ja 塩 ps مالګه pl Sól kuchenna pt Sal de cozinha ro Sare de bucătărie ru Поваренная соль sah Туус sq Kripa si ල ණ sl Sol sr Со fi Ruokasuola sv Salt tl Asin ta உப்ப ு te ఉప్ప ు th เกลือ tr Yemek tuzu uk Кухонна сіль ur نمک ug تۇز vi Muối ăn war Asin yo Iyọ ̀ bat-smg Droska zh 食盐 cardiovascular disease"	416	query224_Salt\P\416-1
+"Salt Littell"	"has"	"Living Age/Volume 4/Issue 34/Salt in Abyssinia Extra info on food consumption # Salt/potassium intake no no November 2010 Category Edible salt ace Sira af Sout ar ملح الطعام arc ܡܠܚܐ ay Jayu az Duz bn লবণ খাদ্য bjn Uyah padu zh-min-nan Iâm be Галіт be-x-old Соль bar Soiz bo ཚ bs So br Holen ca Sal comuna ceb Alasinon sn Munyu de Speisesalz nv Áshįįh el Αλάτι es Sal fa نمک fr Sel alimentaire ga Salann gd Salann gu મીઠુ ં hak Yàm he מלח בישול ko 소금 hi साधारण नमक hr Kuhinjska sol io Manjebla salo id Garam dapur jv Uyah kn ಉಪ ಪ ka სუფრის მარილი rw Umunyu ht Sèl ku Xwê lv Sāls hu Konyhasó ml കറിയുപ പ mr मीठ ms Garam mdf Сал nah Iztatl nl Keukenzout ja 塩 ps مالګه pl Sól kuchenna pt Sal de cozinha ro Sare de bucătărie ru Поваренная соль sah Туус sq Kripa si ල ණ sl Sol sr Со fi Ruokasuola sv Salt tl Asin ta உப்ப ு te ఉప్ప ు th เกลือ tr Yemek tuzu uk Кухонна сіль ur نمک ug تۇز vi Muối ăn war Asin yo Iyọ ̀ bat-smg Droska zh 食盐 cardiovascular disease"	416	query224_Salt\P\416-2
+"Salt Littell"	"has"	"Living Age/Volume 4/Issue 34/Salt in Abyssinia Extra info on food consumption # Salt/potassium intake no no November 2010 Category Edible salt ace Sira af Sout ar ملح الطعام arc ܡܠܚܐ ay Jayu az Duz bn লবণ খাদ্য bjn Uyah padu zh-min-nan Iâm be Галіт be-x-old Соль bar Soiz bo ཚ bs So br Holen ca Sal comuna ceb Alasinon sn Munyu de Speisesalz nv Áshįįh el Αλάτι es Sal fa نمک fr Sel alimentaire ga Salann gd Salann gu મીઠુ ં hak Yàm he מלח בישול ko 소금 hi साधारण नमक hr Kuhinjska sol io Manjebla salo id Garam dapur jv Uyah kn ಉಪ ಪ ka სუფრის მარილი rw Umunyu ht Sèl ku Xwê lv Sāls hu Konyhasó ml കറിയുപ പ mr मीठ ms Garam mdf Сал nah Iztatl nl Keukenzout ja 塩 ps مالګه pl Sól kuchenna pt Sal de cozinha ro Sare de bucătărie ru Поваренная соль sah Туус sq Kripa si ල ණ sl Sol sr Со fi Ruokasuola sv Salt tl Asin ta உப்ப ு te ఉప్ప ు th เกลือ tr Yemek tuzu uk Кухонна сіль ur نمک ug تۇز vi Muối ăn war Asin yo Iyọ ̀ bat-smg Droska zh 食盐 cardiovascular disease"	416	query224_Salt\P\416-3
+"ಉಪ ಪ ka"	"is"	"ಖ ದ ಯ"	416	query224_Salt\P\416-4
+"ಉಪ ಪ ka"	"is"	"ಖ ದ ಯ"	416	query224_Salt\P\416-5
+Strazzullo P , D'Elia L, Kandala NB , Cappuccio FP Salt intake , stroke , and cardiovascular disease : meta-analysis of prospective studies BMJ 339 b4567 2009 19934192 10.1136/bmj.b4567 	417	query224_Salt\S\417
+"Strazzullo P meta-analysis of prospective studies BMJ 339 b4567 2009 19934192 10.1136 bmj.b4567"	"is"	"D'Elia L"	417	query224_Salt\P\417-0
+"Strazzullo P meta-analysis of prospective studies BMJ 339 b4567 2009 19934192 10.1136 bmj.b4567"	"is"	"D'Elia cardiovascular disease"	417	query224_Salt\P\417-1
+"D'Elia L"	"is"	"stroke"	417	query224_Salt\P\417-2
+"D'Elia cardiovascular disease"	"is"	"stroke"	417	query224_Salt\P\417-3
+"D'Elia L"	"is"	"Kandala NB"	417	query224_Salt\P\417-4
+"D'Elia cardiovascular disease"	"is"	"Kandala NB"	417	query224_Salt\P\417-5
+"D'Elia L"	"is"	"Cappuccio FP Salt intake"	417	query224_Salt\P\417-6
+"D'Elia cardiovascular disease"	"is"	"Cappuccio FP Salt intake"	417	query224_Salt\P\417-7
+2782060 harv Strazzullo P , D'Elia L, Kandala NB , Cappuccio FP Salt intake , stroke , and cardiovascular disease : meta-analysis of prospective studies BMJ 339 b4567 2009 19934192 10.1136/bmj.b4567 	418	query224_Salt\S\418
+"2782060 harv Strazzullo P meta-analysis of prospective studies BMJ 339 b4567 2009 19934192 10.1136 bmj.b4567"	"is"	"Cappuccio FP Salt intake"	418	query224_Salt\P\418-0
+"2782060 harv Strazzullo P meta-analysis of prospective studies BMJ 339 b4567 2009 19934192 10.1136 bmj.b4567"	"is"	"Cappuccio FP Salt stroke"	418	query224_Salt\P\418-1
+"2782060 harv Strazzullo P meta-analysis of prospective studies BMJ 339 b4567 2009 19934192 10.1136 bmj.b4567"	"is"	"Cappuccio FP Salt cardiovascular disease"	418	query224_Salt\P\418-2
+"2782060 harv Strazzullo P meta-analysis of prospective studies BMJ 339 b4567 2009 19934192 10.1136 bmj.b4567"	"is"	"D'Elia L"	418	query224_Salt\P\418-3
+"2782060 harv Strazzullo P meta-analysis of prospective studies BMJ 339 b4567 2009 19934192 10.1136 bmj.b4567"	"is"	"Kandala NB"	418	query224_Salt\P\418-4
+2782060 harv High blood pressure : Evidence shows an association between salt intakes and blood pressure among different populations and age range in adults . 	419	query224_Salt\S\419
+2782060 harv High blood pressure : Evidence shows an association between salt intakes and blood pressure among different populations and age range in adults . 	419	query224_Salt\S\419
+2782060 harv High blood pressure : Evidence shows an association between salt intakes and blood pressure among different populations and age range in adults . 	419	query224_Salt\S\419
+Scientific Advisory Committee on Nutrition ( SACN) , page 3 Reduced salt intake also results in a small reduction in blood pressure . 	420	query224_Salt\S\420
+Scientific Advisory Committee on Nutrition ( SACN) , page 3 Reduced salt intake also results in a small reduction in blood pressure . 	420	query224_Salt\S\420
+"page 3 Reduced salt intake"	"results"	"420 Scientific Advisory Committee on Nutrition also"	420	query224_Salt\P\420-0
+"page 3 Reduced salt intake"	"results"	"in a small reduction in blood pressure 420 Scientific Advisory Committee on Nutrition"	420	query224_Salt\P\420-1
+"page 3 Reduced salt intake"	"results"	"420 Scientific Advisory Committee on Nutrition"	420	query224_Salt\P\420-2
+Left ventricular hypertrophy ( cardiac enlargement ) : " Evidence suggests that high salt intake causes left ventricular hypertrophy , a strong risk factor for cardiovascular disease , independently of blood pressure effects . 	421	query224_Salt\S\421
+"Left ventricular hypertrophy"	"is"	"cardiac enlargement"	421	query224_Salt\P\421-0
+"Left ventricular hypertrophy"	"is"	"cardiac enlargement"	421	query224_Salt\P\421-1
+"high salt intake"	"causes"	"left ventricular hypertrophy independently of blood pressure effects"	421	query224_Salt\P\421-2
+"left ventricular hypertrophy independently of blood pressure effects"	"is"	"a strong risk factor for cardiovascular disease"	421	query224_Salt\P\421-3
+" " ...there 	422	query224_Salt\S\422
+is accumulating evidence that high salt intake predicts left ventricular hypertrophy . 	423	query224_Salt\S\423
+is accumulating evidence that high salt intake predicts left ventricular hypertrophy . 	423	query224_Salt\S\423
+"high salt intake"	"predicts"	"left ventricular hypertrophy"	423	query224_Salt\P\423-0
+" Food Safety Authority of Ireland , p . 	424	query224_Salt\S\424
+"Food Safety Authority of Ireland"	"is"	"p"	424	query224_Salt\P\424-0
+12 Excessive salt ( sodium ) intake , combined with an inadequate intake of water , can cause hypernatremia . 	425	query224_Salt\S\425
+"Excessive salt"	"is"	"sodium"	12	query224_Salt\P\425-0
+"12 Excessive salt intake"	"be combined"	"with an inadequate intake of water"	425	query224_Salt\P\425-1
+"12 Excessive salt intake combined with an inadequate intake of water"	"can cause"	"hypernatremia"	425	query224_Salt\P\425-2
+It can exacerbate renal disease . 	426	query224_Salt\S\426
+It can exacerbate renal disease . 	426	query224_Salt\S\426
+Edema : A decrease in salt intake has been suggested to treat edema ( fluid retention ) . 	427	query224_Salt\S\427
+"A decrease in salt intake"	"has been suggested"	"to treat edema"	427	query224_Salt\P\427-0
+"A decrease in salt intake"	"has been suggested"	"to treat edema"	427	query224_Salt\P\427-1
+Australia : Better Health Channel ( Australia , Victoria ) Stomach cancer is associated with high levels of sodium , " but the evidence does not generally relate to foods typically consumed in the UK. 	428	query224_Salt\S\428
+Australia : Better Health Channel ( Australia , Victoria ) Stomach cancer is associated with high levels of sodium , " but the evidence does not generally relate to foods typically consumed in the UK. 	428	query224_Salt\S\428
+"Better Health Channel Australia Stomach cancer"	"is associated"	"with high levels of sodium"	428	query224_Salt\P\428-0
+"the evidence"	"does not relate"	"to foods typically consumed in the UK generally"	428	query224_Salt\P\428-1
+"the evidence"	"does not relate"	"to foods typically consumed in the UK"	428	query224_Salt\P\428-2
+"the evidence"	"does not relate"	"to foods typically consumed in the UK"	428	query224_Salt\P\428-3
+"the evidence"	"does not relate"	"to foods typically consumed in the UK"	428	query224_Salt\P\428-4
+" Scientific Advisory Committee on Nutrition ( SACN) , page 18 However , in Japan , salt consumption is higher . 	429	query224_Salt\S\429
+" Scientific Advisory Committee on Nutrition ( SACN) , page 18 However , in Japan , salt consumption is higher . 	429	query224_Salt\S\429
+"salt consumption"	"is"	"429 Scientific Advisory Committee on Nutrition page 18 However in Japan higher"	429	query224_Salt\P\429-0
+, BBC News , 7 January 2004 Alberger process Black salt ( disambiguation ) Curing ( food preservation ) Health Canada Sodium Working Group INTERSALT study Kosher salt Salt equivalent Salt Road Smoked salt Sodium controversy Barber Elizabeth Wayland 1999 The Mummies of Ürümchi New York W.W. 	430	query224_Salt\S\430
+"BBC News"	"is"	"7 January 2004 Alberger process Black salt Curing Health Canada Sodium Working Group INTERSALT study Kosher salt Salt equivalent Salt Road Smoked salt Sodium controversy Barber Elizabeth Wayland 1999 The Mummies of Ürümchi New York W.W."	430	query224_Salt\P\430-0
+"Black salt"	"is"	"disambiguation"	430	query224_Salt\P\430-1
+"Black salt Curing"	"is"	"food preservation"	430	query224_Salt\P\430-2
+Norton &amp; Co 0393320197 48426519 harv Kurlansky Mark 2002 Salt : A World History New York New York Walker &amp; Co 0802713734 48573453 harv Carusi , Cristina , Il sale nel mondo greco , VI a.C.-II 	431	query224_Salt\S\431
+"New York New York Walker & Co 0802713734 48573453 harv Carusi"	"is"	"VI a.C.-II"	431	query224_Salt\P\431-0
+"New York New York Cristina"	"is"	"VI a.C.-II"	431	query224_Salt\P\431-1
+"New York New York Il sale nel mondo greco"	"is"	"VI a.C.-II"	431	query224_Salt\P\431-2
+I d.C. 	432	query224_Salt\S\432
+: luoghi di produzione , circolazione commerciale , regimi di sfruttamento nel contesto del Mediterraneo antico ( Bari : Edipuglia , 2008 ) ( Pragmateiai ; 15 ) . 	433	query224_Salt\S\433
+"luoghi di produzione"	"is"	"circolazione commerciale"	433	query224_Salt\P\433-0
+"circolazione commerciale"	"is"	"regimi di sfruttamento nel contesto del Mediterraneo antico Bari Edipuglia 2008 Pragmateiai 15"	433	query224_Salt\P\433-1
+Alden Lori Salt http ://www.foodsubs.com/Salt 	434	query224_Salt\S\434
+.html 	435	query224_Salt\S\435
+The Cook 's Thesaurus 2005 Cowen Richard The Importance of Salt http ://mygeologypage .ucdavis 	436	query224_Salt\S\436
+.edu/cowen/~gel115/salt 	437	query224_Salt\S\437
+.html 	438	query224_Salt\S\438
+Department of Geology UC Davis May 1999 Zacharias Patricia The ghostly salt city beneath Detroit http ://apps .detnews.com/apps/history/index.php 	439	query224_Salt\S\439
+?id=17 The Detroit News 23 January 2000 	440	query224_Salt\S\440

@@ -1,0 +1,439 @@
+0	
+1	SVA (S: Island@9, V: "is in", C: York@12)	SVA (S: Island@9, V: "is in", C: U.S.@14)
+2	
+3	
+4	
+5	SVC (C: actor@18, V: is@15, S: Rae@2)	SVA (V: appeared@21, S: actor@18, A!: on@22)
+6	SVO (V: gained@3, S: Baldwin@1, A?: first@2, O: recognition@4, A?: through@5, A?: for@7, A?: for@11, A?: on@20)	SVO (S: his@8, V: "has", O: work@9)
+7	SVC (S: films@11, V: "is", C: Fantasy@51)	SVC (S: Beetlejuice@14, V: "is", C: 1988@16)	SVC (S: Beetlejuice@14, V: "is", C: Hunt@20)	SVC (S: Beetlejuice@14, V: "is", C: Shadow@36)	SVC (S: Beetlejuice@14, V: "is", C: Thomas@41)	SVC (S: Beetlejuice@14, V: "is", C: Man@30)	SVC (S: October@23, V: "is", C: 1990@25)	SVC (S: Man@30, V: "is", C: 1991@32)	SVC (S: Shadow@36, V: "is", C: 1994@38)	SVC (S: Railroad@45, V: "is", C: 2000@47)	SVC (S: Spirits@54, V: "is", C: Aviator@61)	SVC (S: Aviator@61, V: "is", C: 2004@63)	SVA (V: "be Departed", S: The@66)
+8	SVO (S: His@1, V: "has", O: performance@2)	SVOO (V: garnered@9, S: Cooler@8, IO: him@10, O: nomination@12)
+9	SVO (V: starred@5, S: he@3, A?: as@6, A?: on@9, O: 2006@2)	SVO (S: his@20, V: "has", O: performance@21)	SVO (S: his@40, V: "has", O: work@41)
+10	SVC (C: oldest@4, V: is@2, S: He@1, A?: of@5)	SVA (V: "be working", S: brothers@8, A!: in@10)
+11	SVA (V: born@3, S: Baldwin@1, A!: on@4)	SVA (S: Island@6, V: "is in", C: York@9)	SVC (S: Newcomb@15, V: "is", C: Martineau@18)	SVC (S: Baldwin@23, V: "is", C: Jr.@25)
+12	
+13	
+14	
+15	SVA (V: raised@3, S: Baldwin@1, A!: in@4)
+16	
+17	
+18	SVC (S: Melville@7, V: "is", C: Green@11)
+19	
+20	
+21	
+22	
+23	
+24	SVC (S: Melville@7, V: "is", C: Green@11)
+25	
+26	
+27	
+28	SVOO (V: has@5, S: He@4, O: brothers@8, IO: ny-lihistory-navigation@3)	SVC (S: brothers@8, V: "is", C: Daniel@10)	SVC (V: became@19, S: brothers@8, A?: also@18, XCOMP: actors@20)
+29	SVO (V: has@2, S: Baldwin@1, O: sisters@4)
+30	SVO (V: attended@4, S: Baldwin@3, O: G.@6)
+31	SVC (S: School@3, V: "is", C: Island@8)	SVA (V: is@20, S: Reifsnyder@17, A!: in@21)
+32	SVA (V: worked@2, S: He@1, A!: as@3)
+33	SVO (V: attended@2, S: Baldwin@1, O: University@5, A?: from@6, A?: to@8)
+34	SVO (V: transferred@3, S: He@1, A-: then@2, A?: to@4, XCOMP: study@9)
+35	SVA (V: returned@2, S: He@1, A!: to@3, A?: in@5)	SVA (V: graduated@8, S: He@1, A?: to@3, A?: in@5, A!: with@9)
+36	SVA (V: returned@9, S: he@7, A?: On@1, A?: again@8, A!: to@10, A?: time@16, A?: causa@32)	SVO (V: receive@23, S: he@7, A?: On@1, A?: again@8, A?: to@10, A?: time@16, O: Doctor@25, A?: causa@32)
+37	SVC (S: Oldenburg@1, V: "is", C: Ann@3)	SVC (S: Ann@3, V: "is", C: May@5)
+38	
+39	
+40	
+41	SVO (V: made@2, S: Baldwin@1, O: debut@5, A?: in@6, A?: in@9)	SVO (S: his@3, V: "has", O: debut@5)	SVO (S: Orton@14, V: "has", O: Loot@16)
+42	SVA (V: closed@3, S: production@2, A!: after@4)
+43	SVO (S: His@1, V: "has", O: credits@4)	SVO (V: include@5, S: credits@4, O: Money@10)	SVO (S: Churchill@7, V: "has", O: Money@10)	SVOO (V: Named@25, S: Streetcar@24, O: Desire@26, IO: Williams@21)
+44	SVO (S: His@1, V: "has", O: performance@2)	SVOO (V: garnered@9, S: performance@2, IO: him@10, O: nomination@14)
+45	SVO (V: received@3, S: Baldwin@1, A?: also@2, O: nomination@6)	SVOO (V: reprised@23, S: he@19, A?: in@16, O: roles@25, A?: alongside@27, IO: production@14)	SVO (S: their@24, V: "has", O: roles@25)
+46	SVO (V: played@5, S: Baldwin@4, A?: In@1, O: role@8, A?: at@11, A?: alongside@15, A?: in@21)	SVA (V: "be directed", S: production@23, A!: by@25)
+47	
+48	SVA (V: starred@5, S: Baldwin@4, A?: In@1, A!: in@6)
+49	SVA (V: appeared@8, S: he@7, A?: On@1, A!: in@9)
+50	SVA (V: starred@2, S: He@1, A!: as@3, A?: alongside@7)
+51	SV (V: taped@4, S: production@2)	SVA (V: telecast@6, S: production@2, A!: by@7, A?: on@9)
+52	SVO (V: made@5, S: Baldwin@4, A?: In@1, O: news@7, A?: in@8)	SVO (S: Company@11, V: "has", O: revival@14)	SVO (S: Orton@17, V: "has", O: Mr.@20)
+53	
+54	SVO (V: starred@5, S: Baldwin@4, A?: In@1, O: Underwood@8, A?: in@9)	SVO (S: Shaffer@16, V: "has", O: Equus@18)	SVA (V: "be directed", S: Equus@18, A!: by@21, A?: in@27)	SVA (S: Hampton@29, V: "is in", C: NY@31)
+55	SVO (S: Baldwin@1, V: "has", O: role@6)	SVA (V: was@7, S: Doctors@17, A!: as@8, A?: on@11)	SVA (V: was@7, S: role@6, A!: as@8, A?: on@11)
+56	SVA (V: starred@6, S: he@5, A?: In@1, A!: in@7)
+57	SVA (V: co-starred@3, S: He@1, A-: then@2, A!: in@4, A?: from@10)
+58	SVA (V: starred@5, S: Baldwin@4, A?: In@1, A!: in@6, A?: as@15)	SVC (S: Gray@8, V: "is", C: miniseries@13)	SVO (V: tries@21, S: sergeant@19, XCOMP: solve@23)
+59	SVA (V: adapted@4, S: film@2, A!: by@5, A?: from@8, A?: by@11)
+60	SVC (C: U.S.@9, V: was@7, S: Baldwin@6, A?: Between@1)
+61	SVA (V: "be narrating", S: Thomas@7, O: episodes@14)
+62	SVO (V: portrayed@2, S: He@1, O: Pagani@4, A?: in@5)
+63	SVA (V: appeared@2, S: Baldwin@1, A!: in@3)	SVA (V: "be competing", S: Millionaire@13, A!: against@19)	SVC (S: Stewart@21, V: "is", C: A.@27)
+64	
+65	SVO (V: won@2, S: He@1, O: $@3)	SVO (V: Basinger@11, S: He@1, O: $@3, A?: as@12)	SVO (S: his@15, V: "has", O: partners@19)
+66	SVO (V: voiced@2, S: He@1, O: Barron@4, A?: in@5)
+67	SVA (V: appeared@5, S: Baldwin@4, A?: In@1, A!: on@6, A?: as@11)	SVC (S: interest@18, V: "is", C: Parker@20)	SVO (S: Buffay@13, V: "has", O: interest@18)
+68	SVO (V: portrayed@3, S: He@1, A?: also@2, O: character@6)	SVOO (V: played@25, S: he@24, A?: in@22, O: Malcolm@26, IO: Will@18)	SVC (S: Walker@39, V: "is", C: Mullally@42)
+69	SVA (V: guest-starred@3, S: He@1, A?: also@2, A!: in@4)
+70	SVO (V: wrote@2, S: Baldwin@1, O: episode@4)	SVA (V: "be entitled", S: episode@4)	SVA (V: aired@15, S: episode@4, A!: in@16)
+71	SVO (V: played@2, S: He@1, O: role@4)
+72	SVC (S: Moore@2, V: "is", C: surgeon@7)
+73	SVC (C: host@10, V: was@8, S: Baldwin@7, A?: On@1, A?: at@11)	SVA (V: broadcast@21, S: Earth@17, A!: on@22)
+74	SVA (V: aired@14, S: Rock@10, A?: first@13, A!: October@15)
+75	SVO (V: met@2, S: Baldwin@1, O: Fey@7, A?: appearing@12)	SVO (S: his@3, V: "has", O: Fey@7)
+76	SVO (V: received@3, S: He@1, O: Awards@6)	SVC (S: Awards@6, V: "is", C: awards@11)	SVO (S: his@19, V: "has", O: role@20)
+77	SVO (V: received@2, S: Baldwin@1, O: nomination@6, A?: as@16, A?: in@19, A?: marking@22)	SVA (V: "be marking", S: Baldwin@1, O: nomination@27)	SVO (S: his@3, V: "has", O: nomination@6)	SVO (S: his@23, V: "has", O: nomination@27)
+78	SVA (V: won@2, S: He@1, A!: again@3, A?: in@4)
+79	SVA (V: credited@8, S: Baldwin@5, A?: Since@1, A!: as@9)
+80	SVO (V: joined@2, S: Baldwin@1, O: Osborne@8, A?: co-host@10)	SVO (S: TCM@3, V: "has", O: Osborne@8)
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	SVO (V: co-hosted@4, S: Baldwin@3, O: Awards@8, A?: with@9, A?: in@12)
+89	SVA (V: hosted@3, S: He@1, A!: times@8)	SVC (C: Season@15, V: being@13, S: recent@12)
+90	SVO (V: holds@3, S: He@1, A?: currently@2, O: record@5, A?: eclipsing@14)	SVA (V: "be eclipsing", S: He@1, O: Martin@16)	SVA (V: "be hosting", S: times@8, O: Live@12)
+91	
+92	
+93	SVOA (V: Sets@3, S: Baldwin@2, O: Record@5, A!: as@6)
+94	
+95	SVOA (V: Sets@3, S: Baldwin@2, O: Record@5, A!: as@6)	SVO (V: made@17, S: Baldwin@16, A?: Anew@11, O: debut@20, A?: with@21)	SVO (S: his@18, V: "has", O: debut@20)	SVA (V: "be _", S: film@28, A!: Forever@29, O: Lulu@31)
+96	SVA (V: appeared@6, S: he@5, A?: Also@1, A?: in@2, A!: in@7)
+97	SVO (V: gained@2, S: He@1, O: recognition@4, A?: as@5)	SVO (S: his@10, V: "has", O: role@11)	SVC (S: October@20, V: "is", C: 1990@22)
+98	SVO (V: met@2, S: Baldwin@1, XCOMP: Basinger@7, A?: played@10)	SVO (S: his@3, V: "has", O: wife@5)	SV (V: Basinger@7, S: wife@5)	SVO (V: played@10, S: they@9, A?: when@8, O: lovers@11, A?: in@12)
+99	SVA (V: appeared@2, S: He@1, A!: with@3, A?: again@5, A?: in@6)	SVC (S: Getaway@8, V: "is", C: remake@12)
+100	SVO (V: played@9, S: Baldwin@8, A?: Next@1, A?: in@3, O: executive@13)	SVC (S: Ross@17, V: "is", C: 1992@19)	SVO (V: added@24, S: part@23, A?: to@25, O: executive@13)	SVO (S: Mamet@31, V: "has", O: Prize@34)
+101	SVA (V: starred@6, S: he@5, A?: year@3, A!: in@7)	SVA (V: based@18, S: Ryan@14, A!: on@19)
+102	SVO (V: received@3, S: film@2, O: reception@6)	SVOC (V: grossed@10, S: film@2, O: reception@6, O: $@12)
+103	
+104	
+105	
+106	
+107	SVA (V: "be 2011-10-31", S: Baldwin@5, A!: In@2)	SVO (V: made@6, S: Baldwin@5, A?: 2011-10-31@1, O: foray@8)
+108	SVO (V: made@3, S: film@2, O: $@4)
+109	SVO (V: continued@7, S: Baldwin@6, A?: In@1, XCOMP: work@9)	SVO (S: Heaven@20, V: "has", O: Prisoners@22)
+110	SVO (V: shifted@2, S: Baldwin@1, A?: towards@3, XCOMP: beginning@7)
+111	SVO (V: played@2, S: He@1, O: Lt@3)
+112	
+113	SVC (V: remains@18, S: film@5, A?: with@9, CCOMP: appeared@25)	SVA (V: appeared@25, S: Baldwin@23, A!: in@26)	SVO (S: his@27, V: "has", O: career@29)
+114	
+115	
+116	SV (V: http@11, S: Harbor@2)
+117	
+118	SVA (V: nominated@13, S: Baldwin@11, A!: for@14)	SVA (V: Award@28, S: Baldwin@11, A?: for@14, A!: for@29)	SVC (S: Award@17, V: "is", C: Globe@21)	SVO (S: his@30, V: "has", O: performance@31)
+119	SVA (V: appeared@2, S: He@1, A!: in@3)	SVC (S: Aviator@8, V: "is", C: 2004@10)	SVA (V: "be Departed", S: The@13)
+120	SVA (V: starred@5, S: he@4, A?: In@1, A!: in@6, A?: alongside@14)	SVO (S: Mini@9, V: "has", O: Time@12)
+121	SVOC (V: performed@2, S: Baldwin@1, O: Gellar@6, A?: in@7, O: Girl@14)
+122	SVA (V: co-starred@5, S: he@4, A?: In@1, A!: in@6)	SVA (V: Complicated@14, S: It@12, A!: with@16)
+123	SVO (V: voiced@5, S: he@4, A?: In@1, O: Butch@6, A?: in@7)
+124	SVO (V: portrayed@5, S: he@4, A?: In@1, O: Bradley@7, A?: in@8)
+125	SVO (V: voiced@5, S: he@4, A?: In@1, O: Farley@6, A?: in@7)
+126	SV (V: directed@2, S: Baldwin@1)	SVA (V: starred@4, S: Baldwin@1, A!: in@5)
+127	SVC (V: became@4, S: film@3, XCOMP: asset@6, A?: convicted@18)	SVA (V: convicted@18, S: Barron@16, A?: when@13, A!: of@19, A?: was@25)	SVA (V: was@25, S: movie@24, A!: in@26)
+128	SVA (V: acquired@5, S: film@2, A?: eventually@3, A!: by@6, A?: without@10)	SVO (S: Baldwin@11, V: "has", O: involvement@13)
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	SVO (V: announced@10, S: Group@9, CCOMP: give@13)	SVA (V: "be titled", S: it@11, A!: now@17, O: Shortcut@19)	SVO (V: give@13, S: it@11, O: film@15, A?: titled@18)	SVC (S: Shortcut@19, V: "is", C: release@25)
+144	SVO (V: acquired@4, S: they@2, O: rights@7)
+145	SVA (V: released@6, S: Shortcut@1, A?: finally@5, A!: in@7)
+146	SVO (V: cut@11, S: film@8, A?: in@12, O: way@6)	SVO (V: demanded@15, S: Baldwin@1, CCOMP: changed@21)	SVO (S: his@17, V: "has", O: credit@19)	SVA (V: changed@21, S: credit@19, A!: to@22)
+147	
+148	SVA (V: worked@5, S: Baldwin@2, A?: also@4, A!: as@6, A?: in@9)	SVC (S: Tenenbaums@15, V: "is", C: Fantasy@18)
+149	SVA (V: signed@7, S: Baldwin@5, A?: As@1, A!: on@8)	SVC (S: Zeta-Jones@16, V: "is", C: Hough@19)
+150	SVO (V: hit@9, S: Blige@1, O: Rock@11)
+151	SVO (V: play@3, S: Baldwin@1, O: Dupree@5, A?: begins@19)	SVC (S: Dupree@5, V: "is", C: owner@9)	SVA (V: begins@19, S: production@18, A?: when@17, A!: in@20)
+152	SVC (C: one@4, V: is@2, S: Baldwin@1, A?: also@3, A?: of@5)
+153	SVC (V: became@8, S: Baldwin@7, A?: On@1, XCOMP: host@10, A?: Week@17, XCOMP: series@23)
+154	
+155	SVC (S: Times@8, V: "is", C: December@10)
+156	SVO (V: recorded@3, S: He@1, O: announcements@10)
+157	SVC (S: Press@2, V: "is", C: Today@8)	SVC (S: Press@2, V: "is", C: August@10)
+158	SVO (V: released@10, S: radio@9, A?: On@1, O: episode@13, A?: Here@19)	SVO (S: Baldwin@15, V: "has", O: podcast@18)	SVC (S: Thing@22, V: "is", C: series@25)	SVC (C: Thing@22, V: 's@20, S: released@10)
+159	SVO (V: featured@5, S: episodes@4, O: Douglas@8)
+160	
+161	
+162	
+163	
+164	SVO (V: met@5, S: he@4, A?: In@1, O: wife@8, A?: played@16)	SVO (S: his@6, V: "has", O: wife@8)	SVC (S: wife@8, V: "is", C: Basinger@12)	SVO (V: played@16, S: they@15, A?: when@14, O: lovers@17, A?: in@18, A?: Man@23)
+165	SVA (V: married@2, S: They@1, A!: in@3)	SVO (V: had@6, S: They@1, A?: in@3, O: daughter@8, A?: in@12)	SVC (S: daughter@8, V: "is", C: Ireland@10)
+166	SVA (V: filed@6, S: they@5, A?: In@1, A!: for@7)	SVA (V: finalized@12, S: divorce@8, A!: in@13)
+167	
+168	
+169	SVA (V: apologises@6, S: Baldwin@5, A!: for@7)	SVC (S: daughter@9, V: "is", C: http@18)	SVC (S: daughter@9, V: "is", C: 11@11)
+170	
+171	SVO (V: apologises@6, S: Baldwin@5, A?: for@7, CCOMP: dating@25)	SVC (S: daughter@9, V: "is", C: pig@17)	SVC (S: daughter@9, V: "is", C: 11@11)	SVO (V: dating@25, S: Baldwin@22, O: Thomas@27)	SVC (S: Thomas@27, V: "is", C: one@29)
+172	
+173	
+174	SVO (V: sold@6, S: he@5, A?: In@1, O: home@8, A?: on@9)	SVO (V: moved@15, S: he@5, A?: In@1, O: home@8, A?: on@9, A?: in@16)	SVO (S: his@7, V: "has", O: home@8)
+175	
+176	
+177	
+178	SVO (S: his@3, V: "has", O: family@4)	SVC (C: Catholic@6, V: are@5, S: Baldwin@1)
+179	
+180	SVC (S: Colbert@2, V: "is", C: Baldwin@5)	SVO (V: Giving@12, S: They@10, O: What@9, A?: for@14)
+181	SVC (S: Colbert@2, V: "is", C: Baldwin@5)	SVO (V: Giving@12, S: They@10, O: What@9, A?: for@14)
+182	
+183	
+184	
+185	
+186	
+187	
+188	
+189	SVO (V: published@9, S: Baldwin@5, O: book@11)	SVO (S: their@10, V: "has", O: book@11)	SVC (S: book@11, V: "is", C: Promise@14)	SVO (V: chronicles@19, S: Ourselves@16, O: battle@23, A?: remain@25)	SVA (V: "be remain", S: which@18, O: part@27)	SVO (S: Baldwin@20, V: "has", O: battle@23)	SVO (S: his@29, V: "has", O: daughter@30)	SVO (S: daughter@30, V: "has", O: life@32)
+190	
+191	SVO (V: contends@2, S: Baldwin@1, CCOMP: endeavored@18)	SVO (S: their@5, V: "has", O: separation@6)	SVC (S: wife@13, V: "is", C: Basinger@16)	SVO (S: his@11, V: "has", O: wife@13)	SVO (V: endeavored@18, S: wife@13, A?: after@4, XCOMP: deny@20)	SVO (S: his@24, V: "has", O: daughter@25)
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	SVO (S: their@3, V: "has", O: daughter@4)	SVC (C: inconvenient@11, V: being@10, S: it@9)
+202	
+203	
+204	
+205	SVO (V: contends@2, S: He@1, CCOMP: spent@4)	SVO (V: spent@4, S: she@3, O: $@6)
+206	
+207	
+208	
+209	SVC (S: 185@1, V: "is", C: 202@3)
+210	SVO (V: called@2, S: Baldwin@1, O: syndrome@6)
+211	
+212	
+213	
+214	SVO (V: called@3, S: Baldwin@1, XCOMP: opportunists@10)	SVOC (V: characterized@14, S: Baldwin@1, XCOMP: opportunists@10, O: psychologists@17, A?: as@18)	SV (V: opportunists@10, S: attorneys@5)	SVO (S: Basinger@15, V: "has", O: psychologists@17)
+215	SVOO (V: faulted@3, S: He@1, IO: them@4, O: more@5, A?: In@13)	SVOO (V: writes@10, S: He@1, IO: them@4, O: more@5, A?: In@13)	SVO (V: blame@17, S: I@16, CCOMP: faulted@3, A?: of@21)	SVO (S: my@18, V: "has", O: ex-wife@19)	SV (V: transpired@26, S: what@24)
+216	SVC (C: person@4, V: is@2, S: She@1, A?: like@6, A?: doing@11)	SVA (V: "be doing", S: person@4, O: best@13, A!: with@16)	SVO (V: can@15, S: she@14, O: best@13)	SVO (V: has@19, S: she@18, O: what@17)
+217	SVC (C: litigant@4, V: is@2, S: She@1, A?: therefore@7)	SV (V: walks@11, S: one@9, A?: into@12)	SVO (V: offered@18, S: one@9, A?: into@12, O: anything@19)	SVA (V: served@24, S: what@22, A!: there@25)
+218	
+219	
+220	
+221	
+222	SVO (V: wrote@2, S: Baldwin@1, CCOMP: spent@6)	SVO (V: spent@6, S: he@4, A?: over@7, O: Baldwin@12)
+223	
+224	
+225	SVO (S: his@8, V: "has", O: career@9)
+226	
+227	SVC (S: 99@1, V: "is", C: 102@3)
+228	
+229	
+230	
+231	SVA (V: lived@11, S: he@10, A!: in@12)
+232	
+233	SVC (S: 44@1, V: "is", C: 117@5)
+234	SVA (V: stay@4, S: he@2, A-: so@1, A!: in@5)	SVO (S: his@6, V: "has", O: daughter@7)	SVO (S: daughter@7, V: "has", O: life@9)
+235	SVO (V: contended@2, S: Baldwin@1, CCOMP: hit@12)	SVO (V: hit@12, S: he@11, A?: after@4, O: point@15)	SVOC (V: left@18, S: he@11, A?: after@4, O: point@15, O: message@22, A?: in@23)	SVOC (V: called@33, S: Baldwin@32, A?: in@30, XCOMP: pig@42, O: call@29)	SVO (S: his@34, V: "has", O: daughter@35)	SV (V: pig@42, S: daughter@35)
+236	
+237	
+238	
+239	SVO (V: contends@2, S: He@1, CCOMP: sold@7)	SVA (V: sold@7, S: tape@5, A!: to@8)	SVO (V: released@12, S: TMZ@9, O: recording@14, A?: despite@15)	SVA (V: "be related", S: laws@16, A!: to@21, A?: without@24)
+240	
+241	
+242	
+243	SVO (V: admitted@2, S: Baldwin@1, CCOMP: made@4)	SVOC (V: asked@9, S: Baldwin@1, CCOMP: made@4, XCOMP: judged@13)	SVO (V: made@4, S: he@3, O: mistake@6)	SVA (V: "be based", S: parent@16, A!: on@18)
+244	
+245	
+246	SVC (S: 101@1, V: "is", C: 151@3)
+247	SVO (V: admitted@3, S: He@1, A?: later@2, A?: to@4, A?: in@6, CCOMP: contemplated@11)	SVO (V: contemplated@11, S: he@10, O: suicide@12)	SVA (V: leaked@18, S: mail@16, A!: to@19)
+248	SVO (V: said@6, S: he@5, A?: Of@1, CCOMP: spoke@9)	SVA (V: spoke@9, S: I@8, A!: to@10)	SVO (V: helped@17, S: lot@12, O: me@18)
+249	SVO (V: committed@3, S: I@2, O: suicide@4)	SVO (S: Basinger@9, V: "has", O: side@11)	SVO (V: considered@15, S: ex-wife@7, A?: committed@3, XCOMP: victory@18)
+250	SVC (C: goal@6, V: was@3, S: Destroying@1)	SVO (S: their@4, V: "has", O: goal@6)
+251	
+252	SVO (V: Says@3, S: Baldwin@2, O: He@4)	SVC (S: June@15, V: "is", C: http@19)
+253	
+254	
+255	SVO (V: Says@3, S: Baldwin@2, O: He@4)	SVC (S: June@15, V: "is", C: http@19)
+256	
+257	SVA (V: "be speaking", S: Baldwin@9, A!: about@18)	SVO (V: toured@10, S: Baldwin@9, CCOMP: 2010-11-14@1, A?: in@11, A?: speaking@17)	SVO (S: his@19, V: "has", O: experiences@20)	SVA (V: "be related", S: experiences@20, A!: in@22)
+258	SVC (S: Italie@1, V: "is", C: Hillel@3)
+259	
+260	
+261	
+262	
+263	
+264	
+265	
+266	
+267	
+268	SVC (S: rails@3, V: "is", C: William@16)
+269	
+270	
+271	
+272	SVA (V: serves@2, S: Baldwin@1, A!: on@3)
+273	SVC (C: activist@6, V: is@2, S: He@1)	SVO (S: His@26, V: "has", O: Role@27)
+274	
+275	SVO (V: =@6, S: FA0C13FD355C0C718EDDAF0894DB404482@3, O: 14@7)	SVC (S: June@22, V: "is", C: 2003@25)	SVO (S: His@48, V: "has", O: Role@49)
+276	
+277	SVO (V: Goes@40, S: March@33, A?: to@41, O: Vries@28)	SVO (V: =@6, S: FA0C13FD355C0C718EDDAF0894DB404482@3, O: 14@7)	SVC (S: June@22, V: "is", C: Vries@28)
+278	
+279	
+280	
+281	
+282	SVO (V: Goes@22, S: March@15, A?: to@23, O: Treatment@12)
+283	
+284	
+285	
+286	
+287	SVOO (V: done@23, S: he@21, A?: for@19, O: work@24, IO: March@15)	SVO (V: includes@26, S: work@24, XCOMP: narrating@27)	SVA (V: "be entitled", S: video@29, O: Meat@33)	SVO (S: Your@32, V: "has", O: Meat@33)
+288	SVO (V: lent@3, S: Baldwin@1, A?: also@2, O: support@5, A?: Save@8)	SVA (V: "be Save", S: Baldwin@1, O: Club@11, A!: by@12)	SVO (S: his@4, V: "has", O: support@5)	SVA (V: "be record", S: donating@13, O: announcements@21)	SVO (S: his@14, V: "has", O: time@15)	SVO (V: contacted@28, S: group@24, O: him@29, A?: following@30)	SVO (S: his@31, V: "has", O: role@32)	SVOC (C: voice@51, V: was@49, S: he@48, A?: in@46, A?: of@52, O: episode@42)	SVA (V: "be working", S: biologist@54, XCOMP: save@57)
+289	
+290	SVO (V: _@2, S: org/news@1, O: pr_baldwin_psas@3)
+291	
+292	
+293	SVO (V: _@2, S: org/news@1, O: pr_baldwin_psas@3)
+294	
+295	SVC (S: July@1, V: "is", C: days@34)	SVOO (V: Save@9, S: August@5, O: Club@12, A?: During@13, IO: July@1)	SVO (S: his@14, V: "has", O: appearance@15)	SVOC (V: was@39, S: Clinton@38, XCOMP: impeached@42, O: days@34)	SVA (V: said@45, S: Baldwin@44, A?: July@1, A!: were@50)	SVA (V: were@50, S: we@49, A!: in@51)
+296	SV (V: stone@3, S: we@1)	SVO (V: kill@16, S: we@1, O: wives@18)	SVA (V: go@11, S: we@9, A!: to@12)	SVO (S: their@13, V: "has", O: homes@14)	SVO (S: their@17, V: "has", O: wives@18)	SVO (S: their@20, V: "has", O: children@21)
+297	SVO (V: kill@3, S: We@1, O: families@5, A?: for@7)	SVO (S: their@4, V: "has", O: families@5)	SVO (V: doing@11, S: they@9, O: what@8, A?: to@12)
+298	
+299	
+300	
+301	
+302	SVC (S: December@3, V: "is", C: 1998@6)	SVC (S: March@10, V: "is", C: http@14)
+303	
+304	
+305	
+306	
+307	
+308	SVC (S: December@3, V: "is", C: 1998@6)	SVC (S: March@10, V: "is", C: http@14)
+309	
+310	SVA (V: apologized@8, S: Baldwin@6, A?: November@1, A?: later@7, A!: for@9)	SVO (V: explained@16, S: network@15, CCOMP: meant@19)	SVA (V: meant@19, S: it@17, A!: as@20)	SVO (V: promised@24, S: it@17, A?: as@20, XCOMP: rerun@27)
+311	SVO (V: said@2, S: Baldwin@1, A?: in@3, CCOMP: prefer@24)	SVC (V: become@16, S: he@14, ACOMP: involved@17)	SVO (V: prefer@24, S: he@22, A?: become@16, XCOMP: run@26)
+312	SVA (V: qualified@6, S: he@4, A!: for@7)	SVO (V: responded@12, S: Baldwin@11, A?: asked@2, CCOMP: considered@15)	SVO (V: considered@15, S: he@14, XCOMP: qualified@19)	SVA (V: qualified@19, S: himself@16, A?: more@18, A!: than@20)
+313	SVO (V: reported@7, S: Daily@6, A?: In@1, CCOMP: mulling@11)	SVO (V: mulling@11, S: Baldwin@9, O: run@14, A?: in@22)	SVO (S: Weiner@35, V: "has", O: scandal@38)
+314	
+315	
+316	SVC (S: June@4, V: "is", C: http@16)
+317	
+318	SVC (S: June@4, V: "is", C: Johnson@13)	SVOC (V: said@25, S: Baldwin@24, A?: However@16, A?: on@18, CCOMP: abandoning@28, O: Johnson@13)	SVOC (V: said@25, S: Daily@15, A?: However@16, A?: on@18, CCOMP: abandoning@28, O: Johnson@13)	SVO (V: abandoning@28, S: he@26, O: plans@29)	SVO (V: continue@38, S: he@26, O: plans@29, A?: instead@37, A?: in@39)	SVA (V: "be run", S: plans@29, A!: for@32)	SVO (S: his@40, V: "has", O: role@41)
+319	
+320	SVO (V: rules@3, S: Baldwin@2, O: campaign@8)
+321	SVO (V: rules@3, S: Baldwin@2, O: campaign@8)	SVOC (V: spoke@28, S: Baldwin@27, CCOMP: rules@3, XCOMP: encourage@31)	SVO (S: York@37, V: "has", O: break@40)	SVA (V: reinstated@57, S: breaks@54, A!: into@58)	SVA (V: going@68, S: production@63, A?: reinstated@57, A!: to@69)	SVO (V: going@75, S: stating@48, A?: to@76, O: spoke@28)	SVC (V: going@82, S: it@79, XCOMP: go@84)
+322	
+323	
+324	SVA (V: "be Extend", S: Calls@3, O: February@11)	SVC (S: August@15, V: "is", C: http@19)
+325	
+326	SVA (V: "be Extend", S: Calls@3, CCOMP: slated@27)	SVC (S: February@11, V: "is", C: Baldwin@25)	SVC (S: February@11, V: "is", C: August@15)	SVO (V: slated@27, S: February@11, XCOMP: appear@29)
+327	SVO (V: cut@8, S: producers@4, A?: However@1, O: portion@10)	SVA (V: "be containing", S: skit@13, O: reference@16)
+328	SVOC (V: told@2, S: Baldwin@1, O: Live@5, CCOMP: asked@8)	SVOC (V: asked@8, S: he@7, O: them@9, XCOMP: air@12)	SVO (S: his@13, V: "has", O: performance@14)
+329	SV (V: complied@2, S: Producers@1)	SVA (V: replaced@6, S: he@4, A!: with@7)
+330	SVO (V: nixed@8, S: joke@7, O: http@9)
+331	
+332	SVO (V: =@6, S: D9PRAQ100@3, O: breitbart.com@8)
+333	
+334	SVO (V: nixed@12, S: joke@11, O: http@13)
+335	
+336	SVO (V: =@6, S: D9PRAQ100@3, O: breitbart.com@8)
+337	
+338	
+339	
+340	
+341	SVA (V: "be receive", S: Baldwin@2, O: award@5, A!: at@6)	SVC (S: August@12, V: "is", C: April@16)	SVC (S: August@12, V: "is", C: http@20)
+342	
+343	
+344	
+345	
+346	SVA (V: "be receive", S: Baldwin@2, O: award@5, A!: at@6)	SVC (S: August@12, V: "is", C: April@16)	SVC (S: August@12, V: "is", C: http@20)
+347	
+348	
+349	
+350	
+351	
+352	
+353	
+354	
+355	
+356	SV (V: =@2, S: html?categoryid@1)
+357	SVOC (V: makes@3, S: crowd@2, O: room@4, O: www.webcitation@17)
+358	
+359	
+360	SV (V: =@2, S: html?categoryid@1)
+361	SVOC (V: makes@3, S: crowd@2, O: room@4, O: www.webcitation@17)
+362	
+363	
+364	
+365	
+366	
+367	
+368	
+369	SVC (S: Gray@2, V: "is", C: 1986@4)
+370	SVO (V: =@3, S: r@2, O: slogin@8)	SVA (V: "be Getting", S: slogin@8, A!: In@10)
+371	SVO (V: =@3, S: r@2, O: slogin@8)	SVA (V: "be Getting", S: slogin@8, A!: In@10)	SVC (S: Chenoweth@26, V: "is", C: http@33)
+372	
+373	
+374	SVC (S: Chenoweth@6, V: "is", C: http@13)
+375	
+376	
+377	
+378	
+379	
+380	
+381	
+382	
+383	
+384	
+385	
+386	
+387	
+388	SVA (V: "be receive", S: Baldwin@2, O: award@5, A!: at@6)	SVC (S: August@12, V: "is", C: April@16)	SVC (S: August@12, V: "is", C: http@20)
+389	
+390	
+391	
+392	
+393	SVA (V: "be receive", S: Baldwin@2, O: award@5, A!: at@6)	SVC (S: August@12, V: "is", C: April@16)	SVC (S: August@12, V: "is", C: http@20)
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	SV (V: =@2, S: html?categoryid@1)
+404	SVOC (V: makes@3, S: crowd@2, O: room@4, O: www.webcitation@17)
+405	
+406	
+407	SV (V: =@2, S: html?categoryid@1)
+408	SVOC (V: makes@3, S: crowd@2, O: room@4, O: www.webcitation@17)
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	SVC (S: Gray@2, V: "is", C: 1986@4)
+417	SVO (V: =@3, S: r@2, O: slogin@8)	SVA (V: "be Getting", S: slogin@8, A!: In@10)
+418	SVO (V: =@3, S: r@2, O: slogin@8)	SVA (V: "be Getting", S: slogin@8, A!: In@10)	SVC (S: Chenoweth@26, V: "is", C: http@33)
+419	
+420	
+421	SVC (S: Chenoweth@6, V: "is", C: http@13)
+422	
+423	
+424	
+425	
+426	
+427	
+428	
+429	
+430	
+431	
+432	SVC (S: Studio@8, V: "is", C: Awards@11)	SVC (S: Baldwin@15, V: "is", C: actor@24)	SVC (S: April@25, V: "is", C: York@32)	SVC (S: April@25, V: "is", C: U.S.@34)
+433	SVC (S: Globe@77, V: "is", C: television@79)	SVC (S: winners@86, V: "is", C: Category@87)	SVC (S: winners@155, V: "is", C: ar@156)	SVO (V: ca@168, S: Болдуин@167, O: cs@172)	SVO (V: es@192, S: Baldwin@191, O: fa@196)
+434	
+435	
+436	SV (V: =@19, S: #v@14)
+437	SVO (V: Wired@13, S: Baldwin@12, O: Publications@16)	SVC (S: December@20, V: "is", C: January@24)
+438	

@@ -1,0 +1,744 @@
+0	SVOC (V: use@4, S: systems@2, O: kernel@7, O: kernel@9)	SVC (S: penguin@16, V: "is", C: mascot@18)
+1	
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	SVO (V: əks@9, S: LIN@8, O: http@10)
+18	SVO (S: Safalra@8, V: "has", O: http@12)
+19	SVO (S: Safalra@8, V: "has", O: http@12)
+20	
+21	SVO (V: s@17, S: June@9, O: uuks@19)	SV (V: comp.os@21, S: Dictionary@5)
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	SVA (V: "be assembled", S: system@16, A!: under@18)	SVC (C: system@16, V: is@11, S: Linux@4, A?: assembled@17)
+40	SVC (S: kernel@11, V: "is", C: kernel@16)	SVC (C: kernel@11, V: is@8, S: component@3)	SVA (V: "be released", S: first@17, A!: October@19, A?: by@23)
+41	
+42	
+43	SVO (V: =@2, S: pli@1, O: 1@3)
+44	
+45	
+46	SVO (V: =@2, S: pli@1, O: 1@3)
+47	SVC (C: Linux@7, V: Is@6, S: September@1)	SV (V: https@16, S: Overview@10)
+48	SVC (C: Linux@7, V: Is@6, S: Foundation@2)	SVO (V: https@16, S: Overview@10, O: www.linux.com/learn/resource-center/376-linux-is-everywhere-an-overview-of-the-linux-operating-system@20)
+49	SVA (V: vary@9, S: distributions@7, A!: in@10)
+50	
+51	
+52	
+53	
+54	
+55	
+56	
+57	
+58	SVC (S: October@4, V: "is", C: console@10)	SVC (S: October@4, V: "is", C: computers@13)
+59	
+60	
+61	
+62	
+63	
+64	SVOC (V: stack@9, S: smartphone@8, O: Devices@12, O: www.linuxfordevices.com/c/a/News/Trolltech-rolls-complete-Linux-smartphone-stack@19)
+65	SVOC (V: stack@9, S: smartphone@8, O: Devices@12, O: www.computerworld.com/s/article/9142007/IBM_s_newest_mainframe_is_all_Linux@26)	SVO (S: IBM@15, V: "has", O: mainframe@18)	SVC (C: http@22, V: is@19, S: mainframe@18)
+66	SVO (S: IBM@6, V: "has", O: mainframe@9)	SVOC (C: http@13, V: is@10, S: mainframe@9, O: Thibodeau@4)
+67	SV (V: http@9, S: supercomputers@8)
+68	
+69	SV (V: http@9, S: supercomputers@8)
+70	
+71	SVC (C: system@12, V: is@7, S: Linux@6)	SVOC (C: runs@15, V: is@7, S: Linux@6, O: supercomputers@19, A?: in@20)
+72	SVC (S: Burkhardt@2, V: "is", C: http@5)
+73	
+74	SVC (S: Burkhardt@3, V: "is", C: http@6)
+75	
+76	SVO (S: today@10, V: "has", O: supercomputers@12)	SVOO (V: run@13, S: %@8, O: variant@15, IO: 2011-09-15@1)
+77	
+78	
+79	
+80	
+81	SVC (C: one@7, V: is@6, S: development@3, A?: of@8)	SVO (S: code@24, V: used@27, O: one@7)
+82	SVA (V: packaged@4, S: Linux@2, A?: Typically@1, A!: in@5)	SVA (V: "be known", S: format@7, A!: as@9)
+83	SVO (V: include@6, S: distributions@5, O: Debian@7)	SVO (S: its@10, V: "has", O: derivatives@11)
+84	SVOC (V: include@3, S: distributions@2, O: kernel@6, XCOMP: supporting@8)	SVA (V: "be fulfill", S: amount@16, O: use@26)	SVO (S: distribution@23, V: "has", O: use@26)
+85	SVA (V: "be oriented", S: distribution@2, A!: toward@4)	SVO (V: include@8, S: distribution@2, O: System@12)
+86	SVO (V: include@4, S: distributions@2, O: desktop@9)
+87	SVA (V: "be intended", S: distribution@2, XCOMP: run@5)	SVOC (V: omit@10, S: distribution@2, O: environments@13, CCOMP: install@17)
+88	SVC (C: redistributable@5, V: is@3, S: Linux@2, A?: freely@4)	SVO (V: create@9, S: anyone@7, A?: redistributable@5, O: distribution@11)
+89	
+90	
+91	SVA (V: "be orginated", S: supporting@4, A!: in@12)	SVOO (V: prefers@28, S: Foundation@27, O: GNU/Linux@31, IO: Stallman@22)
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	
+100	
+101	
+102	
+103	
+104	SVA (V: conceived@10, S: History@2, A!: at@15, A?: in@20, A?: by@24)	SVA (V: implemented@12, S: History@2, A!: in@13, A?: at@15, A?: in@20, A?: by@24)	SVO (S: AT&T@16, V: "has", O: Laboratories@19)
+105	SVA (V: released@4, S: It@1, A?: first@3, A!: in@5)	SVA (V: written@11, S: It@1, A?: first@3, A?: in@5, A?: initially@9, A?: entirely@10, A!: in@12)	SVC (S: language@14, V: "is", C: practice@18)
+106	SVC (C: re-written@13, V: was@12, S: Unix@11, A?: Later@1, A?: in@3, A?: in@14, A?: by@19)
+107	SVA (V: "be written", S: system@6, A!: in@8)	SVO (V: allowed@12, S: availability@2, O: portability@14, A?: to@15)
+108	SVA (V: "be forcing", S: glitch@4, O: AT&T@6, XCOMP: license@8)	SVO (S: system@11, V: "has", O: code@14)	SVC (S: anyone@16, V: "is", C: http@20)	SV (V: asked@18, S: anyone@16)
+109	
+110	
+111	
+112	
+113	
+114	SV (V: grew@4, S: Unix@2, A?: quickly@3)	SVC (V: became@6, S: Unix@2, A?: quickly@3, ACOMP: adopted@8)
+115	SVO (V: divested@5, S: AT&T@4, A?: In@1, O: itself@6, A?: of@7)
+116	SVA (V: "be requiring", S: glitch@5, O: licensing@8)	SVO (V: began@12, S: Free@1, XCOMP: selling@13)	SVO (V: began@12, S: Labs@11, XCOMP: selling@13)
+117	SVO (V: started@12, S: Project@10, A?: in@13, A?: by@15, O: founder@4)	SVO (V: had@19, S: founder@4, O: goal@21)	SVA (V: "be composed", S: creating@23, A!: of@35)
+118	SVA (V: began@2, S: Work@1, A!: in@3)
+119	
+120	
+121	
+122	
+123	
+124	
+125	SVOO (V: started@9, S: Stallman@8, O: Foundation@13, IO: 2009-03-09@2)	SVOO (V: wrote@15, S: Stallman@8, O: Foundation@13, O: License@20, IO: 2009-03-09@2)	SVC (S: License@20, V: "is", C: GPL@23)
+126	SVA (V: "be required", S: programs@9, A!: in@11)	SV (V: stalled@51, S: elements@39)	SV (V: incomplete@53, S: elements@39)
+127	
+128	
+129	
+130	
+131	
+132	
+133	SVO (V: said@5, S: Torvalds@3, CCOMP: decided@25)	SVC (C: available@13, V: been@12, S: kernel@10, A?: at@14)	SVC (S: time@16, V: "is", C: 1991@18)	SVO (V: decided@25, S: he@21, A?: available@13, XCOMP: write@27)	SVO (S: his@28, V: "has", O: own@29)
+134	
+135	
+136	
+137	
+138	
+139	
+140	SVC (S: complications@11, V: "is", C: development@13)	SVO (V: descended@22, S: NetBSD@19, A?: from@17, O: 386BSD@15)	SVO (V: predated@24, S: debate@2, O: that@25)
+141	SVO (V: said@4, S: Torvalds@2, CCOMP: created@20)	SVC (C: available@10, V: been@9, S: 386BSD@7, A?: at@11)	SVO (V: created@20, S: he@15, A?: available@10, A?: probably@16, O: Linux@21)
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	SVC (S: Tanenbaum@1, V: "is", C: author@6)	SVC (S: Torvalds@15, V: "is", C: right@17)	SVC (S: Torvalds@15, V: "is", C: author@21)	SVC (C: system@33, V: is@27, S: Tanenbaum@1, A?: designed@35, A?: written@42)	SVA (V: "be designed", S: system@33, A!: for@36)	SVA (V: "be written", S: system@33, A!: by@43)
+150	
+151	SVC (C: free@8, V: was@7, S: Starting@1)	SVC (C: redesigned@10, V: was@7, S: Starting@1, A?: for@11)
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	
+161	
+162	SVO (V: limited@13, S: MINIX@10, O: it@14, A?: to@15, A?: only@18)	SVOC (V: prevented@20, S: MINIX@10, O: it@14, A?: to@15, A?: only@18, O: use@23)
+163	SVO (V: began@2, S: He@1, XCOMP: work@4)	SVO (S: his@6, V: "has", O: system@9)	SVO (V: became@12, S: system@9, A?: eventually@11, O: kernel@15)
+164	SVO (V: began@2, S: Torvalds@1, O: development@4)	SVA (V: "be written", S: applications@13, A!: for@15)	SVA (V: used@19, S: applications@13, A?: also@18, A!: on@20)
+165	SV (V: matured@3, S: Linux@2, A?: Later@1)	SVOA (V: took@8, S: development@7, O: place@9, A!: on@10)
+166	
+167	
+168	
+169	
+170	
+171	
+172	
+173	
+174	SVO (V: replaced@4, S: applications@2, A?: also@3, O: components@7, A?: advantageous@12)	SVC (C: advantageous@12, V: was@11, S: it@10, XCOMP: use@14)
+175	SVA (V: licensed@3, S: Code@2, A!: under@4)	SVA (V: released@20, S: they@17, A?: also@18, A!: under@21)
+176	SVA (V: available@7, S: Linux@6, A!: for@8)	SVO (V: initiated@13, S: Torvalds@12, O: switch@15)	SVO (S: his@17, V: "has", O: license@19)	SVO (V: prohibited@22, S: license@19, O: redistribution@24)
+177	SVA (V: notes@2, S: Release@1, A!: for@3)
+178	
+179	
+180	SVO (V: change@12, S: copyright@10, O: Archives@7)	SVO (V: had@16, S: I@14, O: couple@18, A?: removing@30)	SVA (V: "be removing", S: I@14, O: the@31)	SVA (V: "be make", S: requests@20, O: it@23)	SVO (V: distribute@36, S: you@33, O: it@37, A?: for@38)
+181	SV (V: agree@2, S: I@1)
+182	SVO (V: propose@2, S: I@1, CCOMP: changed@7)	SVO (V: changed@7, S: copyright@5, A-: so@8, CCOMP: confirms@11)	SVO (V: confirms@11, S: it@10, A?: to@12, XCOMP: pending@15)	SVO (V: helped@22, S: persons@19, CCOMP: write@23)
+183	SVO (V: assume@2, S: I@1, CCOMP: going@5)	SVC (V: going@5, S: this@3, XCOMP: problem@9)	SVO (V: have@15, S: you@14, O: grievances@16)	SVO (V: wrote@20, S: I@19, CCOMP: mail@32)	SVA (V: "be assuming", S: code@22, CCOMP: stay@27)	SV (V: stay@27, S: copyright@25)
+184	SVOA (V: takes@5, S: copyleft@4, A?: Otherwise@1, O: effect@6, A!: since@7)
+185	SVO (V: know@5, S: you@2, CCOMP: read@13)	SVO (V: read@13, S: gist@7, O: it@14)
+186	SVA (V: notes@2, S: Release@1, A!: for@3)
+187	
+188	
+189	SVO (V: change@12, S: copyright@10, O: Archives@7)	SVO (V: had@16, S: I@14, O: couple@18, A?: removing@30)	SVA (V: "be removing", S: I@14, O: the@31)	SVA (V: "be make", S: requests@20, O: it@23)	SVO (V: distribute@36, S: you@33, O: it@37, A?: for@38)
+190	SV (V: agree@2, S: I@1)
+191	SVO (V: propose@2, S: I@1, CCOMP: changed@7)	SVO (V: changed@7, S: copyright@5, A-: so@8, CCOMP: confirms@11)	SVO (V: confirms@11, S: it@10, A?: to@12, XCOMP: pending@15)	SVO (V: helped@22, S: persons@19, CCOMP: write@23)
+192	SVO (V: assume@2, S: I@1, CCOMP: going@5)	SVC (V: going@5, S: this@3, XCOMP: problem@9)	SVO (V: have@15, S: you@14, O: grievances@16)	SVO (V: wrote@20, S: I@19, CCOMP: mail@32)	SVA (V: "be assuming", S: code@22, CCOMP: stay@27)	SV (V: stay@27, S: copyright@25)
+193	SVOA (V: takes@5, S: copyleft@4, A?: Otherwise@1, O: effect@6, A!: since@7)
+194	SVO (V: know@5, S: you@2, CCOMP: read@13)	SVO (V: read@13, S: gist@7, O: it@14)
+195	SVO (V: worked@2, S: Developers@1, XCOMP: integrate@4)	SVA (V: "be make", S: integrate@4, O: system@17)
+196	
+197	
+198	SV (V: stack@25, S: using@20)
+199	SVO (V: Turn@3, S: Michael@2, A?: on@4, A?: with@7, O: www.techsoup.org/learningcenter/webbuilding/page5067.cfm@13)
+200	SVO (V: Turn@4, S: Michael@3, A?: on@5, A?: with@8, O: www.techsoup.org/learningcenter/webbuilding/page5067.cfm@14)
+201	SV (V: growing@13, S: Use@2)
+202	SVC (S: Desktop@6, V: "is", C: Strategist@8)	SVO (V: Says@9, S: Desktop@6, O: Inc.@14)
+203	
+204	
+205	SV (V: Says@12, S: Inc.@17)	SV (V: Says@12, S: Strategist@11)
+206	
+207	
+208	SVA (V: "be set", S: share@8, XCOMP: surpass@11)	SVC (S: Technica@23, V: "is", C: http@26)
+209	
+210	SVA (V: "be set", S: share@8, XCOMP: surpass@11)	SVC (S: Technica@23, V: "is", C: http@26)
+211	
+212	SVA (V: "be play", S: Vista@6, O: fiddle@10, A!: to@11, A?: until@13)
+213	
+214	
+215	SVA (V: "be play", S: Vista@5, O: fiddle@9, A!: to@10, A?: until@12)
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	SVO (V: Stats@3, S: Web@2, O: http@11)
+231	
+232	SVO (V: Stats@3, S: Web@2, O: http@11)
+233	
+234	
+235	
+236	
+237	
+238	SVO (V: gained@4, S: They@1, A?: also@3, O: popularity@5, A?: with@6)
+239	SVA (V: known@8, S: government@3, A?: well@7, A!: for@9)	SVO (S: its@10, V: "has", O: support@11)
+240	
+241	SVO (S: Brazil@1, V: "has", O: love@3)
+242	
+243	
+244	
+245	
+246	SVA (V: falls@2, S: Brazil@1, A!: in@3, A?: with@5)	SVA (V: "be creating", S: military@17, O: distribution@22)	SVO (S: its@19, V: "has", O: distribution@22)
+247	
+248	
+249	SV (V: improve@8, S: standards@7)
+250	SVO (V: improve@8, S: standards@7, CCOMP: gone@20)	SVA (V: gone@20, S: state@16, A!: to@21)	SVO (V: run@31, S: schools@30, O: Linux@32, A?: on@33)	SVO (S: their@34, V: "has", O: computers@35)
+251	
+252	
+253	SVO (S: its@3, V: "has", O: Wings@4)
+254	
+255	SVO (S: its@3, V: "has", O: Wings@4)
+256	SVOC (V: shuts@2, S: Kerala@1, O: windows@3, XCOMP: use@7, O: www.indianexpress.com/news/kerala-shuts-windows-schools-to-use-only-linux/280323/0@15)	SVC (S: windows@3, V: "is", C: schools@5)
+257	SVO (V: shuts@2, S: Kerala@1, O: windows@3, A?: use@7)	SVA (V: "be use", S: Kerala@1, O: Linux@9, A!: exclusively@14, A?: as@15, XCOMP: achieve@25)	SVC (S: windows@3, V: "is", C: schools@5)	SVOO (V: uses@12, S: China@11, O: Linux@13, IO: Linux@9)	SVO (S: its@20, V: "has", O: family@23)
+258	
+259	
+260	
+261	
+262	
+263	
+264	SVO (S: China@7, V: "has", O: Report@13)	SVOO (V: developed@19, S: regions@17, O: distributions@23, IO: %@1)	SVO (S: their@20, V: "has", O: distributions@23)	SVA (V: used@28, S: distributions@23, A?: widely@27, A!: in@29)
+265	SVOC (V: using@4, S: Portugal@1, A?: also@3, O: Mágica@10, O: www.caixamagica.pt/pag/f_notc00.php@21)	SVO (S: its@5, V: "has", O: Mágica@10)	SVA (V: "be used", S: Mágica@10, A!: in@13)
+266	SVA (V: "be equipped", S: Magalhães@4, A!: with@6)
+267	SVA (V: "be equipped", S: Magalhães@4, A!: with@6)
+268	
+269	
+270	SVO (V: taken@17, S: id@1, A?: also@16, O: steps@18)
+271	
+272	
+273	SVOC (V: choosing@4, S: countries@2, O: systems@6, O: seattlepi.com/business/48925_linuxop01@19)
+274	
+275	SVO (V: choosing@4, S: countries@2, O: systems@6)	SVA (V: "be installed", S: distributions@43)
+276	
+277	
+278	SVO (V: continues@9, S: Torvalds@8, XCOMP: direct@11)	SVO (V: continues@9, S: London@2, XCOMP: direct@11)
+279	
+280	
+281	
+282	
+283	SVO (V: heads@10, S: Stallman@9, O: Foundation@14)	SVC (S: Foundation@14, V: "is", C: http@16)
+284	
+285	SVO (V: supports@12, S: November@7, A?: in@10, O: components@15)
+286	
+287	
+288	
+289	
+290	SVO (V: develop@9, S: individuals@6, A?: Finally@4, O: components@14)
+291	SVO (V: comprise@4, S: components@3, O: body@7)	SVOC (V: include@12, S: components@3, O: body@7, O: modules@15)
+292	SVO (V: combine@5, S: vendors@2, O: kernel@9, A?: with@20)	SVO (V: distribute@7, S: vendors@2, O: kernel@9, A?: with@20)
+293	SVC (C: system@14, V: is@9, S: Linux@5)
+294	SVA (V: derives@2, S: It@1, A!: much@3)	SVO (S: its@5, V: "has", O: design@7)	SVA (V: "be established", S: principles@9, A!: in@11, A?: during@13)
+295	SVOC (V: uses@4, S: system@3, O: kernel@7, O: kernel@11)	SVO (V: handles@14, S: kernel@11, O: control@16)
+296	SVA (V: integrated@5, S: drivers@2, A?: either@4, A!: directly@6, A?: with@7)	SVA (V: added@11, S: drivers@2, A?: either@4, A?: directly@6, A?: with@7, A!: as@12)	SVA (V: "be loaded", S: modules@13, A!: running@19)	SV (V: running@19, S: system@17)
+297	SVA (V: interface@4, S: projects@2, A!: with@5)	SVO (V: provide@8, S: projects@2, O: much@9)	SVO (S: system@12, V: "has", O: functionality@15)
+298	SVC (C: part@7, V: is@4, S: userland@3, A?: of@8)	SVA (V: "be providing", S: systems@13, O: implementation@19)	SVO (V: carry@37, S: tool@35, O: tasks@43)
+299	SVC (S: interface@4, V: "is", C: GUI@7)	SVA (V: "be used", S: interface@4, A!: by@10)	SVA (V: built@15, S: interface@4, A!: on@16)
+300	SVO (V: operate@7, S: Users@6, O: system@12, A?: through@13)	SVC (S: interface@17, V: "is", C: CLI@19)	SVC (S: interface@17, V: "is", C: interface@25)	SVC (S: interface@25, V: "is", C: GUI@27)	SVA (V: "be attached", S: controls@32, A!: to@34)	SVC (C: common@41, V: is@40, S: hardware@37, A?: for@42)
+301	SVC (C: interface@13, V: is@8, S: mode@7, A?: For@1, A?: usually@9)	SVOC (C: available@20, V: is@19, S: CLI@18, A?: by@15, A?: through@21, O: interface@13)
+302	SVO (V: use@11, S: components@4, O: CLI@13, A?: exclusively@14)
+303	SVA (V: suited@5, S: CLI@2, A?: particularly@4, A!: for@6)	SVO (V: provides@15, S: CLI@2, A?: particularly@4, A?: for@6, O: communication@19)
+304	SVO (V: used@8, S: program@5, A?: often@7, XCOMP: access@10)
+305	SVO (V: implements@5, S: system@3, A?: typically@4, O: CLI@7, A?: by@8)	SVC (C: way@17, V: is@13, S: shell@10, A?: also@14, A?: of@18)
+306	SVA (V: "be specialized", S: distribution@3, A!: for@5)	SVO (V: use@8, S: distribution@3, O: CLI@10, A?: as@11)	SVO (S: its@12, V: "has", O: interface@14)
+307	
+308	
+309	
+310	
+311	SV (V: exist@8, S: variety@3)
+312	SVA (V: based@6, S: interfaces@4, A!: on@7)
+313	SVO (V: provides@2, S: It@1, O: transparency@4)	SVOC (V: permits@6, S: It@1, O: transparency@4, O: application@9)	SVA (V: "be running", S: application@9, A!: on@11, XCOMP: displayed@16)	SVO (V: interact@23, S: user@21, A?: where@19, A?: with@24, O: another@18)
+314	
+315	SVA (V: classified@8, S: GUIs@5, A?: on@1, A!: as@9)	SVO (V: provide@26, S: manager@13, O: functionality@29, A?: with@30)
+316	SVO (V: provides@4, S: manager@3, O: means@6)	SVO (V: interacts@19, S: manager@3, O: means@6, A?: with@20)	SVA (V: "be control", S: means@6, O: placement@10)
+317	SVO (V: include@4, S: environments@3, O: managers@6, A?: as@7, A?: choose@33)	SVO (S: their@10, V: "has", O: installations@12)	SVC (S: Mutter@14, V: "is", C: Kwin@18)	SVC (S: Mutter@14, V: "is", C: Xfwm@22)	SVO (V: choose@33, S: users@31, XCOMP: use@35)
+318	
+319	
+320	
+321	SVOC (V: is@15, S: difference@5, CCOMP: free@24, O: distribution@2)	SVC (C: free@24, V: are@23, S: kernel@19)
+322	SVC (C: system@8, V: is@2, S: Linux@1, A?: is@12)	SVA (V: is@12, S: it@11, A!: by@13)
+323	
+324	
+325	
+326	
+327	
+328	
+329	SVA (V: based@23, S: Share@12, A!: on@24)	SVC (S: copyleft@28, V: "is", C: kind@31)	SVA (V: "be derived", S: work@36, A!: from@38)	SVC (C: copyleft@47, V: be@46, S: work@36, A?: also@45, A?: itself@48)
+330	SVC (S: license@6, V: "is", C: GPL@10)	SVC (C: form@14, V: is@12, S: license@6, A?: of@15)	SVC (C: used@20, V: is@12, S: license@6, A?: of@15, A?: for@21)
+331	SVA (V: intended@5, S: distributions@3, A!: by@6, A?: for@8)
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	
+341	
+342	
+343	
+344	SVC (C: .1@24, V: been@22, S: distribution@20, A?: to@15)
+345	
+346	
+347	
+348	SV (V: http@15, S: FAQ@11)
+349	
+350	
+351	SV (V: http@11, S: September@2)
+352	
+353	
+354	SVA (V: produced@17, S: projects@6, A?: often@16, A!: independently@18)
+355	SVO (V: permit@8, S: licenses@6, A?: explicitly@7, O: redistribution@9, A?: however@11)	SVO (V: collect@21, S: projects@19, O: software@23)	SVOC (V: make@29, S: projects@19, O: software@23, XCOMP: available@31)	SVA (V: "be produced", S: software@23, A!: by@25)	SV (V: available@31, S: it@30)
+356	SVA (V: "be called", S: distribution@3, A!: commonly@5)	SVC (C: project@14, V: is@12, S: distribution@3)	SVO (V: manages@16, S: project@14, O: collection@19)
+357	SVOC (V: allows@2, S: This@1, O: user@4, XCOMP: adapt@6)	SVA (V: "be his/her", S: adapt@6, O: needs@13)
+358	SVA (V: maintained@3, S: Distributions@1, A!: by@4)
+359	SVC (C: responsible@4, V: is@3, S: distribution@2, A?: for@5)
+360	SVO (V: use@3, S: Distributions@1, A?: typically@2, O: manager@6)	SVO (S: system@26, V: "has", O: software@28)
+361	SVA (V: driven@11, S: distribution@8, A?: largely@10, A!: by@12)	SVO (S: its@13, V: "has", O: developer@14)
+362	SV (V: develop@3, S: vendors@2)	SVO (V: fund@5, S: vendors@2, O: distributions@7, A?: on@8)	SVO (S: their@6, V: "has", O: distributions@7)	SVC (C: example@17, V: being@14, S: Debian@13)
+363	SVO (V: maintain@2, S: Others@1, O: version@5, A?: does@14)	SVO (S: their@7, V: "has", O: distributions@9)	SVA (V: does@14, S: Hat@13, A!: with@15)
+364	SVA (V: "be known", S: associations@8, A!: seek@17)	SVC (S: Group@13, V: "is", C: LUGs@15)	SVO (V: seek@17, S: Group@13, XCOMP: promote@19)	SVO (S: their@20, V: "has", O: distribution@22)
+365	SVO (V: hold@2, S: They@1, O: meetings@3)	SVOC (V: provide@5, S: They@1, O: meetings@3, O: demonstrations@7)
+366	SVO (V: provide@5, S: communities@3, A?: also@4, O: support@6)
+367	SVO (V: have@10, S: projects@9, O: chatrooms@12)
+368	
+369	
+370	
+371	EXISTENTIAL (V: are@2, S: websites@5)
+372	SVO (V: include@6, S: Print@1, A?: often@5, O: disk@8)
+373	
+374	
+375	
+376	
+377	SVC (S: August@1, V: "is", C: http@5)
+378	
+379	
+380	
+381	SVC (S: August@1, V: "is", C: http@5)
+382	
+383	
+384	
+385	
+386	
+387	SVC (C: available@9, V: are@7, S: distributions@6, A?: generally@8, A?: without@10)	SV (V: sell@16, S: Magazine@3, A?: available@9)	SV (V: support@18, S: Magazine@3, A?: available@9)	SVA (V: contribute@21, S: Magazine@3, A?: available@9, A!: to@22)	SV (V: sell@16, S: corporations@15, A?: available@9)	SV (V: support@18, S: corporations@15, A?: available@9)	SVA (V: contribute@21, S: corporations@15, A?: available@9, A!: to@22)
+388	SVOA (V: showed@7, S: analysis@2, O: percent@9, A!: from@13)	SVA (V: "be working", S: programmers@22, A!: for@24)
+389	
+390	
+391	SVA (V: "be written", S: %@2, A!: now@6, A?: by@8)
+392	
+393	SVA (V: "be written", S: %@2, A!: now@6, A?: by@8)	SV (V: contribute@19, S: corporations@17)	SVOO (V: include@20, S: Some@13, O: Dell@21, IO: APC@11)	SVC (S: Microsystems@30, V: "is", C: part@33)
+394	SVO (V: built@13, S: number@2, O: business@16)
+395	SVA (V: "be built", S: distribution@14, A!: on@16)	SVO (V: based@21, S: packages@11, A?: on@6, O: licenses@4)	SV (V: accommodate@24, S: licenses@4, A?: explicitly@23)	SVO (V: encourage@26, S: licenses@4, A?: explicitly@23, O: commercialization@27)	SVA (V: seen@43, S: relationship@30, A!: as@44)
+396	SVA (V: charging@9, S: model@4, A!: for@10, A?: for@14)
+397	SVO (V: offer@6, S: number@2, A?: also@5, O: version@10)	SVO (S: their@12, V: "has", O: distribution@13)	SVO (V: adds@16, S: version@10, O: packages@19)	SVA (V: "be administer", S: tools@21, O: numbers@25)
+398	SVC (V: is@4, S: model@3, XCOMP: give@6)
+399	SVA (V: "be used", S: This@1, XCOMP: norm@6, A!: with@12, A?: to@27)
+400	
+401	SVA (V: standardized@4, S: hardware@3, A!: throughout@5)	SVC (V: became@10, S: it@9, A?: standardized@4, ACOMP: difficult@12, A?: run@26)	SVA (V: profit@17, S: manufacturers@15, A!: from@18)	SVO (V: run@26, S: OS@24, A?: on@27, CCOMP: shared@33)	SVO (S: manufacturer@29, V: "has", O: computer@31)	SVO (V: shared@33, S: that@32, O: architecture@36)
+402	SVO (V: support@4, S: distributions@3, O: dozens@5)
+403	SVA (V: "be used", S: tools@4, A!: for@6)	SVA (V: found@16, S: tools@4, A!: within@17)	SVO (V: includes@23, S: toolchain@20, O: Collection@27)	SVC (S: Collection@27, V: "is", C: GCC@29)	SVO (V: build@34, S: GNU@33, O: system@35)
+404	SVOO (V: provides@5, S: GCC@4, O: compilers@6, IO: others@2)
+405	SVO (V: provides@12, S: project@11, A?: First@1, O: compiler@16, A?: for@17)
+406	SVO (V: include@5, S: compilers@2, O: Compiler@9)
+407	SVA (V: supported@9, S: BASIC@1, A!: in@10)
+408	SVO (V: include@4, S: distributions@2, A?: also@3, O: support@5)
+409	SVO (V: supports@8, S: Linux@6, A?: as@3, A?: also@7, O: C#@9)
+410	SVA (V: run@10, S: number@2, A!: on@11)	SVA (V: projects@35, S: number@2, A?: on@11, A!: like@36)	SVC (S: JVM@19, V: "is", C: HotSpot@21)	SVO (S: IBM@25, V: "has", O: RE@28)
+411	SVC (C: environment@7, V: are@4, S: GNOME@1)	SVOC (C: provide@9, V: are@4, S: GNOME@1, O: framework@11)
+412	SVA (V: based@4, S: projects@2, A!: on@5, A?: respectively@14)	SVA (V: used@20, S: which@16, A?: also@18, A!: independently@21)
+413	SVO (V: support@2, S: Both@1, O: variety@5)
+414	EXISTENTIAL (V: are@2, S: number@4)	SVC (S: Anjuta@11, V: "is", C: Code@13)	SVC (V: remain@48, S: editors@44, ACOMP: popular@49)
+415	
+416	
+417	SVA (V: "be designed", S: those@12, A!: for@14)	SVA (V: specialized@26, S: distributions@23, A!: for@27, A?: including@30)	SVA (V: specialized@26, S: tid@1, A!: for@27, A?: including@30)
+418	SVO (V: include@6, S: distributions@4, A?: Furthermore@1, A?: deliberately@5, O: software@9)
+419	SVA (V: developed@9, S: distributions@6, A?: Currently@1, A?: actively@8, A!: with@11)	SVC (C: popular@18, V: being@16, S: distributions@15, A?: most@17, A?: for@19)
+420	
+421	
+422	
+423	
+424	SVC (C: kernel@12, V: is@6, S: List@3)
+425	SVA (V: runs@4, S: kernel@3, A!: on@5, A?: in@14)	SVA (V: "be based", S: ARM@17)	SVA (V: "be ranging", S: devices@32, A!: from@34, A?: to@37)
+426	
+427	SVO (V: re-write@4, S: I@2, O: Advani@7)
+428	
+429	SVO (V: re-write@4, S: I@2, O: Advani@7)
+430	SVA (V: exist@3, S: distributions@2, A!: for@4)
+431	SVA (V: run@6, S: fork@4, A!: on@7, A?: run@22)	SVA (V: run@22, S: fork@20, A!: on@23, A?: without@25)
+432	SVA (V: runs@4, S: kernel@2, A?: also@3, A!: on@5)	SVO (V: intended@11, S: architectures@6, A?: only@9, A?: ever@10, XCOMP: use@13)
+433	EXISTENTIAL (V: are@2, S: associations@5)	SVA (V: "be devoted", S: associations@5, A!: to@10)
+434	SVA (V: increasing@15, S: popularity@4, A!: over@16)
+435	SVO (V: include@4, S: distributions@3, A?: Currently@1, O: environment@8, A?: with@10)	SVC (C: GNOME@17, V: being@16, S: environments@15)	SVO (V: utilize@21, S: which@19, O: shells@23, A?: as@25)
+436	SVC (C: topic@12, V: been@9, S: performance@2)
+437	SVO (V: quit@2, S: He@1, O: development@5, A?: frustrated@9)	SVO (V: gave@21, S: He@1, O: development@5, A?: frustrated@9, A-: then@20)	SVA (V: frustrated@9, S: he@7, A!: with@10)
+438	SV (V: quit@3, S: I@2, A-: Why@1)
+439	SVO (V: quit@9, S: I@8, A-: Why@7, O: Magazines@6)
+440	SVA (V: undertaken@16, S: amount@11, A!: in@17)	SVA (V: "be improve", S: effort@19, O: experience@24)
+441	
+442	SVC (C: available@5, V: are@4, S: applications@3, A?: for@6)
+443	
+444	SVO (V: have@5, S: LibreOffice@2, O: versions@7)
+445	SVA (V: developed@7, S: applications@4, A?: Furthermore@1, A?: initially@6, A!: for@8)	SVA (V: ported@20, S: applications@4, A?: Furthermore@1, A?: initially@6, A?: for@8, A!: to@21)	SVO (S: their@33, V: "has", O: popularity@34)
+446	SVA (V: supported@13, S: number@6, A?: In@1, A?: also@12, A!: on@14)
+447	
+448	
+449	
+450	SVO (V: see@11, S: Project@4, O: List@12)
+451	SVC (C: available@27, V: is@26, S: software@13, A?: In@1, A?: for@28)
+452	EXISTENTIAL (V: are@2, S: companies@5, A?: also@3)	SVO (V: ported@8, S: companies@5, O: own@10)	SVO (S: their@9, V: "has", O: own@10)
+453	SVC (C: available@15, V: are@13, S: types@2, A?: also@14, A?: for@16)
+454	SV (V: exist@9, S: application@7, A?: Commonly@1)	SVA (V: "be found", S: application@16, A!: on@18)	SVO (V: have@27, S: application@25, O: version@29)	SVA (V: works@31, S: version@29, A!: on@32)
+455	SVO (V: provides@8, S: project@7, A?: May@1, O: layer@12)	SVA (V: "be run", S: layer@12, O: applications@17, A!: on@18)
+456	SVC (C: solution@5, V: is@2, S: CrossOver@1, A?: based@6)	SVA (V: "be based", S: solution@5, A!: on@7)	SVC (S: solution@5, V: "is", C: applications@23)	SVO (V: supports@14, S: project@12, XCOMP: running@15)
+457	EXISTENTIAL (V: is@7, S: port@10, A?: In@1, A?: where@5)
+458	SVC (S: Technologies@7, V: "is", C: I@9)
+459	
+460	
+461	SVC (S: Technologies@7, V: "is", C: I@9)
+462	
+463	SVC (S: audio@3, V: "is", C: http@5)
+464	SVC (S: Technica@12, V: "is", C: http@15)
+465	SVC (S: Technica@12, V: "is", C: http@15)
+466	SVA (V: 's@4, S: It@3, A!: Just@6)	SVC (S: April@14, V: "is", C: LLC@22)
+467	
+468	SVA (V: 's@4, S: It@3, A!: Just@6)	SVC (S: April@14, V: "is", C: LLC@22)
+469	
+470	
+471	
+472	
+473	SVO (S: software@21, V: is@19, O: Using@1)
+474	SVOC (V: allows@8, S: nature@3, O: teams@10, XCOMP: perform@12)	SVOC (C: cost-effective@30, V: be@29, S: systems@26, A?: where@23, O: locales@22)
+475	SVC (C: available@12, V: was@11, S: version@6, A?: For@1, A?: significantly@13, A?: translated@19)	SVA (V: translated@19, S: XP@17, A!: to@20)
+476	SVO (V: played@11, S: Group@10, A?: April@1, O: part@14, A?: in@15)
+477	SVA (V: "be updating", S: Installing@1, O: software@6, A!: in@7)	SVA (V: "be updating", S: Installing@1, O: software@6, A!: in@7)	SVA (V: done@11, S: Installing@1, A?: typically@10, A!: through@12)
+478	SVO (V: have@6, S: distributions@5, O: repositories@8)	SVC (S: tens@12, V: "is", C: software@21)	SVA (V: run@24, S: software@21, A!: on@25)	SVC (C: available@28, V: is@27, S: tens@12, A?: from@29)
+479	SVO (V: install@5, S: users@3, A?: Alternatively@1, O: packages@6, A?: from@7)
+480	SVA (V: come@4, S: methods@3, A!: with@5)	SVO (V: considered@18, S: compiling@11, A?: in@16, XCOMP: process@21)	SVA (V: needed@31, S: it@28, A!: hardly@30, A!: in@32)	SVC (C: method@39, V: is@36, S: it@28, A!: hardly@30, A?: in@32)
+481	
+482	SVA (V: "be designed", S: Servers@1, A!: for@3)
+483	SVO (S: Laboratory@5, V: "has", O: supercomputer@8)	SVO (S: world@13, V: "has", O: supercomputer@16)
+484	SVO (V: uses@2, S: It@1, O: Environment@6, A?: as@7)	SVO (S: its@8, V: "has", O: system@10)
+485	
+486	
+487	
+488	
+489	
+490	
+491	
+492	
+493	SVA (V: used@15, S: Center@4, A?: long@13, A!: as@16)	SVA (V: risen@23, S: Center@4, A?: long@13, A?: as@16, A!: to@24, A?: in@26)	SVA (V: reported@31, S: Netcraft@30, A!: in@32)	SVOC (V: ran@45, S: eight@36, O: September@33, O: distributions@47, A?: on@48)	SVO (S: their@49, V: "has", O: server@51)
+494	
+495	
+496	
+497	
+498	SVO (V: represented@12, S: Netcraft@1, O: five@13)	SVO (V: represented@12, S: distributions@11, O: five@13)	SVC (S: five@13, V: "is", C: FreeBSD@19)
+499	
+500	
+501	
+502	SVO (V: represented@12, S: Netcraft@1, O: six@13)	SVO (V: represented@12, S: distributions@11, O: six@13)	SVC (S: six@13, V: "is", C: FreeBSD@19)
+503	
+504	
+505	SVC (C: cornerstone@10, V: are@8, S: distributions@7, A?: of@11)	SVC (S: Linux@17, V: "is", C: Apache@19)	SVC (S: Linux@17, V: "is", C: MySQL@21)	SVC (S: Linux@17, V: "is", C: Perl@23)	SVO (V: achieved@31, S: combination@15, O: popularity@32, A?: among@33)	SVC (C: one@39, V: is@38, S: which@37, A?: of@40)	SVA (V: "be hosting", S: website@46)
+506	
+507	SVO (V: _@2, S: com/s@1, O: survey/data/201005@3)
+508	
+509	
+510	SVO (V: _@2, S: com/s@1, O: survey/data/201005@3)
+511	
+512	SVC (V: become@10, S: distributions@8, ACOMP: popular@12, A?: on@13, A?: in@15, ACOMP: due@20)
+513	SVO (V: reported@10, S: IBM@9, A?: May@1, CCOMP: market@15)	SVO (V: market@15, S: it@12, A?: predominantly@14, O: Server@21)	SVO (V: sell@17, S: it@12, A?: predominantly@14, O: Server@21)
+514	
+515	SVO (V: punts@2, S: IBM@1, O: mainframes@4)	SVC (S: MIPS@6, V: "is", C: discounts@9)
+516	SVO (V: punts@2, S: IBM@1, O: mainframes@4)	SVC (S: MIPS@6, V: "is", C: distribution@17)	SVO (V: used@21, S: MIPS@6, A?: also@19, A?: commonly@20, A?: as@22, O: mainframes@4)
+517	SVO (V: run@3, S: %@1, O: distribution@6)
+518	
+519	
+520	
+521	
+522	
+523	
+524	SVA (V: selected@5, S: Linux@2, A?: also@4, A!: as@6)	SVO (S: world@12, V: "has", O: supercomputer@16)	SVO (S: IBM@18, V: "has", O: Sequoia@20)	SVC (V: become@23, S: Sequoia@20, ACOMP: operational@24, A?: in@25)
+525	
+526	
+527	SVO (V: displayed@15, S: screen@14, O: Android4@21)
+528	SVO (S: its@8, V: "has", O: cost@10)	SVA (V: used@19, S: Linux@16, A?: Sandwich@4, A?: often@18, A!: in@20)
+529	SVA (V: "be based", S: Android@1, A!: on@4)	SVC (V: become@14, S: Android@1, XCOMP: competitor@17, XCOMP: found@25)	SVO (S: Nokia@19, V: "has", O: OS@23)
+530	
+531	SVA (V: "be sold", S: smartphones@3, O: Android@7)	SVO (V: forming@13, S: variants@12, O: 27.6@14)
+532	
+533	
+534	
+535	SVO (V: Says@5, S: Gartner@4, CCOMP: Grew@10)	SVO (V: Grew@10, S: Sales@9, O: Percent@12, A?: in@13)	SVO (V: Sales@19, S: Sales@9, O: Percent@12, A?: in@13, A?: Increased@20)	SVA (V: "be Increased", S: Sales@19)
+536	
+537	SV (V: Says@5, S: Gartner@4)	SVO (V: Grew@10, S: Sales@9, O: Percent@12, A?: in@13)	SVA (V: "be running", S: PDAs@26, O: Linux@28, A!: on@29)	SVC (V: became@32, S: Sales@19, ACOMP: common@34, A?: from@35)	SVO (V: include@39, S: examples@38, O: N810@42)	SVO (S: Openmoko@44, V: "has", O: Neo1973@46)
+538	SVA (V: "be Continuing", S: Palm@5, O: trend@3)	SVA (V: acquired@8, S: Palm@5, A?: Continuing@1, A?: later@7, A!: by@9)	SVC (S: system@19, V: "is", C: webOS@21)	SVA (V: built@25, S: Linux@15, A!: into@26)	SVO (S: its@27, V: "has", O: line@29)
+539	SVO (V: uses@8, S: recorder@6, A?: also@7, O: Linux@11)	SVC (S: Linux@11, V: "is", C: http@13)
+540	
+541	
+542	
+543	
+544	
+545	
+546	
+547	
+548	
+549	
+550	
+551	SVO (V: do@3, S: 2007-05-19@1, O: firewalls@6)
+552	SVC (S: OASYS@3, V: "is", C: KRONOS@7)	SVC (S: XS@13, V: "is", C: http@20)
+553	SVO (V: helped@7, S: Linux@6, A?: How@4, CCOMP: make@10)	SVO (V: make@10, S: developers@9, XCOMP: http@16)	SV (V: http@16, S: product@13)
+554	
+555	
+556	SVC (S: September@1, V: "is", C: http@5)
+557	SVO (V: helped@7, S: Linux@6, A?: How@4, CCOMP: make@10)	SVO (V: make@10, S: developers@9, XCOMP: http@16)	SV (V: http@16, S: product@13)
+558	
+559	
+560	SVC (S: September@1, V: "is", C: S90XS/S70XS@6)	SVC (S: September@1, V: "is", C: synthesizer@10)	SVC (S: September@1, V: "is", C: Motif@13)	SVO (V: run@27, S: September@1, A?: also@26, O: Linux@28)
+561	SVA (V: used@4, S: Linux@1, A?: also@3, A!: in@5)
+562	
+563	
+564	
+565	
+566	SVOO (V: runs@7, S: WholeHogIII@6, A?: on@8, O: studies@20, IO: FlyingPigs@4)	SVA (V: "be examining", S: studies@38, A!: specifically@39, O: Linux@41)
+567	
+568	
+569	
+570	
+571	
+572	
+573	SVA (V: growing@6, S: market@4, A!: rapidly@7)	SVA (V: "be running", S: software@19, O: Linux@21)	SVO (V: expected@23, S: revenue@11, XCOMP: exceed@25)
+574	
+575	
+576	
+577	SVA (V: "be Ring", S: Linux@4, O: $@8, A!: By@11)
+578	
+579	SVA (V: "be Ring", S: Linux@4, O: $@8, A!: By@11)	SVO (S: IDC@14, V: "has", O: report@18)	SVO (V: indicated@19, S: articleID@1, CCOMP: held@22)	SVO (V: held@22, S: Linux@21, O: 12.7@23)
+580	
+581	
+582	
+583	
+584	
+585	SVA (V: based@6, S: estimate@4, A!: on@7)	SVO (V: include@21, S: estimate@4, A?: on@7, CCOMP: purchased@24)	SVA (V: "be sold", S: servers@12, A!: by@14)	SVO (V: purchased@24, S: hardware@23, A?: separately@25, CCOMP: installed@29)	SVA (V: installed@29, S: which@26, A!: on@30, A?: later@32)	SVA (V: installed@29, S: Linux@28, A!: on@30, A?: later@32)
+586	SVO (V: admitted@8, S: Ballmer@7, A?: In@1, CCOMP: run@14)	SVO (V: run@14, S: %@11, O: Linux@15)	SVO (V: run@20, S: Linux@15, O: Server@22)
+587	
+588	
+589	
+590	
+591	SVA (V: estimated@23, S: companies@22, A!: that@24)
+592	
+593	
+594	
+595	SVO (V: http@6, S: W3Schools@5, O: Statistics@3)
+596	
+597	SVOO (V: hold@12, S: systems@11, O: %@16, IO: Statistics@3)
+598	
+599	
+600	
+601	
+602	
+603	
+604	
+605	
+606	
+607	
+608	SVOC (V: attribute@14, S: Services@8, O: W3Counter@1, O: success@17, A?: to@20)	SVO (S: its@21, V: "has", O: security@22)	SVC (S: security@22, V: "is", C: reliability@24)	SVC (S: security@22, V: "is", C: cost@27)
+609	
+610	
+611	
+612	
+613	
+614	
+615	
+616	
+617	
+618	
+619	
+620	SVA (V: flocking@4, S: customers@2, A-: Why@1, A!: to@5)
+621	
+622	
+623	
+624	SVA (V: flocking@4, S: customers@2, A-: Why@1, A!: to@5)
+625	SVOC (V: allows@7, S: layer@6, O: users@8, XCOMP: run@10)	SVA (V: "be designed", S: programs@12, A!: for@14)
+626	
+627	
+628	
+629	SVO (V: provided@6, S: Google@3, A?: also@5, O: funding@7)
+630	
+631	
+632	
+633	
+634	
+635	
+636	
+637	
+638	
+639	
+640	
+641	
+642	
+643	
+644	
+645	
+646	SVOO (V: creating@18, S: Child@16, O: community@26, IO: Laptop@14)	SVO (V: planned@29, S: community@26, XCOMP: reach@31)	SVO (S: their@36, V: "has", O: families@37)
+647	
+648	
+649	
+650	
+651	
+652	
+653	SVO (V: include@7, S: supporters@3, O: Google@8)
+654	SVO (V: have@5, S: XO@3, O: option@8)	SVA (V: deployed@14, S: it@10, A?: have@5, A?: primarily@13, A!: with@15, A?: using@19)
+655	SVC (C: platform@7, V: been@5, S: Linux@3, A?: For@1, A?: of@8, A?: in@10)
+656	SVA (V: produced@5, S: film@4, A!: on@6)	SVC (C: Titanic@12, V: was@9, S: produced@5)	SVO (S: 1997@10, V: "has", O: Titanic@12)
+657	SV (V: Helps@4, S: Linux@3)
+658	SVOC (V: Helps@10, S: Linux@9, CCOMP: Bring@11, O: =@2)
+659	
+660	
+661	SVA (V: migrated@23, S: studios@7, A!: to@24)
+662	
+663	
+664	
+665	
+666	
+667	SVC (S: Tux@1, V: "is", C: Linux@5)
+668	
+669	
+670	SVC (S: Tux@1, V: "is", C: Linux@5)
+671	
+672	SVOO (V: use@29, S: %@16, O: Linux@30, IO: Digital@2)
+673	
+674	
+675	
+676	
+677	
+678	
+679	SVO (V: licensed@16, S: Linux@10, A?: under@17, O: controversies@9)	SVC (S: License@22, V: "is", C: GPL@24)
+680	SVO (V: requires@3, S: GPL@2, CCOMP: make@10)	SVO (V: distributes@7, S: anyone@5, O: Linux@8)	SVO (V: make@10, S: anyone@5, XCOMP: available@19)	SVC (S: code@13, V: "is", C: modifications@17)	SVA (V: available@19, S: code@13, A!: to@20)
+681	SVO (V: use@9, S: components@3, O: licenses@11)	SVO (V: use@15, S: libraries@14, O: License@21)	SVC (S: License@21, V: "is", C: LGPL@23)
+682	SVO (V: uses@7, S: implementation@1, O: License@10)
+683	SVO (V: states@2, S: Torvalds@1, CCOMP: move@9)	SVA (V: move@9, S: kernel@6, A!: from@10, A?: to@16)
+684	
+685	
+686	
+687	
+688	SVC (C: impractical@19, V: be@18, S: it@15, A?: also@17, XCOMP: obtain@21)	SVA (V: number@30, S: holders@27, A!: in@31)
+689	
+690	
+691	
+692	
+693	
+694	SVO (V: contained@5, S: distribution@4, O: lines@9)
+695	SVA (V: "be Using", S: study@8, O: Model@5)	SVA (V: estimated@9, S: study@8, A?: Using@1, A!: that@10)	SVA (V: "be required", S: distribution@12, O: man-years@17)
+696	SVA (V: developed@12, S: software@9, A!: by@13)	SVA (V: "be develop", S: it@18, A!: in@34)	SVO (V: cost@21, S: it@18, A?: According@1, A?: developed@12, O: dollars@30, A?: develop@33)
+697	
+698	SVO (S: GNU/Linux@7, V: "has", O: http@15)
+699	SVO (S: GNU/Linux@7, V: "has", O: Size@9)	SVC (S: Most@11, V: "is", C: %@17)	SVA (V: written@20, S: Estimating@6, A!: in@21)	SVA (V: used@32, S: languages@30, A!: including@34)
+700	
+701	SVC (C: 2.4@6, V: was@5, S: kernel@3)
+702	
+703	SVA (V: performed@10, S: analysis@8, A?: In@1, A!: for@11)
+704	SVA (V: released@6, S: which@4, A!: in@7)
+705	
+706	
+707	
+708	
+709	
+710	
+711	
+712	
+713	
+714	
+715	SVA (V: contained@4, S: distribution@3, A!: close@5)	SVO (V: estimated@17, S: study@16, CCOMP: required@22)	SVO (V: required@22, S: it@19, O: man-years@27)	SVA (V: "be develop", S: US@31, A!: by@41)
+716	SVC (C: trademark@11, V: is@9, S: Linux@8, A?: In@1, A?: registered@12)	SVA (V: "be registered", S: trademark@11, A!: to@13)
+717	SVO (V: registered@4, S: nobody@3, A?: Initially@1, O: it@5)	SVO (V: R.@14, S: nobody@3, A?: Initially@1, O: it@5, A?: on@8)
+718	SVC (S: Croce@2, V: "is", C: Jr.@4)
+719	
+720	SVOC (V: sued@9, S: Torvalds@4, A?: In@1, O: him@10, XCOMP: have@12)	SVA (V: "be assigned", S: trademark@14, A!: to@16)	SV (V: settled@25, S: case@23, A?: in@20)
+721	
+722	
+723	SVA (V: handled@16, S: Journal@4, A!: by@17)
+724	SVO (V: stated@3, S: Torvalds@1, CCOMP: trademarked@6)	SVO (V: trademarked@6, S: he@5, O: name@8, A?: prevent@11)	SVA (V: "be prevent", S: he@5, A!: only@9, O: someone@12, A?: from@14)
+725	SVO (V: charged@3, S: LMI@1, A?: originally@2, O: fee@7, A?: for@8, A?: as@14)	SVC (V: gets@22, S: Linus@21, CCOMP: charged@3, ACOMP: tough@23)
+726	SVO (V: gets@7, S: Linus@6, ACOMP: tough@8, O: www.infoworld.com/article/05/09/05/36OPopenent_1.html@16)
+727	
+728	
+729	
+730	SVO (V: restructured@7, S: LMI@5, O: program@10)	SVO (S: its@8, V: "has", O: program@10)
+731	SVO (S: Our@1, V: "has", O: agreement@4)	SV (V: is@5, S: agreement@4)	SVA (V: terminates@19, S: sublicense@18, A!: in@21)	SVO (S: your@28, V: "has", O: organization@29)	SVO (V: ceases@30, S: organization@29, A?: when@27, XCOMP: use@32)	SVO (S: its@33, V: "has", O: mark@34)	SVO (V: covers@40, S: sublicense@39, O: use@42, A?: anywhere@46)	SVO (S: your@41, V: "has", O: use@42)
+732	
+733	SVO (V: restructured@7, S: LMI@5, O: program@10)	SVO (S: its@8, V: "has", O: program@10)
+734	SVO (S: Our@1, V: "has", O: agreement@4)	SV (V: is@5, S: agreement@4)	SVA (V: terminates@19, S: sublicense@18, A!: in@21)	SVO (S: your@28, V: "has", O: organization@29)	SVO (V: ceases@30, S: organization@29, A?: when@27, XCOMP: use@32)	SVO (S: its@33, V: "has", O: mark@34)	SVO (V: covers@40, S: sublicense@39, O: use@42, A?: anywhere@46)	SVO (S: your@41, V: "has", O: use@42)	SVO (V: use@61, S: distributions@59, O: software@63, A?: as@64)	SVO (V: ask@69, S: they@68, CCOMP: referred@75)	SVA (V: referred@75, S: systems@73, A!: to@76)
+735	
+736	
+737	
+738	
+739	
+740	
+741	SVC (V: remains@4, S: issue@3, ACOMP: controversial@5)
+742	SV (V: am@32, S: Linux@31)	SVC (C: be-x-old@64, V: be@61, S: Linux@60)	SVO (V: es@106, S: Linux@105, O: eo@109)	SV (V: is@157, S: Линукс@156)	SVC (S: Linux@290, V: "is", C: Bedriefsystem@292)
+743	

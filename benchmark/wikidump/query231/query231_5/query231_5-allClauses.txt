@@ -1,0 +1,112 @@
+0	SVC (S: June@1, V: "is", C: sloth@9)	SVC (S: sloth@9, V: "is", C: Latin@11)	SVC (S: acedia@13, V: "is", C: pigritia@17)	SVC (S: acedia@13, V: "is", C: accidia@15)	SVC (C: one@20, V: is@19, S: June@1, A?: of@21, A?: called@28)	SVA (V: "be called", S: one@20, A!: often@27, O: sins@32)	SVO (V: called@37, S: sins@35, O: sins@39, A?: destroy@43)	SVO (V: destroy@43, S: they@41, A?: supposedly@42, O: charity@45, A?: in@46)	SVOA (V: lead@54, S: they@41, A?: supposedly@42, O: charity@45, A?: in@46, A-: thus@52, A!: to@55)	SVO (S: person@48, V: "has", O: heart@50)
+1	SVO (V: defined@3, S: Sloth@1, A?: as@4, XCOMP: neglecting@10)	SVC (C: inactive@21, V: being@17, S: Sloth@1, A?: as@4, XCOMP: neglecting@10, A?: physically@18)	SVO (V: spoken@14, S: God@12, O: what@11)
+2	SVC (C: word@5, V: is@2, S: Acedia@1, A?: from@7, A?: meaning@11)	SVA (V: "be meaning", S: word@5)
+3	SVO (V: indicate@4, S: Sloth@1, A?: also@3, O: a@5)	SVA (V: "be wasting", S: a@5, A!: to@8, XCOMP: concerning@13)	SVOC (V: require@28, S: ideal@25, O: maintenance@29, XCOMP: continue@36)
+4	SVA (V: "be concerning", S: views@2, O: need@5)	SVA (V: "be work", S: one@7, XCOMP: support@11)	SVO (S: God@15, V: "has", O: plan@17)	SVO (V: suggest@21, S: views@2, A?: also@20, CCOMP: invites@28)	SVO (V: invites@28, S: one@27, A?: through@24, O: desire@30, A?: to@31)
+5	
+6	
+7	SVA (V: used@9, S: dejection@7, A!: of@11, A?: for@14)	SVA (V: falls@18, S: person@16, A!: into@19)	SVO (V: lose@22, S: used@9, O: interest@23)
+8	SVC (C: akin@10, V: is@8, S: sloth@7, A?: defined@4, A?: more@9, A?: to@11)	SVO (V: narrow@17, S: speakers@16, A?: akin@10, O: it@18, A?: to@19)	SVOO (V: makes@27, S: Bible@26, A?: about@23, O: comments@29, IO: laziness@21)
+9	
+10	
+11	
+12	
+13	SVC (S: lover@3, V: "is", C: http@7)
+14	
+15	
+16	
+17	SVO (V: sees@4, S: person@3, O: lions@5)
+18	
+19	
+20	
+21	SVO (S: his@13, V: "has", O: desires@14)	SVOC (V: kill@16, S: desires@14, A?: ″@15, O: him@18, O: www.biblegateway@23)
+22	
+23	
+24	SVO (S: his@3, V: "has", O: hands@4)	SVO (V: refuse@5, S: hands@4, O: ″@8)
+25	
+26	
+27	
+28	SVO (S: his@2, V: "has", O: path@3)	SVC (V: becomes@4, S: path@3, CCOMP: ″@10)	SVO (V: ″@10, S: hedge@7, O: http@11)
+29	
+30	
+31	
+32	SVC (C: wiser@4, V: is@3, S: he@2, A?: than@5)	SVO (S: his@10, V: "has", O: eyes@12)
+33	
+34	
+35	
+36	
+37	SVO (S: His@1, V: "has", O: household@2)	SV (V: becomes@3, S: household@2)
+38	
+39	
+40	
+41	SVO (V: falls@3, S: he@2, O: prey@4, A?: to@5)	SVO (V: want@8, S: ″@7, O: his@6)	SVC (S: ″@9, V: "is", C: scarcity@11)	SVA (V: coming@13, S: ″@9, A!: like@14, A?: coming@25)	SVA (V: in@19, S: ″@9, A?: like@14, A!: end@21, A?: to@22, A?: coming@25)	SVA (V: "be coming", S: ″@9, A!: upon@26)
+42	
+43	
+44	
+45	
+46	
+47	
+48	SVO (V: share@8, S: person@5, O: fate@10, A?: with@11, A?: with@16)	SV (V: ″@19, S: dreamers@17)	SVOO (V: ″@29, S: clouds@28, O: http@30, IO: wind@22)
+49	
+50	
+51	SVO (V: ″@5, S: those@3, O: fantasies@7)	SVC (S: ″@8, V: "is", C: follow@10)
+52	
+53	
+54	
+55	
+56	SVC (C: type@10, V: is@8, S: person@7, A?: however@3, CCOMP: takes@16)	SVOC (V: takes@16, S: ″@15, A?: eventually@13, O: food@18, A?: to@19, O: www.biblegateway@26)	SVO (S: his@17, V: "has", O: food@18)
+57	
+58	
+59	EXISTENTIAL (V: is@4, S: type@6)	SVOA (V: take@14, S: type@6, A-: even@13, O: food@16, A!: to@17)	SVO (S: his@15, V: "has", O: food@16)
+60	
+61	
+62	SVA (V: is@8, S: he@7, A?: has@3, A!: like@9)	SVO (V: send@26, S: those@24, O: him@27, A?: with@28)
+63	
+64	
+65	
+66	SVC (C: rich@5, V: is@4, S: sluggard@3)	SVO (V: avoid@9, S: he@7, A?: rich@5, XCOMP: getting@10)	SVO (V: delight@22, S: insensitiveness@13, O: themselves@23, A?: in@24)	SV (V: whom@30, S: prophet@32)	SVOC (V: predicted@34, S: Amos@33, CCOMP: become@37, O: prophet@32)	SVC (V: become@37, S: they@35, XCOMP: slaves@38)
+67	
+68	
+69	
+70	
+71	
+72	
+73	
+74	
+75	
+76	SVC (S: servant@2, V: "is", C: http@4)
+77	
+78	
+79	
+80	
+81	SVO (V: disregards@3, S: one@1, O: gift@6)	SVO (S: God@4, V: "has", O: gift@6)	SVC (V: leaving@8, S: one@1, XCOMP: unused@10)	SV (V: unused@10, S: it@9)
+82	SVO (S: His@1, V: "has", O: talent@2)	SVA (V: taken@5, S: talent@2, A!: from@6)	SVA (V: given@11, S: talent@2, A?: from@6, A!: to@12)	SVO (V: has@16, S: one@14, O: talents@18)
+83	
+84	
+85	
+86	
+87	
+88	
+89	
+90	
+91	
+92	SVC (C: lazy@3, V: is@2, S: Whoever@1, A?: in@7)	SVO (S: his@8, V: "has", O: work@9)	SVC (V: becomes@10, S: lazy@3, XCOMP: brother@11)	SVO (V: destroys@15, S: brother@11, O: http@16)
+93	
+94	
+95	SVC (S: Evil-One@4, V: "is", C: devil@7)	SVC (C: http@13, V: is@11, S: devil@10)
+96	
+97	
+98	
+99	
+100	SVOO (V: breaks@15, S: He@14, A?: again@16, O: command@18, IO: ASV@13)	SVOC (V: sent@23, S: command@18, O: him@24, XCOMP: work@26)	SVOC (V: forbids@36, S: God@33, O: them@37, XCOMP: eat@39)
+101	
+102	
+103	
+104	SVC (V: become@5, S: Christian@2, ACOMP: sluggish@6)	SVC (C: follower@15, V: be@12, S: Christian@2, ACOMP: sluggish@6, A?: of@16)	SV (V: ″@19, S: those@17)	SVA (V: "be ″", S: promises@22, O: http@24)
+105	
+106	
+107	SVO (V: makes@7, S: growth@3, CCOMP: go@10)	SVA (V: go@10, S: laziness@9, A!: away@11)
+108	
+109	
+110	
+111	SVC (S: Preguiça@33, V: "is", C: pecado@35)	SVO (V: falls@57, S: person@56, O: prey@58, A?: to@59)	SVO (V: person@69, S: person@56, O: prey@58, A?: to@59)	SVOO (V: leaves@73, S: person@72, O: gifts@76, IO: person@69)	SVO (S: God@74, V: "has", O: gifts@76)	SVOC (C: enemy@94, V: is@92, S: commandments@84, A?: of@95, O: breaks@81)	SVA (V: "be Goofing", S: Apathy@98, O: Ignorance@101)

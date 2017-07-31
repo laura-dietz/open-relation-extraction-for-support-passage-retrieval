@@ -1,0 +1,60 @@
+0	
+1	SVC (S: System@13, V: "is", C: Atlanta@28)	SVC (S: 480i@20, V: "is", C: SDTV@22)	SVC (S: 1080i@24, V: "is", C: HDTV@26)	SVA (S: Atlanta@28, V: "is in", C: States@33)	SVA (S: Atlanta@28, V: "is in", C: Georgia@30)	SVC (S: March@34, V: "is", C: http@38)
+2	SVC (S: Channel@2, V: "is", C: SD/HD@5)	SVC (S: Channel@9, V: "is", C: SD/HD@12)	SVC (S: Channel@14, V: "is", C: HD@17)	SVC (S: DishHD@21, V: "is", C: Taiwan@23)	SVC (S: Channel@25, V: "is", C: HD@28)	SVC (S: D-Smart@30, V: "is", C: Turkey@32)	SVC (S: Channel@36, V: "is", C: HD@39)	SVOO (V: Check@46, S: Available@41, O: TV@92, IO: D-Smart@30)	SVC (S: Channel@51, V: "is", C: SD@54)	SVC (S: Channel@56, V: "is", C: HD@59)	SVC (S: Channel@70, V: "is", C: SD@73)	SVC (S: 1632@76, V: "is", C: HD@78)	SVC (S: Channel@82, V: "is", C: SD@85)	SVC (C: channel@97, V: is@93, S: Channel@14)	SVA (V: dedicated@100, S: channel@97, A!: to@101)
+3	SVA (V: backed@5, S: network@2, A?: financially@4, A!: by@6)	SVC (S: Association@10, V: "is", C: NBA@12)	SVO (V: uses@17, S: Association@10, A?: also@16, O: TV@19, A?: as@20)	SVO (S: their@25, V: "has", O: TNT@37)
+4	
+5	SVC (S: TV@1, V: "is", C: channel@4)	SVO (V: had@7, S: TV@1, O: studios@9)	SVO (S: its@8, V: "has", O: studios@9)	SVO (V: began@19, S: TV@1, O: deal@22, A?: allowing@42)	SVO (V: countries@56, S: TV@1, O: deal@22, A?: allowing@42)	SVA (V: "be allowing", S: TV@1, O: network@44, XCOMP: expand@46)	SVC (S: Communications@28, V: "is", C: Cablevision@30)
+6	SVO (V: replaced@3, S: TV@2, O: I@8, A?: shut@16)	SVO (S: Warner@5, V: "has", O: I@8)	SVA (V: shut@16, S: network@15, A!: earlier@20)
+7	SVOC (V: reported@9, S: it@7, A?: On@1, CCOMP: was@20, A?: according@29, O: NBATV@33)	SVC (S: Sports@12, V: "is", C: division@15)	SVC (V: was@20, S: Sports@12, XCOMP: take@22)	SVO (S: channel@25, V: "has", O: operations@27)	SVO (S: NBA@43, V: "has", O: decision@45)	SVA (V: "be sell", S: decision@45, O: NBATV@49, A!: to@50)	SVO (S: its@53, V: "has", O: partners@55)
+8	SVA (V: gone@3, S: Talks@1, A!: on@4)
+9	SVC (V: seems@3, S: it@2, A?: Ultimately@1, CCOMP: won@6)	SVOC (V: take@11, S: it@2, A?: Ultimately@1, CCOMP: won@6, O: operation@13)	SV (V: won@6, S: Turner@4)	SVO (S: league@16, V: "has", O: channel@20)	SVO (V: reaches@23, S: that@22, O: subscribers@27)
+10	SVC (C: clear@7, V: is@5, S: date@4)	SVO (V: cited@16, S: report@15, O: sources@17)	SVA (V: "be saying", S: sources@17, CCOMP: offered@23)	SVO (V: offered@23, S: producers@21, O: buyouts@25, A?: in@26)
+11	SVO (V: relaunched@4, S: Sports@3, O: channel@6, A?: on@7, A?: using@13)	SVA (V: "be using", S: Sports@3, O: analysts@14)
+12	
+13	
+14	SVO (V: promotes@2, S: Turner@1, O: menu@5)	SVO (V: upgraded@12, S: studio@9, A?: also@11, O: menu@5)	SVC (V: airs@18, S: show@16, A?: now@17, ACOMP: live@19)	SVA (S: Atlanta@27, V: "is in", C: Georgia@29)	SVC (C: adjacent@34, V: is@33, S: B@32, A?: to@35)	SVC (S: J@37, V: "is", C: home@39)
+15	SVO (V: announced@9, S: it@7, A?: On@1, CCOMP: reached@15)	SVO (V: reached@15, S: DirecTV@11, O: agreement@19)
+16	SVA (V: moved@4, S: TV@2, A!: from@5)	SVA (V: Pack@14, S: Sports@13, A!: to@24, A?: on@32)	SVO (S: its@25, V: "has", O: Xtra@31)
+17	SVO (V: believes@2, S: DirecTV@1, CCOMP: make@6)	SVO (V: make@6, S: move@4, XCOMP: available@9)	SVA (V: available@9, S: channel@8, A!: to@10)
+18	SVC (S: April@3, V: "is", C: 2009@6)	SVOC (V: announced@15, S: it@13, CCOMP: reached@22, O: April@3)	SVO (V: reached@22, S: NBA@18, O: deal@24, A?: move@26)	SVA (V: "be move", S: NBA@18, O: channel@28, A!: from@29, A?: by@47)	SVA (V: add@34, S: company@32, A!: on@35, A?: to@39)	SVO (S: its@40, V: "has", O: package@45)
+19	SVO (V: believes@2, S: Comcast@1, CCOMP: have@10)	SVO (V: have@10, S: customers@7, A?: now@9, O: access@11)
+20	SVOC (V: added@9, S: FiOS@8, CCOMP: Pass@15, O: June@3)	SVA (V: Pass@15, S: channel@11, A!: for@16)
+21	
+22	SVO (V: signed@8, S: channel@6, A?: also@7, O: agreements@11, A?: with@12)	SVC (S: Cable@15, V: "is", C: Cablevision@17)
+23	SVO (V: reached@3, S: They@1, A?: also@2, O: deal@6)
+24	SVO (V: believes@11, S: NBA@10, A?: With@1, CCOMP: reach@15)	SVO (V: reach@15, S: it@12, A?: now@14, O: viewers@18)
+25	SVO (V: reached@10, S: Uverse@9, O: deal@13)
+26	SVO (V: criticized@11, S: TV@8, A?: for@12, O: October@3)	SVO (S: its@13, V: "has", O: usage@14)
+27	
+28	SVO (S: Neal@2, V: "has", O: Beater@5)	SVC (S: Beater@5, V: "is", C: Matt@13)	SVA (V: Sounds@8, S: The@7, A!: Of@9)
+29	
+30	SVO (S: Neal@2, V: "has", O: Beater@5)	SVC (S: Beater@5, V: "is", C: Matt@13)	SVA (V: Sounds@8, S: The@7, A!: Of@9)
+31	
+32	SVC (S: Yoder@1, V: "is", C: Matt@3)
+33	
+34	SVC (S: Yoder@1, V: "is", C: Matt@3)	SVC (S: 23@4, V: "is", C: April@5)	SVOO (V: pick@18, S: TV@15, A?: merely@17, O: feed@21, IO: Bloguin@9)	SVA (V: broadcast@25, S: feed@21, A?: otherwise@24, A!: to@26, A?: via@30)
+35	SVO (V: offers@3, S: TV@2, O: news@5, A?: day@7)	SVO (V: programming@12, S: TV@2, O: news@5, A?: day@7, A?: showcasing@13)	SVA (V: "be showcasing", S: programming@12, O: lifestyles@18)	SVC (S: lifestyles@18, V: "is", C: life@20)	SVO (S: players@15, V: "has", O: lifestyles@18)
+36	SVC (C: subject@7, V: are@6, S: Live@1, A?: to@8, A?: have@18)	SVO (V: have@18, S: TV@15, O: rights@21)	SVO (S: its@25, V: "has", O: games@26)
+37	SVA (V: carried@2, S: Games@1, A!: by@3)	SVO (S: team@12, V: "has", O: holder@16)
+38	SVO (V: shows@4, S: channel@2, A?: also@3, O: games@6)
+39	SVO (V: televised@7, S: channel@6, A?: In@1, O: finals@12, A?: for@13)
+40	SVO (V: carries@3, S: TV@2, O: games@8)	SVC (S: games@8, V: "is", C: broadcast@13)
+41	SVO (V: broadcasts@3, S: It@1, A?: also@2, O: games@5)
+42	SVO (S: channel@2, V: "has", O: program@5)	SVC (C: Live@9, V: is@6, S: program@5)	SVC (S: Live@9, V: "is", C: show@12)	SVO (V: go@20, S: host@16, A?: in@13, A?: over@21, O: show@12)	SV (V: highlights@26, S: Live@9)	SVA (V: look@29, S: Live@9, A!: in@30, A?: in@33)
+43	SVC (C: live@4, V: is@3, S: show@2, A?: days@6, A?: airing@11)	SVA (V: "be airing", S: live@4, A!: on@12, A?: due@15)	SVO (S: NBA@17, V: "has", O: coverage@19)
+44	SVA (V: repeated@11, S: version@6, A!: throughout@12)
+45	SVC (C: definition@8, V: is@4, S: HD@3)
+46	SVA (V: shot@8, S: programs@3, A!: in@9)	SVA (V: shown@21, S: games@15, A!: in@22)
+47	SVO (V: used@19, S: pillarboxes@17, A?: For@1, O: logo@23)
+48	SVA (V: are@2, S: Both@1, A!: in@3)
+49	SVO (V: vary@6, S: host@3, O: night@8)
+50	SVA (V: seen@10, S: coverage@7, A?: As@1, A!: in@11, A?: via@14)	SVA (V: "be established", S: channels@31, A!: in@35)	SV (V: es@53, S: networks@48)	SVA (V: "be Making", S: Basketball@89, O: Call@92)
+51	
+52	
+53	
+54	
+55	
+56	
+57	
+58	
+59	SVC (S: Ellis@34, V: "is", C: 2009@36)	SVC (S: Frank@46, V: "is", C: 2010@48)	SVC (S: Television@79, V: "is", C: Kong@82)	SVC (S: TV@85, V: "is", C: Kong@88)	SVC (S: CanalSatellite@97, V: "is", C: France@99)	SVC (S: TV@102, V: "is", C: Philippines@104)	SVC (S: TV@108, V: "is", C: Philippines@110)	SVC (S: NTV@112, V: "is", C: Turkey@114)	SVC (S: Plus@117, V: "is", C: List@163)	SVC (S: Sport@121, V: "is", C: Russia@119)	SVC (S: Sportitalia@126, V: "is", C: Italy@128)	SVC (S: Sportitalia@126, V: "is", C: Greece@124)	SVC (S: Cablevisión@130, V: "is", C: Argentina@132)	SVC (S: Multimédia@135, V: "is", C: Portugal@137)	SVC (S: TV@140, V: "is", C: Singapore@142)	SVC (S: Media@145, V: "is", C: Indonesia@147)	SVO (V: Broadcasts@149, S: Sport@121, A?: in@150, A?: as@152, O: Plus@117)

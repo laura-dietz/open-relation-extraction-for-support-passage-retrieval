@@ -1,0 +1,730 @@
+yes February 2009 December 2010 Chicken 300px Oven roasted rosemary and lemon chicken Starter , Main meal , Side Dish Hot and Cold About 120 calories Chicken , broiler , meat andskin , cooked , stewed Not including 35 % bones . 	0	query224_Chicken_(food)\S\0
+yes February 2009 December 2010 Chicken 300px Oven roasted rosemary and lemon chicken Starter , Main meal , Side Dish Hot and Cold About 120 calories Chicken , broiler , meat andskin , cooked , stewed Not including 35 % bones . 	0	query224_Chicken_(food)\S\0
+yes February 2009 December 2010 Chicken 300px Oven roasted rosemary and lemon chicken Starter , Main meal , Side Dish Hot and Cold About 120 calories Chicken , broiler , meat andskin , cooked , stewed Not including 35 % bones . 	0	query224_Chicken_(food)\S\0
+"meat andskin"	"be stewed"	"Not including 35 % bones"	0	query224_Chicken_(food)\P\0-0
+"meat andskin"	"be stewed"	"Not including 35 % bones"	0	query224_Chicken_(food)\P\0-1
+916 63.93 	1	query224_Chicken_(food)\S\1
+g 24.68 	2	query224_Chicken_(food)\S\2
+g 12.56 	3	query224_Chicken_(food)\S\3
+g 0.00 	4	query224_Chicken_(food)\S\4
+g 1.16 	5	query224_Chicken_(food)\S\5
+67 0.667 	6	query224_Chicken_(food)\S\6
+44 3.500 	7	query224_Chicken_(food)\S\7
+g 4.930 	8	query224_Chicken_(food)\S\8
+g 2.740 	9	query224_Chicken_(food)\S\9
+g 0.276 	10	query224_Chicken_(food)\S\10
+g 1.020 	11	query224_Chicken_(food)\S\11
+g 1.233 	12	query224_Chicken_(food)\S\12
+g 1.797 	13	query224_Chicken_(food)\S\13
+g 2.011 	14	query224_Chicken_(food)\S\14
+g 0.657 	15	query224_Chicken_(food)\S\15
+g 0.329 	16	query224_Chicken_(food)\S\16
+g 0.959 	17	query224_Chicken_(food)\S\17
+g 0.796 	18	query224_Chicken_(food)\S\18
+g 1.199 	19	query224_Chicken_(food)\S\19
+g 1.545 	20	query224_Chicken_(food)\S\20
+g 0.726 	21	query224_Chicken_(food)\S\21
+g 1.436 	22	query224_Chicken_(food)\S\22
+g 2.200 	23	query224_Chicken_(food)\S\23
+g 3.610 	24	query224_Chicken_(food)\S\24
+g 1.583 	25	query224_Chicken_(food)\S\25
+g 1.190 	26	query224_Chicken_(food)\S\26
+g 0.870 	27	query224_Chicken_(food)\S\27
+g 1 1 Chicken is the most common type of poultry in the world , FAOSTAT : ProdSTAT : Livestock Primary Food and Agriculture Organization 2007 http ://faostat.fao.org/site/569/DesktopDefault 	28	query224_Chicken_(food)\S\28
+"g 1 1 Chicken is the most common type of poultry in the world"	"is"	"FAOSTAT ProdSTAT Livestock Primary Food faostat.fao.org/site/569/DesktopDefault"	28	query224_Chicken_(food)\P\28-0
+"g 1 1 Chicken is the most common type of poultry in the world"	"is"	"FAOSTAT ProdSTAT Livestock Primary Agriculture Organization 2007 http faostat.fao.org/site/569/DesktopDefault"	28	query224_Chicken_(food)\P\28-1
+"g 1 1 Chicken"	"is the most common type"	"of poultry"	28	query224_Chicken_(food)\P\28-2
+"g 1 1 Chicken"	"is the most common type"	"in the world"	28	query224_Chicken_(food)\P\28-3
+"g 1 1 Chicken"	"is"	"the most common type"	28	query224_Chicken_(food)\P\28-4
+.aspx?PageID=569 	29	query224_Chicken_(food)\S\29
+.aspx?PageID=569 	29	query224_Chicken_(food)\S\29
+01-11-2009 October 2011 FAOSTAT : ProdSTAT : Livestock Primary Food and Agriculture Organization 2007 http ://faostat.fao.org/site/569/DesktopDefault 	30	query224_Chicken_(food)\S\30
+.aspx?PageID=569 	31	query224_Chicken_(food)\S\31
+.aspx?PageID=569 	31	query224_Chicken_(food)\S\31
+01-11-2009 October 2011 and is prepared as food in a wide variety of ways , varying by region and culture . 	32	query224_Chicken_(food)\S\32
+"01-11-2009 October 2011"	"be varying"	"by region"	32	query224_Chicken_(food)\P\32-0
+"01-11-2009 October 2011"	"be varying"	"by culture"	32	query224_Chicken_(food)\P\32-1
+"01-11-2009 October 2011 is prepared as food in a wide variety of ways"	"be varying"	"by region"	32	query224_Chicken_(food)\P\32-2
+"01-11-2009 October 2011 is prepared as food in a wide variety of ways"	"be varying"	"by culture"	32	query224_Chicken_(food)\P\32-3
+The modern chicken is a descendant of Red Junglefowl hybrids along with the Grey Junglefowl first raised thousands of years ago in the northern parts of the Indian subcontinent . 	33	query224_Chicken_(food)\S\33
+"The modern chicken"	"is a descendant"	"of Red Junglefowl hybrids"	33	query224_Chicken_(food)\P\33-0
+"The modern chicken"	"is a descendant"	"along with the Grey Junglefowl first raised thousands of years ago in the northern parts of the Indian subcontinent"	33	query224_Chicken_(food)\P\33-1
+"The modern chicken"	"is"	"a descendant"	33	query224_Chicken_(food)\P\33-2
+"the Grey Junglefowl"	"raised"	"thousands of years ago first"	33	query224_Chicken_(food)\P\33-3
+"the Grey Junglefowl"	"raised"	"thousands of years ago in the northern parts of the Indian subcontinent"	33	query224_Chicken_(food)\P\33-4
+"the Grey Junglefowl"	"raised"	"thousands of years ago"	33	query224_Chicken_(food)\P\33-5
+Eriksson J , Larson G , Gunnarsson U, Bed 'hom B , Tixier-Boichard M , et al . 	34	query224_Chicken_(food)\S\34
+"Eriksson J"	"is"	"et al"	34	query224_Chicken_(food)\P\34-0
+"Eriksson Larson G"	"is"	"et al"	34	query224_Chicken_(food)\P\34-1
+"Eriksson Gunnarsson U"	"is"	"et al"	34	query224_Chicken_(food)\P\34-2
+"Eriksson Bed hom B"	"is"	"et al"	34	query224_Chicken_(food)\P\34-3
+"Eriksson Tixier-Boichard M"	"is"	"et al"	34	query224_Chicken_(food)\P\34-4
+( 2008 ) Identification of the Yellow Skin Gene Reveals a Hybrid Origin of the Domestic Chicken . 	35	query224_Chicken_(food)\S\35
+( 2008 ) Identification of the Yellow Skin Gene Reveals a Hybrid Origin of the Domestic Chicken . 	35	query224_Chicken_(food)\S\35
+"Identification of the Yellow Skin Gene"	"Reveals"	"a Hybrid Origin of the Domestic Chicken"	35	query224_Chicken_(food)\P\35-0
+PLoS Genet January 23 , 2008 . 	36	query224_Chicken_(food)\S\36
+Chicken as a meat has been depicted in Babylon carvings from around 600 BC . 	37	query224_Chicken_(food)\S\37
+"a meat"	"has been depicted"	"in Babylon carvings from around 600 BC"	37	query224_Chicken_(food)\P\37-0
+Chicken was one of the most common meats available in the Middle Ages . 	38	query224_Chicken_(food)\S\38
+"Chicken"	"was one"	"of the most common meats available in the Middle Ages"	38	query224_Chicken_(food)\P\38-0
+"Chicken"	"was"	"one"	38	query224_Chicken_(food)\P\38-1
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+It was widely believed to be easily digested and considered to be one of the most neutral foodstuff . 	39	query224_Chicken_(food)\S\39
+July 2011 It was eaten over most of the Eastern hemisphere and a number of different kinds of chicken such as capon , pullet and hens were eaten . 	40	query224_Chicken_(food)\S\40
+July 2011 It was eaten over most of the Eastern hemisphere and a number of different kinds of chicken such as capon , pullet and hens were eaten . 	40	query224_Chicken_(food)\S\40
+July 2011 It was eaten over most of the Eastern hemisphere and a number of different kinds of chicken such as capon , pullet and hens were eaten . 	40	query224_Chicken_(food)\S\40
+July 2011 It was eaten over most of the Eastern hemisphere and a number of different kinds of chicken such as capon , pullet and hens were eaten . 	40	query224_Chicken_(food)\S\40
+July 2011 It was eaten over most of the Eastern hemisphere and a number of different kinds of chicken such as capon , pullet and hens were eaten . 	40	query224_Chicken_(food)\S\40
+It was one of the basic ingredients in the so-called white dish , a stew usually consisting of chicken and fried onions cooked in milk and seasoned with spices and sugar . 	41	query224_Chicken_(food)\S\41
+It was one of the basic ingredients in the so-called white dish , a stew usually consisting of chicken and fried onions cooked in milk and seasoned with spices and sugar . 	41	query224_Chicken_(food)\S\41
+It was one of the basic ingredients in the so-called white dish , a stew usually consisting of chicken and fried onions cooked in milk and seasoned with spices and sugar . 	41	query224_Chicken_(food)\S\41
+It was one of the basic ingredients in the so-called white dish , a stew usually consisting of chicken and fried onions cooked in milk and seasoned with spices and sugar . 	41	query224_Chicken_(food)\S\41
+It was one of the basic ingredients in the so-called white dish , a stew usually consisting of chicken and fried onions cooked in milk and seasoned with spices and sugar . 	41	query224_Chicken_(food)\S\41
+It was one of the basic ingredients in the so-called white dish , a stew usually consisting of chicken and fried onions cooked in milk and seasoned with spices and sugar . 	41	query224_Chicken_(food)\S\41
+It was one of the basic ingredients in the so-called white dish , a stew usually consisting of chicken and fried onions cooked in milk and seasoned with spices and sugar . 	41	query224_Chicken_(food)\S\41
+"a stew"	"be consisting"	"usually of chicken"	41	query224_Chicken_(food)\P\41-0
+"a stew"	"be consisting"	"usually"	41	query224_Chicken_(food)\P\41-1
+"a stew"	"be consisting"	"usually"	41	query224_Chicken_(food)\P\41-2
+"a stew"	"be consisting"	"usually"	41	query224_Chicken_(food)\P\41-3
+"a stew"	"be consisting"	"usually"	41	query224_Chicken_(food)\P\41-4
+Chicken consumption in the United States increased during World War II due to a shortage of beef and pork . 	42	query224_Chicken_(food)\S\42
+"Chicken consumption in the United States"	"increased"	"during World War II due to a shortage of beef"	42	query224_Chicken_(food)\P\42-0
+"Chicken consumption in the United States"	"increased"	"during World War II due to a shortage of pork"	42	query224_Chicken_(food)\P\42-1
+"Chicken consumption in the United States"	"increased"	"during World War II"	42	query224_Chicken_(food)\P\42-2
+, The History Channel . 	43	query224_Chicken_(food)\S\43
+, The History Channel . 	43	query224_Chicken_(food)\S\43
+March 2 , 2007 . 	44	query224_Chicken_(food)\S\44
+In Europe , consumption of chicken overtook that of beef and veal in 1996 , linked to consumer awareness of Bovine spongiform encephalopathy or B.S.E. 	45	query224_Chicken_(food)\S\45
+"In Europe"	"is"	"consumption of chicken overtook that of beef in 1996"	45	query224_Chicken_(food)\P\45-0
+"In Europe"	"is"	"consumption of chicken overtook that of veal in 1996"	45	query224_Chicken_(food)\P\45-1
+Poultry farming Modern varieties of chicken such as the Cornish Cross , are bred specifically for meat production , with an emphasis placed on the ratio of feed to meat produced by the animal . 	46	query224_Chicken_(food)\S\46
+"Poultry farming Modern varieties of chicken such as the Cornish Cross"	"are bred"	"specifically for meat production with an emphasis placed on the ratio of feed to meat produced by the animal"	46	query224_Chicken_(food)\P\46-0
+"Poultry farming Modern varieties of chicken such as the Cornish Cross"	"are bred"	"specifically for meat production"	46	query224_Chicken_(food)\P\46-1
+"an emphasis"	"be placed"	"on the ratio of feed to meat produced by the animal"	46	query224_Chicken_(food)\P\46-2
+"an emphasis"	"be placed"	"on the ratio of feed to meat produced by the animal"	46	query224_Chicken_(food)\P\46-3
+The most common breeds of chicken consumed in the US are Cornish and White Rock . 	47	query224_Chicken_(food)\S\47
+The most common breeds of chicken consumed in the US are Cornish and White Rock . 	47	query224_Chicken_(food)\S\47
+"The most common breeds of chicken consumed in the US"	"are"	"Cornish"	47	query224_Chicken_(food)\P\47-0
+"The most common breeds of chicken consumed in the US"	"are"	"White Rock"	47	query224_Chicken_(food)\P\47-1
+, USDA . 	48	query224_Chicken_(food)\S\48
+, USDA . 	48	query224_Chicken_(food)\S\48
+March 2 , 2007 . 	49	query224_Chicken_(food)\S\49
+Chickens raised specifically for food are called broiler . 	50	query224_Chicken_(food)\S\50
+In the United States , broilers are typically butchered at a young age . 	51	query224_Chicken_(food)\S\51
+In the United States , broilers are typically butchered at a young age . 	51	query224_Chicken_(food)\S\51
+In the United States , broilers are typically butchered at a young age . 	51	query224_Chicken_(food)\S\51
+Modern Cornish Cross hybrids , for example , are butchered as early as 8 weeks for fryers and 12 weeks for roasting birds . 	52	query224_Chicken_(food)\S\52
+"Modern Cornish Cross hybrids"	"are butchered"	"as early as 8 weeks for example"	52	query224_Chicken_(food)\P\52-0
+"Modern Cornish Cross hybrids"	"are butchered"	"as early as 8 weeks for fryers for roasting birds"	52	query224_Chicken_(food)\P\52-1
+"Modern Cornish Cross hybrids"	"are butchered"	"as early as 8 weeks for 12 weeks for roasting birds"	52	query224_Chicken_(food)\P\52-2
+"Modern Cornish Cross hybrids"	"are butchered"	"as early as 8 weeks"	52	query224_Chicken_(food)\P\52-3
+Capon ( castrate cocks ) produce more and fattier meat . 	53	query224_Chicken_(food)\S\53
+"Capon castrate cocks"	"produce"	"more meat"	53	query224_Chicken_(food)\P\53-0
+"Capon castrate cocks"	"produce"	"fattier meat"	53	query224_Chicken_(food)\P\53-1
+For this reason , they are considered a delicacy and were particularly popular in the Middle Ages . 	54	query224_Chicken_(food)\S\54
+For this reason , they are considered a delicacy and were particularly popular in the Middle Ages . 	54	query224_Chicken_(food)\S\54
+For this reason , they are considered a delicacy and were particularly popular in the Middle Ages . 	54	query224_Chicken_(food)\S\54
+thumbChicken in a public market Chicken meat contains about two to three times as much polyunsaturated fat than most types of red meat when measured as weight percentage . 	55	query224_Chicken_(food)\S\55
+"thumbChicken in a public market Chicken meat"	"contains"	"about two to three times as much polyunsaturated fat than most types of red meat when measured as weight percentage"	55	query224_Chicken_(food)\P\55-0
+"thumbChicken in a public market Chicken meat"	"contains"	"about two to three times as much polyunsaturated fat than most types of red meat"	55	query224_Chicken_(food)\P\55-1
+Northwestern University . 	56	query224_Chicken_(food)\S\56
+Retrieved on August 24 , 2009 Chicken generally includes low fat in the meat itself ( castrated roosters excluded ) , however it is highly concentrated on its skin , which should be avoided when low intake of fat is necessary . 	57	query224_Chicken_(food)\S\57
+Retrieved on August 24 , 2009 Chicken generally includes low fat in the meat itself ( castrated roosters excluded ) , however it is highly concentrated on its skin , which should be avoided when low intake of fat is necessary . 	57	query224_Chicken_(food)\S\57
+"Retrieved on August 24"	"is"	"2009 Chicken"	57	query224_Chicken_(food)\P\57-0
+"Retrieved on August 24"	"includes"	"low fat in the meat itself generally"	57	query224_Chicken_(food)\P\57-1
+"Retrieved on August 24"	"includes"	"low fat in the meat itself"	57	query224_Chicken_(food)\P\57-2
+"low fat in the meat itself"	"is"	"castrated roosters excluded"	57	query224_Chicken_(food)\P\57-3
+"low fat in the meat itself"	"is"	"castrated roosters excluded"	57	query224_Chicken_(food)\P\57-4
+"low fat in the meat itself"	"is"	"castrated roosters excluded"	57	query224_Chicken_(food)\P\57-5
+"low fat in the meat itself"	"is"	"castrated roosters excluded"	57	query224_Chicken_(food)\P\57-6
+"low fat in the meat itself"	"is"	"castrated roosters excluded"	57	query224_Chicken_(food)\P\57-7
+"its skin"	"should be avoided"	"when low intake of fat is necessary"	57	query224_Chicken_(food)\P\57-8
+"low intake of fat"	"is necessary"	"when"	57	query224_Chicken_(food)\P\57-9
+"low intake of fat"	"is"	"necessary"	57	query224_Chicken_(food)\P\57-10
+Cooking method is highly related to health issues related to chicken , with steam cooking with skin removed being considered one of the healthiest , and fried with trans fats one of the worst . 	58	query224_Chicken_(food)\S\58
+"Cooking method"	"is related"	"to health issues related to chicken highly"	58	query224_Chicken_(food)\P\58-0
+"Cooking method"	"is related"	"to health issues related to chicken highly"	58	query224_Chicken_(food)\P\58-1
+"Cooking method"	"is related"	"to health issues related to chicken with steam cooking with skin"	58	query224_Chicken_(food)\P\58-2
+"Cooking method"	"is related"	"to health issues related to chicken with steam cooking with skin"	58	query224_Chicken_(food)\P\58-3
+"Cooking method"	"is related"	"to health issues related to chicken"	58	query224_Chicken_(food)\P\58-4
+"Cooking method"	"is related"	"to health issues related to chicken"	58	query224_Chicken_(food)\P\58-5
+"health issues"	"be related"	"to chicken"	58	query224_Chicken_(food)\P\58-6
+However according to a 2006 Harvard School of Public Health study of 135,000 people , people who ate grilled skinless chicken 5 or more times a week had a 52 percent higher chance of developing bladder cancer compared to people who did n’t . 	59	query224_Chicken_(food)\S\59
+However according to a 2006 Harvard School of Public Health study of 135,000 people , people who ate grilled skinless chicken 5 or more times a week had a 52 percent higher chance of developing bladder cancer compared to people who did n’t . 	59	query224_Chicken_(food)\S\59
+However according to a 2006 Harvard School of Public Health study of 135,000 people , people who ate grilled skinless chicken 5 or more times a week had a 52 percent higher chance of developing bladder cancer compared to people who did n’t . 	59	query224_Chicken_(food)\S\59
+However according to a 2006 Harvard School of Public Health study of 135,000 people , people who ate grilled skinless chicken 5 or more times a week had a 52 percent higher chance of developing bladder cancer compared to people who did n’t . 	59	query224_Chicken_(food)\S\59
+However according to a 2006 Harvard School of Public Health study of 135,000 people , people who ate grilled skinless chicken 5 or more times a week had a 52 percent higher chance of developing bladder cancer compared to people who did n’t . 	59	query224_Chicken_(food)\S\59
+However , such strong associations were not found in individuals regularly consuming chicken with skin intact . 	60	query224_Chicken_(food)\S\60
+"such strong associations"	"were not found"	"in individuals regularly consuming chicken with skin intact 60 However"	60	query224_Chicken_(food)\P\60-0
+"such strong associations"	"were not found"	"60 However"	60	query224_Chicken_(food)\P\60-1
+"such strong associations"	"were not found"	"60 However"	60	query224_Chicken_(food)\P\60-2
+"such strong associations"	"were not found"	"60 However"	60	query224_Chicken_(food)\P\60-3
+http ://drbenkim.com/blog/2006/12/bacon-skinless-chicken-may-cause 	61	query224_Chicken_(food)\S\61
+.html 	62	query224_Chicken_(food)\S\62
+Eating Bacon &amp; Skinless Chicken May Cause Bladder Cancer Drbenkim.com 	63	query224_Chicken_(food)\S\63
+2006-12-02 2010-08-19 http ://drbenkim.com/blog/2006/12/bacon-skinless-chicken-may-cause 	64	query224_Chicken_(food)\S\64
+.html 	65	query224_Chicken_(food)\S\65
+Eating Bacon &amp; Skinless Chicken May Cause Bladder Cancer Drbenkim.com 	66	query224_Chicken_(food)\S\66
+2006-12-02 2010-08-19 A recent study by the Translational Genomics Research Institute showed that nearly half ( 47 % ) percent of the meat and poultry in US grocery stores were contaminated with S. 	67	query224_Chicken_(food)\S\67
+"2006-12-02 2010-08-19 A recent study by the Translational Genomics Research Institute"	"showed"	"that nearly half percent of the meat in US grocery stores were contaminated with S."	67	query224_Chicken_(food)\P\67-0
+"2006-12-02 2010-08-19 A recent study by the Translational Genomics Research Institute"	"showed"	"that nearly half percent of the poultry in US grocery stores were contaminated with S."	67	query224_Chicken_(food)\P\67-1
+"nearly half"	"is"	"47 %"	67	query224_Chicken_(food)\P\67-2
+"nearly half percent of the meat in US grocery stores"	"were contaminated"	"with S."	67	query224_Chicken_(food)\P\67-3
+"nearly half percent of the poultry in US grocery stores"	"were contaminated"	"with S."	67	query224_Chicken_(food)\P\67-4
+aureus , with more than half ( 52 % ) of those bacteria resistant to antibiotics . 	68	query224_Chicken_(food)\S\68
+"more than half of those bacteria resistant to antibiotics"	"is"	"52 %"	68	query224_Chicken_(food)\P\68-0
+thumbleftOven roasted chicken with potatoes . 	69	query224_Chicken_(food)\S\69
+Juvenile chickens , of less than 28 days of age at slaughter in the United Kingdom are marketed as poussin . 	70	query224_Chicken_(food)\S\70
+"Juvenile chickens of less than 28 days of age at slaughter in the United Kingdom"	"are marketed"	"as poussin"	70	query224_Chicken_(food)\P\70-0
+Mature chicken is sold as small , medium or large . 	71	query224_Chicken_(food)\S\71
+"Mature chicken"	"is sold"	"as small"	71	query224_Chicken_(food)\P\71-0
+"Mature chicken"	"is sold"	"as medium"	71	query224_Chicken_(food)\P\71-1
+"Mature chicken"	"is sold"	"as large"	71	query224_Chicken_(food)\P\71-2
+Whole mature chickens are marketed in the United States as fryers , broilers , and roasters . 	72	query224_Chicken_(food)\S\72
+"Whole mature chickens"	"are marketed"	"in the United States as fryers"	72	query224_Chicken_(food)\P\72-0
+"Whole mature chickens"	"are marketed"	"in the United States as broilers"	72	query224_Chicken_(food)\P\72-1
+"Whole mature chickens"	"are marketed"	"in the United States as roasters"	72	query224_Chicken_(food)\P\72-2
+"Whole mature chickens"	"are marketed"	"in the United States"	72	query224_Chicken_(food)\P\72-3
+Fryers are the smallest size ( 2.5-4&nbsp;lbs 	73	query224_Chicken_(food)\S\73
+"Fryers"	"are"	"the smallest size 2.5-4 lbs"	73	query224_Chicken_(food)\P\73-0
+dressed for sale ) , and the most common , as chicken reach this size quickly ( about 7 weeks ) . 	74	query224_Chicken_(food)\S\74
+dressed for sale ) , and the most common , as chicken reach this size quickly ( about 7 weeks ) . 	74	query224_Chicken_(food)\S\74
+"the most common"	"be dressed"	"for sale"	74	query224_Chicken_(food)\P\74-0
+"the most common"	"be dressed"	"for sale"	74	query224_Chicken_(food)\P\74-1
+"the most common"	"be dressed"	"for sale"	74	query224_Chicken_(food)\P\74-2
+"the most common"	"be dressed"	"for sale"	74	query224_Chicken_(food)\P\74-3
+"the most common"	"be dressed"	"for sale"	74	query224_Chicken_(food)\P\74-4
+Most dismembered packaged chicken would be sold whole as fryers . 	75	query224_Chicken_(food)\S\75
+"Most dismembered packaged chicken"	"would be sold"	"whole as fryers"	75	query224_Chicken_(food)\P\75-0
+"Most dismembered packaged chicken"	"would be sold"	"whole"	75	query224_Chicken_(food)\P\75-1
+Broilers are larger than fryers . 	76	query224_Chicken_(food)\S\76
+"Broilers"	"are larger"	"than fryers"	76	query224_Chicken_(food)\P\76-0
+"Broilers"	"are"	"larger"	76	query224_Chicken_(food)\P\76-1
+They are typically sold whole . 	77	query224_Chicken_(food)\S\77
+They are typically sold whole . 	77	query224_Chicken_(food)\S\77
+They are typically sold whole . 	77	query224_Chicken_(food)\S\77
+Roasters , or roasting hens , are the largest chickens commonly sold ( 3–5 months and 6-8&nbsp;lbs ) and are typically more expensive . 	78	query224_Chicken_(food)\S\78
+"Roasters"	"are the largest chickens"	"commonly sold 3 5 months"	78	query224_Chicken_(food)\P\78-0
+"Roasters"	"are the largest chickens"	"commonly sold 3 5 6-8 lbs"	78	query224_Chicken_(food)\P\78-1
+"roasting hens"	"are the largest chickens"	"commonly sold 3 5 months"	78	query224_Chicken_(food)\P\78-2
+"roasting hens"	"are the largest chickens"	"commonly sold 3 5 6-8 lbs"	78	query224_Chicken_(food)\P\78-3
+"Roasters"	"are"	"the largest chickens"	78	query224_Chicken_(food)\P\78-4
+"roasting hens"	"are"	"the largest chickens"	78	query224_Chicken_(food)\P\78-5
+"Roasters"	"are are the largest expensive"	"commonly sold 3 5 months"	78	query224_Chicken_(food)\P\78-6
+"Roasters"	"are are the largest expensive"	"commonly sold 3 5 6-8 lbs"	78	query224_Chicken_(food)\P\78-7
+"roasting hens"	"are are the largest expensive"	"commonly sold 3 5 months"	78	query224_Chicken_(food)\P\78-8
+"roasting hens"	"are are the largest expensive"	"commonly sold 3 5 6-8 lbs"	78	query224_Chicken_(food)\P\78-9
+"Roasters"	"are are the largest expensive"	"typically"	78	query224_Chicken_(food)\P\78-10
+"roasting hens"	"are are the largest expensive"	"typically"	78	query224_Chicken_(food)\P\78-11
+"Roasters"	"are are the largest expensive"	"more"	78	query224_Chicken_(food)\P\78-12
+"roasting hens"	"are are the largest expensive"	"more"	78	query224_Chicken_(food)\P\78-13
+"Roasters"	"are are"	"the largest expensive"	78	query224_Chicken_(food)\P\78-14
+"roasting hens"	"are are"	"the largest expensive"	78	query224_Chicken_(food)\P\78-15
+"the largest chickens"	"be sold"	"commonly"	78	query224_Chicken_(food)\P\78-16
+"the largest are typically more expensive"	"be sold"	"commonly"	78	query224_Chicken_(food)\P\78-17
+Even larger and older chickens are called stewing chickens but these are no longer usually found commercially . 	79	query224_Chicken_(food)\S\79
+"Even larger chickens"	"are called"	"stewing chickens"	79	query224_Chicken_(food)\P\79-0
+"Even older chickens"	"are called"	"stewing chickens"	79	query224_Chicken_(food)\P\79-1
+"Even older chickens"	"are called"	"stewing chickens"	79	query224_Chicken_(food)\P\79-2
+"Even older chickens"	"are called"	"stewing chickens"	79	query224_Chicken_(food)\P\79-3
+"Even older chickens"	"are called"	"stewing chickens"	79	query224_Chicken_(food)\P\79-4
+The names reflect the most appropriate cooking method for the surface area to volume ratio . 	80	query224_Chicken_(food)\S\80
+"The names"	"reflect"	"the most appropriate cooking method for the surface area to volume ratio"	80	query224_Chicken_(food)\P\80-0
+As the size increases , the volume ( which determines how much heat must enter the bird for it to be cooked ) increases faster than the surface area ( which determines how fast heat can enter the bird ) . 	81	query224_Chicken_(food)\S\81
+As the size increases , the volume ( which determines how much heat must enter the bird for it to be cooked ) increases faster than the surface area ( which determines how fast heat can enter the bird ) . 	81	query224_Chicken_(food)\S\81
+"how much heat"	"must enter"	"the bird for it to be cooked"	81	query224_Chicken_(food)\P\81-0
+"how much heat"	"must enter"	"the bird"	81	query224_Chicken_(food)\P\81-1
+"the volume which determines how much heat must enter the bird for it to be cooked"	"increases"	"faster than the surface area which determines how fast heat can enter the bird"	81	query224_Chicken_(food)\P\81-2
+"the volume which determines how much heat must enter the bird for it to be cooked"	"increases"	"faster than the surface area which determines how fast heat can enter the bird"	81	query224_Chicken_(food)\P\81-3
+"how fast heat"	"can enter"	"the bird"	81	query224_Chicken_(food)\P\81-4
+For a fast method of cooking , such as frying , a small bird is appropriate : frying a large piece of chicken results in the inside being undercooked when the outside is ready . 	82	query224_Chicken_(food)\S\82
+"a small bird"	"is"	"frying appropriate"	82	query224_Chicken_(food)\P\82-0
+"frying a large piece of chicken"	"results"	"in the inside being undercooked when the outside is ready"	82	query224_Chicken_(food)\P\82-1
+"the inside"	"be undercooked"	"when the outside is ready"	82	query224_Chicken_(food)\P\82-2
+"the outside"	"is ready"	"when"	82	query224_Chicken_(food)\P\82-3
+"the outside"	"is"	"ready"	82	query224_Chicken_(food)\P\82-4
+Chicken is also sold in dismembered pieces . 	83	query224_Chicken_(food)\S\83
+"Chicken"	"is sold"	"in dismembered pieces also"	83	query224_Chicken_(food)\P\83-0
+"Chicken"	"is sold"	"in dismembered pieces"	83	query224_Chicken_(food)\P\83-1
+Pieces may include quarters , or fourths of the chicken . 	84	query224_Chicken_(food)\S\84
+"Pieces"	"may include"	"quarters"	84	query224_Chicken_(food)\P\84-0
+"Pieces"	"may include"	"fourths of the chicken"	84	query224_Chicken_(food)\P\84-1
+A chicken is typically cut into two leg quarters and two breast quarters . 	85	query224_Chicken_(food)\S\85
+"A chicken"	"is cut"	"into two leg quarters typically"	85	query224_Chicken_(food)\P\85-0
+"A chicken"	"is cut"	"into two leg two breast quarters typically"	85	query224_Chicken_(food)\P\85-1
+"A chicken"	"is cut"	"into two leg quarters"	85	query224_Chicken_(food)\P\85-2
+"A chicken"	"is cut"	"into two leg two breast quarters"	85	query224_Chicken_(food)\P\85-3
+Each quarter contains two of the commonly available pieces of chicken . 	86	query224_Chicken_(food)\S\86
+"Each quarter"	"contains"	"two of the commonly available pieces of chicken"	86	query224_Chicken_(food)\P\86-0
+A leg quarter contains the thigh , drumstick and a portion of the back ; a leg has the back portion removed . 	87	query224_Chicken_(food)\S\87
+"A leg quarter"	"contains"	"the thigh"	87	query224_Chicken_(food)\P\87-0
+"A leg quarter"	"contains"	"the drumstick"	87	query224_Chicken_(food)\P\87-1
+"A leg quarter"	"contains"	"the a portion of the back"	87	query224_Chicken_(food)\P\87-2
+"a leg"	"has the back portion removed"	"87 A leg quarter contains the thigh"	87	query224_Chicken_(food)\P\87-3
+"a leg"	"has the back portion removed"	"87 A leg quarter contains the drumstick"	87	query224_Chicken_(food)\P\87-4
+"a leg"	"has the back portion removed"	"87 A leg quarter contains the a portion of the back"	87	query224_Chicken_(food)\P\87-5
+"a leg"	"has the back portion removed"	"87 A leg quarter contains the thigh"	87	query224_Chicken_(food)\P\87-6
+"a leg"	"has the back portion removed"	"87 A leg quarter contains the drumstick"	87	query224_Chicken_(food)\P\87-7
+"a leg"	"has the back portion removed"	"87 A leg quarter contains the a portion of the back"	87	query224_Chicken_(food)\P\87-8
+A breast quarter contains the breast , wing and portion of the back ; a breast has the back portion and wing removed . 	88	query224_Chicken_(food)\S\88
+Pieces may be sold in packages of all of the same pieces , or in combination packages . 	89	query224_Chicken_(food)\S\89
+"Pieces"	"may be sold"	"in packages of all of the same pieces"	89	query224_Chicken_(food)\P\89-0
+"Pieces"	"may be sold"	"in packages of all of the same in combination packages"	89	query224_Chicken_(food)\P\89-1
+Whole chicken cut up refers to either the entire bird cut into 8 individual pieces . 	90	query224_Chicken_(food)\S\90
+"Whole chicken"	"cut up"	"refers to the entire bird cut into 8 individual pieces"	90	query224_Chicken_(food)\P\90-0
+"the entire bird"	"cut"	"into 8 individual pieces"	90	query224_Chicken_(food)\P\90-1
+(8-piece cut ) ; or sometimes without the back . 	91	query224_Chicken_(food)\S\91
+(8-piece cut ) ; or sometimes without the back . 	91	query224_Chicken_(food)\S\91
+"sometimes without the back"	"is"	"8-piece cut"	91	query224_Chicken_(food)\P\91-0
+A 9-piece cut (usually for fast food restaurants ) has the tip of the breast cut off before splitting . 	92	query224_Chicken_(food)\S\92
+"A 9-piece cut usually for fast food restaurants"	"has"	"the tip of the breast"	92	query224_Chicken_(food)\P\92-0
+Pick of the Chicken , or similar titles , refers to a package with only some of the chicken pieces . 	93	query224_Chicken_(food)\S\93
+Pick of the Chicken , or similar titles , refers to a package with only some of the chicken pieces . 	93	query224_Chicken_(food)\S\93
+Pick of the Chicken , or similar titles , refers to a package with only some of the chicken pieces . 	93	query224_Chicken_(food)\S\93
+Typically the breasts , thighs , and legs without wings or back . 	94	query224_Chicken_(food)\S\94
+Thighs and breasts are sold boneless and/or skinless . 	95	query224_Chicken_(food)\S\95
+"Thighs"	"are sold"	"boneless"	95	query224_Chicken_(food)\P\95-0
+"Thighs"	"are sold"	"skinless"	95	query224_Chicken_(food)\P\95-1
+"breasts"	"are sold"	"boneless"	95	query224_Chicken_(food)\P\95-2
+"breasts"	"are sold"	"skinless"	95	query224_Chicken_(food)\P\95-3
+Dark meat ( legs , drumsticks and thighs ) pieces are typically cheaper than white meat pieces ( breast , wings ) . 	96	query224_Chicken_(food)\S\96
+"Dark meat"	"is"	"legs"	96	query224_Chicken_(food)\P\96-0
+"Dark meat"	"is"	"drumsticks"	96	query224_Chicken_(food)\P\96-1
+"Dark meat"	"is"	"thighs"	96	query224_Chicken_(food)\P\96-2
+"Dark meat pieces"	"are cheaper"	"typically"	96	query224_Chicken_(food)\P\96-3
+"Dark meat pieces"	"are cheaper"	"than white meat pieces breast"	96	query224_Chicken_(food)\P\96-4
+"Dark meat pieces"	"are"	"cheaper"	96	query224_Chicken_(food)\P\96-5
+"Dark meat pieces"	"are"	"cheaper"	96	query224_Chicken_(food)\P\96-6
+Chicken livers and/or gizzards are commonly available packaged separately . 	97	query224_Chicken_(food)\S\97
+"Chicken livers"	"are available packaged separately"	"commonly"	97	query224_Chicken_(food)\P\97-0
+"Chicken gizzards"	"are available packaged separately"	"commonly"	97	query224_Chicken_(food)\P\97-1
+"Chicken livers"	"are"	"available packaged separately"	97	query224_Chicken_(food)\P\97-2
+"Chicken gizzards"	"are"	"available packaged separately"	97	query224_Chicken_(food)\P\97-3
+Other parts of the chicken , such as the neck , feet , combs , etc . 	98	query224_Chicken_(food)\S\98
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+are not widely available except in countries where they are in demand , or in cities that cater to ethnic groups who favor these parts . 	99	query224_Chicken_(food)\S\99
+"ethnic groups"	"favor"	"these parts"	99	query224_Chicken_(food)\P\99-0
+There are many fast food restaurant chains on both a national and global scale that sell exclusively or primarily in poultry products including KFC ( global ) , Red Rooster ( Australia ) , Hector Chicken ( Belgium ) and CFC ( Indonesia ) . 	100	query224_Chicken_(food)\S\100
+"many fast food restaurant chains on a national scale"	"There are"	"100"	100	query224_Chicken_(food)\P\100-0
+"many fast food restaurant chains on a global scale"	"There are"	"100"	100	query224_Chicken_(food)\P\100-1
+"a national scale"	"sell"	"exclusively in poultry products including KFC global"	100	query224_Chicken_(food)\P\100-2
+"a national scale"	"sell"	"exclusively in poultry products including global Red Rooster"	100	query224_Chicken_(food)\P\100-3
+"a national scale"	"sell"	"exclusively in poultry products including global Hector Chicken"	100	query224_Chicken_(food)\P\100-4
+"a national scale"	"sell"	"exclusively in poultry products including global CFC"	100	query224_Chicken_(food)\P\100-5
+"a national scale"	"sell"	"primarily in poultry products including KFC global"	100	query224_Chicken_(food)\P\100-6
+"a national scale"	"sell"	"primarily in poultry products including global Red Rooster"	100	query224_Chicken_(food)\P\100-7
+"a national scale"	"sell"	"primarily in poultry products including global Hector Chicken"	100	query224_Chicken_(food)\P\100-8
+"a national scale"	"sell"	"primarily in poultry products including global CFC"	100	query224_Chicken_(food)\P\100-9
+"a global scale"	"sell"	"exclusively in poultry products including KFC global"	100	query224_Chicken_(food)\P\100-10
+"a global scale"	"sell"	"exclusively in poultry products including global Red Rooster"	100	query224_Chicken_(food)\P\100-11
+"a global scale"	"sell"	"exclusively in poultry products including global Hector Chicken"	100	query224_Chicken_(food)\P\100-12
+"a global scale"	"sell"	"exclusively in poultry products including global CFC"	100	query224_Chicken_(food)\P\100-13
+"a global scale"	"sell"	"primarily in poultry products including KFC global"	100	query224_Chicken_(food)\P\100-14
+"a global scale"	"sell"	"primarily in poultry products including global Red Rooster"	100	query224_Chicken_(food)\P\100-15
+"a global scale"	"sell"	"primarily in poultry products including global Hector Chicken"	100	query224_Chicken_(food)\P\100-16
+"a global scale"	"sell"	"primarily in poultry products including global CFC"	100	query224_Chicken_(food)\P\100-17
+"a national scale"	"sell"	"exclusively"	100	query224_Chicken_(food)\P\100-18
+"a national scale"	"sell"	"primarily"	100	query224_Chicken_(food)\P\100-19
+"a global scale"	"sell"	"exclusively"	100	query224_Chicken_(food)\P\100-20
+"a global scale"	"sell"	"primarily"	100	query224_Chicken_(food)\P\100-21
+"Red Rooster"	"is"	"Australia"	100	query224_Chicken_(food)\P\100-22
+"Hector Chicken"	"is"	"Belgium"	100	query224_Chicken_(food)\P\100-23
+"Hector Chicken"	"is"	"Belgium"	100	query224_Chicken_(food)\P\100-24
+Most of the products on the menu in such eateries are fried or breaded and are served with french fries . 	101	query224_Chicken_(food)\S\101
+"Most of the products on the menu in such eateries"	"are are served"	"with french fries"	101	query224_Chicken_(food)\P\101-0
+leftthumbMarinationof chicken forgrilling . 	102	query224_Chicken_(food)\S\102
+thumbrightTheUnited States Department of AgricultureUSDAclassifies cuts ofpoultryin a manner similar tobeef . 	103	query224_Chicken_(food)\S\103
+"thumbrightTheUnited States Department of AgricultureUSDAclassifies"	"cuts"	"ofpoultryin a manner similar tobeef"	103	query224_Chicken_(food)\P\103-0
+Raw chicken can be frozen for up to two years without significant changes in flavor or texture . 	104	query224_Chicken_(food)\S\104
+"Raw chicken"	"can be frozen"	"for up to two years without significant changes in flavor"	104	query224_Chicken_(food)\P\104-0
+"Raw chicken"	"can be frozen"	"for up to two years without significant changes in texture"	104	query224_Chicken_(food)\P\104-1
+"Raw chicken"	"can be frozen"	"for up to two years"	104	query224_Chicken_(food)\P\104-2
+Chicken is typically eaten cooked as when raw it often contains Salmonella . 	105	query224_Chicken_(food)\S\105
+"Chicken"	"is eaten"	"typically"	105	query224_Chicken_(food)\P\105-0
+"Chicken"	"is eaten"	"typically"	105	query224_Chicken_(food)\P\105-1
+"Chicken"	"is eaten"	"typically"	105	query224_Chicken_(food)\P\105-2
+"Chicken"	"is eaten"	"typically"	105	query224_Chicken_(food)\P\105-3
+Chicken can be cooked in many ways . 	106	query224_Chicken_(food)\S\106
+"Chicken"	"can be cooked"	"in many ways"	106	query224_Chicken_(food)\P\106-0
+It can be made into sausages , skewered , put in salads , grilled , breaded and deep-fried , or used in various curries . 	107	query224_Chicken_(food)\S\107
+It can be made into sausages , skewered , put in salads , grilled , breaded and deep-fried , or used in various curries . 	107	query224_Chicken_(food)\S\107
+It can be made into sausages , skewered , put in salads , grilled , breaded and deep-fried , or used in various curries . 	107	query224_Chicken_(food)\S\107
+It can be made into sausages , skewered , put in salads , grilled , breaded and deep-fried , or used in various curries . 	107	query224_Chicken_(food)\S\107
+It can be made into sausages , skewered , put in salads , grilled , breaded and deep-fried , or used in various curries . 	107	query224_Chicken_(food)\S\107
+It can be made into sausages , skewered , put in salads , grilled , breaded and deep-fried , or used in various curries . 	107	query224_Chicken_(food)\S\107
+It can be made into sausages , skewered , put in salads , grilled , breaded and deep-fried , or used in various curries . 	107	query224_Chicken_(food)\S\107
+It can be made into sausages , skewered , put in salads , grilled , breaded and deep-fried , or used in various curries . 	107	query224_Chicken_(food)\S\107
+There is significant variation in cooking methods amongst cultures . 	108	query224_Chicken_(food)\S\108
+"significant variation in cooking methods amongst cultures"	"There is"	"108"	108	query224_Chicken_(food)\P\108-0
+Historically common methods include roasting , baking , broasting , and frying . 	109	query224_Chicken_(food)\S\109
+"Historically common methods"	"include"	"roasting"	109	query224_Chicken_(food)\P\109-0
+"Historically common methods"	"include"	"baking"	109	query224_Chicken_(food)\P\109-1
+"Historically common methods"	"include"	"broasting"	109	query224_Chicken_(food)\P\109-2
+"Historically common methods"	"include"	"frying"	109	query224_Chicken_(food)\P\109-3
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+Today , chickens are frequently cooked by deep frying and prepared as fast food such as fried chicken , chicken nugget , chicken lollipop or buffalo wings . 	110	query224_Chicken_(food)\S\110
+They are also often grilled for salads or tacos . 	111	query224_Chicken_(food)\S\111
+They are also often grilled for salads or tacos . 	111	query224_Chicken_(food)\S\111
+They are also often grilled for salads or tacos . 	111	query224_Chicken_(food)\S\111
+They are also often grilled for salads or tacos . 	111	query224_Chicken_(food)\S\111
+They are also often grilled for salads or tacos . 	111	query224_Chicken_(food)\S\111
+They are also often grilled for salads or tacos . 	111	query224_Chicken_(food)\S\111
+Chickens often come with labels such as "roaster" , which suggest a method of cooking based on the type of chicken . 	112	query224_Chicken_(food)\S\112
+"Chickens"	"come"	"with labels such as roaster often"	112	query224_Chicken_(food)\P\112-0
+"Chickens"	"come"	"with labels such as roaster"	112	query224_Chicken_(food)\P\112-1
+"Chickens"	"come"	"with labels such as roaster"	112	query224_Chicken_(food)\P\112-2
+"a method of cooking"	"be based"	"on the type of chicken"	112	query224_Chicken_(food)\P\112-3
+While these labels are only suggestions , ones labeled for stew often do not do well when cooked with other methods . 	113	query224_Chicken_(food)\S\113
+"these labels"	"are suggestions ones labeled for stew often do not do well when cooked with other methods"	"only"	113	query224_Chicken_(food)\P\113-0
+"these labels"	"are"	"suggestions ones labeled for stew often do not do well when cooked with other methods"	113	query224_Chicken_(food)\P\113-1
+"these labels"	"are"	"suggestions ones labeled for stew often do not do well when cooked with other methods"	113	query224_Chicken_(food)\P\113-2
+"these labels"	"are"	"suggestions ones labeled for stew often do not do well when cooked with other methods"	113	query224_Chicken_(food)\P\113-3
+"these labels"	"are"	"suggestions ones labeled for stew often do not do well when cooked with other methods"	113	query224_Chicken_(food)\P\113-4
+"these labels"	"are"	"suggestions ones labeled for stew often do not do well when cooked with other methods"	113	query224_Chicken_(food)\P\113-5
+, Food Network . 	114	query224_Chicken_(food)\S\114
+March 2 , 2007 . 	115	query224_Chicken_(food)\S\115
+Some chicken breast cuts and processed chicken breast products include the moniker " with Rib Meat . 	116	query224_Chicken_(food)\S\116
+"Some chicken breast cuts"	"include"	"the moniker with Rib Meat"	116	query224_Chicken_(food)\P\116-0
+"Some chicken breast processed chicken breast products"	"include"	"the moniker with Rib Meat"	116	query224_Chicken_(food)\P\116-1
+" This is a misnomer , as it is the small piece of white meat that overlays the scapula , and is removed with the breast meat . 	117	query224_Chicken_(food)\S\117
+" This is a misnomer , as it is the small piece of white meat that overlays the scapula , and is removed with the breast meat . 	117	query224_Chicken_(food)\S\117
+" This is a misnomer , as it is the small piece of white meat that overlays the scapula , and is removed with the breast meat . 	117	query224_Chicken_(food)\S\117
+" This is a misnomer , as it is the small piece of white meat that overlays the scapula , and is removed with the breast meat . 	117	query224_Chicken_(food)\S\117
+" This is a misnomer , as it is the small piece of white meat that overlays the scapula , and is removed with the breast meat . 	117	query224_Chicken_(food)\S\117
+" This is a misnomer , as it is the small piece of white meat that overlays the scapula , and is removed with the breast meat . 	117	query224_Chicken_(food)\S\117
+"as the small piece of white meat"	"overlays"	"the scapula"	117	query224_Chicken_(food)\P\117-0
+The breast is cut from the chicken and sold as a solid cut , while the leftover breast and true rib meat is stripped from the bone through mechanical separation for use in chicken franks , for example . 	118	query224_Chicken_(food)\S\118
+"The breast"	"is cut"	"from the chicken while the leftover breast is stripped from the bone through mechanical separation for use in chicken franks"	118	query224_Chicken_(food)\P\118-0
+"The breast"	"is cut"	"from the chicken while the leftover true rib meat is stripped from the bone through mechanical separation for use in chicken franks"	118	query224_Chicken_(food)\P\118-1
+"The breast"	"is cut"	"from the chicken for example"	118	query224_Chicken_(food)\P\118-2
+"The breast"	"is cut"	"from the chicken"	118	query224_Chicken_(food)\P\118-3
+"The breast"	"is sold"	"as a solid cut from the chicken"	118	query224_Chicken_(food)\P\118-4
+"The breast"	"is sold"	"as a solid cut while the leftover breast is stripped from the bone through mechanical separation for use in chicken franks"	118	query224_Chicken_(food)\P\118-5
+"The breast"	"is sold"	"as a solid cut while the leftover true rib meat is stripped from the bone through mechanical separation for use in chicken franks"	118	query224_Chicken_(food)\P\118-6
+"The breast"	"is sold"	"as a solid cut for example"	118	query224_Chicken_(food)\P\118-7
+"The breast"	"is sold"	"as a solid cut"	118	query224_Chicken_(food)\P\118-8
+"the leftover breast"	"is stripped"	"from the bone through mechanical separation for use in chicken franks"	118	query224_Chicken_(food)\P\118-9
+"the leftover true rib meat"	"is stripped"	"from the bone through mechanical separation for use in chicken franks"	118	query224_Chicken_(food)\P\118-10
+"the leftover breast"	"is stripped"	"from the bone"	118	query224_Chicken_(food)\P\118-11
+"the leftover true rib meat"	"is stripped"	"from the bone"	118	query224_Chicken_(food)\P\118-12
+Breast meat is often sliced thinly and marketed as chicken slices , an easy filling for sandwich . 	119	query224_Chicken_(food)\S\119
+"Breast meat"	"is sliced an easy filling for sandwich"	"often"	119	query224_Chicken_(food)\P\119-0
+"Breast meat"	"is sliced an easy filling for sandwich"	"thinly"	119	query224_Chicken_(food)\P\119-1
+"Breast meat"	"is sliced an easy filling for sandwich"	"marketed"	119	query224_Chicken_(food)\P\119-2
+"Breast meat"	"is sliced an easy filling for sandwich"	"as chicken slices"	119	query224_Chicken_(food)\P\119-3
+"Breast meat"	"is"	"sliced an easy filling for sandwich"	119	query224_Chicken_(food)\P\119-4
+Often , the tenderloin ( pectoralis minor ) is marketed separately from the breast ( pectoralis major ) . 	120	query224_Chicken_(food)\S\120
+Often , the tenderloin ( pectoralis minor ) is marketed separately from the breast ( pectoralis major ) . 	120	query224_Chicken_(food)\S\120
+Often , the tenderloin ( pectoralis minor ) is marketed separately from the breast ( pectoralis major ) . 	120	query224_Chicken_(food)\S\120
+Often , the tenderloin ( pectoralis minor ) is marketed separately from the breast ( pectoralis major ) . 	120	query224_Chicken_(food)\S\120
+"the tenderloin pectoralis minor"	"is marketed"	"separately Often"	120	query224_Chicken_(food)\P\120-0
+"the tenderloin pectoralis minor"	"is marketed"	"separately from the breast"	120	query224_Chicken_(food)\P\120-1
+"the tenderloin pectoralis minor"	"is marketed"	"separately"	120	query224_Chicken_(food)\P\120-2
+"the breast"	"is"	"pectoralis major"	120	query224_Chicken_(food)\P\120-3
+In the US , "tenders " can be either tenderloins or strips cut from the breast . 	121	query224_Chicken_(food)\S\121
+"In the US tenders"	"can be"	"tenderloins cut from the breast"	121	query224_Chicken_(food)\P\121-0
+"In the US tenders"	"can be"	"strips cut from the breast"	121	query224_Chicken_(food)\P\121-1
+"In the US tenders"	"can be"	"strips cut from the breast"	121	query224_Chicken_(food)\P\121-2
+"In the US tenders"	"can be"	"strips cut from the breast"	121	query224_Chicken_(food)\P\121-3
+In the UK the strips of pectoralis minor are called " Chicken mini-fillets " . 	122	query224_Chicken_(food)\S\122
+"the strips of pectoralis minor"	"are called"	"In the UK"	122	query224_Chicken_(food)\P\122-0
+Chicken bones are hazardous to health as they tend to break into sharp splinters when eaten , but they can be simmered with vegetables and herbs for hours or even days to make chicken stock . 	123	query224_Chicken_(food)\S\123
+"Chicken bones"	"are hazardous"	"to health"	123	query224_Chicken_(food)\P\123-0
+"Chicken bones"	"are hazardous"	"as they tend to break into sharp splinters when eaten"	123	query224_Chicken_(food)\P\123-1
+"Chicken bones"	"are"	"hazardous"	123	query224_Chicken_(food)\P\123-2
+"Chicken bones"	"are"	"hazardous"	123	query224_Chicken_(food)\P\123-3
+"Chicken bones"	"are"	"hazardous"	123	query224_Chicken_(food)\P\123-4
+"Chicken bones"	"are"	"hazardous"	123	query224_Chicken_(food)\P\123-5
+"Chicken bones"	"are"	"hazardous"	123	query224_Chicken_(food)\P\123-6
+"Chicken bones"	"are"	"hazardous"	123	query224_Chicken_(food)\P\123-7
+"Chicken bones"	"are"	"hazardous"	123	query224_Chicken_(food)\P\123-8
+"Chicken bones"	"are"	"hazardous"	123	query224_Chicken_(food)\P\123-9
+"Chicken bones"	"are"	"hazardous"	123	query224_Chicken_(food)\P\123-10
+"even days"	"be make"	"chicken stock"	123	query224_Chicken_(food)\P\123-11
+In Asian countries it is possible to buy bones alone as they are very popular for making chicken soups , which are said to be healthy . 	124	query224_Chicken_(food)\S\124
+In Asian countries it is possible to buy bones alone as they are very popular for making chicken soups , which are said to be healthy . 	124	query224_Chicken_(food)\S\124
+In Asian countries it is possible to buy bones alone as they are very popular for making chicken soups , which are said to be healthy . 	124	query224_Chicken_(food)\S\124
+In Asian countries it is possible to buy bones alone as they are very popular for making chicken soups , which are said to be healthy . 	124	query224_Chicken_(food)\S\124
+In Asian countries it is possible to buy bones alone as they are very popular for making chicken soups , which are said to be healthy . 	124	query224_Chicken_(food)\S\124
+In Asian countries it is possible to buy bones alone as they are very popular for making chicken soups , which are said to be healthy . 	124	query224_Chicken_(food)\S\124
+In Asian countries it is possible to buy bones alone as they are very popular for making chicken soups , which are said to be healthy . 	124	query224_Chicken_(food)\S\124
+"chicken soups"	"are said"	"to be healthy"	124	query224_Chicken_(food)\P\124-0
+In Australia the rib cages and backs of chickens after the other cuts have been removed are frequently sold cheaply in supermarket delicatessen sections as either " chicken frames " or " chicken carcasses " and are purchased for soup or stock purposes . 	125	query224_Chicken_(food)\S\125
+"the rib cages of chickens after the other cuts"	"have been removed"	"125 In Australia"	125	query224_Chicken_(food)\P\125-0
+"the rib backs of chickens after the other cuts"	"have been removed"	"125 In Australia"	125	query224_Chicken_(food)\P\125-1
+"the rib cages of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-2
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-3
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-4
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-5
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-6
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-7
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-8
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-9
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-10
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-11
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-12
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-13
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-14
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-15
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-16
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-17
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-18
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-19
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-20
+"the rib backs of chickens after the other cuts"	"have been removed"	"125"	125	query224_Chicken_(food)\P\125-21
+Raw chicken maintains its quality longer in the freezer as compared to when having been cooked because moisture is lost during cooking . 	126	query224_Chicken_(food)\S\126
+"Raw chicken"	"maintains"	"its quality longer in the freezer as compared to when having been cooked because moisture is lost during cooking"	126	query224_Chicken_(food)\P\126-0
+"Raw chicken"	"maintains"	"its quality longer in the freezer"	126	query224_Chicken_(food)\P\126-1
+"Raw chicken"	"maintains"	"its quality longer in the freezer"	126	query224_Chicken_(food)\P\126-2
+"Raw chicken"	"maintains"	"its quality longer in the freezer"	126	query224_Chicken_(food)\P\126-3
+from USDA Food Safety and Inspection Service . 	127	query224_Chicken_(food)\S\127
+Last Modified : June 3 , 2010 . 	128	query224_Chicken_(food)\S\128
+There is little change in nutrient value of chicken during freezer storage . 	129	query224_Chicken_(food)\S\129
+"little change in nutrient value of chicken during freezer storage"	"There is"	"129"	129	query224_Chicken_(food)\P\129-0
+For optimal quality , however , a maximal storage time in the freezer of 12 months is recommended for uncooked whole chicken , 9 months for uncooked chicken parts , 3 to 4 months for uncooked chicken giblets , and 4 months for cooked chicken . 	130	query224_Chicken_(food)\S\130
+"For optimal quality"	"a maximal storage time in the freezer of 12 months is recommended"	"for uncooked whole chicken however"	130	query224_Chicken_(food)\P\130-0
+"For optimal quality"	"a maximal storage time in the freezer of 12 months is recommended"	"for uncooked whole chicken 3 to 4 months for uncooked chicken giblets"	130	query224_Chicken_(food)\P\130-1
+"For optimal quality"	"a maximal storage time in the freezer of 12 months is recommended"	"for uncooked whole chicken"	130	query224_Chicken_(food)\P\130-2
+"For optimal quality"	"a maximal storage time in the freezer of 12 months is 4 months"	"for cooked chicken however"	130	query224_Chicken_(food)\P\130-3
+"For optimal quality"	"a maximal storage time in the freezer of 12 months is 4 months"	"for cooked chicken for uncooked whole chicken"	130	query224_Chicken_(food)\P\130-4
+"For optimal quality"	"a maximal storage time in the freezer of 12 months is 4 months"	"for cooked chicken 3 to 4 months for uncooked chicken giblets"	130	query224_Chicken_(food)\P\130-5
+"For optimal quality"	"a maximal storage time in the freezer of 12 months is 4 months"	"for cooked chicken"	130	query224_Chicken_(food)\P\130-6
+"a maximal storage time in the freezer of 12 months"	"130 For optimal quality is recommended"	"for uncooked whole chicken however"	130	query224_Chicken_(food)\P\130-7
+"a maximal storage time in the freezer of 12 months"	"130 For optimal quality is recommended"	"for uncooked whole chicken 3 to 4 months for uncooked chicken giblets"	130	query224_Chicken_(food)\P\130-8
+"a maximal storage time in the freezer of 12 months"	"130 For optimal quality is recommended"	"for uncooked whole chicken"	130	query224_Chicken_(food)\P\130-9
+"a maximal storage time in the freezer of 12 months"	"130 For optimal quality is 4 months"	"for cooked chicken however"	130	query224_Chicken_(food)\P\130-10
+"a maximal storage time in the freezer of 12 months"	"130 For optimal quality is 4 months"	"for cooked chicken for uncooked whole chicken"	130	query224_Chicken_(food)\P\130-11
+"a maximal storage time in the freezer of 12 months"	"130 For optimal quality is 4 months"	"for cooked chicken 3 to 4 months for uncooked chicken giblets"	130	query224_Chicken_(food)\P\130-12
+"a maximal storage time in the freezer of 12 months"	"130 For optimal quality is 4 months"	"for cooked chicken"	130	query224_Chicken_(food)\P\130-13
+"uncooked whole chicken"	"is"	"9 months for uncooked chicken parts"	130	query224_Chicken_(food)\P\130-14
+Freezing does n't usually cause color changes in poultry , but the bones and the meat near them can become dark . 	131	query224_Chicken_(food)\S\131
+"Freezing"	"does n't cause"	"color changes in poultry usually"	131	query224_Chicken_(food)\P\131-0
+"Freezing"	"does n't cause"	"color changes in poultry"	131	query224_Chicken_(food)\P\131-1
+"the bones near them"	"can become"	"dark"	131	query224_Chicken_(food)\P\131-2
+"the the meat near them"	"can become"	"dark"	131	query224_Chicken_(food)\P\131-3
+This bone darkening results when pigment seeps through the porous bones of young poultry into the surrounding tissues when the poultry meat is frozen and thawed . 	132	query224_Chicken_(food)\S\132
+This bone darkening results when pigment seeps through the porous bones of young poultry into the surrounding tissues when the poultry meat is frozen and thawed . 	132	query224_Chicken_(food)\S\132
+This bone darkening results when pigment seeps through the porous bones of young poultry into the surrounding tissues when the poultry meat is frozen and thawed . 	132	query224_Chicken_(food)\S\132
+This bone darkening results when pigment seeps through the porous bones of young poultry into the surrounding tissues when the poultry meat is frozen and thawed . 	132	query224_Chicken_(food)\S\132
+This bone darkening results when pigment seeps through the porous bones of young poultry into the surrounding tissues when the poultry meat is frozen and thawed . 	132	query224_Chicken_(food)\S\132
+This bone darkening results when pigment seeps through the porous bones of young poultry into the surrounding tissues when the poultry meat is frozen and thawed . 	132	query224_Chicken_(food)\S\132
+This bone darkening results when pigment seeps through the porous bones of young poultry into the surrounding tissues when the poultry meat is frozen and thawed . 	132	query224_Chicken_(food)\S\132
+"the poultry meat"	"is frozen"	"when"	132	query224_Chicken_(food)\P\132-0
+"the poultry meat"	"is thawed"	"when"	132	query224_Chicken_(food)\P\132-1
+It is safe to freeze chicken directly in its original packaging , however this type of wrap is permeable to air and quality may diminish over time . 	133	query224_Chicken_(food)\S\133
+It is safe to freeze chicken directly in its original packaging , however this type of wrap is permeable to air and quality may diminish over time . 	133	query224_Chicken_(food)\S\133
+It is safe to freeze chicken directly in its original packaging , however this type of wrap is permeable to air and quality may diminish over time . 	133	query224_Chicken_(food)\S\133
+It is safe to freeze chicken directly in its original packaging , however this type of wrap is permeable to air and quality may diminish over time . 	133	query224_Chicken_(food)\S\133
+It is safe to freeze chicken directly in its original packaging , however this type of wrap is permeable to air and quality may diminish over time . 	133	query224_Chicken_(food)\S\133
+It is safe to freeze chicken directly in its original packaging , however this type of wrap is permeable to air and quality may diminish over time . 	133	query224_Chicken_(food)\S\133
+It is safe to freeze chicken directly in its original packaging , however this type of wrap is permeable to air and quality may diminish over time . 	133	query224_Chicken_(food)\S\133
+It is safe to freeze chicken directly in its original packaging , however this type of wrap is permeable to air and quality may diminish over time . 	133	query224_Chicken_(food)\S\133
+"this type of wrap"	"is permeable"	"however"	133	query224_Chicken_(food)\P\133-0
+"this type of wrap"	"is permeable"	"to air"	133	query224_Chicken_(food)\P\133-1
+"this type of wrap"	"is"	"permeable"	133	query224_Chicken_(food)\P\133-2
+"this type of wrap"	"is"	"permeable"	133	query224_Chicken_(food)\P\133-3
+Therefore , for prolonged storage , it is recommended to overwrap these packages . 	134	query224_Chicken_(food)\S\134
+Therefore , for prolonged storage , it is recommended to overwrap these packages . 	134	query224_Chicken_(food)\S\134
+Therefore , for prolonged storage , it is recommended to overwrap these packages . 	134	query224_Chicken_(food)\S\134
+Therefore , for prolonged storage , it is recommended to overwrap these packages . 	134	query224_Chicken_(food)\S\134
+It is recommended to freeze unopened vacuum packages as is . 	135	query224_Chicken_(food)\S\135
+It is recommended to freeze unopened vacuum packages as is . 	135	query224_Chicken_(food)\S\135
+It is recommended to freeze unopened vacuum packages as is . 	135	query224_Chicken_(food)\S\135
+If a package has accidentally been torn or has opened while food is in the freezer , the food is still safe to use , but it is still recommended to overwrap or rewrap it . 	136	query224_Chicken_(food)\S\136
+"a package"	"has been torn"	"while food is in the freezer accidentally"	136	query224_Chicken_(food)\P\136-0
+"a package"	"has been torn"	"while food is in the freezer"	136	query224_Chicken_(food)\P\136-1
+"a package"	"has been has opened"	"while food is in the freezer accidentally"	136	query224_Chicken_(food)\P\136-2
+"a package"	"has been has opened"	"while food is in the freezer"	136	query224_Chicken_(food)\P\136-3
+"a package"	"has been has opened"	"while food is in the freezer"	136	query224_Chicken_(food)\P\136-4
+"the food"	"is safe"	"136 If a package has accidentally been torn while food is in the freezer still to use"	136	query224_Chicken_(food)\P\136-5
+"the food"	"is safe"	"136 If a package has accidentally been has opened while food is in the freezer still to use"	136	query224_Chicken_(food)\P\136-6
+"the food"	"is safe"	"136 If a package has accidentally been torn while food is in the freezer to use"	136	query224_Chicken_(food)\P\136-7
+"the food"	"is safe"	"136 If a package has accidentally been has opened while food is in the freezer to use"	136	query224_Chicken_(food)\P\136-8
+"the food"	"is safe"	"136 If a package has accidentally been has opened while food is in the freezer to use"	136	query224_Chicken_(food)\P\136-9
+"the food"	"is safe"	"136 If a package has accidentally been has opened while food is in the freezer to use"	136	query224_Chicken_(food)\P\136-10
+"the food"	"is safe"	"136 If a package has accidentally been has opened while food is in the freezer to use"	136	query224_Chicken_(food)\P\136-11
+"the food"	"is safe"	"136 If a package has accidentally been has opened while food is in the freezer to use"	136	query224_Chicken_(food)\P\136-12
+"the food"	"is safe"	"136 If a package has accidentally been has opened while food is in the freezer to use"	136	query224_Chicken_(food)\P\136-13
+Chicken should be from other foods , so if they begin to thaw , their juices wo n't drip onto other foods . 	137	query224_Chicken_(food)\S\137
+"Chicken"	"should be"	"from other foods so if they begin to thaw their juices wo n't drip onto other foods"	137	query224_Chicken_(food)\P\137-0
+"Chicken"	"should be"	"so if they begin to thaw their juices wo n't drip onto other foods"	137	query224_Chicken_(food)\P\137-1
+"Chicken"	"should be"	"so if they begin to thaw their juices wo n't drip onto other foods"	137	query224_Chicken_(food)\P\137-2
+"Chicken"	"should be"	"so if they begin to thaw their juices wo n't drip onto other foods"	137	query224_Chicken_(food)\P\137-3
+"their juices"	"wo n't drip"	"onto other foods so if they begin to thaw"	137	query224_Chicken_(food)\P\137-4
+"their juices"	"wo n't drip"	"onto other foods"	137	query224_Chicken_(food)\P\137-5
+If previously frozen chicken is purchased at a retail store , it can be refrozen if it has been handled properly . 	138	query224_Chicken_(food)\S\138
+"previously frozen chicken"	"is purchased"	"at a retail store"	138	query224_Chicken_(food)\P\138-0
+"previously frozen chicken"	"is purchased"	"at a retail store"	138	query224_Chicken_(food)\P\138-1
+"previously frozen chicken"	"is purchased"	"at a retail store"	138	query224_Chicken_(food)\P\138-2
+Chicken can be cooked or reheated from the frozen state , but it will take approximately one and a half times as long to cook , and any wrapping or absorbent paper should be discarded . 	139	query224_Chicken_(food)\S\139
+"Chicken"	"can be reheated"	"from the frozen state"	139	query224_Chicken_(food)\P\139-0
+"Chicken"	"can be reheated"	"from the frozen state"	139	query224_Chicken_(food)\P\139-1
+"Chicken"	"can be reheated"	"from the frozen state"	139	query224_Chicken_(food)\P\139-2
+"Chicken"	"can be reheated"	"from the frozen state"	139	query224_Chicken_(food)\P\139-3
+"Chicken"	"can be reheated"	"from the frozen state"	139	query224_Chicken_(food)\P\139-4
+In many factory farms , chickens are routinely administered with the feed additive Roxarsone , a relatively benign organoarsenic compound which partially decomposes into inorganic arsenic compounds in the flesh of chickens , and in their feces , which are often used as a fertilizer . 	140	query224_Chicken_(food)\S\140
+In many factory farms , chickens are routinely administered with the feed additive Roxarsone , a relatively benign organoarsenic compound which partially decomposes into inorganic arsenic compounds in the flesh of chickens , and in their feces , which are often used as a fertilizer . 	140	query224_Chicken_(food)\S\140
+In many factory farms , chickens are routinely administered with the feed additive Roxarsone , a relatively benign organoarsenic compound which partially decomposes into inorganic arsenic compounds in the flesh of chickens , and in their feces , which are often used as a fertilizer . 	140	query224_Chicken_(food)\S\140
+In many factory farms , chickens are routinely administered with the feed additive Roxarsone , a relatively benign organoarsenic compound which partially decomposes into inorganic arsenic compounds in the flesh of chickens , and in their feces , which are often used as a fertilizer . 	140	query224_Chicken_(food)\S\140
+In many factory farms , chickens are routinely administered with the feed additive Roxarsone , a relatively benign organoarsenic compound which partially decomposes into inorganic arsenic compounds in the flesh of chickens , and in their feces , which are often used as a fertilizer . 	140	query224_Chicken_(food)\S\140
+In many factory farms , chickens are routinely administered with the feed additive Roxarsone , a relatively benign organoarsenic compound which partially decomposes into inorganic arsenic compounds in the flesh of chickens , and in their feces , which are often used as a fertilizer . 	140	query224_Chicken_(food)\S\140
+"the feed additive Roxarsone"	"is"	"a relatively benign organoarsenic compound"	140	query224_Chicken_(food)\P\140-0
+"a relatively benign organoarsenic compound"	"decomposes"	"into inorganic arsenic compounds in the flesh of chickens partially"	140	query224_Chicken_(food)\P\140-1
+"a relatively benign organoarsenic compound"	"decomposes"	"into inorganic arsenic compounds in the flesh of chickens"	140	query224_Chicken_(food)\P\140-2
+"a relatively benign organoarsenic compound"	"decomposes"	"into inorganic arsenic compounds in the flesh of chickens"	140	query224_Chicken_(food)\P\140-3
+"their feces"	"are used"	"as a fertilizer often"	140	query224_Chicken_(food)\P\140-4
+"their feces"	"are used"	"as a fertilizer"	140	query224_Chicken_(food)\P\140-5
+The compound is used to control stomach pathogens and promote growth . 	141	query224_Chicken_(food)\S\141
+"The compound"	"is used"	"to control stomach pathogens"	141	query224_Chicken_(food)\P\141-0
+"The compound"	"is used"	"to promote stomach pathogens growth"	141	query224_Chicken_(food)\P\141-1
+A Consumer Reports study in 2004 reported finding " no detectable arsenic in our samples of muscle " but found " A few of our chicken-liver samples has an amount that according to EPA standards could cause neurological problems in a child who ate 2 ounces of cooked liver per week or in an adult who ate 5.5 	142	query224_Chicken_(food)\S\142
+"study in 2004"	"reported"	"finding"	142	query224_Chicken_(food)\P\142-0
+"study in 2004"	"reported"	"no detectable arsenic in our samples of muscle"	142	query224_Chicken_(food)\P\142-1
+"study in 2004"	"reported"	"no detectable arsenic in our samples of muscle"	142	query224_Chicken_(food)\P\142-2
+"study in 2004"	"reported"	"no detectable arsenic in our samples of muscle"	142	query224_Chicken_(food)\P\142-3
+"A few of our chicken-liver samples"	"has"	"an amount"	142	query224_Chicken_(food)\P\142-4
+"an amount"	"could cause"	"neurological problems according to EPA standards"	142	query224_Chicken_(food)\P\142-5
+"an amount"	"could cause"	"neurological problems in a child"	142	query224_Chicken_(food)\P\142-6
+"an amount"	"could cause"	"neurological problems"	142	query224_Chicken_(food)\P\142-7
+"a child"	"ate"	"2 ounces of cooked liver per week"	142	query224_Chicken_(food)\P\142-8
+"a child"	"ate"	"2 ounces of cooked liver"	142	query224_Chicken_(food)\P\142-9
+"a child"	"in"	"2 ounces of cooked liver per week"	142	query224_Chicken_(food)\P\142-10
+"a child"	"in"	"2 ounces of cooked liver an adult"	142	query224_Chicken_(food)\P\142-11
+"a child"	"in"	"2 ounces of cooked liver"	142	query224_Chicken_(food)\P\142-12
+"an adult"	"ate"	"5.5"	142	query224_Chicken_(food)\P\142-13
+ounces per week . 	143	query224_Chicken_(food)\S\143
+" However , the amounts found in these livers averaged to 460 part per billion ; an amount still less than the 2,000 parts per billion limit set by the FDA. 	144	query224_Chicken_(food)\S\144
+"the amounts"	"be found"	"in these livers"	144	query224_Chicken_(food)\P\144-0
+"the amounts found in these livers"	"averaged"	"144 However to 460 part per billion"	144	query224_Chicken_(food)\P\144-1
+"the amounts found in these livers"	"averaged"	"144 However"	144	query224_Chicken_(food)\P\144-2
+"the 2,000 parts per billion limit"	"be set"	"by the FDA"	144	query224_Chicken_(food)\P\144-3
+http ://www.consumerreports 	145	query224_Chicken_(food)\S\145
+.org/cro/food/food-safety/animal-feed-and-food/animal-feed-and-the-food-supply-105/chicken-arsenic-and-antibiotics 	146	query224_Chicken_(food)\S\146
+/ Animal feed and the food supply , Chicken : Arsenic and antibiotics Consumerreports .org 	147	query224_Chicken_(food)\S\147
+2007-09-11 2010-08-19 http ://www.consumerreports 	148	query224_Chicken_(food)\S\148
+.org/cro/food/food-safety/animal-feed-and-food/animal-feed-and-the-food-supply-105/chicken-arsenic-and-antibiotics 	149	query224_Chicken_(food)\S\149
+/ Animal feed and the food supply , Chicken : Arsenic and antibiotics Consumerreports .org 	150	query224_Chicken_(food)\S\150
+2007-09-11 2010-08-19 The FDA has found there to be no significant impact for the use of Roxarsone in the production of chicken , turkey or swine . 	151	query224_Chicken_(food)\S\151
+"The FDA"	"has found"	"there to be no significant impact for the use of Roxarsone in the production of chicken 151 2007-09-11 2010-08-19"	151	query224_Chicken_(food)\P\151-0
+"The FDA"	"has found"	"there to be no significant impact for the use of Roxarsone in the production of turkey 151 2007-09-11 2010-08-19"	151	query224_Chicken_(food)\P\151-1
+"The FDA"	"has found"	"there to be no significant impact for the use of Roxarsone in the production of swine 151 2007-09-11 2010-08-19"	151	query224_Chicken_(food)\P\151-2
+"The FDA"	"has found"	"there to be no significant impact 151 2007-09-11 2010-08-19"	151	query224_Chicken_(food)\P\151-3
+"The FDA"	"has found"	"to be no significant impact for the use of Roxarsone in the production of chicken 151 2007-09-11 2010-08-19"	151	query224_Chicken_(food)\P\151-4
+"The FDA"	"has found"	"to be no significant impact for the use of Roxarsone in the production of turkey 151 2007-09-11 2010-08-19"	151	query224_Chicken_(food)\P\151-5
+"The FDA"	"has found"	"to be no significant impact for the use of Roxarsone in the production of swine 151 2007-09-11 2010-08-19"	151	query224_Chicken_(food)\P\151-6
+"The FDA"	"has found"	"to be no significant impact 151 2007-09-11 2010-08-19"	151	query224_Chicken_(food)\P\151-7
+http ://www.fda.gov/downloads/AnimalVeterinary/DevelopmentApprovalProcess/EnvironmentalAssessments/ucm071967.pdf 	152	query224_Chicken_(food)\S\152
+Food Chicken Category :Chicken Category :Meat bs :Piletina ca :Carn de pollastre cs :Kuřecí maso et :Kanaliha es :Carne de pollo fr :Poulet ko :닭고기 hr:Piletina id :Daging ayam ms :Daging ayam nl :Kippenvlees ja :鶏肉 ru:Курятина sv:Kycklingkött tr: Tavuk eti vi:Thịt gà zh :雞肉 Main Breast : These are white meat and are relatively dry . 	153	query224_Chicken_(food)\S\153
+Food Chicken Category :Chicken Category :Meat bs :Piletina ca :Carn de pollastre cs :Kuřecí maso et :Kanaliha es :Carne de pollo fr :Poulet ko :닭고기 hr:Piletina id :Daging ayam ms :Daging ayam nl :Kippenvlees ja :鶏肉 ru:Курятина sv:Kycklingkött tr: Tavuk eti vi:Thịt gà zh :雞肉 Main Breast : These are white meat and are relatively dry . 	153	query224_Chicken_(food)\S\153
+Food Chicken Category :Chicken Category :Meat bs :Piletina ca :Carn de pollastre cs :Kuřecí maso et :Kanaliha es :Carne de pollo fr :Poulet ko :닭고기 hr:Piletina id :Daging ayam ms :Daging ayam nl :Kippenvlees ja :鶏肉 ru:Курятина sv:Kycklingkött tr: Tavuk eti vi:Thịt gà zh :雞肉 Main Breast : These are white meat and are relatively dry . 	153	query224_Chicken_(food)\S\153
+Food Chicken Category :Chicken Category :Meat bs :Piletina ca :Carn de pollastre cs :Kuřecí maso et :Kanaliha es :Carne de pollo fr :Poulet ko :닭고기 hr:Piletina id :Daging ayam ms :Daging ayam nl :Kippenvlees ja :鶏肉 ru:Курятина sv:Kycklingkött tr: Tavuk eti vi:Thịt gà zh :雞肉 Main Breast : These are white meat and are relatively dry . 	153	query224_Chicken_(food)\S\153
+Leg : Comprises two segegments : 1 ) The "drumstick " ; this is dark meat and is the lower part of the leg , 2 ) the " thigh " ; also dark meat , this is the upper part of the leg . 	154	query224_Chicken_(food)\S\154
+"this is dark meat"	"is"	"2 the thigh"	154	query224_Chicken_(food)\P\154-0
+"this is dark is the lower part of the leg"	"is"	"2 the thigh"	154	query224_Chicken_(food)\P\154-1
+"this is dark is the lower part of the leg"	"is"	"2 the thigh"	154	query224_Chicken_(food)\P\154-2
+"this is dark is the lower part of the leg"	"is"	"2 the thigh"	154	query224_Chicken_(food)\P\154-3
+"this is dark is the lower part of the leg"	"is"	"2 the thigh"	154	query224_Chicken_(food)\P\154-4
+"this is dark is the lower part of the leg"	"is"	"2 the thigh"	154	query224_Chicken_(food)\P\154-5
+"this is dark is the lower part of the leg"	"is"	"2 the thigh"	154	query224_Chicken_(food)\P\154-6
+Wing : Comprises three segments : 1 ) the "drumette" , shaped like a small drumstick , 2 ) the middle "flat " segment , containing two bones , and 3 ) the tip , sometimes discarded . 	155	query224_Chicken_(food)\S\155
+"the drumette 2 the middle flat segment containing two bones"	"be shaped"	"like a small drumstick"	1	query224_Chicken_(food)\P\155-0
+"the 2 the middle flat segment containing two bones 3 the tip sometimes discarded"	"be shaped"	"like a small drumstick"	1	query224_Chicken_(food)\P\155-1
+"the drumette shaped like a small drumstick 2 the middle flat segment"	"be containing"	"two bones"	1	query224_Chicken_(food)\P\155-2
+"the shaped like a small drumstick 2 the middle flat segment 3 the tip sometimes discarded"	"be containing"	"two bones"	1	query224_Chicken_(food)\P\155-3
+"the tip"	"be discarded"	"sometimes"	3	query224_Chicken_(food)\P\155-4
+Wings are often served as a light meal or bar food . 	156	query224_Chicken_(food)\S\156
+"Wings"	"are served"	"as a light meal often"	156	query224_Chicken_(food)\P\156-0
+"Wings"	"are served"	"as a light bar food often"	156	query224_Chicken_(food)\P\156-1
+"Wings"	"are served"	"as a light meal"	156	query224_Chicken_(food)\P\156-2
+"Wings"	"are served"	"as a light bar food"	156	query224_Chicken_(food)\P\156-3
+Buffalo wing are a typical example . 	157	query224_Chicken_(food)\S\157
+"Buffalo wing"	"are"	"a typical example"	157	query224_Chicken_(food)\P\157-0
+Exotic Chicken feet : These contain relatively little meat , and are eaten mainly for the skin and cartilage . 	158	query224_Chicken_(food)\S\158
+Exotic Chicken feet : These contain relatively little meat , and are eaten mainly for the skin and cartilage . 	158	query224_Chicken_(food)\S\158
+Exotic Chicken feet : These contain relatively little meat , and are eaten mainly for the skin and cartilage . 	158	query224_Chicken_(food)\S\158
+Exotic Chicken feet : These contain relatively little meat , and are eaten mainly for the skin and cartilage . 	158	query224_Chicken_(food)\S\158
+Exotic Chicken feet : These contain relatively little meat , and are eaten mainly for the skin and cartilage . 	158	query224_Chicken_(food)\S\158
+Exotic Chicken feet : These contain relatively little meat , and are eaten mainly for the skin and cartilage . 	158	query224_Chicken_(food)\S\158
+Although considered exotic in Western cuisine , the feet are common fare in other cuisines , especially in the Caribbean and China . 	159	query224_Chicken_(food)\S\159
+"the feet"	"are 159 common fare"	"Although considered exotic in Western cuisine"	159	query224_Chicken_(food)\P\159-0
+"the feet"	"are 159 common fare"	"in other cuisines"	159	query224_Chicken_(food)\P\159-1
+"the feet"	"are 159 common fare"	"especially in the Caribbean"	159	query224_Chicken_(food)\P\159-2
+"the feet"	"are 159 common fare"	"especially in the China"	159	query224_Chicken_(food)\P\159-3
+"the feet"	"are"	"159 common fare"	159	query224_Chicken_(food)\P\159-4
+Head : Considered a delicacy in China , the head is split down the middle , and the brains and other tissue is eaten . 	160	query224_Chicken_(food)\S\160
+"the head"	"is split down"	"the middle"	160	query224_Chicken_(food)\P\160-0
+Neck : This is served in various Asian dishes . 	161	query224_Chicken_(food)\S\161
+Neck : This is served in various Asian dishes . 	161	query224_Chicken_(food)\S\161
+Oysters : Located on the back , near the thigh , these small , round pieces of dark meat are often considered to be a delicacy . 	162	query224_Chicken_(food)\S\162
+"round pieces of dark meat"	"these are considered"	"to be a delicacy the back near the thigh small"	162	query224_Chicken_(food)\P\162-0
+"round pieces of dark meat"	"these are considered"	"to be a delicacy the back near the thigh often"	162	query224_Chicken_(food)\P\162-1
+"round pieces of dark meat"	"these are considered"	"to be a delicacy the back near the thigh"	162	query224_Chicken_(food)\P\162-2
+"round pieces of dark meat"	"these are considered"	"to be a delicacy the back near the thigh"	162	query224_Chicken_(food)\P\162-3
+"round pieces of dark meat"	"these are considered"	"to be a delicacy the back near the thigh"	162	query224_Chicken_(food)\P\162-4
+"round pieces of dark meat"	"these are considered"	"to be a delicacy the back near the thigh"	162	query224_Chicken_(food)\P\162-5
+How to Carve Chicken and Turkey Cooks .com 	163	query224_Chicken_(food)\S\163
+http ://www.cooks 	164	query224_Chicken_(food)\S\164
+.com/rec/story/69 	165	query224_Chicken_(food)\S\165
+May 20 , 2010 How to Carve Chicken and Turkey Cooks .com 	166	query224_Chicken_(food)\S\166
+http ://www.cooks 	167	query224_Chicken_(food)\S\167
+.com/rec/story/69 	168	query224_Chicken_(food)\S\168
+May 20 , 2010 Pygostyle ( chicken 's buttocks ) and testicles : These are commonly eaten in East Asia and some parts of South East Asia . 	169	query224_Chicken_(food)\S\169
+"May 20 These are commonly eaten in East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-0
+"20 testicles These are commonly eaten in East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-1
+"20 testicles These are commonly in East Asia some parts of South East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-2
+"May 20 These are commonly in East Asia some parts of South East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-3
+"May 20 These are commonly in East Asia some parts of South East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-4
+"May 20 These are commonly in East Asia some parts of South East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-5
+"May 20 These are commonly in East Asia some parts of South East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-6
+"May 20 These are commonly in East Asia some parts of South East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-7
+"May 20 These are commonly in East Asia some parts of South East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-8
+"May 20 These are commonly in East Asia some parts of South East Asia"	"is"	"2010 Pygostyle chicken 's buttocks"	169	query224_Chicken_(food)\P\169-9
+By-products Carcase : After the removal of the flesh , this is used for soup stock . 	170	query224_Chicken_(food)\S\170
+By-products Carcase : After the removal of the flesh , this is used for soup stock . 	170	query224_Chicken_(food)\S\170
+By-products Carcase : After the removal of the flesh , this is used for soup stock . 	170	query224_Chicken_(food)\S\170
+Chicken eggs Heart and gizzard Liver : This is the largest organ of the chicken , and is used in such dishes as Pâté and chopped liver . 	171	query224_Chicken_(food)\S\171
+Chicken eggs Heart and gizzard Liver : This is the largest organ of the chicken , and is used in such dishes as Pâté and chopped liver . 	171	query224_Chicken_(food)\S\171
+Chicken eggs Heart and gizzard Liver : This is the largest organ of the chicken , and is used in such dishes as Pâté and chopped liver . 	171	query224_Chicken_(food)\S\171
+Chicken eggs Heart and gizzard Liver : This is the largest organ of the chicken , and is used in such dishes as Pâté and chopped liver . 	171	query224_Chicken_(food)\S\171
+Chicken eggs Heart and gizzard Liver : This is the largest organ of the chicken , and is used in such dishes as Pâté and chopped liver . 	171	query224_Chicken_(food)\S\171
+Chicken eggs Heart and gizzard Liver : This is the largest organ of the chicken , and is used in such dishes as Pâté and chopped liver . 	171	query224_Chicken_(food)\S\171
+Chicken eggs Heart and gizzard Liver : This is the largest organ of the chicken , and is used in such dishes as Pâté and chopped liver . 	171	query224_Chicken_(food)\S\171
+Schmaltz : This is produced by rendering the fat , and is used in various dishes . 	172	query224_Chicken_(food)\S\172
+Schmaltz : This is produced by rendering the fat , and is used in various dishes . 	172	query224_Chicken_(food)\S\172
+Schmaltz : This is produced by rendering the fat , and is used in various dishes . 	172	query224_Chicken_(food)\S\172
+Schmaltz : This is produced by rendering the fat , and is used in various dishes . 	172	query224_Chicken_(food)\S\172
+Chickens as pets Chicken patty 	173	query224_Chicken_(food)\S\173

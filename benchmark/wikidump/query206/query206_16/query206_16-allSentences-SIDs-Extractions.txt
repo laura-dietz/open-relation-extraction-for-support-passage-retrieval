@@ -1,0 +1,451 @@
+0	thumb300pxRoyd Moor Wind Farmin England thumb300pxLillgrund Wind Farmin Sweden A wind farm is a group of wind turbine in the same location used to produce electric power . 
+0	"0 thumb300pxRoyd Moor Wind Farmin England thumb300pxLillgrund Wind Farmin Sweden A wind farm"	"is a group"	"of wind turbine"	
+0	"0 thumb300pxRoyd Moor Wind Farmin England thumb300pxLillgrund Wind Farmin Sweden A wind farm"	"is a group"	"in the same location used to produce electric power"	
+0	"0 thumb300pxRoyd Moor Wind Farmin England thumb300pxLillgrund Wind Farmin Sweden A wind farm"	"is"	"a group"	
+0	"the same location"	"be used"	"to produce electric power"	
+1	A large wind farm may consist of several hundred individual wind turbines , and cover an extended area of hundreds of square miles , but the land between the turbines may be used for agricultural or other purposes . 
+1	"1 A large wind farm"	"may consist"	"of several hundred individual wind turbines"	
+1	"1 A large wind farm"	"may cover"	"an extended area of hundreds of square miles of several hundred individual wind turbines"	
+1	"1 A large wind farm"	"may cover"	"an extended area of hundreds of square miles"	
+1	"the land between the turbines"	"may be used"	"for agricultural purposes"	
+1	"the land between the turbines"	"may be used"	"for other purposes"	
+2	A wind farm may also be located offshore . 
+2	"2 A wind farm"	"may be located"	"also"	
+2	"2 A wind farm"	"may be located"	"offshore"	
+2	"2 A wind farm"	"may be"	"located"	
+3	Many of the largest operational onshore wind farms are located in the USA . 
+3	"3 Many of the largest operational onshore wind farms"	"are located"	"in the USA"	
+3	"3 Many of the largest operational onshore wind farms"	"are"	"located"	
+4	As of November 2010 , the Roscoe Wind Farm is the largest onshore wind farm in the world , with a capacity of 781.5 
+4	"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"4 As of November 2010 in the world"	
+4	"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"4 As of November 2010 with a capacity of 781.5"	
+4	"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"4 As of November 2010"	
+5	MW of power , followed by the Horse Hollow Wind Energy Center ( 735.5 
+5	"5 MW of power"	"be followed"	"by the Horse Hollow Wind Energy Center 735.5"	
+6	MW) . 
+7	As of November 2010 , the Thanet Offshore Wind Project in United Kingdom is the largest offshore wind farm in the world at 300 MW , followed by Horns Rev II ( 209 MW) in Denmark . 
+7	"the Thanet Offshore Wind Project in United Kingdom"	"is 7 As of November 2010 the largest offshore wind farm"	"in the world"	
+7	"the Thanet Offshore Wind Project in United Kingdom"	"is 7 As of November 2010 the largest offshore wind farm"	"at 300 MW"	
+7	"the Thanet Offshore Wind Project in United Kingdom"	"is 7 As of November 2010 the largest offshore wind farm"	"followed by Horns Rev II in Denmark"	
+7	"the Thanet Offshore Wind Project in United Kingdom"	"is"	"7 As of November 2010 the largest offshore wind farm"	
+7	"7 As of November 2010 the largest offshore wind farm in the world at 300 MW"	"be followed"	"by Horns Rev II in Denmark"	
+7	"Rev II in Denmark"	"is"	"209 MW"	
+8	There are many large wind farms under construction and these include Anholt Offshore Wind Farm ( 400 MW) , BARD Offshore 1 ( 400 MW) , Clyde Wind Farm ( 548 MW) , Greater Gabbard wind farm ( 500 MW) , Lincs Wind Farm ( 270 MW) , London Array ( 1000 MW) , Lower Snake River Wind Project ( 343 MW) , Macarthur Wind Farm ( 420 MW) , Shepherds Flat Wind Farm ( 845 MW) , Sheringham Shoal ( 317 MW) , and the Walney Wind Farm ( 367 MW) . 
+8	"many large wind farms under construction"	"There are"	"8"	
+8	"these"	"include"	"Anholt Offshore Wind Farm"	
+8	"these"	"include"	"Anholt Offshore Wind BARD Offshore 1"	
+8	"these"	"include"	"Anholt Offshore Wind Clyde Wind Farm"	
+8	"these"	"include"	"Anholt Offshore Wind Greater Gabbard wind farm"	
+8	"these"	"include"	"Anholt Offshore Wind Lincs Wind Farm"	
+8	"these"	"include"	"Anholt Offshore Wind London Array"	
+8	"these"	"include"	"Anholt Offshore Wind Lower Snake River Wind Project"	
+8	"these"	"include"	"Anholt Offshore Wind Macarthur Wind Farm"	
+8	"these"	"include"	"Anholt Offshore Wind Shepherds Flat Wind Farm"	
+8	"these"	"include"	"Anholt Offshore Wind Sheringham Shoal"	
+8	"these"	"include"	"Anholt Offshore Wind the Walney Wind Farm"	
+8	"Anholt Offshore Wind Farm"	"is"	"400 MW"	
+8	"Anholt Offshore Wind BARD Offshore 1"	"is"	"400 MW"	
+8	"Anholt Offshore Wind Clyde Wind Farm"	"is"	"400 MW"	
+8	"Anholt Offshore Wind Greater Gabbard wind farm"	"is"	"400 MW"	
+8	"Anholt Offshore Wind Lincs Wind Farm"	"is"	"400 MW"	
+8	"Anholt Offshore Wind London Array"	"is"	"400 MW"	
+8	"Anholt Offshore Wind Lower Snake River Wind Project"	"is"	"400 MW"	
+8	"Anholt Offshore Wind Macarthur Wind Farm"	"is"	"400 MW"	
+8	"Anholt Offshore Wind Shepherds Flat Wind Farm"	"is"	"400 MW"	
+8	"Anholt Offshore Wind Sheringham Shoal"	"is"	"400 MW"	
+8	"Anholt Offshore Wind the Walney Wind Farm"	"is"	"400 MW"	
+8	"BARD Offshore 1"	"is"	"400 MW"	
+8	"Clyde Wind Farm"	"is"	"548 MW"	
+8	"Greater Gabbard wind farm"	"is"	"500 MW"	
+8	"Lincs Wind Farm"	"is"	"270 MW"	
+8	"London Array"	"is"	"1000 MW"	
+8	"Lower Snake River Wind Project"	"is"	"343 MW"	
+8	"Macarthur Wind Farm"	"is"	"420 MW"	
+8	"Shepherds Flat Wind Farm"	"is"	"845 MW"	
+8	"Sheringham Shoal"	"is"	"317 MW"	
+8	"the Walney Wind Farm"	"is"	"367 MW"	
+9	A large wind farm may consist of several hundred individual wind turbines , and cover an extended area of hundreds of square miles , but the land between the turbines may be used for agricultural or other purposes . 
+9	"9 A large wind farm"	"may consist"	"of several hundred individual wind turbines"	
+9	"9 A large wind farm"	"may cover"	"an extended area of hundreds of square miles of several hundred individual wind turbines"	
+9	"9 A large wind farm"	"may cover"	"an extended area of hundreds of square miles"	
+9	"the land between the turbines"	"may be used"	"for agricultural purposes"	
+9	"the land between the turbines"	"may be used"	"for other purposes"	
+10	A wind farm may be located offshore to take advantage of strong winds blowing over the surface of an ocean or lake . 
+10	"10 A wind farm"	"may be located"	"offshore to take advantage of strong winds blowing over the surface of an ocean"	
+10	"10 A wind farm"	"may be located"	"offshore to take advantage of strong winds blowing over the surface of an lake"	
+10	"10 A wind farm"	"may be located"	"to take advantage of strong winds blowing over the surface of an ocean"	
+10	"10 A wind farm"	"may be located"	"to take advantage of strong winds blowing over the surface of an lake"	
+10	"strong winds"	"be blowing"	"over the surface of an ocean"	
+10	"strong winds"	"be blowing"	"over the surface of an lake"	
+11	thumbMap of available wind power over the United States . 
+12	Color codes indicate wind power density class As a general rule , economic wind generators require windspeed of 10&nbsp;mph ( 16&nbsp;km/h ) or greater . 
+12	"12 Color codes"	"indicate"	"wind power density class As a general rule"	
+12	"12 Color codes"	"indicate"	"wind power density class"	
+12	"economic wind generators"	"require"	"12 Color codes indicate wind power density class As a general rule windspeed of 10 mph"	
+12	"economic wind generators"	"require"	"12 Color codes indicate wind power density class As a general rule windspeed of 10 greater"	
+12	"10 mph"	"is"	"16 km/h"	
+12	"10 greater"	"is"	"16 km/h"	
+13	An ideal location would have a near constant flow of non-turbulent wind throughout the year , with a minimum likelihood of sudden powerful bursts of wind . 
+13	"13 An ideal location"	"would have"	"a near constant flow of non-turbulent wind throughout the year"	
+13	"13 An ideal location"	"would have"	"a near constant flow of non-turbulent wind with a minimum likelihood of sudden powerful bursts of wind"	
+13	"13 An ideal location"	"would have"	"a near constant flow of non-turbulent wind"	
+14	An important factor of turbine siting is also access to local demand or transmission capacity . 
+14	"14 An important factor of turbine siting"	"is access"	"also"	
+14	"14 An important factor of turbine siting"	"is access"	"to local demand"	
+14	"14 An important factor of turbine siting"	"is access"	"to local transmission capacity"	
+14	"14 An important factor of turbine siting"	"is"	"access"	
+15	Usually sites are screened on the basis of a wind atlas , and validated with wind measurements . 
+15	"15 Usually sites"	"are screened"	"on the basis of a wind atlas"	
+15	"15 Usually sites"	"are validated"	"with wind measurements on the basis of a wind atlas"	
+15	"15 Usually sites"	"are validated"	"with wind measurements"	
+16	Meteorological wind data alone is usually not sufficient for accurate siting of a large wind power project . 
+16	"16 Meteorological wind data alone"	"is not sufficient"	"usually"	
+16	"16 Meteorological wind data alone"	"is not sufficient"	"for accurate siting of a large wind power project"	
+16	"16 Meteorological wind data alone"	"is not"	"sufficient"	
+17	Collection of site specific data for wind speed and direction is crucial to determining site potential page 32 EWEA 2009 . 
+17	"17 Collection of site specific data for wind speed"	"is crucial"	"to determining site potential page 32 EWEA 2009"	
+17	"17 of site specific data for wind speed direction"	"is crucial"	"to determining site potential page 32 EWEA 2009"	
+17	"17 Collection of site specific data for wind speed"	"is"	"crucial"	
+17	"17 of site specific data for wind speed direction"	"is"	"crucial"	
+18	Accessed : 13 March 2011 . 
+18	"18"	"be Accessed"	
+19	in order to finance the project . 
+20	Local winds are often monitored for a year or more , and detailed wind maps constructed before wind generators are installed . 
+20	"20 Local winds"	"are monitored"	"for a year more often"	
+20	"20 Local winds"	"are monitored"	"for a year more"	
+20	"20 Local winds"	"are detailed wind maps"	"constructed before wind generators are installed often"	
+20	"20 Local winds"	"are detailed wind maps"	"constructed before wind generators are installed for a year more"	
+20	"20 Local winds"	"are detailed wind maps"	"constructed before wind generators are installed"	
+20	"detailed wind maps"	"be constructed"	"before wind generators are installed"	
+20	"wind generators"	"are installed"	
+21	The wind blows faster at higher altitudes because of the reduced influence of drag . 
+22	The increase in velocity with altitude is most dramatic near the surface and is affected by topography , surface roughness , and upwind obstacles such as trees or buildings . 
+22	"22 The increase in velocity with altitude"	"is dramatic"	"most"	
+22	"22 The increase in velocity with altitude"	"is dramatic"	"near the surface"	
+22	"22 The increase in velocity with altitude"	"is"	"dramatic"	
+22	"22 The increase in velocity with altitude"	"is is affected"	"most"	
+22	"22 The increase in velocity with altitude"	"is is affected"	"near the surface"	
+22	"22 The increase in velocity with altitude"	"is is affected"	"by topography"	
+22	"22 The increase in velocity with altitude"	"is is affected"	"by surface roughness"	
+22	"22 The increase in velocity with altitude"	"is is affected"	"by upwind obstacles such as trees"	
+22	"22 The increase in velocity with altitude"	"is is affected"	"by upwind obstacles such as buildings"	
+22	"22 The increase in velocity with altitude"	"is is"	"affected"	
+23	Typically , the increase of wind speeds with increasing height follows a wind profile power law , which predicts that wind speed rises proportionally to the seventh root of altitude . 
+23	"the increase of wind speeds with increasing height"	"follows"	"a wind profile power law 23 Typically"	
+23	"the increase of wind speeds with increasing height"	"follows"	"a wind profile power law"	
+23	"a wind profile power law"	"predicts"	"that wind speed rises proportionally to the seventh root of altitude"	
+23	"wind speed"	"rises"	"proportionally to the seventh root of altitude"	
+23	"wind speed"	"rises"	"proportionally"	
+24	Doubling the altitude of a turbine , then , increases the expected wind speeds by 10 % and the expected power by 34 % . 
+24	"24 then increases the expected wind speeds by 10 %"	"be Doubling"	"the altitude of a turbine"	
+24	"24 then the expected wind speeds by 10 % the expected power by 34 %"	"be Doubling"	"the altitude of a turbine"	
+25	Individual turbines are interconnected with a medium voltage (usually 34.5 
+25	"25 Individual turbines"	"are interconnected"	"with a medium voltage usually 34.5"	
+26	kV ) power collection system and communications network . 
+27	At a substation , this medium-voltage electrical current is increased in voltage with a transformer for connection to the high voltage transmission system . 
+27	"this medium-voltage electrical current"	"is increased"	"in voltage with a transformer for connection to the high voltage transmission system"	
+27	"this medium-voltage electrical current"	"is increased"	"in voltage"	
+28	Construction of a land-based wind farm requires installation of the collector system and substation , and possibly access roads to each turbine site . 
+28	"28 Construction of a land-based wind farm"	"requires"	"installation of the collector system"	
+28	"28 Construction of a land-based wind farm"	"requires"	"installation of the collector substation"	
+28	"28 Construction of a land-based wind farm"	"access roads"	"installation of the collector system possibly"	
+28	"28 Construction of a land-based wind farm"	"access roads"	"installation of the collector substation possibly"	
+28	"28 Construction of a land-based wind farm"	"access roads"	"installation of the collector system to each turbine site"	
+28	"28 Construction of a land-based wind farm"	"access roads"	"installation of the collector substation to each turbine site"	
+28	"28 Construction of a land-based wind farm"	"access roads"	"installation of the collector system"	
+28	"28 Construction of a land-based wind farm"	"access roads"	"installation of the collector substation"	
+29	thumbPart of theBiglow Canyon Wind Farm _ with a turbine under construction List of onshore wind farms Lists of wind farms by country The world 's first wind farm – consisting of 20 wind turbines rated at 30 kilowatts each – was installed on the shoulder of Crotched Mountain in southern New Hampshire in December , 1980 . 
+29	"The world"	"has"	"country first wind farm"	
+29	"20 wind turbines"	"be rated"	"at 30 kilowatts each"	
+30	http ://www.windpoweringamerica.gov/ne_history_windfarms 
+31	.asp 
+32	Historic Wind Development in New England : The Age of PURPA Spawns the " Wind Farm " 10/9/2008 U.S. 
+32	"The Age of PURPA"	"Spawns"	"the Wind Farm 10/9/2008 U.S."	
+33	Department of Energy 24 April 2010 http ://www.windpoweringamerica.gov/ne_history_windfarms 
+34	.asp 
+35	Historic Wind Development in New England : The Age of PURPA Spawns the " Wind Farm " 10/9/2008 U.S. 
+35	"The Age of PURPA"	"Spawns"	"the Wind Farm 10/9/2008 U.S."	
+36	Department of Energy 24 April 2010 http ://www .umass 
+37	.edu/windenergy/about 
+38	.history 
+39	.alumni.php 
+40	Wind Energy Center Alumni and the Early Wind Industry 2010 University of Massachusetts Amherst 24 April 2010 http ://www .umass 
+41	.edu/windenergy/about 
+42	.history 
+43	.alumni.php 
+44	Wind Energy Center Alumni and the Early Wind Industry 2010 University of Massachusetts Amherst 24 April 2010 Many of the largest operational onshore wind farms are located in the USA . 
+44	"44 Wind Energy Center Alumni"	"are located"	"in the USA"	
+44	"44 Wind Energy Center the Early Wind Industry 2010 University of Massachusetts Amherst 24 April 2010 Many of the largest operational onshore wind farms"	"are located"	"in the USA"	
+44	"44 Wind Energy Center Alumni"	"are"	"located"	
+44	"44 Wind Energy Center the Early Wind Industry 2010 University of Massachusetts Amherst 24 April 2010 Many of the largest operational onshore wind farms"	"are"	"located"	
+45	As of November 2010 , the Roscoe Wind Farm is the largest onshore wind farm in the world at 781.5 
+45	"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"45 As of November 2010 in the world"	
+45	"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"45 As of November 2010 at 781.5"	
+45	"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"45 As of November 2010"	
+46	MW , followed by the Horse Hollow Wind Energy Center ( 735.5 
+46	"46 MW"	"be followed"	"by the Horse Hollow Wind Energy Center 735.5"	
+47	MW) . 
+48	The largest wind farm under construction is the 845 MW Shepherds Flat Wind Farm in the USA . 
+48	"48 The largest wind farm under construction"	"is the 845 MW Shepherds Flat Wind Farm"	"in the USA"	
+48	"48 The largest wind farm under construction"	"is"	"the 845 MW Shepherds Flat Wind Farm"	
+49	The largest proposed project is the 20,000 MW Gansu Wind Farm in China . 
+49	"49 The largest proposed project"	"is the 20,000 MW Gansu Wind Farm"	"in China"	
+49	"49 The largest proposed project"	"is"	"the 20,000 MW Gansu Wind Farm"	
+50	Falling costs mean that the average onshore wind farm will be competitive with natural gas-fired power generation by 2016 . 
+50	"50 Falling costs"	"mean"	"that the average onshore wind farm will be competitive with natural gas-fired power generation by 2016"	
+50	"the average onshore wind farm"	"will be competitive"	"with natural gas-fired power generation"	
+50	"the average onshore wind farm"	"will be competitive"	"by 2016"	
+50	"the average onshore wind farm"	"will be"	"competitive"	
+51	http ://www.environmental-finance 
+52	.com/news/view/2111 
+53	Onshore turbine installations in hilly or mountainous regions tend to be on ridgelines generally three kilometers or more inland from the nearest shoreline . 
+53	"53 Onshore turbine installations in hilly regions"	"tend"	"to be on ridgelines"	
+53	"53 Onshore turbine installations in hilly regions"	"tend"	"to be on ridgelines"	
+53	"53 Onshore turbine installations in mountainous regions"	"tend"	"to be on ridgelines"	
+53	"53 Onshore turbine installations in mountainous regions"	"tend"	"to be on ridgelines"	
+54	This is done to exploit the topographic acceleration as the wind accelerates over a ridge . 
+54	"This"	"is done"	"to exploit the topographic acceleration 54"	
+54	"the wind"	"accelerates"	"over a ridge the topographic acceleration"	
+54	"the wind"	"accelerates"	"the topographic acceleration"	
+55	The additional wind speeds gained in this way can increase energy produced because more wind goes through the turbines . 
+55	"55 The additional wind speeds"	"gained"	"in this way"	
+55	"55 The additional wind speeds gained in this way"	"can increase"	"energy produced because more wind goes through the turbines"	
+55	"energy"	"be produced"	"because more wind goes through the turbines"	
+55	"more wind"	"goes"	"through the turbines"	
+56	The exact position of each turbines matters , because a difference of 30m could potentially double output . 
+56	"a difference of 30m"	"could potentially double output"	
+57	This careful placement is referred to as 'micro-siting ' . 
+57	"57 This careful placement"	"is referred"	"to as micro-siting"	
+58	thumb450pxOffshore wind turbines nearCopenhagen Offshore wind power List of offshore wind farms Lists of offshore wind farms by country Europe is the leader in offshore wind energy , with the first offshore wind farm being installed in Denmark in 1991 . 
+58	"58 thumb450pxOffshore wind turbines"	"nearCopenhagen Offshore wind power List"	"of offshore wind farms Lists of offshore wind farms by country Europe"	
+58	"58 thumb450pxOffshore wind turbines nearCopenhagen Offshore wind power List of offshore wind farms Lists of offshore wind farms by country Europe"	"is the leader"	"in offshore wind energy"	
+58	"58 thumb450pxOffshore wind turbines nearCopenhagen Offshore wind power List of offshore wind farms Lists of offshore wind farms by country Europe"	"is the leader"	"with the first offshore wind farm being installed in Denmark in 1991"	
+58	"58 thumb450pxOffshore wind turbines nearCopenhagen Offshore wind power List of offshore wind farms Lists of offshore wind farms by country Europe"	"is"	"the leader"	
+58	"the first offshore wind farm"	"be installed"	"in Denmark in 1991"	
+58	"the first offshore wind farm"	"be installed"	"in Denmark"	
+59	As of 2010 , there are 39 offshore wind farms in waters off Belgium , Denmark , Finland , Germany , Ireland , the Netherlands , Norway , Sweden and the United Kingdom , with a combined operating capacity of 2,396 MW. 
+59	"39 offshore wind farms"	"there are"	"in waters off Belgium"	
+59	"39 offshore wind farms"	"there are"	"in waters off Belgium"	
+59	"39 offshore wind farms"	"there are"	"in waters off Belgium"	
+59	"39 offshore wind farms"	"there are"	"in waters off Belgium"	
+59	"39 offshore wind farms"	"there are"	"in waters off Belgium"	
+59	"39 offshore wind farms"	"there are"	"in waters off Belgium"	
+59	"39 offshore wind farms"	"there are"	"in waters off Belgium"	
+59	"39 offshore wind farms"	"there are"	"in waters off Belgium"	
+59	"39 offshore wind farms"	"there are"	
+59	"39 offshore wind farms"	"there are"	
+59	"39 offshore wind farms"	"there are"	
+59	"39 offshore wind farms"	"there are"	
+59	"39 offshore wind farms"	"there are"	
+59	"39 offshore wind farms"	"there are"	
+59	"39 offshore wind farms"	"there are"	
+59	"39 offshore wind farms"	"there are"	
+60	More than 100 GW ( or 100 , 000 MW) of offshore projects are proposed or under development in Europe . 
+60	"60 More than 100 GW 100 000 MW of offshore projects"	"are proposed"	
+60	"60 More than 100 GW 100 000 MW of offshore projects"	"are under"	"development in Europe"	
+61	The European Wind Energy Association has set of 40 GW installed by 2020 and 150 GW by 2030 . 
+61	"61 The European Wind Energy Association"	"has set"	"of 40 GW installed by 2020 GW by 2030"	
+61	"61 The European Wind Energy Association"	"has set"	"of 40 GW installed by 150 GW by 2030"	
+61	"40 GW"	"be installed"	"by 2020 GW by 2030"	
+61	"40 GW"	"be installed"	"by 150 GW by 2030"	
+61	"40 GW"	"be installed"	"by 2020 GW"	
+61	"40 GW"	"be installed"	"by 150 GW"	
+62	http ://www.eesi 
+63	.org/files/offshore_wind_101310.pdf 
+64	Offshore Wind Energy Environmental and Energy Study Institute October 2010 http ://www.eesi 
+65	.org/files/offshore_wind_101310.pdf 
+66	Offshore Wind Energy Environmental and Energy Study Institute October 2010 November 2010 , the Thanet Offshore Wind Project in United Kingdom is the largest offshore wind farm in the world at 300 MW , followed by Horns Rev II ( 209 MW) in Denmark . 
+66	"66 Offshore Wind Energy Environmental"	"is"	"the Thanet Offshore Wind Project in United Kingdom"	
+66	"66 Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is"	"the Thanet Offshore Wind Project in United Kingdom"	
+66	"the largest offshore wind farm in the world at 300 MW"	"be followed"	"by Horns Rev II in Denmark"	
+66	"66 Offshore Wind Energy Environmental"	"is the largest offshore wind farm"	"in the world"	
+66	"66 Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is the largest offshore wind farm"	"in the world"	
+66	"66 Offshore Wind Energy Environmental"	"is the largest offshore wind farm"	"at 300 MW"	
+66	"66 Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is the largest offshore wind farm"	"at 300 MW"	
+66	"66 Offshore Wind Energy Environmental"	"is the largest offshore wind farm"	"followed by Horns Rev II in Denmark"	
+66	"66 Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is the largest offshore wind farm"	"followed by Horns Rev II in Denmark"	
+66	"66 Offshore Wind Energy Environmental"	"is"	"the largest offshore wind farm"	
+66	"66 Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is"	"the largest offshore wind farm"	
+66	"Rev II in Denmark"	"is"	"209 MW"	
+67	Offshore wind turbines are less obtrusive than turbines on land , as their apparent size and noise is mitigated by distance . 
+67	"67 Offshore wind turbines"	"are obtrusive"	"less"	
+67	"67 Offshore wind turbines"	"are obtrusive"	"than turbines on land"	
+67	"67 Offshore wind turbines"	"are obtrusive"	"as their apparent size"	
+67	"67 Offshore wind turbines"	"are"	"obtrusive"	
+67	"their"	"has"	"apparent size"	
+67	"noise"	"is mitigated"	"by distance"	
+68	Because water has less surface roughness than land (especially deeper water ) , the average wind speed is usually considerably higher over open water . 
+68	"water"	"has"	"less surface roughness than land"	
+68	"land"	"is"	"especially deeper water"	
+68	"the average wind speed"	"is 68 higher"	"Because water has less surface roughness than land"	
+68	"the average wind speed"	"is 68 higher"	"usually"	
+68	"the average wind speed"	"is 68 higher"	"considerably"	
+68	"the average wind speed"	"is 68 higher"	"over open water"	
+68	"the average wind speed"	"is"	"68 higher"	
+69	Capacity factor (utilisation rates ) are considerably higher than for onshore locations . 
+69	"69 Capacity factor"	"is"	"utilisation rates"	
+69	"69 Capacity factor"	"are higher"	"considerably"	
+69	"69 Capacity factor"	"are higher"	"than for onshore locations"	
+69	"69 Capacity factor"	"are"	"higher"	
+70	Garvine Richard Kempton Willett Assessing the wind ﬁeld over the continental shelf as a resource for electric power Journal of Marine Research 2008 66 6 751–773 0022-2402 http ://www.ceoe 
+70	"70 Garvine Richard Kempton Willett www.ceoe"	"be Assessing"	"the wind ﬁeld over the continental shelf as a resource for electric power Journal of Marine Research 2008 66 6 751 773 0022-2402 http"	
+70	"70 Garvine Richard Kempton Willett www.ceoe"	"be Assessing"	"the wind ﬁeld over the continental shelf"	
+71	.udel 
+72	.edu/windpower/docs/GarvineKemp-AssessingWind09.pdf 
+73	PDF 2009-11-30 Garvine Richard Kempton Willett Assessing the wind ﬁeld over the continental shelf as a resource for electric power Journal of Marine Research 2008 66 6 751–773 0022-2402 http ://www.ceoe 
+73	"73 PDF 2009-11-30 Garvine Richard Kempton Willett www.ceoe"	"be Assessing"	"the wind ﬁeld over the continental shelf as a resource for electric power Journal of Marine Research 2008 66 6 751 773 0022-2402 http"	
+73	"73 PDF 2009-11-30 Garvine Richard Kempton Willett www.ceoe"	"be Assessing"	"the wind ﬁeld over the continental shelf"	
+74	.udel 
+75	.edu/windpower/docs/GarvineKemp-AssessingWind09.pdf 
+76	PDF 2009-11-30 The province of Ontario in Canada is pursuing several proposed locations in the Great Lakes , including the suspended Alberta Oil Magazine , April 2011 . 
+76	"The province of Ontario in Canada"	"is pursuing"	"several proposed locations in the Great Lakes 76 PDF 2009-11-30 including the suspended Alberta Oil Magazine"	
+76	"The province of Ontario in Canada"	"is pursuing"	"several proposed locations 76 PDF 2009-11-30 including the suspended Alberta Oil Magazine"	
+76	"the suspended Alberta Oil Magazine"	"is"	"April 2011"	
+77	Accessed : 29 September 2011 . 
+77	"77"	"be Accessed"	
+78	Trillium Power Wind 1 approximately 20&nbsp;km from shore and over 400 MW in size . 
+79	http ://www.thestar.com/article/294044 
+80	Ontario to approve Great Lakes wind power January 15 , 2008 2008-05-02 The Star Toronto Tyler Hamilton http ://www.thestar.com/article/294044 
+80	"80 Ontario"	"to approve"	"Great Lakes wind power January 15 2008 2008-05-02 The Star Toronto Tyler Hamilton http www.thestar.com/article/294044"	
+81	Ontario to approve Great Lakes wind power January 15 , 2008 2008-05-02 The Star Toronto Tyler Hamilton Other Canadian projects include one on the Pacific west coast . 
+81	"81 Ontario"	"to approve"	"Great Lakes wind power January 15 2008 2008-05-02"	
+81	"The Star Toronto Tyler Hamilton Other Canadian projects"	"include"	"one on the Pacific west coast January 15 2008 2008-05-02"	
+82	http ://www.naikun.ca/index.php 
+83	Naikun Wind Development , Inc. 
+83	"83 Naikun Wind Development"	"is"	"Inc."	
+84	2008-05-21 http ://www.naikun.ca/index.php 
+85	Naikun Wind Development , Inc. 
+85	"85 Naikun Wind Development"	"is"	"Inc."	
+86	2008-05-21 As of 2010 , there are no offshore wind farms in the United States . 
+86	"no offshore wind farms in the United States"	"there are"	"86 2008-05-21 As of 2010"	
+87	However , projects are under development in wind-rich areas of the East Coast , Great Lakes , and Pacific coast . 
+87	"projects"	"are"	"under development in wind-rich areas of the East Coast 87 However"	
+87	"projects"	"are"	"under development in wind-rich areas of the East Pacific coast 87 However"	
+87	"projects"	"are"	"under development in wind-rich areas of the East Coast"	
+87	"projects"	"are"	"under development in wind-rich areas of the East Pacific coast"	
+87	"the East Coast"	"is"	"Great Lakes"	
+87	"the East Pacific coast"	"is"	"Great Lakes"	
+88	List of wind farms in Australia List of wind farms in Canada thumb450pxcentreImage of Pubnico Wind Farm taken from Beach Point_Lower East Pubnico_ Nova Scotia thumbWind farm inXinjiang _ China Wind power in China At the end of 2009 , wind power in China accounted for 25.1&nbsp; 
+88	"Pubnico Wind Farm"	"be taken"	"from Beach Point_Lower East Pubnico _ Nova Scotia thumbWind farm inXinjiang _ China Wind power in China At the end of 2009"	
+88	"Beach Point_Lower East Pubnico"	"_"	"Nova Scotia thumbWind farm inXinjiang _ China Wind power in China At the end of 2009"	
+88	"Beach Point_Lower East Pubnico"	"_"	"Nova Scotia thumbWind farm inXinjiang _ China Wind power in China"	
+88	"wind power in China"	"accounted"	"for 25.1"	
+89	gigawatt ( GW ) of electricity generating capacity , Lars Kroldrup . 
+89	"89 gigawatt of electricity generating capacity"	"is"	"GW"	
+89	"89 gigawatt of electricity generating capacity"	"is"	"Lars Kroldrup"	
+89	"electricity"	"be generating"	"capacity"	
+90	Green Inc. 
+91	, February 15 , 2010 . 
+91	"91"	"is"	"February 15 2010"	
+92	and China has identified wind power as a key growth component of the country 's economy . 
+92	"92"	"has identified"	"wind power as a key growth component of the country 's economy"	
+92	"China"	"has identified"	"wind power as a key growth component of the country 's economy"	
+92	"92"	"has identified"	"wind power"	
+92	"China"	"has identified"	"wind power"	
+92	"the country"	"has"	"economy"	
+93	http ://www.guardian.co.uk/environment/2009/feb/03/wind-power-eu 
+94	Wind power becomes Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 http ://www.guardian.co.uk/environment/2009/feb/03/wind-power-eu 
+94	"94 Wind power"	"becomes"	"Europe 's fastest growing energy"	
+95	Wind power becomes Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land mass and long coastline , China has exceptional wind resources . 
+95	"95 Wind power"	"becomes"	"Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land mass"	
+95	"95 Wind power"	"becomes"	"Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land long coastline"	
+95	"Europe"	"has"	"fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land mass"	
+95	"Europe"	"has"	"fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land long coastline"	
+95	"its"	"has"	"large land mass"	
+95	"China"	"has"	"95 Wind power becomes Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land mass exceptional wind resources"	
+95	"China"	"has"	"95 Wind power becomes Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land long coastline exceptional wind resources"	
+96	pp . 
+97	18-19 . 
+98	Researchers from Harvard and Tsinghua University have found that China could meet all of their electricity demands from wind power through 2030 . 
+98	"98 Researchers from Harvard University"	"have found"	"that China could meet all of their electricity demands from wind power through 2030"	
+98	"98 Researchers from Tsinghua University"	"have found"	"that China could meet all of their electricity demands from wind power through 2030"	
+98	"China"	"could meet"	"all of their electricity demands from wind power through 2030"	
+98	"China"	"could meet"	"all of their electricity demands from wind power"	
+98	"their"	"has"	"electricity demands from wind power"	
+99	http ://ecogeek .org/wind-power/2948-china-could-replace-coal-with-wind 
+100	China Could Replace Coal with Wind Ecogeek .org 
+101	2010-01-31 http ://ecogeek .org/wind-power/2948-china-could-replace-coal-with-wind 
+102	China Could Replace Coal with Wind Ecogeek .org 
+103	2010-01-31 By the end of 2008 , at least 15 Chinese companies were commercially producing wind turbines and several dozen more were producing components . 
+103	"103 2010-01-31 By the end of 2008"	"is"	"at least 15 Chinese companies"	
+103	"103 2010-01-31 By the end of 2008"	"were producing"	"wind turbines were producing components more commercially"	
+103	"103 2010-01-31 By the end of 2008"	"were producing"	"wind turbines were producing components commercially"	
+103	"103 2010-01-31 By the end of 2008"	"were producing"	"wind several dozen were producing components more commercially"	
+103	"103 2010-01-31 By the end of 2008"	"were producing"	"wind several dozen were producing components commercially"	
+103	"103 2010-01-31 By the end of 2008"	"were producing"	"wind turbines were producing components more"	
+103	"103 2010-01-31 By the end of 2008"	"were producing"	"wind turbines were producing components"	
+103	"103 2010-01-31 By the end of 2008"	"were producing"	"wind several dozen were producing components more"	
+103	"103 2010-01-31 By the end of 2008"	"were producing"	"wind several dozen were producing components"	
+104	http ://eprints .ucl 
+105	.ac.uk/16051/1/16051.pdf 
+106	Caprotti Federico ( 2009 ) China 's Cleantech Landscape : The Renewable Energy Technology Paradox ' &# 39;Sustainable Development Law &amp; Policy ' &# 39 ; Spring 2009 : 6–10 PDF 2010-01-31 http ://eprints .ucl 
+107	.ac.uk/16051/1/16051.pdf 
+108	Caprotti Federico ( 2009 ) China 's Cleantech Landscape : The Renewable Energy Technology Paradox ' &# 39;Sustainable Development Law &amp; Policy ' &# 39 ; Spring 2009 : 6–10 PDF 2010-01-31 Turbine sizes of 1.5&nbsp;MW 
+108	"108 Caprotti Federico China 's Cleantech Landscape The Renewable Energy Technology Paradox ' & # 39 Spring 2009 6 10 PDF 2010-01-31 Turbine sizes of 1.5 MW"	"is"	"2009"	
+108	"108 Caprotti Federico China 's Cleantech Landscape The Renewable Energy Technology ' Sustainable Development Law & Policy ' & # 39 Spring 2009 6 10 PDF 2010-01-31 Turbine sizes of 1.5 MW"	"is"	"2009"	
+108	"China"	"has"	"Cleantech Landscape"	
+109	to 3&nbsp;MW became common . 
+109	"109 to 3 MW"	"became"	"common"	
+110	Leading wind power companies in China were Goldwind , Dongfang Electric , and Sinovel along with most major foreign wind turbine manufacturers . 
+110	"110 Leading wind power companies in China"	"were"	"Goldwind"	
+110	"110 Leading wind power companies in China"	"were"	"Dongfang Electric"	
+110	"110 Leading wind power companies in China"	"were"	"Sinovel along with most major foreign wind turbine manufacturers"	
+111	Adrian Lema and K. 
+112	Ruby , “Towards a policy model for climate change mitigation : China 's experience with wind power development and lessons for developing countries” , Energy for Sustainable Development , Vol . 
+112	"112 Ruby"	"is"	"Towards a policy model for climate change mitigation China 's experience with wind power development for developing countries Energy for Sustainable Development Vol"	
+112	"112 Ruby"	"is"	"Towards a policy model for climate change mitigation China 's experience with wind power lessons for developing countries Energy for Sustainable Development Vol"	
+112	"China"	"has"	"experience with wind power development for developing countries"	
+112	"China"	"has"	"experience with wind power lessons for developing countries"	
+113	10 , Issue 4 . 
+114	China also increased production of small-scale wind turbines to about 80,000 turbines ( 80&nbsp;MW) in 2008 . 
+114	"114 China"	"increased"	"production of small-scale wind turbines also"	
+114	"114 China"	"increased"	"production of small-scale wind turbines to about 80,000 turbines"	
+114	"114 China"	"increased"	"production of small-scale wind turbines in 2008"	
+114	"114 China"	"increased"	"production of small-scale wind turbines"	
+114	"about 80,000 turbines"	"is"	"80 MW"	
+115	Through all these developments , the Chinese wind industry appeared unaffected by the global financial crisis , according to industry observers . 
+115	"the Chinese wind industry"	"appeared"	"unaffected by the global financial crisis 115 Through all these developments according to industry observers"	
+116	REN21 ( 2009 ) . 
+116	"116 REN21"	"is"	"2009"	
+117	p.&nbsp;16 
+118	. 
+119	In 2009 , China became the third largest wind energy provider worldwide ( behind USA and Germany ) , with the installed wind power capacity reaching 20 GW at the end of 2009 . 
+119	"China"	"became"	"119 In 2009 the third largest wind energy provider worldwide with the installed wind power capacity reaching 20 GW at the end of 2009"	
+119	"China"	"became"	"119 In 2009 the third largest wind energy provider worldwide with the installed wind power capacity reaching 20 GW at the end of 2009"	
+119	"China"	"became"	"119 In 2009 the third largest wind energy provider worldwide"	
+119	"China"	"became"	"119 In 2009 the third largest wind energy provider worldwide"	
+119	"the installed wind power capacity"	"be reaching"	"20 GW at the end of 2009"	
+120	According to the Global Wind Energy Council , the development of wind energy in China , in terms of scale and rhythm , is absolutely unparalleled in the world . 
+120	"the development of wind energy in China in terms of scale"	"is 120 According to the Global Wind Energy Council unparalleled"	"absolutely"	
+120	"the development of wind energy in China in terms of rhythm"	"is 120 According to the Global Wind Energy Council unparalleled"	"absolutely"	
+120	"the development of wind energy in China in terms of scale"	"is 120 According to the Global Wind Energy Council unparalleled"	"in the world"	
+120	"the development of wind energy in China in terms of rhythm"	"is 120 According to the Global Wind Energy Council unparalleled"	"in the world"	
+120	"the development of wind energy in China in terms of scale"	"is"	"120 According to the Global Wind Energy Council unparalleled"	
+120	"the development of wind energy in China in terms of rhythm"	"is"	"120 According to the Global Wind Energy Council unparalleled"	
+121	The National People 's Congress permanent committee passed a law that requires the Chinese energy companies to purchase all the electricity produced by the renewable energy sector . 
+121	"The National People"	"has"	"121 Congress permanent committee"	
+121	"121 The National People 's Congress permanent committee"	"passed"	"a law"	
+121	"a law"	"requires"	"the Chinese energy companies to purchase all the electricity produced by the renewable energy sector"	
+121	"all the electricity"	"be produced"	"by the renewable energy sector"	
+122	http ://www.instalbiz.com/news/3-full-news-cn-china-ranks-third-in-worldwide-wind-energy_129.html 
+123	CN : China ranks third in worldwide wind energy - Alternative energy news Instalbiz.com 
+123	"China"	"ranks"	"third in worldwide wind energy Alternative energy news Instalbiz.com"	
+123	"China"	"ranks"	"third"	
+124	2010-01-04 2010-01-31 http ://www.instalbiz.com/news/3-full-news-cn-china-ranks-third-in-worldwide-wind-energy_129.html 
+125	CN : China ranks third in worldwide wind energy - Alternative energy news Instalbiz.com 
+125	"China"	"ranks"	"third in worldwide wind energy Alternative energy news Instalbiz.com"	
+125	"China"	"ranks"	"third"	
+126	2010-01-04 2010-01-31 section December 2010 thumbA wind farm in a mountainous area inGalicia ( Spain) Galicia_Spain thumbWind farm inLower Saxony_Germany Wind power in the European Union The European Union has a total installed wind capacity of 74,767MW. 
+126	"a mountainous area inGalicia Galicia_Spain thumbWind farm inLower Saxony_Germany Wind power in the European Union The European Union has a total installed wind capacity of 74,767 MW"	"is"	"Spain"	
+127	Germany has the second largest number of wind farms in the world after the United States . 
+127	"127 Germany"	"has"	"the second largest number of wind farms in the world after the United States"	
+127	"127 Germany"	"has"	"the second largest number of wind farms in the world"	
+128	Its installed capacity was 25,777 MW at the End of 2009 . 
+128	"Its"	"has"	"128 installed capacity"	
+128	"128 Its installed capacity"	"was 25,777 MW"	"at the End of 2009"	
+128	"128 Its installed capacity"	"was"	"25,777 MW"	
+129	The fourth country in capacity was Spain with 19,149 MW. 
+129	"129 The fourth country in capacity"	"was Spain"	"with 19,149 MW"	
+129	"129 The fourth country in capacity"	"was"	"Spain"	
+130	Italy was in the sixth position , with 4,850 MW. 
+130	"130 Italy"	"was"	"in the sixth position

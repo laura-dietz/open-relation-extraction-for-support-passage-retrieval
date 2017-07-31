@@ -1,0 +1,452 @@
+0	SVC (S: Chicken@15, V: "is", C: food@17)
+1	SVC (S: rooster@3, V: "is", C: left@5)	SVO (V: gallus@20, S: Gallus@19, O: domesticus@23)	SVC (S: Cock@31, V: "is", C: m@35)	SVC (S: chicken@43, V: "is", C: domesticus@47)	SVC (S: fowl@52, V: "is", C: subspecies@55)	SVC (C: fowl@52, V: is@49, S: chicken@43)
+2	SVC (S: Birds@29, V: "is", C: Ed@31)
+3	SVC (S: Perrins@1, V: "is", C: Christopher@3)
+4	SVC (S: Buffalo@1, V: "is", C: N.Y.@3)
+5	SVC (S: Books@3, V: "is", C: Ltd.@5)
+6	
+7	EXISTENTIAL (V: are@2, S: chickens@4)
+8	SVOC (V: keep@2, S: Humans@1, O: chickens@3, A?: as@5, XCOMP: consuming@11)	SVO (S: their@13, V: "has", O: meat@14)	SVO (S: their@16, V: "has", O: eggs@17)
+9	SVA (V: stated@13, S: view@5, A!: in@14)	SVC (S: Britannica@16, V: "is", C: 2007@18)
+10	SVA (V: given@6, S: attention@4, A!: to@7)
+11	SVC (S: Garrigus@2, V: "is", C: W.@4)
+12	
+13	
+14	
+15	SVA (V: pointed@5, S: studies@3, A!: to@6)	SVA (V: with@20, S: studies@3, A?: to@6, A!: clade@22)	SVA (V: "be originating", S: clade@22, A!: in@36)	SVA (V: "be found", S: clade@22, A!: in@24)
+16	SVO (V: made@6, S: fowl@5, A?: From@1, O: way@8, A?: to@9, A?: in@15)	SVO (S: its@7, V: "has", O: way@8)	SVA (V: imported@24, S: fowl@22, A!: to@25, A?: by@27)
+17	SVC (S: Toussaint-Samat@2, V: "is", C: Bell@6)	SVC (S: Bell@6, V: "is", C: translator@8)	SVC (S: Food@13, V: "is", C: Ch@15)
+18	SVA (V: "be revised", S: History@4)
+19	
+20	
+21	SVO (V: known@4, S: Fowl@1, A?: in@5, A?: since@7, A?: with@12, XCOMP: come@22)	SVA (V: lays@17, S: bird@15, A!: day@19)
+22	SVA (V: "be Depicting", S: Ostracon@6, O: Jungle-Fowl@10)
+23	SVC (S: pp@6, V: "is", C: April@2)
+24	
+25	SVA (V: known@19, S: In@1, A?: primarily@18, A!: as@20, A?: called@32)	SVO (V: called@32, S: they@28, A?: in@24, A?: commonly@31, O: rooster@33)
+26	SVC (C: cockerels@7, V: are@6, S: Males@1)
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	
+37	SV (V: called@5, S: roosters@3)	SVC (C: illegal@14, V: are@12, S: castration@11, A?: now@13, A?: in@15)
+38	SVA (V: known@7, S: Females@1, A!: as@8)	SVC (C: pullets@15, V: are@14, S: females@13)
+39	
+40	
+41	
+42	
+43	
+44	
+45	
+46	
+47	
+48	
+49	EXISTENTIAL (V: is@15, S: chook@19)	SVA (V: "be describe", S: chook@19, O: ages@30)	SVA (V: "be describe", S: chook@19, O: ages@30)
+50	
+51	SVO (V: said@5, S: use@3, XCOMP: offensive@8)	SVA (V: used@17, S: it@13, A?: also@15, A!: as@18)
+52	
+53	
+54	
+55	
+56	SVO (V: said@5, S: use@3, XCOMP: offensive@8)	SVA (V: used@17, S: it@13, A?: also@15, A!: as@18)
+57	
+58	
+59	
+60	SVO (V: called@5, S: Babies@3, O: 2009-10-31@1)	SVO (V: called@12, S: meat@10, XCOMP: chicken@13)
+61	SVA (V: referred@5, S: Chicken@2, A?: originally@4, A!: to@6)	SVC (S: chicks@7, V: "is", C: species@11)
+62	SVO (V: called@8, S: species@2, A-: then@7, XCOMP: fowl@10)
+63	SVA (V: survives@7, S: use@2, A!: in@8)
+64	
+65	
+66	
+67	SVO (V: Remember@2, S: I@1, O: Years@5)	SVC (S: Entertainment@8, V: "is", C: University@13)
+68	
+69	SV (V: Remember@2, S: I@1)	SVC (S: Entertainment@8, V: "is", C: University@13)	SVC (C: omnivore@23, V: are@22, S: Years@5)
+70	
+71	SVO (V: _@2, S: com/pages-infopages/pages@1, O: id-24@3)
+72	
+73	
+74	SVO (V: _@2, S: com/pages-infopages/pages@1, O: id-24@3)
+75	
+76	SVO (V: scratch@14, S: Info@1, A?: often@13, A?: at@15, XCOMP: search@19)	SVO (V: scratch@14, S: they@12, A?: often@13, A?: at@15, XCOMP: search@19)
+77	
+78	
+79	
+80	
+81	
+82	
+83	SVA (V: distinguished@9, S: adultroostercan@7, A!: from@10, A?: by@13)	SVC (S: largerComb@15, V: "is", C: anatomy@17)	SVO (S: his@14, V: "has", O: largerComb@15)	SVA (V: live@22, S: comb@19, A!: for@23, A?: depending@29)
+84	
+85	SV (V: =@6, S: Poultry@3)
+86	
+87	
+88	SV (V: =@6, S: Poultry@3)
+89	
+90	SVO (S: world@3, V: "has", O: chicken@6)	SVC (S: chicken@6, V: "is", C: hen@9)	SV (V: died@11, S: chicken@6, A?: of@12, A?: at@15, A?: according@20)
+91	SVC (S: Smith@1, V: "is", C: Jamon@3)
+92	SVA (S: Alabama@5, V: "is in", C: USA@7)
+93	
+94	
+95	SVA (V: differentiated@5, S: Roosters@1, A?: usually@3, A!: from@6, A?: by@8, A?: on@21)	SVO (S: their@9, V: "has", O: plumage@11)	SVO (S: their@22, V: "has", O: necks@23)	SVC (S: necks@23, V: "is", C: hackles@25)	SVC (S: backs@28, V: "is", C: saddle@30)
+96	SVC (S: Sebright@10, V: "is", C: rooster@13)	SVC (S: feathers@19, V: "is", C: color@23)
+97	SVA (V: made@5, S: identification@2, A!: by@6)	SVO (S: male@21, V: "has", O: legs@23)
+98	SVO (V: have@3, S: chickens@2, O: crest@6, A?: on@7)	SVO (S: their@8, V: "has", O: heads@9)	SVO (S: their@24, V: "has", O: beaks@25)	SVA (V: "be called", S: beaks@25)
+99	SVO (V: have@7, S: male@4, O: wattles@8)	SVC (C: prominent@19, V: are@17, S: these@16, A?: in@13, A?: more@18, A?: in@20)
+100	SVC (C: mutation@6, V: is@4, S: muff@1, A?: found@7, A?: giving@22)	SVA (V: "be giving", S: mutation@6, O: appearance@24)	SVA (V: "be found", S: mutation@6, A!: in@8)	SVO (V: causes@13, S: breeds@11, O: feather@15, A?: under@16)	SVO (S: chicken@18, V: "has", O: face@20)
+101	SVC (C: capable@7, V: are@5, S: chickens@4, A?: of@8, A?: capable@18)	SVC (C: capable@18, V: are@16, S: birds@15, A?: generally@17, A?: of@19, A?: as@26)	SV (V: roost@37, S: they@34, A?: where@33, A?: naturally@36)
+102	SVO (V: fly@4, S: Chickens@1, A?: occasionally@3, A?: briefly@5, XCOMP: explore@7)	SVOC (V: do@13, S: Chickens@1, A?: occasionally@3, A?: briefly@5, XCOMP: explore@7, A?: generally@12, A-: so@14, XCOMP: flee@17)	SVO (S: their@8, V: "has", O: surroundings@9)
+103	SVC (C: birds@4, V: are@2, S: Chickens@1)	SVC (C: live@6, V: are@2, S: Chickens@1, A?: together@7, A?: in@8)
+104	SVO (V: have@2, S: They@1, O: approach@5)	SVO (V: raising@12, S: They@1, O: approach@5, A?: of@13)
+105	SVO (V: dominate@7, S: chickens@2, O: others@8, A?: establishing@10)	SVA (V: "be establishing", S: chickens@2, O: order@14, A!: with@17)	SVA (V: "be having", S: individuals@19, O: priority@21)
+106	SVO (V: causes@8, S: Removing@1, O: disruption@11, A?: established@22)	SV (V: established@22, S: order@20)
+107	SVA (V: lead@13, S: birds@6, A!: to@14)
+108	
+109	
+110	
+111	
+112	SVO (V: try@4, S: Hens@2, XCOMP: lay@6)	SVOC (V: known@17, S: Hens@2, XCOMP: lay@6, XCOMP: move@19)	SVO (V: contain@11, S: nests@8, A?: already@10, O: eggs@12)	SVO (S: their@25, V: "has", O: own@26)
+113	SVO (V: use@3, S: farmers@2, O: eggs@5)	SVA (V: "be made", S: eggs@5, A!: from@7, XCOMP: lay@20)	SVA (V: "be encourage", S: plastic@8, O: hens@18)	SVC (S: plastic@8, V: "is", C: ball@14)
+114	SVC (V: is@6, S: result@2, CCOMP: use@11)	SVO (V: use@11, S: flock@9, O: locations@16)
+115	SVC (C: stubborn@6, V: be@4, S: Hens@1, A?: also@3, A?: extremely@5, A?: about@7)
+116	SVC (C: unknown@4, V: is@2, S: It@1, A?: try@13)	SVO (V: try@13, S: hens@11, XCOMP: share@15)
+117	SVC (C: small@5, V: is@4, S: nest@3)	SV (V: determined@14, S: one@8, A?: small@5, A?: particularly@13)	SVA (V: result@18, S: this@16, A?: determined@14, A!: in@19)	SVA (V: "be trying", S: chickens@20, XCOMP: lay@23)
+118	
+119	SVA (V: appears@5, S: bone@4, A?: Here@1, A!: in@6)
+120	
+121	SVA (V: "be crowing", S: Roosters@1)	SVC (C: signal@14, V: is@11, S: a@4, A?: to@15)
+122	SVA (V: result@6, S: crowing@3, A?: However@1, A?: also@5, A!: from@7)	SVO (S: their@11, V: "has", O: surroundings@12)
+123	SVA (V: cluck@2, S: Hens@1, A!: loudly@3, A?: after@4)	SVO (V: call@12, S: Hens@1, A?: loudly@3, A?: after@4, A?: also@10, O: chicks@14)	SVO (S: their@13, V: "has", O: chicks@14)
+124	SVO (V: give@3, S: Chickens@1, A?: also@2, O: a@4)	SVO (V: think@12, S: they@11, A?: when@10, CCOMP: see@14)	SVO (V: see@14, S: they@13, CCOMP: approaching@17)	SV (V: approaching@17, S: predator@16)
+125	SVA (V: "be researching", S: scientists@4, O: ancestry@7)	SVO (V: turned@11, S: scientists@4, A?: In@1, O: gene@17)	SVOC (V: found@22, S: scientists@4, A?: In@1, O: gene@17, CCOMP: initiated@27)	SVC (S: gene@17, V: "is", C: talpid2@19)	SVO (V: initiated@27, S: jaws@26, O: formation@28, A?: like@32)	SVA (V: "be found", S: those@33, A!: in@35)
+126	SVC (S: Fallon@2, V: "is", C: overseer@5)	SVO (V: stated@10, S: Fallon@2, CCOMP: have@13)	SV (V: have@13, S: chickens@12)
+127	SVA (V: "be make", S: ability@2, O: teeth@5)
+128	
+129	SVC (S: Kannampilly@3, V: "is", C: News@6)	SVC (S: Kannampilly@3, V: "is", C: 2006-02-27@8)
+130	
+131	SVO (V: finds@4, S: rooster@3, A?: When@1, O: food@5)	SVOC (V: call@9, S: he@7, A?: finds@4, O: chickens@11, XCOMP: eat@13)
+132	SVO (V: does@2, S: He@1, O: this@3, A?: by@4)
+133	SVO (V: observed@6, S: behavior@2, A?: also@4, A?: in@7, XCOMP: call@11)	SVO (S: their@12, V: "has", O: chicks@13)
+134	SVA (V: dance@8, S: roosters@6, A?: initiate@2, A!: in@9)	SVO (S: his@27, V: "has", O: wing@28)	SVC (C: closest@31, V: is@30, S: wing@28, A?: to@32)
+135	SVC (S: Johnson@8, V: "is", C: York@17)	SVC (S: Johnson@27, V: "is", C: York@36)	SVO (V: triggers@41, S: Animals@1, O: response@43)	SVO (S: hen@46, V: "has", O: brain@48)	SVA (V: responds@54, S: hen@53, A?: when@51, A!: to@55)	SVO (S: his@56, V: "has", O: call@58)	SVO (V: mount@64, S: rooster@62, A?: responds@54, O: hen@66)	SVO (V: proceed@68, S: rooster@62, A?: responds@54, O: hen@66, A?: with@69)
+136	SVA (V: descended@5, S: chicken@3, A!: from@7)	SVA (V: classified@18, S: chicken@3, A?: from@7, A?: scientifically@17, A!: as@19)	SVC (S: Junglefowl@10, V: "is", C: gallus@13)
+137	
+138	
+139	
+140	
+141	
+142	SV (V: can@4, S: it@3)	SVA (V: interbreed@8, S: it@3, A?: freely@7, A!: with@9)
+143	SVO (V: revealed@5, S: analysis@3, CCOMP: incorporated@15)	SVA (V: incorporated@15, S: gene@10, A!: into@16, A?: through@19)
+144	
+145	SVC (S: J@2, V: "is", C: M@16)	SVC (S: J@2, V: "is", C: al@19)	SVC (S: J@2, V: "is", C: G@5)	SVC (S: J@2, V: "is", C: U@8)	SVC (S: J@2, V: "is", C: B@13)
+146	SVO (V: Reveals@10, S: Identification@4, O: Origin@13)
+147	SVO (V: stated@13, S: view@11, A?: in@14, O: January@3)	SVC (S: Britannica@16, V: "is", C: 2007@18)
+148	SVA (V: given@6, S: attention@4, A!: to@7)
+149	
+150	SVA (V: "be occurring", S: event@9, A!: in@11)	SVO (V: created@17, S: event@9, A?: According@1, O: chicken@20, A?: with@21)	SVO (V: separating@24, S: transitions@23, O: breeds@27)
+151	SVC (S: junglefowl@6, V: "is", C: gallus@10)	SVO (V: suffices@12, S: subspecies@2, A?: as@13, CCOMP: found@91)	SVC (S: junglefowl@48, V: "is", C: gallus@52)	SVO (V: suffices@54, S: December@34, A?: as@55, O: breeds@20)	SVO (V: found@91, S: study@88, A?: later@90, XCOMP: based@94)	SVO (V: point@102, S: studies@101, A?: to@103, A?: with@108, XCOMP: originating@124)	SVA (V: "be found", S: clade@110, A!: in@112)	SVO (V: occur@137, S: number@133, A?: where@130, O: subcontinent@128)
+152	SVC (S: al@87, V: "is", C: 2006@89)	SVC (S: Trends@91, V: "is", C: vol@95)	SVC (S: vol@95, V: "is", C: pp@101)
+153	
+154	SV (V: claimed@4, S: It@1)	SVO (V: domesticated@14, S: chickens@12, O: assumptions@9, A?: in@15, A?: in@18)
+155	SVC (S: West@1, V: "is", C: B.@3)
+156	SVC (S: Zhou@2, V: "is", C: B.X.@4)
+157	
+158	
+159	
+160	
+161	
+162	SVC (S: 14@1, V: "is", C: 515@3)
+163	SVC (S: Al-Nasser@9, V: "is", C: A.@11)
+164	SVO (S: World@8, V: "has", O: Journal@12)
+165	SVO (V: known@6, S: it@3, CCOMP: made@10)	SVO (V: made@10, S: birds@9, O: contribution@12)
+166	SVC (S: Valley@9, V: "is", C: BC@12)	SVOC (C: Pakistan@19, V: is@18, S: today@17, O: what@16)	SVC (C: source@26, V: been@23, S: Chickens@1, A?: in@15, A?: of@27, A?: throughout@29)
+167	SV (V: ''@1, S: chicken@6)
+168	SVO (V: reached@3, S: chicken@2, O: Europe@4)	SVA (S: Romania@6, V: "is in", C: Ukraine@12)
+169	SVC (S: Food@7, V: "is", C: .1@16)
+170	SVA (V: came@7, S: Introduction@3, A!: far@8, A?: later@9, A?: about@11)
+171	SVO (V: spread@2, S: Phoenicians@1, O: chickens@3, A?: along@4, A?: to@9)
+172	SVA (V: "be increased", S: Breeding@1, A!: under@3)
+173	SVA (V: go@6, S: traces@3, A!: back@7, A?: to@8)	SVA (V: went@20, S: chicken@19, A!: in@23)
+174	SVO (V: reached@3, S: chicken@2, O: Egypt@4, A?: for@5)	SVOC (V: became@15, S: chicken@2, O: Egypt@4, A?: for@5, XCOMP: bred@17)	SVA (V: "be fighting", S: cock@8, O: BC@12)
+175	SVA (V: known@3, S: Little@1, A!: about@4)	SVO (S: chicken@6, V: "has", O: introduction@8)
+176	SVA (V: been@15, S: ways@3, A!: through@16)
+177	SVA (V: are@5, S: remains@4, A!: from@6)	SVA (V: back@19, S: remains@4, A?: from@6, A?: date@18, A!: to@20)
+178	SVC (C: discussion@13, V: is@9, S: chicken@2, A?: still@10)	SVA (V: "be found", S: chicken@17, A!: in@21)	SVO (V: suggest@27, S: chicken@17, O: origin@30)
+179	SVO (V: makes@19, S: lack@2, XCOMP: lay@23)	SVO (V: lay@23, S: it@20, O: map@27)	SVA (V: "be threatened", S: breeds@44, A!: by@46)	SVA (V: help@50, S: description@38, A?: also@49, A!: with@51)
+180	SVC (S: thumbrightChickenegg@1, V: "is", C: biology@3)	SVA (V: "be depending", S: eggsvary@5, A!: on@9)	SVA (V: "be ranging", S: _@12, A!: typically@13, A?: from@15)
+181	SVA (V: lay@17, S: birds@16, A!: only@18, A?: complete@23)	SVA (V: lay@17, S: stages@3, A!: only@18, A?: complete@23)	SVC (C: complete@23, V: is@22, S: clutch@21)	SVO (V: incubate@29, S: they@26, A-: then@28, O: eggs@32)
+182	SVO (V: do@6, S: hens@3, A?: also@5, O: this@7)	SVOC (V: said@12, S: hens@3, A?: also@5, O: this@7, A-: then@11, XCOMP: go@15)
+183	SVO (V: stop@5, S: hen@3, XCOMP: laying@6)	SVA (V: focus@10, S: stop@5, A!: on@11)	SVOC (C: eggs@25, V: is@21, S: clutch@20, O: eggs@16)
+184	SVO (V: sit@4, S: She@1, XCOMP: protesting@14)	SVOA (V: set@8, S: She@1, A!: on@10, XCOMP: protesting@14)	SVOC (V: leave@28, S: she@25, A!: rarely@27, O: nest@30, XCOMP: eat@32)
+185	SVO (V: maintains@6, S: hen@5, A?: brooding@2, O: nest@8, A?: at@9)
+186	SVO (V: place@8, S: owner@6, A?: stimulate@2, O: eggs@11)	SVOC (V: stop@18, S: owner@6, A?: stimulate@2, O: eggs@11, O: it@19, CCOMP: place@22)	SVOA (V: place@22, S: they@20, O: hen@24, A!: in@25)
+187	SV (V: hatch@21, S: eggs@15, A?: At@1)
+188	SVO (V: starts@5, S: Development@1, CCOMP: begins@9)	SVA (V: begins@9, S: incubation@8, A?: only@6, A?: when@7, A!: hatch@14)	SVA (V: hatch@14, S: they@12, A!: within@15, A?: despite@24)	SVA (V: two@19, S: they@12, A?: within@15, A!: of@20, A?: despite@24)
+189	SVO (V: hear@7, S: hen@5, A?: Before@1, O: chicks@9)	SVOC (V: cluck@18, S: hen@5, A?: Before@1, O: chicks@9, A?: gently@17, XCOMP: stimulate@20)	SVA (V: "be peeping", S: chicks@9, A!: inside@11)	SVO (S: their@26, V: "has", O: shells@27)
+190	SVA (V: begins@3, S: chick@2, A!: by@4)	SVO (S: its@14, V: "has", O: tooth@16)
+191	SVO (V: rest@5, S: chick@2, A-: then@4, A?: for@6, CCOMP: absorbing@10)
+192	SVO (V: enlarges@3, S: It@1, A-: then@2, O: hole@5)	SV (V: goes@12, S: it@11)	SVA (V: "be make", S: severing@16, A!: completely@23, O: lid@27)
+193	SVA (V: crawls@2, S: It@1, A!: out@3)	SVA (V: wet@11, S: It@1, A?: out@3, A!: down@12)	SVO (S: its@10, V: "has", O: wet@11)
+194	SVA (V: stay@8, S: chick@3, A?: usually@7, A!: on@9, A?: for@12, A?: after@16)	SVO (V: live@30, S: chicks@29, A?: during@23, O: yolk@34)	SVO (V: absorb@36, S: they@35, A?: before@38, O: yolk@34)
+195	SVA (V: "be fertilized", S: eggs@2, A!: by@5)	SV (V: hatch@10, S: eggs@2)	SVO (V: loses@16, S: hen@14, A?: eventually@15, O: interest@17, A?: in@18)	SVOC (V: leaves@21, S: hen@14, A?: eventually@15, O: interest@17, A?: in@18, O: nest@23)
+196	SVO (V: guards@7, S: hen@5, A?: After@1, A?: fiercely@6, O: chicks@9)	SVO (V: will@12, S: hen@5, A?: After@1, A?: fiercely@6, O: chicks@9)	SV (V: warm@20, S: them@19)
+197	SVOA (V: leads@2, S: She@1, O: them@3, A!: to@4)	SVO (V: call@11, S: she@9, O: them@12, A?: to@13)	SVOC (V: feeds@19, S: she@9, O: them@12, A?: to@13, A!: seldom@18, O: them@20, A?: directly@21)
+198	SVO (V: continues@2, S: She@1, XCOMP: care@4, A?: old@12)	SVC (C: old@12, V: are@9, S: they@8, A?: weeks@11, A?: lose@18)	SVO (V: lose@18, S: she@15, A?: when@14, A?: gradually@17, O: interest@19)	SVOC (V: start@22, S: she@15, A?: when@14, A?: gradually@17, O: interest@19, A?: eventually@21, XCOMP: lay@24)
+199	SVC (V: go@5, S: breeds@3, A!: rarely@4, ACOMP: broody@6)	SVC (V: those@9, S: breeds@3, A!: rarely@4, ACOMP: broody@6)	SVO (V: stop@13, S: those@9, A?: often@12, O: part-way@14, A?: through@15)
+200	SVC (V: go@24, S: breeds@11, A?: However@1, A?: regularly@23, ACOMP: broody@25)	SVO (V: make@29, S: they@28, O: mothers@31)
+201	SVA (V: hatched@6, S: eggs@2, A?: also@4, A!: under@7, A?: with@12)
+202	SVC (S: paleComb@11, V: "is", C: anatomy@13)	SVO (V: comb@15, S: chicken@4, O: roosteron@19, A?: for@36)	SVO (S: their@38, V: "has", O: meat@39)	SVO (S: their@41, V: "has", O: eggs@42)
+203	SVO (V: raised@7, S: majority@3, XCOMP: using@8)
+204	SVO (S: world@11, V: "has", O: meat@14)	SVO (V: produced@22, S: percent@8, A?: According@1, O: way@24)
+205	SVC (C: farming@10, V: is@7, S: alternative@2)
+206	SVA (V: led@8, S: Friction@1, A!: to@9)
+207	SVO (V: argue@5, S: Opponents@1, CCOMP: harms@8)	SVC (C: inhumane@18, V: is@17, S: Opponents@1, CCOMP: harms@8)	SVOC (V: creates@12, S: Opponents@1, CCOMP: harms@8, O: risks@15)	SVO (V: harms@8, S: it@7, O: environment@10)
+208	SVO (V: say@5, S: Advocates@1, CCOMP: save@11)	SVO (S: their@7, V: "has", O: systems@10)	SVA (V: "be stating", S: systems@10, CCOMP: looked@26)	SVO (V: save@11, S: systems@10, O: resources@15, A?: due@16, A?: stating@21)	SVA (V: looked@26, S: animals@24, A!: after@27)
+209	EXISTENTIAL (V: is@21, S: movement@24)
+210	SVO (V: involves@2, S: This@1, XCOMP: keeping@3)	SV (V: produced@47, S: eggs@42)
+211	SVA (V: "be farmed", S: Chickens@2, A!: for@4)	SVO (V: called@7, S: Chickens@2, XCOMP: chickens@9)
+212	SVA (V: live@4, S: Chickens@1, A?: naturally@3, A!: for@5)	SVA (V: "be reach", S: chickens@13, O: size@23)	SVA (V: take@15, S: chickens@13, A?: typically@14, A!: weeks@19, A?: reach@21)
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	SVA (V: slaughtered@12, S: range@4, A?: usually@10, A!: at@13)
+222	SVA (V: farmed@2, S: Chickens@1, A!: for@3)
+223	SVO (V: consumes@7, S: UK@5, A?: In@1, O: eggs@11)
+224	SVA (V: produce@5, S: breeds@3, A!: over@6)
+225	SVO (S: hen@9, V: "has", O: ability@12)	SVO (V: starts@13, S: ability@12, XCOMP: decline@15)	SVOC (C: unviable@23, V: is@22, S: flock@21, A?: where@19, O: point@18)
+226	SVC (C: infirm@11, V: are@9, S: Hens@1, A?: sometimes@10)	SVOC (C: lost@14, V: are@9, S: Hens@1, A?: sometimes@10, O: amount@17)	SVO (S: their@19, V: "has", O: feathers@20)	SVO (S: their@23, V: "has", O: expectancy@25)	SVA (V: reduced@28, S: expectancy@25, A!: from@29, A?: to@33)
+227	
+228	
+229	SVA (V: weeks@5, S: London@3, A!: live@7)	SVA (V: "be live", S: weeks@5, O: Browne@9)
+230	
+231	SVA (V: weeks@5, S: London@3, A!: live@7)	SVA (V: "be live", S: weeks@5, O: Browne@9, A!: laying@18)	SVA (V: "be laying", S: live@7, O: hens@19)
+232	SVA (V: "be reinvigorate", S: flocks@6, O: egg-laying@19)	SVO (V: force@9, S: flocks@6, A?: In@1, A?: sometimes@8, O: moulted@10, A?: reinvigorate@18)
+233	SVO (V: involves@2, S: This@1, O: withdrawal@4)	SVC (S: water@10, V: "is", C: D.@19)
+234	
+235	
+236	
+237	SVO (S: World@1, V: "has", O: Journal@5)	SVC (S: Journal@5, V: "is", C: 67@7)	SVC (S: loss@18, V: "is", C: Webster@25)	SVC (S: loss@18, V: "is", C: A.B.@27)
+238	
+239	
+240	SVC (S: Science@2, V: "is", C: 82@4)	SVC (S: Molino@15, V: "is", C: A.B.@17)
+241	SVC (S: Garcia@2, V: "is", C: E.A.@4)
+242	SVC (S: Berto@2, V: "is", C: D.A.@4)
+243	SVC (S: Pelícia@2, V: "is", C: K.@4)
+244	SVC (S: Silva@2, V: "is", C: A.P.@4)
+245	
+246	
+247	
+248	SVC (S: Journal@2, V: "is", C: 11@7)	SVO (V: reflect@12, S: 109-113@9, A?: presumably@11, O: practice@14)
+249	SVOC (V: stimulates@2, S: This@1, O: hen@4, XCOMP: lose@6)	SVOC (V: reinvigorates@12, S: This@1, O: hen@4, XCOMP: lose@6, O: egg-production@13)	SVO (S: her@7, V: "has", O: feathers@8)
+250	SVC (C: moulted@6, V: be@4, S: flocks@2, A?: force@5, A?: times@8)
+251	SVA (V: moulted@12, S: %@7, A?: In@1, A!: in@13)
+252	SVC (S: Yousaf@1, V: "is", C: M.@3)
+253	SVC (S: Chaudhry@2, V: "is", C: A.S.@4)
+254	
+255	SVA (V: "be changing", S: History@1, O: scenarios@4, A!: induce@9)	SVA (V: "be induce", S: changing@3, O: moulting@10, A!: in@11)
+256	SVO (S: World@1, V: "has", O: Journal@5)	SVC (S: Journal@5, V: "is", C: 64@7)
+257	SVA (V: occur@4, S: Incubation@1, A?: successfully@3, A!: artificially@5, A?: in@6)	SVO (V: provide@9, S: machines@7, O: environment@14)
+258	
+259	
+260	
+261	
+262	
+263	
+264	
+265	
+266	
+267	
+268	
+269	
+270	SVC (S: Service@7, V: "is", C: http@13)
+271	
+272	
+273	
+274	
+275	
+276	
+277	
+278	
+279	
+280	SVC (C: days@10, V: is@8, S: period@5)	SVC (C: depend@13, V: is@8, S: period@5, A?: on@14, A?: in@19)
+281	SVC (C: factor@7, V: is@3, S: regulation@2, A?: for@8)
+282	
+283	
+284	SVO (V: reduce@6, S: C@4, O: rates@8)
+285	SVC (C: important@4, V: is@2, S: Humidity@1, A?: also@3, A?: depends@15)	SVOO (V: lose@11, S: eggs@10, A?: at@8, O: water@12, A?: by@13, IO: rate@7)	SVA (V: depends@15, S: rate@7, A!: on@16)
+286	SVA (V: assessed@4, S: Evaporation@1, A!: by@5)
+287	SVA (V: increased@5, S: humidity@2, A!: to@6, A?: in@10)	SVA (V: "be keep", S: incubation@16, O: membrane@20, A!: around@21, A?: from@25)
+288	SVC (C: usual@4, V: is@3, S: humidity@2, A?: in@5, XCOMP: ensure@11)
+289	SVO (V: influence@11, S: position@2, A?: also@10, O: rates@13)
+290	SVA (V: placed@8, S: eggs@5, A?: For@1, A!: with@9)	SVA (V: turned@15, S: eggs@5, A?: For@1, A?: with@9, A!: regularly@16, A?: until@25)
+291	SV (V: turned@6, S: eggs@3)	SVA (V: stick@12, S: inside@10, A?: turned@6, A!: to@13)	SVA (V: hatch@18, S: inside@10, A?: turned@6, A?: to@13, A!: with@19)
+292	SVC (C: necessary@4, V: is@3, S: ventilation@2, XCOMP: provide@6)
+293	SVO (V: require@3, S: eggs@2, O: ventilation@5)
+294	SVC (C: industrial-sized@5, V: are@4, S: incubators@3, A?: with@6, A?: at@14, A?: with@18)
+295	SVC (C: boxes@4, V: are@3, S: incubators@2, A?: holding@5)	SVA (V: "be holding", S: boxes@4, A!: from@6, A?: to@10)	SV (V: powered@18, S: they@14, A?: usually@16, A?: electrically@17)	SVA (V: heated@26, S: some@24, A?: in@21, A!: with@27)
+296	SVC (S: Egg@1, V: "is", C: food@3)
+297	
+298	SVA (V: used@5, S: eggs@2, A?: widely@4, A!: in@6)
+299	SV (V: scrambled@4, S: Eggs@1)	SV (V: fried@6, S: Eggs@1)
+300	SVO (V: contains@8, S: albumen@2, O: protein@9)	SVO (V: used@19, S: albumen@2, O: protein@9, A?: in@20, A?: separately@22, A?: from@23)
+301	SV (V: aerated@5, S: whites@2)	SVA (V: used@17, S: whites@2, A?: often@16, A!: in@18)	SVA (V: whipped@7, S: whites@2, A!: to@8)	SV (V: consistency@13, S: whites@2)
+302	SVA (V: used@6, S: shells@3, A?: sometimes@5, A!: as@7)
+303	SVO (V: prefer@3, S: people@2, XCOMP: have@6)	SVOC (V: raise@11, S: people@2, XCOMP: have@6, O: it@12, A?: for@13)
+304	SVC (S: Chicken@1, V: "is", C: food@3)
+305	SV (V: called@8, S: meat@2, A?: also@7)
+306	SVO (S: its@3, V: "has", O: cost@6)	SVC (C: one@10, V: is@9, S: chicken@8, A?: of@2, A?: of@11)
+307	SVA (V: used@9, S: parts@3, A?: Nearly@1, A!: for@10)	SVA (V: cooked@18, S: meat@15, A!: in@19)
+308	SVO (V: include@4, S: dishes@3, O: chicken@6)	SVOC (V: fried@8, S: dishes@3, O: chicken@6, O: chicken@9)
+309	SVC (C: staple@5, V: is@2, S: Chicken@1, A?: also@3, A?: of@6)
+310	SVA (V: kept@7, S: Chickens@1, A?: sometimes@6, A!: as@8)	SVA (V: tamed@13, S: Chickens@1, A?: sometimes@6, A?: as@8, A!: by@14)	SVC (V: become@22, S: roosters@19, A?: sometimes@21, ACOMP: aggressive@23)	SVC (V: noisy@25, S: roosters@19, A?: sometimes@21, ACOMP: aggressive@23, A?: curbed@31)	SVA (V: curbed@31, S: aggression@28, A!: with@32)
+311	SVA (V: advised@3, S: Some@1, A!: against@4)
+312	SVC (C: docile@15, V: are@13, S: breeds@2, A?: however@4, A?: as@7, A?: generally@14)	SVC (C: recommended@19, V: are@13, S: breeds@2, A?: however@4, A?: as@7, A?: generally@14, A?: often@18, A?: as@20)
+313	
+314	
+315	
+316	
+317	SVOO (V: find@12, S: people@11, O: chickens@13, IO: chickens@9)
+318	
+319	
+320	
+321	
+322	
+323	
+324	SVOC (C: susceptible@13, V: are@12, S: Chickens@11, A?: to@14, O: Concerns@9)
+325	SVA (V: affected@8, S: they@5, A?: Despite@1, A!: by@9)	SVC (C: restricted@15, V: is@13, S: chickenpox@10, A?: generally@14, A?: to@16)
+326	
+327	
+328	
+329	SVC (S: TM@9, V: "is", C: R.@15)
+330	
+331	
+332	
+333	SVC (S: TM@9, V: "is", C: R.@15)
+334	SVO (V: affect@8, S: diseases@6, O: chickens@9)	SVA (V: shown@11, S: Some@2, A!: below@12)	SVO (V: has@18, S: chicken@17, A?: In@14, O: significance@20, A?: during@21)
+335	SVO (V: considered@4, S: chicken@2, XCOMP: channel@6)	SVC (C: present@13, V: be@12, S: channel@6, A?: during@14)
+336	SVC (C: tethered@4, V: is@3, S: chicken@2, A?: by@5)	SVC (C: kept@9, V: is@3, S: chicken@2, A?: by@5, ACOMP: present@10, XCOMP: ensure@18)	SVO (S: its@15, V: "has", O: duration@16)	SVA (V: go@27, S: ceremony@26, A!: into@28)	SV (V: present@36, S: members@35)
+337	SVO (V: taken@5, S: chicken@2, A-: then@4, O: home@6)	SVO (S: its@10, V: "has", O: life@12)
+338	SVA (V: used@10, S: chicken@6, A?: In@1, A?: normally@9, A!: for@11, A?: considered@19)	SVO (V: considered@19, S: it@16, A?: perhaps@14, A?: still@18, XCOMP: animal@22)
+339	SVO (S: its@3, V: "has", O: valor@4)	SVA (V: found@9, S: cock@7, A?: of@2, A!: as@10)
+340	SVC (C: cure@7, V: was@5, S: death@4, A?: for@8)
+341	SVO (V: believed@3, S: Greeks@2, CCOMP: afraid@8)	SVC (C: afraid@8, V: were@7, S: lion@6, A?: of@9)
+342	SVO (S: Aesop@3, V: "has", O: reference@6)
+343	SVO (V: prophesied@7, S: Jesus@6, A?: In@1, O: betrayal@9, A?: by@10)	SVA (V: "be answered", S: Jesus@14)	SVOC (V: tell@19, S: I@18, O: you@20, A?: crows@27, CCOMP: deny@32)	SVC (S: you@20, V: "is", C: Peter@22)	SVA (V: crows@27, S: rooster@26, A!: today@28)	SVO (V: deny@32, S: you@30, O: times@34)	SVO (V: know@37, S: you@36, O: me@38)
+344	SV (V: happened@9, S: Luke@4, A-: Thus@7)	SV (V: happened@9, S: it@8, A-: Thus@7)	SVA (V: cried@17, S: Luke@11, A!: bitterly@18)
+345	SVO (V: made@2, S: This@1, O: cock@4)
+346	SVOC (V: compares@4, S: Jesus@3, A?: Earlier@1, O: himself@5, A?: to@6, A?: talking@11, O: Jerusalem@17)	SVA (S: Jerusalem@17, V: "is in", C: Jerusalem@19)	SVC (S: Jerusalem@17, V: "is", C: you@21)	SVO (V: kill@23, S: you@21, O: prophets@25)	SVA (V: "be sent", S: those@28, A!: to@30)	SVO (V: longed@37, S: I@35, A?: often@34, XCOMP: gather@39, A?: gathers@47)	SVO (S: your@40, V: "has", O: children@41)	SVO (V: gathers@47, S: hen@46, O: chicks@49, A?: under@50)	SVO (S: her@48, V: "has", O: chicks@49)	SVO (S: her@51, V: "has", O: wings@52)	SVC (C: willing@58, V: were@56, S: you@55)
+347	
+348	SVO (V: believed@11, S: devil@9, A?: In@1, XCOMP: flee@13)
+349	SVA (V: swung@10, S: animal@8, A?: In@1, A!: around@11, A?: Day@25)	SVA (V: slaughtered@16, S: animal@8, A?: In@1, A?: around@11, A-: then@15, A!: on@17, A?: Day@25)	SVA (V: "be called", S: ritual@31)
+350	SVA (V: used@7, S: chicken@2, A?: typically@6, A!: available@12)	SVC (C: available@12, V: is@10, S: it@9, A?: commonly@11)
+351	SVC (V: is@6, S: sacrifice@2, XCOMP: receive@8)	SVO (S: person@19, V: "has", O: sins@21)
+352	SVA (V: donated@5, S: meat@2, A-: then@4, A!: to@6)
+353	SVOA (V: brings@3, S: woman@2, O: hen@5, A!: for@6, A?: brings@13)	SVO (V: brings@13, S: man@12, O: rooster@15)
+354	SVOO (V: reminds@16, S: death@12, O: sinner@19, IO: sacrifice@5)	SVO (S: her@23, V: "has", O: life@24)	SVA (V: is@25, S: his@21, A!: in@26)	SVO (S: God@27, V: "has", O: hands@29)
+355	SVA (V: speaks@3, S: Talmud@2, A!: of@4)	SVO (S: one@9, V: "has", O: mate@11)	SVC (S: rooster@15, V: "is", C: 100b@18)
+356	SVA (V: refer@3, S: This@1, A!: to@4)	SVO (V: finds@11, S: rooster@10, A?: when@8, O: something@12)	SVO (V: calls@18, S: he@17, A?: finds@11, XCOMP: eat@22)	SVO (S: his@19, V: "has", O: hens@20)	SVA (V: eat@22, S: hens@20, A!: first@23)
+357	SVC (C: one@4, V: is@3, S: chicken@2, A?: of@5)
+358	SVA (V: limited@15, S: chicken@8, A?: Also@1, A?: in@2, A?: usually@14, A!: to@16)
+359	SVC (C: one@9, V: are@7, S: deities@2, A?: of@10)
+360	SVA (V: presented@10, S: offering@6, A?: Under@1, A!: with@11)	SVA (V: offered@21, S: pork@19, A!: during@22)
+361	
+362	
+363	SVA (V: "be attend", S: death@2, O: ceremony@7)
+364	SVA (V: placed@6, S: scarf@4, A!: on@7)	SVO (S: chicken@9, V: "has", O: head@11)	SVO (V: holds@20, S: relative@15, O: chicken@22, A?: proceed@27)	SV (V: proceed@27, S: ceremony@25)
+365	SVC (C: rare@6, V: is@5, S: practice@4, A?: However@1, A?: today@7)
+366	SVO (V: supposed@4, S: cockatrice@2, XCOMP: born@8)	SVA (V: "be laid", S: egg@11, A!: by@13)	SVO (S: Rooster@23, V: "has", O: call@25)
+367	SVOC (C: probable@12, V: is@11, S: domestication@5, O: Junglefowl@2)	SVC (S: chicken@19, V: "is", C: manuk@22)	SVC (C: part@25, V: is@24, S: word@16, A?: of@26)
+368	SVC (C: animals@12, V: were@9, S: Chickens@1, A?: of@13)	SVC (S: animals@12, V: "is", C: culture@21)
+369	SVA (V: found@9, S: pictures@3, A!: on@10)
+370	SVO (V: calls@17, S: Cratinus@3, O: chicken@19)
+371	SVO (S: Aristophanes@2, V: "has", O: Birds@6)	SVC (S: Birds@6, V: "is", C: BC@9)	SV (V: called@14, S: chicken@12, A?: In@1)	SVA (V: points@22, S: bird@18, A!: to@23)
+372	SVA (V: found@5, S: Pictures@1, A!: on@6)
+373	SVC (C: rare@8, V: were@6, S: chickens@5, A?: In@1, A?: still@7)	SVC (C: food@14, V: were@6, S: chickens@5, A?: In@1, A?: still@7, A?: for@15)
+374	SVC (V: seems@2, S: Delos@1, XCOMP: center@7)
+375	SVOC (V: used@3, S: Roman@2, O: chickens@4, A?: for@5, O: both@8)	SVC (S: auspicium@24, V: "is", C: Alectryomancy@29)
+376	SVC (S: hen@2, V: "is", C: gallina@5)	SVO (V: gave@8, S: hen@2, O: omen@11, A?: appearing@20)
+377	
+378	
+379	
+380	
+381	
+382	
+383	SV (V: used@6, S: bird@3)	SV (V: consulted@18, S: chickens@11)
+384	SVA (V: cared@4, S: chickens@2, A!: for@5)	SVO (V: opened@11, S: pullarius@8, O: cage@13)	SVOC (V: fed@15, S: pullarius@8, O: cage@13, O: pulses@17, A?: needed@29)	SVO (S: their@12, V: "has", O: cage@13)	SV (V: pulses@17, S: them@16)	SV (V: needed@29, S: augury@27, A?: when@25)
+385	SVA (V: stayed@4, S: chickens@3, A!: in@5)	SVO (S: their@6, V: "has", O: cage@7)	SVC (S: noises@10, V: "is", C: occinerent@13)	SVO (S: their@18, V: "has", O: wings@19)	SVC (C: bad@27, V: was@26, S: omen@25, CCOMP: made@9)	SVA (V: ate@31, S: they@30, A!: greedily@32)	SVC (C: good@37, V: was@36, S: omen@35, A?: ate@31)
+386	SVOC (V: had@11, S: Pulcher@10, A?: In@1, O: chickens@13, A?: refused@18, XCOMP: saying@27)	SVO (S: his@12, V: "has", O: chickens@13)	SVA (V: "be thrown", S: chickens@13, A!: overboard@15)	SVO (V: refused@18, S: they@17, A?: when@16, XCOMP: feed@20)	SV (V: eat@33, S: they@30)	SV (V: drink@38, S: they@36, A?: perhaps@35)
+387	SVO (V: lost@4, S: He@2, A?: promptly@3, O: battle@6)	SV (V: sunk@15, S: Carthaginian@9)
+388	SVA (V: tried@7, S: he@5, A?: Back@1, A!: for@8)
+389	SVO (V: passed@8, S: law@6, A?: In@1, A?: in@9, CCOMP: forbade@12)	SVO (V: forbade@12, S: that@11, O: consumption@14)
+390	SVO (V: renewed@3, S: It@1, O: number@5)	SVOC (V: seem@12, S: It@1, O: number@5, XCOMP: successful@16)
+391	SVA (V: "be soaked", S: bread@4, A!: in@6)	SVO (V: thought@9, S: Fattening@1, XCOMP: give@11)
+392	SVO (V: offers@5, S: Apicius@4, O: recipes@7)
+393	SV (V: used@7, S: parts@2)	SVO (V: include@11, S: recipe@10, O: the@12)	SVO (V: attach@35, S: feathers@34, A?: where@31, O: chicken@30)
+394	SVO (V: gives@5, S: Columella@4, O: advice@6, A?: in@10)	SVO (S: his@11, V: "has", O: book@13)	SVO (S: his@15, V: "has", O: treatise@16)
+395	SVO (V: identifies@2, S: He@1, O: Tanagrian@3)	SVC (S: breeds@16, V: "is", C: nature@26)	SVO (V: have@19, S: breeds@16, O: appearance@22)
+396	SVC (V: are@9, S: chickens@8, XCOMP: preferred@12)
+397	SVC (C: nice@4, V: are@3, S: chickens@2, XCOMP: watch@6, A?: of@8)	SVOC (C: have@12, V: are@3, S: chickens@2, XCOMP: watch@6, A?: of@8, O: advantages@15)	SVO (S: their@9, V: "has", O: size@10)
+398	SVC (S: Columella@2, V: "is", C: flock@6)	SVA (V: consists@7, S: Columella@2, A!: of@8)	SVA (V: supervised@15, S: birds@10, A!: by@16, A?: watching@22)	SVA (V: watching@22, S: someone@20, A!: for@23)
+399	SVA (V: avoided@5, S: chickens@2, A!: fertile@11)	SVA (V: caught@15, S: chickens@2, A?: fertile@11, A?: easily@14, A!: by@16)	SVC (C: fertile@11, V: are@8, S: they@7, A?: very@10)
+400	SVA (V: kept@5, S: cock@2, A!: for@6)
+401	SVC (C: heavy@12, V: are@10, S: cocks@8, A?: very@11)	SVA (V: kept@25, S: hens@23, A?: In@1, A!: per@26)
+402	SVC (C: much@8, V: are@6, S: hens@2)	SVO (S: their@14, V: "has", O: eggs@15)	SVA (V: hatched@18, S: eggs@15, A?: therefore@13, A?: best@17, A!: by@19)
+403	SVO (V: hatch@4, S: hen@2, O: eggs@9, A?: depending@11)	SVOC (V: supervise@19, S: hen@2, O: eggs@9, A?: depending@11, O: hatchlings@24)
+404	SVC (C: long@4, V: are@3, S: Eggs@1)	SVO (V: rounded@11, S: Eggs@1, O: eggs@12)
+405	SVO (V: face@7, S: coops@5, O: southeast@8, A?: beneficial@19)	SVO (V: lie@10, S: coops@5, O: southeast@8, ACOMP: adjacent@11, A?: beneficial@19)	SVC (C: beneficial@19, V: is@18, S: smoke@17, A?: for@20)
+406	SVA (V: consist@3, S: Coops@1, A!: of@4)	SVO (V: possess@8, S: Coops@1, A?: of@4, O: hearth@10)
+407	SVA (V: provided@7, S: dust@2, A!: for@8)
+408	SVA (V: fed@8, S: chicken@5, A?: According@1, A!: on@9, A?: cheap@24)	SVC (C: cheap@24, V: are@23, S: they@22)
+409	SVA (V: avoided@5, S: Wheat@1, A!: harmful@9)	SVC (C: harmful@9, V: is@8, S: it@7, A?: to@10)
+410	
+411	
+412	
+413	SV (V: used@5, S: marc@2)	SVO (V: stop@12, S: hens@11, A?: only@8, A?: when@9, XCOMP: laying@13)	SVC (C: small@28, V: is@17, S: that@16, A?: about@19)	SVC (C: small@28, V: is@17, S: eggs@26, A?: about@19)
+414	SVA (V: "be feeding", S: it@6, O: marc@4)	SVA (V: supplemented@9, S: it@6, A?: When@1, A?: feeding@2, A!: with@10)
+415	SVO (V: start@2, S: Hens@1, XCOMP: lay@4, A?: in@11, A?: in@20)
+416	SVO (V: increases@3, S: barley@2, O: fertility@5)	SVO (S: their@4, V: "has", O: fertility@5)	SVA (V: mixed@10, S: this@7, A!: with@11)	SVA (V: is@23, S: alfalfa@22, A!: at@25)
+417	SVO (V: receive@6, S: Free@1, O: cups@8, A?: daily@11)
+418	SVO (V: advises@2, S: Columella@1, O: farmers@3, A?: to@4, A?: produce@18)	SVC (C: older@9, V: are@8, S: hens@6, A?: than@10)	SVO (V: produce@18, S: they@15, A?: longer@17, O: eggs@20)
+419	SVA (V: produced@3, S: Capons@1, A!: by@4)	SVO (S: their@7, V: "has", O: spurs@8)
+420	SVA (V: treated@4, S: wound@2, A!: with@5)	SVO (S: potter@6, V: "has", O: chalk@8)
+421	
+422	SVA (V: spread@3, S: Chickens@1, A!: by@4)	SVO (V: reached@8, S: Chickens@1, A?: by@4, O: Island@10, A?: in@11, A?: with@25)	SVOC (C: animal@23, V: were@19, S: they@18, A?: where@17, O: AD@15)	SVC (S: Rat@32, V: "is", C: exulans@35)
+423	SVA (V: housed@3, S: They@1, A!: in@4)	SVA (V: "be built", S: coop@8, A!: from@10)
+424	SVO (V: has@7, S: variety@3, O: origins@9)	SVO (S: its@8, V: "has", O: origins@9)	SVA (V: "be bred", S: araucana@15, A!: in@18, A?: by@21)	SVC (C: araucana@15, V: is@13, S: variety@3, A?: bred@17)
+425	SVOC (C: tailless@7, V: are@6, S: some@3, O: Araucanas@1)	SVO (V: have@12, S: some@9, O: tufts@13)	SVO (S: their@17, V: "has", O: ears@18)	SVO (V: lay@20, S: Araucanas@1, O: eggs@22)
+426	SVO (V: suggested@5, S: It@1, A?: long@3, CCOMP: predate@8)	SVO (V: predate@8, S: they@7, O: arrival@10)	SVOC (C: evidence@20, V: are@19, S: they@7, O: arrival@10, A?: of@21)	SVA (V: "be brought", S: chickens@13, A!: by@15)	SVC (S: contacts@24, V: "is", C: Polynesians@34)
+427	SVO (V: reported@9, S: team@6, A?: In@1, O: results@11)	SVA (V: "be found", S: bones@16, A!: on@18, A?: in@22)
+428	SVA (V: "be dating", S: Radiocarbon@1)	SVO (V: suggested@3, S: Radiocarbon@1, CCOMP: Pre-Columbian@8)	SVC (C: Pre-Columbian@8, V: were@7, S: chickens@6)	SVO (V: showed@13, S: analysis@12, CCOMP: related@17)	SVA (V: related@17, S: they@15, A!: to@18)
+429	SVC (S: Borrell@2, V: "is", C: Nature@4)	SVC (S: Borrell@2, V: "is", C: June@7)
+430	
+431	SVC (V: appeared@3, S: results@2, XCOMP: confirm@5)	SVA (V: came@9, S: chickens@8, A!: from@10)	EXISTENTIAL (V: were@15, S: contacts@17)	SVO (S: Columbus@24, V: "has", O: arrival@26)
+432	
+433	
+434	
+435	SVC (S: Proceedings@18, V: "is", C: www.pnas@32)
+436	
+437	SVA (V: Brought@12, S: Wilford@4, A!: from@13)
+438	SVA (V: "be looking", S: report@5, A!: at@7)	SV (V: concluded@11, S: report@5, A?: However@1)	SVO (V: cluster@27, S: specimen@20, A?: also@26, A?: with@28, XCOMP: providing@36)
+439	
+440	SVO (V: casts@13, S: Modeling@1, O: doubt@15, A?: on@16)	SVO (V: require@26, S: proof@24, O: analyses@28)
+441	SVA (V: revealed@10, S: origins@5, A!: by@11)
+442	SVC (S: Gongora@3, V: "is", C: J.@6)
+443	SVC (S: Rawlence@1, V: "is", C: A.@4)
+444	
+445	SVC (S: Alcalde@1, V: "is", C: T.@4)
+446	
+447	SVC (S: Austin@1, V: "is", C: J.@7)
+448	SVA (V: revealed@19, S: Anderson@1, A!: by@20)	SVC (S: July@24, V: "is", C: vol@28)
+449	SVO (S: their@6, V: "has", O: gallus@11)	SVO (V: domesticus@12, S: gallus@11, O: Category@15)	SVA (V: "be described", S: Animals@20, A!: in@22)	SVA (V: kept@27, S: Birds@26, A!: as@28)	SV (V: am@39, S: birds@38)	SVC (S: Курыца@82, V: "is", C: птушка@84)	SVC (S: Yar@98, V: "is", C: evn@100)	SVC (S: Iâr@121, V: "is", C: ddof@123)	SV (V: es@146, S: Gal@145)	SVC (S: Koko@153, V: "is", C: birdo@155)	SVC (S: Kip@307, V: "is", C: vogel@309)	SVC (S: Pula@375, V: "is", C: shpend@377)	SVC (S: Bantam@497, V: "is", C: poultry@499)	SVOC (C: chicken@522, V: is@520, S: prize@519, A?: where@517, O: raffle@516)
+450	
+451	

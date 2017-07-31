@@ -1,0 +1,368 @@
+0	SVO (V: _@15, S: beans@2, CCOMP: rubbed@19)	SVC (V: rubbed@19, S: skin@18, ACOMP: loose@20)
+1	SVC (S: bean@2, V: "is", C: bean@6)	SVC (C: seed@29, V: is@22, S: bean@2, A?: of@30)	SVO (V: extracted@42, S: solids@37, A?: from@34, O: seed@29)
+2	SVC (C: basis@4, V: are@2, S: They@1, A?: of@5)
+3	SVC (S: pod@3, V: "is", C: fruit@5)	SVO (V: has@7, S: pod@3, O: rind@11)	SVA (V: varies@18, S: this@17, A!: with@19)
+4	SVA (V: filled@3, S: It@1, A!: with@4)	SVA (V: "be enclosing", S: pulp@8, O: 30@21, A!: to@22)	SVC (C: soft@29, V: are@27, S: seeds@25, A?: fairly@28, XCOMP: pale@33)
+5	SVC (C: white@5, V: are@3, S: seeds@2, A?: usually@4)	SVC (V: become@8, S: they@7, A?: white@5, XCOMP: violet@9, A?: during@13)
+6	SVC (C: varieties@5, V: is@3, S: exception@2, A?: of@6)	SVO (V: remain@14, S: seeds@13, A?: in@10, ACOMP: white@15, O: varieties@5)
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	SVA (V: cultivated@6, S: cacao@4, A!: by@7)
+16	SVC (C: derivative@9, V: is@8, S: January@1, A?: of@10)
+17	SVA (V: refer@7, S: Cocoa@2, A?: often@5, A?: also@6, A!: to@8)	SV (V: http@20, S: Cocoa@2, A?: often@5, A?: also@6, A?: to@8)	SVA (V: "be known", S: drink@10, A!: commonly@11, A?: as@13)
+18	
+19	
+20	
+21	
+22	
+23	SVA (V: "be made", S: powder@8, A!: by@10)
+24	
+25	SVO (S: Your@4, V: "has", O: http@7)
+26	
+27	
+28	SVO (S: Your@4, V: "has", O: http@7)
+29	
+30	SVC (C: native@6, V: is@5, S: tree@4, A?: to@7)
+31	SVA (V: originated@4, S: It@1, A!: in@5)	SVO (V: found@35, S: examples@28, A?: where@25, A?: today@26, A?: still@32, O: Venezuela@23)
+32	SVO (V: had@6, S: it@3, A?: However@1, O: range@9, A?: in@10)	SVA (V: obscured@19, S: evidence@14, A?: had@6, A!: of@21)	SVO (S: its@22, V: "has", O: cultivation@23)	SV (V: arrived@37, S: Spanish@36, A?: after@33)
+33	SV (V: was@2, S: first@3)	SVA (V: "be cultivated", S: first@3, A!: by@5, O: BC@11)
+34	
+35	
+36	
+37	SVC (C: currency@7, V: was@4, S: bean@3, A?: throughout@8, A?: before@10)
+38	SVA (V: grow@4, S: trees@2, A!: in@5, A?: of@11, A?: to@15)
+39	SVA (V: grown@9, S: %@3, A!: in@10)
+40	SVC (C: commodity@5, V: was@2, S: Cocoa@1, A?: in@6)
+41	SVC (C: part@6, V: was@5, S: soldier@3, A?: of@7, A?: by@12)	SVO (V: tells@15, S: soldier@3, CCOMP: took@29)	SVC (S: II@19, V: "is", C: emperor@21)	SV (V: dined@26, S: II@19, A?: when@17)	SVA (V: "be served", S: he@28, A!: in@37)	SVOA (V: took@29, S: he@28, A?: dined@26, O: beverage@32, A!: served@36)
+42	SVO (S: his@8, V: "has", O: chocolate@9)	SVA (V: "be Flavored", S: chocolate@9, A!: with@2)	SVA (V: whipped@11, S: chocolate@9, A?: Flavored@1, A!: into@12)	SVA (V: dissolved@16, S: froth@14, A!: in@17)
+43	SVO (V: reported@3, S: It@1, CCOMP: consumed@15)	SVA (V: consumed@15, S: portions@9, A!: by@16)	SVA (V: more@22, S: portions@9, A?: by@16, A!: by@23)	SVO (S: his@27, V: "has", O: court@28)
+44	SVC (S: Castillo@3, V: "is", C: Bernal@5)	SVC (S: Bernal@5, V: "is", C: 2005@7)	SVC (S: Bernal@5, V: "is", C: 1632@10)
+45	
+46	SVC (S: Gutiérrez@3, V: "is", C: Introduction@5)
+47	SVC (S: Unidos@5, V: "is", C: S.A.@7)
+48	
+49	
+50	SVA (V: introduced@5, S: Chocolate@3, A!: to@6, A?: by@8)	SVC (V: became@13, S: Chocolate@3, A?: to@6, A?: by@8, XCOMP: beverage@16, A?: by@17)
+51	
+52	
+53	
+54	
+55	SVOO (V: introduced@4, S: They@2, A?: also@3, O: tree@7, A?: into@8, IO: 2007-11-08@1)
+56	SV (V: was@4, S: first@5)	SVO (S: its@7, V: "has", O: name@9)	SVO (S: his@17, V: "has", O: classification@19)	SV (V: called@26, S: kingdom@23)
+57	
+58	
+59	
+60	
+61	
+62	
+63	
+64	
+65	
+66	
+67	
+68	SVO (V: produced@13, S: t@8, A?: year@15, O: output@3)
+69	SVC (C: production@6, V: was@4, S: production@3, A?: increased@7)	SVA (V: "be increased", S: production@6, A!: by@8)
+70	SVA (V: "be representing", S: %@1, O: rate@11)
+71	
+72	EXISTENTIAL (V: are@2, S: varieties@5)
+73	SVO (V: used@7, S: first@2, A?: widely@6, XCOMP: comprising@9)
+74	SVA (V: come@8, S: beans@7, A?: Overall@1, A!: from@9)	SVO (V: considered@16, S: variety@12, XCOMP: delicacy@18)
+75	SVO (V: have@3, S: plantation@2, O: yields@5)	SVOC (V: tend@13, S: plantation@2, O: yields@5, A?: also@12, XCOMP: resistant@17)	SVO (V: attack@22, S: diseases@20, O: plant@25)	SVO (V: produce@32, S: countries@30, A?: hence@27, A?: still@31, O: it@33)
+76	SVC (C: Venezuela@10, V: is@9, S: One@1)
+77	SVO (V: cultivates@9, S: José@3, O: beans@11)
+78	SVC (C: hectares@9, V: is@7, S: area@3, A?: with@20)	SVO (V: devoted@16, S: hectares@14, A?: of@11, A?: to@17, O: hectares@9)
+79	
+80	SVC (C: hybrid@4, V: is@2, S: Trinitario@1, A?: between@5)
+81	SVA (V: considered@3, S: It@1, A!: to@4)	SVO (V: has@15, S: It@1, A?: to@4, O: yields@17)
+82	EXISTENTIAL (V: are@2, S: metrics@4)	SVA (V: "be used", S: metrics@4, A!: for@6)
+83	SVO (V: has@3, S: Netherlands@2, O: amount@7)
+84	SVC (C: one@7, V: is@5, S: it@4, A?: also@6, A?: of@8)
+85	SVO (V: has@4, S: States@3, O: amount@6)	SVO (V: has@19, S: US@18, O: amount@22)
+86	SVO (V: has@4, S: Kingdom@3, O: amount@7)
+87	
+88	SVO (S: its@3, V: "has", O: products@4)	SVA (V: used@10, S: Cocoa@1, A!: worldwide@11)
+89	SVA (V: understood@6, S: consumption@3, A?: poorly@5, A!: with@8)	SVO (V: claiming@11, S: countries@10, O: highest@13)	SVOO (V: have@25, S: Switzerland@18, O: consumption@28, IO: reports@16)	SVO (V: claimed@34, S: it@31, CCOMP: speculative@64)	EXISTENTIAL (V: is@38, S: mechanism@41)	SVA (V: "be determine", S: mechanism@41, CCOMP: consumed@52)	SVO (S: country@48, V: "has", O: production@50)	SVA (V: consumed@52, S: much@45, A!: by@53)	SVA (V: much@57, S: much@45, A?: by@53, A?: how@56, A!: by@58)	SVC (C: speculative@64, V: is@62, S: this@61, A?: is@38)
+90	EXISTENTIAL (V: were@2, S: 3.54@3)
+91	SVA (V: "be produced", S: beans@5, A!: in@7)
+92	
+93	
+94	
+95	SV (V: runs@14, S: May@7)
+96	
+97	
+98	SVO (V: produced@7, S: nations@6, A?: Of@1, O: 2.45@8)
+99	SVC (S: tonnes@2, V: "is", C: %@5)	SVC (S: tonnes@2, V: "is", C: Asia@8)	SVO (V: produced@11, S: tonnes@2, O: 0.61@12)
+100	SVC (S: tonnes@2, V: "is", C: %@5)	SVO (V: produced@10, S: Americas@9, O: 0.48@11)
+101	SVC (S: tonnes@2, V: "is", C: %@5)
+102	SVC (S: nations@3, V: "is", C: d'Ivoire@6)	SVO (V: produce@10, S: nations@3, O: half@13, A?: with@20)	SVO (S: world@16, V: "has", O: cocoa@18)
+103	
+104	
+105	SVA (V: are@9, S: countries@5, A!: follows@11)
+106	SVA (V: grow@10, S: pods@2, A!: in@11)
+107	SVC (C: restricted@5, V: is@3, S: harvest@2, A?: to@6)
+108	SVA (V: occurs@3, S: it@2, A?: Usually@1, A!: over@4)	SVA (V: in@8, S: it@2, A?: Usually@1, A?: over@4, A!: countries@10)	SVO (V: harvested@14, S: cocoa@11, A?: at@15, O: countries@10)
+109	SVO (V: have@4, S: pods@3, O: variety@6)	SVOC (C: green@13, V: are@12, S: pods@3, O: variety@6, A?: often@11)	SVO (V: mature@23, S: they@22, CCOMP: tends@26, A?: in@33)	SVO (S: their@24, V: "has", O: color@25)	SVA (V: tends@26, S: color@25, A!: towards@27)	SVO (S: their@34, V: "has", O: creases@35)
+110	
+111	
+112	
+113	
+114	
+115	
+116	
+117	
+118	
+119	
+120	
+121	
+122	
+123	
+124	
+125	
+126	
+127	
+128	
+129	
+130	SVA (V: grows@72, S: pod@71, A!: directly@73, A?: from@74)	SVA (V: from@85, S: pod@71, A?: directly@73, A?: from@74, A!: end@87)
+131	SVO (V: makes@2, S: This@1, O: harvesting@3, A?: by@4)	SVA (V: be@14, S: most@8, A!: up@15, A?: in@16)
+132	SVA (V: ripen@7, S: pods@1, A!: together@8)	SVA (V: "be done", S: needs@11, A!: periodically@15, A?: through@16)
+133	SVA (V: occurs@2, S: Harvesting@1, A!: between@3)
+134	SVO (S: their@10, V: "has", O: color@11)	SVA (V: harvested@14, S: pods@5, A!: from@15, A?: with@24, A?: on@28)
+135	SVA (V: used@4, S: Care@1, A!: cutting@6)	SVA (V: "be avoid", S: cutting@6, XCOMP: injuring@14)	SVA (V: is@26, S: this@25, A!: emerge@33)	SV (V: emerge@33, S: flowers@29, A?: where@27)
+136	
+137	
+138	
+139	
+140	SVOC (V: estimated@60, S: It@58, CCOMP: harvest@64, O: 1855734346@57)	SVO (V: harvest@64, S: person@62, O: pods@66, A?: per@67)
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	SVOC (V: opened@15, S: pods@13, XCOMP: expose@17, O: Institute@3)
+154	SVO (V: contains@4, S: pod@3, O: beans@8)	SVO (V: required@15, S: beans@13, XCOMP: make@17)	SVC (S: pound@19, V: "is", C: 880@21)
+155	SVO (V: weigh@3, S: pods@2, O: average@5)	SVO (V: yields@14, S: pods@2, O: average@5)	SVOO (V: dried@21, S: lb@19, O: beans@22, IO: yields@14)	SVC (C: 40@27, V: is@26, S: yield@25)
+156	SVO (V: estimated@3, S: It@1, CCOMP: separate@7)	SVO (V: separate@7, S: person@5, O: beans@9, A?: from@10)
+157	SVA (V: transported@5, S: beans@3, A-: then@6, A?: to@7, A?: fermented@14)	SVC (C: fermented@14, V: be@13, S: they@11)	SVC (C: dried@16, V: be@13, S: they@11)
+158	SVA (V: fermented@3, S: They@1, A!: for@4)	SVC (C: mixed@12, V: be@11, S: They@1, A?: for@4, A?: days@15)
+159	SVA (V: dried@3, S: They@1, A!: for@4, A?: depending@10)
+160	SV (V: opened@14, S: pods@12, A?: church_Chuao@7, A?: Venezuela@9)	SV (V: removed@27, S: pulp@22)	SV (V: discarded@32, S: rind@30)
+161	SVA (V: piled@7, S: pulp@2, A-: then@6, A!: in@8)
+162	SVO (V: undergo@9, S: seeds@6, A?: During@1, O: sweating@11, A?: liquefies@18)	SVA (V: liquefies@18, S: pulp@17, A?: where@14, A!: ferments@21)	SV (V: ferments@21, S: it@20)
+163	SVA (V: "be leaving", S: trickles@4, O: seeds@9, A!: behind@10)
+164	SVC (C: important@3, V: is@2, S: Sweating@1, A?: for@4)	SVO (V: have@13, S: beans@9, A?: originally@12, O: taste@17)
+165	SVC (C: interrupted@4, V: is@3, S: sweating@2)	SVA (V: ruined@11, S: cocoa@8, A?: interrupted@4, A!: maintains@19)	SVC (S: underdone@14, V: "is", C: seed@18)	SVO (V: maintains@19, S: underdone@14, O: flavor@21)	SVO (V: becomes@27, S: underdone@14, O: flavor@21, ACOMP: susceptible@28)
+166	SVO (V: distil@5, S: countries@4, O: spirits@7, A?: using@8)	SVA (V: "be using", S: countries@4, O: pulp@11)
+167	SVA (V: "be drying", S: thumbrightWoman@1, O: beans@6)	SVA (V: dried@8, S: thumbrightWoman@1, A!: by@9)
+168	SVA (V: done@7, S: this@5, A?: In@1, A!: on@8)
+169	SVO (V: dry@4, S: plantations@2, O: harvest@6, A?: on@7)	SVO (V: on@11, S: plantations@2, O: harvest@6, A?: on@7, A?: cowhide@12)	SVO (S: their@5, V: "has", O: harvest@6)
+170	SVC (C: trodden@6, V: are@5, S: beans@4, A?: Finally@1, A?: about@9, A?: sometimes@18, A?: during@20)	SVC (C: shuffled@8, V: are@5, S: beans@4, A?: Finally@1, A?: about@9, A?: sometimes@18, A?: during@20)	SVA (V: "be mixed", S: clay@25, A!: with@27)	SVO (V: sprinkled@30, S: clay@25, A?: over@31, XCOMP: obtain@35, A?: Netherlands@56)	SVA (S: Netherlands@56, V: "is in", C: Kingdom@59)
+171	SVC (C: preferable@6, V: is@5, S: Drying@1, A?: to@7, A?: as@13)	SVO (V: introduced@23, S: preferable@6, CCOMP: taint@27)	SVO (V: taint@27, S: which@24, A?: otherwise@26, O: flavor@29)
+172	SVC (C: dry@5, V: be@4, S: beans@2, A?: for@6)
+173	SVO (V: shipped@15, S: beans@12, A?: over@7, A?: increasingly@14, A?: in@16, A?: at@26, O: exported@2)	SVO (V: in@33, S: beans@12, A?: over@7, A?: increasingly@14, A?: in@16, A?: at@26, A?: lots@35, A?: in@40, O: exported@2)	SVO (S: Mega-Bulk@18, V: "has", O: parcels@21)
+174	SVO (V: reduces@5, S: Shipping@1, A?: significantly@4, XCOMP: handling@6)	SVO (S: ship@18, V: "has", O: hold@20)	SV (V: found@28, S: shipment@9, A?: still@26, A?: commonly@27)
+175	SVOO (V: have@13, S: customers@11, A?: where@10, O: beans@16, IO: inOaxaca@8)	SVOO (V: saucemole@25, S: customers@11, A?: where@10, O: beans@16, IO: inOaxaca@8)
+176	SVC (C: native@6, V: are@5, S: they@4, A?: where@3)	SVO (V: used@11, S: beans@9, A?: native@6, A?: for@12, O: Mesoamerica@2)
+177	SVC (C: to-order@9, V: be@7, S: beans@5, A?: at@10)
+178	SVO (V: mixed@9, S: cocoa@6, A?: At@1, A?: with@10, XCOMP: create@28)
+179	
+180	SVC (C: ingredient@8, V: is@4, S: cocoa@3, A?: also@5, A?: in@9)
+181	SVA (V: "be make", S: thumbrightChocolate@6, O: kg@10)
+182	SVA (V: processed@11, S: beans@9, A?: of@2, A!: depending@13)
+183	SVC (C: roasted@8, V: are@7, S: beans@6, A?: In@1)
+184	SV (V: cracked@4, S: they@2)	SVA (V: de-shelled@7, S: they@2, A-: then@6, A!: by@8)
+185	SVO (V: called@7, S: pieces@3, XCOMP: nibs@8)
+186	SVOC (V: sold@4, S: They@1, A?: usually@3, A?: in@5, XCOMP: used@15, XCOMP: dishes@22)
+187	SVA (V: are@3, S: nibs@2, A!: directly@4, A?: from@5)	SVO (V: contain@11, S: they@10, A?: are@3, O: amounts@13)
+188	SVC (C: ground@4, V: are@3, S: nibs@2, A?: using@6, A?: into@10)	SVA (V: "be using", S: ground@4, O: methods@8)	SVA (V: "be known", S: paste@14, A!: as@17)
+189	
+190	SVO (V: separated@6, S: it@3, A?: Alternatively@1, A?: into@7, XCOMP: using@13)
+191	SVO (V: produces@3, S: process@2, O: %@6)
+192	SVO (V: has@4, S: powder@3, O: content@7)
+193	SVA (V: used@4, S: butter@2, A!: in@5)
+194	SVO (V: produces@4, S: Treating@1, O: powder@8)	SVC (C: acidic@13, V: is@11, S: powder@8, A?: less@12)	SVC (C: available@25, V: is@23, S: what@22, A?: generally@24, A?: in@26)
+195	SVC (C: acidic@7, V: is@6, S: cocoa@5, CCOMP: described@14)	SVA (V: described@14, S: chocolate@11, A?: usually@13, A!: as@15)	SVC (C: typical@22, V: is@21, S: which@20, A?: of@23, CCOMP: sour@30)	SVC (C: sour@30, V: be@29, S: acidic@27, A-: so@31, A?: treated@35)	SVA (V: treated@35, S: cocoa@33, A?: when@32, A!: with@36)	SVC (S: ingredient@39, V: "is", C: carbonate@43)	SVC (S: ingredient@39, V: "is", C: increases@47)
+196	SVO (V: adding@4, S: March@1, A?: simply@3, O: alkali@5)	SVO (V: increase@7, S: adding@4, O: pH@9)	SVA (V: treated@16, S: cocoa@13, A!: with@18)
+197	SVO (V: helps@4, S: process@2, CCOMP: develop@5)	SV (V: roasting@9, S: process@2)
+198	SVA (V: done@4, S: Roasting@1, A!: on@5, A?: before@9)
+199	SVO (V: affect@8, S: time@2, O: result@10)	SVO (V: produces@17, S: roast@15, O: acid@20, A?: gives@29)	SVC (S: acid@20, V: "is", C: flavor@23)	SVO (V: gives@29, S: roast@28, O: flavor@35)	SVA (V: "be lacking", S: flavor@35, O: notes@39)
+200	SVO (V: contain@4, S: Chocolate@1, O: level@7)	SVO (V: have@16, S: epicatechin@12, O: effects@19, A?: on@20)
+201	SVC (S: D@2, V: "is", C: Effect@9)
+202	
+203	
+204	
+205	
+206	SVC (S: D@2, V: "is", C: Effect@9)
+207	
+208	
+209	
+210	
+211	SVC (S: H@2, V: "is", C: C@5)	SVC (S: H@2, V: "is", C: J@8)	SVC (S: H@2, V: "is", C: al@11)
+212	SVO (V: mediates@6, S: Epicatechin@5, O: effects@8)
+213	
+214	
+215	
+216	
+217	
+218	SVC (S: H@2, V: "is", C: C@5)	SVC (S: H@2, V: "is", C: J@8)	SVC (S: H@2, V: "is", C: al@11)
+219	SVO (V: mediates@6, S: Epicatechin@5, O: effects@8)
+220	
+221	
+222	
+223	
+224	
+225	SVO (V: linked@8, S: intake@2, A?: to@9, A?: noted@18, O: chocolate@32, A?: degrade@36)	SVO (V: noted@18, S: it@15, CCOMP: refers@21)	SVA (V: refers@21, S: this@20, A!: to@22)	SVA (V: degrade@36, S: flavonoids@35, A!: during@37)
+226	
+227	
+228	SVO (S: ills@8, V: "has", O: Studies@12)	SVO (V: found@14, S: nutrient@4, O: benefits@17)
+229	SVOC (V: reduces@11, S: January@1, O: content@15, A?: increasing@19, XCOMP: negating@25)	SVO (S: cocoa@28, V: "has", O: benefits@32)
+230	SVC (S: Serafini@7, V: "is", C: Bugianesi@10)	SVC (S: Serafini@7, V: "is", C: Maiani@13)	SVC (S: Serafini@7, V: "is", C: Valtuena@16)	SVC (S: Serafini@7, V: "is", C: Santis@20)	SVC (S: Serafini@7, V: "is", C: Crozier@23)	SVC (S: Nature@32, V: "is", C: 2003@35)
+231	
+232	
+233	SVO (V: impairs@5, S: milk@4, O: absorption@7)
+234	
+235	SVC (S: epicatechin@4, V: "is", C: J.B.@8)
+236	SVC (S: Keogh@1, V: "is", C: J.@3)
+237	
+238	SVC (S: Polyphenols@14, V: "is", C: Journal@17)	SVC (S: Science@20, V: "is", C: 3@23)
+239	
+240	
+241	
+242	SVO (V: studied@8, S: Hollenberg@1, O: effects@10)	SVO (S: Panama@16, V: "has", O: population@20)	SVC (C: consumers@25, V: are@23, S: population@20, A?: of@26)
+243	SVO (V: found@3, S: researchers@2, CCOMP: had@12)	SVA (V: "be living", S: Indians@7, A!: on@9)	SVO (V: had@12, S: Indians@7, O: rates@15, A?: compared@21)	SVO (V: drink@30, S: mainland@26, O: cocoa@31, A?: as@32)
+244	SVO (V: believed@3, S: It@1, CCOMP: help@15)	SVO (V: help@15, S: flow@8, XCOMP: achieve@17)
+245	SVA (V: extend@7, S: benefits@5, A?: In@1, A!: to@8)	SVO (V: have@12, S: benefits@5, A?: In@1, A?: to@8, O: implications@14)
+246	SVC (S: disease@3, V: "is", C: stroke@5)	SVC (S: J@15, V: "is", C: Med@16)
+247	SVC (S: disease@3, V: "is", C: stroke@5)	SVC (S: J@15, V: "is", C: Med@16)
+248	SVC (V: appear@5, S: Foods@1, XCOMP: reduce@7, CCOMP: may@16)	SVC (S: April@29, V: "is", C: issue@33)	SVC (S: April@29, V: "is", C: one@40)
+249	SVC (S: Botanicals@6, V: "is", C: division@9)
+250	SVO (V: launched@8, S: company@6, O: Cirku@9)	SVC (S: Cirku@9, V: "is", C: extracthigh@13)
+251	
+252	SVC (S: study@3, V: "is", C: EJ@11)
+253	
+254	
+255	
+256	
+257	
+258	
+259	
+260	
+261	
+262	
+263	
+264	SVO (V: found@10, S: published@1, O: reduction@14)	SVA (V: "be consuming", S: men@28, A!: regularly@29, O: cocoa@33)	SVA (V: "be consuming", S: those@37, O: cocoa@41, A!: from@42)
+265	SVC (C: product@5, V: is@2, S: Chocolate@1, A?: with@6, A?: to@10)
+266	SVO (V: contain@6, S: chocolate@3, A?: However@1, O: level@9)	SVC (C: detrimental@25, V: are@24, S: level@9, A?: to@26)
+267	SVO (V: have@4, S: compounds@3, O: effects@6, A?: in@7)	SVA (V: metabolized@15, S: they@10, A?: have@4, A?: efficiently@14, A!: in@16)	SVA (V: lead@21, S: they@10, A?: have@4, A?: efficiently@14, A?: in@16, A!: to@22)	SVA (V: consumed@31, S: they@10, A?: have@4, A?: efficiently@14, A?: in@16, A!: in@32)
+268	SVOC (V: designed@22, S: derivatives@13, A?: However@1, A?: since@3, A?: by@23, XCOMP: suitable@28, XCOMP: enabling@33)
+269	SVOC (V: Treats@6, S: Gourmet@5, O: http@7, O: www.brooksidechocolates.com/fadogbo.html@11)
+270	SVOC (V: Treats@7, S: Gourmet@6, O: http@8, O: www.brooksidechocolates.com/fadogbo.html@12)
+271	SVO (V: Treats@8, S: brand@5, A?: for@9, O: Chocolicks@2)	SV (V: http@11, S: Chocolicks@2)
+272	
+273	SVO (V: Treats@8, S: brand@5, A?: for@9, O: Chocolicks@2)	SV (V: http@11, S: Chocolicks@2)
+274	
+275	SVO (V: results@3, S: It@2, A?: in@4, O: 2007-11-12@1)
+276	SVA (V: "be called", S: initiative@2)	SVA (V: developed@8, S: initiative@2, A!: from@9)	SVA (V: "be face", S: requirement@12, O: challenges@16)	SVA (V: "be posed", S: challenges@16, A!: by@18)
+277	SVA (V: launched@3, S: It@1, A!: in@4, A?: by@6)	SVA (V: steered@16, S: It@1, A?: in@4, A?: by@6, A!: by@17)	SVC (S: Organization@10, V: "is", C: ICCO@12)
+278	SVC (V: is@6, S: mission@2, XCOMP: establish@8)
+279	SVOA (V: brought@6, S: Roundtable@3, A!: together@7, O: stakeholders@11)	SVA (V: "be representing", S: stakeholders@11, O: countries@14)	SVO (V: producing@24, S: officials@21, O: countries@14)	SVO (V: countries@27, S: officials@21, O: countries@14)
+280	SVC (C: effort@12, V: is@10, S: Children@3, A?: end@14)	SVC (C: effort@12, V: is@10, S: Protocol@9, A?: end@14)	SVA (V: "be end", S: effort@12, O: practices@16)
+281	SVA (V: has@2, S: It@1, A!: however@4)	SVC (V: falls@22, S: initiative@20, ACOMP: short@23)
+282	SVO (V: means@8, S: poverty@3, CCOMP: given@16)	SVO (V: given@16, S: consequences@11, O: significance@18)
+283	SVA (V: encroached@7, S: farmers@5, A?: For@1, A!: on@8, A?: after@13, A?: by@18)
+284	SVA (V: decreased@4, S: trend@2, A!: beginning@11)	SVO (V: beginning@11, S: governments@7, XCOMP: protect@13)	SVO (S: their@14, V: "has", O: zones@17)
+285	SVO (V: limited@17, S: use@7, O: April@1)
+286	SVC (C: high@6, V: are@5, S: prices@4, A?: When@1)	SVA (V: invest@10, S: farmers@8, A?: high@6, A!: in@11, A?: leading@15)	SVA (V: "be leading", S: farmers@8, A!: to@16)	SVO (S: their@12, V: "has", O: crops@13)	SVO (V: tends@23, S: yields@18, A?: in@21, XCOMP: result@25)
+287	SVA (V: traded@10, S: beans@2, A!: on@11)	SVC (S: IntercontinentalExchange@19, V: "is", C: ICE@21)
+288	SVA (V: based@5, S: market@3, A!: on@6, A?: on@13)
+289	SVC (C: market@9, V: is@2, S: Cocoa@1)	SVO (S: world@4, V: "has", O: market@9)
+290	SVA (V: determined@11, S: price@3, A!: by@12)
+291	SVO (V: tended@8, S: butter@3, XCOMP: be@10)
+292	
+293	SVA (V: falls@5, S: ratio@4, A!: below@6)
+294	SVO (V: ceases@5, S: production@4, A?: so@2, XCOMP: viable@9)	SVO (V: cease@13, S: factories@12, O: extraction@14, A?: in@22)
+295	SVA (V: held@5, S: beans@2, A!: in@6, A?: for@8)	SVA (V: change@22, S: ownership@20, A?: during@17, A!: times@24, A?: as@26)	SVA (V: "be gain", S: traded@30, O: profit@42)
+296	SVA (V: "be headed", S: Armajaro@8, A!: by@11)	SVO (V: purchased@16, S: Armajaro@8, A?: In@1, O: tonnes@18)
+297	SVA (V: valued@4, S: purchase@2, A!: at@5)	SVOC (V: caused@10, S: purchase@2, A?: at@5, O: prices@13, XCOMP: rise@15)	SVO (S: their@17, V: "has", O: level@19)
+298	SVOC (V: buys@7, S: trader@6, O: http@12, O: www.telegraph.co.uk/finance/markets/7895242/Mystery-trader-buys-all-Europes-cocoa.html@16)	SVO (S: Europe@9, V: "has", O: http@12)
+299	SVOC (V: buys@15, S: trader@14, A?: July@2, O: http@20, O: www.telegraph.co.uk/finance/markets/7895242/Mystery-trader-buys-all-Europes-cocoa.html@24)	SVO (S: Europe@17, V: "has", O: http@20)
+300	SVA (V: "be originating", S: Crops@23, A!: from@25)	SVA (V: "be originating", S: Crops@29, A!: from@31)	SVA (V: "be originating", S: Crops@36, A!: from@38)	SVA (V: "be originating", S: Crops@42, A!: from@44)	SV (V: es@80, S: Κακάο@79)	SVC (S: t@163, V: "is", C: t@181)	SVC (S: t@163, V: "is", C: t@169)	SVC (S: t@163, V: "is", C: t@175)	SVC (S: 2004@184, V: "is", C: record@186)
+301	SVC (S: t@2, V: "is", C: t@20)	SVC (S: t@2, V: "is", C: t@8)	SVC (S: t@2, V: "is", C: t@14)	SVC (S: 2004@23, V: "is", C: record@25)
+302	SVC (S: Organization@9, V: "is", C: ILO@11)	SVO (V: working@22, S: children@20, A?: According@1, A?: in@14, A?: on@23, A?: in@26, O: some@34)	SVC (S: d'Ivoire@28, V: "is", C: Coast@31)
+303	SVO (V: reported@12, S: Report@5, A?: later@11, CCOMP: working@17)	SVA (V: working@17, S: children@15, A!: in@18, A?: in@22, A?: in@25)
+304	
+305	
+306	SVO (V: used@8, S: slavery@6, O: allegations@3, A?: in@9)	SVA (V: appeared@12, S: allegations@3, A!: in@13)
+307	SVO (V: failed@5, S: report@4, XCOMP: characterize@8)	SVOC (V: estimated@13, S: report@4, XCOMP: characterize@8, CCOMP: victims@29)	SVA (V: "be involved", S: children@22, A!: in@24)	SVC (C: victims@29, V: be@28, S: %@18, A?: of@30)
+308	EXISTENTIAL (V: are@2, S: groups@6, A?: in@7)
+309	SVC (C: Trade@15, V: was@13, S: %@8, A?: As@1)
+310	SVC (C: Bittersweet@7, V: is@6, S: News@3)	SVA (V: is@19, S: Chocolate@18, A!: on@20)
+311	SVC (S: June@4, V: "is", C: pages@8)
+312	
+313	
+314	
+315	
+316	
+317	SVC (V: became@5, S: Chocolate@4, XCOMP: one@6)
+318	
+319	
+320	SVO (S: world@15, V: "has", O: companies@19)	SVO (V: begun@22, S: one@12, XCOMP: certifying@23)	SVO (S: its@24, V: "has", O: bars@27)
+321	SVC (C: Trade@10, V: be@8, S: sales@2)
+322	SVC (V: Goes@6, S: Milk@5, ACOMP: Global@7, A?: take@16)	SVO (V: take@16, S: Canada@9, O: Mainstream@20)
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	SVC (S: Houten@10, V: "is", C: disambiguation@3)	SVC (S: Houten@10, V: "is", C: S.D.@35)	SVC (S: Epicatechin@14, V: "is", C: flavonoid@17)	SVC (S: Theobromine@24, V: "is", C: alkaloid@27)
+331	SVC (S: Coe@2, V: "is", C: M.D.@4)
+332	
+333	SVC (S: Story@3, V: "is", C: edition@8)
+334	
+335	SVC (S: Grivetti@3, V: "is", C: L.E.@5)
+336	
+337	
+338	
+339	
+340	
+341	
+342	SVC (S: McNeil@3, V: "is", C: C.@5)
+343	
+344	
+345	
+346	
+347	SVC (S: ISBN@1, V: "is", C: Carol@5)	SVC (S: Carol@5, V: "is", C: 2008@7)
+348	SVO (S: World@9, V: "has", O: Sweet@13)
+349	
+350	SVC (S: Rosenblum@3, V: "is", C: Mort@5)	SVC (S: Mort@5, V: "is", C: 2006@7)
+351	
+352	
+353	SVC (S: Ryan@3, V: "is", C: Órla@5)	SVC (S: Órla@5, V: "is", C: 2011@7)
+354	
+355	
+356	SVC (S: Young@3, V: "is", C: M.@6)
+357	
+358	
+359	
+360	
+361	
+362	SVC (S: Buitrago-Lopez@9, V: "is", C: A.@11)
+363	
+364	SVC (S: base@32, V: "is", C: Rimbach@35)	SVC (S: base@32, V: "is", C: G.@37)
+365	
+366	SVC (S: Spencer@2, V: "is", C: P.E.@5)
+367	SVA (V: "be underpinned", S: effects@8, A!: by@10)	SVC (S: working@16, V: "is", C: sound@35)	SVC (C: viable@32, V: is@30, S: economy@28, A?: economically@31)	SVO (S: their@51, V: "has", O: organisations@52)

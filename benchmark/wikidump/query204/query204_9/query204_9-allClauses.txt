@@ -1,0 +1,27 @@
+0	
+1	
+2	
+3	
+4	SVC (S: Bureau@10, V: "is", C: http@17)
+5	
+6	SVC (S: Bureau@10, V: "is", C: 2011@16)	SVC (S: 2011@17, V: "is", C: States@23)	SV (V: is@27, S: magazine@31)	SVA (V: "be owned", S: magazine@31, A!: by@33)
+7	
+8	SVA (V: started@3, S: It@1, A!: in@4, A?: by@6)	SV (V: Distributing@10, S: It@1, A?: in@4, A?: by@6)	SVO (V: sold@13, S: Distributing@10, O: it@14, A?: to@15, A?: in@18)
+9	
+10	
+11	SV (V: was@2, S: world@4)	SVA (V: "be read", S: world@4, A!: widely@7, O: publication@10, A?: from@11)
+12	SVA (V: is@3, S: magazine@2, A!: for@4)
+13	SVO (V: includes@4, S: it@3, O: features@2)	SVC (C: instruction@6, V: are@5, S: features@2, A?: from@7)	SVC (S: instruction@6, V: "is", C: interviews@15)	SVA (V: "be go", S: tips@20, A!: to@30)
+14	SVO (V: conducts@3, S: Magazine@2, O: survey@6)	SVA (V: "be determine", S: survey@6, O: course@13)
+15	SVO (V: had@24, S: countries@23, O: courses@25, A?: in@26, A?: including@32)	SVO (V: conducts@37, S: magazine@35, A?: also@36, O: test@40)	SVA (V: armed@55, S: golfer@52, A!: with@56)	SVOC (C: value@65, V: is@62, S: club@61, A?: of@59, O: knowledge@58)
+16	SVC (C: Notes@7, V: were@5, S: Winners@1)	SVOO (V: honours@11, S: Magazine@9, A?: also@10, O: some@12, IO: Notes@7)
+17	SVC (S: November@8, V: "is", C: Magazine@14)	SVO (V: selected@15, S: November@8, O: McIlroy@17, A?: for@21)	SVO (S: its@22, V: "has", O: player@24)
+18	SVO (S: Magazine@2, V: "has", O: editor@4)	SVC (S: editor@4, V: "is", C: Clarke@7)	SVO (V: wrote@8, S: editor@4, CCOMP: pleased@13)	SVC (C: pleased@13, V: are@12, S: We@11, XCOMP: name@15)	SVO (S: our@19, V: "has", O: Player@21)
+19	SVO (V: embraced@4, S: Americans@2, O: Irishman@8, A?: taking@10, A?: also@26)	SVA (V: "be taking", S: Americans@2, O: him@11, A!: into@12)	SVO (S: their@13, V: "has", O: hearts@14)	SVO (S: his@21, V: "has", O: talent@23)	SVOA (V: shown@32, S: he@30, A!: in@33, O: grace@29)	SVO (S: his@38, V: "has", O: generosity@39)	SVO (S: his@46, V: "has", O: commitments@47)
+20	SVA (V: criticized@7, S: selection@4, A?: heavily@6, A!: by@8)
+21	SVA (V: "be tweeted", S: Donald@14)
+22	SVO (V: had@2, S: Whoever@1, O: decision@4)	SVO (V: diminished@6, S: had@2, A?: just@5, O: magazine@8)	SVO (S: your@7, V: "has", O: magazine@8)
+23	SVA (V: "be established", S: Magazines@8, A!: in@10)	SVA (V: determined@24, S: rating@22, A!: by@25)	SVA (V: "be earned", S: points@27, A!: by@29)	SVOO (V: earned@38, S: product@35, O: category@43, IO: points@33)
+24	SVA (V: tested@8, S: category@6, A!: by@10, A?: with@12)
+25	SVA (V: tested@7, S: category@5, A!: by@9)
+26	

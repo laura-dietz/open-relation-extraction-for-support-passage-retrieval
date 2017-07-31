@@ -1,0 +1,27 @@
+0	
+1	
+2	
+3	
+4	("June 30 2011 Audit Bureau of Circulations December 1", "is", "2011 http")
+5	
+6	("June 30 2011 Audit Bureau of Circulations December 1", "is", "2011 2011 is a monthly golf magazine owned by Time Inc.")	("2011", "is", "Monthly English Golf 1960 United States 1056-5493 Golf Magazine")	("a monthly golf magazine owned by Time Inc.", "2011 is")	("a monthly golf magazine", "be owned", "by Time Inc.")
+7	
+8	("It", "was started", "in 1960 by Universal Publishing")	("It", "was started", "in 1960")	("It", "was Distributing", "in 1960 by Universal Publishing")	("It", "was Distributing", "in 1960")	("It", "was Distributing", "by Universal Publishing")	("It", "was Distributing")	("Distributing", "sold", "it to Times Mirror in 1972")	("Distributing", "sold", "it to Times Mirror")	("Distributing", "sold", "it in 1972")	("Distributing", "sold", "it")
+9	
+10	
+11	("the world 's most widely read golf publication from August 2006 to January 2007", "was")	("the world 's", "be read", "most widely golf publication from August 2006 to January 2007")	("the world 's", "be read", "most widely golf publication")
+12	("The magazine", "is", "for golfers of all skill levels")
+13	("it", "includes", "Some features")	("Some features", "are instruction", "from the top 100 teachers in America")	("Some features", "are", "instruction")	("Some features are instruction from the top 100 teachers in America", "is", "interviews with famous golfers")	("Some features are instruction from the top 100 teachers in America", "is", "interviews with famous tips on the best values for golf courses to go to on vacation")	("Some features are instruction from the top 100 teachers in America", "is", "interviews with famous an annual club test")	("tips on the best values for golf courses", "be go", "to on vacation")
+14	("Golf Magazine", "conducts", "an annual survey of experts to determine the best course in the United States")	("Golf Magazine", "conducts", "an annual survey of experts to determine the best course in the United the world")	("an annual survey of experts", "be determine", "the best course in the United States")	("an annual survey of experts", "be determine", "the best course in the United the world")
+15	("Many countries", "had", "courses in the top one hundred including")	("Many countries", "had", "courses in the top one hundred")	("Many countries", "had", "courses including")	("Many countries", "had", "courses")	("Golf magazine", "conducts", "an annual test of some of the finest golf products available so that the golfer will be armed with the knowledge also")	("Golf magazine", "conducts", "an annual test of some of the finest golf products available so that the golfer will be armed with the knowledge")	("the golfer", "will be armed", "with the knowledge")	("club", "is", "the best value the knowledge of which")	("club", "is", "the best value the knowledge")
+16	("Winners in each category", "were", "Notes")	("Golf Magazine", "honours", "some of the best instructors in the business Notes also")	("Golf Magazine", "honours", "some of the best instructors in the business Notes")
+17	("November 1 2011", "is", "Golf Magazine")	("November 1 2011", "selected", "Rory McIlroy over Yani Tseng for its 2011 player of year")	("November 1 2011", "selected", "Rory McIlroy over Yani Tseng")	("its", "has", "2011 player of year")
+18	("The Magazine", "has", "editor")	("The Magazine 's editor", "is", "David Clarke")	("The Magazine 's editor", "wrote", "We are pleased to name Rory McIlroy as our inaugural Player of the Year")	("We", "are", "pleased to name Rory McIlroy as our inaugural Player of the Year")	("We", "are", "pleased to name Rory McIlroy")	("our", "has", "inaugural Player of the Year")
+19	("Americans", "have embraced", "this young Northern Irishman taking him into their hearts not just out of admiration for his amazing talent also for the grace")	("Americans", "have embraced", "this young Northern Irishman taking him into their hearts not just out of admiration for his amazing talent")	("Americans", "have embraced", "this young Northern Irishman also for the grace")	("Americans", "have embraced", "this young Northern Irishman")	("Americans", "be taking", "him into their hearts")	("their", "has", "hearts")	("his", "has", "amazing talent")	("he", "has shown", "in victory the grace")	("he", "has shown", "in defeat the grace")	("his", "has", "generosity of time with fans")	("his", "has", "commitments to causes beyond golf")
+20	("The McIlroy selection", "was criticized", "by golf bloggers heavily")	("The McIlroy selection", "was criticized", "by golf bloggers")
+21	("Luke Donald", "be tweeted")
+22	("Whoever", "had", "final decision")	("Whoever had final decision", "diminished", "your magazine just")	("Whoever had final decision", "diminished", "your magazine")	("your", "has", "magazine")
+23	("Magazines", "be established", "in 1960 Category")	("Golf Magazine 1 Percent rating", "was determined", "by dividing points earned by the most possible points")	("dividing points", "be earned", "by the most possible points")	("the product", "could have earned", "2 The game-improvement iron category the most possible points")
+24	("3 The maxiumum game-improvement iron category", "was tested", "only by golfers with a 14 to 20 handicap")	("3 The maxiumum game-improvement iron category", "was tested", "only by golfers")
+25	("4 The better-player iron category", "was tested", "only by golfers with handicaps 10")	("4 The better-player iron category", "was tested", "only golfers with handicaps 10 under")
+26	

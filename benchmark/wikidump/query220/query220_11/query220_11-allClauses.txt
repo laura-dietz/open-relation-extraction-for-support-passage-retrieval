@@ -1,0 +1,393 @@
+0	
+1	SVC (S: Red@19, V: "is", C: Energy@36)	SVC (S: Red@19, V: "is", C: 1991@39)	SVC (S: Midwest@68, V: "is", C: 1975@70)	SVA (V: "be playing", S: whitesidesandhems@101, A!: in@118, A?: in@126)	SVC (C: team@110, V: are@105, S: Bulls@104, A?: based@111)	SVA (V: "be based", S: team@110, A!: in@112)	SVC (S: Association@130, V: "is", C: NBA@132)
+2	SVA (V: founded@4, S: team@2, A!: in@5)
+3	SVO (V: play@2, S: They@1, O: games@5, A?: at@6)	SVO (S: their@3, V: "has", O: games@5)
+4	SVA (V: known@5, S: team@2, A?: well@4, A!: for@6)	SVA (V: "be winning", S: having@7, O: championships@24, A!: in@25, A?: with@28)
+5	SVA (V: led@8, S: six@2, A!: by@9)
+6	SVO (V: included@6, S: teams@5, O: likes@8)	SVC (S: Cartwright@11, V: "is", C: Grant@14)
+7	SVO (V: had@9, S: teams@8, O: Longley@11)	SVC (S: Harper@17, V: "is", C: Kukoč@20)
+8	SVO (V: won@3, S: Bulls@2, O: record@6, A?: during@9)	SVOC (C: team@20, V: are@17, S: Bulls@2, O: record@6, A?: during@9, A?: in@21, A?: win@25)	SVA (V: "be win", S: team@20, O: games@27, A!: in@30)
+9	SVO (V: helped@7, S: Bulls@6, A?: During@1, CCOMP: spread@8)
+10	SVC (S: Finals@4, V: "is", C: appearance@12)	SVO (S: Bulls@7, V: "has", O: appearance@12)	SVC (C: series@19, V: was@14, S: Finals@4, A?: in@20)
+11	SVO (V: lost@5, S: Bulls@2, O: Finals@8, A?: in@9)	SVO (S: their@10, V: "has", O: appearances@12)
+12	SVC (S: Cohen@1, V: "is", C: Rachel@3)
+13	
+14	
+15	
+16	SVC (S: Magazine@3, V: "is", C: July@5)
+17	
+18	
+19	SVO (S: Bulls@2, V: "has", O: Championships@6)	SVC (C: third@8, V: are@7, S: Championships@6, A?: most@9, A?: in@10, A?: trailing@14)	SVA (V: "be trailing", S: third@8, O: Lakers@19)
+20	SVA (V: "be having", S: franchise@13, O: value@21)	SVC (C: franchise@13, V: were@7, S: Bulls@6, A?: As@1, A?: according@14, A?: having@18)
+21	SVO (V: made@3, S: They@1, A?: also@2, O: $@6)
+22	SVA (V: franchise@13, S: them@8, A!: in@14)
+23	
+24	
+25	SVO (V: have@15, S: Jordan@11, O: January@5)	SVO (V: won@17, S: both@16, O: NBA@19, A?: playing@25, A?: for@30)
+26	
+27	SVC (C: team@9, V: are@4, S: Bulls@3, A?: actually@5, A?: in@10, A?: after@13)	SVC (S: Zephyrs@17, V: "is", C: Wizards@22)
+28	SVO (S: Bulls@2, V: "has", O: founder@4)	SVC (S: founder@4, V: "is", C: Klein@7)	SVC (C: owner@12, V: was@9, S: founder@4, XCOMP: play@15)
+29	SVA (V: served@2, S: He@1, A!: as@3, A?: for@11)	SVO (S: Bulls@5, V: "has", O: president@7)	SVO (S: their@12, V: "has", O: years@14)
+30	SVO (V: began@3, S: team@2, O: play@4)	SVOC (V: posted@15, S: team@2, O: play@4, A?: immediately@14, O: record@18, A?: by@19)
+31	SVO (V: qualified@30, S: Bulls@29, A?: for@31, O: Boozer@26)
+32	SVO (S: their@2, V: "has", O: seasons@5)	SVO (V: played@9, S: Bulls@8, A?: In@1, O: majority@11, A?: at@16, A?: moved@23)	SVO (S: their@13, V: "has", O: games@15)	SVA (V: moved@23, S: they@22, A!: to@24)
+33	SVO (V: assembled@9, S: Bulls@8, A?: Over@1, O: pieces@11, A?: competitive@14, A?: reached@20)	SVA (C: competitive@14, V: "be competitive", S: Bulls@8)	SVO (V: reached@20, S: they@17, A?: quite@19, O: top@22)
+34	SVA (V: known@8, S: Bulls@6, A?: During@1, A!: as@9)	SVA (V: "be built", S: team@14, A!: around@17)	SVC (S: Sloan@21, V: "is", C: Lier@34)	SVC (S: Sloan@21, V: "is", C: Love@25)
+35	SVO (V: won@6, S: team@4, A?: Nevertheless@1, A?: only@5, O: title@9)	SVOC (V: made@12, S: team@4, A?: Nevertheless@1, A?: only@5, O: title@9, O: it@13, A?: to@14)
+36	SVO (V: hit@12, S: team@10, A?: By@1, O: cellar@14)
+37	SVO (S: Bulls@2, V: "has", O: fortunes@4)	SV (V: changed@9, S: fortunes@4, A?: forever@8)	SV (V: flip@17, S: coin@16)
+38	SVO (V: lost@6, S: Bulls@5, A?: In@1, CCOMP: flip@9)	SVA (V: flip@9, S: coin@8, A!: for@10)	SVA (V: "be pick", S: right@12, A!: first@15, A?: in@16)	SVC (S: Thorn@22, V: "is", C: Manager@27)	SVA (V: "be called", S: Manager@27)
+39	SV (V: won@4, S: Bulls@3)	SVO (V: selected@11, S: they@8, O: Johnson@15)	SVO (V: selected@20, S: they@19, A?: instead@17, O: Greenwood@22, A?: with@23)
+40	SVO (V: selected@5, S: Lakers@4, O: Johnson@6, A?: with@7)	SVA (V: "be acquired", S: pick@9, A!: from@11)	SVO (V: traded@18, S: Jazz@15, O: selection@20)
+41	SVA (V: "be acquired", S: Gilmore@2, A!: in@5, A?: in@10)	SVO (V: led@13, S: Gilmore@2, O: squad@16)	SVO (V: included@18, S: squad@16, O: Theus@21)
+42	SVA (V: traded@4, S: Gilmore@2, A!: to@5, A?: for@10)	SVOO (V: employed@17, S: Bulls@16, O: offense@20, IO: Corzine@13)	SVA (V: "be centered", S: offense@20, A!: around@22)	SVO (V: included@28, S: which@26, A?: soon@27, O: Dailey@31)
+43	SVOC (V: decided@10, S: Bulls@9, A?: However@1, A?: with@3, XCOMP: change@12, XCOMP: trading@15)
+44	SVO (V: drafted@3, S: Jordanwas@2, O: overall@5, A?: by@6, A?: in@9)
+45	SVO (S: team@7, V: "has", O: fortunes@9)	SVO (V: received@14, S: it@13, A?: when@12, O: pick@17)
+46	SVO (V: selected@3, S: Rockets@2, O: Olajuwon@5)	SVO (V: jumped@9, S: Blazers@8, A?: on@10, O: Olajuwon@5)	SVO (V: grabbed@17, S: Bulls@16, O: shooting@18, A?: out@22)
+47	SVO (V: decided@17, S: team@2, XCOMP: rebuild@19)
+48	SVOA (V: set@2, S: Jordan@1, O: records@4, A!: during@5)	SVOC (V: led@27, S: Jordan@1, O: records@4, A?: during@5, O: Bulls@29, A?: back@30)	SVO (S: his@6, V: "has", O: campaign@8)	SVO (V: rewarded@39, S: he@37, A?: for@35, A?: with@40, O: playoffs@33)
+49	SVO (V: acquired@8, S: team@7, A?: In@1, O: Paxson@12)	SVO (V: on@14, S: team@7, A?: In@1, O: Paxson@12, A?: day@16)	SVA (V: "be traded", S: day@16, A!: with@18, A?: for@21)
+50	SVO (V: provided@10, S: they@9, A?: Along@1, O: much@11, A?: for@17)	SVO (S: Bulls@14, V: "has", O: offense@16)
+51	SVC (S: season@12, V: "is", C: Jordan@14)	SVA (V: finished@15, S: season@12, A?: After@1, A!: second@16, A?: on@17, A?: to@20, A?: in@22)
+52	SVA (V: returned@2, S: Jordan@1, A!: for@3)	SVOA (V: took@8, S: Jordan@1, A?: for@3, O: Bulls@11, A!: against@13)	SVA (V: "be led", S: Celtics@19, A!: by@22)
+53	SV (V: swept@5, S: Bulls@3)	SVO (V: recorded@8, S: Jordan@7, A?: swept@5, O: record@12, A?: prompting@27)	SVA (V: "be prompting", S: Jordan@7, O: Bird@28, XCOMP: call@30)	SVA (V: stands@21, S: which@19, A?: still@20, A!: to@22)
+54	SVA (V: "be leading", S: Jordan@10, O: league@21)	SVO (V: continued@11, S: Jordan@10, A?: In@2, A?: season@8, O: assault@13, A?: on@14, A?: leading@19)	SVO (S: his@12, V: "has", O: assault@13)
+55	SVA (V: "be named", S: Bull@8, A!: to@10)
+56	SVO (V: muster@8, S: Bulls@5, A?: Despite@1, A?: only@7, O: 40@10)	SVO (V: win@13, S: 42@12, O: record@16)	SVC (C: good@20, V: was@19, S: record@16, A?: enough@21, XCOMP: qualify@23)
+57	SVA (V: swept@7, S: Bulls@4, A?: However@1, A?: again@6, A!: by@8, A?: in@11)
+58	SVO (S: their@8, V: "has", O: lack@9)	SVA (V: "be selected", S: Krause@12, O: center@14)
+59	SVO (V: coming@27, S: Sellers@10, A?: With@1, O: bench@30)	SVO (V: made@34, S: Bulls@33, O: noise@36, A?: in@37)	SVO (V: beaten@58, S: they@56, A?: where@55, A?: by@59, A?: in@67, O: Semifinals@53)
+60	SVO (S: his@4, V: "has", O: efforts@5)	SVO (V: named@9, S: Jordan@7, A?: However@1, A?: for@3, O: Player@13)	SVC (S: Player@13, V: "is", C: award@16)	SVO (V: win@19, S: he@17, A?: times@22, A?: over@23, O: award@16)	SVO (S: his@24, V: "has", O: career@25)
+61	SVO (V: mark@8, S: 1987@2, A?: also@7, O: start@10)	SVO (V: mark@8, S: season@5, A?: also@7, O: start@10)	SVA (V: formed@19, S: rivalry@16, A!: from@20)
+62	SVOO (V: marked@6, S: season@5, O: year@10, IO: 1988@2)
+63	SVOA (V: led@9, S: Oakley@5, O: league@11, A!: in@12)	SVO (V: traded@22, S: Oakley@5, A?: on@23, A?: to@30, A?: along@35, O: power@2)	SVA (V: "be used", S: pick@41, A!: by@43, A?: on@46)	SVOC (V: used@62, S: Bulls@61, O: pick@58, XCOMP: obtain@64)	SV (V: Perdue@67, S: pick@58)
+64	SVO (V: acquired@6, S: Bulls@5, A?: In@1, O: Hodges@10, A?: from@11)
+65	SVOC (V: took@16, S: lineup@4, O: time@18, XCOMP: mesh@20)	SVOC (V: made@31, S: lineup@4, O: time@18, XCOMP: mesh@20, CCOMP: way@35)	SVA (V: way@35, S: it@32, A!: to@36)	SVO (V: subdued@45, S: they@43, A?: where@42, A?: in@46, A?: by@49, O: Finals@40)
+66	SVO (V: led@7, S: Jordan@6, A?: In@1, O: league@9)	SVO (V: joined@20, S: Jordan@6, A?: In@1, O: league@9, A?: on@21)
+67	EXISTENTIAL (V: was@2, S: change@6, A?: also@3)	SVO (V: replaced@17, S: Collins@15, A?: where@11, A?: by@18, O: sidelines@9)
+68	SVOC (V: picked@4, S: Bulls@2, A?: also@3, O: King@9, O: B.J.@14)	SVOC (V: guard@13, S: Bulls@2, A?: also@3, O: King@9, O: B.J.@14)
+69	
+70	SVO (V: made@16, S: Bulls@14, A?: With@1, A?: again@15, O: it@17, A?: to@18)	SVOC (V: pushed@24, S: Bulls@14, A?: With@1, A?: again@15, O: it@17, A?: to@18, O: Pistons@26, A?: to@27, A?: before@30)	SVA (V: go@42, S: pushed@24, A!: on@43)
+71	SVA (V: "be charged", S: the@2, A!: through@11, A?: with@14)	SVC (S: season@6, V: "is", C: Bulls@9)	SVA (V: charged@10, S: season@6, A!: through@11, A?: with@14)
+72	SVO (V: recorded@2, S: They@1, O: record@5)	SVO (V: romped@10, S: They@1, O: record@5, A?: through@11)	SVOO (V: swept@17, S: they@16, A?: where@15, O: Pistons@21, A?: in@22, IO: playoffs@13)	SVOO (V: won@27, S: they@16, A?: where@15, O: Pistons@21, A?: in@22, O: Finals@29, A?: in@30, A?: over@32, IO: playoffs@13)
+73	SVO (V: won@3, S: Jordan@2, O: MVP@6, A?: go@11)	SVA (V: "be go", S: Jordan@2, A!: with@12)	SVO (S: his@13, V: "has", O: title@17)
+74	SVO (V: won@3, S: Bulls@2, O: title@7, A?: after@10)	SVO (S: their@4, V: "has", O: title@7)
+75	SVA (V: prevailed@2, S: They@1, A!: over@3, A?: in@11)
+76	SVO (V: won@4, S: Jordan@1, A?: again@3, O: MVP@7, A?: go@13)	SVA (V: "be go", S: Jordan@1, A!: with@14)	SVO (S: his@15, V: "has", O: title@19)
+77	SVO (V: broke@6, S: Jordan@5, A?: During@1, O: records@8, A?: in@12, A?: in@20)
+78	SVOC (V: broke@4, S: Allen@3, O: latter@6, A?: on@7, O: 2010@11)
+79	SVO (V: played@4, S: Blackhawks@3, A?: for@5, A?: at@9, CCOMP: won@15)	SVO (V: swept@21, S: Blackhawks@3, A?: for@5, A?: at@9, CCOMP: won@15, A?: by@22)	SVO (V: won@15, S: Bulls@14, O: championship@17)
+80	SVC (C: year@5, V: was@2, S: 1992@1)	SVO (V: played@12, S: Bulls@9, O: that@6, A?: in@13, A?: in@19)	SVO (S: their@14, V: "has", O: league@16)	SVO (S: league@16, V: "has", O: finals@18)
+81	SVO (V: did@5, S: Bulls@4, A?: In@1, CCOMP: done@10, A?: with@34)	SVO (V: done@10, S: team@8, O: what@6, A?: since@11)	SVO (S: Paxson@36, V: "has", O: 3-pointer@38)
+82	SVC (V: left@2, S: seconds@1, CCOMP: gave@4)	SVOO (V: gave@4, S: that@3, IO: them@5, O: 99@7)
+83	SVA (V: was@2, S: Jordan@1, A!: again@4)
+84	SVO (V: tied@3, S: He@1, A?: also@2, O: Chamberlain@5, A?: by@6)	SVO (S: his@8, V: "has", O: title@12)
+85	SVOC (V: shocked@8, S: Jordan@7, A?: During@1, O: community@11, A?: by@12, O: months@18)	SVO (S: his@14, V: "has", O: retirement@15)	SVO (S: his@22, V: "has", O: father@23)	SVO (S: father@23, V: "has", O: murder@25)
+86	SVA (V: led@5, S: Bulls@2, A-: then@4, A!: by@6)	SVO (V: established@11, S: Pippen@8, O: himself@12, A?: as@13, A?: by@22)
+87	SVO (V: received@2, S: He@1, O: help@3, A?: from@4)
+88	SVA (V: named@5, S: Armstrong@1, A!: to@6)	SVO (S: their@7, V: "has", O: games@10)
+89	SVA (V: assisted@4, S: three@2, A!: by@5)
+90	SVO (S: Bulls@3, V: "has", O: run@6)	SVOO (V: won@16, S: they@15, A?: where@14, O: games@18, IO: season@12)	SVO (V: beaten@22, S: they@20, A?: in@23, A?: by@26, A?: in@29, O: season@12)
+91	SVO (V: reached@5, S: Knicks@3, A?: eventually@4, O: finals@7)
+92	SVOC (V: opened@4, S: Bulls@3, O: 1994@6, O: Center@30)	SVC (S: home@13, V: "is", C: Stadium@19)	SVO (S: their@12, V: "has", O: home@13)	SVO (S: their@24, V: "has", O: home@26)
+93	SVO (V: lost@6, S: Bulls@5, A?: In@1, O: Grant@8)	SVO (V: heir-apparent@36, S: Bulls@5, A?: In@1, O: Grant@8, A?: to@37, A?: in@40)	SVO (V: Buechler@52, S: Bulls@5, A?: In@1, O: Grant@8)	SVO (V: Paxson@22, S: Bulls@5, A?: In@1, O: Grant@8, A?: to@23)	SVOC (V: picked@27, S: Bulls@5, A?: In@1, O: Grant@8, O: Harper@32)	SVO (V: Coach@42, S: Assistant@41, O: offense@47)	SVO (S: Winter@44, V: "has", O: offense@47)
+94	SVO (V: sported@3, S: Bulls@2, O: look@5, A?: at@17)	SVO (V: Perdue@23, S: Bulls@2, O: look@5, A?: at@17, A?: at@24)
+95	SVO (V: had@3, S: They@1, A?: also@2, O: Kerr@6)	SVO (V: acquired@10, S: they@9, O: Kerr@6, A?: via@11, A?: before@14)	SVC (S: season@19, V: "is", C: Myers@21)
+96	SVA (V: slumping@5, S: they@3, A?: However@1, A!: during@6, A?: received@18)	SVO (V: received@18, S: they@17, A?: when@10, A?: on@11, O: news@22)	SVA (V: coming@27, S: Jordan@25, A!: out@28)
+97	SVC (V: was@2, S: He@1, A?: soon@3, A?: among@4, A?: again@10, XCOMP: scoring@12)	SVOC (V: led@26, S: He@1, A?: soon@3, A?: among@4, A?: again@10, XCOMP: scoring@12, O: Bulls@28, A?: to@29, A?: in@33)	SVO (S: his@20, V: "has", O: game@22)	SVOO (V: upset@39, S: they@38, A?: where@37, O: Hornets@42, IO: playoffs@35)
+98	SVC (C: rusty@6, V: was@4, S: Jordan@3, A?: However@1, A?: too@5)	SVC (C: unable@12, V: were@11, S: Bulls@10, XCOMP: overcome@14)	SVO (V: included@24, S: Magic@21, O: Grant@26)
+99	SVA (V: returned@3, S: Jordan@2, A?: When@1, A!: to@4)	SVO (V: wore@10, S: he@8, A?: returned@3, A?: initially@9, O: No@11)
+100	SVC (C: number@6, V: was@4, S: which@3)	SVO (S: his@5, V: "has", O: number@6)	SVC (S: Barons@12, V: "is", C: affiliate@16)
+101	SVO (V: chose@2, S: He@1, O: No@4)
+102	SVO (S: his@3, V: "has", O: brother@5)	SVO (V: wore@7, S: brother@5, O: number@9, A?: in@10)	SVO (V: wore@7, S: Larry@6, O: number@9, A?: in@10)
+103	SVO (V: wanted@2, S: Michael@1, XCOMP: half@5, A?: chose@13)	SVO (S: his@9, V: "has", O: brother@10)	SVO (V: chose@13, S: he@12, O: 22.5@21)	SVC (C: half@17, V: is@16, S: 23@14, A?: of@18)
+104	
+105	SVA (V: switched@4, S: Jordan@3, A?: However@1, A!: back@5, A?: to@6, A?: before@10)
+106	SVO (V: lost@7, S: Bulls@6, A?: In@1, O: B.@8)
+107	
+108	SVO (V: pulled@9, S: Krause@8, O: deal@13, A?: by@14, A?: Will@16)	SVO (V: won@36, S: Rodman@32, O: titles@41)	SVC (C: member@49, V: been@47, S: who@44, A?: also@46, A?: of@50)	SVA (V: served@61, S: squad@59, A!: as@62)	SVO (S: Bulls@64, V: "has", O: nemesis@67)
+109	
+110	
+111	
+112	SVO (S: league@21, V: "has", O: bench@24)	SVO (V: posted@40, S: Bulls@39, O: one@41)	SVC (S: record@54, V: "is", C: databasebasketball.com@66)	SVA (V: "be moving", S: record@54, A!: from@57)
+113	
+114	
+115	SVC (V: remains@2, S: which@1, XCOMP: record@5)
+116	SVO (V: won@2, S: Jordan@1, O: title@6)	SVO (V: Rodman@9, S: Jordan@1, O: title@6, A?: finished@18)	SVO (S: his@3, V: "has", O: title@6)	SVO (S: his@10, V: "has", O: title@14)	SVA (V: finished@18, S: Kerr@17, A!: second@19, A?: in@20, A?: in@23)
+117	SVO (V: garnered@2, S: Jordan@1, O: crown@6, A?: with@7)
+118	SVO (V: named@3, S: Krause@1, XCOMP: Executive@4)	SVA (V: Coach@10, S: Jackson@9, A!: of@11)
+119	SVO (V: made@5, S: Pippen@2, O: Team@9)	SVA (V: "be making", S: Jordan@12, XCOMP: team@29)	SVO (V: made@18, S: Jordan@12, O: Team@22, A?: making@24)	SVA (V: team@29, S: Bulls@26, A!: in@30, A?: with@32)
+120	
+121	
+122	SVO (V: holds@9, S: the@4, A?: In@1, O: records@12)	SVO (V: holds@9, S: squad@8, A?: In@1, O: records@12)	SVC (S: team@36, V: "is", C: 41@38)	SVC (S: team@36, V: "is", C: streak@47)	SVC (S: games@50, V: "is", C: 7@52)
+123	SVO (V: posted@4, S: Bulls@2, A?: also@3, O: record@8)	SVA (V: "be trailing", S: 1985@20, O: Lakers@41, A!: by@42, A?: over@45)
+124	SVA (V: triumphed@3, S: team@2, A!: over@4)	SVO (S: their@15, V: "has", O: title@17)
+125	SVA (V: regarded@9, S: Bulls@6, A?: widely@8, A!: as@10)
+126	
+127	
+128	SVA (V: missed@11, S: Bulls@9, A?: In@1, A?: narrowly@10, A!: on@13, A?: by@19)	SVO (V: repeated@32, S: Bulls@9, A?: In@1, A?: narrowly@10, A?: on@13, A?: by@19, CCOMP: going@36)	SVA (V: "be finish", S: losing@20, O: 69@27)	SVO (S: their@21, V: "has", O: games@24)	SVO (S: their@33, V: "has", O: dominance@35)	SVO (V: going@36, S: dominance@35, O: 39@37)
+129	
+130	
+131	
+132	SVO (V: capped@3, S: Bulls@2, O: season@5, A?: by@6)	SVO (S: their@8, V: "has", O: championship@11)
+133	SVO (V: earned@2, S: Jordan@1, O: career@8, A?: earned@14)	SVO (S: his@3, V: "has", O: career@8)	SVA (V: "be scoring", S: career@8, O: title@10)	SVO (V: earned@14, S: Rodman@13, O: title@19)	SVO (S: his@15, V: "has", O: title@19)
+134	SVC (C: member@13, V: was@11, S: Parish@8, A?: of@14, A?: at@17)	SVA (V: honored@23, S: Jordan@1, A?: also@22, A!: as@24)	SVO (V: celebrating@36, S: NBA@35, O: season@39)	SVO (S: its@37, V: "has", O: season@39)
+135	
+136	
+137	SVO (S: Parish@1, V: "has", O: season@5)	SVC (C: year@13, V: be@10, S: season@5, A?: in@14)	SVO (S: his@11, V: "has", O: year@13)	SVA (V: nominated@19, S: Parish@1, A!: for@20)	SVO (S: his@21, V: "has", O: career@23)
+138	
+139	
+140	SVC (C: one@13, V: was@12, S: Jordan@2, A?: of@14)
+141	
+142	
+143	SVO (V: speculated@2, S: Many@1, CCOMP: season@10)	SVC (C: season@10, V: be@5, S: this@3, A?: with@11)	SVO (S: Jordan@7, V: "has", O: season@10)
+144	SVO (S: Jackson@2, V: "has", O: future@4)	SVC (C: questionable@10, V: was@8, S: future@4, A?: also@9, A?: as@12)	SVO (S: his@13, V: "has", O: relationship@14)
+145	SVA (V: looking@4, S: Pippen@2, A!: for@5)	SVA (V: getting@19, S: Pippen@2, A?: for@5, A!: from@20)	SVOC (V: thought@12, S: he@11, O: that@10, CCOMP: deserved@14)	SV (V: deserved@14, S: he@13)
+146	SVO (V: surrounded@7, S: turmoil@5, O: Bulls@9)	SVO (V: had@13, S: they@11, A?: In@1, A?: still@12, O: season@16, A?: with@18)
+147	SVO (V: named@5, S: Jordan@2, XCOMP: MVP@8)	SVA (V: went@19, S: Bulls@18, A!: into@20, A?: as@23)
+148	SVA (V: was@10, S: round@3, A!: against@11)	SVC (S: Nets@15, V: "is", C: team@18)	SVA (V: "be led", S: team@18, A!: by@20)
+149	SVOC (V: swept@3, S: Bulls@2, O: Nets@5, XCOMP: nothing@8)
+150	SVC (C: challenging@6, V: were@4, S: semi-finals@3, A?: more@5, A?: with@7)	SVOC (C: tying@23, V: were@4, S: semi-finals@3, A?: more@5, A?: with@7, O: series@25)	SVOC (V: stealing@11, S: Hornets@10, O: game@12, O: two@13, A?: at@17)
+151	SVO (V: defeated@5, S: Bulls@3, A?: easily@4, O: Hornets@7, A?: in@8)
+152	SVC (C: challenge@6, V: was@4, S: Finals@3, A?: for@7, A?: went@12)	SVA (V: went@12, S: they@11, A!: up@13, A?: against@14)	SVA (V: "be led", S: Miller@17, O: Pacers@21)
+153	SVA (V: were@2, S: Experts@1, A!: of@3)	SVO (V: had@9, S: Pacers@8, O: chance@12)	SVA (V: "be defeat", S: chance@12, O: Bulls@16)
+154	SVOO (V: gave@3, S: Pacers@2, IO: Bulls@5, O: road@7)
+155	SVO (V: prevailed@3, S: Bulls@2, O: 88@8)	SVO (V: beat@5, S: Bulls@2, O: 88@8)	SVA (V: "be winning", S: 83@10, O: Championship@17)	SVO (S: their@13, V: "has", O: Championship@17)
+156	SVO (V: faced@9, S: Bulls@8, A?: In@1, O: team@11)	SVC (S: team@11, V: "is", C: Jazz@20)	SVO (V: beat@13, S: they@12, A?: year@16, O: team@11)
+157	SVA (V: "be Led", S: Jazz@10, A!: by@2)	SVC (V: felt@11, S: Jazz@10, A?: Led@1, ACOMP: confident@12)	SVA (V: "be winning", S: they@14, O: game@21, A!: at@23)	SVO (V: defeat@16, S: they@14, O: Bulls@18, A?: winning@20)	SVO (S: Utah@24, V: "has", O: Center@27)
+158	SVA (V: "be nothing", S: two@4)	SVO (V: won@11, S: Bulls@10, O: Game@12, A?: at@14)
+159	SVA (V: returned@3, S: Bulls@2, A!: to@4, A?: by@10)
+160	SVO (V: won@3, S: Jazz@2, O: Game@4, A?: by@6)	SVC (S: points@8, V: "is", C: 83@10)
+161	SVC (C: battle@6, V: was@3, S: Game@1, A?: for@7, A?: had@14)	SVO (V: had@14, S: Jazz@13, O: lead@16, A?: in@18)
+162	SVOC (V: led@11, S: Jordan@10, A?: Down@1, O: Bulls@13, XCOMP: win@17)	SV (V: win@17, S: one@15)
+163	SVO (V: hit@2, S: Jordan@1, O: layup@5, A?: bring@7)	SVA (V: "be bring", S: Jordan@1, O: Bulls@9, A!: within@10)	SVA (V: "be winning", S: game@23, O: shot@25, A!: with@26)
+164	SVA (V: "be remaining", S: seconds@1, A!: on@3)
+165	SVOC (V: put@11, S: of@4, CCOMP: 86@7, O: pointer@15)	SVOO (V: put@11, S: Stockton@10, CCOMP: 86@7, O: pointer@15, IO: score@3)	SVO (S: Bulls@22, V: "has", O: championship@25)
+166	SVO (V: named@4, S: Jordan@1, XCOMP: MVP@7)	SVO (S: his@13, V: "has", O: career@14)
+167	SVA (V: retired@2, S: He@1, A!: for@3)
+168	SVOA (V: brought@5, S: summer@2, O: end@8, A!: to@9)
+169	
+170	SVO (V: SCHEDULE@4, S: BULLS@3, O: 1998@5)
+171	
+172	SVO (V: SCHEDULE@4, S: BULLS@3, O: 1998@5)
+173	SVC (V: felt@3, S: Krause@2, CCOMP: were@7)	SVC (V: were@7, S: Bulls@6, A?: on@8, XCOMP: compete@18)
+174	SVO (V: decided@2, S: He@1, CCOMP: were@9)	SVO (S: team@5, V: "has", O: choices@8)	SVC (V: were@9, S: choices@8, XCOMP: rebuild@11)
+175	SVO (S: His@1, V: "has", O: plan@2)	SVC (V: was@3, S: plan@2, XCOMP: trade@5)	SVA (V: "be make", S: clearing@16, O: run@23, A!: at@24, A?: in@29)	SVO (S: years@31, V: "has", O: time@33)
+176	SVO (V: traded@15, S: Krause@14, A?: After@1, O: Pippen@17, A?: for@18)	SVO (V: draft@33, S: Krause@14, A?: After@1, O: Pippen@17, A?: for@18)	SVA (V: released@24, S: who@22, A!: in@25)
+177	SVO (V: decided@3, S: He@1, A?: also@2, XCOMP: re-sign@6)	SVOC (V: traded@11, S: He@1, A?: also@2, XCOMP: re-sign@6, O: Longley@13, A?: for@17)
+178	SVO (V: hired@2, S: He@1, O: coach@5)	SVC (S: coach@5, V: "is", C: Floyd@8)	SVO (V: run@12, S: coach@5, O: program@15, A?: at@16)
+179	SVO (S: Jackson@3, V: "has", O: departure@5)	SVO (V: made@9, S: Jordan@8, A?: Upon@1, O: official@13)	SVO (S: his@10, V: "has", O: official@13)
+180	SVC (S: Brown@10, V: "is", C: Harper@15)	SVOO (V: began@36, S: Barry@19, O: lockout@38, IO: Harper@15)	SVOO (V: began@36, S: team@35, O: lockout@38, IO: Harper@15)
+181	SVOA (V: led@2, S: Kukoc@1, O: team@4, A!: in@5)	SVO (V: won@16, S: team@15, O: 13@18)
+182	SVO (S: year@3, V: "has", O: finish@6)	SVA (V: came@7, S: finish@6, A!: with@8)	SVO (V: won@14, S: team@13, O: lottery@17)
+183	SVO (V: lost@4, S: team@3, O: Harper@5, A?: in@10)	SVO (V: missed@30, S: Kukoc@29, O: most@31, ACOMP: due@35)
+184	SVO (V: recorded@2, S: Brand@1, O: 20@5)
+185	SVOA (V: led@2, S: He@1, O: rookies@4, A!: in@5, A?: led@20)	SVOA (V: led@20, S: Artest@19, O: rookies@22, A!: in@23, A?: on@28)
+186	SVO (S: his@2, V: "has", O: Brand@4)	SVA (V: named@6, S: Brand@4, A!: named@32)	SVO (S: Houston@17, V: "has", O: Francis@20)	SVA (V: named@32, S: Artest@30, A!: to@33)
+187	SVO (V: established@5, S: team@4, A?: However@1, O: franchise@7)
+188	SVOO (V: witnessed@8, S: Bulls@7, A?: in@4, O: agents@14, IO: summer@3)	SVO (V: choose@30, S: Thomas@29, XCOMP: stay@32)	SVO (S: their@34, V: "has", O: teams@35)	SVO (V: signed@48, S: Krause@47, A?: After@1, O: Miller@53)	SVOC (V: drafted@61, S: Krause@47, A?: After@1, O: Miller@53, O: power@62)
+189	SVOA (V: led@3, S: Brand@1, A?: again@2, O: team@5, A!: in@6)	SVO (V: failed@21, S: acquisitions@20, XCOMP: make@23)	SVA (V: finished@30, S: they@29, A!: with@31, A?: at@38)
+190	SVO (V: shocked@2, S: Krause@1, O: fans@4, A?: on@5, A?: in@8, A?: traded@12)	SVO (V: traded@12, S: he@11, A?: when@10, O: Brand@15, A?: to@16, A?: for@21)
+191	SVO (V: selected@3, S: He@1, A?: also@2, O: Curry@5, A?: with@6)
+192	SVA (V: came@6, S: Chandler@3, A!: out@8)	SVO (V: expected@15, S: neither@13, A?: came@6, XCOMP: make@17)	SVA (V: seen@29, S: they@27, A!: as@30)
+193	SVA (V: floundered@3, S: team@2, A!: without@4)
+194	SVO (V: traded@6, S: Bulls@5, A?: At@1, O: scorers@10, A?: along@18, A?: to@23)	SVO (S: their@7, V: "has", O: scorers@10)	SVC (S: Rose@31, V: "is", C: Travis@33)
+195	EXISTENTIAL (V: was@2, S: change@5, A?: also@3, A?: with@9, A?: following@25)	SVA (V: dismissed@12, S: Floyd@10, A!: in@13)
+196	SVA (V: improved@3, S: Bulls@2, A!: from@4, A?: tied@14)	SVA (V: tied@14, S: they@11, A?: still@13, A!: for@15)
+197	SVC (V: came@10, S: Bulls@9, A?: For@1, XCOMP: play@12)
+198	SVO (V: picked@2, S: They@1, O: Williams@7, A?: with@8)
+199	SVO (V: teamed@2, S: Williams@1, A?: with@3, XCOMP: form@24)	SVA (V: improved@31, S: nucleus@29, A!: to@32)	SVO (S: Cartwright@38, V: "has", O: season@42)
+200	SVOA (V: led@2, S: Curry@1, O: league@4, A!: in@5, A?: becoming@10)	SVA (V: "be becoming", S: Curry@1, XCOMP: lead@17, A!: in@20)	SVO (V: lead@17, S: Bull@13, O: league@19)
+201	SV (V: retired@11, S: Krause@10, A?: During@1)	SVA (V: tabbed@22, S: player@15, A!: as@23)	SVO (S: his@24, V: "has", O: successor@25)
+202	SVA (V: "be coming", S: Williams@2, O: campaign@9)	SVA (V: injured@13, S: Williams@2, A?: seriously@12, A!: in@14)
+203	SVO (S: His@1, V: "has", O: contract@2)	SVA (V: bought@4, S: contract@2, A!: by@6, A?: in@9)	SVO (V: has@14, S: he@13, A?: yet@15, XCOMP: return@17)
+204	SVO (V: selected@2, S: Paxson@1, O: Hinrich@6, A?: with@7)	SVOC (V: signed@16, S: Paxson@1, O: Hinrich@6, A?: with@7, O: agent@19)
+205	SVC (S: playing@3, V: "is", C: Cartwright@5)	SVO (V: hoped@19, S: Bulls@18, A?: With@1, CCOMP: return@29)	SV (V: return@29, S: some@21)
+206	SVC (C: disappointment@11, V: was@8, S: 2003@4, A?: However@1)	SVC (C: disappointment@11, V: was@8, S: season@7, A?: However@1)
+207	SVA (V: regressed@3, S: Curry@2, A!: leading@5)	SVA (V: "be leading", S: Curry@2, A!: to@6)	SVO (S: his@9, V: "has", O: conditioning@10)
+208	SVO (V: plagued@4, S: Chandler@2, A?: by@5, XCOMP: missing@11)
+209	SVO (S: Pippen@1, V: "has", O: ability@3)	SVA (V: "be influence", S: ability@3, O: games@6)	SVA (V: impaired@8, S: ability@3, A!: by@9)	SVO (V: contemplated@16, S: he@14, A?: openly@15, O: retirement@17)
+210	SVC (V: remained@3, S: Crawford@2, ACOMP: inconsistent@4)
+211	SVA (V: fired@4, S: Cartwright@2, A!: as@5, A?: in@8)	SVA (V: replaced@11, S: Cartwright@2, A?: as@5, A?: in@8, A!: with@12)
+212	SVOA (V: brought@7, S: trade@2, O: Davis@9, A!: in@13, A?: in@19)	SVA (V: seen@22, S: what@20, A!: as@23)
+213	SVO (V: finished@9, S: Bulls@8, A?: After@1, A?: with@10, O: record@19)
+214	SV (V: re-signed@4, S: Fizer@1)	SVA (V: re-signed@9, S: Crawford@7, A!: for@15)	SVA (V: traded@11, S: Crawford@7, A!: to@12, A?: for@15)
+215	SVO (V: provided@2, S: Hinrich@1, O: spot@6, A?: becoming@8)	SVA (V: "be becoming", S: Hinrich@1, XCOMP: favorite@11)	SVO (S: his@13, V: "has", O: determination@15)
+216	SVO (V: won@2, S: He@1, O: place@4)
+217	SVO (V: traded@7, S: Paxson@6, A?: During@1, O: pick@11, A?: in@16)
+218	SVO (V: used@2, S: He@1, O: picks@4, A?: to@5, A?: in@17)	SVO (V: Duhon@27, S: He@1, O: picks@4, A?: to@5, A?: in@17, A?: in@28)
+219	SVO (V: signed@3, S: Paxson@1, A?: also@2, O: agent@5)	SVO (V: won@14, S: Nocioni@9, A?: recently@13, O: medal@18, A?: as@19)
+220	SVO (V: began@13, S: Bulls@12, A?: After@1, XCOMP: show@15)	SVO (S: their@20, V: "has", O: defense@23)
+221	SVC (C: 0@6, V: were@5, S: Bulls@2)	SVA (V: "be start", S: 9@8, O: season@12)	SVO (V: finished@14, S: Bulls@2, O: season@17, A?: with@22)	SVO (V: advanced@31, S: Bulls@2, O: season@17, A?: with@22, A?: to@32, A?: for@36)	SVO (S: Jordan@41, V: "has", O: departure@43)
+222	SVO (V: played@9, S: Bulls@8, A?: In@1, O: Wizards@12)
+223	SVO (V: opened@3, S: Bulls@2, O: series@5, A?: with@6)	SVO (V: series@20, S: Bulls@2, O: series@5, A?: with@6)	SVOC (V: lost@13, S: Bulls@2, O: series@5, A?: with@6, O: games@17)
+224	SVO (V: became@7, S: Gordon@6, A?: After@1, O: rookie@10)	SVA (V: "be win", S: rookie@10, O: Award@17)	SVA (V: "be win", S: Bull@21, O: award@25)
+225	SVO (V: re-signed@8, S: Bulls@7, A?: During@1, O: Chandler@12)
+226	SVO (V: showed@4, S: Curry@3, A?: However@1, O: symptoms@6)	SVA (V: "be resulting", S: disease@10, A!: of@12, A?: during@16)	SVOC (V: clear@23, S: Paxson@20, O: him@24, XCOMP: play@26)
+227	SVO (V: refused@4, S: Curry@3, A?: Ultimately@1, XCOMP: participate@6)	SVA (V: traded@14, S: he@12, A!: along@15, A?: for@24)	SVC (S: Sweetney@26, V: "is", C: Thomas@29)	SVO (V: became@33, S: what@32, O: pick@36)	SVA (V: "be swap", S: right@47, O: picks@50, A!: in@54)
+228	SVA (V: struggled@9, S: Bulls@8, A?: Without@1, A!: for@10)
+229	SVOO (V: allowed@9, S: surge@8, O: them@10, XCOMP: finish@12, IO: 12@5)
+230	SVO (V: faced@5, S: Bulls@4, A?: There@1, O: Heat@8)
+231	SVA (V: broke@10, S: Bulls@9, A?: After@1, A!: through@11)	SVA (V: win@15, S: blowout@14, A!: in@16)	SVA (V: win@22, S: another@21, A!: in@23)
+232	SVOC (V: took@5, S: Heat@4, A?: However@1, O: games@9, XCOMP: win@11)	SVOC (V: went@15, S: Heat@4, A?: However@1, O: games@9, XCOMP: win@11, A?: on@16, XCOMP: win@18)	SVO (S: year@20, V: "has", O: championship@22)
+233	SVO (S: Bulls@2, V: "has", O: players@6)	SVO (V: earned@8, S: players@6, A?: nevertheless@7, O: experience@11)	SVO (V: turned@15, S: Nocioni@14, O: series@19)	SVO (V: exceeded@24, S: series@19, A?: far@23, O: averages@27)	SVO (S: his@25, V: "has", O: averages@27)
+234	SVO (V: awarded@10, S: Bulls@8, A?: In@1, O: Aldridge@13)	SVOC (V: traded@16, S: Bulls@8, A?: In@1, O: Aldridge@13, A?: immediately@15, O: him@17, A?: to@18, A?: for@23)
+235	SVO (V: selected@9, S: Bulls@8, A?: In@1, O: Carney@11)	SVOC (V: traded@13, S: Bulls@8, A?: In@1, O: Carney@11, O: him@14, A?: to@15)
+236	SVA (V: signed@13, S: Player@7, A?: Later@1, A?: summer@3, A!: with@14, A?: for@17)	SV (V: contract@25, S: $@22)
+237	SVOO (V: traded@9, S: Bulls@8, O: Chandler@11, IO: Wallace@5)
+238	
+239	SVO (V: used@8, S: Smith@1, XCOMP: sign@10)
+240	SVO (V: overcame@8, S: Bulls@7, O: a@9)	SVA (V: "be finish", S: start@14, O: 49@17)
+241	SVO (V: faced@9, S: Bulls@7, A?: In@1, A?: again@8, O: Miami@10)	SVC (S: Miami@10, V: "is", C: the@12)	SVA (V: "be defending", S: the@12, O: champions@15)
+242	SVO (V: won@4, S: Bulls@2, A?: narrowly@3, O: Game@5)
+243	SVA (V: rallied@6, S: Bulls@5, A?: In@1, A!: from@7)	SVO (V: posted@18, S: Bulls@5, A?: In@1, A?: from@7, A-: then@17, CCOMP: win@21)	SVA (V: "be win", S: deficit@11, O: Game@14)	SVA (V: win@21, S: comeback@20, A!: in@22)
+244	SVO (S: Bulls@2, V: "has", O: sweep@5)	SVO (V: stunned@10, S: sweep@5, O: observers@13)
+245	SVC (C: victory@8, V: was@2, S: It@1, A?: since@9)	SVO (S: Chicago@3, V: "has", O: victory@8)	SVC (S: victory@8, V: "is", C: season@15)	SVO (S: Jordan@12, V: "has", O: season@15)
+246	SVOC (V: advanced@4, S: Bulls@2, A-: then@3, XCOMP: face@6, XCOMP: marking@11)	SVO (V: met@20, S: rivals@18, A?: in@21, O: time@14)
+247	SVO (V: won@3, S: Pistons@2, O: games@7)
+248	SVA (V: come@6, S: team@3, A?: ever@5, A!: back@7, A?: from@8)	SVA (V: "be win", S: deficit@13, O: series@17)	SVO (V: avoided@22, S: Bulls@21, O: sweep@24, A?: by@25)
+249	SVO (V: won@5, S: Bulls@2, A?: easily@4, O: Game@6)	SVOC (V: had@12, S: Bulls@2, A?: easily@4, O: Game@6, O: chance@14)	SVA (V: "be make", S: chance@14, O: history@18)
+250	SVA (V: lost@3, S: they@2, A!: at@4, A?: in@6, A?: by@9)	SVO (V: won@15, S: Pistons@14, O: series@17)
+251	SVO (V: signed@8, S: Bulls@7, A?: During@1, A?: forward@9, O: Smith@11)	SVOC (V: drafted@18, S: Bulls@7, A?: During@1, A?: forward@9, O: Smith@11, O: Noah@21)
+252	SVA (V: began@4, S: distractions@3, A?: However@1, A!: turned@11)	SVA (V: "be citing", S: Deng@7, O: reasons@18)	SVO (V: turned@11, S: Deng@7, A?: when@5, O: extensions@14, A?: citing@17)
+253	SVO (V: surfaced@3, S: rumors@2, A-: Then@1, CCOMP: pursuing@8)	SVO (V: pursuing@8, S: Bulls@6, O: stars@9)	SVC (S: Garnett@12, V: "is", C: Gasol@15)
+254	SV (V: happened@5, S: None@1)	SVO (V: denied@12, S: Paxson@11, CCOMP: imminent@17)	SVC (C: imminent@17, V: was@15, S: deal@14, A?: ever@16)
+255	SVO (V: started@3, S: Bulls@2, O: 2007@5, A?: after@25)	SVO (S: their@14, V: "has", O: games@17)	SVOO (V: fired@34, S: Bulls@33, O: Skiles@38, IO: start@30)
+256	SVO (V: named@4, S: Boylan@2, XCOMP: coach@8)
+257	
+258	
+259	
+260	
+261	SVA (V: exchanged@3, S: 2009-08-01@1, A!: for@4)	SVA (V: "be involving", S: deal@20, O: Cavaliers@24)
+262	
+263	
+264	
+265	SV (V: http@6, S: Transactions@4)
+266	
+267	
+268	SVO (V: retained@9, S: Boylan@6, O: Transactions@4, A?: on@10, A?: at@13)
+269	SVO (V: ended@3, S: Bulls@2, O: 2007@5)	SVC (S: record@14, V: "is", C: reversal@18)	SVO (S: year@21, V: "has", O: record@23)
+270	SVO (S: Boylan@3, V: "has", O: tenure@6)	SV (V: expired@7, S: tenure@6)	SVO (V: began@11, S: Bulls@10, A?: expired@7, O: process@13)
+271	SVA (V: were@2, S: They@1, A!: in@3)	SVA (V: on@14, S: They@1, A?: in@3, A!: May@15)	SVO (V: signed@20, S: he@19, A?: with@21, O: 2008@18)
+272	SVO (V: included@4, S: options@3, O: Johnson@10)	SVO (V: head@14, S: Bulls@13, O: Collins@17)
+273	SVA (V: resigned@2, S: Collins@1, A!: from@3, A?: on@7, A?: reporting@13)	SVA (V: "be reporting", S: Collins@1, CCOMP: want@18)	SVO (V: want@18, S: he@15, XCOMP: ruin@20)	SVO (S: his@21, V: "has", O: friendship@22)
+274	
+275	SVOC (V: hired@3, S: Paxson@2, O: Negro@6, A?: with@8, A?: to@13, O: Bulls@17)
+276	SVO (V: reported@10, S: Tribune@9, A?: On@1, CCOMP: agreed@14)	SVO (V: agreed@14, S: Harris@13, XCOMP: become@16)
+277	SVO (V: helped@8, S: Harris@7, A?: Along@1, XCOMP: establish@9)	SVOC (V: helped@18, S: Harris@7, A?: Along@1, XCOMP: establish@9, O: Negro@23)
+278	
+279	
+280	
+281	SVA (V: "be draft", S: winning@4, O: number@9)	SVO (V: won@14, S: Bulls@13, O: Lottery@19)
+282	SVC (V: became@6, S: Bulls@5, A?: With@1, XCOMP: team@8)	SVA (V: modified@23, S: it@21, A!: for@24)	SVA (V: lowest@32, S: it@21, A?: for@24, A!: ever@33)
+283	SVO (V: drafted@9, S: Bulls@8, A?: On@1, O: Rose@13, A?: as@14)
+284	SVO (V: selected@6, S: they@5, A?: At@1, O: Weems@8)
+285	SVO (V: traded@4, S: Bulls@2, A?: later@3, O: Weems@5, A?: to@6, A?: for@10)	SVO (S: Denver@11, V: "has", O: pick@17)
+286	SVO (V: acquired@4, S: Bulls@2, A-: then@3, O: Aşık@6, A?: from@7, A?: for@19)	SVC (S: pick@26, V: "is", C: pick@35)	SVO (S: Denver@20, V: "has", O: pick@26)	SVO (S: York@29, V: "has", O: pick@35)	SVO (S: Bulls@39, V: "has", O: pick@45)
+287	SVO (V: re-signed@3, S: Bulls@2, O: Deng@5, A?: to@6)
+288	SVA (V: plagued@4, S: He@1, A?: later@3, A!: with@5)	SVA (V: "be keeping", S: injury@7, O: him@9, A!: from@10)
+289	SVO (V: signed@3, S: Gordon@2, O: contract@6, A?: on@7)
+290	
+291	
+292	SVA (V: "be sending", S: Boozer@3, O: Nocioni@21)	SVC (S: Boozer@3, V: "is", C: Gooden@24)	SVOO (V: made@12, S: Bulls@11, O: first@14, IO: Boozer@3)	SVO (S: their@13, V: "has", O: first@14)
+293	
+294	SVO (V: ACQUIRE@2, S: KINGS@1, O: PLAYERS@4)
+295	SVC (S: February@1, V: "is", C: http@6)
+296	SVO (V: ACQUIRE@2, S: KINGS@1, O: PLAYERS@4)
+297	SVC (S: February@8, V: "is", C: deadline@16)	SVO (V: traded@20, S: February@1, A-: Then@6, A?: on@7, O: Hughes@22, A?: to@23, A?: for@28)	SVO (V: traded@20, S: Bulls@19, A-: Then@6, A?: on@7, O: Hughes@22, A?: to@23, A?: for@28)
+298	
+299	
+300	SVO (V: made@13, S: Bulls@12, A?: February@4, O: trade@16, A?: in@17, A?: by@25)
+301	
+302	
+303	SVC (S: Sun-Times@2, V: "is", C: fourth@31)	SVOO (V: brought@10, S: April@3, O: push@13, IO: Sun-Times@2)	SVO (V: clinched@20, S: Bulls@16, A?: finally@19, O: playoff@22)	SVO (V: berth@23, S: Bulls@16, A?: on@24, O: push@13)	SVO (S: their@30, V: "has", O: fourth@31)
+304	SVO (V: finished@2, S: They@1, O: season@4, A?: with@5)
+305	SVO (S: Their@1, V: "has", O: record@2)	SVC (C: good@4, V: was@3, S: record@2, A?: enough@5)
+306	SVA (V: "be playing", S: seed@2, O: series@12)
+307	SVO (V: scored@7, S: Rose@6, A?: In@1, O: points@9, A?: along@11)	SVO (S: Abdul-Jabbar@18, V: "has", O: record@20)	SVA (V: "be scored", S: points@23, A!: by@25)
+308	SVA (V: "be played", S: overtimes@7, A!: in@9)	SVOC (V: managed@18, S: Celtics@17, XCOMP: overcome@20, O: Series@13)	SV (V: played@29, S: games@25)
+309	
+310	
+311	
+312	
+313	
+314	
+315	SVOO (V: had@8, S: Bulls@7, O: picks@12, A?: in@13, IO: July@1)	SVOA (V: stand@24, S: Forest@23, A!: forward@26, O: Johnson@28)
+316	
+317	
+318	
+319	
+320	
+321	
+322	SVO (V: lost@13, S: Bulls@12, A?: June@1, O: scorer@16)	SVO (S: their@14, V: "has", O: scorer@16)	SVO (V: signed@23, S: he@22, A?: when@21, A?: with@24, O: Gordon@19)	SVO (S: their@25, V: "has", O: rival@27)	SVC (S: rival@27, V: "is", C: Pistons@31)
+323	SVA (V: traded@10, S: Salmons@8, A?: On@1, A!: to@11, A?: for@15)
+324	SVA (V: traded@6, S: Thomas@4, A?: Meanwhile@1, A!: to@7, A?: for@11)
+325	SVO (V: clinched@9, S: Bulls@8, A?: On@1, O: playoffs@11, A?: with@12)	SVO (V: made@27, S: they@25, O: playoffs@29)
+326	SVO (S: Bulls@9, V: "has", O: run@12)	SVC (C: shorter@14, V: was@13, S: run@12, A?: Unlike@1, A?: however@6, A?: eliminated@21)	SVA (V: eliminated@21, S: they@19, A!: by@22, A?: in@26)
+327	SVO (V: fired@10, S: Bulls@8, A?: On@1, A?: officially@9, O: Negro@15)
+328	
+329	SVC (S: JOHNSON@1, V: "is", C: May@5)	SVC (S: May@5, V: "is", C: http@11)
+330	
+331	
+332	
+333	
+334	SVC (S: JOHNSON@1, V: "is", C: May@5)	SVC (S: May@5, V: "is", C: http@11)
+335	
+336	
+337	
+338	SVO (V: accepted@16, S: Thibodeau@15, A?: May@1, O: contract@19)	SVA (V: "be fill", S: contract@19, O: vacancy@27)	SVO (S: Bulls@23, V: "has", O: vacancy@27)
+339	
+340	SVC (S: Johnson@1, V: "is", C: Tribune@5)	SVC (S: Tribune@5, V: "is", C: June@7)
+341	SVA (V: introduced@4, S: He@1, A?: officially@3, A!: on@5)
+342	
+343	SVO (V: named@2, S: Thibodeau@1, O: coach@5)
+344	SVC (S: Interactive@3, V: "is", C: Inc@5)	SVC (S: June@6, V: "is", C: http@10)
+345	SVO (V: named@2, S: Thibodeau@1, O: coach@5)
+346	SVA (V: "be revealed", S: Interactive@3, A!: Inc@5, A?: June@6, CCOMP: agreed@27)	SVO (V: revealed@17, S: it@15, A?: Inc@5, A?: June@6, CCOMP: agreed@27)	SVA (V: agreed@27, S: Boozer@20, A?: verbally@26, A!: to@28)	SVC (S: $@30, V: "is", C: contract@36)
+347	SVA (V: "be create", S: Bulls@4, O: space@19)	SVO (V: traded@5, S: Bulls@4, A?: Afterwards@1, O: Hinrich@10, A?: to@11, A?: create@16)
+348	SVOC (V: signed@4, S: Bulls@2, A?: also@3, O: Korver@11, A?: to@12, O: contract@20)
+349	SVO (V: signed@8, S: Bulls@7, O: Korver@10)	SVO (V: signed@13, S: they@12, A?: day@3, O: Aşık@19)
+350	
+351	SVA (V: "be traded", S: Redick@1, A!: for@21)	SVOO (V: signed@3, S: they@2, O: agent@7, A?: from@8, A?: in@14, IO: Redick@1)	SVO (S: their@4, V: "has", O: agent@7)
+352	
+353	SVO (V: finished@2, S: Chicago@1, O: season@5, A?: with@6)
+354	SVO (V: entered@3, S: Bulls@2, O: playoffs@5, A?: respectively@22)	SVOC (V: defeated@8, S: Bulls@2, O: playoffs@5, O: Pacers@11, A?: in@16, A?: respectively@22)
+355	SVO (V: reached@3, S: They@1, A-: then@2, O: Finals@7, A?: for@8)	SVOC (V: faced@16, S: They@1, A-: then@2, O: Finals@7, A?: for@8, O: Heat@19)
+356	SVA (V: "be ending", S: they@14, O: 2010@25)	SVO (V: lost@15, S: they@14, A?: After@1, O: games@19, A?: to@20, A?: ending@23)	SVO (S: their@24, V: "has", O: 2010@25)
+357	SVO (V: drafted@7, S: Bulls@6, A?: During@1, O: Butler@9)
+358	SV (V: ended@5, S: lockout@4)	SVO (V: lost@9, S: Bulls@8, A?: ended@5, O: Thomas@11, A?: to@12)	SVOC (V: released@17, S: Bulls@8, A?: ended@5, O: Thomas@11, A?: to@12, O: Bogans@19)
+359	SVO (V: signed@3, S: Bulls@2, O: Rip@9, A?: to@12, A?: waived@20)	SVA (V: waived@20, S: he@18, A!: by@21)
+360	SVOO (V: gave@4, S: Bulls@2, A?: also@3, IO: Rose@7, O: extension@12)
+361	
+362	SVO (S: Bulls@3, V: "has", O: run@5)	SVC (V: became@12, S: introductions@11, A?: During@1, ACOMP: famous@14)
+363	SVC (C: first@7, V: was@5, S: Edwards@4, XCOMP: use@9, A?: On@15, A?: in@25)
+364	SVA (V: moved@3, S: Edwards@2, A?: When@1, A!: to@4, A?: for@6)	SVA (V: replaced@14, S: he@12, A?: moved@3, A!: by@15, A?: in@18)	SVO (V: continued@23, S: Clay@22, O: many@24, A?: for@47)	SVC (S: many@24, V: "is", C: Sirius@44)	SVO (S: Project@41, V: "has", O: Sirius@44)
+365	SVA (V: "be accompanied", S: introduction@10, A!: by@13)	SVA (V: "be composed", S: Wars@21, A!: by@23, A?: On@29)
+366	SVA (V: shut@9, S: lights@4, A-: Then@1, A!: for@11)	SVO (V: illuminates@19, S: spotlight@18, O: player@21, A?: introduced@25)	SV (V: introduced@25, S: he@23)	SVA (V: runs@27, S: he@23, A!: onto@28)	SVA (V: focused@36, S: spotlight@33, A?: also@35, A!: on@37, A?: prior@41)
+367	SV (V: added@14, S: move@3)	SVO (S: arena@21, V: "has", O: screen@26)	SV (V: added@36, S: graphics@29, A?: with@17)
+368	SVO (V: feature@3, S: graphics@2, O: Running@7)	SVO (S: Bulls@10, V: "has", O: route@13)	SVA (V: "be smashing", S: way@21, O: bus@24)	SVA (V: "be featuring", S: bus@24, O: logo@30)	SVO (S: team@28, V: "has", O: logo@30)
+369	SVO (V: wrote@5, S: Parsons@4, A?: Coincidentally@1, O: Sirius@7)	SVOC (C: engineer@17, V: was@14, S: Parsons@4, A?: Coincidentally@1, O: Sirius@7, A?: for@18, A?: On@20)	SVO (S: his@10, V: "has", O: band@12)	SVO (S: Floyd@26, V: "has", O: album@28)
+370	SVA (V: introduced@7, S: players@4, A?: Traditionally@1, A!: in@8)
+371	SVA (V: "be introduced", S: player@18)	SVC (C: player@18, V: was@9, S: Pippen@8, A?: during@2, A?: usually@10, A?: introduced@19)	SV (V: last@25, S: Jordan@23)
+372	SVC (C: players@8, V: are@5, S: Pippen@2, A?: play@10)	SVA (V: "be play", S: players@8, A!: on@11)
+373	SVO (S: Rose@6, V: "has", O: arrival@8)	SVO (V: reversed@14, S: guards@11, A?: with@4, A?: in@15, XCOMP: making@18)	SVA (V: "be introduced", S: player@27)
+374	SVA (V: led@5, S: disputes@3, A?: eventually@4, A!: to@6)	SVC (S: Clay@10, V: "is", C: Bulls@13)
+375	
+376	
+377	SVC (S: September@1, V: "is", C: http@6)
+378	
+379	SVO (S: Edwards@9, V: "has", O: return@11)	SVO (V: changed@15, S: September@1, A?: developed@21, O: all@34)	SVO (V: changed@15, S: introductions@14, A?: developed@21, O: all@34)	SVA (V: developed@21, S: introduction@19, A!: by@22)
+380	SVO (V: included@4, S: introduction@2, A?: also@3, O: remix@8)
+381	SVO (V: have@3, S: Bulls@2, O: tradition@6)	SVO (V: dates@24, S: playoffs@21, O: way@27, A?: debuted@33)	SVO (V: debuted@33, S: they@32, A?: when@31, O: tradition@35)
+382	
+383	
+384	
+385	
+386	
+387	
+388	
+389	
+390	SVC (V: became@7, S: they@6, A?: For@1, XCOMP: team@10)	SVA (V: "be wear", S: team@10, O: socks@14, A!: with@15)	SVO (V: started@31, S: Fab@28, O: trend@33)
+391	
+392	SVO (V: made@6, S: Bulls@5, A?: when@3, O: appearance@10)	S

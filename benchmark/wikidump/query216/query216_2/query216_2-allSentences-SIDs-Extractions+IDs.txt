@@ -1,0 +1,1386 @@
+the British politician Ipswich ( UK Parliament constituency )# Members of Parliament June 2011 yes Nicolas Cage 2011 CC.jpg 	0	query216_Nicolas_Cage\S\0
+"the British politician Ipswich # Members of Parliament June 2011 yes Nicolas Cage 2011 CC.jpg"	"is"	"UK Parliament constituency"	0	query216_Nicolas_Cage\P\0-0
+Cage at the 2011 San Diego Comic-Con International . 	1	query216_Nicolas_Cage\S\1
+yes 1964 1 7 Long Beach _ California , US Nicolas Kim Coppola Actor , producer , director 1980–present Patricia Arquette ( 1995–2001 ) Lisa Marie Presley ( 2002–2004 ) Alice Kim ( 2004–present ) August Coppola ( deceased ) Joy Vogelsang Marc Coppola ( brother ) Christopher Coppola ( brother ) Nicolas Cage ( born Nicolas Kim Coppola ; January 7 , 1964 ) is an Academy Award -winning American actor , producer and director , having appeared in over 60 films including Raising Arizona ( 1987 ) , The Rock ( 1996 ) , Face/Off ( 1997 ) , Gone in 60 Seconds ( 2000 ) , Adaptation ( 2002 ) , National Treasure ( 2004 ) , Lord of War ( 2005 ) , Bad Lieutenant : Port of Call New Orleans ( 2009 ) , and Kick-Ass ( 2010 ) . 	2	query216_Nicolas_Cage\S\2
+"1 7 Long Beach _ California"	"is"	"producer"	1964	query216_Nicolas_Cage\P\2-0
+"1 7 Long Beach _ California"	"is"	"director 1980"	1964	query216_Nicolas_Cage\P\2-1
+"1 7 Long Beach _ California"	"is"	"US Nicolas Kim Coppola Actor"	1964	query216_Nicolas_Cage\P\2-2
+"Alice Kim 2004 present August Coppola deceased Joy Vogelsang Marc Coppola"	"is"	"brother"	1964	query216_Nicolas_Cage\P\2-3
+"Alice Kim 2004 present August Coppola deceased Joy Vogelsang Marc Coppola Christopher Coppola"	"is"	"brother"	1964	query216_Nicolas_Cage\P\2-4
+"Alice Kim 2004 present August Coppola deceased Joy Vogelsang Marc Coppola Christopher Coppola Nicolas Cage born Nicolas Kim Coppola January 7 1964"	"is"	"Lisa Marie Presley 2002 2004 an Academy Award winning American actor having appeared in over 60 films including Raising Arizona Gone in 60 Seconds Port of Call New Orleans"	1964	query216_Nicolas_Cage\P\2-5
+"Alice Kim 2004 present August Coppola deceased Joy Vogelsang Marc Coppola Christopher Coppola Nicolas Cage born Nicolas Kim Coppola January 7 1964"	"is"	"Lisa Marie Presley 2002 2004 an Academy Award winning American actor having appeared in over 60 films including Raising Arizona Gone in 60 Seconds of Call New Orleans Kick-Ass"	1964	query216_Nicolas_Cage\P\2-6
+"winning American actor Port of Call New Orleans"	"be appeared"	"in over 60 films including Raising Arizona Gone in 60 Seconds"	1964	query216_Nicolas_Cage\P\2-7
+"winning American actor of Call New Orleans Kick-Ass"	"be appeared"	"in over 60 films including Raising Arizona Gone in 60 Seconds"	1964	query216_Nicolas_Cage\P\2-8
+"American actor"	"is"	"producer"	1964	query216_Nicolas_Cage\P\2-9
+"American actor"	"is"	"director"	1964	query216_Nicolas_Cage\P\2-10
+"Raising Arizona"	"is"	"1987"	1964	query216_Nicolas_Cage\P\2-11
+"Raising Arizona"	"is"	"The Rock"	1964	query216_Nicolas_Cage\P\2-12
+"Raising Arizona"	"is"	"Face/Off"	1964	query216_Nicolas_Cage\P\2-13
+"The Rock"	"is"	"1996"	1964	query216_Nicolas_Cage\P\2-14
+"The Rock"	"is"	"1996"	1964	query216_Nicolas_Cage\P\2-15
+"Seconds"	"is"	"Lord of War"	60	query216_Nicolas_Cage\P\2-16
+"Seconds"	"is"	"2000"	60	query216_Nicolas_Cage\P\2-17
+"Seconds"	"is"	"Adaptation"	60	query216_Nicolas_Cage\P\2-18
+"Seconds"	"is"	"Bad Lieutenant"	60	query216_Nicolas_Cage\P\2-19
+"Seconds"	"is"	"National Treasure"	60	query216_Nicolas_Cage\P\2-20
+"Seconds"	"is"	"National Treasure"	60	query216_Nicolas_Cage\P\2-21
+"National Treasure"	"is"	"2004"	60	query216_Nicolas_Cage\P\2-22
+"Lord of War"	"is"	"2005"	60	query216_Nicolas_Cage\P\2-23
+"Port of Call New Orleans"	"is"	"2009"	60	query216_Nicolas_Cage\P\2-24
+"of Call New Orleans Kick-Ass"	"is"	"2009"	60	query216_Nicolas_Cage\P\2-25
+"of Call New Orleans Kick-Ass"	"is"	"2009"	60	query216_Nicolas_Cage\P\2-26
+Cage was born Nicolas Kim Coppola According to the State of California . 	3	query216_Nicolas_Cage\S\3
+"Cage"	"was born"	"Nicolas Kim Coppola According to the State of California"	3	query216_Nicolas_Cage\P\3-0
+California Birth Index , 1905–1995 . 	4	query216_Nicolas_Cage\S\4
+Center for Health Statistics , California Department of Health Services , Sacramento , California . 	5	query216_Nicolas_Cage\S\5
+"Center for Health Statistics"	"is"	"California Department of Health Services"	5	query216_Nicolas_Cage\P\5-0
+"Center for Health Statistics"	"is"	"California Department of Health Sacramento"	5	query216_Nicolas_Cage\P\5-1
+"Health Services"	"is"	"California"	5	query216_Nicolas_Cage\P\5-2
+"Health Sacramento"	"is"	"California"	5	query216_Nicolas_Cage\P\5-3
+Searchable at http ://www.familytreelegends.com/records/39461 	6	query216_Nicolas_Cage\S\6
+on January 7 , 1964 Nicolas Cage – Biography http ://www.tiscali.co.uk/entertainment/film/biography/artist/nicolas-cage/biography/90 	7	query216_Nicolas_Cage\S\7
+Tiscali.co.uk 	8	query216_Nicolas_Cage\S\8
+October 21 , 2009 Nicolas Cage – Biography http ://www.tiscali.co.uk/entertainment/film/biography/artist/nicolas-cage/biography/90 	9	query216_Nicolas_Cage\S\9
+"October 21 Biography http www.tiscali.co.uk/entertainment/film/biography/artist/nicolas-cage/biography/90"	"is"	"2009 Nicolas Cage"	9	query216_Nicolas_Cage\P\9-0
+Tiscali.co.uk 	10	query216_Nicolas_Cage\S\10
+October 21 , 2009 – Encyclopædia Britannica Online , 18.12.2010 	11	query216_Nicolas_Cage\S\11
+. 	12	query216_Nicolas_Cage\S\12
+– Gale Research Company , 2000 . 	13	query216_Nicolas_Cage\S\13
+– Corinne J. 	14	query216_Nicolas_Cage\S\14
+Naden , Rose Blue . 	15	query216_Nicolas_Cage\S\15
+"Naden"	"is"	"Rose Blue"	15	query216_Nicolas_Cage\P\15-0
+Lucent Books , 2003 . 	16	query216_Nicolas_Cage\S\16
+"Lucent Books"	"is"	"2003"	16	query216_Nicolas_Cage\P\16-0
+in Long Beach _ California . 	17	query216_Nicolas_Cage\S\17
+His father , August Coppola , a professor of literature , and his mother , Joy Vogelsang , a dancer and choreographer , divorced in 1976 . 	18	query216_Nicolas_Cage\S\18
+His father , August Coppola , a professor of literature , and his mother , Joy Vogelsang , a dancer and choreographer , divorced in 1976 . 	18	query216_Nicolas_Cage\S\18
+"His father"	"is"	"August Coppola"	18	query216_Nicolas_Cage\P\18-0
+"His his mother"	"is"	"August Coppola"	18	query216_Nicolas_Cage\P\18-1
+"His father"	"is"	"a professor of literature"	18	query216_Nicolas_Cage\P\18-2
+"His his mother"	"is"	"a professor of literature"	18	query216_Nicolas_Cage\P\18-3
+"His father"	"is"	"Joy Vogelsang"	18	query216_Nicolas_Cage\P\18-4
+"His his mother"	"is"	"Joy Vogelsang"	18	query216_Nicolas_Cage\P\18-5
+"His father"	"is"	"a dancer"	18	query216_Nicolas_Cage\P\18-6
+"His father"	"is"	"a choreographer"	18	query216_Nicolas_Cage\P\18-7
+"His his mother"	"is"	"a dancer"	18	query216_Nicolas_Cage\P\18-8
+"His his mother"	"is"	"a choreographer"	18	query216_Nicolas_Cage\P\18-9
+"His his mother"	"is"	"a choreographer"	18	query216_Nicolas_Cage\P\18-10
+"His father"	"divorced"	"in 1976"	18	query216_Nicolas_Cage\P\18-11
+"His his mother"	"divorced"	"in 1976"	18	query216_Nicolas_Cage\P\18-12
+He was raised in a Catholic family . 	19	query216_Nicolas_Cage\S\19
+He was raised in a Catholic family . 	19	query216_Nicolas_Cage\S\19
+He was raised in a Catholic family . 	19	query216_Nicolas_Cage\S\19
+Nicholas y Cage is back with digit-al thriller 'Knowing ' http ://www.nydailynews.com/entertainment/movies/2009/03/15/2009-03-15_nicholas_cage_is_back_with_digital_thril 	20	query216_Nicolas_Cage\S\20
+"Nicholas y Cage"	"is"	"back with digit-al thriller Knowing http www.nydailynews.com/entertainment/movies/2009/03/15/2009-03-15_nicholas_cage_is_back_with_digital_thril"	20	query216_Nicolas_Cage\P\20-0
+.html 	21	query216_Nicolas_Cage\S\21
+Daily News July 27 , 2011 New York yes January 2012 RjwilmsiBot Nicholas y Cage is back with digit-al thriller 'Knowing ' http ://www.nydailynews.com/entertainment/movies/2009/03/15/2009-03-15_nicholas_cage_is_back_with_digital_thril 	22	query216_Nicolas_Cage\S\22
+"Daily News July 27"	"is"	"2011 New York"	22	query216_Nicolas_Cage\P\22-0
+"January 2012 RjwilmsiBot Nicholas y Cage"	"is"	"back with digit-al thriller Knowing http www.nydailynews.com/entertainment/movies/2009/03/15/2009-03-15_nicholas_cage_is_back_with_digital_thril"	22	query216_Nicolas_Cage\P\22-1
+.html 	23	query216_Nicolas_Cage\S\23
+Daily News July 27 , 2011 New York yes January 2012 RjwilmsiBot This much I know : Karen Koster http ://www.irishexaminer.com/weekend/features/this-much-i-know-karen-koster-155089.html 	24	query216_Nicolas_Cage\S\24
+Daily News July 27 , 2011 New York yes January 2012 RjwilmsiBot This much I know : Karen Koster http ://www.irishexaminer.com/weekend/features/this-much-i-know-karen-koster-155089.html 	24	query216_Nicolas_Cage\S\24
+Irish Examiner July 27 , 2011 This much I know : Karen Koster http ://www.irishexaminer.com/weekend/features/this-much-i-know-karen-koster-155089.html 	25	query216_Nicolas_Cage\S\25
+Irish Examiner July 27 , 2011 This much I know : Karen Koster http ://www.irishexaminer.com/weekend/features/this-much-i-know-karen-koster-155089.html 	25	query216_Nicolas_Cage\S\25
+Irish Examiner July 27 , 2011 Cage 's mother is of German descent and his father was of Italian descent ( his paternal grandparents were composer Carmine Coppola and actress Italia Pennino , and his paternal great-grandparents were immigrants from Bernalda , Basilicata ) . 	26	query216_Nicolas_Cage\S\26
+"July 27 is of German descent"	"is"	"2011 Cage 's mother"	26	query216_Nicolas_Cage\P\26-0
+"July 27 of German descent his father was of Italian descent"	"is"	"2011 Cage 's mother"	26	query216_Nicolas_Cage\P\26-1
+"Cage"	"has"	"mother"	2011	query216_Nicolas_Cage\P\26-2
+"Cage"	"has"	"mother"	2011	query216_Nicolas_Cage\P\26-3
+"his father"	"was"	"of Italian descent"	2011	query216_Nicolas_Cage\P\26-4
+"his father"	"was"	"of Italian descent"	2011	query216_Nicolas_Cage\P\26-5
+"his paternal grandparents"	"were"	"composer Carmine Coppola"	2011	query216_Nicolas_Cage\P\26-6
+"his paternal grandparents"	"were"	"composer Carmine actress Italia Pennino"	2011	query216_Nicolas_Cage\P\26-7
+"his paternal grandparents"	"were"	"composer Carmine actress Italia Pennino"	2011	query216_Nicolas_Cage\P\26-8
+"his paternal great-grandparents"	"were immigrants"	"from Bernalda"	2011	query216_Nicolas_Cage\P\26-9
+"his paternal great-grandparents"	"were"	"immigrants"	2011	query216_Nicolas_Cage\P\26-10
+"his paternal great-grandparents"	"were"	"immigrants"	2011	query216_Nicolas_Cage\P\26-11
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Through his father , Cage is the nephew of director Francis Ford Coppola and actress Talia Shire , and the cousin of directors Roman Coppola and Sofia Coppola , film producer Gian-Carlo Coppola , and actors Robert Carmine and Jason Schwartzman . 	27	query216_Nicolas_Cage\S\27
+Cage 's two brothers are New York radio personality Marc " The Cope " Coppola and director Christopher Coppola . 	28	query216_Nicolas_Cage\S\28
+"Cage"	"has"	"two brothers"	28	query216_Nicolas_Cage\P\28-0
+"Cage 's two brothers"	"are"	"New York radio personality Marc The Cope Coppola"	28	query216_Nicolas_Cage\P\28-1
+"Cage 's two brothers"	"are"	"New York radio personality Marc The Cope director Christopher Coppola"	28	query216_Nicolas_Cage\P\28-2
+He attended Beverly Hills High School , which is known for its many alumni who became entertainers . 	29	query216_Nicolas_Cage\S\29
+He attended Beverly Hills High School , which is known for its many alumni who became entertainers . 	29	query216_Nicolas_Cage\S\29
+"Beverly Hills High School"	"is known"	"for its many alumni"	29	query216_Nicolas_Cage\P\29-0
+"Beverly Hills High School"	"is known"	"for its many alumni"	29	query216_Nicolas_Cage\P\29-1
+"its many alumni"	"became"	"entertainers"	29	query216_Nicolas_Cage\P\29-2
+He aspired to act from an early age and also attended UCLA School of Theatre , Film and Television . 	30	query216_Nicolas_Cage\S\30
+He aspired to act from an early age and also attended UCLA School of Theatre , Film and Television . 	30	query216_Nicolas_Cage\S\30
+He aspired to act from an early age and also attended UCLA School of Theatre , Film and Television . 	30	query216_Nicolas_Cage\S\30
+He aspired to act from an early age and also attended UCLA School of Theatre , Film and Television . 	30	query216_Nicolas_Cage\S\30
+"UCLA School of Theatre"	"is"	"Film"	30	query216_Nicolas_Cage\P\30-0
+"UCLA School of Theatre"	"is"	"Television"	30	query216_Nicolas_Cage\P\30-1
+His first non-cinematic acting experience was in a school production of Golden Boy . 	31	query216_Nicolas_Cage\S\31
+His first non-cinematic acting experience was in a school production of Golden Boy . 	31	query216_Nicolas_Cage\S\31
+"His first non-cinematic acting experience"	"was"	"in a school production of Golden Boy"	31	query216_Nicolas_Cage\P\31-0
+To avoid the appearance of nepotism as the nephew of Francis Ford Coppola , he changed his name early in his career to Nicolas Cage , inspired in part by the Marvel Comics superhero Luke Cage . 	32	query216_Nicolas_Cage\S\32
+To avoid the appearance of nepotism as the nephew of Francis Ford Coppola , he changed his name early in his career to Nicolas Cage , inspired in part by the Marvel Comics superhero Luke Cage . 	32	query216_Nicolas_Cage\S\32
+To avoid the appearance of nepotism as the nephew of Francis Ford Coppola , he changed his name early in his career to Nicolas Cage , inspired in part by the Marvel Comics superhero Luke Cage . 	32	query216_Nicolas_Cage\S\32
+To avoid the appearance of nepotism as the nephew of Francis Ford Coppola , he changed his name early in his career to Nicolas Cage , inspired in part by the Marvel Comics superhero Luke Cage . 	32	query216_Nicolas_Cage\S\32
+To avoid the appearance of nepotism as the nephew of Francis Ford Coppola , he changed his name early in his career to Nicolas Cage , inspired in part by the Marvel Comics superhero Luke Cage . 	32	query216_Nicolas_Cage\S\32
+To avoid the appearance of nepotism as the nephew of Francis Ford Coppola , he changed his name early in his career to Nicolas Cage , inspired in part by the Marvel Comics superhero Luke Cage . 	32	query216_Nicolas_Cage\S\32
+Since his minor role in the film Fast Times at Ridgemont High , with Sean Penn , Cage has appeared in a wide range of films , both mainstream and offbeat . 	33	query216_Nicolas_Cage\S\33
+Since his minor role in the film Fast Times at Ridgemont High , with Sean Penn , Cage has appeared in a wide range of films , both mainstream and offbeat . 	33	query216_Nicolas_Cage\S\33
+"Sean Penn"	"is"	"Cage"	33	query216_Nicolas_Cage\P\33-0
+"Sean Penn"	"has appeared"	"in a wide range of films 33 Since his minor role in the film Fast Times at Ridgemont High"	33	query216_Nicolas_Cage\P\33-1
+"Sean Penn"	"has appeared"	"in a wide range of films 33 Since his minor role in the film Fast Times at Ridgemont High"	33	query216_Nicolas_Cage\P\33-2
+"Sean Penn"	"has appeared"	"33 Since his minor role in the film Fast Times at Ridgemont High"	33	query216_Nicolas_Cage\P\33-3
+"Sean Penn"	"has appeared"	"33 Since his minor role in the film Fast Times at Ridgemont High"	33	query216_Nicolas_Cage\P\33-4
+He tried out for the role of Dallas Winston in his uncle 's film The Outsiders , based on S.E. 	34	query216_Nicolas_Cage\S\34
+He tried out for the role of Dallas Winston in his uncle 's film The Outsiders , based on S.E. 	34	query216_Nicolas_Cage\S\34
+He tried out for the role of Dallas Winston in his uncle 's film The Outsiders , based on S.E. 	34	query216_Nicolas_Cage\S\34
+He tried out for the role of Dallas Winston in his uncle 's film The Outsiders , based on S.E. 	34	query216_Nicolas_Cage\S\34
+"The Outsiders"	"be based"	"on S.E."	34	query216_Nicolas_Cage\P\34-0
+Hinton 's novel , but lost to Matt Dillon . 	35	query216_Nicolas_Cage\S\35
+Hinton 's novel , but lost to Matt Dillon . 	35	query216_Nicolas_Cage\S\35
+He was also in Coppola 's films Rumble Fish and Peggy Sue Got Married . 	36	query216_Nicolas_Cage\S\36
+He was also in Coppola 's films Rumble Fish and Peggy Sue Got Married . 	36	query216_Nicolas_Cage\S\36
+He was also in Coppola 's films Rumble Fish and Peggy Sue Got Married . 	36	query216_Nicolas_Cage\S\36
+He was also in Coppola 's films Rumble Fish and Peggy Sue Got Married . 	36	query216_Nicolas_Cage\S\36
+He was also in Coppola 's films Rumble Fish and Peggy Sue Got Married . 	36	query216_Nicolas_Cage\S\36
+He was also in Coppola 's films Rumble Fish and Peggy Sue Got Married . 	36	query216_Nicolas_Cage\S\36
+Other Cage roles included appearances in the acclaimed 1987 romantic-comedy Moonstruck , also starring Cher ; The Coen Brothers cult-classic comedy Raising Arizona ; David Lynch 's 1990 offbeat film Wild at Heart ; a lead role in Martin Scorsese 's 1999 New York City paramedic drama Bringing Out the Dead ; and Ridley Scott 's 2003 quirky drama Matchstick Men , in which he played an agoraphobic , mysophobic , obsessive-compulsive con artist with a tic disorder . 	37	query216_Nicolas_Cage\S\37
+"Other Cage roles"	"included"	"appearances in the acclaimed 1987 romantic-comedy Moonstruck also starring Cher The Coen Brothers cult-classic comedy Raising Arizona"	37	query216_Nicolas_Cage\P\37-0
+"Other Cage roles"	"included"	"appearances in the acclaimed 1987 romantic-comedy also starring Cher The Coen Brothers cult-classic comedy Raising Arizona David Lynch 's 1990 offbeat film Wild at Heart"	37	query216_Nicolas_Cage\P\37-1
+"Other Cage roles"	"included"	"appearances in the acclaimed 1987 romantic-comedy also starring Cher The Coen Brothers cult-classic comedy Raising Arizona a lead role in Martin Scorsese 's 1999 New York City paramedic drama Bringing Out the Dead"	37	query216_Nicolas_Cage\P\37-2
+"Other Cage roles"	"included"	"appearances in the acclaimed 1987 romantic-comedy also starring Cher The Coen Brothers cult-classic comedy Raising Arizona Ridley Scott 's 2003 quirky drama Matchstick Men"	37	query216_Nicolas_Cage\P\37-3
+"the acclaimed 1987 romantic-comedy Moonstruck The Coen Brothers cult-classic comedy Raising Arizona"	"be starring"	"also Cher"	37	query216_Nicolas_Cage\P\37-4
+"the acclaimed 1987 romantic-comedy The Coen Brothers cult-classic comedy Raising Arizona David Lynch 's 1990 offbeat film Wild at Heart"	"be starring"	"also Cher"	37	query216_Nicolas_Cage\P\37-5
+"the acclaimed 1987 romantic-comedy The Coen Brothers cult-classic comedy Raising Arizona a lead role in Martin Scorsese 's 1999 New York City paramedic drama Bringing Out the Dead"	"be starring"	"also Cher"	37	query216_Nicolas_Cage\P\37-6
+"the acclaimed 1987 romantic-comedy The Coen Brothers cult-classic comedy Raising Arizona Ridley Scott 's 2003 quirky drama Matchstick Men"	"be starring"	"also Cher"	37	query216_Nicolas_Cage\P\37-7
+"David Lynch"	"has"	"1990 offbeat film Wild at Heart"	37	query216_Nicolas_Cage\P\37-8
+"Martin Scorsese"	"has"	"1999 New York City paramedic drama Bringing Out the Dead"	37	query216_Nicolas_Cage\P\37-9
+"Ridley Scott"	"has"	"2003 quirky drama Matchstick Men"	37	query216_Nicolas_Cage\P\37-10
+"Ridley Scott"	"has"	"2003 quirky drama Matchstick Men"	37	query216_Nicolas_Cage\P\37-11
+"Ridley Scott"	"has"	"2003 quirky drama Matchstick Men"	37	query216_Nicolas_Cage\P\37-12
+"Ridley Scott"	"has"	"2003 quirky drama Matchstick Men"	37	query216_Nicolas_Cage\P\37-13
+Cage has been nominated twice for an Academy Award , winning once for his performance as a suicidal alcoholic in Leaving Las Vegas . 	38	query216_Nicolas_Cage\S\38
+"Cage"	"has been nominated"	"twice winning once for his performance as a suicidal alcoholic in Leaving Las Vegas"	38	query216_Nicolas_Cage\P\38-0
+"Cage"	"has been nominated"	"twice winning once"	38	query216_Nicolas_Cage\P\38-1
+"Cage"	"has been nominated"	"for an Academy Award winning once for his performance as a suicidal alcoholic in Leaving Las Vegas"	38	query216_Nicolas_Cage\P\38-2
+"Cage"	"has been nominated"	"for an Academy Award winning once"	38	query216_Nicolas_Cage\P\38-3
+"Cage"	"has been nominated"	"winning once for his performance as a suicidal alcoholic in Leaving Las Vegas"	38	query216_Nicolas_Cage\P\38-4
+"Cage"	"has been nominated"	"winning once"	38	query216_Nicolas_Cage\P\38-5
+"Cage"	"has been nominated"	"winning once"	38	query216_Nicolas_Cage\P\38-6
+His other nomination was for his portrayal of real-life screenwriter Charlie Kaufman and Kaufman 's fictional twin Donald in Adaptation . 	39	query216_Nicolas_Cage\S\39
+His other nomination was for his portrayal of real-life screenwriter Charlie Kaufman and Kaufman 's fictional twin Donald in Adaptation . 	39	query216_Nicolas_Cage\S\39
+"His other nomination"	"was"	"for his portrayal of real-life screenwriter Charlie Kaufman"	39	query216_Nicolas_Cage\P\39-0
+"His other nomination"	"was"	"for his portrayal of real-life screenwriter Charlie Kaufman 's fictional twin Donald in Adaptation"	39	query216_Nicolas_Cage\P\39-1
+"His other nomination"	"was"	"for his portrayal of real-life screenwriter Charlie Kaufman 's fictional twin Donald in Adaptation"	39	query216_Nicolas_Cage\P\39-2
+"His other nomination"	"was"	"for his portrayal of real-life screenwriter Charlie Kaufman 's fictional twin Donald in Adaptation"	39	query216_Nicolas_Cage\P\39-3
+"His other nomination"	"was"	"for his portrayal of real-life screenwriter Charlie Kaufman 's fictional twin Donald in Adaptation"	39	query216_Nicolas_Cage\P\39-4
+Despite these successes , most of his lower-profile films have performed poorly at the box office compared to his mainstream action/adventure roles . 	40	query216_Nicolas_Cage\S\40
+Despite these successes , most of his lower-profile films have performed poorly at the box office compared to his mainstream action/adventure roles . 	40	query216_Nicolas_Cage\S\40
+"most of his lower-profile films"	"have performed"	"poorly at the box office"	40	query216_Nicolas_Cage\P\40-0
+"most of his lower-profile films"	"have performed"	"poorly compared to his mainstream action/adventure roles"	40	query216_Nicolas_Cage\P\40-1
+"most of his lower-profile films"	"have performed"	"poorly"	40	query216_Nicolas_Cage\P\40-2
+"most of his lower-profile films"	"have performed"	"poorly"	40	query216_Nicolas_Cage\P\40-3
+The suspense thriller 8mm ( 1999 ) was not a box office success , but is now considered a cult film . 	41	query216_Nicolas_Cage\S\41
+"The suspense thriller 8mm"	"is"	"1999"	41	query216_Nicolas_Cage\P\41-0
+"The suspense thriller 8mm"	"was not"	"a box office success"	41	query216_Nicolas_Cage\P\41-1
+"The suspense thriller 8mm"	"was not is a box office considered"	"now a cult film"	41	query216_Nicolas_Cage\P\41-2
+"The suspense thriller 8mm"	"was not is a box office considered"	"a cult film"	41	query216_Nicolas_Cage\P\41-3
+He took the lead role in the 2001 film Captain Corelli 's Mandolin and learned to play the mandolin from scratch for the part . 	42	query216_Nicolas_Cage\S\42
+He took the lead role in the 2001 film Captain Corelli 's Mandolin and learned to play the mandolin from scratch for the part . 	42	query216_Nicolas_Cage\S\42
+He took the lead role in the 2001 film Captain Corelli 's Mandolin and learned to play the mandolin from scratch for the part . 	42	query216_Nicolas_Cage\S\42
+He took the lead role in the 2001 film Captain Corelli 's Mandolin and learned to play the mandolin from scratch for the part . 	42	query216_Nicolas_Cage\S\42
+He took the lead role in the 2001 film Captain Corelli 's Mandolin and learned to play the mandolin from scratch for the part . 	42	query216_Nicolas_Cage\S\42
+"film Captain Corelli"	"has"	"the 2001 Mandolin"	42	query216_Nicolas_Cage\P\42-0
+In 2005 , two offbeat films he headlined , Lord of War and The Weather Man , failed to find a significant audience despite nationwide releases and good reviews for his acting in those roles . 	43	query216_Nicolas_Cage\S\43
+In 2005 , two offbeat films he headlined , Lord of War and The Weather Man , failed to find a significant audience despite nationwide releases and good reviews for his acting in those roles . 	43	query216_Nicolas_Cage\S\43
+In 2005 , two offbeat films he headlined , Lord of War and The Weather Man , failed to find a significant audience despite nationwide releases and good reviews for his acting in those roles . 	43	query216_Nicolas_Cage\S\43
+In 2005 , two offbeat films he headlined , Lord of War and The Weather Man , failed to find a significant audience despite nationwide releases and good reviews for his acting in those roles . 	43	query216_Nicolas_Cage\S\43
+In 2005 , two offbeat films he headlined , Lord of War and The Weather Man , failed to find a significant audience despite nationwide releases and good reviews for his acting in those roles . 	43	query216_Nicolas_Cage\S\43
+"In 2005 two offbeat films"	"failed"	"to find a significant audience despite nationwide releases for his acting in those roles"	43	query216_Nicolas_Cage\P\43-0
+"In 2005 two offbeat films"	"failed"	"to find a significant audience despite nationwide good reviews for his acting in those roles"	43	query216_Nicolas_Cage\P\43-1
+"In 2005 two offbeat films"	"failed"	"to find a significant audience"	43	query216_Nicolas_Cage\P\43-2
+"In 2005 two offbeat films"	"failed"	"to find a significant audience"	43	query216_Nicolas_Cage\P\43-3
+Poor reviews for The Wicker Man resulted in low box office sales . 	44	query216_Nicolas_Cage\S\44
+"Poor reviews for The Wicker Man"	"resulted"	"in low box office sales"	44	query216_Nicolas_Cage\P\44-0
+The much criticized Ghost Rider ( 2007 ) , based on the Marvel Comics character , fared better , earning more than $ 45&nbsp;million ( the top earner ) during its opening weekend and over $ 208&nbsp;million worldwide through the weekend ending on March 25 , 2007 . 	45	query216_Nicolas_Cage\S\45
+The much criticized Ghost Rider ( 2007 ) , based on the Marvel Comics character , fared better , earning more than $ 45&nbsp;million ( the top earner ) during its opening weekend and over $ 208&nbsp;million worldwide through the weekend ending on March 25 , 2007 . 	45	query216_Nicolas_Cage\S\45
+"Ghost Rider based on the Marvel Comics character"	"is"	"2007"	45	query216_Nicolas_Cage\P\45-0
+"Ghost Rider"	"be based"	"on the Marvel Comics character"	45	query216_Nicolas_Cage\P\45-1
+"more than $ 45 million"	"is"	"the top earner"	45	query216_Nicolas_Cage\P\45-2
+"more than $ 45 million"	"is"	"the top earner"	45	query216_Nicolas_Cage\P\45-3
+"the weekend"	"be ending"	"on March 25 2007"	45	query216_Nicolas_Cage\P\45-4
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+Also in 2007 , he made his directorial debut in Sonny and he starred in Next , which shares the concept of a glimpse into an alternate timeline with The Family Man ( 2000 ) . 	46	query216_Nicolas_Cage\S\46
+"The Family Man"	"is"	"2000"	46	query216_Nicolas_Cage\P\46-0
+Most of Cage 's movies that have achieved financial success were in the action/adventure genre . 	47	query216_Nicolas_Cage\S\47
+Most of Cage 's movies that have achieved financial success were in the action/adventure genre . 	47	query216_Nicolas_Cage\S\47
+"Cage 's movies"	"have achieved"	"financial success"	47	query216_Nicolas_Cage\P\47-0
+"Most of Cage 's movies"	"were"	"in the action/adventure genre"	47	query216_Nicolas_Cage\P\47-1
+In his second-highest grossing film to date , National Treasure , he plays an eccentric historian who goes on a dangerous adventure to find treasure hidden by the Founding Fathers of the United States . 	48	query216_Nicolas_Cage\S\48
+In his second-highest grossing film to date , National Treasure , he plays an eccentric historian who goes on a dangerous adventure to find treasure hidden by the Founding Fathers of the United States . 	48	query216_Nicolas_Cage\S\48
+In his second-highest grossing film to date , National Treasure , he plays an eccentric historian who goes on a dangerous adventure to find treasure hidden by the Founding Fathers of the United States . 	48	query216_Nicolas_Cage\S\48
+"an eccentric historian"	"goes"	"on a dangerous adventure to find treasure hidden by the Founding Fathers of the United States"	48	query216_Nicolas_Cage\P\48-0
+"a dangerous adventure"	"be find"	"treasure hidden by the Founding Fathers of the United States"	48	query216_Nicolas_Cage\P\48-1
+"a dangerous adventure"	"be find"	"treasure hidden by the Founding Fathers of the United States"	48	query216_Nicolas_Cage\P\48-2
+Other action hits include The Rock , in which Cage plays a young FBI chemical weapons expert who infiltrates Alcatraz Island in hopes of neutralizing a terrorist threat , Face/Off , a John Woo film where he plays both a hero and a villain , and World Trade Center , director Oliver Stone 's film regarding the September 11_ 2001 attacks . 	49	query216_Nicolas_Cage\S\49
+"Other action hits"	"include"	"The Rock"	49	query216_Nicolas_Cage\P\49-0
+"Other action hits"	"include"	"The Rock"	49	query216_Nicolas_Cage\P\49-1
+"Other action hits"	"include"	"The Rock"	49	query216_Nicolas_Cage\P\49-2
+"Other action hits"	"include"	"The Rock"	49	query216_Nicolas_Cage\P\49-3
+"Other action hits"	"include"	"The Rock"	49	query216_Nicolas_Cage\P\49-4
+"a terrorist threat"	"is"	"a John Woo film"	49	query216_Nicolas_Cage\P\49-5
+"a terrorist World Trade Center"	"is"	"a John Woo film"	49	query216_Nicolas_Cage\P\49-6
+"a terrorist threat"	"is"	"Face/Off"	49	query216_Nicolas_Cage\P\49-7
+"a terrorist World Trade Center"	"is"	"Face/Off"	49	query216_Nicolas_Cage\P\49-8
+"a terrorist World Trade Center"	"is"	"Face/Off"	49	query216_Nicolas_Cage\P\49-9
+"a terrorist World Trade Center"	"is"	"Face/Off"	49	query216_Nicolas_Cage\P\49-10
+"a terrorist World Trade Center"	"is"	"Face/Off"	49	query216_Nicolas_Cage\P\49-11
+"a terrorist World Trade Center"	"is"	"Face/Off"	49	query216_Nicolas_Cage\P\49-12
+"World Trade Center"	"is"	"director Oliver Stone 's film regarding the September 11 _ 2001 attacks"	49	query216_Nicolas_Cage\P\49-13
+"director Oliver Stone"	"has"	"film regarding the September 11 _ 2001 attacks"	49	query216_Nicolas_Cage\P\49-14
+He had a small but notable role as the Chinese criminal mastermind Dr. 	50	query216_Nicolas_Cage\S\50
+He had a small but notable role as the Chinese criminal mastermind Dr. 	50	query216_Nicolas_Cage\S\50
+He had a small but notable role as the Chinese criminal mastermind Dr. 	50	query216_Nicolas_Cage\S\50
+He had a small but notable role as the Chinese criminal mastermind Dr. 	50	query216_Nicolas_Cage\S\50
+He had a small but notable role as the Chinese criminal mastermind Dr. 	50	query216_Nicolas_Cage\S\50
+Fu Manchu in Rob Zombie 's fake trailer Werewolf Women of the S.S. 	51	query216_Nicolas_Cage\S\51
+"Rob Zombie"	"has"	"fake trailer Werewolf Women of the S.S."	51	query216_Nicolas_Cage\P\51-0
+from the B-movie double feature Grindhouse . 	52	query216_Nicolas_Cage\S\52
+Cage made his directorial debut with Sonny , a low-budget drama starring James Franco as a male prostitute whose mother ( Brenda Blethyn ) serves as his pimp . 	53	query216_Nicolas_Cage\S\53
+"Cage"	"made"	"his directorial debut with Sonny"	53	query216_Nicolas_Cage\P\53-0
+"Cage"	"made"	"his directorial debut with Sonny"	53	query216_Nicolas_Cage\P\53-1
+"Cage"	"made"	"his directorial debut with Sonny"	53	query216_Nicolas_Cage\P\53-2
+"a low-budget drama"	"be starring"	"James Franco as a male prostitute"	53	query216_Nicolas_Cage\P\53-3
+"a male prostitute"	"has"	"mother"	53	query216_Nicolas_Cage\P\53-4
+"whose mother"	"is"	"Brenda Blethyn"	53	query216_Nicolas_Cage\P\53-5
+"a male prostitute mother"	"serves"	"as his pimp"	53	query216_Nicolas_Cage\P\53-6
+"a male prostitute mother"	"serves"	"as his pimp"	53	query216_Nicolas_Cage\P\53-7
+Cage had a small role in the film , which received poor reviews and a short run in a limited number of theatres . 	54	query216_Nicolas_Cage\S\54
+"Cage"	"had"	"a small role in the film"	54	query216_Nicolas_Cage\P\54-0
+"Cage"	"had"	"a small role"	54	query216_Nicolas_Cage\P\54-1
+"the film"	"received"	"poor reviews"	54	query216_Nicolas_Cage\P\54-2
+"the film"	"received"	"poor a short run in a limited number of theatres"	54	query216_Nicolas_Cage\P\54-3
+Cage 's producing career includes Shadow of the Vampire , the first effort from Saturn Films . 	55	query216_Nicolas_Cage\S\55
+Cage 's producing career includes Shadow of the Vampire , the first effort from Saturn Films . 	55	query216_Nicolas_Cage\S\55
+"Cage 's producing career"	"includes"	"Shadow of the Vampire"	55	query216_Nicolas_Cage\P\55-0
+"Shadow of the Vampire"	"is"	"the first effort from Saturn Films"	55	query216_Nicolas_Cage\P\55-1
+In early December 2006 , Cage announced at the Bahamas International Film Festival that he planned to curtail his future acting endeavors to pursue other interests . 	56	query216_Nicolas_Cage\S\56
+In early December 2006 , Cage announced at the Bahamas International Film Festival that he planned to curtail his future acting endeavors to pursue other interests . 	56	query216_Nicolas_Cage\S\56
+In early December 2006 , Cage announced at the Bahamas International Film Festival that he planned to curtail his future acting endeavors to pursue other interests . 	56	query216_Nicolas_Cage\S\56
+In early December 2006 , Cage announced at the Bahamas International Film Festival that he planned to curtail his future acting endeavors to pursue other interests . 	56	query216_Nicolas_Cage\S\56
+In early December 2006 , Cage announced at the Bahamas International Film Festival that he planned to curtail his future acting endeavors to pursue other interests . 	56	query216_Nicolas_Cage\S\56
+"to curtail his future acting endeavors"	"be pursue"	"other interests"	56	query216_Nicolas_Cage\P\56-0
+"to curtail his future acting endeavors"	"be pursue"	"other interests"	56	query216_Nicolas_Cage\P\56-1
+On The Dresden Files for the Sci-Fi Channel , Cage is listed as the executive producer . 	57	query216_Nicolas_Cage\S\57
+On The Dresden Files for the Sci-Fi Channel , Cage is listed as the executive producer . 	57	query216_Nicolas_Cage\S\57
+On The Dresden Files for the Sci-Fi Channel , Cage is listed as the executive producer . 	57	query216_Nicolas_Cage\S\57
+Cage said : " I feel I 've made a lot of movies already and I want to start exploring other opportunities that I can apply myself to , whether it 's writing or other interests that I may develop . 	58	query216_Nicolas_Cage\S\58
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's writing"	58	query216_Nicolas_Cage\P\58-0
+"Cage"	"said"	"I feel I 've a lot of movies already I want to start exploring other opportunities that I can apply myself to whether it 's writing"	58	query216_Nicolas_Cage\P\58-1
+"Cage"	"said"	"I feel I 've a lot of movies already I want to start exploring other opportunities that I can apply myself to whether it 's other interests"	58	query216_Nicolas_Cage\P\58-2
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-3
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-4
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-5
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-6
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-7
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-8
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-9
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-10
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-11
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-12
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-13
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-14
+"Cage"	"said"	"I feel I 've made a lot of movies already whether it 's other interests"	58	query216_Nicolas_Cage\P\58-15
+" In November 2007 , Cage was spotted backstage at a Ring of Honor wrestling show in New York City researching his role for The Wrestler . 	59	query216_Nicolas_Cage\S\59
+" In November 2007 , Cage was spotted backstage at a Ring of Honor wrestling show in New York City researching his role for The Wrestler . 	59	query216_Nicolas_Cage\S\59
+" In November 2007 , Cage was spotted backstage at a Ring of Honor wrestling show in New York City researching his role for The Wrestler . 	59	query216_Nicolas_Cage\S\59
+"Honor wrestling show in New York City"	"be researching"	"his role for The Wrestler"	59	query216_Nicolas_Cage\P\59-0
+"Honor wrestling show in New York City"	"be researching"	"his role for The Wrestler"	59	query216_Nicolas_Cage\P\59-1
+The role was ultimately played by Mickey Rourke , who received an Academy Award nomination for his performance . 	60	query216_Nicolas_Cage\S\60
+"The role"	"was played"	"by Mickey Rourke ultimately"	60	query216_Nicolas_Cage\P\60-0
+"The role"	"was played"	"by Mickey Rourke"	60	query216_Nicolas_Cage\P\60-1
+"Mickey Rourke"	"received"	"an Academy Award nomination for his performance"	60	query216_Nicolas_Cage\P\60-2
+"Mickey Rourke"	"received"	"an Academy Award nomination for his performance"	60	query216_Nicolas_Cage\P\60-3
+Wrestler Director Darren Aronofsky , in an interview with slashfilm.com 	61	query216_Nicolas_Cage\S\61
+, said of Cage 's decision to leave the film that : " Nic was a complete gentleman , and he understood that my heart was with Mickey and he stepped aside . 	62	query216_Nicolas_Cage\S\62
+, said of Cage 's decision to leave the film that : " Nic was a complete gentleman , and he understood that my heart was with Mickey and he stepped aside . 	62	query216_Nicolas_Cage\S\62
+, said of Cage 's decision to leave the film that : " Nic was a complete gentleman , and he understood that my heart was with Mickey and he stepped aside . 	62	query216_Nicolas_Cage\S\62
+, said of Cage 's decision to leave the film that : " Nic was a complete gentleman , and he understood that my heart was with Mickey and he stepped aside . 	62	query216_Nicolas_Cage\S\62
+, said of Cage 's decision to leave the film that : " Nic was a complete gentleman , and he understood that my heart was with Mickey and he stepped aside . 	62	query216_Nicolas_Cage\S\62
+, said of Cage 's decision to leave the film that : " Nic was a complete gentleman , and he understood that my heart was with Mickey and he stepped aside . 	62	query216_Nicolas_Cage\S\62
+, said of Cage 's decision to leave the film that : " Nic was a complete gentleman , and he understood that my heart was with Mickey and he stepped aside . 	62	query216_Nicolas_Cage\S\62
+"Cage 's decision"	"be leave"	"the film that Nic was a complete gentleman"	62	query216_Nicolas_Cage\P\62-0
+"Cage 's decision"	"be leave"	"the film that Nic was a complete he understood that my heart was with Mickey"	62	query216_Nicolas_Cage\P\62-1
+"Cage 's decision"	"be leave"	"the film that Nic was a complete he that my heart was with Mickey he stepped aside"	62	query216_Nicolas_Cage\P\62-2
+"Cage 's decision"	"be leave"	"the film that Nic was a complete he that my heart was with Mickey he stepped aside"	62	query216_Nicolas_Cage\P\62-3
+"Cage 's decision"	"be leave"	"the film that Nic was a complete he that my heart was with Mickey he stepped aside"	62	query216_Nicolas_Cage\P\62-4
+"Cage 's decision"	"be leave"	"the film that Nic was a complete he that my heart was with Mickey he stepped aside"	62	query216_Nicolas_Cage\P\62-5
+"my heart"	"was"	"with Mickey"	62	query216_Nicolas_Cage\P\62-6
+"my heart"	"was"	"with Mickey"	62	query216_Nicolas_Cage\P\62-7
+I have so much respect for Nic Cage as an actor and I think it really could have worked with Nic but ... 	63	query216_Nicolas_Cage\S\63
+I have so much respect for Nic Cage as an actor and I think it really could have worked with Nic but ... 	63	query216_Nicolas_Cage\S\63
+I have so much respect for Nic Cage as an actor and I think it really could have worked with Nic but ... 	63	query216_Nicolas_Cage\S\63
+I have so much respect for Nic Cage as an actor and I think it really could have worked with Nic but ... 	63	query216_Nicolas_Cage\S\63
+I have so much respect for Nic Cage as an actor and I think it really could have worked with Nic but ... 	63	query216_Nicolas_Cage\S\63
+I have so much respect for Nic Cage as an actor and I think it really could have worked with Nic but ... 	63	query216_Nicolas_Cage\S\63
+I have so much respect for Nic Cage as an actor and I think it really could have worked with Nic but ... 	63	query216_Nicolas_Cage\S\63
+I have so much respect for Nic Cage as an actor and I think it really could have worked with Nic but ... 	63	query216_Nicolas_Cage\S\63
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+you know , Nic was incredibly supportive of Mickey and he is old friends with Mickey and really wanted to help with this opportunity , so he pulled himself out of the race . 	64	query216_Nicolas_Cage\S\64
+" thumbrightCage at the 66thVenice Film Festivalin September 2009 In 2008 , Cage appeared as Joe , a contract killer who undergoes a change of heart while on a work outing in Bangkok , in the film Bangkok Dangerous . 	65	query216_Nicolas_Cage\S\65
+" thumbrightCage at the 66thVenice Film Festivalin September 2009 In 2008 , Cage appeared as Joe , a contract killer who undergoes a change of heart while on a work outing in Bangkok , in the film Bangkok Dangerous . 	65	query216_Nicolas_Cage\S\65
+" thumbrightCage at the 66thVenice Film Festivalin September 2009 In 2008 , Cage appeared as Joe , a contract killer who undergoes a change of heart while on a work outing in Bangkok , in the film Bangkok Dangerous . 	65	query216_Nicolas_Cage\S\65
+"a contract killer"	"undergoes"	"a change of heart while on a work outing in Bangkok in the film Bangkok Dangerous"	65	query216_Nicolas_Cage\P\65-0
+"a contract killer"	"undergoes"	"a change of heart"	65	query216_Nicolas_Cage\P\65-1
+The film is shot by the Pang Brothers and has a distinct South-East Asian flavor . 	66	query216_Nicolas_Cage\S\66
+"The film"	"is shot"	"by the Pang Brothers"	66	query216_Nicolas_Cage\P\66-0
+"The film"	"is has"	"a distinct South-East Asian flavor by the Pang Brothers"	66	query216_Nicolas_Cage\P\66-1
+"The film"	"is has"	"a distinct South-East Asian flavor"	66	query216_Nicolas_Cage\P\66-2
+In 2009 , Cage starred in science fiction thriller Knowing , directed by Alex Proyas . 	67	query216_Nicolas_Cage\S\67
+In 2009 , Cage starred in science fiction thriller Knowing , directed by Alex Proyas . 	67	query216_Nicolas_Cage\S\67
+In 2009 , Cage starred in science fiction thriller Knowing , directed by Alex Proyas . 	67	query216_Nicolas_Cage\S\67
+In the film , he plays an MIT professor who examines the contents of a time capsule unearthed at his son 's elementary school . 	68	query216_Nicolas_Cage\S\68
+In the film , he plays an MIT professor who examines the contents of a time capsule unearthed at his son 's elementary school . 	68	query216_Nicolas_Cage\S\68
+In the film , he plays an MIT professor who examines the contents of a time capsule unearthed at his son 's elementary school . 	68	query216_Nicolas_Cage\S\68
+"an MIT professor"	"examines"	"the contents of a time"	68	query216_Nicolas_Cage\P\68-0
+"an MIT professor"	"examines"	"the contents of a time"	68	query216_Nicolas_Cage\P\68-1
+"an MIT professor"	"examines"	"the contents of a time"	68	query216_Nicolas_Cage\P\68-2
+"an MIT professor"	"examines"	"the contents of a time"	68	query216_Nicolas_Cage\P\68-3
+"his son"	"has"	"elementary school"	68	query216_Nicolas_Cage\P\68-4
+Startling predictions found inside the capsule that have already come true lead him to believe the world is going to end at the close of the week , and that he and his son are somehow involved in the destruction . 	69	query216_Nicolas_Cage\S\69
+"Startling predictions"	"found"	"inside the capsule"	69	query216_Nicolas_Cage\P\69-0
+"the capsule"	"have come"	"true lead him to believe the world is going to end at the close of the week already"	69	query216_Nicolas_Cage\P\69-1
+"the capsule"	"have come"	"true lead him to believe the world is going to end at the close of the week"	69	query216_Nicolas_Cage\P\69-2
+"true lead him"	"be believe"	"the world is going to end at the close of the week"	69	query216_Nicolas_Cage\P\69-3
+"the world"	"is going"	"to end at the close of the week"	69	query216_Nicolas_Cage\P\69-4
+"the world"	"is going"	"to end at the close of the week"	69	query216_Nicolas_Cage\P\69-5
+"the world"	"is going"	"to end at the close of the week"	69	query216_Nicolas_Cage\P\69-6
+"his son"	"are involved"	"in the destruction somehow"	69	query216_Nicolas_Cage\P\69-7
+"his son"	"are involved"	"in the destruction somehow"	69	query216_Nicolas_Cage\P\69-8
+"his son"	"are involved"	"in the destruction"	69	query216_Nicolas_Cage\P\69-9
+The film received mainly negative reviews but was the box office winner on its opening weekend . 	70	query216_Nicolas_Cage\S\70
+"The film"	"received"	"mainly negative reviews"	70	query216_Nicolas_Cage\P\70-0
+"The film"	"was"	"the box office winner mainly negative reviews on its opening weekend"	70	query216_Nicolas_Cage\P\70-1
+"The film"	"was"	"the box office winner mainly negative reviews"	70	query216_Nicolas_Cage\P\70-2
+"The film"	"was"	"the box office winner mainly negative reviews"	70	query216_Nicolas_Cage\P\70-3
+Also in 2009 , Cage starred in the film Bad Lieutenant : Port of Call New Orleans , directed by acclaimed German director Werner Herzog . 	71	query216_Nicolas_Cage\S\71
+Also in 2009 , Cage starred in the film Bad Lieutenant : Port of Call New Orleans , directed by acclaimed German director Werner Herzog . 	71	query216_Nicolas_Cage\S\71
+Also in 2009 , Cage starred in the film Bad Lieutenant : Port of Call New Orleans , directed by acclaimed German director Werner Herzog . 	71	query216_Nicolas_Cage\S\71
+"Port of Call New Orleans"	"be directed"	"by acclaimed German director Werner Herzog"	71	query216_Nicolas_Cage\P\71-0
+He portrayed a corrupt police officer with gambling , drug and alcohol addictions . 	72	query216_Nicolas_Cage\S\72
+He portrayed a corrupt police officer with gambling , drug and alcohol addictions . 	72	query216_Nicolas_Cage\S\72
+He portrayed a corrupt police officer with gambling , drug and alcohol addictions . 	72	query216_Nicolas_Cage\S\72
+He portrayed a corrupt police officer with gambling , drug and alcohol addictions . 	72	query216_Nicolas_Cage\S\72
+The film was very well-received by critics , holding a rating of 87 % positive reviews on review aggregator website Rotten Tomatoes . 	73	query216_Nicolas_Cage\S\73
+"The film"	"was well-received"	"very"	73	query216_Nicolas_Cage\P\73-0
+"The film"	"was well-received"	"by critics"	73	query216_Nicolas_Cage\P\73-1
+"The film"	"was well-received"	"holding a rating of 87 % positive reviews on review aggregator website Rotten Tomatoes"	73	query216_Nicolas_Cage\P\73-2
+"The film"	"was"	"well-received"	73	query216_Nicolas_Cage\P\73-3
+"very well-received by critics"	"be holding"	"a rating of 87 % positive reviews on review aggregator website Rotten Tomatoes"	73	query216_Nicolas_Cage\P\73-4
+Cage received lauds for his performance , with Michael Phillips of the Chicago Tribune writing " Herzog has found his ideal interpreter , a performer whose truth lies deep in the artifice of performance : ladies and gentlemen , Nicolas Cage , at his finest . 	74	query216_Nicolas_Cage\S\74
+"Cage"	"received"	"lauds for his performance"	74	query216_Nicolas_Cage\P\74-0
+"Cage"	"received"	"lauds for his performance"	74	query216_Nicolas_Cage\P\74-1
+"Cage"	"received"	"lauds with Michael Phillips of the Chicago Tribune writing Herzog"	74	query216_Nicolas_Cage\P\74-2
+"Cage"	"received"	"lauds with Michael Phillips of the Chicago Tribune writing Herzog"	74	query216_Nicolas_Cage\P\74-3
+"Cage"	"received"	"lauds"	74	query216_Nicolas_Cage\P\74-4
+"Cage"	"received"	"lauds"	74	query216_Nicolas_Cage\P\74-5
+"Cage"	"received"	"lauds"	74	query216_Nicolas_Cage\P\74-6
+"Michael Phillips of the Chicago Tribune"	"writing"	"Herzog"	74	query216_Nicolas_Cage\P\74-7
+"Michael Phillips of the Chicago Tribune"	"writing"	"Herzog"	74	query216_Nicolas_Cage\P\74-8
+"Michael Phillips of the Chicago Tribune"	"writing"	"Herzog"	74	query216_Nicolas_Cage\P\74-9
+"his ideal interpreter ladies at his finest"	"is"	"a performer"	74	query216_Nicolas_Cage\P\74-10
+"his ideal interpreter gentlemen at his finest"	"is"	"a performer"	74	query216_Nicolas_Cage\P\74-11
+"a performer"	"has"	"truth"	74	query216_Nicolas_Cage\P\74-12
+"a performer truth"	"lies"	"deep in the artifice of performance"	74	query216_Nicolas_Cage\P\74-13
+"a performer truth"	"lies"	"deep"	74	query216_Nicolas_Cage\P\74-14
+"ladies at his finest"	"is"	"Nicolas Cage"	74	query216_Nicolas_Cage\P\74-15
+"gentlemen at his finest"	"is"	"Nicolas Cage"	74	query216_Nicolas_Cage\P\74-16
+"gentlemen at his finest"	"is"	"Nicolas Cage"	74	query216_Nicolas_Cage\P\74-17
+" This film reunited Cage with Eva Mendes , who played his love interest in Ghost Rider . 	75	query216_Nicolas_Cage\S\75
+"This film"	"reunited"	"Cage with Eva Mendes"	75	query216_Nicolas_Cage\P\75-0
+"Eva Mendes"	"played"	"his love interest in Ghost Rider"	75	query216_Nicolas_Cage\P\75-1
+"Eva Mendes"	"played"	"his love interest in Ghost Rider"	75	query216_Nicolas_Cage\P\75-2
+In 2010 , Cage starred in the period piece Season of the Witch , playing a 14th-century knight transporting a girl accused of causing the Black Plague to a monastery , and The Sorcerer 's Apprentice , in which he played the sorcerer . 	76	query216_Nicolas_Cage\S\76
+In 2010 , Cage starred in the period piece Season of the Witch , playing a 14th-century knight transporting a girl accused of causing the Black Plague to a monastery , and The Sorcerer 's Apprentice , in which he played the sorcerer . 	76	query216_Nicolas_Cage\S\76
+In 2010 , Cage starred in the period piece Season of the Witch , playing a 14th-century knight transporting a girl accused of causing the Black Plague to a monastery , and The Sorcerer 's Apprentice , in which he played the sorcerer . 	76	query216_Nicolas_Cage\S\76
+In 2010 , Cage starred in the period piece Season of the Witch , playing a 14th-century knight transporting a girl accused of causing the Black Plague to a monastery , and The Sorcerer 's Apprentice , in which he played the sorcerer . 	76	query216_Nicolas_Cage\S\76
+In 2010 , Cage starred in the period piece Season of the Witch , playing a 14th-century knight transporting a girl accused of causing the Black Plague to a monastery , and The Sorcerer 's Apprentice , in which he played the sorcerer . 	76	query216_Nicolas_Cage\S\76
+In 2010 , Cage starred in the period piece Season of the Witch , playing a 14th-century knight transporting a girl accused of causing the Black Plague to a monastery , and The Sorcerer 's Apprentice , in which he played the sorcerer . 	76	query216_Nicolas_Cage\S\76
+In 2010 , Cage starred in the period piece Season of the Witch , playing a 14th-century knight transporting a girl accused of causing the Black Plague to a monastery , and The Sorcerer 's Apprentice , in which he played the sorcerer . 	76	query216_Nicolas_Cage\S\76
+"a 14th-century knight"	"be transporting"	"a girl accused of causing the Black Plague to a monastery"	76	query216_Nicolas_Cage\P\76-0
+"a 14th-century knight"	"be transporting"	"a girl accused of the Black Plague to a monastery The Sorcerer 's Apprentice"	76	query216_Nicolas_Cage\P\76-1
+"a girl"	"be accused"	"of causing the Black Plague to a monastery"	76	query216_Nicolas_Cage\P\76-2
+"a girl"	"be accused"	"of the Black Plague to a monastery The Sorcerer 's Apprentice"	76	query216_Nicolas_Cage\P\76-3
+"The Sorcerer"	"has"	"Apprentice"	76	query216_Nicolas_Cage\P\76-4
+"The Sorcerer"	"has"	"Apprentice"	76	query216_Nicolas_Cage\P\76-5
+"The Sorcerer"	"has"	"Apprentice"	76	query216_Nicolas_Cage\P\76-6
+Cage , an avid comic book fan , auctioned a collection of 400 vintage comics through Heritage Auctions for over $ 1.6&nbsp;million 	77	query216_Nicolas_Cage\S\77
+"Cage"	"is"	"an avid comic book fan"	77	query216_Nicolas_Cage\P\77-0
+"Cage"	"auctioned"	"a collection of 400 vintage comics through Heritage Auctions"	77	query216_Nicolas_Cage\P\77-1
+"Cage"	"auctioned"	"a collection of 400 vintage comics for over $ 1.6 million"	77	query216_Nicolas_Cage\P\77-2
+"Cage"	"auctioned"	"a collection of 400 vintage comics"	77	query216_Nicolas_Cage\P\77-3
+in 2002 . 	78	query216_Nicolas_Cage\S\78
+Susman Gary Book Value Entertainment Weekly October 1 , 2002 http ://www.ew.com/ew/article/0 	79	query216_Nicolas_Cage\S\79
+"Susman Gary Book Value Entertainment Weekly October 1 www.ew.com/ew/article/0"	"is"	"2002 http"	79	query216_Nicolas_Cage\P\79-0
+,,364626,00.html 	80	query216_Nicolas_Cage\S\80
+August 4 , 2010 Susman Gary Book Value Entertainment Weekly October 1 , 2002 http ://www.ew.com/ew/article/0 	81	query216_Nicolas_Cage\S\81
+"August 4 www.ew.com/ew/article/0"	"is"	"2010 Susman Gary Book Value Entertainment Weekly October 1"	81	query216_Nicolas_Cage\P\81-0
+"Susman Gary Book Value Entertainment Weekly October 1"	"is"	"2002 http"	2010	query216_Nicolas_Cage\P\81-1
+,,364626,00.html 	82	query216_Nicolas_Cage\S\82
+August 4 , 2010 In 2007 he created a comic book with his son Weston , called Voodoo Child , which was published by Virgin Comics . 	83	query216_Nicolas_Cage\S\83
+August 4 , 2010 In 2007 he created a comic book with his son Weston , called Voodoo Child , which was published by Virgin Comics . 	83	query216_Nicolas_Cage\S\83
+August 4 , 2010 In 2007 he created a comic book with his son Weston , called Voodoo Child , which was published by Virgin Comics . 	83	query216_Nicolas_Cage\S\83
+August 4 , 2010 In 2007 he created a comic book with his son Weston , called Voodoo Child , which was published by Virgin Comics . 	83	query216_Nicolas_Cage\S\83
+August 4 , 2010 In 2007 he created a comic book with his son Weston , called Voodoo Child , which was published by Virgin Comics . 	83	query216_Nicolas_Cage\S\83
+"Voodoo Child"	"was published"	"by Virgin Comics"	83	query216_Nicolas_Cage\P\83-0
+Cage is a fan and collector of painter and underground comic artist Robert Williams . 	84	query216_Nicolas_Cage\S\84
+"Cage"	"is"	"a fan"	84	query216_Nicolas_Cage\P\84-0
+"Cage"	"is"	"a collector of painter"	84	query216_Nicolas_Cage\P\84-1
+"Cage"	"is"	"a collector of underground comic artist Robert Williams"	84	query216_Nicolas_Cage\P\84-2
+He has written introductions for Juxtapoz magazine and purchased the painting Death On The Boards . 	85	query216_Nicolas_Cage\S\85
+He has written introductions for Juxtapoz magazine and purchased the painting Death On The Boards . 	85	query216_Nicolas_Cage\S\85
+He has written introductions for Juxtapoz magazine and purchased the painting Death On The Boards . 	85	query216_Nicolas_Cage\S\85
+http ://issuu.com/juxtapoz/docs 	86	query216_Nicolas_Cage\S\86
+/juxtapoz_14/63 ?mode=embed&documentId=090203175523-88783136dbb244ee857065c8ab66d7c8&layout=grey ISSUU ISSUU February 14 , 2010 http ://issuu.com/juxtapoz/docs 	87	query216_Nicolas_Cage\S\87
+/juxtapoz_14/63 ?mode=embed&documentId=090203175523-88783136dbb244ee857065c8ab66d7c8&layout=grey ISSUU ISSUU February 14 , 2010 In February 2011 , Cage claimed to have created a new method of acting he calls " Nouveau Shamanic" . 	88	query216_Nicolas_Cage\S\88
+/juxtapoz_14/63 ?mode=embed&documentId=090203175523-88783136dbb244ee857065c8ab66d7c8&layout=grey ISSUU ISSUU February 14 , 2010 In February 2011 , Cage claimed to have created a new method of acting he calls " Nouveau Shamanic" . 	88	query216_Nicolas_Cage\S\88
+He claims to have used the acting style throughout his career and one day plans to write a book about the method . 	89	query216_Nicolas_Cage\S\89
+He claims to have used the acting style throughout his career and one day plans to write a book about the method . 	89	query216_Nicolas_Cage\S\89
+He claims to have used the acting style throughout his career and one day plans to write a book about the method . 	89	query216_Nicolas_Cage\S\89
+He claims to have used the acting style throughout his career and one day plans to write a book about the method . 	89	query216_Nicolas_Cage\S\89
+He claims to have used the acting style throughout his career and one day plans to write a book about the method . 	89	query216_Nicolas_Cage\S\89
+" " Movieline . 	90	query216_Nicolas_Cage\S\90
+Retrieved August 23 , 2011 Nicolas Cage 's acting has been praised by influential film critic Roger Ebert who writes , in his " Great Movies " essay about the film Adaptation , that : " There are often lists of the great living male movie stars : De Niro , Nicholson and Pacino , usually . 	91	query216_Nicolas_Cage\S\91
+Retrieved August 23 , 2011 Nicolas Cage 's acting has been praised by influential film critic Roger Ebert who writes , in his " Great Movies " essay about the film Adaptation , that : " There are often lists of the great living male movie stars : De Niro , Nicholson and Pacino , usually . 	91	query216_Nicolas_Cage\S\91
+"Nicolas Cage"	"has"	"acting"	2011	query216_Nicolas_Cage\P\91-0
+"Nicolas Cage 's acting"	"has been praised"	"by influential film critic Roger Ebert August 23"	2011	query216_Nicolas_Cage\P\91-1
+"Nicolas Cage 's acting"	"has been praised"	"August 23"	2011	query216_Nicolas_Cage\P\91-2
+"influential film critic Roger Ebert"	"writes"	"in his Great Movies essay about the film Adaptation that There are often lists of the great living male movie stars De Niro"	2011	query216_Nicolas_Cage\P\91-3
+"influential film critic Roger Ebert"	"writes"	"in his Great Movies essay about the film Adaptation that There are often lists of the great living male movie stars De Nicholson"	2011	query216_Nicolas_Cage\P\91-4
+"influential film critic Roger Ebert"	"writes"	"in his Great Movies essay about the film Adaptation that There are often lists of the great living male movie stars De Pacino usually"	2011	query216_Nicolas_Cage\P\91-5
+"influential film critic Roger Ebert"	"writes"	"in his Great Movies essay about the film Adaptation that There are often lists of the great living male movie stars De Pacino usually"	2011	query216_Nicolas_Cage\P\91-6
+"influential film critic Roger Ebert"	"writes"	"in his Great Movies essay about the film Adaptation that There are often lists of the great living male movie stars De Pacino usually"	2011	query216_Nicolas_Cage\P\91-7
+"influential film critic Roger Ebert"	"writes"	"in his Great Movies essay about the film Adaptation that There are often lists of the great living male movie stars De Pacino usually"	2011	query216_Nicolas_Cage\P\91-8
+How often do you see the name of Nicolas Cage ? He should always be up there . 	92	query216_Nicolas_Cage\S\92
+How often do you see the name of Nicolas Cage ? He should always be up there . 	92	query216_Nicolas_Cage\S\92
+How often do you see the name of Nicolas Cage ? He should always be up there . 	92	query216_Nicolas_Cage\S\92
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+He 's daring and fearless in his choice of roles , and unafraid to crawl out on a limb , saw it off and remain suspended in air . 	93	query216_Nicolas_Cage\S\93
+"to crawl out on a limb"	"saw off"	"it"	93	query216_Nicolas_Cage\P\93-0
+"unafraid to crawl out on a limb"	"saw off"	"it"	93	query216_Nicolas_Cage\P\93-1
+"to crawl out on a limb"	"off remain"	"it suspended in air"	93	query216_Nicolas_Cage\P\93-2
+"unafraid to crawl out on a limb"	"off remain"	"it suspended in air"	93	query216_Nicolas_Cage\P\93-3
+No one else can project inner trembling so effectively .... 	94	query216_Nicolas_Cage\S\94
+"No one else"	"can project"	"inner trembling so effectively"	94	query216_Nicolas_Cage\P\94-0
+He always seems so earnest . 	95	query216_Nicolas_Cage\S\95
+He always seems so earnest . 	95	query216_Nicolas_Cage\S\95
+He always seems so earnest . 	95	query216_Nicolas_Cage\S\95
+However improbable his character , he never winks at the audience . 	96	query216_Nicolas_Cage\S\96
+However improbable his character , he never winks at the audience . 	96	query216_Nicolas_Cage\S\96
+However improbable his character , he never winks at the audience . 	96	query216_Nicolas_Cage\S\96
+However improbable his character , he never winks at the audience . 	96	query216_Nicolas_Cage\S\96
+He is committed to the character with every atom and plays him as if he were him . 	97	query216_Nicolas_Cage\S\97
+He is committed to the character with every atom and plays him as if he were him . 	97	query216_Nicolas_Cage\S\97
+He is committed to the character with every atom and plays him as if he were him . 	97	query216_Nicolas_Cage\S\97
+He is committed to the character with every atom and plays him as if he were him . 	97	query216_Nicolas_Cage\S\97
+He is committed to the character with every atom and plays him as if he were him . 	97	query216_Nicolas_Cage\S\97
+He is committed to the character with every atom and plays him as if he were him . 	97	query216_Nicolas_Cage\S\97
+" Roger Ebert , in response to mixed reviews of Knowing and their focus on criticizing Cage , wrote an article in which he defends both Cage as an actor and the movie which , in stark contrast to other critics , Ebert gave 4/4 stars . 	98	query216_Nicolas_Cage\S\98
+" Roger Ebert , in response to mixed reviews of Knowing and their focus on criticizing Cage , wrote an article in which he defends both Cage as an actor and the movie which , in stark contrast to other critics , Ebert gave 4/4 stars . 	98	query216_Nicolas_Cage\S\98
+"Roger Ebert in response to mixed reviews of Knowing on criticizing Cage"	"wrote"	"an article"	98	query216_Nicolas_Cage\P\98-0
+"Roger Ebert in response to mixed reviews of their focus on criticizing Cage"	"wrote"	"an article"	98	query216_Nicolas_Cage\P\98-1
+"Roger Ebert in response to mixed reviews of their focus on criticizing Cage"	"wrote"	"an article"	98	query216_Nicolas_Cage\P\98-2
+"Roger Ebert in response to mixed reviews of their focus on criticizing Cage"	"wrote"	"an article"	98	query216_Nicolas_Cage\P\98-3
+"Roger Ebert in response to mixed reviews of their focus on criticizing Cage"	"wrote"	"an article"	98	query216_Nicolas_Cage\P\98-4
+"Roger Ebert in response to mixed reviews of their focus on criticizing Cage"	"wrote"	"an article"	98	query216_Nicolas_Cage\P\98-5
+"the movie"	"Ebert gave"	"4/4 stars in stark contrast to other critics"	98	query216_Nicolas_Cage\P\98-6
+"the movie"	"Ebert gave"	"4/4 stars"	98	query216_Nicolas_Cage\P\98-7
+"the movie"	"Ebert gave"	"4/4 stars"	98	query216_Nicolas_Cage\P\98-8
+"the movie"	"Ebert gave"	"4/4 stars"	98	query216_Nicolas_Cage\P\98-9
+In the 1995 edition of the Academy Award , Cage was awarded Best Actor for his performance in Leaving Las Vegas . 	99	query216_Nicolas_Cage\S\99
+In the 1995 edition of the Academy Award , Cage was awarded Best Actor for his performance in Leaving Las Vegas . 	99	query216_Nicolas_Cage\S\99
+In the 1995 edition of the Academy Award , Cage was awarded Best Actor for his performance in Leaving Las Vegas . 	99	query216_Nicolas_Cage\S\99
+http ://www.filmsite 	100	query216_Nicolas_Cage\S\100
+.org/aa95.html 	101	query216_Nicolas_Cage\S\101
+1995 Academy Awards Winners and History FilmSite .org 	102	query216_Nicolas_Cage\S\102
+August 18 , 2010 http ://www.filmsite 	103	query216_Nicolas_Cage\S\103
+"August 18 www.filmsite"	"is"	"2010 http"	103	query216_Nicolas_Cage\P\103-0
+.org/aa95.html 	104	query216_Nicolas_Cage\S\104
+1995 Academy Awards Winners and History FilmSite .org 	105	query216_Nicolas_Cage\S\105
+August 18 , 2010 In May 2001 , Cage was awarded an Honorary Doctorate in Fine Arts by California State University , Fullerton . 	106	query216_Nicolas_Cage\S\106
+"August 18 2010 In May 2001"	"is"	"Cage"	106	query216_Nicolas_Cage\P\106-0
+"August 18 2010 In May 2001"	"was awarded"	"an Honorary Doctorate in Fine Arts by California State University"	106	query216_Nicolas_Cage\P\106-1
+"August 18 2010 In May 2001"	"was awarded"	"an Honorary Doctorate in Fine Arts"	106	query216_Nicolas_Cage\P\106-2
+"California State University"	"is"	"Fullerton"	106	query216_Nicolas_Cage\P\106-3
+He spoke at the commencement ceremony . 	107	query216_Nicolas_Cage\S\107
+He spoke at the commencement ceremony . 	107	query216_Nicolas_Cage\S\107
+He spoke at the commencement ceremony . 	107	query216_Nicolas_Cage\S\107
+Despite such praise , Cage has his detractors . 	108	query216_Nicolas_Cage\S\108
+Despite such praise , Cage has his detractors . 	108	query216_Nicolas_Cage\S\108
+Despite such praise , Cage has his detractors . 	108	query216_Nicolas_Cage\S\108
+Cage has been criticized for choosing to star in big-budget , action-adventure movies rather than smaller , character-driven dramas , the type of film that initially garnered him praise . 	109	query216_Nicolas_Cage\S\109
+"Cage"	"has been criticized"	"for choosing to star in big-budget action-adventure movies"	109	query216_Nicolas_Cage\P\109-0
+"Cage"	"has been criticized"	"for choosing to star in big-budget action-adventure smaller"	109	query216_Nicolas_Cage\P\109-1
+"Cage"	"has been criticized"	"for choosing to star in big-budget action-adventure character-driven dramas"	109	query216_Nicolas_Cage\P\109-2
+"action-adventure movies"	"is"	"the type of film"	109	query216_Nicolas_Cage\P\109-3
+"action-adventure smaller"	"is"	"the type of film"	109	query216_Nicolas_Cage\P\109-4
+"action-adventure character-driven dramas"	"is"	"the type of film"	109	query216_Nicolas_Cage\P\109-5
+"the type of film"	"garnered"	"him praise initially"	109	query216_Nicolas_Cage\P\109-6
+"the type of film"	"garnered"	"him praise"	109	query216_Nicolas_Cage\P\109-7
+Gleiberman , Owen . 	110	query216_Nicolas_Cage\S\110
+"Gleiberman"	"is"	"Owen"	110	query216_Nicolas_Cage\P\110-0
+March 21 , 2009 . 	111	query216_Nicolas_Cage\S\111
+In 1999 , one-time friend Sean Penn expressed that sentiment to the New York Times , declaring Cage " no longer an actor . 	112	query216_Nicolas_Cage\S\112
+"one-time friend Sean Penn"	"be 112"	"In 1999"	112	query216_Nicolas_Cage\P\112-0
+"one-time friend Sean Penn"	"expressed"	"that sentiment to the New York Times declaring Cage no longer an actor 112 In 1999"	112	query216_Nicolas_Cage\P\112-1
+"one-time friend Sean Penn"	"expressed"	"that sentiment to the New York Times declaring Cage no longer an actor"	112	query216_Nicolas_Cage\P\112-2
+" People Magazine . 	113	query216_Nicolas_Cage\S\113
+" Picking on Nic : Nicolas Cage bites back after Sean Penn ridicules his career . 	114	query216_Nicolas_Cage\S\114
+"Nicolas Cage"	"bites"	"back after Sean Penn ridicules his career"	114	query216_Nicolas_Cage\P\114-0
+"Nicolas Cage"	"bites"	"back"	114	query216_Nicolas_Cage\P\114-1
+"Sean Penn"	"ridicules"	"his career"	114	query216_Nicolas_Cage\P\114-2
+"Sean Penn"	"ridicules"	"his career"	114	query216_Nicolas_Cage\P\114-3
+" April 5 , 1999 Vol . 	115	query216_Nicolas_Cage\S\115
+51 No. 	116	query216_Nicolas_Cage\S\116
+12 http ://www.people 	117	query216_Nicolas_Cage\S\117
+.com/people/archive/article/0 	118	query216_Nicolas_Cage\S\118
+,,20127825,00.html 	119	query216_Nicolas_Cage\S\119
+In 1988 , Cage began dating actress Christina Fulton , who later bore their son , Weston Cage ( born December 26 , 1990 ) . 	120	query216_Nicolas_Cage\S\120
+In 1988 , Cage began dating actress Christina Fulton , who later bore their son , Weston Cage ( born December 26 , 1990 ) . 	120	query216_Nicolas_Cage\S\120
+"actress Christina Fulton"	"bore"	"their son later"	120	query216_Nicolas_Cage\P\120-0
+"actress Christina Fulton"	"bore"	"their son"	120	query216_Nicolas_Cage\P\120-1
+"their son"	"is"	"Weston Cage"	120	query216_Nicolas_Cage\P\120-2
+"their son"	"is"	"Weston Cage"	120	query216_Nicolas_Cage\P\120-3
+Weston is lead singer of the black metal band Eyes of Noctum , and appeared in Cage 's film Lord of War as Vladimir , a young Ukrainian mechanic who quickly disarms a Mil Mi-24 helicopter . 	121	query216_Nicolas_Cage\S\121
+"Weston"	"is lead singer"	"of the black metal band Eyes of Noctum"	121	query216_Nicolas_Cage\P\121-0
+"Weston"	"is"	"lead singer"	121	query216_Nicolas_Cage\P\121-1
+"Weston"	"is lead appeared"	"of the black metal band Eyes of Noctum"	121	query216_Nicolas_Cage\P\121-2
+"Weston"	"is lead appeared"	"in Cage 's film Lord of War as Vladimir"	121	query216_Nicolas_Cage\P\121-3
+"Weston"	"is"	"lead appeared"	121	query216_Nicolas_Cage\P\121-4
+"Weston"	"is"	"lead appeared"	121	query216_Nicolas_Cage\P\121-5
+"Weston"	"is"	"lead appeared"	121	query216_Nicolas_Cage\P\121-6
+"a young Ukrainian mechanic"	"disarms"	"a Mil Mi-24 helicopter quickly"	121	query216_Nicolas_Cage\P\121-7
+"a young Ukrainian mechanic"	"disarms"	"a Mil Mi-24 helicopter"	121	query216_Nicolas_Cage\P\121-8
+Cage has been married three times . 	122	query216_Nicolas_Cage\S\122
+"Cage"	"has been married"	"three times"	122	query216_Nicolas_Cage\P\122-0
+His first wife was actress Patricia Arquette ( married on April 8 , 1995 , divorce finalized on May 18 , 2001 ) . 	123	query216_Nicolas_Cage\S\123
+His first wife was actress Patricia Arquette ( married on April 8 , 1995 , divorce finalized on May 18 , 2001 ) . 	123	query216_Nicolas_Cage\S\123
+"His first wife"	"was"	"actress Patricia Arquette married on April 8 1995 divorce finalized on May 18 2001"	123	query216_Nicolas_Cage\P\123-0
+"His first wife"	"was"	"actress Patricia Arquette married on April 8 1995 divorce finalized on May 18 2001"	123	query216_Nicolas_Cage\P\123-1
+Cage later married singer/songwriter Lisa Marie Presley , daughter of Elvis Presley . 	124	query216_Nicolas_Cage\S\124
+"Cage"	"married"	"singer/songwriter Lisa Marie Presley daughter of Elvis Presley later"	124	query216_Nicolas_Cage\P\124-0
+"Cage"	"married"	"singer/songwriter Lisa Marie Presley daughter of Elvis Presley"	124	query216_Nicolas_Cage\P\124-1
+Cage is an Elvis fan and used the star as the base of his performance in Wild at Heart . 	125	query216_Nicolas_Cage\S\125
+"Cage"	"is"	"an Elvis fan"	125	query216_Nicolas_Cage\P\125-0
+"Cage"	"is"	"an Elvis used the star as the base of his performance in Wild at Heart"	125	query216_Nicolas_Cage\P\125-1
+"Cage"	"is"	"an Elvis used the star"	125	query216_Nicolas_Cage\P\125-2
+"Cage"	"is"	"an Elvis used the star"	125	query216_Nicolas_Cage\P\125-3
+Presley and Cage married on August 10 , 2002 and filed for divorce on November 25 , 2002 which was finalized on May 16 , 2004 . 	126	query216_Nicolas_Cage\S\126
+Presley and Cage married on August 10 , 2002 and filed for divorce on November 25 , 2002 which was finalized on May 16 , 2004 . 	126	query216_Nicolas_Cage\S\126
+"November 25 2002"	"was finalized"	"on May 16 2004"	126	query216_Nicolas_Cage\P\126-0
+The divorce proceeding was longer than the marriage . 	127	query216_Nicolas_Cage\S\127
+"The divorce proceeding"	"was longer"	"than the marriage"	127	query216_Nicolas_Cage\P\127-0
+"The divorce proceeding"	"was"	"longer"	127	query216_Nicolas_Cage\P\127-1
+Cage met his third and current wife Alice Kim , a former waitress who previously worked at the plush Los Angeles restaurant Kabuki , at the Los Angeles-based Korean nightclub , Le Privé . 	128	query216_Nicolas_Cage\S\128
+"Cage"	"met"	"his third wife Alice Kim at the Los Angeles-based Korean nightclub"	128	query216_Nicolas_Cage\P\128-0
+"Cage"	"met"	"his current wife Alice Kim at the Los Angeles-based Korean nightclub"	128	query216_Nicolas_Cage\P\128-1
+"Cage"	"met"	"his current wife Alice Kim at the Los Angeles-based Korean nightclub"	128	query216_Nicolas_Cage\P\128-2
+"Cage"	"met"	"his current wife Alice Kim at the Los Angeles-based Korean nightclub"	128	query216_Nicolas_Cage\P\128-3
+"Alice Kim"	"is"	"a former waitress"	128	query216_Nicolas_Cage\P\128-4
+"a former waitress"	"worked"	"at the plush Los Angeles restaurant Kabuki previously"	128	query216_Nicolas_Cage\P\128-5
+"a former waitress"	"worked"	"at the plush Los Angeles restaurant Kabuki"	128	query216_Nicolas_Cage\P\128-6
+She bore their son , Kal-El , ( after Superman 's birth name ) on October 3 , 2005 . 	129	query216_Nicolas_Cage\S\129
+She bore their son , Kal-El , ( after Superman 's birth name ) on October 3 , 2005 . 	129	query216_Nicolas_Cage\S\129
+She bore their son , Kal-El , ( after Superman 's birth name ) on October 3 , 2005 . 	129	query216_Nicolas_Cage\S\129
+"their son"	"is"	"Kal-El"	129	query216_Nicolas_Cage\P\129-0
+"their son"	"is"	"Kal-El"	129	query216_Nicolas_Cage\P\129-1
+Cage was once considered for the role of Superman in a film to be directed by Tim Burton . 	130	query216_Nicolas_Cage\S\130
+"Cage"	"was considered"	"for the role of Superman in a film to be directed by Tim Burton once"	130	query216_Nicolas_Cage\P\130-0
+"Cage"	"was considered"	"for the role of Superman in a film to be directed by Tim Burton"	130	query216_Nicolas_Cage\P\130-1
+"the role of Superman in a film"	"be directed"	"by Tim Burton"	130	query216_Nicolas_Cage\P\130-2
+Alice had a minor role in the 2007 film Next , which Cage produced . 	131	query216_Nicolas_Cage\S\131
+"Alice"	"had"	"a minor role in the 2007 film Next"	131	query216_Nicolas_Cage\P\131-0
+"Alice"	"had"	"a minor role in the 2007 film Next"	131	query216_Nicolas_Cage\P\131-1
+They were married at a private ranch in Northern California on July 30 , 2004 . 	132	query216_Nicolas_Cage\S\132
+They were married at a private ranch in Northern California on July 30 , 2004 . 	132	query216_Nicolas_Cage\S\132
+They were married at a private ranch in Northern California on July 30 , 2004 . 	132	query216_Nicolas_Cage\S\132
+They were married at a private ranch in Northern California on July 30 , 2004 . 	132	query216_Nicolas_Cage\S\132
+November 2011 Nicolas Cage is one of Hollywood 's highest paid actors , earning $ 40&nbsp;million in 2009 according to Forbes Magazine . 	133	query216_Nicolas_Cage\S\133
+"November 2011 Nicolas Cage"	"is one"	"of Hollywood 's highest paid actors"	133	query216_Nicolas_Cage\P\133-0
+"November 2011 Nicolas Cage"	"is one"	"earning $ 40 million in 2009 according to Forbes Magazine"	133	query216_Nicolas_Cage\P\133-1
+"November 2011 Nicolas Cage"	"is"	"one"	133	query216_Nicolas_Cage\P\133-2
+"one of Hollywood 's highest paid actors"	"be earning"	"$ 40 million in 2009 according to Forbes Magazine"	133	query216_Nicolas_Cage\P\133-3
+"one of Hollywood 's highest paid actors"	"be earning"	"$ 40 million in 2009"	133	query216_Nicolas_Cage\P\133-4
+"one of Hollywood 's highest paid actors"	"be earning"	"$ 40 million in 2009"	133	query216_Nicolas_Cage\P\133-5
+http ://www.latimes.com/business/la-fi-cage-foreclosure8-2010apr08,0,2028352.story 	134	query216_Nicolas_Cage\S\134
+?track=rss Foreclosure auction of Nicolas Cage 's mansion is a flop Los Angeles Times April 8 , 2010 Lauren Beale April 11 , 2010 http ://www.latimes.com/business/la-fi-cage-foreclosure8-2010apr08,0,2028352.story 	135	query216_Nicolas_Cage\S\135
+"Nicolas Cage"	"has"	"mansion"	135	query216_Nicolas_Cage\P\135-0
+"track = rss Foreclosure auction of Nicolas Cage 's mansion"	"is"	"a flop Los Angeles Times April 8 2010 Lauren Beale April 11 2010 http www.latimes.com/business/la-fi-cage-foreclosure8-2010apr08,0,2028352.story"	135	query216_Nicolas_Cage\P\135-1
+?track=rss Foreclosure auction of Nicolas Cage 's mansion is a flop Los Angeles Times April 8 , 2010 Lauren Beale April 11 , 2010 Cage had a Malibu home where he and Kim lived , but sold the property in 2005 for $ 10&nbsp;million . 	136	query216_Nicolas_Cage\S\136
+?track=rss Foreclosure auction of Nicolas Cage 's mansion is a flop Los Angeles Times April 8 , 2010 Lauren Beale April 11 , 2010 Cage had a Malibu home where he and Kim lived , but sold the property in 2005 for $ 10&nbsp;million . 	136	query216_Nicolas_Cage\S\136
+?track=rss Foreclosure auction of Nicolas Cage 's mansion is a flop Los Angeles Times April 8 , 2010 Lauren Beale April 11 , 2010 Cage had a Malibu home where he and Kim lived , but sold the property in 2005 for $ 10&nbsp;million . 	136	query216_Nicolas_Cage\S\136
+?track=rss Foreclosure auction of Nicolas Cage 's mansion is a flop Los Angeles Times April 8 , 2010 Lauren Beale April 11 , 2010 Cage had a Malibu home where he and Kim lived , but sold the property in 2005 for $ 10&nbsp;million . 	136	query216_Nicolas_Cage\S\136
+?track=rss Foreclosure auction of Nicolas Cage 's mansion is a flop Los Angeles Times April 8 , 2010 Lauren Beale April 11 , 2010 Cage had a Malibu home where he and Kim lived , but sold the property in 2005 for $ 10&nbsp;million . 	136	query216_Nicolas_Cage\S\136
+"Nicolas Cage"	"has"	"mansion"	136	query216_Nicolas_Cage\P\136-0
+"track = rss Foreclosure auction of Nicolas Cage 's mansion"	"is"	"a flop Los Angeles Times April 8 2010 Lauren Beale April 11"	136	query216_Nicolas_Cage\P\136-1
+"track = rss Foreclosure auction of Nicolas Cage 's mansion"	"is"	"a flop Los Angeles Times 8 2010 Lauren Beale April 11 sold the property in 2005"	136	query216_Nicolas_Cage\P\136-2
+"track = rss Foreclosure auction of Nicolas Cage 's mansion"	"is"	"a flop Los Angeles Times 8 2010 Lauren Beale April 11 sold the property for $ 10 million"	136	query216_Nicolas_Cage\P\136-3
+"track = rss Foreclosure auction of Nicolas Cage 's mansion"	"is"	"a flop Los Angeles Times 8 2010 Lauren Beale April 11 sold the property"	136	query216_Nicolas_Cage\P\136-4
+"Cage"	"had"	"a Malibu home a flop Los Angeles Times April 8 2010 Lauren Beale April 11"	2010	query216_Nicolas_Cage\P\136-5
+"Cage"	"had"	"a Malibu home a flop Los Angeles Times 8 2010 Lauren Beale April 11 sold the property in 2005 for $ 10 million"	2010	query216_Nicolas_Cage\P\136-6
+In 2004 he bought a property on Paradise Island , Bahamas . 	137	query216_Nicolas_Cage\S\137
+In 2004 he bought a property on Paradise Island , Bahamas . 	137	query216_Nicolas_Cage\S\137
+In 2004 he bought a property on Paradise Island , Bahamas . 	137	query216_Nicolas_Cage\S\137
+"Paradise Island"	"is in"	"Bahamas"	137	query216_Nicolas_Cage\P\137-0
+In May 2006 , he bought a 40 acre m2 on island in the Exuma archipelago , some 85 mi km southeast of Nassau and close to a similar island owned by Faith Hill and Tim McGraw . 	138	query216_Nicolas_Cage\S\138
+In May 2006 , he bought a 40 acre m2 on island in the Exuma archipelago , some 85 mi km southeast of Nassau and close to a similar island owned by Faith Hill and Tim McGraw . 	138	query216_Nicolas_Cage\S\138
+In May 2006 , he bought a 40 acre m2 on island in the Exuma archipelago , some 85 mi km southeast of Nassau and close to a similar island owned by Faith Hill and Tim McGraw . 	138	query216_Nicolas_Cage\S\138
+In May 2006 , he bought a 40 acre m2 on island in the Exuma archipelago , some 85 mi km southeast of Nassau and close to a similar island owned by Faith Hill and Tim McGraw . 	138	query216_Nicolas_Cage\S\138
+In May 2006 , he bought a 40 acre m2 on island in the Exuma archipelago , some 85 mi km southeast of Nassau and close to a similar island owned by Faith Hill and Tim McGraw . 	138	query216_Nicolas_Cage\S\138
+In May 2006 , he bought a 40 acre m2 on island in the Exuma archipelago , some 85 mi km southeast of Nassau and close to a similar island owned by Faith Hill and Tim McGraw . 	138	query216_Nicolas_Cage\S\138
+In May 2006 , he bought a 40 acre m2 on island in the Exuma archipelago , some 85 mi km southeast of Nassau and close to a similar island owned by Faith Hill and Tim McGraw . 	138	query216_Nicolas_Cage\S\138
+"a similar island"	"be owned"	"by Faith Hill"	138	query216_Nicolas_Cage\P\138-0
+"a similar island"	"be owned"	"by Faith Tim McGraw"	138	query216_Nicolas_Cage\P\138-1
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+He once owned the medieval castle of Schloss Neidstein in the Oberpfalz region in Germany , which he bought in 2006 and sold in 2009 for $ 2.5&nbsp;million 	139	query216_Nicolas_Cage\S\139
+. 	140	query216_Nicolas_Cage\S\140
+His grandmother was German , living in Cochem an der Mosel . 	141	query216_Nicolas_Cage\S\141
+His grandmother was German , living in Cochem an der Mosel . 	141	query216_Nicolas_Cage\S\141
+"His grandmother"	"was"	"German living in Cochem"	141	query216_Nicolas_Cage\P\141-0
+thumbSchloss Neidstein in Bavaria was owned by Cage between 2007 and 2009 . 	142	query216_Nicolas_Cage\S\142
+"thumbSchloss Neidstein in Bavaria"	"was owned"	"by Cage between 2007 and 2009"	142	query216_Nicolas_Cage\P\142-0
+"thumbSchloss Neidstein in Bavaria"	"was owned"	"by Cage"	142	query216_Nicolas_Cage\P\142-1
+In August 2007 , Cage purchased " Grey Craig" , a 24000 sqft m2 on brick-and-stone country manor in Middletown , Rhode Island . 	143	query216_Nicolas_Cage\S\143
+In August 2007 , Cage purchased " Grey Craig" , a 24000 sqft m2 on brick-and-stone country manor in Middletown , Rhode Island . 	143	query216_Nicolas_Cage\S\143
+"Grey Craig"	"is"	"a 24000 sqft m2 on brick-and-stone country manor in Middletown"	143	query216_Nicolas_Cage\P\143-0
+"Grey Craig"	"is"	"a 24000 sqft m2 on brick-and-stone country manor in Middletown"	143	query216_Nicolas_Cage\P\143-1
+With an estate occupying 26 acre m2 the home has 12 bedrooms and 10 full bathrooms and overlooks the Atlantic Ocean as well . 	144	query216_Nicolas_Cage\S\144
+"an estate"	"be occupying"	"26 acre m2"	144	query216_Nicolas_Cage\P\144-0
+"the home"	"has"	"12 bedrooms 26 acre m2"	144	query216_Nicolas_Cage\P\144-1
+"the home"	"has"	"12 10 full bathrooms 26 acre m2"	144	query216_Nicolas_Cage\P\144-2
+It borders the Norman Bird Sanctuary to the west . 	145	query216_Nicolas_Cage\S\145
+It borders the Norman Bird Sanctuary to the west . 	145	query216_Nicolas_Cage\S\145
+It borders the Norman Bird Sanctuary to the west . 	145	query216_Nicolas_Cage\S\145
+The sale ranked among the state of Rhode Island 's most expensive residential purchases until eclipsed that same year , 2007 , by the $ 17.15&nbsp;million 	146	query216_Nicolas_Cage\S\146
+"The sale"	"ranked"	"among the state of Rhode Island 's most expensive residential purchases until eclipsed that same year"	146	query216_Nicolas_Cage\P\146-0
+"The sale"	"ranked"	"among the state of Rhode Island 's most expensive residential purchases"	146	query216_Nicolas_Cage\P\146-1
+"Rhode Island"	"has"	"most expensive residential purchases"	146	query216_Nicolas_Cage\P\146-2
+sale of the Miramar mansion on Bellevue Avenue in Newport . 	147	query216_Nicolas_Cage\S\147
+Also in 2007 , the actor purchased Midford Castle in Somerset , England . 	148	query216_Nicolas_Cage\S\148
+"the actor"	"purchased"	"148 Also in 2007 Midford Castle in Somerset"	148	query216_Nicolas_Cage\P\148-0
+"Midford Castle in Somerset"	"is in"	"England"	148	query216_Nicolas_Cage\P\148-1
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+Shortly after selling his German castle , Cage also put homes in Rhode Island , Louisiana , Nevada , and California , as well as a $ 7&nbsp;million island in the Bahamas , up for sale . 	149	query216_Nicolas_Cage\S\149
+On July 14 , 2009 , the Internal Revenue Service filed documents in New Orleans in connection with a federal tax lien against property owned by Cage in Louisiana , concerning unpaid federal taxes . 	150	query216_Nicolas_Cage\S\150
+"the Internal Revenue Service"	"filed"	"documents in New Orleans"	150	query216_Nicolas_Cage\P\150-0
+"the Internal Revenue Service"	"filed"	"documents in connection with a federal tax lien against property owned by Cage in Louisiana"	150	query216_Nicolas_Cage\P\150-1
+"the Internal Revenue Service"	"filed"	"documents concerning unpaid federal taxes"	150	query216_Nicolas_Cage\P\150-2
+"the Internal Revenue Service"	"filed"	"documents"	150	query216_Nicolas_Cage\P\150-3
+"the Internal Revenue Service"	"filed"	"documents"	150	query216_Nicolas_Cage\P\150-4
+The IRS alleges that Cage failed to pay over $ 6.2&nbsp;million 	151	query216_Nicolas_Cage\S\151
+"The IRS"	"alleges"	"that Cage failed to pay over $ 6.2 million"	151	query216_Nicolas_Cage\P\151-0
+"The IRS"	"alleges"	"that Cage failed to pay over $ 6.2 million"	151	query216_Nicolas_Cage\P\151-1
+in federal income tax for the year 2007 . 	152	query216_Nicolas_Cage\S\152
+In addition , the Internal Revenue Service has another lien for more than $ 350,000 in unpaid taxes dating from 2002 to 2004 . 	153	query216_Nicolas_Cage\S\153
+"the Internal Revenue Service"	"has"	"153 In addition another lien for more than $ 350,000 in unpaid taxes dating from 2002 to 2004"	153	query216_Nicolas_Cage\P\153-0
+"unpaid taxes"	"be dating"	"from 2002 to 2004"	153	query216_Nicolas_Cage\P\153-1
+Cage filed a $ 20&nbsp;million lawsuit on October 16 , 2009 , against his business manager , Samuel J. 	154	query216_Nicolas_Cage\S\154
+"Cage"	"filed"	"a $ 20 million lawsuit on October 16 2009"	154	query216_Nicolas_Cage\P\154-0
+"Cage"	"filed"	"a $ 20 million lawsuit against his business manager"	154	query216_Nicolas_Cage\P\154-1
+"Cage"	"filed"	"a $ 20 million lawsuit"	154	query216_Nicolas_Cage\P\154-2
+"Cage"	"filed"	"a $ 20 million lawsuit"	154	query216_Nicolas_Cage\P\154-3
+"his business manager"	"is"	"Samuel J."	154	query216_Nicolas_Cage\P\154-4
+Levin , alleging negligence and fraud . 	155	query216_Nicolas_Cage\S\155
+"Levin"	"be alleging"	"negligence"	155	query216_Nicolas_Cage\P\155-0
+"Levin"	"be alleging"	"fraud"	155	query216_Nicolas_Cage\P\155-1
+The lawsuit states that Levin "had failed to pay taxes when they were due and had placed [ Cage ] in speculative and risky real estate investments 'resulting in ( the actor ) suffering catastrophic losses ' . 	156	query216_Nicolas_Cage\S\156
+"The lawsuit"	"states"	"that Levin had failed to pay taxes when they were due"	156	query216_Nicolas_Cage\P\156-0
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in speculative real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-1
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in risky real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-2
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in risky real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-3
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in risky real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-4
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in risky real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-5
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in risky real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-6
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in risky real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-7
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in risky real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-8
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in risky real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-9
+"The lawsuit"	"states"	"that Levin had to pay taxes when they were due had placed Cage in risky real estate investments resulting in the actor suffering catastrophic losses '"	156	query216_Nicolas_Cage\P\156-10
+" Cage is also facing separate lawsuits from East West Bank and Red Curb Investments for unpaid , multimillion dollar loans . 	157	query216_Nicolas_Cage\S\157
+"Cage"	"is facing"	"separate lawsuits also"	157	query216_Nicolas_Cage\P\157-0
+"Cage"	"is facing"	"separate lawsuits from East West Bank"	157	query216_Nicolas_Cage\P\157-1
+"Cage"	"is facing"	"separate lawsuits from East West Red Curb Investments"	157	query216_Nicolas_Cage\P\157-2
+"Cage"	"is facing"	"separate lawsuits for unpaid"	157	query216_Nicolas_Cage\P\157-3
+"Cage"	"is facing"	"separate lawsuits for multimillion dollar loans"	157	query216_Nicolas_Cage\P\157-4
+"Cage"	"is facing"	"separate lawsuits"	157	query216_Nicolas_Cage\P\157-5
+thumbleftalt=Three-storey rectangular buildingThe LaLaurie Mansion in New Orleans was purchased anonymously by Cage in 2007 and sold in 2009 . 	158	query216_Nicolas_Cage\S\158
+"thumbleftalt = Three-storey rectangular buildingThe LaLaurie Mansion in New Orleans"	"was purchased"	"anonymously by Cage"	158	query216_Nicolas_Cage\P\158-0
+"thumbleftalt = Three-storey rectangular buildingThe LaLaurie Mansion in New Orleans"	"was purchased"	"anonymously in 2007"	158	query216_Nicolas_Cage\P\158-1
+"thumbleftalt = Three-storey rectangular buildingThe LaLaurie Mansion in New Orleans"	"was purchased"	"anonymously"	158	query216_Nicolas_Cage\P\158-2
+"thumbleftalt = Three-storey rectangular buildingThe LaLaurie Mansion in New Orleans"	"was sold"	"in 2009 anonymously"	158	query216_Nicolas_Cage\P\158-3
+"thumbleftalt = Three-storey rectangular buildingThe LaLaurie Mansion in New Orleans"	"was sold"	"in 2009 by Cage"	158	query216_Nicolas_Cage\P\158-4
+"thumbleftalt = Three-storey rectangular buildingThe LaLaurie Mansion in New Orleans"	"was sold"	"in 2009 in 2007"	158	query216_Nicolas_Cage\P\158-5
+"thumbleftalt = Three-storey rectangular buildingThe LaLaurie Mansion in New Orleans"	"was sold"	"in 2009"	158	query216_Nicolas_Cage\P\158-6
+Samuel Levin filed a counter-complaint and responded to the lawsuit in a filing stating that he warned Cage that he was living beyond his means and urged him to spend less . 	159	query216_Nicolas_Cage\S\159
+"Samuel Levin"	"filed"	"a counter-complaint"	159	query216_Nicolas_Cage\P\159-0
+"Samuel Levin"	"responded"	"a counter-complaint to the lawsuit"	159	query216_Nicolas_Cage\P\159-1
+"Samuel Levin"	"responded"	"a counter-complaint in a filing stating that he warned Cage that he was living beyond his means"	159	query216_Nicolas_Cage\P\159-2
+"Samuel Levin"	"responded"	"a counter-complaint"	159	query216_Nicolas_Cage\P\159-3
+"Samuel Levin"	"urged"	"a counter-complaint him to spend less"	159	query216_Nicolas_Cage\P\159-4
+"a filing"	"be stating"	"that he warned Cage that he was living beyond his means"	159	query216_Nicolas_Cage\P\159-5
+"a filing"	"be stating"	"that he warned Cage that he was living beyond his means"	159	query216_Nicolas_Cage\P\159-6
+"a filing"	"be stating"	"that he warned Cage that he was living beyond his means"	159	query216_Nicolas_Cage\P\159-7
+"a filing"	"be stating"	"that he warned Cage that he was living beyond his means"	159	query216_Nicolas_Cage\P\159-8
+Levin 's filing states that "instead of listening to Levin , cross-defendant Cage ( Coppola ) spent most of his free time shopping for high ticket purchases , and wound up with 15 personal residences " , Levin 's complaint continued : " Likewise , Levin advised Coppola against buying a Gulfstream jet , against buying and owning a flotilla of yachts , against buying and owning a squadron of Rolls Royces , against buying millions of dollars in jewelry and art . 	160	query216_Nicolas_Cage\S\160
+Levin 's filing states that "instead of listening to Levin , cross-defendant Cage ( Coppola ) spent most of his free time shopping for high ticket purchases , and wound up with 15 personal residences " , Levin 's complaint continued : " Likewise , Levin advised Coppola against buying a Gulfstream jet , against buying and owning a flotilla of yachts , against buying and owning a squadron of Rolls Royces , against buying millions of dollars in jewelry and art . 	160	query216_Nicolas_Cage\S\160
+Levin 's filing states that "instead of listening to Levin , cross-defendant Cage ( Coppola ) spent most of his free time shopping for high ticket purchases , and wound up with 15 personal residences " , Levin 's complaint continued : " Likewise , Levin advised Coppola against buying a Gulfstream jet , against buying and owning a flotilla of yachts , against buying and owning a squadron of Rolls Royces , against buying millions of dollars in jewelry and art . 	160	query216_Nicolas_Cage\S\160
+Levin 's filing states that "instead of listening to Levin , cross-defendant Cage ( Coppola ) spent most of his free time shopping for high ticket purchases , and wound up with 15 personal residences " , Levin 's complaint continued : " Likewise , Levin advised Coppola against buying a Gulfstream jet , against buying and owning a flotilla of yachts , against buying and owning a squadron of Rolls Royces , against buying millions of dollars in jewelry and art . 	160	query216_Nicolas_Cage\S\160
+"cross-defendant Cage"	"is"	"Coppola"	160	query216_Nicolas_Cage\P\160-0
+"cross-defendant Cage"	"is"	"Coppola"	160	query216_Nicolas_Cage\P\160-1
+"cross-defendant Cage"	"is"	"Coppola"	160	query216_Nicolas_Cage\P\160-2
+"cross-defendant Cage"	"is"	"Coppola"	160	query216_Nicolas_Cage\P\160-3
+"cross-defendant Cage"	"is"	"Coppola"	160	query216_Nicolas_Cage\P\160-4
+"cross-defendant Cage"	"is"	"Coppola"	160	query216_Nicolas_Cage\P\160-5
+"cross-defendant Cage"	"is"	"Coppola"	160	query216_Nicolas_Cage\P\160-6
+"cross-defendant Cage"	"is"	"Coppola"	160	query216_Nicolas_Cage\P\160-7
+"Levin 's complaint"	"continued"	"Likewise instead of listening to Levin spent most of his free time shopping for high ticket purchases"	160	query216_Nicolas_Cage\P\160-8
+"Levin 's complaint"	"continued"	"Likewise instead of listening to Levin most of his free time shopping for high ticket purchases wound up with 15 personal residences"	160	query216_Nicolas_Cage\P\160-9
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-10
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-11
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-12
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-13
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-14
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-15
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-16
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-17
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-18
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-19
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-20
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-21
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-22
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-23
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-24
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-25
+"Levin 's complaint"	"continued"	"Likewise"	160	query216_Nicolas_Cage\P\160-26
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+" In his filing Levin says that in 2007 Cage 's " shopping spree entailed the purchase of three additional residences at a total cost of more than $ 33&nbsp;million ; the purchase of 22 automobiles ( including 9 Rolls Royces ) ; 12 purchases of expensive jewelry ; and 47 purchases of artwork and exotic items . 	161	query216_Nicolas_Cage\S\161
+"Cage"	"has"	"shopping spree"	2007	query216_Nicolas_Cage\P\161-0
+" One of those exotic items was a dinosaur skull of a Tarbosaurus for which Nicolas Cage paid $ 276,000 in an auction after winning a bidding contest against Leonardo DiCaprio . 	162	query216_Nicolas_Cage\S\162
+"One of those exotic items"	"was a dinosaur skull"	"of a Tarbosaurus"	162	query216_Nicolas_Cage\P\162-0
+"One of those exotic items"	"was"	"a dinosaur skull"	162	query216_Nicolas_Cage\P\162-1
+"Nicolas Cage"	"paid"	"$ 276,000 a Tarbosaurus for which"	162	query216_Nicolas_Cage\P\162-2
+"Nicolas Cage"	"paid"	"$ 276,000 in an auction a Tarbosaurus"	162	query216_Nicolas_Cage\P\162-3
+"Nicolas Cage"	"paid"	"$ 276,000 after winning a bidding contest against Leonardo DiCaprio a Tarbosaurus"	162	query216_Nicolas_Cage\P\162-4
+"Nicolas Cage"	"paid"	"$ 276,000 a Tarbosaurus"	162	query216_Nicolas_Cage\P\162-5
+According to Cage , he owned the " Most Haunted House in America" , a home located in the French Quarter of New Orleans , Louisiana . 	163	query216_Nicolas_Cage\S\163
+According to Cage , he owned the " Most Haunted House in America" , a home located in the French Quarter of New Orleans , Louisiana . 	163	query216_Nicolas_Cage\S\163
+According to Cage , he owned the " Most Haunted House in America" , a home located in the French Quarter of New Orleans , Louisiana . 	163	query216_Nicolas_Cage\S\163
+According to Cage , he owned the " Most Haunted House in America" , a home located in the French Quarter of New Orleans , Louisiana . 	163	query216_Nicolas_Cage\S\163
+"New Orleans"	"is in"	"Louisiana"	163	query216_Nicolas_Cage\P\163-0
+The home is known as " The LaLaurie house " after its former owner Delphine LaLaurie . 	164	query216_Nicolas_Cage\S\164
+"The home"	"is known"	"as The LaLaurie house after its former owner Delphine LaLaurie"	164	query216_Nicolas_Cage\P\164-0
+"The home"	"is known"	"as The LaLaurie house"	164	query216_Nicolas_Cage\P\164-1
+"The home"	"is known"	"as The LaLaurie house"	164	query216_Nicolas_Cage\P\164-2
+The house was foreclosed and sold at auction on November 12 , 2009 along with another New Orleans property for a total of $ 5.5&nbsp;million 	165	query216_Nicolas_Cage\S\165
+"The house"	"was foreclosed"	"on November 12 2009"	165	query216_Nicolas_Cage\P\165-0
+"The house"	"was sold"	"at auction on November 12 2009"	165	query216_Nicolas_Cage\P\165-1
+"The house"	"was sold"	"at auction"	165	query216_Nicolas_Cage\P\165-2
+, in the wake of his financial problems . 	166	query216_Nicolas_Cage\S\166
+, in the wake of his financial problems . 	166	query216_Nicolas_Cage\S\166
+Nicolas Cage : Movie star , foreclosure victim Hibah Yousuf http ://money .cnn.com/2009/11/13/real_estate/Nicolas_Cage/index 	167	query216_Nicolas_Cage\S\167
+.htm?cnn=yes 	168	query216_Nicolas_Cage\S\168
+CNN November 13 , 2009 November 14 , 2009 Nicolas Cage : Movie star , foreclosure victim Hibah Yousuf http ://money .cnn.com/2009/11/13/real_estate/Nicolas_Cage/index 	169	query216_Nicolas_Cage\S\169
+.htm?cnn=yes 	170	query216_Nicolas_Cage\S\170
+CNN November 13 , 2009 November 14 , 2009 His Bel Air home , which had six loans totaling $ 18&nbsp;million on it , failed to sell at an April 2010 foreclosure auction despite an opening offer of $ 10.4&nbsp;million 	171	query216_Nicolas_Cage\S\171
+"CNN November 13"	"is"	"2009 November 14"	171	query216_Nicolas_Cage\P\171-0
+"CNN November 13"	"is"	"2009 His Bel Air home"	171	query216_Nicolas_Cage\P\171-1
+"CNN November 13"	"is"	"2009 His Bel Air home"	171	query216_Nicolas_Cage\P\171-2
+"CNN November 13"	"had"	"six loans totaling $ 18 million on it"	171	query216_Nicolas_Cage\P\171-3
+"CNN November 13"	"had"	"six loans totaling $ 18 million"	171	query216_Nicolas_Cage\P\171-4
+"six loans"	"be totaling"	"$ 18 million"	171	query216_Nicolas_Cage\P\171-5
+"CNN November 13"	"failed"	"to sell at an April 2010 foreclosure auction despite an opening offer of $ 10.4 million"	171	query216_Nicolas_Cage\P\171-6
+"CNN November 13"	"failed"	"to sell at an April 2010 foreclosure auction"	171	query216_Nicolas_Cage\P\171-7
+, substantially less than the $ 35&nbsp;million that Cage had originally tried to sell it for . 	172	query216_Nicolas_Cage\S\172
+, substantially less than the $ 35&nbsp;million that Cage had originally tried to sell it for . 	172	query216_Nicolas_Cage\S\172
+, substantially less than the $ 35&nbsp;million that Cage had originally tried to sell it for . 	172	query216_Nicolas_Cage\S\172
+, substantially less than the $ 35&nbsp;million that Cage had originally tried to sell it for . 	172	query216_Nicolas_Cage\S\172
+, substantially less than the $ 35&nbsp;million that Cage had originally tried to sell it for . 	172	query216_Nicolas_Cage\S\172
+The home , built in 1940 for $ 110,000 had been owned by Dean Martin and singer Tom Jones . 	173	query216_Nicolas_Cage\S\173
+"The home"	"be built"	"in 1940 for $ 110,000"	173	query216_Nicolas_Cage\P\173-0
+"The home"	"be built"	"in 1940"	173	query216_Nicolas_Cage\P\173-1
+"The home built in 1940 for $ 110,000"	"had been owned"	"by Dean Martin"	173	query216_Nicolas_Cage\P\173-2
+"The home built in 1940 for $ 110,000"	"had been owned"	"by Dean singer Tom Jones"	173	query216_Nicolas_Cage\P\173-3
+http ://www.latimes.com/business/la-fi-cage-foreclosure8-2010apr08,0,2028352.story 	174	query216_Nicolas_Cage\S\174
+Foreclosure auction of Nicolas Cage 's mansion is a flop April 8 , 2010 Lauren Beale Los Angeles Times December 25 , 2010 http ://www.latimes.com/business/la-fi-cage-foreclosure8-2010apr08,0,2028352.story 	175	query216_Nicolas_Cage\S\175
+"Nicolas Cage"	"has"	"mansion"	175	query216_Nicolas_Cage\P\175-0
+"Foreclosure auction of Nicolas Cage 's mansion"	"is"	"a flop April 8 2010 Lauren Beale Los Angeles Times December 25 www.latimes.com/business/la-fi-cage-foreclosure8-2010apr08,0,2028352.story"	175	query216_Nicolas_Cage\P\175-1
+"December 25"	"is"	"2010 http"	175	query216_Nicolas_Cage\P\175-2
+Foreclosure auction of Nicolas Cage 's mansion is a flop April 8 , 2010 Lauren Beale Los Angeles Times December 25 , 2010 The home eventually sold in November 2010 for $ 10.5&nbsp;million 	176	query216_Nicolas_Cage\S\176
+"Nicolas Cage"	"has"	"mansion"	176	query216_Nicolas_Cage\P\176-0
+"Foreclosure auction of Nicolas Cage 's mansion"	"is a flop April 8"	"2010 Lauren Beale Los Angeles Times December 25 2010 The home eventually sold in November 2010 for $ 10.5 million"	176	query216_Nicolas_Cage\P\176-1
+"Foreclosure auction of Nicolas Cage 's mansion"	"is"	"a flop April 8"	176	query216_Nicolas_Cage\P\176-2
+"a flop April 8"	"be sold"	"December 25 2010 eventually"	176	query216_Nicolas_Cage\P\176-3
+"a flop April 8"	"be sold"	"December 25 2010 in November 2010"	176	query216_Nicolas_Cage\P\176-4
+"a flop April 8"	"be sold"	"December 25 2010 for $ 10.5 million"	176	query216_Nicolas_Cage\P\176-5
+"a flop April 8"	"be sold"	"December 25 2010"	176	query216_Nicolas_Cage\P\176-6
+"a flop April 8"	"be sold"	"December 25 2010"	176	query216_Nicolas_Cage\P\176-7
+"a flop April 8"	"be sold"	"December 25 2010"	176	query216_Nicolas_Cage\P\176-8
+"a flop April 8"	"be sold"	"December 25 2010"	176	query216_Nicolas_Cage\P\176-9
+"a flop April 8"	"be sold"	"December 25 2010"	176	query216_Nicolas_Cage\P\176-10
+"The home"	"Angeles sold"	"in November 2010 December 25 2010"	176	query216_Nicolas_Cage\P\176-11
+"The home"	"Angeles sold"	"in November 2010 eventually"	176	query216_Nicolas_Cage\P\176-12
+"The home"	"Angeles sold"	"in November 2010 for $ 10.5 million"	176	query216_Nicolas_Cage\P\176-13
+"The home"	"Angeles sold"	"in November 2010"	176	query216_Nicolas_Cage\P\176-14
+. 	177	query216_Nicolas_Cage\S\177
+http ://articles .latimes.com/2010/nov/11/business/la-fi-nicolas-cage-home-20101111 	178	query216_Nicolas_Cage\S\178
+Nicolas Cage 's Bel-Air home goes to new owner for just $ 10.5&nbsp;million 	179	query216_Nicolas_Cage\S\179
+"Nicolas Cage"	"has"	"179 Bel-Air home"	179	query216_Nicolas_Cage\P\179-0
+"Nicolas Cage 's Bel-Air home"	"goes"	"to new owner for just $ 10.5 million"	179	query216_Nicolas_Cage\P\179-1
+"Nicolas Cage 's Bel-Air home"	"goes"	"to new owner"	179	query216_Nicolas_Cage\P\179-2
+November 11 , 2010 Lauren Beale Los Angeles Times December 25 , 2010 http ://articles .latimes.com/2010/nov/11/business/la-fi-nicolas-cage-home-20101111 	180	query216_Nicolas_Cage\S\180
+Nicolas Cage 's Bel-Air home goes to new owner for just $ 10.5&nbsp;million 	181	query216_Nicolas_Cage\S\181
+"Nicolas Cage"	"has"	"181 Bel-Air home"	181	query216_Nicolas_Cage\P\181-0
+"Nicolas Cage 's Bel-Air home"	"goes"	"to new owner for just $ 10.5 million"	181	query216_Nicolas_Cage\P\181-1
+"Nicolas Cage 's Bel-Air home"	"goes"	"to new owner"	181	query216_Nicolas_Cage\P\181-2
+November 11 , 2010 Lauren Beale Los Angeles Times December 25 , 2010 Another home in Nevada also faces foreclosure auction . 	182	query216_Nicolas_Cage\S\182
+"December 25"	"is"	"2010 Another home in Nevada"	182	query216_Nicolas_Cage\P\182-0
+"December 25"	"faces"	"foreclosure auction Beale Los Angeles Times also"	182	query216_Nicolas_Cage\P\182-1
+"December 25"	"faces"	"foreclosure auction Beale Los Angeles Times"	182	query216_Nicolas_Cage\P\182-2
+In November 2011 , Cage also sold his Action Comics # 1 in an online auction for a record-breaking $ 2.16 	183	query216_Nicolas_Cage\S\183
+In November 2011 , Cage also sold his Action Comics # 1 in an online auction for a record-breaking $ 2.16 	183	query216_Nicolas_Cage\S\183
+In November 2011 , Cage also sold his Action Comics # 1 in an online auction for a record-breaking $ 2.16 	183	query216_Nicolas_Cage\S\183
+In November 2011 , Cage also sold his Action Comics # 1 in an online auction for a record-breaking $ 2.16 	183	query216_Nicolas_Cage\S\183
+In November 2011 , Cage also sold his Action Comics # 1 in an online auction for a record-breaking $ 2.16 	183	query216_Nicolas_Cage\S\183
+million dollars ( the previous record being 1.5 	184	query216_Nicolas_Cage\S\184
+) , to assist paying his tax liens and other debts . 	185	query216_Nicolas_Cage\S\185
+) , to assist paying his tax liens and other debts . 	185	query216_Nicolas_Cage\S\185
+) , to assist paying his tax liens and other debts . 	185	query216_Nicolas_Cage\S\185
+) , to assist paying his tax liens and other debts . 	185	query216_Nicolas_Cage\S\185
+Cage purchased the comic in 1997 for $ 110,000 . 	186	query216_Nicolas_Cage\S\186
+"Cage"	"purchased"	"the comic in 1997"	186	query216_Nicolas_Cage\P\186-0
+"Cage"	"purchased"	"the comic for $ 110,000"	186	query216_Nicolas_Cage\P\186-1
+"Cage"	"purchased"	"the comic"	186	query216_Nicolas_Cage\P\186-2
+http ://www.cnn.com/2011/12/01/us/superman-comic/index 	187	query216_Nicolas_Cage\S\187
+.html 	188	query216_Nicolas_Cage\S\188
+?iref=allsearch CNN Super price for Superman comic - CNN.com 	189	query216_Nicolas_Cage\S\189
+December 2 , 2011 http ://www.cnn.com/2011/12/01/us/superman-comic/index 	190	query216_Nicolas_Cage\S\190
+"December 2 www.cnn.com/2011/12/01/us/superman-comic/index"	"is"	"2011 http"	190	query216_Nicolas_Cage\P\190-0
+.html 	191	query216_Nicolas_Cage\S\191
+?iref=allsearch CNN Super price for Superman comic - CNN.com 	192	query216_Nicolas_Cage\S\192
+December 2 , 2011 In December 2009 , Christina Fulton sued Cage for $ 13&nbsp;million and the house she is living in . 	193	query216_Nicolas_Cage\S\193
+"Christina Fulton"	"sued"	"Cage for $ 13 million"	193	query216_Nicolas_Cage\P\193-0
+"Christina Fulton"	"sued"	"Cage"	193	query216_Nicolas_Cage\P\193-1
+"Christina Fulton"	"the house"	"Cage for $ 13 million"	193	query216_Nicolas_Cage\P\193-2
+"Christina Fulton"	"the house"	"Cage"	193	query216_Nicolas_Cage\P\193-3
+"Christina Fulton"	"the house"	"Cage"	193	query216_Nicolas_Cage\P\193-4
+The suit was in response to an order that she leave the dwelling that was brought about by Cage 's financial difficulties . 	194	query216_Nicolas_Cage\S\194
+"The suit"	"was"	"in response to an order that she leave the dwelling"	194	query216_Nicolas_Cage\P\194-0
+"The suit"	"was"	"in response to an order that she leave the dwelling"	194	query216_Nicolas_Cage\P\194-1
+"the dwelling"	"was brought"	"by about Cage 's financial difficulties"	194	query216_Nicolas_Cage\P\194-2
+"the dwelling"	"was brought"	"by about Cage 's financial difficulties"	194	query216_Nicolas_Cage\P\194-3
+On April 15 , 2011 , at 11:30&nbsp;pm , Cage was arrested in New Orleans in the city 's famed French Quarter district for suspicion of domestic abuse battery , disturbing the peace and public intoxication , after a police officer was flagged down by onlookers after Cage allegedly grabbed his wife 's upper arm while appearing to be under the influence of alcohol . 	195	query216_Nicolas_Cage\S\195
+"On April 15 2011 at 11:30 pm"	"is"	"Cage"	195	query216_Nicolas_Cage\P\195-0
+"On April 15 2011 at 11:30 pm"	"was arrested"	"in New Orleans disturbing the peace"	195	query216_Nicolas_Cage\P\195-1
+"On April 15 2011 at 11:30 pm"	"was arrested"	"in New Orleans disturbing the public intoxication"	195	query216_Nicolas_Cage\P\195-2
+"On April 15 2011 at 11:30 pm"	"was arrested"	"in the city 's famed French Quarter district for suspicion of domestic abuse battery disturbing the peace"	195	query216_Nicolas_Cage\P\195-3
+"On April 15 2011 at 11:30 pm"	"was arrested"	"in the city 's famed French Quarter district for suspicion of domestic abuse battery disturbing the public intoxication"	195	query216_Nicolas_Cage\P\195-4
+"On April 15 2011 at 11:30 pm"	"was arrested"	"disturbing the peace after a police officer was flagged down by onlookers after Cage allegedly grabbed his wife 's upper arm while appearing to be under the influence of alcohol"	195	query216_Nicolas_Cage\P\195-5
+"On April 15 2011 at 11:30 pm"	"was arrested"	"disturbing the public intoxication after a police officer was flagged down by onlookers after Cage allegedly grabbed his wife 's upper arm while appearing to be under the influence of alcohol"	195	query216_Nicolas_Cage\P\195-6
+"On April 15 2011 at 11:30 pm"	"was arrested"	"disturbing the peace"	195	query216_Nicolas_Cage\P\195-7
+"On April 15 2011 at 11:30 pm"	"was arrested"	"disturbing the public intoxication"	195	query216_Nicolas_Cage\P\195-8
+"the city"	"has"	"famed French Quarter district for suspicion of domestic abuse battery"	195	query216_Nicolas_Cage\P\195-9
+"a police officer"	"was flagged down"	"by onlookers after Cage allegedly grabbed his wife 's upper arm while appearing to be under the influence of alcohol"	195	query216_Nicolas_Cage\P\195-10
+"a police officer"	"was flagged down"	"by onlookers"	195	query216_Nicolas_Cage\P\195-11
+"a police officer"	"was flagged down"	"by onlookers"	195	query216_Nicolas_Cage\P\195-12
+"a police officer"	"was flagged down"	"by onlookers"	195	query216_Nicolas_Cage\P\195-13
+"a police officer"	"was flagged down"	"by onlookers"	195	query216_Nicolas_Cage\P\195-14
+"a police officer"	"was flagged down"	"by onlookers"	195	query216_Nicolas_Cage\P\195-15
+"his wife"	"has"	"upper arm"	195	query216_Nicolas_Cage\P\195-16
+http ://www.reuters.com/article/2011/04/16/us-cage-arrest-idUSTRE73F24J20110416 	196	query216_Nicolas_Cage\S\196
+Actor Nicolas Cage arrested in New Orleans Reuters April 16 , 2011 http ://www.reuters.com/article/2011/04/16/us-cage-arrest-idUSTRE73F24J20110416 	197	query216_Nicolas_Cage\S\197
+"Actor Nicolas Cage www.reuters.com/article/2011/04/16/us-cage-arrest-idUSTRE73F24J20110416"	"be arrested"	"in New Orleans Reuters April 16"	197	query216_Nicolas_Cage\P\197-0
+"New Orleans Reuters April 16"	"is"	"2011 http"	197	query216_Nicolas_Cage\P\197-1
+Actor Nicolas Cage arrested in New Orleans Reuters April 16 , 2011 Cage was held in police custody until a bail of $ 11,000 was posted by Duane " Dog " Chapman . 	198	query216_Nicolas_Cage\S\198
+"Actor Nicolas Cage"	"be arrested"	"in New Orleans Reuters April 16"	198	query216_Nicolas_Cage\P\198-0
+"New Orleans Reuters April 16"	"is"	"2011 Cage"	198	query216_Nicolas_Cage\P\198-1
+"Actor Nicolas Cage arrested in New Orleans Reuters April 16"	"was held"	"in police custody until a bail of $ 11,000 was posted by Duane Dog Chapman"	198	query216_Nicolas_Cage\P\198-2
+"Actor Nicolas Cage arrested in New Orleans Reuters April 16"	"was held"	"in police custody"	198	query216_Nicolas_Cage\P\198-3
+"a bail of $ 11,000"	"was posted"	"by Duane Dog Chapman"	198	query216_Nicolas_Cage\P\198-4
+http ://nymag.com/daily/entertainment/2011/04/niccage 	199	query216_Nicolas_Cage\S\199
+.html 	200	query216_Nicolas_Cage\S\200
+?imw=Y&f=most-viewed-24h5 Nicolas Cage Arrested in New Orleans ( Updated ) Mike Vilensky Vulture http ://nymag.com/daily/entertainment/2011/04/niccage 	201	query216_Nicolas_Cage\S\201
+"imw = Y & f = most-viewed-24h5 Nicolas Cage Updated"	"be Arrested"	"in New Orleans"	201	query216_Nicolas_Cage\P\201-0
+.html 	202	query216_Nicolas_Cage\S\202
+?imw=Y&f=most-viewed-24h5 Nicolas Cage Arrested in New Orleans ( Updated ) Mike Vilensky Vulture http ://www.dailymail.co.uk/tvshowbiz/article-1377615/Nicolas-Cage-arrested-drunken-assault-wife-Alice-Kim-street 	203	query216_Nicolas_Cage\S\203
+"imw = Y & f = most-viewed-24h5 Nicolas Cage Updated"	"be Arrested"	"in New Orleans"	203	query216_Nicolas_Cage\P\203-0
+.html 	204	query216_Nicolas_Cage\S\204
+Nicolas Cage arrested after 'drunken assault on wife in the street ' Anita Bennett Daily Mail UK April 17 , 2011 http ://www.dailymail.co.uk/tvshowbiz/article-1377615/Nicolas-Cage-arrested-drunken-assault-wife-Alice-Kim-street 	205	query216_Nicolas_Cage\S\205
+"Nicolas Cage"	"arrested"	"after drunken assault on wife in the street Anita Bennett Daily Mail UK April 17 www.dailymail.co.uk/tvshowbiz/article-1377615/Nicolas-Cage-arrested-drunken-assault-wife-Alice-Kim-street"	205	query216_Nicolas_Cage\P\205-0
+"Anita Bennett Daily Mail UK April 17"	"is"	"2011 http"	205	query216_Nicolas_Cage\P\205-1
+.html 	206	query216_Nicolas_Cage\S\206
+Nicolas Cage arrested after 'drunken assault on wife in the street ' Anita Bennett Daily Mail UK April 17 , 2011 He was later ordered to appear in court on May 31 , 2011 . 	207	query216_Nicolas_Cage\S\207
+"Nicolas Cage"	"arrested"	"after drunken assault on wife in the street Anita Bennett Daily Mail UK April 17 2011 He was later ordered to appear in court on May 31 2011"	207	query216_Nicolas_Cage\P\207-0
+"Nicolas Cage"	"arrested"	"after drunken assault on wife in the street Anita Bennett Daily Mail UK April 17 2011 He was later ordered to appear in court on May 31 2011"	207	query216_Nicolas_Cage\P\207-1
+"Nicolas Cage"	"arrested"	"after drunken assault on wife in the street Anita Bennett Daily Mail UK April 17 2011 He was later ordered to appear in court on May 31 2011"	207	query216_Nicolas_Cage\P\207-2
+"Nicolas Cage"	"arrested"	"after drunken assault on wife in the street Anita Bennett Daily Mail UK April 17 2011 He was later ordered to appear in court on May 31 2011"	207	query216_Nicolas_Cage\P\207-3
+"Nicolas Cage"	"arrested"	"after drunken assault on wife in the street Anita Bennett Daily Mail UK April 17 2011 He was later ordered to appear in court on May 31 2011"	207	query216_Nicolas_Cage\P\207-4
+"Nicolas Cage"	"arrested"	"after drunken assault on wife in the street Anita Bennett Daily Mail UK April 17 2011 He was later ordered to appear in court on May 31 2011"	207	query216_Nicolas_Cage\P\207-5
+"Nicolas Cage"	"arrested"	"after drunken assault on wife in the street Anita Bennett Daily Mail UK April 17 2011 He was later ordered to appear in court on May 31 2011"	207	query216_Nicolas_Cage\P\207-6
+http ://today .msnbc.msn.com/id/42624176/ns/today-entertainment 	208	query216_Nicolas_Cage\S\208
+Nicolas Cage arrested in New Orleans MSN http ://today .msnbc.msn.com/id/42624176/ns/today-entertainment 	209	query216_Nicolas_Cage\S\209
+Nicolas Cage arrested in New Orleans MSN On May 5 , 2011 , it was announced that the charges against Cage had been dropped . 	210	query216_Nicolas_Cage\S\210
+"Nicolas Cage"	"arrested"	"in New Orleans MSN On May 5 2011"	210	query216_Nicolas_Cage\P\210-0
+"Nicolas Cage"	"arrested"	"in New Orleans MSN"	210	query216_Nicolas_Cage\P\210-1
+"Nicolas Cage"	"arrested"	"in New Orleans MSN"	210	query216_Nicolas_Cage\P\210-2
+"Nicolas Cage"	"arrested"	"in New Orleans MSN"	210	query216_Nicolas_Cage\P\210-3
+Eugene Ernest May 9 , 2011 Court Cleared all Allegations on Nicolas Cage http ://www.mjbstar.com/celebrities/2011/05/09/court-cleared-all-allegations-on-nicolas-cage/ 	211	query216_Nicolas_Cage\S\211
+"Eugene Ernest May 9"	"is"	"2011 Court Cleared all Allegations on Nicolas Cage http"	211	query216_Nicolas_Cage\P\211-0
+Eugene Ernest May 9 , 2011 Court Cleared all Allegations on Nicolas Cage http ://www.mjbstar.com/celebrities/2011/05/09/court-cleared-all-allegations-on-nicolas-cage/ 	212	query216_Nicolas_Cage\S\212
+"Eugene Ernest May 9"	"is"	"2011 Court Cleared all Allegations on Nicolas Cage http"	212	query216_Nicolas_Cage\P\212-0
+May 6 , 2011 Domestic Abuse Charges Against Nicolas Cage Dropped http ://www .starpulse 	213	query216_Nicolas_Cage\S\213
+.com/news/index.php/2011/05/06/domestic_abuse_charges_against_nicolas 	214	query216_Nicolas_Cage\S\214
+May 6 , 2011 Domestic Abuse Charges Against Nicolas Cage Dropped http ://www .starpulse 	215	query216_Nicolas_Cage\S\215
+.com/news/index.php/2011/05/06/domestic_abuse_charges_against_nicolas 	216	query216_Nicolas_Cage\S\216
+May 6 , 2011 Charges dropped against Nicolas Cage in New Orleans http ://www.vancouversun.com/story_print 	217	query216_Nicolas_Cage\S\217
+"Charges"	"dropped"	"against Nicolas Cage in New Orleans http 217 May 6 www.vancouversun.com/story_print"	2011	query216_Nicolas_Cage\P\217-0
+"Charges"	"dropped"	"217 May 6 www.vancouversun.com/story_print"	2011	query216_Nicolas_Cage\P\217-1
+.html 	218	query216_Nicolas_Cage\S\218
+?id=4739763&sponsor= May 6 , 2011 Charges dropped against Nicolas Cage in New Orleans http ://www.vancouversun.com/story_print 	219	query216_Nicolas_Cage\S\219
+"& sponsor ="	"May 2011 Charges dropped"	"against Nicolas Cage in New Orleans http 6"	4739763	query216_Nicolas_Cage\P\219-0
+"& sponsor ="	"May 2011 Charges dropped"	"against Nicolas Cage in New Orleans http"	4739763	query216_Nicolas_Cage\P\219-1
+"Charges"	"4739763 & sponsor = May dropped"	"against Nicolas Cage in New Orleans http 6"	2011	query216_Nicolas_Cage\P\219-2
+"Charges"	"4739763 & sponsor = May dropped"	"against Nicolas Cage in New Orleans http"	2011	query216_Nicolas_Cage\P\219-3
+.html 	220	query216_Nicolas_Cage\S\220
+?id=4739763&sponsor= Simon Boyle May 5 , 2011 Nicolas Cage 's disorder charges dropped due to lack of evidence Simon Boyle May 5 , 2011 Nicolas Cage 's disorder charges dropped due to lack of evidence Film 2 http ://www.variety 	221	query216_Nicolas_Cage\S\221
+?id=4739763&sponsor= Simon Boyle May 5 , 2011 Nicolas Cage 's disorder charges dropped due to lack of evidence Simon Boyle May 5 , 2011 Nicolas Cage 's disorder charges dropped due to lack of evidence Film 2 http ://www.variety 	221	query216_Nicolas_Cage\S\221
+?id=4739763&sponsor= Simon Boyle May 5 , 2011 Nicolas Cage 's disorder charges dropped due to lack of evidence Simon Boyle May 5 , 2011 Nicolas Cage 's disorder charges dropped due to lack of evidence Film 2 http ://www.variety 	221	query216_Nicolas_Cage\S\221
+?id=4739763&sponsor= Simon Boyle May 5 , 2011 Nicolas Cage 's disorder charges dropped due to lack of evidence Simon Boyle May 5 , 2011 Nicolas Cage 's disorder charges dropped due to lack of evidence Film 2 http ://www.variety 	221	query216_Nicolas_Cage\S\221
+"Nicolas Cage 's disorder charges"	"Boyle dropped"	"due to lack of evidence Film 2 http evidence Simon"	2011	query216_Nicolas_Cage\P\221-0
+"Nicolas Cage 's disorder charges"	"Boyle dropped"	"due to lack of evidence Film 2 http evidence May 5"	2011	query216_Nicolas_Cage\P\221-1
+"Nicolas Cage 's disorder charges"	"Boyle dropped"	"due to lack of evidence Film 2 http evidence"	2011	query216_Nicolas_Cage\P\221-2
+"Nicolas Cage 's disorder charges"	"Boyle dropped"	"due to lack of evidence Film 2 http evidence"	2011	query216_Nicolas_Cage\P\221-3
+"Nicolas Cage"	"has"	"2011 disorder charges"	2011	query216_Nicolas_Cage\P\221-4
+"& sponsor"	"Simon Boyle 2011 Nicolas Cage 's disorder charges dropped"	"due to lack of evidence May 5"	4739763	query216_Nicolas_Cage\P\221-5
+"& sponsor"	"Simon Boyle 2011 Nicolas Cage 's disorder charges dropped"	"due to lack of evidence"	4739763	query216_Nicolas_Cage\P\221-6
+"Simon Boyle"	"4739763 & sponsor 2011 Nicolas Cage 's disorder charges dropped"	"due to lack of evidence May 5"	4739763	query216_Nicolas_Cage\P\221-7
+"Simon Boyle"	"4739763 & sponsor 2011 Nicolas Cage 's disorder charges dropped"	"due to lack of evidence"	4739763	query216_Nicolas_Cage\P\221-8
+"Nicolas Cage 's disorder charges"	"4739763 & sponsor Simon Boyle dropped"	"due to lack of evidence May 5"	2011	query216_Nicolas_Cage\P\221-9
+"Nicolas Cage 's disorder charges"	"4739763 & sponsor Simon Boyle dropped"	"due to lack of evidence"	2011	query216_Nicolas_Cage\P\221-10
+"Nicolas Cage"	"has"	"2011 disorder charges"	2011	query216_Nicolas_Cage\P\221-11
+.com/article/VR1118015738.html?categoryid=13&cs=1 	222	query216_Nicolas_Cage\S\222
+Cage , Reynolds to star in CG caveman comedy February 24 , 2010 Variety Reed Business Information February 26 , 2010 Peter Debruge http ://www.variety 	223	query216_Nicolas_Cage\S\223
+"Cage to star in CG caveman comedy February 24 2010 Variety Reed Business Information February 26 2010 Peter Debruge http www.variety"	"is"	"Reynolds"	223	query216_Nicolas_Cage\P\223-0
+"Cage www.variety"	"be star"	"in CG caveman comedy February 24 2010 Variety Reed Business Information February 26 2010 Peter Debruge http"	223	query216_Nicolas_Cage\P\223-1
+.com/article/VR1118015738.html?categoryid=13&cs=1 	224	query216_Nicolas_Cage\S\224
+Cage , Reynolds to star in CG caveman comedy February 24 , 2010 Variety Reed Business Information February 26 , 2010 Peter Debruge http ://www.ew.com/ew/article/0 	225	query216_Nicolas_Cage\S\225
+"Cage to star in CG caveman comedy February 24 2010 Variety Reed Business Information February 26 2010 Peter Debruge http www.ew.com/ew/article/0"	"is"	"Reynolds"	225	query216_Nicolas_Cage\P\225-0
+"Cage www.ew.com/ew/article/0"	"be star"	"in CG caveman comedy February 24 2010 Variety Reed Business Information February 26 2010 Peter Debruge http"	225	query216_Nicolas_Cage\P\225-1
+,,20159642,00.html 	226	query216_Nicolas_Cage\S\226
+Mickey Rourke Starring in ' The Wrestler ' Entertainment Weekly August 15 , 2010 Mike Bruno November 12 , 2007 http ://www.ew.com/ew/article/0 	227	query216_Nicolas_Cage\S\227
+"Mickey Rourke"	"Starring"	"in The Wrestler Entertainment Weekly August 15 2010 Mike Bruno November 12 www.ew.com/ew/article/0"	227	query216_Nicolas_Cage\P\227-0
+"Mickey Rourke"	"Starring"	"2010 Mike Bruno November 12 www.ew.com/ew/article/0"	227	query216_Nicolas_Cage\P\227-1
+"Mike Bruno November 12 www.ew.com/ew/article/0"	"is"	"2007 http"	2010	query216_Nicolas_Cage\P\227-2
+,,20159642,00.html 	228	query216_Nicolas_Cage\S\228
+Mickey Rourke Starring in ' The Wrestler ' Entertainment Weekly August 15 , 2010 Mike Bruno November 12 , 2007 The Detroit Free Press , Thursday , December 10 , 2009 , page 12D Silverman Stephen M http ://www.people 	229	query216_Nicolas_Cage\S\229
+"Mickey Rourke"	"Starring"	"in The Wrestler Entertainment Weekly August 15 2010 Mike Bruno November 12 2007 The Detroit Free Press www.people"	229	query216_Nicolas_Cage\P\229-0
+"Mickey Rourke"	"Starring"	"2010 Mike Bruno November 12 2007 The Detroit Free Press www.people"	229	query216_Nicolas_Cage\P\229-1
+"Mike Bruno November 12 2007 The Detroit Free Press www.people"	"is"	"Thursday"	2010	query216_Nicolas_Cage\P\229-2
+"Mike Bruno November 12 2007 The Detroit Free Press www.people"	"is"	"December 10 2009"	2010	query216_Nicolas_Cage\P\229-3
+"December 10 2009"	"is"	"page 12D Silverman Stephen M http"	2010	query216_Nicolas_Cage\P\229-4
+.com/people/article/0 	230	query216_Nicolas_Cage\S\230
+,,642162,00.html 	231	query216_Nicolas_Cage\S\231
+Cage-Presley Union Now a Memory People May 26 , 2004 February 14 , 2010 Silverman Stephen M http ://www.people 	232	query216_Nicolas_Cage\S\232
+.com/people/article/0 	233	query216_Nicolas_Cage\S\233
+,,642162,00.html 	234	query216_Nicolas_Cage\S\234
+Cage-Presley Union Now a Memory People May 26 , 2004 February 14 , 2010 http ://news .bbc.co.uk/1/hi/entertainment/4307332 	235	query216_Nicolas_Cage\S\235
+.stm 	236	query216_Nicolas_Cage\S\236
+Baby boy for actor Cage and wife October 4 , 2005 BBC Online BBC NEWS August 8 , 2010 http ://news .bbc.co.uk/1/hi/entertainment/4307332 	237	query216_Nicolas_Cage\S\237
+.stm 	238	query216_Nicolas_Cage\S\238
+Baby boy for actor Cage and wife October 4 , 2005 BBC Online BBC NEWS August 8 , 2010 http ://www.zeitung 	239	query216_Nicolas_Cage\S\239
+"BBC Online BBC NEWS August 8"	"is"	"2010 http"	2005	query216_Nicolas_Cage\P\239-0
+.org/zeitung/910086-100,1,0.html 	240	query216_Nicolas_Cage\S\240
+Oberpfalznetz – Medienhaus DER NEUE TAG Zeitung .org 	241	query216_Nicolas_Cage\S\241
+February 14 , 2010 http ://www.zeitung 	242	query216_Nicolas_Cage\S\242
+"February 14 www.zeitung"	"is"	"2010 http"	242	query216_Nicolas_Cage\P\242-0
+.org/zeitung/910086-100,1,0.html 	243	query216_Nicolas_Cage\S\243
+Oberpfalznetz – Medienhaus DER NEUE TAG Zeitung .org 	244	query216_Nicolas_Cage\S\244
+February 14 , 2010 http ://rogerebert .suntimes.com/apps/pbcs 	245	query216_Nicolas_Cage\S\245
+.dll/article?AID=/20080918/REVIEWS08/809180300/1004 	246	query216_Nicolas_Cage\S\246
+%20Adaptation Adaptation . 	247	query216_Nicolas_Cage\S\247
+: : rogerebert.com 	248	query216_Nicolas_Cage\S\248
+: : Great Movies rogerebert .suntimes.com 	249	query216_Nicolas_Cage\S\249
+August 15 , 2010 http ://rogerebert .suntimes.com/apps/pbcs 	250	query216_Nicolas_Cage\S\250
+.dll/article?AID=/20080918/REVIEWS08/809180300/1004 	251	query216_Nicolas_Cage\S\251
+%20Adaptation Adaptation . 	252	query216_Nicolas_Cage\S\252
+: : rogerebert.com 	253	query216_Nicolas_Cage\S\253
+: : Great Movies rogerebert .suntimes.com 	254	query216_Nicolas_Cage\S\254
+August 15 , 2010 http ://economictimes .indiatimes.com/news/international-business/Nicolas-Cage-sued-for-2-million/articleshow/5084908.cms 	255	query216_Nicolas_Cage\S\255
+Nicolas Cage sued for $ 2&nbsp;million Economictimes .indiatimes.com 	256	query216_Nicolas_Cage\S\256
+October 3 , 2009 August 15 , 2010 http ://economictimes .indiatimes.com/news/international-business/Nicolas-Cage-sued-for-2-million/articleshow/5084908.cms 	257	query216_Nicolas_Cage\S\257
+Nicolas Cage sued for $ 2&nbsp;million Economictimes .indiatimes.com 	258	query216_Nicolas_Cage\S\258
+October 3 , 2009 August 15 , 2010 http ://www.dailymail.co.uk/tvshowbiz/article-471635/Actors-head-head-auction-house--dinosaur-skull 	259	query216_Nicolas_Cage\S\259
+"October 3 www.dailymail.co.uk/tvshowbiz/article-471635/Actors-head-head-auction-house--dinosaur-skull"	"is"	"2009 August 15"	259	query216_Nicolas_Cage\P\259-0
+"October 3 www.dailymail.co.uk/tvshowbiz/article-471635/Actors-head-head-auction-house--dinosaur-skull"	"is"	"2010 http"	259	query216_Nicolas_Cage\P\259-1
+.html 	260	query216_Nicolas_Cage\S\260
+Actors in head-to-head at auction house – over a dinosaur skull Daily Mail London July 29 , 2007 August 15 , 2010 London http ://www.dailymail.co.uk/tvshowbiz/article-471635/Actors-head-head-auction-house--dinosaur-skull 	261	query216_Nicolas_Cage\S\261
+.html 	262	query216_Nicolas_Cage\S\262
+Actors in head-to-head at auction house – over a dinosaur skull Daily Mail London July 29 , 2007 August 15 , 2010 London http ://www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews 	263	query216_Nicolas_Cage\S\263
+.html 	264	query216_Nicolas_Cage\S\264
+?in_article_id=471606&in_page_id=1773 Hollywood actor is king of the castle in Bath January 15 , 2008 Daily Mail London July 29 , 2007 http ://www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews 	265	query216_Nicolas_Cage\S\265
+"in_article_id = 471606 & in_page_id = 1773 Hollywood actor"	"is king 2008 Daily Mail London July 29 www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews"	"of the castle"	265	query216_Nicolas_Cage\P\265-0
+"in_article_id = 471606 & in_page_id = 1773 Hollywood actor"	"is king 2008 Daily Mail London July 29 www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews"	"in Bath January 15"	265	query216_Nicolas_Cage\P\265-1
+"in_article_id = 471606 & in_page_id = 1773 Hollywood actor"	"is"	"king 2008 Daily Mail London July 29 www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews"	265	query216_Nicolas_Cage\P\265-2
+"Daily Mail London July 29"	"is"	"2007 http"	2008	query216_Nicolas_Cage\P\265-3
+.html 	266	query216_Nicolas_Cage\S\266
+?in_article_id=471606&in_page_id=1773 Hollywood actor is king of the castle in Bath January 15 , 2008 Daily Mail London July 29 , 2007 http ://news .independent.co.uk/uk/this_britain/article2816674.ece 	267	query216_Nicolas_Cage\S\267
+Nicolas Cage joins Britain’s castle-owning classes January 15 , 2008 The Independent London Martin Hodgson July 30 , 2007 http ://news .independent.co.uk/uk/this_britain/article2816674.ece 	268	query216_Nicolas_Cage\S\268
+Nicolas Cage joins Britain’s castle-owning classes January 15 , 2008 The Independent London Martin Hodgson July 30 , 2007 http ://www.timesonline 	269	query216_Nicolas_Cage\S\269
+"Nicolas Cage"	"joins"	"Britain 's castle-owning classes January 15 2008 The Independent London Martin Hodgson July 30 www.timesonline"	269	query216_Nicolas_Cage\P\269-0
+"Nicolas Cage"	"joins"	"Britain 's castle-owning classes January 15 2008 The Independent London Martin Hodgson July 30 www.timesonline"	269	query216_Nicolas_Cage\P\269-1
+"July 30"	"is"	"2007 http"	269	query216_Nicolas_Cage\P\269-2
+.co.uk/tol/news/uk/article2159358.ece 	270	query216_Nicolas_Cage\S\270
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 http ://www.timesonline 	271	query216_Nicolas_Cage\S\271
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 http ://www.timesonline 	271	query216_Nicolas_Cage\S\271
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 http ://www.timesonline 	271	query216_Nicolas_Cage\S\271
+"July 29"	"is"	"2007 http"	271	query216_Nicolas_Cage\P\271-0
+.co.uk/tol/news/uk/article2159358.ece 	272	query216_Nicolas_Cage\S\272
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 Nicolas Cage hit with $ 6.2&nbsp;million 	273	query216_Nicolas_Cage\S\273
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 Nicolas Cage hit with $ 6.2&nbsp;million 	273	query216_Nicolas_Cage\S\273
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 Nicolas Cage hit with $ 6.2&nbsp;million 	273	query216_Nicolas_Cage\S\273
+"July 29"	"is"	"2007 Nicolas Cage"	273	query216_Nicolas_Cage\P\273-0
+"July 29"	"hit"	"with $ 6.2 million The Times London London Maurice Chittenden"	273	query216_Nicolas_Cage\P\273-1
+"July 29"	"hit"	"The Times London London Maurice Chittenden"	273	query216_Nicolas_Cage\P\273-2
+tax bill http ://www.chron.com/disp/story 	274	query216_Nicolas_Cage\S\274
+.mpl/ent/celebrities/6558776.html 	275	query216_Nicolas_Cage\S\275
+Houston Chronicle August 3 , 2009 Nicolas Cage hit with $ 6.2&nbsp;million 	276	query216_Nicolas_Cage\S\276
+"August 3"	"is"	"2009 Nicolas Cage"	276	query216_Nicolas_Cage\P\276-0
+"August 3"	"hit"	"with $ 6.2 million 276 Houston Chronicle"	276	query216_Nicolas_Cage\P\276-1
+"August 3"	"hit"	"276 Houston Chronicle"	276	query216_Nicolas_Cage\P\276-2
+tax bill http ://www.chron.com/disp/story 	277	query216_Nicolas_Cage\S\277
+.mpl/ent/celebrities/6558776.html 	278	query216_Nicolas_Cage\S\278
+Houston Chronicle August 3 , 2009 Brenda Rodriguez http ://www.people 	279	query216_Nicolas_Cage\S\279
+"August 3"	"is"	"2009 Brenda Rodriguez http"	279	query216_Nicolas_Cage\P\279-0
+.com/people/article/0 	280	query216_Nicolas_Cage\S\280
+,,20316292,00.html 	281	query216_Nicolas_Cage\S\281
+Nicolas Cage Blames Advisor for Financial Ruin People November 1 , 2009 November 4 , 2009 Brenda Rodriguez http ://www.people 	282	query216_Nicolas_Cage\S\282
+"Nicolas Cage"	"Blames"	"Advisor for Financial Ruin People November 1 www.people"	282	query216_Nicolas_Cage\P\282-0
+"Financial Ruin People November 1"	"is"	"2009 Brenda Rodriguez http"	282	query216_Nicolas_Cage\P\282-1
+"Financial Ruin People November 1"	"is"	"2009 November 4"	282	query216_Nicolas_Cage\P\282-2
+.com/people/article/0 	283	query216_Nicolas_Cage\S\283
+,,20316292,00.html 	284	query216_Nicolas_Cage\S\284
+Nicolas Cage Blames Advisor for Financial Ruin People November 1 , 2009 November 4 , 2009 Nicolas Cage sues ex-manager for "financial ruin http ://www.reuters.com/article/entertainmentNews/idUSTRE59F4RM20091017 	285	query216_Nicolas_Cage\S\285
+"Nicolas Cage"	"Blames"	"Advisor for Financial Ruin People November 1 sues ex-manager for financial ruin http www.reuters.com/article/entertainmentNews/idUSTRE59F4RM20091017"	285	query216_Nicolas_Cage\P\285-0
+"Financial Ruin People November 1 sues ex-manager for financial ruin http"	"is"	"2009 Nicolas Cage"	285	query216_Nicolas_Cage\P\285-1
+"Financial Ruin People November 1 sues ex-manager for financial ruin http"	"is"	"2009 November 4"	285	query216_Nicolas_Cage\P\285-2
+"Financial Ruin People November 1 sues ex-manager for financial ruin http"	"is"	"2009 November 4"	285	query216_Nicolas_Cage\P\285-3
+Reuters October 16 , 2009 November 4 , 2009 Jill Serjeant Nicolas Cage sues ex-manager for "financial ruin http ://www.reuters.com/article/entertainmentNews/idUSTRE59F4RM20091017 	286	query216_Nicolas_Cage\S\286
+"Reuters October 16"	"is"	"2009 November 4"	286	query216_Nicolas_Cage\P\286-0
+"Reuters October 16"	"is"	"2009 Jill Serjeant Nicolas Cage"	286	query216_Nicolas_Cage\P\286-1
+"Reuters October 16"	"sues"	"ex-manager for financial ruin http www.reuters.com/article/entertainmentNews/idUSTRE59F4RM20091017"	286	query216_Nicolas_Cage\P\286-2
+"Reuters October 16"	"sues"	"ex-manager"	286	query216_Nicolas_Cage\P\286-3
+"Reuters October 16"	"sues"	"ex-manager"	286	query216_Nicolas_Cage\P\286-4
+Reuters October 16 , 2009 November 4 , 2009 Jill Serjeant http ://money .cnn.com/2009/11/17/pf/Nicolas_Cage_lawsuit_manager.cnnw/index 	287	query216_Nicolas_Cage\S\287
+.htm 	288	query216_Nicolas_Cage\S\288
+CNN Nic Cage spent too much : Ex-manager says November 17 , 2009 May 20 , 2010 http ://money .cnn.com/2009/11/17/pf/Nicolas_Cage_lawsuit_manager.cnnw/index 	289	query216_Nicolas_Cage\S\289
+.htm 	290	query216_Nicolas_Cage\S\290
+CNN Nic Cage spent too much : Ex-manager says November 17 , 2009 May 20 , 2010 http ://au.rottentomatoes.com/m/bad_lieutenant_port_of_call_new_orleans 	291	query216_Nicolas_Cage\S\291
+"CNN Nic Cage"	"spent"	"too much"	291	query216_Nicolas_Cage\P\291-0
+"CNN Nic Cage"	"spent"	"too much"	291	query216_Nicolas_Cage\P\291-1
+"November 17 au.rottentomatoes.com/m/bad_lieutenant_port_of_call_new_orleans"	"is"	"2009 May 20"	291	query216_Nicolas_Cage\P\291-2
+"May 20"	"is"	"2010 http"	2009	query216_Nicolas_Cage\P\291-3
+' Bad Lieutenant : Port of Call New Orleans ' – 3 1 2 stars Au.rottentomatoes.com 	292	query216_Nicolas_Cage\S\292
+August 15 , 2010 http ://au.rottentomatoes.com/m/bad_lieutenant_port_of_call_new_orleans 	293	query216_Nicolas_Cage\S\293
+"August 15 au.rottentomatoes.com/m/bad_lieutenant_port_of_call_new_orleans"	"is"	"2010 http"	293	query216_Nicolas_Cage\P\293-0
+' Bad Lieutenant : Port of Call New Orleans ' – 3 1 2 stars Au.rottentomatoes.com 	294	query216_Nicolas_Cage\S\294
+August 15 , 2010 Nicolas Cage interview – " The Late Show With David Letterman , " Sept. 	295	query216_Nicolas_Cage\S\295
+"August 15 The Late Show With David Letterman Sept."	"is"	"2010 Nicolas Cage interview"	295	query216_Nicolas_Cage\P\295-0
+2 , 2008 http ://rogerebert .suntimes.com/apps/pbcs 	296	query216_Nicolas_Cage\S\296
+.dll/article?AID=/20090322/COMMENTARY/903229997 	297	query216_Nicolas_Cage\S\297
+Love and hate and " Knowing " -- or , do wings have angels ? : : rogerebert.com 	298	query216_Nicolas_Cage\S\298
+: : News &amp; comment rogerebert .suntimes.com 	299	query216_Nicolas_Cage\S\299
+August 15 , 2010 http ://rogerebert .suntimes.com/apps/pbcs 	300	query216_Nicolas_Cage\S\300
+.dll/article?AID=/20090322/COMMENTARY/903229997 	301	query216_Nicolas_Cage\S\301
+Love and hate and " Knowing " -- or , do wings have angels ? : : rogerebert.com 	302	query216_Nicolas_Cage\S\302
+: : News &amp; comment rogerebert .suntimes.com 	303	query216_Nicolas_Cage\S\303
+August 15 , 2010 http ://www.calstate 	304	query216_Nicolas_Cage\S\304
+"August 15 www.calstate"	"is"	"2010 http"	304	query216_Nicolas_Cage\P\304-0
+.edu/Newsline/Archive/00-01/010416-Ful 	305	query216_Nicolas_Cage\S\305
+.shtml 	306	query216_Nicolas_Cage\S\306
+CSU Newsline Calstate .edu 	307	query216_Nicolas_Cage\S\307
+April 16 , 2001 February 14 , 2010 http ://www.calstate 	308	query216_Nicolas_Cage\S\308
+"April 16 2001 February 14 www.calstate"	"is"	"2010 http"	308	query216_Nicolas_Cage\P\308-0
+.edu/Newsline/Archive/00-01/010416-Ful 	309	query216_Nicolas_Cage\S\309
+.shtml 	310	query216_Nicolas_Cage\S\310
+CSU Newsline Calstate .edu 	311	query216_Nicolas_Cage\S\311
+April 16 , 2001 February 14 , 2010 Cowie Peter Coppola : a biography Da Capo Press 1988 2 0306805987 Cowie Peter Coppola : a biography Da Capo Press 1988 2 0306805987 http ://moviesblog.mtv.com/2009/03/04/live-action-the-sorcerers-apprentice-completes-its-cast 	312	query216_Nicolas_Cage\S\312
+"April 16 2001 February 14 a biography Da Capo Press 1988 2 0306805987 Cowie Peter Coppola a biography Da Capo Press 1988 2 0306805987 http moviesblog.mtv.com/2009/03/04/live-action-the-sorcerers-apprentice-completes-its-cast"	"is"	"2010 Cowie Peter Coppola"	312	query216_Nicolas_Cage\P\312-0
+MTV Moviesblog.mtv.com 	313	query216_Nicolas_Cage\S\313
+February 14 , 2010 http ://moviesblog.mtv.com/2009/03/04/live-action-the-sorcerers-apprentice-completes-its-cast 	314	query216_Nicolas_Cage\S\314
+"February 14 moviesblog.mtv.com/2009/03/04/live-action-the-sorcerers-apprentice-completes-its-cast"	"is"	"2010 http"	314	query216_Nicolas_Cage\P\314-0
+MTV Moviesblog.mtv.com 	315	query216_Nicolas_Cage\S\315
+February 14 , 2010 http ://featuresblogs .chicagotribune 	316	query216_Nicolas_Cage\S\316
+.com/talking_pictures/2009/11/bad-lieutenant-port-of-call-new-orleans-3-12-stars 	317	query216_Nicolas_Cage\S\317
+.html 	318	query216_Nicolas_Cage\S\318
+Talking Pictures : ' Bad Lieutenant : Port of Call New Orleans ' – 3 1 2 stars Featuresblogs .chicagotribune 	319	query216_Nicolas_Cage\S\319
+.com 	320	query216_Nicolas_Cage\S\320
+November 19 , 2009 August 15 , 2010 http ://featuresblogs .chicagotribune 	321	query216_Nicolas_Cage\S\321
+.com/talking_pictures/2009/11/bad-lieutenant-port-of-call-new-orleans-3-12-stars 	322	query216_Nicolas_Cage\S\322
+.html 	323	query216_Nicolas_Cage\S\323
+Talking Pictures : ' Bad Lieutenant : Port of Call New Orleans ' – 3 1 2 stars Featuresblogs .chicagotribune 	324	query216_Nicolas_Cage\S\324
+.com 	325	query216_Nicolas_Cage\S\325
+November 19 , 2009 August 15 , 2010 http ://www .slashfilm.com/2008/09/10/interview-darren-aronofsky-part-1/ 	326	query216_Nicolas_Cage\S\326
+Interview : Darren Aronofsky – Part 1 Sciretta Peter slashfilm.com 	327	query216_Nicolas_Cage\S\327
+August 15 , 2010 http ://www .slashfilm.com/2008/09/10/interview-darren-aronofsky-part-1/ 	328	query216_Nicolas_Cage\S\328
+Interview : Darren Aronofsky – Part 1 Sciretta Peter slashfilm.com 	329	query216_Nicolas_Cage\S\329
+August 15 , 2010 http ://www.variety 	330	query216_Nicolas_Cage\S\330
+"August 15 www.variety"	"is"	"2010 http"	330	query216_Nicolas_Cage\P\330-0
+.com/article/VR1118015738.html?categoryid=13&cs=1 	331	query216_Nicolas_Cage\S\331
+Cage , Reynolds to star in CG caveman comedy February 24 , 2010 Variety Reed Business Information February 26 , 2010 Peter Debruge http ://www.variety 	332	query216_Nicolas_Cage\S\332
+"Cage to star in CG caveman comedy February 24 2010 Variety Reed Business Information February 26 2010 Peter Debruge http www.variety"	"is"	"Reynolds"	332	query216_Nicolas_Cage\P\332-0
+"Cage www.variety"	"be star"	"in CG caveman comedy February 24 2010 Variety Reed Business Information February 26 2010 Peter Debruge http"	332	query216_Nicolas_Cage\P\332-1
+.com/article/VR1118015738.html?categoryid=13&cs=1 	333	query216_Nicolas_Cage\S\333
+Cage , Reynolds to star in CG caveman comedy February 24 , 2010 Variety Reed Business Information February 26 , 2010 Peter Debruge http ://www.ew.com/ew/article/0 	334	query216_Nicolas_Cage\S\334
+"Cage to star in CG caveman comedy February 24 2010 Variety Reed Business Information February 26 2010 Peter Debruge http www.ew.com/ew/article/0"	"is"	"Reynolds"	334	query216_Nicolas_Cage\P\334-0
+"Cage www.ew.com/ew/article/0"	"be star"	"in CG caveman comedy February 24 2010 Variety Reed Business Information February 26 2010 Peter Debruge http"	334	query216_Nicolas_Cage\P\334-1
+,,20159642,00.html 	335	query216_Nicolas_Cage\S\335
+Mickey Rourke Starring in ' The Wrestler ' Entertainment Weekly August 15 , 2010 Mike Bruno November 12 , 2007 http ://www.ew.com/ew/article/0 	336	query216_Nicolas_Cage\S\336
+"Mickey Rourke"	"Starring"	"in The Wrestler Entertainment Weekly August 15 2010 Mike Bruno November 12 www.ew.com/ew/article/0"	336	query216_Nicolas_Cage\P\336-0
+"Mickey Rourke"	"Starring"	"2010 Mike Bruno November 12 www.ew.com/ew/article/0"	336	query216_Nicolas_Cage\P\336-1
+"Mike Bruno November 12 www.ew.com/ew/article/0"	"is"	"2007 http"	2010	query216_Nicolas_Cage\P\336-2
+,,20159642,00.html 	337	query216_Nicolas_Cage\S\337
+Mickey Rourke Starring in ' The Wrestler ' Entertainment Weekly August 15 , 2010 Mike Bruno November 12 , 2007 The Detroit Free Press , Thursday , December 10 , 2009 , page 12D Silverman Stephen M http ://www.people 	338	query216_Nicolas_Cage\S\338
+"Mickey Rourke"	"Starring"	"in The Wrestler Entertainment Weekly August 15 2010 Mike Bruno November 12 2007 The Detroit Free Press www.people"	338	query216_Nicolas_Cage\P\338-0
+"Mickey Rourke"	"Starring"	"2010 Mike Bruno November 12 2007 The Detroit Free Press www.people"	338	query216_Nicolas_Cage\P\338-1
+"Mike Bruno November 12 2007 The Detroit Free Press www.people"	"is"	"Thursday"	2010	query216_Nicolas_Cage\P\338-2
+"Mike Bruno November 12 2007 The Detroit Free Press www.people"	"is"	"December 10 2009"	2010	query216_Nicolas_Cage\P\338-3
+"December 10 2009"	"is"	"page 12D Silverman Stephen M http"	2010	query216_Nicolas_Cage\P\338-4
+.com/people/article/0 	339	query216_Nicolas_Cage\S\339
+,,642162,00.html 	340	query216_Nicolas_Cage\S\340
+Cage-Presley Union Now a Memory People May 26 , 2004 February 14 , 2010 Silverman Stephen M http ://www.people 	341	query216_Nicolas_Cage\S\341
+.com/people/article/0 	342	query216_Nicolas_Cage\S\342
+,,642162,00.html 	343	query216_Nicolas_Cage\S\343
+Cage-Presley Union Now a Memory People May 26 , 2004 February 14 , 2010 http ://news .bbc.co.uk/1/hi/entertainment/4307332 	344	query216_Nicolas_Cage\S\344
+.stm 	345	query216_Nicolas_Cage\S\345
+Baby boy for actor Cage and wife October 4 , 2005 BBC Online BBC NEWS August 8 , 2010 http ://news .bbc.co.uk/1/hi/entertainment/4307332 	346	query216_Nicolas_Cage\S\346
+.stm 	347	query216_Nicolas_Cage\S\347
+Baby boy for actor Cage and wife October 4 , 2005 BBC Online BBC NEWS August 8 , 2010 http ://www.zeitung 	348	query216_Nicolas_Cage\S\348
+"BBC Online BBC NEWS August 8"	"is"	"2010 http"	2005	query216_Nicolas_Cage\P\348-0
+.org/zeitung/910086-100,1,0.html 	349	query216_Nicolas_Cage\S\349
+Oberpfalznetz – Medienhaus DER NEUE TAG Zeitung .org 	350	query216_Nicolas_Cage\S\350
+February 14 , 2010 http ://www.zeitung 	351	query216_Nicolas_Cage\S\351
+"February 14 www.zeitung"	"is"	"2010 http"	351	query216_Nicolas_Cage\P\351-0
+.org/zeitung/910086-100,1,0.html 	352	query216_Nicolas_Cage\S\352
+Oberpfalznetz – Medienhaus DER NEUE TAG Zeitung .org 	353	query216_Nicolas_Cage\S\353
+February 14 , 2010 http ://rogerebert .suntimes.com/apps/pbcs 	354	query216_Nicolas_Cage\S\354
+.dll/article?AID=/20080918/REVIEWS08/809180300/1004 	355	query216_Nicolas_Cage\S\355
+%20Adaptation Adaptation . 	356	query216_Nicolas_Cage\S\356
+: : rogerebert.com 	357	query216_Nicolas_Cage\S\357
+: : Great Movies rogerebert .suntimes.com 	358	query216_Nicolas_Cage\S\358
+August 15 , 2010 http ://rogerebert .suntimes.com/apps/pbcs 	359	query216_Nicolas_Cage\S\359
+.dll/article?AID=/20080918/REVIEWS08/809180300/1004 	360	query216_Nicolas_Cage\S\360
+%20Adaptation Adaptation . 	361	query216_Nicolas_Cage\S\361
+: : rogerebert.com 	362	query216_Nicolas_Cage\S\362
+: : Great Movies rogerebert .suntimes.com 	363	query216_Nicolas_Cage\S\363
+August 15 , 2010 http ://economictimes .indiatimes.com/news/international-business/Nicolas-Cage-sued-for-2-million/articleshow/5084908.cms 	364	query216_Nicolas_Cage\S\364
+Nicolas Cage sued for $ 2&nbsp;million Economictimes .indiatimes.com 	365	query216_Nicolas_Cage\S\365
+October 3 , 2009 August 15 , 2010 http ://economictimes .indiatimes.com/news/international-business/Nicolas-Cage-sued-for-2-million/articleshow/5084908.cms 	366	query216_Nicolas_Cage\S\366
+Nicolas Cage sued for $ 2&nbsp;million Economictimes .indiatimes.com 	367	query216_Nicolas_Cage\S\367
+October 3 , 2009 August 15 , 2010 http ://www.dailymail.co.uk/tvshowbiz/article-471635/Actors-head-head-auction-house--dinosaur-skull 	368	query216_Nicolas_Cage\S\368
+"October 3 www.dailymail.co.uk/tvshowbiz/article-471635/Actors-head-head-auction-house--dinosaur-skull"	"is"	"2009 August 15"	368	query216_Nicolas_Cage\P\368-0
+"October 3 www.dailymail.co.uk/tvshowbiz/article-471635/Actors-head-head-auction-house--dinosaur-skull"	"is"	"2010 http"	368	query216_Nicolas_Cage\P\368-1
+.html 	369	query216_Nicolas_Cage\S\369
+Actors in head-to-head at auction house – over a dinosaur skull Daily Mail London July 29 , 2007 August 15 , 2010 London http ://www.dailymail.co.uk/tvshowbiz/article-471635/Actors-head-head-auction-house--dinosaur-skull 	370	query216_Nicolas_Cage\S\370
+.html 	371	query216_Nicolas_Cage\S\371
+Actors in head-to-head at auction house – over a dinosaur skull Daily Mail London July 29 , 2007 August 15 , 2010 London http ://www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews 	372	query216_Nicolas_Cage\S\372
+.html 	373	query216_Nicolas_Cage\S\373
+?in_article_id=471606&in_page_id=1773 Hollywood actor is king of the castle in Bath January 15 , 2008 Daily Mail London July 29 , 2007 http ://www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews 	374	query216_Nicolas_Cage\S\374
+"in_article_id = 471606 & in_page_id = 1773 Hollywood actor"	"is king 2008 Daily Mail London July 29 www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews"	"of the castle"	374	query216_Nicolas_Cage\P\374-0
+"in_article_id = 471606 & in_page_id = 1773 Hollywood actor"	"is king 2008 Daily Mail London July 29 www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews"	"in Bath January 15"	374	query216_Nicolas_Cage\P\374-1
+"in_article_id = 471606 & in_page_id = 1773 Hollywood actor"	"is"	"king 2008 Daily Mail London July 29 www.dailymail.co.uk/pages/live/articles/showbiz/showbiznews"	374	query216_Nicolas_Cage\P\374-2
+"Daily Mail London July 29"	"is"	"2007 http"	2008	query216_Nicolas_Cage\P\374-3
+.html 	375	query216_Nicolas_Cage\S\375
+?in_article_id=471606&in_page_id=1773 Hollywood actor is king of the castle in Bath January 15 , 2008 Daily Mail London July 29 , 2007 http ://news .independent.co.uk/uk/this_britain/article2816674.ece 	376	query216_Nicolas_Cage\S\376
+Nicolas Cage joins Britain’s castle-owning classes January 15 , 2008 The Independent London Martin Hodgson July 30 , 2007 http ://news .independent.co.uk/uk/this_britain/article2816674.ece 	377	query216_Nicolas_Cage\S\377
+Nicolas Cage joins Britain’s castle-owning classes January 15 , 2008 The Independent London Martin Hodgson July 30 , 2007 http ://www.timesonline 	378	query216_Nicolas_Cage\S\378
+"Nicolas Cage"	"joins"	"Britain 's castle-owning classes January 15 2008 The Independent London Martin Hodgson July 30 www.timesonline"	378	query216_Nicolas_Cage\P\378-0
+"Nicolas Cage"	"joins"	"Britain 's castle-owning classes January 15 2008 The Independent London Martin Hodgson July 30 www.timesonline"	378	query216_Nicolas_Cage\P\378-1
+"July 30"	"is"	"2007 http"	378	query216_Nicolas_Cage\P\378-2
+.co.uk/tol/news/uk/article2159358.ece 	379	query216_Nicolas_Cage\S\379
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 http ://www.timesonline 	380	query216_Nicolas_Cage\S\380
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 http ://www.timesonline 	380	query216_Nicolas_Cage\S\380
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 http ://www.timesonline 	380	query216_Nicolas_Cage\S\380
+"July 29"	"is"	"2007 http"	380	query216_Nicolas_Cage\P\380-0
+.co.uk/tol/news/uk/article2159358.ece 	381	query216_Nicolas_Cage\S\381
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 Nicolas Cage hit with $ 6.2&nbsp;million 	382	query216_Nicolas_Cage\S\382
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 Nicolas Cage hit with $ 6.2&nbsp;million 	382	query216_Nicolas_Cage\S\382
+Another day , another castle : Cage adds to his empire January 15 , 2008 The Times London London Maurice Chittenden July 29 , 2007 Nicolas Cage hit with $ 6.2&nbsp;million 	382	query216_Nicolas_Cage\S\382
+"July 29"	"is"	"2007 Nicolas Cage"	382	query216_Nicolas_Cage\P\382-0
+"July 29"	"hit"	"with $ 6.2 million The Times London London Maurice Chittenden"	382	query216_Nicolas_Cage\P\382-1
+"July 29"	"hit"	"The Times London London Maurice Chittenden"	382	query216_Nicolas_Cage\P\382-2
+tax bill http ://www.chron.com/disp/story 	383	query216_Nicolas_Cage\S\383
+.mpl/ent/celebrities/6558776.html 	384	query216_Nicolas_Cage\S\384
+Houston Chronicle August 3 , 2009 Nicolas Cage hit with $ 6.2&nbsp;million 	385	query216_Nicolas_Cage\S\385
+"August 3"	"is"	"2009 Nicolas Cage"	385	query216_Nicolas_Cage\P\385-0
+"August 3"	"hit"	"with $ 6.2 million 385 Houston Chronicle"	385	query216_Nicolas_Cage\P\385-1
+"August 3"	"hit"	"385 Houston Chronicle"	385	query216_Nicolas_Cage\P\385-2
+tax bill http ://www.chron.com/disp/story 	386	query216_Nicolas_Cage\S\386
+.mpl/ent/celebrities/6558776.html 	387	query216_Nicolas_Cage\S\387
+Houston Chronicle August 3 , 2009 Brenda Rodriguez http ://www.people 	388	query216_Nicolas_Cage\S\388
+"August 3"	"is"	"2009 Brenda Rodriguez http"	388	query216_Nicolas_Cage\P\388-0
+.com/people/article/0 	389	query216_Nicolas_Cage\S\389
+,,20316292,00.html 	390	query216_Nicolas_Cage\S\390
+Nicolas Cage Blames Advisor for Financial Ruin People November 1 , 2009 November 4 , 2009 Brenda Rodriguez http ://www.people 	391	query216_Nicolas_Cage\S\391
+"Nicolas Cage"	"Blames"	"Advisor for Financial Ruin People November 1 www.people"	391	query216_Nicolas_Cage\P\391-0
+"Financial Ruin People November 1"	"is"	"2009 Brenda Rodriguez http"	391	query216_Nicolas_Cage\P\391-1
+"Financial Ruin People November 1"	"is"	"2009 November 4"	391	query216_Nicolas_Cage\P\391-2
+.com/people/article/0 	392	query216_Nicolas_Cage\S\392
+,,20316292,00.html 	393	query216_Nicolas_Cage\S\393
+Nicolas Cage Blames Advisor for Financial Ruin People November 1 , 2009 November 4 , 2009 Nicolas Cage sues ex-manager for "financial ruin http ://www.reuters.com/article/entertainmentNews/idUSTRE59F4RM20091017 	394	query216_Nicolas_Cage\S\394
+"Nicolas Cage"	"Blames"	"Advisor for Financial Ruin People November 1 sues ex-manager for financial ruin http www.reuters.com/article/entertainmentNews/idUSTRE59F4RM20091017"	394	query216_Nicolas_Cage\P\394-0
+"Financial Ruin People November 1 sues ex-manager for financial ruin http"	"is"	"2009 Nicolas Cage"	394	query216_Nicolas_Cage\P\394-1
+"Financial Ruin People November 1 sues ex-manager for financial ruin http"	"is"	"2009 November 4"	394	query216_Nicolas_Cage\P\394-2
+"Financial Ruin People November 1 sues ex-manager for financial ruin http"	"is"	"2009 November 4"	394	query216_Nicolas_Cage\P\394-3
+Reuters October 16 , 2009 November 4 , 2009 Jill Serjeant Nicolas Cage sues ex-manager for "financial ruin http ://www.reuters.com/article/entertainmentNews/idUSTRE59F4RM20091017 	395	query216_Nicolas_Cage\S\395
+"Reuters October 16"	"is"	"2009 November 4"	395	query216_Nicolas_Cage\P\395-0
+"Reuters October 16"	"is"	"2009 Jill Serjeant Nicolas Cage"	395	query216_Nicolas_Cage\P\395-1
+"Reuters October 16"	"sues"	"ex-manager for financial ruin http www.reuters.com/article/entertainmentNews/idUSTRE59F4RM20091017"	395	query216_Nicolas_Cage\P\395-2
+"Reuters October 16"	"sues"	"ex-manager"	395	query216_Nicolas_Cage\P\395-3
+"Reuters October 16"	"sues"	"ex-manager"	395	query216_Nicolas_Cage\P\395-4
+Reuters October 16 , 2009 November 4 , 2009 Jill Serjeant http ://money .cnn.com/2009/11/17/pf/Nicolas_Cage_lawsuit_manager.cnnw/index 	396	query216_Nicolas_Cage\S\396
+.htm 	397	query216_Nicolas_Cage\S\397
+CNN Nic Cage spent too much : Ex-manager says November 17 , 2009 May 20 , 2010 http ://money .cnn.com/2009/11/17/pf/Nicolas_Cage_lawsuit_manager.cnnw/index 	398	query216_Nicolas_Cage\S\398
+.htm 	399	query216_Nicolas_Cage\S\399
+CNN Nic Cage spent too much : Ex-manager says November 17 , 2009 May 20 , 2010 http ://au.rottentomatoes.com/m/bad_lieutenant_port_of_call_new_orleans 	400	query216_Nicolas_Cage\S\400
+"CNN Nic Cage"	"spent"	"too much"	400	query216_Nicolas_Cage\P\400-0
+"CNN Nic Cage"	"spent"	"too much"	400	query216_Nicolas_Cage\P\400-1
+"November 17 au.rottentomatoes.com/m/bad_lieutenant_port_of_call_new_orleans"	"is"	"2009 May 20"	400	query216_Nicolas_Cage\P\400-2
+"May 20"	"is"	"2010 http"	2009	query216_Nicolas_Cage\P\400-3
+' Bad Lieutenant : Port of Call New Orleans ' – 3 1 2 stars Au.rottentomatoes.com 	401	query216_Nicolas_Cage\S\401
+August 15 , 2010 http ://au.rottentomatoes.com/m/bad_lieutenant_port_of_call_new_orleans 	402	query216_Nicolas_Cage\S\402
+"August 15 au.rottentomatoes.com/m/bad_lieutenant_port_of_call_new_orleans"	"is"	"2010 http"	402	query216_Nicolas_Cage\P\402-0
+' Bad Lieutenant : Port of Call New Orleans ' – 3 1 2 stars Au.rottentomatoes.com 	403	query216_Nicolas_Cage\S\403
+August 15 , 2010 Nicolas Cage interview – " The Late Show With David Letterman , " Sept. 	404	query216_Nicolas_Cage\S\404
+"August 15 The Late Show With David Letterman Sept."	"is"	"2010 Nicolas Cage interview"	404	query216_Nicolas_Cage\P\404-0
+2 , 2008 http ://rogerebert .suntimes.com/apps/pbcs 	405	query216_Nicolas_Cage\S\405
+.dll/article?AID=/20090322/COMMENTARY/903229997 	406	query216_Nicolas_Cage\S\406
+Love and hate and " Knowing " -- or , do wings have angels ? : : rogerebert.com 	407	query216_Nicolas_Cage\S\407
+: : News &amp; comment rogerebert .suntimes.com 	408	query216_Nicolas_Cage\S\408
+August 15 , 2010 http ://rogerebert .suntimes.com/apps/pbcs 	409	query216_Nicolas_Cage\S\409
+.dll/article?AID=/20090322/COMMENTARY/903229997 	410	query216_Nicolas_Cage\S\410
+Love and hate and " Knowing " -- or , do wings have angels ? : : rogerebert.com 	411	query216_Nicolas_Cage\S\411
+: : News &amp; comment rogerebert .suntimes.com 	412	query216_Nicolas_Cage\S\412
+August 15 , 2010 http ://www.calstate 	413	query216_Nicolas_Cage\S\413
+"August 15 www.calstate"	"is"	"2010 http"	413	query216_Nicolas_Cage\P\413-0
+.edu/Newsline/Archive/00-01/010416-Ful 	414	query216_Nicolas_Cage\S\414
+.shtml 	415	query216_Nicolas_Cage\S\415
+CSU Newsline Calstate .edu 	416	query216_Nicolas_Cage\S\416
+April 16 , 2001 February 14 , 2010 http ://www.calstate 	417	query216_Nicolas_Cage\S\417
+"April 16 2001 February 14 www.calstate"	"is"	"2010 http"	417	query216_Nicolas_Cage\P\417-0
+.edu/Newsline/Archive/00-01/010416-Ful 	418	query216_Nicolas_Cage\S\418
+.shtml 	419	query216_Nicolas_Cage\S\419
+CSU Newsline Calstate .edu 	420	query216_Nicolas_Cage\S\420
+April 16 , 2001 February 14 , 2010 Cowie Peter Coppola : a biography Da Capo Press 1988 2 0306805987 Cowie Peter Coppola : a biography Da Capo Press 1988 2 0306805987 http ://moviesblog.mtv.com/2009/03/04/live-action-the-sorcerers-apprentice-completes-its-cast 	421	query216_Nicolas_Cage\S\421
+"April 16 2001 February 14 a biography Da Capo Press 1988 2 0306805987 Cowie Peter Coppola a biography Da Capo Press 1988 2 0306805987 http moviesblog.mtv.com/2009/03/04/live-action-the-sorcerers-apprentice-completes-its-cast"	"is"	"2010 Cowie Peter Coppola"	421	query216_Nicolas_Cage\P\421-0
+MTV Moviesblog.mtv.com 	422	query216_Nicolas_Cage\S\422
+February 14 , 2010 http ://moviesblog.mtv.com/2009/03/04/live-action-the-sorcerers-apprentice-completes-its-cast 	423	query216_Nicolas_Cage\S\423
+"February 14 moviesblog.mtv.com/2009/03/04/live-action-the-sorcerers-apprentice-completes-its-cast"	"is"	"2010 http"	423	query216_Nicolas_Cage\P\423-0
+MTV Moviesblog.mtv.com 	424	query216_Nicolas_Cage\S\424
+February 14 , 2010 http ://featuresblogs .chicagotribune 	425	query216_Nicolas_Cage\S\425
+.com/talking_pictures/2009/11/bad-lieutenant-port-of-call-new-orleans-3-12-stars 	426	query216_Nicolas_Cage\S\426
+.html 	427	query216_Nicolas_Cage\S\427
+Talking Pictures : ' Bad Lieutenant : Port of Call New Orleans ' – 3 1 2 stars Featuresblogs .chicagotribune 	428	query216_Nicolas_Cage\S\428
+.com 	429	query216_Nicolas_Cage\S\429
+November 19 , 2009 August 15 , 2010 http ://featuresblogs .chicagotribune 	430	query216_Nicolas_Cage\S\430
+.com/talking_pictures/2009/11/bad-lieutenant-port-of-call-new-orleans-3-12-stars 	431	query216_Nicolas_Cage\S\431
+.html 	432	query216_Nicolas_Cage\S\432
+Talking Pictures : ' Bad Lieutenant : Port of Call New Orleans ' – 3 1 2 stars Featuresblogs .chicagotribune 	433	query216_Nicolas_Cage\S\433
+.com 	434	query216_Nicolas_Cage\S\434
+November 19 , 2009 August 15 , 2010 http ://www .slashfilm.com/2008/09/10/interview-darren-aronofsky-part-1/ 	435	query216_Nicolas_Cage\S\435
+Interview : Darren Aronofsky – Part 1 Sciretta Peter slashfilm.com 	436	query216_Nicolas_Cage\S\436
+August 15 , 2010 http ://www .slashfilm.com/2008/09/10/interview-darren-aronofsky-part-1/ 	437	query216_Nicolas_Cage\S\437
+Interview : Darren Aronofsky – Part 1 Sciretta Peter slashfilm.com 	438	query216_Nicolas_Cage\S\438
+August 15 , 2010 Nicolas Cage Awards for Nicolas Cage Cage , Nicolas Coppola , Nicolas Kim American actor and film producer January 7 , 1964 Long Beach _ California , U.S. 	439	query216_Nicolas_Cage\S\439
+"August 15 U.S."	"is"	"2010 Nicolas Cage Awards for Nicolas Cage Cage"	439	query216_Nicolas_Cage\P\439-0
+"Nicolas Cage Cage"	"is"	"Nicolas Kim American actor"	439	query216_Nicolas_Cage\P\439-1
+"Nicolas Cage Cage"	"is"	"Nicolas Kim American film producer January 7"	439	query216_Nicolas_Cage\P\439-2
+"Nicolas Cage Cage"	"is"	"Nicolas Coppola"	439	query216_Nicolas_Cage\P\439-3
+"Nicolas Cage Cage"	"is"	"1964 Long Beach _ California"	439	query216_Nicolas_Cage\P\439-4
+Category :1964 births Category :Actors from California Category :American people of German descent Category :American people of Italian descent Category :American film actors Category :American film directors Category :American film producers Category :American voice actors Category :Best Actor Academy Award winners Category :Coppola family Category :Living people Category :People from Long Beach _ California Category :Science fiction fans Category :Pseudonymous artists ar :نيكولاس كيج an :Nicolas Cage az:Nikolas Keyc bn :নিকোলাস কেজ be :Нікалас Кейдж bg :Никълъс Кейдж ca :Nicolas Cage cs :Nicolas Cage co:Nicholas Cage cy :Nicolas Cage da:Nicolas Cage de:Nicolas Cage et :Nicolas Cage el :Νίκολας Κέιτζ es :Nicolas Cage eo:Nicolas Cage eu:Nicolas Cage fa :نیکولاس کیج fr :Nicolas Cage gl:Nicolas Cage ko :니콜라스 케이지 hi :निकोलस केज hr:Nicolas Cage hy :Նիկոլաս Քեյջ io:Nicolas Cage id :Nicolas Cage it :Nicolas Cage he :ניקולס קייג ' jv:Nicolas Cage kn :ನಿಕೋಲಸ್ ‌ ಕೇಜ್ ‌ ka :ნიკოლას კეიჯი la:Nicolaus Cage lv:Nikolass Keidžs lt :Nicolas Cage hu:Nicolas Cage mk :Николас Кејџ ml :നിക്കോളസ ് കേജ ് arz :نيكولاس كيدچ nl :Nicolas Cage ja :ニコラス・ケイジ no:Nicolas Cage oc:Nicolas Cage pl :Nicolas Cage pt:Nicolas Cage ro:Nicolas Cage ru:Кейдж _ Николас sq:Nicolas Cage simple :Nicolas Cage sk :Nicolas Cage sl :Nicolas Cage sr :Николас Кејџ sh :Nicolas Cage fi:Nicolas Cage sv:Nicolas Cage ta :நிக்கோலஸ ் கேஜ ் te :నికోలస ్ కేజ ్ th :นิโคลัส เคจ tg :Николас Кейҷ tr :Nicolas Cage uk :Ніколас Кейдж vi:Nicolas Cage yo :Nicolas Cage diq:Nicolas Cage zh :尼古拉斯·凯奇 Coppola family tree List of oldest and youngest Academy Award winners and nominees 115 10155 From IGN FilmForce 	440	query216_Nicolas_Cage\S\440
+"নিকোলাস কেজ"	"be"	"Нікалас Кейдж bg Никълъс Кейдж ca Nicolas Cage cs Nicolas Cage co Nicholas Cage cy Nicolas Cage da Nicolas Cage de Nicolas Cage et Nicolas Cage el Νίκολας Κέιτζ es Nicolas Cage eo Nicolas Cage eu Nicolas Cage fa نیکولاس کیج fr Nicolas Cage gl Nicolas Cage ko 니콜라스 케이지 hi निकोलस केज hr Nicolas Cage hy Նիկոլաս Քեյջ io Nicolas Cage id Nicolas Cage it Nicolas Cage he ניקולס קייג jv Nicolas Cage kn ನ ಕ ಲಸ ಕ ಜ ka ნიკოლას კეიჯი la Nicolaus Cage lv Nikolass Keidžs lt Nicolas Cage hu Nicolas Cage mk Николас Кејџ ml നിക ക ളസ കേജ arz نيكولاس كيدچ nl Nicolas Cage ja ニコラス ・ ケイジ no Nicolas Cage oc Nicolas Cage pl Nicolas Cage pt Nicolas Cage ro Nicolas Cage ru Кейдж _ Николас sq Nicolas Cage simple Nicolas Cage sk Nicolas Cage sl Nicolas Cage sr Николас Кејџ sh Nicolas Cage fi Nicolas Cage sv Nicolas Cage ta நிக்கோலஸ ் கேஜ ் te నికోలస ్ కేజ ్ th นิโคลัส เคจ tg Николас Кейҷ tr Nicolas Cage uk Ніколас Кейдж vi Nicolas Cage yo Nicolas Cage diq Nicolas Cage zh 尼古拉斯 · 凯奇 Coppola family tree List of oldest Academy Award winners"	440	query216_Nicolas_Cage\P\440-0
+"নিকোলাস কেজ"	"be"	"Нікалас Кейдж bg Никълъс Кейдж ca Nicolas Cage cs Nicolas Cage co Nicholas Cage cy Nicolas Cage da Nicolas Cage de Nicolas Cage et Nicolas Cage el Νίκολας Κέιτζ es Nicolas Cage eo Nicolas Cage eu Nicolas Cage fa نیکولاس کیج fr Nicolas Cage gl Nicolas Cage ko 니콜라스 케이지 hi निकोलस केज hr Nicolas Cage hy Նիկոլաս Քեյջ io Nicolas Cage id Nicolas Cage it Nicolas Cage he ניקולס קייג jv Nicolas Cage kn ನ ಕ ಲಸ ಕ ಜ ka ნიკოლას კეიჯი la Nicolaus Cage lv Nikolass Keidžs lt Nicolas Cage hu Nicolas Cage mk Николас Кејџ ml നിക ക ളസ കേജ arz نيكولاس كيدچ nl Nicolas Cage ja ニコラス ・ ケイジ no Nicolas Cage oc Nicolas Cage pl Nicolas Cage pt Nicolas Cage ro Nicolas Cage ru Кейдж _ Николас sq Nicolas Cage simple Nicolas Cage sk Nicolas Cage sl Nicolas Cage sr Николас Кејџ sh Nicolas Cage fi Nicolas Cage sv Nicolas Cage ta நிக்கோலஸ ் கேஜ ் te నికోలస ్ కేజ ్ th นิโคลัส เคจ tg Николас Кейҷ tr Nicolas Cage uk Ніколас Кейдж vi Nicolas Cage yo Nicolas Cage diq Nicolas Cage zh 尼古拉斯 · 凯奇 Coppola family tree List of youngest Academy Award winners and nominees 115 10155 From IGN FilmForce"	440	query216_Nicolas_Cage\P\440-1
+"নিকোলাস কেজ"	"be"	"Нікалас Кейдж bg Никълъс Кейдж ca Nicolas Cage cs Nicolas Cage co Nicholas Cage cy Nicolas Cage da Nicolas Cage de Nicolas Cage et Nicolas Cage el Νίκολας Κέιτζ es Nicolas Cage eo Nicolas Cage eu Nicolas Cage fa نیکولاس کیج fr Nicolas Cage gl Nicolas Cage ko 니콜라스 케이지 hi निकोलस केज hr Nicolas Cage hy Նիկոլաս Քեյջ io Nicolas Cage id Nicolas Cage it Nicolas Cage he ניקולס קייג jv Nicolas Cage kn ನ ಕ ಲಸ ಕ ಜ ka ნიკოლას კეიჯი la Nicolaus Cage lv Nikolass Keidžs lt Nicolas Cage hu Nicolas Cage mk Николас Кејџ ml നിക ക ളസ കേജ arz نيكولاس كيدچ nl Nicolas Cage ja ニコラス ・ ケイジ no Nicolas Cage oc Nicolas Cage pl Nicolas Cage pt Nicolas Cage ro Nicolas Cage ru Кейдж _ Николас sq Nicolas Cage simple Nicolas Cage sk Nicolas Cage sl Nicolas Cage sr Николас Кејџ sh Nicolas Cage fi Nicolas Cage sv Nicolas Cage ta நிக்கோலஸ ் கேஜ ் te నికోలస ్ కేజ ్ th นิโคลัส เคจ tg Николас Кейҷ tr Nicolas Cage uk Ніколас Кейдж vi Nicolas Cage yo Nicolas Cage diq Nicolas Cage zh 尼古拉斯 · 凯奇 Coppola family tree of oldest Academy Award winners nominees 115 10155 From IGN FilmForce"	440	query216_Nicolas_Cage\P\440-2

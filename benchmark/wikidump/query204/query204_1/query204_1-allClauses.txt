@@ -1,0 +1,79 @@
+0	SVC (C: set@8, V: are@5, S: rules@2, A?: of@9)	SVO (V: played@21, S: sport@16, A?: by@13, O: set@8)
+1	SVO (V: written@4, S: They@1, A?: jointly@3, O: body@26)	SVO (V: administered@6, S: They@1, A?: jointly@3, A?: by@7, O: body@26)	SVC (C: responsibility@41, V: are@39, S: States@34, A?: of@42)	SVC (S: Association@47, V: "is", C: USGA@49)
+2	SVA (V: "be entitled", S: book@3)	SVA (V: published@13, S: book@3, A!: on@14)	SVO (V: includes@20, S: book@3, A?: on@14, A?: also@19, O: rules@21)	SVA (V: "be governing", S: rules@21, O: status@24)
+3	SVA (V: found@14, S: one@7, A!: on@15)	SVO (S: book@19, V: "has", O: cover@22)
+4	
+5	
+6	
+7	
+8	
+9	SVOO (V: Play@15, S: Royal@5, O: ball@17, A?: lies@20, IO: Golf@3)	SV (V: lies@20, S: it@19)	SVO (V: play@22, S: Rules@1, O: course@24, A?: find@27)	SVO (V: find@27, S: you@26, O: it@28)	SVA (V: do@35, S: you@32, A!: either@36)	SVC (C: fair@41, V: is@40, S: what@39)
+10	SVC (C: fair@6, V: is@5, S: what@4)	SVO (V: need@9, S: you@8, A?: do@3, XCOMP: know@11)
+11	SVO (V: adheres@7, S: golf@6, A?: to@8, O: rules@5)	SVO (V: means@20, S: etiquette@16, A?: generally@19, XCOMP: playing@21)
+12	SVA (V: seen@4, S: Etiquette@1, A?: often@3, A!: as@5, A?: as@12)
+13	
+14	
+15	SVC (C: clubs@20, V: were@17, S: rules@14)	SVOO (V: had@22, S: clubs@20, A?: commonly@21, O: set@25, IO: guide@2)	SVO (S: their@23, V: "has", O: set@25)
+16	
+17	
+18	SVO (V: began@9, S: clubs@8, A?: In@1, XCOMP: align@11)
+19	SVC (S: Golfers@2, V: "is", C: Company@18)	SVC (S: Golfers@2, V: "is", C: R&A@6)
+20	SVA (V: produced@9, S: rules@5, A!: by@10, A?: on@16, A?: for@21)	SVA (V: "be played", S: tournament@23, A!: on@25)
+21	SV (V: entitled@3, S: They@1)	SVA (V: consisted@14, S: They@1, A!: of@15)
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	SVO (V: published@15, S: Hutchinson@2, A?: years@18, XCOMP: define@31)	SVC (S: golf@24, V: "is", C: R&A@26)	SVC (V: is@35, S: game@34, A?: how@32, XCOMP: played@38)
+35	SVA (V: published@5, S: Rules@2, A!: jointly@6, A?: in@7, A?: since@10, A?: uniform@19)	SVC (C: uniform@19, V: was@16, S: code@15, A?: completely@18, A?: until@20)
+36	SVA (V: spun@10, S: Committee@3, A!: from@12, A?: in@22)	SVO (V: has@25, S: Committee@3, O: responsibility@26)	SVC (C: responsibility@46, V: are@44, S: States@39, A?: of@47)	SVC (S: Association@52, V: "is", C: USGA@54)
+37	SVO (V: said@8, S: Rules@4, XCOMP: include@10)	SVO (V: defines@19, S: USGA@18, O: handicapping@22)	SVO (S: its@20, V: "has", O: handicapping@22)	SVO (V: defers@30, S: R&A@29, A?: defines@19, O: responsibility@32, A?: to@33)
+38	SVC (C: run@15, V: is@10, S: Club@6, A?: for@16)	SVO (S: its@20, V: "has", O: members@21)
+39	SVO (V: passed@8, S: it@6, A?: As@1, A?: since@4, O: responsibility@9)	SVA (V: "be operating", S: Ltd@21, A!: under@24)
+40	SVO (V: published@9, S: University@5, A?: In@1, O: translation@12)
+41	SVO (V: entitled@3, S: It@1, O: Rules@5)
+42	
+43	
+44	SVC (V: was@3, S: purpose@2, XCOMP: make@5)	SVA (V: accessible@9, S: rules@7, A?: more@8, A!: than@10)	SVC (C: legalistic@18, V: is@16, S: version@13, A?: pervasively@17)
+45	SVA (V: came@7, S: change@5, A!: with@8)	SVA (V: "be having", S: rule@19, O: effect@29)	SVC (C: rule@19, V: was@16, S: edition@15, A?: about@20, A?: having@23)
+46	SVA (V: led@3, S: This@1, A!: to@4)
+47	SVA (V: "be governing", S: rule@5, O: grooves@7)	SVA (V: came@8, S: rule@5, A?: In@1, A!: into@9)
+48	SVA (V: made@4, S: change@2, A!: decrease@8)	SVOC (C: able@17, V: were@16, S: players@15, O: spin@13, XCOMP: produce@19)
+49	SVO (S: their@21, V: "has", O: irons@24)	SVC (C: non-conforming@29, V: were@27, S: irons@24, A?: otherwise@28)	SVC (V: deemed@32, S: irons@24, A?: However@1, A?: to@4, ACOMP: legal@33)
+50	SVA (V: led@2, S: This@1, A!: to@3)	SVOO (V: used@19, S: Mickelson@18, A?: when@16, O: irons@21, IO: controversy@5)
+51	
+52	
+53	
+54	
+55	SVA (V: published@28, S: edition@26, A!: October@29)
+56	SVO (V: changed@4, S: Rules@2, O: Ball@10)	SVA (V: "be Moving", S: Ball@10, A!: After@12)	SVC (S: Address@13, V: "is", C: 18-2b@16)
+57	SVA (V: penalized@4, S: McIlroy@2, A!: by@5, A?: in@8)
+58	SVOC (V: announce@7, S: USGA@4, O: changes@8, O: www.pga.com/news/industry-news/usga-ra-announce-new-rules-golf-2012-2015@20)
+59	SVOC (V: announce@10, S: USGA@7, O: changes@11, O: www.pga.com/news/industry-news/usga-ra-announce-new-rules-golf-2012-2015@23)
+60	SVOO (V: Tee@29, S: You@27, O: Ball@31, A?: within@32, IO: Golfregler@26)	SVO (S: your@30, V: "has", O: Ball@31)	SVO (S: Club@34, V: "has", O: length@36)
+61	SVO (S: Your@1, V: "has", O: Tee@2)	SVA (V: be@4, S: Tee@2, A!: upon@5)
+62	SVC (V: are@2, S: You@1, XCOMP: change@5)	SVO (V: Strike@10, S: you@9, A?: off@11, O: which@8)
+63	SVO (V: remove@5, S: You@1, O: Stones@6, A?: for@14, A?: Except@22)	SVO (S: your@19, V: "has", O: Ball@20)	SVO (S: Club@29, V: "has", O: length@31)	SVO (S: your@33, V: "has", O: Ball@34)
+64	SVO (S: your@2, V: "has", O: Ball@3)	SVA (V: comes@4, S: Ball@3, A!: among@5)	SVC (V: are@14, S: you@13, A?: comes@4, A?: at@15, XCOMP: take@18)	SVO (S: your@20, V: "has", O: Ball@21)	SVO (V: play@34, S: you@32, O: it@35, A?: with@36)	SVOC (V: allow@40, S: you@32, O: it@35, A?: with@36, XCOMP: Stroke@44, A?: for@45)	SVO (S: your@41, V: "has", O: Adversary@42)	SV (V: Stroke@44, S: Adversary@42)	SVO (S: your@49, V: "has", O: Ball@50)
+65	SVO (S: your@2, V: "has", O: Balls@3)	SVO (V: found@5, S: Balls@3, O: any@6)	SVC (V: are@13, S: You@12, A?: found@5, XCOMP: lift@15)	SVO (V: play@22, S: you@21, O: last@24)
+66	SVC (V: are@5, S: you@4, A?: At@1, XCOMP: play@7)	SVA (V: "be lying", S: play@7, A!: in@27, A?: to@30)	SVO (S: your@8, V: "has", O: Ball@9)	SVO (S: your@20, V: "has", O: Adversary@21)	SVO (S: Adversary@21, V: "has", O: Ball@23)	SVO (S: your@28, V: "has", O: way@29)
+67	SVO (V: lose@4, S: you@2, O: Ball@6, A?: by@8)	SVO (S: your@5, V: "has", O: Ball@6)	SVO (S: its@9, V: "has", O: taken@11)	SVC (V: are@20, S: you@19, XCOMP: go@22)	SVOO (V: struck@30, S: you@29, A?: where@28, O: last@31, IO: Spot@26)	SVO (S: your@40, V: "has", O: adversary@41)
+68	SVO (S: his@5, V: "has", O: Ball@6)	SVO (S: his@15, V: "has", O: way@16)	SVO (S: his@21, V: "has", O: Club@22)
+69	SVO (V: stop@21, S: Ball@3, CCOMP: stopp@5, A-: so@20)	SVO (V: stop@21, S: Ball@19, CCOMP: stopp@5, A-: so@20)	SVO (V: play@25, S: stop@21, O: 'd@26)	SV (V: lies@29, S: it@28, A?: where@27)
+70	SVO (V: draw@3, S: you@2, O: Club@5, A?: in@6, A?: to@8)	SVO (S: your@4, V: "has", O: Club@5)	SVO (S: your@23, V: "has", O: Club@24)	SVO (S: your@29, V: "has", O: Club@30)	SVA (V: break@32, S: Club@30, A?: then@27, A!: in@34)	SVC (V: is@39, S: it@38, XCOMP: Accounted@42)
+71	SVO (S: He@1, V: "has", O: Ball@3)	SVA (V: lies@4, S: Ball@3, A!: farthest@5)	SVO (V: obliged@10, S: He@1, XCOMP: play@12)
+72	SVA (V: "be made", S: Trench@2, A!: for@9)	SVO (S: Scholar@18, V: "has", O: Holes@20)	SVO (S: Soldier@24, V: "has", O: Lines@26)	SVO (V: accounted@30, S: Shall@28, O: Hazard@32)	SVC (V: is@37, S: Ball@36, XCOMP: taken@40)
+73	SVA (V: "be clarify", S: Decisions@1, O: questions@21)	SVC (S: Golf@6, V: "is", C: book@9)	SVA (V: "be published", S: book@9, A!: years@13, A?: by@14)	SVA (V: "be raised", S: questions@21, A!: by@23)
+74	SVA (V: "be set", S: rules@2, A!: by@4)	SVA (V: "be denote", S: example@13, O: method@17)	SVA (V: "be used", S: method@17, XCOMP: define@20)	SV (V: drops@28, S: rules@2, A?: for@12)	SVC (S: areas@32, V: "is", C: ESAs@34)
+75	SVA (V: "be covered", S: Rules@1, A!: by@7)	SVO (V: define@12, S: Rules@1, O: behaviour@15)	SVA (V: "be playing", S: those@17, O: game@20)
+76	SVA (V: "be adopted", S: Rules@1, A!: often@2, A?: in@4)	SVA (V: "be related", S: round@17, A!: to@21)	SVC (S: Obstructions@24, V: "is", C: TIOs@26)
+77	SVA (V: "be governing", S: Rules@1, O: size@4, A!: defined@18)	SVC (S: USGA@23, V: "is", C: Appendices@25)
+78	SVA (V: "be governing", S: Rules@1, O: golfers@3)	SVA (V: play@7, S: disabilities@5, A!: in@8, A?: for@18, A?: published@23)

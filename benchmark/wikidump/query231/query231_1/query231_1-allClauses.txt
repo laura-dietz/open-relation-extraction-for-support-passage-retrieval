@@ -1,0 +1,350 @@
+0	SVC (S: Sins@3, V: "is", C: disambiguation@5)	SVO (S: Bosch@8, V: "has", O: Sins@14)	SVA (V: "be known", S: Sins@24, A!: also@26, A?: as@28)	SVOC (C: classification@38, V: is@36, S: Sins@24, A?: of@39, O: Things@19)	SVO (V: used@45, S: vices@41, A?: since@46, XCOMP: educate@51)	SVA (V: "be concerning", S: educate@51, O: tendency@59, A!: to@60)	SVO (S: humanity@57, V: "has", O: tendency@59)
+1	SVA (V: given@10, S: version@4, A?: usually@9, A!: as@11)
+2	SVO (V: divides@4, S: Church@3, O: sin@5, A?: into@6)	SVOC (C: minor@18, V: is@16, S: guilt@15, A?: in@13, A?: relatively@17, O: sin@11)
+3	SVO (V: believed@7, S: sin@5, A?: Theologically@1, XCOMP: destroy@9)	SVOC (V: creates@19, S: sin@5, A?: Theologically@1, XCOMP: destroy@9, A-: thus@18, O: threat@21)
+4	SVOO (V: necessitates@18, S: charity@16, O: initiative@21, IO: sin@3)	SVOO (V: conversion@28, S: charity@16, O: initiative@21, A?: of@29, IO: sin@3)	SVO (V: necessitates@18, S: sin@3, O: initiative@21)	SVO (V: conversion@28, S: sin@3, O: initiative@21, A?: of@29)	SVO (S: God@23, V: "has", O: mercy@25)	SVA (V: accomplished@34, S: conversion@28, A?: normally@33, A!: for@36, A?: within@39)
+5	SVC (S: Church@6, V: "is", C: nn@8)
+6	
+7	
+8	
+9	SVA (V: belong@6, S: Sins@3, A!: to@7)
+10	SVC (C: sins@6, V: are@4, S: they@3, A?: Rather@1)	SVO (V: seen@9, S: sins@6, A?: as@10, CCOMP: comes@17)	SVA (V: comes@17, S: capital@15, A!: from@18, A?: of@25)	SVC (S: caput@21, V: "is", C: head@23)
+11	SVC (C: venial@9, V: be@7, S: sin@4)	SVC (C: depending@13, V: be@7, S: sin@4, A?: on@14)	SV (V: called@22, S: they@20)	SVO (V: engender@28, S: they@27, O: sins@30)
+12	SVC (S: Church@6, V: "is", C: n@8)
+13	
+14	SVA (V: "be Beginning", S: popularity@9, A!: in@2)	SVO (V: helped@25, S: popularity@9, A?: Beginning@1, A?: eventually@24, XCOMP: ingrain@27)
+15	SVC (C: creation@8, V: was@6, S: means@2, A?: of@9)	SVA (V: "be based", S: SALIGIA@13, A!: on@16)
+16	
+17	
+18	SVC (S: Poetics@12, V: "is", C: University@15)	SVC (S: Serpent@28, V: "is", C: Solomon@41)	SVC (S: Proverbs@35, V: "is", C: Mishlai@37)	SVO (V: stated@42, S: Serpent@28, CCOMP: regards@47)	SVO (V: regards@47, S: Lord@45, A?: specifically@46, O: things@50)	SVO (S: His@58, V: "has", O: detesteth@60)
+19	EXISTENTIAL (V: are@14, S: seven@15)	SVC (C: different@23, V: is@21, S: list@20, A?: considerably@22, A?: from@24, A?: with@29)	SVA (V: "be being", S: pride@31, A!: clearly@32, A?: in@34)
+20	SVA (V: "be given", S: list@2, A!: time@6, A?: by@7, A?: to@10)	SVC (S: Galatians@12, V: "is", C: Galatians@14)	SVO (V: includes@19, S: list@2, O: more@20, A?: longer@32)	SVC (C: longer@32, V: is@30, S: list@29, A?: substantially@31)
+21	SVC (S: -21@3, V: "is", C: Galatians@4)	SVA (V: goes@10, S: Paul@9, A!: on@11)	SVO (V: commit@18, S: persons@16, O: sins@20)	SVO (V: inherit@24, S: persons@16, O: Kingdom@26)	SVO (V: listed@34, S: they@31, CCOMP: Galatians@1, A?: usually@33, A?: as@35)
+22	SVA (V: "be depicting", S: image@3, O: subject@8)	SVA (V: "be represented", S: each@15, A!: by@17)
+23	SVA (V: linked@10, S: concept@3, A!: to@11)	SVO (V: listed@23, S: Ponticus@20, O: thoughts@26, A?: in@27, A?: follows@30)	SVC (S: Pontico@33, V: "is", C: Malvagi@38)
+24	SVC (S: Comello@3, V: "is", C: Editrice@6)	SVC (S: Editrice@6, V: "is", C: Parma@8)
+25	
+26	SVO (V: translated@3, S: They@1, A?: into@4, A?: due@12, XCOMP: becoming@24)	SVC (S: pietas@32, V: "is", C: devotions@36)	SVO (S: tradition@29, V: "has", O: pietas@32)	SVC (S: Refoule@42, V: "is", C: thoughts@48)	SVA (V: collected@52, S: Refoule@42, A!: into@53)	SVO (V: wrote@68, S: Evagrius@67, O: list@70)	SVO (S: his@69, V: "has", O: list@70)	SVC (S: Gregory@73, V: "is", C: vainglory@93)	SVOO (V: revised@75, S: I@74, O: list@77, A?: form@79, A?: by@87, IO: Gregory@73)	SVA (V: "be form", S: I@74, O: Sins@85)
+27	SVC (S: Ware@9, V: "is", C: p63@11)
+28	SVA (V: "be used", S: order@3, A!: by@5, A?: in@13)	SVO (S: his@14, V: "has", O: poem@16)	SVO (V: are@25, S: sins@24, A?: follows@27, O: Comedy@19)	SVO (S: their@39, V: "has", O: history@40)	SVC (C: process@45, V: been@42, S: identification@30, A?: In@1)	SVO (V: encompasses@56, S: each@51, O: what@50, A?: actually@55)	SVA (V: evolved@58, S: idea@48, A!: over@59)
+29	SVC (C: list@14, V: is@11, S: It@10, A?: Additionally@1, A?: as@3)	SVO (V: uses@17, S: Dante@16, O: list@14)
+30	SVA (V: aided@8, S: process@2, A!: by@9)	SVA (V: referred@19, S: traits@15, A?: collectively@18, A!: to@20)	SVA (V: consulted@42, S: works@39, A?: instead@41, A!: as@44)	SVO (V: drawn@51, S: definitions@48, A?: from@46, O: sources@45)
+31	SVO (S: Dante@6, V: "has", O: Comedy@9)	SVC (S: Comedy@9, V: "is", C: Purgatorio@11)	SVC (C: source@20, V: been@16, S: II@4, A?: certainly@15, A?: since@21)
+32	SVO (V: lists@8, S: Catechism@7, A?: February@1, O: sins@10, A?: as@13, A?: with@32)
+33	
+34	
+35	
+36	
+37	
+38	
+39	
+40	
+41	
+42	
+43	
+44	
+45	
+46	
+47	SVO (V: has@10, S: Each@2, A?: now@8, A?: also@9, O: opposite@12)	SVA (V: "be referred", S: virtues@17, A!: sometimes@19, A?: also@20, A?: to@22, A?: as@23)
+48	SVO (V: oppose@8, S: they@7, O: sins@6)	SVC (C: humility@15, V: are@14, S: virtues@13, A?: In@1)
+49	SVA (V: thought@13, S: Lust@1, A?: usually@12, A!: of@14)
+50	SVO (S: Dante@2, V: "has", O: Purgatorio@4)	SVO (V: walks@8, S: penitent@7, A?: In@1, A?: within@9, XCOMP: purge@12)
+51	SVO (S: Dante@2, V: "has", O: Inferno@4)	SVA (V: blown@14, S: souls@7, A?: In@1, A!: about@15)	SVO (S: their@22, V: "has", O: lack@24)	SVO (S: their@29, V: "has", O: passions@31)
+52	SVA (V: "be meaning", S: thumb@2, XCOMP: gulp@20)	SVA (V: "be Derived", S: thumb@2, A!: from@13)	SV (V: _@9, S: Anker@8)	SVC (S: Latin@27, V: "is", C: gula@30)	SVC (C: over-indulgence@34, V: is@32, S: thumb@2)
+53	SVO (V: considered@8, S: it@6, A?: In@1, O: sin@10, A?: of@12)	SVO (S: its@19, V: "has", O: withholding@20)
+54	SVC (S: Okholm@1, V: "is", C: Dennis@3)
+55	
+56	SVC (S: Today@2, V: "is", C: Vol@4)
+57	SVC (S: 44@1, V: "is", C: No@3)
+58	SVC (S: 10@1, V: "is", C: p.@8)
+59	SVA (V: seen@9, S: it@6, A?: Depending@1, A!: as@10)
+60	SVC (C: scarce@5, V: is@3, S: food@2, A?: Where@1, A?: relatively@4)	SVA (V: "be take", S: something@14, O: pride@17, A!: in@18)	SVC (C: something@14, V: be@13, S: able@8, A?: scarce@5, A?: take@16)
+61	SVOC (C: plentiful@9, V: is@7, S: food@6, A?: where@5, A?: routinely@8, O: area@4)	SVO (V: considered@14, S: it@11, A?: in@2, O: sign@16)	SVA (V: "be resist", S: sign@16, O: temptation@22, A!: to@23)
+62	
+63	
+64	SVOA (V: took@5, S: Aquinas@3, O: view@9, A!: arguing@13)	SVO (V: eating@28, S: Aquinas@3, O: view@9, A?: arguing@13, A?: of@29)	SVA (V: "be arguing", S: Aquinas@3, CCOMP: include@18)	SVO (V: include@18, S: it@15, A?: also@17, O: anticipation@21)
+65	
+66	
+67	
+68	
+69	
+70	
+71	SVA (V: went@5, S: Aquinas@4, A!: far@7, A?: prepare@10)	SVA (V: "be commit", S: ways@15, O: gluttony@18, A!: including@20, O: painting@24)
+72	SVA (V: "be known", S: Greed@1, A!: also@9, A?: as@11)	SVC (S: Latin@3, V: "is", C: avaritia@6)	SVO (V: is@16, S: Greed@1, A?: like@18, O: sin@24)
+73	SVA (V: "be applied", S: greed@3, A!: to@13)
+74	
+75	SVO (V: wrote@3, S: Aquinas@2, CCOMP: sin@9)	SVC (C: sin@9, V: was@6, S: greed@5, A?: against@10, A?: just@13, A?: in@19)
+76	SVO (S: Dante@3, V: "has", O: Purgatory@5)	SVA (V: bound@10, S: penitents@8, A?: In@2, A!: on@15, A?: for@18)	SVA (V: face@13, S: penitents@8, A?: In@2, A!: down@14, A?: on@15, A?: for@18)
+77	SVC (C: more@5, V: is@4, S: Avarice@2, A?: of@6)	SVO (V: describe@12, S: term@9, O: examples@15)
+78	SVO (V: include@2, S: These@1, O: disloyalty@3)
+79	SVC (S: October@2, V: "is", C: theft@11)	SVC (C: actions@29, V: are@27, S: Scavenging@1)	SVA (V: inspired@33, S: actions@29, A!: by@34)
+80	SVO (V: include@4, S: misdeeds@2, O: simony@5)	SVA (V: "be purchase", S: attempts@9, O: sacraments@14)	SVA (V: "be purchase", S: attempts@9, O: sacraments@14)
+81	SVC (C: desire@12, V: is@9, S: greed@8, A?: defined@2, A?: acquire@14)	SVA (V: "be acquire", S: desire@12, O: needs@20, A!: with@23)	SVA (V: "be acquire", S: desire@12, O: needs@20, A!: with@23)
+82	
+83	
+84	
+85	
+86	SVC (S: Sloth@9, V: "is", C: sin@12)	SVO (S: Gregory@23, V: "has", O: order@25)	SVC (V: come@27, S: acedia@19, XCOMP: closer@30)	SVC (V: come@27, S: Sloth@9, XCOMP: closer@30)	SVC (S: Latin@36, V: "is", C: Socordia@39)
+87	SVC (V: came@3, S: focus@2, XCOMP: be@5)	SVA (V: "be referred", S: sin@27, A!: to@29)	SVO (V: believed@31, S: sin@27, A-: so@17, A?: by@19, XCOMP: failure@35)	SVA (V: "be utilize", S: failure@35, O: talents@40)	SVO (S: one@38, V: "has", O: talents@40)
+88	SVO (S: Dante@5, V: "has", O: time@7)	EXISTENTIAL (V: were@9, S: signs@10, O: May@1)	SVO (S: his@16, V: "has", O: Purgatorio@17)	SVO (V: portrayed@20, S: he@18, A?: in@15, O: penance@22, A?: as@25)
+89	SVC (V: goes@4, S: view@3, A?: further@5, XCOMP: regarding@7)
+90	SVA (V: contrasts@3, S: this@2, A!: with@4)	SVO (S: his@17, V: "has", O: works@18)	SVO (V: seen@23, S: sloth@20, A?: often@22, A?: serious@28, O: God@15)	SVO (V: sin@36, S: God@15, A?: for@11, A?: of@37, A?: than@39, O: failure@8)
+91	SVC (S: Latin@4, V: "is", C: acedia@7)	SVC (C: neglect@16, V: is@14, S: Acedia@2, A?: take@18)	SVA (V: "be take", S: neglect@16, O: care@19)	SV (V: do@25, S: one@23)
+92	SVA (V: translated@3, S: It@1, A!: to@4)
+93	SVC (C: similar@3, V: is@2, S: It@1, A?: to@4, A?: describes@9)	SVO (V: describes@9, S: acedia@8, O: behaviour@11, A?: suggests@15)	SVO (V: suggests@15, S: melancholy@14, O: emotion@17)	SVA (V: "be producing", S: emotion@17, O: it@19)
+94	SVA (V: regarded@11, S: lack@7, A?: In@1, A!: as@12)	SVA (V: "be enjoy", S: refusal@15, O: goodness@19)	SVO (V: created@26, S: God@25, O: world@24)	SVO (V: considered@33, S: apathy@31, A?: by@28, O: refusal@35)	SVA (V: "be help", S: refusal@35, O: others@38, A!: in@39)
+95	SVO (V: described@4, S: Aquinas@3, A?: When@1, O: acedia@5, A?: in@6)	SVO (S: his@7, V: "has", O: interpretation@8)	SVOC (V: described@14, S: he@13, A?: described@4, O: it@15, A?: as@16, XCOMP: progenitor@25)
+96	SVOC (V: refined@2, S: Dante@1, O: definition@4, A?: further@5, A?: describing@7, O: mind@24)	SVA (V: "be describing", S: Dante@1, O: acedia@8, A!: as@9)	SVA (V: "be love", S: failure@11, O: God@14, A!: with@15)	SVO (S: one@17, V: "has", O: heart@19)	SVO (S: one@22, V: "has", O: mind@24)	SVO (S: one@27, V: "has", O: soul@29)	SVC (C: sin@37, V: was@34, S: it@33, A?: to@31)	SVC (S: sin@37, V: "is", C: one@41)	SVA (V: "be characterised", S: one@41, A!: of@48)
+97	SVO (V: said@6, S: scholars@2, CCOMP: despair@14)	SVC (C: despair@14, V: was@13, S: form@10)	SVA (V: leads@16, S: despair@14, A!: to@17)
+98	SVA (V: "be known", S: Wrath@2, A!: also@10, A?: as@12)	SVC (S: Latin@4, V: "is", C: ira@7)	SVA (V: described@19, S: Wrath@2, A!: as@20)
+99	SVO (S: its@4, V: "has", O: form@6)	SVA (V: presents@8, S: Wrath@1, A?: in@3, A!: with@9)	SVA (V: go@22, S: feuds@19, A!: on@23)
+100	SVA (V: persist@3, S: Wrath@1, A!: after@5)	SVC (C: dead@15, V: is@14, S: person@7)	SVOC (C: dead@15, V: is@14, S: wrong@13, O: person@7)
+101	SVA (V: manifest@5, S: Feelings@1, A!: in@6)
+102	SVC (C: sin@5, V: is@2, S: Wrath@1, A?: associated@8)	SVA (V: "be associated", S: sin@5, A!: necessarily@7, A?: with@9)	SVC (C: wrathful@20, V: be@19, S: one@15, A?: of@17, A?: for@21)	SVC (S: jealousy@27, V: "is", C: related@31)
+103	SVO (V: described@2, S: Dante@1, O: vengeance@3, A?: as@4)	SVO (V: perverted@9, S: love@6, XCOMP: revenge@11)
+104	SVO (S: its@2, V: "has", O: form@4)	SVO (V: encompassed@11, S: sin@7, A?: In@1, A?: also@10, O: anger@12)	SVA (V: "be pointed", S: anger@12, A!: internally@14, A?: than@16)
+105	SVA (V: deemed@4, S: suicide@2, A-: Thus@1, A!: as@5)	SVA (V: directed@15, S: expression@12, A!: inwardly@16)	SVO (S: God@22, V: "has", O: gifts@24)
+106	SVC (S: Latin@9, V: "is", C: invidia@12)	SVA (V: characterized@16, S: Envy@7, A!: by@17)	SVA (V: differ@23, S: they@22, A!: however@25, A?: for@27)	SVO (V: defined@33, S: Dante@32, O: this@34, A?: as@35)	SVA (V: "be deprive", S: desire@38, O: men@42)
+107	SVC (C: related@6, V: be@4, S: Envy@2, A?: directly@5, A?: to@7)	SV (V: desire@17, S: you@16, A?: specifically@12)
+108	SVA (V: belongs@3, S: anything@1, A!: to@4)	SVO (S: your@5, V: "has", O: neighbour@6)
+109	SVO (S: Dante@2, V: "has", O: Purgatory@4)	SVC (V: is@11, S: punishment@7, A?: In@1, XCOMP: have@13)	SVO (S: their@14, V: "has", O: eyes@15)	SVA (V: "be shut", S: sewn@16, A!: with@18)	SVO (V: gained@23, S: they@21, O: pleasure@25, A?: from@26)	SVC (V: brought@29, S: others@28, ACOMP: low@30)
+110	SVO (V: described@2, S: Aquinas@1, O: envy@3, A?: as@4, A?: for@7)
+111	
+112	
+113	
+114	
+115	
+116	
+117	
+118	
+119	
+120	SVC (S: Elder@5, V: "is", C: pride@11)	SVC (S: Latin@13, V: "is", C: superbia@16)	SVO (V: considered@23, S: Brueghel@3, XCOMP: the@24)	SVO (V: source@37, S: Brueghel@3, XCOMP: the@24, A?: of@38)
+121	SVO (V: identified@3, S: It@1, A?: as@4, XCOMP: failing@16)	SVO (V: love@27, S: It@1, A?: as@4, XCOMP: failing@16, A?: of@28)	SVA (C: important@10, V: "be important", S: desire@6, A!: more@9, A?: than@13)
+122	SVO (S: Dante@1, V: "has", O: definition@3)	SVC (C: love@6, V: was@4, S: definition@3, A?: of@7, A?: perverted@9)	SVA (V: "be perverted", S: love@6, A!: to@10)	SVO (S: one@15, V: "has", O: neighbour@17)
+123	SVO (S: Bidermann@4, V: "has", O: play@8)	SVC (C: deadliest@15, V: is@13, S: pride@12, A?: In@2, A?: of@16)	SVC (C: leads@21, V: is@13, S: pride@12, A?: In@2, A?: of@16, A?: directly@22, A?: to@23)
+124	SVC (S: Lucifer@10, V: "is", C: pride@12)	SVC (S: pride@12, V: "is", C: desire@15)	SVA (V: "be compete", S: desire@15, A!: with@18)	SVO (S: his@14, V: "has", O: desire@15)	SVC (V: was@21, S: story@8, A?: In@1, CCOMP: caused@23)	SVO (V: caused@23, S: what@22, O: fall@25, A?: from@26)	SVO (V: transformation@32, S: what@22, O: fall@25, A?: from@26, A?: into@33)	SVO (S: his@24, V: "has", O: fall@25)	SVO (S: his@30, V: "has", O: transformation@32)
+125	SVO (S: Dante@2, V: "has", O: Comedy@5)	SVO (V: forced@10, S: penitents@8, A?: In@1, XCOMP: walk@12)	SVA (V: "be bearing", S: slabs@15, A!: down@17)	SVO (S: their@19, V: "has", O: backs@20)
+126	SVC (S: Latin@4, V: "is", C: vanagloria@7)	SVC (C: boasting@11, V: is@9, S: Vainglory@2)
+127	SVO (V: viewed@3, S: Gregory@2, O: it@4, A?: as@5)	SVO (V: folded@13, S: he@12, A-: so@11, O: vainglory@14, A?: into@15, A?: for@17)	SVO (S: his@18, V: "has", O: listing@19)
+128	SVO (V: means@8, S: gloria@6, A?: September@1, A?: roughly@7, O: boasting@9, A?: come@19)	SVO (S: its@12, V: "has", O: cognate@14)	SVC (V: come@19, S: cognate@14, XCOMP: have@21)	SVA (V: retains@54, S: it@53, A!: today@55)
+129	SVC (V: become@14, S: vainglory@12, XCOMP: word@18)	SVO (V: interpreted@26, S: vainglory@12, XCOMP: word@18, A?: now@24, A?: commonly@25, A?: as@27)	SVO (S: its@33, V: "has", O: sense@36)
+130	SVO (V: recognizes@6, S: Church@4, A?: also@5, O: virtues@8)	SVA (V: correspond@11, S: virtues@8, A!: inversely@12)
+131	SVO (V: tempted@17, S: demon@14, O: people@18, A?: by@19)
+132	SVO (S: Binsfeld@3, V: "has", O: classification@5)	SVA (V: are@11, S: pairings@10, A?: According@1, A!: follows@13)	SVA (V: contrasts@15, S: This@14, A!: slightly@16, A?: with@17)	SVA (V: "be found", S: pairings@22, A!: in@24)	SVC (S: Light@33, V: "is", C: Lucifer@37)	SVC (S: Light@33, V: "is", C: Beelzebub@41)	SVC (S: Envy@43, V: "is", C: Abadon@51)	SVC (S: Envy@43, V: "is", C: Mammon@55)	SVC (S: Envy@43, V: "is", C: Belphegor@59)	SVC (S: Envy@43, V: "is", C: Satan@45)
+133	
+134	SVC (S: Bloomfield@1, V: "is", C: Sins@6)	SVC (S: Press@11, V: "is", C: 1952@13)
+135	
+136	SVA (V: "be confessed", S: sin@15, A!: by@17)	SVC (C: lust@20, V: is@19, S: sin@15, A?: According@1)	SVC (S: women@24, V: "is", C: pride@26)
+137	
+138	
+139	SVO (S: ways@7, V: "has", O: News@10)	SVC (C: unclear@15, V: was@14, S: sin@4, CCOMP: due@20)	SVC (C: due@20, V: were@19, S: differences@18, A?: to@21)
+140	
+141	
+142	
+143	
+144	
+145	
+146	SVC (C: source@11, V: been@9, S: sins@6, A?: long@8, A?: of@12, A?: from@19)
+147	SVO (V: argued@4, S: Menninger@3, CCOMP: incomplete@15)	SVC (C: incomplete@15, V: was@14, S: list@8)	SVO (V: include@22, S: ethicists@20, O: cruelty@23)	SVOC (V: rate@29, S: ethicists@20, O: cruelty@23, A?: probably@27, O: these@30, A?: as@31)
+148	SVO (S: his@2, V: "has", O: book@4)	SV (V: be@12, S: one@8)	SVO (V: argues@17, S: Culbertson@16, A?: In@1, CCOMP: added@24)	SVA (V: added@24, S: vices@21, A!: to@25)
+149	SVO (S: Culbertson@4, V: "has", O: description@6)	SVA (V: amounts@8, S: Fear@1, A?: in@3, A!: to@9, A?: is@20)	SVA (V: "be called", S: condition@13)	SVC (V: is@20, S: superstition@19, CCOMP: Belief@23)	SVO (V: understand@30, S: one@27, O: things@25, A?: to@32)
+150	SVO (V: integrates@6, S: Enneagram@3, O: seven@8, A?: with@9)	SVC (S: sins@13, V: "is", C: deceit@16)
+151	SVC (C: broader@5, V: are@4, S: descriptions@3, A?: than@6)	SVC (C: presented@13, V: are@4, S: descriptions@3, A?: than@6, A?: in@14)
+152	SVC (S: Maitri@1, V: "is", C: Enneagram@4)	SVC (S: Maitri@1, V: "is", C: pp.11-31@10)
+153	SVC (S: Rohr@1, V: "is", C: Enneagram@4)	SV (V: es@83, S: αμαρτήματα@82)	SVC (S: પાપ@124, V: "is", C: ધર્મ@128)	SVC (S: capital@199, V: "is", C: cristianismo@201)
+154	
+155	SVO (V: shed@3, S: Hands@1, O: blood@5)
+156	SVO (V: devises@4, S: heart@2, O: plots@6)
+157	SVC (C: swift@4, V: are@3, S: Feet@1, XCOMP: run@6)
+158	SVO (V: uttereth@5, S: witness@3, O: lies@6)
+159	
+160	SVC (S: Γαστριμαργία@2, V: "is", C: gastrimargia@4)
+161	SVC (S: Πορνεία@2, V: "is", C: porneia@4)	SVC (S: prostitution@6, V: "is", C: fornication@8)
+162	SVC (S: Φιλαργυρία@2, V: "is", C: philargyria@4)
+163	SVC (S: Ὑπερηφανία@2, V: "is", C: hyperēphania@4)	SVO (V: rendered@15, S: term@13, A?: as@16, O: hubris@6)
+164	SVC (S: Λύπη@2, V: "is", C: lypē@4)	SVO (V: rendered@15, S: term@13, A?: as@16, O: sadness@6)	SVC (S: envy@17, V: "is", C: sadness@19)	SVO (S: another@21, V: "has", O: fortune@24)
+165	SVC (S: Ὀργή@2, V: "is", C: orgē@4)
+166	SVC (S: Κενοδοξία@2, V: "is", C: kenodoxia@4)
+167	SVC (S: Ἀκηδία@2, V: "is", C: akēdia@4)	SVO (V: rendered@15, S: term@13, A?: as@16, O: acedia@6)
+168	SVC (S: Gula@2, V: "is", C: gluttony@4)	SVC (S: fornication@9, V: "is", C: lust@11)	SVC (S: hubris@23, V: "is", C: pride@25)	SVC (S: Tristitia@28, V: "is", C: sorrow@30)	SVC (S: Vanagloria@40, V: "is", C: vainglory@42)	SVC (S: Acedia@45, V: "is", C: acedia@47)	SVC (S: irascibility@59, V: "is", C: Wrath@61)	SVC (S: luxuria@75, V: "is", C: lechery/lust@77)
+169	
+170	
+171	
+172	
+173	
+174	
+175	
+176	
+177	
+178	
+179	
+180	
+181	
+182	
+183	
+184	
+185	
+186	
+187	
+188	SVC (S: gula@2, V: "is", C: gluttony@4)	SVC (S: avaritia@7, V: "is", C: avarice/greed@9)	SVC (S: acedia@12, V: "is", C: acedia/discouragement/sloth@14)	SVC (S: ira@17, V: "is", C: wrath@19)	SVC (S: invidia@22, V: "is", C: envy@24)	SVC (S: superbia@27, V: "is", C: pride@29)	SVA (V: substituted@33, S: Lust@31, A!: for@34, A?: in@36)	SVC (S: all@37, V: "is", C: sloth@44)
+189	SVA (V: eating@3, S: Laute@1, A!: expensively@5)
+190	SVO (V: eating@3, S: Nimis@1, O: much@5)
+191	SVA (V: eating@3, S: Ardenter@1, A!: eagerly@5)
+192	
+193	SVA (V: eating@3, S: Forente@1, A!: wildly@4)
+194	SVA (V: associated@6, S: greed@3, A?: First@1, A?: largely@5, A!: with@7, A?: apply@14)	SVA (V: apply@14, S: envy@12, A!: generally@16)
+195	SVO (V: commit@5, S: those@3, O: sin@7)	SVO (V: has@16, S: person@15, O: something@17)	SVOO (V: perceive@19, S: they@18, O: themselves@20, A?: as@21, IO: something@17)
+196	SVC (S: Pride@3, V: "is", C: superbia@5)	SVC (S: Greed@9, V: "is", C: avaritia@11)	SVC (S: Lust@15, V: "is", C: luxuria@17)	SVC (S: Envy@21, V: "is", C: invidia@23)	SVC (S: Wrath@37, V: "is", C: ira@39)	SVC (S: Sloth@43, V: "is", C: acedia@45)	SVC (S: Climacus@48, V: "is", C: century@51)	SVO (V: places@59, S: Climacus@48, O: victory@60)	SVC (S: anger@73, V: "is", C: 8@75)	SVC (S: sadness@85, V: "is", C: 13@87)	SVC (S: gluttony@90, V: "is", C: 14@92)	SVC (S: lust@95, V: "is", C: 15@97)	SVC (S: greed@100, V: "is", C: 17@104)	SVC (S: acedia@107, V: "is", C: 18@109)	SVC (S: pride@113, V: "is", C: 23@115)
+197	SVC (C: work@14, V: is@11, S: Comedy@10, A?: composed@15)	SVA (V: "be composed", S: work@14, A!: of@16)
+198	SVO (V: divides@4, S: Inferno@2, O: Hell@5, A?: into@6)	SVO (V: correspond@15, S: four@11, A?: directly@14, A?: to@16, O: circles@9)	SVA (V: "be lust", S: circle@21)
+199	SVOA (V: takes@8, S: punishment@2, O: place@9, A!: in@10)	SVA (V: "be punished", S: wrathful@16, A!: atop@19)	SVA (V: "be attacking", S: wrathful@16, O: another@25, A!: with@26)	SVO (S: their@31, V: "has", O: person@32)	SVA (V: punished@41, S: slothful@39, A!: underneath@42)
+200	SVC (S: Dante@1, V: "is", C: VII.120-128@6)
+201	
+202	SVC (S: Cary@1, V: "is", C: Gutenberg@5)	SVO (V: map@12, S: circles@8, A?: neatly@11, A?: onto@13, O: Gutenberg@5)
+203	SVA (V: scaled@9, S: Purgatory@7, A?: In@1, A!: in@10)	SVO (V: follows@14, S: Purgatory@7, A?: In@1, A?: in@10, O: sequence@17)
+204	SVO (S: Langland@4, V: "has", O: c@7)
+205	SVA (V: structured@10, S: 1332@1, A!: around@11)	SVC (C: critical@18, V: are@17, S: series@13, A?: of@19, A?: encouraging@23)
+206	SVA (V: mentioned@4, S: sins@2, A!: in@5)
+207	
+208	
+209	
+210	
+211	
+212	
+213	SVOC (V: use@2, S: References@1, O: B-text@4, O: chaplain@33)	SVOC (V: see@6, S: References@1, O: B-text@4, O: Gower@8, A?: on@18, A?: to@29, O: chaplain@33)
+214	SVA (V: structured@11, S: confession@9, A?: Following@1, A!: around@12, A?: focuses@19)	SVO (S: his@21, V: "has", O: sins@22)
+215	
+216	
+217	
+218	
+219	
+220	
+221	SVO (S: Chaucer@4, V: "has", O: c@7)
+222	SVO (V: features@7, S: Tales@6, O: sins@11)	SVO (S: Parson@14, V: "has", O: Tale@16)	SVC (S: pride@18, V: "is", C: wrath@33)	SVC (S: pride@18, V: "is", C: sloth@40)	SVC (S: pride@18, V: "is", C: paragraphs@20)	SVC (S: pride@18, V: "is", C: envy@26)	SVC (S: greed@47, V: "is", C: 70@51)
+223	
+224	
+225	SVO (S: Parson@12, V: "has", O: Prologue@14)
+226	
+227	
+228	
+229	SVO (S: Parson@12, V: "has", O: Prologue@14)
+230	
+231	SVO (V: shows@17, S: Marlowe@4, O: Lucifer@18)	SVA (V: "be coming", S: Mephistophiles@23, A!: from@25, XCOMP: show@28)
+232	SVC (S: II@8, V: "is", C: Scene@10)
+233	SVO (V: present@3, S: sins@2, O: themselves@4, A?: in@6)	SVC (S: pride@9, V: "is", C: lust@21)
+234	
+235	
+236	
+237	SV (V: compare@3, S: norm@1)
+238	SVC (S: Marlowe@2, V: "is", C: Tragedie@5)	SVC (S: Faustus@8, V: "is", C: text@11)
+239	
+240	
+241	
+242	
+243	
+244	SV (V: compare@3, S: norm@1)
+245	SVC (S: Marlowe@2, V: "is", C: Tragedie@5)	SVC (S: Faustus@8, V: "is", C: text@11)
+246	
+247	
+248	SVO (V: addresses@14, S: Queene@13, O: sins@18, A?: in@19)	SVC (S: Legend@25, V: "is", C: Holiness@34)
+249	
+250	
+251	
+252	
+253	
+254	
+255	
+256	SV (V: wrote@3, S: 1918@1)	SVA (V: published@5, S: 1918@1, A!: in@6)	SVOO (V: criticized@26, S: he@25, A?: where@24, A?: in@27, O: shortcomings@32, A?: viewed@38, IO: capitales@14)
+257	SVO (V: published@6, S: he@5, A?: In@1, O: works@8)	SVC (S: USA@13, V: "is", C: Europe@23)
+258	
+259	
+260	
+261	
+262	
+263	
+264	SVO (V: wrote@4, S: Bruno@3, O: novel@6, A?: by@23)	SVC (S: novel@6, V: "is", C: 1995@10)
+265	SVC (S: Bruno@1, V: "is", C: Seven@4)
+266	SVO (S: Martin@1, V: "has", O: http@5)
+267	SVC (S: Bruno@1, V: "is", C: Seven@4)
+268	SVO (S: Martin@1, V: "has", O: http@5)
+269	SVO (S: Nix@2, V: "has", O: Keys@6)	SV (V: is@11, S: series@16)	SV (V: is@11, S: Keys@6)	SVA (V: "be afflicted", S: series@16, A!: in@24, A?: by@34)	SVA (V: "be published", S: first@19, A!: in@21)	SVA (V: afflicted@33, S: nemesis@28, A?: in@24, A!: by@34)
+270	SVA (V: "be selected", S: Levine@9, O: stories@15)	SVA (V: "be selected", S: Levine@9, O: stories@15)	SVA (V: "be published", S: Sampler@28, A!: by@30, A?: in@35)
+271	
+272	SVOO (V: headed@6, S: Born@5, O: group@9, IO: title@4)	SVO (V: included@14, S: group@9, O: Benningfield@16)
+273	SVO (S: her@6, V: "has", O: Gravity@10)	SVO (V: integrates@19, S: Healing@12, O: sins@23, A?: as@24)
+274	SVO (S: Her@1, V: "has", O: proports@3)	SVA (V: countered@26, S: passions@8, A!: by@27)
+275	SVC (S: collection@3, V: "is", C: Trek@10)	SVO (V: contains@16, S: Sins@14, O: novels@19)	SVO (V: link@22, S: which@21, O: sin@25, A?: to@26)	SVC (S: Borg@38, V: "is", C: Pakled@48)	SVC (S: Borg@38, V: "is", C: Universe@55)	SVC (S: Borg@38, V: "is", C: Gluttony@40)	SVC (S: Borg@38, V: "is", C: Klingon@43)	SVC (S: Borg@38, V: "is", C: Ferengi@61)	SVC (S: Klingon@43, V: "is", C: Anger@45)	SVC (S: Pakled@48, V: "is", C: Sloth@50)	SVC (S: Universe@55, V: "is", C: Lust@57)	SVC (S: Ferengi@61, V: "is", C: Greed@63)	SVC (S: Cardassian@68, V: "is", C: Envy@70)
+276	
+277	
+278	
+279	
+280	
+281	
+282	
+283	
+284	SVO (S: her@8, V: "has", O: book@10)	SV (V: Test@13, S: Carter@5)
+285	SVC (S: character@3, V: "is", C: Kate@5)	SVOC (V: put@8, S: character@3, A?: through@9, XCOMP: decide@13, O: tests@26)	SVO (V: fit@19, S: she@17, XCOMP: become@21)
+286	SVC (S: Bosch@2, V: "is", C: Sins@7)	SVC (S: Things@12, V: "is", C: 1485@14)
+287	SVOO (V: depicts@16, S: Sins@7, O: beings@18, IO: painting@3)	SVC (S: beings@18, V: "is", C: each@20)	SVA (V: "be representing", S: each@20, O: one@22)
+288	SVA (V: "be starting", S: Cadmus@4, A!: in@6)	SVO (V: painted@8, S: Cadmus@4, O: series@10, A?: in@23)	SVC (S: disturbing@13, V: "is", C: depictions@16)
+289	SVO (S: his@2, V: "has", O: death@3)	SVA (V: willed@8, S: series@6, A?: After@1, A!: to@9)
+290	SVO (V: created@5, S: Rampolla@4, O: series@7, A?: in@10, A?: depicting@12)	SVA (V: "be depicting", S: Rampolla@4, O: viewpoint@15)	SVO (S: his@13, V: "has", O: viewpoint@15)
+291	SVA (V: exhibited@18, S: Series@12, A!: at@19)	SVC (S: Gallery@22, V: "is", C: Kunst@30)	SVC (S: Kunst@30, V: "is", C: DA2@35)
+292	SVC (S: Weill@2, V: "is", C: Sins@10)	SVC (S: Sins@10, V: "is", C: 1933@17)	SVA (V: "be named", S: protagonist@25, A!: also@37, O: Anna@39)	SVC (S: protagonist@25, V: "is", C: Anna@27)	SVO (S: her@30, V: "has", O: sister@32)	SVOC (V: try@41, S: protagonist@25, A?: in@22, XCOMP: help@43, O: ballet-chantant@21)	SVO (S: their@44, V: "has", O: family@45)	SVA (V: travel@59, S: they@58, A!: across@60)
+293	SVC (C: interpretation@14, V: is@10, S: album@3, A?: of@15)
+294	SVO (V: have@5, S: Magenta@4, O: album@8)	SVA (V: "be called", S: album@8)	SVOO (V: represent@15, S: songs@14, A?: wherein@12, O: sins@19, IO: album@8)
+295	SVO (S: Lillies@3, V: "has", O: album@6)	SVO (V: show@9, S: album@6, CCOMP: based@14)	SVA (V: based@14, S: Sins@12, A!: on@15)	SVA (V: "be experienced", S: sins@17, A!: by@20)	SVA (V: "be called", S: version@23)	SVA (V: "be called", S: version@23)
+296	SVC (S: album@3, V: "is", C: Melankolia@4)
+297	SVA (V: came@6, S: artist@5, A?: how@3, A!: into@7)	SVC (V: come@21, S: sins@19, A-: then@16, A?: how@17, XCOMP: accepted@25)
+298	SV (V: Place@5, S: album@3)	SVOC (C: Silent@10, V: Is@9, S: Sun@8, A?: Where@6, A?: by@12, O: Place@5)
+299	
+300	SVO (V: describes@7, S: song@6, A?: At@1, O: vice@10)	SVC (S: vice@10, V: "is", C: name@16)
+301	SVO (S: Fraction@3, V: "has", O: Casanova@7)	SVO (V: named@14, S: issues@12, A?: In@1, A?: in@16, A?: for@19, XCOMP: beginning@26)
+302	
+303	
+304	SVA (V: personified@10, S: sins@8, A?: In@1, A!: by@11)
+305	SVC (S: character@3, V: "is", C: Jack@5)	SVO (V: represents@7, S: character@3, O: sin@9)
+306	EXISTENTIAL (V: was@2, S: series@4)	SVA (V: "be made", S: film@8, A!: in@10)	SVO (V: bore@13, S: series@4, O: title@16)	SVA (V: began@24, S: Sins@21, A!: with@25)	SVC (S: Envy@26, V: "is", C: 1917@28)	SVA (V: "be continued", S: Envy@26, A!: with@32)	SVC (S: Pride@33, V: "is", C: 1917@35)	SVC (S: Pride@33, V: "is", C: Greed@38)	SVC (S: Pride@33, V: "is", C: Sloth@43)	SVC (S: Greed@38, V: "is", C: 1917@40)	SVC (S: Sloth@43, V: "is", C: 1917@45)	SVC (S: Passion@48, V: "is", C: 1917@50)	SVC (S: Wrath@54, V: "is", C: 1917@56)	SVA (V: "be titled", S: synonymously@63)	SVC (S: Sin@67, V: "is", C: 1917@69)
+307	SVA (V: given@5, S: installment@3, A!: that@6)	SVC (V: considered@11, S: Gluttony@9, ACOMP: offensive@13)	SVA (V: come@20, S: producers@17, A!: with@22)
+308	SVC (S: Bedazzled@7, V: "is", C: 1967@9)	SVO (V: includes@16, S: version@3, O: sins@19)	SVC (S: Humphries@30, V: "is", C: Alba@34)	SVC (S: Vanity@36, V: "is", C: McGarry@44)
+309	SVO (S: Devil@4, V: "has", O: Nightmare@6)	SVC (S: Nightmare@6, V: "is", C: 1971@8)	SVO (V: kills@15, S: succubus@13, O: group@17)	SVC (C: guilty@23, V: are@21, S: tourists@19, A?: of@24)
+310	SVC (S: Sins@5, V: "is", C: 1971@7)	SVC (C: film@12, V: is@9, S: Sins@5, A?: built@13)	SVOC (C: referencing@27, V: is@9, S: Sins@5, A?: built@13, O: film@31)	SVA (V: "be built", S: film@12, A!: around@14)
+311	SVC (S: film@3, V: "is", C: 1995@6)	SVA (V: "be directed", S: Walker@13, A!: by@16)	SVOO (V: punishes@31, S: killer@30, O: transgressors@32, A?: through@39, IO: Pitt@22)	SVO (S: his@40, V: "has", O: crimes@41)
+312	EXISTENTIAL (V: are@11, S: songs@13, A?: In@1)	SVA (V: "be based", S: songs@13, A!: on@15)	SVO (S: artists@22, V: "has", O: names@24)	SVA (V: "be based", S: names@24, A!: on@26)
+313	EXISTENTIAL (V: are@11, S: mini-bosses@13, O: Binding@6)	SVA (V: "be based", S: mini-bosses@13, A!: on@15)
+314	SVOO (V: uses@14, S: Penance@13, O: attacks@16, IO: VII@10)	SVA (V: "be named", S: attacks@16, A!: after@18)	SVC (S: Wrath@24, V: "is", C: End@26)	SVC (S: Gluttony@28, V: "is", C: Charge@34)	SVC (S: Gluttony@28, V: "is", C: Thunder@38)	SVC (S: Gluttony@28, V: "is", C: Defense@42)	SVC (S: Gluttony@28, V: "is", C: Wings@30)
+315	SVC (S: Demonophobia@6, V: "is", C: boss@9)	SVC (S: character@12, V: "is", C: Sakuri@14)	SVO (V: faces@16, S: character@12, O: boss@9)	SVO (V: represent@17, S: Demonophobia@6, A?: In@1, O: sin@21)
+316	SVA (V: named@3, S: Each@1, A!: after@4)
+317	SV (V: titled@6, S: they@3, A?: simply@5)	SV (V: called@8, S: they@3, A?: simply@5)	SVC (S: Ridz@13, V: "is", C: demon@18)	SVO (V: aids@20, S: demon@18, O: Sakuri@21)
+318	SVA (V: represented@15, S: sins@13, A?: In@1, A!: by@16)	SVA (V: by@26, S: sins@13, A?: In@1, A?: by@16, A!: bells@29)
+319	SVO (V: personify@4, S: angels@2, O: sins@6)	SVA (V: featured@9, S: angels@2, A?: also@8, A!: heavily@10, A?: in@11)	SVOC (C: important@20, V: are@19, S: they@18, A?: in@16, A?: in@21, O: manga@14)
+320	SVO (S: Online@3, V: "has", O: Bifrost@5)	SV (V: are@6, S: monsters@7, A?: In@1)	SVA (V: hunted@11, S: monsters@7, A!: for@12)
+321	SVA (V: turned@4, S: Fragments@1, A!: into@5)
+322	SVO (V: defeat@14, S: protagonist@12, O: corrupted@18)
+323	
+324	SVC (S: II@2, V: "is", C: seven@17)	SVC (S: II@2, V: "is", C: Paradise@26)	SVA (V: based@9, S: Stairway@5, A!: on@10)	SVA (V: "be named", S: seven@17, A!: after@19)
+325	SVC (S: ni@6, V: "is", C: Stakes@10)	SVA (V: named@14, S: ni@6, A?: In@1, A!: after@15)	SVO (V: embody@24, S: ni@6, A?: In@1, A?: after@15, O: sin@27)	SVO (S: Binsfeld@17, V: "has", O: demons@20)
+326	SVO (S: Their@1, V: "has", O: ages@2)	SVO (V: follow@3, S: ages@2, O: order@5)	SVC (S: Lucifer@9, V: "is", C: Pride@11)	SVOC (C: eldest@15, V: being@13, S: Lucifer@9, A?: youngest@22, O: Purgatorio@7)	SVC (S: Asmodeus@17, V: "is", C: Lust@19)
+327	SVOO (V: represents@17, S: each@14, O: one@18, IO: Lords@12)	SVC (C: group@26, V: are@23, S: Lords@12, A?: In@1, A?: of@27)
+328	SVA (V: used@12, S: sin@10, A?: In@1, A!: as@13, A?: with@31)	SVC (S: group@21, V: "is", C: homunculi@28)	SVA (V: "be based", S: personality@35, A!: on@40)	SVO (V: named@46, S: they@44, O: sin@42)
+329	
+330	SVC (S: one@8, V: "is", C: names@17)	SVO (S: their@15, V: "has", O: names@17)
+331	SVO (V: Makes@3, S: Watson@2, CCOMP: fits@8)	SVO (V: fits@8, S: World@5, A?: Substantially@6, A?: Better@7, O: sins@10, A?: into@11, A?: with@19)	SVA (V: "be combined", S: Greed@20, A!: as@24)
+332	SVC (S: dødssyndene@8, V: "is", C: Sins@13)	SVO (V: attempts@18, S: Schau@17, A?: In@1, XCOMP: invoke@20)
+333	SVA (V: talking@4, S: Schau@2, A?: When@1, A!: about@5)	SVC (S: Senkveld@12, V: "is", C: Night@15)	SVO (V: said@19, S: he@18, A?: talking@4, CCOMP: is@32)	SVA (V: end@25, S: I@22, A!: in@27)	EXISTENTIAL (V: is@32, S: Hell@34, A?: end@25, A-: then@30)
+334	SVO (V: caused@4, S: program@3, O: deal@7)	SVA (V: "be surrounding", S: debate@10, O: issue@13)
+335	SVO (V: represents@11, S: villain@10, A?: In@1, O: one@12)
+336	SVA (V: "be called", S: miniseries@5)	SVA (V: aired@10, S: Sins@9, A!: on@11)	SVO (S: Wasserman@21, V: "has", O: series@23)
+337	SVC (S: Virtues@12, V: "is", C: film@15)	SVC (S: Refoule@26, V: "is", C: F.@28)
+338	
+339	
+340	
+341	SVC (S: Volume@1, V: "is", C: pp644@4)
+342	
+343	SVC (S: Schumacher@1, V: "is", C: Meinolf@3)	SVC (S: Meinolf@3, V: "is", C: 2005@5)
+344	
+345	
+346	
+347	
+348	SVO (S: Traveller@37, V: "has", O: Guide@39)	SVC (S: Spenser@64, V: "is", C: Press@68)
+349	SVC (S: DeYoung@4, V: "is", C: Vices@7)	SVC (S: Look@11, V: "is", C: Rapids@23)	SVO (S: Their@18, V: "has", O: Remedies@19)	SVC (S: Schimmel@30, V: "is", C: Sins@35)	SVC (S: Reflections@43, V: "is", C: Press@54)

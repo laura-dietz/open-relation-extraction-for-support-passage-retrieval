@@ -1,0 +1,1135 @@
+0	SVA (V: "be known", S: Christianity@11, A!: also@18, A?: as@20)	SVC (C: church@32, V: is@26, S: Christianity@11)	SVO (S: world@28, V: "has", O: church@32)
+1	
+2	SVO (V: says@12, S: Church@4, CCOMP: are@14)	EXISTENTIAL (V: are@14, S: total@16)
+3	
+4	SVO (V: expected@3, S: This@1, XCOMP: exceed@5)
+5	
+6	EXISTENTIAL (V: are@4, S: figures@7, A?: However@1)
+7	
+8	SVO (V: says@12, S: Church@4, CCOMP: are@14)	EXISTENTIAL (V: are@14, S: total@16)
+9	
+10	SVO (V: expected@3, S: This@1, XCOMP: exceed@5)
+11	
+12	EXISTENTIAL (V: are@4, S: figures@7, A?: However@1)
+13	SVA (V: "be Led", S: April@10, A!: by@14)	SVO (V: defines@19, S: it@18, A?: Catholics@5, O: mission@21, A?: as@22)	SVO (S: its@20, V: "has", O: mission@21)	SVC (S: Christ@28, V: "is", C: http@30)
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	SVO (S: its@3, V: "has", O: sacraments@4)	SV (V: http@5, S: 2011-06-30@1)
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	SVA (V: is@6, S: Church@5, A!: among@7)	SVO (V: played@16, S: Church@5, A?: among@7, O: role@19)
+39	SVC (S: O'Collins@1, V: "is", C: p@3)
+40	
+41	SVC (S: Woods@1, V: "is", C: T.@3)
+42	
+43	SVO (V: teaches@2, S: It@1, CCOMP: church@9)	SVC (C: church@9, V: is@5, S: it@4, A?: founded@10, CCOMP: successors@20)	SVA (V: "be founded", S: church@9, A!: by@11)	SVO (S: its@16, V: "has", O: bishops@17)	SVC (C: successors@20, V: are@18, S: bishops@17, A?: of@21)	SVO (S: Christ@22, V: "has", O: apostles@24)	SVC (C: successor@32, V: is@29, S: Pope@28, A?: to@33)
+44	
+45	
+46	
+47	
+48	
+49	
+50	
+51	
+52	
+53	
+54	
+55	SVO (V: imply@41, S: Gaudium@3, O: transmission@43)	SVO (S: Apostles@46, V: "has", O: power@49)	SVO (S: their@51, V: "has", O: successors@52)	SVC (S: Gaudium@55, V: "is", C: Appendix@59)
+56	SVO (V: maintains@4, S: doctrine@3, CCOMP: infallible@9)	SVC (C: infallible@9, V: is@8, S: Church@7, A?: teaches@13)	SVO (V: teaches@13, S: it@11, A?: when@10, A?: definitively@12, O: doctrine@15)
+57	
+58	
+59	SVA (V: "be handed", S: faith@23, A!: by@26)	SVA (V: "be willed", S: apostles@28, XCOMP: confer@37)	SVC (S: apostles@28, V: "is", C: Christ@30)	SVC (C: Truth@34, V: is@32, S: Christ@30)	SVO (S: his@43, V: "has", O: infallibility@45)
+60	
+61	
+62	SVA (V: "be handed", S: faith@23, A!: by@26)	SVA (V: "be willed", S: apostles@28, XCOMP: confer@37)	SVC (S: apostles@28, V: "is", C: Christ@30)	SVC (C: Truth@34, V: is@32, S: Christ@30)	SVO (S: his@43, V: "has", O: infallibility@45)
+63	
+64	
+65	
+66	
+67	
+68	SVO (V: _@4, S: councils/ii@3, O: vatican_council@5)
+69	
+70	SVC (S: III@6, V: "is", C: paragraph@8)
+71	
+72	SVO (V: threaten@7, S: errors@5, O: flock@9)	SVO (S: their@8, V: "has", O: flock@9)
+73	
+74	SVO (V: _@4, S: councils/ii@3, O: vatican_council@5)
+75	
+76	SVC (S: III@6, V: "is", C: paragraph@8)
+77	
+78	SVO (V: threaten@7, S: errors@5, O: flock@9)	SVO (S: their@8, V: "has", O: flock@9)
+79	SVC (S: Church@5, V: "is", C: para@7)
+80	SVA (V: linked@10, S: mission@5, A!: to@11)	SVA (V: "be established", S: covenant@17, A!: by@19, A?: with@21)	SVO (S: his@22, V: "has", O: people@23)
+81	SVC (C: task@6, V: is@2, S: It@1, A?: preserve@8)	SVO (S: Magisterium@4, V: "has", O: task@6)	SVA (V: "be preserve", S: task@6, O: people@11, A!: from@12)	SVA (V: "be preserve", S: task@6, O: people@11, A!: from@12, IO: them@19, O: possibility@22)	SVO (S: God@9, V: "has", O: people@11)
+82	SVA (V: aimed@10, S: duty@5, A-: Thus@1, A!: at@11)	SVA (V: abides@20, S: People@17, A!: in@21)	SV (V: liberates@25, S: that@24)
+83	SVO (V: endowed@7, S: Christ@6, A?: fulfill@2, O: shepherds@11, A?: with@12, A?: in@17)	SVO (S: Church@9, V: "has", O: shepherds@11)
+84	SVO (V: takes@6, S: exercise@2, O: forms@8)	SVA (V: centred@14, S: worship@12, A!: on@15)	SVOC (V: teaches@23, S: Church@22, A?: in@19, CCOMP: transubstantiated@31, O: Eucharist@17)	SVA (V: transubstantiated@31, S: bread@27, A!: into@32)
+85	SVO (V: holds@3, S: Church@2, O: Mary@7)
+86	SVA (V: "be concerning", S: beliefs@2, CCOMP: include@5)	SVO (V: include@5, S: Mary@4, O: Conception@8, A?: at@12)	SVO (S: her@6, V: "has", O: Conception@8)	SVO (S: her@16, V: "has", O: life@18)
+87	
+88	
+89	
+90	SVO (S: Peter@11, V: "has", O: Basilica@13)	SVO (V: used@18, S: Basilica@13, A?: often@17, XCOMP: symbolise@20)
+91	SVA (V: shown@3, S: It@1, A!: here@4, A?: with@5)	SVA (V: "be dove", S: haloed@7, A!: in@14, A?: by@19)
+92	SVA (V: "be derived", S: term@2, A!: from@8)	SVC (S: καθολικός@12, V: "is", C: katholikos@14)	SVO (V: means@18, S: καθολικός@12, XCOMP: general@24)	SVO (V: used@29, S: term@2, A?: first@28, XCOMP: describe@31)
+93	SVC (S: MacCulloch@1, V: "is", C: Christianity@3)	SVC (S: MacCulloch@1, V: "is", C: p@5)
+94	
+95	SVC (C: equivalent@5, V: is@4, S: katholikos@3, A?: to@6)	SVC (S: καθόλου@7, V: "is", C: katholou@9)	SVC (S: ὅλου@19, V: "is", C: kath@21)
+96	
+97	
+98	
+99	
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	SV (V: means@9, S: Church@7, A-: Thus@2, A?: roughly@8)
+109	SV (V: Church@6, S: combination@2)	SVA (V: found@14, S: Church@6, A!: for@15, A?: written@26)	SVA (V: "be written", S: Church@6, A!: about@27)
+110	SV (V: run@3, S: words@2)	SVO (V: appear@10, S: bishop@8, O: Wheresoever@6)	EXISTENTIAL (V: let@13, S: Wheresoever@6, CCOMP: be@16)	SVA (V: be@16, S: people@15, A!: as@19)	SV (V: be@23, S: Jesus@21, A?: where@20)	SVO (S: Church@32, V: is@26, O: run@3)
+111	
+112	SVOO (V: see@5, S: we@4, O: Church@10, IO: Cyril@1)	SVA (V: "be identify", S: Church@10, O: church@15, A!: from@16)
+113	SV (V: writes@3, S: Cyril@2)	SVA (V: if@7, S: Cyril@2, A!: sojourning@11)	SVC (S: sojourning@11, V: "is", C: inquire@16)	SVO (S: Lord@21, V: "has", O: house@23)	SVO (V: is@24, S: house@23, A?: where@19, A?: for@26, O: simply@18)	SVO (S: their@36, V: "has", O: dens@38)	SVC (S: dens@38, V: "is", C: houses@40)	SV (V: is@50, S: church@49, A?: where@47)	SVC (C: Church@57, V: is@54, S: church@49, A?: where@47, A?: where@53)
+114	SV (V: is@3, S: name@6, A?: For@1)	SVO (V: all@15, S: mother@12, O: name@6)
+115	
+116	
+117	
+118	SVA (V: remained@11, S: churches@9, A!: in@12, A?: with@14)	SVC (S: diocese@21, V: "is", C: patriarch@33)	SVC (S: diocese@21, V: "is", C: Pope@29)	SVO (S: its@25, V: "has", O: bishop@26)	SVO (V: continued@35, S: churches@9, A?: Since@1, XCOMP: call@37, A?: known@57)	SVO (V: rejected@48, S: churches@46, O: authority@53)	SVO (S: Pope@50, V: "has", O: authority@53)	SVA (V: known@57, S: churches@46, A?: generally@55, A!: as@58)	SV (V: Orthodox@65, S: churches@46, A?: generally@55, A?: as@58)
+119	SVO (V: continued@11, S: Church@10, A?: Following@1, XCOMP: use@13)	SVOO (V: distinguish@20, S: Catholic@17, O: itself@21, A?: from@22, IO: term@15)	SVA (V: split@28, S: denominations@26, A!: off@29)
+120	SVC (S: McBrien@1, V: "is", C: Richard@3)	SVC (S: Richard@3, V: "is", C: 2008@5)
+121	
+122	
+123	
+124	
+125	SV (V: available@3, S: version@2)
+126	SVA (V: use@8, S: he@7, A!: of@9)	SVA (V: "be Catholic", S: adjective@11, A!: as@15)	SVC (V: became@22, S: use@8, ACOMP: divisive@23, A?: after@25)
+127	
+128	SVA (V: claimed@7, S: West@6, A!: for@8)	SVO (V: appropriated@18, S: East@17, O: Church@22)
+129	SVO (V: retained@14, S: those@6, A?: In@1, O: Catholic@18, A?: called@30)	SVA (V: broke@25, S: churches@23, A!: with@26)	SVO (V: called@30, S: churches@23, XCOMP: Protestant@31)
+130	
+131	
+132	SVC (S: Vaticana@3, V: "is", C: 2003@5)
+133	
+134	SVC (C: term@5, V: is@2, S: It@1, A?: also@3)	SVO (V: used@9, S: VI@8, O: term@5, A?: signing@11)
+135	
+136	
+137	
+138	SVO (S: Pope@4, V: "has", O: signature@6)	SVA (V: appears@7, S: signature@6, A!: in@8)
+139	SVA (V: "be produced", S: documents@4, A!: by@6)	SVA (V: "be See", S: Holy@9, O: Examples@11)	SVA (V: "be show", S: Examples@11, CCOMP: united@76)	SVA (V: "be signed", S: declarations@26, A!: by@28, A?: with@32)	SVC (S: Catechism@44, V: "is", C: catechism@48)	SVC (S: Catechism@44, V: "is", C: states@59)	SVA (V: "be authorised", S: catechism@48, A!: by@50)	SVO (V: is@63, S: That@62, A?: called@67, O: Catechism@44)	SVO (V: called@67, S: we@65, A-: why@64, XCOMP: Catholics@69)	SVA (V: united@76, S: we@74, A!: to@77, A?: under@102)	SVA (V: refers@91, S: we@74, A?: to@77, A!: to@92, A?: as@95, A?: under@102)
+140	SVA (V: "be published", S: X@6, A!: in@8)	SVOC (V: used@11, S: Catechism@2, A?: also@10, O: term@13, XCOMP: distinguish@18)	SVA (V: are@27, S: communities@25, A!: in@29)
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	SVO (V: holds@2, S: Church@1, CCOMP: instituted@5)	SVO (V: instituted@5, S: Christ@4, O: _@8, A?: upon@9)
+149	
+150	SVO (S: Church@1, V: "has", O: hierarchy@3)	SVA (V: headed@5, S: hierarchy@3, A!: by@6, A?: pope@13)	SVC (S: pope@13, V: "is", C: position@16)	SVO (V: makes@18, S: position@16, XCOMP: leader@21)	SVA (V: leader@21, S: him@19, A!: of@22)	SVA (V: composed@30, S: Church@26, A!: of@31, A?: in@40)
+151	
+152	SVA (V: known@9, S: office@4, A!: as@10)
+153	SVO (S: His@1, V: "has", O: jurisdiction@3)	SVO (V: called@6, S: jurisdiction@3, A?: often@5, XCOMP: See@10)	SV (V: See@10, S: Holy@9)	SV (V: See@23, S: Apostolic@22)
+154	SVC (S: Pelikan@2, V: "is", C: University@5)	SVC (S: Pelikan@2, V: "is", C: p@14)
+155	SVC (S: Feduccia@3, V: "is", C: editor@5)	SVC (S: Readings@10, V: "is", C: ISBN@21)	SVC (S: Readings@10, V: "is", C: p@25)	SVO (S: Mary@17, V: "has", O: ISBN@21)
+156	
+157	SVC (C: Curia@10, V: is@7, S: Accessed@1)	SVC (S: Curia@10, V: "is", C: body@15)	SVO (V: administers@17, S: body@15, O: business@20)
+158	SVC (C: head@5, V: is@3, S: pope@2, A?: also@4, A?: of@6)	SVC (S: head@5, V: "is", C: http@13)
+159	
+160	
+161	
+162	
+163	
+164	SVA (V: enclaved@6, S: city-state@4, A?: entirely@5, A!: within@7)
+165	SVA (V: are@20, S: members@13, A!: under@21)	SVO (V: meet@24, S: members@13, A?: in@25, XCOMP: elect@32)
+166	SVC (S: Duffy@1, V: "is", C: 1997@3)	SVC (S: Duffy@1, V: "is", C: p@6)
+167	SVC (C: rank@7, V: is@5, S: Cardinal@4, A?: of@8)	SVA (V: "be bestowed", S: honour@9, A!: by@11)	SVA (V: "be serving", S: bishops@25, A!: in@27)
+168	SVA (V: "be known", S: election@3, A!: as@6)	SVO (V: elect@13, S: election@3, A?: theoretically@12, O: Catholic@16, A?: as@17, A?: elevated@27)	SVC (C: elevated@27, V: been@26, S: Cardinals@24, A?: to@28)
+169	SVC (S: Duffy@1, V: "is", C: 1997@3)	SVC (S: Duffy@1, V: "is", C: pp@6)
+170	SVO (V: made@13, S: Church@11, O: 417@1, A?: of@15)	SVO (V: accepts@24, S: each@21, O: paramountcy@26)
+171	
+172	SVO (V: _@4, S: councils/ii@3, O: vatican_council@5)
+173	
+174	
+175	SVO (V: _@4, S: councils/ii@3, O: vatican_council@5)
+176	
+177	SVA (V: "be known", S: churches@9, A!: also@11, A?: by@13)	SVOC (C: communities@22, V: are@21, S: churches@9, A?: of@23, O: II@5)	SVO (S: Christians@25, V: "has", O: forms@27)	SVO (V: reflect@30, S: forms@27, O: influences@35)
+178	SVO (V: iuris@6, S: sui@5, A?: In@1, CCOMP: headed@9)	SVA (V: headed@9, S: church@7, A!: by@10)	SVC (S: patriarch@12, V: "is", C: Canon@20)
+179	SVO (S: its@11, V: "has", O: organisation@13)	SVO (S: its@24, V: "has", O: spirituality@25)
+180	SVC (C: Church@8, V: is@5, S: largest@2)	SVO (V: reports@10, S: Church@8, O: followers@14)
+181	SVC (C: head@7, V: is@6, S: Pope@2, A?: of@8)	SVA (V: developed@14, S: Church@11, A!: in@15, A?: before@18)
+182	SVOC (V: considered@4, S: Church@3, O: itself@5, XCOMP: branch@12)	SVC (S: branch@12, V: "is", C: heritage@18)	SVA (V: "be shared", S: beliefs@21, A!: by@25)	SVO (V: trace@30, S: denominations@28, O: originals@32, A?: to@33)	SVO (S: their@31, V: "has", O: originals@32)
+183	
+184	
+185	
+186	
+187	SV (V: =@14, S: HQ@11)	SV (V: =@2, S: aspx?ID@1)
+188	
+189	
+190	
+191	SV (V: =@14, S: HQ@11)	SV (V: =@2, S: aspx?ID@1)
+192	
+193	SVO (V: follow@13, S: Statistics@5, O: traditions@15)	SVO (V: composed@23, S: Statistics@5, O: traditions@15, A?: of@24)	SVA (V: remained@30, S: Christians@26, A?: always@29, A!: in@31, A?: with@34)	SVO (V: chosen@41, S: who@39, XCOMP: reenter@43)
+194	SVA (V: governed@6, S: Churches@4, A!: by@7)	SVA (V: elected@12, S: patriarch@9, A!: by@13)	SVC (S: church@21, V: "is", C: Canons@25)
+195	SVA (V: headed@3, S: others@1, A!: by@4)	SVC (S: archbishop@7, V: "is", C: others@13)	SVO (V: consist@25, S: Canons@21, A?: of@26, O: are@14)
+196	SVC (S: CCEO@1, V: "is", C: Curia@7)	SVOC (V: has@8, S: CCEO@1, O: department@11, O: Congregation@14)	SVA (V: "be maintain", S: Congregation@14, O: relations@22)
+197	SVA (V: served@10, S: countries@2, A!: by@11)	SVA (V: "be known", S: church@14, A!: as@16)
+198	SVA (V: united@4, S: diocese@2, A!: with@5)
+199	SVO (V: comprised@14, S: Church@7, A?: As@1, O: dioceses@16)
+200	SVC (S: Vatican@1, V: "is", C: Pontificio@4)	SVC (S: Vatican@1, V: "is", C: p@7)
+201	
+202	SVA (V: organised@11, S: bishops@2, A?: often@10, A!: into@12)	SVC (S: Vaticana@29, V: "is", C: 2010@31)	SVA (V: "be served", S: areas@50, A!: by@52)
+203	SVA (V: "be called", S: communities@8)	SVA (V: staffed@13, S: Dioceses@1, A!: by@14)	SVO (V: lay@23, S: Dioceses@1, A?: by@14, O: ministers@25)	SVA (V: staffed@13, S: further@3, A!: by@14)	SVO (V: lay@23, S: further@3, A?: by@14, O: ministers@25)	SVC (S: priests@18, V: "is", C: deacons@20)
+204	SVC (S: Barry@1, V: "is", C: p@3)
+205	SVC (C: responsible@4, V: are@3, S: Parishes@2, A?: for@5)
+206	SVA (V: enter@13, S: Catholics@2, A!: into@14, A?: on@18, A?: as@23)	SV (V: by@31, S: Catholics@2, A?: into@14, A?: on@18, A?: as@23)	SVO (S: their@53, V: "has", O: desire@54)	SVA (V: "be follow", S: desire@54, CCOMP: counsels@60)	SVA (V: counsels@60, S: evangelical@59, A!: of@61)
+207	
+208	
+209	SVC (C: Benedictines@9, V: are@7, S: Examples@1)	SVC (S: Benedictines@9, V: "is", C: Franciscan@18)	SVC (S: Benedictines@9, V: "is", C: Missionaries@21)	SVC (S: Benedictines@9, V: "is", C: Carmelites@12)	SVC (S: Benedictines@9, V: "is", C: Dominicans@15)
+210	SVC (C: billion@17, V: was@15, S: Catholicism@1)
+211	SVC (S: Froehle@11, V: "is", C: pp@13)
+212	
+213	
+214	
+215	
+216	
+217	SVC (C: billion@10, V: was@8, S: membership@7, A?: 2008-05-03@1)
+218	
+219	
+220	
+221	SVC (C: 33.02@4, V: was@3, S: increase@2)
+222	
+223	
+224	SVC (C: 15.91@3, V: was@2, S: It@1)
+225	
+226	
+227	
+228	SVC (C: 17.77@7, V: were@6, S: Catholics@5, A?: As@1)
+229	
+230	
+231	
+232	
+233	
+234	
+235	SVO (S: world@3, V: "has", O: Catholics@5)	SVA (V: grew@12, S: proportion@8, A?: Of@1, A!: from@13)
+236	
+237	SVA (V: "be living", S: those@6, A!: in@8)	SVA (V: fell@10, S: those@6, A!: from@11)
+238	
+239	
+240	
+241	
+242	
+243	SV (V: =@2, S: index@1)
+244	
+245	
+246	
+247	SVO (V: =@2, S: index@1, O: Membership@13, A?: in@14)	SVA (V: attained@19, S: =@2, A!: through@20, A?: for@28)	SVA (V: "be baptised", S: individuals@29, A!: previously@30, A?: in@32)
+248	
+249	
+250	SVO (V: left@10, S: someone@8, A?: formally@9, O: Church@12)	SVA (V: noted@17, S: fact@15, A?: For@1, A?: until@4, A?: left@10, A!: in@18)	SVO (S: person@23, V: "has", O: baptism@25)
+251	
+252	SVC (C: Asia@7, V: been@6, S: areas@4, A?: with@11)
+253	
+254	
+255	SVC (V: remained@9, S: numbers@7, A?: In@1, ACOMP: same@12, A?: was@16)	EXISTENTIAL (V: was@16, S: 6.8@18)
+256	
+257	
+258	SVO (V: show@5, S: numbers@4, O: Service@12)
+259	
+260	SVO (V: show@9, S: numbers@8, O: Service@16)
+261	
+262	SVO (V: exist@24, S: forms@18, O: id@1)	SVO (V: reflect@32, S: rites@28, O: diversity@36)
+263	SVC (C: patrimony@31, V: is@22, S: rite@21)	SVO (S: its@45, V: "has", O: manner@47)	SVO (V: manifested@53, S: manner@47, A?: by@43, A?: in@54, O: people@41)	SVC (C: liturgicum@67, V: is@62, S: patrimony@31)
+264	SVC (C: heritage@14, V: is@5, S: rite@4, A?: differentiated@16)	SVA (V: "be differentiated", S: heritage@14, A!: by@17)	SVO (S: peoples@18, V: "has", O: culture@20)	SVO (V: finds@26, S: that@25, O: expression@27)	SVO (S: Church@32, V: "has", O: way@35)
+265	SVA (V: limited@6, S: term@3, A?: often@5, A!: to@7)
+266	SVC (C: Rite@9, V: is@6, S: liturgy@5)	SVA (V: are@22, S: rites@21, A?: in@13, A!: in@23)	SVO (V: have@31, S: Churches@30, O: rites@33)
+267	SVC (C: centre@13, V: is@11, S: Mass@5, A?: In@1, A?: of@14)
+268	SVA (V: teaches@4, S: Church@3, A!: that@5)	SVO (V: transubstantiated@15, S: Mass@8, A?: supernaturally@14, A?: into@16, A?: by@23, O: each@7)	SVA (V: "be spoken", S: consecration@27, A!: by@29)
+269	SVA (V: drawn@11, S: words@7, A!: from@12)
+270	SVO (V: teaches@37, S: 1Corinthians@12, CCOMP: established@40)	SVO (V: established@40, S: Christ@39, O: Covenant@43, A?: with@44, A?: through@46, A?: at@52, A?: described@58)
+271	
+272	
+273	
+274	
+275	
+276	
+277	SVC (S: Encyclopedia@4, V: "is", C: 1913@6)
+278	SVC (S: Wikisource@2, V: "is", C: Library@6)
+279	SVC (S: Oct@2, V: "is", C: UTC@7)
+280	SVC (S: Foundation@2, V: "is", C: Inc.@4)
+281	
+282	
+283	SVC (S: _@4, V: "is", C: 1913@6)	SV (V: =@12, S: Canon_of_the_Mass@9)
+284	
+285	
+286	
+287	
+288	SVA (V: "be left", S: 1@2, O: center@4, A!: teaches@8)	SVO (V: teaches@8, S: Church@7, CCOMP: present@12)	SVC (C: present@12, V: is@11, S: Christ@10, A?: in@13)	SVC (S: Eucharist@15, V: "is", C: Kreeft@17)	SVC (S: Eucharist@15, V: "is", C: p@19)
+289	EXISTENTIAL (V: are@3, S: rules@5, O: 326@1)	SV (V: celebrate@9, S: who@7)	SVO (V: receive@13, S: who@11, O: Eucharist@15)
+290	SVA (V: celebrated@6, S: sacrament@2, A?: only@4, A!: by@7)
+291	SVC (C: conscious@4, V: are@3, S: Those@1, A?: of@5)	SVA (V: forbidden@14, S: Those@1, A!: from@15, A?: received@22)	SVO (V: received@22, S: they@20, O: absolution@23, A?: through@24)	SVC (S: Reconciliation@28, V: "is", C: Penance@30)
+292	SVO (V: obliged@4, S: Catholics@1, A?: normally@3, XCOMP: abstain@6)
+293	SVC (S: Kreeft@1, V: "is", C: p@3)
+294	SVO (V: permitted@5, S: Catholics@2, XCOMP: receive@7)	SVOC (V: lack@34, S: Catholics@2, XCOMP: receive@7, A-: thus@32, A?: also@33, O: Eucharist@37)	SVO (V: lack@24, S: churches@14, A?: in@17, O: sacrament@26)
+295	
+296	
+297	
+298	
+299	
+300	
+301	SVO (V: permitted@8, S: Protestants@4, A?: normally@7, XCOMP: receive@10)
+302	SVA (V: is@2, S: This@1, A!: seen@10)	SVC (V: seen@10, S: unity@4, ACOMP: necessary@12)	SVA (V: partake@16, S: one@14, A!: of@17)	SVO (S: Church@19, V: "has", O: sacraments@21)
+303	SVC (C: restrictive@22, V: is@20, S: Church@19, A?: less@21)
+304	
+305	
+306	
+307	
+308	
+309	
+310	
+311	SVA (V: dates@12, S: form@3, A!: back@13)	SVC (C: older@21, V: are@19, S: elements@18, A?: centuries@20)	SVA (V: "be used", S: rite@29, A!: by@33)	SVC (C: rite@29, V: is@25, S: Rite@24, A?: of@30, A?: used@32)
+312	SVO (S: Its@1, V: "has", O: use@2)	SVA (V: found@4, S: use@2, A!: worldwide@5)	SVA (V: "be originating", S: activity@10, A!: in@12, A?: throughout@16)
+313	
+314	
+315	
+316	
+317	
+318	
+319	
+320	
+321	SVC (S: edition@13, V: "is", C: Mass@17)
+322	SVC (S: Kreeft@1, V: "is", C: pp@3)
+323	SVO (V: found@20, S: #tag@4, O: 326@1, A?: in@21)
+324	SV (V: created@13, S: parishes@10)
+325	
+326	SVA (V: expected@4, S: refImplementation@2, A!: of@5, A?: for@11, A?: appropriate@15)	SVA (V: "be granted", S: authorisation@7, A!: in@9)	SVA (V: approved@25, S: groups@19, A!: for@26)	SVO (V: incorporates@43, S: rite@41, O: elements@44)
+327	
+328	
+329	
+330	SVC (S: rites@4, V: "is", C: non@6)	SVO (V: include@10, S: rites@4, O: Rite@13)
+331	SVOC (V: symbolizes@13, S: Cross@11, O: heritage@15, A?: in@25, CCOMP: similar@37)	SVC (C: similar@37, V: are@35, S: rites@29, A?: very@36, A?: to@38)	SVA (V: "be used", S: rites@45, A!: by@47)	SVA (V: developed@58, S: Churches@55, A?: historically@57, A!: in@59)
+332	SVC (C: groups@7, V: are@5, S: Churches@4, A?: of@8, A?: preserving@22)	SVO (V: restored@12, S: groups@7, O: communion@14, A?: with@15)	SVO (S: their@23, V: "has", O: identity@25)	SVO (V: broken@39, S: communion@35, A?: with@32, O: groups@31)
+333	SVA (V: "be used", S: rites@2, A!: by@4)	SVO (V: include@9, S: rites@2, O: rite@12)	SVC (S: rite@12, V: "is", C: rite@33)	SVC (S: rite@12, V: "is", C: rite@37)	SVC (S: rite@12, V: "is", C: rite@25)	SVC (S: rite@12, V: "is", C: rite@29)	SVO (S: its@15, V: "has", O: varieties@21)
+334	SVA (V: "be used", S: rites@7, A!: by@9)	SVC (C: subject@15, V: were@14, S: some@4, A?: In@1, A?: to@16)
+335	
+336	SVO (V: has@3, S: church@2, O: calendar@7)	SVO (S: its@4, V: "has", O: calendar@7)
+337	SVO (V: summarised@17, S: beliefs@11, A?: in@18, O: teaching@8)
+338	SVA (V: detailed@6, S: they@4, A?: For@1, A!: in@7)
+339	SVC (S: Marthaler@1, V: "is", C: http@12)
+340	
+341	
+342	
+343	
+344	
+345	SVA (V: "be Based", S: 2008-03-09@1, A!: on@3)	SVOC (V: believes@14, S: Church@13, CCOMP: 2008-03-09@1, CCOMP: guided@19)	SVA (V: guided@19, S: it@16, A?: continually@18, A!: by@20)	SVA (V: protected@26, S: it@16, A?: continually@18, A?: by@20, A-: so@25, A!: infallibly@27)
+346	SVO (V: teaches@4, S: Church@3, CCOMP: reveals@9)	SVO (V: reveals@9, S: Spirit@8, O: truth@12, A?: through@13)	SVO (S: God@10, V: "has", O: truth@12)
+347	
+348	
+349	
+350	
+351	
+352	
+353	SVA (V: consists@4, S: Scripture@3, A!: of@5)
+354	SVA (V: made@3, S: This@1, A!: of@5)	SVA (V: "be found", S: books@8, A!: in@10)	SVA (V: "be known", S: version@14, A!: as@21)	SVC (S: Schreck@24, V: "is", C: p@26)
+355	SVA (V: "be found", S: writings@8, A!: first@9, A?: in@11)	SVA (V: "be found", S: writings@8, A!: first@9, A?: in@11, A?: in@19)	SVO (S: Athanasius@20, V: "has", O: Letter@24)
+356	SVC (S: Schreck@1, V: "is", C: p@3)
+357	SVO (V: consists@7, S: Tradition@6, A?: of@8, XCOMP: handed@18)	SVA (V: "be believed", S: teachings@10, A!: by@12)
+358	SVC (S: Schreck@1, V: "is", C: pp@3)
+359	SVA (V: known@11, S: 15@1, A?: collectively@10, A!: as@12)	SVA (V: known@11, S: Scripture@5, A?: collectively@10, A!: as@12)	SVC (S: deposit@15, V: "is", C: fidei@21)
+360	SV (V: are@2, S: These@1)	SVC (S: magister@11, V: "is", C: Latin@13)	SVO (S: Church@21, V: "has", O: authority@24)	SVC (S: authority@24, V: "is", C: bishop@44)	SVA (V: exercised@28, S: authority@24, A!: by@29, A?: in@37, A?: with@39)
+361	SVC (S: Schreck@1, V: "is", C: p@3)
+362	SVO (V: _@11, S: thumbright200px@2, O: Church@15)	SVO (V: holds@16, S: _@11, CCOMP: is@19)	EXISTENTIAL (V: is@19, S: Father@36)	EXISTENTIAL (V: is@19, S: God@22)	SVA (V: exists@25, S: who@24, A!: as@26)	SVO (V: make@48, S: Spirit@45, O: Trinity@51)
+363	SVO (V: believe@2, S: Catholics@1, CCOMP: person@9)	SVC (S: person@9, V: "is", C: Son@16)	SVC (C: person@9, V: is@6, S: Christ@5, A?: of@10)
+364	SVA (V: "be known", S: event@3, A!: as@5)	SVC (V: became@18, S: God@17, A?: In@1, A?: through@9, ACOMP: united@19, A?: through@23, A?: in@28)
+365	SVC (C: divine@6, V: is@3, S: Christ@1, A?: therefore@2, A?: fully@5)
+366	SVO (V: taught@3, S: It@1, CCOMP: included@10)	SVO (S: Christ@5, V: "has", O: mission@7)	SVO (V: included@10, S: mission@7, CCOMP: giving@11)	SVO (S: his@13, V: "has", O: teachings@14)	SVA (V: "be follow", S: providing@16, A!: recorded@24)	SVO (S: his@17, V: "has", O: example@18)
+367	SVC (S: McGrath@1, V: "is", C: pp@3)
+368	
+369	SVO (V: teaches@3, S: Church@2, CCOMP: have@24)	SVC (S: passion@7, V: "is", C: suffering@9)	SVO (S: his@14, V: "has", O: crucifixion@15)	SVO (V: have@24, S: people@23, A?: through@5, A?: described@17, O: opportunity@26)	SVO (V: reconciled@38, S: people@23, A?: through@5, A?: described@17, O: opportunity@26, A-: so@35, A?: to@39)
+370	SVC (S: CCC@1, V: "is", C: Resurrection@5)	SVA (V: gained@8, S: CCC@1, A!: for@9, A?: of@20)	SVO (V: denied@16, S: immortality@14, A?: previously@15, A?: to@17, O: humans@10)
+371	SVC (S: Schreck@1, V: "is", C: p@3)
+372	
+373	SVO (S: Christ@7, V: "has", O: words@9)	SVO (V: enter@16, S: individual@14, A?: By@1, O: Kingdom@18)	SV (V: reign@27, S: Kingdom@18)
+374	SVO (S: people@4, V: "has", O: hearts@6)
+375	SVC (S: Barry@1, V: "is", C: p@3)
+376	SVO (S: Jesus@27, V: "has", O: death@29)	SVOC (C: fulfillment@34, V: are@32, S: death@29, O: belief@25, A?: of@35)	SVO (S: Testament@38, V: "has", O: prophecies@41)
+377	SVC (S: Kreeft@1, V: "is", C: pp@3)
+378	SVOC (V: professes@12, S: Church@11, XCOMP: Church@18, O: 71@1)	SVA (V: described@25, S: 71@1, A!: in@26, A?: as@30)
+379	
+380	SVO (V: teaches@3, S: church@2, CCOMP: Christ@9)	SVO (S: its@5, V: "has", O: founder@6)	SVC (C: Christ@9, V: is@7, S: founder@6)	SVOC (V: appointed@12, S: Christ@9, O: Apostles@15, XCOMP: continue@17)	SVO (S: his@18, V: "has", O: work@19)	SVO (S: Church@22, V: "has", O: bishops@25)
+381	SVC (S: Kreeft@1, V: "is", C: p@3)
+382	SVC (C: fact@15, V: is@12, S: quote@3, CCOMP: founded@21)	SVA (V: founded@21, S: Church@19, A!: by@22)	SVO (S: God@26, V: "has", O: invention@28)	SVC (S: invention@28, V: "is", C: man@31)
+383	SVO (V: gave@3, S: Father@2, O: authority@4, A?: to@5)	SVC (S: Christ@6, V: "is", C: Jn@8)	SVO (V: passed@18, S: Christ@17, O: it@19, A?: on@20)	SVO (S: his@22, V: "has", O: apostles@23)	SVC (S: apostles@23, V: "is", C: Lk@25)	SVO (V: passed@31, S: they@30, O: it@32, A?: on@33)	SVO (V: appointed@38, S: they@37, A?: as@39, O: successors@36)
+384	SVO (V: holds@4, S: belief@3, CCOMP: presence@12)	SVC (C: presence@12, V: is@9, S: Church@7, A?: of@13, A?: on@15)	SVC (S: Schreck@19, V: "is", C: p@21)
+385	SVO (V: have@8, S: bishops@7, O: succession@11, A?: from@12)
+386	SVC (S: Barry@1, V: "is", C: p@3)
+387	SVC (S: Bishop@6, V: "is", C: Pope@11)	SVO (V: considered@15, S: Bishop@6, O: successor@17)	SVOO (V: derives@28, S: Pope@27, A?: from@24, O: supremacy@30, A?: over@31, IO: successor@17)	SVO (S: his@29, V: "has", O: supremacy@30)
+388	
+389	SVC (S: Aug@2, V: "is", C: Church@7)	SV (V: is@8, S: further@9)
+390	SVC (S: XII@2, V: "is", C: Encyclical@4)	SVC (S: XII@2, V: "is", C: City@7)	SVC (S: XII@2, V: "is", C: 1943@9)
+391	SVOC (V: teaches@8, S: Church@7, CCOMP: exists@19, O: Aug@2)	SVA (V: exists@19, S: fullness@11, A!: in@21)	SVO (V: acknowledges@29, S: Church@28, CCOMP: make@35)	SVO (V: make@35, S: Spirit@33, O: use@36)	SVOC (V: bring@52, S: Spirit@33, O: use@36, A-: thus@51, O: people@53, A?: to@54)	SVA (V: "be separated", S: communities@39, A!: from@41, XCOMP: impel@45)
+392	SVO (V: teaches@2, S: It@1, CCOMP: saved@9)	SV (V: saved@7, S: anyone@4)	SVA (V: saved@9, S: anyone@4, A!: through@10)	SVA (V: saved@18, S: people@15, A!: voto@20)	SVC (C: present@34, V: are@33, S: conditions@29, A?: when@28)
+393	SVO (V: _@4, S: councils/ii@3, O: vatican_council@5)
+394	
+395	
+396	SVO (V: _@4, S: councils/ii@3, O: vatican_council@5)
+397	
+398	SVC (C: means@10, V: is@7, S: ignorance@4, A?: of@11)
+399	SVOO (V: instituted@13, S: Christ@12, O: sacraments@15, IO: priest@2)	SVOO (V: entrusted@17, S: Christ@12, O: sacraments@15, O: them@18, A?: to@19, IO: priest@2)
+400	SVC (S: Baptism@8, V: "is", C: Anointing@20)	SVC (C: Baptism@8, V: are@7, S: These@6)	SVC (S: Reconciliation@15, V: "is", C: Penance@17)
+401	SVC (C: rituals@4, V: are@2, S: Sacraments@1)	SVO (V: see@7, S: Catholics@6, O: rituals@4, A?: as@8)	SVO (S: God@11, V: "has", O: presence@13)	SVO (S: God@18, V: "has", O: grace@20)	SVO (V: receive@25, S: those@23, O: them@26, A?: with@27)	SVC (S: disposition@30, V: "is", C: operato@34)
+402	SVC (S: Kreeft@1, V: "is", C: pp@3)
+403	SVOC (V: categorises@10, S: Catechism@5, O: sacraments@12, A?: into@13, O: sacraments@32)	SVC (S: groups@15, V: "is", C: sacraments@19)
+404	SVO (V: reflect@4, S: groups@2, A?: broadly@3, O: stages@6)	SVO (S: people@8, V: "has", O: lives@13)	SVOC (V: intended@18, S: sacrament@16, O: lives@13, XCOMP: serve@20)
+405	
+406	
+407	
+408	
+409	
+410	
+411	SVC (C: first@12, V: is@10, S: Baptism@9, CCOMP: 2011-06-30@1, A?: of@13, A?: as@18)
+412	
+413	
+414	
+415	
+416	
+417	
+418	SVOC (V: washes@3, S: It@2, A?: away@4, O: sins@6, O: sin@10)
+419	
+420	
+421	
+422	
+423	
+424	
+425	SVO (V: makes@3, S: It@2, O: person@5)
+426	
+427	
+428	
+429	
+430	
+431	
+432	SVO (V: requires@9, S: gift@5, O: merit@11)	SV (V: baptised@20, S: person@17)	SVA (V: conferred@24, S: it@22, A!: on@26)	SVC (S: children@27, V: "is", C: http@29)
+433	
+434	
+435	
+436	
+437	
+438	SVO (V: have@6, S: they@5, O: sins@9)	SVO (V: need@11, S: 2011-06-30@1, A?: have@6, O: it@12, A?: on@13)
+439	
+440	
+441	
+442	
+443	
+444	
+445	SVO (V: marks@3, S: It@2, O: person@5, A?: permanently@6)	SVO (V: repeated@11, S: It@2, O: person@5, A?: permanently@6)
+446	
+447	
+448	
+449	
+450	
+451	
+452	SVA (V: recognises@5, S: Church@4, A!: conferred@9)	SVA (V: conferred@9, S: baptisms@8, A-: even@10, A?: by@11)	SVC (C: Catholics@16, V: are@14, S: people@12)	SVO (V: provided@20, S: 2011-06-30@1, CCOMP: intend@23)	SVO (V: intend@23, S: they@22, XCOMP: baptise@25)	SVO (V: does@33, S: Church@32, O: what@30, A?: baptises@36)	SV (V: baptises@36, S: she@35, A?: when@34)	SVO (V: use@42, S: they@41, O: formula@46)
+453	
+454	
+455	
+456	
+457	
+458	
+459	SVC (S: May@16, V: "is", C: http@31)	SVOC (C: sacrament@25, V: is@23, S: Eucharist@22, O: May@16)	SVO (V: completes@27, S: sacrament@25, O: initiation@29)
+460	
+461	
+462	
+463	
+464	
+465	SVC (C: perpetuation@4, V: is@2, S: 2011-06-30@1, A?: of@5, A?: on@10)	SVC (S: cross@12, V: "is", C: http@14)
+466	
+467	
+468	
+469	
+470	
+471	SVO (V: consumed@10, S: Christ@7, A?: in@5, O: banquet@4)
+472	
+473	
+474	
+475	
+476	
+477	
+478	SVOC (V: includes@6, S: sacrifice@4, A?: always@5, O: prayers@7, A?: by@24, O: http@42)	SVC (S: participants@30, V: "is", C: priest@35)
+479	
+480	
+481	
+482	
+483	
+484	SV (V: become@6, S: 2011-06-30@1, A?: by@3)	SVA (V: "be surpassing", S: way@10, O: understanding@12)	SVC (S: body@15, V: "is", C: http@22)
+485	
+486	
+487	
+488	
+489	
+490	SVA (V: "be known", S: change@3, A!: as@5)
+491	
+492	
+493	
+494	
+495	
+496	
+497	SVOO (V: sees@5, S: Church@4, O: sacrament@7, A?: required@11, IO: 2011-06-30@1)	SVA (V: "be given", S: grace@15, A!: in@17)
+498	
+499	
+500	
+501	
+502	
+503	
+504	SV (V: baptised@5, S: adults@3, A?: When@2)	SVA (V: given@10, S: confirmation@7, A?: baptised@5, A?: normally@9, A!: afterwards@12)
+505	SVC (S: Code@1, V: "is", C: Intratext.com@8)
+506	
+507	SVC (S: Code@1, V: "is", C: Intratext.com@8)
+508	SVA (V: followed@5, S: practice@4, A!: for@7)
+509	
+510	
+511	
+512	
+513	
+514	
+515	
+516	
+517	SVA (V: delayed@9, S: 2011-06-30@1, A!: old@13)	SVC (C: old@13, V: are@12, S: they@11)	SVA (V: are@21, S: they@20, A-: even@18, A!: in@22)	SVO (S: their@23, V: "has", O: teens@24)
+518	
+519	
+520	
+521	
+522	
+523	
+524	SVO (V: called@9, S: sacrament@7, A?: 2011-06-30@1, O: confirmation@10, A?: anointing@37)	SV (V: confirms@14, S: it@13)	SVO (V: strengthens@16, S: it@13, O: grace@18)	SVO (V: called@28, S: it@26, A?: in@22, O: chrismation@29)	SVC (C: anointing@37, V: is@35, S: rite@34, A?: of@38, A?: with@41)	SVC (S: chrism@42, V: "is", C: http@44)
+525	
+526	
+527	
+528	
+529	
+530	
+531	
+532	SVC (S: mixture@3, V: "is", C: balsam@13)	SVA (V: "be blessed", S: mixture@3, A!: by@16)
+533	
+534	
+535	
+536	
+537	
+538	
+539	SVO (V: receive@4, S: Those@2, O: confirmation@5)	SVA (V: be@7, S: Those@2, A!: in@8)	SVO (V: reached@19, S: those@16, O: age@21)	SVO (V: means@24, S: state@10, CCOMP: cleansed@30)	SVA (V: cleansed@30, S: they@26, A?: first@28, A!: spiritually@31, A?: by@32)	SVO (V: have@41, S: they@38, A?: also@40, O: intention@43)	SVOC (V: prepared@51, S: they@38, A?: also@40, O: intention@43, XCOMP: show@53)	SVO (S: their@55, V: "has", O: lives@56)	SVC (C: Christians@60, V: are@59, S: they@58)
+540	SVA (V: prays@5, S: believer@4, A!: in@6)
+541	
+542	
+543	
+544	
+545	
+546	
+547	
+548	
+549	SVA (V: exists@3, S: 2011-06-30@1, A!: for@4)
+550	
+551	
+552	
+553	
+554	
+555	
+556	
+557	
+558	SVA (V: acts@7, S: 2011-06-30@1, A!: by@9)	SVC (S: sinner@11, V: "is", C: examination@13)	SVC (S: examination@13, V: "is", C: contrition@17)	SVA (V: "be caused", S: damage@39, A!: by@41)	SVA (V: "be performed", S: determination@49)	SVA (V: "be performed", S: determination@49)
+559	
+560	
+561	
+562	
+563	
+564	
+565	
+566	
+567	SVC (S: sins@3, V: "is", C: sin@6)	SVA (V: confessed@10, S: sins@3, A!: within@11, A?: always@17, A?: recommended@30)	SV (V: recommended@30, S: confession@24, A?: also@28)
+568	
+569	
+570	
+571	
+572	
+573	
+574	
+575	
+576	SVO (V: bound@5, S: priest@3, A?: under@6, CCOMP: revealed@24)	SVA (V: "be maintain", S: penalties@9, O: seal@14)	SVA (V: revealed@24, S: secrecy@20, A!: to@25, A?: in@27)
+577	
+578	
+579	
+580	
+581	
+582	
+583	
+584	
+585	SVA (V: used@5, S: chrism@3, A!: for@7)	SV (V: repeated@15, S: sacraments@10)	SVC (S: baptism@17, V: "is", C: confirmation@19)	SVC (S: baptism@17, V: "is", C: ordination@21)	SVOC (V: used@28, S: oil@26, A?: used@5, A?: by@29, XCOMP: bless@35, O: 2011-06-30@1)	SVO (V: begun@48, S: Catholic@37, A?: of@41, XCOMP: be@50)
+586	
+587	
+588	
+589	
+590	
+591	
+592	
+593	
+594	SVA (V: "be known", S: sacrament@3, A!: as@6)	SVO (V: believed@13, S: sacrament@3, A?: 2011-06-30@1, XCOMP: give@15)	SVC (C: unable@28, V: is@27, S: person@26, XCOMP: make@30)
+595	
+596	
+597	
+598	
+599	
+600	
+601	
+602	
+603	SVA (V: reserved@6, S: it@3, A!: for@7)	SVO (V: administered@18, S: it@15, A?: reserved@6, A?: often@17, A?: as@19, O: 2011-06-30@1)
+604	SVC (C: sacrament@5, V: is@3, S: Orders@2, A?: in@6)	SVC (S: episcopate@12, V: "is", C: bishops@14)	SVC (S: presbyterate@17, V: "is", C: priests@19)	SVC (S: diaconate@22, V: "is", C: deacons@24)	SVA (V: "be serve", S: which@27, O: body@37, A!: by@38)	SVO (V: consecrates@28, S: sacrament@5, O: Christians@32, A?: serve@34)	SVO (V: deputes@30, S: sacrament@5, O: Christians@32, A?: serve@34)
+605	SV (V: defined@20, S: Church@18)	SVA (V: ordained@26, S: who@23, A!: into@27)
+606	SVC (C: restricted@12, V: are@10, S: priesthood@7, A?: In@1, A?: generally@11, A?: to@13)
+607	
+608	
+609	
+610	
+611	
+612	
+613	
+614	
+615	
+616	SVO (V: preach@13, S: deacons@5, CCOMP: baptise@17)
+617	
+618	
+619	
+620	
+621	SVO (V: administer@17, S: Committee@1, O: sacraments@19)	SVC (S: Reconciliation@24, V: "is", C: Penance@26)
+622	
+623	
+624	
+625	
+626	SVO (V: administer@4, S: bishops@2, O: sacrament@6)	SVO (V: ordains@12, S: sacrament@6, O: someone@13, A?: into@14)
+627	SVC (S: Barry@1, V: "is", C: p@3)
+628	
+629	SVA (V: "be understood", S: Marriage@1, A!: as@4)	SVC (S: woman@13, V: "is", C: http@15)
+630	
+631	
+632	
+633	
+634	
+635	
+636	
+637	
+638	
+639	
+640	
+641	
+642	SVO (V: recognise@6, S: church@3, O: divorce@7, A?: as@8)	SVOC (V: allows@14, S: church@3, O: divorce@7, A?: as@8, O: divorce@16, A?: as@18, A?: without@27)
+643	SVC (S: freedom@7, V: "is", C: church@19)	SVO (V: sees@12, S: it@11, O: that@10, A?: as@13)	SVO (V: established@21, S: freedom@7, O: requirements@24, A?: for@25)
+644	
+645	
+646	
+647	
+648	
+649	
+650	SVA (V: "be observe", S: Failure@2, O: regulations@8)	SVO (S: Church@6, V: "has", O: regulations@8)	SVC (C: grounds@21, V: be@20, S: Failure@2, A?: for@22)	SVC (S: grounds@21, V: "is", C: declaration@34)	SVA (V: "be referred", S: declaration@34, A!: usually@35, A?: to@37)
+651	
+652	
+653	
+654	
+655	
+656	
+657	SVO (V: teaches@4, S: Church@3, A?: 2011-06-30@1, CCOMP: receive@17)	SVO (V: receive@17, S: soul@12, A?: immediately@7, O: judgment@20, A?: from@21)
+658	SVC (S: CCC@1, V: "is", C: 1021@3)	SVC (S: 22@5, V: "is", C: teaching@9)	SVO (V: attests@11, S: 22@5, A?: also@10, A?: to@12, O: 1021@3)	SVOA (V: sit@18, S: Christ@16, A?: when@15, A!: in@19, O: day@14)
+659	SVOA (V: bring@11, S: judgment@3, A?: according@5, O: end@13, A!: to@14)	SVA (V: ruled@29, S: beginning@20, A!: by@30, A?: in@32)
+660	SVO (S: person@11, V: "has", O: soul@13)	SVO (V: judged@15, S: soul@13, A?: on@8, O: basis@7)	SVA (V: detailed@17, S: CCC@1, A!: in@18)	SVOC (V: lists@25, S: Matthew@22, O: works@26, XCOMP: performed@31)	SVA (V: "be considered", S: people@34, O: least@38)	SVO (S: Christ@40, V: "has", O: brothers@42)
+661	SVA (V: is@10, S: Matthew@1, A!: upon@11)	SVO (S: Christ@12, V: "has", O: words@14)	SVA (V: says@20, S: everyone@18, A!: to@21)	SVO (V: does@40, S: he@38, O: will@42)	SVO (S: my@44, V: "has", O: Father@45)	SVA (V: is@47, S: will@42, A!: in@48)
+662	SVA (V: reveal@11, S: Judgement@9, A?: According@1, A!: to@13)	SVO (S: its@14, V: "has", O: consequences@16)	SVO (V: done@22, S: person@20, O: consequences@16)	SVOC (V: failed@24, S: person@20, XCOMP: do@26, O: consequences@16)	SVO (S: his@28, V: "has", O: life@30)
+663	
+664	SVA (V: "be Depending", S: 397@1, A!: on@3)	SVA (V: "be rendered", S: judgement@5)	SVOO (V: enter@11, S: soul@9, O: one@12, IO: 397@1)	SVA (V: "be regarded", S: Maryis@21, A!: highly@22, A?: in@24)	SVO (V: _@28, S: Maryis@21, XCOMP: proclaiming@29)	SVO (S: her@30, V: "has", O: asTheotokosMother@31)
+665	SVC (S: Mary@11, V: "is", C: mother@13)	SVC (C: part@21, V: are@20, S: Devotions@17, A?: of@22)	SVC (C: distinct@27, V: are@20, S: Devotions@17, A?: of@22, A?: from@28)
+666	SVC (S: Schreck@1, V: "is", C: p@3)
+667	SVO (V: holds@6, S: Church@5, O: Mary@7, A?: in@17)
+668	SVA (V: "be concerning", S: beliefs@2, CCOMP: include@5)	SVO (V: include@5, S: Mary@4, O: Conception@8, A?: without@9)	SVO (S: her@6, V: "has", O: Conception@8)	SVO (S: her@24, V: "has", O: life@25)	SVA (V: defined@33, S: both@27, A?: infallibly@32, A!: as@34, A?: by@37)
+669	SVC (S: Barry@1, V: "is", C: p@3)
+670	SVO (S: her@7, V: "has", O: life@8)	SVO (S: her@11, V: "has", O: veneration@12)
+671	SVA (V: celebrated@6, S: feasts@4, A!: throughout@7)	SVA (V: honoured@14, S: she@12, A!: with@15)
+672	SVO (V: called@4, S: VI@3, O: Mother@6, A?: considered@20)	SVO (S: her@5, V: "has", O: Mother@6)	SVO (V: considered@20, S: she@18, A?: by@12, XCOMP: mother@25)
+673	SVO (S: her@3, V: "has", O: role@5)	SVC (S: Rosary@18, V: "is", C: Mary@22)	SVC (S: Rosary@18, V: "is", C: Regina@26)	SVC (C: practices@33, V: are@30, S: Rosary@18)
+674	SVC (S: Barry@1, V: "is", C: p@3)
+675	SVO (V: affirmed@7, S: Church@5, A?: 122@1, O: apparitions@10, A?: as@12)	SVC (S: Lourdes@14, V: "is", C: p@21)
+676	SVO (S: Our@6, V: "has", O: Lady@7)
+677	SVA (V: "be Pray", S: Wisconsin@1, A!: With@7)
+678	
+679	SVC (S: Eckholm@10, V: "is", C: Wisconsin@15)	SVA (V: "be Pray", S: Wisconsin@15, A!: With@21)
+680	
+681	SVOC (C: devotions@22, V: are@19, S: r@2, O: _@1)
+682	
+683	
+684	
+685	
+686	SVA (V: "be giving", S: History@2, O: theKeys@31)
+687	SVO (V: holds@5, S: tradition@2, CCOMP: founded@11)	SVA (V: founded@11, S: Church@9, A!: by@12, A?: in@15)
+688	SVC (S: records@4, V: "is", C: appointment@12)	SVO (S: Jesus@5, V: "has", O: activities@7)	SVO (S: his@11, V: "has", O: appointment@12)	SVO (S: his@18, V: "has", O: instructions@19)	SVA (V: "be continue", S: instructions@19, O: work@25)	SVO (S: his@24, V: "has", O: work@25)
+689	SVC (S: Kreeft@1, V: "is", C: p@3)
+690	
+691	SVC (S: Bokenkotter@1, V: "is", C: p@3)
+692	
+693	SVO (V: teaches@4, S: Church@3, CCOMP: signalled@23)	SVA (V: "be coming", S: the@6, A!: of@8, A?: upon@12)	SVA (V: "be known", S: event@18, A!: as@20)	SVO (V: signalled@23, S: the@6, A?: in@16, O: beginning@25)
+694	SVC (S: Barry@1, V: "is", C: p@3)
+695	
+696	SVO (V: teaches@3, S: doctrine@2, CCOMP: continuation@11)	SVC (C: continuation@11, V: is@9, S: Church@8, A?: of@12)
+697	SVO (V: interprets@2, S: It@1, CCOMP: found@7)	SVA (V: found@7, S: Confession@4, A!: in@8, A?: as@13)	SVO (S: Christ@14, V: "has", O: designation@16)	SVC (S: Apostle@21, V: "is", C: doctrine@40)	SVO (S: his@23, V: "has", O: successors@24)	SVA (C: head@34, V: "be head", S: Bishops@27, A!: of@35)	SVO (S: his@36, V: "has", O: Church@37)	SVA (V: "be known", S: doctrine@40, A!: as@42)
+698	SVA (V: recognizes@4, S: Church@3, A!: as@5)
+699	SVO (V: insists@5, S: it@3, A?: However@1, A?: still@4, CCOMP: obligated@10)	SVO (V: obligated@10, S: churches@8, XCOMP: defer@12)
+700	SVC (S: Hitchcock@1, V: "is", C: Geography@3)	SVC (S: Hitchcock@1, V: "is", C: p@10)	SVC (S: Religion@5, V: "is", C: 2004@7)
+701	
+702	SV (V: institutionalized@4, S: position@2)	SVC (V: looked@7, S: historians@6, CCOMP: institutionalized@4, A?: back@8, A?: in@20)	SVOC (V: recognized@10, S: historians@6, CCOMP: institutionalized@4, A?: back@8, O: Peter@11, A?: as@12, A?: in@20)	SVC (S: Norman@23, V: "is", C: Church@28)	SVC (S: History@31, V: "is", C: 2007@33)	SVC (S: History@31, V: "is", C: pp@36)
+703	SVC (S: 11@1, V: "is", C: 14@3)	SVO (V: founded@11, S: Church@9, A?: by@12, O: himself@14)	SVO (S: his@16, V: "has", O: lifetime@18)
+704	SVO (V: established@6, S: apostolate@4, A?: in@7, O: capital@13)	SVO (S: world@11, V: "has", O: capital@13)	SVO (V: inaugurated@18, S: church@16, A?: when@14, O: capital@13)	EXISTENTIAL (V: was@21, S: it@20, CCOMP: took@32)	SVO (V: took@32, S: universality@25, A?: obviously@31, O: directive@35)	SVO (S: its@33, V: "has", O: directive@35)	SVC (C: bishops@42, V: was@40, S: it@39, A?: of@43)
+705	SVO (V: und@7, S: Aufstieg@6, O: Principat@12)
+706	
+707	
+708	SVA (V: founded@17, S: The@11, A!: by@19)	SVA (V: "be und", S: Aufstieg@28, O: Principat@34)
+709	
+710	
+711	SV (V: founded@17, S: The@11)	SVO (V: facilitated@29, S: Conditions@24, O: spread@31)
+712	SVO (S: empire@2, V: "has", O: network@5)	SVA (V: allowed@10, S: network@5, A!: for@11, A?: made@19)	SVO (V: made@19, S: Romana@18, XCOMP: safe@21)	SVO (V: safe@21, S: it@20, XCOMP: travel@23)
+713	SVOC (V: encouraged@4, S: government@2, O: inhabitants@5, O: those@8)	SVA (V: "be learn", S: those@8, ACOMP: Greek@15)
+714	SVC (S: Bokenkotter@1, V: "is", C: p@3)
+715	
+716	SVOC (V: required@12, S: Christianity@11, A?: Unlike@1, A?: however@9, O: adherents@14, XCOMP: renounce@16)	SVO (S: its@13, V: "has", O: adherents@14)	SVA (V: "be adopted", S: practice@22, A!: from@24)
+717	SVO (S: Christians@2, V: "has", O: refusal@4)	SVA (V: "be join", S: refusal@4, O: celebrations@8)	SVO (V: meant@9, S: refusal@4, CCOMP: unable@12)	SVC (C: unable@12, V: were@11, S: they@10, XCOMP: participate@14)	SVO (V: caused@22, S: much@16, O: non@23)	SVO (V: angering@39, S: Christians@37, O: gods@41)	SVOC (V: threatening@44, S: Christians@37, O: gods@41, A?: thereby@43, O: peace@46)
+718	SVC (C: feature@7, V: were@4, S: persecutions@3, A?: of@8, A?: legalised@14)	SVA (V: legalised@14, S: Christianity@12, A!: in@15)
+719	SVC (S: MacCulloch@1, V: "is", C: Christianity@3)	SVC (S: Christianity@3, V: "is", C: pp@5)
+720	SVC (S: 159@5, V: "is", C: 164@7)
+721	SVA (V: lessened@11, S: struggles@5, A?: In@1, A!: by@12, A?: by@17)
+722	SVO (V: became@5, S: Christianity@4, A?: In@1, O: religion@8, A?: by@13)	SVA (V: persist@22, S: Emperor@18, A!: until@23, A?: later@32, A?: with@34, A?: until@39)
+723	SVA (V: "be known", S: Rome@23, A!: as@34)
+724	SVC (C: factor@18, V: was@15, S: church@11, A?: After@1, A?: in@19)	SVA (V: "be convert", S: sending@29, O: peoples@34, A!: as@38)
+725	SVO (V: preserved@8, S: Empire@7, A?: In@1, O: Orthodoxy@9, A?: well@10, A?: after@11)
+726	SVO (V: devastated@5, S: invasions@2, O: three@6)	SVO (V: Alexandria@18, S: invasions@2, O: three@6, A-: then@17)	SVO (V: Antioch@29, S: invasions@2, O: three@6, A?: finally@22, A?: in@24)	SVO (V: see@11, S: Patriarchal@10, XCOMP: capturing@13)
+727	SVA (V: dominated@10, S: period@3, A!: by@11)
+728	SVO (V: preserved@7, S: battles@2, O: west@10, A?: ravaged@16)	SVA (V: ravaged@16, S: Rome@13, A-: even@11, A!: in@17)	SV (V: besieged@22, S: Constantinople@20)
+729	SVO (V: developed@30, S: relations@14, A?: into@31, A?: partially@35, ACOMP: due@36, O: Criticism@1)
+730	SVO (V: proved@12, S: crusade@3, O: breach@15)
+731	SVA (V: engaged@16, S: Church@15, A?: In@1, A?: in@6, A!: in@17)	SVA (V: "be known", S: process@19, A!: as@27)
+732	SVO (V: spread@8, S: Catholicism@7, A?: widely@9, A?: across@10, A?: despite@13, O: Norman@1)	SVO (S: its@18, V: "has", O: hold@19)
+733	SVO (V: consulted@21, S: he@19, O: bishops@16, A?: from@22, A?: to@24)
+734	
+735	
+736	
+737	
+738	
+739	
+740	
+741	
+742	SVOO (V: affirmed@10, S: Council@9, O: doctrine@12, A?: exercised@17, IO: 2011-06-30@2)
+743	SVC (S: Leith@1, V: "is", C: Creeds@3)	SVC (S: Leith@1, V: "is", C: p@11)	SVC (S: Churches@6, V: "is", C: 1963@8)
+744	SVC (S: Duffy@2, V: "is", C: p@11)	SVC (S: Sinners@6, V: "is", C: 1997@8)
+745	SVA (V: resulted@8, S: Controversy@2, A!: in@9)	SVA (V: "be called", S: movement@12, O: Church@17)
+746	SVC (S: Fahlbusch@1, V: "is", C: Encyclopedia@4)	SVC (S: Christianity@6, V: "is", C: 2001@8)	SVC (S: Christianity@6, V: "is", C: p@11)
+747	SVO (V: introduced@9, S: Council@5, O: changes@13, A?: since@17)
+748	SVA (V: "be Intitiated", S: council@9, A!: by@2)	SVO (V: modernised@10, S: council@9, A?: Intitiated@1, O: practices@12)	SVO (V: ecouraging@33, S: council@9, A?: Intitiated@1, O: practices@12)
+749	
+750	SVO (V: _@4, S: councils/ii@3, O: vatican_council@5)
+751	
+752	
+753	
+754	SVO (V: _@4, S: councils/ii@3, O: vatican_council@5)
+755	
+756	
+757	SVOC (V: intended@4, S: It@3, XCOMP: engage@6, O: 2012-01-12@2)	SVC (S: world@14, V: "is", C: aggiornamento@16)	SVA (V: described@21, S: world@14, A!: by@22, A?: as@25)	SVO (S: its@23, V: "has", O: advocates@24)
+758	SVC (S: Duffy@1, V: "is", C: pp@3)
+759	SVC (S: 270@1, V: "is", C: p@33)	SVOA (V: led@13, S: it@12, A!: to@14, O: 270@1)	SVO (S: Church@18, V: "has", O: approach@20)	SVC (S: Sinners@28, V: "is", C: 1997@30)
+760	
+761	SVC (S: religions@12, V: "is", C: Judaism@15)	SVO (S: its@18, V: "has", O: Aetate@21)
+762	
+763	
+764	
+765	
+766	SVO (V: followed@15, S: those@13, O: lead@17)	SVO (S: their@16, V: "has", O: lead@17)	SVA (V: "be pressed", S: lead@17, A!: for@19)	SVA (V: happened@28, S: authorities@11, A?: According@1, A?: still@25, A!: in@29)	SVA (V: happened@28, S: what@27, A?: According@1, A?: still@25, A!: in@29)	SVO (S: His@30, V: "has", O: passion@31)
+767	SVC (C: people@7, V: is@4, S: Church@3, A?: of@8)	SVA (V: presented@16, S: Jews@12, A?: people@7, A!: rejected@18, A?: followed@27)	SVA (V: followed@27, S: this@26, A!: from@28)
+768	SVO (V: generated@7, S: Council@3, A?: however@5, O: controversy@9, A?: in@10)	SVO (S: its@12, V: "has", O: reforms@13)	SVO (V: claimed@30, S: proponents@15, CCOMP: had@33)	SV (V: had@33, S: II@32)	SVA (V: "be change", S: enough@38, O: policies@43)
+769	SVC (S: Bauckham@1, V: "is", C: p@3)
+770	SVA (V: "be arguing", S: Catholics@3, CCOMP: led@25)	SVO (V: criticised@14, S: Catholics@3, A?: strongly@13, O: council@16, A?: arguing@18, A?: among@42)	SVO (S: council@21, V: "has", O: reforms@24)	SVA (V: led@25, S: reforms@24, A!: to@27)
+771	SVC (S: O’Neel@1, V: "is", C: Brian@3)
+772	SVC (S: Rock@3, V: "is", C: Volume@5)	SVC (S: Rock@3, V: "is", C: Number@8)
+773	SVC (S: Answers@5, V: "is", C: April@7)
+774	SVO (V: recognised@5, S: II@4, O: need@7)	SVOC (V: used@15, S: II@4, O: need@7, O: means@17, A?: reach@19)	SVA (V: "be evangelise", S: need@7, O: world@13)	SVA (V: "be reach", S: used@15, O: faithful@21)
+775	SVO (V: instituted@2, S: He@1, O: Day@5, A?: from@19)	SVC (S: Day@5, V: "is", C: encounter@10)	SVC (C: celebrated@26, V: is@25, S: all@20, A?: years@31)
+776	SVO (V: travelled@2, S: He@1, O: more@3)	SVOC (V: visiting@9, S: He@1, O: more@3, O: countries@11)	SVOC (V: preaching@13, S: He@1, O: more@3, O: Gospel@15, A?: in@16)
+777	SVC (S: Maxwell-Stuart@1, V: "is", C: P.G.@3)
+778	
+779	
+780	
+781	
+782	
+783	
+784	SVO (V: used@3, S: He@1, A?: also@2, O: television@4, A?: as@7)
+785	
+786	
+787	SVC (S: teaching@3, V: "is", C: II@10)	SVC (S: II@10, V: "is", C: archbishop@13)	SVC (V: became@22, S: teaching@3, XCOMP: Pope@26)
+788	SVO (S: His@1, V: "has", O: 27-year@2)	SVO (V: pontificate@3, S: 27-year@2, CCOMP: one@5)
+789	
+790	
+791	
+792	
+793	
+794	
+795	
+796	
+797	SVC (S: Gorbachev@3, V: "is", C: premier@7)	SVO (V: credited@13, S: Gorbachev@3, O: pope@16, A?: with@17)
+798	
+799	
+800	
+801	
+802	SVO (V: awarded@15, S: Teresa@11, O: Prize@19, A?: in@20, A?: for@22)	SVO (S: her@23, V: "has", O: work@25)
+803	
+804	
+805	
+806	
+807	
+808	
+809	SVO (V: won@10, S: Belo@9, O: award@13, A?: in@14, A?: for@16)
+810	
+811	
+812	
+813	
+814	
+815	
+816	SVC (S: Council@22, V: "is", C: teachings@25)	SVC (V: became@28, S: teachings@6, XCOMP: issue@30)
+817	SVO (S: his@2, V: "has", O: http@13)
+818	
+819	
+820	
+821	
+822	
+823	SVC (S: 2008-02-02@1, V: "is", C: 1968@3)	SVC (S: 2008-02-02@1, V: "is", C: VI@8)	SVO (V: rejected@9, S: 2008-02-02@1, O: contraception@12)	SVO (V: permitted@16, S: he@15, O: regulation@18)	SVO (V: saw@36, S: voices@31, A?: at@37, O: pill@43, A?: as@44)
+824	SVA (V: continued@4, S: teaching@2, A!: by@6, A?: in@10)	SVO (S: his@11, V: "has", O: Vitae@14)	SVOO (V: decried@18, S: he@17, A?: where@16, O: contraception@19, IO: Vitae@14)	SVOO (V: called@36, S: he@17, A?: where@16, O: contraception@19, A?: for@37, IO: Vitae@14)	SVOO (V: euthanasia@25, S: he@17, A?: where@16, O: contraception@19, A?: as@26, IO: Vitae@14)
+825	SVC (S: Bokenkotter@1, V: "is", C: p@3)
+826	
+827	SVC (S: 154@1, V: "is", C: pp@3)
+828	SVOA (V: led@12, S: Efforts@4, A!: to@13, A?: as@26, O: 1988@45)	SVC (S: 1988@45, V: "is", C: Dignitatem@48)	SVC (S: 1988@45, V: "is", C: Sacerdotalis@55)
+829	SVA (V: "be found", S: ruling@5, A!: in@7)	SV (V: concluded@16, S: II@15, A?: According@1)	SVOC (V: declare@20, S: I@19, CCOMP: concluded@16, CCOMP: has@24)	SVO (V: has@24, S: Church@23, O: authority@26)	SVA (V: "be confer", S: authority@26, O: ordination@31, A!: on@32)	SVC (V: is@38, S: judgment@37, XCOMP: held@42)	SVO (S: Church@46, V: "has", O: faithful@48)
+830	
+831	SVO (V: performed@17, S: groups@10, O: ceremonies@20)	SVOC (C: licit@32, V: are@29, S: ceremonies@28, A?: either@31, O: law@25)	SVO (V: held@53, S: they@51, XCOMP: confer@55)	SVA (V: "be claiming", S: Canonici@61, O: aid@70)	SVC (S: Canonici@61, V: "is", C: canon@63)
+832	
+833	SVC (S: Womenpriests-USA@5, V: "is", C: Inc.@7)
+834	SVA (V: responded@14, S: ref@5, A!: by@15)	SVA (V: "be clarifying", S: statement@18, CCOMP: lit@53)	SVA (V: "be involved", S: bishops@23, A!: in@25)	SVC (C: Catholic@40, V: were@39, S: they@38)	SV (V: lit@53, S: bishops@23, A?: sententiae@51)
+835	
+836	
+837	
+838	
+839	
+840	
+841	SVC (V: became@17, S: issue@8, A?: In@1, XCOMP: subject@19)	SVA (S: States@29, V: "is in", C: Ireland@31)
+842	SVA (V: criticized@4, S: Church@2, A!: for@5, A?: became@13)	SVO (S: its@6, V: "has", O: handling@7)	SVC (V: became@13, S: it@12, A?: when@11, ACOMP: known@14)	SVO (V: shielded@19, S: bishops@17, O: priests@21, A?: transferring@23)	SVA (V: "be transferring", S: bishops@17, O: them@24, A!: to@25)	SVOC (V: continued@31, S: some@30, A?: where@29, XCOMP: commit@33, O: assignments@28)
+843	SVO (V: established@10, S: Church@8, A?: In@1, O: procedures@12, A?: prevent@14, A?: disputed@36)	SVOC (V: encourage@17, S: Church@8, A?: In@1, O: procedures@12, A?: prevent@14, O: reporting@18, A?: disputed@36)	SVA (V: "be prevent", S: Church@8, O: abuse@15)	SV (V: occurs@23, S: abuse@21)	SVO (V: handle@26, S: abuse@21, O: reports@28, A?: promptly@29)	SVA (V: "be representing", S: groups@32, O: victims@34)	SVO (V: disputed@36, S: groups@32, O: effectiveness@38)	SVO (S: their@37, V: "has", O: effectiveness@38)
+844	
+845	
+846	
+847	
+848	SVO (V: lodged@12, S: submission@10, A?: 15@1, A?: with@13, XCOMP: alleging@18)	SVC (S: Pope@21, V: "is", C: dean@26)	SVO (V: committed@56, S: Pope@21, O: crime@58, A?: by@61)	SVO (V: included@82, S: concealment@80, O: failure@83)	SVA (V: "be co-operate", S: failure@83, A!: with@86)
+849	
+850	
+851	
+852	SVO (V: collapsed@13, S: Church@12, A?: April@14, O: note@9)	SVO (V: sees@20, S: Apostolic@19, O: Category@21)	SVC (C: be-x-old@77, V: be@73, S: Thian-chú-kàu-hoē@72)	SVO (V: es@145, S: Catòlica@144, O: eo@149)	SV (V: is@227, S: Catholic@226)	SVO (V: found@541, S: Examples@534, A?: in@542, XCOMP: Churches@552)
+853	SVC (C: time@4, V: is@2, S: Heaven@1, A?: of@5, A?: with@8)	SVA (V: lasts@17, S: time@4, A!: forever@18)
+854	SVC (C: condition@14, V: is@11, S: 1023@3, A?: for@15)
+855	SVC (S: CCC@1, V: "is", C: 1030@3)	SVC (S: 32@5, V: "is", C: Souls@8)	SVO (V: aided@13, S: 32@5, A?: in@14, O: 1030@3)
+856	
+857	SVO (S: Saints@1, V: "has", O: Prayers@3)
+858	
+859	SVO (S: Saints@1, V: "has", O: Prayers@3)
+860	SVA (V: persist@9, S: those@7, A!: in@10)	SVA (V: repent@21, S: those@7, A?: in@10, A!: subject@24)	SVO (V: subject@24, S: death@23, O: themselves@25, A?: to@26)
+861	SVOC (V: teaches@10, S: 1033@3, A?: 37@5, CCOMP: condemned@15, O: CCC@1)	SVOC (V: teaches@10, S: Church@9, A?: 37@5, CCOMP: condemned@15, O: CCC@1)	SVA (V: condemned@15, S: one@13, A!: to@16, A?: without@18)
+862	SVC (S: CCC@1, V: "is", C: one@5)	SVA (V: predestined@7, S: CCC@1, A!: to@8)	SVO (V: determine@14, S: one@12, CCOMP: condemned@20)	SV (V: condemned@20, S: anyone@16)
+863	SVO (V: teaches@5, S: CCC@1, CCOMP: repent@14)	SVO (V: teaches@5, S: Catholicism@4, CCOMP: repent@14)	SVO (S: God@8, V: "has", O: mercy@10)	SVA (V: repent@14, S: person@12, A?: through@7, A!: at@15)	SV (V: saved@22, S: person@12, A?: through@7, A?: at@15)
+864	SVO (V: speculated@13, S: Luke@1, CCOMP: assigned@26)	SV (V: die@21, S: infants@19, A?: in@22)	SVA (V: assigned@26, S: souls@16, A!: to@27, A?: doctrine@35)	SVC (C: doctrine@35, V: is@31, S: this@30, A?: of@36)
+865	
+866	
+867	SV (V: Die@21, S: Infants@19, A?: Without@22)
+868	
+869	SV (V: NOTE@36, S: Culture@26, A?: Being@23)	SVA (V: stands@39, S: CCC@38, A!: for@40)	SV (V: Die@21, S: Infants@19, A?: NOTE@36)
+870	SVC (C: number@8, V: is@5, S: number@2)	EXISTENTIAL (V: are@13, S: 2865@14, A?: of@10, O: number@8)
+871	SVA (V: "be cited", S: numbers@2, A!: in@4)	SVC (C: numbers@12, V: are@10, S: numbers@2)	EXISTENTIAL (V: are@17, S: 598@18, A?: of@14, O: numbers@12)
+872	
+873	
+874	
+875	
+876	SVC (S: Barry@2, V: "is", C: Rev.@4)
+877	
+878	SVC (S: F@2, V: "is", C: 2001@4)
+879	SVC (S: Faith@2, V: "is", C: Lord@5)
+880	
+881	SVC (S: Baumbach@1, V: "is", C: Ed.D.@3)
+882	
+883	SVC (S: Wise@4, V: "is", C: 2010@6)
+884	
+885	
+886	
+887	SVC (S: Bethell@1, V: "is", C: Leslie@3)	SVC (S: Leslie@3, V: "is", C: 1984@5)
+888	
+889	
+890	
+891	SVC (S: Bokenkotter@1, V: "is", C: Thomas@3)	SVC (S: Thomas@3, V: "is", C: 2004@5)
+892	
+893	
+894	
+895	SVC (S: Bunson@1, V: "is", C: Matthew@3)	SVC (S: Matthew@3, V: "is", C: 2008@5)
+896	SVO (S: Our@1, V: "has", O: Visitor@3)	SVO (S: Visitor@3, V: "has", O: Almanac@6)
+897	SVO (S: Our@1, V: "has", O: Publishing@4)
+898	
+899	SVC (S: Burkett@5, V: "is", C: Elinor@7)	SVC (S: Elinor@7, V: "is", C: 2002@9)
+900	
+901	
+902	
+903	
+904	
+905	
+906	SVC (S: Owen@6, V: "is", C: 1995@8)
+907	
+908	
+909	
+910	SVC (S: Clarke@1, V: "is", C: Graeme@3)	SVC (S: Graeme@3, V: "is", C: 2005@5)	SV (V: Third@9, S: Clarke@1)	SVC (S: Bowman@16, V: "is", C: K.@19)
+911	
+912	
+913	SVC (S: Crisis@6, V: "is", C: A.D.@10)
+914	
+915	
+916	SVC (S: Collins@1, V: "is", C: Michael@3)	SVC (S: Price@5, V: "is", C: A.@8)
+917	
+918	
+919	
+920	
+921	SVC (S: Patrick@3, V: "is", C: 1990@5)
+922	SV (V: ''@1, S: Church@5)	SVO (S: its@7, V: "has", O: Reformation@8)
+923	
+924	
+925	
+926	
+927	SVC (S: Cook@1, V: "is", C: A.@4)
+928	
+929	SVC (S: encyclopedia@6, V: "is", C: Volume@8)
+930	
+931	
+932	SVC (S: Green@6, V: "is", C: J@9)	SVC (S: Heintschel@11, V: "is", C: E.@14)
+933	
+934	SVC (S: Text@8, V: "is", C: Edition@13)
+935	
+936	
+937	SVC (S: Davidson@1, V: "is", C: Ivor@3)	SVC (S: Ivor@3, V: "is", C: 2005@5)
+938	
+939	
+940	
+941	SVC (S: Deák@1, V: "is", C: István@3)	SVC (S: István@3, V: "is", C: 2001@5)
+942	SVO (S: Hitler@3, V: "has", O: Europe@5)
+943	
+944	SVC (S: Eamon@5, V: "is", C: 1997@7)
+945	SVC (S: Saints@1, V: "is", C: History@6)
+946	
+947	
+948	SVC (S: Enrique@3, V: "is", C: 1981@5)
+949	
+950	
+951	
+952	
+953	
+954	SVC (S: Faulk@1, V: "is", C: Edward@3)	SVC (S: Edward@3, V: "is", C: 2007@5)
+955	
+956	
+957	
+958	SVC (S: Fahlbusch@1, V: "is", C: Erwin@3)	SVC (S: Erwin@3, V: "is", C: 2007@5)
+959	
+960	
+961	
+962	
+963	
+964	SVC (S: Froehle@1, V: "is", C: Bryan@3)	SVC (S: Gautier@6, V: "is", C: 2003@8)
+965	SVC (S: Catholicism@2, V: "is", C: Portrait@4)
+966	SVC (S: Apostolate@10, V: "is", C: University@13)
+967	
+968	SVC (S: Hamnett@1, V: "is", C: R@4)	SVC (S: R@4, V: "is", C: 1999@6)
+969	
+970	SVA (S: Chester@2, V: "is in", C: NY@4)
+971	
+972	SVC (S: Adrian@3, V: "is", C: 2004@5)
+973	
+974	
+975	
+976	SVC (S: Herring@1, V: "is", C: George@3)	SVC (S: George@3, V: "is", C: 2006@5)
+977	
+978	
+979	
+980	SVC (S: Johansen@1, V: "is", C: Bruce@3)	SVC (S: Bruce@3, V: "is", C: 2006@5)
+981	
+982	
+983	
+984	SVC (S: Johnson@1, V: "is", C: Lonnie@3)	SVC (S: Lonnie@3, V: "is", C: 1996@5)
+985	SVC (S: Enemies@4, V: "is", C: Friends@8)
+986	
+987	
+988	SVC (S: Kirkwood@1, V: "is", C: Burton@3)	SVC (S: Burton@3, V: "is", C: 2000@5)
+989	
+990	SVC (S: Westport@1, V: "is", C: CT@3)	SVC (S: Group@7, V: "is", C: Incorporated@9)
+991	
+992	
+993	
+994	SVC (S: Koschorke@1, V: "is", C: Klaus@3)	SVC (S: Ludwig@5, V: "is", C: Frieder@7)	SVC (S: Mariano@11, V: "is", C: 2007@13)
+995	
+996	
+997	
+998	SVC (S: Peter@3, V: "is", C: 2001@5)
+999	
+1000	
+1001	
+1002	SVC (S: Lahey@1, V: "is", C: John@3)	SVC (S: John@3, V: "is", C: 1995@5)
+1003	
+1004	SVC (S: McBrien@2, V: "is", C: Richard@4)	SVC (S: Attridge@6, V: "is", C: Harold@8)
+1005	
+1006	
+1007	
+1008	SVC (S: Jacques@4, V: "is", C: 2000@6)
+1009	
+1010	
+1011	
+1012	SVO (V: _@2, S: Leith@1, O: John@3)	SVC (S: John@3, V: "is", C: 1963@5)
+1013	
+1014	
+1015	
+1016	SVC (S: Diarmaid@3, V: "is", C: 2010@5)
+1017	
+1018	
+1019	
+1020	SVC (S: Diarmaid@15, V: "is", C: 2003@17)
+1021	
+1022	
+1023	
+1024	SVC (S: Ramsay@3, V: "is", C: 1984@5)	SVA (V: "be Christianizing", S: Ramsay@3, O: Empire@11)
+1025	
+1026	
+1027	SVC (S: Marthaler@4, V: "is", C: Berard@6)	SVC (S: Berard@6, V: "is", C: 1994@8)
+1028	
+1029	
+1030	
+1031	SVC (S: Marvin@1, V: "is", C: Wade@4)	SVC (S: Wade@4, V: "is", C: 2008@6)
+1032	SVC (S: Crusade@14, V: "is", C: 1209-1218@16)
+1033	
+1034	SVC (S: McDonough@3, V: "is", C: Elizabeth@5)
+1035	
+1036	SVC (S: Cardinals@2, V: "is", C: College@4)
+1037	SVC (S: McBrien@2, V: "is", C: Richard@4)	SVC (S: Attridge@6, V: "is", C: Harold@8)
+1038	
+1039	
+1040	
+1041	SVO (V: _@2, S: McManners@1, O: John@3)	SVC (S: John@3, V: "is", C: 1990@5)
+1042	
+1043	
+1044	
+1045	
+1046	
+1047	SVC (S: Colin@3, V: "is", C: 1990@5)
+1048	
+1049	
+1050	
+1051	
+1052	
+1053	SVC (S: Chris@3, V: "is", C: 1994@5)
+1054	
+1055	
+1056	
+1057	SVC (S: Strauss@5, V: "is", C: Barry@7)	SVC (S: Barry@7, V: "is", C: 2005@9)
+1058	
+1059	
+1060	
+1061	SVC (S: Edward@3, V: "is", C: 2007@5)
+1062	SVC (S: Church@4, V: "is", C: History@8)
+1063	
+1064	
+1065	SVC (S: O'Collins@1, V: "is", C: Gerald@3)	SVC (S: Farrugia@5, V: "is", C: Maria@7)	SVC (S: Maria@7, V: "is", C: 2003@9)
+1066	
+1067	
+1068	
+1069	SVC (S: Payne@1, V: "is", C: G@4)	SVC (S: G@4, V: "is", C: 2008@6)
+1070	
+1071	
+1072	
+1073	SVC (S: Phayer@1, V: "is", C: Michael@3)	SVC (S: Michael@3, V: "is", C: 2000@5)
+1074	
+1075	
+1076	
+1077	SVC (S: Pollard@1, V: "is", C: Francis@4)	SVC (S: Francis@4, V: "is", C: 2005@6)
+1078	
+1079	
+1080	
+1081	SVC (S: Rhodes@1, V: "is", C: Anthony@3)	SVC (S: Anthony@3, V: "is", C: 1973@5)
+1082	
+1083	
+1084	
+1085	SVC (S: Jonathan@3, V: "is", C: 1997@5)
+1086	
+1087	
+1088	
+1089	SVC (S: Salkin@5, V: "is", C: M@8)	SVC (S: Boda@11, V: "is", C: Sharon@13)	SVC (S: Sharon@13, V: "is", C: 1996@15)
+1090	
+1091	
+1092	
+1093	
+1094	
+1095	SVC (S: Simon@3, V: "is", C: 2003@5)
+1096	
+1097	
+1098	
+1099	SVC (S: Scheina@1, V: "is", C: L.@4)
+1100	
+1101	SVO (S: America@2, V: "has", O: Wars@4)
+1102	
+1103	
+1104	SVC (S: Schreck@1, V: "is", C: Alan@3)	SVC (S: Alan@3, V: "is", C: 1999@5)
+1105	
+1106	
+1107	
+1108	SVC (S: Lee@3, V: "is", C: 2003@5)
+1109	
+1110	
+1111	
+1112	SVC (S: Frank@4, V: "is", C: 1990@6)
+1113	
+1114	
+1115	
+1116	SVC (S: Vatican@1, V: "is", C: Office@5)	SVC (S: Office@5, V: "is", C: 2007@7)
+1117	SVC (S: Pontificio@2, V: "is", C: Yearbook@5)
+1118	
+1119	
+1120	SVO (V: _@2, S: Vidmar@1, O: John@3)	SVC (S: John@3, V: "is", C: 2005@5)
+1121	
+1122	
+1123	
+1124	SVC (S: Wilken@1, V: "is", C: Robert@3)	SVC (S: Robert@3, V: "is", C: 2004@5)
+1125	
+1126	SVC (S: Esposito@7, V: "is", C: John@9)
+1127	
+1128	
+1129	
+1130	SVC (S: Thomas@4, V: "is", C: 2005@6)
+1131	SVO (V: Built@5, S: Church@4, A?: How@1, O: Civilization@7)
+1132	SVC (S: Publishing@2, V: "is", C: Inc.@4)
+1133	
+1134	SVO (V: See@7, S: website@3, O: channel@11)

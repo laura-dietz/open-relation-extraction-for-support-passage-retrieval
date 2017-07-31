@@ -1,0 +1,1098 @@
+0	SVA (V: compared@26, S: information@5, A!: with@27)	SVO (V: indicates@32, S: chart@30, O: degree@34)
+1	SVOC (C: diet@17, V: is@8, S: diet@7, O: bodies@2)	SVO (V: used@22, S: diet@17, A?: in@19, A?: primarily@23, XCOMP: treat@25)
+2	SVO (V: mimics@3, S: diet@2, O: aspects@4, A?: by@7)
+3	SVA (V: contained@5, S: carbohydrates@4, A?: Normally@1, A!: in@6)	SVA (V: transported@16, S: glucose@11, A-: then@15, A!: around@17)	SVC (C: important@23, V: is@21, S: glucose@11, A-: then@15, A?: around@17, A?: particularly@22, A?: in@24)
+4	EXISTENTIAL (V: is@5, S: carbohydrate@8, A?: in@9)	SVC (V: converts@15, S: liver@14, A?: However@1, A?: is@5, ACOMP: fat@16)
+5	SVA (V: pass@4, S: bodies@3, A!: into@5)	SVO (V: replace@9, S: bodies@3, A?: into@5, O: glucose@10, A?: as@11)
+6	SVC (S: level@3, V: "is", C: state@12)	SVA (V: "be known", S: state@12, A!: as@14)	SVA (V: leads@17, S: level@3, A!: to@18)
+7	SVO (V: provides@8, S: diet@4, O: protein@11)	SVO (V: calories@20, S: diet@4, O: protein@11, A?: maintain@22)	SVA (V: "be maintain", S: calories@20, O: weight@25)
+8	SVO (V: contains@5, S: diet@4, O: ratio@8)
+9	SVA (V: achieved@3, S: This@1, A!: by@4, A?: increasing@24)
+10	SVA (V: made@5, S: fat@3, A!: of@6)	SVA (V: "be called", S: molecules@7)	SVC (S: triglycerides@10, V: "is", C: Ts@13)
+11	SVC (S: triglycerides@4, V: "is", C: MCTs@6)	SVC (C: ketogenic@23, V: are@21, S: triglycerides@4, A?: However@1, A?: more@22)
+12	SVA (V: "be known", S: diet@6, A!: uses@13)	SVA (V: "be provide", S: diet@12, O: calories@31)	SVO (V: uses@13, S: diet@12, O: form@15, A?: provide@27)	SVC (C: rich@22, V: is@21, S: oil@18, A?: in@23)
+13	SVA (V: needed@6, S: fat@4, A!: in@7)	SVO (V: consumed@23, S: proportion@16, A?: needed@6, XCOMP: allowing@25)
+14	SVA (V: developed@7, S: diet@5, A!: for@8)	SVA (V: used@19, S: diet@5, A?: for@8, A?: widely@18, A!: into@20)	SVO (S: its@26, V: "has", O: popularity@27)	SVA (V: waned@28, S: popularity@27, A!: with@29)
+15	SVO (S: whose@11, V: "has", O: son@12)	SVO (S: son@12, V: "has", O: epilepsy@15)	SVO (V: controlled@18, S: epilepsy@15, A?: effectively@17, A?: by@19, O: Abrahams@9)	SVO (V: created@23, S: Abrahams@9, A?: In@1, O: Foundation@26, A?: promote@28)	SVA (V: "be promote", S: Abrahams@9, O: it@29)
+16	SVO (V: included@2, S: Publicity@1, O: appearance@4)	SVO (S: NBC@6, V: "has", O: Dateline@9)
+17	SVC (S: Harm@3, V: "is", C: 1997@5)	SVC (S: Harm@3, V: "is", C: film@10)	SVA (V: "be starring", S: film@10, O: Streep@13)
+18	SVO (V: sponsored@3, S: foundation@2, O: study@7)	SVO (V: marked@18, S: results@10, O: beginning@20)
+19	SVC (C: effective@4, V: is@3, S: diet@2, A?: in@5)	SVO (V: try@11, S: patients@9, O: it@12)
+20	SVO (V: showed@8, S: trial@7, A?: In@1, O: benefit@11)
+21	
+22	EXISTENTIAL (V: is@2, S: evidence@4)	SVA (V: benefit@10, S: adults@6, A!: from@11)	SVC (C: effective@31, V: is@29, S: regime@20, A?: similarly@30)
+23	SVO (V: suggest@8, S: trials@2, CCOMP: provide@12)	SVO (V: provide@12, S: diets@11, O: benefits@16)
+24	SVA (V: regarded@10, S: research@5, A?: As@1, A!: as@11)	SVA (V: "be warrant", S: data@16, O: use@20)
+25	SVC (C: one@3, V: is@2, S: Epilepsy@1, A?: of@4, A?: after@10)	SVOC (C: affects@14, V: is@2, S: Epilepsy@1, A?: of@4, A?: after@10, O: people@19)
+26	SVA (V: diagnosed@3, S: It@1, A!: in@4)	SVA (V: "be having", S: person@6, O: seizure@10)
+27	SV (V: occur@2, S: These@1)	SVA (V: "be leading", S: fire@6, A!: to@15)
+28	SVO (V: affect@3, S: This@1, A?: for@5, O: muscles@9)	SVC (S: muscles@9, V: "is", C: senses@12)
+29	SVC (C: focal@5, V: be@4, S: seizure@2)	SVC (C: generalised@16, V: be@4, S: seizure@2)
+30	SVA (V: occur@3, S: Epilepsy@1, A!: for@4)	SVA (V: classified@14, S: forms@11, A!: into@15)	SVA (V: begin@22, S: most@19, A!: in@23)
+31	SVC (V: considered@3, S: Epilepsy@1, ACOMP: refractory@4, A?: failed@14)	SVO (V: failed@14, S: drugs@12, A?: when@7, XCOMP: control@16)
+32	SVO (V: achieve@7, S: %@3, O: control@8, A?: with@12, A?: achieve@25)	SVO (S: their@10, V: "has", O: epilepsy@11)	SVO (V: use@17, S: they@16, O: drug@15)	SVO (V: achieve@25, S: %@22, O: control@26)
+33	SV (V: fail@3, S: drugs@2, A?: When@1)	SVO (V: include@7, S: options@6, A?: fail@3, O: surgery@9)
+34	SVC (C: mainstream@6, V: is@4, S: diet@3)	SVOC (C: remove@18, V: is@4, S: diet@3, O: limitations@20)	SVO (V: developed@12, S: therapy@9, XCOMP: reproduce@14)
+35	SVA (V: abandoned@12, S: it@9, A?: largely@11, A!: in@13)
+36	SVO (V: control@7, S: individuals@2, A?: successfully@6, O: seizures@9, A?: with@10)	SVO (S: their@8, V: "has", O: seizures@9)
+37	SVO (V: fail@7, S: %@6, A?: However@1, XCOMP: achieve@9)
+38	SVA (V: has@13, S: diet@12, A?: For@1, A?: for@6, A!: again@15)
+39	
+40	
+41	SVO (S: Conklin@6, V: "has", O: diet@10)	SVO (S: their@26, V: "has", O: patients@27)	SVO (S: patients@27, V: "has", O: diet@29)
+42	SVO (V: mentions@14, S: treatise@3, O: disease@16)	SVA (V: dates@19, S: it@18, A!: from@20)
+43	SVO (S: Its@1, V: "has", O: author@2)	SVA (V: argued@3, S: author@2, A!: against@4)	SVO (V: proposed@18, S: author@2, A?: against@4, CCOMP: had@22)	SVC (C: supernatural@11, V: was@10, S: epilepsy@9, A?: in@12)	SVO (V: had@22, S: therapy@21, O: basis@27)
+44	SVO (V: describes@10, S: author@7, A?: In@1, O: case@12)	SVO (S: man@15, V: "has", O: epilepsy@17)	SVA (V: cured@19, S: epilepsy@17, A!: quickly@21, A?: appeared@25, A?: through@27)	SV (V: appeared@25, S: it@23)
+45	SVO (V: declared@5, S: Erasistratus@4, CCOMP: made@14)	SVA (V: "be inclining", S: One@8, A!: to@10)	SVA (V: made@14, S: One@8, A!: to@15)	SVO (V: put@21, S: One@8, A?: to@15, O: rations@24)
+46	SVO (V: believed@3, S: Galen@2, CCOMP: afford@10)	SVO (V: afford@10, S: diet@7, O: cure@12, A?: in@13)	SVOC (C: helpful@18, V: be@17, S: diet@7, O: cure@12, A?: in@13, A?: in@19)
+47	SVA (V: was@12, S: study@4, A!: in@13, A?: in@15)
+48	SVA (V: detoxified@9, S: patients@3, A!: by@11)
+49	SVA (V: benefited@2, S: Two@1, A!: enormously@3)	SVO (V: failed@7, S: most@6, XCOMP: maintain@9)
+50	SVOC (V: improved@3, S: diet@2, O: capabilities@8, A?: in@10, O: bromide@17)	SVO (S: patients@5, V: "has", O: capabilities@8)	SVO (S: their@13, V: "has", O: medication@14)	SVO (V: dulled@20, S: bromide@17, O: mind@22)
+51	SVC (S: Macfadden@6, V: "is", C: exponent@10)	SVO (V: popularised@15, S: Macfadden@6, A?: Around@1, O: use@17)
+52	SVO (S: His@1, V: "has", O: disciple@2)	SVC (S: disciple@2, V: "is", C: Conklin@8)	SVO (V: began@16, S: disciple@2, XCOMP: treat@18)	SVO (S: his@19, V: "has", O: patients@21)
+53	SVO (V: conjectured@2, S: Conklin@1, CCOMP: caused@7)	SVA (V: caused@7, S: seizures@5, A!: discharged@23)	SVA (V: "be secreted", S: toxin@10, A!: from@13)	SVO (S: Peyer@15, V: "has", O: patches@17)	SVA (V: discharged@23, S: toxin@10, A?: when@8, A!: into@24)
+54	SV (V: recommended@2, S: He@1)	SVA (V: "be dissipate", S: allow@11)
+55	SVO (V: treated@3, S: Conklin@1, A?: probably@2, O: hundreds@4)	SVOC (V: boasted@15, S: Conklin@1, A?: probably@2, O: hundreds@4, A?: of@16, XCOMP: falling@25)	SVO (S: his@9, V: "has", O: diet@12)
+56	SVO (S: Conklin@4, V: "has", O: records@7)	SVO (V: showed@8, S: analysis@2, CCOMP: achieved@14)	SVO (S: his@12, V: "has", O: patients@13)	SVO (V: achieved@14, S: %@10, O: freedom@15)
+57	SVO (S: Conklin@1, V: "has", O: therapy@4)	SVA (V: adopted@6, S: therapy@4, A!: by@7, A?: in@9)
+58	SVO (V: wrote@7, S: McMurray@6, A?: In@1, A?: to@8, XCOMP: claiming@14)
+59	
+60	SVO (V: reported@3, S: Geyelin@2, O: experiences@5)	SVO (S: his@4, V: "has", O: experiences@5)
+61	SVO (V: seen@3, S: He@1, O: success@6)	SVOC (V: attempted@10, S: He@1, O: success@6, XCOMP: reproduce@12)	SVO (S: Conklin@4, V: "has", O: success@6)	SVO (S: his@18, V: "has", O: patients@20)
+62	SVO (V: achieved@2, S: He@1, O: results@4, A?: despite@5)
+63	SVO (V: indicated@6, S: studies@2, CCOMP: returned@10)	SVA (V: returned@10, S: seizures@8, A?: generally@9, A!: after@11)
+64	SVC (S: Howland@2, V: "is", C: parent@5)	SVO (S: Conklin@9, V: "has", O: patients@12)	SVO (V: gave@21, S: Howland@2, O: brother@23)	SVO (S: his@22, V: "has", O: brother@23)	SVA (V: "be study", S: gift@26, O: ketosis@34)
+65	SVA (V: "be fund", S: Howland@11, O: research@17)	SVO (V: used@12, S: Howland@11, A?: As@1, O: money@14, A?: fund@16)	SVA (V: "be undertaken", S: research@17, A!: by@19)	SVO (S: his@24, V: "has", O: G.@27)
+66	
+67	SVO (V: reviewed@6, S: Woodyatt@5, A?: In@1, O: research@8)
+68	SVO (V: reported@2, S: He@1, CCOMP: produced@22)	SVC (S: compounds@6, V: "is", C: β-hydroxybutyrate@8)	SVA (V: produced@22, S: compounds@6, A!: by@23, A?: in@26, A?: starved@33)	SV (V: starved@33, S: they@31, A?: when@30)	SVO (V: consumed@37, S: they@36, O: diet@43)
+69	SVA (V: "be built", S: Wilder@2, A!: on@10)	SVA (V: "be describe", S: coined@14, O: diet@22)	SVO (V: produced@24, S: diet@22, O: level@27, A?: in@30)	SVC (S: blood@32, V: "is", C: ketonemia@34)
+70	SVO (V: hoped@2, S: Wilder@1, XCOMP: obtain@4)	SVA (V: maintained@16, S: therapy@12, A!: indefinitely@17)
+71	SVO (S: His@1, V: "has", O: trial@2)	SVC (C: use@13, V: was@10, S: trial@2, A?: of@14, A?: as@18)
+72	SVO (S: Wilder@1, V: "has", O: colleague@3)	SVC (S: colleague@3, V: "is", C: Peterman@7)	SVO (V: formulated@10, S: colleague@3, A?: later@9, O: diet@13, A?: with@15)	SVC (S: children@29, V: "is", C: 10@31)
+73	SVO (S: Peterman@1, V: "has", O: work@3)	SVO (V: established@7, S: work@3, O: techniques@9)
+74	SVO (V: documented@2, S: Peterman@1, O: effects@4)
+75	SVC (V: proved@3, S: diet@2, XCOMP: successful@7)	SVA (V: reported@12, S: Peterman@11, A!: in@13)	SVOO (V: improved@23, S: %@17, O: control@25, A?: on@26, IO: 1925@14)	SVC (V: became@32, S: %@31, ACOMP: seizure-free@33)
+76	SVA (V: studied@9, S: diet@5, A?: By@1, A?: also@7, A!: in@10)
+77	SVO (V: reported@10, S: Barborka@2, CCOMP: became@25)	SVA (V: "be improved", S: patients@17, A!: on@19)	SVC (V: became@25, S: %@13, ACOMP: seizure-free@26)
+78	SVC (C: similar@6, V: are@5, S: results@4, A?: to@7)	SV (V: compare@16, S: they@13, A?: similar@6)	SV (V: studies@21, S: they@13, A?: similar@6)
+79	SVO (V: concluded@2, S: Barborka@1, CCOMP: likely@7)	SVC (C: likely@7, V: were@5, S: adults@4, A?: least@6, XCOMP: benefit@9)	SVA (V: studied@25, S: use@16, A!: again@26, A?: until@27)
+80	SVOC (C: bromides@15, V: were@12, S: drugs@11, A?: when@7, O: 1920s@3)	SVC (S: phenobarbital@21, V: "is", C: 1912@23)	SV (V: used@31, S: diet@28, A?: 1920s@3, A?: widely@30)	SV (V: studied@33, S: diet@28, A?: 1920s@3, A?: widely@30)
+81	SVA (V: changed@2, S: This@1, A!: in@3)
+82	SVO (V: discovered@6, S: Putnam@5, O: phenytoin@7)	SVC (S: phenytoin@7, V: "is", C: Dilantin@9)	SVA (V: shifted@17, S: focus@14, A!: to@18)
+83	SVC (C: available@13, V: were@12, S: drugs@11, A?: With@1, A?: to@14)	SVC (C: effective@18, V: were@17, S: neurologists@15, A?: across@19)
+84	SVA (V: restricted@11, S: use@2, A?: by@8, A!: to@12)
+85	SVO (V: _@11, S: bottle@5, O: emulsion@23, A?: In@24)	SVC (S: triglyceride@18, V: "is", C: MCT@20)	SVO (V: discovered@30, S: it@28, A?: _@11, CCOMP: produce@37)	SVC (S: triglycerides@33, V: "is", C: MCTs@35)	SVO (V: produce@37, S: triglycerides@33, O: ketones@39)	SVC (C: long-chain@52, V: are@50, S: fats@47, A?: mostly@51)
+86	SV (V: absorbed@5, S: MCTs@1, A?: efficiently@4)	SVA (V: transported@9, S: MCTs@1, A?: efficiently@4, A?: rapidly@8, A!: to@10, A?: via@13)
+87	SVO (V: made@10, S: restrictions@4, XCOMP: produce@16)	SVO (V: produce@16, S: it@11, O: meals@18)	SVO (V: produce@16, S: parents@14, O: meals@18)	SVO (S: their@20, V: "has", O: children@21)	SVO (V: tolerate@23, S: children@21, O: that@19)
+88	SVO (V: devised@6, S: Huttenlocher@5, A?: In@1, O: diet@9)	SVO (V: came@17, S: %@13, A?: where@10, A?: from@18, O: diet@9)	SVO (V: allowed@25, S: this@24, O: protein@27)
+89	SVA (V: mixed@4, S: oil@2, A!: with@5)	SVO (S: its@9, V: "has", O: volume@10)
+90	SVO (V: tested@2, S: He@1, O: it@3, A?: on@4, A?: with@9)
+91	SVA (V: improved@3, S: children@2, A!: in@4)	SVC (C: similar@14, V: were@13, S: that@12, A?: to@15)
+92	SVC (C: problem@5, V: was@3, S: upset@2)	SVOC (V: led@8, S: problem@5, O: patient@10, XCOMP: abandon@12)	SVC (C: easier@19, V: were@18, S: meals@17, XCOMP: prepare@21)
+93	SVO (V: replaced@4, S: diet@3, O: diet@8, A?: in@9, A?: though@13)	SVC (C: combination@20, V: were@18, S: diets@16, A?: of@21)
+94	SVO (V: achieved@4, S: diet@3, O: exposure@7, A?: in@8, A?: reported@23)	SVO (S: NBC@16, V: "has", O: Dateline@19)	SVO (V: reported@23, S: October@12, O: case@25)	SVC (S: Abrahams@28, V: "is", C: son@30)
+95	SVA (V: "be suffered", S: two-year-old@2, A!: from@4)	SVC (V: remained@8, S: epilepsy@5, ACOMP: uncontrolled@9, A?: by@10)
+96	SVO (V: discovered@2, S: Abrahams@1, O: reference@4)	SVOC (V: brought@16, S: Abrahams@1, O: reference@4, O: Charlie@17, A?: to@18)	SVO (V: continued@26, S: Hospital@22, XCOMP: offer@28)
+97	SVO (S: Charlie@5, V: "has", O: epilepsy@7)	SV (V: controlled@10, S: epilepsy@7, A?: Under@1, A?: rapidly@9)	SVO (S: his@12, V: "has", O: progress@14)	SV (V: resumed@15, S: progress@14)
+98	SVOC (V: inspired@2, S: This@1, O: Abrahams@3, XCOMP: create@5)	SVA (V: "be promote", S: Foundation@8, O: diet@12)
+99	SVA (V: began@5, S: study@4, A!: in@6)	SVA (V: presented@12, S: results@10, A!: to@13, A?: in@18)	SVA (V: published@22, S: results@10, A?: to@13, A?: in@18, A!: in@23)
+100	
+101	SVO (V: produced@5, S: Abrahams@4, A?: In@1, O: movie@8)
+102	SVO (S: boy@13, V: "has", O: epilepsy@16)	SVO (V: treated@19, S: epilepsy@16, A?: in@9, A?: successfully@18, A?: by@20, O: Streep@7)
+103	SVC (C: available@9, V: is@8, S: diet@7, A?: As@1, A?: from@10)
+104	SVA (V: come@13, S: variants@3, A!: into@14, A?: among@18)
+105	SVA (V: is@4, S: diet@3, A!: also@5, A?: under@6)
+106	SVO (V: reduces@4, S: diet@3, O: frequency@6, A?: by@7, A?: in@12)	SVO (V: try@18, S: patients@16, O: it@19)	SVO (V: by@21, S: patients@16, O: it@19, A?: %@25, A?: in@26)
+107	SV (V: respond@5, S: children@3)	SVA (V: do@6, S: Three-quarters@1, A-: so@7, A?: within@8, A?: recommend@14)	SVO (V: recommend@14, S: experts@13, O: trial@16, A?: before@22)	SVC (C: ineffective@27, V: been@26, S: it@24)
+108	SVC (C: likely@7, V: are@5, S: Children@1, A?: more@6, XCOMP: find@9)
+109	EXISTENTIAL (V: is@2, S: evidence@4)	SVA (V: benefit@11, S: adolescents@6, A?: also@10, A!: from@12)
+110	SVO (V: reported@3, S: studies@2, O: rates@6, A?: in@8)	SVC (V: became@18, S: %@15, ACOMP: seizure-free@19)	SVO (V: had@27, S: %@24, O: reduction@31)
+111	SVO (V: examined@4, S: studies@2, A?: generally@3, O: cohort@6)	SVA (V: "be treated", S: patients@8, A!: recently@9, A?: by@11)	SVA (V: known@17, S: what@15, A!: as@18)	SVO (V: maintained@29, S: patients@25, A?: successfully@28, O: restrictions@32)
+112	SVC (C: difficult@6, V: are@5, S: studies@4, A?: However@1, XCOMP: compare@8)
+113	SVC (V: is@3, S: reason@2, CCOMP: suffered@8)	SVA (V: suffered@8, S: trials@7, A!: from@9, A?: excluded@15)	SVO (V: excluded@15, S: they@14, O: patients@16)	SVC (C: unable@19, V: were@18, S: patients@16, XCOMP: start@21)	SVC (C: selected@28, V: were@18, S: patients@16, XCOMP: start@21, A?: thereby@27, A?: from@29)	SVO (V: generate@33, S: patients@30, O: results@35)
+114	SVA (V: "be control", S: attempt@3, A!: for@6)	SVO (V: prefers@13, S: design@12, A?: In@1, O: cohort@16)	SVO (V: chosen@24, S: patients@19, A?: begins@27, O: cohort@16)	SVO (V: begins@27, S: therapy@26, CCOMP: presented@34)	SVA (V: presented@34, S: results@32, A?: in@29, A!: for@35)	SVO (V: started@42, S: they@41, O: treatment@46)	SVO (V: completed@44, S: they@41, O: treatment@46)
+115	SVC (V: is@8, S: difference@2, CCOMP: changed@20)	SVA (V: "be treated", S: patients@13, A!: with@15)	SVA (V: changed@20, S: type@11, A!: over@21)
+116	SVC (C: treatment@13, V: was@10, S: diet@9, A?: developed@3, A?: of@14)	SVO (V: tried@28, S: children@22, A?: in@18, A?: already@27, O: number@32, A-: so@37)	SVO (V: failed@30, S: children@22, A?: in@18, A?: already@27, O: number@32, A-: so@37)
+117	SVA (V: differ@6, S: studies@4, A?: also@5, A!: changed@12)	SV (V: changed@12, S: protocol@10)
+118	SVA (V: initiated@8, S: diet@6, A?: In@1, A!: with@9)
+119	SVA (V: led@7, S: Concerns@1, A!: to@8)	SVO (S: diet@13, V: "has", O: restrictions@15)
+120	SVC (C: feature@6, V: was@3, S: restriction@2, A?: once@4, A?: of@7)	SVA (V: led@13, S: this@12, A!: to@14)	SVC (V: considered@27, S: this@12, A?: to@14, A?: longer@26, ACOMP: beneficial@28)
+121	SVA (V: published@11, S: study@4, A!: in@12, A?: by@14)	SVA (V: "be published", S: report@26, A!: in@28)
+122	EXISTENTIAL (V: was@11, S: group@14, A?: As@1)	SVO (V: receive@20, S: patients@16, O: treatment@22)
+123	SVO (V: enrolled@3, S: study@2, O: children@5)
+124	SVA (V: were@9, S: %@6, A?: After@1, A!: still@10, A?: on@11)	SVO (V: experienced@18, S: %@16, O: reduction@21)	SVO (V: had@28, S: %@26, O: reduction@31)
+125	SVA (V: were@7, S: %@6, A?: At@1, A!: still@8, A?: on@9)	SVOC (V: had@15, S: %@14, O: response@18, CCOMP: had@22)	SVO (V: had@22, S: %@21, O: response@25)
+126	SVO (V: discontinued@4, S: Those@1, O: diet@6, A?: by@7)	SVA (V: did@10, S: Those@1, A-: so@11, A?: ineffective@15)	SVC (C: ineffective@15, V: was@14, S: it@13)	SV (V: remained@29, S: those@27)	SVA (V: benefiting@31, S: most@25, A!: from@32)
+127	SVC (C: %@18, V: was@16, S: percentage@2)
+128	SVA (V: "be was", S: reason@7, A!: become@17)	SVC (V: become@17, S: children@15, ACOMP: seizure-free@18)	SVC (V: better@21, S: children@15, ACOMP: seizure-free@18, A?: significantly@20)
+129	SVO (V: had@12, S: %@6, A?: At@1, O: reduction@15)	SVO (V: had@22, S: %@21, O: reduction@25)	SVO (V: include@35, S: figures@34, O: many@36)	SVA (V: were@38, S: many@36, A!: longer@40, A?: on@41)
+130	SVA (V: "be remaining", S: Those@1, A!: on@3, A?: after@6)	SVC (C: seizure-free@12, V: were@9, S: Those@1, A?: typically@10)	SVOC (C: had@15, V: were@9, S: Those@1, A?: typically@10, O: response@18)
+131	SVC (C: possible@3, V: is@2, S: It@1, XCOMP: combine@5)	SVA (V: "be produce", S: studies@11, O: evidence@14)	SVC (C: stronger@17, V: is@16, S: that@15, A?: than@18)	SVA (V: "be known", S: method@28, A!: as@30)
+132	SVA (V: "be conducted", S: One@1, A!: in@8)	SVA (V: looked@11, S: One@1, A!: at@12)
+133	SVO (V: concluded@2, S: It@1, CCOMP: achieved@7)	SVO (V: achieved@7, S: patients@6, O: reduction@11)	SVO (V: achieved@17, S: third@16, O: reduction@21)
+134	SVA (V: published@7, S: trial@5, A!: in@8)	SVO (V: had@12, S: which@11, O: design@16)	SVO (V: blinding@20, S: which@11, O: design@16)
+135	SVO (V: enrolled@3, S: study@2, O: children@5)	SVOC (V: selected@12, S: half@7, A?: randomly@11, XCOMP: start@14, O: children@5)
+136	SVO (V: acted@7, S: received@4, O: children@2, A?: as@8)	SVC (C: important@15, V: is@13, S: control@10, A?: particularly@14, A?: for@16)	SVOA (V: get@25, S: patients@23, A?: where@22, ACOMP: better@26, A!: regardless@29, O: epilepsy@21)
+137	SVO (V: had@11, S: %@10, A?: Of@1, CCOMP: became@35)	SV (V: reduction@30, S: %@23, A?: at@25)	SVC (V: became@35, S: reduction@17, ACOMP: seizure-free@36)
+138	SVO (V: saw@8, S: %@3, CCOMP: had@21)	SVO (V: had@21, S: reduction@14, O: reduction@25)
+139	SVA (V: fell@9, S: frequency@4, A!: by@10)	SVO (S: group@16, V: "has", O: frequency@20)	SVC (V: got@22, S: frequency@20, A?: actually@21, ACOMP: worse@23)
+140	SVO (V: recommend@8, S: AnticonvulsantsExperts@3, CCOMP: considered@12)	SVA (V: considered@12, S: it@9, A?: strongly@11, A!: for@13)	SV (V: tried@20, S: children@14)	SVO (V: failed@22, S: children@14, O: drugs@27)	SVO (V: start@32, S: children@30, O: diet@35)	SVO (V: failed@37, S: children@30, A?: times@41, O: number@43)
+141	SVA (V: indicated@5, S: diet@3, A!: as@6)
+142	SVA (V: approved@3, S: It@1, A!: by@4)	SVA (V: reimbursed@15, S: It@1, A?: by@4, A!: by@16)
+143	SVA (V: "be causing", S: abnormality@12, O: epilepsy@15)	SVO (V: make@19, S: epilepsy@15, O: candidates@21)	SVC (C: likely@26, V: are@24, S: lesion@5, A?: more@25, XCOMP: become@28)
+144	SVO (V: advises@13, S: Excellence@12, A?: In@1, CCOMP: recommended@20)	SVA (V: recommended@20, S: diet@16, A!: for@21)
+145	SVO (V: offer@8, S: centres@6, O: diet@11)
+146	SVO (V: consider@3, S: clinicians@2, O: variants@9)	SVA (C: appropriate@25, V: "be appropriate", S: variants@9, A!: more@24, A?: for@26)
+147	SVC (C: easy@10, V: is@8, S: form@3, A?: particularly@9, XCOMP: prepare@12)	SVC (C: tube-fed@27, V: are@26, S: infants@20)
+148	SVO (V: recommend@5, S: Advocates@1, CCOMP: considered@10)	SVA (V: considered@10, S: it@7, A?: seriously@9, A!: failed@15, A?: as@17)	SV (V: failed@15, S: medications@13)	SVA (V: "be succeeding", S: chance@19)
+149	SVA (V: considered@5, S: diet@2, A!: earlier@6, A?: for@7)	SVOO (V: shown@16, S: it@14, A?: where@13, O: usefulness@18, IO: syndromes@12)
+150	SVO (V: include@2, S: These@1, O: syndrome@4)
+151	SVO (V: found@12, S: survey@2, CCOMP: prescribed@17)	SVO (V: prescribed@17, S: %@15, A?: regularly@16, O: diet@19, A?: failed@26)	SV (V: failed@26, S: drugs@24)	SVO (V: prescribed@31, S: %@29, A?: occasionally@30, O: diet@33, A?: as@34)	SVO (V: prescribed@43, S: %@40, A?: only@42, O: diet@45, A?: in@46)	SVO (V: prescribed@57, S: %@54, O: diet@59)
+152	EXISTENTIAL (V: are@2, S: explanations@5)
+153	SVC (C: lack@7, V: be@5, S: factor@3, A?: of@8)	SVO (V: needed@15, S: dietitian@11, XCOMP: administer@17)
+154	SVO (V: alters@5, S: diet@4, O: metabolism@9)	SVO (S: body@7, V: "has", O: metabolism@9)	SVC (C: therapy@15, V: is@12, S: it@11, A?: alters@5, A?: in@16)
+155	SVA (V: contraindicated@6, S: it@3, A?: However@1, A?: absolutely@5, A!: in@7)
+156	SVC (S: dehydrogenase@4, V: "is", C: E1@6)	SVO (V: prevent@15, S: deficiency@8, O: body@17, A?: from@18)	SVA (V: leads@25, S: fuel@22, A!: to@26)
+157	SVC (C: beneficial@5, V: is@4, S: diet@3, A?: in@6)	SVC (C: indication@21, V: is@4, S: diet@3, A?: in@6)
+158	SVO (V: prevent@19, S: deficiency@8, A?: In@1, O: use@21)
+159	SVC (C: unable@11, V: is@10, S: person@2, A?: to@12)	SVO (V: replace@18, S: acids@15, O: carbohydrates@19, A?: as@20)
+160	SVO (S: their@6, V: "has", O: body@7)	SVA (V: "be leading", S: body@7, A!: to@18)	SVO (V: consume@9, S: body@7, A?: On@1, O: stores@13, A?: for@14, A?: leading@17)	SVO (V: eventually@22, S: body@7, A?: On@1, O: stores@13, A?: for@14, A?: leading@17)	SVO (S: its@10, V: "has", O: stores@13)
+161	SVA (V: initiated@6, S: diet@3, A?: usually@5, A!: in@7, A?: weaned@21)	SVO (S: patient@11, V: "has", O: regime@15)	SV (V: weaned@21, S: patients@18)	SVC (C: successful@28, V: is@27, S: diet@26)
+162	EXISTENTIAL (V: is@2, S: evidence@4, A?: combined@12)	SVA (V: combined@12, S: diet@10, A?: when@8, A!: with@13)	SVA (V: with@19, S: diet@10, A?: when@8, A?: with@13, A!: zonisamide@22)	SVC (C: successful@31, V: be@29, S: diet@27, A?: less@30, A?: in@32)	SVA (V: "be receiving", S: children@33, O: phenobarbital@35)
+163	SVC (C: treatment@12, V: is@4, S: diet@3, A?: for@13)
+164	SVC (C: severe@5, V: are@2, S: These@1, A?: generally@3, A?: less@4)
+165	SVO (V: include@8, S: Common@1, O: constipation@9, A?: is@18)	EXISTENTIAL (V: is@18, S: fast@21)
+166	SVA (V: affect@8, S: levels@2, A!: to@10)
+167	SVA (V: treated@4, S: This@1, A!: by@5, A?: persistent@27)
+168	SVC (C: necessary@3, V: are@2, S: Supplements@1, XCOMP: counter@5)
+169	SVO (V: increases@9, S: use@2, O: risk@11)
+170	SVO (V: reduces@3, S: diet@2, O: levels@4)	SVC (C: important@13, V: is@12, S: factor@8, A?: for@14)
+171	SVO (V: has@8, S: ketogenic@7, A?: Like@1, O: affect@11)
+172	SVA (V: involved@5, S: factors@2, A!: as@7)	SVO (V: suppressed@10, S: factors@2, A?: as@7, O: hormone@12)
+173	SVO (V: develop@11, S: 1@2, O: stones@13)
+174	SVA (V: "be known", S: anticonvulsants@4, A!: as@6)	SVC (S: topiramate@11, V: "is", C: zonisamide@13)	SVO (V: known@16, S: class@2, XCOMP: increase@18)	SVC (V: appear@37, S: combination@27, XCOMP: elevate@39)
+175	SVC (C: treatable@4, V: are@3, S: stones@2)	SVOC (C: justify@8, V: are@3, S: stones@2, O: discontinuation@9)
+176	SVA (V: "be resulting", S: Hospital@3, A!: in@17)	SVO (V: gives@5, S: Hospital@3, A?: now@4, O: supplements@9, A?: to@10, A?: resulting@16)
+177	SVA (V: tested@9, S: usage@5, A?: However@1, A!: in@10)
+178	SVC (S: formation@3, V: "is", C: nephrolithiasis@5)	SVA (V: associated@8, S: formation@3, A!: with@9, A?: for@12)	SVOC (V: include@22, S: effects@21, A?: In@16, CCOMP: raised@28, O: reasons@14)	SVO (V: raised@28, S: loss@24, O: levels@30)	SVO (V: in@33, S: loss@24, O: levels@30, A?: women@34)
+179	SVC (C: therapy@8, V: is@4, S: diet@3)	SVO (V: involves@10, S: therapy@8, O: participants@11)
+180	SVO (V: include@3, S: members@2, O: dietitian@7)	SVO (V: coordinates@9, S: dietitian@7, O: programme@12)	SVA (V: experienced@19, S: neurologist@16, A!: in@20)	SVC (C: familiar@32, V: is@31, S: nurse@29, A?: with@33)
+181	SVA (V: come@4, S: help@2, A!: from@5)	SVA (V: works@11, S: worker@9, A!: with@12)	SVA (V: advise@20, S: pharmacist@17, A!: on@21)
+182	SVO (V: educated@10, S: parents@4, A?: Lastly@1, A?: in@11, A?: for@17, XCOMP: implemented@22)
+183	SVO (V: present@5, S: Implementing@1, O: difficulties@6)	SVA (V: "be involved", S: commitment@16, A!: in@18)
+184	SVO (V: break@7, S: eating@4, A?: potentially@6, O: balance@10)	SVA (V: "be required", S: balance@10)	SVO (V: find@15, S: people@14, A?: break@7, O: discipline@17)	SVA (V: "be needed", S: discipline@17, XCOMP: maintain@20)
+185	SVO (V: terminate@3, S: people@2, O: diet@5, A?: to@8, A?: like@14, A?: find@28)	SVO (V: find@28, S: they@27, O: difficulties@30)
+186	SV (V: adopted@14, S: protocol@5, A?: widely@13)
+187	SVO (V: involves@2, S: It@1, O: consultation@4)	SVO (V: admission@18, S: It@1, O: consultation@4, A?: later@13)	SVO (S: their@9, V: "has", O: caregivers@10)
+188	SVO (V: begin@14, S: centres@13, A?: of@2, O: diet@16, A?: under@17)
+189	SVA (V: screened@8, S: patients@6, A?: At@1, A!: for@9)	SVO (V: contraindicate@13, S: conditions@10, O: diet@15)
+190	SV (V: obtained@5, S: history@3)	SVA (V: parameters@8, S: history@3, A!: of@9)	SVA (V: "be selected", S: diet@11)
+191	SV (V: decreased@17, S: proportion@9, A?: day@2)	SVO (V: begins@21, S: patient@20, XCOMP: fasting@22)	SVO (S: his@24, V: "has", O: meal@28)
+192	SVA (V: allowed@11, S: calorie@5, A?: On@1, A!: until@12)	SVC (V: consists@16, S: dinner@13, ACOMP: restricted@21)
+193	SVC (C: similar@7, V: are@6, S: The@1)	SVA (V: increased@21, S: dinner@19, A?: on@10, A!: to@22)	SVO (S: meal@27, V: "has", O: content@30)
+194	SVO (V: contains@7, S: dinner@6, A?: By@1, O: quota@11)	SVOC (C: meal@17, V: is@13, S: dinner@6, A?: By@1, O: quota@11)	SVC (S: meal@17, V: "is", C: eggnog@21)
+195	SV (V: discharged@13, S: patient@11, A?: After@1)
+196	SVO (S: patient@5, V: "has", O: medicines@8)	SVA (V: changed@10, S: medicines@8, A?: possible@2, A!: to@11)
+197	SVA (V: checked@9, S: levels@7, A?: When@1, A?: in@2, A!: times@11)	SVA (V: monitored@17, S: patient@15, A!: for@18)	SVA (V: treated@27, S: which@24, A!: with@28)
+198	SVC (C: common@7, V: are@6, S: Lack@1)	SVC (C: disappear@9, V: are@6, S: Lack@1, A?: within@10)
+199	SVOC (V: attend@3, S: parents@2, O: classes@4, A?: over@5, CCOMP: cover@13)	SVA (V: "be managing", S: which@12, O: diet@18)	SVOC (V: cover@13, S: which@12, O: nutrition@14, A?: managing@16, XCOMP: preparing@20, XCOMP: avoiding@23)
+200	SVA (V: "be required", S: level@2)	SVC (C: higher@10, V: is@9, S: level@2, A?: than@11)
+201	SVC (C: common@8, V: are@7, S: Variations@1)
+202	SVO (V: performed@5, S: initiation@2, XCOMP: using@6)
+203	EXISTENTIAL (V: is@3, S: fast@6, A?: Often@1)
+204	SVO (V: maintain@13, S: institutions@12, A?: than@2, O: size@15)	SVOC (V: alter@17, S: institutions@12, A?: than@2, O: size@15, O: ratio@20, A?: from@21)
+205	SV (V: benefit@4, S: patients@2)	SVA (V: half@6, S: patients@2, A!: achieve@7)	SV (V: three-quarters@30, S: patients@2)	SVA (V: "be achieve", S: half@6, O: reduction@10, A!: within@11)	SVA (V: starts@18, S: diet@17, A!: with@19)	SVO (V: achieve@41, S: %@40, O: reduction@43, A?: within@44)
+206	SVA (V: begin@6, S: diet@3, A!: with@7)	SVA (V: "be achieve", S: time@12, O: improvement@21)	SVC (C: weeks@26, V: is@22, S: time@12, A?: fast@9, A?: longer@23)	SVC (C: unaffected@35, V: are@34, S: rates@33)
+207	SVO (V: encouraged@3, S: Parents@1, XCOMP: persist@5)	SVA (V: made@19, S: consideration@17, A!: regarding@20)
+208	SVO (V: visits@7, S: child@5, A?: After@1, A?: regularly@6, O: clinic@11, A?: seen@15)	SVA (V: seen@15, S: they@13, A?: where@12, A!: by@16)	SV (V: performed@28, S: visits@7)
+209	SVA (V: held@3, S: These@1, A!: months@6, A?: thereafter@16)
+210	SVA (V: seen@7, S: Infants@1, A!: frequently@9, A?: with@11)	SVA (V: "be held", S: visit@14, A!: after@16)
+211	SVC (C: necessary@7, V: is@6, S: period@2, XCOMP: ensure@9, A?: maintained@13)	SVA (V: plans@20, S: adapt@17, A!: to@21)
+212	SVA (V: done@5, S: fine-tuning@2, A?: typically@4, A!: over@6)	SVO (V: includes@14, S: fine-tuning@2, A?: typically@4, A?: over@6, XCOMP: changing@15)	SVA (V: "be altering", S: changing@15, O: ratio@24)
+213	SVO (V: checked@5, S: levels@3, A?: daily@6, XCOMP: detect@8)	SV (V: achieved@13, S: ketosis@10)	SVO (V: confirm@16, S: ketosis@10, CCOMP: following@21)	SVO (V: following@21, S: patient@19, O: diet@23, A?: correlate@32)	SVA (V: correlate@32, S: level@27, A!: with@33)
+214	SVO (V: performed@3, S: This@1, XCOMP: using@4)	SVA (V: "be containing", S: strips@7, O: nitroprusside@9)	SVOC (V: change@12, S: nitroprusside@9, O: colour@13, A?: from@14, XCOMP: maroon@17)
+215	SVA (V: occur@8, S: increase@3, A!: during@9)	SV (V: fluctuate@15, S: levels@14)
+216	SVA (V: modified@5, S: diet@2, A!: remains@9)	SVC (V: remains@9, S: frequency@8, ACOMP: high@10)	SVO (V: losing@16, S: child@14, O: weight@17)
+217	SVA (V: come@5, S: Loss@1, A!: from@6)
+218	SVO (V: contain@7, S: food@5, O: carbohydrates@8)
+219	SVC (C: high@13, V: be@12, S: content@3, A?: enough@14, A?: for@15)	SVOC (C: negate@25, V: be@12, S: content@3, A?: enough@14, A?: for@15, A-: thus@24, O: ketosis@26)	SVA (V: "be absorbed", S: some@16, A!: through@20)
+220	SVO (V: achieve@10, S: %@3, O: freedom@11)	SVC (C: able@18, V: are@17, S: many@16, CCOMP: reduce@20)
+221	SVA (V: discontinued@24, S: diet@20, A?: Commonly@1, A?: at@3, A?: on@7, A?: gradually@23, A!: over@25)
+222	SVA (V: done@3, S: This@1, A!: by@4)	SV (V: detected@15, S: ketosis@11, A?: longer@14)
+223	SVO (V: mimics@7, S: timing@2, O: that@8)	SVO (V: become@20, S: child@18, A?: where@16, ACOMP: free@22, O: children@14)
+224	SVO (V: required@5, S: diet@3, A?: When@1, XCOMP: treat@7)	SVC (C: longer@16, V: be@15, S: duration@13, A?: required@5)
+225	SVA (V: is@5, S: duration@4, A!: up@6)	SVO (S: durations@16, V: studied@23, O: is@5)
+226	SVO (V: discontinue@3, S: Children@1, O: diet@5, A?: after@6)	SVA (V: have@10, S: Children@1, A!: about@11)	SVA (V: "be returning", S: seizures@17)
+227	SVC (C: variable@9, V: is@7, S: length@2, A?: highly@8)
+228	SVA (V: compares@5, S: risk@2, A!: with@6)	SV (V: removed@19, S: part@14, A?: where@13)
+229	SVO (V: have@4, S: those@2, O: recurrence@6)
+230	SVC (C: likely@4, V: is@2, S: Recurrence@1, A?: more@3)	SVC (S: electroencephalogram@12, V: "is", C: EEG@14)	SVOO (V: shows@16, S: electroencephalogram@12, O: spikes@18, IO: an@11)	SVO (V: indicate@21, S: spikes@18, O: activity@23)	SVO (V: are@28, S: spikes@18, O: activity@23, A?: below@29)	SVO (V: cause@34, S: level@31, O: seizure@36)
+231	SVC (C: likely@4, V: is@2, S: Recurrence@1, A?: also@3, A?: if@5)	SVOO (V: scan@8, S: MRI@7, O: abnormalities@11, IO: an@6)
+232	SVA (V: remain@4, S: children@2, A!: on@5, A?: longer@8)	SVO (V: suggested@16, S: it@13, CCOMP: remain@27)	SVO (V: achieve@23, S: children@18, O: freedom@25)	SVA (V: remain@27, S: children@18, A!: on@28, A?: indefinitely@32)
+233	SVO (V: _@14, S: series@4, O: phase@17)
+234	SVO (V: has@5, S: diet@4, O: calories@9)	SVO (S: its@8, V: "has", O: calories@9)	SVOO (V: have@15, S: others@14, A?: where@12, O: carbohydrate@18, IO: carbohydrates@11)
+235	SVC (C: higher@5, V: is@4, S: diet@3, A?: in@6, A?: than@8)
+236	SVA (V: comes@9, S: Most@1, A!: from@10)
+237	SVO (V: calculated@15, S: diet@13, A?: by@16, O: diets@10)
+238	SVO (V: affect@13, S: Age@1, O: plan@16)	SVO (V: affect@13, S: all@12, O: plan@16)
+239	SVA (V: set@7, S: requirements@5, A?: First@1, A!: at@8)	SVC (S: amounts@17, V: "is", C: RDA@19)	SVO (S: child@23, V: "has", O: age@25)	SVO (V: requires@30, S: diet@29, O: energy@32, A?: to@33, A?: than@35)
+240	SVO (V: require@9, S: children@3, O: calories@11)	SVO (V: require@17, S: children@16, O: less@18)
+241	SVO (V: compares@7, S: ratio@3, O: weight@9, A?: to@12)
+242	SVC (C: 4:1@4, V: is@2, S: This@1, A?: typically@3)	SVC (C: started@26, V: is@2, S: This@1, A?: typically@3, A?: older@15, A?: on@27)	SVC (C: younger@10, V: are@9, S: children@7, A?: than@11)	SVC (C: obese@23, V: are@22, S: who@21)
+243	SVC (C: energy-rich@3, V: is@2, S: Fat@1, A?: with@5, A?: compared@12, CCOMP: smaller@32)	SVC (S: kcal/g@7, V: "is", C: kJ/g@10)	SVC (S: kcal/g@15, V: "is", C: kJ/g@18)	SVC (C: smaller@32, V: are@31, S: portions@26, A?: than@33)
+244	SVA (V: calculated@10, S: quantity@2, A!: from@11)	SV (V: ratio@20, S: quantity@2, A?: from@11)
+245	SVO (V: set@7, S: levels@5, A?: Next@1, XCOMP: allow@9)	SVC (V: are@17, S: levels@5, A?: Next@1, XCOMP: allow@9, A?: around@18, A?: for@22)
+246	SVA (V: set@8, S: amount@4, A?: Lastly@1, A!: according@9)	SVO (V: left@14, S: allowance@12, O: what@11, A?: maintaining@16)
+247	SVA (V: subtracted@9, S: carbohydrate@2, A!: from@10)
+248	SVA (V: divided@14, S: amount@4, A-: then@12, A?: evenly@13, A!: across@15)
+249	SVO (V: used@9, S: program@3, XCOMP: help@11)
+250	SVO (V: have@4, S: meals@2, A?: often@3, O: components@6)	SVC (S: food@14, V: "is", C: meat@17)
+251	SVO (V: allowed@7, S: fruits@3, CCOMP: excludes@10)	SVO (V: excludes@10, S: which@9, O: bananas@11)
+252	SVA (V: divided@4, S: fruits@2, A!: into@5)	SVA (V: "be based", S: groups@7, A!: on@9)	SVO (V: contain@15, S: they@14, O: carbohydrate@13)	SVA (V: divided@21, S: divided@4, A?: similarly@20, A!: into@22)
+253	SVO (V: substituted@11, S: Foods@1, A?: freely@10, XCOMP: allow@13)
+254	
+255	SVC (C: equivalent@8, V: are@7, S: foods@6)	SVOC (C: cooked@13, V: are@7, S: foods@6, O: vegetables@14)	SV (V: differ@15, S: equivalent@8)	SVC (C: complication@23, V: are@20, S: foods@19)
+256	SVO (V: required@3, S: Parents@1, XCOMP: precise@6)
+257	SVO (V: eat@4, S: child@2, O: meal@7)	SVOC (V: have@11, S: child@2, O: meal@7, O: portions@13)	SVA (V: incorporated@19, S: snacks@16, A!: into@20)
+258	SVO (V: used@9, S: amount@3, XCOMP: help@11)
+259	SVC (C: diet@8, V: is@4, S: diet@3)	SVOC (C: contains@11, V: is@4, S: diet@3, A?: only@10, O: portions@13)	SVC (S: portions@13, V: "is", C: cereals@21)
+260	SVC (S: vitamins@6, V: "is", C: calcium@8)	SV (V: supplemented@15, S: vitamins@6, A?: In@1, A?: artificially@14)
+261	SVA (V: achieved@3, S: This@1, A!: by@4)	SVA (V: "be designed", S: supplements@8, A!: for@10)	SVO (S: patient@12, V: "has", O: age@14)
+262	SVO (V: comprises@22, S: diet@21, O: day@3)	SVO (V: contains@27, S: fat@26, O: triglyceride@30)	SVC (S: triglyceride@30, V: "is", C: T@33)
+263	SVC (C: ketogenic@5, V: are@3, S: triglycerides@2, A?: more@4, A?: than@6, A?: generate@10)	SVO (V: generate@10, S: they@9, O: ketones@12, A?: metabolised@18)
+264	SVO (S: Their@1, V: "has", O: use@2)	SVO (V: allows@3, S: use@2, A?: for@4, XCOMP: leading@22)
+265	SVA (V: "be developed", S: diet@4, A!: by@6, A?: in@9)	SVA (V: "be derived", S: 1970s@11, O: %@14, A!: from@18)	SVO (S: its@16, V: "has", O: calories@17)
+266	SVO (V: caused@7, S: Consuming@1, O: cramps@9, A?: in@14)
+267	SVA (V: regarded@7, S: figure@2, A!: as@8)
+268	SVC (C: effective@10, V: are@8, S: diets@7, A?: equally@9)	SVC (C: significant@18, V: are@15, S: differences@12, A?: statistically@17)
+269	SVC (C: popular@6, V: is@4, S: diet@3, A?: less@5, A?: in@7)	SVC (C: expensive@16, V: is@14, S: oil@13, A?: more@15, A?: than@17)	SVC (C: covered@24, V: is@14, S: oil@13, A?: more@15, A?: than@17, A?: by@25)
+270	SVO (V: reported@2, S: First@1, A?: in@3, CCOMP: came@19)	SVA (V: "be treat", S: using@9, O: epilepsy@18)	SVA (V: came@19, S: idea@7, A!: about@20, A?: discovered@25)	SVA (V: discovered@25, S: parents@22, A!: that@26)	SV (V: seizures@35, S: diet@33)
+271	SVOC (V: modified@9, S: team@4, O: diet@12, A?: by@13, XCOMP: extending@22)
+272	SVC (S: diet@10, V: "is", C: MAD@12)	SVO (V: places@14, S: diet@10, A?: Compared@1, O: limit@16)	SVO (V: need@34, S: ratio@27, XCOMP: maintained@38)
+273	SVA (V: begin@5, S: MAD@2, A!: with@6)	SVO (V: requires@16, S: MAD@2, A?: with@6, O: support@19)
+274	SVA (V: limited@4, S: Carbohydrates@1, A?: initially@3, A!: to@5)	SVA (V: increased@22, S: Carbohydrates@1, A?: initially@3, A?: to@5, A!: to@23)
+275	SVO (V: requires@8, S: MAD@7, A?: Like@1, O: supplements@12)
+276	SVO (V: reduces@5, S: diet@4, O: frequency@7, A?: by@8, A?: in@13)	SVO (V: try@19, S: patients@17, O: it@20)	SVO (V: by@22, S: patients@17, O: it@20, A?: %@26, A?: in@27)
+277	SVA (V: reported@6, S: effects@3, A!: increased@11)	SV (V: increased@11, S: cholesterol@9)	SVO (V: studied@18, S: diet@14, O: term@20)
+278	SVA (V: compare@25, S: results@22, A?: based@2, A!: favourably@26, A?: with@27)
+279	SVC (S: treatment@5, V: "is", C: LGIT@7)	SVC (C: attempt@11, V: is@9, S: treatment@5, A?: achieve@13)	SVA (V: "be achieve", S: attempt@11, O: levels@18)	SVA (V: "be seen", S: levels@18, A!: in@20, A?: using@28)
+280	SVC (V: is@3, S: hypothesis@2, CCOMP: one@10)	SVC (C: one@10, V: be@9, S: glucose@7, A?: of@11)	SVA (V: "be involved", S: action@15, A!: in@17)	SVA (V: occurs@23, S: diet@20, A!: slowed@32)	SVA (V: slowed@32, S: absorption@26, A!: by@33)
+281	SVC (C: diet@7, V: is@3, S: it@2, A?: also@4, A?: with@9)	SVC (V: allows@20, S: LGIT@19, A?: diet@7, ACOMP: carbohydrate@22)	SVC (S: diet@28, V: "is", C: 40@36)
+282	SVA (V: "be consumed", S: carbohydrates@6)	SVC (C: restricted@9, V: are@8, S: types@4, A?: However@1, A?: to@10)	SVO (V: have@13, S: those@11, O: index@16)
+283	SVA (V: initiated@10, S: LGIT@8, A?: Like@1, A!: at@13)	SVC (V: require@19, S: LGIT@8, A?: Like@1, A?: at@13, ACOMP: precise@20)	SVA (V: maintained@12, S: LGIT@8, A?: Like@1, A!: at@13)
+284	SVA (V: offered@3, S: Both@1, A!: at@4)	SVO (V: run@8, S: centres@6, O: programmes@11)	SVC (C: therapy@23, V: are@18, S: they@17, A?: in@14, A?: often@19, A?: for@24)
+285	SVO (V: indicate@6, S: results@2, CCOMP: experience@16)	SVO (V: experience@16, S: half@12, A?: at@8, O: reduction@22, A?: with@27)	SVA (V: "be approaching", S: figures@29, O: that@31)
+286	SVO (S: centre@7, V: "has", O: experience@9)	SVO (V: indicate@20, S: data@2, A?: also@19, O: effects@23)	SVA (V: tolerated@33, S: it@30, A?: better@32, A!: with@35)
+287	
+288	SVA (V: "be fed", S: Infants@12, A!: via@16)	SVOO (V: given@23, S: formula@5, A?: also@21, O: diet@26, IO: KetoCal@1)
+289	SVO (V: make@2, S: Parents@1, O: formula@7, A?: into@13)
+290	SVO (V: avoids@3, S: feeding@2, O: issues@5)	SVO (V: accept@13, S: infants@11, A?: readily@12, O: formula@16)
+291	SVO (V: found@4, S: studies@2, O: feed@7)
+292	SVC (C: food@6, V: is@2, S: KetoCal@1, A?: containing@7)	SVC (C: supplemented@12, V: is@2, S: KetoCal@1, A?: containing@7, A?: with@13)	SVA (V: "be containing", S: food@6, O: protein@9)
+293	SVO (V: used@3, S: It@1, XCOMP: administer@5)
+294	SVC (C: available@4, V: is@3, S: formula@2, A?: in@5)
+295	SVO (V: include@4, S: products@3, O: KetoVolve@5)
+296	SVA (V: produced@9, S: diet@6, A?: Alternatively@1, A!: by@10)
+297	EXISTENTIAL (V: are@2, S: restrictions@5)	SV (V: used@13, S: diet@10, A?: where@7)	SVO (V: cost@18, S: it@16, O: less@19)
+298	SVA (V: affected@8, S: changes@6, A?: However@1, A!: by@9)
+299	SVO (V: prepared@7, S: food@4, A?: where@3, A?: often@6, A?: by@8, O: culture@2)	SVO (V: means@13, S: help@12, CCOMP: educated@18)	SVA (V: educated@18, S: people@15, A!: about@19)
+300	SVO (V: dine@3, S: families@2, A?: When@1, A?: together@4, XCOMP: sharing@6)	SVC (C: difficult@14, V: be@13, S: it@11, A?: dine@3, XCOMP: separate@16)	SVO (S: child@18, V: "has", O: meal@20)
+301	SVC (C: mandatory@9, V: is@7, S: labelling@6, A?: In@1, A?: difficult@21)	SVC (C: difficult@21, V: is@20, S: calculating@11)
+302	SVC (C: hard@8, V: be@7, S: it@5, A?: In@1, XCOMP: find@10, XCOMP: purchase@19)
+303	SVO (V: prevent@4, S: laws@3, XCOMP: mixing@5)
+304	SVOC (V: includes@7, S: diet@6, A?: In@1, O: rice@8, A?: as@11, XCOMP: making@17)	SVO (S: their@18, V: "has", O: elimination@19)	SV (V: difficult@20, S: elimination@19)
+305	SVO (V: allows@10, S: form@4, O: carbohydrate@12)	SVC (V: proved@15, S: form@4, A?: Therefore@1, ACOMP: useful@16)
+306	SVO (V: affect@7, S: beliefs@5, A?: In@1, A?: commonly@6, O: diet@9)	SVC (C: vegetarians@14, V: are@13, S: patients@12)	SVOC (C: eat@19, V: are@13, S: patients@12, O: vegetables@21)	SVOC (C: avoid@24, V: are@13, S: patients@12, O: beef@25)
+307	SVA (V: started@6, S: diet@4, A!: without@7)
+308	SVO (V: means@13, S: nature@5, CCOMP: have@19)	SVO (S: their@15, V: "has", O: diets@17)	SVO (V: have@19, S: diets@17, A?: typically@18, O: ratio@23)	SVC (S: ratio@23, V: "is", C: 1:1@25)
+309	SVC (V: appear@4, S: they@3, A?: However@1, XCOMP: effective@9)
+310	SVC (C: expensive@10, V: is@9, S: diet@8, A?: In@1, A?: dearer@17)	SVC (C: dearer@17, V: are@16, S: fats@13, A?: than@18)
+311	SVA (V: proposed@7, S: diet@4, A!: as@8)	SVA (V: offset@24, S: bill@21, A!: by@25, A?: successful@35)	SVC (C: successful@35, V: is@34, S: diet@33)
+312	SVC (C: complex@7, V: is@5, S: diet@4, A?: less@6, XCOMP: explain@9)	SVOC (C: requires@13, V: is@5, S: diet@4, A?: less@6, XCOMP: explain@9, O: support@15)
+313	
+314	
+315	
+316	SVA (V: composed@10, S: brain@8, A!: of@11)	SVO (V: transmit@17, S: neurons@15, O: signals@18, A?: by@19)
+317	SVO (S: neuron@8, V: "has", O: synapse@10)	SVA (V: controlled@15, S: propagation@2, A?: typically@14, A!: by@16, A?: are@21)	EXISTENTIAL (V: are@21, S: pathways@24, A?: also@22)
+318	SVO (V: inhibit@3, S: Neurotransmitters@1, O: firing@5)	SVO (V: excite@19, S: they@17, O: neuron@21, A?: into@22)
+319	SVO (V: releases@4, S: neuron@2, O: neurotransmitters@6, A?: from@7)	SVO (S: its@8, V: "has", O: terminals@9)	SVO (V: called@11, S: neuron@2, O: neuron@14, A?: neuron@25)	SVO (V: releases@19, S: one@17, O: neurotransmitters@21)	SVC (C: neuron@25, V: is@22, S: one@17)
+320	SVA (V: disrupted@11, S: balance@4, A?: When@1, A?: significantly@10, A!: in@12)	SV (V: occur@23, S: seizure@21, A?: disrupted@11)
+321	SVC (C: target@7, V: is@4, S: system@3, A?: for@8, A?: discouraged@16)	SVA (V: discouraged@16, S: seizures@13, A!: by@17)	SVA (V: "be decreasing", S: increasing@18, O: breakdown@24)	SVO (S: its@23, V: "has", O: breakdown@24)	SVO (S: its@28, V: "has", O: effect@29)
+322	SVA (V: characterised@5, S: impulse@3, A!: by@6)	SVA (V: "be followed", S: influx@9, A!: by@22)	SVO (S: neuron@17, V: "has", O: membrane@20)
+323	SVC (C: unable@4, V: is@3, S: neuron@2, XCOMP: fire@6)	SVA (V: mediated@22, S: time@11, A!: by@23)
+324	SVA (V: governed@8, S: flow@2, A!: by@9)	SVA (V: opened@16, S: gate@12, A!: by@17)	SVA (V: "be known", S: messenger@25, A!: as@27)
+325	SVC (C: target@5, V: are@3, S: channels@2, A?: for@6)
+326	EXISTENTIAL (V: are@2, S: ways@4)	SVO (V: occurs@8, S: epilepsy@7, A?: in@5, O: ways@4)
+327	SVO (V: include@5, S: Examples@1, O: connections@9)	SVA (V: "be leading", S: structure@20, A!: to@22)	SVA (V: "be leading", S: neurotransmitters@42, A!: to@44)
+328	SVOA (V: put@6, S: hypotheses@3, A!: forward@7, XCOMP: explain@9)	SVC (V: remains@17, S: it@16, A?: how@10, CCOMP: works@14, XCOMP: mystery@19)
+329	SVO (V: include@3, S: hypotheses@2, O: acidosis@5)	SVC (S: acidosis@5, V: "is", C: changes@17)	SVC (S: acidosis@5, V: "is", C: levels@8)	SVC (S: hypoglycaemia@19, V: "is", C: glucose@23)
+330	SVO (V: known@6, S: changes@4, XCOMP: occur@8)	SVO (V: known@23, S: it@20, A?: known@6, CCOMP: has@27)	SVO (V: has@27, S: which@24, O: effect@30)
+331	SVC (C: similar@9, V: is@8, S: lack@2, A?: to@10)
+332	SVC (C: restricted@8, V: are@7, S: carbohydrates@6, A?: On@1)
+333	SVA (V: used@6, S: acids@4, A?: Instead@1, A!: as@7)
+334	SVA (V: used@3, S: These@1, A!: through@4, A?: in@7)	SVO (S: cell@9, V: "has", O: mitochondria@11)
+335	SVO (V: convert@3, S: Humans@1, O: acid@6, A?: into@7, A?: by@9)	SVOC (V: do@18, S: Humans@1, O: acid@6, A?: into@7, A?: by@9, O: this@19, A?: for@20)	SVA (V: "be called", S: process@11)
+336	SVO (V: needed@5, S: acids@3, XCOMP: make@7)	SVC (C: essential@12, V: are@11, S: proteins@8, A?: for@13)	SVO (V: used@25, S: these@21, A?: needed@5, XCOMP: produce@28)
+337	SVO (V: pose@3, S: This@1, O: problem@5, A?: fuelled@14)	SVA (V: fuelled@14, S: it@11, A?: normally@13, A!: solely@15, A?: by@16)	SVO (V: cross@24, S: acids@21, O: blood@26)
+338	SVO (V: use@6, S: liver@4, A?: Fortunately@1, O: acids@8, A?: synthesise@10)	SVA (V: "be synthesise", S: liver@4, O: bodies@14)
+339	SVO (V: enter@4, S: bodies@3, O: brain@6)
+340	SVC (C: anticonvulsant@6, V: are@4, S: bodies@3, A?: possibly@5, A?: in@7)
+341	SVA (V: results@4, S: diet@3, A!: in@5)	SVO (V: increase@13, S: changes@7, O: reserves@16)	SVC (C: fuel@24, V: are@20, S: bodies@19, A?: than@25)	SV (V: increased@34, S: number@30)
+342	SVO (V: help@3, S: This@1, O: neuron@5)	SVOC (V: confer@22, S: This@1, O: neuron@5, O: effect@25)	SVA (V: "be remain", S: neuron@5, ACOMP: stable@8, A!: in@9, A?: during@16)
+343	SVA (V: studied@6, S: diet@3, A!: in@7)
+344	SVC (C: protective@3, V: is@2, S: It@1, A?: in@4)	SVOC (C: has@10, V: is@2, S: It@1, A?: in@4, O: profile@14)
+345	SVA (V: "be used", S: fenofibrate@3, A!: clinically@7, A?: as@8)	SVO (V: exhibits@12, S: fenofibrate@3, A?: Conversely@1, O: properties@15)
+346	SVA (V: "be showing", S: studies@7, O: efficacy@10, A!: in@11)	SVO (S: its@9, V: "has", O: efficacy@10)	SVO (V: failed@15, S: patients@12, XCOMP: achieve@17)	SVOO (V: suggests@26, S: This@3, A?: together@5, O: mechanism@29, IO: 19054409@2)
+347	SVO (V: suppress@2, S: Anticonvulsants@1, O: seizures@4)	SVO (V: cure@9, S: they@7, A?: neither@8, O: development@13)	SVO (V: prevent@11, S: they@7, A?: neither@8, O: development@13)
+348	SVC (S: epilepsy@4, V: "is", C: epileptogenesis@6)	SVC (C: process@10, V: is@8, S: development@2)	SV (V: understood@14, S: process@10, A?: poorly@13)
+349	SVO (V: shown@12, S: anticonvulsants@3, O: properties@14)
+350	SVO (V: achieved@7, S: anticonvulsant@4, A?: However@1, A?: ever@6, O: this@8, A?: in@9)
+351	SVO (V: found@6, S: diet@3, XCOMP: have@8)
+352	SVC (C: treatment@8, V: be@5, S: diet@3, A?: for@9)
+353	SVO (V: indicate@6, S: reports@2, CCOMP: treatment@13)	SVC (C: treatment@13, V: be@10, S: it@8, A?: for@14)	SVC (S: astrocytoma@15, V: "is", C: type@18)
+354	SVO (V: shown@20, S: Autism@1, A?: also@18, XCOMP: improve@22)
+355	EXISTENTIAL (V: is@2, S: evidence@3)	EXISTENTIAL (C: protective@46, V: be@45, S: evidence@3, A?: in@47)	SVO (V: provide@18, S: diet@16, O: activity@22)	SVO (S: Alzheimer@35, V: "has", O: disease@37)	SVO (S: Parkinson@39, V: "has", O: disease@41)
+356	SVC (C: inefficient@5, V: are@4, S: cells@3, A?: in@6)	SVA (V: suggested@19, S: diet@15, A?: inefficient@5, A?: also@17, A!: as@20)
+357	EXISTENTIAL (V: is@4, S: evidence@6)	SVA (V: "be support", S: evidence@6, O: use@10, A!: as@15)	SVC (C: ongoing@31, V: are@30, S: trials@25, A?: however@22)
+358	SVC (S: caprylidene@5, V: "is", C: Axona@7)	SVA (V: approved@10, S: caprylidene@5, A?: In@1, A!: as@11, A?: by@15, A?: for@22)	SVA (V: "be associated", S: processes@29, A!: with@34)	SVO (S: Alzheimer@38, V: "has", O: disease@40)
+359	SVC (C: impaired@7, V: is@6, S: metabolism@2, A?: in@8)	SVO (S: Alzheimer@9, V: "has", O: disease@11)	SVO (V: proposed@16, S: it@14, CCOMP: provide@21)	SVO (V: provide@21, S: bodies@19, O: source@25)
+360	SVC (C: form@5, V: is@2, S: Caprylidene@1, A?: of@6)
+361	SVC (S: ref@4, V: "is", C: stands@10)	SVC (S: unit@15, V: "is", C: kJ@20)
+362	SVA (V: stands@4, S: calories@3, A!: for@5, A?: from@9)
+363	
+364	
+365	
+366	
+367	
+368	SVC (S: Galen@1, V: "is", C: attenuante@5)
+369	
+370	
+371	
+372	
+373	
+374	
+375	SVA (V: refers@11, S: fasting@7, A?: stated@3, A!: to@12)
+376	SVO (V: defined@5, S: reduction@3, A?: here@6, XCOMP: mean@8)
+377	SVC (C: 90@6, V: is@4, S: reduction@3)
+378	SVC (S: unit@11, V: "is", C: kJ@16)
+379	SVA (V: stands@4, S: calories@3, A!: for@5, A?: from@9)
+380	
+381	
+382	
+383	
+384	
+385	SVC (S: Galen@1, V: "is", C: attenuante@5)
+386	
+387	
+388	
+389	
+390	
+391	
+392	SVA (V: refers@11, S: fasting@7, A?: stated@3, A!: to@12)
+393	SVO (V: defined@5, S: reduction@3, A?: here@6, XCOMP: mean@8)
+394	SVC (C: 90@6, V: is@4, S: reduction@3)
+395	SVC (S: 30em@1, V: "is", C: PDF@3)
+396	SVC (S: Accera@1, V: "is", C: Inc.@3)
+397	
+398	
+399	
+400	
+401	SVC (S: EE@2, V: "is", C: HH@5)	SVC (S: HH@5, V: "is", C: EA@8)
+402	
+403	
+404	
+405	
+406	
+407	
+408	
+409	SVC (S: KW@2, V: "is", C: AL@5)
+410	
+411	
+412	
+413	
+414	
+415	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+416	
+417	
+418	
+419	
+420	
+421	
+422	
+423	
+424	
+425	
+426	
+427	
+428	
+429	
+430	
+431	
+432	
+433	SVC (S: HM@3, V: "is", C: M@6)	SVC (S: HM@3, V: "is", C: JW@9)
+434	
+435	
+436	
+437	
+438	
+439	
+440	
+441	SVC (S: R@2, V: "is", C: P.@5)
+442	
+443	
+444	
+445	SVC (S: JM@4, V: "is", C: EP@7)	SVC (S: JM@4, V: "is", C: DJ@10)	SVC (S: JM@4, V: "is", C: PL@13)	SVC (S: JM@4, V: "is", C: JC@16)	SVC (S: JM@4, V: "is", C: LM@19)
+446	
+447	
+448	
+449	
+450	
+451	
+452	
+453	
+454	
+455	SVC (S: JM@2, V: "is", C: EH@5)	SVC (S: JM@2, V: "is", C: AL@8)
+456	
+457	
+458	
+459	
+460	
+461	SVC (S: M@4, V: "is", C: MA@7)	SVC (S: M@4, V: "is", C: AL@10)
+462	
+463	
+464	SVC (S: G@4, V: "is", C: Marie@6)
+465	
+466	
+467	
+468	SVC (S: Bailey@4, V: "is", C: 2005@6)
+469	
+470	
+471	SVC (S: AL@2, V: "is", C: MA@11)
+472	
+473	
+474	
+475	
+476	
+477	
+478	SVC (S: AL@2, V: "is", C: EP@5)
+479	
+480	
+481	
+482	SVC (S: C@4, V: "is", C: JM@7)	SVC (S: C@4, V: "is", C: DJ@10)	SVC (S: C@4, V: "is", C: PL@13)
+483	
+484	
+485	
+486	SVC (S: CB@2, V: "is", C: FM@5)	SVC (S: CB@2, V: "is", C: SC@8)	SVC (S: CB@2, V: "is", C: JL@11)	SVC (S: CB@2, V: "is", C: DA@14)
+487	
+488	
+489	
+490	
+491	
+492	SVC (S: J@4, V: "is", C: EH@7)
+493	
+494	
+495	
+496	SVC (S: PR@4, V: "is", C: AJ@7)	SVC (S: PR@4, V: "is", C: JM@10)
+497	
+498	
+499	SVC (S: 21@4, V: "is", C: 11@6)
+500	SVC (S: PR@4, V: "is", C: DA@13)
+501	
+502	SVC (S: 137@4, V: "is", C: 5@6)
+503	
+504	
+505	
+506	
+507	
+508	
+509	
+510	
+511	
+512	
+513	
+514	SVC (S: DY@2, V: "is", C: JM@5)
+515	
+516	
+517	
+518	
+519	
+520	SVC (S: EH@4, V: "is", C: JM@7)
+521	SVO (S: physician@6, V: "has", O: perspective@8)
+522	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+523	
+524	
+525	
+526	
+527	
+528	
+529	SVC (S: EH@2, V: "is", C: JM@8)
+530	
+531	
+532	
+533	
+534	
+535	
+536	SVC (S: EH@2, V: "is", C: JR.@5)
+537	
+538	
+539	
+540	
+541	
+542	
+543	
+544	
+545	SVC (S: J@4, V: "is", C: P@7)	SVC (S: J@4, V: "is", C: G@10)	SVC (S: J@4, V: "is", C: A@13)	SVC (S: J@4, V: "is", C: E.@16)
+546	
+547	
+548	
+549	
+550	
+551	
+552	
+553	
+554	SVC (S: 2007@1, V: "is", C: March@3)
+555	
+556	
+557	SVC (S: EH@2, V: "is", C: LC@5)	SVC (S: EH@2, V: "is", C: R@8)	SVC (S: EH@2, V: "is", C: PF@11)	SVC (S: EH@2, V: "is", C: PL@14)	SVC (S: EH@2, V: "is", C: RM@17)	SVC (S: EH@2, V: "is", C: al@20)
+558	
+559	
+560	
+561	
+562	
+563	
+564	SVC (S: EH@2, V: "is", C: JL@5)	SVC (S: EH@2, V: "is", C: MR@8)	SVC (S: EH@2, V: "is", C: KR@11)
+565	
+566	
+567	
+568	
+569	SVC (S: EH@2, V: "is", C: JL@5)
+570	
+571	
+572	
+573	
+574	
+575	
+576	SVC (S: EH@2, V: "is", C: BA@5)	SVC (S: EH@2, V: "is", C: PE@8)	SVC (S: EH@2, V: "is", C: KR@11)	SVC (S: EH@2, V: "is", C: AG@14)	SVC (S: AG@14, V: "is", C: R@17)	SVC (S: AG@14, V: "is", C: al@20)
+577	SVA (V: "be receiving", S: children@5, O: diet@9)
+578	
+579	
+580	
+581	
+582	
+583	SVC (S: EH@2, V: "is", C: BA@5)	SVC (S: BA@5, V: "is", C: JM@8)
+584	
+585	
+586	
+587	
+588	
+589	
+590	SVC (S: EH@2, V: "is", C: JM@5)
+591	
+592	
+593	
+594	
+595	
+596	
+597	
+598	SVC (S: triglyceride@2, V: "is", C: MCT@4)
+599	
+600	
+601	
+602	
+603	
+604	SVC (S: M@2, V: "is", C: JM@5)	SVC (S: M@2, V: "is", C: MP@8)
+605	
+606	
+607	
+608	
+609	
+610	SVC (S: CC@2, V: "is", C: EH@8)
+611	
+612	
+613	
+614	
+615	
+616	SVC (S: KS@2, V: "is", C: BL@14)
+617	
+618	
+619	
+620	
+621	
+622	
+623	
+624	SVC (S: MA@2, V: "is", C: EH@14)
+625	SVO (V: reduces@6, S: use@2, O: incidence@8, A?: with@9)
+626	
+627	
+628	
+629	
+630	
+631	
+632	SVC (S: DA@2, V: "is", C: DA@5)	SVC (S: DA@2, V: "is", C: N@8)	SVC (S: N@8, V: "is", C: EA@17)	SVC (S: N@8, V: "is", C: KD@11)	SVC (S: N@8, V: "is", C: HH@14)
+633	
+634	
+635	SVC (S: 50@4, V: "is", C: 5@6)
+636	
+637	
+638	SVC (S: K@4, V: "is", C: SC@7)
+639	
+640	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+641	
+642	
+643	
+644	
+645	
+646	SVC (S: EJ@5, V: "is", C: A@8)	SVC (S: EJ@5, V: "is", C: J@11)	SVC (S: EJ@5, V: "is", C: R.@14)
+647	
+648	
+649	
+650	SVC (S: S1474-4422@3, V: "is", C: 08@5)
+651	SVC (S: EG@2, V: "is", C: H@5)	SVC (S: EG@2, V: "is", C: RH@8)	SVC (S: EG@2, V: "is", C: MS@11)	SVC (S: EG@2, V: "is", C: N@14)	SVC (S: N@14, V: "is", C: G@17)	SVC (S: N@14, V: "is", C: al@20)
+652	
+653	
+654	
+655	SVC (S: S1474-4422@3, V: "is", C: 08@5)
+656	
+657	
+658	
+659	
+660	
+661	
+662	
+663	
+664	
+665	
+666	SVC (S: A@2, V: "is", C: EP@14)
+667	
+668	
+669	
+670	
+671	
+672	
+673	
+674	
+675	
+676	
+677	
+678	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+679	
+680	
+681	
+682	
+683	
+684	
+685	SVC (S: RS@2, V: "is", C: EH@11)
+686	
+687	SVC (S: 16@4, V: "is", C: 7@6)
+688	
+689	
+690	
+691	
+692	
+693	
+694	
+695	
+696	
+697	SVC (S: 33@1, V: "is", C: 78@11)
+698	
+699	SVC (S: Z@2, V: "is", C: EH@5)
+700	
+701	
+702	
+703	SVC (S: GL@17, V: "is", C: al@20)
+704	
+705	SVC (S: 55@4, V: "is", C: 11@6)
+706	
+707	
+708	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+709	
+710	
+711	
+712	SVC (S: B@2, V: "is", C: ML@8)
+713	SVO (S: Dietitian@9, V: "has", O: Role@11)
+714	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+715	
+716	
+717	
+718	
+719	
+720	
+721	SVC (S: BA@2, V: "is", C: Spellman@4)
+722	
+723	
+724	
+725	
+726	
+727	
+728	
+729	
+730	
+731	
+732	
+733	
+734	
+735	
+736	
+737	SVC (S: Accera@1, V: "is", C: Inc.@3)
+738	
+739	
+740	
+741	
+742	SVC (S: EE@2, V: "is", C: HH@5)	SVC (S: HH@5, V: "is", C: EA@8)
+743	
+744	
+745	
+746	
+747	
+748	
+749	
+750	SVC (S: KW@2, V: "is", C: AL@5)
+751	
+752	
+753	
+754	
+755	
+756	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+757	
+758	
+759	
+760	
+761	
+762	
+763	
+764	
+765	
+766	
+767	
+768	
+769	
+770	
+771	
+772	
+773	
+774	SVC (S: HM@3, V: "is", C: M@6)	SVC (S: HM@3, V: "is", C: JW@9)
+775	
+776	
+777	
+778	
+779	
+780	
+781	
+782	SVC (S: R@2, V: "is", C: P.@5)
+783	
+784	
+785	
+786	SVC (S: JM@4, V: "is", C: EP@7)	SVC (S: JM@4, V: "is", C: DJ@10)	SVC (S: JM@4, V: "is", C: PL@13)	SVC (S: JM@4, V: "is", C: JC@16)	SVC (S: JM@4, V: "is", C: LM@19)
+787	
+788	
+789	
+790	
+791	
+792	
+793	
+794	
+795	
+796	SVC (S: JM@2, V: "is", C: EH@5)	SVC (S: JM@2, V: "is", C: AL@8)
+797	
+798	
+799	
+800	
+801	
+802	SVC (S: M@4, V: "is", C: MA@7)	SVC (S: M@4, V: "is", C: AL@10)
+803	
+804	
+805	SVC (S: G@4, V: "is", C: Marie@6)
+806	
+807	
+808	
+809	SVC (S: Bailey@4, V: "is", C: 2005@6)
+810	
+811	
+812	SVC (S: AL@2, V: "is", C: MA@11)
+813	
+814	
+815	
+816	
+817	
+818	
+819	SVC (S: AL@2, V: "is", C: EP@5)
+820	
+821	
+822	
+823	SVC (S: C@4, V: "is", C: JM@7)	SVC (S: C@4, V: "is", C: DJ@10)	SVC (S: C@4, V: "is", C: PL@13)
+824	
+825	
+826	
+827	SVC (S: CB@2, V: "is", C: FM@5)	SVC (S: CB@2, V: "is", C: SC@8)	SVC (S: CB@2, V: "is", C: JL@11)	SVC (S: CB@2, V: "is", C: DA@14)
+828	
+829	
+830	
+831	
+832	
+833	SVC (S: J@4, V: "is", C: EH@7)
+834	
+835	
+836	
+837	SVC (S: PR@4, V: "is", C: AJ@7)	SVC (S: PR@4, V: "is", C: JM@10)
+838	
+839	
+840	SVC (S: 21@4, V: "is", C: 11@6)
+841	SVC (S: PR@4, V: "is", C: DA@13)
+842	
+843	SVC (S: 137@4, V: "is", C: 5@6)
+844	
+845	
+846	
+847	
+848	
+849	
+850	
+851	
+852	
+853	
+854	
+855	SVC (S: DY@2, V: "is", C: JM@5)
+856	
+857	
+858	
+859	
+860	
+861	SVC (S: EH@4, V: "is", C: JM@7)
+862	SVO (S: physician@6, V: "has", O: perspective@8)
+863	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+864	
+865	
+866	
+867	
+868	
+869	
+870	SVC (S: EH@2, V: "is", C: JM@8)
+871	
+872	
+873	
+874	
+875	
+876	
+877	SVC (S: EH@2, V: "is", C: JR.@5)
+878	
+879	
+880	
+881	
+882	
+883	
+884	
+885	
+886	SVC (S: J@4, V: "is", C: P@7)	SVC (S: J@4, V: "is", C: G@10)	SVC (S: J@4, V: "is", C: A@13)	SVC (S: J@4, V: "is", C: E.@16)
+887	
+888	
+889	
+890	
+891	
+892	
+893	
+894	
+895	SVC (S: 2007@1, V: "is", C: March@3)
+896	
+897	
+898	SVC (S: EH@2, V: "is", C: LC@5)	SVC (S: EH@2, V: "is", C: R@8)	SVC (S: EH@2, V: "is", C: PF@11)	SVC (S: EH@2, V: "is", C: PL@14)	SVC (S: EH@2, V: "is", C: RM@17)	SVC (S: EH@2, V: "is", C: al@20)
+899	
+900	
+901	
+902	
+903	
+904	
+905	SVC (S: EH@2, V: "is", C: JL@5)	SVC (S: EH@2, V: "is", C: MR@8)	SVC (S: EH@2, V: "is", C: KR@11)
+906	
+907	
+908	
+909	
+910	SVC (S: EH@2, V: "is", C: JL@5)
+911	
+912	
+913	
+914	
+915	
+916	
+917	SVC (S: EH@2, V: "is", C: BA@5)	SVC (S: EH@2, V: "is", C: PE@8)	SVC (S: EH@2, V: "is", C: KR@11)	SVC (S: EH@2, V: "is", C: AG@14)	SVC (S: AG@14, V: "is", C: R@17)	SVC (S: AG@14, V: "is", C: al@20)
+918	SVA (V: "be receiving", S: children@5, O: diet@9)
+919	
+920	
+921	
+922	
+923	
+924	SVC (S: EH@2, V: "is", C: BA@5)	SVC (S: BA@5, V: "is", C: JM@8)
+925	
+926	
+927	
+928	
+929	
+930	
+931	SVC (S: EH@2, V: "is", C: JM@5)
+932	
+933	
+934	
+935	
+936	
+937	
+938	
+939	SVC (S: triglyceride@2, V: "is", C: MCT@4)
+940	
+941	
+942	
+943	
+944	
+945	SVC (S: M@2, V: "is", C: JM@5)	SVC (S: M@2, V: "is", C: MP@8)
+946	
+947	
+948	
+949	
+950	
+951	SVC (S: CC@2, V: "is", C: EH@8)
+952	
+953	
+954	
+955	
+956	
+957	SVC (S: KS@2, V: "is", C: BL@14)
+958	
+959	
+960	
+961	
+962	
+963	
+964	
+965	SVC (S: MA@2, V: "is", C: EH@14)
+966	SVO (V: reduces@6, S: use@2, O: incidence@8, A?: with@9)
+967	
+968	
+969	
+970	
+971	
+972	
+973	SVC (S: DA@2, V: "is", C: DA@5)	SVC (S: DA@2, V: "is", C: N@8)	SVC (S: N@8, V: "is", C: EA@17)	SVC (S: N@8, V: "is", C: KD@11)	SVC (S: N@8, V: "is", C: HH@14)
+974	
+975	
+976	SVC (S: 50@4, V: "is", C: 5@6)
+977	
+978	
+979	SVC (S: K@4, V: "is", C: SC@7)
+980	
+981	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+982	
+983	
+984	
+985	
+986	
+987	SVC (S: EJ@5, V: "is", C: A@8)	SVC (S: EJ@5, V: "is", C: J@11)	SVC (S: EJ@5, V: "is", C: R.@14)
+988	
+989	
+990	
+991	SVC (S: S1474-4422@3, V: "is", C: 08@5)
+992	SVC (S: EG@2, V: "is", C: H@5)	SVC (S: EG@2, V: "is", C: RH@8)	SVC (S: EG@2, V: "is", C: MS@11)	SVC (S: EG@2, V: "is", C: N@14)	SVC (S: N@14, V: "is", C: G@17)	SVC (S: N@14, V: "is", C: al@20)
+993	
+994	
+995	
+996	SVC (S: S1474-4422@3, V: "is", C: 08@5)
+997	
+998	
+999	
+1000	
+1001	
+1002	
+1003	
+1004	
+1005	
+1006	
+1007	SVC (S: A@2, V: "is", C: EP@14)
+1008	
+1009	
+1010	
+1011	
+1012	
+1013	
+1014	
+1015	
+1016	
+1017	
+1018	
+1019	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+1020	
+1021	
+1022	
+1023	
+1024	
+1025	
+1026	SVC (S: RS@2, V: "is", C: EH@11)
+1027	
+1028	SVC (S: 16@4, V: "is", C: 7@6)
+1029	
+1030	
+1031	
+1032	
+1033	
+1034	
+1035	
+1036	
+1037	
+1038	SVC (S: 33@1, V: "is", C: 78@11)
+1039	
+1040	SVC (S: Z@2, V: "is", C: EH@5)
+1041	
+1042	
+1043	
+1044	SVC (S: GL@17, V: "is", C: al@20)
+1045	
+1046	SVC (S: 55@4, V: "is", C: 11@6)
+1047	
+1048	
+1049	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+1050	
+1051	
+1052	
+1053	SVC (S: B@2, V: "is", C: ML@8)
+1054	SVO (S: Dietitian@9, V: "has", O: Role@11)
+1055	SVC (S: CE@4, V: "is", C: JM@7)	SVC (S: CE@4, V: "is", C: editors@9)
+1056	
+1057	
+1058	
+1059	
+1060	
+1061	
+1062	SVC (S: BA@2, V: "is", C: Spellman@4)
+1063	
+1064	
+1065	
+1066	
+1067	
+1068	
+1069	
+1070	
+1071	
+1072	
+1073	
+1074	
+1075	
+1076	
+1077	SV (V: es@19, S: Diät@18)	SVC (S: urine@62, V: "is", C: hypercalciuria@64)	SVC (V: occurs@66, S: calcium@59, ACOMP: due@67)
+1078	SVA (V: composed@4, S: Bones@1, A?: mainly@3, A!: of@5)
+1079	SVA (V: reacts@3, S: phosphate@2, A!: with@4)	SVA (V: excreted@12, S: calcium@10, A!: by@13)
+1080	SVO (V: has@5, S: urine@4, O: concentration@9)	SVO (V: helps@15, S: concentration@9, A?: normally@14, XCOMP: dissolve@17)
+1081	SVO (V: has@3, S: urine@2, O: pH@6, A?: leading@15)	SVA (V: "be leading", S: urine@2, A!: to@16)	SVO (V: stops@9, S: pH@6, O: acid@11, A?: from@12)	SVA (V: act@19, S: crystals@17, A!: as@20)
+1082	SVO (V: restricted@4, S: institutions@2, A?: traditionally@3, O: intake@7)	SV (V: encouraged@26, S: practice@22, A?: longer@25)
+1083	SVC (S: egg@8, V: "is", C: g@15)
+1084	
+1085	SVC (S: fish@8, V: "is", C: celery@16)	SVC (S: fish@8, V: "is", C: g@19)	SVC (S: fish@8, V: "is", C: mayonnaise@12)
+1086	
+1087	SVC (S: beef@14, V: "is", C: ground@12)
+1088	
+1089	SVC (S: JM@5, V: "is", C: EH@8)	SVC (S: JM@5, V: "is", C: JB@11)	SVC (S: JM@5, V: "is", C: Kelly@13)
+1090	
+1091	
+1092	
+1093	
+1094	
+1095	SVA (V: set@8, S: charity@3, A!: by@10)
+1096	
+1097	SVA (V: "be discussing", S: interview@2, O: diet@6)	SVA (V: appeared@8, S: diet@6, A!: in@9)	SVC (S: BrainWaves@10, V: "is", C: Fall@12)	SVC (S: BrainWaves@10, V: "is", C: Volume@15)	SVC (S: Volume@15, V: "is", C: Number@18)

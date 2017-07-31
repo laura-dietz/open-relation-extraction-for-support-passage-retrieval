@@ -1,0 +1,170 @@
+0	SVA (V: comes@4, S: 300pxthumbrightChocolate@1, A?: commonly@3, A!: in@5)	SVA (V: contributing@17, S: solids@16, A!: to@18)
+1	
+2	
+3	SVA (V: "be produce", S: sugar@10, O: confection@15)
+4	EXISTENTIAL (V: are@2, S: types@4)	SVA (V: "be used", S: proportion@10, A!: in@14)
+5	SVC (C: subject@9, V: is@7, S: use@2, A?: sometimes@8, A?: to@10)
+6	SVO (V: made@14, S: chocolate@12, A?: from@10, O: products@9)	SVA (V: known@16, S: products@9, A!: under@17)
+7	SVC (C: available@9, V: is@8, S: Chocolate@7, A?: In@1, A?: in@10)
+8	SVA (V: produced@8, S: forms@2, A!: by@9)
+9	SVA (V: obtained@5, S: flavors@2, A!: by@6)
+10	SVA (V: added@16, S: Flavors@1, A?: sometimes@15, A!: to@17, A?: in@19)
+11	SVO (V: contain@4, S: bars@2, A?: frequently@3, O: ingredients@6)
+12	SVA (V: added@11, S: Pieces@1, A?: sometimes@10, A!: to@12)
+13	
+14	SVC (S: Administration@4, V: "is", C: FDA@6)	SVO (V: regulates@8, S: Food@1, O: naming@10)
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	SVC (S: May@3, V: "is", C: Association@12)	SVO (S: Association@12, V: "has", O: members@15)	SVO (V: include@16, S: members@15, O: Hershey@17)	SVO (V: began@27, S: May@3, XCOMP: lobbying@28)	SVA (V: "be allow", S: change@32, O: substitution@41, A!: in@62)
+31	
+32	SVO (S: Our@2, V: "has", O: Stake@3)
+33	
+34	
+35	
+36	SVO (S: Our@2, V: "has", O: Stake@3)
+37	
+38	
+39	SVOO (V: allow@10, S: FDA@7, O: product@12, XCOMP: referred@15, A?: contains@24, IO: Currently@4)	SVO (V: contains@24, S: product@23, O: any@25)
+40	SVA (V: found@18, S: legislation@9, A!: in@19, A?: under@32)	SVC (S: Regulations@27, V: "is", C: FDR@29)	SVC (S: Act@37, V: "is", C: FDA@39)
+41	SVC (S: Agency@5, V: "is", C: CFIA@7)	SVC (C: responsible@10, V: is@9, S: Agency@5, A?: for@11)	SVA (V: relates@24, S: it@23, A!: to@25)
+42	
+43	SVA (V: substitutes@6, S: use@2, A!: in@7)	SV (V: permitted@11, S: substitutes@6)
+44	SVO (V: sold@2, S: Chocolate@1, A?: in@3, CCOMP: contain@7)
+45	
+46	SVA (V: "be permitted", S: agents@4, A!: in@6, A?: in@8)	SVA (V: listed@11, S: agents@4, A!: in@12)
+47	SVC (S: sorbitol@16, V: "is", C: maltitol@18)
+48	
+49	
+50	SVO (V: manufactured@2, S: Products@1, A?: into@5, CCOMP: contain@8)	SVO (V: imported@4, S: Products@1, A?: into@5, CCOMP: contain@8)	SVO (V: contain@8, S: that@7, O: ingredients@10, A?: called@24)	SVA (V: "be called", S: that@7, A!: legally@22, A?: sold@29)	SVC (S: fats@13, V: "is", C: sweeteners@18)
+51	SV (V: used@11, S: name@3)
+52	SVA (V: "be labelled", S: Products@1, A!: elsewhere@9, A?: in@10)	SVO (V: permitted@15, S: Products@1, XCOMP: labelled@18)
+53	
+54	
+55	
+56	SVA (V: classified@26, S: Guidance@1, A!: on@27)
+57	
+58	SVC (C: product@4, V: is@2, S: Chocolate@1, A?: based@5)	SVA (V: "be based", S: product@4, A!: on@6)
+59	SV (V: implies@13, S: term@12)	SVC (C: matter@16, V: is@14, S: amount@2, A?: of@17)
+60	SVO (V: have@2, S: Manufacturers@1, O: incentive@4, A?: containing@17, A?: taste@29)	SVA (V: "be containing", S: Manufacturers@1, O: cocoa@19)	SVA (V: "be use", S: incentive@4, O: term@8, A!: for@9)	SVC (C: cheaper@13, V: are@12, S: variations@10, XCOMP: produce@15)	SVA (V: taste@29, S: variations@26, A!: good@31)
+61	SVO (V: covers@16, S: dispute@15, O: ingredients@18)
+62	SVO (V: resolved@10, S: EU@7, A?: in@3, A?: at@8, O: issue@13, A?: by@14)	SVO (S: chocolate@21, V: "has", O: content@23)
+63	
+64	SVA (V: Agrees@2, S: EU@1, A!: on@3)
+65	
+66	
+67	SVA (V: Agrees@2, S: EU@1, A!: on@3)
+68	
+69	SVC (V: been@12, S: workaround@5, XCOMP: reduce@14)	SVC (S: polyricinoleate@30, V: "is", C: PGPR@32)	SVC (C: emulsifier@41, V: is@36, S: polyricinoleate@30)	SVO (V: simulates@43, S: emulsifier@41, O: mouthfeel@45)
+70	
+71	SVA (V: added@5, S: PGPR@2, A!: to@6, A?: for@8)
+72	
+73	
+74	
+75	
+76	SVC (C: ground@21, V: is@19, S: liquor@18, A?: of@25)	SVC (C: powder@39, V: is@34, S: ground@21)	SVC (C: part@43, V: is@40, S: powder@39, A?: of@44)	SVC (C: ground@51, V: is@50, S: bean@47, A?: into@52)
+77	
+78	SV (V: http@8, S: Association@5)
+79	
+80	
+81	
+82	SV (V: http@8, S: Association@5)
+83	
+84	
+85	SVA (V: "be known", S: chocolate@4, A!: also@7, A?: as@9)	SVA (V: "be mixed", S: liquor@26, A!: with@28)
+86	SVC (S: ground@4, V: "is", C: beans@8)	SVO (V: impart@9, S: ground@4, O: flavor@15)
+87	SVA (V: used@11, S: it@9, A?: With@1, A?: however@7, A!: as@12)
+88	SVA (V: "be called", S: chocolate@3, A!: also@9)	SVA (V: "be called", S: chocolate@3, A!: also@9)	SVA (V: produced@22, S: chocolate@3, A!: by@23)
+89	SVC (C: chocolate@3, V: is@2, S: It@1, A?: with@4)
+90	
+91	SVO (V: specify@11, S: definition@4, O: minimum@13)
+92	
+93	
+94	
+95	
+96	SV (V: eaten@6, S: chocolate@3)	SVA (V: "be ranging", S: percentages@26, A!: from@28)	SVO (V: sold@35, S: bars@22, A?: for@15, O: is@8)
+97	SVC (C: synonymous@3, V: is@2, S: Dark@1, A?: with@4, A?: vary@22)	SV (V: vary@22, S: ratio@15)
+98	SVA (V: used@7, S: chocolate@3, A?: frequently@6, A!: for@8)
+99	SVC (C: chocolate@5, V: is@2, S: It@1, A?: with@6)	SVOC (C: chocolate@27, V: is@24, S: it@23, A?: beyond@21, O: sugar@17)
+100	SVC (C: liquor@8, V: is@6, S: chocolate@4)	SVC (S: liquor@8, V: "is", C: chocolate@12)	SVC (S: sugar@17, V: "is", C: less@19)	SVO (V: added@35, S: sugar@17, A?: to@14, O: liquor@8)
+101	SVO (V: has@2, S: It@1, O: sugar@4)	SVC (C: interchangeable@16, V: are@15, S: two@14, A?: baking@18)
+102	SVA (V: referred@7, S: Bittersweet@1, A?: sometimes@6, A!: to@8)
+103	SVO (V: print@4, S: brands@2, A?: now@3, A?: on@5, O: percentage@9)
+104	SVO (V: is@13, S: chocolate@12, O: percentage@4)
+105	SVC (C: term@6, V: is@4, S: Couverture@2, A?: used@7)	SVA (V: "be used", S: term@6, A!: for@8)
+106	SVO (V: include@19, S: brands@2, O: Valrhona@21)
+107	SVO (V: contain@3, S: chocolates@2, O: percentage@6)
+108	SVC (C: chocolate@10, V: is@8, S: chocolate@6, A?: made@11)	SVA (V: "be made", S: chocolate@10, A!: with@12, A?: in@14)	SV (V: added@27, S: chocolate@10)
+109	SVOC (V: developed@10, S: Peter@8, A?: In@1, O: chocolate@13, XCOMP: using@14)	SVC (C: available@23, V: been@22, S: it@19, A?: hitherto@18, A?: only@21, A?: as@24)
+110	
+111	SVO (V: requires@2, S: Government@1, O: concentration@6)
+112	SVO (V: specify@3, S: regulations@2, O: minimum@5)	SVO (V: reached@16, S: agreement@14, A?: however@12, A?: in@17, CCOMP: allows@20)	SVOC (V: allows@20, S: that@19, O: chocolate@22, A?: in@23, XCOMP: contain@29)
+113	SV (V: called@7, S: type@2)
+114	
+115	
+116	
+117	
+118	
+119	
+120	SVC (C: popular@9, V: is@8, S: chocolate@7, A?: in@10)
+121	SVA (V: invented@3, S: It@1, A!: by@4)
+122	SVC (S: Hershey@1, V: "is", C: founder@3)	SVC (C: sensitive@22, V: is@20, S: it@19, A?: less@21, A?: to@23)
+123	SVC (C: secret@6, V: is@3, S: process@2)	SVO (V: speculate@10, S: experts@9, CCOMP: lipolyzed@16)	SVO (V: lipolyzed@16, S: milk@13, A?: partially@15, XCOMP: producing@18)	SVO (V: stabilizes@23, S: acid@20, O: milk@25, A?: from@26)
+124	SVOO (V: gives@3, S: compound@2, IO: product@5, O: sour@8)	SVC (V: become@21, S: public@19, A?: to@15, ACOMP: accustomed@22)	SVO (V: add@32, S: manufacturers@29, A?: now@30, A?: simply@31, O: acid@34, A?: to@35)	SVO (S: their@36, V: "has", O: chocolates@38)
+125	SVC (S: Moskin@5, V: "is", C: chocolate@19)	SVC (S: Moskin@5, V: "is", C: Tribune@9)	SVC (C: confection@23, V: is@21, S: Moskin@5, A?: based@24)	SVA (V: "be based", S: confection@23, A!: on@25, A?: without@33)
+126	SVA (V: used@6, S: powder@3, A!: for@7)
+127	EXISTENTIAL (V: are@2, S: types@4)	SVA (V: "be produced", S: sort@15, A!: by@17)
+128	SVA (V: made@3, S: Both@1, A!: by@4)	SVO (V: processed@22, S: cocoa@19, A?: additionally@21, A?: with@23, XCOMP: neutralise@26)	SVO (S: its@27, V: "has", O: acidity@29)
+129	SVC (C: light@4, V: is@3, S: cocoa@2, A?: in@5)
+130	SVA (V: used@5, S: cocoa@2, A?: commonly@4, A!: in@6)	SVO (V: use@10, S: recipes@7, A?: also@9, XCOMP: baking@11)	SVC (C: alkali@19, V: is@17, S: soda@16, A?: combining@21)	SVA (V: "be combining", S: alkali@19, O: it@22, A!: with@23)	SVO (V: creates@26, S: alkali@19, O: action@29)	SVOC (V: allows@31, S: action@29, O: batter@33, XCOMP: rise@35)
+131	SVC (C: milder@5, V: is@3, S: cocoa@2, A?: slightly@4, A?: in@6, A?: with@9)
+132	SVA (V: used@5, S: cocoa@2, A?: frequently@4, A!: for@6, A?: due@13)	SVO (S: its@15, V: "has", O: ease@16)
+133	SVO (V: destroys@5, S: processing@4, A?: However@1, O: most@6)
+134	
+135	
+136	
+137	
+138	SVO (V: discontinued@7, S: March@2, O: cocoa@13)	SVOC (V: replaced@15, S: March@2, O: cocoa@13, O: it@16, A?: with@17)	SVO (S: their@8, V: "has", O: cocoa@13)
+139	SVC (C: term@8, V: is@5, S: chocolate@3, A?: for@9)	SVA (V: "be combining", S: confection@11, O: cocoa@13, A!: with@14, A?: as@25)	SVC (S: fat@16, V: "is", C: fat@20)
+140	SVA (V: used@4, S: It@1, A?: often@3, A!: for@5)
+141	SV (V: called@9, S: it@4, A?: In@1, A?: legally@7)
+142	SVC (C: chocolate@6, V: is@5, S: chocolate@3)	SV (V: processed@11, S: chocolate@6)	SVA (V: mixed@16, S: chocolate@6, A!: with@17)	SV (V: heated@13, S: chocolate@6)
+143	SVA (V: sold@3, S: It@1, A!: in@4)	SVA (V: promoted@19, S: It@1, A?: in@4, A?: often@18, A!: as@20)	SVA (V: to@9, S: It@1, A?: in@4, A!: extent@13)
+144	
+145	
+146	SVC (S: chocolate@4, V: "is", C: http@11)
+147	
+148	SVC (S: chocolate@4, V: "is", C: Guardian@7)	SVA (V: used@15, S: chocolate@4, A?: frequently@14, A!: for@16)
+149	SVC (C: chocolate@5, V: is@2, S: It@1, A?: with@6)	SVOC (C: chocolate@27, V: is@24, S: it@23, A?: beyond@21, O: sugar@17)
+150	SVC (C: liquor@8, V: is@6, S: chocolate@4)	SVC (S: liquor@8, V: "is", C: chocolate@12)	SVC (S: sugar@17, V: "is", C: less@19)	SVO (V: added@35, S: sugar@17, A?: to@14, O: liquor@8)
+151	SVO (V: has@2, S: It@1, O: sugar@4)	SVC (C: interchangeable@16, V: are@15, S: two@14, A?: baking@18)
+152	SVA (V: referred@7, S: Bittersweet@1, A?: sometimes@6, A!: to@8)
+153	SVO (V: print@4, S: brands@2, A?: now@3, A?: on@5, O: percentage@9)
+154	SVO (V: is@13, S: chocolate@12, O: percentage@4)
+155	SVC (C: term@6, V: is@4, S: Couverture@2, A?: used@7)	SVA (V: "be used", S: term@6, A!: for@8)
+156	SVO (V: include@19, S: brands@2, O: Valrhona@21)
+157	SVO (V: contain@3, S: chocolates@2, O: percentage@6)
+158	
+159	SVC (S: %@1, V: "is", C: additives@4)	SVC (S: %@1, V: "is", C: fats@13)	SVA (V: "be ≥", S: %@44, CCOMP: ≥@54)	SVC (S: %@44, V: "is", C: solids@47)	SVC (S: %@50, V: "is", C: fats@53)	SVO (V: ≥@54, S: %@50, O: 3.5@55)
+160	
+161	SVC (S: %@1, V: "is", C: additives@4)	SVC (S: %@1, V: "is", C: fats@13)	SVC (S: %@41, V: "is", C: %@46)
+162	SVO (V: permitted@4, S: It@1, A?: also@3, XCOMP: substitute@6)	SVO (V: ≥@39, S: fats@38, O: %@41)	SVC (S: %@41, V: "is", C: %@46)
+163	SVC (S: %@18, V: "is", C: solids@21)	SVA (V: "be ≥", S: %@18, CCOMP: ≥@28)	SVC (S: %@24, V: "is", C: fats@27)	SVO (V: ≥@28, S: %@24, O: %@30)	SVOO (V: quasi@42, S: kiji@41, O: content@45, IO: %@30)	SVO (V: ≥@57, S: fats@56, O: %@59)	SVC (S: %@77, V: "is", C: ≥@81)	SVC (S: %@77, V: "is", C: fats@85)	SVO (V: ≥@86, S: %@77, O: %@88)	SVO (V: ≥@92, S: material@68, O: 12.5@93)	SVO (V: ≥@92, S: ≥@75, O: 12.5@93)	SVO (V: ≥@92, S: solids@91, O: 12.5@93)
+164	SVO (V: ≥@5, S: fats@4, A?: %@1, O: %@7)	SVC (S: %@7, V: "is", C: products@14)	SVA (V: "be using", S: Products@19, O: chocolate@22, A!: described@28)
+165	SVA (V: "be made", S: products@6, A!: from@8)
+166	SVO (V: contain@5, S: products@3, O: material@11)
+167	SVC (S: products@4, V: "is", C: those@6)	SVA (V: "be containing", S: those@6, O: %@11)	SV (V: called@26, S: products@4)	SVA (V: "be containing", S: products@39, O: 60@43)	SV (V: circled@57, S: chocolate@28, A?: officially@55)
+168	SVA (V: "be made", S: products@4, A!: from@6)
+169	SVA (V: "be containing", S: products@10, O: material@18)

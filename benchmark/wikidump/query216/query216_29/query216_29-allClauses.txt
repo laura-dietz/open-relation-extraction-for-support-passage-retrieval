@@ -1,0 +1,294 @@
+0	
+1	SVA (S: London@20, V: "is in", C: England@22)	SVC (S: London@20, V: "is", C: Driis@29)	SVC (S: Actor@32, V: "is", C: artist@35)
+2	
+3	
+4	
+5	
+6	
+7	
+8	SVC (C: television@13, V: is@10, S: April@2)
+9	SVA (V: starred@3, S: He@1, A!: in@4)
+10	SVA (V: grew@2, S: He@1, A!: in@4)
+11	SVO (S: his@3, V: "has", O: roles@6)	SVA (V: was@7, S: One@1, A!: in@8)
+12	
+13	SVO (V: has@3, S: He@1, A?: often@2, O: lines@5)	SVA (V: feel@12, S: you@10, A?: still@11, A!: has@16, A?: because@21)	SVO (V: has@16, S: he@15, O: part@19)	SV (V: is@23, S: luminous@24)	SVC (S: April@27, V: "is", C: Addley@31)
+14	SVO (V: has@3, S: He@1, A?: often@2, O: lines@5)	SVA (V: feel@12, S: you@10, A?: still@11, A!: has@16, A?: worked@32)	SVO (V: has@16, S: he@15, O: part@19)	SVA (V: worked@32, S: he@22, A?: luminous@24, A!: in@33)	SVA (V: worked@32, S: He@30, A?: luminous@24, A!: in@33)
+15	SVA (V: known@3, S: He@1, A!: for@4, A?: in@20)	SVO (S: HBO@21, V: "has", O: show@25)
+16	SVC (S: Elba@8, V: "is", C: HBO.com@15)
+17	
+18	
+19	SVA (V: "be Cast", S: Wire@5)	SVA (V: "be Cast", S: Wire@5)	SVC (S: Elba@11, V: "is", C: HBO.com@18)
+20	
+21	
+22	SVC (C: DJ@7, V: is@5, S: Elba@4, A?: under@8)
+23	SVA (V: appeared@5, S: Elba@4, A?: In@1, A!: on@6)	SVA (V: "be playing", S: Office@15, O: Miner@19)	SVC (S: Miner@19, V: "is", C: boss@25)	SVO (S: Scott@22, V: "has", O: boss@25)
+24	SVA (V: appeared@5, S: he@4, A?: In@1, A!: in@6)	SVC (S: Losers@11, V: "is", C: second-in-command@19)
+25	SVA (V: appeared@6, S: he@5, A?: year@3, A!: in@7)
+26	
+27	
+28	SVO (V: finished@9, S: September@2, O: series@12)	SVO (S: its@10, V: "has", O: series@12)
+29	SVO (V: won@3, S: Elba@1, O: Globe@6, A?: for@7)	SVO (S: his@8, V: "has", O: portrayal@9)
+30	SVC (S: Elba@1, V: "is", C: child@5)	SVO (V: born@8, S: Elba@1, O: Elba@11)	SVOC (V: shortened@14, S: Elba@1, O: Elba@11, O: name@17)	SVO (S: his@15, V: "has", O: name@17)	SVO (V: became@27, S: he@25, A?: where@24, A?: first@26, ACOMP: involved@28, O: Town@22)
+31	SVO (S: His@1, V: "has", O: father@2)	SVC (C: Leonean@5, V: is@3, S: father@2)	SVO (S: his@7, V: "has", O: mother@8)	SVC (C: Ghanaian@10, V: is@9, S: mother@8)
+32	
+33	
+34	
+35	
+36	
+37	
+38	SVA (V: grew@8, S: Elba@7, A!: in@10, A?: www.guardian.co.uk/film/2009/may/05/television-the-wire-idris-elba-obsessed@23)	SVC (S: Ham@12, V: "is", C: Jeffries@15)
+39	
+40	SVO (S: his@15, V: "has", O: business@17)	SVO (V: started@27, S: he@25, A?: within@22, O: company@31, A?: with@32)	SVO (S: his@28, V: "has", O: company@31)	SVO (S: his@35, V: "has", O: friends@37)
+41	
+42	
+43	
+44	
+45	SVO (V: left@5, S: Elba@4, O: school@6, A?: in@7)	SVOC (V: won@10, S: Elba@4, O: school@6, A?: in@7, O: place@12)	SVO (S: Prince@25, V: "has", O: grant@28)	SVA (V: "be pay", S: do@36, O: rent@47, A!: between@48)
+46	
+47	
+48	
+49	
+50	SVA (V: working@20, S: Elba@18, A!: in@21, A?: under@23, A?: in@29)	SVO (S: his@39, V: "has", O: twenties@41)
+51	SVO (V: worked@12, S: he@11, A?: After@1, O: shift@15, A?: at@16, A?: from@22)
+52	SVO (V: started@2, S: He@1, O: career@5)	SVO (S: his@3, V: "has", O: career@5)	SVO (S: his@13, V: "has", O: teacher@15)
+53	SVO (S: his@2, V: "has", O: film@3)	SVA (V: commenced@11, S: work@9, A?: officially@10, A!: around@12)	SVOO (V: landed@18, S: he@17, A?: in@15, O: role@21, IO: film@3)	SVO (S: his@19, V: "has", O: role@21)	SVA (V: "be called", S: series@24)	SVC (S: series@24, V: "is", C: drama@30)	SVA (V: "be set", S: drama@30, A!: in@32)
+54	SVO (S: His@1, V: "has", O: role@4)	SVA (V: arrived@5, S: role@4, A!: in@6, A?: with@9)
+55	
+56	
+57	
+58	
+59	
+60	
+61	SVA (V: "be supporting", S: Many@4, O: roles@6)	SVO (V: followed@10, S: April@2, A?: including@12, O: 11@1)
+62	SVO (V: joined@2, S: He@1, O: cast@4)	SVO (V: rose@12, S: He@1, O: cast@4, A?: to@13, A?: in@15)
+63	SVA (V: went@2, S: He@1, A!: on@3)	SVA (V: "be playing", S: series@11, O: scientist@21)	SVC (S: series@11, V: "is", C: Dangerfield@13)
+64	SVO (V: decided@2, S: He@1, XCOMP: move@4)
+65	SVA (V: returned@2, S: He@1, A!: to@3, A?: occasionally@5, A?: for@6)	SVC (S: one@15, V: "is", C: series@25)
+66	SVO (V: played@5, S: Elba@4, A?: In@1, O: Achilles@6, A?: in@7)
+67	SVO (V: landed@15, S: he@14, A?: After@1, O: role@18, A?: Wire@26)
+68	SVOC (V: portrayed@7, S: Elba@6, A?: From@1, O: Bell@12, A?: in@13, O: role@23)	SVO (S: his@20, V: "has", O: role@23)
+69	SVOC (V: portrayed@5, S: he@4, A?: In@1, O: Muganza@8, A?: in@9, O: film@16)
+70	SVA (V: appeared@2, S: Elba@1, A!: on@3)
+71	
+72	
+73	
+74	
+75	SVA (V: appeared@5, S: Elba@4, A!: in@6)
+76	SVC (S: 1@1, V: "is", C: Agency@5)	SVO (S: Ladies@2, V: "has", O: Agency@5)	SVA (V: filmed@14, S: Scott@8, A!: in@15)
+77	
+78	
+79	SV (V: =@2, S: html?categoryid@1)
+80	
+81	
+82	SV (V: =@2, S: html?categoryid@1)
+83	SVC (S: April@2, V: "is", C: Sunday@18)	SVA (V: "be receiving", S: April@2, O: 6.3@27)	SVO (V: premiered@11, S: series@10, A?: on@12, O: March@7)
+84	
+85	SVO (S: Minghella@1, V: "has", O: film@4)	SVA (V: "be watched", S: film@4, A!: by@6)
+86	
+87	
+88	
+89	SVO (S: Minghella@10, V: "has", O: film@13)	SVA (V: "be watched", S: film@13, A!: by@15)
+90	
+91	
+92	
+93	SVOC (V: reported@16, S: it@14, A?: per@17, CCOMP: portray@22, O: Plunkett@6)	SVOC (V: portray@22, S: Elba@20, O: that@19, O: Miner@24)	SVC (S: Miner@24, V: "is", C: rival@28)	SVC (S: Scott@35, V: "is", C: Carell@38)	SVO (S: NBC@41, V: "has", O: Office@44)
+94	SVA (V: appeared@2, S: Elba@1, A!: in@3)
+95	SVO (V: signed@6, S: Elba@5, A?: In@1, O: deal@8, A?: star@10)	SVA (V: "be star", S: Elba@5, A!: as@11)	SVA (V: aired@23, S: Luther@21, A!: in@24)
+96	SVO (V: announced@7, S: it@5, A?: In@1, CCOMP: produce@12)	SVO (V: produce@12, S: Elba@9, O: drama@16)	SVO (V: produce@12, S: executive@11, O: drama@16)
+97	SVA (V: "be developing", S: Elbia@3, O: http@9)
+98	SVA (V: "be developing", S: Elbia@9, O: http@15)
+99	SVO (V: portrayed@8, S: He@7, O: lover@12, A?: in@19)	SVO (S: Linney@10, V: "has", O: lover@12)	SVO (S: Showtime@14, V: "has", O: C@18)
+100	SV (V: Is@3, S: Elba@2)	SV (V: Is@3, S: Cross@6)
+101	
+102	SVC (C: Cross@9, V: Is@6, S: Elba@5, A?: In@10)
+103	
+104	SVOO (V: won@17, S: Elba@16, O: Award@19, A?: in@23, IO: August@2)	SVO (S: his@36, V: "has", O: portrayal@37)
+105	SVO (V: signed@5, S: Elba@4, A?: In@1, A?: as@7, XCOMP: playing@22)	SVOC (V: finds@49, S: Elba@4, A?: In@1, A?: as@7, XCOMP: playing@22, CCOMP: hopes@55)	SVO (S: Perry@15, V: "has", O: Daddy@17)	SVO (S: Daddy@17, V: "has", O: Girls@20)	SVC (S: Monty@23, V: "is", C: mechanic@27)	SVA (V: falls@29, S: mechanic@27, A!: in@30, A?: with@32)	SVC (S: attorney@35, V: "is", C: Union@38)	SVA (V: "be helping", S: attorney@35, CCOMP: gain@42)	SVO (V: gain@42, S: him@41, O: custody@43)	SVO (S: his@45, V: "has", O: kids@46)	SVO (S: his@53, V: "has", O: custody@54)	SVO (V: hopes@55, S: relationship@51, CCOMP: threatened@56)	SVO (S: his@61, V: "has", O: ex-wife@62)
+106	SVOC (V: joined@2, S: He@1, O: cast@5, A?: Later@13, O: sequel@20)	SVO (S: Fresnadillo@9, V: "has", O: Weeks@12)	SVO (S: Boyle@23, V: "has", O: picture@27)
+107	SVO (V: filmed@2, S: He@1, O: Christmas@4, A?: with@5)	SVC (S: Brown@7, V: "is", C: Loretta@12)	SVOA (V: brought@19, S: Brown@7, O: $@22, A!: at@25, A?: in@29)
+108	
+109	
+110	SVO (V: _@2, S: ca/movienews@1, O: 13494.html@3)
+111	
+112	
+113	SVO (V: _@2, S: ca/movienews@1, O: 13494.html@3)
+114	
+115	
+116	
+117	
+118	SVO (V: starred@8, S: Elba@7, A?: in@9, O: April@2)	SVO (S: Ritchie@17, V: "has", O: RocknRolla@19)
+119	SVA (V: starred@6, S: Elba@5, A?: In@1, A!: in@7)
+120	SVA (V: starred@2, S: He@1, A!: in@3, A?: alongside@6, A?: as@13)	SVO (V: has@18, S: manager@16, O: wife@21, A?: begins@36)	SVC (S: wife@21, V: "is", C: Knowles@23)	SVC (S: worker@32, V: "is", C: Larter@34)	SVO (V: begins@36, S: worker@32, XCOMP: stalking@37)
+121	SVA (V: "be Play", S: Elba@2, O: Couple@8, A!: In@9)
+122	
+123	SVA (V: "be Play", S: Elba@6, O: Couple@12, A!: In@13)
+124	
+125	SVC (C: success@10, V: was@6, S: Obsessed@5, A?: took@13)	SVO (V: took@13, S: it@12, O: $@15)	SVO (S: its@19, V: "has", O: weekend@21)
+126	SVA (V: Fixate@5, S: Moviegoers@4, A!: on@6)
+127	
+128	
+129	SVA (V: Fixate@8, S: Moviegoers@7, A!: on@9)
+130	
+131	
+132	SVA (V: released@6, S: Obsessed@4, A!: on@7, A?: on@9)
+133	SVC (C: Legacy@5, V: was@4, S: film@3)
+134	
+135	SVOC (V: gets@3, S: Elba@2, O: kit@5, A?: on@7, O: www.google@20)	SVO (S: his@4, V: "has", O: kit@5)
+136	
+137	SVOA (V: gets@3, S: Elba@2, O: kit@5, A!: on@7)	SVO (S: his@4, V: "has", O: kit@5)	SVOO (V: portrayed@16, S: he@15, A?: in@13, O: soldier@20, IO: UKPA@9)	SVC (S: soldier@20, V: "is", C: Malcolm@22)	SVA (V: returned@25, S: soldier@20, A!: to@26, A?: after@28)	SVOO (V: undertook@38, S: he@37, A?: where@36, O: journey@40, IO: Europe@34)	SVA (V: "be looking", S: journey@40, A!: for@42)
+138	SVO (V: posted@2, S: He@1, O: picture@4)	SVO (S: his@11, V: "has", O: page@13)
+139	SVA (V: starred@2, S: He@1, A!: in@3)	SVO (S: Castle@5, V: "has", O: adaptation@7)	SVO (S: Vertigo@11, V: "has", O: Losers@14)	SVC (S: Losers@14, V: "is", C: second-in-command@30)	SVO (V: did@42, S: government@40, XCOMP: wrong@44)	SV (V: wrong@44, S: them@43)
+140	SVA (V: "be Playing", S: Saldana@11, O: MTV.com@14)
+141	
+142	SVA (V: "be Playing", S: Saldana@14, O: MTV.com@17)
+143	
+144	SVOA (V: took@5, S: Filming@4, O: place@6, A!: in@7)	SVA (V: released@14, S: movie@12, A!: in@15)
+145	
+146	
+147	SVO (V: =@6, S: news_view@3, O: =@2)	SVOO (V: Commences@16, S: Losers@14, O: Production@17, IO: =@10)
+148	
+149	SVO (V: =@6, S: news_view@3, XCOMP: =@10)	SVO (V: Commences@16, S: Losers@14, CCOMP: appeared@28)	SVA (V: appeared@28, S: Wire@23, A!: in@29)	SVA (V: appeared@28, S: Production@17, A!: in@29)
+150	
+151	SVO (V: played@2, S: He@1, O: Heimdall@3)	SVO (S: Branagh@6, V: "has", O: film@10)	SVA (V: "be based", S: film@10, A!: upon@13)
+152	
+153	
+154	
+155	
+156	SVO (V: joins@3, S: Elba@2, O: Studios@5)	SVA (V: "be Thor", S: Studios@5)	SVO (V: announced@25, S: it@23, CCOMP: portray@29)	SVO (V: portray@29, S: Elba@27, O: character@32)	SVO (S: Patterson@38, V: "has", O: franchise@43)
+157	SVA (V: replaced@6, S: actor@4, A?: However@1, A!: in@7, A?: by@10)
+158	
+159	SV (V: explains@14, S: Producer@13)	SVC (S: Bierly@18, V: "is", C: EW.com@24)
+160	
+161	SV (V: explains@14, S: Producer@13)	SVC (S: Bierly@18, V: "is", C: EW.com@24)
+162	SVA (V: appear@7, S: Elba@5, A!: in@8)	SVA (V: "be tasked", S: monk@26, A!: with@28)
+163	
+164	
+165	
+166	
+167	
+168	
+169	SVOC (V: announced@18, S: it@16, CCOMP: joined@22, O: Kit@2)	SVO (V: joined@22, S: Elba@20, O: film@28)	SVO (S: Toro@25, V: "has", O: film@28)	SVC (S: film@28, V: "is", C: Rim@31)
+170	SV (V: portray@3, S: He@1)
+171	
+172	
+173	SVC (C: Official@5, V: 's@4, S: It@3)
+174	
+175	
+176	
+177	
+178	SVC (C: Official@5, V: 's@4, S: It@3)
+179	
+180	
+181	SVA (V: appeared@6, S: Elba@5, A!: in@7)
+182	SVO (V: recorded@19, S: he@18, O: Man@24)
+183	SV (V: co-produced@2, S: He@1)	SVA (V: performed@4, S: He@1, A!: on@5, A?: to@8)	SVO (S: Jay-Z@9, V: "has", O: Gangster@14)
+184	
+185	
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	SVO (V: calls@18, S: work@17, CCOMP: appeared@26)	SVA (V: appeared@26, S: Elba@25, A!: in@27)	SVC (S: Conglomerate@32, V: "is", C: Rhymes@36)	SVO (S: My@31, V: "has", O: Conglomerate@32)	SVO (S: My@39, V: "has", O: Conglomerate@40)	SVC (S: Conglomerate@40, V: "is", C: Video@44)
+198	SVC (S: Conglomerate@12, V: "is", C: Video@16)	SVO (S: My@11, V: "has", O: Conglomerate@12)
+199	SVO (S: My@15, V: "has", O: album@17)
+200	SVC (C: DJ@8, V: was@6, S: Elba@5, A?: In@1, A?: for@9)	SVO (S: BET@10, V: "has", O: series@13)
+201	
+202	
+203	
+204	
+205	
+206	
+207	SVO (V: announced@5, S: Elba@4, O: release@7)	SVO (S: his@9, V: "has", O: single@11)
+208	
+209	
+210	SVO (V: returns@9, S: Elba@8, A?: to@10, A?: with@17, O: Man@1)	SVO (S: his@11, V: "has", O: love@13)	SVC (S: love@13, V: "is", C: music@15)	SVO (S: his@21, V: "has", O: Gleaner@25)	SVO (S: his@34, V: "has", O: EP@36)
+211	
+212	
+213	
+214	
+215	SVO (V: announced@14, S: he@13, A?: July@2, O: name@16)	SVO (S: his@18, V: "has", O: EP@20)
+216	
+217	
+218	
+219	
+220	SVOO (V: released@15, S: He@14, A?: August@12, O: Vol@21, IO: Essence@10)	SVO (S: his@16, V: "has", O: Vol@21)
+221	
+222	
+223	SVO (V: driis@4, S: Problems@3, O: http@7)
+224	SVO (V: driis@4, S: Problems@3, O: 2011-12-28@6)	SVO (V: starred@10, S: he@9, A?: in@7, A?: in@11, O: 2011-12-28@6)
+225	
+226	SVA (V: performed@5, S: he@4, A?: In@1, A!: on@6, A?: to@9)	SVO (S: Monch@11, V: "has", O: W.A.R.@14)
+227	SVO (V: Are@3, S: We@2, O: Renegades@4)
+228	SVC (C: single@4, V: is@2, S: Elba@1, A?: currently@3)
+229	SVC (C: hot@8, V: 'm@6, S: I@5, A-: so@7)
+230	SVC (C: hot@16, V: 'm@14, S: I@13, A-: so@15)
+231	SVO (S: his@11, V: "has", O: ex-wife@12)	SVO (V: have@15, S: Walker@5, O: daughter@17)	SVO (V: have@15, S: He@9, O: daughter@17)
+232	
+233	
+234	SVO (V: spends@10, S: Elba@9, O: much@11)	SVOC (V: owns@20, S: Elba@9, O: much@11, A?: also@19, O: home@22)	SVO (S: his@13, V: "has", O: time@14)	SVC (C: close@30, V: be@29, S: he@27, A-: so@26, A?: to@31)	SVO (S: his@32, V: "has", O: daughter@33)
+235	
+236	
+237	
+238	
+239	
+240	
+241	
+242	
+243	SVO (V: represented@12, S: August@8, A?: by@13, O: Ayres@6)
+244	SVC (V: get@3, S: actors@2, ACOMP: tough@4, A?: for@5)	SVO (S: Losers@8, V: "has", O: Hollywoodreporter.com@11)
+245	
+246	SVC (V: get@6, S: actors@5, ACOMP: tough@7, A?: for@8)	SVO (S: Losers@11, V: "has", O: Hollywoodreporter.com@14)
+247	
+248	SVO (V: announced@10, S: it@8, A?: September@2, CCOMP: become@14)	SVC (V: become@14, S: he@12, XCOMP: Ambassador@17)	SVC (S: Ambassador@17, V: "is", C: Looktothestars.com@25)
+249	
+250	
+251	
+252	
+253	
+254	SVO (V: announced@10, S: he@9, A?: April@2, O: support@12)	SVA (V: "be become", S: support@12, XCOMP: candidate@24, A!: in@29)	SVO (S: his@11, V: "has", O: support@12)	SVO (S: her@17, V: "has", O: campaign@18)
+255	SVO (V: tackle@4, S: King@2, O: violence@5)	SVO (V: says@7, S: Elba@12, CCOMP: tackle@4)
+256	
+257	SVO (V: tackle@7, S: King@5, O: violence@8)	SVO (V: says@10, S: Elba@15, CCOMP: tackle@7)
+258	
+259	SVC (C: fan@7, V: is@5, S: Elba@4, A?: of@8)
+260	SVO (S: his@3, V: "has", O: father@4)	SVO (V: supports@5, S: father@4, O: United@7)
+261	
+262	
+263	
+264	
+265	SVA (V: featured@4, S: Elba@2, A!: as@5)
+266	SVA (V: selected@3, S: He@1, A!: as@4, A?: in@19)	SVO (S: Magazine@8, V: "has", O: People@14)
+267	SVO (S: Magazine@2, V: "has", O: issue@9)
+268	
+269	
+270	SVO (S: Magazine@5, V: "has", O: issue@12)
+271	
+272	
+273	SVA (V: appeared@5, S: Elba@4, A!: on@6)
+274	SVA (V: appeared@2, S: He@1, A!: on@3)
+275	SVO (V: Covers@3, S: Elba@2, O: Shavaross.com@6)
+276	
+277	SVO (V: Covers@6, S: Elba@5, O: Shavaross.com@9)
+278	
+279	SVOO (V: caused@9, S: Elba@8, O: controversy@10, A?: criticised@13, IO: August@2)	SVO (V: criticised@13, S: he@12, A?: when@11, O: Perry@15)	SVC (S: Perry@15, V: "is", C: actor@18)
+280	SVA (V: starred@6, S: Elba@1, A?: previously@5, A!: in@7)	SVC (S: comedies@13, V: "is", C: Girls@21)	SVO (S: Perry@10, V: "has", O: comedies@13)	SVO (S: Daddy@18, V: "has", O: Girls@21)	SVO (V: lamented@24, S: Elba@1, O: trend@26)	SVO (V: recognise@38, S: many@36, A?: from@39, O: phenomenon@35)	SVA (V: "be describing", S: Klumps@45, O: it@54, A!: as@55)	SVO (S: Momma@48, V: "has", O: series@51)
+281	SVO (V: maintains@2, S: Elba@1, O: view@4)	SVO (V: occur@8, S: change@6, A?: in@9, XCOMP: address@12)	SVO (V: caused@26, S: it@24, O: controversy@23)
+282	
+283	
+284	
+285	
+286	SV (V: asks@2, S: Elba@1)
+287	
+288	SVC (V: 's@2, S: That@1, CCOMP: have@5)	SVOC (V: have@5, S: we@4, O: what@3, XCOMP: change@7)
+289	
+290	
+291	SVC (S: Elba@37, V: "is", C: Actor@44)	SVC (S: Actor@44, V: "is", C: Hackney@48)	SVC (S: Hackney@48, V: "is", C: London@50)	SVA (S: London@50, V: "is in", C: UK@54)	SVC (S: UK@54, V: "is", C: Category@55)	SV (V: es@118, S: Elba@117)
+292	SVC (S: Television@91, V: "is", C: Movie@92)	SVC (S: Television@124, V: "is", C: Movie@125)
+293	

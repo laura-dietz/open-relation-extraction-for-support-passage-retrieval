@@ -1,0 +1,17 @@
+0	
+1	SVA (V: "be known", S: programmer@45, A!: best@47, A?: for@49)	SVC (C: programmer@45, V: is@41, S: Braben@2, A?: known@48)	SVC (S: Elite@51, V: "is", C: game@61)
+2	SVC (S: Edge@2, V: "is", C: May@4)	SVA (V: attended@9, S: Braben@8, A!: in@15)	SVA (V: attended@9, S: School@14, A!: in@15)
+3	SVO (V: studied@2, S: He@1, O: Sciences@4)
+4	SVO (V: married@2, S: He@1, O: Dickinson@4, A?: in@5, A?: in@8)
+5	SVA (V: written@3, S: Elite@1, A!: in@4, A?: students@13)	SVC (C: students@13, V: were@11, S: both@10, A?: at@14)
+6	SVA (V: "be written", S: game@3, A!: by@5)	SVC (C: Zarch@8, V: was@7, S: game@3, A?: for@9)	SVC (C: one@26, V: was@25, S: Zarch@8, A?: of@27)
+7	SVA (V: went@5, S: Braben@4, A?: After@1, A!: on@6)	SVO (S: company@15, V: "has", O: project@18)	SVC (C: sequel@21, V: was@19, S: project@18, A?: to@22)	SVOO (V: named@24, S: company@15, O: Frontier@25, IO: Developments@10)
+8	SVC (C: Chairman@5, V: is@2, S: Braben@1, A?: still@3, A?: of@9)	SVO (S: company@11, V: "has", O: projects@15)	SVO (V: included@17, S: projects@15, O: Kinectimals@18)	SVC (S: Kinectimals@18, V: "is", C: games@24)	SVA (V: "be based", S: games@24, A!: on@26)	SVC (C: title@41, V: was@38, S: LostWinds@35, A?: on@42)	SVO (S: Nintendo@43, V: "has", O: service@47)
+9	
+10	SVC (C: second@4, V: is@2, S: Braben@1, A?: on@5, A?: As@8)	SVA (V: working@14, S: Braben@12, A!: on@15)	SVA (V: "be called", S: game@17)
+11	SVC (S: GameSpot@8, V: "is", C: Nov@10)	SVOC (V: planning@16, S: he@14, XCOMP: start@18, O: 2006@13)	SVO (V: went@35, S: Outsider@34, O: gold@36)
+12	SVO (V: said@2, S: Braben@1, A?: explicitly@3, CCOMP: was@7)	SVA (V: was@7, S: title@6, A!: of@8)
+13	SVO (V: introduced@6, S: Braben@5, A?: In@1, O: computer@10)	SVA (V: "be intended", S: computer@10, XCOMP: stimulate@13)
+14	SVC (S: Pi@3, V: "is", C: computer@6)	SVA (V: mounted@8, S: Pi@3, A!: in@9)	SVA (V: "be running", S: processor@41, O: Linux@43, A!: for@44)	SVA (V: "be do", S: child@64, CCOMP: wants@71)	SVO (V: wants@71, S: he@68, O: whatever@67, A?: with@72)
+15	SVC (S: Cellan-Jones@2, V: "is", C: part@17)	SVC (S: Cellan-Jones@2, V: "is", C: News@8)	SVC (C: part@17, V: is@16, S: prototype@15, A?: May@10, A?: of@18)	SVC (S: Foundation@25, V: "is", C: charity@28)	SVO (S: charity@28, V: "has", O: aim@30)	SV (V: is@31, S: aim@30)
+16	SVC (S: sv@66, V: "is", C: News@86)	SVO (S: Braben@72, V: "has", O: Braben@76)	SVC (S: News@86, V: "is", C: News@100)	SVC (S: News@86, V: "is", C: December@103)	SVC (S: News@86, V: "is", C: Guardian@107)	SVC (S: News@86, V: "is", C: July@110)	SVC (S: News@86, V: "is", C: December@89)	SVC (S: News@86, V: "is", C: Guardian@93)

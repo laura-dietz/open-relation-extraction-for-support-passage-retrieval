@@ -1,0 +1,696 @@
+May 2011 Wind power in Australia is a proven and reliable technology that can be and is readily deployed . 	0	query206_Wind_power_in_Australia\S\0
+"May 2011 Wind power in Australia"	"is"	"a proven technology"	0	query206_Wind_power_in_Australia\P\0-0
+"May 2011 Wind power in Australia"	"is"	"a reliable technology"	0	query206_Wind_power_in_Australia\P\0-1
+"a proven technology"	"can is deployed"	"readily"	0	query206_Wind_power_in_Australia\P\0-2
+"a reliable technology"	"can is deployed"	"readily"	0	query206_Wind_power_in_Australia\P\0-3
+As of October 2010 , there were 52 wind farm in Australia , most of which had turbines of from 1.5 	1	query206_Wind_power_in_Australia\S\1
+"wind farm in Australia"	"there were"	"1 As of October 2010"	52	query206_Wind_power_in_Australia\P\1-0
+"most of which"	"had"	"turbines of from 1.5 1 As of October 2010 there were 52 wind farm in Australia"	52	query206_Wind_power_in_Australia\P\1-1
+to 3 megawatts ( MW) . 	2	query206_Wind_power_in_Australia\S\2
+"to 3 megawatts"	"is"	"MW"	2	query206_Wind_power_in_Australia\P\2-0
+The total operating wind generating capacity at this time was 1,880 MW, with annual production of almost 5,000 GWh providing close to two percent of Australia 's national electricity demand . 	3	query206_Wind_power_in_Australia\S\3
+"The total operating wind"	"be generating"	"capacity at this time"	3	query206_Wind_power_in_Australia\P\3-0
+"The total operating wind generating capacity at this time"	"was 1,880 MW"	"with annual production of almost 5,000 GWh providing close to two percent of Australia 's national electricity demand"	3	query206_Wind_power_in_Australia\P\3-1
+"The total operating wind generating capacity at this time"	"was"	"1,880 MW"	3	query206_Wind_power_in_Australia\P\3-2
+"annual production of almost 5,000 GWh"	"be providing"	"close to two percent of Australia 's national electricity demand"	3	query206_Wind_power_in_Australia\P\3-3
+"annual production of almost 5,000 GWh"	"be providing"	"close to two percent of Australia 's national electricity demand"	3	query206_Wind_power_in_Australia\P\3-4
+However , despite having excellent conditions for wind power , Australia lags considerably behind leading nations both in terms of wind generation capacity and percentage of power production . 	4	query206_Wind_power_in_Australia\S\4
+However , despite having excellent conditions for wind power , Australia lags considerably behind leading nations both in terms of wind generation capacity and percentage of power production . 	4	query206_Wind_power_in_Australia\S\4
+However , despite having excellent conditions for wind power , Australia lags considerably behind leading nations both in terms of wind generation capacity and percentage of power production . 	4	query206_Wind_power_in_Australia\S\4
+However , despite having excellent conditions for wind power , Australia lags considerably behind leading nations both in terms of wind generation capacity and percentage of power production . 	4	query206_Wind_power_in_Australia\S\4
+However , despite having excellent conditions for wind power , Australia lags considerably behind leading nations both in terms of wind generation capacity and percentage of power production . 	4	query206_Wind_power_in_Australia\S\4
+South Australia had close to half of the nation 's wind power capacity , International Energy Agency ( 2009 ) . 	5	query206_Wind_power_in_Australia\S\5
+"South Australia"	"had"	"close to half of the nation 's wind power capacity"	5	query206_Wind_power_in_Australia\P\5-0
+"the nation"	"has"	"wind power capacity"	5	query206_Wind_power_in_Australia\P\5-1
+"International Energy Agency"	"is"	"2009"	5	query206_Wind_power_in_Australia\P\5-2
+pp . 	6	query206_Wind_power_in_Australia\S\6
+79-82 . 	7	query206_Wind_power_in_Australia\S\7
+accounting for almost twenty percent of that state 's electricity needs of as October 2010 . 	8	query206_Wind_power_in_Australia\S\8
+"that state"	"has"	"electricity needs of as October 2010"	8	query206_Wind_power_in_Australia\P\8-0
+Victoria also had a substantial system , with about a quarter of the nation 's capacity , and projects under construction forecast to more than double that capacity by the end of 2013 . 	9	query206_Wind_power_in_Australia\S\9
+"Victoria"	"had"	"a substantial system also"	9	query206_Wind_power_in_Australia\P\9-0
+"Victoria"	"had"	"a substantial system with about a quarter of the nation 's capacity"	9	query206_Wind_power_in_Australia\P\9-1
+"Victoria"	"had"	"a substantial system"	9	query206_Wind_power_in_Australia\P\9-2
+"Victoria"	"projects"	"a substantial system also"	9	query206_Wind_power_in_Australia\P\9-3
+"Victoria"	"projects"	"a substantial system with about a quarter of the nation 's capacity"	9	query206_Wind_power_in_Australia\P\9-4
+"Victoria"	"projects"	"a substantial system under construction forecast"	9	query206_Wind_power_in_Australia\P\9-5
+"Victoria"	"projects"	"a substantial system to more than double that capacity by the end of 2013"	9	query206_Wind_power_in_Australia\P\9-6
+"Victoria"	"projects"	"a substantial system"	9	query206_Wind_power_in_Australia\P\9-7
+"the nation"	"has"	"capacity"	9	query206_Wind_power_in_Australia\P\9-8
+As of October 2010 , wind power accounted for approximately 5&nbsp; TWh out of a total of 251&nbsp; TWh of electricity used per year , Clean Energy Australia 2010 ( Report ) http ://www.cleanenergycouncil 	10	query206_Wind_power_in_Australia\S\10
+"wind power"	"accounted"	"10 As of October 2010 for approximately 5 TWh out of a total of 251 TWh of electricity used per year"	10	query206_Wind_power_in_Australia\P\10-0
+"wind power"	"accounted"	"10 As of October 2010"	10	query206_Wind_power_in_Australia\P\10-1
+"wind power"	"accounted"	"10 As of October 2010"	10	query206_Wind_power_in_Australia\P\10-2
+"Clean Energy Australia 2010"	"is"	"Report"	10	query206_Wind_power_in_Australia\P\10-3
+.org 	11	query206_Wind_power_in_Australia\S\11
+.au/dms/cec/reports/clean-energy-australia/B--Clean-Energy-Australia-Report-2010/Clean 	12	query206_Wind_power_in_Australia\S\12
+%20Energy %20Australia %20Report %202010-C.pdf 	13	query206_Wind_power_in_Australia\S\13
+Official site 12 June 2011 5 Clean Energy Australia 2010 ( Report ) http ://www.cleanenergycouncil 	14	query206_Wind_power_in_Australia\S\14
+"June 2011 5 Clean Energy Australia 2010"	"is"	"Report"	12	query206_Wind_power_in_Australia\P\14-0
+.org 	15	query206_Wind_power_in_Australia\S\15
+.au/dms/cec/reports/clean-energy-australia/B--Clean-Energy-Australia-Report-2010/Clean 	16	query206_Wind_power_in_Australia\S\16
+%20Energy %20Australia %20Report %202010-C.pdf 	17	query206_Wind_power_in_Australia\S\17
+Official site 12 June 2011 5 enough electricity to powermore than 700,000 homes , Clean Energy Australia 2010 ( Report ) : Wind Power http ://www.cleanenergycouncil 	18	query206_Wind_power_in_Australia\S\18
+"Official site 12 June 2011 5 enough electricity to powermore than 700,000 homes Wind Power http www.cleanenergycouncil"	"is"	"Clean Energy Australia 2010"	18	query206_Wind_power_in_Australia\P\18-0
+"Clean Energy Australia 2010"	"is"	"Report"	18	query206_Wind_power_in_Australia\P\18-1
+.org 	19	query206_Wind_power_in_Australia\S\19
+.au/dms/cec/reports/clean-energy-australia/B--Clean-Energy-Australia-Report-2010/Clean 	20	query206_Wind_power_in_Australia\S\20
+%20Energy %20Australia %20Report %202010-C.pdf 	21	query206_Wind_power_in_Australia\S\21
+Official site 12 June 2011 49–53 Clean Energy Australia 2010 ( Report ) : Wind Power http ://www.cleanenergycouncil 	22	query206_Wind_power_in_Australia\S\22
+.org 	23	query206_Wind_power_in_Australia\S\23
+.au/dms/cec/reports/clean-energy-australia/B--Clean-Energy-Australia-Report-2010/Clean 	24	query206_Wind_power_in_Australia\S\24
+%20Energy %20Australia %20Report %202010-C.pdf 	25	query206_Wind_power_in_Australia\S\25
+Official site 12 June 2011 49–53 and amounting to about two percent of Australia 's total electricity consumption . 	26	query206_Wind_power_in_Australia\S\26
+Official site 12 June 2011 49–53 and amounting to about two percent of Australia 's total electricity consumption . 	26	query206_Wind_power_in_Australia\S\26
+This came from 52 operating wind farms with greater than 100&nbsp;k W capacity , consisting of a total of 1,052&nbsp;turbines . 	27	query206_Wind_power_in_Australia\S\27
+This came from 52 operating wind farms with greater than 100&nbsp;k W capacity , consisting of a total of 1,052&nbsp;turbines . 	27	query206_Wind_power_in_Australia\S\27
+This came from 52 operating wind farms with greater than 100&nbsp;k W capacity , consisting of a total of 1,052&nbsp;turbines . 	27	query206_Wind_power_in_Australia\S\27
+This came from 52 operating wind farms with greater than 100&nbsp;k W capacity , consisting of a total of 1,052&nbsp;turbines . 	27	query206_Wind_power_in_Australia\S\27
+This figure represented approximately a 30 % increase in wind power generation each year over the previous decade , or a total increase of more than 1,000 % over that time . 	28	query206_Wind_power_in_Australia\S\28
+"This figure"	"represented"	"approximately a 30 % increase in wind power generation each year over the previous decade"	28	query206_Wind_power_in_Australia\P\28-0
+"This figure"	"represented"	"approximately a 30 % increase in wind power generation each year over the previous a total increase of more than 1,000 % over that time"	28	query206_Wind_power_in_Australia\P\28-1
+The total installed capacity at October 2010 was 1,880&nbsp; MW ( 1.88&nbsp;GW) 	29	query206_Wind_power_in_Australia\S\29
+"The total installed capacity at October 2010"	"was"	"1,880 MW"	29	query206_Wind_power_in_Australia\P\29-0
+"The total installed capacity at October 2010 was 1,880 MW"	"is"	"1.88 GW"	29	query206_Wind_power_in_Australia\P\29-1
+, counting only projects over 100&nbsp;kW , with a further 1,043&nbsp;MW under construction . 	30	query206_Wind_power_in_Australia\S\30
+Australia 's total wind generation capacity of 1,880&nbsp;MW in 2010 was considerably lower in comparison to many other developed and developing nations , ranking 15th globally behind leaders such as China with 44,733&nbsp;MW, the US with 40,180&nbsp;MW, Germany with 27,215&nbsp;MW, Spain with 20,676&nbsp;MW, and India with 13,066&nbsp;MW. 	31	query206_Wind_power_in_Australia\S\31
+Australia 's total wind generation capacity of 1,880&nbsp;MW in 2010 was considerably lower in comparison to many other developed and developing nations , ranking 15th globally behind leaders such as China with 44,733&nbsp;MW, the US with 40,180&nbsp;MW, Germany with 27,215&nbsp;MW, Spain with 20,676&nbsp;MW, and India with 13,066&nbsp;MW. 	31	query206_Wind_power_in_Australia\S\31
+"Australia 's total wind generation capacity of 1,880 MW in 2010"	"was lower ranking 15th globally behind leaders such as China with 44,733 MW"	"considerably"	31	query206_Wind_power_in_Australia\P\31-0
+"Australia 's total wind generation capacity of 1,880 MW in 2010"	"was lower ranking 15th globally behind leaders such as China with 44,733 MW"	"in comparison to many other developed nations"	31	query206_Wind_power_in_Australia\P\31-1
+"Australia 's total wind generation capacity of 1,880 MW in 2010"	"was lower ranking 15th globally behind leaders such as China with 44,733 MW"	"in comparison to many other developing nations"	31	query206_Wind_power_in_Australia\P\31-2
+"Australia 's total wind generation capacity of 1,880 MW in 2010"	"was"	"lower ranking 15th globally behind leaders such as China with 44,733 MW"	31	query206_Wind_power_in_Australia\P\31-3
+"the US with 40,180 MW with 20,676 MW"	"is in"	"Spain"	31	query206_Wind_power_in_Australia\P\31-4
+"the with 40,180 MW with 20,676 MW India with 13,066 MW"	"is in"	"Spain"	31	query206_Wind_power_in_Australia\P\31-5
+"the US with 40,180 MW with 20,676 MW"	"is in"	"Germany with 27,215 MW"	31	query206_Wind_power_in_Australia\P\31-6
+"the with 40,180 MW with 20,676 MW India with 13,066 MW"	"is in"	"Germany with 27,215 MW"	31	query206_Wind_power_in_Australia\P\31-7
+World Wind Energy Association World Wind Energy Report 2010 PDF Report February 2011 http ://www.wwindea.org/home/images/stories/pdfs/worldwindenergyreport2010_s 	32	query206_Wind_power_in_Australia\S\32
+.pdf 	33	query206_Wind_power_in_Australia\S\33
+30-April-2011 World Wind Energy Association World Wind Energy Report 2010 PDF Report February 2011 http ://www.wwindea.org/home/images/stories/pdfs/worldwindenergyreport2010_s 	34	query206_Wind_power_in_Australia\S\34
+.pdf 	35	query206_Wind_power_in_Australia\S\35
+30-April-2011 In terms of installed capacity per head of population , Australia ranked 18th in the world in 2010 , with 0.086&nbsp;k 	36	query206_Wind_power_in_Australia\S\36
+"30-April-2011 In terms of installed capacity per head of population"	"be ranked"	"18th in the world in 2010"	36	query206_Wind_power_in_Australia\P\36-0
+"30-April-2011 In terms of installed capacity per head of population"	"be ranked"	"18th in the world with 0.086 k"	36	query206_Wind_power_in_Australia\P\36-1
+"30-April-2011 In terms of installed capacity per head of population"	"be ranked"	"18th in the world"	36	query206_Wind_power_in_Australia\P\36-2
+"30-April-2011 In terms of installed capacity per head of population"	"be ranked"	"18th in the world"	36	query206_Wind_power_in_Australia\P\36-3
+"30-April-2011 In terms of installed capacity per head of population"	"be ranked"	"18th in the world"	36	query206_Wind_power_in_Australia\P\36-4
+"30-April-2011 In terms of installed capacity per head of population"	"be ranked"	"18th in the world"	36	query206_Wind_power_in_Australia\P\36-5
+"30-April-2011 In terms of installed capacity per head of population"	"be ranked"	"18th in the world"	36	query206_Wind_power_in_Australia\P\36-6
+W per person . 	37	query206_Wind_power_in_Australia\S\37
+This was only around one eighth of world leader Denmark , who had 0.675&nbsp;k 	38	query206_Wind_power_in_Australia\S\38
+"was only around one eighth of world leader Denmark"	"had"	"0.675 k"	38	query206_Wind_power_in_Australia\P\38-0
+W per person , while other top countries were Spain with 0.442&nbsp;k 	39	query206_Wind_power_in_Australia\S\39
+"other top countries"	"were Spain"	"with 0.442 k"	39	query206_Wind_power_in_Australia\P\39-0
+"other top countries"	"were"	"Spain"	39	query206_Wind_power_in_Australia\P\39-1
+W per person , Portugal with 0.344&nbsp;k 	40	query206_Wind_power_in_Australia\S\40
+"W per person"	"is"	"Portugal with 0.344 k"	40	query206_Wind_power_in_Australia\P\40-0
+W per person , and Germany with 0.334&nbsp;k 	41	query206_Wind_power_in_Australia\S\41
+W per person . 	42	query206_Wind_power_in_Australia\S\42
+The top two countries in terms of total capacity , China and the US , only ranked 27th and 9th in terms of capacity per head , with 0.033&nbsp;k 	43	query206_Wind_power_in_Australia\S\43
+"The top two countries in terms of total capacity"	"is"	"China"	43	query206_Wind_power_in_Australia\P\43-0
+"The top two countries in terms of total capacity"	"is"	"the US"	43	query206_Wind_power_in_Australia\P\43-1
+"The top two countries in terms of total capacity"	"ranked"	"27th only"	43	query206_Wind_power_in_Australia\P\43-2
+"The top two countries in terms of total capacity"	"ranked"	"9th only"	43	query206_Wind_power_in_Australia\P\43-3
+"The top two countries in terms of total capacity"	"ranked"	"27th in terms of capacity per head"	43	query206_Wind_power_in_Australia\P\43-4
+"The top two countries in terms of total capacity"	"ranked"	"9th in terms of capacity per head"	43	query206_Wind_power_in_Australia\P\43-5
+"The top two countries in terms of total capacity"	"ranked"	"27th with 0.033 k"	43	query206_Wind_power_in_Australia\P\43-6
+"The top two countries in terms of total capacity"	"ranked"	"9th with 0.033 k"	43	query206_Wind_power_in_Australia\P\43-7
+"The top two countries in terms of total capacity"	"ranked"	"27th"	43	query206_Wind_power_in_Australia\P\43-8
+"The top two countries in terms of total capacity"	"ranked"	"9th"	43	query206_Wind_power_in_Australia\P\43-9
+W per person and 0.128&nbsp;k 	44	query206_Wind_power_in_Australia\S\44
+W per person respectively . 	45	query206_Wind_power_in_Australia\S\45
+While Australia produced almost 2 % of its electricity from wind power , Technologies : Wind : Wind Energy – how it works http ://www.cleanenergycouncil 	46	query206_Wind_power_in_Australia\S\46
+While Australia produced almost 2 % of its electricity from wind power , Technologies : Wind : Wind Energy – how it works http ://www.cleanenergycouncil 	46	query206_Wind_power_in_Australia\S\46
+While Australia produced almost 2 % of its electricity from wind power , Technologies : Wind : Wind Energy – how it works http ://www.cleanenergycouncil 	46	query206_Wind_power_in_Australia\S\46
+While Australia produced almost 2 % of its electricity from wind power , Technologies : Wind : Wind Energy – how it works http ://www.cleanenergycouncil 	46	query206_Wind_power_in_Australia\S\46
+While Australia produced almost 2 % of its electricity from wind power , Technologies : Wind : Wind Energy – how it works http ://www.cleanenergycouncil 	46	query206_Wind_power_in_Australia\S\46
+While Australia produced almost 2 % of its electricity from wind power , Technologies : Wind : Wind Energy – how it works http ://www.cleanenergycouncil 	46	query206_Wind_power_in_Australia\S\46
+.org 	47	query206_Wind_power_in_Australia\S\47
+.au/cec/technologies/wind 	48	query206_Wind_power_in_Australia\S\48
+.html 	49	query206_Wind_power_in_Australia\S\49
+Official website 12 June 2011 2011 Technologies : Wind : Wind Energy – how it works http ://www.cleanenergycouncil 	50	query206_Wind_power_in_Australia\S\50
+Official website 12 June 2011 2011 Technologies : Wind : Wind Energy – how it works http ://www.cleanenergycouncil 	50	query206_Wind_power_in_Australia\S\50
+Official website 12 June 2011 2011 Technologies : Wind : Wind Energy – how it works http ://www.cleanenergycouncil 	50	query206_Wind_power_in_Australia\S\50
+.org 	51	query206_Wind_power_in_Australia\S\51
+.au/cec/technologies/wind 	52	query206_Wind_power_in_Australia\S\52
+.html 	53	query206_Wind_power_in_Australia\S\53
+Official website 12 June 2011 2011 in comparison to other countries it again lagged well behind world leaders in 2010 . 	54	query206_Wind_power_in_Australia\S\54
+Official website 12 June 2011 2011 in comparison to other countries it again lagged well behind world leaders in 2010 . 	54	query206_Wind_power_in_Australia\S\54
+Official website 12 June 2011 2011 in comparison to other countries it again lagged well behind world leaders in 2010 . 	54	query206_Wind_power_in_Australia\S\54
+Official website 12 June 2011 2011 in comparison to other countries it again lagged well behind world leaders in 2010 . 	54	query206_Wind_power_in_Australia\S\54
+Official website 12 June 2011 2011 in comparison to other countries it again lagged well behind world leaders in 2010 . 	54	query206_Wind_power_in_Australia\S\54
+Official website 12 June 2011 2011 in comparison to other countries it again lagged well behind world leaders in 2010 . 	54	query206_Wind_power_in_Australia\S\54
+Again Denmark topped this list , accounting for approximately 19 % of electricity production , with Portugal at 18 % , Spain at 16 % , and Germany at 9 % . 	55	query206_Wind_power_in_Australia\S\55
+"Again"	"is"	"accounting for approximately 19 % of electricity production with Portugal at 18 %"	55	query206_Wind_power_in_Australia\P\55-0
+"Again"	"is"	"for approximately 19 % of electricity production with Portugal at 18 % Spain at 16 %"	55	query206_Wind_power_in_Australia\P\55-1
+"Again"	"is"	"for approximately 19 % of electricity production with Portugal at 18 % Germany at 9 %"	55	query206_Wind_power_in_Australia\P\55-2
+"Again"	"is"	"for approximately 19 % of electricity production with Portugal at 18 % Germany at 9 %"	55	query206_Wind_power_in_Australia\P\55-3
+Global leaders in terms of total capacity , China and the US , had contributions as a percentage of total electricity supply closer to that of Australia , with 1.2 	56	query206_Wind_power_in_Australia\S\56
+"Global leaders in terms of total capacity"	"is"	"China"	56	query206_Wind_power_in_Australia\P\56-0
+"Global leaders in terms of total capacity"	"is"	"the US"	56	query206_Wind_power_in_Australia\P\56-1
+"Global leaders in terms of total capacity"	"had"	"contributions as a percentage of total electricity supply closer to that of Australia with 1.2"	56	query206_Wind_power_in_Australia\P\56-2
+"Global leaders in terms of total capacity"	"had"	"contributions as a percentage of total electricity supply closer to that of Australia"	56	query206_Wind_power_in_Australia\P\56-3
+% and 2 % respectively . 	57	query206_Wind_power_in_Australia\S\57
+The Garnaut Climate Change Review , the Carbon Pollution Reduction Scheme and the Mandatory Renewable energy Target announced by the Australian Government involve a reduction in Australian greenhouse gas emissions . 	58	query206_Wind_power_in_Australia\S\58
+"The Garnaut Climate Change Review"	"is"	"the Carbon Pollution Reduction Scheme"	58	query206_Wind_power_in_Australia\P\58-0
+"The Garnaut Climate Change Review"	"is"	"the Carbon Pollution Reduction the Mandatory Renewable energy Target announced by the Australian Government"	58	query206_Wind_power_in_Australia\P\58-1
+"the Mandatory Renewable energy Target"	"be announced"	"by the Australian Government"	58	query206_Wind_power_in_Australia\P\58-2
+"The Garnaut Climate Change Review"	"involve"	"a reduction in Australian greenhouse gas emissions"	58	query206_Wind_power_in_Australia\P\58-3
+Australia is the highest emitter of greenhouse gases per capita in the developed world and wind power is well placed to grow and deliver greenhouse gas emission cuts on a cost competitive basis . 	59	query206_Wind_power_in_Australia\S\59
+"Australia"	"is the highest emitter"	"of greenhouse gases per capita"	59	query206_Wind_power_in_Australia\P\59-0
+"Australia"	"is the highest emitter"	"in the developed world"	59	query206_Wind_power_in_Australia\P\59-1
+"Australia"	"is the highest emitter"	"in the developed wind power"	59	query206_Wind_power_in_Australia\P\59-2
+"Australia"	"is"	"the highest emitter"	59	query206_Wind_power_in_Australia\P\59-3
+"Australia is the highest emitter of greenhouse gases per capita in the developed world"	"is placed"	"to grow on a cost competitive basis well"	59	query206_Wind_power_in_Australia\P\59-4
+"Australia is the highest emitter of greenhouse gases per capita in the developed world"	"is placed"	"to deliver greenhouse gas emission cuts on a cost competitive basis well"	59	query206_Wind_power_in_Australia\P\59-5
+"Australia is the highest emitter of greenhouse gases per capita in the developed world"	"is placed"	"to deliver greenhouse gas emission cuts well"	59	query206_Wind_power_in_Australia\P\59-6
+"Australia is the highest emitter of greenhouse gases per capita in the developed wind power"	"is placed"	"to grow on a cost competitive basis well"	59	query206_Wind_power_in_Australia\P\59-7
+"Australia is the highest emitter of greenhouse gases per capita in the developed wind power"	"is placed"	"to deliver greenhouse gas emission cuts on a cost competitive basis well"	59	query206_Wind_power_in_Australia\P\59-8
+"Australia is the highest emitter of greenhouse gases per capita in the developed wind power"	"is placed"	"to deliver greenhouse gas emission cuts well"	59	query206_Wind_power_in_Australia\P\59-9
+"Australia is the highest emitter of greenhouse gases per capita in the developed world"	"is placed"	"to grow on a cost competitive basis"	59	query206_Wind_power_in_Australia\P\59-10
+"Australia is the highest emitter of greenhouse gases per capita in the developed world"	"is placed"	"to deliver greenhouse gas emission cuts on a cost competitive basis"	59	query206_Wind_power_in_Australia\P\59-11
+"Australia is the highest emitter of greenhouse gases per capita in the developed world"	"is placed"	"to deliver greenhouse gas emission cuts"	59	query206_Wind_power_in_Australia\P\59-12
+"Australia is the highest emitter of greenhouse gases per capita in the developed wind power"	"is placed"	"to grow on a cost competitive basis"	59	query206_Wind_power_in_Australia\P\59-13
+"Australia is the highest emitter of greenhouse gases per capita in the developed wind power"	"is placed"	"to deliver greenhouse gas emission cuts on a cost competitive basis"	59	query206_Wind_power_in_Australia\P\59-14
+"Australia is the highest emitter of greenhouse gases per capita in the developed wind power"	"is placed"	"to deliver greenhouse gas emission cuts"	59	query206_Wind_power_in_Australia\P\59-15
+A typical 50-megawatt ( MW) wind farm in Australia can reduce greenhouse gas emissions by between 65,000 and 115,000&nbsp;tonnes a year . 	60	query206_Wind_power_in_Australia\S\60
+"A typical 50-megawatt MW wind farm in Australia"	"can reduce"	"greenhouse gas emissions by between 65,000 tonnes a year"	60	query206_Wind_power_in_Australia\P\60-0
+"A typical 50-megawatt MW wind farm in Australia"	"can reduce"	"greenhouse gas emissions by between 115,000 tonnes a year"	60	query206_Wind_power_in_Australia\P\60-1
+"A typical 50-megawatt MW wind farm in Australia"	"can reduce"	"greenhouse gas emissions"	60	query206_Wind_power_in_Australia\P\60-2
+Based on the 2010 figures for electricity production of 5 TWh nationally , it is estimated that wind power saved Australia 5,100,000&nbsp;tonnes of CO 2 emissions in that year . 	61	query206_Wind_power_in_Australia\S\61
+Based on the 2010 figures for electricity production of 5 TWh nationally , it is estimated that wind power saved Australia 5,100,000&nbsp;tonnes of CO 2 emissions in that year . 	61	query206_Wind_power_in_Australia\S\61
+Based on the 2010 figures for electricity production of 5 TWh nationally , it is estimated that wind power saved Australia 5,100,000&nbsp;tonnes of CO 2 emissions in that year . 	61	query206_Wind_power_in_Australia\S\61
+Based on the 2010 figures for electricity production of 5 TWh nationally , it is estimated that wind power saved Australia 5,100,000&nbsp;tonnes of CO 2 emissions in that year . 	61	query206_Wind_power_in_Australia\S\61
+"wind power"	"saved"	"Australia 5,100,000 tonnes of CO 2 emissions in that year"	61	query206_Wind_power_in_Australia\P\61-0
+"wind power"	"saved"	"Australia 5,100,000 tonnes of CO 2 emissions"	61	query206_Wind_power_in_Australia\P\61-1
+In relative terms , that is calculated to be the equivalent of removing 1,133,000 cars from the nation 's roads . 	62	query206_Wind_power_in_Australia\S\62
+In relative terms , that is calculated to be the equivalent of removing 1,133,000 cars from the nation 's roads . 	62	query206_Wind_power_in_Australia\S\62
+In relative terms , that is calculated to be the equivalent of removing 1,133,000 cars from the nation 's roads . 	62	query206_Wind_power_in_Australia\S\62
+"the nation"	"has"	"roads"	62	query206_Wind_power_in_Australia\P\62-0
+thumbrightThe information centre near the base of one of the towers at Wattle Point Wind Farm Australia has excellent wind resources by world standards . 	63	query206_Wind_power_in_Australia\S\63
+"thumbrightThe information centre near the base of one of the towers at Wattle Point Wind Farm Australia"	"has"	"excellent wind resources by world standards"	63	query206_Wind_power_in_Australia\P\63-0
+"thumbrightThe information centre near the base of one of the towers at Wattle Point Wind Farm Australia"	"has"	"excellent wind resources"	63	query206_Wind_power_in_Australia\P\63-1
+The southern coastline lies in the roaring forties and hundreds of sites have average wind speeds above 8 or even 9&nbsp;m/s at 50&nbsp;m above ground ( the hub height of a modern wind generator ) . 	64	query206_Wind_power_in_Australia\S\64
+"The southern coastline"	"lies"	"in the roaring forties"	64	query206_Wind_power_in_Australia\P\64-0
+"The southern coastline"	"lies"	"in the roaring hundreds of sites"	64	query206_Wind_power_in_Australia\P\64-1
+"The southern coastline"	"lies"	"in the roaring forties"	64	query206_Wind_power_in_Australia\P\64-2
+"The southern coastline"	"lies"	"in the roaring hundreds of sites"	64	query206_Wind_power_in_Australia\P\64-3
+"the hub"	"height"	"of a modern wind generator"	64	query206_Wind_power_in_Australia\P\64-4
+The southwest of Western Australia , southern South Australia , western Victoria , northern Tasmania and elevated areas of New South Wales and Queensland have good wind resources . 	65	query206_Wind_power_in_Australia\S\65
+"The southwest of Western Australia"	"have"	"good wind resources"	65	query206_Wind_power_in_Australia\P\65-0
+"The southwest of Western southern South Australia"	"have"	"good wind resources"	65	query206_Wind_power_in_Australia\P\65-1
+"The southwest of Western western Victoria"	"have"	"good wind resources"	65	query206_Wind_power_in_Australia\P\65-2
+"The southwest of Western northern Tasmania"	"have"	"good wind resources"	65	query206_Wind_power_in_Australia\P\65-3
+"The southwest of Western elevated areas of New South Wales"	"have"	"good wind resources"	65	query206_Wind_power_in_Australia\P\65-4
+"The southwest of Western elevated areas of New South Queensland"	"have"	"good wind resources"	65	query206_Wind_power_in_Australia\P\65-5
+Several states engaged in systematic wind speed monitoring in the 1980s and 1990s , the results of which are publicly available . 	66	query206_Wind_power_in_Australia\S\66
+"Several states"	"engaged"	"in systematic wind speed monitoring in the 1980s"	66	query206_Wind_power_in_Australia\P\66-0
+"Several states"	"engaged"	"in systematic wind speed monitoring in the 1990s"	66	query206_Wind_power_in_Australia\P\66-1
+"the results of which"	"are available"	"publicly"	66	query206_Wind_power_in_Australia\P\66-2
+"the results of which"	"are"	"available"	66	query206_Wind_power_in_Australia\P\66-3
+http ://www .jamesnixon.com/SolarwindANU.pdf 	67	query206_Wind_power_in_Australia\S\67
+A.W. 	68	query206_Wind_power_in_Australia\S\68
+Blakers , Solar and Wind Electricity in Australia Australian Journal of Environmental Management , Vol 7 , pp . 	69	query206_Wind_power_in_Australia\S\69
+"Blakers"	"is"	"Solar Electricity in Australia Australian Journal of Environmental Management"	69	query206_Wind_power_in_Australia\P\69-0
+"Blakers"	"is"	"Wind Electricity in Australia Australian Journal of Environmental Management"	69	query206_Wind_power_in_Australia\P\69-1
+"Australian Journal of Environmental Management"	"is"	"Vol 7"	69	query206_Wind_power_in_Australia\P\69-2
+"Vol 7"	"is"	"pp"	69	query206_Wind_power_in_Australia\P\69-3
+223–36 , 2000 2007-03-23 pdf http ://web.archive 	70	query206_Wind_power_in_Australia\S\70
+223–36 , 2000 2007-03-23 pdf http ://web.archive 	70	query206_Wind_power_in_Australia\S\70
+.org/web/20070830054518/http 	71	query206_Wind_power_in_Australia\S\71
+://www .jamesnixon.com/SolarwindANU.pdf 	72	query206_Wind_power_in_Australia\S\72
+2007-08-30 http ://www .jamesnixon.com/SolarwindANU.pdf 	73	query206_Wind_power_in_Australia\S\73
+A.W. 	74	query206_Wind_power_in_Australia\S\74
+Blakers , Solar and Wind Electricity in Australia Australian Journal of Environmental Management , Vol 7 , pp . 	75	query206_Wind_power_in_Australia\S\75
+"Blakers"	"is"	"Solar Electricity in Australia Australian Journal of Environmental Management"	75	query206_Wind_power_in_Australia\P\75-0
+"Blakers"	"is"	"Wind Electricity in Australia Australian Journal of Environmental Management"	75	query206_Wind_power_in_Australia\P\75-1
+"Australian Journal of Environmental Management"	"is"	"Vol 7"	75	query206_Wind_power_in_Australia\P\75-2
+"Vol 7"	"is"	"pp"	75	query206_Wind_power_in_Australia\P\75-3
+223–36 , 2000 2007-03-23 pdf http ://web.archive 	76	query206_Wind_power_in_Australia\S\76
+223–36 , 2000 2007-03-23 pdf http ://web.archive 	76	query206_Wind_power_in_Australia\S\76
+.org/web/20070830054518/http 	77	query206_Wind_power_in_Australia\S\77
+://www .jamesnixon.com/SolarwindANU.pdf 	78	query206_Wind_power_in_Australia\S\78
+2007-08-30 Australian wind farms produce on average capacity factor of 30–35 % , making wind an attractive option . 	79	query206_Wind_power_in_Australia\S\79
+"2007-08-30 Australian wind farms"	"produce"	"on average capacity factor of 30 35 % making wind an attractive option"	79	query206_Wind_power_in_Australia\P\79-0
+"2007-08-30 Australian wind farms"	"produce"	"35 % making wind an attractive option"	79	query206_Wind_power_in_Australia\P\79-1
+"%"	"be making"	"wind an attractive option"	35	query206_Wind_power_in_Australia\P\79-2
+However , the modelling of how wind generating capacity correlates with electricity demand in terms of daily , seasonal and year-to-year patterns of both , has yet to be conducted . 	80	query206_Wind_power_in_Australia\S\80
+However , the modelling of how wind generating capacity correlates with electricity demand in terms of daily , seasonal and year-to-year patterns of both , has yet to be conducted . 	80	query206_Wind_power_in_Australia\S\80
+"wind generating capacity"	"correlates"	"with electricity demand in terms of daily patterns how"	80	query206_Wind_power_in_Australia\P\80-0
+"wind generating capacity"	"correlates"	"with electricity demand in terms of seasonal patterns how"	80	query206_Wind_power_in_Australia\P\80-1
+"wind generating capacity"	"correlates"	"with electricity demand in terms of year-to-year patterns how"	80	query206_Wind_power_in_Australia\P\80-2
+"wind generating capacity"	"correlates"	"with electricity demand in terms of daily patterns"	80	query206_Wind_power_in_Australia\P\80-3
+"wind generating capacity"	"correlates"	"with electricity demand in terms of seasonal patterns"	80	query206_Wind_power_in_Australia\P\80-4
+"wind generating capacity"	"correlates"	"with electricity demand in terms of year-to-year patterns"	80	query206_Wind_power_in_Australia\P\80-5
+As of October 2010 , there were 52 wind farms of greater than 100&nbsp;k W capacity operating in Australia . 	81	query206_Wind_power_in_Australia\S\81
+"wind farms of greater than 100 k W capacity operating in Australia"	"there were"	"81 As of October 2010"	52	query206_Wind_power_in_Australia\P\81-0
+The Waubra Wind Farm near Ballarat_ Victoria , completed in 2009 , was the largest wind farm in the southern hemisphere , , retrieved 19 November 2010 consisting of 128&nbsp;turbines spread over 173&nbsp;km 2 and rated at 192&nbsp;MW, however in terms of generating capacity Lake Bonney Wind Farm near Millicent _ South Australia was the largest with 239.5&nbsp;MW, 	82	query206_Wind_power_in_Australia\S\82
+"The Waubra Wind Farm near Ballarat _ Victoria"	"be completed"	"in 2009"	82	query206_Wind_power_in_Australia\P\82-0
+"The Waubra Wind Farm near Ballarat _ Victoria completed in 2009"	"was the largest wind farm retrieved 19 November 2010 consisting of 128 turbines spread over 173 km 2 was the largest with 239.5 MW"	"in the southern hemisphere"	82	query206_Wind_power_in_Australia\P\82-1
+"The Waubra Wind Farm near Ballarat _ Victoria completed in 2009"	"was the largest wind farm retrieved 19 November 2010 of 128 turbines spread over 173 km 2 rated at 192 MW was the largest with 239.5 MW"	"in the southern hemisphere"	82	query206_Wind_power_in_Australia\P\82-2
+"The Waubra Wind Farm near Ballarat _ Victoria completed in 2009"	"was the largest wind farm retrieved 19 November 2010 consisting of 128 turbines spread over 173 km 2 was the largest with 239.5 MW"	"however in terms of generating capacity Lake Bonney Wind Farm near Millicent _ South Australia"	82	query206_Wind_power_in_Australia\P\82-3
+"The Waubra Wind Farm near Ballarat _ Victoria completed in 2009"	"was the largest wind farm retrieved 19 November 2010 of 128 turbines spread over 173 km 2 rated at 192 MW was the largest with 239.5 MW"	"however in terms of generating capacity Lake Bonney Wind Farm near Millicent _ South Australia"	82	query206_Wind_power_in_Australia\P\82-4
+"The Waubra Wind Farm near Ballarat _ Victoria completed in 2009"	"was"	"the largest wind farm retrieved 19 November 2010 consisting of 128 turbines spread over 173 km 2 was the largest with 239.5 MW"	82	query206_Wind_power_in_Australia\P\82-5
+"The Waubra Wind Farm near Ballarat _ Victoria completed in 2009"	"was"	"the largest wind farm retrieved 19 November 2010 of 128 turbines spread over 173 km 2 rated at 192 MW was the largest with 239.5 MW"	82	query206_Wind_power_in_Australia\P\82-6
+"turbines"	"be spread"	"over 173 km 2"	128	query206_Wind_power_in_Australia\P\82-7
+despite only having 99&nbsp;turbines . 	83	query206_Wind_power_in_Australia\S\83
+despite only having 99&nbsp;turbines . 	83	query206_Wind_power_in_Australia\S\83
+These figures were set to be surpassed by the Macarthur Wind Farm at Macarthur_ Victoria , scheduled to open in 2013 with a capacity of 420&nbsp;MW. 	84	query206_Wind_power_in_Australia\S\84
+"These figures"	"were set"	"to be surpassed by the Macarthur Wind Farm at Macarthur _ Victoria"	84	query206_Wind_power_in_Australia\P\84-0
+"These figures"	"were set"	"to be surpassed by the Macarthur Wind Farm"	84	query206_Wind_power_in_Australia\P\84-1
+By generating capacity , the ten largest wind farms in Australia were : Australia 's first commercial wind farm , Salmon Beach Wind Farm near Esperance in Western Australia operated for 15 years from 1987 , but was decommissioned due to urban encroachment ; it has been replaced by Ten Mile Lagoon Wind Farm and Nine Mile Beach Wind Farm . 	85	query206_Wind_power_in_Australia\S\85
+"By generating capacity"	"is"	"the ten largest wind farms in Australia"	85	query206_Wind_power_in_Australia\P\85-0
+"Australia 's first commercial wind farm"	"is"	"Salmon Beach Wind Farm near Esperance in Western Australia"	85	query206_Wind_power_in_Australia\P\85-1
+"Australia 's first commercial wind farm"	"is"	"Salmon Beach Wind Farm near Esperance in Western Australia"	85	query206_Wind_power_in_Australia\P\85-2
+"By generating capacity"	"were Australia 's first commercial wind farm operated"	"for 15 years from 1987"	85	query206_Wind_power_in_Australia\P\85-3
+"By generating capacity"	"were Australia 's first commercial wind farm operated"	"for 15 years"	85	query206_Wind_power_in_Australia\P\85-4
+"By generating capacity"	"were Australia 's first commercial wind farm was decommissioned"	"due to urban encroachment for 15 years"	85	query206_Wind_power_in_Australia\P\85-5
+"By generating capacity"	"were Australia 's first commercial wind farm was decommissioned"	"due to urban encroachment from 1987"	85	query206_Wind_power_in_Australia\P\85-6
+"By generating capacity"	"were Australia 's first commercial wind farm was decommissioned"	"due to urban encroachment"	85	query206_Wind_power_in_Australia\P\85-7
+"Australia 's first commercial wind farm"	"85 By generating capacity were operated"	"for 15 years from 1987"	85	query206_Wind_power_in_Australia\P\85-8
+"Australia 's first commercial wind farm"	"85 By generating capacity were operated"	"for 15 years"	85	query206_Wind_power_in_Australia\P\85-9
+"Australia 's first commercial wind farm"	"85 By generating capacity were was decommissioned"	"due to urban encroachment for 15 years"	85	query206_Wind_power_in_Australia\P\85-10
+"Australia 's first commercial wind farm"	"85 By generating capacity were was decommissioned"	"due to urban encroachment from 1987"	85	query206_Wind_power_in_Australia\P\85-11
+"Australia 's first commercial wind farm"	"85 By generating capacity were was decommissioned"	"due to urban encroachment"	85	query206_Wind_power_in_Australia\P\85-12
+"Australia 's first commercial wind farm"	"85 By generating capacity were was decommissioned"	"due to urban encroachment"	85	query206_Wind_power_in_Australia\P\85-13
+"Australia 's first commercial wind farm"	"85 By generating capacity were was decommissioned"	"due to urban encroachment"	85	query206_Wind_power_in_Australia\P\85-14
+In August 2009 , The Age newspaper reported that the first of three new large-scale wind farming projects to offset Australia 's power-hungry desalination plants would be going ahead . 	86	query206_Wind_power_in_Australia\S\86
+"The Age newspaper"	"reported"	"that the first of three new large-scale wind farming projects to offset Australia 's power-hungry desalination plants would be going ahead 86 In August 2009"	86	query206_Wind_power_in_Australia\P\86-0
+"the first of three new large-scale wind farming projects"	"be offset"	"Australia 's power-hungry desalination plants"	86	query206_Wind_power_in_Australia\P\86-1
+"the first of three new large-scale wind farming projects"	"be offset"	"Australia 's power-hungry desalination plants"	86	query206_Wind_power_in_Australia\P\86-2
+"the first of three new large-scale wind farming projects to offset Australia 's power-hungry desalination plants"	"would be going"	"ahead"	86	query206_Wind_power_in_Australia\P\86-3
+Morton Adam A glimpse of the future for Victoria 's hilltops The Age 2009-08-01 1 , 6 http ://www.theage 	87	query206_Wind_power_in_Australia\S\87
+Morton Adam A glimpse of the future for Victoria 's hilltops The Age 2009-08-01 1 , 6 http ://www.theage 	87	query206_Wind_power_in_Australia\S\87
+"The Age 2009-08-01 1"	"is"	"6 http"	87	query206_Wind_power_in_Australia\P\87-0
+.com 	88	query206_Wind_power_in_Australia\S\88
+.au/national/a-glimpse-of-the-future-for-victorias-hilltops-20090731-e4kv.html 	89	query206_Wind_power_in_Australia\S\89
+2009-08-02 Morton Adam A glimpse of the future for Victoria 's hilltops The Age 2009-08-01 1 , 6 http ://www.theage 	90	query206_Wind_power_in_Australia\S\90
+2009-08-02 Morton Adam A glimpse of the future for Victoria 's hilltops The Age 2009-08-01 1 , 6 http ://www.theage 	90	query206_Wind_power_in_Australia\S\90
+"The Age 2009-08-01 1"	"is"	"6 http"	90	query206_Wind_power_in_Australia\P\90-0
+.com 	91	query206_Wind_power_in_Australia\S\91
+.au/national/a-glimpse-of-the-future-for-victorias-hilltops-20090731-e4kv.html 	92	query206_Wind_power_in_Australia\S\92
+2009-08-02 A full listing of all the wind farms in Australia , can be found in List of wind farms in Australia . 	93	query206_Wind_power_in_Australia\S\93
+"2009-08-02 A full listing of all the wind farms in Australia"	"can be found"	"in List of wind farms in Australia"	93	query206_Wind_power_in_Australia\P\93-0
+Relevant state articles are : For an up-to-date map of the Australian wind energy projects , operating and proposed , download a free copy of the EPi Wind Project Map at www.elementalpower.com 	94	query206_Wind_power_in_Australia\S\94
+.au 	95	query206_Wind_power_in_Australia\S\95
+The following figures were based on capacity as of October 2010 , and included only projects larger than 100&nbsp;kW. 	96	query206_Wind_power_in_Australia\S\96
+"The following figures"	"were based"	"on capacity as of October 2010"	96	query206_Wind_power_in_Australia\P\96-0
+"The following figures"	"were included"	"only projects larger than 100 kW on capacity as of October 2010"	96	query206_Wind_power_in_Australia\P\96-1
+"The following figures"	"were included"	"only projects larger than 100 kW"	96	query206_Wind_power_in_Australia\P\96-2
+In world terms , South Australia 's market penetration of 19.4 	97	query206_Wind_power_in_Australia\S\97
+"South Australia"	"has"	"market penetration of 19.4"	97	query206_Wind_power_in_Australia\P\97-0
+% placed it on par the world 's leading nation , Denmark , who provided approximately 19 % of their total electricity from wind . 	98	query206_Wind_power_in_Australia\S\98
+"%"	"placed"	"it on par the world 's leading nation"	98	query206_Wind_power_in_Australia\P\98-0
+"the world"	"has"	"leading nation"	98	query206_Wind_power_in_Australia\P\98-1
+"the world 's leading nation"	"is"	"Denmark"	98	query206_Wind_power_in_Australia\P\98-2
+"the world 's leading nation"	"provided"	"approximately 19 % of their total electricity from wind"	98	query206_Wind_power_in_Australia\P\98-3
+"the world 's leading nation"	"provided"	"approximately 19 % of their total electricity"	98	query206_Wind_power_in_Australia\P\98-4
+"the world 's leading nation"	"provided"	"approximately 19 % of their total electricity"	98	query206_Wind_power_in_Australia\P\98-5
+Wind power#Economics Making comparisons between wind and other sources of energy can be difficult because of the cost profiles associated with wind developments . 	99	query206_Wind_power_in_Australia\S\99
+"Wind power #Economics"	"be Making"	"comparisons between wind and other sources of energy"	99	query206_Wind_power_in_Australia\P\99-0
+"Wind power #Economics Making comparisons between wind and other sources of energy"	"can be difficult"	"because of the cost profiles associated with wind developments"	99	query206_Wind_power_in_Australia\P\99-1
+"Wind power #Economics Making comparisons between wind and other sources of energy"	"can be"	"difficult"	99	query206_Wind_power_in_Australia\P\99-2
+"the cost profiles"	"be associated"	"with wind developments"	99	query206_Wind_power_in_Australia\P\99-3
+The vast majority of the costs associated with wind developments are upfront capital costs . 	100	query206_Wind_power_in_Australia\S\100
+"the costs"	"be associated"	"with wind developments"	100	query206_Wind_power_in_Australia\P\100-0
+"The vast majority of the costs associated with wind developments"	"are"	"upfront capital costs"	100	query206_Wind_power_in_Australia\P\100-1
+The operating costs are relatively low , with each additional unit of wind power costing very little to produce . 	101	query206_Wind_power_in_Australia\S\101
+"The operating costs"	"are low costing very little to produce"	"relatively"	101	query206_Wind_power_in_Australia\P\101-0
+"The operating costs"	"are low costing very little to produce"	"with each additional unit of wind power"	101	query206_Wind_power_in_Australia\P\101-1
+"The operating costs"	"are"	"low costing very little to produce"	101	query206_Wind_power_in_Australia\P\101-2
+By comparison , conventional gas and coal developments have large capital costs , as well as significant operating costs . 	102	query206_Wind_power_in_Australia\S\102
+"conventional gas developments"	"have"	"large capital costs 102 By comparison"	102	query206_Wind_power_in_Australia\P\102-0
+"conventional coal developments"	"have"	"large capital costs 102 By comparison"	102	query206_Wind_power_in_Australia\P\102-1
+"conventional gas developments"	"significant operating costs"	"large capital costs 102 By comparison"	102	query206_Wind_power_in_Australia\P\102-2
+"conventional coal developments"	"significant operating costs"	"large capital costs 102 By comparison"	102	query206_Wind_power_in_Australia\P\102-3
+The difference in cost profiles creates difficulties when trying to compare the cost of alternative energy sources . 	103	query206_Wind_power_in_Australia\S\103
+"The difference in cost profiles"	"creates"	"difficulties when trying to compare the cost of alternative energy sources"	103	query206_Wind_power_in_Australia\P\103-0
+"The difference in cost profiles"	"creates"	"difficulties"	103	query206_Wind_power_in_Australia\P\103-1
+The Australia Institute ( 2006 ) . 	104	query206_Wind_power_in_Australia\S\104
+"The Australia Institute"	"is"	"2006"	104	query206_Wind_power_in_Australia\P\104-0
+Discussion Paper Number 91 , October , ISSN 1322-5421 Despite these complexities , most of the data indicate that wind energy is one of the most cost efficient sources of renewable energy and that when the costs associated with pollution are factored in it is competitive with coal - and gas-fired power stations . 	105	query206_Wind_power_in_Australia\S\105
+Discussion Paper Number 91 , October , ISSN 1322-5421 Despite these complexities , most of the data indicate that wind energy is one of the most cost efficient sources of renewable energy and that when the costs associated with pollution are factored in it is competitive with coal - and gas-fired power stations . 	105	query206_Wind_power_in_Australia\S\105
+Discussion Paper Number 91 , October , ISSN 1322-5421 Despite these complexities , most of the data indicate that wind energy is one of the most cost efficient sources of renewable energy and that when the costs associated with pollution are factored in it is competitive with coal - and gas-fired power stations . 	105	query206_Wind_power_in_Australia\S\105
+Discussion Paper Number 91 , October , ISSN 1322-5421 Despite these complexities , most of the data indicate that wind energy is one of the most cost efficient sources of renewable energy and that when the costs associated with pollution are factored in it is competitive with coal - and gas-fired power stations . 	105	query206_Wind_power_in_Australia\S\105
+"Discussion Paper Number"	"91 indicate"	"that wind energy is one of the most cost efficient sources of renewable energy"	105	query206_Wind_power_in_Australia\P\105-0
+"Discussion Paper Number"	"91 indicate"	"that wind energy is of the most cost efficient sources of renewable energy that when the costs associated with pollution are factored in it is competitive with coal power stations"	105	query206_Wind_power_in_Australia\P\105-1
+"Discussion Paper Number"	"91 indicate"	"that wind energy is of the most cost efficient sources of renewable energy that when the costs associated with pollution are factored in it is competitive with coal gas-fired power stations"	105	query206_Wind_power_in_Australia\P\105-2
+"Discussion Paper Number"	"91 indicate"	"that wind energy is of the most cost efficient sources of renewable energy that when the costs associated with pollution are factored in it is competitive with coal gas-fired power stations"	105	query206_Wind_power_in_Australia\P\105-3
+"Discussion Paper Number"	"91 indicate"	"that wind energy is of the most cost efficient sources of renewable energy that when the costs associated with pollution are factored in it is competitive with coal gas-fired power stations"	105	query206_Wind_power_in_Australia\P\105-4
+"Discussion Paper Number"	"91 indicate"	"that wind energy is of the most cost efficient sources of renewable energy that when the costs associated with pollution are factored in it is competitive with coal gas-fired power stations"	105	query206_Wind_power_in_Australia\P\105-5
+"wind energy"	"is one"	"of the most cost efficient sources of renewable energy"	105	query206_Wind_power_in_Australia\P\105-6
+"wind energy"	"is"	"one"	105	query206_Wind_power_in_Australia\P\105-7
+"the costs"	"be associated"	"with pollution"	105	query206_Wind_power_in_Australia\P\105-8
+"the costs associated with pollution"	"are factored"	"when"	105	query206_Wind_power_in_Australia\P\105-9
+"the costs associated with pollution"	"are factored"	"in it"	105	query206_Wind_power_in_Australia\P\105-10
+"the costs associated with pollution"	"are"	"factored"	105	query206_Wind_power_in_Australia\P\105-11
+"when the costs associated with pollution are factored in it"	"is competitive power stations"	"with coal"	105	query206_Wind_power_in_Australia\P\105-12
+"when the costs associated with pollution are factored in it"	"is gas-fired power stations"	"with coal"	105	query206_Wind_power_in_Australia\P\105-13
+"when the costs associated with pollution are factored in it"	"is"	"competitive power stations"	105	query206_Wind_power_in_Australia\P\105-14
+"when the costs associated with pollution are factored in it"	"is"	"gas-fired power stations"	105	query206_Wind_power_in_Australia\P\105-15
+Environmental impact of wind power rightthumbWind poweris one of the most environmentally friendly sources of renewable energy Australia is the fifth highest per capita emitter of greenhouse gases with 25.8 	106	query206_Wind_power_in_Australia\S\106
+"Environmental impact of wind power rightthumbWind"	"poweris"	"one of the most environmentally friendly sources of renewable energy Australia"	106	query206_Wind_power_in_Australia\P\106-0
+"Environmental impact of wind power rightthumbWind poweris one of the most environmentally friendly sources of renewable energy Australia"	"is the fifth highest emitter of greenhouse gases with 25.8"	"per capita"	106	query206_Wind_power_in_Australia\P\106-1
+"Environmental impact of wind power rightthumbWind poweris one of the most environmentally friendly sources of renewable energy Australia"	"is"	"the fifth highest emitter of greenhouse gases with 25.8"	106	query206_Wind_power_in_Australia\P\106-2
+tonne CO 2 -e per person annually , ranking first of the industrialized countries , and ranks sixteenth of all countries in total country emissions with 495 Mt CO 2 -e per annum . 	107	query206_Wind_power_in_Australia\S\107
+"CO 2 e per person annually in total country emissions with 495 Mt CO 2 e per annum"	"be ranking"	"first of the industrialized countries"	107	query206_Wind_power_in_Australia\P\107-0
+"e per person annually ranks sixteenth of all countries in total country emissions with 495 Mt CO 2 e per annum"	"be ranking"	"first of the industrialized countries"	2	query206_Wind_power_in_Australia\P\107-1
+It is one of the major exporters of coal , the burning of which releases CO 2 into the atmosphere . 	108	query206_Wind_power_in_Australia\S\108
+"It"	"is one"	"of the major exporters of coal"	108	query206_Wind_power_in_Australia\P\108-0
+"It"	"is"	"one"	108	query206_Wind_power_in_Australia\P\108-1
+"the burning of which"	"releases"	"CO 2 into the atmosphere one of the major exporters of coal"	108	query206_Wind_power_in_Australia\P\108-2
+It is also one of the countries most at risk from climate change according to the Stern report . 	109	query206_Wind_power_in_Australia\S\109
+It is also one of the countries most at risk from climate change according to the Stern report . 	109	query206_Wind_power_in_Australia\S\109
+It is also one of the countries most at risk from climate change according to the Stern report . 	109	query206_Wind_power_in_Australia\S\109
+It is also one of the countries most at risk from climate change according to the Stern report . 	109	query206_Wind_power_in_Australia\S\109
+It is also one of the countries most at risk from climate change according to the Stern report . 	109	query206_Wind_power_in_Australia\S\109
+It is also one of the countries most at risk from climate change according to the Stern report . 	109	query206_Wind_power_in_Australia\S\109
+This is partially because of the size of its agriculture sector and long coastline . 	110	query206_Wind_power_in_Australia\S\110
+This is partially because of the size of its agriculture sector and long coastline . 	110	query206_Wind_power_in_Australia\S\110
+A wind farm , when installed on agricultural land , has one of the lowest environmental impacts of all energy sources : Landscape and heritage issues may be a significant issue for certain wind farms ,however these are minimal when compared with the Environmental effects of coal . 	111	query206_Wind_power_in_Australia\S\111
+"A wind farm"	"has"	"one of the lowest environmental impacts of all energy sources"	111	query206_Wind_power_in_Australia\P\111-0
+"A wind farm"	"has"	"one of the lowest environmental impacts of all energy sources"	111	query206_Wind_power_in_Australia\P\111-1
+"heritage issues"	"may be a significant issue"	"for certain wind farms"	111	query206_Wind_power_in_Australia\P\111-2
+"heritage issues"	"may be a significant issue"	"for certain wind farms"	111	query206_Wind_power_in_Australia\P\111-3
+"heritage issues"	"may be"	"a significant issue"	111	query206_Wind_power_in_Australia\P\111-4
+"heritage issues"	"may be"	"a significant issue"	111	query206_Wind_power_in_Australia\P\111-5
+"heritage issues"	"may be"	"a significant issue"	111	query206_Wind_power_in_Australia\P\111-6
+"heritage issues"	"may be"	"a significant issue"	111	query206_Wind_power_in_Australia\P\111-7
+However , when appropriate planning procedures are followed , the heritage and landscape risks should be minimal . 	112	query206_Wind_power_in_Australia\S\112
+"appropriate planning procedures"	"are followed"	"when"	112	query206_Wind_power_in_Australia\P\112-0
+"the heritage risks"	"should be"	"minimal 112 However when appropriate planning procedures are followed"	112	query206_Wind_power_in_Australia\P\112-1
+"the landscape risks"	"should be"	"minimal 112 However when appropriate planning procedures are followed"	112	query206_Wind_power_in_Australia\P\112-2
+"the heritage risks"	"should be"	"minimal 112 However"	112	query206_Wind_power_in_Australia\P\112-3
+"the landscape risks"	"should be"	"minimal 112 However"	112	query206_Wind_power_in_Australia\P\112-4
+Some people may still object to wind farms , perhaps on the grounds of aesthetics , but their concerns should be weighed against the need to address the threats posed by climate change and the opinions of the broader community . 	113	query206_Wind_power_in_Australia\S\113
+"Some people"	"may object"	"to wind farms perhaps on the grounds of aesthetics still"	113	query206_Wind_power_in_Australia\P\113-0
+"Some people"	"may object"	"to wind farms still"	113	query206_Wind_power_in_Australia\P\113-1
+"Some people"	"may object"	"to wind farms perhaps on the grounds of aesthetics"	113	query206_Wind_power_in_Australia\P\113-2
+"Some people"	"may object"	"to wind farms"	113	query206_Wind_power_in_Australia\P\113-3
+"Some people"	"may object"	"to wind farms"	113	query206_Wind_power_in_Australia\P\113-4
+"their concerns"	"should be weighed"	"against the need to address the threats posed by climate change"	113	query206_Wind_power_in_Australia\P\113-5
+"their concerns"	"should be weighed"	"against the need to address the threats posed by climate the opinions of the broader community"	113	query206_Wind_power_in_Australia\P\113-6
+"the need"	"be address"	"the threats posed by climate change"	113	query206_Wind_power_in_Australia\P\113-7
+"the need"	"be address"	"the threats posed by climate the opinions of the broader community"	113	query206_Wind_power_in_Australia\P\113-8
+"the threats"	"be posed"	"by climate change"	113	query206_Wind_power_in_Australia\P\113-9
+"the threats"	"be posed"	"by climate the opinions of the broader community"	113	query206_Wind_power_in_Australia\P\113-10
+Overseas experience has shown that community consultation and direct involvement of the general public in wind farm projects has helped to increase community approval . 	114	query206_Wind_power_in_Australia\S\114
+"Overseas experience"	"has shown"	"that community consultation in wind farm projects has helped to increase community approval"	114	query206_Wind_power_in_Australia\P\114-0
+"Overseas experience"	"has shown"	"that community direct involvement of the general public in wind farm projects has helped to increase community approval"	114	query206_Wind_power_in_Australia\P\114-1
+"community consultation in wind farm projects"	"has helped"	"to increase community approval"	114	query206_Wind_power_in_Australia\P\114-2
+"community direct involvement of the general public in wind farm projects"	"has helped"	"to increase community approval"	114	query206_Wind_power_in_Australia\P\114-3
+Some wind farms become tourist attractions . 	115	query206_Wind_power_in_Australia\S\115
+"Some wind farms"	"become"	"tourist attractions"	115	query206_Wind_power_in_Australia\P\115-0
+From 2001 to early 2006 , the main driving force for the establishment of wind farms in Australia was the Government 's Mandatory Renewable Energy Target ( MRET ) . 	116	query206_Wind_power_in_Australia\S\116
+"From 2001 to early 2006 was the Government 's Mandatory Renewable Energy Target"	"is"	"the main driving force for the establishment of wind farms in Australia"	116	query206_Wind_power_in_Australia\P\116-0
+"the Government"	"has"	"Mandatory Renewable Energy Target"	116	query206_Wind_power_in_Australia\P\116-1
+"the Government 's Mandatory Renewable Energy Target"	"is"	"MRET"	116	query206_Wind_power_in_Australia\P\116-2
+Lovegrove , Keith . 	117	query206_Wind_power_in_Australia\S\117
+"Lovegrove"	"is"	"Keith"	117	query206_Wind_power_in_Australia\P\117-0
+Australian Review of Public Affairs , 10 September 2004 . 	118	query206_Wind_power_in_Australia\S\118
+"Australian Review of Public Affairs"	"is"	"10 September 2004"	118	query206_Wind_power_in_Australia\P\118-0
+Diesendorf , Mark ( 2007 ) . 	119	query206_Wind_power_in_Australia\S\119
+"Diesendorf"	"is"	"Mark"	119	query206_Wind_power_in_Australia\P\119-0
+"Diesendorf"	"is"	"Mark"	119	query206_Wind_power_in_Australia\P\119-1
+Greenhouse Solutions with Sustainable Energy , UNSW Press , p . 	120	query206_Wind_power_in_Australia\S\120
+"Greenhouse Solutions with Sustainable Energy"	"is"	"UNSW Press"	120	query206_Wind_power_in_Australia\P\120-0
+"UNSW Press"	"is"	"p"	120	query206_Wind_power_in_Australia\P\120-1
+107 . 	121	query206_Wind_power_in_Australia\S\121
+However , by mid-2006 , sufficient renewable energy had been installed or was under construction to meet the small MRET target for 2010 . 	122	query206_Wind_power_in_Australia\S\122
+"sufficient renewable energy"	"had been installed"	"122 However by mid-2006"	122	query206_Wind_power_in_Australia\P\122-0
+"sufficient renewable energy"	"had been was"	"to meet the small MRET target for 2010 122 However by mid-2006"	122	query206_Wind_power_in_Australia\P\122-1
+"sufficient renewable energy"	"had been was"	"under construction to meet the small MRET target for 2010"	122	query206_Wind_power_in_Australia\P\122-2
+"sufficient renewable energy"	"had been was"	"to meet the small MRET target for 2010"	122	query206_Wind_power_in_Australia\P\122-3
+Also , in 2006 , several Federal Government Ministers spoke out against a number of wind farm proposals . 	123	query206_Wind_power_in_Australia\S\123
+"several Federal Government Ministers"	"spoke out"	"against a number of wind farm proposals Also"	123	query206_Wind_power_in_Australia\P\123-0
+"several Federal Government Ministers"	"spoke out"	"against a number of wind farm proposals in 2006"	123	query206_Wind_power_in_Australia\P\123-1
+"several Federal Government Ministers"	"spoke out"	"against a number of wind farm proposals"	123	query206_Wind_power_in_Australia\P\123-2
+Dr Mark Diesendorf has suggested that the Australian Government has tried to stop the development of wind power , the lowest-cost , new , renewable electricity source , until such time as coal-fired power stations with CO 2 capture and sequestration and possibly nuclear power stations are available . 	124	query206_Wind_power_in_Australia\S\124
+"Dr Mark Diesendorf"	"has suggested"	"that the Australian Government has tried to stop the development of wind power"	124	query206_Wind_power_in_Australia\P\124-0
+"the Australian Government"	"has tried"	"to stop the development of wind power"	124	query206_Wind_power_in_Australia\P\124-1
+"possibly nuclear power stations"	"are"	"available"	124	query206_Wind_power_in_Australia\P\124-2
+However , " clean coal " technologies may not be commercially available for at least 20 years . 	125	query206_Wind_power_in_Australia\S\125
+"However clean coal technologies"	"may not be available"	"commercially"	125	query206_Wind_power_in_Australia\P\125-0
+"However clean coal technologies"	"may not be available"	"for at least 20 years"	125	query206_Wind_power_in_Australia\P\125-1
+"However clean coal technologies"	"may not be"	"available"	125	query206_Wind_power_in_Australia\P\125-2
+Furthermore , to bring down the high cost of nuclear power to a level where it could compete with wind power would require a new generation of nuclear power stations that is still on the drawing board , which could take at least 15 years . 	126	query206_Wind_power_in_Australia\S\126
+"Furthermore"	"be bring"	"the high cost of nuclear power to a level"	126	query206_Wind_power_in_Australia\P\126-0
+"Furthermore"	"be bring"	"the high cost of nuclear power to a level"	126	query206_Wind_power_in_Australia\P\126-1
+"Furthermore"	"be bring"	"the high cost of nuclear power to a level"	126	query206_Wind_power_in_Australia\P\126-2
+"Furthermore"	"be bring"	"the high cost of nuclear power to a level"	126	query206_Wind_power_in_Australia\P\126-3
+"Furthermore to bring down the high cost of nuclear power to a level"	"would require"	"a new generation of nuclear power stations"	126	query206_Wind_power_in_Australia\P\126-4
+"a new generation of nuclear power stations"	"is"	"still on the drawing board"	126	query206_Wind_power_in_Australia\P\126-5
+"a new generation of nuclear power stations"	"is"	"still"	126	query206_Wind_power_in_Australia\P\126-6
+"the drawing board"	"could take"	"at least 15 years"	126	query206_Wind_power_in_Australia\P\126-7
+In November 2007 the Rudd ( Labor ) government was elected in Australia , replacing the Howard ( Liberal/National Coalition ) government . 	127	query206_Wind_power_in_Australia\S\127
+"the Rudd"	"is"	"Labor"	127	query206_Wind_power_in_Australia\P\127-0
+"In November 2007 the Rudd government"	"was elected"	"in Australia replacing the Howard Liberal/National Coalition government"	127	query206_Wind_power_in_Australia\P\127-1
+"In November 2007 the Rudd government"	"was elected"	"replacing the Howard Liberal/National Coalition government"	127	query206_Wind_power_in_Australia\P\127-2
+The new government ratified Australia 's commitment to the Kyoto Protocol , promised a target of 20 % renewable power by 2020 and to do more to reduce Australia 's greenhouse gas emissions . 	128	query206_Wind_power_in_Australia\S\128
+"The new government"	"ratified"	"Australia 's commitment to the Kyoto Protocol 128"	128	query206_Wind_power_in_Australia\P\128-0
+"The new government"	"ratified"	"Australia 's commitment to the Kyoto Protocol 128"	128	query206_Wind_power_in_Australia\P\128-1
+"The new government"	"ratified"	"Australia 's commitment to the Kyoto Protocol 128"	128	query206_Wind_power_in_Australia\P\128-2
+"The new government"	"ratified"	"Australia 's commitment to the Kyoto Protocol 128"	128	query206_Wind_power_in_Australia\P\128-3
+"The new government"	"ratified"	"Australia 's commitment to the Kyoto Protocol 128"	128	query206_Wind_power_in_Australia\P\128-4
+"The new government"	"ratified"	"Australia 's commitment to the Kyoto Protocol 128"	128	query206_Wind_power_in_Australia\P\128-5
+"The new government"	"ratified"	"Australia 's commitment to the Kyoto Protocol 128"	128	query206_Wind_power_in_Australia\P\128-6
+"to do more"	"be reduce"	"Australia 's greenhouse gas emissions"	128	query206_Wind_power_in_Australia\P\128-7
+"to do more"	"be reduce"	"Australia 's greenhouse gas emissions"	128	query206_Wind_power_in_Australia\P\128-8
+As a result , several new wind power projects have been proposed in anticipation of an expanded MRET. 	129	query206_Wind_power_in_Australia\S\129
+"several new wind power projects"	"have been proposed"	"129 As a result in anticipation of an expanded MRET"	129	query206_Wind_power_in_Australia\P\129-0
+"several new wind power projects"	"have been proposed"	"129 As a result"	129	query206_Wind_power_in_Australia\P\129-1
+In July 2011 the Australian Broadcasting Corporation 4 Corners program explored health concerns connected with Australian wind farms in its " " report . 	130	query206_Wind_power_in_Australia\S\130
+"explored health concerns"	"be connected"	"with Australian wind farms in its report"	130	query206_Wind_power_in_Australia\P\130-0
+"explored health concerns"	"be connected"	"with Australian wind farms"	130	query206_Wind_power_in_Australia\P\130-1
+"explored health concerns"	"be connected"	"with Australian wind farms"	130	query206_Wind_power_in_Australia\P\130-2
+Epuron specialises in electricity generation using renewable energy . 	131	query206_Wind_power_in_Australia\S\131
+"Epuron specialises in electricity generation"	"be using"	"renewable energy"	131	query206_Wind_power_in_Australia\P\131-0
+Its focus is on windpower development in NSW , with major projects developed or proposed by Epuron including : Meridian Energy is the largest electricity generator in New Zealand and has in recent years expanded into Australia . 	132	query206_Wind_power_in_Australia\S\132
+Its focus is on windpower development in NSW , with major projects developed or proposed by Epuron including : Meridian Energy is the largest electricity generator in New Zealand and has in recent years expanded into Australia . 	132	query206_Wind_power_in_Australia\S\132
+"Its focus"	"is"	"on windpower development in NSW with major projects developed including Meridian Energy is the largest electricity generator in New Zealand"	132	query206_Wind_power_in_Australia\P\132-0
+"Its focus"	"is"	"on windpower development in NSW with major projects proposed by Epuron including Meridian Energy is the largest electricity generator in New Zealand"	132	query206_Wind_power_in_Australia\P\132-1
+"Its focus"	"is"	"on windpower development in NSW with major projects proposed by Epuron including Meridian Energy is the largest electricity in New Zealand has in recent years expanded into Australia"	132	query206_Wind_power_in_Australia\P\132-2
+"Its focus"	"is"	"on windpower development in NSW with major projects developed including Meridian Energy is the largest electricity in New Zealand has in recent years expanded into Australia"	132	query206_Wind_power_in_Australia\P\132-3
+"Its focus"	"is"	"on windpower development in NSW"	132	query206_Wind_power_in_Australia\P\132-4
+"major projects"	"proposed"	"by Epuron"	132	query206_Wind_power_in_Australia\P\132-5
+"major projects"	"proposed"	"by Epuron"	132	query206_Wind_power_in_Australia\P\132-6
+"Meridian Energy"	"is the largest electricity generator"	"in New Zealand"	132	query206_Wind_power_in_Australia\P\132-7
+"Meridian Energy"	"is"	"the largest electricity generator"	132	query206_Wind_power_in_Australia\P\132-8
+"Meridian Energy"	"is the largest electricity has"	"in New Zealand"	132	query206_Wind_power_in_Australia\P\132-9
+"Meridian Energy"	"is the largest electricity has"	"in recent years expanded into Australia"	132	query206_Wind_power_in_Australia\P\132-10
+"Meridian Energy"	"is"	"the largest electricity has"	132	query206_Wind_power_in_Australia\P\132-11
+"recent years"	"be expanded"	"into Australia"	132	query206_Wind_power_in_Australia\P\132-12
+It uses only renewable energy generation sources , and its Australian operations are currently focused on windpower . 	133	query206_Wind_power_in_Australia\S\133
+It uses only renewable energy generation sources , and its Australian operations are currently focused on windpower . 	133	query206_Wind_power_in_Australia\S\133
+It uses only renewable energy generation sources , and its Australian operations are currently focused on windpower . 	133	query206_Wind_power_in_Australia\S\133
+It uses only renewable energy generation sources , and its Australian operations are currently focused on windpower . 	133	query206_Wind_power_in_Australia\S\133
+It uses only renewable energy generation sources , and its Australian operations are currently focused on windpower . 	133	query206_Wind_power_in_Australia\S\133
+"its Australian operations"	"are focused"	"on windpower currently"	133	query206_Wind_power_in_Australia\P\133-0
+"its Australian operations"	"are focused"	"on windpower currently"	133	query206_Wind_power_in_Australia\P\133-1
+"its Australian operations"	"are focused"	"on windpower"	133	query206_Wind_power_in_Australia\P\133-2
+Projects completed or currently being developed include : Pacific Hydro is an Australian company that specialises in electricity generation using renewable energy . 	134	query206_Wind_power_in_Australia\S\134
+"Projects"	"being developed"	"currently"	134	query206_Wind_power_in_Australia\P\134-0
+"Pacific Hydro"	"is"	"an Australian company"	134	query206_Wind_power_in_Australia\P\134-1
+"an Australian company"	"specialises"	"in electricity generation using renewable energy"	134	query206_Wind_power_in_Australia\P\134-2
+"an Australian company"	"specialises"	"using renewable energy"	134	query206_Wind_power_in_Australia\P\134-3
+Its focus is on hydroelectricity and windpower . 	135	query206_Wind_power_in_Australia\S\135
+Its focus is on hydroelectricity and windpower . 	135	query206_Wind_power_in_Australia\S\135
+"Its focus"	"is"	"on hydroelectricity"	135	query206_Wind_power_in_Australia\P\135-0
+"Its focus"	"is"	"on windpower"	135	query206_Wind_power_in_Australia\P\135-1
+Wind power stations owned by Pacific Hydro include : Roaring 40s is based in Tasmania and has two wind farms operating in Australia : Woolnorth Wind Farm in Tasmania and Cathedral Rocks Wind Farm in South Australia . 	136	query206_Wind_power_in_Australia\S\136
+"Wind power stations"	"be owned"	"by Pacific Hydro"	136	query206_Wind_power_in_Australia\P\136-0
+"Roaring 40s"	"is based"	"in Tasmania"	136	query206_Wind_power_in_Australia\P\136-1
+"Roaring 40s"	"is based"	"in Tasmania"	136	query206_Wind_power_in_Australia\P\136-2
+"Roaring 40s"	"is has"	"two wind farms operating in Australia in Tasmania"	136	query206_Wind_power_in_Australia\P\136-3
+"Roaring 40s"	"is has"	"two wind farms operating in Australia in Tasmania"	136	query206_Wind_power_in_Australia\P\136-4
+"Roaring 40s"	"is has"	"two wind farms operating in Australia"	136	query206_Wind_power_in_Australia\P\136-5
+"Roaring 40s"	"is has"	"two wind farms operating in Australia"	136	query206_Wind_power_in_Australia\P\136-6
+"two wind farms"	"be operating"	"in Australia"	136	query206_Wind_power_in_Australia\P\136-7
+It is currently ( as of December 2009 ) constructing the 117MW Waterloo Wind Farm in the Mid North of South Australia . 	137	query206_Wind_power_in_Australia\S\137
+It is currently ( as of December 2009 ) constructing the 117MW Waterloo Wind Farm in the Mid North of South Australia . 	137	query206_Wind_power_in_Australia\S\137
+It is currently ( as of December 2009 ) constructing the 117MW Waterloo Wind Farm in the Mid North of South Australia . 	137	query206_Wind_power_in_Australia\S\137
+It is currently ( as of December 2009 ) constructing the 117MW Waterloo Wind Farm in the Mid North of South Australia . 	137	query206_Wind_power_in_Australia\S\137
+It is currently ( as of December 2009 ) constructing the 117MW Waterloo Wind Farm in the Mid North of South Australia . 	137	query206_Wind_power_in_Australia\S\137
+Suzlon Energy Australia Pty . 	138	query206_Wind_power_in_Australia\S\138
+Ltd. 	139	query206_Wind_power_in_Australia\S\139
+( SEA ) , is based in Melbourne , and is a subsidiary of Suzlon Energy , an Indian multinational based in Pune , India . 	140	query206_Wind_power_in_Australia\S\140
+( SEA ) , is based in Melbourne , and is a subsidiary of Suzlon Energy , an Indian multinational based in Pune , India . 	140	query206_Wind_power_in_Australia\S\140
+( SEA ) , is based in Melbourne , and is a subsidiary of Suzlon Energy , an Indian multinational based in Pune , India . 	140	query206_Wind_power_in_Australia\S\140
+( SEA ) , is based in Melbourne , and is a subsidiary of Suzlon Energy , an Indian multinational based in Pune , India . 	140	query206_Wind_power_in_Australia\S\140
+( SEA ) , is based in Melbourne , and is a subsidiary of Suzlon Energy , an Indian multinational based in Pune , India . 	140	query206_Wind_power_in_Australia\S\140
+( SEA ) , is based in Melbourne , and is a subsidiary of Suzlon Energy , an Indian multinational based in Pune , India . 	140	query206_Wind_power_in_Australia\S\140
+"Suzlon Energy"	"is"	"an Indian multinational based in Pune"	140	query206_Wind_power_in_Australia\P\140-0
+"an Indian multinational"	"be based"	"in Pune"	140	query206_Wind_power_in_Australia\P\140-1
+"an Indian multinational"	"be based"	"in Pune"	140	query206_Wind_power_in_Australia\P\140-2
+Suzlon will install 45 units of its S88 – 2.1 	141	query206_Wind_power_in_Australia\S\141
+"Suzlon"	"will install"	"45 units of its S88"	141	query206_Wind_power_in_Australia\P\141-0
+"Suzlon"	"will install"	"45 units of its S88"	141	query206_Wind_power_in_Australia\P\141-1
+megawatt wind turbines for AGL at the Hallett Wind Farm to be located on the Brown Hill Range , which is situated approximately 220 kilometers north of Adelaide . 	142	query206_Wind_power_in_Australia\S\142
+"megawatt wind turbines for AGL at the Hallett Wind Farm"	"to be located"	"on the Brown Hill Range"	142	query206_Wind_power_in_Australia\P\142-0
+"the Brown Hill Range"	"is situated"	"approximately 220 kilometers north of Adelaide"	142	query206_Wind_power_in_Australia\P\142-1
+TrustPower is a renewable electricity generating company operating in Australia and New Zealand . 	143	query206_Wind_power_in_Australia\S\143
+"TrustPower"	"is a renewable electricity"	"generating company operating in Australia"	143	query206_Wind_power_in_Australia\P\143-0
+"TrustPower"	"is a renewable electricity"	"generating company operating in New Zealand"	143	query206_Wind_power_in_Australia\P\143-1
+"TrustPower"	"is"	"a renewable electricity"	143	query206_Wind_power_in_Australia\P\143-2
+"a renewable electricity"	"be generating"	"company operating in Australia"	143	query206_Wind_power_in_Australia\P\143-3
+"a renewable electricity"	"be generating"	"company operating in New Zealand"	143	query206_Wind_power_in_Australia\P\143-4
+Wind farms in Australia include Snowtown and the proposed Myponga , both in South Australia . 	144	query206_Wind_power_in_Australia\S\144
+"Wind farms in Australia"	"include"	"Snowtown"	144	query206_Wind_power_in_Australia\P\144-0
+"Wind farms in Australia"	"include"	"the proposed Myponga"	144	query206_Wind_power_in_Australia\P\144-1
+"Wind farms in Australia"	"include"	"the proposed Myponga"	144	query206_Wind_power_in_Australia\P\144-2
+"the proposed Myponga"	"is"	"both in South Australia"	144	query206_Wind_power_in_Australia\P\144-3
+Wind Prospect undertakes all aspects of wind energy development , including design , construction , operation and commercial services , with offices in the UK, Ireland , Canada , Australia , New Zealand and China . 	145	query206_Wind_power_in_Australia\S\145
+"Wind Prospect"	"undertakes"	"all aspects of wind energy development including design with offices in the UK"	145	query206_Wind_power_in_Australia\P\145-0
+"Wind Prospect"	"undertakes"	"all aspects of wind energy development including construction with offices in the UK Ireland Canada Australia New Zealand and China"	145	query206_Wind_power_in_Australia\P\145-1
+"Wind Prospect"	"undertakes"	"all aspects of wind energy development including operation with offices in the UK Ireland Canada Australia New Zealand and China"	145	query206_Wind_power_in_Australia\P\145-2
+"Wind Prospect"	"undertakes"	"all aspects of wind energy development including commercial services with offices in the UK Ireland Canada Australia New Zealand and China"	145	query206_Wind_power_in_Australia\P\145-3
+"Wind Prospect"	"undertakes"	"all aspects of wind energy development including design with offices in the Ireland"	145	query206_Wind_power_in_Australia\P\145-4
+"Wind Prospect"	"undertakes"	"all aspects of wind energy development including design with offices in the Canada"	145	query206_Wind_power_in_Australia\P\145-5
+"Wind Prospect"	"undertakes"	"all aspects of wind energy development including design with offices in the Australia"	145	query206_Wind_power_in_Australia\P\145-6
+"Wind Prospect"	"undertakes"	"all aspects of wind energy development including design with offices in the New Zealand"	145	query206_Wind_power_in_Australia\P\145-7
+"Wind Prospect"	"undertakes"	"all aspects of wind energy development including design with offices in the China"	145	query206_Wind_power_in_Australia\P\145-8
+With over 18 years of successful development within the industry , the Wind Prospect Group has been involved in over 2,500MW of approved wind farms , including onshore and offshore projects , in terms of development , construction , operations and commercial services , and has a further 4000MW in the early phase of development . 	146	query206_Wind_power_in_Australia\S\146
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including onshore projects in terms of development"	146	query206_Wind_power_in_Australia\P\146-0
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including onshore projects in terms of construction"	146	query206_Wind_power_in_Australia\P\146-1
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including onshore projects in terms of operations"	146	query206_Wind_power_in_Australia\P\146-2
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including onshore projects in terms of commercial services"	146	query206_Wind_power_in_Australia\P\146-3
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including offshore projects in terms of development"	146	query206_Wind_power_in_Australia\P\146-4
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including offshore projects in terms of construction"	146	query206_Wind_power_in_Australia\P\146-5
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including offshore projects in terms of operations"	146	query206_Wind_power_in_Australia\P\146-6
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including offshore projects in terms of commercial services"	146	query206_Wind_power_in_Australia\P\146-7
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including onshore projects"	146	query206_Wind_power_in_Australia\P\146-8
+"the Wind Prospect Group"	"has been involved"	"in over 2,500 MW of approved wind farms including offshore projects"	146	query206_Wind_power_in_Australia\P\146-9
+"the Wind Prospect Group"	"has been has"	"a further 4000MW in the early phase of development in over 2,500 MW of approved wind farms including onshore projects"	146	query206_Wind_power_in_Australia\P\146-10
+"the Wind Prospect Group"	"has been has"	"a further 4000MW in the early phase of development in over 2,500 MW of approved wind farms including offshore projects"	146	query206_Wind_power_in_Australia\P\146-11
+"the Wind Prospect Group"	"has been has"	"a further 4000MW in the early phase of development in terms of development"	146	query206_Wind_power_in_Australia\P\146-12
+"the Wind Prospect Group"	"has been has"	"a further 4000MW in the early phase of development in terms of construction"	146	query206_Wind_power_in_Australia\P\146-13
+"the Wind Prospect Group"	"has been has"	"a further 4000MW in the early phase of development in terms of operations"	146	query206_Wind_power_in_Australia\P\146-14
+"the Wind Prospect Group"	"has been has"	"a further 4000MW in the early phase of development in terms of commercial services"	146	query206_Wind_power_in_Australia\P\146-15
+"the Wind Prospect Group"	"has been has"	"a further 4000MW in the early phase of development"	146	query206_Wind_power_in_Australia\P\146-16
+The company ’s civil , electrical and mechanical engineers have been involved in the commissioning of over 50 wind farms around the world . 	147	query206_Wind_power_in_Australia\S\147
+"The company"	"has"	"147 civil engineers"	147	query206_Wind_power_in_Australia\P\147-0
+"The company"	"has"	"147 electrical engineers"	147	query206_Wind_power_in_Australia\P\147-1
+"The company"	"has"	"147 mechanical engineers"	147	query206_Wind_power_in_Australia\P\147-2
+"The company 's civil engineers"	"have been involved"	"in the commissioning of over 50 wind farms around the world"	147	query206_Wind_power_in_Australia\P\147-3
+"The company 's electrical engineers"	"have been involved"	"in the commissioning of over 50 wind farms around the world"	147	query206_Wind_power_in_Australia\P\147-4
+"The company 's mechanical engineers"	"have been involved"	"in the commissioning of over 50 wind farms around the world"	147	query206_Wind_power_in_Australia\P\147-5
+Wind Prospect ’s development offices in Australia are in Adelaide , Newcastle , Brisbane and Melbourne . 	148	query206_Wind_power_in_Australia\S\148
+"Wind Prospect"	"has"	"148 development offices in Australia"	148	query206_Wind_power_in_Australia\P\148-0
+"Wind Prospect 's development offices in Australia"	"are"	"in Adelaide"	148	query206_Wind_power_in_Australia\P\148-1
+"Wind Prospect 's development offices in Australia"	"are"	"in Newcastle"	148	query206_Wind_power_in_Australia\P\148-2
+"Wind Prospect 's development offices in Australia"	"are"	"in Brisbane"	148	query206_Wind_power_in_Australia\P\148-3
+"Wind Prospect 's development offices in Australia"	"are"	"in Melbourne"	148	query206_Wind_power_in_Australia\P\148-4
+Wind Prospect Pty Ltd ( WPPL) is the most successful developer in Australia , having achieved planning approval for 10 wind farms totalling over 860 MW, of which 565MW is operating or under construction . 	149	query206_Wind_power_in_Australia\S\149
+"Wind Prospect Pty Ltd"	"is"	"WPPL"	149	query206_Wind_power_in_Australia\P\149-0
+"the most successful developer in Australia"	"be achieved"	"planning approval for 10 wind farms totalling over 860 MW"	149	query206_Wind_power_in_Australia\P\149-1
+"Wind Prospect Pty Ltd"	"is the most successful developer"	"in Australia"	149	query206_Wind_power_in_Australia\P\149-2
+"Wind Prospect Pty Ltd"	"is the most successful developer"	"having achieved planning approval for 10 wind farms totalling over 860 MW"	149	query206_Wind_power_in_Australia\P\149-3
+"Wind Prospect Pty Ltd"	"is"	"the most successful developer"	149	query206_Wind_power_in_Australia\P\149-4
+"wind farms"	"be totalling"	"over 860 MW"	10	query206_Wind_power_in_Australia\P\149-5
+"wind farms"	"be totalling"	"over 860 MW"	10	query206_Wind_power_in_Australia\P\149-6
+"wind farms"	"be totalling"	"over 860 MW"	10	query206_Wind_power_in_Australia\P\149-7
+"wind farms"	"be totalling"	"over 860 MW"	10	query206_Wind_power_in_Australia\P\149-8
+"wind farms"	"be totalling"	"over 860 MW"	10	query206_Wind_power_in_Australia\P\149-9
+"wind farms"	"be totalling"	"over 860 MW"	10	query206_Wind_power_in_Australia\P\149-10
+Two recent successes in South Australia are the North Brown Hill Wind Farm ( 132.3MW) 	150	query206_Wind_power_in_Australia\S\150
+"Two recent successes in South Australia are the North Brown Hill Wind Farm"	"is"	"132.3 MW"	150	query206_Wind_power_in_Australia\P\150-0
+"Two recent successes in South Australia"	"are"	"the North Brown Hill Wind Farm"	150	query206_Wind_power_in_Australia\P\150-1
+and The Bluff Range Wind Farm ( 52.1MW) 	151	query206_Wind_power_in_Australia\S\151
+and The Bluff Range Wind Farm ( 52.1MW) 	151	query206_Wind_power_in_Australia\S\151
+"The Bluff Range Wind Farm"	"is"	"52.1 MW"	151	query206_Wind_power_in_Australia\P\151-0
+, both approximately 270&nbsp;km north east of Adelaide , which are Wind Prospect ’s sixth and seventh wind farm developments respectively to progress to construction in South Australia . 	152	query206_Wind_power_in_Australia\S\152
+, both approximately 270&nbsp;km north east of Adelaide , which are Wind Prospect ’s sixth and seventh wind farm developments respectively to progress to construction in South Australia . 	152	query206_Wind_power_in_Australia\S\152
+"Wind Prospect 's sixth wind farm developments respectively"	"be progress"	"to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-0
+"Wind Prospect 's seventh wind farm developments respectively"	"be progress"	"to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-1
+"Wind Prospect 's seventh wind farm developments respectively"	"be progress"	"to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-2
+"Wind Prospect 's seventh wind farm developments respectively"	"be progress"	"to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-3
+"Wind Prospect 's seventh wind farm developments respectively"	"be progress"	"to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-4
+"Wind Prospect 's seventh wind farm developments respectively"	"be progress"	"to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-5
+"Wind Prospect 's seventh wind farm developments respectively"	"be progress"	"to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-6
+"Wind Prospect 's seventh wind farm developments respectively"	"be progress"	"to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-7
+"Wind Prospect"	"has"	"sixth wind farm developments to progress to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-8
+"Wind Prospect"	"has"	"seventh wind farm developments to progress to construction in South Australia"	152	query206_Wind_power_in_Australia\P\152-9
+More projects in this region have received planning approval and are expected to proceed to construction . 	153	query206_Wind_power_in_Australia\S\153
+"More projects in this region"	"have received"	"planning approval"	153	query206_Wind_power_in_Australia\P\153-0
+"More projects in this region"	"have are expected"	"planning approval to proceed to construction"	153	query206_Wind_power_in_Australia\P\153-1
+Windlab Systems is an Australian company with operations in the USA , Canada and South Africa . 	154	query206_Wind_power_in_Australia\S\154
+"Windlab Systems"	"is an Australian company"	"with operations in the USA"	154	query206_Wind_power_in_Australia\P\154-0
+"Windlab Systems"	"is an Australian company"	"with operations in the Canada"	154	query206_Wind_power_in_Australia\P\154-1
+"Windlab Systems"	"is an Australian company"	"with operations in the South Africa"	154	query206_Wind_power_in_Australia\P\154-2
+"Windlab Systems"	"is"	"an Australian company"	154	query206_Wind_power_in_Australia\P\154-3
+It was established in 2003 as a CSIRO spin-off . 	155	query206_Wind_power_in_Australia\S\155
+It was established in 2003 as a CSIRO spin-off . 	155	query206_Wind_power_in_Australia\S\155
+It was established in 2003 as a CSIRO spin-off . 	155	query206_Wind_power_in_Australia\S\155
+It was established in 2003 as a CSIRO spin-off . 	155	query206_Wind_power_in_Australia\S\155
+The company uses self developed technologies , Windscape which is based on CSIRO’s atmospheric modelling technology and advanced wind monitoring tools , to undertake a program of site identification , site validation and wind farm development . 	156	query206_Wind_power_in_Australia\S\156
+The company uses self developed technologies , Windscape which is based on CSIRO’s atmospheric modelling technology and advanced wind monitoring tools , to undertake a program of site identification , site validation and wind farm development . 	156	query206_Wind_power_in_Australia\S\156
+The company uses self developed technologies , Windscape which is based on CSIRO’s atmospheric modelling technology and advanced wind monitoring tools , to undertake a program of site identification , site validation and wind farm development . 	156	query206_Wind_power_in_Australia\S\156
+The company uses self developed technologies , Windscape which is based on CSIRO’s atmospheric modelling technology and advanced wind monitoring tools , to undertake a program of site identification , site validation and wind farm development . 	156	query206_Wind_power_in_Australia\S\156
+"The company"	"uses"	"self developed technologies 156 to undertake a program of site identification"	156	query206_Wind_power_in_Australia\P\156-0
+"The company"	"uses"	"self developed technologies 156 to undertake a program of site site validation"	156	query206_Wind_power_in_Australia\P\156-1
+"The company"	"uses"	"self developed technologies 156 to undertake a program of site wind farm development"	156	query206_Wind_power_in_Australia\P\156-2
+"The company"	"uses"	"self developed Windscape 156 to undertake a program of site identification"	156	query206_Wind_power_in_Australia\P\156-3
+"The company"	"uses"	"self developed Windscape 156 to undertake a program of site site validation"	156	query206_Wind_power_in_Australia\P\156-4
+"The company"	"uses"	"self developed Windscape 156 to undertake a program of site wind farm development"	156	query206_Wind_power_in_Australia\P\156-5
+"The company"	"uses"	"self developed advanced wind monitoring tools 156 to undertake a program of site identification"	156	query206_Wind_power_in_Australia\P\156-6
+"The company"	"uses"	"self developed advanced wind monitoring tools 156 to undertake a program of site site validation"	156	query206_Wind_power_in_Australia\P\156-7
+"The company"	"uses"	"self developed advanced wind monitoring tools 156 to undertake a program of site wind farm development"	156	query206_Wind_power_in_Australia\P\156-8
+"The company"	"uses"	"self developed advanced wind monitoring tools 156 to undertake a program of site wind farm development"	156	query206_Wind_power_in_Australia\P\156-9
+"The company"	"uses"	"self developed advanced wind monitoring tools 156 to undertake a program of site wind farm development"	156	query206_Wind_power_in_Australia\P\156-10
+"The company"	"uses"	"self developed advanced wind monitoring tools 156 to undertake a program of site wind farm development"	156	query206_Wind_power_in_Australia\P\156-11
+"The company"	"uses"	"self developed advanced wind monitoring tools 156 to undertake a program of site wind farm development"	156	query206_Wind_power_in_Australia\P\156-12
+"The company"	"uses"	"self developed advanced wind monitoring tools 156 to undertake a program of site wind farm development"	156	query206_Wind_power_in_Australia\P\156-13
+Approximately 1500 megawatts of projects in Australia have used Windlab intellectual property for site identification purposes . 	157	query206_Wind_power_in_Australia\S\157
+"Approximately 1500 megawatts of projects in Australia"	"have used"	"Windlab intellectual property for site identification purposes"	157	query206_Wind_power_in_Australia\P\157-0
+"Approximately 1500 megawatts of projects in Australia"	"have used"	"Windlab intellectual property"	157	query206_Wind_power_in_Australia\P\157-1
+The company co-developed the Oakland 's Hill ( 67MW) wind farm and the Collgar Wind Farm ( 206MW) . 	158	query206_Wind_power_in_Australia\S\158
+"The company"	"co-developed"	"the Oakland 's Hill 67MW wind farm"	158	query206_Wind_power_in_Australia\P\158-0
+"The company"	"the Collgar Wind Farm"	"the Oakland 's Hill 67MW wind farm"	158	query206_Wind_power_in_Australia\P\158-1
+"The company"	"the Collgar Wind Farm"	"the Oakland 's Hill 67MW wind farm"	158	query206_Wind_power_in_Australia\P\158-2
+"the Collgar Wind Farm"	"is"	"206MW"	158	query206_Wind_power_in_Australia\P\158-3
+Windlab has since become a full wind farm developer and takes projects to the point of construction . 	159	query206_Wind_power_in_Australia\S\159
+http ://www.windlab.com/projects/australia 	160	query206_Wind_power_in_Australia\S\160
+Energy Renewable energy Australia Environment 2 Wind power in Australia September 2011 Category :Wind power in Australia fi:Tuulivoima Australiassa New South Wales wind power Queensland wind farms South Australia wind power Tasmania wind farms Victoria wind farms Western Australia wind farms It occupies less land area per kilowatt-hour (k Wh ) of electricity generated than any other energy conversion system , apart from rooftop solar energy , and is compatible with grazing and crops . 	161	query206_Wind_power_in_Australia\S\161
+Energy Renewable energy Australia Environment 2 Wind power in Australia September 2011 Category :Wind power in Australia fi:Tuulivoima Australiassa New South Wales wind power Queensland wind farms South Australia wind power Tasmania wind farms Victoria wind farms Western Australia wind farms It occupies less land area per kilowatt-hour (k Wh ) of electricity generated than any other energy conversion system , apart from rooftop solar energy , and is compatible with grazing and crops . 	161	query206_Wind_power_in_Australia\S\161
+Energy Renewable energy Australia Environment 2 Wind power in Australia September 2011 Category :Wind power in Australia fi:Tuulivoima Australiassa New South Wales wind power Queensland wind farms South Australia wind power Tasmania wind farms Victoria wind farms Western Australia wind farms It occupies less land area per kilowatt-hour (k Wh ) of electricity generated than any other energy conversion system , apart from rooftop solar energy , and is compatible with grazing and crops . 	161	query206_Wind_power_in_Australia\S\161
+Energy Renewable energy Australia Environment 2 Wind power in Australia September 2011 Category :Wind power in Australia fi:Tuulivoima Australiassa New South Wales wind power Queensland wind farms South Australia wind power Tasmania wind farms Victoria wind farms Western Australia wind farms It occupies less land area per kilowatt-hour (k Wh ) of electricity generated than any other energy conversion system , apart from rooftop solar energy , and is compatible with grazing and crops . 	161	query206_Wind_power_in_Australia\S\161
+"less land area per kilowatt-hour of electricity"	"is"	"k Wh"	161	query206_Wind_power_in_Australia\P\161-0
+"less land area per kilowatt-hour of electricity"	"generated"	"than any other energy conversion system apart from rooftop solar energy"	161	query206_Wind_power_in_Australia\P\161-1
+"less land area per kilowatt-hour of electricity"	"generated"	"than any other energy conversion system"	161	query206_Wind_power_in_Australia\P\161-2
+"less land area per kilowatt-hour of electricity"	"is compatible"	"than any other energy conversion system"	161	query206_Wind_power_in_Australia\P\161-3
+"less land area per kilowatt-hour of electricity"	"is compatible"	"apart from rooftop solar energy"	161	query206_Wind_power_in_Australia\P\161-4
+"less land area per kilowatt-hour of electricity"	"is compatible"	"with grazing"	161	query206_Wind_power_in_Australia\P\161-5
+"less land area per kilowatt-hour of electricity"	"is compatible"	"with crops"	161	query206_Wind_power_in_Australia\P\161-6
+"less land area per kilowatt-hour of electricity"	"is"	"compatible"	161	query206_Wind_power_in_Australia\P\161-7
+It generates the energy used in its construction in just 3 months of operation , yet its operational lifetime is 20–25 years . 	162	query206_Wind_power_in_Australia\S\162
+It generates the energy used in its construction in just 3 months of operation , yet its operational lifetime is 20–25 years . 	162	query206_Wind_power_in_Australia\S\162
+"the energy"	"be used"	"in its construction in just 3 months of operation"	162	query206_Wind_power_in_Australia\P\162-0
+"the energy"	"be used"	"in its construction"	162	query206_Wind_power_in_Australia\P\162-1
+"the energy"	"be used"	"in its construction"	162	query206_Wind_power_in_Australia\P\162-2
+"the energy"	"be used"	"in its construction"	162	query206_Wind_power_in_Australia\P\162-3
+"yet its operational lifetime"	"is"	"162 20 25 years"	162	query206_Wind_power_in_Australia\P\162-4
+Greenhouse gas emissions and air pollution produced by its construction are small and declining . 	163	query206_Wind_power_in_Australia\S\163
+"air pollution"	"be produced"	"by its construction"	163	query206_Wind_power_in_Australia\P\163-0
+"air pollution"	"be produced"	"by its construction"	163	query206_Wind_power_in_Australia\P\163-1
+"Greenhouse gas emissions"	"are"	"small"	163	query206_Wind_power_in_Australia\P\163-2
+"Greenhouse gas air pollution produced by its construction"	"are"	"small"	163	query206_Wind_power_in_Australia\P\163-3
+"Greenhouse gas emissions"	"are"	"declining"	163	query206_Wind_power_in_Australia\P\163-4
+"Greenhouse gas air pollution produced by its construction"	"are"	"declining"	163	query206_Wind_power_in_Australia\P\163-5
+There is very little emission or pollution produced by its operation . 	164	query206_Wind_power_in_Australia\S\164
+"very little emission"	"There is"	"164"	164	query206_Wind_power_in_Australia\P\164-0
+"very little pollution produced by its operation"	"There is"	"164"	164	query206_Wind_power_in_Australia\P\164-1
+"very little pollution produced by its operation"	"There is"	"164"	164	query206_Wind_power_in_Australia\P\164-2
+"very little pollution produced by its operation"	"There is"	"164"	164	query206_Wind_power_in_Australia\P\164-3
+In substituting for base-load ( mostly coal power ) in mainland Australia , wind power produces a net decrease in greenhouse gas emissions and air pollution . 	165	query206_Wind_power_in_Australia\S\165
+"base-load in mainland Australia"	"is"	"mostly coal power"	165	query206_Wind_power_in_Australia\P\165-0
+"wind power"	"produces"	"165 In substituting for base-load in mainland Australia a net decrease in greenhouse gas emissions"	165	query206_Wind_power_in_Australia\P\165-1
+"wind power"	"produces"	"165 In substituting for base-load in mainland Australia a net decrease in greenhouse gas air pollution"	165	query206_Wind_power_in_Australia\P\165-2
+Modern wind turbines are almost silent and rotate so slowly ( in terms of revolutions per minute ) that they are rarely a hazard to birds . 	166	query206_Wind_power_in_Australia\S\166
+"Modern wind turbines"	"are silent"	"almost that they are rarely a hazard to birds"	166	query206_Wind_power_in_Australia\P\166-0
+"Modern wind turbines"	"are silent"	"that they are rarely a hazard to birds"	166	query206_Wind_power_in_Australia\P\166-1
+"Modern wind turbines"	"are rotate"	"almost that they are rarely a hazard to birds"	166	query206_Wind_power_in_Australia\P\166-2
+"Modern wind turbines"	"are rotate"	"so slowly in terms of revolutions per minute that they are rarely a hazard to birds"	166	query206_Wind_power_in_Australia\P\166-3
+"Modern wind turbines"	"are rotate"	"that they are rarely a hazard to birds"	166	query206_Wind_power_in_Australia\P\166-4
+"Modern wind turbines"	"are rotate"	"that they are rarely a hazard to birds"	166	query206_Wind_power_in_Australia\P\166-5
+"Modern wind turbines"	"are rotate"	"that they are rarely a hazard to birds"	166	query206_Wind_power_in_Australia\P\166-6
+Gullen Range Wind Farm , 73 wind turbines Yass Valley Wind Farm , ~140 wind turbines Cullerin Range Wind Farm , 30&nbsp;MW Conroys Gap Wind Farm , 30&nbsp;MW Snowy Plains Wind Farm , 30&nbsp;MW Silverton Wind Farm , 598 wind turbines , ≈1000&nbsp;MW ( proposed ) Macarthur Wind Farm , 140 wind turbines , 420&nbsp;MW Mount Mercer Wind Farm , 64 wind turbines , 131&nbsp;MW Mount Millar Wind Farm , 35 wind turbines , 70&nbsp;MW Codrington Wind Farm Challicum Hills Wind Farm Portland Wind Project Energy policy of Australia List of large wind farms Renewable energy in Australia Solar power in Australia http ://windfarmperformance .info/ 	167	query206_Wind_power_in_Australia\S\167
+Wind Farm Performance Andrew Miskelly 2010 2010-10-08 Australian wind energy production since 14&nbsp;May 2008 ( data from AEMO ) 	168	query206_Wind_power_in_Australia\S\168

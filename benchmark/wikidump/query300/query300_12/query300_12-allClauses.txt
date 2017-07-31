@@ -1,0 +1,1 @@
+0	SVA (V: refer@4, S: error@2, A!: to@5)	SVC (S: error@12, V: "is", C: deviation@20)	SVC (S: error@12, V: "is", C: statistics@14)	SVC (S: deviation@20, V: "is", C: one@32)

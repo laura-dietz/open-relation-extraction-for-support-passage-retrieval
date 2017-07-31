@@ -1,0 +1,101 @@
+0	
+1	
+2	SVA (V: "be known", S: Canada@3, A!: formerly@5, A?: body@19)	SVC (S: Association@12, V: "is", C: RCGA@14)	SVC (C: body@19, V: is@16, S: Association@12, A?: of@20, A?: in@22)
+3	SVA (V: founded@4, S: RCGA@2, A!: on@5, A?: as@10)
+4	SVA (V: granted@5, S: prefix@3, A!: to@6, A?: in@9, A?: by@12, A?: through@15)	SVC (S: General@18, V: "is", C: Aberdeen@23)
+5	SVC (C: patron@4, V: was@2, S: Aberdeen@1, A?: of@5)
+6	SVA (V: happened@8, S: boom@5, A!: in@9)
+7	SVO (V: formed@11, S: associations@9, A?: In@1, O: Union@15)	SVO (S: Ladies@22, V: "has", O: Union@25)
+8	SVA (V: directed@9, S: organization@2, A!: to@10)
+9	
+10	SVA (V: "be establish", S: attempts@4, O: championship@9)	SVC (V: became@20, S: neither@17, ACOMP: recognized@21)
+11	
+12	SVO (V: gathered@2, S: clubs@1, XCOMP: form@4)
+13	SVA (V: "be discuss", S: meeting@3, O: formation@7)	SVA (V: held@14, S: meeting@3, A!: on@15, A?: at@20)
+14	SVC (S: secretary@2, V: "is", C: Simpson@8)	SVC (C: proponent@13, V: was@10, S: secretary@2, A?: of@14)	SVA (V: "be conduct", S: organization@18, O: championships@22)
+15	SVO (V: invited@4, S: he@3, A?: In@1, O: clubs@5, A?: from@6)
+16	SVO (V: agreed@3, S: It@1, CCOMP: formed@10, A?: at@24)	SV (V: formed@10, S: association@7)	SVO (V: hold@14, S: association@7, CCOMP: Meeting@19)	SVO (S: its@15, V: "has", O: General@18)	SVA (V: Meeting@19, S: General@18, A!: on@20)
+17	SVA (V: drawn@3, S: constitution@2, A!: for@5, A?: stated@8)	SVA (V: "be stated", S: constitution@2, O: objectives@10, A!: as@14)	SVO (S: its@32, V: "has", O: members@33)	SVO (S: its@51, V: "has", O: Committee@53)	SVA (C: court@57, V: "be court", S: Committee@53, A!: of@58, A?: as@60)	SVO (V: played@89, S: Amateur@83, O: links@81)
+18	SVA (V: signed@5, S: constitution@3, A!: by@6)	SV (V: were@55, S: Golf@36)
+19	
+20	SVC (S: Drummond@1, V: "is", C: Presidents@8)
+21	
+22	SVC (S: Irwin@1, V: "is", C: Hon@12)
+23	
+24	SVC (S: Hall@1, V: "is", C: Members@7)
+25	
+26	SVC (S: Cotton@1, V: "is", C: Club@5)
+27	SVC (S: Kirk@1, V: "is", C: Club@5)
+28	SVC (S: Morris@1, V: "is", C: F.P.@5)
+29	SVA (V: granted@8, S: prefix@5, A!: to@9, A?: in@12, A?: by@15)
+30	EXISTENTIAL (V: were@2, S: categories@4, A?: in@7, A?: formed@13)	EXISTENTIAL (V: were@2, S: Allied@15, A?: in@7, A?: formed@13)	SV (V: formed@13, S: it@11, A?: when@10)	SVO (V: meant@17, S: Allied@15, CCOMP: club@24)	SVC (C: club@24, V: was@19, S: it@18, A?: in@25)	SVO (V: have@34, S: Associate@29, A?: also@32, O: course@37)
+31	SVA (V: "be was", S: Membership@1)	SVC (V: was@29, S: Championship@28, XCOMP: continue@31)	SVA (V: operated@36, S: it@34, A!: in@37)	SVA (V: "be donated", S: Cup@49, A!: by@52)
+32	SVO (V: conducted@13, S: RCGA@5, A?: In@1, A?: in@7, CCOMP: Matches@18)	SVA (V: Matches@18, S: Golf@17, A!: at@19)
+33	
+34	
+35	SVO (V: introduced@6, S: organization@5, A?: In@1, O: Championship@12)	SVO (S: Ladies@9, V: "has", O: Championship@12)
+36	SVA (V: determined@18, S: need@6, A?: later@3, A!: with@20)	SVA (V: held@35, S: Championship@33, A!: over@36, A?: in@42)
+37	SVO (V: formed@3, S: RCGA@2, O: committee@7, A?: in@13, A?: printed@19)	SVO (S: its@4, V: "has", O: committee@7)	SVO (V: printed@19, S: it@17, O: edition@22, A?: in@26)	SVO (S: its@20, V: "has", O: edition@22)
+38	SVC (S: person@6, V: "is", C: B.L.@8)
+39	SV (V: hired@4, S: Anderson@1)
+40	SVA (V: served@3, S: He@1, A!: as@4, A?: during@7)	SVA (V: hired@14, S: He@1, A?: as@4, A?: during@7, A!: for@15)
+41	SVA (V: stayed@2, S: Anderson@1, A!: with@3, A?: as@6, A?: until@8)
+42	SVC (V: became@2, S: He@1, ACOMP: known@3, A?: along@11)	SVC (S: secretary@15, V: "is", C: Doherty@18)	SVO (S: his@13, V: "has", O: secretary@15)
+43	SVA (V: continued@2, S: Funding@1, A!: as@3, A?: until@8)	SVOO (V: instituted@13, S: RCGA@12, A?: when@10, O: dollar@15, O: plan@18, IO: 1948@9)
+44	SVC (V: was@3, S: concept@2, CCOMP: remit@9)	SVO (V: remit@9, S: club@7, O: $@10)
+45	SVO (S: their@13, V: "has", O: dues@15)
+46	
+47	
+48	SVO (V: revolutionized@2, S: This@1, O: associations@4)	SVA (V: suffered@7, S: associations@4, A!: for@8)
+49	SVA (V: "be sponsored", S: system@4, A!: by@6)	SVO (V: done@9, S: system@4, A?: in@10, XCOMP: using@22)
+50	SVA (V: presented@5, S: system@3, A!: in@6)	SV (V: official@12, S: system@3, A?: in@6)
+51	SVA (V: revised@3, S: It@1, A!: again@4, A?: in@5, A?: afterwards@11)
+52	SVO (S: Ladies@5, V: "has", O: Union@8)	SVOA (V: took@14, S: Union@8, A?: In@1, O: operation@17, A!: from@25)	SVO (S: Ladies@21, V: "has", O: Championship@24)
+53	SVO (V: saw@2, S: 1927@1, O: resurrection@4)
+54	SVA (V: played@5, S: matches@2, A!: since@6, A?: between@10)
+55	SVA (V: "be improve", S: need@6, O: scope@11)	SVO (S: its@19, V: "has", O: championships@20)	SVA (V: "be coincided", S: championships@20, A!: with@23)	SVA (V: "be provided", S: concept@25, XCOMP: allowed@31)
+56	SVC (C: available@15, V: were@14, S: cream@5, XCOMP: participate@17)	SVC (S: Amateur@20, V: "is", C: travel@25)	SVC (S: Amateur@20, V: "is", C: Matches@30)	SVA (V: reintroduced@32, S: Amateur@20, A!: as@33)	SVA (V: "be encouraging", S: Matches@38, O: province@46, XCOMP: send@48)
+57	SVC (S: General@3, V: "is", C: Willingdon@6)	SVO (V: provided@8, S: General@3, O: cup@10)	SVA (V: played@14, S: cup@10, A?: still@13, A!: for@15)
+58	SVA (V: "be raise", S: event@12, O: standard@16, A!: in@20)
+59	
+60	
+61	
+62	SVA (V: added@7, S: element@5, A?: In@1, A!: to@8)
+63	SVO (V: accompany@7, S: junior@2, O: team@11, A?: as@12)	SVO (V: participate@17, S: junior@2, O: team@11, A?: as@12, A?: in@18)
+64	SVC (V: become@5, S: scorer@3, XCOMP: Champion@8)
+65	SVA (V: separated@6, S: tournament@4, A?: In@1, A!: from@7)	SVC (V: became@14, S: tournament@4, A?: In@1, A?: from@7, XCOMP: tournament@20)	SVO (S: its@22, V: "has", O: right@24)
+66	SVA (V: added@5, S: component@3, A!: in@6)	SVA (V: added@15, S: matches@12, A!: to@16, A?: in@19)
+67	SVA (V: run@4, S: tournaments@2, A!: at@5, A?: today@8)
+68	SVO (V: introduced@5, S: RCGA@4, A?: In@1, O: Championship@9)	SVO (S: its@6, V: "has", O: Championship@9)
+69	SVA (V: formed@8, S: Association@5, A!: in@9)	SVO (V: conducted@12, S: Association@5, A?: in@9, O: championship@15)	SVO (S: its@13, V: "has", O: championship@15)
+70	SVC (V: became@6, S: it@5, A?: However@1, A?: by@3, ACOMP: clear@7, CCOMP: was@10)	EXISTENTIAL (V: was@10, S: need@12)
+71	SVA (V: established@7, S: Championship@3, A!: as@8, A?: open@13)
+72	SVO (V: was/is@3, S: CSGA@2, O: organization@7)	SVOC (V: fulfills@9, S: CSGA@2, O: organization@7, O: element@13)
+73	SVO (S: Champions@6, V: "has", O: Championship@8)	SV (V: introduced@10, S: Championship@8, A?: In@1)
+74	SVO (V: has@4, S: RCGA@2, A?: also@3, O: history@7)
+75	SVOC (V: formed@6, S: team@4, A?: in@7, XCOMP: go@10, XCOMP: play@17)	SVOC (V: in@25, S: team@4, A?: in@7, XCOMP: go@10, XCOMP: play@17, A?: number@27)
+76	SVOA (V: took@9, S: event@8, A?: In@1, O: place@10, A!: with@11)	SVO (S: America@16, V: "has", O: Matches@19)
+77	SVA (V: "be Played", S: matches@8, A!: between@2)	SVA (V: played@10, S: matches@8, A?: Played@1, A!: between@11)
+78	SVOA (V: brought@3, S: Canadians@2, O: honours@6, A!: in@7)
+79	SVO (V: involved@9, S: RCGA@5, A?: much@8, A?: in@10, O: events@3)	SVA (V: "be discontinued", S: Matches@54, A!: in@65)	SVA (V: "be won", S: Matches@54, A!: by@57, A?: in@59)	SVA (V: won@75, S: Matches@54, A!: in@76, A?: by@78)	SVA (V: "be representing", S: Cowan@83, O: Canada@85)
+80	SVO (V: recognized@4, S: RCGA@2, A?: also@3, O: needs@6)	SVO (V: began@16, S: first@15, O: Section@19)
+81	SVA (V: faded@3, S: this@2, A!: in@4)	SVA (V: continued@14, S: it@13, A?: faded@3, A!: until@15)
+82	
+83	SVO (V: operated@9, S: RCGA@8, A?: Throughout@1, O: program@12)	SVA (V: operated@15, S: program@12, A!: through@16)
+84	SVO (V: hired@5, S: Association@4, A?: In@1, O: person@9)	SVO (V: involved@18, S: Association@4, A?: In@1, O: person@9, A?: in@19, A?: among@24, A?: for@29, A?: today@32)
+85	SVOC (V: began@8, S: RCGA@6, A?: In@1, A?: first@7, XCOMP: collecting@9, XCOMP: preserve@18)
+86	SVO (V: established@15, S: RCGA@14, A?: In@1, A?: with@4, O: museum@18)	SVA (V: "be established", S: Hall@27, A!: in@32)
+87	SVO (V: erected@15, S: building@13, A?: With@1, A?: at@16, A?: as@19, O: Hall@27)
+88	SVO (V: made@7, S: RCGA@6, A?: In@1, O: decision@9)	SVA (V: "be move", S: decision@9, O: Open@14, A!: to@15, A?: in@24, A?: along@29)
+89	SVO (V: purchased@3, S: RCGA@2, O: course@6, A?: in@7)	SVOC (V: held@13, S: RCGA@2, O: course@6, A?: in@7, O: championship@17, A?: over@18, A?: from@21)	SVO (V: moved@38, S: it@36, A?: when@35, A?: to@39, O: 1980@31)
+90	SVO (V: completed@5, S: RCGA@4, A?: In@1, O: sale@7)
+91	SVA (V: returned@4, S: Open@3, A!: to@5, A?: in@8)	SVA (V: played@13, S: Open@3, A?: to@5, A?: in@8, A!: there@14, A?: again@15, A?: in@16)
+92	
+93	SVA (V: amalgamated@6, S: Association@5, A!: with@7, A?: in@14)	SVO (V: administers@20, S: Association@5, A?: with@7, A?: in@14, A?: now@19, O: game@22)	SVO (S: Ladies@10, V: "has", O: Association@13)
+94	SVA (V: "be conducted", S: tournaments@2, A!: by@4)	SV (V: include@7, S: tournaments@2)	SVO (V: include@14, S: programs@10, O: a@15)	SVC (S: Canada@16, V: "is", C: Foundation@43)	SVC (S: Canada@16, V: "is", C: division@25)	SVA (V: "be dedicated", S: division@25, A!: to@27)	SVA (V: "be reach", S: providing@28, O: potential@36)	SVO (S: their@35, V: "has", O: potential@36)	SVO (V: raises@45, S: Foundation@43, O: funds@46)	SVO (V: operates@62, S: Programs@57, O: program@67)
+95	SVO (V: announced@12, S: Association@11, A?: On@1, O: change@15)	SVO (S: its@13, V: "has", O: change@15)
+96	SVO (V: retain@4, S: Canada@2, O: role@8, A?: along@18)	SVO (S: its@5, V: "has", O: predecessor@6)	SVO (S: predecessor@6, V: "has", O: role@8)	SVA (V: "be help", S: program@24, CCOMP: fund@27)	SVO (S: its@28, V: "has", O: programs@32)	SV (V: sign@42, S: golfers@40)
+97	
+98	
+99	SVC (S: Women@32, V: "is", C: Women@49)	SVO (S: Girl@41, V: "has", O: Women@49)	SVC (S: Canadian@52, V: "is", C: Mid@53)	SVO (S: Women@67, V: "has", O: List@70)
+100	SVA (V: prepared@12, S: Royal@10, A!: by@13)

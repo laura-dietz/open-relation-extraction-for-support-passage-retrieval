@@ -1,0 +1,452 @@
+0	64pxMicrosoft Office Excel Icon 300px Microsoft Office Excel 2010 running on Windows 7 Microsoft Corporation 2010 ( 14.0.4760.1000 
+1	) 2010 June 15 Microsoft Windows Spreadsheet Proprietary commercial software http ://office .microsoft.com/en-us/excel 
+2	Microsoft Excel for Mac 64px 300px Microsoft Excel for Mac 2011 running on Mac OS X Snow Leopard Microsoft Corporation 2011 ( 14.0.0.100825 
+3	) 2010 10 26 Mac OS X Spreadsheet Proprietary commercial software http ://www.microsoft.com/mac/excel 
+4	Microsoft Excel is a proprietary commercial spreadsheet application written and distributed by Microsoft for Microsoft Windows and Mac OS X . 
+5	It features calculation , graphing tools , pivot table , and a macro programming language called Visual Basic for Applications . 
+6	It has been a very widely applied spreadsheet for these platforms , especially since version 5 in 1993 , and it has almost completely replaced Lotus 1-2-3 as the industry standard for spreadsheets . 
+7	Excel forms part of Microsoft Office . 
+8	The current versions are 2010 for Microsoft Windows and 2011 for Mac OS X . 
+9	Spreadsheet Microsoft Excel has the basic features of all spreadsheets , Excel 2007 For Dummies Greg Harvey 0470037377 Wiley 2006 http ://books .google 
+10	.com/ 
+11	?id=i5ffgL9KEg8C Excel 2007 For Dummies Greg Harvey 0470037377 Wiley 2006 http ://books .google 
+12	.com/ 
+13	?id=i5ffgL9KEg8C using a grid of cells arranged in numbered rows and letter-named columns to organize data manipulations like arithmetic operations . 
+14	It has a battery of supplied functions to answer statistical , engineering and financial needs . 
+15	In addition , it can display data as line graphs , histograms and charts , and with a very limited three-dimensional graphical display . 
+16	It allows sectioning of data to view its dependencies on various factors from different perspectives (using pivot table and the scenario manager Excel 2007 Workbook for Dummies http ://books .google 
+17	.com/ 
+18	?id=9PCz-uf-bjkC&pg=PA296 2007 2nd Greg Harvey Wiley 0470169370 296 ff Excel 2007 Workbook for Dummies http ://books .google 
+19	.com/ 
+20	?id=9PCz-uf-bjkC&pg=PA296 2007 2nd Greg Harvey Wiley 0470169370 296 ff ) . 
+21	And it has a programming aspect , Visual Basic for Applications , allowing the user to ,make as many spread sheets as possible , employ a wide variety of numerical methods , for example , for solving differential equations of mathematical physics , Advanced Excel for scientific data analysis Robert de Levie Oxford University Press 2004 0195152751 http ://books .google 
+22	.com/ 
+23	?id=IAnO-2qVazsC&printsec=frontcove Advanced Excel for scientific data analysis Robert de Levie Oxford University Press 2004 0195152751 http ://books .google 
+24	.com/ 
+25	?id=IAnO-2qVazsC&printsec=frontcove Excel scientific and engineering cookbook David M Bourg O'Reilly 2006 0596008791 http ://books .google 
+26	.com/ 
+27	?id=vQaGBMGaWI4C&printsec=frontcover Excel scientific and engineering cookbook David M Bourg O'Reilly 2006 0596008791 http ://books .google 
+28	.com/ 
+29	?id=vQaGBMGaWI4C&printsec=frontcover and then reporting the results back to the spreadsheet . 
+30	Finally , it has a variety of interactive features allowing user interfaces that can completely hide the spreadsheet from the user , so the spreadsheet presents itself as a so-called application , or decision support system ( DSS) , via a custom-designed user interface , for example , a stock analyzer , Handbook on Decision Support Systems 1 : Basic Themes Michelle MH Şeref &amp; Ravindra K Ahuja Frada Burstein , Clyde W. 
+31	Holsapple §4.2 
+32	A portfolio management and optimization spreadsheet DSS http ://books .google 
+33	.com/ 
+34	?id=q_3sRkRKZQwC&pg=PA288 3540487123 2008 Springer Handbook on Decision Support Systems 1 : Basic Themes Michelle MH Şeref &amp; Ravindra K Ahuja Frada Burstein , Clyde W. 
+35	Holsapple §4.2 
+36	A portfolio management and optimization spreadsheet DSS http ://books .google 
+37	.com/ 
+38	?id=q_3sRkRKZQwC&pg=PA288 3540487123 2008 Springer or in general , as a design tool that asks the user questions and provides answers and reports . 
+39	Microsoft Excel 97 Developer 's Handbook Eric Wells and Steve Harshbarger 1997 Microsoft Press 1572313595 http ://books .google 
+40	.com/ 
+41	?id=LRZnWl-LvwsC Microsoft Excel 97 Developer 's Handbook Eric Wells and Steve Harshbarger 1997 Microsoft Press 1572313595 http ://books .google 
+42	.com/ 
+43	?id=LRZnWl-LvwsC Excellent examples are developed that show just how applications can be designed . 
+44	Data , statistics , and decision models with Excel Donald L Harnett and James F Horrell 1998 Wiley 0471133981 http ://books .google 
+45	.com/ 
+46	?id=l0xiQgAACAAJ Data , statistics , and decision models with Excel Donald L Harnett and James F Horrell 1998 Wiley 0471133981 http ://books .google 
+47	.com/ 
+48	?id=l0xiQgAACAAJ Developing spreadsheet-based decision support systems : using Excel and VBA Michelle M. 
+49	H. 
+50	Şeref , Ravindra K. 
+51	Ahuja , Wayne L. 
+52	Winston 2007 Dynamic Ideas 0975914650 https ://www.dynamic-ideas.com/Books/097591465/xls-dss 
+53	.html 
+54	Developing spreadsheet-based decision support systems : using Excel and VBA Michelle M. 
+55	H. 
+56	Şeref , Ravindra K. 
+57	Ahuja , Wayne L. 
+58	Winston 2007 Dynamic Ideas 0975914650 https ://www.dynamic-ideas.com/Books/097591465/xls-dss 
+59	.html 
+60	In a more elaborate realization , an Excel application can automatically poll external databases and measuring instruments using an update schedule , Data acquisition techniques using PCs Howard Austerlitz http ://books .google 
+61	.com/ 
+62	?id=iKKVOJYqi6YC&pg=PA281 0120683776 2003 Academic Press 2nd 281 ff Some form of data acquisition hardware is required . 
+63	See , for example , Data acquisition techniques using PCs Howard Austerlitz http ://books .google 
+64	.com/ 
+65	?id=iKKVOJYqi6YC&pg=PA281 0120683776 2003 Academic Press 2nd 281 ff analyze the results , make a Word report or Power Point slide show , and e-mail these presentations on a regular basis to a list of participants . 
+66	thumb300pxUse of a user-defined function ''sq( x ) '' in Microsoft Excel . 
+67	The named variables ''x '' &amp; ''y '' are identified in the ''Name Manager '' . 
+68	The function ''sq '' is introduced using the ''Visual Basic '' editor supplied with Excel . 
+69	thumb300pxSubroutine in Excel calculates the square of named column variable ''x '' read from the spreadsheet _ and writes it into the named column variable ''y '' . 
+70	thumbright300pxGraph of a functionGraphmade using Microsoft Excel Microsoft allows for a number of optional command-line switches to control the manner in which Excel starts . 
+71	http ://support.microsoft.com/kb/291288 
+72	Description of the startup switches for Excel 2007-05-07 Microsoft Help and Support Microsoft Support 2010-12-14 Microsoft Excel accepts a number of optional switches that you can use to control how the program starts . 
+73	This article lists the switches and provides a description of each switch . 
+74	http ://support.microsoft.com/kb/291288 
+75	Description of the startup switches for Excel 2007-05-07 Microsoft Help and Support Microsoft Support 2010-12-14 Microsoft Excel accepts a number of optional switches that you can use to control how the program starts . 
+76	This article lists the switches and provides a description of each switch . 
+77	Visual basic for applications The Windows version of Excel supports programming through Microsoft 's Visual Basic for Applications ( VBA ) , which is a dialect of Visual Basic . 
+78	Programming with VBA allows spreadsheet manipulation that is awkward or impossible with standard spreadsheet techniques . 
+79	Programmers may write code directly using the Visual Basic Editor (VBE) , which includes a window for writing code , debugging code , and code module organization environment . 
+80	The user can implement numerical methods as well as automating tasks such as formatting or data organization in VBA Numerical recipes : the art of scientific computing William H. 
+81	Press , SA Teukolsky ,WT Vetterling &amp; BP Flannery 2007 Cambridge University Press 0521880688 3rd http ://books .google 
+82	.com/ 
+83	?id=1aAOdzK3FegC&printsec=frontcover Numerical recipes : routines and examples in BASIC Julien C. 
+84	Sprott 1991 Cambridge University Press 0521406897 http ://books .google 
+85	.com/ 
+86	?id=3-BfpBw7AqQC For example , by converting to Visual Basic the recipes in Numerical recipes : the art of scientific computing William H. 
+87	Press , SA Teukolsky ,WT Vetterling &amp; BP Flannery 2007 Cambridge University Press 0521880688 3rd http ://books .google 
+88	.com/ 
+89	?id=1aAOdzK3FegC&printsec=frontcover Code conversion to Basic from Fortran probably is easier than from C++ , so the 2nd edition ( isbn=0521437210 ) may be easier to use , or the Basic code implementation of the first edition : Numerical recipes : routines and examples in BASIC Julien C. 
+90	Sprott 1991 Cambridge University Press 0521406897 http ://books .google 
+91	.com/ 
+92	?id=3-BfpBw7AqQC . 
+93	and guide the calculation using any desired intermediate results reported back to the spreadsheet . 
+94	VBA was removed from Mac Excel 2008 , as the developers did not believe that a timely release would allow porting the VBA engine natively to Mac OS X . 
+95	VBA was restored in the next version , Mac Excel 2011 . 
+96	A common and easy way to generate VBA code is by using the Macro Recorder . 
+97	Excel 2007 VBA Programming for Dummies John Walkenbach http ://books .google 
+98	.com/ 
+99	?id=2IBbPiP3wOIC&pg=PA79 Chapter 6 : Using the Excel macro recorder 79 ff Revised by Jan Karel Pieterse 0470046740 2007 Wiley However an increasing proportion of Excel functionality is not captured by the Macro Recorder leading to largely useless macros . 
+100	Excel 2007 VBA Programming for Dummies John Walkenbach http ://books .google 
+101	.com/ 
+102	?id=2IBbPiP3wOIC&pg=PA79 Chapter 6 : Using the Excel macro recorder 79 ff Revised by Jan Karel Pieterse 0470046740 2007 Wiley The Macro Recorder records actions of the user and generates VBA code in the form of a macro . 
+103	These actions can then be repeated automatically by running the macro . 
+104	The macros can also be linked to different trigger types like keyboard shortcuts , a command button or a graphic . 
+105	The actions in the macro can be executed from these trigger types or from the generic toolbar options . 
+106	The VBA code of the macro can also be edited in the VBE. 
+107	Certain features such as loop functions and screen prompts by their own properties , and some graphical display items , cannot be recorded , but must be entered into the VBA module directly by the programmer . 
+108	Advanced users can employ user prompts to create an interactive program , or react to events such as sheets being loaded or changed . 
+109	However an increasing proportion of Excel functionality is not captured by the Macro Recorder leading to largely useless macros . 
+110	Excel 2007 VBA Programming for Dummies John Walkenbach http ://books .google 
+111	.com/ 
+112	?id=2IBbPiP3wOIC&pg=PA79 Chapter 6 : Using the Excel macro recorder 79 ff Revised by Jan Karel Pieterse 0470046740 2007 Wiley VBA code interacts with the spreadsheet through the Excel Object Model , cited work John Walkenbach http ://books .google 
+113	.com/ 
+114	?id=2IBbPiP3wOIC&pg=PA53 Chapter 4 : Introducing the Excel object model 53 ff 0470046740 2007-02-02 cited work John Walkenbach http ://books .google 
+115	.com/ 
+116	?id=2IBbPiP3wOIC&pg=PA53 Chapter 4 : Introducing the Excel object model 53 ff 0470046740 2007-02-02 a vocabulary identifying spreadsheet objects , and a set of supplied functions or methods that enable reading and writing to the spreadsheet and interaction with its users ( for example , through custom toolbars or command bars and message boxes ) . 
+117	User -created VBA subroutine execute these actions and operate like macros generated using the macro recorder , but are more flexible and efficient . 
+118	Excel supports chart , graphs or histogram generated from specified groups of cells . 
+119	The generated graphic component can either be embedded within the current sheet , or added as a separate object . 
+120	These displays are dynamically updated if the content of cells change . 
+121	For example , suppose that the important design requirements are displayed visually ; then , in response to a user 's change in trial values for parameters , the curves describing the design change shape , and their points of intersection shift , assisting the selection of the best design . 
+122	April 2010 Windows applications such as Microsoft Access and Microsoft Word , as well as Excel as can communicate with each other and use each others ' capabilities.The 
+123	most common are Dynamic Data Exchange : although strongly deprecated by Microsoft , this is a common method to send data between applications running on Windows , with official MS publications referring to it as " the protocol from hell" . 
+124	http ://drdobbs.com/article/print 
+125	?articleId=184409151&siteSectionName= As the name suggests , it allows applications to supply data to others for calculation and display . 
+126	It is very common in financial markets , being used to connect to important financial data services such as Bloomberg and Reuters . 
+127	OLE Object Linking and Embedding : allows a Windows application to control another to enable it to format or calculate data . 
+128	This may take on the form of "embedding " where an application uses another to handle as task that it is more suited to , for example a Powerpoint presentation may be embedded in an Excel spreadsheet or vice versa . 
+129	Integrating Excel and Access Chapter 5 : Using Access VBA to automate Excel Michael Schmalz http ://books .google 
+130	.com/ 
+131	?id=SGH10fniqmsC&pg=PT71 0596009739 O'Reilly Media , Inc 2006 Integrating Excel and Access Chapter 5 : Using Access VBA to automate Excel Michael Schmalz http ://books .google 
+132	.com/ 
+133	?id=SGH10fniqmsC&pg=PT71 0596009739 O'Reilly Media , Inc 2006 Integrating Excel and Access Chapter 5 : Using Access VBA to automate Excel Michael Schmalz http ://books .google 
+134	.com/ 
+135	?id=SGH10fniqmsC&pg=PT71 0596009739 O'Reilly Media , Inc 2006 Integrating Excel and Access Chapter 5 : Using Access VBA to automate Excel Michael Schmalz http ://books .google 
+136	.com/ 
+137	?id=SGH10fniqmsC&pg=PT71 0596009739 O'Reilly Media , Inc 2006 Excel as Your Database Paul Cornell Chapter 5 : Connect to other databases 117 ff http ://books .google 
+138	.com/ 
+139	?id=qjkglmBy_l4C&pg=PA117 1590597516 2007 Apress Excel as Your Database Paul Cornell Chapter 5 : Connect to other databases 117 ff http ://books .google 
+140	.com/ 
+141	?id=qjkglmBy_l4C&pg=PA117 1590597516 2007 Apress Pro Excel 2007 VBA Excel 's data import tools 43 ff http ://books .google 
+142	.com/ 
+143	?id=gtPQMxO8XuoC&pg=PA43 Apress Jim DeMarco 1590599578 2008 Pro Excel 2007 VBA Excel 's data import tools 43 ff http ://books .google 
+144	.com/ 
+145	?id=gtPQMxO8XuoC&pg=PA43 Apress Jim DeMarco 1590599578 2008 Microsoft Office 2007 Business Intelligence : Reporting , Analysis , and Measurement from the Desktop Doug Harts http ://books .google 
+146	.com/ 
+147	?id=MVFldXVKpj8C&pg=PA171 2007 Importing Access data into Excel 2007 0071494243 McGraw-Hill Professional Microsoft Office 2007 Business Intelligence : Reporting , Analysis , and Measurement from the Desktop Doug Harts http ://books .google 
+148	.com/ 
+149	?id=MVFldXVKpj8C&pg=PA171 2007 Importing Access data into Excel 2007 0071494243 McGraw-Hill Professional Integrating Excel and Access Chapter 5 : Using Access VBA to automate Excel Michael Schmalz http ://books .google 
+150	.com/ 
+151	?id=SGH10fniqmsC&pg=PT71 0596009739 O'Reilly Media , Inc 2006 Integrating Excel and Access Chapter 5 : Using Access VBA to automate Excel Michael Schmalz http ://books .google 
+152	.com/ 
+153	?id=SGH10fniqmsC&pg=PT71 0596009739 O'Reilly Media , Inc 2006 February 2010 Excel users can access external data source via Microsoft Office features such as ( for example ) .odc 
+154	connections built with the Office Data Connection file format . 
+155	Excel files themselves may be updated using a Microsoft supplied ODBC driver . 
+156	Excel can accept data in real time through several programming interfaces , which allow it to communicate with many data sources such as Bloomberg and Reuters . 
+157	Alternatively , Microsoft Query provides ODBC-based browsing within Microsoft Excel . 
+158	Stephen Bullen , Rob Bovey &amp; John Green Profressional Excel Development 2009 Addison-Wesley Upper Saddle River , NJ 0321508793 http ://books .google 
+159	.com/ 
+160	?id=VnegO0pMYlIC&pg=PA665 665 2nd To create a robust solution , we always have to include some VBA code ... 
+161	Stephen Bullen , Rob Bovey &amp; John Green Profressional Excel Development 2009 Addison-Wesley Upper Saddle River , NJ 0321508793 http ://books .google 
+162	.com/ 
+163	?id=VnegO0pMYlIC&pg=PA665 665 2nd To create a robust solution , we always have to include some VBA code ... 
+164	http ://proc.isecon 
+165	.org/2000/602/ISECON.2000.Wehrs 
+166	.pdf 
+167	An Applied DSS Course Using Excel and VBA : IS and/or MS ? Wehrs William 2000 The Proceedings of ISECON ( Information System Educator Conference ) 4 PDF 2010-02-05 Microsoft Query is a data retrieval tool ( i .e 
+168	. 
+169	ODBC browser ) that can be employed within Excel 97. 
+170	It allows a user to create and save queries on external relational databases for which an ODBC driver is available . 
+171	http ://proc.isecon 
+172	.org/2000/602/ISECON.2000.Wehrs 
+173	.pdf 
+174	An Applied DSS Course Using Excel and VBA : IS and/or MS ? Wehrs William 2000 The Proceedings of ISECON ( Information System Educator Conference ) 4 PDF 2010-02-05 Microsoft Query is a data retrieval tool ( i .e 
+175	. 
+176	ODBC browser ) that can be employed within Excel 97. 
+177	It allows a user to create and save queries on external relational databases for which an ODBC driver is available . 
+178	Other errors specific to Excel include misleading statistics functions , mod function errors , date limitations and the Excel 2007 error . 
+179	Spreadsheet Shortcomings The accuracy and convenience of statistical tools in Excel has been criticized , McCullough B.D. 
+180	Wilson , B. 
+181	On the accuracy of statistical procedures in Microsoft Excel 2000 and Excel XP Computational Statistics &amp; Data Analysis 2002 40 4 713–721 10.1016/S0167-9473(02)00095-6 
+182	McCullough B.D. 
+183	Wilson , B. 
+184	On the accuracy of statistical procedures in Microsoft Excel 2000 and Excel XP Computational Statistics &amp; Data Analysis 2002 40 4 713–721 10.1016/S0167-9473(02)00095-6 
+185	McCullough B.D. 
+186	Heiser , D.A. 
+187	On the accuracy of statistical procedures in Microsoft Excel 2007 Computational Statistics &amp; Data Analysis 2008 52 10 4570–4578 10.1016/j.csda.2008.03.004 
+188	McCullough B.D. 
+189	Heiser , D.A. 
+190	On the accuracy of statistical procedures in Microsoft Excel 2007 Computational Statistics &amp; Data Analysis 2008 52 10 4570–4578 10.1016/j.csda.2008.03.004 
+191	Yalta A. 
+192	Talha The accuracy of statistical distributions in Microsoft Excel 2007 Computational Statistics &amp; Data Analysis 2008 52 10 4579–4586 10.1016/j.csda.2008.03.005 
+193	Yalta A. 
+194	Talha The accuracy of statistical distributions in Microsoft Excel 2007 Computational Statistics &amp; Data Analysis 2008 52 10 4579–4586 10.1016/j.csda.2008.03.005 
+195	http ://www-unix .oit 
+196	.umass 
+197	.edu/~evagold/excel 
+198	.html 
+199	Using Excel for Statistical Data Analysis&nbsp; — Caveats University of Massachusetts School of Public Health Eva Goldwater 2008-11-10 http ://www-unix .oit 
+200	.umass 
+201	.edu/~evagold/excel 
+202	.html 
+203	Using Excel for Statistical Data Analysis&nbsp; — Caveats University of Massachusetts School of Public Health Eva Goldwater 2008-11-10 http ://www.daheiser.info/excel/frontpage 
+204	.html 
+205	Microsoft Excel 2000 , 2003 and 2007 faults , problems , workarounds and fixes David A. 
+206	Heiser 2008 2010-04-08 http ://www.daheiser.info/excel/frontpage 
+207	.html 
+208	Microsoft Excel 2000 , 2003 and 2007 faults , problems , workarounds and fixes David A. 
+209	Heiser 2008 2010-04-08 as mishandling missing data , as returning incorrect values due to inept handling of round-off and large numbers , as only selectively updating calculations on a spreadsheet when some cell values are changed , and as having a limited set of statistical tools . 
+210	Microsoft has announced some of these issues are addressed in Excel 2010 . 
+211	Comments are provided from readers that may illuminate some remaining problems . 
+212	In the Microsoft Excel 2007 , menus related to graphs and graph formatting have been changed . 
+213	Some common activities in using graphs are less transparent than previously . 
+214	For example , to add a curve to a graph , one can right click on the graph and choose " select data " from the drop-down menu , or use the " chart tools/design " tab . 
+215	However , when there are other drop-down menus open , this menu does n't appear and the " select data " option is grayed out (unavailable ) from the toolbar . 
+216	That facet of the menu system must be "discovered " by the user . 
+217	Excel has issues with modulo operation . 
+218	In the case of excessively large results , Excel will return the error warning NUM! 
+219	instead of an answer . 
+220	http ://support.microsoft.com/kb/119083 
+221	XL : MOD( ) Function Returns #NUM! 
+222	Error Value Microsoft January 19 , 2007 2008-11-10 http ://support.microsoft.com/kb/119083 
+223	XL : MOD( ) Function Returns #NUM! 
+224	Error Value Microsoft January 19 , 2007 2008-11-10 http ://www.bygsoftware 
+225	.com/issues/modbug.html 
+226	The MOD bug Byg Software 2008-11-10 http ://www.bygsoftware 
+227	.com/issues/modbug.html 
+228	The MOD bug Byg Software 2008-11-10 Excel includes January 0, 1900 and February 29 , 1900 , incorrectly treating 1900 as a leap year . 
+229	http ://support.microsoft.com/kb/214058/EN-US/ 
+230	Days of the week before March 1 , 1900 are incorrect in Excel Microsoft 2008-11-10 http ://support.microsoft.com/kb/214058/EN-US/ 
+231	Days of the week before March 1 , 1900 are incorrect in Excel Microsoft 2008-11-10 http ://support.microsoft.com/kb/214326/en-us 
+232	Excel 2000 incorrectly assumes that the year 1900 is a leap year Microsoft 2008-11-10 http ://support.microsoft.com/kb/214326/en-us 
+233	Excel 2000 incorrectly assumes that the year 1900 is a leap year Microsoft 2008-11-10 The bug originated from Lotus 1-2-3 , and was purposely implemented in Excel for the purpose of backward compatibility . 
+234	http ://www .joelonsoftware 
+235	.com/items/2006/06/16.html 
+236	My First BillG Review Joel Spolsky Joel on Software June 16 , 2006 2008-11-10 http ://www .joelonsoftware 
+237	.com/items/2006/06/16.html 
+238	My First BillG Review Joel Spolsky Joel on Software June 16 , 2006 2008-11-10 This legacy has later been carried over into Office Open XML file format . 
+239	http ://www.consortiuminfo.org/standardsblog/article 
+240	.php 
+241	?story=20070117145745854 The Contradictory Nature of OOXML ConsortiumInfo.org 
+242	http ://www.consortiuminfo.org/standardsblog/article 
+243	.php 
+244	?story=20070117145745854 The Contradictory Nature of OOXML ConsortiumInfo.org 
+245	Microsoft Excel will not open two documents with the same name and instead will display the following error : The reason is for calculation ambiguity with linked cells . 
+246	If there is a cell = '[ Book1.xlsx]Sheet1' 
+247	!$ 
+248	G$ 33 , and there are two books named " Book1 " open , there is no way to tell which one the user means . 
+249	Numeric precision in Microsoft Excel thumb390pxExcel maintains 15 figures in its numbers _ but they are not always accurate : the bottom line should be the same as the top line . 
+250	Despite the use of 15-figure precision , Excel can display many more figures (up to thirty ) upon user request . 
+251	But the displayed figures are not those actually used in its computations , and so , for example , the difference of two numbers may differ from the difference of their displayed values . 
+252	Although such departures are usually beyond the 15th decimal , exceptions do occur , especially for very large or very small numbers . 
+253	Serious errors can occur if decisions are made based upon automated comparisons of numbers ( for example , using the Excel If function ) , as equality of two numbers can be unpredictable . 
+254	In the figure the fraction 1/9000 is displayed in Excel . 
+255	Although this number has a decimal representation that is an infinite string of ones , Excel displays only the leading 15 figures . 
+256	In the second line , the number one is added to the fraction , and again Excel displays only 15 figures . 
+257	In the third line , one is subtracted from the sum using Excel . 
+258	Because the sum in the second line has only eleven 1 's after the decimal , the difference when 1 is subtracted from this displayed value is three 0 's followed by a string of eleven 1 's . 
+259	However , the difference reported by Excel in the third line is three 0 's followed by a string of thirteen 1 's and two extra erroneous digits . 
+260	Thus , the numbers Excel calculates with to obtain the third line are not the numbers that it displays in the first two lines . 
+261	Moreover , the error in Excel 's answer is not just round-off error . 
+262	Excel works with a modified 1985 version of the IEEE 754 specification . 
+263	http ://support.microsoft.com/kb/78113/en-us 
+264	Floating-point arithmetic may give inaccurate results in Excel Microsoft support Revision 8.2 
+265	; article ID : 78113 June 30 , 2010 2010-07-02 Microsoft 's overview is found at : http ://support.microsoft.com/kb/78113/en-us 
+266	Floating-point arithmetic may give inaccurate results in Excel Microsoft support Revision 8.2 
+267	; article ID : 78113 June 30 , 2010 2010-07-02 Excel 's implementation involves an amalgam of truncations and conversions between binary and decimal representations , leading to accuracy that sometimes is better than one would expect from simple fifteen digit precision , and sometimes much worse . 
+268	See the main article for details . 
+269	Besides accuracy in user computations , the question of accuracy in Excel -provided functions may be raised . 
+270	Particularly in the arena of statistical functions , Excel has been criticized for sacrificing accuracy for speed of calculation . 
+271	Numerical issues in statistical computing for the social scientist Micah Altman , Jeff Gill , Michael McDonald 2004 Wiley-IEEE 0471236330 http ://books .google 
+272	.com/ 
+273	?id=j_KevqVO3zAC&pg=PA12 §2.1.1 
+274	Revealing example : Computing the coefficient standard deviation 12 Numerical issues in statistical computing for the social scientist Micah Altman , Jeff Gill , Michael McDonald 2004 Wiley-IEEE 0471236330 http ://books .google 
+275	.com/ 
+276	?id=j_KevqVO3zAC&pg=PA12 §2.1.1 
+277	Revealing example : Computing the coefficient standard deviation 12 Robert de Levie cited work 0195152751 2004 45–46 Robert de Levie cited work 0195152751 2004 45–46 As many calculations in Excel are executed using VBA , an additional issue is the accuracy of VBA , which varies with variable type and user-requested precision . 
+278	Excel 2010 Power Programming with VBA Defining data types 198 ff and Table 8–1 0470475358 John Walkenbach 2010 Wiley http ://books .google 
+279	.com/ 
+280	?id=dtSdrjjVXrwC&pg=PA198 Excel 2010 Power Programming with VBA Defining data types 198 ff and Table 8–1 0470475358 John Walkenbach 2010 Wiley http ://books .google 
+281	.com/ 
+282	?id=dtSdrjjVXrwC&pg=PA198 Microsoft originally marketed a spreadsheet program called Multiplan in 1982 . 
+283	Multiplan became very popular on CP/M systems , but on MS-DOS systems it lost popularity to Lotus 1-2-3 . 
+284	Microsoft released the first version of Excel for the Mac in 30 September 1985 , and the first Windows version ( numbered 2.05 
+285	to line up with the Mac and bundled with a run-time Windows environment ) in November 1987 . 
+286	http ://books .google 
+287	.com/ 
+288	?id=Vi8EAAAAMBAJ&lpg=PA30&dq=macintosh %20spreadsheet %20arrow %20keys %20multiplan&pg=PA30#v=onepage&q&f=false InfoWorld First Look : Supercalc 4 challenging 1-2-3 with new tactic Infoworld Media Group Inc 1986-07-07 http ://books .google 
+289	.com/ 
+290	?id=Vi8EAAAAMBAJ&lpg=PA30&dq=macintosh %20spreadsheet %20arrow %20keys %20multiplan&pg=PA30#v=onepage&q&f=false InfoWorld First Look : Supercalc 4 challenging 1-2-3 with new tactic Infoworld Media Group Inc 1986-07-07 Lotus was slow to bring 1-2-3 to Windows and by 1988 Excel had started to outsell 1-2-3 and helped Microsoft achieve the position of leading PC software developer . 
+291	This accomplishment , dethroning the king of the software world , solidified Microsoft as a valid competitor and showed its future of developing GUI software . 
+292	Microsoft pushed its advantage with regular new releases , every two years or so . 
+293	Early in 1993 Excel became the target of a trademark lawsuit by another company already selling a software package named " Excel " in the finance industry . 
+294	As the result of the dispute Microsoft had to refer to the program as " Microsoft Excel " in all of its formal press releases and legal documents . 
+295	However , over time this practice has been ignored , and Microsoft cleared up the issue permanently when they purchased the trademark of the other program . 
+296	October 2008 Microsoft also encouraged the use of the letters XL as shorthand for the program ; while this is no longer common , the program 's icon on Windows still consists of a stylized combination of the two letters , and the file extension of the default Excel format is .xls 
+297	. 
+298	Excel offers many user interface tweaks over the earliest electronic spreadsheets ; however , the essence remains the same as in the original spreadsheet software , VisiCalc : the program displays cells organized in rows and columns , and each cell may contain data or a formula , with relative or absolute references to other cells . 
+299	Excel became the first spreadsheet to allow the user to define the appearance of spreadsheets ( fonts , character attributes and cell appearance ) . 
+300	It also introduced intelligent cell recomputation , where only cells dependent on the cell being modified are updated ( previous spreadsheet programs recomputed everything all the time or waited for a specific user command ) . 
+301	Excel has extensive graphing capabilities , and enables users to perform mail merge . 
+302	With version 5.0 
+303	( 1993 ) , Excel has included Visual Basic for Applications ( VBA ) , a programming language based on Visual Basic which adds the ability to automate tasks in Excel and to provide user-defined functions ( UDF) for use in worksheets . 
+304	VBA is a powerful addition to the application and includes a fully featured integrated development environment ( IDE ) . 
+305	Macro recording can produce VBA code replicating user actions , thus allowing simple automation of regular tasks . 
+306	VBA allows the creation of forms and in-worksheet controls to communicate with the user . 
+307	The language supports use ( but not creation ) of ActiveX ( COM ) DLL 's ; later versions add support for class modules allowing the use of basic object-oriented programming techniques . 
+308	The automation functionality provided by VBA made Excel a target for macro viruses . 
+309	This caused serious problems until antivirus products began to detect these viruses . 
+310	Microsoft belatedly took steps to prevent the misuse by adding the ability to disable macros completely , to enable macros when opening a workbook or to trust all macros signed using a trusted certificate . 
+311	Versions 5.0 
+312	to 9.0 
+313	of Excel contain various Easter eggs , including a Hall of Tortured Souls , although since version 10 Microsoft has taken measures to eliminate such undocumented features from their products . 
+314	http ://blogs .msdn.com/larryosterman/archive/2005/10/21/483608.aspx 
+315	Why no Easter Eggs ? Larry Osterman October 21 , 2005 2006-07-29 Larry Osterman 's WebLog MSDN Blogs http ://blogs .msdn.com/larryosterman/archive/2005/10/21/483608.aspx 
+316	Why no Easter Eggs ? Larry Osterman October 21 , 2005 2006-07-29 Larry Osterman 's WebLog MSDN Blogs Microsoft Office 2000 For many users , one of the most obvious changes introduced with Excel 2000 ( and the rest of the Office 2000 suite ) involved a clipboard that could hold multiple objects at once . 
+317	In another noticeable change the Office Assistant , whose frequent unsolicited appearance in Excel 97 had annoyed many users , became less intrusive . 
+318	64pxthumbExcel 2007 icon thumb250pxMicrosoft Excel 2007 The most obvious change is a completely revamped user interface called the Ribbon menu system , which means a user must abandon most habits acquired from previous versions . 
+319	Some practical advantages of the new system are a decreased number of mouse-clicks needed to reach a given functionality ( e .g 
+320	. 
+321	removing the gridlines now takes 2 mouse-clicks instead of 5 ) , greatly improved management of named variables through the Name Manager , and much improved flexibility in formatting graphs , which now allow ( x , y ) coordinate labeling and lines of arbitrary weight . 
+322	The number of rows is now 1,048,576 and columns is 16,384 . 
+323	Several improvements to pivot tables were introduced . 
+324	Office Open XML file formats were introduced , including .xlsm 
+325	for a workbook with macros and .xlsx 
+326	for a workbook without macros . 
+327	Microsoft Office Excel 2007 inside out Mark Dodge , Craig Stinson 2007 Microsoft Press 073562321X Chapter 1 : What 's new in Microsoft Office Excel 2007 1 ff Microsoft Office Excel 2007 inside out Mark Dodge , Craig Stinson 2007 Microsoft Press 073562321X Chapter 1 : What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets , however VBA macros are not handled in parallel and XLL addins only are executed in parallel if they are thread-safe and indicate this at the time of registration . 
+328	The changes in Excel 2010 are listed on the microsoft website . 
+329	64pxthumbDock icon for Excel 2011 for Mac Versions of Excel up to 7.0 
+330	had a limitation in the size of their data sets of 16K ( 2^14=16384 ) rows . 
+331	Versions 8.0 
+332	through 11.0 
+333	could handle 64K ( 2^16=65536 ) rows and 256 columns ( 2^8 as label 'IV' ) . 
+334	Version 12.0 
+335	can handle 1M ( 2^20=1048576 ) rows , and 16384 ( 2^14 as label 'XFD' ) columns . 
+336	http ://msdn.microsoft.com/en-us/library/aa730921.aspx 
+337	The " Big Grid " and Increased Limits in Excel 2007 2008-04-10 http ://msdn.microsoft.com/en-us/library/aa730921.aspx 
+338	The " Big Grid " and Increased Limits in Excel 2007 2008-04-10 Excel Spreadsheet .xls 
+339	, ( .xlsx 
+340	, .xlsm 
+341	, .xlsb 
+342	- Excel 2007 ) application/vnd .ms-excel 
+343	com.microsoft 
+344	.excel 
+345	.xls 
+346	Microsoft Spreadsheet Microsoft Excel up until 2007 version used a proprietary binary file format called Binary Interchange File Format ( BIFF ) as its primary format . 
+347	http ://support.microsoft.com/kb/840817/ 
+348	How to extract information from Office files by using Office file formats and schemas Microsoft February 26 , 2008 2008-11-10 http ://support.microsoft.com/kb/840817/ 
+349	How to extract information from Office files by using Office file formats and schemas Microsoft February 26 , 2008 2008-11-10 Excel 2007 uses Office Open XML as its primary file format , an XML -based format that followed after a previous XML -based format called " XML Spreadsheet " ( "XMLSS" ) , first introduced in Excel 2002 . 
+350	http ://msdn.microsoft.com/en-us/library/aa140066(office 
+351	.10 
+352	) .aspx 
+353	XML Spreadsheet Reference Microsoft Excel 2002 Technical Articles MSDN August 2001 2008-11-10 http ://msdn.microsoft.com/en-us/library/aa140066(office 
+354	.10 
+355	) .aspx 
+356	XML Spreadsheet Reference Microsoft Excel 2002 Technical Articles MSDN August 2001 2008-11-10 Although supporting and encouraging the use of new XML -based formats as replacements , Excel 2007 remained backwards-compatible with the traditional , binary formats . 
+357	In addition , most versions of Microsoft Excel can read CSV , DBF , SYLK , DIF , and other legacy formats . 
+358	Support for some older file formats were removed in Excel 2007 . 
+359	http ://blogs .office 
+360	.com/b/microsoft-excel/archive/2006/08/24/deprecated-features-for-excel-2007.aspx 
+361	Deprecated features for Excel 2007 Microsoft&nbsp; — David Gainer August 24 , 2006 2009-01-02 http ://blogs .office 
+362	.com/b/microsoft-excel/archive/2006/08/24/deprecated-features-for-excel-2007.aspx 
+363	Deprecated features for Excel 2007 Microsoft&nbsp; — David Gainer August 24 , 2006 2009-01-02 The file formats were mainly from DOS based programs . 
+364	OpenOffice .org 
+365	has created documentation of the Excel format . 
+366	http ://sc.openoffice 
+367	.org/excelfileformat.pdf 
+368	OpenOffice .org 
+369	's documentation of the Microsoft Excel File Format 2008-08-02 http ://sc.openoffice 
+370	.org/excelfileformat.pdf 
+371	OpenOffice .org 
+372	's documentation of the Microsoft Excel File Format 2008-08-02 Since then Microsoft made the Excel binary format specification available to freely download . 
+373	http ://download .microsoft.com/download/0/B/E/0BE8BDD7-E5E8-422A-ABFD-4342ED7AD886/Excel97-2007BinaryFileFormat(xls 
+374	)Specification .xps 
+375	Microsoft Office Excel 97 - 2007 Binary File Format Specification ( *.xls 
+376	97-2007 format ) 2007 Microsoft Corporation http ://download .microsoft.com/download/0/B/E/0BE8BDD7-E5E8-422A-ABFD-4342ED7AD886/Excel97-2007BinaryFileFormat(xls 
+377	)Specification .xps 
+378	Microsoft Office Excel 97 - 2007 Binary File Format Specification ( *.xls 
+379	97-2007 format ) 2007 Microsoft Corporation Microsoft Office XML formats The XML Spreadsheet format introduced in Excel 2002 is a simple , XML based format missing some more advanced features like storage of VBA macros . 
+380	Though the intended file extension for this format is .xml 
+381	, the program also correctly handles XML files with .xls 
+382	extension . 
+383	This feature is widely used by third-party applications ( e .g 
+384	. 
+385	MySQL Query Browser ) to offer "export to Excel " capabilities without implementing binary file format . 
+386	The following example will be correctly opened by Excel if saved either as Book1.xml 
+387	or Book1.xls 
+388	: < ?xml version ="1.0" 
+389	? > Name Example Value 123 explanation of purpose and when deprecated February 2009 Office Open XML Microsoft Excel 2007 , along with the other products in the Microsoft Office 2007 suite , introduced new file-formats . 
+390	The first of these ( .xlsx 
+391	) is defined in the Office Open XML ( OOXML) specification . 
+392	The new Excel 2007 formats are : Excel 2010 continues with these new formats . 
+393	Programmers have produced API to open Excel spreadsheets in a variety of applications and environments other than Microsoft Excel . 
+394	These include opening Excel documents on the web using either ActiveX controls , or plugins like the Adobe Flash Player . 
+395	The Apache POI opensource project provides Java libraries for reading and writing Excel spreadsheet files . 
+396	ExcelPackage is another open-source project that provides server-side generation of Microsoft Excel 2007 spreadsheets . 
+397	PHPExcel is a PHP library that converts Excel5 , Excel 2003 , and Excel 2007 formats into objects for reading and writing within a web application . 
+398	2 Microsoft Excel Excel Category :Mac OS software Category :Mac OS X software Excel Category :Spreadsheet software Category :1985 software ar :مايكروسوفت إكسل az:Microsoft Excel bn :মাইক্রোসফট এক্সেল bg :Microsoft Excel bs :Microsoft Excel ca :Microsoft Excel cs :Microsoft Excel da :Microsoft Excel de :Microsoft Excel et :Microsoft Excel es :Microsoft Excel fa :مایکروسافت اکسل fr :Microsoft Excel gl:Microsoft Excel ko :마이크로소프트 엑셀 hi :माइक्रोसॉफ़्ट ऍक्सल hr:Microsoft Excel id :Microsoft Excel it :Microsoft Excel he:Microsoft Excel ka :Excel kk :Microsoft Office Еxcel lb :.xls 
+399	lt :Microsoft Excel mk :Microsoft Excel mr :मायक्रोसॉफ्ट एक्सेल arz :مايكروسوفت اكسل nl :Microsoft Office Excel ja:Microsoft Excel no:Microsoft Office Excel pl :Microsoft Excel pt:Microsoft Excel ro:Microsoft Excel ru:Microsoft Excel sq:Excel si:Microsoft Excel simple :Microsoft Excel sk :Microsoft Excel sl :Microsoft Excel sr :Majkrosoft eksel sh :Microsoft Excel fi:Microsoft Excel sv:Microsoft Excel ta :மைக்ரோசாப்ட ் எக்செல ் th :ไมโครซอฟท ์ เอกซ์เซล tr :Microsoft Excel uk :Microsoft Excel vi:Microsoft Excel yi :עקסעל zh :Microsoft Excel DDE : " Dynamic Data Exchange " uses the message passing mechanism in Windows to allow data to flow between Excel and other applications . 
+400	Although it is easy for users to create such links , programming such links reliably is so difficult that Microsoft , the creators of the system , officially refer to it as " the protocol from hell" . 
+401	In spite of its many issues DDE remains the most common way for data to reach traders in financial markets . 
+402	Network DDE Extended the protocol to allow spreadsheets on different computers to exchange data . 
+403	Given the view above , it is not surprising that in Vista , Microsoft no longer supports the facility . 
+404	Real Time Data : RTD although in many ways technically superior to DDE , has been slow to gain acceptance , since it requires non-trivial programming skills , and when first released was neither adequately documented nor supported by the major data vendors . 
+405	DeMarco Jim Pro Excel 2007 VBA 2008 Apress Berkeley , California 978-1-59059-957-0 http ://books .google 
+406	.com/ 
+407	?id=gtPQMxO8XuoC&pg=PA225 225 External data is accessed through a connection file , such as an Office Data Connection ( ODC ) file ( .odc 
+408	) DeMarco Jim Pro Excel 2007 VBA 2008 Apress Berkeley , California 978-1-59059-957-0 http ://books .google 
+409	.com/ 
+410	?id=gtPQMxO8XuoC&pg=PA225 225 External data is accessed through a connection file , such as an Office Data Connection ( ODC ) file ( .odc 
+411	) NUM! 
+412	A document with the name ' %s ' is already open . 
+413	You cannot open two documents with the same name , even if the documents are in different folders . 
+414	To open the second document , either close the document that is currently open , or rename one of the documents . 
+415	1987 Excel 2.0 
+416	for Windows 1990 Excel 3.0 
+417	1992 Excel 4.0 
+418	1993 Excel 5.0 
+419	( Office 4.2 
+420	&amp; 4.3 
+421	, also a 32-bit version for Windows NT only on the x86 , PowerPC , Alpha , and MIPS architectures ) 1995 Excel for Windows 95 (version 7.0) 
+422	included in Office 95 1997 Excel 97 (version 8.0) 
+423	included in Office 97 ( for x86 and Alpha ) . 
+424	This version of Excel includes a flight simulator as an Easter Egg . 
+425	1999 Excel 2000 (version 9.0) 
+426	included in Office 2000 2001 Excel 2002 (version 10 ) included in Office XP 2003 Office Excel 2003 (version 11 ) included in Office 2003 2007 Office Excel 2007 (version 12 ) included in Office 2007 2010 Excel 2010 (version 14 ) included in Office 2010 Note : No MS-DOS version of Excel 1.0 
+427	for Windows ever existed : the Windows version originated at the time the Mac version was up to 2.0. 
+428	Note : There is no Excel 6.0, 
+429	because the Windows 95 version was launched with Word 7. 
+430	All the Office 95 &amp; Office 4.X 
+431	products have OLE 2 capacity&nbsp; — moving data automatically from various programs&nbsp; — and Excel 7 would show that it was contemporary with Word 7 . 
+432	1985 Excel 1.0 
+433	1988 Excel 1.5 
+434	1989 Excel 2.2 
+435	1990 Excel 3.0 
+436	1992 Excel 4.0 
+437	1993 Excel 5.0 
+438	( part of Office 4.X—Motorola 
+439	68000 version and first PowerPC version ) 1998 Excel 8.0 
+440	( part of Office 98 ) 2000 Excel 9.0 
+441	( part of Office 2001 ) 2001 Excel 10.0 
+442	( part of Office v. 
+443	X ) 2004 Excel 11.0 
+444	( part of Office 2004 ) 2008 Excel 12.0 
+445	( part of Office 2008 ) 2011 Excel 14.0 
+446	( part of Office 2011 ) 1989 Excel 2.2 
+447	1990 Excel 2.3 
+448	1991 Excel 3.0 
+449	Comparison of spreadsheets Excel Viewer List of spreadsheets Spreadmart Visual Basic for Applications Professional Excel development : The definitive guide to developing applications using Microsoft Excel and VBA Stephen Bullen , Rob Bovey and John Green http ://books .google 
+450	.com/ 
+451	?id=VnegO0pMYlIC&printsec=frontcove 2nd Addison Wesley 0321508793 2009 Microsoft Office Excel 2007 inside out Mark Dodge , Craig Stinson 2007 Microsoft Press 073562321X http ://www.amazon.com/Microsoft-Office-Excel-2007-Inside/dp/073562321X 

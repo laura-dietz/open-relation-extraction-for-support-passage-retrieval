@@ -1,0 +1,112 @@
+0	The weighted mean is similar to an arithmetic mean ( the most common type of average ) , where instead of each of the data points contributing equally to the final average , some data points contribute more than others . 
+1	The notion of weighted mean plays a role in descriptive statistics and also occurs in a more general form in several other areas of mathematics . 
+2	If all the weights are equal , then the weighted mean is the same as the arithmetic mean . 
+3	While weighted means generally behave in a similar fashion to arithmetic means , they do have a few counterintuitive properties , as captured for instance in Simpson 's paradox . 
+4	The term weighted average usually refers to a weighted arithmetic mean , but weighted versions of other means can also be calculated , such as the weighted geometric mean and the weighted harmonic mean . 
+5	Given two school classes , one with 20 students , and one with 30 students , the grades in each class on a test were : The straight average for the morning class is 80 and the straight average of the afternoon class is 90 . 
+6	The straight average of 80 and 90 is 85 , the mean of the two class means . 
+7	However , this does not account for the difference in number of students in each class , and the value of 85 does not reflect the average student grade ( independent of class ) . 
+8	The average student grade can be obtained by averaging all the grades , without regard to classes : Or , this can be accomplished by weighting the class means by the number of students in each class (using a weighted mean of the class means ) : Thus , the weighted mean makes it possible to find the average student grade in the case where only the class means and the number of students in each class are available . 
+9	Formally , the weighted mean of a non-empty set of data with non-negative weights is the quantity which means : Therefore data elements with a high weight contribute more to the weighted mean than do elements with a low weight . 
+10	The weights cannot be negative . 
+11	Some may be zero , but not all of them ( since division by zero is not allowed ) . 
+12	The formulas are simplified when the weights are normalized such that they sum up to 1 , i .e 
+13	. 
+14	sum_{i=1}^n {w_i } = 1 . 
+15	For such normalized weights the weighted mean is simply bar {x } = sum_{i=1}^n {w_i x_i } . 
+16	The common mean frac {1}{n}sum_{i=1}^n {x_i } is a special case of the weighted mean where all data have equal weights , w_i=w . 
+17	When the weights are normalized then w_i=frac{1}{n} . 
+18	This is used for weighting a response variable based upon its dependency on x , a distance variable . 
+19	Since only the relative weights are relevant , any weighted mean can be expressed using coefficients that sum to one . 
+20	Such a linear combination is called a convex combination . 
+21	Using the previous example , we would get the following : This simplifies to : The weighted sample mean , bar{x } , with normalized weights ( weights summing to one ) is itself a random variable . 
+22	Its expected value and standard deviation are related to the expected values and standard deviations of the observations as follows . 
+23	If the observations have expected values then the weighted sample mean has expectation Particularly , if the expectations of all observations are equal , bar {x_i}=c , then the expectation of the weighted sample mean will be the same , For uncorrelated observations with standard deviations sigma_i , the weighted sample mean has standard deviation Consequently , when the standard deviations of all observations are equal , sigma_i=d , the weighted sample mean will have standard deviation sigma( bar x ) = d sqrt {V_2 } . 
+24	Here V_2 is the quantity such that 1/n le V_2le 1 . 
+25	It attains its minimum value for equal weights , and its maximum when all weights except one are zero . 
+26	In the former case we have sigma( bar x )=d/ sqrt {n } , which is related to the central limit theorem . 
+27	Least_squares# Weighted_least_squares Linear_least_squares _( mathematics )# Weighted_linear_least_squares For the weighted mean of a list of data for which each element x_i , ! 
+28	comes from a different probability distribution with known variance {sigma_i}^2 , , one possible choice for the weights is given by : The weighted mean in this case is : and the variance of the weighted mean is : which reduces to sigma_{bar{x} }^2 = frac{ {sigma_0 }^2 }{n } , when all sigma_i = sigma_0. 
+29	, The significance of this choice is that this weighted mean is the maximum likelihood estimator of the mean of the probability distributions under the assumption that they are independent and normally distributed with the same mean . 
+30	Weighted means are typically used to find the weighted mean of experimental data , rather than theoretically generated data . 
+31	In this case , there will be some error in the variance of each data point . 
+32	Typically experimental errors may be underestimated due to the experimenter not taking into account all sources of error in calculating the variance of each data point . 
+33	In this event , the variance in the weighted mean must be corrected to account for the fact that chi^2 is too large . 
+34	The correction that must be made is where chi^2_nu is chi^2 divided by the number of degrees of freedom , in this case n &nbsp;&minus ;&nbsp;1 . 
+35	This gives the variance in the weighted mean as : Typically when a mean is calculated it is important to know the variance and standard deviation about that mean . 
+36	When a weighted mean mu^* is used , the variance of the weighted sample is different from the variance of the unweighted sample . 
+37	The biased weighted sample variance is defined similarly to the normal biased sample variance : where V_1 = sum_{i=1}^n w_i , which is 1 for normalized weights . 
+38	For small samples , it is customary to use an unbiased estimator for the population variance . 
+39	In normal unweighted samples , the N in the denominator ( corresponding to the sample size ) is changed to N &nbsp;&minus ;&nbsp;1 . 
+40	While this is simple in unweighted samples , it is not straightforward when the sample is weighted . 
+41	The unbiased estimator of a weighted population variance ( assuming each x_i is drawn from a Gaussian distribution with variance 1/w_i ) is given by http ://www.gnu.org/software/gsl/manual/html_node/Weighted-Samples 
+42	.html 
+43	: where V_2 = sum_{i=1}^n {w_i^2 } as introduced previously .The 
+44	degrees of freedom of the weighted , unbiased sample variance vary accordingly from N &nbsp;&minus ;&nbsp;1 down to&nbsp;0 . 
+45	The standard deviation is simply the square root of the variance above . 
+46	If all of the x_i are drawn from the same distribution and the integer weights w_i indicate frequency of occurrence in the sample , then the unbiased estimator of the weighted population variance is given by If all x_i are unique , then N counts the number of unique values , and V_1 counts the number of samples . 
+47	For example , if values {2 , 2 , 4 , 5 , 5 , 5} are drawn from the same distribution , then we can treat this set as an unweighted sample , or we can treat it as the weighted sample {2 , 4 , 5} with corresponding weights {2 , 1 , 3} , and we should get the same results . 
+48	The above generalizes easily to the case of taking the mean of vector-valued estimates . 
+49	For example , estimates of position on a plane may have less certainty in one direction than another . 
+50	As in the scalar case , the weighted mean of multiple estimates can provide a maximum likelihood estimate . 
+51	We simply replace sigma^2 by the covariance matrix James Frederick Statistical Methods in Experimental Physics 2006 World Scientific Singapore 9812705279 2nd 324 James Frederick Statistical Methods in Experimental Physics 2006 World Scientific Singapore 9812705279 2nd 324 : The weighted mean in this case is : and the covariance of the weighted mean is : For example , consider the weighted mean of the point [1 0] with high variance in the second component and [ 0 1] with high variance in the first component . 
+52	Then then the weighted mean is : which makes sense : the [1 0] estimate is " compliant " in the second component and the [ 0 1] estimate is compliant in the first component , so the weighted mean is nearly [1 1] . 
+53	In the general case , suppose that mathbf{X}=[ x_1 ,dots ,x_n ] , mathbf{C} is the covariance matrix relating the quantities x_i , bar{x } is the common mean to be estimated , and mathbf{ W} is the design matrix [1 , ... 
+54	, 1] ( of length n ) . 
+55	The Gauss–Markov theorem states that the estimate of the mean having minimum variance is given by : and Consider the time series of an independent variable x and a dependent variable y , with n observations sampled at discrete times t_i . 
+56	In many common situations , the value of y at time t_i depends not only on x_i but also on its past values . 
+57	Commonly , the strength of this dependence decreases as the separation of observations in time increases . 
+58	To model this situation , one may replace the independent variable by its sliding mean z for a window size m . 
+59	In the scenario described in the previous section , most frequently the decrease in interaction strength obeys a negative exponential law . 
+60	If the observations are sampled at equidistant times , then exponential decrease is equivalent to decrease by a constant fraction <math>0<Delta<1</math > at each time step . 
+61	Setting w=1-Delta we can define m normalized weights by where V_1 is the sum of the unnormalized weights . 
+62	In this case V_1 is simply approaching V_1=1/(1-w ) for large values of m . 
+63	The damping constant w must correspond to the actual decrease of interaction strength . 
+64	If this cannot be determined from theoretical considerations , then the following properties of exponentially decreasing weights are useful in making a suitable choice : at step (1-w ) ^{-1} , the weight approximately equals {e^{-1} }(1-w )=0.39(1-w 
+65	) , the tail area the value e^{-1} , the head area {1-e^{-1} }=0.61 
+66	. 
+67	The tail area at step n is le {e^{-n(1-w) } } . 
+68	Where primarily the closest n observations matter and the effect of the remaining observations can be ignored safely , then choose w such that the tail area is sufficiently small . 
+69	The concept of weighted average can be extended to functions . 
+70	G. 
+71	H. 
+72	Hardy , J. 
+73	E. 
+74	Littlewood , and G. 
+75	Pólya . 
+76	Inequalities ( 2nd ed . 
+77	) , Cambridge University Press , ISBN 978-0521358804 , 1988 . 
+78	Weighted averages of functions play an important role in the systems of weighted differential and integral calculus . 
+79	Jane Grossman , Michael Grossman , Robert Katz . 
+80	, ISBN 0977117014 , 1980 . 
+81	Category :Means Category :Mathematical analysis Category :Summary statistics ar :وسيط وزني ca :Mitjana ponderada cs :Vážený průměr de : Gewichtetes Mittel et :Kaalutud keskmine es :Media ponderada eo:Laŭpeza aritmetika meznombro eu:Batezbesteko aritmetiko haztatu fr :Moyenne pondérée gl:Media ponderada he :ממוצע משוקלל hu:Súlyozott átlag nl:Gewogen gemiddelde pms :Media peisà pl :Średnia ważona ru:Среднее арифметическое взвешенное su:Weighted mean fi:Painotettu keskiarvo ta :எடையிடப்பட்ட சராசர ி tr:Ağırlıklı ortalama uk :Середнє зважене vi:Trung bình cộng có trọng số zh :加權平均數 Morning class = 62 , 67 , 71 , 74 , 76 , 77 , 78 , 79 , 79 , 80 , 80 , 81 , 81 , 82 , 83 , 84 , 86 , 89 , 93 , 98 Afternoon class = 81 , 82 , 83 , 84 , 85 , 86 , 87 , 87 , 88 , 88 , 89 , 89 , 89 , 90 , 90 , 90 , 90 , 91 , 91 , 91 , 92 , 92 , 93 , 93 , 94 , 95 , 96 , 97 , 98 , 99 bar{x } = frac{4300}{50} = 86 . 
+82	bar{x } = frac{( 20)80 + ( 30)90}{20 + 30 } = 86 . 
+83	{x_1 , x_2 , dots , x_n} , {w_1 , w_2 , dots , w_n} , bar{x } = frac{ sum_{i=1}^n w_i x_i}{sum_{i=1}^n w_i} , bar{x } = frac{w_1 x_1 + w_2 x_2 + cdots + w_n x_n }{w_1 + w_2 + cdots + w_n} . 
+84	bar{y } = frac{y_2 x_2 - y_1 x_1}{ x_2 - x_1 } frac{20}{20 + 30 } = 0.4 
+85	, frac{30}{20 + 30 } = 0.6 
+86	, bar{x } = frac{(0.4)80 
+87	+ ( 0.6)90}{0.4 
+88	+ 0.6} 
+89	= 86 . 
+90	bar{x } = ( 0.4)80 
+91	+ ( 0.6)90 
+92	= 86 . 
+93	E( x_i )=bar {x_i} , E( bar{x} ) = sum_{i=1}^n {w_i bar{x_i}} . 
+94	E( bar{x} ) = c. 
+95	, sigma( bar x ) = sqrt {sum_{i=1}^n {w_i^2 sigma^2_i}} . 
+96	V_2=sum_{i=1}^n {w_i^2} , w_i = frac{1}{sigma_i^2} . 
+97	bar{x } = frac{ sum_{i=1}^n ( x_i/{sigma_i}^2 ) } {sum_{i=1}^n ( 1/{sigma_i}^2 )} , sigma_{bar{x} }^2 = frac{ 1 }{sum_{i=1}^n ( 1/{sigma_i}^2 )} , sigma_{bar{x} }^2 rightarrow sigma_{bar{x} }^2 chi^2_nu , sigma_{bar{x} }^2 = frac{ 1 }{sum_{i=1}^n 1/{sigma_i}^2 } times frac{1}{ (n-1 ) } sum_{i=1}^n frac{ ( x_i - bar{x } )^2 } { sigma_i^2 } . 
+98	sigma^2 = frac{ sum_{i=1}^N{left( x_i - muright )^2 } } { N } sigma^2_mathrm{weighted } = frac{sum_{i=1}^N w_i left( x_i - mu^*right )^2 }{ V_1 } s^2 = frac {V_1 } {V_1^2-V_2 } sum_{i=1}^N w_i left( x_i - mu^*right )^2 , s^2 = frac {1 } {V_1 - 1} sum_{i=1}^N w_i left( x_i - mu^*right )^2 , W_i = Sigma_i^{-1} . 
+99	bar{mathbf{x} } = left( sum_{i=1}^n Sigma_i^{-1}right ) ^{-1}left( sum_{i=1}^n Sigma_i^{-1} mathbf{x }_iright ) , Sigma_{bar{mathbf{x}} } = left( sum_{i=1}^n Sigma_i^{-1}right ) ^{-1} , mathbf{x }_1 := [1 0]^top , qquad Sigma_1 := begin{bmatrix}1 &amp; 0\\ 0 &amp; 100end{bmatrix } mathbf{x }_2 := [ 0 1]^top , qquad Sigma_2 := begin{bmatrix}100 &amp; 0\\ 0 &amp; 1end{bmatrix } bar{mathbf{x} } = left( Sigma_1^{-1} + Sigma_2^{-1}right ) ^{-1} left( Sigma_1^{-1} mathbf{x }_1 + Sigma_2^{-1} mathbf{x }_2right ) =begin{bmatrix } 0.9901 
+100	&0 \\ 0&amp ; 0.9901end{bmatrix}begin{bmatrix}1\\1end{bmatrix 
+101	} = begin{bmatrix}0.9901 
+102	\\ 0.9901end{bmatrix 
+103	} =begin{bmatrix } 0.9901 
+104	&0 \\ 0&amp ; 0.9901end{bmatrix}begin{bmatrix}1\\1end{bmatrix 
+105	} = begin{bmatrix}0.9901 
+106	\\ 0.9901end{bmatrix 
+107	} sigma^2_bar{x }=( mathbf{ W}^T mathbf{C}^{-1} mathbf{ W} ) ^{-1} , bar{x } = sigma^2_bar{x } ( mathbf{ W}^T mathbf{C}^{-1} mathbf{X} ) . 
+108	z_k=sum_{i=1}^m w_i x_{k+1-i} . 
+109	w_i=frac {w^{i-1} }{ V_1 } , V_1=sum_{i=1}^m{w^{i-1} } = frac {1-w^{m} }{1-w} , Average Mean Distance-weighted estimator Summary statistics Central tendency Weight function Weighted least squares Weighted average cost of capital Weighting Weighted geometric mean Weighted harmonic mean Standard Deviation Bevington , Philip . 
+110	Data Reduction and Error Analysis for the Physical Sciences . 
+111	Weighted Mean WeightedMean David Terr 

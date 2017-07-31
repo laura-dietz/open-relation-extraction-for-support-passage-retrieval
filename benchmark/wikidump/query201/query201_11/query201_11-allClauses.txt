@@ -1,0 +1,26 @@
+0	SVC (S: Road@9, V: "is", C: component@16)	SVC (S: Road@9, V: "is", C: Corby@11)
+1	
+2	SVA (V: "be known", S: Components@2, A!: commonly@4, A?: as@6)	SVC (C: distributor@14, V: is@9, S: Components@2, A?: headquartered@15)	SVA (V: "be headquartered", S: distributor@14, A!: in@16)
+3	SVO (V: distributes@2, S: It@1, A?: to@3, O: most@8)
+4	
+5	SVA (V: founded@4, S: company@2, A!: in@5, A?: in@7, A?: under@9)	SVA (V: "be selling", S: Radiospares@12, O: parts@15, A!: for@16)
+6	SVC (V: became@3, S: television@2, A?: When@1, ACOMP: popular@4)	SVA (V: added@9, S: parts@7, A?: became@3, A!: to@10)	SVO (S: Radiospares@11, V: "has", O: list@14)
+7	SVA (V: evolved@12, S: company@10, A?: By@1, A!: into@13)
+8	SVO (V: expanded@8, S: founders@5, A?: In@1, O: focus@12)	SVO (S: company@10, V: "has", O: focus@12)
+9	SVA (V: completed@4, S: process@2, A!: in@5)
+10	SVC (C: part@4, V: is@3, S: Components@2, A?: of@5)	SVA (V: trades@11, S: group@8, A!: as@12, A?: across@14, A?: except@17)	SVO (V: trades@23, S: it@22, A?: where@21, A?: as@24, O: America@20)
+11	
+12	
+13	SVO (V: operates@2, S: Electrocomponents@1, A?: in@3, XCOMP: covering@7)	SVO (S: world@14, V: "has", O: GDP@16)
+14	
+15	SVA (V: "be covering", S: languages@18, O: countries@21)
+16	SVC (S: distributor@3, V: "is", C: most@18)
+17	SVA (V: served@3, S: Customers@1, A!: by@4, A?: in@7)
+18	SVO (S: Components@5, V: "has", O: facilities@7)	SVO (V: provide@11, S: facilities@7, A?: In@1, O: products@13, A?: to@15, A?: from@17)
+19	SVA (V: served@7, S: countries@2, A!: by@8)
+20	SVO (V: has@4, S: company@2, A?: also@3, O: warehouse@6)
+21	SVO (V: awarded@7, S: Components@5, A?: In@1, O: Strategy@10)
+22	SVC (C: employer@12, V: is@7, S: site@4)	SVO (S: town@9, V: "has", O: employer@12)
+23	SVO (V: sponsors@2, S: It@1, O: IET@4)
+24	SVO (V: has@3, S: It@1, A?: also@2, O: links@4)
+25	SVC (S: distributors@14, V: "is", C: Category@15)	SVA (V: "be based", S: Companies@17, A!: in@19)	SVC (C: US@32, V: is@30, S: Electronics@26)

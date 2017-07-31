@@ -1,0 +1,2159 @@
+0	Python 200pxOfficial Python Logo multi-paradigm : object-oriented , imperative , functional , procedural , reflective 1991 Guido van Rossum Python Software Foundation 3.2.2 
+1	/ yes 2011 09 04 2.7.2 
+2	/ yes 2011 06 11 3.3a0 
+3	http ://docs .python 
+4	.org/dev/ 
+5	dev/Python v3.3a0 
+6	documentation http ://docs .python 
+7	.org/dev/ 
+8	dev/Python v3.3a0 
+9	documentation duck , dynamic , strong CPython , IronPython , Jython , Python for S60 , PyPy Cython , RPython , Stackless Python ABC , ALGOL 68 , http ://www.amk 
+9	"9 documentation duck dynamic www.amk"	"is"	"strong CPython"	
+9	"9 documentation duck dynamic www.amk"	"is"	"IronPython"	
+9	"9 documentation duck dynamic www.amk"	"is"	"Jython"	
+9	"9 documentation duck dynamic www.amk"	"is"	"Python for S60"	
+9	"9 documentation duck dynamic www.amk"	"is"	"PyPy Cython"	
+9	"9 documentation duck dynamic www.amk"	"is"	"RPython"	
+9	"9 documentation duck dynamic www.amk"	"is"	"Stackless Python ABC"	
+9	"9 documentation duck dynamic www.amk"	"is"	"ALGOL 68"	
+9	"9 documentation duck dynamic www.amk"	"is"	"http"	
+10	.ca/python/writing/gvr-interview 
+11	Interview with Guido van Rossum ( 1998 ) Kuchling Andrew M. 
+12	amk .ca 
+13	22 Dec 2006 29 2007 http ://www.amk 
+14	.ca/python/writing/gvr-interview 
+15	Interview with Guido van Rossum ( 1998 ) Kuchling Andrew M. 
+16	amk .ca 
+17	22 Dec 2006 29 2007 C , van Rossum Guido 1993 An Introduction to Python for UNIX/C Programmers Proceedings of the NLUUG najaarsconferentie ( Dutch UNIX users group ) even though the design of C is far from ideal , its influence on Python is considerable . 
+17	"17 22 Dec 2006 29 2007 C An Introduction to Python for UNIX/C Programmers Proceedings of the NLUUG najaarsconferentie even though the design of C is far from ideal its influence on Python is considerable"	"is"	"van Rossum Guido 1993"	
+17	"the NLUUG najaarsconferentie"	"is"	"Dutch UNIX users group"	
+17	"its"	"has"	"influence on Python"	
+17	"its influence on Python"	"is"	"ideal considerable"	
+18	http ://citeseerx .ist.psu.edu/viewdoc/summary 
+19	?doi=10.1.1.38.2023 
+20	van Rossum Guido 1993 An Introduction to Python for UNIX/C Programmers Proceedings of the NLUUG najaarsconferentie ( Dutch UNIX users group ) even though the design of C is far from ideal , its influence on Python is considerable . 
+20	"the NLUUG najaarsconferentie"	"is"	"Dutch UNIX users group"	
+20	"its"	"has"	"influence on Python"	
+20	"its influence on Python"	"is"	"ideal considerable"	
+21	http ://citeseerx .ist.psu.edu/viewdoc/summary 
+22	?doi=10.1.1.38.2023 
+23	C++ , http ://docs .python 
+24	.org/tutorial/classes 
+25	.html 
+26	9 . 
+27	Classes - Python v2.7.1 
+28	documentation It is a mixture of the class mechanisms found in C++ and Modula-3 http ://docs .python 
+29	.org/tutorial/classes 
+30	.html 
+31	9 . 
+32	Classes - Python v2.7.1 
+33	documentation It is a mixture of the class mechanisms found in C++ and Modula-3 Haskell , Icon , Java , Lisp , Modula-3 , Perl Boo , Cobra , D , Falcon , Groovy , JavaScript , Ruby Cross-platform Python Software Foundation License .py 
+34	, .pyw 
+35	, .pyc 
+36	, .pyo 
+37	, .pyd 
+38	Python Programming Python is a general-purpose , high-level programming language http ://docs .python 
+39	.org/faq/general 
+40	.html#what-is-python-good-for 
+41	What is Python Good For ? 2008-09-05 General Python FAQ Python Software Foundation http ://docs .python 
+42	.org/faq/general 
+43	.html#what-is-python-good-for 
+44	What is Python Good For ? 2008-09-05 General Python FAQ Python Software Foundation whose design philosophy emphasizes code readability . 
+44	"2008-09-05 General Python FAQ Python Software Foundation"	"has"	"design philosophy"	
+44	"2008-09-05 General Python FAQ Python Software Foundation design philosophy"	"emphasizes"	"code readability"	
+45	http ://www.python 
+46	.org/doc/essays/blurb/ 
+47	What is Python ? Executive Summary Python Software Foundation Python documentation 2007-03-21 http ://www.python 
+48	.org/doc/essays/blurb/ 
+49	What is Python ? Executive Summary Python Software Foundation Python documentation 2007-03-21 Python claims to combine "remarkable power with very clear syntax" , http ://www.python 
+49	"Executive Summary Python Software Foundation Python documentation www.python"	"is"	"http"	
+49	"2007-03-21 Python"	"claims"	"to combine remarkable power with very clear syntax Executive Summary Python Software Foundation Python documentation www.python"	
+49	"2007-03-21 Python"	"claims"	"to combine remarkable power Executive Summary Python Software Foundation Python documentation www.python"	
+50	.org/doc/faq/general/#what-is-python 
+51	General Python FAQ python .org 
+52	Python Software Foundation 2009-06-27 http ://www.python 
+53	.org/doc/faq/general/#what-is-python 
+54	General Python FAQ python .org 
+55	Python Software Foundation 2009-06-27 and its standard library is large and comprehensive . 
+55	"its"	"has"	"standard library"	
+55	"55 Python Software Foundation 2009-06-27"	"is"	"large"	
+55	"55 Python Software Foundation its standard library"	"is"	"large"	
+55	"55 Python Software Foundation 2009-06-27"	"is"	"comprehensive"	
+55	"55 Python Software Foundation its standard library"	"is"	"comprehensive"	
+56	Its use of indentation for block delimiters is unique among popular programming languages . 
+56	"Its"	"has"	"56 use of indentation for block delimiters"	
+56	"56 Its use of indentation for block delimiters"	"is unique"	"among popular programming languages"	
+56	"56 Its use of indentation for block delimiters"	"is"	"unique"	
+57	Python supports multiple programming paradigm , primarily but not limited to object-oriented , imperative and , to a lesser extent , functional programming styles . 
+57	"57 Python"	"supports"	"multiple programming paradigm"	
+57	"57 Python"	"supports"	"multiple programming paradigm"	
+57	"57 Python"	"supports"	"multiple programming paradigm"	
+57	"57 Python"	"supports"	"multiple programming paradigm"	
+58	It features a fully dynamic type system and automatic memory management , similar to that of Scheme , Ruby , Perl , and Tcl . 
+58	"It"	"features"	"a fully dynamic type system similar to that of Scheme 58"	
+58	"It"	"features"	"a fully dynamic type automatic memory management similar to that of Scheme 58"	
+58	"It"	"features"	"a fully dynamic type automatic memory management similar to that of Ruby 58"	
+58	"It"	"features"	"a fully dynamic type automatic memory management similar to that of Perl 58"	
+58	"It"	"features"	"a fully dynamic type automatic memory management similar to that of Tcl 58"	
+58	"It"	"features"	"a fully dynamic type system similar to that of Ruby 58"	
+58	"It"	"features"	"a fully dynamic type system similar to that of Perl 58"	
+58	"It"	"features"	"a fully dynamic type system similar to that of Tcl 58"	
+59	Like other dynamic language , Python is often used as a scripting language , but is also used in a wide range of non-scripting contexts . 
+59	"Python"	"is used"	"as a scripting language often"	
+59	"Python"	"is used"	"as a scripting language"	
+59	"Python"	"is is used"	"in a wide range of non-scripting contexts often"	
+59	"Python"	"is is used"	"in a wide range of non-scripting contexts as a scripting language"	
+59	"Python"	"is is used"	"in a wide range of non-scripting contexts also"	
+59	"Python"	"is is used"	"in a wide range of non-scripting contexts"	
+60	Using third-party tools , Python code can be packaged into standalone executable programs . 
+60	"60"	"be Using"	"third-party tools"	
+60	"Python code"	"can be packaged"	"into standalone executable programs"	
+61	Python interpreters are available for many operating systems . 
+61	"61 Python interpreters"	"are available"	"for many operating systems"	
+61	"61 Python interpreters"	"are"	"available"	
+62	The reference implementation of Python ( CPython ) is free and open source software and has a community-based development model , as do all or nearly all of its alternative implementations . 
+62	"Python"	"is"	"CPython"	
+62	"62 The reference implementation of Python"	"is free"	"as do all of its alternative implementations"	
+62	"62 The reference implementation of Python"	"is free"	"as do nearly all of its alternative implementations"	
+62	"62 The reference implementation of Python"	"is open source software"	"as do all of its alternative implementations"	
+62	"62 The reference implementation of Python"	"is open source software"	"as do nearly all of its alternative implementations"	
+62	"62 The reference implementation of Python"	"is"	"free"	
+62	"62 The reference implementation of Python"	"is"	"open source software"	
+62	"62 The reference implementation of Python"	"is"	"has a community-based development model as do all of its alternative implementations"	
+62	"62 The reference implementation of Python"	"is"	"has a community-based development model as do nearly all of its alternative implementations"	
+62	"62 The reference implementation of Python"	"is"	"has a community-based development model"	
+62	"its"	"has"	"alternative implementations"	
+63	CPython is managed by the non-profit Python Software Foundation . 
+63	"63 CPython"	"is managed"	"by the non-profit Python Software Foundation"	
+64	History of Python thumbupright=0.7rightGuido 
+65	van Rossum _ the creator of Python Python was conceived in the late 1980s http ://www.artima.com/intv/pythonP.html 
+65	"65 van Rossum"	"_"	"the creator of Python Python www.artima.com/intv/pythonP.html"	
+66	The Making of Python 2007-03-22 Artima Developer http ://www.artima.com/intv/pythonP.html 
+67	The Making of Python 2007-03-22 Artima Developer and its implementation was started in December 1989 http ://python-history .blogspot.com/2009/01/brief-timeline-of-python 
+68	.html 
+69	A Brief Timeline of Python 2009-01-20 Guido van Rossum http ://python-history .blogspot.com/2009/01/brief-timeline-of-python 
+70	.html 
+71	A Brief Timeline of Python 2009-01-20 Guido van Rossum by Guido van Rossum at CWI in the Netherlands as a successor to the ABC programming language ( itself inspired by SETL ) http ://mail.python 
+71	"itself"	"inspired"	"by SETL http mail.python"	
+71	"itself"	"inspired"	"mail.python"	
+72	.org/pipermail/python-dev/2000-August/008881.html 
+73	SETL ( was : Lukewarm about range literals ) August 29 , 2000 2011-03-13 Python-Dev van Rossum Guido Guido van Rossum http ://mail.python 
+74	.org/pipermail/python-dev/2000-August/008881.html 
+75	SETL ( was : Lukewarm about range literals ) August 29 , 2000 2011-03-13 Python-Dev van Rossum Guido Guido van Rossum capable of exception handling and interfacing with the Amoeba operating system . 
+76	http ://www.python 
+77	.org/doc/faq/general/#why-was-python-created-in-the-first-place 
+78	General Python FAQ Python Programming Language – Official Website Python Software Foundation 2007-03-22 http ://www.python 
+79	.org/doc/faq/general/#why-was-python-created-in-the-first-place 
+80	General Python FAQ Python Programming Language – Official Website Python Software Foundation 2007-03-22 Van Rossum is Python 's principal author , and his continuing central role in deciding the direction of Python is reflected in the title given to him by the Python community , ''Benevolent Dictator for Life '' ( BDFL ) . 
+80	"80 General Python FAQ Python Programming Language Benevolent Dictator for Life"	"is"	"BDFL"	
+80	"Official Website Python Software Foundation 2007-03-22 Van Rossum"	"is"	"Python 's principal author 80 General Python FAQ Python Programming Language Benevolent Dictator for Life"	
+80	"Official Website Python Software Foundation 2007-03-22 Van Rossum"	"is"	"Python 's principal his continuing central role in deciding the direction of Python is reflected in the title given to him by the Python community 80 General Python FAQ Python Programming Language Benevolent Dictator for Life"	
+80	"Python"	"has"	"principal author"	
+80	"his"	"has"	"continuing central role in deciding the direction of Python is reflected in the title given to him by the Python community"	
+80	"the direction of Python"	"is reflected"	"in the title given to him by the Python community"	
+80	"the title"	"be given"	"to him by the Python community"	
+80	"the title"	"be given"	"to him"	
+81	Python 2.0 
+82	was released on 16 October 2000 , with many major new features including a full garbage collector and support for Unicode . 
+82	"82"	"was released"	"on 16 October 2000 with many major new features including a full garbage collector"	
+82	"82"	"was released"	"on 16 October 2000 with many major new features including a full garbage support for Unicode"	
+82	"82"	"was released"	"on 16 October 2000"	
+83	However , the most important change was to the development process itself , with a shift to a more transparent and community-backed process . 
+83	"the most important change"	"was"	"to the development process itself with a shift to a more transparent process"	
+83	"the most important change"	"was"	"to the development process itself with a shift to a more community-backed process"	
+83	"the most important change"	"was"	"to the development process itself"	
+84	http ://www.amk 
+85	.ca/python/2.0/ 
+86	What 's New in Python 2.0 
+86	"New in Python 2.0"	"'s"	"What"	
+87	A.M. 
+88	Kuchling and Moshe Zadka 2007-03-22 http ://www.amk 
+89	.ca/python/2.0/ 
+90	What 's New in Python 2.0 
+90	"New in Python 2.0"	"'s"	"What"	
+91	A.M. 
+92	Kuchling and Moshe Zadka 2007-03-22 Python 3.0 
+93	( also known as Python 3000 or py3k ) , a major , backwards-incompatible release , was released on 3 December 2008 http ://python .org/download/releases/3.0/ 
+94	Python 3.0 
+95	Release Python Software Foundation 2009-07-08 http ://python .org/download/releases/3.0/ 
+96	Python 3.0 
+97	Release Python Software Foundation 2009-07-08 after a long period of testing . 
+98	Many of its major features have been backport to the backwards-compatible Python 2.6 
+98	"its"	"has"	"major features"	
+98	"98 Many of its major features"	"have been backport 2.6"	"to the backwards-compatible Python"	
+98	"98 Many of its major features"	"have been"	"backport 2.6"	
+99	and 2.7 
+100	. 
+101	http ://www.python 
+102	.org/dev/peps/pep-3000/ 
+103	PEP 3000 -- Python 3000 van Rossum Guido 5 April 2006 Python Software Foundation 2009-06-27 http ://www.python 
+104	.org/dev/peps/pep-3000/ 
+105	PEP 3000 -- Python 3000 van Rossum Guido 5 April 2006 Python Software Foundation 2009-06-27 Python has twice been awarded as TIOBE Programming Language of the Year ( 2007 , 2010 ) , which is given to the language with the greatest growth in popularity over the course of the year ( as measured by the TIOBE index ) . 
+105	"5 April 2006 Python Software Foundation 2009-06-27 Python"	"has been awarded"	"3000 van Rossum Guido twice"	
+105	"5 April 2006 Python Software Foundation 2009-06-27 Python"	"has been awarded"	"as TIOBE Programming Language of the Year 3000 van Rossum Guido"	
+105	"5 April 2006 Python Software Foundation 2009-06-27 Python"	"has been awarded"	"3000 van Rossum Guido"	
+105	"the Year"	"is"	"2007 2010"	
+105	"the Year"	"is given"	"to the language with the greatest growth in popularity over the course of the year as measured by the TIOBE index"	
+106	http ://www.tiobe 
+107	.com/index.php/content/paperinfo/tpci/index 
+108	.html 
+109	TIOBE Programming Community Index for January 2011 January 2010 TIOBE Software 2011-01-10 http ://www.tiobe 
+109	"January"	"is"	"2011 January 2010 TIOBE Software 2011-01-10 http"	
+110	.com/index.php/content/paperinfo/tpci/index 
+111	.html 
+112	TIOBE Programming Community Index for January 2011 January 2010 TIOBE Software 2011-01-10 Python is a multi-paradigm programming language . 
+112	"TIOBE Software 2011-01-10 Python"	"is"	"a multi-paradigm programming language 2011 January 2010"	
+113	Rather than forcing programmers to adopt a particular style of programming , it permits several styles : object-oriented programming and structured programming are fully supported , and there are a number of language features which support functional programming and aspect-oriented programming ( including by metaprogramming http ://www.python 
+113	"it"	"permits"	"113 Rather than forcing programmers to adopt a particular style of programming several styles object-oriented programming are fully supported"	
+113	"it"	"permits"	"113 Rather than forcing programmers to adopt a particular style of programming several styles object-oriented structured programming are fully supported and there are a number of language features www.python"	
+113	"it"	"permits"	"113 Rather than forcing programmers to adopt a particular style of programming several styles object-oriented programming are fully there are a number of language features www.python"	
+113	"object-oriented programming"	"are supported"	"fully"	
+113	"object-oriented structured programming"	"are supported"	"fully"	
+113	"object-oriented programming"	"are supported"	
+113	"object-oriented structured programming"	"are supported"	
+113	"a number of language features www.python"	"there are"	
+113	"language features"	"support"	"functional programming"	
+113	"language features"	"support"	"functional aspect-oriented programming including by metaprogramming http"	
+113	"aspect-oriented programming"	"be including"	"by metaprogramming http"	
+114	.org/community/pycon/dc2004/papers/24/metaclasses-pycon.pdf 
+115	http ://www.webcitation 
+116	.org/5lubkaJRc 
+117	2009-12-10 PDF Python Metaclasses : Who ? Why ? When ? The Cain Gang Ltd. 
+118	2009-06-27 http ://www.python 
+119	.org/community/pycon/dc2004/papers/24/metaclasses-pycon.pdf 
+120	http ://www.webcitation 
+121	.org/5lubkaJRc 
+122	2009-12-10 PDF Python Metaclasses : Who ? Why ? When ? The Cain Gang Ltd. 
+123	2009-06-27 and by magic methods ) . 
+124	http ://docs .python 
+125	.org/3.0/reference/datamodel 
+126	.html#special-method-names 
+127	3.3 
+128	. 
+129	Special method names The Python Language Reference Python Software Foundation 2009-06-27 http ://docs .python 
+130	.org/3.0/reference/datamodel 
+131	.html#special-method-names 
+132	3.3 
+133	. 
+134	Special method names The Python Language Reference Python Software Foundation 2009-06-27 Many other paradigms are supported using extensions , such as pyDBC http ://www.nongnu.org/pydbc/ 
+134	"The Python Language Reference Python Software Foundation 2009-06-27 Many other paradigms"	"are supported"	"using extensions such as pyDBC http 134 Special method names www.nongnu.org/pydbc/"	
+135	Contracts for Python September 24 , 2011 http ://www.nongnu.org/pydbc/ 
+135	"Python September 24"	"is"	"2011 http"	
+136	Contracts for Python September 24 , 2011 and Contracts for Python http ://www.wayforward 
+137	.net/pycontract/ 
+138	Contracts for Python September 24 , 2011 http ://www.wayforward 
+138	"Python September 24"	"is"	"2011 http"	
+139	.net/pycontract/ 
+140	Contracts for Python September 24 , 2011 which allow design by contract . 
+140	"Python September 24 2011"	"allow"	"design by contract"	
+140	"Python September 24 2011"	"allow"	"design"	
+141	Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management . 
+141	"141 Python"	"uses"	"dynamic typing"	
+141	"141 Python"	"uses"	"dynamic a combination of reference counting"	
+141	"141 Python"	"uses"	"dynamic a combination of reference a cycle-detecting garbage collector for memory management"	
+142	An important feature of Python is dynamic name resolution ( late binding ) , which binds method and variable names during program execution . 
+142	"142 An important feature of Python"	"is"	"dynamic name resolution"	
+142	"142 An important feature of Python is dynamic name resolution"	"is"	"late binding"	
+142	"dynamic name resolution"	"binds"	"method during program execution"	
+142	"dynamic name resolution"	"binds"	"variable names during program execution"	
+142	"dynamic name resolution"	"binds"	"method"	
+142	"dynamic name resolution"	"binds"	"variable names"	
+143	Rather than requiring all desired functionality to be built into the language 's core , Python was designed to be highly extensible . 
+143	"all desired functionality"	"be built"	"into the language 's core"	
+143	"the language"	"has"	"core"	
+143	"Python"	"was designed"	"to be extensible highly"	
+143	"Python"	"was designed"	"to be extensible"	
+144	New built-in modules can be easily written in C , C++ or Cython . 
+144	"144 New built-in modules"	"can be written"	"in C easily"	
+144	"144 New built-in modules"	"can be written"	"in C++ easily"	
+144	"144 New built-in modules"	"can be written"	"in Cython easily"	
+144	"144 New built-in modules"	"can be written"	"in C"	
+144	"144 New built-in modules"	"can be written"	"in C++"	
+144	"144 New built-in modules"	"can be written"	"in Cython"	
+145	Python can also be used as an extension language for existing modules and applications that need a programmable interface . 
+145	"145 Python"	"can be used"	"as an extension language for existing modules also"	
+145	"145 Python"	"can be used"	"as an extension language for existing applications also"	
+145	"145 Python"	"can be used"	"as an extension language for existing modules"	
+145	"145 Python"	"can be used"	"as an extension language for existing applications"	
+145	"existing modules"	"need"	"a programmable interface"	
+145	"existing applications"	"need"	"a programmable interface"	
+146	This design of a small core language with a large standard library and an easily extensible interpreter was intended by Van Rossum from the very start because of his frustrations with ABC ( which espoused the opposite mindset ) . 
+146	"146 This design of a small core language with a large standard library"	"was intended"	"by Van Rossum from the very start"	
+146	"146 This of a small core language with a large standard library an easily extensible interpreter"	"was intended"	"by Van Rossum from the very start"	
+146	"146 This design of a small core language with a large standard library"	"was intended"	"by Van Rossum because of his frustrations with ABC"	
+146	"146 This of a small core language with a large standard library an easily extensible interpreter"	"was intended"	"by Van Rossum because of his frustrations with ABC"	
+146	"146 This design of a small core language with a large standard library"	"was intended"	"by Van Rossum"	
+146	"146 This of a small core language with a large standard library an easily extensible interpreter"	"was intended"	"by Van Rossum"	
+146	"his"	"has"	"frustrations with ABC"	
+146	"ABC"	"espoused"	"the opposite mindset"	
+147	The design of Python offers only limited support for functional programming in the Lisp tradition . 
+147	"147 The design of Python"	"offers"	"only limited support for functional programming in the Lisp tradition"	
+148	However , Python 's design philosophy exhibits significant similarities to those of minimalistic Lisp -family languages , such as Scheme . 
+148	"Python"	"has"	"design philosophy"	
+148	"Python 's design philosophy"	"exhibits"	"148 However significant similarities to those of minimalistic Lisp family languages such as Scheme"	
+149	November 2009 The language has map( ) , reduce( ) and filter( ) functions , and the list comprehensions added in Python 2.0 
+149	"The language"	"has reduce"	"filter functions 149 November 2009"	
+149	"The language"	"has reduce"	"filter the list comprehensions added in Python 2.0 149 November 2009"	
+149	"The language"	"has reduce"	"filter functions"	
+149	"The language"	"has reduce"	"filter the list comprehensions added in Python 2.0"	
+149	"comprehensions"	"be added"	"in Python 2.0"	
+150	have since been extended with comprehensions for dictionaries and sets , as well as generator expressions . 
+150	"150"	"have been extended"	"with comprehensions for dictionaries since"	
+150	"150"	"have been extended"	"with comprehensions for sets since"	
+150	"150"	"have been extended"	"with comprehensions for dictionaries"	
+150	"150"	"have been extended"	"with comprehensions for sets"	
+150	"150"	"have been generator expressions"	"since"	
+150	"150"	"have been generator expressions"	"with comprehensions for dictionaries"	
+150	"150"	"have been generator expressions"	"with comprehensions for sets"	
+150	"150"	"have been generator expressions"	
+151	The standard library has two modules ( itertools and functools ) that implement functional tools borrowed from Haskell and Standard ML . 
+151	"151 The standard library"	"has"	"two modules itertools"	
+151	"151 The standard library"	"has"	"two modules functools"	
+151	"two modules itertools"	"implement"	"functional tools borrowed from Haskell"	
+151	"two modules itertools"	"implement"	"functional tools borrowed from Standard ML"	
+151	"two modules functools"	"implement"	"functional tools borrowed from Haskell"	
+151	"two modules functools"	"implement"	"functional tools borrowed from Standard ML"	
+151	"functional tools"	"be borrowed"	"from Haskell"	
+151	"functional tools"	"be borrowed"	"from Standard ML"	
+152	http ://docs .python 
+153	.org/lib/module-itertools 
+154	.html 
+155	6.5 
+156	itertools - Functions creating iterators for efficient looping Docs .python 
+157	.org 
+158	2008-11-24 http ://docs .python 
+159	.org/lib/module-itertools 
+160	.html 
+161	6.5 
+162	itertools - Functions creating iterators for efficient looping Docs .python 
+163	.org 
+164	2008-11-24 While offering choice in coding methodology , the Python philosophy rejects exuberant syntax , such as in Perl , in favor of a sparser , less-cluttered grammar . 
+164	"the Python philosophy"	"rejects"	"164 2008-11-24 While offering choice in coding methodology exuberant syntax such as in Perl in favor of a sparser less-cluttered grammar"	
+165	Python 's developers expressly promote a particular " culture " or ideology based on what they want the language to be , favoring language forms they see as "beautiful" , "explicit " and " simple " . 
+165	"165 Python"	"has"	"developers"	
+165	"165 Python 's developers"	"promote"	"a particular culture based on what they want the language to be favoring language forms expressly"	
+165	"165 Python 's developers"	"promote"	"a particular ideology based on what they want the language to be favoring language forms expressly"	
+165	"165 Python 's developers"	"promote"	"a particular culture based on what they want the language to be favoring language forms"	
+165	"165 Python 's developers"	"promote"	"a particular ideology based on what they want the language to be favoring language forms"	
+165	"a particular culture"	"be based"	"on what they want the language to be favoring language forms"	
+165	"a particular ideology"	"be based"	"on what they want the language to be favoring language forms"	
+165	"they"	"want"	"what the language to be favoring language forms"	
+165	"they"	"see"	"as beautiful explicit language forms"	
+165	"they"	"see"	"as beautiful simple language forms"	
+165	"they"	"see"	"language forms"	
+166	As Alex Martelli put it in his Python Cookbook ( 2nd ed . 
+166	"Alex Martelli"	"put"	"it in his Python Cookbook 2nd ed"	
+166	"his"	"has"	"Python Cookbook 2nd ed"	
+167	, p.&nbsp;230 
+168	) : " To describe something as clever is NOT considered a compliment in the Python culture . 
+168	"clever"	"is considered"	"a compliment in the Python culture NOT"	
+168	"clever"	"is considered"	"a compliment in the Python culture"	
+169	" Python 's philosophy rejects the Perl " there is more than one way to do it " approach to language design in favor of " there should be one—and preferably only one—obvious way to do it " . 
+169	"Python"	"has"	"philosophy"	
+169	"Python 's philosophy"	"rejects"	"the Perl"	
+169	"more than one way to do it"	"there is"	
+169	"more than one way"	"be do"	"it"	
+169	"obvious way it"	"be do"	
+170	http ://www.python 
+171	.org/dev/peps/pep-0020/ 
+172	PEP 20 - The Zen of Python Python Software Foundation 2004-08-23 2008-11-24 http ://www.python 
+173	.org/dev/peps/pep-0020/ 
+174	PEP 20 - The Zen of Python Python Software Foundation 2004-08-23 2008-11-24 Python 's developers eschew premature optimization , and moreover , reject patches to non-critical parts of CPython which would offer a marginal increase in speed at the cost of clarity . 
+174	"Python Python Software Foundation 2004-08-23 2008-11-24 Python"	"has"	"developers"	
+174	"The Zen of Python Python Software Foundation 2004-08-23 2008-11-24 Python 's developers"	"eschew"	"premature optimization moreover"	
+174	"The Zen of Python Python Software Foundation 2004-08-23 2008-11-24 Python 's developers"	"eschew"	"premature optimization"	
+174	"174 PEP 20 The Zen of Python Python Software Foundation 2004-08-23 2008-11-24 Python 's developers eschew premature optimization moreover"	"reject"	"patches to non-critical parts of CPython"	
+174	"174 PEP 20 The Zen of Python Python Software Foundation 2004-08-23 2008-11-24 Python 's developers eschew premature optimization moreover"	"reject"	"patches"	
+174	"non-critical parts of CPython"	"would offer"	"a marginal increase in speed at the cost of clarity"	
+174	"non-critical parts of CPython"	"would offer"	"a marginal increase in speed"	
+175	April 2011 April 2011 Python is sometimes described as " slow" . 
+175	"175 April 2011 April 2011 Python"	"is described"	"sometimes"	
+175	"175 April 2011 April 2011 Python"	"is described"	
+176	http ://peter.mapledesign.co.uk/weblog/archives/python-is-slow 
+177	Python is ... 
+177	"177 Python"	"is"	
+178	slow ? September 24 , 2011 December 21st , 2004 http ://peter.mapledesign.co.uk/weblog/archives/python-is-slow 
+179	Python is ... 
+179	"179 Python"	"is"	
+180	slow ? September 24 , 2011 December 21st , 2004 However most problems and sections of programs are not speed critical . 
+180	"2004 However most problems"	"are not speed"	"critical"	
+180	"2004 However most sections of programs"	"are not speed"	"critical"	
+181	September 2011 When speed is important , Python programmers tend to try using a JIT compiler such as Psyco or using an alternative language implementation such as PyPy . 
+181	"speed"	"is"	"important September 2011 When"	
+181	"speed"	"is"	"important September 2011"	
+181	"181 September 2011 Python programmers"	"tend"	"to try using a JIT compiler such as Psyco"	
+181	"181 September 2011 Python programmers"	"tend"	"to try a JIT compiler such as Psyco using an alternative language implementation such as PyPy"	
+182	When pure Python code is not fast enough , time-critical functions can be rewritten in " closer to the metal " languages such as C , or by translating ( a dialect of ) Python code to C code using tools like Cython . 
+182	"pure Python code"	"is not fast"	"When"	
+182	"pure Python code"	"is not fast"	"enough"	
+182	"pure Python code"	"is not"	"fast"	
+182	"time-critical functions"	"can be rewritten"	"182 When pure Python code is not fast enough"	
+182	"time-critical functions"	"can be rewritten"	"in closer to the metal languages such as C 182"	
+182	"time-critical functions"	"can be rewritten"	"in closer to the metal languages such as by translating a dialect of Python code to C code using tools like Cython 182"	
+182	"time-critical functions"	"can be rewritten"	"182"	
+182	"translating a dialect of Python code to C code"	"be using"	"tools like Cython"	
+183	http ://www.python 
+184	.org/doc/essays/list2str 
+185	.html 
+186	Python Patterns - An Optimization Anecdote Python .org 
+187	2011-04-19 http ://www.python 
+188	.org/doc/essays/list2str 
+189	.html 
+190	Python Patterns - An Optimization Anecdote Python .org 
+191	2011-04-19 The core philosophy of the language is summarized by the document " PEP 20 ( The Zen of Python ) " . 
+191	"191 2011-04-19 The core philosophy of the language"	"is summarized"	"by the document"	
+191	"191 2011-04-19 The core philosophy of the language"	"is summarized"	"by the PEP 20 The Zen of Python"	
+192	An important goal of the Python developers is making Python fun to use . 
+192	"192 An important goal of the Python developers"	"is making"	"Python fun to use"	
+192	"Python"	"fun"	"to use"	
+192	"Python fun"	"be use"	
+193	This is reflected in the origin of the name ( derived from the television series Monty Python 's Flying Circus ) , in the common practice of using Monty Python references in example code , and in an occasionally playful approach to tutorials and reference materials . 
+193	"This"	"is reflected"	"in the origin of the name derived from the television series Monty Python 's Flying Circus in the common practice of using Monty Python references in example code"	
+193	"This"	"is reflected"	"in the origin of the name derived from the television series Monty Python 's Flying Circus"	
+193	"This"	"is in"	"an occasionally playful approach to tutorials in the origin of the name derived from the television series Monty Python 's Flying Circus"	
+193	"This"	"is in"	"an occasionally playful approach to reference materials in the origin of the name derived from the television series Monty Python 's Flying Circus"	
+193	"This"	"is in"	"an occasionally playful approach to tutorials in the common practice of using Monty Python references in example code"	
+193	"This"	"is in"	"an occasionally playful approach to reference materials in the common practice of using Monty Python references in example code"	
+193	"This"	"is in"	"an occasionally playful approach to tutorials"	
+193	"This"	"is in"	"an occasionally playful approach to reference materials"	
+193	"the television series Monty Python"	"has"	"Flying Circus"	
+194	http ://docs .python 
+195	.org/tut/node3.html 
+196	Python Tutorial Docs .python 
+197	.org 
+198	2011-04-19 http ://docs .python 
+199	.org/tut/node3.html 
+200	Python Tutorial Docs .python 
+201	.org 
+202	2011-04-19 http ://learnpythonthehardway .org 
+203	Learn Python the Hard Way learnpythonthehardway .org 
+204	2011 http ://learnpythonthehardway .org 
+205	Learn Python the Hard Way learnpythonthehardway .org 
+206	2011 For example , the metasyntactic variables often used in Python literature are ''spam '' and ''eggs '' , http ://docs .python 
+207	.org/tut/node3.html 
+208	Python Tutorial docs .python 
+209	.org 
+210	2011-05-06 http ://stackoverflow.com/questions/5033906/in-python-should-i-use-else-after-a-return-in-an-if-block 
+211	Stack overflow , Python question stackoverflow.com 
+211	"211 Stack overflow"	"is"	"Python question stackoverflow.com"	
+212	2011-05-06 For example , see the Python docs such as http ://docs .python 
+213	.org/tut/node3.html 
+214	Python Tutorial docs .python 
+215	.org 
+216	2011-05-06 and other examples such as http ://stackoverflow.com/questions/5033906/in-python-should-i-use-else-after-a-return-in-an-if-block 
+217	Stack overflow , Python question stackoverflow.com 
+217	"217 Stack overflow"	"is"	"Python question stackoverflow.com"	
+218	2011-05-06 instead of the traditional ''foo '' and ''bar '' . 
+219	A common neologism in the Python community is pythonic , which can have a wide range of meanings related to program style . 
+219	"219 A common neologism in the Python community"	"is"	"pythonic which can have a wide range of meanings related to program style"	
+219	"which"	"can have"	"a wide range of meanings related to program style"	
+219	"meanings"	"be related"	"to program style"	
+220	To say that code is pythonic is to say that it uses Python idioms well , that it is natural or shows fluency in the language . 
+220	"220"	"be say"	"that code is pythonic"	
+220	"code"	"is"	"pythonic"	
+220	"220 To say that code is pythonic"	"is"	"to say that it uses Python idioms well that it is natural fluency in the language"	
+220	"220 To say that code is pythonic"	"is"	"to say that it uses Python idioms well that it is shows fluency in the language"	
+220	"it"	"uses"	"Python idioms well"	
+220	"it"	"uses"	"Python idioms"	
+220	"it"	"is"	"natural fluency in the language"	
+220	"it"	"is"	"shows fluency in the language"	
+221	Likewise , to say of an interface or language feature that it is pythonic is to say that it works well with Python idioms , that its use meshes well with the rest of the language . 
+221	"221 Likewise"	"to say"	"of an interface"	
+221	"221 Likewise"	"to say"	"of an language feature"	
+221	"it"	"is"	"pythonic"	
+221	"that it is pythonic"	"is to"	"say that it works well with Python idioms that its use meshes well with the rest of the language an interface"	
+221	"that it is pythonic"	"is to"	"say that it works well with Python idioms that its use meshes well with the rest of the language an language feature"	
+221	"it"	"works"	"well that its use meshes well with the rest of the language"	
+221	"it"	"works"	"with Python idioms that its use meshes well with the rest of the language"	
+221	"it"	"works"	"that its use meshes well with the rest of the language"	
+221	"its"	"has"	"use"	
+221	"its use"	"meshes"	"well with the rest of the language"	
+221	"its use"	"meshes"	"well"	
+222	In contrast , a mark of unpythonic code is that it attempts to write C++ ( or Lisp , Perl , or Java ) code in Python —that is , provides a rough transcription rather than an idiomatic translation of forms from another language . 
+222	"222 In contrast"	"is"	"a mark of unpythonic code"	
+222	"222 In contrast"	"is"	"that it attempts to write C++ Lisp code in Python"	
+222	"222 In contrast"	"is"	"that it attempts to write C++ Perl code in Python"	
+222	"222 In contrast"	"is"	"that it attempts to write C++ Java code in Python"	
+222	"it"	"attempts"	"to write C++ Lisp code in Python"	
+222	"it"	"attempts"	"to write C++ Perl code in Python"	
+222	"it"	"attempts"	"to write C++ Java code in Python"	
+222	"it"	"attempts"	"to write C++ Lisp code"	
+222	"it"	"attempts"	"to write C++ Perl code"	
+222	"it"	"attempts"	"to write C++ Java code"	
+222	"that"	"is provides"	"a rough transcription"	
+222	"that"	"is provides"	"a rough an idiomatic translation of forms from another language"	
+223	The concept of pythonicity is tightly bound to Python 's minimalist philosophy of readability and avoiding the " there 's more than one way to do it " approach . 
+223	"223 The concept of pythonicity"	"is bound"	"to Python 's minimalist philosophy of readability tightly"	
+223	"223 The concept of pythonicity"	"is bound"	"to Python 's minimalist philosophy of readability"	
+223	"223 The concept of pythonicity"	"is avoiding"	"the there 's more than one way to do it approach tightly"	
+223	"223 The concept of pythonicity"	"is avoiding"	"the there 's more than one way to do it approach to Python 's minimalist philosophy of readability"	
+223	"223 The concept of pythonicity"	"is avoiding"	"the there 's more than one way to do it approach"	
+223	"Python"	"has"	"minimalist philosophy of readability"	
+223	"more than one way to do it"	"there 's"	
+223	"more than one way"	"be do"	"it"	
+223	"the there 's more than one way to do it"	"has"	"approach"	
+224	Unreadable code or incomprehensible idioms are unpythonic . 
+224	"224 Unreadable code"	"are"	"unpythonic"	
+224	"224 Unreadable incomprehensible idioms"	"are"	"unpythonic"	
+225	Users and admirers of Python —most especially those considered knowledgeable or experienced—are often referred to as Pythonists , Pythonistas , and Pythoneers . 
+225	"most especially those"	"be considered"	"knowledgeable"	
+225	"most especially those"	"be considered"	"experienced"	
+225	"225 Users most especially those considered knowledgeable"	"are referred"	"to as Pythonists often"	
+225	"225 Users most especially those considered knowledgeable"	"are referred"	"to as Pythonistas often"	
+225	"225 Users most especially those considered knowledgeable"	"are referred"	"to as Pythoneers often"	
+225	"225 admirers of Python most especially those considered knowledgeable"	"are referred"	"to as Pythonists often"	
+225	"225 admirers of Python most especially those considered knowledgeable"	"are referred"	"to as Pythonistas often"	
+225	"225 admirers of Python most especially those considered knowledgeable"	"are referred"	"to as Pythoneers often"	
+225	"225 admirers of Python most especially those considered experienced"	"are referred"	"to as Pythonists often"	
+225	"225 admirers of Python most especially those considered experienced"	"are referred"	"to as Pythonistas often"	
+225	"225 admirers of Python most especially those considered experienced"	"are referred"	"to as Pythoneers often"	
+225	"225 Users most especially those considered experienced"	"are referred"	"to as Pythonists often"	
+225	"225 Users most especially those considered experienced"	"are referred"	"to as Pythonistas often"	
+225	"225 Users most especially those considered experienced"	"are referred"	"to as Pythoneers often"	
+225	"225 Users most especially those considered knowledgeable"	"are referred"	"to as Pythonists"	
+225	"225 Users most especially those considered knowledgeable"	"are referred"	"to as Pythonistas"	
+225	"225 Users most especially those considered knowledgeable"	"are referred"	"to as Pythoneers"	
+225	"225 admirers of Python most especially those considered knowledgeable"	"are referred"	"to as Pythonists"	
+225	"225 admirers of Python most especially those considered knowledgeable"	"are referred"	"to as Pythonistas"	
+225	"225 admirers of Python most especially those considered knowledgeable"	"are referred"	"to as Pythoneers"	
+225	"225 admirers of Python most especially those considered experienced"	"are referred"	"to as Pythonists"	
+225	"225 admirers of Python most especially those considered experienced"	"are referred"	"to as Pythonistas"	
+225	"225 admirers of Python most especially those considered experienced"	"are referred"	"to as Pythoneers"	
+225	"225 Users most especially those considered experienced"	"are referred"	"to as Pythonists"	
+225	"225 Users most especially those considered experienced"	"are referred"	"to as Pythonistas"	
+225	"225 Users most especially those considered experienced"	"are referred"	"to as Pythoneers"	
+226	http ://python .net/~goodger/projects/pycon/2007/idiomatic/handout 
+227	.html 
+228	Code Like a Pythonista : Idiomatic Python David Goodger http ://python .net/crew/mwh/hacks/objectthink 
+229	.html 
+230	How to think like a Pythonista http ://python .net/~goodger/projects/pycon/2007/idiomatic/handout 
+231	.html 
+232	Code Like a Pythonista : Idiomatic Python David Goodger ; http ://python .net/crew/mwh/hacks/objectthink 
+233	.html 
+234	How to think like a Pythonista The prefix Py can be used to show that something is related to Python . 
+234	"234"	"be think"	"How like a Pythonista The prefix Py"	
+234	"234"	"be think"	"How"	
+234	"234 How to think like a Pythonista The prefix Py"	"can be used"	"to show that something is related to Python"	
+234	"something"	"is related"	"to Python"	
+235	Examples of the use of this prefix in names of Python applications or libraries include Pygame , a binding of SDL to Python ( commonly used to create games ) ; PyS60 , an implementation for the Symbian Series 60 Operating System ; PyQt and PyGTK , which bind Qt and GTK , respectively , to Python ; and PyPy , a Python implementation written in Python . 
+235	"235 Examples of the use of this prefix in names of Python applications"	"include"	"Pygame"	
+235	"235 Examples of the use of this prefix in names of Python applications"	"include"	"PyS60"	
+235	"235 Examples of the use of this prefix in names of Python applications"	"include"	"PyQt respectively to Python"	
+235	"235 Examples of the use of this prefix in names of Python applications"	"include"	"PyQt PyGTK respectively to Python"	
+235	"235 Examples of the use of this prefix in names of Python applications"	"include"	"PyPy"	
+235	"235 Examples of the use of this prefix in names of Python libraries"	"include"	"Pygame"	
+235	"235 Examples of the use of this prefix in names of Python libraries"	"include"	"PyS60"	
+235	"235 Examples of the use of this prefix in names of Python libraries"	"include"	"PyQt respectively to Python"	
+235	"235 Examples of the use of this prefix in names of Python libraries"	"include"	"PyQt PyGTK respectively to Python"	
+235	"235 Examples of the use of this prefix in names of Python libraries"	"include"	"PyPy"	
+235	"Pygame"	"is"	"a binding of SDL to Python commonly used to create games"	
+235	"PyS60"	"is"	"a binding of SDL to Python commonly used to create games"	
+235	"PyQt respectively to Python"	"is"	"a binding of SDL to Python commonly used to create games"	
+235	"PyQt PyGTK respectively to Python"	"is"	"a binding of SDL to Python commonly used to create games"	
+235	"PyPy"	"is"	"a binding of SDL to Python commonly used to create games"	
+235	"PyS60"	"is"	"an implementation for the Symbian Series 60 Operating System"	
+235	"PyQt respectively to Python"	"bind"	"Qt"	
+235	"PyQt respectively to Python"	"bind"	"GTK"	
+235	"PyGTK respectively to Python"	"bind"	"Qt"	
+235	"PyGTK respectively to Python"	"bind"	"GTK"	
+235	"PyPy"	"is"	"a Python implementation written in Python"	
+235	"a Python implementation"	"be written"	"in Python"	
+236	The prefix is also used outside of naming software packages : the major Python conference is named PyCon . 
+236	"236 The prefix"	"is used"	"outside of naming software packages also"	
+236	"236 The prefix"	"is used"	"outside of naming software packages"	
+236	"the major Python conference"	"is named"	"PyCon"	
+237	Python software Python is often used as a scripting language for web application , e.g 
+237	"237 Python software Python"	"is used"	"as a scripting language for web application often"	
+237	"237 Python software Python"	"is used"	"as a scripting language for web application"	
+238	. 
+239	via mod_wsgi for the Apache web server . 
+240	With Web Server Gateway Interface , a standard API has been developed to facilitate these applications . 
+240	"240 With Web Server Gateway Interface"	"a standard API has been developed"	"to facilitate these applications"	
+240	"a standard API"	"240 With Web Server Gateway Interface has been developed"	"to facilitate these applications"	
+241	Web application framework like Django , Pylons , TurboGears , web2py , Flask and Zope support developers in the design and maintenance of complex applications . 
+241	"241 Web application framework like Django"	"support"	"developers in the design of complex applications"	
+241	"241 Web application framework like Django"	"support"	"developers in the maintenance of complex applications"	
+241	"241 Web application framework like Pylons"	"support"	"developers in the design of complex applications"	
+241	"241 Web application framework like Pylons"	"support"	"developers in the maintenance of complex applications"	
+241	"241 Web application framework like TurboGears"	"support"	"developers in the design of complex applications"	
+241	"241 Web application framework like TurboGears"	"support"	"developers in the maintenance of complex applications"	
+241	"241 Web application framework like web2py"	"support"	"developers in the design of complex applications"	
+241	"241 Web application framework like web2py"	"support"	"developers in the maintenance of complex applications"	
+241	"241 Web application framework like Flask"	"support"	"developers in the design of complex applications"	
+241	"241 Web application framework like Flask"	"support"	"developers in the maintenance of complex applications"	
+241	"241 Web application framework like Zope"	"support"	"developers in the design of complex applications"	
+241	"241 Web application framework like Zope"	"support"	"developers in the maintenance of complex applications"	
+241	"241 Web application framework like Django"	"support"	"developers"	
+241	"241 Web application framework like Pylons"	"support"	"developers"	
+241	"241 Web application framework like TurboGears"	"support"	"developers"	
+241	"241 Web application framework like web2py"	"support"	"developers"	
+241	"241 Web application framework like Flask"	"support"	"developers"	
+241	"241 Web application framework like Zope"	"support"	"developers"	
+242	Libraries like NumPy , SciPy and Matplotlib allow Python to be used effectively in scientific computing . 
+242	"242 Libraries like NumPy"	"allow"	"Python to be used effectively in scientific computing"	
+242	"242 Libraries like NumPy"	"allow"	"Python to be used effectively"	
+242	"242 Libraries like SciPy"	"allow"	"Python to be used effectively in scientific computing"	
+242	"242 Libraries like SciPy"	"allow"	"Python to be used effectively"	
+242	"242 Libraries like Matplotlib"	"allow"	"Python to be used effectively in scientific computing"	
+242	"242 Libraries like Matplotlib"	"allow"	"Python to be used effectively"	
+243	Python has been successfully embedded in a number of software products as a scripting language , including in finite element method software such as Abaqus , 3D animation packages such as Houdini , Maya , MotionBuilder , Softimage , Cinema 4D , modo and Blender and 2D imaging programs like GIMP , Inkscape , Scribus and Paint Shop Pro . 
+243	"243 Python"	"has been embedded"	"in a number of software products successfully"	
+243	"243 Python"	"has been embedded"	"in a number of software products as a scripting language including in finite element method software such as Abaqus"	
+243	"243 Python"	"has been embedded"	"in a number of software products"	
+243	"a scripting language"	"be including"	"in finite element method software such as Abaqus"	
+243	"Abaqus"	"is"	"3D animation packages such as Houdini like GIMP"	
+243	"Abaqus"	"is"	"3D animation packages such as Maya like GIMP"	
+243	"Abaqus"	"is"	"3D animation packages such as Maya like Inkscape"	
+243	"Abaqus"	"is"	"3D animation packages such as Maya like Scribus"	
+243	"Abaqus"	"is"	"3D animation packages such as Maya like Paint Shop Pro"	
+243	"Abaqus"	"is"	"3D animation packages such as MotionBuilder like GIMP"	
+243	"Abaqus"	"is"	"3D animation packages such as MotionBuilder like Inkscape"	
+243	"Abaqus"	"is"	"3D animation packages such as MotionBuilder like Scribus"	
+243	"Abaqus"	"is"	"3D animation packages such as MotionBuilder like Paint Shop Pro"	
+243	"Abaqus"	"is"	"3D animation packages such as Softimage like GIMP"	
+243	"Abaqus"	"is"	"3D animation packages such as Softimage like Inkscape"	
+243	"Abaqus"	"is"	"3D animation packages such as Softimage like Scribus"	
+243	"Abaqus"	"is"	"3D animation packages such as Softimage like Paint Shop Pro"	
+243	"Abaqus"	"is"	"3D animation packages such as Cinema 4D like GIMP"	
+243	"Abaqus"	"is"	"3D animation packages such as Cinema 4D like Inkscape"	
+243	"Abaqus"	"is"	"3D animation packages such as Cinema 4D like Scribus"	
+243	"Abaqus"	"is"	"3D animation packages such as Cinema 4D like Paint Shop Pro"	
+243	"Abaqus"	"is"	"3D animation packages such as modo like GIMP"	
+243	"Abaqus"	"is"	"3D animation packages such as modo like Inkscape"	
+243	"Abaqus"	"is"	"3D animation packages such as modo like Scribus"	
+243	"Abaqus"	"is"	"3D animation packages such as modo like Paint Shop Pro"	
+243	"Abaqus"	"is"	"3D animation packages such as Blender like GIMP"	
+243	"Abaqus"	"is"	"3D animation packages such as Blender like Inkscape"	
+243	"Abaqus"	"is"	"3D animation packages such as Blender like Scribus"	
+243	"Abaqus"	"is"	"3D animation packages such as Blender like Paint Shop Pro"	
+243	"Abaqus"	"is"	"3D animation packages such as 2D imaging programs like GIMP"	
+243	"Abaqus"	"is"	"3D animation packages such as 2D imaging programs like Inkscape"	
+243	"Abaqus"	"is"	"3D animation packages such as 2D imaging programs like Scribus"	
+243	"Abaqus"	"is"	"3D animation packages such as 2D imaging programs like Paint Shop Pro"	
+243	"Abaqus"	"is"	"3D animation packages such as Houdini like Inkscape"	
+243	"Abaqus"	"is"	"3D animation packages such as Houdini like Scribus"	
+243	"Abaqus"	"is"	"3D animation packages such as Houdini like Paint Shop Pro"	
+244	Documentation of the PSP Scripting API can be found at GNU GDB uses Python as a pretty printer to show complex structures such as C++ containers . 
+244	"244 Documentation of the PSP Scripting API"	"can be found"	"at GNU GDB uses Python as a pretty printer to show complex structures such as C++ containers"	
+244	"GNU GDB"	"uses"	"Python as a pretty printer to show complex structures such as C++ containers"	
+244	"GNU GDB"	"uses"	"Python"	
+244	"a pretty printer"	"be show"	"complex structures such as C++ containers"	
+245	ESRI is now promoting Python as the best choice for writing scripts in ArcGIS . 
+245	"245 ESRI"	"is promoting"	"Python now"	
+245	"245 ESRI"	"is promoting"	"Python as the best choice for writing scripts in ArcGIS"	
+245	"245 ESRI"	"is promoting"	"Python"	
+246	GIS job market and programming ? http ://whygeo.com/questions/56/gis-job-market-and-programming 
+247	2010 November Oct 2010 GIS job market and programming ? http ://whygeo.com/questions/56/gis-job-market-and-programming 
+248	2010 November Oct 2010 About getting started with writing geoprocessing scripts http ://webhelp.esri.com/arcgisdesktop/9.2/index.cfm? 
+248	"Oct 2010"	"be started"	"About with writing geoprocessing scripts"	
+248	"Oct 2010"	"be started"	"About"	
+248	"November Oct 2010 About getting started with writing geoprocessing scripts"	"http"	
+249	TopicName=About_getting_started_with_writing_geoprocessing_scripts 2006 November April 2007 About getting started with writing geoprocessing scripts http ://webhelp.esri.com/arcgisdesktop/9.2/index.cfm? 
+249	"About_getting_started_with_writing_geoprocessing_scripts 2006 November April 2007 About getting started with writing geoprocessing scripts"	"http"	
+250	TopicName=About_getting_started_with_writing_geoprocessing_scripts 2006 November April 2007 It has even been used in several video games , http ://myeve .eve-online 
+251	.com/devblog 
+252	.asp 
+253	?a=blog&bid=488 Stackless Python 2.5 
+254	CCP Games 2007-07-23 porkbelly Eve Insider Dev Blog As you may well know , your favorite space-game owes its existence to the programming language Python http ://www.webcitation 
+254	"you"	"may know"	"well"	
+254	"you"	"may know"	
+254	"your"	"has"	"favorite space-game"	
+254	"your favorite space-game"	"254 CCP Games owes"	"its existence www.webcitation As you may well know"	
+254	"your favorite space-game"	"254 CCP Games owes"	"its existence to the programming language Python http www.webcitation"	
+254	"your favorite space-game"	"254 CCP Games owes"	"its existence www.webcitation"	
+254	"254 CCP Games 2007-07-23 porkbelly Eve Insider Dev Blog"	"your favorite space-game owes"	"its existence www.webcitation As you may well know"	
+254	"254 CCP Games 2007-07-23 porkbelly Eve Insider Dev Blog"	"your favorite space-game owes"	"its existence to the programming language Python http www.webcitation"	
+254	"254 CCP Games 2007-07-23 porkbelly Eve Insider Dev Blog"	"your favorite space-game owes"	"its existence www.webcitation"	
+254	"its"	"has"	"existence"	
+255	.org/5ru5w3vSR 
+256	2010-08-10 http ://myeve .eve-online 
+257	.com/devblog 
+258	.asp 
+259	?a=blog&bid=488 Stackless Python 2.5 
+260	CCP Games 2007-07-23 porkbelly Eve Insider Dev Blog As you may well know , your favorite space-game owes its existence to the programming language Python http ://www.webcitation 
+260	"you"	"may know"	"well"	
+260	"you"	"may know"	
+260	"your"	"has"	"favorite space-game"	
+260	"your favorite space-game"	"260 CCP Games owes"	"its existence www.webcitation As you may well know"	
+260	"your favorite space-game"	"260 CCP Games owes"	"its existence to the programming language Python http www.webcitation"	
+260	"your favorite space-game"	"260 CCP Games owes"	"its existence www.webcitation"	
+260	"260 CCP Games 2007-07-23 porkbelly Eve Insider Dev Blog"	"your favorite space-game owes"	"its existence www.webcitation As you may well know"	
+260	"260 CCP Games 2007-07-23 porkbelly Eve Insider Dev Blog"	"your favorite space-game owes"	"its existence to the programming language Python http www.webcitation"	
+260	"260 CCP Games 2007-07-23 porkbelly Eve Insider Dev Blog"	"your favorite space-game owes"	"its existence www.webcitation"	
+260	"its"	"has"	"existence"	
+261	.org/5ru5w3vSR 
+262	2010-08-10 http ://www.2kgames.com/civ4/blog_03.htm 
+263	Modding Sid Meier 's Civilization IV Caudill Barry 2005-09-20 Firaxis Games http ://www.webcitation 
+263	"Sid Meier"	"has"	"Civilization IV Caudill Barry 2005-09-20 Firaxis Games http"	
+264	.org/5ru5VItfv 
+265	2010-08-10 Sid Meier 's Civilization IV Developer Blog we created three levels of tools ... 
+265	"Sid Meier"	"has"	"265 2010-08-10 Civilization IV Developer Blog"	
+265	"we"	"created"	"three levels of tools 265 2010-08-10 Sid Meier 's Civilization IV Developer Blog"	
+266	The next level offers Python and XML support , letting modders with more experience manipulate the game world and everything in it . 
+266	"The next level"	"offers"	"Python support letting modders with more experience manipulate the game world in it 266"	
+266	"The next level"	"offers"	"Python support letting modders with more experience manipulate the game everything in it 266"	
+266	"The next level"	"offers"	"XML support letting modders with more experience manipulate the game world in it 266"	
+266	"The next level"	"offers"	"XML support letting modders with more experience manipulate the game everything in it 266"	
+266	"The next level"	"offers"	"Python support 266"	
+266	"The next level"	"offers"	"XML support 266"	
+266	"The next level"	"be letting"	"modders with more experience manipulate the game world in it"	
+266	"The next level"	"be letting"	"modders with more experience manipulate the game everything in it"	
+266	"more experience"	"manipulate"	"the game world in it"	
+266	"more experience"	"manipulate"	"the game everything in it"	
+266	"more experience"	"manipulate"	"the game world"	
+266	"more experience"	"manipulate"	"the game everything"	
+267	http ://www.2kgames.com/civ4/blog_03.htm 
+268	Modding Sid Meier 's Civilization IV Caudill Barry 2005-09-20 Firaxis Games http ://www.webcitation 
+268	"Sid Meier"	"has"	"Civilization IV Caudill Barry 2005-09-20 Firaxis Games http"	
+269	.org/5ru5VItfv 
+270	2010-08-10 Sid Meier 's Civilization IV Developer Blog we created three levels of tools ... 
+270	"Sid Meier"	"has"	"270 2010-08-10 Civilization IV Developer Blog"	
+270	"we"	"created"	"three levels of tools 270 2010-08-10 Sid Meier 's Civilization IV Developer Blog"	
+271	The next level offers Python and XML support , letting modders with more experience manipulate the game world and everything in it . 
+271	"271 The next level"	"offers"	"Python support letting modders with more experience manipulate the game world in it"	
+271	"271 The next level"	"offers"	"Python support letting modders with more experience manipulate the game everything in it"	
+271	"271 The next level"	"offers"	"XML support letting modders with more experience manipulate the game world in it"	
+271	"271 The next level"	"offers"	"XML support letting modders with more experience manipulate the game everything in it"	
+271	"271 The next level"	"offers"	"Python support"	
+271	"271 The next level"	"offers"	"XML support"	
+271	"271 The next level"	"be letting"	"modders with more experience manipulate the game world in it"	
+271	"271 The next level"	"be letting"	"modders with more experience manipulate the game everything in it"	
+271	"more experience"	"manipulate"	"the game world in it"	
+271	"more experience"	"manipulate"	"the game everything in it"	
+271	"more experience"	"manipulate"	"the game world"	
+271	"more experience"	"manipulate"	"the game everything"	
+272	and has been adopted as first of the three available programming language in Google App Engine , the other two being Java and Go . 
+272	"Google App Engine"	"is"	"the other two being Java"	
+272	"Google App Engine"	"is"	"the other two being Go"	
+273	http ://code .google 
+274	.com/apis/documents/docs/1.0/developers_guide_python 
+275	.html 
+276	Python Language Guide (v1.0) 
+276	"276 Python Language Guide"	"is"	"v1 .0"	
+277	Google Documents List Data API v1.0 
+277	"277 Google Documents"	"List"	"Data API v1 .0"	
+278	Google http ://www.webcitation 
+279	.org/5ru5FHxfV 
+280	2010-08-10 http ://code .google 
+281	.com/apis/documents/docs/1.0/developers_guide_python 
+282	.html 
+283	Python Language Guide (v1.0) 
+283	"283 Python Language Guide"	"is"	"v1 .0"	
+284	Google Documents List Data API v1.0 
+284	"284 Google Documents"	"List"	"Data API v1 .0"	
+285	Google http ://www.webcitation 
+286	.org/5ru5FHxfV 
+287	2010-08-10 Because of its similarities to Lisp , Python has also been used in Artificial Intelligence ( AI ) . 
+287	"its"	"has"	"similarities to Lisp"	
+287	"Python"	"has been used"	"in Artificial Intelligence also"	
+287	"Python"	"has been used"	"in Artificial Intelligence"	
+287	"Artificial Intelligence"	"is"	"AI"	
+288	AI in Python http ://www.ainewsletter.com/newsletters/aix_0508.htm#python_ai_ai 
+289	AI in Python http ://www.ainewsletter.com/newsletters/aix_0508.htm#python_ai_ai 
+290	PyAIML , an interpreter package for AIML , the Artificial Intelligence Markup Language http ://pypi.python 
+290	"290 PyAIML pypi.python"	"is"	"an interpreter package for AIML"	
+290	"290 PyAIML pypi.python"	"is"	"the Artificial Intelligence Markup Language http"	
+291	.org/pypi/PyAIML 
+292	PyAIML , an interpreter package for AIML , the Artificial Intelligence Markup Language http ://pypi.python 
+292	"292 PyAIML pypi.python"	"is"	"an interpreter package for AIML"	
+292	"292 PyAIML pypi.python"	"is"	"the Artificial Intelligence Markup Language http"	
+293	.org/pypi/PyAIML 
+294	Artificial Intelligence : A Modern Approach http ://aima.cs 
+295	.berkeley 
+296	.edu/ 
+297	Artificial Intelligence : A Modern Approach http ://aima.cs 
+298	.berkeley 
+299	.edu/ 
+300	For many operating systems , Python is a standard component ; it ships with most Linux distribution , FreeBSD , NetBSD , OpenBSD and with Mac OS X and can be used from the terminal . 
+300	"Python"	"is"	"300 For many operating systems a standard component it ships with most Linux distribution"	
+300	"Python"	"is"	"300 For many operating systems a standard component it with most Linux distribution can be used from the terminal"	
+300	"ships with most Linux distribution"	"is"	"FreeBSD"	
+300	"ships with most Linux distribution"	"is"	"NetBSD"	
+300	"ships with most Linux distribution"	"is"	"OpenBSD"	
+300	"ships with most Linux distribution"	"is"	"with Mac OS X"	
+300	"with most Linux distribution can be used from the terminal"	"is"	"FreeBSD"	
+300	"with most Linux distribution can be used from the terminal"	"is"	"NetBSD"	
+300	"with most Linux distribution can be used from the terminal"	"is"	"OpenBSD"	
+300	"with most Linux distribution can be used from the terminal"	"is"	"with Mac OS X"	
+301	A number of Linux distributions use installers written in Python : Ubuntu uses the Ubiquity installer , while Red Hat Linux and Fedora use the Anaconda installer . 
+301	"301 A number of Linux distributions"	"use"	"installers written in Python"	
+301	"installers"	"be written"	"in Python"	
+301	"Ubuntu"	"uses"	"the Ubiquity installer while Red Hat Linux use the Anaconda installer"	
+301	"Ubuntu"	"uses"	"the Ubiquity installer while Red Hat Fedora use the Anaconda installer"	
+301	"Ubuntu"	"uses"	"the Ubiquity installer"	
+301	"Red Hat Linux"	"use"	"the Anaconda installer"	
+301	"Red Hat Fedora"	"use"	"the Anaconda installer"	
+302	Gentoo Linux uses Python in its package management system , Portage and the standard tool to access it , emerge . 
+302	"302 Gentoo Linux"	"uses"	"Python in its package management system"	
+302	"302 Gentoo Linux"	"uses"	"Python in its package management Portage"	
+302	"302 Gentoo Linux"	"uses"	"Python in its package management the standard tool to access it"	
+302	"302 Gentoo Linux"	"uses"	"Python"	
+302	"its"	"has"	"package management system"	
+303	Pardus uses it for administration and during system boot . 
+303	"303 Pardus"	"uses"	"it for administration"	
+303	"303 Pardus"	"uses"	"it administration during system boot"	
+303	"303 Pardus"	"uses"	"it"	
+304	http ://www.pardus 
+305	.org.tr/eng/projects/comar/Python 
+306	InPardus .html 
+307	Pardus : TÜBİTAK / UEKAE pardus .org.tr 
+308	2008-11-24 http ://www.pardus 
+309	.org.tr/eng/projects/comar/Python 
+310	InPardus .html 
+311	Pardus : TÜBİTAK / UEKAE pardus .org.tr 
+312	2008-11-24 Python has also seen extensive use in the information security industry , including exploit development . 
+312	"312 2008-11-24 Python"	"has seen"	"extensive use in the information security industry also"	
+312	"312 2008-11-24 Python"	"has seen"	"extensive use in the information security industry including exploit development"	
+312	"312 2008-11-24 Python"	"has seen"	"extensive use in the information security industry"	
+313	http ://www.immunitysec.com/products-immdbg 
+314	.shtml 
+315	Welcome to Immunity Debugger immunitysec.com 
+315	"315"	"be Welcome"	"to Immunity Debugger immunitysec.com"	
+316	2008-11-24 http ://oss.coresecurity 
+317	.com/ 
+318	CORE Security Technologies ' open source software repository immunitysec.com 
+318	"CORE Security Technologies"	"has"	"318 open source software repository immunitysec.com"	
+319	Products and discussion of this use of Python include http ://www.immunitysec.com/products-immdbg 
+319	"319 Products"	"include"	"http www.immunitysec.com/products-immdbg"	
+319	"319 discussion of this use of Python"	"include"	"http www.immunitysec.com/products-immdbg"	
+320	.shtml 
+321	Welcome to Immunity Debugger immunitysec.com 
+321	"321"	"be Welcome"	"to Immunity Debugger immunitysec.com"	
+322	2008-11-24 ; http ://oss.coresecurity 
+323	.com/ 
+324	CORE Security Technologies ' open source software repository immunitysec.com 
+324	"CORE Security Technologies"	"has"	"324 open source software repository immunitysec.com"	
+325	http ://wapiti .sourceforge 
+326	.net/ 
+327	Wapiti - Web application security auditor wapiti .sourceforge 
+328	.net 
+329	2008-11-24 http ://wapiti .sourceforge 
+330	.net/ 
+331	Wapiti - Web application security auditor wapiti .sourceforge 
+332	.net 
+333	2008-11-24 September 2011 September 2011 September 2011 September 2011 Among the users of Python are YouTube http ://www.python 
+333	"333 2008-11-24 September 2011 September 2011 September 2011 September 2011 Among the users of Python"	"are"	"YouTube http www.python"	
+334	.org/about/quotes 
+335	/ Quotes about Python python .org 
+336	~2006 2012-01-08 http ://www.python 
+337	.org/about/quotes 
+338	/ Quotes about Python python .org 
+339	~2006 2012-01-08 and the original BitTorrent client . 
+340	http ://www.onlamp.com/pub/a/python/2003/7/17/pythonnews 
+341	.html 
+342	Review of original BitTorrent software September 24 , 2011 http ://www.onlamp.com/pub/a/python/2003/7/17/pythonnews 
+342	"September 24"	"is"	"2011 http"	
+343	.html 
+344	Review of original BitTorrent software September 24 , 2011 Large organizations that make use of Python include Google , http ://python .org/about/quotes 
+345	/ Quotes about Python Python .org 
+346	2008-11-24 http ://python .org/about/quotes 
+347	/ Quotes about Python Python .org 
+348	2008-11-24 Yahoo! 
+349	, http ://wiki.python 
+349	"349 wiki.python"	"is"	"http"	
+350	.org/moin/OrganizationsUsingPython 
+351	Organizations Using Python Python .org 
+352	2009-01-15 http ://wiki.python 
+353	.org/moin/OrganizationsUsingPython 
+354	Organizations Using Python Python .org 
+355	2009-01-15 CERN , http ://cdsweb.cern.ch/record/974627 
+355	"355 2009-01-15 CERN cdsweb.cern.ch record/974627"	"is"	"http"	
+356	?ln=no CERN Document Server : Record#974627 : Python : the holy grail of programming Cdsweb.cern.ch 
+357	2011-04-19 http ://cdsweb.cern.ch/record/974627 
+358	?ln=no CERN Document Server : Record#974627 : Python : the holy grail of programming Cdsweb.cern.ch 
+359	2011-04-19 NASA , http ://www.python 
+359	"359 2011-04-19 NASA www.python"	"is"	"http"	
+360	.org/about/success/usa/ 
+361	Python Success Stories Python .org 
+362	2008-11-24 http ://www.python 
+363	.org/about/success/usa/ 
+364	Python Success Stories Python .org 
+365	2008-11-24 ILM , http ://www.python 
+365	"365 2008-11-24 ILM www.python"	"is"	"http"	
+366	.org/about/success/ilm 
+367	/ Python Success Stories Python .org 
+368	2003-01-17 http ://www.python 
+369	.org/about/success/ilm 
+370	/ Python Success Stories Python .org 
+371	2003-01-17 and ITA . 
+372	http ://www.eweek 
+373	.com/c/a/Application-Development/Python-Slithers-into-Systems 
+374	/ eweek .com 
+375	September 24 , 2011 http ://www.eweek 
+375	"375 September 24 www.eweek"	"is"	"2011 http"	
+376	.com/c/a/Application-Development/Python-Slithers-into-Systems 
+377	/ eweek .com 
+378	September 24 , 2011 Most of the Sugar software for the One Laptop per Child XO , now developed at Sugar Labs , is written in Python . 
+378	"378 September 24 2011 Most of the Sugar software for the One Laptop per Child XO"	"developed"	"at Sugar Labs now"	
+378	"378 September 24 2011 Most of the Sugar software for the One Laptop per Child XO"	"developed"	"at Sugar Labs"	
+379	http ://sugarlabs .org/go/Sugar 
+380	What is Sugar ? - Sugar Labs sugarlabs .org 
+381	2008-05-10 0r-2-11 http ://sugarlabs .org/go/Sugar 
+382	What is Sugar ? - Sugar Labs sugarlabs .org 
+383	2008-05-10 0r-2-11 thumb292pxSyntax highlightingSyntax-highlightedPython 2.x 
+384	code . 
+385	Python syntax and semantics Python was intended to be a highly readable language . 
+385	"385 Python syntax"	"was intended"	"to be a highly readable language"	
+385	"385 Python semantics Python"	"was intended"	"to be a highly readable language"	
+386	It is designed to have an uncluttered visual layout , frequently using English keywords where other languages use punctuation . 
+386	"It"	"is designed"	"to have an uncluttered visual layout 386 frequently using English keywords"	
+386	"other languages"	"use"	"punctuation English keywords where"	
+386	"other languages"	"use"	"punctuation English keywords"	
+387	Python requires less boilerplate than traditional manifestly typed structured languages such as C or Pascal , and has a smaller number of syntactic exceptions and special cases than either of these . 
+387	"387 Python"	"requires"	"less boilerplate than traditional manifestly typed structured languages such as C"	
+387	"387 Python"	"requires"	"less boilerplate than traditional manifestly typed structured languages such as Pascal"	
+387	"387 Python"	"has"	"less boilerplate than traditional manifestly typed structured languages such as C a smaller number of syntactic exceptions than either of these"	
+387	"387 Python"	"has"	"less boilerplate than traditional manifestly typed structured languages such as C a smaller number of syntactic special cases than either of these"	
+387	"387 Python"	"has"	"less boilerplate than traditional manifestly typed structured languages such as Pascal a smaller number of syntactic exceptions than either of these"	
+387	"387 Python"	"has"	"less boilerplate than traditional manifestly typed structured languages such as Pascal a smaller number of syntactic special cases than either of these"	
+388	Is Python a good language for beginning programmers ? http ://www.python 
+389	.org/doc/faq/general/#is-python-a-good-language-for-beginning-programmers 
+390	General Python FAQ March 7 , 2005 2007-03-21 Python Software Foundation Is Python a good language for beginning programmers ? http ://www.python 
+391	.org/doc/faq/general/#is-python-a-good-language-for-beginning-programmers 
+392	General Python FAQ March 7 , 2005 2007-03-21 Python Software Foundation For a detailed description of the differences between 2.x 
+393	and 3.x 
+394	versions , see History of Python . 
+394	"394 versions"	"be see"	"History of Python"	
+395	The simplicity of Python is demonstrated by its version of the classic " Hello world " program : print ( " Hello world " ) Python uses whitespace indentation , rather than curly braces or keywords , to delimit block ( a feature also known as the off-side rule ) . 
+395	"395 The simplicity of Python"	"is demonstrated"	"by its version of the classic Hello world program print Hello world Python uses whitespace indentation"	
+395	"395 The simplicity of Python"	"is demonstrated"	"by its version of the classic Hello world program print Hello world Python whitespace indentation curly braces to delimit block a feature also known as the off-side rule"	
+395	"395 The simplicity of Python"	"is demonstrated"	"by its version of the classic Hello world program print Hello world Python whitespace indentation curly keywords to delimit block a feature also known as the off-side rule"	
+395	"its"	"has"	"version of the classic Hello world program print Hello world Python uses whitespace indentation"	
+395	"its"	"has"	"version of the classic Hello world program print Hello world Python whitespace indentation curly braces to delimit block a feature also known as the off-side rule"	
+395	"its"	"has"	"version of the classic Hello world program print Hello world Python whitespace indentation curly keywords to delimit block a feature also known as the off-side rule"	
+395	"Python"	"uses"	"whitespace indentation"	
+395	"Python"	"curly braces"	"whitespace indentation to delimit block a feature also known as the off-side rule"	
+395	"Python"	"curly keywords"	"whitespace indentation to delimit block a feature also known as the off-side rule"	
+395	"Python"	"curly braces"	"whitespace indentation"	
+395	"Python"	"curly keywords"	"whitespace indentation"	
+395	"curly braces"	"be delimit"	"block a feature also known as the off-side rule"	
+395	"curly keywords"	"be delimit"	"block a feature also known as the off-side rule"	
+395	"a feature"	"be known"	"also as the off-side rule"	
+395	"a feature"	"be known"	"also"	
+396	An increase in indentation comes after certain statements ; a decrease in indentation signifies the end of the current block . 
+396	"396 An increase in indentation"	"comes"	"after certain statements"	
+396	"a decrease in indentation"	"signifies"	"the end of the current block"	
+397	http ://www .secnetix 
+398	.de/~olli/Python/block_indentation 
+399	.hawk 
+400	Myths about indentation in Python Secnetix .de 
+401	2011-04-19 http ://www .secnetix 
+402	.de/~olli/Python/block_indentation 
+403	.hawk 
+404	Myths about indentation in Python Secnetix .de 
+405	2011-04-19 Python 's statements include (among others ) : Each statement has its own semantics : for example , the def statement does not execute its block immediately , unlike most other statements . 
+405	"Python"	"has"	"405 2011-04-19 statements"	
+405	"405 2011-04-19 Python 's statements"	"include"	
+405	"Each statement"	"has"	"its own semantics"	
+405	"its"	"has"	"own semantics"	
+405	"the def statement"	"does not execute"	"its block for example"	
+405	"the def statement"	"does not execute"	"its block immediately"	
+405	"the def statement"	"does not execute"	"its block unlike most other statements"	
+405	"the def statement"	"does not execute"	"its block"	
+405	"its"	"has"	"block"	
+406	Python does not support first-class continuations , and according to Guido van Rossum it never will . 
+406	"406 Python"	"does not support"	"first-class continuations"	
+406	"406 Python"	"does not according to Guido van Rossum"	"first-class continuations"	
+406	"it"	"never will"	"Guido van Rossum"	
+407	Language Design Is Not Just Solving Puzzles http ://www.artima.com/weblogs/viewpost 
+407	"407 Language Design"	"Is"	"Not Solving Puzzles Just"	
+407	"407 Language Design"	"Is"	"Not Solving Puzzles"	
+408	.jsp?thread=147358 
+408	"jsp?thread"	"="	"147358"	
+409	Guido van Rossum February 9 , 2006 2007-03-21 Artima forums Artima Language Design Is Not Just Solving Puzzles http ://www.artima.com/weblogs/viewpost 
+409	"February 9 2006 2007-03-21 Artima forums Artima Language Design"	"Is Not Solving"	"Puzzles http www.artima.com/weblogs/viewpost 409 Guido van Rossum Just"	
+409	"February 9 2006 2007-03-21 Artima forums Artima Language Design"	"Is Not Solving"	"Puzzles http www.artima.com/weblogs/viewpost 409 Guido van Rossum"	
+409	"Puzzles"	"http"	
+410	.jsp?thread=147358 
+410	"jsp?thread"	"="	"147358"	
+411	Guido van Rossum February 9 , 2006 2007-03-21 Artima forums Artima However , better support for coroutine -like functionality is provided in 2.5 
+411	"better support for coroutine like functionality"	"is provided"	"in 2.5 Artima However"	
+411	"better support for coroutine like functionality"	"is provided"	"Artima However"	
+412	, by extending Python 's generators . 
+412	"Python"	"has"	"generators"	
+413	http ://www.python 
+414	.org/peps/pep-0342.html 
+415	Coroutines via Enhanced Generators April 21 , 2006 Guido van Rossum Phillip J. 
+415	"April 21"	"is"	"2006 Guido van Rossum Phillip J."	
+416	Eby Python Enhancement Proposals Python Software Foundation 2007-03-21 http ://www.python 
+417	.org/peps/pep-0342.html 
+418	Coroutines via Enhanced Generators April 21 , 2006 Guido van Rossum Phillip J. 
+418	"April 21"	"is"	"2006 Guido van Rossum Phillip J."	
+419	Eby Python Enhancement Proposals Python Software Foundation 2007-03-21 Prior to 2.5 
+420	, generators were lazy iterator ; information was passed unidirectionally out of the generator . 
+420	"generators"	"were"	"420 lazy iterator"	
+420	"information"	"was passed"	"unidirectionally out of the generator"	
+420	"information"	"was passed"	"unidirectionally"	
+421	As of Python 2.5 
+422	, it is possible to pass information back into a generator function . 
+422	"it"	"is"	"422 possible to pass information back"	
+422	"it"	"is"	"422 possible to pass information into a generator function"	
+422	"it"	"is"	"422 possible to pass information"	
+423	Python expressions are similar to languages such as C and Java . 
+423	"423 Python expressions"	"are similar"	"to languages such as C"	
+423	"423 Python expressions"	"are similar"	"to languages such as Java"	
+423	"423 Python expressions"	"are"	"similar"	
+424	In Python , a distinction between expressions and statements is rigidly enforced , in contrast to languages such as Common Lisp , Scheme , or Ruby . 
+424	"424 In Python"	"is"	"a distinction between expressions and statements"	
+424	"424 In Python"	"is enforced"	"in contrast to languages such as Common Lisp rigidly"	
+424	"424 In Python"	"is enforced"	"in contrast to languages such as Common Scheme rigidly"	
+424	"424 In Python"	"is enforced"	"in contrast to languages such as Common Ruby rigidly"	
+424	"424 In Python"	"is enforced"	"in contrast to languages such as Common Lisp"	
+424	"424 In Python"	"is enforced"	"in contrast to languages such as Common Scheme"	
+424	"424 In Python"	"is enforced"	"in contrast to languages such as Common Ruby"	
+425	This leads to some duplication of functionality , e.g 
+425	"This"	"leads"	"to some duplication of functionality"	
+426	. 
+427	Statements cannot be a part of an expression and so list and other comprehensions or lambda expressions , all being expressions , cannot contain statements . 
+427	"427 Statements"	"can not be a part"	"of an expression"	
+427	"427 Statements"	"can not be a so list"	"of an expression"	
+427	"427 Statements"	"can not be"	"a part"	
+427	"427 Statements"	"can not be"	"a so list"	
+427	"other comprehensions"	"can not contain"	"statements"	
+427	"other lambda expressions"	"can not contain"	"statements"	
+427	"other all being expressions"	"can not contain"	"statements"	
+428	A particular case of this is that an assignment statement such as a = 1 cannot form part of the conditional expression of a conditional statement . 
+428	"428 A particular case of this"	"is"	
+428	"a = 1"	"can not form"	"part of the conditional expression of a conditional statement"	
+429	This has the advantage of avoiding a classic C error of mistaking an assignment operator = for an equality operator = = in conditions : if ( c = 1 ) { ... 
+429	"This"	"has"	"the advantage of avoiding a classic C error of mistaking an assignment operator = for an equality operator = = in conditions if c = 1 429"	
+429	"an assignment operator"	"="	"for an equality operator = = in conditions"	
+429	"c"	"="	"1"	
+430	} is valid C code but if c = 1 : ... 
+430	"430"	"is"	"valid C code"	
+430	"c"	"="	"1"	
+431	causes a syntax error in Python . 
+431	"431"	"causes"	"a syntax error in Python"	
+431	"431"	"causes"	"a syntax error"	
+432	Method on objects are function attached to the object 's class ; the syntax instance .method(argument 
+433	) is , for normal methods and functions , syntactic sugar for Class .method(instance 
+434	, argument ) . 
+435	Python methods have an explicit self parameter to access instance data , in contrast to the implicit self in some other object-oriented programming languages ( for example , Java , C++ or Ruby ) . 
+435	"435 Python methods"	"have"	"an explicit self parameter to access instance data in contrast to the implicit self in some other object-oriented programming languages for example Java"	
+435	"435 Python methods"	"have"	"an explicit self parameter to access instance data in contrast to the implicit self in some other object-oriented programming languages for example C++"	
+435	"435 Python methods"	"have"	"an explicit self parameter to access instance data in contrast to the implicit self in some other object-oriented programming languages for example Ruby"	
+435	"435 Python methods"	"have"	"an explicit self parameter to access instance data"	
+436	http ://www.python 
+437	.org/doc/faq/general/#why-must-self-be-used-explicitly-in-method-definitions-and-calls 
+438	Why must 'self ' be used explicitly in method definitions and calls ? Python FAQ Python Software Foundation http ://www.python 
+439	.org/doc/faq/general/#why-must-self-be-used-explicitly-in-method-definitions-and-calls 
+440	Why must 'self ' be used explicitly in method definitions and calls ? Python FAQ Python Software Foundation Python uses duck typing and has typed objects but untyped variable names . 
+440	"Python FAQ Python Software Foundation Python"	"uses"	"duck typing"	
+440	"Python FAQ Python Software Foundation Python"	"has typed"	"duck typing objects"	
+440	"Python FAQ Python Software Foundation Python"	"has typed"	"duck typing untyped variable names"	
+441	Type constraints are not checked at compile time ; rather , operations on an object may fail , signifying that the given object is not of a suitable type . 
+441	"441 Type constraints"	"are not checked"	"at compile time"	
+441	"operations on an object"	"may fail"	"signifying that the given object is not of a suitable type rather"	
+441	"operations on an object"	"may fail"	"signifying that the given object is not of a suitable type"	
+442	Despite being dynamically typed , Python is strongly typed , forbidding operations that are not well-defined ( for example , adding a number to a string ) rather than silently attempting to make sense of them . 
+442	"442 Despite being dynamically typed adding a number to a string"	"be forbidding"	"operations"	
+442	"442 Despite being dynamically typed a number to a string silently attempting to make sense of them"	"be forbidding"	"operations"	
+442	"Python"	"is typed"	"442 Despite being dynamically typed forbidding operations adding a number to a string strongly"	
+442	"Python"	"is typed"	"442 Despite being dynamically typed forbidding operations a number to a string silently attempting to make sense of them strongly"	
+442	"Python"	"is typed"	"442 Despite being dynamically typed forbidding operations adding a number to a string"	
+442	"Python"	"is typed"	"442 Despite being dynamically typed forbidding operations a number to a string silently attempting to make sense of them"	
+442	"operations"	"are not well-defined"	"for example"	
+442	"operations"	"are not"	"well-defined"	
+443	Python allows programmers to define their own types using class , which are most often used for object-oriented programming . 
+443	"443 Python"	"allows"	"programmers to define their own types using class"	
+443	"their"	"has"	"own types using class"	
+443	"their own types"	"be using"	"class"	
+443	"class"	"are used"	"for object-oriented programming most often"	
+443	"class"	"are used"	"for object-oriented programming"	
+444	New instances of classes are constructed by calling the class ( for example , SpamClass( ) or EggsClass( ) ) , and the classes themselves are instances of the metaclass type ( itself an instance of itself ) , allowing metaprogramming and reflection . 
+444	"444 New instances of classes"	"are constructed"	"by calling the class"	
+444	"444 New instances of classes"	"are the classes"	"allowing metaprogramming by calling the class"	
+444	"444 New instances of classes"	"are the classes"	"allowing reflection by calling the class"	
+444	"444 New instances of classes"	"are the classes"	"allowing metaprogramming"	
+444	"444 New instances of classes"	"are the classes"	"allowing reflection"	
+444	"the classes"	"be allowing"	"metaprogramming"	
+444	"the classes"	"be allowing"	"reflection"	
+444	"themselves"	"are"	"instances of the metaclass type itself an instance of itself the classes allowing metaprogramming"	
+444	"themselves"	"are"	"instances of the metaclass type itself an instance of itself the classes allowing reflection"	
+444	"themselves"	"are"	"instances the classes allowing metaprogramming"	
+444	"themselves"	"are"	"instances the classes allowing reflection"	
+445	Prior to version 3.0, 
+446	Python had two kinds of classes : "old-style " and "new-style " . 
+446	"446 Python"	"had"	"two kinds of classes old-style"	
+446	"446 Python"	"had"	"two kinds of classes new-style"	
+447	The Python Language Reference , section 3.3 
+448	. 
+449	New-style and classic classes , for release 2.7.1 
+450	2011-01-12 http ://docs .python 
+451	.org/reference/datamodel 
+452	.html#new-style-and-classic-classes 
+453	The Python Language Reference , section 3.3 
+454	. 
+455	New-style and classic classes , for release 2.7.1 
+456	2011-01-12 http ://docs .python 
+457	.org/reference/datamodel 
+458	.html#new-style-and-classic-classes 
+459	Old-style classes were eliminated in Python 3.0, 
+459	"459 Old-style classes"	"were eliminated"	"in Python 3.0"	
+460	making all classes new-style . 
+460	"460"	"be making"	"all classes new-style"	
+460	"all classes"	"new-style"	
+461	In versions between 2.2 
+462	and 3.0, 
+463	both kinds of classes could be used . 
+463	"kinds of classes"	"could be used"	
+464	The syntax of both styles is the same , the difference being whether the class object is inherited from , directly or indirectly ( all new-style classes inherit from object and are instances of type ) . 
+464	"464 The syntax of styles"	"is"	"the same the difference being whether the class object is inherited from directly all new-style classes inherit from object"	
+464	"464 The syntax of styles"	"is"	"the same the difference being whether the class object is inherited from indirectly all new-style classes inherit from object"	
+464	"464 The syntax of styles"	"is"	"the same the difference being whether the class object is inherited from indirectly all new-style classes from object are instances of type"	
+464	"464 The syntax of styles"	"is"	"the same the difference being whether the class object is inherited from directly all new-style classes from object are instances of type"	
+464	"the difference"	"be being"	"whether the class object is inherited from directly all new-style classes inherit from object"	
+464	"the difference"	"be being"	"whether the class object is inherited from indirectly all new-style classes inherit from object"	
+464	"the difference"	"be being"	"whether the class object is inherited from indirectly all new-style classes from object are instances of type"	
+464	"the difference"	"be being"	"whether the class object is inherited from directly all new-style classes from object are instances of type"	
+464	"the class object"	"is inherited"	"from directly all new-style classes inherit from object"	
+464	"the class object"	"is inherited"	"from indirectly all new-style classes inherit from object"	
+464	"the class object"	"is inherited"	"from indirectly all new-style classes from object are instances of type"	
+464	"the class object"	"is inherited"	"from directly all new-style classes from object are instances of type"	
+464	"all new-style classes"	"inherit"	"from object"	
+464	"all new-style classes"	"are instances"	"from object"	
+464	"all new-style classes"	"are instances"	"of type"	
+464	"all new-style classes"	"are"	"instances"	
+465	Here is a summary of Python 3 's built-in types : In contrast with some programming languages , integer division is defined to round towards minus infinity . 
+465	"465 Here"	"is a summary In contrast with some programming languages integer division is defined to round towards"	"of Python 3 's built-in types"	
+465	"465 Here"	"is a summary In contrast with some programming languages integer division is defined to round infinity"	"of Python 3 's built-in types"	
+465	"465 Here"	"is"	"a summary In contrast with some programming languages integer division is defined to round towards"	
+465	"465 Here"	"is"	"a summary In contrast with some programming languages integer division is defined to round infinity"	
+465	"Python 3"	"has"	"built-in types"	
+465	"integer division"	"is defined"	"to round towards In contrast with some programming languages"	
+465	"integer division"	"is defined"	"to round infinity In contrast with some programming languages"	
+465	"integer division"	"is defined"	"to round towards"	
+465	"integer division"	"is defined"	"to round infinity"	
+466	Therefore 7 // 3 is 2 , but ( −7 ) // 3 is −3 . 
+466	"3"	"is"	"2"	
+466	"3"	"is"	"− 7"	
+466	"3"	"is"	"− 3"	
+467	This is uniform and consistent : for instance , it means that the equation ( a+b ) // b = = a // b + 1 is always true , whereas in languages such as C , (-6+7 ) // 7 = = -6 // 7 . 
+467	"This"	"is"	"uniform 467"	
+467	"This"	"is"	"consistent 467"	
+467	"467"	"it means"	"that the equation b = = a b is always true whereas in languages such as C 7 = = -6 7 for instance"	
+467	"467"	"it means"	"that the equation b = = a 1 is always true whereas in languages such as C 7 = = -6 7 for instance"	
+467	"467"	"it means"	"that the equation b = = a b is always true whereas in languages such as C 7 = = -6 7"	
+467	"467"	"it means"	"that the equation b = = a 1 is always true whereas in languages such as C 7 = = -6 7"	
+467	"it"	"467 means"	"that the equation b = = a b is always true whereas in languages such as C 7 = = -6 7 for instance"	
+467	"it"	"467 means"	"that the equation b = = a 1 is always true whereas in languages such as C 7 = = -6 7 for instance"	
+467	"it"	"467 means"	"that the equation b = = a b is always true whereas in languages such as C 7 = = -6 7"	
+467	"it"	"467 means"	"that the equation b = = a 1 is always true whereas in languages such as C 7 = = -6 7"	
+467	"the equation b = = a b is always true whereas in languages such as C 7 = = -6 7"	"is"	"a + b"	
+467	"the equation b = = a 1 is always true whereas in languages such as C 7 = = -6 7"	"is"	"a + b"	
+467	"b = = a b is always true whereas in languages such as C"	"is"	"-6 +7"	
+467	"b = = a 1 is always true whereas in languages such as C"	"is"	"-6 +7"	
+467	"a b"	"is b = = true whereas"	"always"	
+467	"a 1"	"is b = = true whereas"	"always"	
+467	"a b"	"is b = = true whereas"	"in languages such as C"	
+467	"a 1"	"is b = = true whereas"	"in languages such as C"	
+467	"a b"	"is"	"b = = true whereas"	
+467	"a 1"	"is"	"b = = true whereas"	
+468	It also means that the equation b * ( a // b ) + a % b = = a is valid for both positive and negative values of a . 
+468	"It"	"means"	"that the equation b * a b also"	
+468	"It"	"means"	"that the equation b * a a % b = = a is valid for positive values of a also"	
+468	"It"	"means"	"that the equation b * a a % b = = a is valid for negative values of a also"	
+468	"It"	"means"	"that the equation b * a b"	
+468	"It"	"means"	"that the equation b * a a % b = = a is valid for positive values of a"	
+468	"It"	"means"	"that the equation b * a a % b = = a is valid for negative values of a"	
+468	"a"	"is valid"	"for positive values of a"	
+468	"a"	"is valid"	"for negative values of a"	
+468	"a"	"is"	"valid"	
+469	However , maintaining the validity of this equation means that while the result of a % b is , as expected , in the half-open interval [0 , b ) , where b is a positive integer , it has to lie in the interval ( b ,0] when b is negative . 
+469	"469 However"	"maintaining"	"the validity of this equation"	
+469	"469 However maintaining the validity of this equation"	"means"	
+469	"b"	"is a positive integer"	"where"	
+469	"b"	"is"	"a positive integer"	
+469	"it"	"the result of a % b is has"	"to lie in the interval when b is negative"	
+469	"it"	"the result of a % b is has"	"to lie in the interval"	
+469	"the result of a % b"	"is it has"	"to lie in the interval when b is negative"	
+469	"the result of a % b"	"is it has"	"to lie in the interval"	
+469	"the interval"	"is"	"b ,0"	
+469	"b"	"is negative"	"when"	
+469	"b"	"is"	"negative"	
+470	http ://python-history .blogspot.com/2010/08/why-pythons-integer-division-floors 
+471	.html 
+472	Why Python 's Integer Division Floors 2010-08-25 http ://python-history .blogspot.com/2010/08/why-pythons-integer-division-floors 
+473	.html 
+474	Why Python 's Integer Division Floors 2010-08-25 Python provides a round function for rounding floats to integers . 
+474	"Python"	"has"	"Integer Division Floors"	
+474	"2010-08-25 Python"	"provides"	"a round function for rounding floats to integers Python 's Integer Division Floors"	
+474	"2010-08-25 Python"	"provides"	"a round function Python 's Integer Division Floors"	
+474	"rounding"	"floats"	"to integers"	
+475	Versions before 3 use round-away-from-zero : round(0.5 
+476	) is 1.0, 
+476	"476"	"is"	"1.0"	
+477	round(-0.5 
+478	) is -1.0. 
+478	"478"	"is"	"-1.0"	
+479	http ://docs .python 
+480	.org/library/functions 
+481	.html#round 
+482	2011-08-14 round The Python standard library , release 2.7 
+482	"The Python standard library"	"is"	"release 2.7"	
+483	, §2 : Built-in functions http ://docs .python 
+484	.org/library/functions 
+485	.html#round 
+486	2011-08-14 round The Python standard library , release 2.7 
+486	"The Python standard library"	"is"	"release 2.7"	
+487	, §2 : Built-in functions Python 3 uses round-to-even : round( 1.5 
+487	"Python 3"	"uses"	"round-to-even Built-in functions round 1.5"	
+488	) is 2.0, 
+488	"488"	"is"	"2.0"	
+489	round( 2.5 
+490	) is 2.0. 
+490	"490"	"is"	"2.0"	
+491	http ://docs .python 
+492	.org/py3k/library/functions 
+493	.html#round 
+494	2011-08-14 round The Python standard library , release 3.2 
+494	"The Python standard library"	"is"	"release 3.2"	
+495	, §2 : Built-in functions http ://docs .python 
+496	.org/py3k/library/functions 
+497	.html#round 
+498	2011-08-14 round The Python standard library , release 3.2 
+498	"The Python standard library"	"is"	"release 3.2"	
+499	, §2 : Built-in functions The Decimal type/class in module decimal ( since version 2.4 
+500	) provides exact numerical representation and several rounding modes . 
+500	"500"	"provides"	"exact numerical representation"	
+500	"500"	"provides"	"exact numerical several rounding modes"	
+501	Python allows boolean expressions with multiple equality relations in a manner that is consistent with general usage in mathematics . 
+501	"501 Python"	"allows"	"boolean expressions with multiple equality relations in a manner"	
+501	"501 Python"	"allows"	"boolean expressions with multiple equality relations"	
+501	"a manner"	"is consistent"	"with general usage in mathematics"	
+501	"a manner"	"is"	"consistent"	
+502	For example , the expression a &lt ; b &lt ; c tests whether a is less than b and b is less than c . 
+502	"a"	"is less"	"than b"	
+502	"a"	"is less"	"than b"	
+502	"a"	"is"	"less"	
+502	"c tests whether a is less than b"	"is less"	"than c"	
+502	"c tests whether a is less than b"	"is less"	"than c"	
+502	"c tests whether a is less than b"	"is"	"less"	
+502	"c tests whether a is less than b"	"is"	"less"	
+503	C-derived languages interpret this expression differently : in C , the expression would first evaluate a &lt ; b , resulting in 0 or 1 , and that result would then be compared with c . 
+503	"503 C-derived languages"	"interpret"	"this expression differently"	
+503	"503 C-derived languages"	"interpret"	"this expression"	
+503	"the expression"	"would evaluate"	"a & lt in C"	
+503	"the expression"	"would evaluate"	"b resulting in 0 would then be compared with c in C"	
+503	"the expression"	"would evaluate"	"b resulting in 1 and that result would then be compared with c in C"	
+503	"the expression"	"would evaluate"	"b in 0 that result would then be compared with c in C"	
+503	"the expression"	"would evaluate"	"a & lt first"	
+503	"the expression"	"would evaluate"	"b resulting in 0 would then be compared with c first"	
+503	"the expression"	"would evaluate"	"b resulting in 1 and that result would then be compared with c first"	
+503	"the expression"	"would evaluate"	"b in 0 that result would then be compared with c first"	
+503	"the expression"	"would evaluate"	"a & lt"	
+503	"the expression"	"would evaluate"	"b resulting in 0 would then be compared with c"	
+503	"the expression"	"would evaluate"	"b resulting in 1 and that result would then be compared with c"	
+503	"the expression"	"would evaluate"	"b in 0 that result would then be compared with c"	
+503	"that"	"result"	
+503	"resulting in 0"	"would be compared"	"with c b"	
+503	"resulting in 1 and that result"	"would be compared"	"with c b"	
+503	"in 0 that result"	"would be compared"	"with c b"	
+503	"resulting in 0"	"would be compared"	"with c"	
+503	"resulting in 1 and that result"	"would be compared"	"with c"	
+503	"in 0 that result"	"would be compared"	"with c"	
+504	Python Essential Reference , David M Beazley January 2012 CPython The mainstream Python implementation , known as CPython , is written in C meeting the C89 standard . 
+504	"504 Python Essential Reference"	"is"	"David M Beazley January 2012 CPython"	
+504	"The mainstream Python implementation"	"be known"	"as CPython"	
+504	"The mainstream Python implementation known as CPython"	"is written"	"in C meeting the C89 standard David M Beazley January 2012 CPython"	
+504	"The mainstream Python implementation known as CPython"	"is written"	"David M Beazley January 2012 CPython"	
+505	http ://www.python 
+506	.org/dev/peps/pep-0007/ 
+507	PEP 7 - Style Guide for C Code Python .org 
+508	2008-11-24 http ://www.python 
+509	.org/dev/peps/pep-0007/ 
+510	PEP 7 - Style Guide for C Code Python .org 
+511	2008-11-24 CPython compiles Python programs into intermediate bytecode , http ://docs .python 
+512	.org/lib/bytecodes 
+513	.html 
+514	CPython byte code Docs .python 
+515	.org 
+516	2011-04-19 http ://docs .python 
+517	.org/lib/bytecodes 
+518	.html 
+519	CPython byte code Docs .python 
+520	.org 
+521	2011-04-19 which are then executed by the virtual machine . 
+521	"521 2011-04-19"	"are executed"	"by the virtual machine"	
+522	http ://www.troeger 
+523	.eu/teaching/pythonvm08.pdf 
+524	Python 2.5 
+525	internals PDF 2011-04-19 http ://www.troeger 
+526	.eu/teaching/pythonvm08.pdf 
+527	Python 2.5 
+528	internals PDF 2011-04-19 It is distributed with a large standard library written in a mixture of C and Python . 
+528	"It"	"is distributed"	"with a large standard library written in a mixture of C PDF 2011-04-19"	
+528	"It"	"is distributed"	"with a large standard library written in a mixture of Python PDF 2011-04-19"	
+528	"It"	"is distributed"	"PDF 2011-04-19"	
+528	"a large standard library"	"be written"	"in a mixture of C"	
+528	"a large standard library"	"be written"	"in a mixture of Python"	
+529	CPython ships in versions for many platforms , including Microsoft Windows and most modern Unix-like systems . 
+530	CPython was intended from almost its very conception to be cross-platform ; its use and development on esoteric platforms such as Amoeba , alongside more conventional ones like Unix and Mac OS , has greatly helped in this regard . 
+530	"530 CPython"	"was intended"	"from almost its very conception to be cross-platform"	
+530	"530 CPython"	"was intended"	"to be cross-platform"	
+530	"its"	"has"	"conception"	
+530	"its"	"has"	"use on esoteric platforms such as Amoeba alongside more conventional ones like Unix"	
+530	"its"	"has"	"use on esoteric platforms such as Amoeba alongside more conventional ones like Mac OS"	
+530	"its use on esoteric platforms such as Amoeba alongside more conventional ones like Unix"	"has helped"	"in this regard greatly"	
+530	"its development on esoteric platforms such as Amoeba alongside more conventional ones like Unix"	"has helped"	"in this regard greatly"	
+530	"its development on esoteric platforms such as Amoeba alongside more conventional ones like Mac OS"	"has helped"	"in this regard greatly"	
+530	"its use on esoteric platforms such as Amoeba alongside more conventional ones like Mac OS"	"has helped"	"in this regard greatly"	
+530	"its use on esoteric platforms such as Amoeba alongside more conventional ones like Unix"	"has helped"	"in this regard"	
+530	"its development on esoteric platforms such as Amoeba alongside more conventional ones like Unix"	"has helped"	"in this regard"	
+530	"its development on esoteric platforms such as Amoeba alongside more conventional ones like Mac OS"	"has helped"	"in this regard"	
+530	"its use on esoteric platforms such as Amoeba alongside more conventional ones like Mac OS"	"has helped"	"in this regard"	
+531	http ://www.oreilly 
+532	.com/pub/a/oreilly/frank/rossum_1099.html 
+533	O'Reilly - An Interview with Guido van Rossum Oreilly .com 
+534	2008-11-24 http ://www.oreilly 
+535	.com/pub/a/oreilly/frank/rossum_1099.html 
+536	O'Reilly - An Interview with Guido van Rossum Oreilly .com 
+537	2008-11-24 Stackless Python is a significant fork of CPython that implements microthread ; it does not use the C memory stack . 
+537	"537 2008-11-24 Stackless Python"	"is a significant fork"	"of CPython"	
+537	"537 2008-11-24 Stackless Python"	"is"	"a significant fork"	
+537	"a significant fork of CPython"	"implements"	"microthread"	
+537	"it"	"does not use"	"the C memory"	
+538	It can be expected to run on approximately the same platforms that CPython runs on . 
+538	"It"	"can be expected"	"to run on approximately the same platforms 538"	
+538	"CPython"	"runs"	"approximately the same platforms on"	
+538	"CPython"	"runs"	"approximately the same platforms"	
+539	Google started a project called Unladen Swallow in 2009 with the aims of increasing the speed of the Python interpreter by 5 times by using the LLVM and improving its multithreading ability to scale to thousands of cores . 
+539	"539 Google"	"started"	"a project called Unladen Swallow in 2009 with the aims of increasing the speed of the Python interpreter by 5 times by using the LLVM"	
+539	"539 Google"	"started"	"a project called Unladen Swallow in 2009 with the aims of increasing the speed of the Python interpreter by 5 times by the LLVM improving its multithreading ability to scale to thousands of cores"	
+539	"a project"	"be called"	"with the aims of increasing the speed of the Python interpreter by 5 times by using the LLVM"	
+539	"a project"	"be called"	"with the aims of increasing the speed of the Python interpreter by 5 times by the LLVM improving its multithreading ability to scale to thousands of cores"	
+539	"its"	"has"	"multithreading ability to scale"	
+540	http ://code .google 
+541	.com/p/unladen-swallow/wiki/ProjectPlan 
+542	Plans for optimizing Python September 24 , 2011 http ://code .google 
+543	.com/p/unladen-swallow/wiki/ProjectPlan 
+544	Plans for optimizing Python September 24 , 2011 Jython compiles the Python program into Java byte code , which can then be executed by every Java Virtual Machine implementation . 
+544	"Jython"	"compiles"	"the Python program into Java byte code Python September 24 2011"	
+544	"Jython"	"compiles"	"the Python program Python September 24 2011"	
+544	"Java byte code"	"can be executed"	"by every Java Virtual Machine implementation"	
+545	This also enables the use of Java class library functions from the Python program . 
+545	"This"	"enables"	"the use of Java class library functions 545 also"	
+545	"This"	"enables"	"the use of Java class library functions from the Python program 545"	
+545	"This"	"enables"	"the use of Java class library functions 545"	
+546	IronPython follows a similar approach in order to run Python programs on the .NET 
+547	Common Language Runtime . 
+548	PyPy is a fast self-hosting implementation of Python , written in Python , that can output several types of bytecode , object code and intermediate language . 
+548	"548 PyPy"	"is a fast self-hosting implementation"	"of Python written in Python that can output several types of bytecode"	
+548	"548 PyPy"	"is"	"a fast self-hosting implementation"	
+548	"Python that can output several types of bytecode"	"be written"	"in Python"	
+548	"output several types of bytecode"	"can"	
+548	"output several types of bytecode"	"is"	"object code"	
+548	"output several types of bytecode"	"is"	"object intermediate language"	
+549	There also exist compilers to high-level object language , with either unrestricted Python , a restricted subset of Python , or a language similar to Python as the source language . 
+549	"549"	"There exist"	"compilers to high-level object language with unrestricted Python also"	
+549	"549"	"There exist"	"compilers to high-level object language with unrestricted Python"	
+549	"unrestricted Python"	"is"	"a restricted subset of Python"	
+549	"unrestricted Python"	"is"	"a restricted subset of a language similar to Python as the source language"	
+550	PyPy is of this type , compiling RPython to several languages ; other examples include Pyjamas compiling to JavaScript ; Shed Skin compiling to C++ ; and Cython and Pyrex compiling to C . 
+550	"550 PyPy"	"is"	"of this type compiling RPython to several languages"	
+550	"550 PyPy"	"is"	"of this type compiling RPython"	
+550	"550 PyPy"	"is"	"compiling RPython to several languages"	
+550	"550 PyPy"	"is"	"compiling RPython"	
+550	"other examples"	"include"	"Pyjamas compiling to JavaScript"	
+550	"other examples"	"Shed Skin"	"Pyjamas compiling to JavaScript compiling to C++"	
+550	"other examples"	"Shed Skin"	"Pyjamas compiling to JavaScript"	
+550	"other examples"	"Cython"	"Pyjamas compiling to JavaScript compiling to C"	
+550	"other examples"	"Pyrex"	"Pyjamas compiling to JavaScript compiling to C"	
+550	"other examples"	"Cython"	"Pyjamas compiling to JavaScript"	
+550	"other examples"	"Pyrex"	"Pyjamas compiling to JavaScript"	
+550	"Pyjamas"	"be compiling"	"to JavaScript"	
+550	"Shed Skin"	"be compiling"	"to C++"	
+550	"Cython"	"be compiling"	"to C"	
+550	"Pyrex"	"be compiling"	"to C"	
+551	In 2005 Nokia released a Python interpreter for the Series 60 mobile phone called PyS60 . 
+551	"551 In 2005 Nokia"	"released"	"a Python interpreter for the Series 60 mobile phone called PyS60"	
+551	"the Series 60 mobile phone"	"be called"	
+552	It includes many of the modules from the CPython implementations and some additional modules for integration with the Symbian operating system . 
+552	"It"	"includes"	"many of the modules from the CPython implementations 552"	
+552	"It"	"includes"	"of the modules from the CPython implementations some additional modules for integration with the Symbian operating system 552"	
+553	This project has been kept up to date to run on all variants of the S60 platform and there are several third party modules available . 
+553	"553 This project"	"has been kept up"	"to date to run on all variants of the S60 platform"	
+553	"553 This project"	"has been kept up"	"to run on all variants of the S60 platform"	
+553	"several third party modules"	"available"	
+554	The Nokia N900 also supports Python with gtk widget libraries , with the feature that programs can be both written and run on the device itself . 
+554	"554 The Nokia N900"	"supports"	"Python with gtk widget libraries also"	
+554	"554 The Nokia N900"	"supports"	"Python with gtk widget libraries with the feature"	
+554	"554 The Nokia N900"	"supports"	"Python with gtk widget libraries"	
+554	"that programs"	"can be written"	"the feature"	
+554	"that programs"	"can be run"	"on the device itself the feature"	
+554	"that programs"	"can be run"	"the feature"	
+555	There is also a Python interpreter for Windows CE devices ( including Pocket PC ) . 
+555	"a Python interpreter for Windows CE devices including Pocket PC"	"There is"	"also 555"	
+555	"a Python interpreter for Windows CE devices including Pocket PC"	"There is"	"555"	
+556	It is called PythonCE. 
+556	"It"	"is called"	"PythonCE 556"	
+557	http ://pythonce .sourceforge 
+558	.net/ 
+559	PythonCE Pythonce .sourceforge 
+560	.net 
+561	2011-04-19 http ://pythonce .sourceforge 
+562	.net/ 
+563	PythonCE Pythonce .sourceforge 
+564	.net 
+565	2011-04-19 There are additional tools available for easy application and GUI development . 
+565	"additional tools available for easy application"	"There are"	
+565	"additional tools available for easy GUI development"	"There are"	
+566	The PyMite virtual machine began in 2000 and made its first public appearance at PyCon 2003 . 
+566	"566 The PyMite virtual machine"	"began"	"in 2000"	
+566	"566 The PyMite virtual machine"	"made"	"its first public appearance at PyCon 2003 in 2000"	
+566	"566 The PyMite virtual machine"	"made"	"its first public appearance at PyCon 2003"	
+566	"its"	"has"	"first public appearance at PyCon 2003"	
+567	http ://wiki.python 
+568	.org/moin/PyMite 
+569	PyMite : Python-on-a-chip Wiki.python 
+570	.org 
+571	2009-04-19 2011-04-19 http ://wiki.python 
+572	.org/moin/PyMite 
+573	PyMite : Python-on-a-chip Wiki.python 
+574	.org 
+575	2009-04-19 2011-04-19 PyMite was folded into in 2009 . 
+575	"575 2009-04-19 2011-04-19 PyMite"	"was folded"	"into in 2009"	
+576	http ://deanandara.com/PyMite/2010-State 
+577	.html 
+578	PyMite Deanandara.com 
+579	2011-04-19 http ://deanandara.com/PyMite/2010-State 
+580	.html 
+581	PyMite Deanandara.com 
+582	2011-04-19 Python -on-a-Chip ( p14p ) is a project to develop a reduced Python virtual machine ( codenamed PyMite ) that runs a significant subset of the Python language on microcontrollers without an OS in as little as 4KB of RAM. 
+582	"on-a-Chip"	"is"	"p14p"	
+582	"582 2011-04-19 Python on-a-Chip"	"is a project"	"to develop a reduced Python virtual machine codenamed PyMite"	
+582	"582 2011-04-19 Python on-a-Chip"	"is"	"a project"	
+582	"a project"	"be develop"	"a reduced Python virtual machine codenamed PyMite"	
+582	"a reduced Python virtual machine codenamed PyMite"	"runs"	"a significant subset of the Python language on microcontrollers without an OS"	
+582	"a reduced Python virtual machine codenamed PyMite"	"runs"	"a significant subset of the Python language on microcontrollers in as little as 4KB of RAM"	
+582	"a reduced Python virtual machine codenamed PyMite"	"runs"	"a significant subset of the Python language on microcontrollers"	
+583	http ://pythononachip.org/ 
+584	PyMite Python-on-a-Chip 2011-04-19 http ://pythononachip.org/ 
+585	PyMite Python-on-a-Chip 2011-04-19 Around 2004 June 2010 , the project created a specialized translator and assembler that targets resource-constrained microcontroller . 
+585	"the project"	"created"	"a specialized translator"	
+585	"the project"	"created"	"a specialized assembler"	
+585	"a specialized translator"	"targets"	"resource-constrained microcontroller"	
+585	"a specialized assembler"	"targets"	"resource-constrained microcontroller"	
+586	ChinesePython ( 中蟒 ) is a Python programming language using a Chinese-language lexicon . 
+586	"586 ChinesePython"	"is"	"中蟒"	
+586	"586 ChinesePython"	"is a Python programming language"	"using a Chinese-language lexicon"	
+586	"586 ChinesePython"	"is"	"a Python programming language"	
+586	"a Python programming language"	"be using"	"a Chinese-language lexicon"	
+587	Besides reserved words and variable names , most data type operations can be coded in Chinese as well . 
+587	"most data type operations"	"can be coded"	"in Chinese as well"	
+587	"most data type operations"	"can be coded"	"in Chinese as well"	
+588	March 2011 Python is available on Android as an option as part of the Android Scripting Environment . 
+588	"588 March 2011 Python"	"is available"	"on Android"	
+588	"588 March 2011 Python"	"is available"	"as an option as part of the Android Scripting Environment"	
+588	"588 March 2011 Python"	"is"	"available"	
+589	http ://code .google 
+590	.com/p/android-scripting 
+591	/ android-scripting September 24 , 2011 http ://code .google 
+592	.com/p/android-scripting 
+593	/ android-scripting September 24 , 2011 Most Python implementations ( including CPython ) can function as a command line interpreter , for which the user enters statements sequentially and receives the results immediately . 
+593	"593 android-scripting September 24 2011 Most Python implementations including CPython"	"can function"	"as a command line interpreter"	
+593	"the user"	"enters"	"statements a command line interpreter for which"	
+593	"the user"	"enters"	"statements sequentially a command line interpreter"	
+593	"the user"	"enters"	"statements a command line interpreter"	
+593	"the user"	"receives"	"statements the results a command line interpreter for which"	
+593	"the user"	"receives"	"statements the results a command line interpreter sequentially"	
+593	"the user"	"receives"	"statements the results immediately a command line interpreter"	
+593	"the user"	"receives"	"statements the results a command line interpreter"	
+594	In short , Python acts as a shell . 
+594	"Python"	"acts"	"594 In short as a shell"	
+594	"Python"	"acts"	"594 In short"	
+595	While the semantics of the other modes of execution ( bytecode compilation , or compilation to native code ) preserve the sequential semantics , they offer a speed boost at the cost of interactivity , so they are usually only used outside of a command-line interaction ( e .g. 
+596	, when importing a module ) . 
+597	Other shells add capabilities beyond those in the basic interpreter , including IDLE and IPython . 
+597	"597 Other shells"	"add"	"capabilities beyond those in the basic interpreter including IDLE"	
+597	"597 Other shells"	"add"	"capabilities beyond those in the basic interpreter including IPython"	
+598	While generally following the visual style of the Python shell , they implement features like auto-completion , retention of session state , and syntax highlighting . 
+598	"they"	"implement"	"features like auto-completion"	
+598	"they"	"implement"	"like auto-completion retention of session state"	
+598	"they"	"implement"	"like auto-completion syntax highlighting"	
+598	"syntax"	"be highlighting"	
+599	Some implementations can compile not only to bytecode , but can turn Python code into machine code . 
+599	"599 Some implementations"	"can compile"	"to bytecode"	
+599	"599 Some implementations"	"can compile"	"bytecode can turn Python code into machine code"	
+600	So far , this has only been done for restricted subsets of Python . 
+600	"this"	"has been done"	"600 So far only"	
+600	"this"	"has been done"	"for restricted subsets of Python 600 So far"	
+600	"this"	"has been done"	"600 So far"	
+601	PyPy takes this approach , naming its restricted compilable version of Python RPython . 
+601	"601 PyPy"	"takes"	"this approach naming its restricted compilable version of Python RPython"	
+601	"601 PyPy"	"be naming"	"its restricted compilable version of Python RPython"	
+601	"its"	"has"	"restricted compilable version of Python RPython"	
+602	Psyco is a specialising just in time compiler that integrates with CPython and transforms bytecode to machine code at runtime . 
+602	"a specialising just in time compiler"	"is"	
+602	"a"	"be specialising"	"just in time compiler"	
+602	"time compiler"	"integrates"	"with CPython"	
+602	"time compiler"	"transforms"	"bytecode with CPython"	
+602	"time compiler"	"transforms"	"bytecode to machine code"	
+602	"time compiler"	"transforms"	"bytecode at runtime"	
+602	"time compiler"	"transforms"	"bytecode"	
+603	The produced code is specialised for certain data types and is faster than standard Python code . 
+603	"603 The produced code"	"is specialised"	"for certain data types"	
+603	"603 The produced code"	"is is"	"faster than standard Python code for certain data types"	
+603	"603 The produced code"	"is is"	"faster than standard Python code"	
+604	Psyco is compatible with all Python code , not only a subset . 
+604	"604 Psyco"	"is compatible"	"with all Python code"	
+604	"604 Psyco"	"is"	"compatible"	
+604	"604 Psyco is compatible with all Python code"	"is"	"not only a subset"	
+605	http ://psyco .sourceforge 
+606	.net/introduction 
+607	.html 
+608	Introduction to Psyco Psyco .sourceforge 
+609	.net 
+610	2011-04-19 http ://psyco .sourceforge 
+611	.net/introduction 
+612	.html 
+613	Introduction to Psyco Psyco .sourceforge 
+614	.net 
+615	2011-04-19 Python 's development is conducted largely through the Python Enhancement Proposal ( PEP ) process . 
+615	"Python"	"has"	"615 2011-04-19 development"	
+615	"615 2011-04-19 Python 's development"	"is conducted"	"largely through the Python Enhancement Proposal process"	
+615	"the Python Enhancement Proposal"	"is"	"PEP"	
+616	PEPs are standardized design documents providing general information related to Python , including proposals , descriptions , design rationale , and explanations for language features . 
+616	"616 PEPs"	"are standardized design documents"	"providing general information related to Python"	
+616	"616 PEPs"	"are standardized design documents"	"including proposals"	
+616	"616 PEPs"	"are standardized design documents"	"including descriptions"	
+616	"616 PEPs"	"are standardized design documents"	"including design rationale"	
+616	"616 PEPs"	"are standardized design documents"	"including explanations for language features"	
+616	"616 PEPs"	"are"	"standardized design documents"	
+616	"standardized design documents including proposals"	"be providing"	"general information related to Python"	
+616	"standardized design documents including descriptions"	"be providing"	"general information related to Python"	
+616	"standardized design documents including design rationale"	"be providing"	"general information related to Python"	
+616	"standardized design documents including explanations for language features"	"be providing"	"general information related to Python"	
+616	"general information"	"be related"	"to Python"	
+617	http ://www.python 
+618	.org/dev/peps/pep-0001/ 
+619	PEP 1 - PEP Purpose and Guidelines Python .org 
+620	2011-04-19 http ://www.python 
+621	.org/dev/peps/pep-0001/ 
+622	PEP 1 - PEP Purpose and Guidelines Python .org 
+623	2011-04-19 Outstanding PEPs are reviewed and commented upon by Van Rossum , the Python project 's Benevolent Dictator for Life ( leader / language architect ) . 
+623	"623 2011-04-19 Outstanding PEPs"	"are reviewed"	"upon by Van Rossum"	
+623	"623 2011-04-19 Outstanding PEPs"	"are commented"	"upon by Van Rossum"	
+623	"the Python project"	"has"	"Benevolent Dictator for Life"	
+623	"the Python project 's Benevolent Dictator for Life"	"is"	"leader language architect"	
+624	http ://www.python 
+625	.org/doc/essays/pepparade 
+626	.html 
+627	Parade of the PEPs Python .org 
+628	2008-11-24 http ://www.python 
+629	.org/doc/essays/pepparade 
+630	.html 
+631	Parade of the PEPs Python .org 
+632	2008-11-24 CPython 's developers also communicate over a mailing list , python-dev , which is the primary forum for discussion about the language 's development ; specific issues are discussed in the Roundup bug tracker maintained at python .org 
+633	. 
+634	http ://classic-web.archive 
+635	.org/web/20080229153753/http 
+636	://www.python 
+637	.org/dev/intro/ 
+638	Guido , Some Guys , and a Mailing List : How Python is Developed Cannon Brett python .org 
+639	Python Software Foundation 2009-06-27 http ://classic-web.archive 
+640	.org/web/20080229153753/http 
+641	://www.python 
+642	.org/dev/intro/ 
+643	Guido , Some Guys , and a Mailing List : How Python is Developed Cannon Brett python .org 
+644	Python Software Foundation 2009-06-27 Development takes place at the self-hosted hg .python 
+645	.org 
+646	. 
+647	CPython 's public releases come in three types , distinguished by which part of the version number is incremented : A number of alpha_ beta_ and release-candidates are also released as previews and for testing before the final release is made . 
+647	"647 CPython"	"has"	"public"	
+647	"647 CPython 's public"	"releases"	
+647	"part of the version number"	"is incremented"	"by which"	
+647	"part of the version number"	"is incremented"	
+647	"A number of alpha _ beta _"	"are released"	"as previews also"	
+647	"A of alpha _ beta _ release-candidates"	"are released"	"as previews also"	
+647	"A number of alpha _ beta _"	"are released"	"as previews"	
+647	"A of alpha _ beta _ release-candidates"	"are released"	"as previews"	
+647	"the final release"	"is made"	"for testing"	
+647	"the final release"	"is made"	
+648	Although there is a rough schedule for each release , this is often pushed back if the code is not ready . 
+648	"a rough schedule for each release"	"there is"	
+648	"this"	"is pushed"	"back often"	
+648	"this"	"is pushed"	"back if the code is not ready"	
+648	"this"	"is pushed"	"back"	
+648	"the code"	"is not"	"ready"	
+649	The development team monitor the state of the code by running the large unit test suite during development , and using the BuildBot continuous integration system . 
+649	"649 The development team"	"monitor"	"the state of the code by running the large unit test suite during development"	
+649	"649 The development team"	"monitor"	"the state of the code"	
+649	"649 The development team"	"using"	"the state of the code the BuildBot continuous integration system by running the large unit test suite during development"	
+649	"649 The development team"	"using"	"the state of the code the BuildBot continuous integration system"	
+650	http ://python .org/dev/buildbot/ 
+651	Python Buildbot September 24 , 2011 http ://python .org/dev/buildbot/ 
+652	Python Buildbot September 24 , 2011 Python has a large standard library , commonly cited as one of Python 's greatest strengths , Przemyslaw Piotrowski , , Oracle Technology Network , July 2006 . 
+652	"2011 Python"	"has"	"a large standard library 652 Python Buildbot September 24"	
+652	"652 Python Buildbot September 24"	"cited"	"as one of Python 's greatest strengths commonly"	
+652	"652 Python Buildbot September 24"	"cited"	"as one of Python 's greatest strengths"	
+652	"Python"	"has"	"greatest strengths"	
+652	"Oracle Technology Network"	"is"	"July 2006"	
+653	Retrieved October 21 , 2008 . 
+653	"653"	"be Retrieved"	"October 21 2008"	
+654	providing pre-written tools suited to many tasks . 
+654	"654"	"be providing"	"pre-written tools suited to many tasks"	
+654	"pre-written tools"	"be suited"	"to many tasks"	
+655	This is deliberate and has been described as a "batteries included " http ://www.python 
+655	"This"	"is"	"deliberate 655"	
+655	"This"	"is has been"	"described as a batteries 655"	
+655	"This"	"is has been"	"described 655"	
+655	"655"	"included"	
+656	.org/about/ 
+657	About Python python .org 
+658	Python Software Foundation 2009-06-27 http ://www.python 
+659	.org/about/ 
+660	About Python python .org 
+661	Python Software Foundation 2009-06-27 Python philosophy . 
+662	The modules of the standard library can be augmented with custom modules written in either C or Python . 
+662	"662 The modules of the standard library"	"can be augmented"	"with custom modules written in C"	
+662	"662 The modules of the standard library"	"can be augmented"	"with custom modules written in Python"	
+662	"custom modules"	"be written"	"in C"	
+662	"custom modules"	"be written"	"in Python"	
+663	Boost C++ Libraries includes a library , Boost.Python 
+663	"663 Boost C++ Libraries"	"includes"	"a library"	
+664	, to enable interoperability between C++ and Python . 
+665	Because of the wide variety of tools provided by the standard library , combined with the ability to use a lower-level language such as C and C++ , which is already capable of interfacing between other libraries , Python can be a powerful glue language between languages and tools . 
+665	"665 Because of the wide variety of tools provided by the standard library"	"be combined"	"with the ability to use a lower-level language such as C"	
+665	"665 Because of the wide variety of tools provided by the standard library"	"be combined"	"with the ability to use a lower-level language such as C++"	
+665	"tools"	"be provided"	"by the standard library"	
+665	"the ability"	"be use"	"a lower-level language such as C"	
+665	"the ability"	"be use"	"a lower-level language such as C++"	
+665	"the ability to use a lower-level language such as C"	"is capable"	"already"	
+665	"the ability to use a lower-level language such as C++"	"is capable"	"already"	
+665	"the ability to use a lower-level language such as C"	"is capable"	"of interfacing between other libraries"	
+665	"the ability to use a lower-level language such as C++"	"is capable"	"of interfacing between other libraries"	
+665	"the ability to use a lower-level language such as C"	"is"	"capable"	
+665	"the ability to use a lower-level language such as C++"	"is"	"capable"	
+665	"Python"	"can be"	"a powerful glue language between languages and tools the ability to use a lower-level language such as C"	
+665	"Python"	"can be"	"a powerful glue language between languages and tools the ability to use a lower-level language such as C++"	
+665	"Python"	"can be"	"a powerful glue language the ability to use a lower-level language such as C"	
+665	"Python"	"can be"	"a powerful glue language the ability to use a lower-level language such as C++"	
+666	The standard library is particularly well tailored to writing Internet-facing applications , with a large number of standard formats and protocols ( such as MIME and HTTP ) already supported . 
+666	"666 The standard library"	"is tailored"	"to writing Internet-facing applications particularly well"	
+666	"666 The standard library"	"is tailored"	"to writing Internet-facing applications with a large number of standard formats such as MIME already supported"	
+666	"666 The standard library"	"is tailored"	"to writing Internet-facing applications with a large number of standard protocols such as MIME already supported"	
+666	"666 The standard library"	"is tailored"	"to writing Internet-facing applications with a large number of standard protocols such as HTTP already supported"	
+666	"666 The standard library"	"is tailored"	"to writing Internet-facing applications with a large number of standard formats such as HTTP already supported"	
+666	"666 The standard library"	"is tailored"	"to writing Internet-facing applications"	
+666	"a large number of standard formats such as MIME"	"be supported"	"already"	
+666	"a large number of standard protocols such as MIME"	"be supported"	"already"	
+666	"a large number of standard protocols such as HTTP"	"be supported"	"already"	
+666	"a large number of standard formats such as HTTP"	"be supported"	"already"	
+667	Modules for creating graphical user interface , connecting to relational database , arithmetic with arbitrary precision decimals , manipulating regular expression , and doing unit testing are also included . 
+667	"667 Modules for creating graphical user interface connecting to relational database"	"be manipulating"	"regular expression"	
+667	"667 for creating graphical user interface connecting to relational database doing unit testing"	"be manipulating"	"regular expression"	
+667	"667 Modules for creating graphical user interface manipulating regular expression"	"be connecting"	"to relational database"	
+667	"667 for creating graphical user interface manipulating regular expression doing unit testing"	"be connecting"	"to relational database"	
+667	"667 Modules for creating graphical user interface connecting to relational database manipulating regular expression"	"is"	"arithmetic with arbitrary precision decimals"	
+667	"667 for creating graphical user interface connecting to relational database manipulating regular expression doing unit testing"	"is"	"arithmetic with arbitrary precision decimals"	
+667	"667 Modules for creating graphical user interface connecting to relational database manipulating regular expression"	"are included"	"also"	
+667	"667 for creating graphical user interface connecting to relational database manipulating regular expression doing unit testing"	"are included"	"also"	
+667	"667 Modules for creating graphical user interface connecting to relational database manipulating regular expression"	"are included"	
+667	"667 for creating graphical user interface connecting to relational database manipulating regular expression doing unit testing"	"are included"	
+668	http ://www.python 
+669	.org/peps/pep-0327.html 
+670	PEP 327 - Decimal Data Type Python .org 
+671	2008-11-24 http ://www.python 
+672	.org/peps/pep-0327.html 
+673	PEP 327 - Decimal Data Type Python .org 
+674	2008-11-24 Some parts of the standard library are covered by specifications ( for example , the WSGI implementation wsgiref follows ) , but the majority of the modules are not . 
+674	"674 2008-11-24 Some parts of the standard library"	"are covered"	"by specifications"	
+674	"674 2008-11-24 Some parts of the standard library"	"are the majority"	"of the modules by specifications"	
+674	"674 2008-11-24 Some parts of the standard library"	"are the majority"	"of the modules"	
+674	"the WSGI implementation wsgiref"	"follows"	"specifications for example"	
+674	"the WSGI implementation wsgiref"	"follows"	"specifications"	
+675	They are specified by their code , internal documentation , and test suite ( if supplied ) . 
+675	"They"	"are specified"	"by their code 675"	
+675	"They"	"are specified"	"675"	
+675	"their"	"has"	"code"	
+676	However , because most of the standard library is cross-platform Python code , there are only a few modules that must be altered or completely rewritten by alternative implementations . 
+676	"most of the standard library"	"is"	"cross-platform Python code"	
+676	"only a few modules"	"there are"	
+676	"only a few modules"	"must be altered"	
+676	"only a few modules"	"must be rewritten"	"by alternative implementations completely"	
+676	"only a few modules"	"must be rewritten"	"by alternative implementations"	
+677	The standard library is not essential to run Python or embed Python within an application . 
+677	"677 The standard library"	"is not"	"essential to run Python"	
+677	"677 The standard library"	"is not"	"essential to embed Python Python within an application"	
+677	"677 The standard library"	"is not"	"essential to embed Python Python"	
+678	Blender 2.49 
+679	for instance omits most of the standard library . 
+679	"679 for instance"	"omits"	"most of the standard library"	
+680	For software testing , the standard library provides the unittest and doctest modules . 
+680	"the standard library"	"provides"	"the unittest modules"	
+680	"the standard library"	"provides"	"the doctest modules"	
+681	Python 's design and philosophy have influenced several programming languages , including : Python 's development practices have also been emulated by other languages . 
+681	"Python"	"has"	"681 design"	
+681	"681 Python 's design"	"have influenced"	"several programming languages including"	
+681	"681 Python 's philosophy"	"have influenced"	"several programming languages including"	
+681	"Python"	"has"	"development practices"	
+681	"Python 's development practices"	"have been emulated"	"by other languages also"	
+681	"Python 's development practices"	"have been emulated"	"by other languages"	
+682	The practice of requiring a document describing the rationale for , and issues surrounding , a change to the language ( in Python 's case , a PEP ) is also used in Tcl http ://www.tcl.tk/cgi-bin/tct/tip/3.html 
+682	"682 The practice of requiring a document describing the rationale for"	"is"	"a change to the language in Python 's case a PEP is also used in Tcl http www.tcl.tk/cgi-bin/tct/tip/3.html"	
+682	"682 The practice of requiring a document describing the rationale issues surrounding"	"is"	"a change to the language in Python 's case a PEP is also used in Tcl http www.tcl.tk/cgi-bin/tct/tip/3.html"	
+682	"a document"	"be describing"	"the rationale for"	
+682	"a document"	"be describing"	"the rationale issues surrounding"	
+682	"issues"	"be surrounding"	
+682	"Python"	"has"	"case"	
+682	"a PEP"	"is used"	"in Tcl http in Python 's case"	
+682	"a PEP"	"is used"	"in Tcl http also"	
+682	"a PEP"	"is used"	"in Tcl http"	
+683	TIP # 3 : TIP Format Tcl.tk 
+684	2008-11-24 http ://www.tcl.tk/cgi-bin/tct/tip/3.html 
+685	TIP # 3 : TIP Format Tcl.tk 
+686	2008-11-24 and Erlang http ://www.erlang 
+687	.org/eeps/eep-0001.html 
+688	EEP - Erlang Enhancement Proposal Erlang .org 
+689	2011-04-19 http ://www.erlang 
+690	.org/eeps/eep-0001.html 
+691	EEP - Erlang Enhancement Proposal Erlang .org 
+692	2011-04-19 because of Python 's influence . 
+692	"Python"	"has"	"influence"	
+693	Free software Python Computer programming 30em Python Programming Topic:Python Python Programming Python Category :Python ( programming language ) Category :Class-based programming languages Category :Dynamically typed programming languages Category :Cross-platform free software Category :Object-oriented programming languages Category :Scripting languages Category :Text-oriented programming languages Category :Programming languages created in 1991 Category :High-level programming languages ru de af:Python als :Python ( Programmiersprache ) ar :بايثون an :Python az:Python ( proqramlaşdırma dili ) bn :পাইথন ( প্রোগ্রামি ং ভাষা ) bg :Python bs :Python programski jezik ca :Python cs :Python da:Python ( programmeringssprog ) de:Python ( Programmiersprache ) et :Python ( programmeerimiskeel ) el :Python es :Python eo:Python ( programlingvo ) eu:Python fa :پایتون ( زبان برنامه‌نویسی ) fr :Python ( langage ) gl:Python ko :파이썬 hi :पाइथन ( प्रोग्रामन भाषा ) hr:Python id :Python ( bahasa pemrograman ) ia :Python ( linguage de programmation ) is :Python ( forritunarmál ) it :Python he :פייתון ( שפת תכנות ) ka :პითონი ( პროგრამირების ენა ) kk :Python la:Python lv:Python lt :Python jbo :paiton hu:Python ( programozási nyelv ) ml :പൈത്തൺ ( പ്രോഗ്രാമിങ്ങ ് ഭാഷ ) mr :पायथॉन ms :Python nl :Python ( programmeertaal ) ne :पाइथन प्रोग्रामिङ्ग भाष ा ja:Python no:Python pl:Python pt:Python ro:Python ru:Python sq:Python si :පයිතන ් simple :Python ( programming language ) sk :Python ( programovací jazyk ) sl :Python ( programski jezik ) sr :Пајтон ( програмски језик ) sh :Python programski jezik fi:Python sv:Python ( programspråk ) tl:Python ( programming language ) ta :பைத்தான ் te :పైథాన ్ ( కంప్యూటర ్ భాష ) th :ภาษาไพทอน tg :Python tr :Python ( programlama dili ) bug:Python uk :Python vi:Python ( ngôn ngữ lập trình ) zh :Python The ifstatement , which conditionally executes a block of code , along with else and elif ( a contraction of else-if ) . 
+693	"Programming languages"	"be created"	"in 1991 Category"	
+693	"Python"	"als"	"Python ar بايثون an Python az Python proqramlaşdırma dili bn পাইথন bg Python bs"	
+693	"Python"	"is"	"Programmiersprache"	
+693	"পাইথন"	"is"	"প্রোগ্রামি ং ভাষা"	
+693	"Python"	"bs"	
+693	"Python programski jezik"	"Python cs"	"Python bs"	
+693	"Python programski jezik"	"Python cs"	"Python bs"	
+693	"Python"	"is"	"programmeringssprog de Python et Python el Python es Python eo Python eu Python fa پایتون fr Python gl Python ko 파이썬 hi पाइथन hr Python id Python ia Python is Python it Python he פייתון שפת תכנות ka პითონი პროგრამირების ენა kk Python la Python lv Python lt Python jbo paiton hu Python ml പൈത തൺ പ ര ഗ mr पायथॉन ms Python nl Python programmeertaal ne पाइथन प्रोग्रामिङ्ग भाष ा ja Python no Python pl Python pt Python ro Python ru Python sq Python si පය තන simple Python programming language sk Python sl Python sr Пајтон sh Python programski jezik fi Python sv Python tl Python programming language ta பைத்தான ் te పైథాన ్ th ภาษาไพทอน tg Python tr Python bug Python uk Python vi Python zh Python The ifstatement along with else a contraction of else-if"	
+693	"Python"	"is"	"programmeringssprog de Python et Python el Python es Python eo Python eu Python fa پایتون fr Python gl Python ko 파이썬 hi पाइथन hr Python id Python ia Python is Python it Python he פייתון שפת תכנות ka პითონი პროგრამირების ენა kk Python la Python lv Python lt Python jbo paiton hu Python ml പൈത തൺ പ ര ഗ mr पायथॉन ms Python nl Python programmeertaal ne पाइथन प्रोग्रामिङ्ग भाष ा ja Python no Python pl Python pt Python ro Python ru Python sq Python si පය තන simple Python programming language sk Python sl Python sr Пајтон sh Python programski jezik fi Python sv Python tl Python programming language ta பைத்தான ் te పైథాన ్ th ภาษาไพทอน tg Python tr Python bug Python uk Python vi Python zh Python The ifstatement along with elif a contraction of else-if"	
+693	"Python et"	"is"	"Programmiersprache"	
+693	"Python"	"is"	"programmeerimiskeel"	
+693	"Python"	"es"	
+693	"Python"	"es"	
+693	"Python"	"is"	"programlingvo"	
+693	"پایتون"	"is"	"زبان برنامه نویسی"	
+693	"Python"	"is"	"langage"	
+693	"पाइथन"	"is"	"प्रोग्रामन भाषा"	
+693	"Python"	"is"	"bahasa pemrograman"	
+693	"Python"	"is"	"linguage de programmation"	
+693	"Python"	"is"	
+693	"Python"	"is"	
+693	"Python it Python he פייתון שפת תכנות ka პითონი პროგრამირების ენა kk Python la Python lv Python lt Python jbo paiton hu Python ml പൈത തൺ പ ര ഗ mr पायथॉन ms Python nl Python programmeertaal ne पाइथन प्रोग्रामिङ्ग भाष ा ja Python no Python pl Python pt Python ro Python ru Python sq Python si පය තන simple Python programming language sk Python sl Python sr Пајтон sh Python programski jezik fi Python sv Python tl Python programming language ta பைத்தான ் te పైథాన ్ th ภาษาไพทอน tg Python tr Python bug Python uk Python vi Python zh Python The ifstatement along with else a contraction of else-if"	"is"	"forritunarmál"	
+693	"Python it Python he פייתון שפת תכנות ka პითონი პროგრამირების ენა kk Python la Python lv Python lt Python jbo paiton hu Python ml പൈത തൺ പ ര ഗ mr पायथॉन ms Python nl Python programmeertaal ne पाइथन प्रोग्रामिङ्ग भाष ा ja Python no Python pl Python pt Python ro Python ru Python sq Python si පය තන simple Python programming language sk Python sl Python sr Пајтон sh Python programski jezik fi Python sv Python tl Python programming language ta பைத்தான ் te పైథాన ్ th ภาษาไพทอน tg Python tr Python bug Python uk Python vi Python zh Python The ifstatement along with elif a contraction of else-if"	"is"	"forritunarmál"	
+693	"Python"	"is"	"programozási nyelv"	
+693	"പ ര ഗ"	"is"	"രാമിങ ങ ഭാഷ"	
+693	"Python"	"is"	"programovací jazyk"	
+693	"Python"	"is"	"programski jezik"	
+693	"Пајтон"	"is"	"програмски језик"	
+693	"Python"	"is"	"programspråk"	
+693	"పైథాన ్ th ภาษาไพทอน tg Python tr Python bug Python uk Python vi Python zh Python The ifstatement along with else a contraction of else-if"	"is"	"కంప్యూటర ్ భాష"	
+693	"పైథాన ్ th ภาษาไพทอน tg Python tr Python bug Python uk Python vi Python zh Python The ifstatement along with elif a contraction of else-if"	"is"	"కంప్యూటర ్ భాష"	
+693	"Python"	"is"	"programlama dili"	
+693	"Python"	"is"	"ngôn ngữ lập trình"	
+693	"Python The ifstatement along with else a contraction of else-if"	"executes"	"a block of code conditionally"	
+693	"Python The ifstatement along with elif a contraction of else-if"	"executes"	"a block of code conditionally"	
+693	"Python The ifstatement along with else a contraction of else-if"	"executes"	"a block of code"	
+693	"Python The ifstatement along with elif a contraction of else-if"	"executes"	"a block of code"	
+694	The forstatement , which iterates over an iterable object , capturing each element to a local variable for use by the attached block . 
+694	"694 The forstatement"	"be capturing"	"each element to a local variable for use by the attached block"	
+694	"694 The forstatement capturing each element to a local variable for use by the attached block"	"iterates"	"over an iterable object"	
+695	The whilestatement , which executes a block of code as long as its condition is true . 
+695	"695 The whilestatement"	"executes"	"a block of code as long as its condition is true"	
+695	"695 The whilestatement"	"executes"	"a block of code"	
+695	"its"	"has"	"condition"	
+695	"its condition"	"is"	"true"	
+696	The try statement , which allows exceptions raised in its attached code block to be caught and handled by except clauses ; it also ensures that clean-up code in a finally block will always be run regardless of how the block exits . 
+696	"696 The try statement"	"allows"	"exceptions raised in its attached code block to be caught"	
+696	"696 The try statement"	"allows"	"exceptions in its attached code block to be caught handled by except clauses"	
+696	"its"	"has"	"attached code block"	
+696	"it"	"ensures"	"that clean-up code in a finally block will always be run regardless of how the block exits also"	
+696	"it"	"ensures"	"that clean-up code in a finally block will always be run regardless of how the block exits"	
+696	"clean-up code in a finally block"	"will be run"	"regardless of how the block exits always"	
+696	"clean-up code in a finally block"	"will be run"	"regardless of how the block exits"	
+697	The classstatement , which executes a block of code and attaches its local namespace to a class , for use in object-oriented programming . 
+697	"697 The classstatement for use in object-oriented programming"	"executes"	"a block of code"	
+697	"697 The classstatement for use in object-oriented programming"	"attaches"	"a block of code its local namespace to a class"	
+697	"697 The classstatement for use in object-oriented programming"	"attaches"	"a block of code its local namespace"	
+697	"its"	"has"	"local namespace"	
+698	The def statement , which defines a function or method . 
+698	"698 The def statement"	"defines"	"a function"	
+698	"698 The def statement"	"defines"	"a method"	
+699	The with statement ( from Python 2.5 
+700	) , which encloses a code block within a context manager ( for example , acquiring a lock before the block of code is run , and releasing the lock afterwards ) . 
+700	"700"	"encloses"	"a code block within a context manager for example acquiring a lock before the block of code is run"	
+700	"700"	"encloses"	"a code block within a context manager for example acquiring a lock before the block of code is releasing the lock afterwards"	
+700	"the block of code"	"is run"	"before"	
+700	"the block of code"	"is run"	
+700	"the block of code"	"is releasing"	"the lock before"	
+700	"the block of code"	"is releasing"	"the lock afterwards"	
+700	"the block of code"	"is releasing"	"the lock"	
+701	The pass statement , which serves as a NOP and can be used in place of a code block . 
+701	"701 The pass statement"	"serves"	"as a NOP"	
+701	"701 The pass statement"	"can be used"	"in place of a code block as a NOP"	
+701	"701 The pass statement"	"can be used"	"in place of a code block"	
+702	The assertstatement , used during debugging to check for conditions that ought to apply . 
+702	"702 The assertstatement"	"be used"	"during debugging to check for conditions"	
+702	"conditions"	"ought"	"to apply"	
+703	The yield statement , which returns a value from a generator function . 
+703	"703 The yield statement"	"returns"	"a value from a generator function"	
+703	"703 The yield statement"	"returns"	"a value"	
+704	( From Python 2.5 
+705	, yield is also an operator . 
+705	"yield"	"is 705 an operator"	"also"	
+705	"yield"	"is"	"705 an operator"	
+706	This form is used to implement coroutine -- see below . 
+706	"706 This form"	"is used"	"to implement coroutine"	
+707	) In Python 2 , the / operator on integers does integer division : it truncates the result to an integer . 
+707	"the operator on integers"	"does integer division"	"707 In Python 2 it truncates the result to an integer"	
+707	"it"	"truncates"	"the result to an integer"	
+707	"it"	"truncates"	"the result"	
+708	Floating -point division on integers can be achieved by converting one of the integers to a float ( e .g 
+709	. 
+710	float( x ) / y ) . 
+710	"float"	"is"	"x"	
+711	In Python 3 , the result of / is always a floating-point value . 
+712	This behaviour can be enabled in Python 2.2+ 
+712	"712 This behaviour"	"can be enabled"	"in Python 2.2"	
+713	using from future import division . 
+713	"713"	"be using"	"from future import division"	
+714	In both Python 2.2+ 
+715	and Python 3 , // can be used to do integer division . 
+715	"715"	"can be used"	"to do integer division"	
+715	"Python 3"	"can be used"	"to do integer division"	
+716	In Python , = = compares by value , in contrast to Java , where it compares by reference . 
+716	"it"	"compares"	"Java where"	
+716	"it"	"compares"	"by reference Java"	
+716	"it"	"compares"	"Java"	
+717	( Value comparisons in Java use the equals( ) method . 
+717	"717 Value comparisons in Java"	"use"	"the equals method"	
+718	) Python 's is operator may be used to compare object identities ( comparison by reference ) . 
+718	"718 Python 's"	"is"	"operator"	
+718	"718 Python 's is operator"	"may be used"	"to compare object identities comparison by reference"	
+719	Comparisons may be chained , for example a < = b < = c . 
+719	"719 Comparisons"	"may be"	"chained for example a < = b < = c"	
+719	"719 Comparisons"	"may be"	"chained a < = b < = c"	
+720	Python uses the words and , or , not for its boolean operators rather than the symbolic && , | | , ! 
+720	"720 Python"	"uses"	"the words"	
+720	"720 Python"	"not for"	"the words its boolean operators"	
+720	"720 Python"	"not for"	"the words its boolean the symbolic & &"	
+720	"720 Python"	"not for"	"the words its boolean the | |"	
+720	"720 Python"	"not for"	"the words"	
+720	"its"	"has"	"boolean operators"	
+721	used in C. 
+721	"721"	"be used"	"in C."	
+722	Python has a type of expression known as a list comprehension . 
+722	"722 Python"	"has"	"a type of expression known as a list comprehension"	
+722	"expression"	"be known"	"as a list comprehension"	
+723	Python 2.4 
+724	extended list comprehensions into a more general expression known as a generator expression . 
+724	"a more general expression"	"be known"	"as a generator expression"	
+725	http ://www.python 
+726	.org/dev/peps/pep-0289/ 
+727	Generator expressions Python enhancement proposals PEP 289 2002-01-30 2009-01-18 Raymond Hettinger Python software foundation 2011-07-12 http ://www.python 
+728	.org/dev/peps/pep-0289/ 
+729	Generator expressions Python enhancement proposals PEP 289 2002-01-30 2009-01-18 Raymond Hettinger Python software foundation 2011-07-12 Anonymous function are implemented using lambda expressions ; however , these are limited in that the body can only be a single expression . 
+729	"729 however"	"is"	"Generator expressions"	
+729	"Python enhancement proposals PEP 289 2002-01-30 2009-01-18 Raymond Hettinger Python software foundation 2011-07-12 Anonymous function"	"are implemented"	"using lambda expressions expressions"	
+729	"these"	"are"	"limited in that the body can only be a single expression 729 however"	
+729	"these"	"are"	"limited 729 however"	
+729	"the body"	"can be a single expression"	"only"	
+729	"the body"	"can be"	"a single expression"	
+730	Conditional expressions in Python are written as x if c else y http ://www.python 
+730	"730 Conditional expressions in Python"	"are written"	"as x if c else y http"	
+730	"730 Conditional expressions in Python"	"are written"	"as x"	
+731	.org/dev/peps/pep-0308/ 
+732	Conditional expressions Python enhancement proposals PEP 308 2003-02-07 2007-06-28 Guido van Rossum Raymond Hettinger Python software foundation 2011-07-13 http ://www.python 
+733	.org/dev/peps/pep-0308/ 
+734	Conditional expressions Python enhancement proposals PEP 308 2003-02-07 2007-06-28 Guido van Rossum Raymond Hettinger Python software foundation 2011-07-13 ( different in order of operands from the ? : operator common to many other languages ) . 
+735	Python makes a distinction between list and tuple . 
+735	"735 Python"	"makes"	"a distinction between list and tuple"	
+736	Lists are written as [1 , 2 , 3] , are mutable , and cannot be used as the keys of dictionaries ( dictionary keys must be immutable in Python ) . 
+736	"736 Lists"	"are written"	"as 1 2 3 are mutable"	
+736	"736 Lists"	"are written"	"as 1 2 3 are can not be used as the keys of dictionaries"	
+736	"dictionaries"	"is"	"dictionary keys must be immutable in Python"	
+737	Tuples are written as ( 1 , 2 , 3 ) , are immutable and thus can be used as the keys of dictionaries , provided all elements of the tuple are immutable . 
+737	"737 Tuples"	"are written"	"as 1 2 3"	
+737	"737 Tuples"	"are written"	"as 1 2 3"	
+738	The parentheses around the tuple are optional in some contexts . 
+738	"738 The parentheses around the tuple"	"are optional"	"in some contexts"	
+738	"738 The parentheses around the tuple"	"are"	"optional"	
+739	Tuples can appear on the left side of an equal sign ; hence a statement like x , y = y , x can be used to swap two variables . 
+739	"739 Tuples"	"can appear"	"on the left side of an equal sign"	
+739	"hence a statement like x"	"be used"	"to swap two variables"	
+739	"x"	"can be used"	"to swap two variables"	
+740	Python 2 has a " string format " operator % . 
+740	"740 Python 2"	"has"	"a string format"	
+741	This functions analogous to printf format strings in C , e.g 
+741	"This"	"functions"	"analogous to printf format strings in C 741 e.g"	
+742	. 
+743	"foo= %s bar= %d " % ( "blah" , 2 ) evaluates to "foo=blah bar=2 " . 
+743	"blah evaluates to foo = blah bar = 2"	"is"	"2"	
+743	"blah"	"be evaluates"	"blah bar = 2"	
+743	"blah bar"	"="	"2"	
+744	In Python 3 , this was obsoleted in favour of the format( ) method of the str class , e.g 
+744	"this"	"was obsoleted"	"in favour of the format"	
+745	. 
+746	"foo={ 0 } bar={ 1 }" .format( 
+747	"blah" , 2 ) . 
+748	Python has various kinds of string literal : Strings delimited by single or double quotation marks . 
+748	"748 Python"	"has"	"various kinds of string literal"	
+748	"748 Python"	"has"	"various kinds of string literal"	
+748	"Strings"	"be delimited"	"by single quotation marks"	
+748	"Strings"	"be delimited"	"by double quotation marks"	
+749	Unlike in Unix shell , Perl and Perl -influenced languages , single quotation marks and double quotation marks function similarly . 
+749	"749 Unlike in Unix shell"	"influenced"	"languages single quotation marks function similarly"	
+749	"749 Unlike in Unix shell"	"influenced"	"languages single quotation double quotation marks function similarly"	
+749	"749 Unlike in Unix Perl"	"influenced"	"languages single quotation marks function similarly"	
+749	"749 Unlike in Unix Perl"	"influenced"	"languages single quotation double quotation marks function similarly"	
+749	"749 Unlike in Unix Perl"	"influenced"	"languages single quotation marks function similarly"	
+749	"749 Unlike in Unix Perl"	"influenced"	"languages single quotation double quotation marks function similarly"	
+750	Both kinds of string use the backslash ( ) as an escape character and there is no implicit string interpolation such as " $ foo " . 
+750	"kinds of string"	"use"	"the backslash as an escape character"	
+750	"kinds of string"	"use"	"the backslash"	
+750	"no implicit string interpolation such as $ foo"	"there is"	
+751	Triple-quoted strings , which begin and end with a series of three single or double quotation marks . 
+751	"751 Triple-quoted strings"	"begin"	"with a series of three single quotation marks"	
+751	"751 Triple-quoted strings"	"begin"	"with a series of three double quotation marks"	
+751	"751 Triple-quoted strings"	"end"	"with a series of three single quotation marks"	
+751	"751 Triple-quoted strings"	"end"	"with a series of three double quotation marks"	
+752	They may span multiple lines and function like here document in shells , Perl and Ruby . 
+752	"They"	"may span"	"multiple lines like here document in shells 752"	
+752	"They"	"may span"	"multiple function like here document in shells 752"	
+752	"They"	"may span"	"multiple lines 752"	
+752	"They"	"may span"	"multiple function 752"	
+752	"here document in shells"	"is"	"Perl"	
+752	"here document in shells"	"is"	"Ruby"	
+753	Raw string varieties , denoted by prefixing the string literal with an r . 
+753	"753 Raw string varieties"	"be denoted"	"by prefixing the string literal with an r"	
+754	No escape sequences are interpreted ; hence raw strings are useful where literal backslashes are common , such as regular expression and Windows -style paths . 
+754	"754 No escape sequences"	"are interpreted"	
+754	"raw strings"	"are useful"	"hence"	
+754	"raw strings"	"are useful"	"where literal backslashes are common such as regular expression"	
+754	"raw strings"	"are useful"	"where literal backslashes are common such as regular Windows style paths"	
+754	"raw strings"	"are"	"useful"	
+754	"literal backslashes"	"are common"	"where"	
+754	"literal backslashes"	"are common"	"such as regular expression"	
+754	"literal backslashes"	"are common"	"such as regular Windows style paths"	
+754	"literal backslashes"	"are"	"common"	
+755	Compare " @ -quoting " in C# . 
+755	"755"	"Compare"	
+756	Python has index and slice expressions on lists , denoted as a[key ] , a[start :stop ] or a[start :stop :step] . 
+756	"756 Python"	"has"	"index expressions on lists"	
+756	"756 Python"	"has"	"slice expressions on lists"	
+756	"756 Python"	"has"	"index expressions on lists"	
+756	"756 Python"	"has"	"slice expressions on lists"	
+756	"756 Python"	"has"	"index expressions"	
+756	"756 Python"	"has"	"slice expressions"	
+756	"756 Python"	"has"	"index expressions"	
+756	"756 Python"	"has"	"slice expressions"	
+757	Indexes are zero-based , and negative indexes are relative to the end . 
+757	"757 Indexes"	"are"	"zero-based"	
+757	"negative indexes"	"are relative"	"to the end"	
+757	"negative indexes"	"are"	"relative"	
+758	Slices take elements from the start index up to , but not including , the stop index . 
+758	"758 Slices"	"take"	"elements from the start index up to"	
+758	"758 Slices"	"take"	"elements from the start index up not including"	
+758	"758 Slices"	"take"	"elements from the start index"	
+759	The third slice parameter , called step or stride , allows elements to be skipped and reversed . 
+759	"759 The third slice parameter"	"be called"	
+759	"759 The third slice parameter called step"	"allows"	"elements to be skipped"	
+759	"759 The third slice parameter called step"	"allows"	"elements to be reversed"	
+759	"759 The third slice parameter called stride"	"allows"	"elements to be skipped"	
+759	"759 The third slice parameter called stride"	"allows"	"elements to be reversed"	
+760	Slice indexes may be omitted , for example a[ : ] returns a copy of the entire list . 
+760	"760 Slice indexes"	"may be omitted"	"for example a returns a copy of the entire list"	
+761	Each element of a slice is a shallow copy . 
+761	"761 Each element of a slice"	"is"	"a shallow copy"	
+762	Strings delimited by single or double quotation marks . 
+762	"762 Strings"	"be delimited"	"by single quotation marks"	
+762	"762 Strings"	"be delimited"	"by double quotation marks"	
+763	Unlike in Unix shell , Perl and Perl -influenced languages , single quotation marks and double quotation marks function similarly . 
+763	"763 Unlike in Unix shell"	"influenced"	"languages single quotation marks function similarly"	
+763	"763 Unlike in Unix shell"	"influenced"	"languages single quotation double quotation marks function similarly"	
+763	"763 Unlike in Unix Perl"	"influenced"	"languages single quotation marks function similarly"	
+763	"763 Unlike in Unix Perl"	"influenced"	"languages single quotation double quotation marks function similarly"	
+763	"763 Unlike in Unix Perl"	"influenced"	"languages single quotation marks function similarly"	
+763	"763 Unlike in Unix Perl"	"influenced"	"languages single quotation double quotation marks function similarly"	
+764	Both kinds of string use the backslash ( ) as an escape character and there is no implicit string interpolation such as " $ foo " . 
+764	"kinds of string"	"use"	"the backslash as an escape character"	
+764	"kinds of string"	"use"	"the backslash"	
+764	"no implicit string interpolation such as $ foo"	"there is"	
+765	Triple-quoted strings , which begin and end with a series of three single or double quotation marks . 
+765	"765 Triple-quoted strings"	"begin"	"with a series of three single quotation marks"	
+765	"765 Triple-quoted strings"	"begin"	"with a series of three double quotation marks"	
+765	"765 Triple-quoted strings"	"end"	"with a series of three single quotation marks"	
+765	"765 Triple-quoted strings"	"end"	"with a series of three double quotation marks"	
+766	They may span multiple lines and function like here document in shells , Perl and Ruby . 
+766	"They"	"may span"	"multiple lines like here document in shells 766"	
+766	"They"	"may span"	"multiple function like here document in shells 766"	
+766	"They"	"may span"	"multiple lines 766"	
+766	"They"	"may span"	"multiple function 766"	
+766	"here document in shells"	"is"	"Perl"	
+766	"here document in shells"	"is"	"Ruby"	
+767	Raw string varieties , denoted by prefixing the string literal with an r . 
+767	"767 Raw string varieties"	"be denoted"	"by prefixing the string literal with an r"	
+768	No escape sequences are interpreted ; hence raw strings are useful where literal backslashes are common , such as regular expression and Windows -style paths . 
+768	"768 No escape sequences"	"are interpreted"	
+768	"raw strings"	"are useful"	"hence"	
+768	"raw strings"	"are useful"	"where literal backslashes are common such as regular expression"	
+768	"raw strings"	"are useful"	"where literal backslashes are common such as regular Windows style paths"	
+768	"raw strings"	"are"	"useful"	
+768	"literal backslashes"	"are common"	"where"	
+768	"literal backslashes"	"are common"	"such as regular expression"	
+768	"literal backslashes"	"are common"	"such as regular Windows style paths"	
+768	"literal backslashes"	"are"	"common"	
+769	Compare " @ -quoting " in C# . 
+769	"769"	"Compare"	
+770	list comprehensions vs. 
+771	for -loops conditional expressions vs. 
+772	if blocks The eval( ) vs. 
+773	exec( ) built-in functions ( in Python 2 , exec is a statement ) ; the former is for expressions , the latter is for statements . 
+773	"exec"	"is"	"a statement"	
+773	"the former"	"is"	"for expressions the latter is for statements"	
+773	"the former"	"is"	"the latter is for statements"	
+773	"the latter"	"is"	"for statements"	
+774	backwards-incompatible versions , where code is expected to break and must be manually ported . 
+774	"code"	"is expected"	"to break 774 backwards-incompatible versions where"	
+774	"code"	"is expected"	"to break 774 backwards-incompatible must be manually ported where"	
+774	"code"	"is expected"	"to break 774 backwards-incompatible versions"	
+774	"code"	"is expected"	"to break 774 backwards-incompatible must be manually ported"	
+775	The first part of the version number is incremented . 
+775	"775 The first part of the version number"	"is incremented"	
+776	These releases happen infrequently—for example , version 3.0 
+776	"776 These releases"	"happen"	"infrequently"	
+777	was released 8 years after 2.0. 
+777	"777"	"was released"	"8 years after 2.0"	
+778	major or "feature " releases , which are largely compatible but introduce new features . 
+778	"major"	"are compatible"	"largely"	
+778	"feature releases"	"are compatible"	"largely"	
+778	"major"	"are"	"compatible"	
+778	"feature releases"	"are"	"compatible"	
+778	"major"	"are"	"introduce largely new features"	
+778	"feature releases"	"are"	"introduce largely new features"	
+778	"major"	"are"	"introduce new features"	
+778	"feature releases"	"are"	"introduce new features"	
+779	The second part of the version number is incremented . 
+779	"779 The second part of the version number"	"is incremented"	
+780	These releases are scheduled to occur roughly every 18 months , and each major version is supported by bugfixes for several years after its release . 
+780	"780 These releases"	"are scheduled"	"to occur roughly every 18 months"	
+780	"each major version"	"is supported"	"by bugfixes for several years"	
+780	"each major version"	"is supported"	"by bugfixes after its release"	
+780	"each major version"	"is supported"	"by bugfixes"	
+780	"its"	"has"	"release"	
+781	http ://mail.python 
+782	.org/pipermail/python-dev/2002-April/022739.html 
+783	[ Python-Dev ] Release Schedules ( was Stability &amp; change ) Norwitz Neal 8 April 2002 2009-06-27 http ://mail.python 
+784	.org/pipermail/python-dev/2002-April/022739.html 
+785	[ Python-Dev ] Release Schedules ( was Stability &amp; change ) Norwitz Neal 8 April 2002 2009-06-27 bugfix releases , which introduce no new features but fix bugs . 
+785	"Norwitz Neal 8 April 2002 2009-06-27 bugfix releases"	"introduce"	"no new features"	
+785	"Norwitz Neal 8 April 2002 2009-06-27 bugfix releases"	"fix"	"no new features bugs"	
+786	The third and final part of the version number is incremented . 
+786	"786 The third part of the version number"	"is incremented"	
+786	"786 The final part of the version number"	"is incremented"	
+787	These releases are made whenever a sufficient number of bugs have been fixed upstream since the last release , or roughly every 3 months . 
+787	"787 These releases"	"are made"	"whenever a sufficient number of bugs have been fixed upstream since the last release"	
+787	"787 These releases"	"are made"	"whenever a sufficient number of bugs have been fixed upstream since the last roughly every 3 months"	
+787	"a sufficient number of bugs"	"have been fixed"	"upstream whenever"	
+787	"a sufficient number of bugs"	"have been fixed"	"upstream since the last release"	
+787	"a sufficient number of bugs"	"have been fixed"	"upstream since the last roughly every 3 months"	
+787	"a sufficient number of bugs"	"have been fixed"	"upstream"	
+788	Security vulnerabilities are also patched in bugfix releases . 
+788	"788 Security vulnerabilities"	"are patched"	"in bugfix releases also"	
+788	"788 Security vulnerabilities"	"are patched"	"in bugfix releases"	
+789	http ://python .org/dev/peps/pep-0006/ 
+790	PEP 6 -- Bug Fix Releases Baxter Anthony Aahz 2001-03-15 Python Software Foundation 2009-06-27 http ://python .org/dev/peps/pep-0006/ 
+791	PEP 6 -- Bug Fix Releases Baxter Anthony Aahz 2001-03-15 Python Software Foundation 2009-06-27 Pyrex and its derivative Cython are code translators that are targeted at writing fast C extensions for the CPython interpreter . 
+791	"Bug"	"Fix"	"Releases Baxter Anthony Aahz 2001-03-15 Python Software Foundation 2009-06-27 Pyrex"	
+791	"Bug"	"Fix"	"Releases Baxter Anthony Aahz 2001-03-15 Python Software Foundation 2009-06-27 its derivative Cython"	
+791	"its"	"has"	"derivative Cython"	
+791	"Bug Fix Releases Baxter Anthony Aahz 2001-03-15 Python Software Foundation 2009-06-27 Pyrex"	"are"	"code translators 791 PEP 6"	
+791	"Bug Fix Releases Baxter Anthony Aahz 2001-03-15 Python Software Foundation 2009-06-27 its derivative Cython"	"are"	"code translators 791 PEP 6"	
+791	"code translators"	"are targeted"	"at writing fast C extensions for the CPython interpreter"	
+792	The language is mostly Python with syntax extensions for C and C++ features . 
+792	"792 The language"	"is Python"	"mostly"	
+792	"792 The language"	"is Python"	"with syntax extensions for C features"	
+792	"792 The language"	"is Python"	"with syntax extensions for C++ features"	
+792	"792 The language"	"is"	"Python"	
+793	Both languages produce compilable C code as output . 
+793	"793 Both languages"	"produce"	"compilable C code as output"	
+793	"793 Both languages"	"produce"	"compilable C code"	
+794	Boo uses indentation , a similar syntax , and a similar object model . 
+794	"794 Boo"	"uses"	"indentation"	
+794	"794 Boo"	"uses"	"a similar syntax"	
+794	"794 Boo"	"uses"	"a similar object model"	
+795	However , Boo uses static typing and is closely integrated with the .NET 
+796	framework . 
+797	http ://boo.codehaus 
+798	.org/Gotchas+for+Python+Users 
+799	BOO - Gotchas for Python Users boo.codehaus 
+800	.org 
+801	2008-11-24 http ://boo.codehaus 
+802	.org/Gotchas+for+Python+Users 
+803	BOO - Gotchas for Python Users boo.codehaus 
+804	.org 
+805	2008-11-24 Cobra uses indentation and a similar syntax . 
+805	"805 2008-11-24 Cobra"	"uses"	"indentation"	
+805	"805 2008-11-24 Cobra"	"uses"	"a similar syntax"	
+806	Cobra 's " Acknowledgements " document lists Python first among languages that influenced it . 
+806	"806 Cobra"	"has"	"Acknowledgements document lists Python first among languages"	
+806	"languages"	"influenced"	"it"	
+807	http ://cobra-language .com/docs/acknowledgements 
+808	/ Cobra - Acknowledgements cobra-language .com 
+809	2010-04-07 http ://cobra-language .com/docs/acknowledgements 
+810	/ Cobra - Acknowledgements cobra-language .com 
+811	2010-04-07 However , Cobra directly supports design-by-contract , unit tests and optional static typing . 
+811	"Cobra"	"supports"	"811 2010-04-07 However design-by-contract tests directly"	
+811	"Cobra"	"supports"	"811 2010-04-07 However unit tests and optional static typing directly"	
+811	"Cobra"	"supports"	"811 2010-04-07 However design-by-contract optional static typing directly"	
+811	"Cobra"	"supports"	"811 2010-04-07 However design-by-contract tests"	
+811	"Cobra"	"supports"	"811 2010-04-07 However unit tests and optional static typing"	
+811	"Cobra"	"supports"	"811 2010-04-07 However design-by-contract optional static typing"	
+812	http ://cobra-language .com/docs/python/ 
+813	Cobra - Comparison to Python cobra-language .com 
+814	2010-04-07 http ://cobra-language .com/docs/python/ 
+815	Cobra - Comparison to Python cobra-language .com 
+816	2010-04-07 ECMAScript borrowed iterator , generators , and list comprehension from Python . 
+817	http ://wiki .ecmascript.org/doku.php 
+818	?id=proposals :iterators_and_generators Proposals : iterators and generators [ES4 Wiki&#93 ; wiki .ecmascript.org 
+819	2008-11-24 http ://wiki .ecmascript.org/doku.php 
+820	?id=proposals :iterators_and_generators Proposals : iterators and generators [ES4 Wiki&#93 ; wiki .ecmascript.org 
+821	2008-11-24 Go is described as incorporating the "development speed of working in a dynamic language like Python " . 
+821	"821 2008-11-24 Go"	"is described"	"as incorporating the development speed of working in a dynamic language like Python"	
+822	http ://www.techcrunch.com/2009/11/10/google-go-language/ 
+823	Google’s Go : A New Programming Language That’s Python Meets C++ Kincaid Jason 2009-11-10 TechCrunch 2010-01-29 http ://www.techcrunch.com/2009/11/10/google-go-language/ 
+823	"Google"	"has"	"823 Go A New Programming Language Meets C++ Kincaid Jason 2009-11-10 TechCrunch 2010-01-29 http www.techcrunch.com/2009/11/10/google-go-language/"	
+823	"That"	"'s"	"Python A New Programming Language"	
+823	"A New Programming Language"	"Meets"	"C++ Kincaid Jason 2009-11-10 TechCrunch 2010-01-29 http"	
+824	Google’s Go : A New Programming Language That’s Python Meets C++ Kincaid Jason 2009-11-10 TechCrunch 2010-01-29 Groovy was motivated by the desire to bring the Python design philosophy to Java . 
+824	"Google"	"has"	"824 Go A New Programming Language Meets C++ Kincaid Jason 2009-11-10 TechCrunch"	
+824	"That"	"'s"	"Python A New Programming Language"	
+824	"A New Programming Language"	"Meets"	"C++ Kincaid Jason 2009-11-10 TechCrunch"	
+824	"2010-01-29 Groovy"	"was motivated"	"by the desire to bring the Python design philosophy to Java C++ Kincaid Jason 2009-11-10 TechCrunch"	
+824	"2010-01-29 Groovy"	"was motivated"	"C++ Kincaid Jason 2009-11-10 TechCrunch"	
+824	"the desire"	"be bring"	"the Python design philosophy to Java"	
+825	James Strachan 2003-08-29 Groovy - the birth of a new dynamic language for the Java platform http ://radio.weblogs 
+826	.com/0112098/2003/08/29.html 
+827	James Strachan 2003-08-29 Groovy - the birth of a new dynamic language for the Java platform http ://radio.weblogs 
+828	.com/0112098/2003/08/29.html 
+829	OCaml has an optional syntax , called twt ( The Whitespace Thing ) , inspired by Python and Haskell . 
+829	"829 OCaml"	"has"	"an optional syntax called twt inspired by Python"	
+829	"829 OCaml"	"has"	"an optional syntax called twt inspired by Haskell"	
+829	"an optional syntax called twt"	"be inspired"	"by Python"	
+829	"an optional syntax called twt"	"be inspired"	"by Haskell"	
+829	"an optional syntax inspired by Python"	"be called"	
+829	"an optional syntax inspired by Haskell"	"be called"	
+829	"twt"	"is"	"The Whitespace Thing"	
+830	Mike Lin 2009-04-12 " The Whitespace Thing " for OCaml http ://people .csail 
+831	.mit 
+832	.edu/mikelin/ocaml+twt/ 
+833	Mike Lin 2009-04-12 " The Whitespace Thing " for OCaml http ://people .csail 
+834	.mit 
+835	.edu/mikelin/ocaml+twt/ 
+836	Comparison of command shells Comparison of programming languages Comparison of Python integrated development environments List of programming languages List of Python software Scipy Downey Allen B. 
+837	Think Python : How to Think Like a Computer Scientist 978-0521725965 http ://www.greenteapress.com/thinkpython/html/index 
+838	.html 
+839	http ://www.computerworld.com 
+840	.au/index.php/id 
+841	;66665771 The A-Z of Programming Languages : Python Hamilton Naomi 5 August 2008 Computerworld 2010-03-31 – An interview with Guido Van Rossum on Python Lutz Mark Learning Python O'Reilly Media 2009 4th 978-0596158064 Pilgrim Mark Dive Into Python Apress 2004 978-1590593561 http ://diveintopython .net 
+842	Pilgrim Mark Dive Into Python 3 Apress 2009 978-1430224150 http ://diveintopython3.net 
+843	Summerfield Mark Programming in Python 3 Addison-Wesley Professional 2009 2nd 978-0321680563 http ://www.qtrac.eu/py3book 
+844	.html 
+845	http ://www.python 
+846	.org 
+847	newsgroup ( ) / Computers/Programming/Languages/Python Python 
+847	"847 newsgroup"	"is"	"Computers/Programming/Languages Python Python"	

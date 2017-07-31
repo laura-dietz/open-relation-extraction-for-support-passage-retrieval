@@ -1,0 +1,34 @@
+0	
+1	
+2	
+3	SVC (S: Bureau@10, V: "is", C: http@17)
+4	
+5	SVC (S: Bureau@10, V: "is", C: Publications@20)
+6	SVC (C: magazine@8, V: is@4, S: Digest@3, A?: published@9)	SVA (V: "be published", S: magazine@8, A!: by@10)
+7	SVC (C: publication@6, V: is@2, S: It@1, A?: covering@7)	SVA (V: "be covering", S: publication@6, O: golf@9)	SVO (S: women@14, V: "has", O: golf@17)
+8	SVO (V: publishes@5, S: Publications@3, A?: also@4, O: specialized@8)
+9	SVA (V: started@3, S: magazine@2, A!: in@4)	SVA (V: sold@9, S: magazine@2, A?: in@4, A!: to@10, A?: in@16)
+10	SVO (V: sold@4, S: company@3, O: division@7, A?: to@8, A?: in@11)	SVO (S: their@5, V: "has", O: division@7)
+11	SVO (V: produced@6, S: Digest@4, O: rankings@8)	SVO (S: America@11, V: "has", O: Courses@16)
+12	SVA (V: voted@4, S: courses@2, A!: on@5)
+13	SVO (V: topped@7, S: Club@5, O: list@9, A?: year@11)	SVO (V: ranked@20, S: Links@19, A?: when@15, A?: first@21, O: 2001@13)	SVA (V: outranked@26, S: it@23, A?: topped@7, A?: again@25, A!: on@27)
+14	SVOC (V: produces@4, S: magazine@2, A?: also@3, O: lists@5, O: resorts@15)
+15	
+16	SVA (V: introduced@8, S: rankings@6, A!: in@9)	SVO (V: produced@13, S: Digest@12, O: lists@14)	SVA (V: "be called", S: lists@14, A!: at@16)	SVO (S: America@19, V: "has", O: Courses@24)	SVO (S: America@26, V: "has", O: Tests@30)
+17	SVA (V: are@8, S: ten@3, A!: follows@10)	SVC (S: Digest@15, V: "is", C: April@18)	SVC (S: Digest@15, V: "is", C: ten@24)	SVA (V: "be published", S: Digest@15, A!: in@31)	SVA (V: was@35, S: Digest@15, A!: follows@37)	SVA (V: "be published", S: ten@41, A!: in@48)	SVA (V: was@52, S: ten@41, A!: follows@54)	SVO (V: publishes@73, S: Digest@72, A?: Alongside@56, O: list@75)	SVO (S: America@78, V: "has", O: Courses@84)
+18	SVO (V: means@8, S: public@6, A?: In@1, O: course@11, A?: opposed@22)	SVC (C: open@14, V: is@13, S: course@11, XCOMP: play@16)	SVA (V: "be operated", S: course@31, A!: by@33)
+19	SVA (V: published@10, S: ten@3, A?: also@9, A!: in@11)	SVA (V: operated@28, S: one@25, A!: by@29)	SVC (C: Black@35, V: is@33, S: one@25, A?: Of@19)
+20	SVO (S: its@4, V: "has", O: rankings@6)	SVC (S: rankings@6, V: "is", C: Digest@9)
+21	SVO (S: Connecticut@23, V: "has", O: courses@28)
+22	SVO (V: compiles@4, S: magazine@2, A?: also@3, O: list@6)
+23	SVO (V: created@3, S: This@1, XCOMP: using@4)	SVA (V: "be supplemented", S: panelists@16, A!: by@18, A?: with@22)
+24	SVC (C: Scotland@8, V: were@7, S: countries@6, A?: In@1, A?: with@9)	SVA (S: Scotland@8, V: "is in", C: Canada@17)	SVA (S: Scotland@8, V: "is in", C: England@21)	SVA (S: Scotland@8, V: "is in", C: Canada@25)
+25	SV (V: were@4, S: 10@3)	SVC (C: Scotland@13, V: were@12, S: countries@11, A?: In@6)
+26	SV (V: were@4, S: 10@3)	SVA (V: nominated@12, S: Digest@10, A?: In@6, A!: for@13)
+27	
+28	
+29	SVA (V: "be established", S: Magazines@12, A!: in@14)	SVC (S: Club@37, V: "is", C: Course@112)	SVOC (V: Winged@120, S: t@119, XCOMP: Club@123, O: Club@37)	SVC (S: Club@123, V: "is", C: Course@228)	SVC (S: Club@123, V: "is", C: Course@126)	SVC (S: Club@139, V: "is", C: Course@216)	SVC (S: Club@237, V: "is", C: Course@315)
+30	SVC (S: Club@74, V: "is", C: Course@81)
+31	SVC (S: Andrews@1, V: "is", C: Club@7)	SVC (S: Club@7, V: "is", C: Course@10)	SVC (S: Dornoch@13, V: "is", C: Club@19)	SVA (S: Dornoch@13, V: "is in", C: Turnberry@57)	SVC (S: Club@19, V: "is", C: Course@22)	SVC (S: Club@37, V: "is", C: Course@40)	SVC (S: Club@48, V: "is", C: Course@51)	SVA (S: Turnberry@57, V: "is in", C: Course@60)	SVC (S: Ayrshire@63, V: "is", C: Links@68)	SVC (S: Bay@80, V: "is", C: Course@85)	SVO (S: Hawke@78, V: "has", O: Bay@80)
+32	SVC (S: Andrews@1, V: "is", C: Club@7)	SVC (S: Andrews@1, V: "is", C: Club@15)	SVA (S: Portrush@17, V: "is in", C: Muirfield@39)	SVC (S: Gullane@41, V: "is", C: Club@46)	SVC (S: Ballybunion@48, V: "is", C: St@67)
+33	SVO (S: George@1, V: "has", O: Golf@3)	SVC (S: Club@6, V: "is", C: Travel@21)

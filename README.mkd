@@ -1,0 +1,144 @@
+Open Relation Extraction for Support Passage Retrieval
+======================================================
+
+Appendix for: 
+
+    Amina Kadry, Laura Dietz.
+    Open Relation Extraction for Support Passage Retrieval: Merit and Open Issues. 
+    ACM SIGIR. 2017.
+    
+
+[Paper](kadry-dietz-sigir2017-open-relation-extraction-for-support-passage-retrieval.pdf)
+
+
+
+Benchmark Directory Structure
+------------------------------
+
+inside `./benchmark/wikidump/`:
+
+- `query${qid}/`
+    - `query${qid}_${entityid}/`
+        - `query${qid}_${entityid}_${filename}`
+
+
+The query ids and entity ids are according to the REWQ Clueweb12 Dataset of Schuhmacher, Dietz, and Ponzetto available at <http://mschuhma.github.io/rewq/>
+
+For example: `query231/query231_Sloth_(deadly_sin)/...`
+
+The filenames are specified below.
+
+
+Candidate Sentences
+--------------------
+
+For every entity, entity's Wikipedia article is crawled and split it into candidate sentences.
+
+`${filename}=allSentences-SIDs`
+ ~  displays the sentences, and the associated sentence id (first column). 
+
+For example we refer to sentence number 7 as `S\7` such as in `query231_Sloth_(deadly_sin)\S\7` in the following.
+
+`${filename}=allClauses`
+ ~ lists extracted clauses from each sentence (first column is sentence number, e.g. 7)
+
+From each sentence, multiple propositions are extracted with the ClausIE system. For example, we have four propositions extracted from the sentence above, for example `P\7-0` in the following
+
+- `query231_Sloth_(deadly_sin)\P\7-0`
+- `query231_Sloth_(deadly_sin)\P\7-11`
+- `query231_Sloth_(deadly_sin)\P\7-2`
+- `query231_Sloth_(deadly_sin)\P\7-3`
+
+`${filename}=allSentences-SIDs-Extractions`:
+ ~ All sentences and extracted propositions
+
+`${filename}=allSentences-SIDs-IDs`
+ ~ Mapping of sentences and propositions to IDs (S for sentence and P for proposition) by line number. 
+
+`${filename}=allSentences-SIDs-Extractions+IDs`
+~  Both of these files concatenated.
+
+A source code example for how the sentences, propositions, and clauses are extracted can be found in [src/ExampleNNFile.java](./src/ExampleNNFile.java)
+
+
+
+Ground Truth Files
+-------------------
+
+The following ${filename}'s provide the ground truth sentences for this query-entity pair. We denote 
+
+- sExplainingEntityRelevance: Ground Truth (AQ1)
+- sContainingRelation: Rel (AQ2)
+- sWithRelevantRelation: Rel rel (AQ3)
+- sContainingClausieExtraction: ClausIE (AQ4)
+- sContainingRelevantClausieExtraction: ClausIE rel (AQ5)
+- sContainingQueryTerm: Sentences that contain at least one query term, stopwords do not count (Qterm)
+- sEntityMentions: Sentences that mention the query entity (Name)
+- sContainingRelevantEntity: Sentence that contain a relevant entity (not used in paper) 
+
+
+`${filename}=allSentences_html.html`
+ ~ Displays the assessment interface used to collect the assessments for AQ1-5.
+
+The source code for reading annotations and sentence can be found in [src/New_AnnotationReader.java](./src/New_AnnotationReader.java)
+
+
+
+Features
+---------
+
+The ${filename} "allFeatures" lists all extracted features by our approach in SVM-light format. The query ids are renumbered to be unique per query-entity-pair. For reference the ${qid}, ${entityid}, and ${sentenceid} can be extracted from the comment at the end of the line. Example: `# sentid = sent\query231_Sloth_(deadly_sin)\S\1`
+
+A full list of features (also see Table 1 of the paper).
+
+
+Category "Text"
+
+- 1 sentence length measured in number of words
+- 2 sentence position measured as a fraction of the document
+- 3 fraction words that are stop words
+- 4 fraction of query terms covered by sentence
+- 5 sum of ISF of query terms (ISF is inverse sentence frequency)
+- 6 average of ISF of query terms
+- 7 sum of TF-ISF of query terms
+- 8 number of entities mentioned
+
+Category "NLP"
+
+- 9-12 for nouns/verbs/adjectives/adverbs: fraction of words with POS tag
+- 13 whether sentence contains a named entity
+- 14-16 for NER types PER/LOC/ORG: whether NER of type is contained
+
+Category "Dependency Parse (DP)"
+
+- 17 number of edges on the path between two entities in dependency tree
+- 18 indicator whether path goes through root node
+- 19 indicator whether path goes through query term
+
+Category "ClausIE"
+
+- 20 whether ClausIE generated an extraction from this sentence
+- 21-27 for all seven clause types: whether clause of this type is extracted
+- 28 proposition length measured in tokens
+- 29 maximum constituent length (size of dependency tree) in proposition
+- 30-32 for subject/object/both: if another entity is in subject and/or object position of the proposition
+- 33-34 for subject/object position: if given entity is in position of proposition
+- 35-36 for subject/object position: if any entity is in position of proposition
+- 37-38 for subject/object position: if an entity link is in position of prop.
+- 39-41 for subject/verb/object position: if a query term (ignoring stopwords) is in position of proposition
+- 42-43 for subject/object position: if a named entity (NER) is in position of proposition
+
+
+The source code for feature extraction can be found in [src/FeatureExtraction.java](./src/FeatureExtraction.java)
+
+
+Results
+-------
+
+The empirical results for Experiment 1 "Relations and Relevance" (Table 2) are computed with the sheet [spreadsheet/Statistics-Table2.xlsx](./spreadsheet/Statistics-Table2.xlsx).
+
+
+The empirical results for Experiment 2 "Evaluation through LTR" (Figure 1 and Table 3) are computed with the sheet [spreadsheet/L2R-Table3.xlsx](./spreadsheet/L2R-Table3.xlsx).
+
+
+

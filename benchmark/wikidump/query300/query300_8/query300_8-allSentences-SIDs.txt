@@ -1,0 +1,127 @@
+0	The geometric mean , in mathematics , is a type of mean or average , which indicates the central tendency or typical value of a set of numbers . 
+1	A geometric mean is often used when comparing different items - finding a single "figure of merit " for these items - when each item has multiple properties that have different numeric ranges TPC-D - Frequently Asked Questions ( FAQ ) http ://www.tpc.org/tpcd/faq.asp#anchor1140017 
+2	Transaction Processing Performance Council 9 January 2012 TPC-D - Frequently Asked Questions ( FAQ ) http ://www.tpc.org/tpcd/faq.asp#anchor1140017 
+3	Transaction Processing Performance Council 9 January 2012 . 
+4	For example , the geometric mean can give a meaningful "average " to compare two companies which are each rated at 0 to 5 for their environmental sustainability , and are rated at 0 to 100 for their financial viability . 
+5	If an arithmetic mean was used instead of a geometric mean , the financial viability is given more weight because its numeric range is larger - so a small percentage change in the financial rating ( e .g 
+6	. 
+7	going from 80 to 90 ) makes a much larger difference in the arithmetic mean than a large percentage change in environmental sustainability ( e .g 
+8	. 
+9	going from 2 to 5 ) . 
+10	The use of a geometric mean "normalizes " the ranges being averaged , so that no range dominates the weighting , and a given percentage change in any of the properties has the same effect on the geometric mean . 
+11	So , a 20 % change in environmental sustainability from 4 to 4.8 
+12	has the same effect on the geometric mean as a 20 % change in financial viability from 60 to 72 . 
+13	The geometric mean is similar to the arithmetic mean , except that the numbers are multiplied and then the ''n ''th root ( where n is the count of numbers in the set ) of the resulting product is taken . 
+14	For instance , the geometric mean of two numbers , say 2 and 8 , is just the square root of their product ; that is } } 4 . 
+15	As another example , the geometric mean of the three numbers 4 , 1 , and 1/32 is the cube root of their product ( 1/8 ) , which is 1/2 ; that is } } ½ . 
+16	More generally , if the numbers are x_1 ,ldots ,x_n , the geometric mean G satisfies and hence The latter expression states that the log of the geometric mean is the arithmetic mean of the logs of the numbers . 
+17	The geometric mean can also be understood in terms of geometry . 
+18	The geometric mean of two numbers , a and b , is the length of one side of a square whose area is equal to the area of a rectangle with sides of lengths a and b . 
+19	Similarly , the geometric mean of three numbers , a , b , and c , is the length of one side of a cube whose volume is the same as that of a cuboid with sides whose lengths are equal to the three given numbers . 
+20	The geometric mean applies only to positive numbers . 
+21	The geometric mean only applies to positive numbers in order to avoid taking the root of a negative product , which would result in imaginary number , and also to satisfy certain properties about means , which is explained later in the article . 
+22	Note that the definition is unambiguous if one allows 0 ( which yields a geometric mean of 0) , but may be excluded , as one frequently wishes to take the logarithm of geometric means ( to convert between multiplication and addition ) , and one cannot take the logarithm of 0. 
+23	It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 
+24	The geometric mean is also one of the three classic Pythagorean means , together with the aforementioned arithmetic mean and the harmonic mean . 
+25	For all positive data sets containing at least one pair of unequal values , the harmonic mean is always the least of the three means , while the arithmetic mean is always the greatest of the three and the geometric mean is always in between ( see Inequality of arithmetic and geometric means . 
+26	) The geometric mean of a data set {a_1 ,a_2 , ldots ,a_n } is given by : The geometric mean of a data set is less than the data set 's arithmetic mean unless all members of the data set are equal , in which case the geometric and arithmetic means are equal . 
+27	This allows the definition of the arithmetic-geometric mean , a mixture of the two which always lies in between . 
+28	The geometric mean is also the arithmetic-harmonic mean in the sense that if two sequence ( a n ) and ( h n ) are defined : and then a n and h n will converge to the geometric mean of x and y . 
+29	This can be seen easily from the fact that the sequences do converge to a common limit ( which can be shown by Bolzano–Weierstrass theorem ) and the fact that geometric mean is preserved : Replacing the arithmetic and harmonic mean by a pair of generalized mean of opposite , finite exponents yields the same result . 
+30	By using logarithmic identities to transform the formula , the multiplications can be expressed as a sum and the power as a multiplication . 
+31	This is sometimes called the log-average . 
+32	It is simply computing the arithmetic mean of the logarithm-transformed values of a_i ( i .e 
+33	. 
+34	, the arithmetic mean on the log scale ) and then using the exponentiation to return the computation to the original scale , i .e 
+35	. 
+36	, it is the generalised f-mean with f ( x ) = log&nbsp; x . 
+37	For example , the geometric mean of 2 and 8 can be calculated as : where b is any base of a logarithm ( commonly 2 , e or 10 ) . 
+38	If a set of non-identical numbers is subjected to a mean-preserving spread — that is , two or more elements of the set are " spread apart " from each other while leaving the arithmetic mean unchanged — then the geometric mean always decreases . 
+39	Mitchell , Douglas W. 
+40	, " More on spreads and non-arithmetic means , " The Mathematical Gazette 88 , March 2004 , 142-144 . 
+41	In cases where the geometric mean is being used to determine the average growth rate of some quantity , and the initial and final values a_0 and a_n of that quantity are known , the product of the measured growth rate at every step need not be taken . 
+42	Instead , the geometric mean is simply where n is the number of steps from the initial to final state . 
+43	If the values are a_0 , ldots , a_n , then the growth rate between measurement a_k and a_{k+1 } is a_{k+1}/a_k . 
+44	The geometric mean of these growth rates is just The fundamental property of the geometric mean , which can be proven to be false for any other mean , is GMleft( frac{ X_i}{ Y_i}right ) = frac{GM(X_i) }{GM( Y_i) } This makes the geometric mean the only correct mean when averaging normalized results , that is results that are presented as ratios to reference values . 
+45	Philip J. 
+46	Fleming and John J. 
+47	Wallace . 
+48	How not to lie with statistics : the correct way to summarize benchmark results . 
+49	Communications of the ACM , 29( 3 ) :218–221 , March 1986 . 
+50	This is the case when presenting computer performance with respect to a reference computer , or when computing a single average index from several heterogeneous sources ( for example life expectancy , education years and infant mortality ) . 
+51	In this scenario , using the arithmetic or harmonic mean would change the ranking of the results depending on what is used as a reference . 
+52	For example , take the following results : The arithmetic and geometric means "agree " that computer C is the fastest . 
+53	However , by presenting appropriately normalized values and using the arithmetic mean , we can show either of the other two computers to be the fastest . 
+54	Normalizing by A 's result gives A as the fastest computer according to the arithmetic mean : while normalizing by B 's result gives B as the fastest computer according to the arithmetic mean : In all cases , the ranking given by the geometric mean stays the same as the one obtained with unnormalized values . 
+55	Compound annual growth rate The geometric mean is more appropriate than the arithmetic mean for describing proportional growth , both exponential growth ( constant proportional growth ) and varying growth ; in business the geometric mean of growth rates is known as the compound annual growth rate ( CAGR ) . 
+56	The geometric mean of growth over periods yields the equivalent constant growth rate that would yield the same final amount . 
+57	Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 
+58	% and 42.8571 
+59	% for each year respectively . 
+60	Using the arithmetic mean calculates a ( linear ) average growth of 46.5079 
+61	% ( 80 % + 16.6666 
+62	% + 42.8579 
+63	% divided by 3 ) . 
+64	However , if we start with 100 oranges and let it grow 46.5079 
+65	% each year , the result is 314 oranges , not 300 , so the linear average over -states the year-on-year growth . 
+66	Instead , we can use the geometric mean . 
+67	Growing with 80 % corresponds to multiplying with 1.80 
+68	, so we take the geometric mean of 1.80 
+69	, 1.166666 
+70	and 1.428571 
+71	, i .e 
+72	. 
+73	sqrt[3]{1.80 
+74	times 1.166666 
+75	times 1.428571} 
+76	= 1.442249 
+77	; thus the "average " growth per year is 44.2249 
+78	% . 
+79	If we start with 100 oranges and let the number grow with 44.2249 
+80	% each year , the result is 300 oranges . 
+81	Although the geometric mean has been relatively rare in computing social statistics , starting from 2010 the United Nations Human Development Index did switch to this mode of calculation , on the grounds that it better reflected the non-substitutable nature of the statistics being compiled and compared : Note that not all values used to compute the HDI are normalized ; some of them instead have the form ( X - X_{min} ) / ( X_{norm } - X_{min} ) . 
+82	This makes the choice of the geometric mean less obvious than one would expect from the " Properties " section above . 
+83	thumbright300pxEqual area comparison of the aspect ratios used by Kerns Powers to derive theSMPTE16 :9standard.TV 
+84	4:3/1.33 
+85	in red_1.66 
+86	in orange_716 :9/1.77in 
+87	blue_1.85 
+88	in yellow_Panavision/2.2 
+89	in mauveandCinemaScope/2.35 
+90	in purple . 
+91	The geometric mean has been used in choosing a compromise aspect ratio in film and video : given two aspect ratios , the geometric mean of them provides a compromise between them , distorting or cropping both in some sense equally . 
+92	Concretely , two equal area rectangles ( with the same center and parallel sides ) of different aspect ratios intersect in a rectangle whose aspect ratio is the geometric mean , and their hull ( smallest rectangle which contains both of them ) likewise has aspect ratio their geometric mean . 
+93	In the choice of 16 :9 aspect ratio by the SMPTE , balancing 2.35 
+94	and 4:3 , the geometric mean is sqrt{2.35 
+95	times frac{4}{ 3} }=1.7overline{7 
+96	} , and thus 16 :9 = 1.77 
+97	7 ... 
+98	was chosen . 
+99	This was discovered empirically by Kerns Powers , who cut out rectangles with equal areas and shaped them to match each of the popular aspect ratios . 
+100	When overlapped with their center points aligned , he found that all of those aspect ratio rectangles fit within an outer rectangle with an aspect ratio of 1.7 
+101	7 :1 and all of them also covered a smaller common inner rectangle with the same aspect ratio 1.7 
+102	7 :1. 
+103	http ://www.cinemasource 
+104	.com/articles/aspect_ratios.pdf#page=8 
+105	TECHNICAL BULLETIN : Understanding Aspect Ratios The CinemaSource Press 2001 2009-10-24 http ://www.cinemasource 
+106	.com/articles/aspect_ratios.pdf#page=8 
+107	TECHNICAL BULLETIN : Understanding Aspect Ratios The CinemaSource Press 2001 2009-10-24 The value found by Powers is exactly the geometric mean of the extreme aspect ratios , 4:3 ( 1.33 
+108	:1 ) and CinemaScope ( 2.35 
+109	:1 ) , which is coincidentally close to 16 :9 ( 1.78:1 
+110	) . 
+111	Note that the intermediate ratios have no effect on the result , only the two extreme ratios . 
+112	Applying the same geometric mean technique to 16 :9 and 4:3 approximately yields the 14:9 ( 1.55 
+113	5 ... 
+114	) aspect ratio , which is likewise used as a compromise between these ratios . 
+115	Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 , 1999 Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 , 1999 In this case 14:9 is exactly the arithmetic mean of 16 :9 and 4:3 = 12:9 , since 14 is the average of 16 and 12 , while the precise geometric mean is sqrt{frac{16}{9}timesfrac{4}{ 3} } approx 1.5396 
+116	approx 13.8:9 
+117	, but the two different means , arithmetic and geometric , are approximately equal because both numbers are sufficiently close to 1 . 
+118	In signal processing , spectral flatness , a measure of how flat or spiky a spectrum is , is defined as the ratio of the geometric mean of the power spectrum to its arithmetic mean . 
+119	The length of the altitude of a right triangle from the hypotenuse to the right angle , where the altitude is perpendicular to the hypotenuse , is the geometric mean of the two segments into which the hypotenuse is divided . 
+120	In an ellipse , the semi-minor axis is the geometric mean of the maximum and minimum distances of the ellipse from a focus ; and the semi-major axis of the ellipse is the geometric mean of the distance from the center to either focus and the distance from the center to either directrix . 
+121	Statistics Arithmetic mean Arithmetic-geometric mean Average Generalized mean Geometric standard deviation Harmonic mean Heronian mean Hyperbolic coordinates Log-normal distribution Muirhead 's inequality Product Pythagorean means Quadratic mean Rate of return Weighted geometric mean article May 2010 descriptive Category :Means ar :متوسط هندسي be-x-old :Сярэдняе геамэтрычнае bg :Средно геометрично bs :Geometrijska sredina ca :Mitjana geomètrica cs :Geometrický průměr da:Geometrisk gennemsnit de:Geometrisches Mittel es :Media geométrica eo:Geometria meznombro eu:Batezbesteko geometriko fa :میانگین هندسی fr :Moyenne géométrique gl:Media xeométrica ko :기하 평균 hi :ज्यामितीय माध्य hr:Geometrijska sredina lt :Geometrinis vidurkis hu:Mértani közép nl :Meetkundig gemiddelde ja :幾何平均 no:Geometrisk gjennomsnitt nn:Geometrisk middel pms :Media geométrica pl :Średnia geometryczna pt:Média geométrica ro:Medie geometrică ru:Среднее геометрическое sk :Geometrický priemer sl:Geometrična sredina sr:Geometrijska sredina sh:Geometrijska sredina fi:Geometrinen keskiarvo sv:Geometriskt medelvärde ta :பெருக்கல ் சராசர ி tr:Geometrik ortalama ur :ہندسی اوسط vi:Trung bình nhân zh :几何平均数 G = sqrt[n ]{ x_1 x_2 cdots x_n} , ln G = frac{1}{n }{sum_{i=1}^n ln x_i} . 
+122	bigg( prod_{i=1}^n a_i bigg ) ^{ 1/n } = sqrt[n ]{a_1 a_2 cdots a_n} . 
+123	a_{n+1 } = frac{a_n + h_n }{ 2} , quad a_0=x h_{n+1 } = frac{2}{frac{1}{a_n } + frac{1}{h_n }} , quad h_0=y sqrt{a_ih_i}=sqrt{frac{a_i+h_i}{frac{a_i+h_i}{h_ia_i} } }=sqrt{frac{a_i+h_i}{frac{1}{a_i}+frac{1}{h_i} } }=sqrt{a_{i+1}h _{i+1} } bigg( prod_{i=1}^na_i bigg ) ^{ 1/n } = expleft[frac1nsum_{i=1}^nln a_iright ] b^{( log_b ( 2 )+log_b ( 8 ) )/2 } = 4 , left( frac{a_n }{a_0}right ) ^{frac1n} , left ( frac{a_1}{a_0 } frac{a_2 }{a_1 } cdots frac{a_n }{a_{n-1} } right ) ^{frac1n } = left( frac{a_n }{a_0}right ) ^{frac1n } The geometric mean reduces the level of substitutability between dimensions [being compared ] and at the same time ensures that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in education or income . 
+124	Thus , as a basis for comparisons of achievements , this method is also more respectful of the intrinsic differences across the dimensions than a simple average . 
+125	http ://hdr.undp.org/en/statistics/faq 
+126	/ Arithmetic mean Arithmetic-geometric mean Average Generalized mean Geometric standard deviation Harmonic mean Heronian mean Hyperbolic coordinates Log-normal distribution Muirhead 's inequality Product Pythagorean means Quadratic mean Rate of return Weighted geometric mean ] using Geometric Mean ] 

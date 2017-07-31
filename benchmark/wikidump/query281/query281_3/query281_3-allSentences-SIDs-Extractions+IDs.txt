@@ -1,0 +1,1254 @@
+Low-carbohydrate diets or low-carb diets are dietary programs that restrict carbohydrate consumption usually for weight control or for the treatment of obesity . 	0	query281_Low-carbohydrate_diet\S\0
+"Low-carbohydrate diets"	"are"	"dietary programs"	0	query281_Low-carbohydrate_diet\P\0-0
+"Low-carbohydrate low-carb diets"	"are"	"dietary programs"	0	query281_Low-carbohydrate_diet\P\0-1
+"dietary programs"	"restrict"	"carbohydrate consumption usually"	0	query281_Low-carbohydrate_diet\P\0-2
+"dietary programs"	"restrict"	"carbohydrate consumption for weight control"	0	query281_Low-carbohydrate_diet\P\0-3
+"dietary programs"	"restrict"	"carbohydrate consumption for weight control the treatment of obesity"	0	query281_Low-carbohydrate_diet\P\0-4
+"dietary programs"	"restrict"	"carbohydrate consumption"	0	query281_Low-carbohydrate_diet\P\0-5
+Foods high in digestible carbohydrates ( e .g 	1	query281_Low-carbohydrate_diet\S\1
+. 	2	query281_Low-carbohydrate_diet\S\2
+bread , pasta ) are limited or replaced with foods containing a higher percentage of proteins and fat ( e .g 	3	query281_Low-carbohydrate_diet\S\3
+. 	4	query281_Low-carbohydrate_diet\S\4
+meat , poultry , fish , shellfish , eggs , cheese , nuts , seeds and peanuts ) and other foods low in carbohydrates ( e .g 	5	query281_Low-carbohydrate_diet\S\5
+. 	6	query281_Low-carbohydrate_diet\S\6
+most salad vegetable ) , although other vegetable and fruit (especially berries ) are often allowed . 	7	query281_Low-carbohydrate_diet\S\7
+"other vegetable especially berries"	"are allowed"	"often"	7	query281_Low-carbohydrate_diet\P\7-0
+"other fruit especially berries"	"are allowed"	"often"	7	query281_Low-carbohydrate_diet\P\7-1
+The amount of carbohydrate allowed varies with different low-carbohydrate diets . 	8	query281_Low-carbohydrate_diet\S\8
+"The amount of carbohydrate"	"allowed"	"varies with different low-carbohydrate diets"	8	query281_Low-carbohydrate_diet\P\8-0
+Such diets are sometimes ketogenic ( i .e 	9	query281_Low-carbohydrate_diet\S\9
+. 	10	query281_Low-carbohydrate_diet\S\10
+they restrict carbohydrate intake sufficiently to cause ketosis ) , such as the Induction phase of the Atkins diet . 	11	query281_Low-carbohydrate_diet\S\11
+they restrict carbohydrate intake sufficiently to cause ketosis ) , such as the Induction phase of the Atkins diet . 	11	query281_Low-carbohydrate_diet\S\11
+"carbohydrate intake"	"be cause"	"sufficiently"	11	query281_Low-carbohydrate_diet\P\11-0
+http ://women.webmd.com/guide/high-protein-low-carbohydrate-diets 	12	query281_Low-carbohydrate_diet\S\12
+Weight Loss : High-Protein , Low-Carbohydrate Diets Women.webmd.com 	13	query281_Low-carbohydrate_diet\S\13
+Weight Loss : High-Protein , Low-Carbohydrate Diets Women.webmd.com 	13	query281_Low-carbohydrate_diet\S\13
+2011-12-18 http ://women.webmd.com/guide/high-protein-low-carbohydrate-diets 	14	query281_Low-carbohydrate_diet\S\14
+Weight Loss : High-Protein , Low-Carbohydrate Diets Women.webmd.com 	15	query281_Low-carbohydrate_diet\S\15
+Weight Loss : High-Protein , Low-Carbohydrate Diets Women.webmd.com 	15	query281_Low-carbohydrate_diet\S\15
+2011-12-18 Stefanov , Sebastien : , AskMen.com 	16	query281_Low-carbohydrate_diet\S\16
+"2011-12-18 Stefanov AskMen.com"	"is"	"Sebastien"	16	query281_Low-carbohydrate_diet\P\16-0
+Hanlon , Kathie : , Vanderbuilt University , 25 April 1997 Some sources , though , consider less restrictive variants to be low-carbohydrate as well . 	17	query281_Low-carbohydrate_diet\S\17
+"Hanlon"	"is"	"Kathie"	17	query281_Low-carbohydrate_diet\P\17-0
+"Vanderbuilt University"	"is"	"25 April 1997 Some sources"	17	query281_Low-carbohydrate_diet\P\17-1
+"Vanderbuilt University"	"consider"	"less restrictive variants to be low-carbohydrate as well 17 Hanlon though"	17	query281_Low-carbohydrate_diet\P\17-2
+"Vanderbuilt University"	"consider"	"less restrictive variants to be low-carbohydrate as well 17 Hanlon"	17	query281_Low-carbohydrate_diet\P\17-3
+"less restrictive variants"	"be low-carbohydrate"	"low-carbohydrate as well"	17	query281_Low-carbohydrate_diet\P\17-4
+Dolson , Laura : , About.com 	18	query281_Low-carbohydrate_diet\S\18
+"Dolson About.com"	"is"	"Laura"	18	query281_Low-carbohydrate_diet\P\18-0
+: Low Carb Diets , retrieved 11 March 2008 In addition to obesity , low-carbohydrate diets are used as treatments for some other conditions , notably diabetes , Diabetes.co.uk 	19	query281_Low-carbohydrate_diet\S\19
+"Low Carb Diets"	"retrieved"	"11 March 2008 In addition to obesity"	19	query281_Low-carbohydrate_diet\P\19-0
+"Low Carb Diets"	"retrieved"	"11 March 2008"	19	query281_Low-carbohydrate_diet\P\19-1
+"low-carbohydrate diets"	"are used"	"as treatments for some other conditions"	19	query281_Low-carbohydrate_diet\P\19-2
+"notably diabetes"	"is"	"Diabetes.co.uk"	19	query281_Low-carbohydrate_diet\P\19-3
+: Low carb diet , retrieved 09 August 2011 , HealthDay News on U.S. 	20	query281_Low-carbohydrate_diet\S\20
+"Low carb diet"	"retrieved"	"09 August 2011"	20	query281_Low-carbohydrate_diet\P\20-0
+News and World Report , 28 Dec. 	21	query281_Low-carbohydrate_diet\S\21
+"News"	"is"	"28 Dec."	21	query281_Low-carbohydrate_diet\P\21-0
+"World Report"	"is"	"28 Dec."	21	query281_Low-carbohydrate_diet\P\21-1
+2007 Kossoff , Eric : , Epilepsy.com 	22	query281_Low-carbohydrate_diet\S\22
+"2007 Kossoff Epilepsy.com"	"is"	"Eric"	22	query281_Low-carbohydrate_diet\P\22-0
+, updated 22 Feb 2008 David Joachim David Joachim http ://www.prevention.com/cda/article/the-low-carb-diabetes-plan-that-works/548c68f271903110VgnVCM10000013281eac 	23	query281_Low-carbohydrate_diet\S\23
+/weight .loss/diets/other.popular.diets/low.carb.diets/0/2 	24	query281_Low-carbohydrate_diet\S\24
+The Low-Carb Diabetes Plan That Works Prevention Magazine 21 September 2004 19 December 2010 David Joachim David Joachim http ://www.prevention.com/cda/article/the-low-carb-diabetes-plan-that-works/548c68f271903110VgnVCM10000013281eac 	25	query281_Low-carbohydrate_diet\S\25
+/weight .loss/diets/other.popular.diets/low.carb.diets/0/2 	26	query281_Low-carbohydrate_diet\S\26
+The Low-Carb Diabetes Plan That Works Prevention Magazine 21 September 2004 19 December 2010 epilepsy , Schachter Steven C. 	27	query281_Low-carbohydrate_diet\S\27
+"September 2004 19 December 2010 epilepsy"	"is"	"Schachter Steven C."	27	query281_Low-carbohydrate_diet\P\27-0
+http ://www.epilepsy.com/epilepsy/treatment_atkins_diet 	28	query281_Low-carbohydrate_diet\S\28
+epilepsy.com 	29	query281_Low-carbohydrate_diet\S\29
+15 March 2006 Modified Atkins Diet 19 December 2010 Schachter Steven C. 	30	query281_Low-carbohydrate_diet\S\30
+http ://www.epilepsy.com/epilepsy/treatment_atkins_diet 	31	query281_Low-carbohydrate_diet\S\31
+epilepsy.com 	32	query281_Low-carbohydrate_diet\S\32
+15 March 2006 Modified Atkins Diet 19 December 2010 Brownlee Christen http ://www .hopkinsmedicine 	33	query281_Low-carbohydrate_diet\S\33
+.org/Press_releases/2008/01_28_08.html 	34	query281_Low-carbohydrate_diet\S\34
+Modified Atkins Diet can cut Epileptic Seizures in Adults Johns Hopkins Medicine 28 January 2008 19 December 2010 Brownlee Christen http ://www .hopkinsmedicine 	35	query281_Low-carbohydrate_diet\S\35
+.org/Press_releases/2008/01_28_08.html 	36	query281_Low-carbohydrate_diet\S\36
+Modified Atkins Diet can cut Epileptic Seizures in Adults Johns Hopkins Medicine 28 January 2008 19 December 2010 Kleffman Sandy http ://findarticles.com/p/articles/mi_qn4176/is_20080130/ai_n21218890 	37	query281_Low-carbohydrate_diet\S\37
+"Modified Atkins Diet"	"can cut"	"Epileptic Seizures in Adults Johns Hopkins Medicine"	37	query281_Low-carbohydrate_diet\P\37-0
+"Modified Atkins Diet"	"can cut"	"Epileptic Seizures"	37	query281_Low-carbohydrate_diet\P\37-1
+High-fat , low-carb diet miracle for epileptic kids Oakland Tribune 30 January 2008 Kleffman Sandy http ://findarticles.com/p/articles/mi_qn4176/is_20080130/ai_n21218890 	38	query281_Low-carbohydrate_diet\S\38
+"High-fat findarticles.com/p/articles/mi_qn4176/is_20080130/ai_n21218890"	"is"	"low-carb diet miracle for epileptic kids Oakland Tribune 30 January 2008 Kleffman Sandy http"	38	query281_Low-carbohydrate_diet\P\38-0
+High-fat , low-carb diet miracle for epileptic kids Oakland Tribune 30 January 2008 chronic fatigue syndrome ( see ketosis ) and polycystic ovarian syndrome . 	39	query281_Low-carbohydrate_diet\S\39
+"High-fat see ketosis"	"is"	"low-carb diet miracle for epileptic kids Oakland Tribune 30 January 2008 chronic fatigue syndrome"	39	query281_Low-carbohydrate_diet\P\39-0
+"see ketosis polycystic ovarian syndrome"	"is"	"low-carb diet miracle for epileptic kids Oakland Tribune 30 January 2008 chronic fatigue syndrome"	39	query281_Low-carbohydrate_diet\P\39-1
+Paleolithic# Diet and nutrition Paleolithic : Diet and nutrition As with the Paleolithic diet , several advocates of low-carbohydrate diets have argued that they are closer to the ancestral diet of humans before the invention of agriculture , and therefore that humans are genetically adapted to diets low in carbohydrate . 	40	query281_Low-carbohydrate_diet\S\40
+"several advocates of low-carbohydrate diets"	"have argued"	"that they are closer to the ancestral diet of humans before the invention of agriculture"	40	query281_Low-carbohydrate_diet\P\40-0
+"several advocates of low-carbohydrate diets"	"have argued"	"that they are closer to the ancestral diet of humans before the invention of agriculture"	40	query281_Low-carbohydrate_diet\P\40-1
+"several advocates of low-carbohydrate diets"	"have argued"	"that they are closer to the ancestral diet of humans before the invention of agriculture"	40	query281_Low-carbohydrate_diet\P\40-2
+"several advocates of low-carbohydrate diets"	"have argued"	"that they are closer to the ancestral diet of humans before the invention of agriculture"	40	query281_Low-carbohydrate_diet\P\40-3
+"several advocates of low-carbohydrate diets"	"have argued"	"that they are closer to the ancestral diet of humans before the invention of agriculture"	40	query281_Low-carbohydrate_diet\P\40-4
+"several advocates of low-carbohydrate diets"	"have argued"	"that they are closer to the ancestral diet of humans before the invention of agriculture"	40	query281_Low-carbohydrate_diet\P\40-5
+"several advocates of low-carbohydrate diets"	"have argued"	"that they are closer to the ancestral diet of humans before the invention of agriculture"	40	query281_Low-carbohydrate_diet\P\40-6
+"several advocates of low-carbohydrate diets"	"have argued"	"that they are closer to the ancestral diet of humans before the invention of agriculture"	40	query281_Low-carbohydrate_diet\P\40-7
+November 2011 Direct archaeological or fossil evidence on nutrition during the Paleolithic era , when all humans subsisted by hunting and gathering , is limited , but suggests that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating . 	41	query281_Low-carbohydrate_diet\S\41
+"all humans"	"be subsisted"	"by hunting"	41	query281_Low-carbohydrate_diet\P\41-0
+"all humans"	"be subsisted"	"by gathering"	41	query281_Low-carbohydrate_diet\P\41-1
+"all humans subsisted by hunting"	"is limited"	"41 November 2011 Direct archaeological evidence on nutrition during the Paleolithic era when"	41	query281_Low-carbohydrate_diet\P\41-2
+"all humans subsisted by hunting"	"is limited"	"41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era when"	41	query281_Low-carbohydrate_diet\P\41-3
+"all humans subsisted by gathering"	"is limited"	"41 November 2011 Direct archaeological evidence on nutrition during the Paleolithic era when"	41	query281_Low-carbohydrate_diet\P\41-4
+"all humans subsisted by gathering"	"is limited"	"41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era when"	41	query281_Low-carbohydrate_diet\P\41-5
+"all humans subsisted by hunting"	"is limited"	"41 November 2011 Direct archaeological evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-6
+"all humans subsisted by hunting"	"is limited"	"41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-7
+"all humans subsisted by gathering"	"is limited"	"41 November 2011 Direct archaeological evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-8
+"all humans subsisted by gathering"	"is limited"	"41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-9
+"all humans subsisted by hunting"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct archaeological evidence on nutrition during the Paleolithic era when"	41	query281_Low-carbohydrate_diet\P\41-10
+"all humans subsisted by hunting"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era when"	41	query281_Low-carbohydrate_diet\P\41-11
+"all humans subsisted by gathering"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct archaeological evidence on nutrition during the Paleolithic era when"	41	query281_Low-carbohydrate_diet\P\41-12
+"all humans subsisted by gathering"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era when"	41	query281_Low-carbohydrate_diet\P\41-13
+"all humans subsisted by hunting"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct archaeological evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-14
+"all humans subsisted by hunting"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-15
+"all humans subsisted by gathering"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct archaeological evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-16
+"all humans subsisted by gathering"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-17
+"all humans subsisted by gathering"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-18
+"all humans subsisted by gathering"	"is suggests"	"that humans evolved from the vegetarian diets common to other great apes to one with a greater level of meat eating 41 November 2011 Direct fossil evidence on nutrition during the Paleolithic era"	41	query281_Low-carbohydrate_diet\P\41-19
+10.1038/sj.ejcn.1601646 	42	query281_Low-carbohydrate_diet\S\42
+10.1038/sj.ejcn.1601646 	43	query281_Low-carbohydrate_diet\S\43
+Some close relatives of modern Homo sapiens , such as the Neanderthal , appear to have been almost exclusively carnivorous . 	44	query281_Low-carbohydrate_diet\S\44
+"Some close relatives of modern Homo sapiens such as the Neanderthal"	"appear"	"to have been carnivorous almost exclusively"	44	query281_Low-carbohydrate_diet\P\44-0
+"Some close relatives of modern Homo sapiens such as the Neanderthal"	"appear"	"to have been carnivorous"	44	query281_Low-carbohydrate_diet\P\44-1
+10.1371/journal 	45	query281_Low-carbohydrate_diet\S\45
+.pone 	46	query281_Low-carbohydrate_diet\S\46
+.0014769 	47	query281_Low-carbohydrate_diet\S\47
+10.1371/journal 	48	query281_Low-carbohydrate_diet\S\48
+.pone 	49	query281_Low-carbohydrate_diet\S\49
+.0014769 	50	query281_Low-carbohydrate_diet\S\50
+A more detailed picture of early human diets before the invention of agriculture may be obtained by analogy to contemporary hunter-gatherers . 	51	query281_Low-carbohydrate_diet\S\51
+"A more detailed picture of early human diets before the invention of agriculture"	"may be obtained"	"by analogy to contemporary hunter-gatherers"	51	query281_Low-carbohydrate_diet\P\51-0
+According to one survey of these societies , a relatively low carbohydrate ( 22–40 % of total energy ) , animal food-centered diet is preferred "whenever and wherever it [is ] ecologically possible" , and where plant foods do predominate carbohydrate consumption remains low because wild plants are much lower in carbohydrate and higher in fiber than modern domesticated crops . 	52	query281_Low-carbohydrate_diet\S\52
+"According to one survey of these societies"	"is"	"a relatively low carbohydrate 22 40 % of total energy animal food-centered diet is preferred whenever"	52	query281_Low-carbohydrate_diet\P\52-0
+"According to one survey of these societies"	"is"	"a relatively low carbohydrate 22 40 % of total energy animal food-centered diet is preferred wherever it is ecologically possible and where plant foods do predominate carbohydrate consumption remains low because wild plants are much lower in carbohydrate and higher in fiber than modern domesticated crops"	52	query281_Low-carbohydrate_diet\P\52-1
+"According to one survey of these societies"	"is"	"a relatively low carbohydrate 22 40 % of total energy animal food-centered diet is whenever where plant foods do predominate carbohydrate consumption remains low because wild plants are much lower in carbohydrate"	52	query281_Low-carbohydrate_diet\P\52-2
+"According to one survey of these societies"	"is"	"a relatively low carbohydrate 22 40 % of total energy animal food-centered diet is whenever where plant foods do predominate carbohydrate consumption remains low because wild plants are much in carbohydrate higher in fiber than modern domesticated crops"	52	query281_Low-carbohydrate_diet\P\52-3
+"According to one survey of these societies"	"is"	"a relatively low carbohydrate 22 40 % of total energy animal food-centered diet is whenever where plant foods do predominate carbohydrate consumption remains low because wild plants are much in carbohydrate higher in fiber than modern domesticated crops"	52	query281_Low-carbohydrate_diet\P\52-4
+"According to one survey of these societies"	"is"	"a relatively low carbohydrate 22 40 % of total energy animal food-centered diet is whenever where plant foods do predominate carbohydrate consumption remains low because wild plants are much in carbohydrate higher in fiber than modern domesticated crops"	52	query281_Low-carbohydrate_diet\P\52-5
+"plant foods"	"do predominate"	"carbohydrate consumption remains low because wild plants are much lower in carbohydrate where"	52	query281_Low-carbohydrate_diet\P\52-6
+"plant foods"	"do predominate"	"carbohydrate consumption remains low because wild plants are much in carbohydrate higher in fiber than modern domesticated crops where"	52	query281_Low-carbohydrate_diet\P\52-7
+"plant foods"	"do predominate"	"carbohydrate consumption remains low because wild plants are much lower in carbohydrate"	52	query281_Low-carbohydrate_diet\P\52-8
+"plant foods"	"do predominate"	"carbohydrate consumption remains low because wild plants are much in carbohydrate higher in fiber than modern domesticated crops"	52	query281_Low-carbohydrate_diet\P\52-9
+"carbohydrate consumption"	"remains"	"low because wild plants are much lower in carbohydrate"	52	query281_Low-carbohydrate_diet\P\52-10
+"carbohydrate consumption"	"remains"	"low because wild plants are much in carbohydrate higher in fiber than modern domesticated crops"	52	query281_Low-carbohydrate_diet\P\52-11
+"carbohydrate consumption"	"remains"	"low"	52	query281_Low-carbohydrate_diet\P\52-12
+"wild plants"	"are lower"	"much"	52	query281_Low-carbohydrate_diet\P\52-13
+"wild plants"	"are higher in fiber than modern domesticated crops"	"much"	52	query281_Low-carbohydrate_diet\P\52-14
+"wild plants"	"are lower"	"in carbohydrate"	52	query281_Low-carbohydrate_diet\P\52-15
+"wild plants"	"are higher in fiber than modern domesticated crops"	"in carbohydrate"	52	query281_Low-carbohydrate_diet\P\52-16
+"wild plants"	"are"	"lower"	52	query281_Low-carbohydrate_diet\P\52-17
+"wild plants"	"are"	"higher in fiber than modern domesticated crops"	52	query281_Low-carbohydrate_diet\P\52-18
+10702160 10702160 Primatologist Katherine Milton , however , has argued that the survey data this conclusion is based on inflates the animal content of typical hunter-gatherer diets ; much of it was based on early ethnography which may have overlooked the role of women in gathering plant foods . 	53	query281_Low-carbohydrate_diet\S\53
+"10702160 10702160 Primatologist Katherine Milton"	"has argued"	"that the survey data much of it was based on early ethnography however"	53	query281_Low-carbohydrate_diet\P\53-0
+"10702160 10702160 Primatologist Katherine Milton"	"has argued"	"that the survey data much of it was based on early ethnography"	53	query281_Low-carbohydrate_diet\P\53-1
+"this conclusion"	"is based"	"on inflates the animal content of typical hunter-gatherer diets the survey data much of it was based on early ethnography"	53	query281_Low-carbohydrate_diet\P\53-2
+"this conclusion"	"is based"	"the survey data much of it was based on early ethnography"	53	query281_Low-carbohydrate_diet\P\53-3
+"much of it"	"was based"	"on early ethnography"	53	query281_Low-carbohydrate_diet\P\53-4
+"early ethnography"	"may have overlooked"	"the role of women in gathering plant foods"	53	query281_Low-carbohydrate_diet\P\53-5
+10702155 10702155 She has also highlighted the diversity of both ancestral and contemporary foraging diets , arguing that there is no evidence that humans are especially adapted to a single Paleolithic diet over and above the vegetarian diets characteristic of the last thirty million years of primate evolution . 	54	query281_Low-carbohydrate_diet\S\54
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet over the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-0
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-1
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-2
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-3
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-4
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-5
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-6
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-7
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-8
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-9
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-10
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-11
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-12
+"10702155 10702155"	"be arguing"	"that there is no evidence that humans are especially adapted to a single Paleolithic diet above the vegetarian diets characteristic of the last thirty million years of primate evolution"	54	query281_Low-carbohydrate_diet\P\54-13
+Milton , Katharine Ungar , Peter S. 	55	query281_Low-carbohydrate_diet\S\55
+"Milton"	"is"	"Katharine Ungar"	55	query281_Low-carbohydrate_diet\P\55-0
+"Milton"	"is"	"Peter S."	55	query281_Low-carbohydrate_diet\P\55-1
+&amp; Teaford , Mark F. 	56	query281_Low-carbohydrate_diet\S\56
+"& Teaford"	"is"	"Mark F."	56	query281_Low-carbohydrate_diet\P\56-0
+Human Diet : Its Origins and Evolution 2002 Bergin and Garvey Westport _ CT 0897897366 111–22 Hunter-gatherer diets : wild foods signal relief from diseases of affluence ( PDF) http ://nature .berkeley 	57	query281_Low-carbohydrate_diet\S\57
+.edu/miltonlab/pdfs/humandiet.pdf 	58	query281_Low-carbohydrate_diet\S\58
+Milton , Katharine Ungar , Peter S. 	59	query281_Low-carbohydrate_diet\S\59
+"Milton"	"is"	"Katharine Ungar"	59	query281_Low-carbohydrate_diet\P\59-0
+"Milton"	"is"	"Peter S."	59	query281_Low-carbohydrate_diet\P\59-1
+&amp; Teaford , Mark F. 	60	query281_Low-carbohydrate_diet\S\60
+"& Teaford"	"is"	"Mark F."	60	query281_Low-carbohydrate_diet\P\60-0
+Human Diet : Its Origins and Evolution 2002 Bergin and Garvey Westport _ CT 0897897366 111–22 Hunter-gatherer diets : wild foods signal relief from diseases of affluence ( PDF) http ://nature .berkeley 	61	query281_Low-carbohydrate_diet\S\61
+.edu/miltonlab/pdfs/humandiet.pdf 	62	query281_Low-carbohydrate_diet\S\62
+The invention of agriculture brought about a rise in carbohydrate levels in human diets . 	63	query281_Low-carbohydrate_diet\S\63
+"The invention of agriculture"	"brought"	"about a rise in carbohydrate levels in human diets"	63	query281_Low-carbohydrate_diet\P\63-0
+Cordain Loren Ungar , Peter S. 	64	query281_Low-carbohydrate_diet\S\64
+"Cordain Loren Ungar"	"is"	"Peter S."	64	query281_Low-carbohydrate_diet\P\64-0
+Early Hominin Diets : The Known , the Unknown , and the Unknowable 2007 Oxford University Press Oxford , USA 0195183479 363–83 Implications of Plio-Pleistocene Hominin Diets for Modern Humans ( PDF) http ://www.thepaleodiet.com/articles/2006_Oxford 	65	query281_Low-carbohydrate_diet\S\65
+"the Unknowable 2007 Oxford University Press Oxford 83 Implications of Plio-Pleistocene Hominin Diets for Modern Humans http"	"is"	"USA 0195183479 363"	65	query281_Low-carbohydrate_diet\P\65-0
+"Modern Humans http"	"is"	"PDF"	65	query281_Low-carbohydrate_diet\P\65-1
+.pdf 	66	query281_Low-carbohydrate_diet\S\66
+Cordain Loren Ungar , Peter S. 	67	query281_Low-carbohydrate_diet\S\67
+"Cordain Loren Ungar"	"is"	"Peter S."	67	query281_Low-carbohydrate_diet\P\67-0
+Early Hominin Diets : The Known , the Unknown , and the Unknowable 2007 Oxford University Press Oxford , USA 0195183479 363–83 Implications of Plio-Pleistocene Hominin Diets for Modern Humans ( PDF) http ://www.thepaleodiet.com/articles/2006_Oxford 	68	query281_Low-carbohydrate_diet\S\68
+"the Unknowable 2007 Oxford University Press Oxford 83 Implications of Plio-Pleistocene Hominin Diets for Modern Humans http"	"is"	"USA 0195183479 363"	68	query281_Low-carbohydrate_diet\P\68-0
+"Modern Humans http"	"is"	"PDF"	68	query281_Low-carbohydrate_diet\P\68-1
+.pdf 	69	query281_Low-carbohydrate_diet\S\69
+The industrial age has seen a particularly steep rise in refined carbohydrate levels in Western societies . 	70	query281_Low-carbohydrate_diet\S\70
+"The industrial age"	"has seen"	"a particularly steep rise in refined carbohydrate levels in Western societies"	70	query281_Low-carbohydrate_diet\P\70-0
+In 1797 Dr. 	71	query281_Low-carbohydrate_diet\S\71
+John Rollo reported on the results of treating two diabetic Army officers with a low-carbohydrate diet and medications . 	72	query281_Low-carbohydrate_diet\S\72
+"John Rollo"	"reported"	"on the results of treating two diabetic Army officers with a low-carbohydrate diet"	72	query281_Low-carbohydrate_diet\P\72-0
+"John Rollo"	"reported"	"on the results of treating two diabetic Army officers with a low-carbohydrate medications"	72	query281_Low-carbohydrate_diet\P\72-1
+A very low-carbohydrate , ketogenic diet was the standard treatment for diabetes throughout the 19th century . 	73	query281_Low-carbohydrate_diet\S\73
+"A very low-carbohydrate ketogenic diet"	"was the standard treatment"	"for diabetes"	73	query281_Low-carbohydrate_diet\P\73-0
+"A very low-carbohydrate ketogenic diet"	"was the standard treatment"	"throughout the 19th century"	73	query281_Low-carbohydrate_diet\P\73-1
+"A very low-carbohydrate ketogenic diet"	"was"	"the standard treatment"	73	query281_Low-carbohydrate_diet\P\73-2
+Morgan William Diabetes mellitus : its history , chemistry , anatomy , pathology , physiology , and treatment 1877 http ://books .google 	74	query281_Low-carbohydrate_diet\S\74
+.com/books 	75	query281_Low-carbohydrate_diet\S\75
+?id=1CIDAAAAQAAJ Morgan William Diabetes mellitus : its history , chemistry , anatomy , pathology , physiology , and treatment 1877 http ://books .google 	76	query281_Low-carbohydrate_diet\S\76
+.com/books 	77	query281_Low-carbohydrate_diet\S\77
+?id=1CIDAAAAQAAJ Einhorn Max Lectures on dietetics 1905 http ://books .google 	78	query281_Low-carbohydrate_diet\S\78
+.com/books 	79	query281_Low-carbohydrate_diet\S\79
+?id=utZqUyKmffIC Einhorn Max Lectures on dietetics 1905 http ://books .google 	80	query281_Low-carbohydrate_diet\S\80
+.com/books 	81	query281_Low-carbohydrate_diet\S\81
+?id=utZqUyKmffIC In 1863 William Banting , an obese English undertaker and coffin maker , published " Letter on Corpulence Addressed to the Public " in which he described a diet for weight control giving up bread , butter , milk , sugar , beer and potatoes . 	82	query281_Low-carbohydrate_diet\S\82
+"William Banting"	"is"	"an obese English undertaker"	1863	query281_Low-carbohydrate_diet\P\82-0
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-1
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-2
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-3
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-4
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-5
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-6
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-7
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-8
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-9
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-10
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-11
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-12
+"William Banting"	"is"	"an obese English coffin maker"	1863	query281_Low-carbohydrate_diet\P\82-13
+"a diet for weight control"	"be giving"	"bread"	1863	query281_Low-carbohydrate_diet\P\82-14
+"a diet for weight control"	"be giving"	"butter"	1863	query281_Low-carbohydrate_diet\P\82-15
+"a diet for weight control"	"be giving"	"milk"	1863	query281_Low-carbohydrate_diet\P\82-16
+"a diet for weight control"	"be giving"	"sugar"	1863	query281_Low-carbohydrate_diet\P\82-17
+"a diet for weight control"	"be giving"	"beer"	1863	query281_Low-carbohydrate_diet\P\82-18
+"a diet for weight control"	"be giving"	"potatoes"	1863	query281_Low-carbohydrate_diet\P\82-19
+http ://2020ok .com/books/25/letter-on-corpulence-addressed-to-the-public-19925.htm 	83	query281_Low-carbohydrate_diet\S\83
+Letter On Corpulence , Addressed To The Public William Banting Harrison London , England 1869 4th 2008-01-02 http ://2020ok .com/books/25/letter-on-corpulence-addressed-to-the-public-19925.htm 	84	query281_Low-carbohydrate_diet\S\84
+Letter On Corpulence , Addressed To The Public William Banting Harrison London , England 1869 4th 2008-01-02 His booklet was widely read , so much so that some people used the term " Banting " for the activity usually called "dieting . 	85	query281_Low-carbohydrate_diet\S\85
+"Letter On Corpulence"	"be Addressed"	"To The Public William Banting Harrison London"	85	query281_Low-carbohydrate_diet\P\85-0
+"Letter On Corpulence Addressed To The Public William Banting Harrison London"	"is"	"so much"	85	query281_Low-carbohydrate_diet\P\85-1
+"The Public William Banting Harrison London"	"is"	"England 1869 4th 2008-01-02"	85	query281_Low-carbohydrate_diet\P\85-2
+"The Public William Banting Harrison London"	"is"	"England 1869 4th 2008-01-02"	85	query281_Low-carbohydrate_diet\P\85-3
+"His booklet"	"was read"	"England 1869 4th 2008-01-02 widely"	85	query281_Low-carbohydrate_diet\P\85-4
+"His booklet"	"was read"	"England 1869 4th 2008-01-02"	85	query281_Low-carbohydrate_diet\P\85-5
+"some people"	"used"	"the term Banting for the activity usually called dieting"	85	query281_Low-carbohydrate_diet\P\85-6
+"some people"	"used"	"the term Banting"	85	query281_Low-carbohydrate_diet\P\85-7
+"the activity"	"be called"	"usually"	85	query281_Low-carbohydrate_diet\P\85-8
+" http ://www.westonaprice 	86	query281_Low-carbohydrate_diet\S\86
+.org/knowyourfats/banting 	87	query281_Low-carbohydrate_diet\S\87
+.html 	88	query281_Low-carbohydrate_diet\S\88
+William Banting Father of the Low-Carbohydrate Diet Barry Groves The Weston A. 	89	query281_Low-carbohydrate_diet\S\89
+Price Foundation 2002 http ://www.westonaprice 	90	query281_Low-carbohydrate_diet\S\90
+.org/knowyourfats/banting 	91	query281_Low-carbohydrate_diet\S\91
+.html 	92	query281_Low-carbohydrate_diet\S\92
+William Banting Father of the Low-Carbohydrate Diet Barry Groves The Weston A. 	93	query281_Low-carbohydrate_diet\S\93
+Price Foundation 2002 In 1888 , James Salisbury introduced the Salisbury steak as part of his high-meat diet , which limited vegetables , fruit , starches , and fats to one-third of the diet . 	94	query281_Low-carbohydrate_diet\S\94
+"James Salisbury"	"introduced"	"the Salisbury steak as part of his high-meat diet"	94	query281_Low-carbohydrate_diet\P\94-0
+"James Salisbury"	"introduced"	"the Salisbury steak"	94	query281_Low-carbohydrate_diet\P\94-1
+"James Salisbury"	"introduced"	"the Salisbury steak"	94	query281_Low-carbohydrate_diet\P\94-2
+"his high-meat diet"	"limited"	"vegetables to one-third of the diet"	94	query281_Low-carbohydrate_diet\P\94-3
+"his high-meat diet"	"limited"	"fruit to one-third of the diet"	94	query281_Low-carbohydrate_diet\P\94-4
+"his high-meat diet"	"limited"	"starches to one-third of the diet"	94	query281_Low-carbohydrate_diet\P\94-5
+"his high-meat diet"	"limited"	"fats to one-third of the diet"	94	query281_Low-carbohydrate_diet\P\94-6
+"his high-meat diet"	"limited"	"vegetables"	94	query281_Low-carbohydrate_diet\P\94-7
+"his high-meat diet"	"limited"	"fruit"	94	query281_Low-carbohydrate_diet\P\94-8
+"his high-meat diet"	"limited"	"starches"	94	query281_Low-carbohydrate_diet\P\94-9
+"his high-meat diet"	"limited"	"fats"	94	query281_Low-carbohydrate_diet\P\94-10
+In 1967 , Dr. 	95	query281_Low-carbohydrate_diet\S\95
+"In 1967"	"is"	"Dr."	95	query281_Low-carbohydrate_diet\P\95-0
+Irwin Stillman published The Doctor 's Quick Weight Loss Diet . 	96	query281_Low-carbohydrate_diet\S\96
+"Irwin Stillman"	"published"	"The Doctor 's Quick Weight Loss Diet"	96	query281_Low-carbohydrate_diet\P\96-0
+"The Doctor"	"has"	"Quick Weight Loss Diet"	96	query281_Low-carbohydrate_diet\P\96-1
+The " Stillman Diet " is a high-protein , low-carbohydrate and low-fat diet . 	97	query281_Low-carbohydrate_diet\S\97
+"The Stillman Diet"	"is"	"a high-protein diet"	97	query281_Low-carbohydrate_diet\P\97-0
+"The Stillman Diet"	"is"	"a low-carbohydrate diet"	97	query281_Low-carbohydrate_diet\P\97-1
+"The Stillman Diet"	"is"	"a low-fat diet"	97	query281_Low-carbohydrate_diet\P\97-2
+It is regarded as one of the first low-carbohydrate diets to become popular in the United States . 	98	query281_Low-carbohydrate_diet\S\98
+It is regarded as one of the first low-carbohydrate diets to become popular in the United States . 	98	query281_Low-carbohydrate_diet\S\98
+"the first low-carbohydrate diets"	"be become"	"popular in the United States"	98	query281_Low-carbohydrate_diet\P\98-0
+Men 's Fitness . 	99	query281_Low-carbohydrate_diet\S\99
+"Men"	"has"	"Fitness"	99	query281_Low-carbohydrate_diet\P\99-0
+June 2003 Other low-carbohydrate diets in the 1960s included the Air Force Diet Air Force Diet . 	100	query281_Low-carbohydrate_diet\S\100
+"June 2003 Other low-carbohydrate diets in the 1960s"	"included"	"the Air Force Diet Air Force Diet"	100	query281_Low-carbohydrate_diet\P\100-0
+Toronto , Canada , Air Force Diet Publishers , 1960 . 	101	query281_Low-carbohydrate_diet\S\101
+"Toronto 1960"	"is in"	"Canada"	101	query281_Low-carbohydrate_diet\P\101-0
+"Toronto 1960"	"is"	"Air Force Diet Publishers"	101	query281_Low-carbohydrate_diet\P\101-1
+and the Drinking Man’s Diet . 	102	query281_Low-carbohydrate_diet\S\102
+"the Drinking Man"	"has"	"Diet"	102	query281_Low-carbohydrate_diet\P\102-0
+Gardner Jameson and Elliot Williams ( 1964 ) The Drinking Man’s Diet . 	103	query281_Low-carbohydrate_diet\S\103
+"Elliot Williams"	"is"	"1964"	103	query281_Low-carbohydrate_diet\P\103-0
+"The Drinking Man"	"has"	"Diet"	103	query281_Low-carbohydrate_diet\P\103-1
+San Francisco : Cameron . 	104	query281_Low-carbohydrate_diet\S\104
+( 2004 ) Revised Ed . 	105	query281_Low-carbohydrate_diet\S\105
+ISBN 978-0918684653 . 	106	query281_Low-carbohydrate_diet\S\106
+See also Alan Farnham ( 2004 ) “ ” , Forbes.com 	107	query281_Low-carbohydrate_diet\S\107
+"also Alan Farnham"	"is"	"2004"	107	query281_Low-carbohydrate_diet\P\107-0
+"also Alan Farnham"	"is"	"Forbes.com"	107	query281_Low-carbohydrate_diet\P\107-1
+. 	108	query281_Low-carbohydrate_diet\S\108
+Austrian physician Dr Wolfgang Lutz published his book Leben Ohne Brot ( Life Without Bread ) in 1967 . 	109	query281_Low-carbohydrate_diet\S\109
+"Austrian physician Dr Wolfgang Lutz"	"published"	"his book Leben Ohne Brot Life Without Bread in 1967"	109	query281_Low-carbohydrate_diet\P\109-0
+"Austrian physician Dr Wolfgang Lutz"	"published"	"his book Leben Ohne Brot Life Without Bread"	109	query281_Low-carbohydrate_diet\P\109-1
+"Austrian physician Dr Wolfgang Lutz"	"published"	"his book Leben Ohne Brot Life Without Bread"	109	query281_Low-carbohydrate_diet\P\109-2
+Lutz , Wolfgang ; Allan , C.B. 	110	query281_Low-carbohydrate_diet\S\110
+"Lutz Allan"	"is"	"Wolfgang"	110	query281_Low-carbohydrate_diet\P\110-0
+"Lutz Allan"	"is"	"Wolfgang"	110	query281_Low-carbohydrate_diet\P\110-1
+Life Without Bread . 	111	query281_Low-carbohydrate_diet\S\111
+McGraw-Hill ; 2000 . 	112	query281_Low-carbohydrate_diet\S\112
+ISBN 978-0658001703 . 	113	query281_Low-carbohydrate_diet\S\113
+English language , 1st Ed . 	114	query281_Low-carbohydrate_diet\S\114
+"English language"	"is"	"1st Ed"	114	query281_Low-carbohydrate_diet\P\114-0
+However , it was hardly noticed in the English-speaking world . 	115	query281_Low-carbohydrate_diet\S\115
+However , it was hardly noticed in the English-speaking world . 	115	query281_Low-carbohydrate_diet\S\115
+However , it was hardly noticed in the English-speaking world . 	115	query281_Low-carbohydrate_diet\S\115
+In 1972 , Dr. 	116	query281_Low-carbohydrate_diet\S\116
+"In 1972"	"is"	"Dr."	116	query281_Low-carbohydrate_diet\P\116-0
+Robert Atkins published Dr. 	117	query281_Low-carbohydrate_diet\S\117
+"Robert Atkins"	"published"	"Dr."	117	query281_Low-carbohydrate_diet\P\117-0
+Atkins Diet Revolution which advocated a low-carbohydrate diet he had successfully used in treating patients in the 1960s ( having himself developed the diet from an unspecified article published in JAMA ) . 	118	query281_Low-carbohydrate_diet\S\118
+"Atkins Diet Revolution"	"advocated"	"a low-carbohydrate diet"	118	query281_Low-carbohydrate_diet\P\118-0
+"Atkins Diet Revolution"	"advocated"	"a low-carbohydrate diet"	118	query281_Low-carbohydrate_diet\P\118-1
+"Atkins Diet Revolution"	"advocated"	"a low-carbohydrate diet"	118	query281_Low-carbohydrate_diet\P\118-2
+"Atkins Diet Revolution"	"advocated"	"a low-carbohydrate diet"	118	query281_Low-carbohydrate_diet\P\118-3
+"Atkins Diet Revolution"	"advocated"	"a low-carbohydrate diet"	118	query281_Low-carbohydrate_diet\P\118-4
+"Atkins Diet Revolution"	"advocated"	"a low-carbohydrate diet"	118	query281_Low-carbohydrate_diet\P\118-5
+"an unspecified article"	"be published"	"in JAMA"	118	query281_Low-carbohydrate_diet\P\118-6
+December 2011 December 2011 The book met with some success but , because of research at that time suggesting risk factors associated with excess fat and protein , it was widely criticized by the mainstream medical community as being dangerous and misleading , thereby limiting its appeal at the time . 	119	query281_Low-carbohydrate_diet\S\119
+"December 2011 December 2011 The book"	"met"	"with some success suggesting risk factors associated with excess fat 119"	119	query281_Low-carbohydrate_diet\P\119-0
+"December 2011 December 2011 The book"	"met"	"with some success suggesting risk factors associated with excess protein 119"	119	query281_Low-carbohydrate_diet\P\119-1
+"December 2011 December 2011 The book"	"met"	"of because research suggesting risk factors associated with excess fat 119"	119	query281_Low-carbohydrate_diet\P\119-2
+"December 2011 December 2011 The book"	"met"	"of because research suggesting risk factors associated with excess protein 119"	119	query281_Low-carbohydrate_diet\P\119-3
+"December 2011 December 2011 The book"	"met"	"at that time suggesting risk factors associated with excess fat 119"	119	query281_Low-carbohydrate_diet\P\119-4
+"December 2011 December 2011 The book"	"met"	"at that time suggesting risk factors associated with excess protein 119"	119	query281_Low-carbohydrate_diet\P\119-5
+"December 2011 December 2011 The book"	"met"	"suggesting risk factors associated with excess fat 119"	119	query281_Low-carbohydrate_diet\P\119-6
+"December 2011 December 2011 The book"	"met"	"suggesting risk factors associated with excess protein 119"	119	query281_Low-carbohydrate_diet\P\119-7
+"risk factors"	"be associated"	"with excess fat"	119	query281_Low-carbohydrate_diet\P\119-8
+"risk factors"	"be associated"	"with excess protein"	119	query281_Low-carbohydrate_diet\P\119-9
+"risk factors"	"be associated"	"with excess protein"	119	query281_Low-carbohydrate_diet\P\119-10
+"risk factors"	"be associated"	"with excess protein"	119	query281_Low-carbohydrate_diet\P\119-11
+"risk factors"	"be associated"	"with excess protein"	119	query281_Low-carbohydrate_diet\P\119-12
+"risk factors"	"be associated"	"with excess protein"	119	query281_Low-carbohydrate_diet\P\119-13
+"risk factors"	"be associated"	"with excess protein"	119	query281_Low-carbohydrate_diet\P\119-14
+, Journal of the American Medical Association , 1973 Among other things critics pointed out that Dr. 	120	query281_Low-carbohydrate_diet\S\120
+, Journal of the American Medical Association , 1973 Among other things critics pointed out that Dr. 	120	query281_Low-carbohydrate_diet\S\120
+, Journal of the American Medical Association , 1973 Among other things critics pointed out that Dr. 	120	query281_Low-carbohydrate_diet\S\120
+, Journal of the American Medical Association , 1973 Among other things critics pointed out that Dr. 	120	query281_Low-carbohydrate_diet\S\120
+Atkins had done little real research into his theories and based them mostly on anecdotal evidence . 	121	query281_Low-carbohydrate_diet\S\121
+"Atkins"	"had done"	"little real research into his theories"	121	query281_Low-carbohydrate_diet\P\121-0
+"Atkins"	"had done"	"little real research"	121	query281_Low-carbohydrate_diet\P\121-1
+"Atkins"	"had based"	"little real research them into his theories"	121	query281_Low-carbohydrate_diet\P\121-2
+"Atkins"	"had based"	"little real research them mostly"	121	query281_Low-carbohydrate_diet\P\121-3
+"Atkins"	"had based"	"little real research them on anecdotal evidence"	121	query281_Low-carbohydrate_diet\P\121-4
+"Atkins"	"had based"	"little real research them"	121	query281_Low-carbohydrate_diet\P\121-5
+"Atkins"	"had based"	"little real research them"	121	query281_Low-carbohydrate_diet\P\121-6
+Later that decade , Walter Voegtlin and Dr. 	122	query281_Low-carbohydrate_diet\S\122
+Herman Tarnower published books advocating the Stone age diet and Scarsdale diet , respectively , each meeting with moderate success . 	123	query281_Low-carbohydrate_diet\S\123
+"Herman Tarnower"	"published"	"books advocating the Stone age diet respectively each meeting with moderate success"	123	query281_Low-carbohydrate_diet\P\123-0
+"Herman Tarnower"	"published"	"books advocating the Stone age Scarsdale diet respectively each meeting with moderate success"	123	query281_Low-carbohydrate_diet\P\123-1
+"Herman Tarnower"	"published"	"books advocating the Stone age diet each meeting with moderate success"	123	query281_Low-carbohydrate_diet\P\123-2
+"Herman Tarnower"	"published"	"books advocating the Stone age Scarsdale diet each meeting with moderate success"	123	query281_Low-carbohydrate_diet\P\123-3
+"Herman Tarnower"	"published"	"books advocating the Stone age Scarsdale diet each meeting with moderate success"	123	query281_Low-carbohydrate_diet\P\123-4
+"Herman Tarnower"	"published"	"books advocating the Stone age Scarsdale diet each meeting with moderate success"	123	query281_Low-carbohydrate_diet\P\123-5
+Voegtlin Walter L. 	124	query281_Low-carbohydrate_diet\S\124
+The stone age diet : Based on in-depth studies of human ecology and the diet of man 1975 Vantage Press 0533013143 Voegtlin Walter L. 	125	query281_Low-carbohydrate_diet\S\125
+The stone age diet : Based on in-depth studies of human ecology and the diet of man 1975 Vantage Press 0533013143 The concept of the glycemic index was developed about 1981 by Dr. 	126	query281_Low-carbohydrate_diet\S\126
+"The stone age diet"	"be Based"	"on in-depth studies of human ecology"	126	query281_Low-carbohydrate_diet\P\126-0
+"The stone age diet"	"be Based"	"on in-depth studies of human the diet of man 1975 Vantage Press 0533013143 The concept of the glycemic index"	126	query281_Low-carbohydrate_diet\P\126-1
+"The stone age diet Based on in-depth studies of human ecology"	"was developed"	"about 1981 by Dr."	126	query281_Low-carbohydrate_diet\P\126-2
+"The stone age diet Based on in-depth studies of human the diet of man 1975 Vantage Press 0533013143 The concept of the glycemic index"	"was developed"	"about 1981 by Dr."	126	query281_Low-carbohydrate_diet\P\126-3
+"The stone age diet Based on in-depth studies of human ecology"	"was developed"	"about 1981"	126	query281_Low-carbohydrate_diet\P\126-4
+"The stone age diet Based on in-depth studies of human the diet of man 1975 Vantage Press 0533013143 The concept of the glycemic index"	"was developed"	"about 1981"	126	query281_Low-carbohydrate_diet\P\126-5
+David Jenkins to account for variances in speed of digestion of carbohydrates ( e .g. 	127	query281_Low-carbohydrate_diet\S\127
+, the sugar in cooked carrots has more rapid effect than pure glucose ) . 	128	query281_Low-carbohydrate_diet\S\128
+, the sugar in cooked carrots has more rapid effect than pure glucose ) . 	128	query281_Low-carbohydrate_diet\S\128
+, the sugar in cooked carrots has more rapid effect than pure glucose ) . 	128	query281_Low-carbohydrate_diet\S\128
+This concept classifies foods according to the rapidity of their effect on blood sugar levels with fast digesting simple carbohydrates causing a sharper increase and slower digesting complex carbohydrates such as whole grains a slower one . 	129	query281_Low-carbohydrate_diet\S\129
+"This concept"	"classifies"	"foods according to the rapidity of their effect on blood sugar levels with fast digesting simple carbohydrates causing a sharper increase"	129	query281_Low-carbohydrate_diet\P\129-0
+"This concept"	"classifies"	"foods according to the rapidity of their effect on blood sugar levels with fast digesting simple carbohydrates causing a sharper slower digesting complex carbohydrates such as whole grains a slower one"	129	query281_Low-carbohydrate_diet\P\129-1
+"This concept"	"classifies"	"foods"	129	query281_Low-carbohydrate_diet\P\129-2
+"This concept"	"classifies"	"foods"	129	query281_Low-carbohydrate_diet\P\129-3
+"simple carbohydrates"	"be causing"	"a sharper increase"	129	query281_Low-carbohydrate_diet\P\129-4
+"simple carbohydrates"	"be causing"	"a sharper slower digesting complex carbohydrates such as whole grains a slower one"	129	query281_Low-carbohydrate_diet\P\129-5
+DJ Jenkins et al . 	130	query281_Low-carbohydrate_diet\S\130
+( 1981 ) " Glycemic index of foods : a physiological basis for carbohydrate exchange . 	131	query281_Low-carbohydrate_diet\S\131
+" Am J Clin Nutr 34 ; 362-366 The concept has been extended to include amount of carbohydrate actually absorbed as well , as a tablespoonful of cooked carrots is less significant overall than a large baked potato ( effectively pure starch , which is efficiently absorbed as glucose ) , despite differences in glycemic index . 	132	query281_Low-carbohydrate_diet\S\132
+"J Clin Nutr 34"	"Am"	"despite differences in glycemic index"	132	query281_Low-carbohydrate_diet\P\132-0
+"362-366 The concept"	"has been extended"	"to include amount of carbohydrate actually absorbed as well as a tablespoonful of cooked carrots"	132	query281_Low-carbohydrate_diet\P\132-1
+"amount of carbohydrate"	"absorbed"	"as well actually"	132	query281_Low-carbohydrate_diet\P\132-2
+"amount of carbohydrate"	"absorbed"	"as well as a tablespoonful of cooked carrots"	132	query281_Low-carbohydrate_diet\P\132-3
+"amount of carbohydrate"	"absorbed"	"as well"	132	query281_Low-carbohydrate_diet\P\132-4
+"362-366 The concept has been extended to include amount of carbohydrate actually absorbed as well as a tablespoonful of cooked carrots"	"is significant"	"less"	132	query281_Low-carbohydrate_diet\P\132-5
+"362-366 The concept has been extended to include amount of carbohydrate actually absorbed as well as a tablespoonful of cooked carrots"	"is significant"	"overall than a large baked potato"	132	query281_Low-carbohydrate_diet\P\132-6
+"362-366 The concept has been extended to include amount of carbohydrate actually absorbed as well as a tablespoonful of cooked carrots"	"is"	"significant"	132	query281_Low-carbohydrate_diet\P\132-7
+"a large baked potato"	"is"	"effectively pure starch"	132	query281_Low-carbohydrate_diet\P\132-8
+"effectively pure starch"	"is absorbed"	"as glucose efficiently"	132	query281_Low-carbohydrate_diet\P\132-9
+"effectively pure starch"	"is absorbed"	"as glucose"	132	query281_Low-carbohydrate_diet\P\132-10
+thumbright220pxA pack of pork fromTescois labelled with a sticker that says " NoCarbohydrateCarbsper serving" . 	133	query281_Low-carbohydrate_diet\S\133
+"thumbright220pxA pack of pork fromTescois"	"be labelled"	"with a sticker"	133	query281_Low-carbohydrate_diet\P\133-0
+"a sticker"	"says"	"NoCarbohydrateCarbsper serving"	133	query281_Low-carbohydrate_diet\P\133-1
+This is aimed at people on a low-carbohydrate diet In the 1990s Dr. 	134	query281_Low-carbohydrate_diet\S\134
+"This"	"is aimed"	"at people on a low-carbohydrate diet In the 1990s"	134	query281_Low-carbohydrate_diet\P\134-0
+"This"	"is aimed"	"at people on a low-carbohydrate diet"	134	query281_Low-carbohydrate_diet\P\134-1
+Atkins published Dr. 	135	query281_Low-carbohydrate_diet\S\135
+"Atkins"	"published"	"Dr."	135	query281_Low-carbohydrate_diet\P\135-0
+Atkins New Diet Revolution and other doctors began to publish books based on the same principles . 	136	query281_Low-carbohydrate_diet\S\136
+"Atkins New Diet Revolution"	"began"	"to publish books based on the same principles"	136	query281_Low-carbohydrate_diet\P\136-0
+"Atkins New Diet other doctors"	"began"	"to publish books based on the same principles"	136	query281_Low-carbohydrate_diet\P\136-1
+This has been said to be the beginning of the "low carb craze . 	137	query281_Low-carbohydrate_diet\S\137
+This has been said to be the beginning of the "low carb craze . 	137	query281_Low-carbohydrate_diet\S\137
+This has been said to be the beginning of the "low carb craze . 	137	query281_Low-carbohydrate_diet\S\137
+" http ://www.pbs 	138	query281_Low-carbohydrate_diet\S\138
+.org/newshour/bb/health/jan-june04/carb_04-23.html 	139	query281_Low-carbohydrate_diet\S\139
+PBS News Hour : Low Carb Craze Pbs .org 	140	query281_Low-carbohydrate_diet\S\140
+2011-12-18 http ://www.pbs 	141	query281_Low-carbohydrate_diet\S\141
+.org/newshour/bb/health/jan-june04/carb_04-23.html 	142	query281_Low-carbohydrate_diet\S\142
+PBS News Hour : Low Carb Craze Pbs .org 	143	query281_Low-carbohydrate_diet\S\143
+2011-12-18 During the late 1990s and early 2000s low-carbohydrate diets became some of the most popular diets in the U.S. 	144	query281_Low-carbohydrate_diet\S\144
+"2011-12-18 During the late 1990s"	"became"	"some of the most popular diets in the U.S."	144	query281_Low-carbohydrate_diet\P\144-0
+"2011-12-18 During the late early 2000s low-carbohydrate diets"	"became"	"some of the most popular diets in the U.S."	144	query281_Low-carbohydrate_diet\P\144-1
+( by some accounts as much as 18 % of the population was using a low-carbohydrate diet at its peak Americans Look for Health on the Menu : Survey finds nutrition plays increasing role in dining-out choices ) and spread to many countries . 	145	query281_Low-carbohydrate_diet\S\145
+"as much as 18 % of the population"	"was using"	"a low-carbohydrate diet 145 by some accounts"	145	query281_Low-carbohydrate_diet\P\145-0
+"as much as 18 % of the population"	"was using"	"a low-carbohydrate diet at its peak Americans 145"	145	query281_Low-carbohydrate_diet\P\145-1
+"as much as 18 % of the population"	"was using"	"a low-carbohydrate diet 145"	145	query281_Low-carbohydrate_diet\P\145-2
+"as much as 18 % of the population"	"was using"	"a low-carbohydrate diet 145"	145	query281_Low-carbohydrate_diet\P\145-3
+"as much as 18 % of the population"	"was using"	"a low-carbohydrate diet 145"	145	query281_Low-carbohydrate_diet\P\145-4
+"as much as 18 % of the population"	"was using"	"a low-carbohydrate diet 145"	145	query281_Low-carbohydrate_diet\P\145-5
+"as much as 18 % of the population"	"was using"	"a low-carbohydrate diet 145"	145	query281_Low-carbohydrate_diet\P\145-6
+"as much as 18 % of the population"	"was using"	"a low-carbohydrate diet 145"	145	query281_Low-carbohydrate_diet\P\145-7
+These were noted by some food manufacturers and restaurant chains as substantially affecting their businesses ( notably Krispy Kreme Morning Edition http ://www.npr.org/templates/story/story 	146	query281_Low-carbohydrate_diet\S\146
+"These"	"were noted"	"by some food manufacturers as substantially affecting their businesses notably Krispy Kreme Morning Edition http www.npr.org/templates/story/story"	146	query281_Low-carbohydrate_diet\P\146-0
+"These"	"were noted"	"by some food restaurant chains as substantially affecting their businesses notably Krispy Kreme Morning Edition http www.npr.org/templates/story/story"	146	query281_Low-carbohydrate_diet\P\146-1
+"These"	"were noted"	"by some food manufacturers"	146	query281_Low-carbohydrate_diet\P\146-2
+"These"	"were noted"	"by some food restaurant chains"	146	query281_Low-carbohydrate_diet\P\146-3
+"These"	"were noted"	"by some food restaurant chains"	146	query281_Low-carbohydrate_diet\P\146-4
+.php 	147	query281_Low-carbohydrate_diet\S\147
+?storyId=1968804 Low-Carb Diets Trim Krispy Kreme 's Profit Line Npr.org 	148	query281_Low-carbohydrate_diet\S\148
+"Low-Carb Diets Trim Krispy Kreme"	"has"	"1968804 Profit Line Npr.org"	148	query281_Low-carbohydrate_diet\P\148-0
+2004-06-22 2011-12-18 Morning Edition http ://www.npr.org/templates/story/story 	149	query281_Low-carbohydrate_diet\S\149
+.php 	150	query281_Low-carbohydrate_diet\S\150
+?storyId=1968804 Low-Carb Diets Trim Krispy Kreme 's Profit Line Npr.org 	151	query281_Low-carbohydrate_diet\S\151
+"Low-Carb Diets Trim Krispy Kreme"	"has"	"1968804 Profit Line Npr.org"	151	query281_Low-carbohydrate_diet\P\151-0
+2004-06-22 2011-12-18 ) . 	152	query281_Low-carbohydrate_diet\S\152
+Some in the mainstream medical community continued to denounce low-carbohydrate diets as being a dangerous trend . 	153	query281_Low-carbohydrate_diet\S\153
+"Some in the mainstream medical community"	"continued"	"to denounce low-carbohydrate diets as being a dangerous trend"	153	query281_Low-carbohydrate_diet\P\153-0
+"Some in the mainstream medical community"	"continued"	"to denounce low-carbohydrate diets"	153	query281_Low-carbohydrate_diet\P\153-1
+Sachiko T. 	154	query281_Low-carbohydrate_diet\S\154
+St . 	155	query281_Low-carbohydrate_diet\S\155
+Jeor , RD , PhD ; Barbara V. 	156	query281_Low-carbohydrate_diet\S\156
+"Jeor Barbara V."	"is"	"RD"	156	query281_Low-carbohydrate_diet\P\156-0
+"Jeor Barbara V."	"is"	"RD"	156	query281_Low-carbohydrate_diet\P\156-1
+Howard , PhD ; T. 	157	query281_Low-carbohydrate_diet\S\157
+"Howard T."	"is"	"PhD"	157	query281_Low-carbohydrate_diet\P\157-0
+Elaine Prewitt , RD , DrPH ; Vicki Bovee , RD , MS ; Terry Bazzarre , PhD ; Robert H. 	158	query281_Low-carbohydrate_diet\S\158
+"Elaine Prewitt Vicki Bovee Terry Bazzarre Robert H."	"is"	"RD"	158	query281_Low-carbohydrate_diet\P\158-0
+"Elaine Prewitt Vicki Bovee Terry Bazzarre Robert H."	"is"	"RD"	158	query281_Low-carbohydrate_diet\P\158-1
+"Vicki Bovee Terry Bazzarre Robert H."	"is"	"RD"	158	query281_Low-carbohydrate_diet\P\158-2
+"Vicki Bovee Terry Bazzarre Robert H."	"is"	"MS"	158	query281_Low-carbohydrate_diet\P\158-3
+"Terry Bazzarre"	"is"	"PhD"	158	query281_Low-carbohydrate_diet\P\158-4
+Eckel , MD; , , American Heart Association , 2001 . 	159	query281_Low-carbohydrate_diet\S\159
+"Eckel"	"is"	"MD"	159	query281_Low-carbohydrate_diet\P\159-0
+"Eckel"	"is"	"American Heart Association 2001"	159	query281_Low-carbohydrate_diet\P\159-1
+It states These diets are generally associated with higher intakes of total fat , saturated fat , and cholesterol because the protein is provided mainly by animal sources . 	160	query281_Low-carbohydrate_diet\S\160
+It states These diets are generally associated with higher intakes of total fat , saturated fat , and cholesterol because the protein is provided mainly by animal sources . 	160	query281_Low-carbohydrate_diet\S\160
+It states These diets are generally associated with higher intakes of total fat , saturated fat , and cholesterol because the protein is provided mainly by animal sources . 	160	query281_Low-carbohydrate_diet\S\160
+It states These diets are generally associated with higher intakes of total fat , saturated fat , and cholesterol because the protein is provided mainly by animal sources . 	160	query281_Low-carbohydrate_diet\S\160
+"These diets"	"are associated"	"with higher intakes of total fat generally"	160	query281_Low-carbohydrate_diet\P\160-0
+"These diets"	"are associated"	"with higher intakes of total saturated fat generally"	160	query281_Low-carbohydrate_diet\P\160-1
+"These diets"	"are associated"	"with higher intakes of total cholesterol generally"	160	query281_Low-carbohydrate_diet\P\160-2
+"These diets"	"are associated"	"with higher intakes of total fat because the protein is provided mainly by animal sources"	160	query281_Low-carbohydrate_diet\P\160-3
+"These diets"	"are associated"	"with higher intakes of total saturated fat because the protein is provided mainly by animal sources"	160	query281_Low-carbohydrate_diet\P\160-4
+"These diets"	"are associated"	"with higher intakes of total cholesterol because the protein is provided mainly by animal sources"	160	query281_Low-carbohydrate_diet\P\160-5
+"These diets"	"are associated"	"with higher intakes of total fat"	160	query281_Low-carbohydrate_diet\P\160-6
+"These diets"	"are associated"	"with higher intakes of total saturated fat"	160	query281_Low-carbohydrate_diet\P\160-7
+"These diets"	"are associated"	"with higher intakes of total cholesterol"	160	query281_Low-carbohydrate_diet\P\160-8
+"the protein"	"is provided"	"mainly by animal sources"	160	query281_Low-carbohydrate_diet\P\160-9
+... 	161	query281_Low-carbohydrate_diet\S\161
+Beneficial effects on blood lipids and insulin resistance are due to the weight loss , not to the change in caloric composition . 	162	query281_Low-carbohydrate_diet\S\162
+"Beneficial effects on blood lipids"	"are due"	"to the weight loss"	162	query281_Low-carbohydrate_diet\P\162-0
+"Beneficial effects on blood insulin resistance"	"are due"	"to the weight loss"	162	query281_Low-carbohydrate_diet\P\162-1
+"Beneficial effects on blood lipids"	"are due"	"not to the change in caloric composition"	162	query281_Low-carbohydrate_diet\P\162-2
+"Beneficial effects on blood insulin resistance"	"are due"	"not to the change in caloric composition"	162	query281_Low-carbohydrate_diet\P\162-3
+"Beneficial effects on blood lipids"	"are"	"due"	162	query281_Low-carbohydrate_diet\P\162-4
+"Beneficial effects on blood insulin resistance"	"are"	"due"	162	query281_Low-carbohydrate_diet\P\162-5
+... 	163	query281_Low-carbohydrate_diet\S\163
+High-protein diets may also be associated with increased risk for coronary heart disease due to intakes of saturated fat , cholesterol , and other associated dietary factors . 	164	query281_Low-carbohydrate_diet\S\164
+"High-protein diets"	"may be associated"	"with increased risk for coronary heart disease due to intakes of saturated fat also"	164	query281_Low-carbohydrate_diet\P\164-0
+"High-protein diets"	"may be associated"	"with increased risk for coronary heart disease due to intakes of saturated cholesterol also"	164	query281_Low-carbohydrate_diet\P\164-1
+"High-protein diets"	"may be associated"	"with increased risk for coronary heart disease due to intakes of saturated other associated dietary factors also"	164	query281_Low-carbohydrate_diet\P\164-2
+"High-protein diets"	"may be associated"	"with increased risk for coronary heart disease due to intakes of saturated fat"	164	query281_Low-carbohydrate_diet\P\164-3
+"High-protein diets"	"may be associated"	"with increased risk for coronary heart disease due to intakes of saturated cholesterol"	164	query281_Low-carbohydrate_diet\P\164-4
+"High-protein diets"	"may be associated"	"with increased risk for coronary heart disease due to intakes of saturated other associated dietary factors"	164	query281_Low-carbohydrate_diet\P\164-5
+December 2011 December 2011 The American Kidney Fund : American Kidney Fund Warns About Impact of High-Protein Diets on Kidney Health : 25 April 2002 It is , however , valuable to note that many May 2011 of these same doctors and institutions at the same time quietly began altering their own advice to be closer to the low-carbohydrate recommendations ( e .g 	165	query281_Low-carbohydrate_diet\S\165
+. 	166	query281_Low-carbohydrate_diet\S\166
+eating more protein , eating more fiber/less starch , reducing consumption of juices by children ) . 	167	query281_Low-carbohydrate_diet\S\167
+"eating more protein reducing consumption of juices by children"	"be eating"	"more fiber/less starch"	167	query281_Low-carbohydrate_diet\P\167-0
+http ://aappolicy .aappublications 	168	query281_Low-carbohydrate_diet\S\168
+.org/cgi/content/full/pediatrics 	169	query281_Low-carbohydrate_diet\S\169
+;107/5/1210 The Use and Misuse of Fruit Juice in Pediatrics 10.1542/peds 	170	query281_Low-carbohydrate_diet\S\170
+.107.5.1210 	171	query281_Low-carbohydrate_diet\S\171
+Aappolicy .aappublications 	172	query281_Low-carbohydrate_diet\S\172
+.org 	173	query281_Low-carbohydrate_diet\S\173
+2007-02-01 2011-12-18 http ://aappolicy .aappublications 	174	query281_Low-carbohydrate_diet\S\174
+.org/cgi/content/full/pediatrics 	175	query281_Low-carbohydrate_diet\S\175
+;107/5/1210 The Use and Misuse of Fruit Juice in Pediatrics 10.1542/peds 	176	query281_Low-carbohydrate_diet\S\176
+.107.5.1210 	177	query281_Low-carbohydrate_diet\S\177
+Aappolicy .aappublications 	178	query281_Low-carbohydrate_diet\S\178
+.org 	179	query281_Low-carbohydrate_diet\S\179
+2007-02-01 2011-12-18 The low-carbohydrate advocates did some adjustments of their own , increasingly advocating controlling fat and eliminating trans fat . 	180	query281_Low-carbohydrate_diet\S\180
+"The low-carbohydrate advocates"	"did"	"some adjustments of their own 180 2007-02-01 2011-12-18"	180	query281_Low-carbohydrate_diet\P\180-0
+"The low-carbohydrate advocates"	"did"	"some adjustments of their own 180 2007-02-01 2011-12-18"	180	query281_Low-carbohydrate_diet\P\180-1
+"The low-carbohydrate advocates"	"did"	"some adjustments of their own 180 2007-02-01 2011-12-18"	180	query281_Low-carbohydrate_diet\P\180-2
+BBC ( January 19 , 2004 ) . 	181	query281_Low-carbohydrate_diet\S\181
+"BBC"	"is"	"January 19 2004"	181	query281_Low-carbohydrate_diet\P\181-0
+BBC News . 	182	query281_Low-carbohydrate_diet\S\182
+Retrieved on September 12 , 2007 . 	183	query281_Low-carbohydrate_diet\S\183
+Retrieved on September 12 , 2007 . 	183	query281_Low-carbohydrate_diet\S\183
+, ISBN 978-0060598389 , page 23 Many of the diet guides and gurus that appeared at this time intentionally distanced themselves from Atkins and the term low carb ( because of the controversies ) even though their recommendations were based on largely the same principles ( e .g 	184	query281_Low-carbohydrate_diet\S\184
+. 	185	query281_Low-carbohydrate_diet\S\185
+the Zone diet ) . 	186	query281_Low-carbohydrate_diet\S\186
+Sears , Barry ; Lawren , Bill : , Regan Books , 1995 , 352 pp , ISBN 0060391502 Brand-Miller , Jennie ; Foster-Powell , Kaye ; McMillan-Price , Joanna : , Marlowe &amp; Company , 30 November 2004 , 336 pp , ISBN 978-1569244135 As a result , it is often a matter of debate which diets are really low-carbohydrate and which are not . 	187	query281_Low-carbohydrate_diet\S\187
+"Sears Lawren"	"is"	"Barry"	187	query281_Low-carbohydrate_diet\P\187-0
+"Sears Lawren"	"is"	"Regan Books 1995"	187	query281_Low-carbohydrate_diet\P\187-1
+"Sears Lawren"	"is"	"Regan Books 1995"	187	query281_Low-carbohydrate_diet\P\187-2
+"Regan Books 1995"	"is"	"352 pp"	187	query281_Low-carbohydrate_diet\P\187-3
+"Regan Books 1995"	"is"	"ISBN 0060391502 Brand-Miller Foster-Powell & Company it is often a matter of debate which diets are really low-carbohydrate"	187	query281_Low-carbohydrate_diet\P\187-4
+"Regan Books 1995"	"is"	"ISBN 0060391502 Brand-Miller Kaye it is often a matter of debate which diets are really low-carbohydrate and which are not"	187	query281_Low-carbohydrate_diet\P\187-5
+"Regan Books 1995"	"is"	"ISBN 0060391502 Brand-Miller McMillan-Price it is often a matter of debate which diets are really low-carbohydrate and which are not"	187	query281_Low-carbohydrate_diet\P\187-6
+"Regan Books 1995"	"is"	"ISBN 0060391502 Brand-Miller Marlowe it is often a matter of debate which diets are really low-carbohydrate and which are not"	187	query281_Low-carbohydrate_diet\P\187-7
+"Regan Books 1995"	"is"	"ISBN 0060391502 Brand-Miller 30 November 2004 As a result it is often a matter of debate which diets are really low-carbohydrate and which are not"	187	query281_Low-carbohydrate_diet\P\187-8
+"Regan Books 1995"	"is"	"ISBN 0060391502 Brand-Miller Foster-Powell & Company it is often a matter of debate which diets are really which are not"	187	query281_Low-carbohydrate_diet\P\187-9
+"ISBN 0060391502 Brand-Miller Foster-Powell & Company it is often a matter of debate which diets are really low-carbohydrate"	"is"	"Jennie"	187	query281_Low-carbohydrate_diet\P\187-10
+"ISBN 0060391502 Brand-Miller Kaye it is often a matter of debate which diets are really low-carbohydrate and which are not"	"is"	"Jennie"	187	query281_Low-carbohydrate_diet\P\187-11
+"ISBN 0060391502 Brand-Miller McMillan-Price it is often a matter of debate which diets are really low-carbohydrate and which are not"	"is"	"Jennie"	187	query281_Low-carbohydrate_diet\P\187-12
+"ISBN 0060391502 Brand-Miller Marlowe it is often a matter of debate which diets are really low-carbohydrate and which are not"	"is"	"Jennie"	187	query281_Low-carbohydrate_diet\P\187-13
+"ISBN 0060391502 Brand-Miller 30 November 2004 As a result it is often a matter of debate which diets are really low-carbohydrate and which are not"	"is"	"Jennie"	187	query281_Low-carbohydrate_diet\P\187-14
+"ISBN 0060391502 Brand-Miller Foster-Powell & Company it is often a matter of debate which diets are really which are not"	"is"	"Jennie"	187	query281_Low-carbohydrate_diet\P\187-15
+"ISBN 0060391502 Brand-Miller Foster-Powell & Company it is often a matter of debate which diets are really which are not"	"is"	"Jennie"	187	query281_Low-carbohydrate_diet\P\187-16
+"November 2004 As a result"	"is"	"336 pp"	30	query281_Low-carbohydrate_diet\P\187-17
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-18
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-19
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-20
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-21
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-22
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-23
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-24
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-25
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-26
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-27
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-28
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-29
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-30
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-31
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-32
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-33
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-34
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-35
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-36
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-37
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-38
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-39
+"November 2004 As a result"	"is"	"ISBN 978-1569244135"	30	query281_Low-carbohydrate_diet\P\187-40
+The 1990s and 2000s also saw the publication of an increased number of clinical studies regarding the effectiveness and safety ( pro and con ) of low-carbohydrate diets ( see low-carbohydrate diet medical research ) . 	188	query281_Low-carbohydrate_diet\S\188
+"The 1990s"	"saw"	"the publication of an increased number of clinical studies regarding the effectiveness of low-carbohydrate diets also"	188	query281_Low-carbohydrate_diet\P\188-0
+"The 1990s"	"saw"	"the publication of an increased number of clinical studies regarding the safety pro of low-carbohydrate diets also"	188	query281_Low-carbohydrate_diet\P\188-1
+"The 1990s"	"saw"	"the publication of an increased number of clinical studies regarding the safety con of low-carbohydrate diets also"	188	query281_Low-carbohydrate_diet\P\188-2
+"The 2000s"	"saw"	"the publication of an increased number of clinical studies regarding the effectiveness of low-carbohydrate diets also"	188	query281_Low-carbohydrate_diet\P\188-3
+"The 2000s"	"saw"	"the publication of an increased number of clinical studies regarding the safety pro of low-carbohydrate diets also"	188	query281_Low-carbohydrate_diet\P\188-4
+"The 2000s"	"saw"	"the publication of an increased number of clinical studies regarding the safety con of low-carbohydrate diets also"	188	query281_Low-carbohydrate_diet\P\188-5
+"The 1990s"	"saw"	"the publication of an increased number of clinical studies regarding the effectiveness of low-carbohydrate diets"	188	query281_Low-carbohydrate_diet\P\188-6
+"The 1990s"	"saw"	"the publication of an increased number of clinical studies regarding the safety pro of low-carbohydrate diets"	188	query281_Low-carbohydrate_diet\P\188-7
+"The 1990s"	"saw"	"the publication of an increased number of clinical studies regarding the safety con of low-carbohydrate diets"	188	query281_Low-carbohydrate_diet\P\188-8
+"The 2000s"	"saw"	"the publication of an increased number of clinical studies regarding the effectiveness of low-carbohydrate diets"	188	query281_Low-carbohydrate_diet\P\188-9
+"The 2000s"	"saw"	"the publication of an increased number of clinical studies regarding the safety pro of low-carbohydrate diets"	188	query281_Low-carbohydrate_diet\P\188-10
+"The 2000s"	"saw"	"the publication of an increased number of clinical studies regarding the safety con of low-carbohydrate diets"	188	query281_Low-carbohydrate_diet\P\188-11
+Sachiko T. 	189	query281_Low-carbohydrate_diet\S\189
+St . 	190	query281_Low-carbohydrate_diet\S\190
+Jeor , RD , PhD ; Barbara V. 	191	query281_Low-carbohydrate_diet\S\191
+"Jeor Barbara V."	"is"	"RD"	191	query281_Low-carbohydrate_diet\P\191-0
+"Jeor Barbara V."	"is"	"RD"	191	query281_Low-carbohydrate_diet\P\191-1
+Howard , PhD ; T. 	192	query281_Low-carbohydrate_diet\S\192
+"Howard T."	"is"	"PhD"	192	query281_Low-carbohydrate_diet\P\192-0
+Elaine Prewitt , RD , DrPH ; Vicki Bovee , RD , MS ; Terry Bazzarre , PhD ; Robert H. 	193	query281_Low-carbohydrate_diet\S\193
+"Elaine Prewitt Vicki Bovee Terry Bazzarre Robert H."	"is"	"RD"	193	query281_Low-carbohydrate_diet\P\193-0
+"Elaine Prewitt Vicki Bovee Terry Bazzarre Robert H."	"is"	"RD"	193	query281_Low-carbohydrate_diet\P\193-1
+"Vicki Bovee Terry Bazzarre Robert H."	"is"	"RD"	193	query281_Low-carbohydrate_diet\P\193-2
+"Vicki Bovee Terry Bazzarre Robert H."	"is"	"MS"	193	query281_Low-carbohydrate_diet\P\193-3
+"Terry Bazzarre"	"is"	"PhD"	193	query281_Low-carbohydrate_diet\P\193-4
+Eckel , MD; , , American Heart Association , 2001 . 	194	query281_Low-carbohydrate_diet\S\194
+"Eckel"	"is"	"MD"	194	query281_Low-carbohydrate_diet\P\194-0
+"Eckel"	"is"	"American Heart Association 2001"	194	query281_Low-carbohydrate_diet\P\194-1
+It states After 2004 the popularity of this diet trend began to wane significantly although it still remains quite popular . 	195	query281_Low-carbohydrate_diet\S\195
+It states After 2004 the popularity of this diet trend began to wane significantly although it still remains quite popular . 	195	query281_Low-carbohydrate_diet\S\195
+It states After 2004 the popularity of this diet trend began to wane significantly although it still remains quite popular . 	195	query281_Low-carbohydrate_diet\S\195
+"the popularity of this diet trend"	"began"	"to wane significantly although it still remains quite popular"	2004	query281_Low-carbohydrate_diet\P\195-0
+"the popularity of this diet trend"	"began"	"to wane significantly"	2004	query281_Low-carbohydrate_diet\P\195-1
+"the popularity of this diet trend"	"began"	"to wane significantly"	2004	query281_Low-carbohydrate_diet\P\195-2
+"the popularity of this diet trend"	"began"	"to wane significantly"	2004	query281_Low-carbohydrate_diet\P\195-3
+In spite of the decline in popularity this diet trend has continued to quietly garner attention in the medical and nutritional science communities . 	196	query281_Low-carbohydrate_diet\S\196
+"In spite of the decline in popularity this diet trend"	"has continued"	"to garner attention quietly"	196	query281_Low-carbohydrate_diet\P\196-0
+"In spite of the decline in popularity this diet trend"	"has continued"	"to garner attention in the medical science communities"	196	query281_Low-carbohydrate_diet\P\196-1
+"In spite of the decline in popularity this diet trend"	"has continued"	"to garner attention in the nutritional science communities"	196	query281_Low-carbohydrate_diet\P\196-2
+"In spite of the decline in popularity this diet trend"	"has continued"	"to garner attention"	196	query281_Low-carbohydrate_diet\P\196-3
+Rosen , Evan David : , Defeat Diabetes Foundation , 18 June 2003 Burros Marian http ://query .nytimes.com/gst/fullpage 	197	query281_Low-carbohydrate_diet\S\197
+.html 	198	query281_Low-carbohydrate_diet\S\198
+?res=9D06EFDE1239F932A15752C0A9629C8B63&sec=&spon=&pagewanted=all Eating Well ; The Post-Atkins Low Carb Diet The New York Times 21 January 2004 19 December 2010 Burros Marian http ://query .nytimes.com/gst/fullpage 	199	query281_Low-carbohydrate_diet\S\199
+.html 	200	query281_Low-carbohydrate_diet\S\200
+?res=9D06EFDE1239F932A15752C0A9629C8B63&sec=&spon=&pagewanted=all Eating Well ; The Post-Atkins Low Carb Diet The New York Times 21 January 2004 19 December 2010 The term "low-carbohydrate diet " today is most strongly associated with the Atkins Diet . 	201	query281_Low-carbohydrate_diet\S\201
+"January 2004 19 December 2010 The term low-carbohydrate diet today"	"is associated"	"The Post-Atkins Low Carb Diet The New York Times most strongly"	21	query281_Low-carbohydrate_diet\P\201-0
+"January 2004 19 December 2010 The term low-carbohydrate diet today"	"is associated"	"with the Atkins Diet The Post-Atkins Low Carb Diet The New York Times"	21	query281_Low-carbohydrate_diet\P\201-1
+"January 2004 19 December 2010 The term low-carbohydrate diet today"	"is associated"	"The Post-Atkins Low Carb Diet The New York Times"	21	query281_Low-carbohydrate_diet\P\201-2
+However , there is an array of other diets that share to varying degrees the same principles ( e .g 	202	query281_Low-carbohydrate_diet\S\202
+. 	203	query281_Low-carbohydrate_diet\S\203
+the Zone Diet , the Protein Power Lifeplan , http ://www.proteinpower.com/drmike/ 	204	query281_Low-carbohydrate_diet\S\204
+"the Zone Diet www.proteinpower.com/drmike/"	"is"	"the Protein Power Lifeplan"	204	query281_Low-carbohydrate_diet\P\204-0
+"the Protein Power Lifeplan"	"is"	"http"	204	query281_Low-carbohydrate_diet\P\204-1
+How about a hand for the hog 4 December 2010 19 December 2010 http ://www.proteinpower.com/drmike/ 	205	query281_Low-carbohydrate_diet\S\205
+How about a hand for the hog 4 December 2010 19 December 2010 The Primal Blueprint , the Go Lower Diet , http ://www.golower.co.uk 	206	query281_Low-carbohydrate_diet\S\206
+How about a hand for the hog 4 December 2010 19 December 2010 The Primal Blueprint , the Go Lower Diet , http ://www.golower.co.uk 	206	query281_Low-carbohydrate_diet\S\206
+How about a hand for the hog 4 December 2010 19 December 2010 The Primal Blueprint , the Go Lower Diet , http ://www.golower.co.uk 	206	query281_Low-carbohydrate_diet\S\206
+How about a hand for the hog 4 December 2010 19 December 2010 The Primal Blueprint , the Go Lower Diet , http ://www.golower.co.uk 	206	query281_Low-carbohydrate_diet\S\206
+Go lower : the real food diet that works golower.co.uk 	207	query281_Low-carbohydrate_diet\S\207
+Go lower : the real food diet that works golower.co.uk 	207	query281_Low-carbohydrate_diet\S\207
+"the real food diet"	"works"	"golower.co.uk"	207	query281_Low-carbohydrate_diet\P\207-0
+19 December 2010 http ://www.golower.co.uk 	208	query281_Low-carbohydrate_diet\S\208
+Go lower : the real food diet that works golower.co.uk 	209	query281_Low-carbohydrate_diet\S\209
+Go lower : the real food diet that works golower.co.uk 	209	query281_Low-carbohydrate_diet\S\209
+"the real food diet"	"works"	"golower.co.uk"	209	query281_Low-carbohydrate_diet\P\209-0
+19 December 2010 The Earth Diet and the South Beach Diet ) . 	210	query281_Low-carbohydrate_diet\S\210
+Dolson Laura http ://lowcarbdiets .about.com/od/populardietplans/Popular_Low_Carb_Diet_Plans 	211	query281_Low-carbohydrate_diet\S\211
+.htm 	212	query281_Low-carbohydrate_diet\S\212
+Popular Low Carb Diet Plans About.com 	213	query281_Low-carbohydrate_diet\S\213
+12 March 2008 Dolson Laura http ://lowcarbdiets .about.com/od/populardietplans/Popular_Low_Carb_Diet_Plans 	214	query281_Low-carbohydrate_diet\S\214
+.htm 	215	query281_Low-carbohydrate_diet\S\215
+Popular Low Carb Diet Plans About.com 	216	query281_Low-carbohydrate_diet\S\216
+12 March 2008 The American Academy of Family Physicians defines low-carbohydrate diets as diets that restrict carbohydrate intake to 20g to 60g per day . 	217	query281_Low-carbohydrate_diet\S\217
+12 March 2008 The American Academy of Family Physicians defines low-carbohydrate diets as diets that restrict carbohydrate intake to 20g to 60g per day . 	217	query281_Low-carbohydrate_diet\S\217
+12 March 2008 The American Academy of Family Physicians defines low-carbohydrate diets as diets that restrict carbohydrate intake to 20g to 60g per day . 	217	query281_Low-carbohydrate_diet\S\217
+12 March 2008 The American Academy of Family Physicians defines low-carbohydrate diets as diets that restrict carbohydrate intake to 20g to 60g per day . 	217	query281_Low-carbohydrate_diet\S\217
+Last AR , Wilson SA Low-carbohydrate diets American Family Physician 73 11 1942–8 2006 June 16770923 http ://www.aafp.org/link_out?pmid=16770923 	218	query281_Low-carbohydrate_diet\S\218
+"Last AR www.aafp.org/link_out?pmid=16770923"	"is"	"Wilson SA Low-carbohydrate diets American Family Physician 73 11 1942 8 2006 June 16770923 http"	218	query281_Low-carbohydrate_diet\P\218-0
+Last AR , Wilson SA Low-carbohydrate diets American Family Physician 73 11 1942–8 2006 June 16770923 http ://www.aafp.org/link_out?pmid=16770923 	219	query281_Low-carbohydrate_diet\S\219
+"Last AR www.aafp.org/link_out?pmid=16770923"	"is"	"Wilson SA Low-carbohydrate diets American Family Physician 73 11 1942 8 2006 June 16770923 http"	219	query281_Low-carbohydrate_diet\P\219-0
+Atkins ( in the later phases ) and some other low-carbohydrate diets exceed the 60g limit definition by this group . 	220	query281_Low-carbohydrate_diet\S\220
+"Atkins in the later phases"	"exceed"	"the 60g limit definition by this group"	220	query281_Low-carbohydrate_diet\P\220-0
+"in the later phases some other low-carbohydrate diets"	"exceed"	"the 60g limit definition by this group"	220	query281_Low-carbohydrate_diet\P\220-1
+"Atkins in the later phases"	"exceed"	"the 60g limit definition"	220	query281_Low-carbohydrate_diet\P\220-2
+"in the later phases some other low-carbohydrate diets"	"exceed"	"the 60g limit definition"	220	query281_Low-carbohydrate_diet\P\220-3
+There is no widely accepted definition of what precisely constitutes a low-carbohydrate diet . 	221	query281_Low-carbohydrate_diet\S\221
+"no widely accepted definition of what precisely constitutes a low-carbohydrate diet"	"There is"	"221"	221	query281_Low-carbohydrate_diet\P\221-0
+"no widely accepted definition of what precisely constitutes a low-carbohydrate diet"	"There is"	"221"	221	query281_Low-carbohydrate_diet\P\221-1
+"no widely accepted definition of what precisely constitutes a low-carbohydrate diet"	"There is"	"221"	221	query281_Low-carbohydrate_diet\P\221-2
+It is important to note that the level of carbohydrate consumption defined as low-carbohydrate by medical researchers may be different from the level of carbohydrate defined by diet advisors . 	222	query281_Low-carbohydrate_diet\S\222
+It is important to note that the level of carbohydrate consumption defined as low-carbohydrate by medical researchers may be different from the level of carbohydrate defined by diet advisors . 	222	query281_Low-carbohydrate_diet\S\222
+"the level of carbohydrate consumption"	"be defined"	"as low-carbohydrate by medical researchers"	222	query281_Low-carbohydrate_diet\P\222-0
+"the level of carbohydrate consumption"	"be defined"	"as low-carbohydrate"	222	query281_Low-carbohydrate_diet\P\222-1
+"the level of carbohydrate consumption defined as low-carbohydrate by medical researchers"	"may be different"	"from the level of carbohydrate defined by diet advisors"	222	query281_Low-carbohydrate_diet\P\222-2
+"the level of carbohydrate consumption defined as low-carbohydrate by medical researchers"	"may be"	"different"	222	query281_Low-carbohydrate_diet\P\222-3
+"the level of carbohydrate consumption defined as low-carbohydrate by medical researchers"	"may be"	"different"	222	query281_Low-carbohydrate_diet\P\222-4
+For the purposes of this discussion , this article focuses on diets that reduce ( nutritive ) carbohydrate intake sufficiently to dramatically reduce insulin production in the body and to encourage ketosis ( production of ketones to be used as energy in place of glucose ) . 	223	query281_Low-carbohydrate_diet\S\223
+"this article"	"focuses"	"on diets 223 For the purposes of this discussion"	223	query281_Low-carbohydrate_diet\P\223-0
+"this article"	"focuses"	"on diets"	223	query281_Low-carbohydrate_diet\P\223-1
+"this article"	"focuses"	"on diets"	223	query281_Low-carbohydrate_diet\P\223-2
+"this article"	"focuses"	"on diets"	223	query281_Low-carbohydrate_diet\P\223-3
+"to encourage ketosis production of ketones"	"be used"	"as energy in place of glucose"	223	query281_Low-carbohydrate_diet\P\223-4
+"to encourage ketosis production of ketones"	"be used"	"as energy"	223	query281_Low-carbohydrate_diet\P\223-5
+Although originally low-carbohydrate diets were created based on anecdotal evidence of their effectiveness , today there is a much greater theoretical basis on which these diets rest . 	224	query281_Low-carbohydrate_diet\S\224
+"low-carbohydrate diets"	"were created"	"based on anecdotal evidence of their effectiveness originally"	224	query281_Low-carbohydrate_diet\P\224-0
+"low-carbohydrate diets"	"were created"	"based on anecdotal evidence of their effectiveness"	224	query281_Low-carbohydrate_diet\P\224-1
+"low-carbohydrate diets"	"were created"	"based on anecdotal evidence of their effectiveness"	224	query281_Low-carbohydrate_diet\P\224-2
+"a much greater theoretical basis"	"there is"	"224 Although originally low-carbohydrate diets were created based on anecdotal evidence of their effectiveness"	224	query281_Low-carbohydrate_diet\P\224-3
+"a much greater theoretical basis"	"there is"	"224"	224	query281_Low-carbohydrate_diet\P\224-4
+Ann Louise Gittleman : , Chapter 5 , McGraw Hill , 11 March 1999 , ISBN 087983966X / 9780879839666 Eades , Michael R. 	225	query281_Low-carbohydrate_diet\S\225
+"Chapter 5"	"is"	"ISBN 087983966X 9780879839666 Eades"	225	query281_Low-carbohydrate_diet\P\225-0
+"Chapter 5"	"is"	"Michael R."	225	query281_Low-carbohydrate_diet\P\225-1
+"Chapter 5"	"is"	"McGraw Hill"	225	query281_Low-carbohydrate_diet\P\225-2
+"Chapter 5"	"is"	"11 March 1999"	225	query281_Low-carbohydrate_diet\P\225-3
+; Eades , Mary Dan : Protein Power , Chapter 1 , Bantam Books , 1999 , ISBN 0553380788 The key scientific principle which forms the basis for these diets is the relationship between consumption of carbohydrates and the subsequent effect on blood sugar ( i .e 	226	query281_Low-carbohydrate_diet\S\226
+. 	227	query281_Low-carbohydrate_diet\S\227
+blood glucose ) and on production of certain specific hormone . 	228	query281_Low-carbohydrate_diet\S\228
+Blood sugar levels in the human body must be maintained in a fairly narrow range to maintain health . 	229	query281_Low-carbohydrate_diet\S\229
+"Blood sugar levels in the human body"	"must be maintained"	"in a fairly narrow range to maintain health"	229	query281_Low-carbohydrate_diet\P\229-0
+"a fairly narrow range"	"be maintain"	"health"	229	query281_Low-carbohydrate_diet\P\229-1
+The two primary hormones related to regulating blood sugar levels , produced in the pancreas , are insulin , which lowers blood sugar levels (among many other effects , most of considerable metabolic significance ) , and glucagon , which raises blood sugar levels . 	230	query281_Low-carbohydrate_diet\S\230
+"The two primary hormones"	"be related"	"to regulating blood sugar levels produced in the pancreas"	230	query281_Low-carbohydrate_diet\P\230-0
+"blood sugar levels"	"be produced"	"in the pancreas"	230	query281_Low-carbohydrate_diet\P\230-1
+"The two primary hormones related to regulating blood sugar levels produced in the pancreas"	"are"	"insulin"	230	query281_Low-carbohydrate_diet\P\230-2
+"The two primary hormones related to regulating blood sugar levels produced in the pancreas"	"are"	"glucagon"	230	query281_Low-carbohydrate_diet\P\230-3
+"The two primary hormones related to regulating blood sugar levels produced in the pancreas"	"are"	"glucagon"	230	query281_Low-carbohydrate_diet\P\230-4
+"The two primary hormones related to regulating blood sugar levels produced in the pancreas"	"are"	"glucagon"	230	query281_Low-carbohydrate_diet\P\230-5
+"The two primary hormones related to regulating blood sugar levels produced in the pancreas"	"are"	"glucagon"	230	query281_Low-carbohydrate_diet\P\230-6
+, EndocrineWeb.com 	231	query281_Low-carbohydrate_diet\S\231
+, EndocrineWeb.com 	231	query281_Low-carbohydrate_diet\S\231
+, retrieved 12 March 2008 In general , most western diets ( and many others ) are sufficiently high in nutritive carbohydrates that nearly all meals evoke insulin secretion from the beta cells in the pancreas ; carbohydrates which are digested to produce glucose in the blood stream are the primary control for insulin secretion . 	232	query281_Low-carbohydrate_diet\S\232
+, retrieved 12 March 2008 In general , most western diets ( and many others ) are sufficiently high in nutritive carbohydrates that nearly all meals evoke insulin secretion from the beta cells in the pancreas ; carbohydrates which are digested to produce glucose in the blood stream are the primary control for insulin secretion . 	232	query281_Low-carbohydrate_diet\S\232
+, retrieved 12 March 2008 In general , most western diets ( and many others ) are sufficiently high in nutritive carbohydrates that nearly all meals evoke insulin secretion from the beta cells in the pancreas ; carbohydrates which are digested to produce glucose in the blood stream are the primary control for insulin secretion . 	232	query281_Low-carbohydrate_diet\S\232
+"most western diets"	"is"	"many others"	232	query281_Low-carbohydrate_diet\P\232-0
+"most western diets"	"are"	"high sufficiently 232 retrieved 12 March 2008 In general"	232	query281_Low-carbohydrate_diet\P\232-1
+"most western diets"	"are"	"high in nutritive carbohydrates 232 retrieved 12 March 2008 In general"	232	query281_Low-carbohydrate_diet\P\232-2
+"most western diets"	"are"	"high 232 retrieved 12 March 2008 In general"	232	query281_Low-carbohydrate_diet\P\232-3
+"nearly all meals"	"evoke"	"nutritive carbohydrates insulin secretion from the beta cells in the pancreas"	232	query281_Low-carbohydrate_diet\P\232-4
+"nearly all meals"	"evoke"	"nutritive carbohydrates insulin secretion from the beta cells in the pancreas"	232	query281_Low-carbohydrate_diet\P\232-5
+"nearly all meals"	"evoke"	"nutritive carbohydrates insulin secretion from the beta cells in the pancreas"	232	query281_Low-carbohydrate_diet\P\232-6
+"nearly all meals"	"evoke"	"nutritive carbohydrates insulin secretion from the beta cells in the pancreas"	232	query281_Low-carbohydrate_diet\P\232-7
+"nearly all meals"	"evoke"	"nutritive carbohydrates insulin secretion from the beta cells in the pancreas"	232	query281_Low-carbohydrate_diet\P\232-8
+Another aspect of insulin secretion is control of ketosis ; in the non-ketotic state , the human body stores dietary fat in fat cells ( i .e 	233	query281_Low-carbohydrate_diet\S\233
+. 	234	query281_Low-carbohydrate_diet\S\234
+, adipose tissue ) and preferentially uses glucose as cellular fuel . 	235	query281_Low-carbohydrate_diet\S\235
+By contrast , low-carbohydrate diets , or more properly , diets that are very low in nutritive carbohydrates , evoke less insulin ( to cover the ingested glucose in the blood stream ) , leading to longer and more frequent episodes of ketosis . 	236	query281_Low-carbohydrate_diet\S\236
+"By contrast low-carbohydrate diets"	"is"	"diets"	236	query281_Low-carbohydrate_diet\P\236-0
+"By contrast low-carbohydrate more properly"	"is"	"diets"	236	query281_Low-carbohydrate_diet\P\236-1
+"By contrast low-carbohydrate more properly"	"is"	"diets"	236	query281_Low-carbohydrate_diet\P\236-2
+"By contrast low-carbohydrate more properly"	"is"	"diets"	236	query281_Low-carbohydrate_diet\P\236-3
+"By contrast low-carbohydrate more properly"	"is"	"diets"	236	query281_Low-carbohydrate_diet\P\236-4
+"By contrast low-carbohydrate diets"	"be leading"	"to longer episodes of ketosis"	236	query281_Low-carbohydrate_diet\P\236-5
+"By contrast low-carbohydrate diets"	"be leading"	"to more frequent episodes of ketosis"	236	query281_Low-carbohydrate_diet\P\236-6
+"By contrast low-carbohydrate more properly"	"be leading"	"to longer episodes of ketosis"	236	query281_Low-carbohydrate_diet\P\236-7
+"By contrast low-carbohydrate more properly"	"be leading"	"to more frequent episodes of ketosis"	236	query281_Low-carbohydrate_diet\P\236-8
+"By contrast low-carbohydrate diets"	"evoke"	"less insulin to cover the ingested glucose in the blood stream leading to longer episodes of ketosis"	236	query281_Low-carbohydrate_diet\P\236-9
+"By contrast low-carbohydrate diets"	"evoke"	"less insulin to cover the ingested glucose in the blood stream leading to more frequent episodes of ketosis"	236	query281_Low-carbohydrate_diet\P\236-10
+"By contrast low-carbohydrate more properly"	"evoke"	"less insulin to cover the ingested glucose in the blood stream leading to longer episodes of ketosis"	236	query281_Low-carbohydrate_diet\P\236-11
+"By contrast low-carbohydrate more properly"	"evoke"	"less insulin to cover the ingested glucose in the blood stream leading to more frequent episodes of ketosis"	236	query281_Low-carbohydrate_diet\P\236-12
+"By contrast low-carbohydrate diets"	"evoke"	"less insulin to cover the ingested glucose in the blood stream"	236	query281_Low-carbohydrate_diet\P\236-13
+"By contrast low-carbohydrate more properly"	"evoke"	"less insulin to cover the ingested glucose in the blood stream"	236	query281_Low-carbohydrate_diet\P\236-14
+Some researchers suggest that this causes body fat to be eliminated from the body , although this theory remains controversial , insofar as it refers to excretion of lipids ( i .e 	237	query281_Low-carbohydrate_diet\S\237
+. 	238	query281_Low-carbohydrate_diet\S\238
+, fat and oil ) and not to fat metabolism during ketosis . 	239	query281_Low-carbohydrate_diet\S\239
+December 2011 December 2011 Low-carbohydrate diet advocates in general recommend reducing nutritive carbohydrates ( commonly referred to as " net carbs , " i .e 	240	query281_Low-carbohydrate_diet\S\240
+. 	241	query281_Low-carbohydrate_diet\S\241
+grams of total carbohydrates reduced by the non-nutritive carbohydrates ) Dolson , Laura : , About.com 	242	query281_Low-carbohydrate_diet\S\242
+"grams of total carbohydrates reduced by the non-nutritive carbohydrates Dolson"	"is"	"About.com"	242	query281_Low-carbohydrate_diet\P\242-0
+"total carbohydrates"	"be reduced"	"by the non-nutritive carbohydrates Dolson"	242	query281_Low-carbohydrate_diet\P\242-1
+"total carbohydrates"	"be reduced"	"by the non-nutritive carbohydrates Dolson"	242	query281_Low-carbohydrate_diet\P\242-2
+: Low Carb Diets , retrieved 13 March 2008 http ://www.atkins.com/company/press-release/breakthrough-science-advances-atkins-net-carb-labeling-claims-on-food-products/ 	243	query281_Low-carbohydrate_diet\S\243
+?searchterm=net %20carbs ? atkins.com 	244	query281_Low-carbohydrate_diet\S\244
+6 October 2004 New York , New York December 2010 http ://www.atkins.com/company/press-release/breakthrough-science-advances-atkins-net-carb-labeling-claims-on-food-products/ 	245	query281_Low-carbohydrate_diet\S\245
+"October 2004 New York"	"is"	"New York December 2010 http"	6	query281_Low-carbohydrate_diet\P\245-0
+?searchterm=net %20carbs ? atkins.com 	246	query281_Low-carbohydrate_diet\S\246
+6 October 2004 New York , New York December 2010 to very low levels . 	247	query281_Low-carbohydrate_diet\S\247
+"6 October 2004 New York to very low levels"	"is"	"New York December 2010"	247	query281_Low-carbohydrate_diet\P\247-0
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+This means sharply reducing consumption of desserts , breads , pastas , potatoes , rice , and other sweet or starchy foods . 	248	query281_Low-carbohydrate_diet\S\248
+Some recommend levels less than 20&nbsp;grams of " net carbs " per day , at least in the early stages of dieting , Carbstation.com 	249	query281_Low-carbohydrate_diet\S\249
+"Some"	"recommend"	"levels less than 20 grams of net carbs per day at least in the early stages of dieting Carbstation.com"	249	query281_Low-carbohydrate_diet\P\249-0
+"Some"	"recommend"	"levels less than 20 grams of net carbs per day Carbstation.com"	249	query281_Low-carbohydrate_diet\P\249-1
+, retrieved 25 January 2011 ( for comparison , a single slice of white bread typically contains 15&nbsp;grams of carbohydrate , almost entirely starch ) . 	250	query281_Low-carbohydrate_diet\S\250
+, retrieved 25 January 2011 ( for comparison , a single slice of white bread typically contains 15&nbsp;grams of carbohydrate , almost entirely starch ) . 	250	query281_Low-carbohydrate_diet\S\250
+"a single slice of white bread"	"contains"	"15 grams of carbohydrate for comparison"	250	query281_Low-carbohydrate_diet\P\250-0
+"a single slice of white bread"	"contains"	"15 grams of carbohydrate typically"	250	query281_Low-carbohydrate_diet\P\250-1
+"a single slice of white bread"	"contains"	"15 grams of carbohydrate"	250	query281_Low-carbohydrate_diet\P\250-2
+By contrast , the U.S. 	251	query281_Low-carbohydrate_diet\S\251
+"By contrast"	"is"	"the U.S."	251	query281_Low-carbohydrate_diet\P\251-0
+Institute of Medicine recommends a minimum intake of 130&nbsp;grams of carbohydrate per day ( the FAO and WHO similarly recommend that the majority of dietary energy come from carbohydrates ) . 	252	query281_Low-carbohydrate_diet\S\252
+"Institute of Medicine"	"recommends"	"a minimum intake of 130 grams of carbohydrate per day"	252	query281_Low-carbohydrate_diet\P\252-0
+"a minimum intake of 130 grams of carbohydrate per day"	"is"	"the FAO"	252	query281_Low-carbohydrate_diet\P\252-1
+"a minimum intake of 130 grams of carbohydrate per day"	"is"	"the WHO similarly recommend that the majority of dietary energy come from carbohydrates"	252	query281_Low-carbohydrate_diet\P\252-2
+"a minimum intake of 130 grams of carbohydrate per day"	"is"	"the WHO similarly recommend that the majority of dietary energy come from carbohydrates"	252	query281_Low-carbohydrate_diet\P\252-3
+"a minimum intake of 130 grams of carbohydrate per day"	"is"	"the WHO similarly recommend that the majority of dietary energy come from carbohydrates"	252	query281_Low-carbohydrate_diet\P\252-4
+"the majority of dietary energy"	"come"	"from carbohydrates"	252	query281_Low-carbohydrate_diet\P\252-5
+Food and Nutrition Board ( 2002/2005 ) . 	253	query281_Low-carbohydrate_diet\S\253
+"Nutrition Board"	"is"	"2002/2005"	253	query281_Low-carbohydrate_diet\P\253-0
+. 	254	query281_Low-carbohydrate_diet\S\254
+Washington , DC : The National Academies Press . 	255	query281_Low-carbohydrate_diet\S\255
+"Washington The National Academies Press"	"is in"	"DC"	255	query281_Low-carbohydrate_diet\P\255-0
+Page . 	256	query281_Low-carbohydrate_diet\S\256
+ISBN 0-309-08537-3 Joint WHO/FAO expert consultation ( 2003 ) . 	257	query281_Low-carbohydrate_diet\S\257
+"ISBN 0-309-08537-3 Joint WHO/FAO expert consultation"	"is"	"2003"	257	query281_Low-carbohydrate_diet\P\257-0
+( PDF ) . 	258	query281_Low-carbohydrate_diet\S\258
+( PDF ) . 	258	query281_Low-carbohydrate_diet\S\258
+Geneva : World Health Organization . 	259	query281_Low-carbohydrate_diet\S\259
+Pages 55-56 . 	260	query281_Low-carbohydrate_diet\S\260
+ISBN 92-4-120916-X Low-carbohydrate diets often differ in the specific amount of carbohydrate intake allowed , whether certain types of foods are preferred , whether occasional exceptions are allowed , etc . 	261	query281_Low-carbohydrate_diet\S\261
+"ISBN 92-4-120916-X Low-carbohydrate diets"	"differ"	"whether certain types of foods are preferred whether occasional exceptions are allowed etc often"	261	query281_Low-carbohydrate_diet\P\261-0
+"ISBN 92-4-120916-X Low-carbohydrate diets"	"differ"	"in the specific amount of carbohydrate intake allowed whether certain types of foods are preferred whether occasional exceptions are allowed etc"	261	query281_Low-carbohydrate_diet\P\261-1
+"ISBN 92-4-120916-X Low-carbohydrate diets"	"differ"	"whether certain types of foods are preferred whether occasional exceptions are allowed etc"	261	query281_Low-carbohydrate_diet\P\261-2
+"certain types of foods"	"are preferred"	"whether occasional exceptions are allowed etc"	261	query281_Low-carbohydrate_diet\P\261-3
+"occasional exceptions"	"are allowed"	"etc"	261	query281_Low-carbohydrate_diet\P\261-4
+Generally they all agree that processed sugar should be eliminated , or at the very least greatly reduced , and similarly generally discourage heavily processed grains ( white bread , etc. 	262	query281_Low-carbohydrate_diet\S\262
+"they all"	"agree"	"that processed sugar should be eliminated 262 Generally"	262	query281_Low-carbohydrate_diet\P\262-0
+"they all"	"agree"	"that processed sugar should be at the very least greatly reduced 262 Generally"	262	query281_Low-carbohydrate_diet\P\262-1
+"they all"	"agree"	"that processed sugar should be eliminated 262"	262	query281_Low-carbohydrate_diet\P\262-2
+"they all"	"agree"	"that processed sugar should be at the very least greatly reduced 262"	262	query281_Low-carbohydrate_diet\P\262-3
+"they all"	"discourage"	"that processed sugar should be eliminated heavily processed grains white bread etc. 262 Generally"	262	query281_Low-carbohydrate_diet\P\262-4
+"they all"	"discourage"	"that processed sugar should be at the very least greatly reduced heavily processed grains white bread etc. 262 Generally"	262	query281_Low-carbohydrate_diet\P\262-5
+"they all"	"discourage"	"that processed sugar should be eliminated heavily processed grains white bread etc. 262 similarly"	262	query281_Low-carbohydrate_diet\P\262-6
+"they all"	"discourage"	"that processed sugar should be at the very least greatly reduced heavily processed grains white bread etc. 262 similarly"	262	query281_Low-carbohydrate_diet\P\262-7
+"they all"	"discourage"	"that processed sugar should be eliminated heavily processed grains white bread etc. 262 generally"	262	query281_Low-carbohydrate_diet\P\262-8
+"they all"	"discourage"	"that processed sugar should be at the very least greatly reduced heavily processed grains white bread etc. 262 generally"	262	query281_Low-carbohydrate_diet\P\262-9
+"they all"	"discourage"	"that processed sugar should be eliminated heavily processed grains white bread etc. 262"	262	query281_Low-carbohydrate_diet\P\262-10
+"they all"	"discourage"	"that processed sugar should be at the very least greatly reduced heavily processed grains white bread etc. 262"	262	query281_Low-carbohydrate_diet\P\262-11
+"processed sugar"	"should be reduced"	"at the very least greatly"	262	query281_Low-carbohydrate_diet\P\262-12
+) . 	263	query281_Low-carbohydrate_diet\S\263
+Low-carbohydrate diets vary greatly in their recommendations as to the amount of fat allowed in the diet . 	264	query281_Low-carbohydrate_diet\S\264
+"Low-carbohydrate diets"	"vary"	"greatly in their recommendations as to the amount of fat allowed in the diet"	264	query281_Low-carbohydrate_diet\P\264-0
+"Low-carbohydrate diets"	"vary"	"greatly"	264	query281_Low-carbohydrate_diet\P\264-1
+"Low-carbohydrate diets"	"vary"	"greatly"	264	query281_Low-carbohydrate_diet\P\264-2
+"the amount of fat"	"be allowed"	"in the diet"	264	query281_Low-carbohydrate_diet\P\264-3
+The Atkins Diet does not limit fat . 	265	query281_Low-carbohydrate_diet\S\265
+"The Atkins Diet"	"does not limit"	"fat"	265	query281_Low-carbohydrate_diet\P\265-0
+Others recommend a moderate fat intake . 	266	query281_Low-carbohydrate_diet\S\266
+"Others"	"recommend"	"a moderate fat intake"	266	query281_Low-carbohydrate_diet\P\266-0
+Although low-carbohydrate diets are most commonly discussed as a weight-loss approach , some experts have proposed using low-carbohydrate diets to mitigate or prevent diseases including diabetes , metabolic disease and epilepsy . 	267	query281_Low-carbohydrate_diet\S\267
+"low-carbohydrate diets"	"are discussed"	"as a weight-loss approach most commonly"	267	query281_Low-carbohydrate_diet\P\267-0
+"low-carbohydrate diets"	"are discussed"	"as a weight-loss approach"	267	query281_Low-carbohydrate_diet\P\267-1
+"some experts"	"have proposed"	"using low-carbohydrate diets to mitigate diseases including diabetes"	267	query281_Low-carbohydrate_diet\P\267-2
+"some experts"	"have proposed"	"using low-carbohydrate diets to prevent diseases including diabetes"	267	query281_Low-carbohydrate_diet\P\267-3
+"some experts"	"have proposed"	"using low-carbohydrate diets to prevent diseases including metabolic disease"	267	query281_Low-carbohydrate_diet\P\267-4
+"some experts"	"have proposed"	"using low-carbohydrate diets to prevent diseases including epilepsy"	267	query281_Low-carbohydrate_diet\P\267-5
+"some experts"	"have proposed"	"using low-carbohydrate diets to mitigate diseases including metabolic disease"	267	query281_Low-carbohydrate_diet\P\267-6
+"some experts"	"have proposed"	"using low-carbohydrate diets to mitigate diseases including epilepsy"	267	query281_Low-carbohydrate_diet\P\267-7
+"some experts"	"have proposed"	"using low-carbohydrate diets"	267	query281_Low-carbohydrate_diet\P\267-8
+"using low-carbohydrate diets to prevent"	"be mitigate"	"diseases including diabetes"	267	query281_Low-carbohydrate_diet\P\267-9
+"using low-carbohydrate diets to prevent"	"be mitigate"	"diseases including metabolic disease"	267	query281_Low-carbohydrate_diet\P\267-10
+"using low-carbohydrate diets to prevent"	"be mitigate"	"diseases including epilepsy"	267	query281_Low-carbohydrate_diet\P\267-11
+"using low-carbohydrate diets to prevent"	"be mitigate"	"diseases including diabetes"	267	query281_Low-carbohydrate_diet\P\267-12
+"using low-carbohydrate diets to prevent"	"be mitigate"	"diseases including metabolic disease"	267	query281_Low-carbohydrate_diet\P\267-13
+"using low-carbohydrate diets to prevent"	"be mitigate"	"diseases including epilepsy"	267	query281_Low-carbohydrate_diet\P\267-14
+Yancy WS , Foy M , Chalecki AM , Vernon MC , Westman EC A low-carbohydrate , ketogenic diet to treat type 2 diabetes Nutrition &amp; Metabolism 2 1 34 2005 16318637 1325029 10.1186/1743-7075-2-34 	268	query281_Low-carbohydrate_diet\S\268
+"Foy M to treat type 2 diabetes Nutrition & Metabolism 2 1 34 2005 16318637 1325029 10.1186"	"is"	"Westman EC A low-carbohydrate ketogenic diet"	268	query281_Low-carbohydrate_diet\P\268-0
+"Foy M"	"be treat"	"type 2 diabetes Nutrition & Metabolism 2 1 34 2005 16318637 1325029 10.1186"	268	query281_Low-carbohydrate_diet\P\268-1
+"Foy M to treat type 2 diabetes Nutrition & Metabolism 2 1 34 2005 16318637 1325029 10.1186"	"is"	"Chalecki AM"	268	query281_Low-carbohydrate_diet\P\268-2
+"Foy M to treat type 2 diabetes Nutrition & Metabolism 2 1 34 2005 16318637 1325029 10.1186"	"is"	"Vernon MC"	268	query281_Low-carbohydrate_diet\P\268-3
+Yancy WS , Foy M , Chalecki AM , Vernon MC , Westman EC A low-carbohydrate , ketogenic diet to treat type 2 diabetes Nutrition &amp; Metabolism 2 1 34 2005 16318637 1325029 10.1186/1743-7075-2-34 	269	query281_Low-carbohydrate_diet\S\269
+"Foy M to treat type 2 diabetes Nutrition & Metabolism 2 1 34 2005 16318637 1325029 10.1186"	"is"	"Westman EC A low-carbohydrate ketogenic diet"	269	query281_Low-carbohydrate_diet\P\269-0
+"Foy M"	"be treat"	"type 2 diabetes Nutrition & Metabolism 2 1 34 2005 16318637 1325029 10.1186"	269	query281_Low-carbohydrate_diet\P\269-1
+"Foy M to treat type 2 diabetes Nutrition & Metabolism 2 1 34 2005 16318637 1325029 10.1186"	"is"	"Chalecki AM"	269	query281_Low-carbohydrate_diet\P\269-2
+"Foy M to treat type 2 diabetes Nutrition & Metabolism 2 1 34 2005 16318637 1325029 10.1186"	"is"	"Vernon MC"	269	query281_Low-carbohydrate_diet\P\269-3
+John M. 	270	query281_Low-carbohydrate_diet\S\270
+Freeman , Eric H. 	271	query281_Low-carbohydrate_diet\S\271
+"Freeman"	"is"	"Eric H."	271	query281_Low-carbohydrate_diet\P\271-0
+Kossoff , Jennifer B. 	272	query281_Low-carbohydrate_diet\S\272
+"Kossoff"	"is"	"Jennifer B."	272	query281_Low-carbohydrate_diet\P\272-0
+Freeman , Millicent T. 	273	query281_Low-carbohydrate_diet\S\273
+"Freeman"	"is"	"Millicent T."	273	query281_Low-carbohydrate_diet\P\273-0
+Kelly : , 4th edition , Demos Medical Publishing , October 4 , 2006 , ISBN 978-1932603187 Some low-carbohydrate proponents and others argue that the rise in carbohydrate consumption , especially refined carbohydrates , caused the epidemic levels of many diseases in modern society , including metabolic disease and type 2 diabetes . 	274	query281_Low-carbohydrate_diet\S\274
+"4th edition"	"is"	"October 4 2006"	274	query281_Low-carbohydrate_diet\P\274-0
+"4th edition"	"is"	"4 2006 ISBN 978-1932603187 Some low-carbohydrate proponents"	274	query281_Low-carbohydrate_diet\P\274-1
+"4th edition"	"is"	"4 2006 others"	274	query281_Low-carbohydrate_diet\P\274-2
+"4th Demos Medical Publishing"	"is"	"October 4 2006"	274	query281_Low-carbohydrate_diet\P\274-3
+"4th Demos Medical Publishing"	"is"	"4 2006 ISBN 978-1932603187 Some low-carbohydrate proponents"	274	query281_Low-carbohydrate_diet\P\274-4
+"4th Demos Medical Publishing"	"is"	"4 2006 others"	274	query281_Low-carbohydrate_diet\P\274-5
+"4th edition"	"argue"	"that the rise in carbohydrate consumption caused the epidemic levels of many diseases in modern society including metabolic disease"	274	query281_Low-carbohydrate_diet\P\274-6
+"4th edition"	"argue"	"that the rise in carbohydrate consumption caused the epidemic levels of many diseases in modern society including metabolic type 2 diabetes"	274	query281_Low-carbohydrate_diet\P\274-7
+"4th Demos Medical Publishing"	"argue"	"that the rise in carbohydrate consumption caused the epidemic levels of many diseases in modern society including metabolic disease"	274	query281_Low-carbohydrate_diet\P\274-8
+"4th Demos Medical Publishing"	"argue"	"that the rise in carbohydrate consumption caused the epidemic levels of many diseases in modern society including metabolic type 2 diabetes"	274	query281_Low-carbohydrate_diet\P\274-9
+"the rise in carbohydrate consumption"	"is"	"especially refined carbohydrates"	274	query281_Low-carbohydrate_diet\P\274-10
+"the rise in carbohydrate consumption"	"caused"	"the epidemic levels of many diseases in modern society including metabolic disease"	274	query281_Low-carbohydrate_diet\P\274-11
+"the rise in carbohydrate consumption"	"caused"	"the epidemic levels of many diseases in modern society including metabolic type 2 diabetes"	274	query281_Low-carbohydrate_diet\P\274-12
+Michael R. 	275	query281_Low-carbohydrate_diet\S\275
+Eades , Mary Dan Eades , , Warner Books , 2000 , ISBN 0446525766 , second edition , Avery , February 1 , 1988 , ISBN 978-0895297686 , , retrieved 22 July 2008 July 2009 There is also a category of diets known as low-glycemic-index diets ( low-GI diets ) or low-glycemic-load diets ( low-GL diets ) , in particular the Low GI Diet by Brand-Miller et al . 	276	query281_Low-carbohydrate_diet\S\276
+"Eades Warner Books 2000 retrieved 22 July 2008 July 2009 There is also a category of diets known as low-glycemic-index diets in particular the Low GI Diet by Brand-Miller et al"	"is"	"Mary Dan Eades"	276	query281_Low-carbohydrate_diet\P\276-0
+"Eades Warner Books 2000 retrieved 22 July 2008 July 2009 There is also a category of diets known as low-glycemic-index low-glycemic-load diets in particular the Low GI Diet by Brand-Miller et al"	"is"	"Mary Dan Eades"	276	query281_Low-carbohydrate_diet\P\276-1
+"Warner Books 2000 retrieved 22 July 2008 July 2009 There is also a category of diets known as low-glycemic-index diets in particular the Low GI Diet by Brand-Miller et al"	"is"	"ISBN 0446525766"	276	query281_Low-carbohydrate_diet\P\276-2
+"Warner Books 2000 retrieved 22 July 2008 July 2009 There is also a category of diets known as low-glycemic-index low-glycemic-load diets in particular the Low GI Diet by Brand-Miller et al"	"is"	"ISBN 0446525766"	276	query281_Low-carbohydrate_diet\P\276-3
+"Warner Books 2000 retrieved 22 July 2008 July 2009 There is also a category of diets known as low-glycemic-index diets in particular the Low GI Diet by Brand-Miller et al"	"is"	"second edition"	276	query281_Low-carbohydrate_diet\P\276-4
+"Warner Books 2000 retrieved 22 July 2008 July 2009 There is also a category of diets known as low-glycemic-index low-glycemic-load diets in particular the Low GI Diet by Brand-Miller et al"	"is"	"second edition"	276	query281_Low-carbohydrate_diet\P\276-5
+"Warner Books 2000 retrieved 22 July 2008 July 2009 There is also a category of diets known as low-glycemic-index diets in particular the Low GI Diet by Brand-Miller et al"	"is"	"Avery"	276	query281_Low-carbohydrate_diet\P\276-6
+"Warner Books 2000 retrieved 22 July 2008 July 2009 There is also a category of diets known as low-glycemic-index low-glycemic-load diets in particular the Low GI Diet by Brand-Miller et al"	"is"	"Avery"	276	query281_Low-carbohydrate_diet\P\276-7
+"Warner Books 2000"	"be retrieved"	"22 July 2008 July 2009"	276	query281_Low-carbohydrate_diet\P\276-8
+"Warner Books 2000"	"be retrieved"	"22 July 2008 July 2009"	276	query281_Low-carbohydrate_diet\P\276-9
+"February 1 1988"	"is"	"ISBN 978-0895297686"	276	query281_Low-carbohydrate_diet\P\276-10
+"a category of diets known as low-glycemic-index diets"	"There is"	"also"	276	query281_Low-carbohydrate_diet\P\276-11
+"a category of diets known as low-glycemic-index low-glycemic-load diets"	"There is"	"also"	276	query281_Low-carbohydrate_diet\P\276-12
+"a category of diets known as low-glycemic-index diets"	"There is"	"in particular the Low GI Diet by Brand-Miller et al"	276	query281_Low-carbohydrate_diet\P\276-13
+"a category of diets known as low-glycemic-index low-glycemic-load diets"	"There is"	"in particular the Low GI Diet by Brand-Miller et al"	276	query281_Low-carbohydrate_diet\P\276-14
+"a category of diets known as low-glycemic-index low-glycemic-load diets"	"There is"	"in particular the Low GI Diet by Brand-Miller et al"	276	query281_Low-carbohydrate_diet\P\276-15
+"a category of diets known as low-glycemic-index low-glycemic-load diets"	"There is"	"in particular the Low GI Diet by Brand-Miller et al"	276	query281_Low-carbohydrate_diet\P\276-16
+"low-glycemic-index diets"	"is"	"low-GI diets"	276	query281_Low-carbohydrate_diet\P\276-17
+"low-glycemic-index low-glycemic-load diets"	"is"	"low-GI diets"	276	query281_Low-carbohydrate_diet\P\276-18
+"low-glycemic-load diets"	"is"	"low-GL diets"	276	query281_Low-carbohydrate_diet\P\276-19
+Brand-Miller et al . 	277	query281_Low-carbohydrate_diet\S\277
+( 2005 ) . 	278	query281_Low-carbohydrate_diet\S\278
+( 2005 ) . 	278	query281_Low-carbohydrate_diet\S\278
+The Low GI Diet Revolution : The Definitive Science-based Weight Loss Plan . 	279	query281_Low-carbohydrate_diet\S\279
+Marlowe &amp; Company . 	280	query281_Low-carbohydrate_diet\S\280
+New York , NY In reality , low-carbohydrate diets can also be low-GL diets ( and vice versa ) depending on the carbohydrates in a particular diet . 	281	query281_Low-carbohydrate_diet\S\281
+"New York"	"is in"	"NY In reality"	281	query281_Low-carbohydrate_diet\P\281-0
+"New York"	"is"	"low-carbohydrate diets"	281	query281_Low-carbohydrate_diet\P\281-1
+"New York"	"can be low-GL diets versa"	"also"	281	query281_Low-carbohydrate_diet\P\281-2
+"New York"	"can be low-GL diets vice"	"also"	281	query281_Low-carbohydrate_diet\P\281-3
+"New York"	"can be low-GL diets versa"	"depending on the carbohydrates in a particular diet"	281	query281_Low-carbohydrate_diet\P\281-4
+"New York"	"can be low-GL diets vice"	"depending on the carbohydrates in a particular diet"	281	query281_Low-carbohydrate_diet\P\281-5
+"New York"	"can be"	"low-GL diets versa"	281	query281_Low-carbohydrate_diet\P\281-6
+"New York"	"can be"	"low-GL diets vice"	281	query281_Low-carbohydrate_diet\P\281-7
+"can also low-GL diets versa"	"be depending"	"on the carbohydrates in a particular diet"	281	query281_Low-carbohydrate_diet\P\281-8
+"can also low-GL diets vice"	"be depending"	"on the carbohydrates in a particular diet"	281	query281_Low-carbohydrate_diet\P\281-9
+"can also low-GL diets versa"	"be depending"	"on the carbohydrates"	281	query281_Low-carbohydrate_diet\P\281-10
+"can also low-GL diets vice"	"be depending"	"on the carbohydrates"	281	query281_Low-carbohydrate_diet\P\281-11
+In practice , though , "low-GI" /"low-GL " diets differ from "low-carb " diets in the following ways . 	282	query281_Low-carbohydrate_diet\S\282
+"In practice"	"low-GI low-GL diets differ"	"from low-carb diets in the following ways though"	282	query281_Low-carbohydrate_diet\P\282-0
+"In practice"	"low-GI low-GL diets differ"	"from low-carb diets in the following ways"	282	query281_Low-carbohydrate_diet\P\282-1
+"low-GI low-GL diets"	"282 In practice differ"	"from low-carb diets in the following ways though"	282	query281_Low-carbohydrate_diet\P\282-2
+"low-GI low-GL diets"	"282 In practice differ"	"from low-carb diets in the following ways"	282	query281_Low-carbohydrate_diet\P\282-3
+First , low-carbohydrate diets treat all nutritive carbohydrates as having the same effect on metabolism , and generally assume that their effect is predictable . 	283	query281_Low-carbohydrate_diet\S\283
+"First"	"is"	"low-carbohydrate diets"	283	query281_Low-carbohydrate_diet\P\283-0
+"First"	"treat"	"all nutritive carbohydrates as having the same effect on metabolism"	283	query281_Low-carbohydrate_diet\P\283-1
+"First"	"treat"	"all nutritive carbohydrates"	283	query281_Low-carbohydrate_diet\P\283-2
+"First"	"assume"	"all nutritive carbohydrates that their effect is predictable as having the same effect on metabolism"	283	query281_Low-carbohydrate_diet\P\283-3
+"First"	"assume"	"all nutritive carbohydrates that their effect is predictable generally"	283	query281_Low-carbohydrate_diet\P\283-4
+"First"	"assume"	"all nutritive carbohydrates that their effect is predictable"	283	query281_Low-carbohydrate_diet\P\283-5
+"First"	"assume"	"all nutritive carbohydrates that their effect is predictable"	283	query281_Low-carbohydrate_diet\P\283-6
+"their effect"	"is"	"predictable"	283	query281_Low-carbohydrate_diet\P\283-7
+Low- GI/low-GL diets are based on the measured change in blood glucose levels in various carbohydrates - these vary markedly in laboratory studies . 	284	query281_Low-carbohydrate_diet\S\284
+"GI/low-GL diets"	"are based"	"on the measured change in blood glucose levels in various carbohydrates"	284	query281_Low-carbohydrate_diet\P\284-0
+"GI/low-GL diets"	"are based"	"on the measured change in blood glucose levels in various carbohydrates"	284	query281_Low-carbohydrate_diet\P\284-1
+"GI/low-GL diets"	"are based"	"on the measured change in blood glucose levels in various carbohydrates"	284	query281_Low-carbohydrate_diet\P\284-2
+The differences are due to poorly understood digestive differences between foods . 	285	query281_Low-carbohydrate_diet\S\285
+"The differences"	"are due"	"to poorly understood digestive differences between foods"	285	query281_Low-carbohydrate_diet\P\285-0
+"The differences"	"are"	"due"	285	query281_Low-carbohydrate_diet\P\285-1
+However , as foods influence digestion in complex ways ( e .g. 	286	query281_Low-carbohydrate_diet\S\286
+, both protein and fat delay absorption of glucose from carbohydrates eaten at the same time ) it is difficult to even approximate the glycemic effect ( e .g. 	287	query281_Low-carbohydrate_diet\S\287
+, over time or even in total in some cases ) of a particular meal . 	288	query281_Low-carbohydrate_diet\S\288
+Another related diet type , the low-insulin-index diet , is similar except that it is based on measurements of direct insulemic responses ( i .e 	289	query281_Low-carbohydrate_diet\S\289
+. 	290	query281_Low-carbohydrate_diet\S\290
+, the amount of insulin in the bloodstream ) to food rather than glycemic response ( the amount of glucose in the bloodstream ) . 	291	query281_Low-carbohydrate_diet\S\291
+Although such diet recommendations mostly involve lowering nutritive carbohydrates , there are some low-carbohydrate foods that are discouraged as well ( e .g. 	292	query281_Low-carbohydrate_diet\S\292
+, beef ) . 	293	query281_Low-carbohydrate_diet\S\293
+SH Holt , JC Miller and P Petocz An insulin index of foods : the insulin demand generated by 1000-kJ portions of common foods American Journal of Clinical Nutrition 1 November 1997 66 http ://www.ajcn 	294	query281_Low-carbohydrate_diet\S\294
+"the insulin demand www.ajcn"	"be generated"	"by 1000-kJ portions of common foods American Journal of Clinical Nutrition 1 November 1997 66 http"	294	query281_Low-carbohydrate_diet\P\294-0
+.org/cgi/content/abstract/66/5/1264 	295	query281_Low-carbohydrate_diet\S\295
+1264–1276 9356547 5 SH Holt , JC Miller and P Petocz An insulin index of foods : the insulin demand generated by 1000-kJ portions of common foods American Journal of Clinical Nutrition 1 November 1997 66 http ://www.ajcn 	296	query281_Low-carbohydrate_diet\S\296
+"the insulin demand www.ajcn"	"be generated"	"by 1000-kJ portions of common foods American Journal of Clinical Nutrition 1 November 1997 66 http"	296	query281_Low-carbohydrate_diet\P\296-0
+.org/cgi/content/abstract/66/5/1264 	297	query281_Low-carbohydrate_diet\S\297
+1264–1276 9356547 5 Insulin secretion is stimulated ( though less strongly ) by other dietary intake . 	298	query281_Low-carbohydrate_diet\S\298
+"1276 9356547 5 Insulin secretion"	"is stimulated"	"by other dietary intake"	298	query281_Low-carbohydrate_diet\P\298-0
+Like glycemic index diets , there is difficulty predicting the insulin secretion from any particular meal , due to assorted digestive interactions and so differing effects on insulin release . 	299	query281_Low-carbohydrate_diet\S\299
+"difficulty predicting the insulin secretion from any particular meal"	"there is"	"due to assorted digestive interactions"	299	query281_Low-carbohydrate_diet\P\299-0
+"difficulty predicting the insulin secretion from any particular meal"	"there is"	"due to assorted digestive so differing effects on insulin release"	299	query281_Low-carbohydrate_diet\P\299-1
+"difficulty predicting the insulin secretion from any particular meal"	"there is"	"due to assorted digestive so differing effects on insulin release"	299	query281_Low-carbohydrate_diet\P\299-2
+At the heart of the debate about most low carbohydrate diets are fundamental questions about what is a normal diet and how the human body is supposed to operate . 	300	query281_Low-carbohydrate_diet\S\300
+"At the heart of the debate about most low carbohydrate diets"	"are fundamental questions"	"about what is a normal diet"	300	query281_Low-carbohydrate_diet\P\300-0
+"At the heart of the debate about most low carbohydrate diets"	"are fundamental questions"	"about what is a normal how the human body is supposed to operate"	300	query281_Low-carbohydrate_diet\P\300-1
+"At the heart of the debate about most low carbohydrate diets"	"are"	"fundamental questions"	300	query281_Low-carbohydrate_diet\P\300-2
+"a normal diet"	"is"	"what"	300	query281_Low-carbohydrate_diet\P\300-3
+"a normal how the human body is supposed to operate"	"is"	"what"	300	query281_Low-carbohydrate_diet\P\300-4
+"the human body"	"is supposed"	"to operate how"	300	query281_Low-carbohydrate_diet\P\300-5
+"the human body"	"is supposed"	"to operate"	300	query281_Low-carbohydrate_diet\P\300-6
+These questions can be outlined as follows : The diets of most people in modern western nations , especially the United States , contain large amounts of starches and often substantial amounts of sugars , including fructose . 	301	query281_Low-carbohydrate_diet\S\301
+"These questions"	"can be outlined"	"as follows The diets of most people in modern western nations contain large amounts of starches including fructose"	301	query281_Low-carbohydrate_diet\P\301-0
+"These questions"	"can be outlined"	"as follows The diets of most people in modern western nations contain large of starches often substantial amounts of sugars including fructose"	301	query281_Low-carbohydrate_diet\P\301-1
+"The diets of most people in modern western nations"	"is"	"especially the United States"	301	query281_Low-carbohydrate_diet\P\301-2
+"The diets of most people in modern western nations"	"contain"	"large amounts of starches including fructose"	301	query281_Low-carbohydrate_diet\P\301-3
+"The diets of most people in modern western nations"	"contain"	"large of starches often substantial amounts of sugars including fructose"	301	query281_Low-carbohydrate_diet\P\301-4
+Most westerners seldom exhaust stored glycogen supplies and hence rarely go into ketosis . 	302	query281_Low-carbohydrate_diet\S\302
+"Most westerners"	"exhaust"	"stored glycogen supplies seldom"	302	query281_Low-carbohydrate_diet\P\302-0
+"Most westerners"	"go"	"stored glycogen supplies seldom hence rarely"	302	query281_Low-carbohydrate_diet\P\302-1
+"Most westerners"	"go"	"stored glycogen supplies into ketosis seldom rarely"	302	query281_Low-carbohydrate_diet\P\302-2
+"Most westerners"	"go"	"stored glycogen supplies seldom rarely"	302	query281_Low-carbohydrate_diet\P\302-3
+This has been regarded by medical science in the last century as normal for humans . 	303	query281_Low-carbohydrate_diet\S\303
+This has been regarded by medical science in the last century as normal for humans . 	303	query281_Low-carbohydrate_diet\S\303
+This has been regarded by medical science in the last century as normal for humans . 	303	query281_Low-carbohydrate_diet\S\303
+This has been regarded by medical science in the last century as normal for humans . 	303	query281_Low-carbohydrate_diet\S\303
+This has been regarded by medical science in the last century as normal for humans . 	303	query281_Low-carbohydrate_diet\S\303
+August 2010 Ketosis had widely been regarded as harmful and potentially life-threatening , unnecessarily stressing the liver and causing destruction of muscle tissues , August 2010 and ketosis had sometimes been confused with ketoacidosis , a dangerous and extreme ketotic condition associated with diabetes . 	304	query281_Low-carbohydrate_diet\S\304
+"August 2010 Ketosis"	"had been regarded"	"stressing the liver unnecessarily widely"	304	query281_Low-carbohydrate_diet\P\304-0
+"August 2010 Ketosis"	"had been regarded"	"stressing the liver widely"	304	query281_Low-carbohydrate_diet\P\304-1
+"August 2010 Ketosis"	"had been regarded"	"causing the liver destruction of muscle tissues unnecessarily widely"	304	query281_Low-carbohydrate_diet\P\304-2
+"August 2010 Ketosis"	"had been regarded"	"causing the liver destruction of muscle tissues widely"	304	query281_Low-carbohydrate_diet\P\304-3
+"August 2010 Ketosis"	"had been regarded"	"as harmful stressing the liver unnecessarily"	304	query281_Low-carbohydrate_diet\P\304-4
+"August 2010 Ketosis"	"had been regarded"	"as harmful stressing the liver"	304	query281_Low-carbohydrate_diet\P\304-5
+"August 2010 Ketosis"	"had been regarded"	"as harmful causing the liver destruction of muscle tissues unnecessarily"	304	query281_Low-carbohydrate_diet\P\304-6
+"August 2010 Ketosis"	"had been regarded"	"as harmful causing the liver destruction of muscle tissues"	304	query281_Low-carbohydrate_diet\P\304-7
+"August 2010 Ketosis"	"had been regarded"	"as potentially life-threatening stressing the liver unnecessarily"	304	query281_Low-carbohydrate_diet\P\304-8
+"August 2010 Ketosis"	"had been regarded"	"as potentially life-threatening stressing the liver"	304	query281_Low-carbohydrate_diet\P\304-9
+"August 2010 Ketosis"	"had been regarded"	"as potentially life-threatening causing the liver destruction of muscle tissues unnecessarily"	304	query281_Low-carbohydrate_diet\P\304-10
+"August 2010 Ketosis"	"had been regarded"	"as potentially life-threatening causing the liver destruction of muscle tissues"	304	query281_Low-carbohydrate_diet\P\304-11
+"August 2010 Ketosis"	"had been regarded"	"stressing the liver unnecessarily"	304	query281_Low-carbohydrate_diet\P\304-12
+"August 2010 Ketosis"	"had been regarded"	"stressing the liver"	304	query281_Low-carbohydrate_diet\P\304-13
+"August 2010 Ketosis"	"had been regarded"	"causing the liver destruction of muscle tissues unnecessarily"	304	query281_Low-carbohydrate_diet\P\304-14
+"August 2010 Ketosis"	"had been regarded"	"causing the liver destruction of muscle tissues"	304	query281_Low-carbohydrate_diet\P\304-15
+"August 2010"	"had been confused"	"with ketoacidosis sometimes"	304	query281_Low-carbohydrate_diet\P\304-16
+"ketosis"	"had been confused"	"with ketoacidosis sometimes"	2010	query281_Low-carbohydrate_diet\P\304-17
+"August 2010"	"had been confused"	"with ketoacidosis"	2010	query281_Low-carbohydrate_diet\P\304-18
+"ketosis"	"had been confused"	"with ketoacidosis"	2010	query281_Low-carbohydrate_diet\P\304-19
+"ketosis"	"had been confused"	"with ketoacidosis"	2010	query281_Low-carbohydrate_diet\P\304-20
+"ketosis"	"had been confused"	"with ketoacidosis"	2010	query281_Low-carbohydrate_diet\P\304-21
+"a dangerous ketotic condition"	"be associated"	"with diabetes"	2010	query281_Low-carbohydrate_diet\P\304-22
+"a extreme ketotic condition"	"be associated"	"with diabetes"	2010	query281_Low-carbohydrate_diet\P\304-23
+A perception developed that getting energy chiefly from dietary protein rather than carbohydrates causes liver damage and that getting energy chiefly from dietary fats rather than carbohydrates causes heart disease and other health problems . 	305	query281_Low-carbohydrate_diet\S\305
+"A perception"	"developed"	"that getting energy chiefly from dietary protein causes liver damage"	305	query281_Low-carbohydrate_diet\P\305-0
+"A perception"	"developed"	"that getting energy chiefly from dietary carbohydrates causes liver damage and that getting energy chiefly from dietary fats rather than carbohydrates causes heart disease and other health problems"	305	query281_Low-carbohydrate_diet\P\305-1
+"A perception"	"developed"	"that getting energy chiefly from dietary protein liver damage that getting energy chiefly from dietary fats causes heart disease"	305	query281_Low-carbohydrate_diet\P\305-2
+"A perception"	"developed"	"that getting energy chiefly from dietary protein liver damage that getting energy chiefly from dietary carbohydrates causes heart disease and other health problems"	305	query281_Low-carbohydrate_diet\P\305-3
+"A perception"	"developed"	"that getting energy chiefly from dietary protein liver damage that getting energy chiefly from dietary fats causes heart other health problems"	305	query281_Low-carbohydrate_diet\P\305-4
+"getting energy"	"causes"	"liver damage chiefly from dietary protein"	305	query281_Low-carbohydrate_diet\P\305-5
+"getting energy"	"causes"	"liver damage chiefly from dietary carbohydrates"	305	query281_Low-carbohydrate_diet\P\305-6
+"getting energy"	"causes"	"liver damage"	305	query281_Low-carbohydrate_diet\P\305-7
+"getting energy"	"causes"	"heart disease chiefly from dietary fats"	305	query281_Low-carbohydrate_diet\P\305-8
+"getting energy"	"causes"	"heart other health problems chiefly from dietary fats"	305	query281_Low-carbohydrate_diet\P\305-9
+"getting energy"	"causes"	"heart disease chiefly from dietary carbohydrates"	305	query281_Low-carbohydrate_diet\P\305-10
+"getting energy"	"causes"	"heart other health problems chiefly from dietary carbohydrates"	305	query281_Low-carbohydrate_diet\P\305-11
+"getting energy"	"causes"	"heart disease"	305	query281_Low-carbohydrate_diet\P\305-12
+"getting energy"	"causes"	"heart other health problems"	305	query281_Low-carbohydrate_diet\P\305-13
+This view is still held by the majority of those in the medical and nutritional science communities . 	306	query281_Low-carbohydrate_diet\S\306
+"This view"	"is held"	"by the majority of those in the medical science communities still"	306	query281_Low-carbohydrate_diet\P\306-0
+"This view"	"is held"	"by the majority of those in the nutritional science communities still"	306	query281_Low-carbohydrate_diet\P\306-1
+"This view"	"is held"	"by the majority of those in the medical science communities"	306	query281_Low-carbohydrate_diet\P\306-2
+"This view"	"is held"	"by the majority of those in the nutritional science communities"	306	query281_Low-carbohydrate_diet\P\306-3
+, American Heart Association , 14 March 2008 , The American Cancer Society , retrieved 12 March 2008 Karra , Cindy : , Shape Up America ! 	307	query281_Low-carbohydrate_diet\S\307
+"March 2008"	"is"	"The American Cancer Society"	14	query281_Low-carbohydrate_diet\P\307-0
+"March 2008"	"retrieved"	"12 March 2008 Karra 307 American Heart Association"	14	query281_Low-carbohydrate_diet\P\307-1
+( by former U.S. 	308	query281_Low-carbohydrate_diet\S\308
+Surgeon General C. 	309	query281_Low-carbohydrate_diet\S\309
+Everett Koop ) , 29 December 2003 However , it is now widely recognized that periodic ketosis is in fact normal , and that ketosis provides a number of surprising benefits , including neuroprotection against diverse types of cellular injury . 	310	query281_Low-carbohydrate_diet\S\310
+Everett Koop ) , 29 December 2003 However , it is now widely recognized that periodic ketosis is in fact normal , and that ketosis provides a number of surprising benefits , including neuroprotection against diverse types of cellular injury . 	310	query281_Low-carbohydrate_diet\S\310
+Everett Koop ) , 29 December 2003 However , it is now widely recognized that periodic ketosis is in fact normal , and that ketosis provides a number of surprising benefits , including neuroprotection against diverse types of cellular injury . 	310	query281_Low-carbohydrate_diet\S\310
+Everett Koop ) , 29 December 2003 However , it is now widely recognized that periodic ketosis is in fact normal , and that ketosis provides a number of surprising benefits , including neuroprotection against diverse types of cellular injury . 	310	query281_Low-carbohydrate_diet\S\310
+"periodic ketosis"	"is"	"in fact normal"	310	query281_Low-carbohydrate_diet\P\310-0
+"periodic ketosis"	"is"	"in fact normal"	310	query281_Low-carbohydrate_diet\P\310-1
+Maciej Gasior , Michael A. 	311	query281_Low-carbohydrate_diet\S\311
+"Maciej Gasior"	"is"	"Michael A."	311	query281_Low-carbohydrate_diet\P\311-0
+Rogawski and Adam L. 	312	query281_Low-carbohydrate_diet\S\312
+Hartman , , Behav Pharmacol . 	313	query281_Low-carbohydrate_diet\S\313
+"Hartman"	"is"	"Behav Pharmacol"	313	query281_Low-carbohydrate_diet\P\313-0
+2006 , 17(5-6 ) : 431–439 . 	314	query281_Low-carbohydrate_diet\S\314
+"2006 431 439"	"is"	"17 5-6"	314	query281_Low-carbohydrate_diet\P\314-0
+People who eschew low carbohydrate diets cite hypoglycemia and ketoacidosis as a risk factor , but these are only problematic for people such as diabetics , who have impaired regulation of gluconeogenesis and ketone metabolism . 	315	query281_Low-carbohydrate_diet\S\315
+"low carbohydrate diets"	"cite"	"hypoglycemia as a risk factor"	315	query281_Low-carbohydrate_diet\P\315-0
+"low carbohydrate diets"	"cite"	"ketoacidosis as a risk factor"	315	query281_Low-carbohydrate_diet\P\315-1
+"low carbohydrate diets"	"cite"	"hypoglycemia"	315	query281_Low-carbohydrate_diet\P\315-2
+"low carbohydrate diets"	"cite"	"ketoacidosis"	315	query281_Low-carbohydrate_diet\P\315-3
+"low carbohydrate diets"	"cite"	"ketoacidosis"	315	query281_Low-carbohydrate_diet\P\315-4
+"low carbohydrate diets"	"cite"	"ketoacidosis"	315	query281_Low-carbohydrate_diet\P\315-5
+"low carbohydrate diets"	"cite"	"ketoacidosis"	315	query281_Low-carbohydrate_diet\P\315-6
+"low carbohydrate diets"	"cite"	"ketoacidosis"	315	query281_Low-carbohydrate_diet\P\315-7
+"low carbohydrate diets"	"cite"	"ketoacidosis"	315	query281_Low-carbohydrate_diet\P\315-8
+May 2011 A diet very low in starches and sugars induces several adaptive responses . 	316	query281_Low-carbohydrate_diet\S\316
+"May 2011 A diet"	"low"	"in starches very"	316	query281_Low-carbohydrate_diet\P\316-0
+"May 2011 A diet"	"low"	"in starches"	316	query281_Low-carbohydrate_diet\P\316-1
+"May 2011 A diet"	"low"	"in starches"	316	query281_Low-carbohydrate_diet\P\316-2
+Low blood glucose causes the pancreas to produce glucagon , Carr , Timothy P. 	317	query281_Low-carbohydrate_diet\S\317
+"Low blood glucose"	"causes"	"the pancreas to produce glucagon"	317	query281_Low-carbohydrate_diet\P\317-0
+"Low blood glucose"	"causes"	"the pancreas to produce Carr"	317	query281_Low-carbohydrate_diet\P\317-1
+"Low blood glucose"	"causes"	"the pancreas to produce Timothy P."	317	query281_Low-carbohydrate_diet\P\317-2
+: , Chapter 7 , Blackwell Publishing , October 2002 , ISBN 9780632045648 which stimulates the liver to convert stored glycogen into glucose and release it into the blood . 	318	query281_Low-carbohydrate_diet\S\318
+: , Chapter 7 , Blackwell Publishing , October 2002 , ISBN 9780632045648 which stimulates the liver to convert stored glycogen into glucose and release it into the blood . 	318	query281_Low-carbohydrate_diet\S\318
+: , Chapter 7 , Blackwell Publishing , October 2002 , ISBN 9780632045648 which stimulates the liver to convert stored glycogen into glucose and release it into the blood . 	318	query281_Low-carbohydrate_diet\S\318
+: , Chapter 7 , Blackwell Publishing , October 2002 , ISBN 9780632045648 which stimulates the liver to convert stored glycogen into glucose and release it into the blood . 	318	query281_Low-carbohydrate_diet\S\318
+"Chapter 7"	"is"	"ISBN 9780632045648"	318	query281_Low-carbohydrate_diet\P\318-0
+"Blackwell Publishing"	"is"	"ISBN 9780632045648"	7	query281_Low-carbohydrate_diet\P\318-1
+"October 2002"	"is"	"ISBN 9780632045648"	7	query281_Low-carbohydrate_diet\P\318-2
+"ISBN 9780632045648"	"stimulates"	"the liver to convert stored glycogen into glucose"	7	query281_Low-carbohydrate_diet\P\318-3
+"ISBN 9780632045648"	"stimulates"	"the liver to convert stored glycogen"	7	query281_Low-carbohydrate_diet\P\318-4
+"ISBN 9780632045648"	"stimulates"	"the liver to release stored glycogen it into glucose"	7	query281_Low-carbohydrate_diet\P\318-5
+"ISBN 9780632045648"	"stimulates"	"the liver to release stored glycogen it into the blood"	7	query281_Low-carbohydrate_diet\P\318-6
+"ISBN 9780632045648"	"stimulates"	"the liver to release stored glycogen it"	7	query281_Low-carbohydrate_diet\P\318-7
+When liver glycogen stores are exhausted , the body starts utilizing fatty acids instead of glucose . 	319	query281_Low-carbohydrate_diet\S\319
+"liver glycogen stores"	"are exhausted"	"When"	319	query281_Low-carbohydrate_diet\P\319-0
+"the body"	"starts"	"utilizing fatty acids instead of glucose When liver glycogen stores are exhausted"	319	query281_Low-carbohydrate_diet\P\319-1
+"the body"	"starts"	"utilizing fatty acids When liver glycogen stores are exhausted"	319	query281_Low-carbohydrate_diet\P\319-2
+"the body"	"starts"	"utilizing fatty acids instead of glucose"	319	query281_Low-carbohydrate_diet\P\319-3
+"the body"	"starts"	"utilizing fatty acids"	319	query281_Low-carbohydrate_diet\P\319-4
+The brain cannot use fatty acids for energy , and instead uses ketones produced from fatty acids by the liver . 	320	query281_Low-carbohydrate_diet\S\320
+"The brain"	"can not use"	"fatty acids for energy"	320	query281_Low-carbohydrate_diet\P\320-0
+"The brain"	"can not use"	"fatty acids"	320	query281_Low-carbohydrate_diet\P\320-1
+"The brain"	"can not uses"	"fatty acids ketones produced from fatty acids by the liver for energy"	320	query281_Low-carbohydrate_diet\P\320-2
+"The brain"	"can not uses"	"fatty acids ketones produced from fatty acids by the liver instead"	320	query281_Low-carbohydrate_diet\P\320-3
+"The brain"	"can not uses"	"fatty acids ketones produced from fatty acids by the liver"	320	query281_Low-carbohydrate_diet\P\320-4
+"The brain"	"can not uses"	"fatty acids ketones produced from fatty acids by the liver"	320	query281_Low-carbohydrate_diet\P\320-5
+"The brain"	"can not uses"	"fatty acids ketones produced from fatty acids by the liver"	320	query281_Low-carbohydrate_diet\P\320-6
+By using fatty acids and ketones as energy sources , supplemented by conversion of proteins to glucose ( gluconeogenesis ) , the body can maintain normal levels of blood glucose without dietary carbohydrates . 	321	query281_Low-carbohydrate_diet\S\321
+"energy sources"	"be supplemented"	"by conversion of proteins to glucose"	321	query281_Low-carbohydrate_diet\P\321-0
+"energy sources"	"be supplemented"	"by conversion of proteins to glucose"	321	query281_Low-carbohydrate_diet\P\321-1
+"the body"	"can maintain"	"normal levels of blood glucose without dietary carbohydrates energy sources supplemented by conversion of proteins to glucose"	321	query281_Low-carbohydrate_diet\P\321-2
+"the body"	"can maintain"	"normal levels of blood glucose energy sources supplemented by conversion of proteins to glucose"	321	query281_Low-carbohydrate_diet\P\321-3
+Most advocates of low-carbohydrate diets , such as the Atkins Diet , argue that the human body is adapted to function primarily in ketosis . 	322	query281_Low-carbohydrate_diet\S\322
+"Most advocates of low-carbohydrate diets such as the Atkins Diet"	"argue"	"that the human body is adapted to function primarily in ketosis"	322	query281_Low-carbohydrate_diet\P\322-0
+"the human body"	"is adapted"	"to function primarily in ketosis"	322	query281_Low-carbohydrate_diet\P\322-1
+"the human body"	"is adapted"	"to function primarily"	322	query281_Low-carbohydrate_diet\P\322-2
+Eades Michael R. 	323	query281_Low-carbohydrate_diet\S\323
+http ://www.proteinpower.com/drmike/intermittent-fasting/protein-power-verses-intermittent-fasting 	324	query281_Low-carbohydrate_diet\S\324
+/ Protein Power verses Intermittent Fasting proteinpower.com 	325	query281_Low-carbohydrate_diet\S\325
+19 September 2006 19 December 2010 Eades Michael R. 	326	query281_Low-carbohydrate_diet\S\326
+http ://www.proteinpower.com/drmike/intermittent-fasting/protein-power-verses-intermittent-fasting 	327	query281_Low-carbohydrate_diet\S\327
+/ Protein Power verses Intermittent Fasting proteinpower.com 	328	query281_Low-carbohydrate_diet\S\328
+19 September 2006 19 December 2010 Morrison Katharine http ://www.dsolve 	329	query281_Low-carbohydrate_diet\S\329
+.com/component/option,com_docman/task 	330	query281_Low-carbohydrate_diet\S\330
+,doc_download/gid ,13/Itemid ,27/ Dietary Carbohydrate , Protein and Fat for People With Glucose Metabolism Disorders . 	331	query281_Low-carbohydrate_diet\S\331
+"gid ,13 Itemid ,27 Dietary Carbohydrate for People With Glucose Metabolism Disorders"	"is"	"doc_download"	331	query281_Low-carbohydrate_diet\P\331-0
+",13 Itemid ,27 Dietary Carbohydrate Protein for People With Glucose Metabolism Disorders"	"is"	"doc_download"	331	query281_Low-carbohydrate_diet\P\331-1
+",13 Itemid ,27 Dietary Carbohydrate Fat for People With Glucose Metabolism Disorders"	"is"	"doc_download"	331	query281_Low-carbohydrate_diet\P\331-2
+Just What is Optimal ? D-Solve : Low Carb &amp; Low Insulin Diabetes Management February 2005 Morrison Katharine http ://www.dsolve 	332	query281_Low-carbohydrate_diet\S\332
+.com/component/option,com_docman/task 	333	query281_Low-carbohydrate_diet\S\333
+,doc_download/gid ,13/Itemid ,27/ Dietary Carbohydrate , Protein and Fat for People With Glucose Metabolism Disorders . 	334	query281_Low-carbohydrate_diet\S\334
+"gid ,13 Itemid ,27 Dietary Carbohydrate for People With Glucose Metabolism Disorders"	"is"	"doc_download"	334	query281_Low-carbohydrate_diet\P\334-0
+",13 Itemid ,27 Dietary Carbohydrate Protein for People With Glucose Metabolism Disorders"	"is"	"doc_download"	334	query281_Low-carbohydrate_diet\P\334-1
+",13 Itemid ,27 Dietary Carbohydrate Fat for People With Glucose Metabolism Disorders"	"is"	"doc_download"	334	query281_Low-carbohydrate_diet\P\334-2
+Just What is Optimal ? D-Solve : Low Carb &amp; Low Insulin Diabetes Management February 2005 They argue that high insulin levels can cause many health problems , most significantly fat storage and weight gain . 	335	query281_Low-carbohydrate_diet\S\335
+Just What is Optimal ? D-Solve : Low Carb &amp; Low Insulin Diabetes Management February 2005 They argue that high insulin levels can cause many health problems , most significantly fat storage and weight gain . 	335	query281_Low-carbohydrate_diet\S\335
+Just What is Optimal ? D-Solve : Low Carb &amp; Low Insulin Diabetes Management February 2005 They argue that high insulin levels can cause many health problems , most significantly fat storage and weight gain . 	335	query281_Low-carbohydrate_diet\S\335
+Just What is Optimal ? D-Solve : Low Carb &amp; Low Insulin Diabetes Management February 2005 They argue that high insulin levels can cause many health problems , most significantly fat storage and weight gain . 	335	query281_Low-carbohydrate_diet\S\335
+Just What is Optimal ? D-Solve : Low Carb &amp; Low Insulin Diabetes Management February 2005 They argue that high insulin levels can cause many health problems , most significantly fat storage and weight gain . 	335	query281_Low-carbohydrate_diet\S\335
+"high insulin levels"	"can cause"	"many health problems"	335	query281_Low-carbohydrate_diet\P\335-0
+"high insulin levels"	"can cause"	"many health problems"	335	query281_Low-carbohydrate_diet\P\335-1
+They argue that the purported dangers of ketosis are unsubstantiated ( some of the arguments against ketosis result from confusion between ketosis and ketoacidosis which is a mostly diabetic condition unrelated to dieting or low-carbohydrate intake ) . 	336	query281_Low-carbohydrate_diet\S\336
+They argue that the purported dangers of ketosis are unsubstantiated ( some of the arguments against ketosis result from confusion between ketosis and ketoacidosis which is a mostly diabetic condition unrelated to dieting or low-carbohydrate intake ) . 	336	query281_Low-carbohydrate_diet\S\336
+"the purported dangers of ketosis"	"are"	"unsubstantiated some of the arguments against ketosis result from confusion between ketosis and ketoacidosis"	336	query281_Low-carbohydrate_diet\P\336-0
+"some of the arguments against ketosis"	"result"	"from confusion between ketosis and ketoacidosis"	336	query281_Low-carbohydrate_diet\P\336-1
+"ketosis and ketoacidosis"	"is"	"a mostly diabetic condition unrelated to dieting"	336	query281_Low-carbohydrate_diet\P\336-2
+"ketosis and ketoacidosis"	"is"	"a mostly diabetic condition unrelated to low-carbohydrate intake"	336	query281_Low-carbohydrate_diet\P\336-3
+Dolson , Laura : , About.com 	337	query281_Low-carbohydrate_diet\S\337
+"Dolson About.com"	"is"	"Laura"	337	query281_Low-carbohydrate_diet\P\337-0
+: Low Carb Diets , retrieved 13 March 2008 They also argue that fat in the diet only contributes to heart disease in the presence of high insulin levels and that if the diet is instead adjusted to induce ketosis , fat and cholesterol in the diet are not a major concern ( although most do not advocate unrestricted fat intake and do advocate avoiding trans fat ) . 	338	query281_Low-carbohydrate_diet\S\338
+"Low Carb Diets"	"be retrieved"	"13 March 2008 They"	338	query281_Low-carbohydrate_diet\P\338-0
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only contributes to heart disease in the presence of high insulin levels 338 also"	338	query281_Low-carbohydrate_diet\P\338-1
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only to heart disease in the presence of high insulin levels that if the diet is instead adjusted to induce ketosis in the diet are not a major concern although most do not advocate unrestricted fat intake 338 also"	338	query281_Low-carbohydrate_diet\P\338-2
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only to heart disease in the presence of high insulin levels that if the diet is instead adjusted to induce fat in the diet are not a major concern although most do not advocate unrestricted fat intake and do advocate avoiding trans fat 338 also"	338	query281_Low-carbohydrate_diet\P\338-3
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only to heart disease in the presence of high insulin levels that if the diet is instead adjusted to induce cholesterol in the diet are not a major concern although most do not advocate unrestricted fat intake and do advocate avoiding trans fat 338 also"	338	query281_Low-carbohydrate_diet\P\338-4
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only to heart disease in the presence of high insulin levels that if the diet is instead adjusted to induce ketosis in the diet are not a major concern although most do not unrestricted fat intake do advocate avoiding trans fat 338 also"	338	query281_Low-carbohydrate_diet\P\338-5
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only contributes to heart disease in the presence of high insulin levels 338"	338	query281_Low-carbohydrate_diet\P\338-6
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only to heart disease in the presence of high insulin levels that if the diet is instead adjusted to induce ketosis in the diet are not a major concern although most do not advocate unrestricted fat intake 338"	338	query281_Low-carbohydrate_diet\P\338-7
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only to heart disease in the presence of high insulin levels that if the diet is instead adjusted to induce fat in the diet are not a major concern although most do not advocate unrestricted fat intake and do advocate avoiding trans fat 338"	338	query281_Low-carbohydrate_diet\P\338-8
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only to heart disease in the presence of high insulin levels that if the diet is instead adjusted to induce cholesterol in the diet are not a major concern although most do not advocate unrestricted fat intake and do advocate avoiding trans fat 338"	338	query281_Low-carbohydrate_diet\P\338-9
+"Low Carb Diets retrieved 13 March 2008 They"	"argue"	"that fat in the diet only to heart disease in the presence of high insulin levels that if the diet is instead adjusted to induce ketosis in the diet are not a major concern although most do not unrestricted fat intake do advocate avoiding trans fat 338"	338	query281_Low-carbohydrate_diet\P\338-10
+"fat in the diet"	"contributes"	"to heart disease only"	338	query281_Low-carbohydrate_diet\P\338-11
+"fat in the diet"	"contributes"	"to heart disease in the presence of high insulin levels"	338	query281_Low-carbohydrate_diet\P\338-12
+"fat in the diet"	"contributes"	"to heart disease"	338	query281_Low-carbohydrate_diet\P\338-13
+"fat in the diet"	"are not a major concern although most do not advocate unrestricted fat intake"	"only"	338	query281_Low-carbohydrate_diet\P\338-14
+"fat in the diet"	"are not a major concern although most do not unrestricted fat intake do advocate avoiding trans fat"	"only"	338	query281_Low-carbohydrate_diet\P\338-15
+"fat in the diet"	"are not a major concern although most do not advocate unrestricted fat intake"	"to heart disease"	338	query281_Low-carbohydrate_diet\P\338-16
+"fat in the diet"	"are not a major concern although most do not unrestricted fat intake do advocate avoiding trans fat"	"to heart disease"	338	query281_Low-carbohydrate_diet\P\338-17
+"fat in the diet"	"are not a major concern although most do not advocate unrestricted fat intake"	"in the presence of high insulin levels"	338	query281_Low-carbohydrate_diet\P\338-18
+"fat in the diet"	"are not a major concern although most do not unrestricted fat intake do advocate avoiding trans fat"	"in the presence of high insulin levels"	338	query281_Low-carbohydrate_diet\P\338-19
+"fat in the diet"	"are not a major concern although most do not advocate unrestricted fat intake"	"if the diet is instead adjusted to induce ketosis in the diet"	338	query281_Low-carbohydrate_diet\P\338-20
+"fat in the diet"	"are not a major concern although most do not advocate unrestricted fat intake"	"if the diet is instead adjusted to induce fat in the diet"	338	query281_Low-carbohydrate_diet\P\338-21
+"fat in the diet"	"are not a major concern although most do not advocate unrestricted fat intake"	"if the diet is instead adjusted to induce cholesterol in the diet"	338	query281_Low-carbohydrate_diet\P\338-22
+"fat in the diet"	"are not a major concern although most do not unrestricted fat intake do advocate avoiding trans fat"	"if the diet is instead adjusted to induce ketosis in the diet"	338	query281_Low-carbohydrate_diet\P\338-23
+"fat in the diet"	"are not a major concern although most do not unrestricted fat intake do advocate avoiding trans fat"	"if the diet is instead adjusted to induce fat in the diet"	338	query281_Low-carbohydrate_diet\P\338-24
+"fat in the diet"	"are not a major concern although most do not unrestricted fat intake do advocate avoiding trans fat"	"if the diet is instead adjusted to induce cholesterol in the diet"	338	query281_Low-carbohydrate_diet\P\338-25
+"fat in the diet"	"are not"	"a major concern although most do not advocate unrestricted fat intake"	338	query281_Low-carbohydrate_diet\P\338-26
+"fat in the diet"	"are not"	"a major concern although most do not unrestricted fat intake do advocate avoiding trans fat"	338	query281_Low-carbohydrate_diet\P\338-27
+"the diet"	"is adjusted"	"to induce ketosis in the diet instead"	338	query281_Low-carbohydrate_diet\P\338-28
+"the diet"	"is adjusted"	"to induce fat in the diet instead"	338	query281_Low-carbohydrate_diet\P\338-29
+"the diet"	"is adjusted"	"to induce cholesterol in the diet instead"	338	query281_Low-carbohydrate_diet\P\338-30
+"the diet"	"is adjusted"	"to induce ketosis instead"	338	query281_Low-carbohydrate_diet\P\338-31
+"the diet"	"is adjusted"	"to induce fat instead"	338	query281_Low-carbohydrate_diet\P\338-32
+"the diet"	"is adjusted"	"to induce cholesterol instead"	338	query281_Low-carbohydrate_diet\P\338-33
+"the diet"	"is adjusted"	"to induce ketosis in the diet"	338	query281_Low-carbohydrate_diet\P\338-34
+"the diet"	"is adjusted"	"to induce fat in the diet"	338	query281_Low-carbohydrate_diet\P\338-35
+"the diet"	"is adjusted"	"to induce cholesterol in the diet"	338	query281_Low-carbohydrate_diet\P\338-36
+"the diet"	"is adjusted"	"to induce ketosis"	338	query281_Low-carbohydrate_diet\P\338-37
+"the diet"	"is adjusted"	"to induce fat"	338	query281_Low-carbohydrate_diet\P\338-38
+"the diet"	"is adjusted"	"to induce cholesterol"	338	query281_Low-carbohydrate_diet\P\338-39
+"the diet"	"is adjusted"	"to induce cholesterol"	338	query281_Low-carbohydrate_diet\P\338-40
+"the diet"	"is adjusted"	"to induce cholesterol"	338	query281_Low-carbohydrate_diet\P\338-41
+On a high-carbohydrate diet , glucose is used by cells in the body for the energy needed for their basic functions , and about 2/3 of body cells require insulin in order to use glucose . 	339	query281_Low-carbohydrate_diet\S\339
+On a high-carbohydrate diet , glucose is used by cells in the body for the energy needed for their basic functions , and about 2/3 of body cells require insulin in order to use glucose . 	339	query281_Low-carbohydrate_diet\S\339
+On a high-carbohydrate diet , glucose is used by cells in the body for the energy needed for their basic functions , and about 2/3 of body cells require insulin in order to use glucose . 	339	query281_Low-carbohydrate_diet\S\339
+On a high-carbohydrate diet , glucose is used by cells in the body for the energy needed for their basic functions , and about 2/3 of body cells require insulin in order to use glucose . 	339	query281_Low-carbohydrate_diet\S\339
+"the energy"	"be needed"	"for their basic functions"	339	query281_Low-carbohydrate_diet\P\339-0
+"the energy"	"be needed"	"for their basic functions"	339	query281_Low-carbohydrate_diet\P\339-1
+"about 2/3 of body cells"	"require"	"insulin in order to use glucose"	339	query281_Low-carbohydrate_diet\P\339-2
+"about 2/3 of body cells"	"require"	"insulin"	339	query281_Low-carbohydrate_diet\P\339-3
+Excessive amounts of blood glucose are thought to be a primary cause of the complications of diabetes ; when glucose reacts with body proteins ( resulting in glycosolated proteins ) and change their behavior . 	340	query281_Low-carbohydrate_diet\S\340
+"Excessive amounts of blood glucose"	"are thought"	"to be a primary cause of the complications of diabetes"	340	query281_Low-carbohydrate_diet\P\340-0
+"Excessive amounts of blood glucose"	"are thought"	"to be a primary cause"	340	query281_Low-carbohydrate_diet\P\340-1
+"Excessive amounts of blood glucose"	"are thought"	"to be a primary cause"	340	query281_Low-carbohydrate_diet\P\340-2
+"Excessive amounts of blood glucose"	"are thought"	"to be a primary cause"	340	query281_Low-carbohydrate_diet\P\340-3
+"Excessive amounts of blood glucose"	"are thought"	"to be a primary cause"	340	query281_Low-carbohydrate_diet\P\340-4
+"Excessive amounts of blood glucose"	"are thought"	"to be a primary cause"	340	query281_Low-carbohydrate_diet\P\340-5
+"Excessive amounts of blood glucose"	"are thought"	"to be a primary cause"	340	query281_Low-carbohydrate_diet\P\340-6
+"Excessive amounts of blood glucose"	"are thought"	"to be a primary cause"	340	query281_Low-carbohydrate_diet\P\340-7
+Perhaps for this reason , the amount of glucose tightly maintained in the blood is quite low . 	341	query281_Low-carbohydrate_diet\S\341
+"the amount of glucose"	"be maintained"	"tightly in the blood"	341	query281_Low-carbohydrate_diet\P\341-0
+"the amount of glucose"	"be maintained"	"tightly"	341	query281_Low-carbohydrate_diet\P\341-1
+"the amount of glucose tightly maintained in the blood"	"is"	"low quite 341 Perhaps for this reason"	341	query281_Low-carbohydrate_diet\P\341-2
+"the amount of glucose tightly maintained in the blood"	"is"	"low 341 Perhaps for this reason"	341	query281_Low-carbohydrate_diet\P\341-3
+Unless a meal is very low in starches and sugars , blood glucose will rise for a period of an hour or two after a meal . 	342	query281_Low-carbohydrate_diet\S\342
+"a meal"	"is low"	"very"	342	query281_Low-carbohydrate_diet\P\342-0
+"a meal"	"is low"	"in starches"	342	query281_Low-carbohydrate_diet\P\342-1
+"a meal"	"is low"	"in sugars"	342	query281_Low-carbohydrate_diet\P\342-2
+"a meal"	"is"	"low"	342	query281_Low-carbohydrate_diet\P\342-3
+"blood glucose"	"will rise"	"342 Unless a meal is very low in starches"	342	query281_Low-carbohydrate_diet\P\342-4
+"blood glucose"	"will rise"	"342 Unless a meal is very low in sugars"	342	query281_Low-carbohydrate_diet\P\342-5
+"blood glucose"	"will rise"	"for a period of an hour 342"	342	query281_Low-carbohydrate_diet\P\342-6
+"blood glucose"	"will rise"	"for a period of an two 342"	342	query281_Low-carbohydrate_diet\P\342-7
+"blood glucose"	"will rise"	"after a meal 342"	342	query281_Low-carbohydrate_diet\P\342-8
+"blood glucose"	"will rise"	"342"	342	query281_Low-carbohydrate_diet\P\342-9
+When this occurs , beta cells in the pancreas release insulin to cause uptake of glucose into cells . 	343	query281_Low-carbohydrate_diet\S\343
+When this occurs , beta cells in the pancreas release insulin to cause uptake of glucose into cells . 	343	query281_Low-carbohydrate_diet\S\343
+When this occurs , beta cells in the pancreas release insulin to cause uptake of glucose into cells . 	343	query281_Low-carbohydrate_diet\S\343
+"beta cells in the pancreas release insulin"	"be cause"	"uptake of glucose into cells"	343	query281_Low-carbohydrate_diet\P\343-0
+In liver and muscle cells , more glucose is taken in than is needed and stored as glycogen (once called 'animal starch' ) . 	344	query281_Low-carbohydrate_diet\S\344
+"more glucose"	"is taken"	"in than is needed"	344	query281_Low-carbohydrate_diet\P\344-0
+"more glucose"	"is taken"	"in than is stored as glycogen once called animal starch"	344	query281_Low-carbohydrate_diet\P\344-1
+"more glucose"	"is taken"	"in than is needed"	344	query281_Low-carbohydrate_diet\P\344-2
+"more glucose"	"is taken"	"in than is stored as glycogen once called animal starch"	344	query281_Low-carbohydrate_diet\P\344-3
+Bowen , R. 	345	query281_Low-carbohydrate_diet\S\345
+"Bowen"	"is"	"R."	345	query281_Low-carbohydrate_diet\P\345-0
+: , Colorado State University : Hypertexts for Biomedical Sciences , 8 December 2002 Diets with a high starch/sugar content , therefore , cause release of more insulin and so more cell absorption . 	346	query281_Low-carbohydrate_diet\S\346
+"Hypertexts for Biomedical Sciences therefore cause release of more insulin"	"is"	"Colorado State University"	346	query281_Low-carbohydrate_diet\P\346-0
+"Hypertexts for Biomedical Sciences therefore cause of more insulin so more cell absorption"	"is"	"Colorado State University"	346	query281_Low-carbohydrate_diet\P\346-1
+"Hypertexts for Biomedical Sciences therefore cause release of more insulin"	"is"	"8 December 2002 Diets with a high starch/sugar content"	346	query281_Low-carbohydrate_diet\P\346-2
+"Hypertexts for Biomedical Sciences therefore cause of more insulin so more cell absorption"	"is"	"8 December 2002 Diets with a high starch/sugar content"	346	query281_Low-carbohydrate_diet\P\346-3
+In diabetics , glucose levels vary in time with meals and vary a little more as a result of high carbohydrate content meals . 	347	query281_Low-carbohydrate_diet\S\347
+"glucose levels"	"vary"	"in time with meals 347 In diabetics"	347	query281_Low-carbohydrate_diet\P\347-0
+"glucose levels"	"vary"	"in time with meals"	347	query281_Low-carbohydrate_diet\P\347-1
+"glucose levels"	"vary"	"a little more 347 In diabetics"	347	query281_Low-carbohydrate_diet\P\347-2
+"glucose levels"	"vary"	"a little more in time with meals"	347	query281_Low-carbohydrate_diet\P\347-3
+"glucose levels"	"vary"	"a little more as a result of high carbohydrate content meals"	347	query281_Low-carbohydrate_diet\P\347-4
+"glucose levels"	"vary"	"a little more"	347	query281_Low-carbohydrate_diet\P\347-5
+In non-diabetics , blood sugar levels are restored to normal levels within an hour or two , regardless of the content of a meal . 	348	query281_Low-carbohydrate_diet\S\348
+"blood sugar levels"	"are restored"	"to normal levels 348 In non-diabetics"	348	query281_Low-carbohydrate_diet\P\348-0
+"blood sugar levels"	"are restored"	"to normal levels within an hour two"	348	query281_Low-carbohydrate_diet\P\348-1
+"blood sugar levels"	"are restored"	"to normal levels regardless of the content of a meal"	348	query281_Low-carbohydrate_diet\P\348-2
+"blood sugar levels"	"are restored"	"to normal levels"	348	query281_Low-carbohydrate_diet\P\348-3
+While there are Essential fatty acids ( EFA ) and Essential amino acids ( EAA ) and while a diet devoid of EFA or EAA will result in eventual death , a diet completely without carbohydrates can be maintained indefinitely because fatty acids include a carbohydrate backbone ( Glycerol ) . 	349	query281_Low-carbohydrate_diet\S\349
+"Essential fatty acids"	"is"	"EFA"	349	query281_Low-carbohydrate_diet\P\349-0
+"Essential amino acids"	"is"	"EAA"	349	query281_Low-carbohydrate_diet\P\349-1
+"a diet devoid of EFA"	"will result"	"in eventual death"	349	query281_Low-carbohydrate_diet\P\349-2
+"a diet devoid of EAA"	"will result"	"in eventual death"	349	query281_Low-carbohydrate_diet\P\349-3
+"While there are Essential fatty acids a diet completely without carbohydrates"	"can be maintained"	"indefinitely because fatty acids include a carbohydrate backbone"	349	query281_Low-carbohydrate_diet\P\349-4
+"While there Essential fatty acids Essential amino acids a diet completely without carbohydrates"	"can be maintained"	"indefinitely because fatty acids include a carbohydrate backbone"	349	query281_Low-carbohydrate_diet\P\349-5
+"While there Essential fatty acids while a diet devoid of EFA will result in eventual death a diet completely without carbohydrates"	"can be maintained"	"indefinitely because fatty acids include a carbohydrate backbone"	349	query281_Low-carbohydrate_diet\P\349-6
+"While there Essential fatty acids while a diet devoid of EAA will result in eventual death a diet completely without carbohydrates"	"can be maintained"	"indefinitely because fatty acids include a carbohydrate backbone"	349	query281_Low-carbohydrate_diet\P\349-7
+"While there are Essential fatty acids a diet completely without carbohydrates"	"can be maintained"	"indefinitely"	349	query281_Low-carbohydrate_diet\P\349-8
+"While there Essential fatty acids Essential amino acids a diet completely without carbohydrates"	"can be maintained"	"indefinitely"	349	query281_Low-carbohydrate_diet\P\349-9
+"While there Essential fatty acids while a diet devoid of EFA will result in eventual death a diet completely without carbohydrates"	"can be maintained"	"indefinitely"	349	query281_Low-carbohydrate_diet\P\349-10
+"While there Essential fatty acids while a diet devoid of EAA will result in eventual death a diet completely without carbohydrates"	"can be maintained"	"indefinitely"	349	query281_Low-carbohydrate_diet\P\349-11
+"fatty acids"	"include"	"a carbohydrate backbone"	349	query281_Low-carbohydrate_diet\P\349-12
+"a carbohydrate backbone"	"is"	"Glycerol"	349	query281_Low-carbohydrate_diet\P\349-13
+Long-term consumption of a carbohydrate-restricted diet does not induce deleterious metabolic effects There are essential fatty acids and amino acids for structural building blocks , not energy . 	350	query281_Low-carbohydrate_diet\S\350
+"Long-term consumption of a carbohydrate-restricted diet"	"does not induce"	"deleterious metabolic effects There are essential fatty acids for structural building blocks"	350	query281_Low-carbohydrate_diet\P\350-0
+"Long-term consumption of a carbohydrate-restricted diet"	"does not induce"	"deleterious metabolic effects There are essential fatty amino acids for structural building blocks"	350	query281_Low-carbohydrate_diet\P\350-1
+"essential fatty acids"	"There are"	"for structural building blocks"	350	query281_Low-carbohydrate_diet\P\350-2
+"essential fatty amino acids"	"There are"	"for structural building blocks"	350	query281_Low-carbohydrate_diet\P\350-3
+"structural building blocks"	"is"	"not energy"	350	query281_Low-carbohydrate_diet\P\350-4
+EPA and EAA will be converted into intermediates for the carbohydrate metabolism , even if it depletes their essential stocks . 	351	query281_Low-carbohydrate_diet\S\351
+"EPA"	"will be converted"	"into intermediates for the carbohydrate metabolism even if it depletes their essential stocks"	351	query281_Low-carbohydrate_diet\P\351-0
+"EAA"	"will be converted"	"into intermediates for the carbohydrate metabolism even if it depletes their essential stocks"	351	query281_Low-carbohydrate_diet\P\351-1
+"EPA"	"will be converted"	"into intermediates for the carbohydrate metabolism"	351	query281_Low-carbohydrate_diet\P\351-2
+"EAA"	"will be converted"	"into intermediates for the carbohydrate metabolism"	351	query281_Low-carbohydrate_diet\P\351-3
+"EAA"	"will be converted"	"into intermediates for the carbohydrate metabolism"	351	query281_Low-carbohydrate_diet\P\351-4
+"EAA"	"will be converted"	"into intermediates for the carbohydrate metabolism"	351	query281_Low-carbohydrate_diet\P\351-5
+However , a very low carbohydrate diet ( less than 20g per day ) may negatively affect certain biomarkers Arizona State University ( 2007 , December 17 ) . 	352	query281_Low-carbohydrate_diet\S\352
+"a very low carbohydrate diet less than 20g per day"	"may affect"	"certain biomarkers Arizona State University 352 However negatively"	352	query281_Low-carbohydrate_diet\P\352-0
+"a very low carbohydrate diet less than 20g per day"	"may affect"	"certain biomarkers Arizona State University 352 However"	352	query281_Low-carbohydrate_diet\P\352-1
+"certain biomarkers Arizona State University"	"is"	"2007 December 17"	352	query281_Low-carbohydrate_diet\P\352-2
+Researchers Nix Low-carb Diet . 	353	query281_Low-carbohydrate_diet\S\353
+ScienceDaily . 	354	query281_Low-carbohydrate_diet\S\354
+Retrieved April 15 , 2011 , from http ://www .sciencedaily 	355	query281_Low-carbohydrate_diet\S\355
+.com­/releases/2007/12/071217150506.htm 	356	query281_Low-carbohydrate_diet\S\356
+and produce detrimental effects in certain types of individuals ( for instance , those with kidney problems ) . 	357	query281_Low-carbohydrate_diet\S\357
+The opposite is also true - for instance , clinical experience suggests very low carbohydrate diet for patients with metabolic syndrome . 	358	query281_Low-carbohydrate_diet\S\358
+"The opposite"	"is true"	"also clinical experience suggests very low carbohydrate diet for patients with metabolic syndrome"	358	query281_Low-carbohydrate_diet\P\358-0
+"The opposite"	"is true"	"for instance clinical experience suggests very low carbohydrate diet for patients with metabolic syndrome"	358	query281_Low-carbohydrate_diet\P\358-1
+"The opposite"	"is true"	"clinical experience suggests very low carbohydrate diet for patients with metabolic syndrome"	358	query281_Low-carbohydrate_diet\P\358-2
+"clinical experience"	"suggests"	"very low carbohydrate diet for patients with metabolic syndrome"	358	query281_Low-carbohydrate_diet\P\358-3
+Clinical use of a Carbohydrate-Restricted Diet to Treat the Dyslipidemia of the Metabolic Syndrome Because of the substantial controversy regarding low-carbohydrate diets and even disagreements in interpreting the results of specific studies , it is difficult to objectively summarize the research in a way that reflects scientific consensus . 	359	query281_Low-carbohydrate_diet\S\359
+"the substantial controversy"	"be regarding"	"low-carbohydrate diets in interpreting the results of specific studies"	359	query281_Low-carbohydrate_diet\P\359-0
+"the substantial controversy"	"be regarding"	"low-carbohydrate even disagreements in interpreting the results of specific studies"	359	query281_Low-carbohydrate_diet\P\359-1
+"the substantial controversy"	"be regarding"	"low-carbohydrate even disagreements in interpreting the results of specific studies"	359	query281_Low-carbohydrate_diet\P\359-2

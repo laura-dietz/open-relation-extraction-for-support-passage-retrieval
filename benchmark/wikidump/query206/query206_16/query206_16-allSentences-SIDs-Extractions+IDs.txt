@@ -1,0 +1,438 @@
+thumb300pxRoyd Moor Wind Farmin England thumb300pxLillgrund Wind Farmin Sweden A wind farm is a group of wind turbine in the same location used to produce electric power . 	0	query206_Wind_farm\S\0
+"thumb300pxRoyd Moor Wind Farmin England thumb300pxLillgrund Wind Farmin Sweden A wind farm"	"is a group"	"of wind turbine"	0	query206_Wind_farm\P\0-0
+"thumb300pxRoyd Moor Wind Farmin England thumb300pxLillgrund Wind Farmin Sweden A wind farm"	"is a group"	"in the same location used to produce electric power"	0	query206_Wind_farm\P\0-1
+"thumb300pxRoyd Moor Wind Farmin England thumb300pxLillgrund Wind Farmin Sweden A wind farm"	"is"	"a group"	0	query206_Wind_farm\P\0-2
+"the same location"	"be used"	"to produce electric power"	0	query206_Wind_farm\P\0-3
+A large wind farm may consist of several hundred individual wind turbines , and cover an extended area of hundreds of square miles , but the land between the turbines may be used for agricultural or other purposes . 	1	query206_Wind_farm\S\1
+"A large wind farm"	"may consist"	"of several hundred individual wind turbines"	1	query206_Wind_farm\P\1-0
+"A large wind farm"	"may cover"	"an extended area of hundreds of square miles of several hundred individual wind turbines"	1	query206_Wind_farm\P\1-1
+"A large wind farm"	"may cover"	"an extended area of hundreds of square miles"	1	query206_Wind_farm\P\1-2
+"the land between the turbines"	"may be used"	"for agricultural purposes"	1	query206_Wind_farm\P\1-3
+"the land between the turbines"	"may be used"	"for other purposes"	1	query206_Wind_farm\P\1-4
+A wind farm may also be located offshore . 	2	query206_Wind_farm\S\2
+"A wind farm"	"may be located"	"also"	2	query206_Wind_farm\P\2-0
+"A wind farm"	"may be located"	"offshore"	2	query206_Wind_farm\P\2-1
+"A wind farm"	"may be"	"located"	2	query206_Wind_farm\P\2-2
+Many of the largest operational onshore wind farms are located in the USA . 	3	query206_Wind_farm\S\3
+"Many of the largest operational onshore wind farms"	"are located"	"in the USA"	3	query206_Wind_farm\P\3-0
+"Many of the largest operational onshore wind farms"	"are"	"located"	3	query206_Wind_farm\P\3-1
+As of November 2010 , the Roscoe Wind Farm is the largest onshore wind farm in the world , with a capacity of 781.5 	4	query206_Wind_farm\S\4
+"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"4 As of November 2010 in the world"	4	query206_Wind_farm\P\4-0
+"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"4 As of November 2010 with a capacity of 781.5"	4	query206_Wind_farm\P\4-1
+"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"4 As of November 2010"	4	query206_Wind_farm\P\4-2
+MW of power , followed by the Horse Hollow Wind Energy Center ( 735.5 	5	query206_Wind_farm\S\5
+"MW of power"	"be followed"	"by the Horse Hollow Wind Energy Center 735.5"	5	query206_Wind_farm\P\5-0
+MW) . 	6	query206_Wind_farm\S\6
+As of November 2010 , the Thanet Offshore Wind Project in United Kingdom is the largest offshore wind farm in the world at 300 MW , followed by Horns Rev II ( 209 MW) in Denmark . 	7	query206_Wind_farm\S\7
+"the Thanet Offshore Wind Project in United Kingdom"	"is 7 As of November 2010 the largest offshore wind farm"	"in the world"	7	query206_Wind_farm\P\7-0
+"the Thanet Offshore Wind Project in United Kingdom"	"is 7 As of November 2010 the largest offshore wind farm"	"at 300 MW"	7	query206_Wind_farm\P\7-1
+"the Thanet Offshore Wind Project in United Kingdom"	"is 7 As of November 2010 the largest offshore wind farm"	"followed by Horns Rev II in Denmark"	7	query206_Wind_farm\P\7-2
+"the Thanet Offshore Wind Project in United Kingdom"	"is"	"7 As of November 2010 the largest offshore wind farm"	7	query206_Wind_farm\P\7-3
+"As of November 2010 the largest offshore wind farm in the world at 300 MW"	"be followed"	"by Horns Rev II in Denmark"	7	query206_Wind_farm\P\7-4
+"Rev II in Denmark"	"is"	"209 MW"	7	query206_Wind_farm\P\7-5
+There are many large wind farms under construction and these include Anholt Offshore Wind Farm ( 400 MW) , BARD Offshore 1 ( 400 MW) , Clyde Wind Farm ( 548 MW) , Greater Gabbard wind farm ( 500 MW) , Lincs Wind Farm ( 270 MW) , London Array ( 1000 MW) , Lower Snake River Wind Project ( 343 MW) , Macarthur Wind Farm ( 420 MW) , Shepherds Flat Wind Farm ( 845 MW) , Sheringham Shoal ( 317 MW) , and the Walney Wind Farm ( 367 MW) . 	8	query206_Wind_farm\S\8
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-0
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-1
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-2
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-3
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-4
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-5
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-6
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-7
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-8
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-9
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-10
+"many large wind farms under construction"	"There are"	"8"	8	query206_Wind_farm\P\8-11
+"Anholt Offshore Wind Farm"	"is"	"400 MW"	8	query206_Wind_farm\P\8-12
+"Anholt Offshore Wind BARD Offshore 1"	"is"	"400 MW"	8	query206_Wind_farm\P\8-13
+"Anholt Offshore Wind Clyde Wind Farm"	"is"	"400 MW"	8	query206_Wind_farm\P\8-14
+"Anholt Offshore Wind Greater Gabbard wind farm"	"is"	"400 MW"	8	query206_Wind_farm\P\8-15
+"Anholt Offshore Wind Lincs Wind Farm"	"is"	"400 MW"	8	query206_Wind_farm\P\8-16
+"Anholt Offshore Wind London Array"	"is"	"400 MW"	8	query206_Wind_farm\P\8-17
+"Anholt Offshore Wind Lower Snake River Wind Project"	"is"	"400 MW"	8	query206_Wind_farm\P\8-18
+"Anholt Offshore Wind Macarthur Wind Farm"	"is"	"400 MW"	8	query206_Wind_farm\P\8-19
+"Anholt Offshore Wind Shepherds Flat Wind Farm"	"is"	"400 MW"	8	query206_Wind_farm\P\8-20
+"Anholt Offshore Wind Sheringham Shoal"	"is"	"400 MW"	8	query206_Wind_farm\P\8-21
+"Anholt Offshore Wind the Walney Wind Farm"	"is"	"400 MW"	8	query206_Wind_farm\P\8-22
+"BARD Offshore 1"	"is"	"400 MW"	8	query206_Wind_farm\P\8-23
+"Clyde Wind Farm"	"is"	"548 MW"	8	query206_Wind_farm\P\8-24
+"Greater Gabbard wind farm"	"is"	"500 MW"	8	query206_Wind_farm\P\8-25
+"Lincs Wind Farm"	"is"	"270 MW"	8	query206_Wind_farm\P\8-26
+"London Array"	"is"	"1000 MW"	8	query206_Wind_farm\P\8-27
+"Lower Snake River Wind Project"	"is"	"343 MW"	8	query206_Wind_farm\P\8-28
+"Macarthur Wind Farm"	"is"	"420 MW"	8	query206_Wind_farm\P\8-29
+"Shepherds Flat Wind Farm"	"is"	"845 MW"	8	query206_Wind_farm\P\8-30
+"Sheringham Shoal"	"is"	"317 MW"	8	query206_Wind_farm\P\8-31
+"the Walney Wind Farm"	"is"	"367 MW"	8	query206_Wind_farm\P\8-32
+A large wind farm may consist of several hundred individual wind turbines , and cover an extended area of hundreds of square miles , but the land between the turbines may be used for agricultural or other purposes . 	9	query206_Wind_farm\S\9
+"A large wind farm"	"may consist"	"of several hundred individual wind turbines"	9	query206_Wind_farm\P\9-0
+"A large wind farm"	"may cover"	"an extended area of hundreds of square miles of several hundred individual wind turbines"	9	query206_Wind_farm\P\9-1
+"A large wind farm"	"may cover"	"an extended area of hundreds of square miles"	9	query206_Wind_farm\P\9-2
+"the land between the turbines"	"may be used"	"for agricultural purposes"	9	query206_Wind_farm\P\9-3
+"the land between the turbines"	"may be used"	"for other purposes"	9	query206_Wind_farm\P\9-4
+A wind farm may be located offshore to take advantage of strong winds blowing over the surface of an ocean or lake . 	10	query206_Wind_farm\S\10
+"A wind farm"	"may be located"	"offshore to take advantage of strong winds blowing over the surface of an ocean"	10	query206_Wind_farm\P\10-0
+"A wind farm"	"may be located"	"offshore to take advantage of strong winds blowing over the surface of an lake"	10	query206_Wind_farm\P\10-1
+"A wind farm"	"may be located"	"to take advantage of strong winds blowing over the surface of an ocean"	10	query206_Wind_farm\P\10-2
+"A wind farm"	"may be located"	"to take advantage of strong winds blowing over the surface of an lake"	10	query206_Wind_farm\P\10-3
+"strong winds"	"be blowing"	"over the surface of an ocean"	10	query206_Wind_farm\P\10-4
+"strong winds"	"be blowing"	"over the surface of an lake"	10	query206_Wind_farm\P\10-5
+thumbMap of available wind power over the United States . 	11	query206_Wind_farm\S\11
+Color codes indicate wind power density class As a general rule , economic wind generators require windspeed of 10&nbsp;mph ( 16&nbsp;km/h ) or greater . 	12	query206_Wind_farm\S\12
+"Color codes"	"indicate"	"wind power density class As a general rule"	12	query206_Wind_farm\P\12-0
+"Color codes"	"indicate"	"wind power density class"	12	query206_Wind_farm\P\12-1
+"economic wind generators"	"require"	"12 Color codes indicate wind power density class As a general rule windspeed of 10 mph"	12	query206_Wind_farm\P\12-2
+"economic wind generators"	"require"	"12 Color codes indicate wind power density class As a general rule windspeed of 10 greater"	12	query206_Wind_farm\P\12-3
+"mph"	"is"	"16 km/h"	10	query206_Wind_farm\P\12-4
+"greater"	"is"	"16 km/h"	10	query206_Wind_farm\P\12-5
+An ideal location would have a near constant flow of non-turbulent wind throughout the year , with a minimum likelihood of sudden powerful bursts of wind . 	13	query206_Wind_farm\S\13
+"An ideal location"	"would have"	"a near constant flow of non-turbulent wind throughout the year"	13	query206_Wind_farm\P\13-0
+"An ideal location"	"would have"	"a near constant flow of non-turbulent wind with a minimum likelihood of sudden powerful bursts of wind"	13	query206_Wind_farm\P\13-1
+"An ideal location"	"would have"	"a near constant flow of non-turbulent wind"	13	query206_Wind_farm\P\13-2
+An important factor of turbine siting is also access to local demand or transmission capacity . 	14	query206_Wind_farm\S\14
+"An important factor of turbine siting"	"is access"	"also"	14	query206_Wind_farm\P\14-0
+"An important factor of turbine siting"	"is access"	"to local demand"	14	query206_Wind_farm\P\14-1
+"An important factor of turbine siting"	"is access"	"to local transmission capacity"	14	query206_Wind_farm\P\14-2
+"An important factor of turbine siting"	"is"	"access"	14	query206_Wind_farm\P\14-3
+Usually sites are screened on the basis of a wind atlas , and validated with wind measurements . 	15	query206_Wind_farm\S\15
+"Usually sites"	"are screened"	"on the basis of a wind atlas"	15	query206_Wind_farm\P\15-0
+"Usually sites"	"are validated"	"with wind measurements on the basis of a wind atlas"	15	query206_Wind_farm\P\15-1
+"Usually sites"	"are validated"	"with wind measurements"	15	query206_Wind_farm\P\15-2
+Meteorological wind data alone is usually not sufficient for accurate siting of a large wind power project . 	16	query206_Wind_farm\S\16
+"Meteorological wind data alone"	"is not sufficient"	"usually"	16	query206_Wind_farm\P\16-0
+"Meteorological wind data alone"	"is not sufficient"	"for accurate siting of a large wind power project"	16	query206_Wind_farm\P\16-1
+"Meteorological wind data alone"	"is not"	"sufficient"	16	query206_Wind_farm\P\16-2
+Collection of site specific data for wind speed and direction is crucial to determining site potential page 32 EWEA 2009 . 	17	query206_Wind_farm\S\17
+"Collection of site specific data for wind speed"	"is crucial"	"to determining site potential page 32 EWEA 2009"	17	query206_Wind_farm\P\17-0
+"of site specific data for wind speed direction"	"is crucial"	"to determining site potential page 32 EWEA 2009"	17	query206_Wind_farm\P\17-1
+"Collection of site specific data for wind speed"	"is"	"crucial"	17	query206_Wind_farm\P\17-2
+"of site specific data for wind speed direction"	"is"	"crucial"	17	query206_Wind_farm\P\17-3
+Accessed : 13 March 2011 . 	18	query206_Wind_farm\S\18
+in order to finance the project . 	19	query206_Wind_farm\S\19
+Local winds are often monitored for a year or more , and detailed wind maps constructed before wind generators are installed . 	20	query206_Wind_farm\S\20
+"Local winds"	"are monitored"	"for a year more often"	20	query206_Wind_farm\P\20-0
+"Local winds"	"are monitored"	"for a year more"	20	query206_Wind_farm\P\20-1
+"Local winds"	"are detailed wind maps"	"constructed before wind generators are installed often"	20	query206_Wind_farm\P\20-2
+"Local winds"	"are detailed wind maps"	"constructed before wind generators are installed for a year more"	20	query206_Wind_farm\P\20-3
+"Local winds"	"are detailed wind maps"	"constructed before wind generators are installed"	20	query206_Wind_farm\P\20-4
+"detailed wind maps"	"be constructed"	"before wind generators are installed"	20	query206_Wind_farm\P\20-5
+The wind blows faster at higher altitudes because of the reduced influence of drag . 	21	query206_Wind_farm\S\21
+The increase in velocity with altitude is most dramatic near the surface and is affected by topography , surface roughness , and upwind obstacles such as trees or buildings . 	22	query206_Wind_farm\S\22
+"The increase in velocity with altitude"	"is dramatic"	"most"	22	query206_Wind_farm\P\22-0
+"The increase in velocity with altitude"	"is dramatic"	"near the surface"	22	query206_Wind_farm\P\22-1
+"The increase in velocity with altitude"	"is"	"dramatic"	22	query206_Wind_farm\P\22-2
+"The increase in velocity with altitude"	"is is affected"	"most"	22	query206_Wind_farm\P\22-3
+"The increase in velocity with altitude"	"is is affected"	"near the surface"	22	query206_Wind_farm\P\22-4
+"The increase in velocity with altitude"	"is is affected"	"by topography"	22	query206_Wind_farm\P\22-5
+"The increase in velocity with altitude"	"is is affected"	"by surface roughness"	22	query206_Wind_farm\P\22-6
+"The increase in velocity with altitude"	"is is affected"	"by upwind obstacles such as trees"	22	query206_Wind_farm\P\22-7
+"The increase in velocity with altitude"	"is is affected"	"by upwind obstacles such as buildings"	22	query206_Wind_farm\P\22-8
+"The increase in velocity with altitude"	"is is"	"affected"	22	query206_Wind_farm\P\22-9
+Typically , the increase of wind speeds with increasing height follows a wind profile power law , which predicts that wind speed rises proportionally to the seventh root of altitude . 	23	query206_Wind_farm\S\23
+"the increase of wind speeds with increasing height"	"follows"	"a wind profile power law 23 Typically"	23	query206_Wind_farm\P\23-0
+"the increase of wind speeds with increasing height"	"follows"	"a wind profile power law"	23	query206_Wind_farm\P\23-1
+"a wind profile power law"	"predicts"	"that wind speed rises proportionally to the seventh root of altitude"	23	query206_Wind_farm\P\23-2
+"wind speed"	"rises"	"proportionally to the seventh root of altitude"	23	query206_Wind_farm\P\23-3
+"wind speed"	"rises"	"proportionally"	23	query206_Wind_farm\P\23-4
+Doubling the altitude of a turbine , then , increases the expected wind speeds by 10 % and the expected power by 34 % . 	24	query206_Wind_farm\S\24
+"then increases the expected wind speeds by 10 %"	"be Doubling"	"the altitude of a turbine"	24	query206_Wind_farm\P\24-0
+"then the expected wind speeds by 10 % the expected power by 34 %"	"be Doubling"	"the altitude of a turbine"	24	query206_Wind_farm\P\24-1
+Individual turbines are interconnected with a medium voltage (usually 34.5 	25	query206_Wind_farm\S\25
+"Individual turbines"	"are interconnected"	"with a medium voltage usually 34.5"	25	query206_Wind_farm\P\25-0
+kV ) power collection system and communications network . 	26	query206_Wind_farm\S\26
+At a substation , this medium-voltage electrical current is increased in voltage with a transformer for connection to the high voltage transmission system . 	27	query206_Wind_farm\S\27
+"this medium-voltage electrical current"	"is increased"	"in voltage with a transformer for connection to the high voltage transmission system"	27	query206_Wind_farm\P\27-0
+"this medium-voltage electrical current"	"is increased"	"in voltage"	27	query206_Wind_farm\P\27-1
+Construction of a land-based wind farm requires installation of the collector system and substation , and possibly access roads to each turbine site . 	28	query206_Wind_farm\S\28
+"Construction of a land-based wind farm"	"requires"	"installation of the collector system"	28	query206_Wind_farm\P\28-0
+"Construction of a land-based wind farm"	"requires"	"installation of the collector substation"	28	query206_Wind_farm\P\28-1
+"Construction of a land-based wind farm"	"access roads"	"installation of the collector system possibly"	28	query206_Wind_farm\P\28-2
+"Construction of a land-based wind farm"	"access roads"	"installation of the collector substation possibly"	28	query206_Wind_farm\P\28-3
+"Construction of a land-based wind farm"	"access roads"	"installation of the collector system to each turbine site"	28	query206_Wind_farm\P\28-4
+"Construction of a land-based wind farm"	"access roads"	"installation of the collector substation to each turbine site"	28	query206_Wind_farm\P\28-5
+"Construction of a land-based wind farm"	"access roads"	"installation of the collector system"	28	query206_Wind_farm\P\28-6
+"Construction of a land-based wind farm"	"access roads"	"installation of the collector substation"	28	query206_Wind_farm\P\28-7
+thumbPart of theBiglow Canyon Wind Farm _ with a turbine under construction List of onshore wind farms Lists of wind farms by country The world 's first wind farm – consisting of 20 wind turbines rated at 30 kilowatts each – was installed on the shoulder of Crotched Mountain in southern New Hampshire in December , 1980 . 	29	query206_Wind_farm\S\29
+"The world"	"has"	"country first wind farm"	29	query206_Wind_farm\P\29-0
+"wind turbines"	"be rated"	"at 30 kilowatts each"	20	query206_Wind_farm\P\29-1
+http ://www.windpoweringamerica.gov/ne_history_windfarms 	30	query206_Wind_farm\S\30
+.asp 	31	query206_Wind_farm\S\31
+Historic Wind Development in New England : The Age of PURPA Spawns the " Wind Farm " 10/9/2008 U.S. 	32	query206_Wind_farm\S\32
+"The Age of PURPA"	"Spawns"	"the Wind Farm 10/9/2008 U.S."	32	query206_Wind_farm\P\32-0
+Department of Energy 24 April 2010 http ://www.windpoweringamerica.gov/ne_history_windfarms 	33	query206_Wind_farm\S\33
+.asp 	34	query206_Wind_farm\S\34
+Historic Wind Development in New England : The Age of PURPA Spawns the " Wind Farm " 10/9/2008 U.S. 	35	query206_Wind_farm\S\35
+"The Age of PURPA"	"Spawns"	"the Wind Farm 10/9/2008 U.S."	35	query206_Wind_farm\P\35-0
+Department of Energy 24 April 2010 http ://www .umass 	36	query206_Wind_farm\S\36
+.edu/windenergy/about 	37	query206_Wind_farm\S\37
+.history 	38	query206_Wind_farm\S\38
+.alumni.php 	39	query206_Wind_farm\S\39
+Wind Energy Center Alumni and the Early Wind Industry 2010 University of Massachusetts Amherst 24 April 2010 http ://www .umass 	40	query206_Wind_farm\S\40
+.edu/windenergy/about 	41	query206_Wind_farm\S\41
+.history 	42	query206_Wind_farm\S\42
+.alumni.php 	43	query206_Wind_farm\S\43
+Wind Energy Center Alumni and the Early Wind Industry 2010 University of Massachusetts Amherst 24 April 2010 Many of the largest operational onshore wind farms are located in the USA . 	44	query206_Wind_farm\S\44
+"Wind Energy Center Alumni"	"are located"	"in the USA"	44	query206_Wind_farm\P\44-0
+"Wind Energy Center the Early Wind Industry 2010 University of Massachusetts Amherst 24 April 2010 Many of the largest operational onshore wind farms"	"are located"	"in the USA"	44	query206_Wind_farm\P\44-1
+"Wind Energy Center Alumni"	"are"	"located"	44	query206_Wind_farm\P\44-2
+"Wind Energy Center the Early Wind Industry 2010 University of Massachusetts Amherst 24 April 2010 Many of the largest operational onshore wind farms"	"are"	"located"	44	query206_Wind_farm\P\44-3
+As of November 2010 , the Roscoe Wind Farm is the largest onshore wind farm in the world at 781.5 	45	query206_Wind_farm\S\45
+"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"45 As of November 2010 in the world"	45	query206_Wind_farm\P\45-0
+"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"45 As of November 2010 at 781.5"	45	query206_Wind_farm\P\45-1
+"the Roscoe Wind Farm"	"is the largest onshore wind farm"	"45 As of November 2010"	45	query206_Wind_farm\P\45-2
+MW , followed by the Horse Hollow Wind Energy Center ( 735.5 	46	query206_Wind_farm\S\46
+"MW"	"be followed"	"by the Horse Hollow Wind Energy Center 735.5"	46	query206_Wind_farm\P\46-0
+MW) . 	47	query206_Wind_farm\S\47
+The largest wind farm under construction is the 845 MW Shepherds Flat Wind Farm in the USA . 	48	query206_Wind_farm\S\48
+"The largest wind farm under construction"	"is the 845 MW Shepherds Flat Wind Farm"	"in the USA"	48	query206_Wind_farm\P\48-0
+"The largest wind farm under construction"	"is"	"the 845 MW Shepherds Flat Wind Farm"	48	query206_Wind_farm\P\48-1
+The largest proposed project is the 20,000 MW Gansu Wind Farm in China . 	49	query206_Wind_farm\S\49
+"The largest proposed project"	"is the 20,000 MW Gansu Wind Farm"	"in China"	49	query206_Wind_farm\P\49-0
+"The largest proposed project"	"is"	"the 20,000 MW Gansu Wind Farm"	49	query206_Wind_farm\P\49-1
+Falling costs mean that the average onshore wind farm will be competitive with natural gas-fired power generation by 2016 . 	50	query206_Wind_farm\S\50
+"Falling costs"	"mean"	"that the average onshore wind farm will be competitive with natural gas-fired power generation by 2016"	50	query206_Wind_farm\P\50-0
+"the average onshore wind farm"	"will be competitive"	"with natural gas-fired power generation"	50	query206_Wind_farm\P\50-1
+"the average onshore wind farm"	"will be competitive"	"by 2016"	50	query206_Wind_farm\P\50-2
+"the average onshore wind farm"	"will be"	"competitive"	50	query206_Wind_farm\P\50-3
+http ://www.environmental-finance 	51	query206_Wind_farm\S\51
+.com/news/view/2111 	52	query206_Wind_farm\S\52
+Onshore turbine installations in hilly or mountainous regions tend to be on ridgelines generally three kilometers or more inland from the nearest shoreline . 	53	query206_Wind_farm\S\53
+"Onshore turbine installations in hilly regions"	"tend"	"to be on ridgelines"	53	query206_Wind_farm\P\53-0
+"Onshore turbine installations in hilly regions"	"tend"	"to be on ridgelines"	53	query206_Wind_farm\P\53-1
+"Onshore turbine installations in mountainous regions"	"tend"	"to be on ridgelines"	53	query206_Wind_farm\P\53-2
+"Onshore turbine installations in mountainous regions"	"tend"	"to be on ridgelines"	53	query206_Wind_farm\P\53-3
+This is done to exploit the topographic acceleration as the wind accelerates over a ridge . 	54	query206_Wind_farm\S\54
+This is done to exploit the topographic acceleration as the wind accelerates over a ridge . 	54	query206_Wind_farm\S\54
+"the wind"	"accelerates"	"over a ridge the topographic acceleration"	54	query206_Wind_farm\P\54-0
+"the wind"	"accelerates"	"the topographic acceleration"	54	query206_Wind_farm\P\54-1
+The additional wind speeds gained in this way can increase energy produced because more wind goes through the turbines . 	55	query206_Wind_farm\S\55
+"The additional wind speeds"	"gained"	"in this way"	55	query206_Wind_farm\P\55-0
+"The additional wind speeds gained in this way"	"can increase"	"energy produced because more wind goes through the turbines"	55	query206_Wind_farm\P\55-1
+"The additional wind speeds gained in this way"	"can increase"	"energy produced because more wind goes through the turbines"	55	query206_Wind_farm\P\55-2
+"more wind"	"goes"	"through the turbines"	55	query206_Wind_farm\P\55-3
+The exact position of each turbines matters , because a difference of 30m could potentially double output . 	56	query206_Wind_farm\S\56
+This careful placement is referred to as 'micro-siting ' . 	57	query206_Wind_farm\S\57
+"This careful placement"	"is referred"	"to as micro-siting"	57	query206_Wind_farm\P\57-0
+thumb450pxOffshore wind turbines nearCopenhagen Offshore wind power List of offshore wind farms Lists of offshore wind farms by country Europe is the leader in offshore wind energy , with the first offshore wind farm being installed in Denmark in 1991 . 	58	query206_Wind_farm\S\58
+"thumb450pxOffshore wind turbines"	"nearCopenhagen Offshore wind power List"	"of offshore wind farms Lists of offshore wind farms by country Europe"	58	query206_Wind_farm\P\58-0
+"thumb450pxOffshore wind turbines nearCopenhagen Offshore wind power List of offshore wind farms Lists of offshore wind farms by country Europe"	"is the leader"	"in offshore wind energy"	58	query206_Wind_farm\P\58-1
+"thumb450pxOffshore wind turbines nearCopenhagen Offshore wind power List of offshore wind farms Lists of offshore wind farms by country Europe"	"is the leader"	"with the first offshore wind farm being installed in Denmark in 1991"	58	query206_Wind_farm\P\58-2
+"thumb450pxOffshore wind turbines nearCopenhagen Offshore wind power List of offshore wind farms Lists of offshore wind farms by country Europe"	"is"	"the leader"	58	query206_Wind_farm\P\58-3
+"the first offshore wind farm"	"be installed"	"in Denmark in 1991"	58	query206_Wind_farm\P\58-4
+"the first offshore wind farm"	"be installed"	"in Denmark"	58	query206_Wind_farm\P\58-5
+As of 2010 , there are 39 offshore wind farms in waters off Belgium , Denmark , Finland , Germany , Ireland , the Netherlands , Norway , Sweden and the United Kingdom , with a combined operating capacity of 2,396 MW. 	59	query206_Wind_farm\S\59
+"offshore wind farms"	"there are"	"in waters off Belgium"	39	query206_Wind_farm\P\59-0
+"offshore wind farms"	"there are"	"in waters off Belgium"	39	query206_Wind_farm\P\59-1
+"offshore wind farms"	"there are"	"in waters off Belgium"	39	query206_Wind_farm\P\59-2
+"offshore wind farms"	"there are"	"in waters off Belgium"	39	query206_Wind_farm\P\59-3
+"offshore wind farms"	"there are"	"in waters off Belgium"	39	query206_Wind_farm\P\59-4
+"offshore wind farms"	"there are"	"in waters off Belgium"	39	query206_Wind_farm\P\59-5
+"offshore wind farms"	"there are"	"in waters off Belgium"	39	query206_Wind_farm\P\59-6
+"offshore wind farms"	"there are"	"in waters off Belgium"	39	query206_Wind_farm\P\59-7
+More than 100 GW ( or 100 , 000 MW) of offshore projects are proposed or under development in Europe . 	60	query206_Wind_farm\S\60
+"More than 100 GW 100 000 MW of offshore projects"	"are under"	"development in Europe"	60	query206_Wind_farm\P\60-0
+The European Wind Energy Association has set of 40 GW installed by 2020 and 150 GW by 2030 . 	61	query206_Wind_farm\S\61
+"The European Wind Energy Association"	"has set"	"of 40 GW installed by 2020 GW by 2030"	61	query206_Wind_farm\P\61-0
+"The European Wind Energy Association"	"has set"	"of 40 GW installed by 150 GW by 2030"	61	query206_Wind_farm\P\61-1
+"GW"	"be installed"	"by 2020 GW by 2030"	40	query206_Wind_farm\P\61-2
+"GW"	"be installed"	"by 150 GW by 2030"	40	query206_Wind_farm\P\61-3
+"GW"	"be installed"	"by 2020 GW"	40	query206_Wind_farm\P\61-4
+"GW"	"be installed"	"by 150 GW"	40	query206_Wind_farm\P\61-5
+http ://www.eesi 	62	query206_Wind_farm\S\62
+.org/files/offshore_wind_101310.pdf 	63	query206_Wind_farm\S\63
+Offshore Wind Energy Environmental and Energy Study Institute October 2010 http ://www.eesi 	64	query206_Wind_farm\S\64
+.org/files/offshore_wind_101310.pdf 	65	query206_Wind_farm\S\65
+Offshore Wind Energy Environmental and Energy Study Institute October 2010 November 2010 , the Thanet Offshore Wind Project in United Kingdom is the largest offshore wind farm in the world at 300 MW , followed by Horns Rev II ( 209 MW) in Denmark . 	66	query206_Wind_farm\S\66
+"Offshore Wind Energy Environmental"	"is"	"the Thanet Offshore Wind Project in United Kingdom"	66	query206_Wind_farm\P\66-0
+"Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is"	"the Thanet Offshore Wind Project in United Kingdom"	66	query206_Wind_farm\P\66-1
+"the largest offshore wind farm in the world at 300 MW"	"be followed"	"by Horns Rev II in Denmark"	66	query206_Wind_farm\P\66-2
+"Offshore Wind Energy Environmental"	"is the largest offshore wind farm"	"in the world"	66	query206_Wind_farm\P\66-3
+"Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is the largest offshore wind farm"	"in the world"	66	query206_Wind_farm\P\66-4
+"Offshore Wind Energy Environmental"	"is the largest offshore wind farm"	"at 300 MW"	66	query206_Wind_farm\P\66-5
+"Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is the largest offshore wind farm"	"at 300 MW"	66	query206_Wind_farm\P\66-6
+"Offshore Wind Energy Environmental"	"is the largest offshore wind farm"	"followed by Horns Rev II in Denmark"	66	query206_Wind_farm\P\66-7
+"Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is the largest offshore wind farm"	"followed by Horns Rev II in Denmark"	66	query206_Wind_farm\P\66-8
+"Offshore Wind Energy Environmental"	"is"	"the largest offshore wind farm"	66	query206_Wind_farm\P\66-9
+"Offshore Wind Energy Energy Study Institute October 2010 November 2010"	"is"	"the largest offshore wind farm"	66	query206_Wind_farm\P\66-10
+"Rev II in Denmark"	"is"	"209 MW"	66	query206_Wind_farm\P\66-11
+Offshore wind turbines are less obtrusive than turbines on land , as their apparent size and noise is mitigated by distance . 	67	query206_Wind_farm\S\67
+"Offshore wind turbines"	"are obtrusive"	"less"	67	query206_Wind_farm\P\67-0
+"Offshore wind turbines"	"are obtrusive"	"than turbines on land"	67	query206_Wind_farm\P\67-1
+"Offshore wind turbines"	"are obtrusive"	"as their apparent size"	67	query206_Wind_farm\P\67-2
+"Offshore wind turbines"	"are"	"obtrusive"	67	query206_Wind_farm\P\67-3
+"Offshore wind turbines"	"are"	"obtrusive"	67	query206_Wind_farm\P\67-4
+"Offshore wind turbines"	"are"	"obtrusive"	67	query206_Wind_farm\P\67-5
+Because water has less surface roughness than land (especially deeper water ) , the average wind speed is usually considerably higher over open water . 	68	query206_Wind_farm\S\68
+Because water has less surface roughness than land (especially deeper water ) , the average wind speed is usually considerably higher over open water . 	68	query206_Wind_farm\S\68
+Because water has less surface roughness than land (especially deeper water ) , the average wind speed is usually considerably higher over open water . 	68	query206_Wind_farm\S\68
+"the average wind speed"	"is 68 higher"	"Because water has less surface roughness than land"	68	query206_Wind_farm\P\68-0
+"the average wind speed"	"is 68 higher"	"usually"	68	query206_Wind_farm\P\68-1
+"the average wind speed"	"is 68 higher"	"considerably"	68	query206_Wind_farm\P\68-2
+"the average wind speed"	"is 68 higher"	"over open water"	68	query206_Wind_farm\P\68-3
+"the average wind speed"	"is"	"68 higher"	68	query206_Wind_farm\P\68-4
+Capacity factor (utilisation rates ) are considerably higher than for onshore locations . 	69	query206_Wind_farm\S\69
+"Capacity factor"	"is"	"utilisation rates"	69	query206_Wind_farm\P\69-0
+"Capacity factor"	"are higher"	"considerably"	69	query206_Wind_farm\P\69-1
+"Capacity factor"	"are higher"	"than for onshore locations"	69	query206_Wind_farm\P\69-2
+"Capacity factor"	"are"	"higher"	69	query206_Wind_farm\P\69-3
+Garvine Richard Kempton Willett Assessing the wind ﬁeld over the continental shelf as a resource for electric power Journal of Marine Research 2008 66 6 751–773 0022-2402 http ://www.ceoe 	70	query206_Wind_farm\S\70
+"Garvine Richard Kempton Willett www.ceoe"	"be Assessing"	"the wind ﬁeld over the continental shelf as a resource for electric power Journal of Marine Research 2008 66 6 751 773 0022-2402 http"	70	query206_Wind_farm\P\70-0
+"Garvine Richard Kempton Willett www.ceoe"	"be Assessing"	"the wind ﬁeld over the continental shelf"	70	query206_Wind_farm\P\70-1
+.udel 	71	query206_Wind_farm\S\71
+.edu/windpower/docs/GarvineKemp-AssessingWind09.pdf 	72	query206_Wind_farm\S\72
+PDF 2009-11-30 Garvine Richard Kempton Willett Assessing the wind ﬁeld over the continental shelf as a resource for electric power Journal of Marine Research 2008 66 6 751–773 0022-2402 http ://www.ceoe 	73	query206_Wind_farm\S\73
+"PDF 2009-11-30 Garvine Richard Kempton Willett www.ceoe"	"be Assessing"	"the wind ﬁeld over the continental shelf as a resource for electric power Journal of Marine Research 2008 66 6 751 773 0022-2402 http"	73	query206_Wind_farm\P\73-0
+"PDF 2009-11-30 Garvine Richard Kempton Willett www.ceoe"	"be Assessing"	"the wind ﬁeld over the continental shelf"	73	query206_Wind_farm\P\73-1
+.udel 	74	query206_Wind_farm\S\74
+.edu/windpower/docs/GarvineKemp-AssessingWind09.pdf 	75	query206_Wind_farm\S\75
+PDF 2009-11-30 The province of Ontario in Canada is pursuing several proposed locations in the Great Lakes , including the suspended Alberta Oil Magazine , April 2011 . 	76	query206_Wind_farm\S\76
+"The province of Ontario in Canada"	"is pursuing"	"several proposed locations in the Great Lakes 76 PDF 2009-11-30 including the suspended Alberta Oil Magazine"	76	query206_Wind_farm\P\76-0
+"The province of Ontario in Canada"	"is pursuing"	"several proposed locations 76 PDF 2009-11-30 including the suspended Alberta Oil Magazine"	76	query206_Wind_farm\P\76-1
+"the suspended Alberta Oil Magazine"	"is"	"April 2011"	76	query206_Wind_farm\P\76-2
+Accessed : 29 September 2011 . 	77	query206_Wind_farm\S\77
+Trillium Power Wind 1 approximately 20&nbsp;km from shore and over 400 MW in size . 	78	query206_Wind_farm\S\78
+http ://www.thestar.com/article/294044 	79	query206_Wind_farm\S\79
+Ontario to approve Great Lakes wind power January 15 , 2008 2008-05-02 The Star Toronto Tyler Hamilton http ://www.thestar.com/article/294044 	80	query206_Wind_farm\S\80
+"Ontario"	"to approve"	"Great Lakes wind power January 15 2008 2008-05-02 The Star Toronto Tyler Hamilton http www.thestar.com/article/294044"	80	query206_Wind_farm\P\80-0
+Ontario to approve Great Lakes wind power January 15 , 2008 2008-05-02 The Star Toronto Tyler Hamilton Other Canadian projects include one on the Pacific west coast . 	81	query206_Wind_farm\S\81
+"Ontario"	"to approve"	"Great Lakes wind power January 15 2008 2008-05-02"	81	query206_Wind_farm\P\81-0
+"The Star Toronto Tyler Hamilton Other Canadian projects"	"include"	"one on the Pacific west coast January 15 2008 2008-05-02"	81	query206_Wind_farm\P\81-1
+http ://www.naikun.ca/index.php 	82	query206_Wind_farm\S\82
+Naikun Wind Development , Inc. 	83	query206_Wind_farm\S\83
+"Naikun Wind Development"	"is"	"Inc."	83	query206_Wind_farm\P\83-0
+2008-05-21 http ://www.naikun.ca/index.php 	84	query206_Wind_farm\S\84
+Naikun Wind Development , Inc. 	85	query206_Wind_farm\S\85
+"Naikun Wind Development"	"is"	"Inc."	85	query206_Wind_farm\P\85-0
+2008-05-21 As of 2010 , there are no offshore wind farms in the United States . 	86	query206_Wind_farm\S\86
+"no offshore wind farms in the United States"	"there are"	"86 2008-05-21 As of 2010"	86	query206_Wind_farm\P\86-0
+However , projects are under development in wind-rich areas of the East Coast , Great Lakes , and Pacific coast . 	87	query206_Wind_farm\S\87
+However , projects are under development in wind-rich areas of the East Coast , Great Lakes , and Pacific coast . 	87	query206_Wind_farm\S\87
+However , projects are under development in wind-rich areas of the East Coast , Great Lakes , and Pacific coast . 	87	query206_Wind_farm\S\87
+However , projects are under development in wind-rich areas of the East Coast , Great Lakes , and Pacific coast . 	87	query206_Wind_farm\S\87
+However , projects are under development in wind-rich areas of the East Coast , Great Lakes , and Pacific coast . 	87	query206_Wind_farm\S\87
+"the East Coast"	"is"	"Great Lakes"	87	query206_Wind_farm\P\87-0
+"the East Pacific coast"	"is"	"Great Lakes"	87	query206_Wind_farm\P\87-1
+List of wind farms in Australia List of wind farms in Canada thumb450pxcentreImage of Pubnico Wind Farm taken from Beach Point_Lower East Pubnico_ Nova Scotia thumbWind farm inXinjiang _ China Wind power in China At the end of 2009 , wind power in China accounted for 25.1&nbsp; 	88	query206_Wind_farm\S\88
+"Pubnico Wind Farm"	"be taken"	"from Beach Point_Lower East Pubnico _ Nova Scotia thumbWind farm inXinjiang _ China Wind power in China At the end of 2009"	88	query206_Wind_farm\P\88-0
+"Beach Point_Lower East Pubnico"	"_"	"Nova Scotia thumbWind farm inXinjiang _ China Wind power in China At the end of 2009"	88	query206_Wind_farm\P\88-1
+"Beach Point_Lower East Pubnico"	"_"	"Nova Scotia thumbWind farm inXinjiang _ China Wind power in China"	88	query206_Wind_farm\P\88-2
+"wind power in China"	"accounted"	"for 25.1"	88	query206_Wind_farm\P\88-3
+gigawatt ( GW ) of electricity generating capacity , Lars Kroldrup . 	89	query206_Wind_farm\S\89
+"gigawatt of electricity generating capacity"	"is"	"GW"	89	query206_Wind_farm\P\89-0
+"gigawatt of electricity generating capacity"	"is"	"Lars Kroldrup"	89	query206_Wind_farm\P\89-1
+"gigawatt of electricity generating capacity"	"is"	"Lars Kroldrup"	89	query206_Wind_farm\P\89-2
+Green Inc. 	90	query206_Wind_farm\S\90
+, February 15 , 2010 . 	91	query206_Wind_farm\S\91
+, February 15 , 2010 . 	91	query206_Wind_farm\S\91
+and China has identified wind power as a key growth component of the country 's economy . 	92	query206_Wind_farm\S\92
+and China has identified wind power as a key growth component of the country 's economy . 	92	query206_Wind_farm\S\92
+and China has identified wind power as a key growth component of the country 's economy . 	92	query206_Wind_farm\S\92
+and China has identified wind power as a key growth component of the country 's economy . 	92	query206_Wind_farm\S\92
+and China has identified wind power as a key growth component of the country 's economy . 	92	query206_Wind_farm\S\92
+"the country"	"has"	"economy"	92	query206_Wind_farm\P\92-0
+http ://www.guardian.co.uk/environment/2009/feb/03/wind-power-eu 	93	query206_Wind_farm\S\93
+Wind power becomes Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 http ://www.guardian.co.uk/environment/2009/feb/03/wind-power-eu 	94	query206_Wind_farm\S\94
+"Wind power"	"becomes"	"Europe 's fastest growing energy"	94	query206_Wind_farm\P\94-0
+Wind power becomes Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land mass and long coastline , China has exceptional wind resources . 	95	query206_Wind_farm\S\95
+"Wind power"	"becomes"	"Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land mass"	95	query206_Wind_farm\P\95-0
+"Wind power"	"becomes"	"Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land long coastline"	95	query206_Wind_farm\P\95-1
+"Wind power"	"becomes"	"Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land long coastline"	95	query206_Wind_farm\P\95-2
+"Wind power"	"becomes"	"Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land long coastline"	95	query206_Wind_farm\P\95-3
+"Wind power"	"becomes"	"Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land long coastline"	95	query206_Wind_farm\P\95-4
+"Wind power"	"becomes"	"Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land long coastline"	95	query206_Wind_farm\P\95-5
+"Wind power"	"becomes"	"Europe 's fastest growing energy source Guardian 2010-01-31 London David Gow 2009-02-03 With its large land long coastline"	95	query206_Wind_farm\P\95-6
+pp . 	96	query206_Wind_farm\S\96
+18-19 . 	97	query206_Wind_farm\S\97
+Researchers from Harvard and Tsinghua University have found that China could meet all of their electricity demands from wind power through 2030 . 	98	query206_Wind_farm\S\98
+"Researchers from Harvard University"	"have found"	"that China could meet all of their electricity demands from wind power through 2030"	98	query206_Wind_farm\P\98-0
+"Researchers from Tsinghua University"	"have found"	"that China could meet all of their electricity demands from wind power through 2030"	98	query206_Wind_farm\P\98-1
+"Researchers from Tsinghua University"	"have found"	"that China could meet all of their electricity demands from wind power through 2030"	98	query206_Wind_farm\P\98-2
+"Researchers from Tsinghua University"	"have found"	"that China could meet all of their electricity demands from wind power through 2030"	98	query206_Wind_farm\P\98-3
+"Researchers from Tsinghua University"	"have found"	"that China could meet all of their electricity demands from wind power through 2030"	98	query206_Wind_farm\P\98-4
+http ://ecogeek .org/wind-power/2948-china-could-replace-coal-with-wind 	99	query206_Wind_farm\S\99
+China Could Replace Coal with Wind Ecogeek .org 	100	query206_Wind_farm\S\100
+2010-01-31 http ://ecogeek .org/wind-power/2948-china-could-replace-coal-with-wind 	101	query206_Wind_farm\S\101
+China Could Replace Coal with Wind Ecogeek .org 	102	query206_Wind_farm\S\102
+2010-01-31 By the end of 2008 , at least 15 Chinese companies were commercially producing wind turbines and several dozen more were producing components . 	103	query206_Wind_farm\S\103
+"2010-01-31 By the end of 2008"	"is"	"at least 15 Chinese companies"	103	query206_Wind_farm\P\103-0
+"2010-01-31 By the end of 2008"	"were producing"	"wind turbines were producing components more commercially"	103	query206_Wind_farm\P\103-1
+"2010-01-31 By the end of 2008"	"were producing"	"wind turbines were producing components commercially"	103	query206_Wind_farm\P\103-2
+"2010-01-31 By the end of 2008"	"were producing"	"wind several dozen were producing components more commercially"	103	query206_Wind_farm\P\103-3
+"2010-01-31 By the end of 2008"	"were producing"	"wind several dozen were producing components commercially"	103	query206_Wind_farm\P\103-4
+"2010-01-31 By the end of 2008"	"were producing"	"wind turbines were producing components more"	103	query206_Wind_farm\P\103-5
+"2010-01-31 By the end of 2008"	"were producing"	"wind turbines were producing components"	103	query206_Wind_farm\P\103-6
+"2010-01-31 By the end of 2008"	"were producing"	"wind several dozen were producing components more"	103	query206_Wind_farm\P\103-7
+"2010-01-31 By the end of 2008"	"were producing"	"wind several dozen were producing components"	103	query206_Wind_farm\P\103-8
+http ://eprints .ucl 	104	query206_Wind_farm\S\104
+.ac.uk/16051/1/16051.pdf 	105	query206_Wind_farm\S\105
+Caprotti Federico ( 2009 ) China 's Cleantech Landscape : The Renewable Energy Technology Paradox ' &# 39;Sustainable Development Law &amp; Policy ' &# 39 ; Spring 2009 : 6–10 PDF 2010-01-31 http ://eprints .ucl 	106	query206_Wind_farm\S\106
+.ac.uk/16051/1/16051.pdf 	107	query206_Wind_farm\S\107
+Caprotti Federico ( 2009 ) China 's Cleantech Landscape : The Renewable Energy Technology Paradox ' &# 39;Sustainable Development Law &amp; Policy ' &# 39 ; Spring 2009 : 6–10 PDF 2010-01-31 Turbine sizes of 1.5&nbsp;MW 	108	query206_Wind_farm\S\108
+"Caprotti Federico China 's Cleantech Landscape The Renewable Energy Technology Paradox ' & # 39 Spring 2009 6 10 PDF 2010-01-31 Turbine sizes of 1.5 MW"	"is"	"2009"	108	query206_Wind_farm\P\108-0
+"Caprotti Federico China 's Cleantech Landscape The Renewable Energy Technology ' Sustainable Development Law & Policy ' & # 39 Spring 2009 6 10 PDF 2010-01-31 Turbine sizes of 1.5 MW"	"is"	"2009"	108	query206_Wind_farm\P\108-1
+"Caprotti Federico China 's Cleantech Landscape The Renewable Energy Technology ' Sustainable Development Law & Policy ' & # 39 Spring 2009 6 10 PDF 2010-01-31 Turbine sizes of 1.5 MW"	"is"	"2009"	108	query206_Wind_farm\P\108-2
+to 3&nbsp;MW became common . 	109	query206_Wind_farm\S\109
+"to 3 MW"	"became"	"common"	109	query206_Wind_farm\P\109-0
+Leading wind power companies in China were Goldwind , Dongfang Electric , and Sinovel along with most major foreign wind turbine manufacturers . 	110	query206_Wind_farm\S\110
+"Leading wind power companies in China"	"were"	"Goldwind"	110	query206_Wind_farm\P\110-0
+"Leading wind power companies in China"	"were"	"Dongfang Electric"	110	query206_Wind_farm\P\110-1
+"Leading wind power companies in China"	"were"	"Sinovel along with most major foreign wind turbine manufacturers"	110	query206_Wind_farm\P\110-2
+Adrian Lema and K. 	111	query206_Wind_farm\S\111
+Ruby , “Towards a policy model for climate change mitigation : China 's experience with wind power development and lessons for developing countries” , Energy for Sustainable Development , Vol . 	112	query206_Wind_farm\S\112
+"Ruby"	"is"	"Towards a policy model for climate change mitigation China 's experience with wind power development for developing countries Energy for Sustainable Development Vol"	112	query206_Wind_farm\P\112-0
+"Ruby"	"is"	"Towards a policy model for climate change mitigation China 's experience with wind power lessons for developing countries Energy for Sustainable Development Vol"	112	query206_Wind_farm\P\112-1
+"Ruby"	"is"	"Towards a policy model for climate change mitigation China 's experience with wind power lessons for developing countries Energy for Sustainable Development Vol"	112	query206_Wind_farm\P\112-2
+"Ruby"	"is"	"Towards a policy model for climate change mitigation China 's experience with wind power lessons for developing countries Energy for Sustainable Development Vol"	112	query206_Wind_farm\P\112-3
+10 , Issue 4 . 	113	query206_Wind_farm\S\113
+China also increased production of small-scale wind turbines to about 80,000 turbines ( 80&nbsp;MW) in 2008 . 	114	query206_Wind_farm\S\114
+"China"	"increased"	"production of small-scale wind turbines also"	114	query206_Wind_farm\P\114-0
+"China"	"increased"	"production of small-scale wind turbines to about 80,000 turbines"	114	query206_Wind_farm\P\114-1
+"China"	"increased"	"production of small-scale wind turbines in 2008"	114	query206_Wind_farm\P\114-2
+"China"	"increased"	"production of small-scale wind turbines"	114	query206_Wind_farm\P\114-3
+"about 80,000 turbines"	"is"	"80 MW"	114	query206_Wind_farm\P\114-4
+Through all these developments , the Chinese wind industry appeared unaffected by the global financial crisis , according to industry observers . 	115	query206_Wind_farm\S\115
+"the Chinese wind industry"	"appeared"	"unaffected by the global financial crisis 115 Through all these developments according to industry observers"	115	query206_Wind_farm\P\115-0
+REN21 ( 2009 ) . 	116	query206_Wind_farm\S\116
+"REN21"	"is"	"2009"	116	query206_Wind_farm\P\116-0
+p.&nbsp;16 	117	query206_Wind_farm\S\117
+. 	118	query206_Wind_farm\S\118
+In 2009 , China became the third largest wind energy provider worldwide ( behind USA and Germany ) , with the installed wind power capacity reaching 20 GW at the end of 2009 . 	119	query206_Wind_farm\S\119
+In 2009 , China became the third largest wind energy provider worldwide ( behind USA and Germany ) , with the installed wind power capacity reaching 20 GW at the end of 2009 . 	119	query206_Wind_farm\S\119
+In 2009 , China became the third largest wind energy provider worldwide ( behind USA and Germany ) , with the installed wind power capacity reaching 20 GW at the end of 2009 . 	119	query206_Wind_farm\S\119
+In 2009 , China became the third largest wind energy provider worldwide ( behind USA and Germany ) , with the installed wind power capacity reaching 20 GW at the end of 2009 . 	119	query206_Wind_farm\S\119
+In 2009 , China became the third largest wind energy provider worldwide ( behind USA and Germany ) , with the installed wind power capacity reaching 20 GW at the end of 2009 . 	119	query206_Wind_farm\S\119
+"the installed wind power capacity"	"be reaching"	"20 GW at the end of 2009"	119	query206_Wind_farm\P\119-0
+According to the Global Wind Energy Council , the development of wind energy in China , in terms of scale and rhythm , is absolutely unparalleled in the world . 	120	query206_Wind_farm\S\120
+"the development of wind energy in China in terms of scale"	"is 120 According to the Global Wind Energy Council unparalleled"	"absolutely"	120	query206_Wind_farm\P\120-0
+"the development of wind energy in China in terms of rhythm"	"is 120 According to the Global Wind Energy Council unparalleled"	"absolutely"	120	query206_Wind_farm\P\120-1
+"the development of wind energy in China in terms of scale"	"is 120 According to the Global Wind Energy Council unparalleled"	"in the world"	120	query206_Wind_farm\P\120-2
+"the development of wind energy in China in terms of rhythm"	"is 120 According to the Global Wind Energy Council unparalleled"	"in the world"	120	query206_Wind_farm\P\120-3
+"the development of wind energy in China in terms of scale"	"is"	"120 According to the Global Wind Energy Council unparalleled"	120	query206_Wind_farm\P\120-4
+"the development of wind energy in China in terms of rhythm"	"is"	"120 According to the Global Wind Energy Council unparalleled"	120	query206_Wind_farm\P\120-5
+The National People 's Congress permanent committee passed a law that requires the Chinese energy companies to purchase all the electricity produced by the renewable energy sector . 	121	query206_Wind_farm\S\121
+"The National People"	"has"	"121 Congress permanent committee"	121	query206_Wind_farm\P\121-0
+"The National People 's Congress permanent committee"	"passed"	"a law"	121	query206_Wind_farm\P\121-1
+"a law"	"requires"	"the Chinese energy companies to purchase all the electricity produced by the renewable energy sector"	121	query206_Wind_farm\P\121-2
+"all the electricity"	"be produced"	"by the renewable energy sector"	121	query206_Wind_farm\P\121-3
+http ://www.instalbiz.com/news/3-full-news-cn-china-ranks-third-in-worldwide-wind-energy_129.html 	122	query206_Wind_farm\S\122
+CN : China ranks third in worldwide wind energy - Alternative energy news Instalbiz.com 	123	query206_Wind_farm\S\123
+CN : China ranks third in worldwide wind energy - Alternative energy news Instalbiz.com 	123	query206_Wind_farm\S\123
+CN : China ranks third in worldwide wind energy - Alternative energy news Instalbiz.com 	123	query206_Wind_farm\S\123
+2010-01-04 2010-01-31 http ://www.instalbiz.com/news/3-full-news-cn-china-ranks-third-in-worldwide-wind-energy_129.html 	124	query206_Wind_farm\S\124
+CN : China ranks third in worldwide wind energy - Alternative energy news Instalbiz.com 	125	query206_Wind_farm\S\125
+CN : China ranks third in worldwide wind energy - Alternative energy news Instalbiz.com 	125	query206_Wind_farm\S\125
+CN : China ranks third in worldwide wind energy - Alternative energy news Instalbiz.com 	125	query206_Wind_farm\S\125
+2010-01-04 2010-01-31 section December 2010 thumbA wind farm in a mountainous area inGalicia ( Spain) Galicia_Spain thumbWind farm inLower Saxony_Germany Wind power in the European Union The European Union has a total installed wind capacity of 74,767MW. 	126	query206_Wind_farm\S\126
+"a mountainous area inGalicia Galicia_Spain thumbWind farm inLower Saxony_Germany Wind power in the European Union The European Union has a total installed wind capacity of 74,767 MW"	"is"	"Spain"	126	query206_Wind_farm\P\126-0
+Germany has the second largest number of wind farms in the world after the United States . 	127	query206_Wind_farm\S\127
+"Germany"	"has"	"the second largest number of wind farms in the world after the United States"	127	query206_Wind_farm\P\127-0
+"Germany"	"has"	"the second largest number of wind farms in the world"	127	query206_Wind_farm\P\127-1
+Its installed capacity was 25,777 MW at the End of 2009 . 	128	query206_Wind_farm\S\128
+Its installed capacity was 25,777 MW at the End of 2009 . 	128	query206_Wind_farm\S\128
+"Its installed capacity"	"was 25,777 MW"	"at the End of 2009"	128	query206_Wind_farm\P\128-0
+"Its installed capacity"	"was"	"25,777 MW"	128	query206_Wind_farm\P\128-1
+The fourth country in capacity was Spain with 19,149 MW. 	129	query206_Wind_farm\S\129
+"The fourth country in capacity"	"was Spain"	"with 19,149 MW"	129	query206_Wind_farm\P\129-0
+"The fourth country in capacity"	"was"	"Spain"	129	query206_Wind_farm\P\129-1
+Italy was in the sixth position , with 4,850 MW. 	130	query206_Wind_farm\S\130
+"Italy"	"was"	"in the sixth position"	130	query206_Wind_farm\P\130-0

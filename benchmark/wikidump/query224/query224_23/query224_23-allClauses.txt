@@ -1,0 +1,173 @@
+0	SVC (C: food@17, V: is@13, S: Soup@12, A?: yes@1)	SVA (V: made@20, S: food@17, A!: by@21)
+1	
+2	SVA (V: classified@4, S: soups@2, A!: into@5)
+3	SVC (C: bouillon@9, V: are@8, S: classifications@4)
+4	SVO (V: classified@4, S: soups@2, XCOMP: depending@5)	SVA (V: "be used", S: agent@11)	SVA (V: "be thickened", S: soups@17, A!: with@19)	SVC (C: soups@17, V: are@15, S: purée@14, A?: thickened@18)	SVA (V: made@24, S: bisque@22, A!: from@25)	SVA (V: "be thickened", S: vegetables@29, A!: thickened@38)	SVA (V: thickened@38, S: cream@32, A!: with@39)	SVA (V: thickened@46, S: veloutés@44, A!: with@47)
+5	SVA (V: "be used", S: ingredients@2, A!: commonly@3, XCOMP: thicken@6)	SVO (V: include@10, S: ingredients@2, O: rice@11)
+6	SVC (C: similar@3, V: are@2, S: Soups@1, A?: to@4)	SVC (C: distinction@17, V: are@2, S: Soups@1, A?: to@4, A?: in@8, A?: there@11, A?: between@18)	SVO (V: have@26, S: soups@24, A?: however@22, A?: generally@25, O: liquid@28)
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	SVA (S: Wayne@13, V: "is in", C: Indiana@15)	SVC (V: became@21, S: Difference@3, ACOMP: popular@22, A?: with@23)	SVC (V: today@34, S: Difference@3, ACOMP: popular@22, A?: with@23, A?: variety@37)	SVA (V: "be are", S: variety@37, A!: on@44)
+16	
+17	
+18	SVC (S: Dorrance@1, V: "is", C: chemist@4)	SVO (V: invented@11, S: Dorrance@1, O: soup@13, A?: in@14)
+19	SVO (S: Campbell@3, V: "has", O: Tomato@5)	SVC (S: Tomato@5, V: "is", C: Cream@7)	SVC (C: three@16, V: are@15, S: Tomato@5, A?: Today@1, A?: of@17)
+20	SVO (V: consume@2, S: Americans@1, O: 2.5@4)
+21	SVA (V: bowls@2, S: billion@1, A!: of@3, A?: year@9)
+22	SVC (C: popular@16, V: are@14, S: soups@5, A?: also@15)	SVC (C: sold@20, V: are@14, S: soups@5, A?: also@15, A?: by@21)
+23	SVC (C: condensed@5, V: be@4, S: soup@2, XCOMP: meaning@30)	SVA (V: prepared@12, S: it@10, A?: in@7, A!: by@13)	SVC (S: water@15, V: "is", C: milk@19)	SVC (C: ready-to-eat@27, V: be@25, S: it@23)	SVA (V: needed@36, S: liquid@34, A!: before@37)
+24	SVO (V: added@7, S: condensed@4, O: soup@2)	SVA (V: prepared@16, S: soup@2, A!: by@17, A?: on@23)
+25	SVA (V: used@5, S: soups@2, A!: as@6, A?: with@13)	SVO (V: adding@16, S: consumer@15, O: anything@17, A?: from@18, A?: to@22)
+26	SVOC (V: allows@3, S: soup@2, O: soup@4, XCOMP: packaged@7)
+27	SVA (V: doubled@5, S: soup@2, A?: usually@4, A!: in@6, A?: by@8)
+28	SVA (V: burgeoned@10, S: market@8, A?: Since@1, A!: with@11)	SVA (V: "be marketed", S: soups@12, A!: as@14)	SVOC (V: require@20, S: which@19, CCOMP: burgeoned@10, O: liquid@23, A?: prepare@25)	SVA (V: "be prepare", S: which@19)
+29	SVOC (V: expanded@4, S: bowls@2, O: market@9, A?: more@11, XCOMP: offering@13)	SVOC (C: items@24, V: are@21, S: bowls@2, O: market@9, A?: more@11, XCOMP: offering@13)
+30	SVO (V: mixes@3, S: soup@2, XCOMP: containing@4)
+31	
+32	SVO (V: served@12, S: List@3, O: warm@13, A?: on@17)
+33	SVA (V: are@3, S: recipes@2, A!: served@7)	SVA (V: served@7, S: soups@6, A!: is@10)	SVA (V: is@10, S: fruit@9, A?: when@8, A!: in@11, A?: during@13)
+34	SVC (V: served@9, S: Some@1, A?: like@3, ACOMP: warm@10)	SVC (V: made@26, S: Some@1, A?: like@3, ACOMP: warm@10, A-: so@23, A?: in@27)	SVC (V: rely@12, S: Some@1, A?: like@3, ACOMP: warm@10, A?: on@13)
+35	SVO (V: include@4, S: soups@2, O: milk@5)
+36	SVA (V: made@4, S: soup@2, A!: with@5)
+37	SVC (S: Starch@1, V: "is", C: starch@5)	SVOC (V: used@8, S: Starch@1, XCOMP: thicken@10, XCOMP: make@15)
+38	SVC (C: common@7, V: are@6, S: Cold@1, A?: in@8, A?: appear@23)	SVA (V: appear@23, S: soups@20, A!: in@24)
+39	SVO (V: include@4, S: soups@3, O: krentjebrij@5)
+40	SVC (C: uncommon@4, V: are@3, S: soups@2, A?: in@7)
+41	SVA (V: seen@5, S: They@1, A?: also@3, A!: in@6)
+42	SVC (C: variation@6, V: are@3, S: soups@2, A?: on@7)	SVOA (V: kept@18, S: temperature@14, A?: wherein@12, A!: at@19, O: variation@6)
+43	SVC (C: sweet@4, V: be@3, S: They@1)
+44	SVO (V: form@8, S: soups@6, A?: In@1, O: part@9)
+45	SVC (C: gazpacho@9, V: is@8, S: example@2)	SVC (S: gazpacho@9, V: "is", C: soup@14)	SVA (V: "be originating", S: soup@14, A!: from@16)
+46	
+47	SVO (V: sold@5, S: soup@4, O: Singapore@9)
+48	SVA (V: "be found", S: soups@6, A!: normally@8, A?: in@10)	SVC (C: use@15, V: is@13, S: feature@2, A?: of@16, A?: in@18)
+49	SVC (C: broths@8, V: are@6, S: soups@5, A?: typically@7)
+50	SVC (S: soupGarnish@10, V: "is", C: food@12)
+51	SVC (S: thumbright250pxMirepoix@1, V: "is", C: cuisine@3)
+52	SVO (V: developed@12, S: soup@9, A?: In@1, O: uses@14)
+53	SVC (C: bg@24, V: be@21, S: Һурпа@20)	SV (V: is@93, S: Supo@92)	SVC (S: Soep@135, V: "is", C: voedsel@137)	SVC (S: ்@195, V: "is", C: உணவு@197)	SVC (S: ు@205, V: "is", C: సూప్@207)	SVC (S: bat-smg@221, V: "is", C: manufacturers@244)	SVO (V: introduced@246, S: bat-smg@221, O: versions@248)
+54	SVOO (V: led@10, S: Concern@4, O: manufacturers@13, XCOMP: eliminate@15, IO: fat@2)	SVO (S: their@19, V: "has", O: soups@20)
+55	SVC (S: November@1, V: "is", C: soup@6)	SVA (V: "be made", S: soup@6, A!: from@8)	SVO (V: served@19, S: November@1, CCOMP: soup@74)	SVC (S: Oshiruko@23, V: "is", C: term@35)	SVC (S: Oshiruko@23, V: "is", C: sui@31)	SVC (S: Sawine@40, V: "is", C: soup@43)	SVA (V: "be made", S: soup@43, A!: with@45)	SVO (V: served@58, S: Sawine@40, A?: during@59, O: soups@39)	SVC (C: soup@74, V: is@71, S: Oshiruko@23, A?: from@75)
+56	SVC (C: soup@6, V: is@2, S: Avgolemono@1, A?: with@7)
+57	SVC (S: Bajajou@1, V: "is", C: soup@4)	SVA (V: made@10, S: Bajajou@1, A!: with@11)
+58	SVO (S: Bird@1, V: "has", O: soup@4)	SVC (C: delicacy@7, V: is@5, S: soup@4, A?: in@8)
+59	SVC (C: soup@9, V: is@2, S: Bisque@1, A?: of@12, A?: of@16)
+60	SVC (C: soup@7, V: is@2, S: Borscht@1, A?: originally@8, A?: from@9)
+61	SVC (S: Bouillabaisse@1, V: "is", C: soup@5)	SVA (V: made@11, S: Bouillabaisse@1, A?: also@10, A!: in@12)	SVO (V: called@21, S: it@19, A?: in@17, XCOMP: bullebesa@22)
+62	SVC (C: soup@7, V: is@2, S: Bourou-bourou@1, A?: from@8)	SVA (S: Corfu@12, V: "is in", C: Greece@14)
+63	SVC (C: Callaloo@9, V: is@3, S: verde@2)	SVA (V: "be made", S: soup@15, A!: with@17)	SVC (C: soup@15, V: is@10, S: Callaloo@9, A?: made@16)	SVC (S: meat@24, V: "is", C: soup@33)	SVA (V: made@35, S: meat@24, A?: often@21, A!: with@36)	SVA (V: in@45, S: meat@24, A?: often@21, A?: with@36, A!: cases@47)	SVO (V: is@49, S: pineapple@48, A?: from@50, O: cases@47)
+64	SVC (C: soup@7, V: is@4, S: galinha@3, A?: of@8)
+65	SVC (C: soup@5, V: is@2, S: Cazuela@1, A?: of@6)	SVA (V: "be obtained", S: stock@10, A!: from@12)	SVA (V: "be mixed", S: meats@17, A!: together@21)
+66	SVA (V: found@4, S: chowder@2, A!: in@5)	SVC (S: types@8, V: "is", C: chowder@13)	SVA (V: "be made", S: types@8, A!: with@16)	SVA (V: "be made", S: chowder@24, A!: with@27)
+67	SVC (C: leek@4, V: is@3, S: soup@2, A?: from@13)	SVA (V: "be made", S: soup@7, A!: with@9)
+68	SVC (C: soup@11, V: is@8, S: Skink@2, A?: made@12)	SVA (V: "be made", S: soup@11, A!: with@13)
+69	SVC (S: soup@3, V: "is", C: soup@8)	SVA (V: made@11, S: soup@3, A!: by@12)
+70	SVC (S: soup@2, V: "is", C: soup@6)	SVA (V: made@11, S: soup@2, A!: with@12)
+71	SVA (V: eaten@4, S: It@1, A?: often@3, A!: with@5)
+72	SVC (S: Etrog@1, V: "is", C: soup@5)	SVA (V: "be made", S: soup@5, A!: from@7)	SVA (V: "be used", S: citron@9, A!: in@11, A?: at@14)	SVA (V: eaten@21, S: Etrog@1, A!: by@22, A?: at@25)
+73	SVC (C: soup@7, V: is@3, S: soupa@2, A?: with@9)
+74	SVC (C: soup@6, V: is@2, S: Fanesca@1, A?: from@7)
+75	SVC (C: soup@7, V: is@2, S: Fasolada@1)
+76	SVC (C: soup@7, V: is@4, S: soup@3, A?: made@8)	SVA (V: "be made", S: soup@7, A!: with@9)
+77	SVC (C: soup@11, V: is@8, S: Gazpacho@1, A?: based@12)	SVA (V: "be based", S: soup@11, A!: on@13)
+78	SVC (C: soup@5, V: is@2, S: Goulash@1, A?: of@6)
+79	SVC (S: Gumbo@1, V: "is", C: soup@6)	SVA (V: thickened@14, S: Gumbo@1, A!: with@15)
+80	SVC (S: Halászlé@1, V: "is", C: soup@16)	SVC (S: Halászlé@1, V: "is", C: soup@5)	SVO (S: fisherman@3, V: "has", O: soup@5)	SVA (V: made@19, S: Halászlé@1, A!: with@20)
+81	SVC (C: soup@8, V: is@3, S: Kjötsúpa@2, A?: made@9)	SVA (V: "be made", S: soup@8, A!: with@10)
+82	SVC (C: soup@5, V: is@2, S: Kharcho@1, A?: of@6)
+83	SVC (S: Lagman@1, V: "is", C: tradition@4)	SVA (V: made@9, S: Lagman@1, A!: with@10)
+84	SVC (S: soup@7, V: "is", C: extract@16)	SVC (C: soup@7, V: is@4, S: Sikik@3, A?: made@8)	SVA (V: "be made", S: soup@7, A!: with@9)
+85	SVC (S: soup@2, V: "is", C: soup@6)	SVA (V: "be made", S: soup@6, A!: from@8)	SVC (C: popular@12, V: is@11, S: soup@2, A?: in@13, A?: during@15)	SVO (S: David@17, V: "has", O: Day@19)
+86	SVC (C: popular@4, V: is@3, S: soup@2, A?: in@5)
+87	SVC (C: soup@6, V: is@3, S: London@1, A?: of@7, A?: from@17)	SVA (V: named@23, S: it@21, A?: purportedly@20, A!: after@24)
+88	SVO (V: made@3, S: Soup@2, A?: in@4, XCOMP: using@8)
+89	SVA (V: made@5, S: soup@3, A!: of@6, A?: from@22)
+90	SVC (S: Menudo@2, V: "is", C: soup@8)	SVA (V: is@10, S: Menudo@2, A!: with@11)	SVC (S: tripe@12, V: "is", C: beef@15)
+91	SVC (C: staple@7, V: been@5, S: soup@3, A?: for@8)
+92	
+93	
+94	
+95	SVC (S: Rockefeller@1, V: "is", C: U.S.@4)
+96	
+97	SVC (C: soup@6, V: is@2, S: Minestrone@1)
+98	SVA (V: made@4, S: soup@2, A!: from@5)
+99	SVC (C: soup@6, V: is@2, S: Mulligatawny@1)
+100	SVC (S: Nässelsoppa@1, V: "is", C: soup@4)	SVA (V: "be made", S: Nässelsoppa@1, A!: with@8)	SVO (V: considered@22, S: Nässelsoppa@1, XCOMP: delicacy@25)
+101	SVC (C: soup@6, V: is@2, S: Nkatenkwan@1, A?: from@7, A?: based@9)	SVA (V: "be based", S: soup@6, A!: on@10)	SVC (S: meat@13, V: "is", C: chicken@17)	SV (V: added@21, S: soup@6)
+102	SVA (V: eaten@4, S: It@1, A?: generally@3, A!: with@5)
+103	SVC (C: name@6, V: is@3, S: soup@2, A?: for@7)
+104	SVA (V: made@5, S: Patsás@2, A!: with@6)
+105	SVO (S: Peasants@1, V: "has", O: Soup@3)	SVC (C: term@7, V: is@4, S: Soup@3, A?: for@8)	SVA (V: "be made", S: soup@9, A!: by@11)
+106	SVO (S: peasants@3, V: "has", O: soup@5)	SVC (C: popular@7, V: are@6, S: Variations@1, A?: in@8)
+107	SVC (S: soup@4, V: "is", C: specialty@8)	SVA (V: made@12, S: soup@4, A?: traditionally@11, A!: with@13)
+108	
+109	
+110	SVA (V: TASTE@19, S: A@18, A!: OF@20)	SVO (V: Accept@27, S: They@26, A?: In@23, O: R.@30)
+111	
+112	
+113	
+114	SVA (V: TASTE@19, S: A@18, A!: OF@20)	SVO (V: Accept@27, S: They@26, A?: In@23, O: R.@30)
+115	
+116	SVA (V: "be cherred", S: soup@9, O: ginger@17)	SVC (C: soup@9, V: is@6, S: Jr@2, A?: with@10, A?: cherred@16)	SVC (S: scallion@11, V: "is", C: onion@14)	SVC (S: ginger@17, V: "is", C: coriander@20)	SVC (S: coriander@20, V: "is", C: foetidum@23)
+117	SVC (S: Psarosoupa@1, V: "is", C: soup@6)	SVA (V: made@9, S: Psarosoupa@1, A!: in@10, A?: with@13)
+118	SVC (C: soup@6, V: is@2, S: Revithia@1)
+119	SVC (C: soup@4, V: is@2, S: Sancocho@1, A?: with@5)
+120	SVA (V: made@4, S: broth@2, A!: from@5)
+121	SVC (S: Shchav@1, V: "is", C: soup@5)	SVC (C: sour@15, V: is@14, S: Shchav@1, A?: from@16)
+122	SVA (S: Charleston@5, V: "is in", C: Carolina@8)	SVC (C: soup@13, V: is@10, S: soup@2, A?: made@14)	SVA (V: "be made", S: soup@13, A!: with@15)
+123	SVC (C: soup@11, V: is@7, S: Sinigang@1, A?: made@12)	SVA (V: "be made", S: soup@11, A!: from@13)
+124	SVC (S: Snert@1, V: "is", C: erwtensoep@3)	SVC (S: Snert@1, V: "is", C: soup@9)	SVA (V: eaten@12, S: Snert@1, A!: in@13, A?: as@16)	SVA (V: served@24, S: Snert@1, A?: in@13, A?: as@16, A?: traditionally@23, A!: with@25)
+125	SVC (C: soup@5, V: is@2, S: Solyanka@1, A?: from@6)
+126	SVC (C: soup@10, V: is@5, S: Pedra@3, A?: with@11)
+127	SVC (C: soup@10, V: is@5, S: Peixe@3)
+128	SVC (S: Soto@1, V: "is", C: soup@6)	SVA (V: "be made", S: soup@6, A!: with@8)
+129	
+130	SVC (S: soup@3, V: "is", C: soup@7)	SVA (V: "be made", S: soup@7, A!: in@9, A?: from@12)	SVC (S: peas@14, V: "is", C: chickpeas@16)	SVO (V: includes@22, S: soup@3, A?: usually@21, O: staples@28)
+131	SVC (C: soup@6, V: is@2, S: Tarator@1, A?: made@7)	SVA (V: "be made", S: soup@6, A!: from@8)
+132	SVA (V: comes@3, S: soup@2, A!: in@4)
+133	SVC (C: name@5, V: is@3, S: yum@2, A?: for@6)
+134	SVA (V: made@8, S: soup@2, A!: with@9)
+135	SVC (C: variation@6, V: is@4, S: Trahanas@2, A?: of@7, A?: using@11)	SVA (V: "be using", S: variation@6, O: Vichyssoise@16)	SVC (S: Vichyssoise@16, V: "is", C: soup@22)	SVA (V: "be invented", S: soup@22, A!: by@24, A?: at@28)	SVC (C: purée@40, V: is@37, S: variation@6, A?: of@41)
+136	SVC (C: soup@6, V: is@2, S: Waterzooi@1)
+137	SVC (S: Yukgaejang@2, V: "is", C: soup@8)	SVO (V: includes@11, S: Yukgaejang@2, A?: also@10, O: vegetables@12)
+138	SVC (S: Żurek@1, V: "is", C: soup@7)	SVA (V: served@13, S: Żurek@1, A?: often@12, A!: in@14)	SVA (V: "be made", S: bowl@16, A!: of@18)
+139	SVC (S: soup@2, V: "is", C: term@5)	SVA (V: "be used", S: term@5, A!: often@6, XCOMP: describe@9)	SVA (V: "be used", S: acronyms@14, A!: by@16)	SVO (V: has@20, S: soup@2, O: roots@22)	SVO (S: its@21, V: "has", O: roots@22)	SVA (V: "be containing", S: soup@27, O: pasta@29)	SVA (V: "be shaped", S: pasta@29, A!: in@31)
+140	SVC (C: term@5, V: is@3, S: soup@2, A?: used@6)	SVA (V: "be used", S: term@5, XCOMP: describe@8)	SVA (V: "be leading", S: mixture@11, A!: to@13)
+141	SVC (C: place@6, V: is@4, S: kitchen@3)	SVO (V: serves@8, S: place@6, O: food@10)
+142	SVO (V: describes@3, S: soup@2, O: fog@8)
+143	SVC (C: term@10, V: is@5, S: legs@3, A?: used@11, A?: describe@15)	SVA (V: "be used", S: term@10, A!: by@12)	SVA (V: "be describe", S: term@10, O: fatigue@16)
+144	SVC (C: fable@10, V: is@5, S: soup@3)	SVO (S: children@8, V: "has", O: fable@10)
+145	SVC (C: term@5, V: is@3, S: soup@2, A?: describe@7)	SVA (V: "be describe", S: term@5, O: task@9)	SVC (C: easy@13, V: is@11, S: task@9, A?: particularly@12)
+146	SVA (V: refers@3, S: soup@2, A!: to@4)	SVC (C: incomprehensible@12, V: is@10, S: words@8, A?: ostensibly@11)
+147	SVA (V: refers@4, S: soup@2, A?: further@3, A!: to@5)
+148	
+149	
+150	SVC (C: French@6, V: is@5, S: jour@4, A?: for@7)
+151	
+152	SVC (C: idiom@10, V: is@6, S: Soup@2, A?: conveying@11)	SVA (V: "be conveying", S: idiom@10, O: meaning@13)
+153	
+154	
+155	SVA (V: "be used", S: phrase@5, XCOMP: say@8)
+156	SVC (C: U.S.@7, V: is@4, S: Sandwich@3)
+157	SVA (V: "be used", S: term@3, A!: typically@5, XCOMP: admonish@8)
+158	SVA (V: comes@3, S: term@2, A!: from@4)	SVA (V: made@10, S: sandwich@9, A!: out@11)	SVC (C: mess@18, V: be@15, S: comes@3)
+159	SVA (V: "be improve", S: something@3, O: it@8)	SVO (S: its@12, V: "has", O: power@13)
+160	SVC (C: character@7, V: is@4, S: Nazi@3, A?: from@8)	SVO (V: makes@11, S: Seinfeld@9, O: soup@13)	SVO (V: has@15, S: Seinfeld@9, O: soup@13, ACOMP: strict@17)
+161	
+162	SVOO (V: vomits@11, S: MacNeil@10, O: soup@13, A?: possessed@15, IO: Exorcist@7)
+163	
+164	SVC (C: title@5, V: is@3, S: Soup@2, A?: of@6, A?: by@10)
+165	
+166	SVC (S: Fernandez-Armesto@4, V: "is", C: Felipe@6)
+167	SVC (S: Food@9, V: "is", C: 2002@11)
+168	SVC (S: Gastronomique@9, V: "is", C: Lang@13)	SV (V: ed@15, S: Gastronomique@9)
+169	SVC (S: Edition@2, V: "is", C: 1988@4)
+170	SVC (S: Morton@8, V: "is", C: Mark@10)
+171	SVC (S: Curiosities@8, V: "is", C: 2004@10)
+172	

@@ -1,0 +1,187 @@
+0	SVA (V: consists@20, S: power@17, A!: of@21)
+1	SVO (V: produces@2, S: Texas@1, O: power@6)
+2	SVA (V: "be followed", S: state@1, A!: by@4, A?: with@6)
+3	SVA (V: assisted@7, S: boom@3, A!: by@8)	SVC (S: Standard@16, V: "is", C: use@18)	SVO (S: state@12, V: "has", O: Standard@16)
+4	
+5	
+6	
+7	
+8	SVC (S: Farm@16, V: "is", C: MW@19)	SVC (C: farm@27, V: is@21, S: Perry@1)	SVO (S: world@23, V: "has", O: farm@27)
+9	SV (V: include@7, S: farms@4)
+10	
+11	SVO (V: has@3, S: power@2, O: history@6)
+12	SVO (V: began@5, S: University@4, O: research@8, A?: in@9)	SVOA (V: led@12, S: University@4, O: research@8, A?: in@9, A!: to@13)	SVC (S: Institute@20, V: "is", C: AEI@22)
+13	SVC (C: resource@7, V: been@3, S: AEI@1, A?: about@8)
+14	
+15	
+16	
+17	
+18	SVO (V: help@10, S: market@8, CCOMP: meet@12)	SVO (V: meet@12, S: Texas@11, O: goal@17, A?: from@24)	SVO (S: its@13, V: "has", O: goal@17)
+19	SVC (S: Access@3, V: "is", C: May@6)
+20	
+21	SVC (C: smaller@5, V: are@4, S: farms@2, A?: than@6)	SV (V: shown@13, S: farms@2)
+22	SVO (V: _@11, S: Mott@10, O: sight@15)	SVOO (V: driving@21, S: forces@19, O: growth@23, IO: sight@15)	SVC (C: large@41, V: is@39, S: resource@32, A?: very@40)	SVC (C: easy@47, V: are@45, S: projects@44, A?: relatively@46, A?: to@48)	SVA (V: set@58, S: price@54, A!: by@59)	SVC (C: high@67, V: is@65, S: price@54, A?: by@59, A-: so@64, A?: relatively@66)
+23	SVC (S: Access@3, V: "is", C: June@6)
+24	SVC (C: considerable@13, V: is@12, S: scope@3)
+25	EXISTENTIAL (V: are@3, S: turbines@7, A?: Currently@1)
+26	SVA (V: added@7, S: Most@1, A!: in@8)
+27	SVC (C: facility@12, V: is@7, S: Center@6, A?: in@13, A?: with@16)
+28	SVA (V: spread@3, S: It@1, A!: across@4, A?: in@11)
+29	
+30	SVC (C: resource@6, V: is@2, S: Wind@1)
+31	SVO (V: incorporated@7, S: it@4, A?: into@8, O: understanding@3)	SVO (S: utility@11, V: "has", O: mix@14)
+32	SVA (V: "be meet", S: capacity@6, O: demand@11, A!: in@12)	SVC (S: Council@18, V: "is", C: ERCOT@22)	SVO (V: manages@26, S: Council@18, O: grid@30)	SVO (V: counts@32, S: Council@18, A?: providing@2, O: wind@33, A?: at@34)
+33	
+34	
+35	SVC (S: Supplies@5, V: "is", C: http@21)	SVC (S: Council@14, V: "is", C: ERCOT@18)
+36	SVC (S: Supplies@5, V: "is", C: areas@22)	SVO (V: have@25, S: Supplies@5, O: conditions@27)	SVA (V: "be allowing", S: conditions@27, A!: for@29)
+37	SVA (V: expand@8, S: number@2, A!: improves@13)	SV (V: improves@13, S: technology@12)	SVO (V: continue@17, S: costs@16, XCOMP: drop@19)
+38	
+39	
+40	
+41	
+42	
+43	
+44	SVOC (V: lease@8, S: farmers@6, O: land@10, XCOMP: wind@12)	SVO (S: their@9, V: "has", O: land@10)	SVA (V: "be set", S: a@16)
+45	
+46	
+47	SVC (S: Over@2, V: "is", C: Oil@4)	EXISTENTIAL (V: 's@7, S: Money@8)
+48	
+49	SVC (S: Over@2, V: "is", C: Oil@4)	EXISTENTIAL (V: 's@7, S: Money@8)	SVOO (V: offers@21, S: This@20, IO: farmers@22, O: stream@26, A?: without@27)
+50	SVA (V: vary@4, S: arrangements@3, A!: widely@5)
+51	
+52	SVO (V: reported@4, S: Office@3, A?: in@5, CCOMP: obtain@20)	SVO (V: leases@11, S: farmer@9, O: land@12, A?: to@13)	SVO (V: obtain@20, S: farmer@9, A?: generally@19, O: royalties@21)
+53	SVA (V: rising@4, S: figures@2, A!: produced@11)	SV (V: produced@11, S: turbines@8)	SV (V: installed@13, S: turbines@8)
+54	
+55	SVO (V: creating@7, S: industry@4, A?: also@6, O: thousands@8)	SVO (V: for@14, S: industry@4, A?: also@6, O: thousands@8, A?: state@16)
+56	
+57	
+58	SVO (V: help@31, S: Block@10, A?: In@1, XCOMP: offset@33)	SV (V: subsides@50, S: Gulf@47)
+59	SVC (C: threats@8, V: be@6, S: Terrorism@1, A?: to@9)	SVO (V: provide@19, S: plants@17, O: most@20)	SVO (S: Texas@22, V: "has", O: electricity@24)
+60	SV (V: damaged@7, S: one@2)	SVA (V: "be creating", S: repairs@9, A!: possibly@17, O: shortages@20, A?: on@21)	SVOA (V: take@11, S: repairs@9, A?: damaged@7, O: more@12, A!: creating@18)	SVO (V: experienced@28, S: Texans@25, O: scale@23, A?: before@29)
+61	SVC (C: vulnerable@8, V: are@6, S: trains@2, A?: also@7, A?: to@9)
+62	SV (V: installed@8, S: plants@5, A?: However@1, A?: quickly@7)	SV (V: repaired@10, S: plants@5, A?: However@1, A?: quickly@7)
+63	SVO (V: means@9, S: structure@3, A?: also@8, CCOMP: affected@26)	SV (V: damaged@15, S: turbine@13)	SV (V: affected@26, S: output@19, A?: damaged@15, A?: significantly@25)
+64	SVO (S: Citizen@5, V: "has", O: office@8)	SVC (S: office@8, V: "is", C: 2002@10)
+65	
+66	
+67	SVA (V: "be reach", S: failure@12, O: production@20)	SVO (V: caused@29, S: drop@2, O: problems@31)
+68	SVA (V: resulted@2, S: This@1, A!: in@3)	SV (V: cut@7, S: customers@5)	SVA (V: threat@11, S: customers@5, A!: of@12)
+69	SVC (S: Association@5, V: "is", C: AWEA@7)	SVO (V: said@10, S: Association@5, CCOMP: make@15)	SVO (V: make@15, S: advances@13, XCOMP: easier@17)	SVO (V: easier@17, S: it@16, A?: in@18, XCOMP: forecast@22)	SVO (V: help@30, S: it@28, XCOMP: locate@32)
+70	
+71	
+72	SVO (V: outstripped@9, S: boom@5, O: capacity@11)	SVOC (V: predicted@20, S: boom@5, O: capacity@11, CCOMP: dampen@26)	SVOC (V: dampen@26, S: shortages@21, O: growth@28, A?: in@32, XCOMP: come@35)
+73	SVO (V: said@3, S: It@1, CCOMP: piggybacked@14)	SVA (V: piggybacked@14, S: growth@9, A?: until@5, A!: on@16)	SVO (V: depleted@24, S: growth@9, A?: until@5, A?: on@16, A?: now@22, A?: almost@23, O: capacity@26)
+74	
+75	
+76	SVO (V: has@12, S: grid@10, A?: As@1, A?: in@5, A?: often@11, O: surplus@16)	SVO (V: falls@22, S: price@21, O: that@19, A?: below@23)
+77	
+78	
+79	
+80	SVA (V: "be Paying", S: Farms@3, O: People@5, A!: Take@7)	SVA (V: "be Take", S: Paying@4, O: Ucilia@10)
+81	SVA (V: "be Paying", S: Farms@3, O: People@5, XCOMP: Take@7)	SVC (S: Goggin@23, V: "is", C: analyst@27)	SVA (V: fell@33, S: Media@15, A!: below@34, A?: on@43, A?: during@48, A?: compared@55)	SVC (S: Wh@39, V: "is", C: megawatt-hour@41)
+82	
+83	SVC (S: Curtailment@1, V: "is", C: Prices@4)
+84	SVC (S: Curtailment@1, V: "is", C: Prices@4)	SVO (V: gave@24, S: Curtailment@1, O: approval@26, A?: to@27)	SVO (V: gave@24, S: officials@23, O: approval@26, A?: to@27)
+85	SVA (V: "be build", S: plan@1, O: lines@6, XCOMP: carry@8)
+86	SVC (C: investment@8, V: be@5, S: plan@3, A?: in@9, A?: in@12)
+87	
+88	
+89	SV (V: http@7, S: Capacity@2)
+90	
+91	
+92	SVA (V: =@38, S: justifyPeriod@37, A!: from@39, A?: till@41)
+93	SV (V: http@7, S: Capacity@2)
+94	
+95	
+96	SVC (S: 19@4, V: "is", C: January@5)
+97	SV (V: http@7, S: Capacity@2)
+98	
+99	
+100	SVA (V: =@32, S: justifyPeriod@31, A!: from@33, A?: till@35)	SV (V: height@170, S: text@164, A?: ImageSize@166)	SVA (V: =@188, S: justifyPeriod@187, A!: from@189, A?: till@191)	SVC (C: farm@222, V: is@216, S: Farm@211)	SVO (S: world@218, V: "has", O: farm@222)	SVC (C: enough@243, V: is@242, S: MW@239, A?: to@244)
+101	SVC (C: farm@11, V: is@7, S: Center@6, A?: with@12)
+102	
+103	SVA (V: consists@2, S: It@1, A!: of@3)
+104	
+105	SVA (V: "be spread", S: turbines@3, A!: over@5, A?: in@16)	SVC (S: acres@8, V: "is", C: ²@12)
+106	
+107	
+108	
+109	
+110	
+111	
+112	SVA (V: consisted@25, S: farm@9, A!: of@26)	SVA (V: consisted@37, S: phase@35, A!: of@38)
+113	SVA (V: completed@3, S: MW@1, A!: in@4)	SVA (V: completed@21, S: MW@1, A?: in@4, A!: in@22)	SVA (V: phase@13, S: MW@1, A?: in@4, A!: consisting@15)	SVA (V: "be consisting", S: phase@13, A!: of@16)
+114	SVO (S: its@5, V: "has", O: subsidiaries@6)	SVO (V: operates@9, S: Energy@2, A?: currently@8, O: Center@14)
+115	SVA (V: proceeded@8, S: Construction@1, A!: in@9)	SV (V: built@19, S: capacity@15, A?: still@17)
+116	SVO (V: employs@4, S: stage@2, O: Mitsubishi@6)
+117	
+118	
+119	SVO (S: Its@1, V: "has", O: output@2)	SVA (V: sold@5, S: output@2, A!: to@6, A?: under@12)	SVO (S: Antonio@8, V: "has", O: Energy@11)
+120	SVA (V: began@6, S: Construction@1, A!: in@7, A?: with@11)	SVA (V: "be expected", S: completion@12, A!: by@14)
+121	SVA (V: "be Using", S: Sweetwater@6, O: turbines@4)	SVO (V: have@9, S: Sweetwater@6, A?: Using@1, O: capacity@11)
+122	
+123	SVOC (V: expands@4, S: unit@3, O: http@10, O: www.geenergyfinancialservices.com/press_room/press_releases/SweetwaterRelease5242007_FINAL.pdf@14)
+124	SVO (V: expands@4, S: unit@3, O: Farm@14)	SVC (C: located@16, V: is@15, S: expands@4, A?: in@17)	SVC (S: Counties@21, V: "is", C: west@29)
+125	SVA (V: constructed@3, S: It@1, A!: in@4)	SVO (V: has@8, S: It@1, A?: in@4, O: capacity@13)
+126	SV (V: produces@7, S: All@1)
+127	SVC (C: 278.2@8, V: is@6, S: Farm@5)
+128	SVC (S: mesa@19, V: "is", C: mountain@22)	SVA (V: "be surrounded", S: mesa@19, A!: by@25)
+129	
+130	SVOA (V: place@7, S: Dust@1, O: demands@9, A!: on@10)
+131	SVO (V: modified@6, S: design@4, A?: Consequently@1, A?: for@7, XCOMP: providing@12)
+132	SVC (C: more@5, V: is@4, S: production@3, A?: than@6)
+133	
+134	SVC (C: located@6, V: is@5, S: Ranch@4, A?: near@7)	SVC (C: consists@10, V: is@5, S: Ranch@4, A?: near@7, A?: of@11)
+135	
+136	SVO (V: have@3, S: turbines@2, O: capacity@5)	SVA (V: "be meet", S: capacity@5, O: demand@10)
+137	SVA (V: developed@6, S: Ranch@4, A!: by@7, A?: of@12, A?: in@17)	SVA (S: Austin@13, V: "is in", C: Texas@15)	SVA (S: Irvine@24, V: "is in", C: California@26)
+138	SVC (S: Access@3, V: "is", C: March@6)
+139	SVA (V: "be known", S: Ranch@4, A!: also@6, A?: as@8)
+140	
+141	SVOC (V: sells@4, S: farm@3, O: power@6, A?: on@7, A?: to@12, XCOMP: supply@22)	SVC (S: distributor@16, V: "is", C: Energy@19)
+142	SVA (V: owned@10, S: cent@3, A!: by@11)
+143	
+144	SVC (C: 160.5@8, V: is@6, S: Farm@5)
+145	
+146	SVA (V: consists@11, S: site@2, A!: of@12)	SVA (V: "be rated", S: each@17, A!: at@19)
+147	
+148	SVC (S: Power@3, V: "is", C: AEP@5)	SVO (V: owns@7, S: Power@3, O: power@18)	SV (V: power@18, S: facility@9)
+149	
+150	
+151	SVO (V: has@13, S: Farm@4, O: capacity@16)
+152	
+153	SVA (V: "be became", S: farm@3, ACOMP: operational@20, A!: in@21)	SVO (V: uses@4, S: farm@3, O: turbines@7, A?: became@18)	SVC (S: turbines@7, V: "is", C: each@9)	SVA (V: "be rated", S: each@9, A!: at@11)
+154	
+155	SVC (C: farm@10, V: is@5, S: Farm@4)
+156	SVA (V: consists@4, S: farm@3, A!: of@5)	SVA (V: "be rated", S: each@10, A!: at@12)
+157	
+158	SVO (V: owns@4, S: Power@3, O: Farm@8)	SVA (V: "be produced", S: electricity@13, A!: under@15)
+159	
+160	
+161	SVC (S: farm@10, V: "is", C: project@18)	SVO (S: Airtricity@5, V: "has", O: farm@10)	SVO (V: commenced@21, S: farm@10, A?: recently@20, O: construction@22, A?: from@29)	SVC (S: miles@24, V: "is", C: km@27)
+162	SVO (V: opened@6, S: America@3, A?: officially@5, O: farm@11, A?: at@12)	SVO (S: its@7, V: "has", O: farm@11)
+163	SVO (V: purchase@3, S: TXU@1, O: electricity@5)	SVA (V: "be generated", S: electricity@5, A!: by@7)	SVO (V: entered@13, S: farm@10, O: operation@15, A?: in@16)
+164	SVC (S: Access@3, V: "is", C: June@6)
+165	SVO (V: provide@7, S: Farm@5, O: equivalent@9, A?: over@18)	SVO (S: its@16, V: "has", O: operation@17)
+166	
+167	SVO (V: selected@9, S: Texas@7, A?: May@1, A?: by@10, XCOMP: home@14)	SVO (V: aims@28, S: research@22, XCOMP: accelerate@30)
+168	SVO (V: expected@4, S: facilities@2, XCOMP: conduct@6)
+169	SVA (V: signed@10, S: agreement@8, A?: In@1, A!: between@12)
+170	
+171	SVO (V: explore@4, S: project@2, O: use@6)	SVOC (V: used@18, S: power@15, A?: in@12, XCOMP: pump@20, O: use@6)
+172	SVC (S: Newswire@2, V: "is", C: July@5)
+173	
+174	SV (V: called@5, S: areas@3)
+175	SVC (S: Reuters@1, V: "is", C: July@4)
+176	SVA (V: "be block", S: bid@3, O: construction@6)	SVOO (V: opposing@27, S: alliance@20, O: line@31, IO: projects@12)	SVA (V: "be required", S: line@31, A!: for@33)
+177	SVO (V: owns@8, S: none@3, A?: However@1, O: land@9)	SVOC (V: demonstrate@25, S: none@3, A?: However@1, O: land@9, A-: thus@22, O: interest@29, A?: in@31)	SVO (V: constructed@19, S: project@13, A?: where@10, O: land@9)
+178	SVC (S: Chronicle@3, V: "is", C: August@6)
+179	SVC (S: Commission@7, V: "is", C: PUC@9)	SVO (V: approved@13, S: Commission@7, A?: In@1, O: $@15)
+180	SVA (V: "be build", S: plan@2, O: lines@6, A!: carry@8)	SVA (V: "be carry", S: build@4, A!: to@10)	SVC (S: megawatts@12, V: "is", C: MW@14)
+181	SVO (V: estimates@3, S: PUC@2, CCOMP: be@9)	SVA (V: be@9, S: lines@7, A!: in@10)	SVOC (V: charged@24, S: 2013@15, O: $@26, XCOMP: pay@31)
+182	SVO (V: included@3, S: plan@2, O: MW@5)
+183	SVO (V: allows@6, S: plan@4, A?: Additionally@1, A?: for@7, XCOMP: transmitted@15)
+184	SVA (V: "be run", S: lines@3)	SVO (V: stretch@8, S: lines@3, O: side@11, A?: with@19)	SVA (V: "be expected", S: construction@20, XCOMP: begin@23)
+185	
+186	

@@ -1,0 +1,439 @@
+0	
+1	("1958 4 3 Long Island", "is in", "New York")	("1958 4 3 Long Island", "is in", "U.S.")
+2	
+3	
+4	
+5	("Alexander Rae Alec Baldwin III born April 3 1958", "is", "an American actor")	("an American actor", "has appeared", "on film")	("an American actor", "has appeared", "on stage")	("an American actor", "has appeared", "on television")
+6	("Baldwin", "gained", "recognition through television first")	("Baldwin", "gained", "recognition for his work first")	("Baldwin", "gained", "recognition for two seasons 6 first")	("Baldwin", "gained", "recognition for two seasons 7 first")	("Baldwin", "gained", "recognition on the soap opera first")	("Baldwin", "gained", "recognition first")	("Baldwin", "gained", "recognition through television for his work")	("Baldwin", "gained", "recognition through television for two seasons 6")	("Baldwin", "gained", "recognition through television for two seasons 7")	("Baldwin", "gained", "recognition through television on the soap opera")	("Baldwin", "gained", "recognition through television")	("Baldwin", "gained", "recognition for his work for two seasons 6")	("Baldwin", "gained", "recognition for his work for two seasons 7")	("Baldwin", "gained", "recognition for his work on the soap opera")	("Baldwin", "gained", "recognition for his work")	("Baldwin", "gained", "recognition for two seasons 6 on the soap opera")	("Baldwin", "gained", "recognition for two seasons 7 on the soap opera")	("Baldwin", "gained", "recognition for two seasons 6")	("Baldwin", "gained", "recognition for two seasons 7")	("Baldwin", "gained", "recognition on the soap opera")	("Baldwin", "gained", "recognition")	("his", "has", "work")
+7	("films such as Beetlejuice", "is", "Final Fantasy")	("films such as the Magic Railroad", "is", "Final Fantasy")	("Beetlejuice", "is", "1988")	("the Magic Railroad", "is", "1988")	("Beetlejuice", "is", "The Hunt for Red October")	("the Magic Railroad", "is", "The Hunt for Red October")	("Beetlejuice", "is", "The Shadow")	("the Magic Railroad", "is", "The Shadow")	("Beetlejuice", "is", "Thomas")	("the Magic Railroad", "is", "Thomas")	("Beetlejuice", "is", "The Marrying Man")	("the Magic Railroad", "is", "The Marrying Man")	("Red October", "is", "1990")	("The Marrying Man", "is", "1991")	("The Shadow", "is", "1994")	("the Magic Railroad", "is", "2000")	("The Spirits Within 2001", "is", "The Aviator")	("The Spirits Within 2001", "is", "The The Departed 2006")	("The Aviator", "is", "2004")	("The The Departed 2006", "is", "2004")	("The", "be Departed")
+8	("His", "has", "performance in the 2003 film")	("The Cooler", "garnered", "him a nomination for the Academy Award for Best Supporting Actor")
+9	("he", "has starred", "as Jack Donaghy on the NBC sitcom 30 Rock 2006")	("he", "has starred", "as Jack Donaghy 2006")	("he", "has starred", "on the NBC sitcom 30 Rock 2006")	("he", "has starred", "2006")	("his", "has", "performance")	("his", "has", "work on the show")
+10	("He", "is the oldest", "of the Baldwin brothers working in Hollywood")	("He", "is", "the oldest")	("the Baldwin brothers", "be working", "in Hollywood")
+11	("Baldwin", "was born", "on Long Island")	("Baldwin", "was born", "on Long Island")	("Long Island", "is in", "New York")	("Carolyn Newcomb", "is", "née Martineau")	("Carolyn Alexander Rae Baldwin", "is", "née Martineau")	("Alexander Rae Baldwin", "is", "Jr.")
+12	
+13	
+14	
+15	("Baldwin", "was raised", "in a Roman Catholic family of Irish")	("Baldwin", "was raised", "in a Roman Catholic family of English")	("Baldwin", "was raised", "in a Roman Catholic family of French descent")
+16	
+17	
+18	("ny-lihistory-navigation Alec Baldwin Newsday Melville", "is", "NY Blake Green 2004 June 17 2004 http")
+19	
+20	
+21	
+22	
+23	
+24	("ny-lihistory-navigation Alec Baldwin Newsday Melville", "is", "NY Blake Green 2004 June 17 2004 http")
+25	
+26	
+27	
+28	("He", "has", "three younger brothers ny-lihistory-navigation")	("three younger brothers", "is", "Daniel")	("three younger brothers", "is", "William")	("three younger brothers", "is", "Stephen")	("three younger brothers", "became", "actors also")	("three younger brothers", "became", "actors")
+29	("Baldwin", "has", "two sisters")	("Baldwin", "has", "two sisters")
+30	("June 2011 Baldwin", "attended", "Alfred G.")
+31	("Berner High School in Massapequa", "is", "Long Island")	("Berner High in Massapequa played football there under Coach Bob Reifsnyder", "is", "Long Island")	("Bob Reifsnyder", "is", "in the College Football Hall of Fame")
+32	("He", "worked", "as a busboy at the famous New York City disco Studio 54")
+33	("Baldwin", "attended", "George Washington University from 1976 to 1979")	("Baldwin", "attended", "George Washington University from 1976")	("Baldwin", "attended", "George Washington University to 1979")	("Baldwin", "attended", "George Washington University")
+34	("He", "transferred", "to New York University to study acting at the Lee Strasberg Theatre Institute under Elaine Aiken")	("He", "transferred", "to New York University to study acting at the Lee Strasberg Theatre Institute under Elaine Geoffrey Horne")	("He", "transferred", "to study acting at the Lee Strasberg Theatre Institute under Elaine Aiken")	("He", "transferred", "to study acting at the Lee Strasberg Theatre Institute under Elaine Geoffrey Horne")
+35	("He", "returned", "to NYU in 1994")	("He", "returned", "to NYU")	("He", "graduated", "with a BFA that year to NYU in 1994")	("He", "graduated", "with a BFA that year to NYU")	("He", "graduated", "with a BFA that year in 1994")	("He", "graduated", "with a BFA that year")
+36	("he", "returned", "to New York University On May 12 2010 again")	("he", "returned", "to New York University this time as a commencement speaker On May 12 2010")	("he", "returned", "to New York University honoris causa On May 12 2010")	("he", "returned", "to New York University On May 12 2010")	("he", "returned", "to New York University this time as a commencement speaker again")	("he", "returned", "to New York University honoris causa again")	("he", "returned", "to New York University again")	("he", "returned", "to New York University this time as a commencement speaker honoris causa")	("he", "returned", "to New York University this time as a commencement speaker")	("he", "returned", "to New York University honoris causa")	("he", "returned", "to New York University")	("he", "to receive", "a Doctor of Fine Arts degree On May 12 2010 again")	("he", "to receive", "a Doctor of Fine Arts degree On May 12 2010 to New York University")	("he", "to receive", "a Doctor of Fine Arts degree On May 12 2010 this time as a commencement speaker")	("he", "to receive", "a Doctor of Fine Arts degree honoris causa On May 12 2010")	("he", "to receive", "a Doctor of Fine Arts degree On May 12 2010")	("he", "to receive", "a Doctor of Fine Arts degree again to New York University")	("he", "to receive", "a Doctor of Fine Arts degree again this time as a commencement speaker")	("he", "to receive", "a Doctor of Fine Arts degree honoris causa again")	("he", "to receive", "a Doctor of Fine Arts degree again")	("he", "to receive", "a Doctor of Fine Arts degree to New York University this time as a commencement speaker")	("he", "to receive", "a Doctor of Fine Arts degree honoris causa to New York University")	("he", "to receive", "a Doctor of Fine Arts degree to New York University")	("he", "to receive", "a Doctor of Fine Arts degree honoris causa this time as a commencement speaker")	("he", "to receive", "a Doctor of Fine Arts degree this time as a commencement speaker")	("he", "to receive", "a Doctor of Fine Arts degree honoris causa")	("he", "to receive", "a Doctor of Fine Arts degree")
+37	("Oldenburg", "is", "Ann")	("Ann", "is", "May 13 2010")
+38	
+39	
+40	
+41	("Baldwin", "made", "his Broadway debut in 1988 in a revival of Joe Orton 's Loot alongside theater veterans Zoë Wanamaker")	("Baldwin", "made", "his Broadway debut in 1988 in a revival of Joe Orton 's Loot alongside theater veterans Zoë Željko Ivanek")	("Baldwin", "made", "his Broadway debut in 1988 in a revival of Joe Orton 's Loot alongside theater veterans Zoë Joseph Maher")	("Baldwin", "made", "his Broadway debut in 1988 in a revival of Joe Orton 's Loot alongside theater veterans Zoë Charles Keating")	("Baldwin", "made", "his Broadway debut in 1988")	("Baldwin", "made", "his Broadway debut in a revival of Joe Orton 's Loot alongside theater veterans Zoë Wanamaker")	("Baldwin", "made", "his Broadway debut in a revival of Joe Orton 's Loot alongside theater veterans Zoë Željko Ivanek")	("Baldwin", "made", "his Broadway debut in a revival of Joe Orton 's Loot alongside theater veterans Zoë Joseph Maher")	("Baldwin", "made", "his Broadway debut in a revival of Joe Orton 's Loot alongside theater veterans Zoë Charles Keating")	("Baldwin", "made", "his Broadway debut")	("his", "has", "Broadway debut")	("Joe Orton", "has", "Loot alongside theater veterans Zoë Wanamaker")	("Joe Orton", "has", "Loot alongside theater veterans Zoë Željko Ivanek")	("Joe Orton", "has", "Loot alongside theater veterans Zoë Joseph Maher")	("Joe Orton", "has", "Loot alongside theater veterans Zoë Charles Keating")
+42	("This production", "closed", "after three months")
+43	("His", "has", "other Broadway credits")	("His other Broadway credits", "include", "Caryl Churchill 's Serious Money with Kate Nelligan")	("His other Broadway credits", "include", "Caryl Churchill 's Serious with Kate Nelligan a highly acclaimed revival of Tennessee Williams '")	("Caryl Churchill", "has", "Serious Money with Kate Nelligan")	("A Streetcar", "Named", "Desire Tennessee Williams '")
+44	("His", "has", "performance as Stanley Kowalski in the latter")	("His performance as Stanley Kowalski in the latter", "garnered", "him a Tony Award nomination for Best Actor")
+45	("Baldwin", "received", "an Emmy nomination for the 1995 television version of the production also")	("Baldwin", "received", "an Emmy nomination for the 1995 television version of the production")	("he", "reprised", "their roles alongside John Goodman the production in which")	("he", "reprised", "their roles alongside John Diane Lane the production in which")	("Jessica Lange", "reprised", "their roles alongside John Goodman the production in which")	("Jessica Lange", "reprised", "their roles alongside John Diane Lane the production in which")	("he", "reprised", "their roles the production in which")	("Jessica Lange", "reprised", "their roles the production in which")	("he", "reprised", "their roles alongside John Goodman the production")	("he", "reprised", "their roles alongside John Diane Lane the production")	("Jessica Lange", "reprised", "their roles alongside John Goodman the production")	("Jessica Lange", "reprised", "their roles alongside John Diane Lane the production")	("he", "reprised", "their roles the production")	("Jessica Lange", "reprised", "their roles the production")	("their", "has", "roles")
+46	("Baldwin", "played", "the title role in Macbeth at the Public theater In 1998")	("Baldwin", "played", "the title role in Macbeth alongside Angela Bassett In 1998")	("Baldwin", "played", "the title role in Macbeth alongside Angela Liev Schreiber In 1998")	("Baldwin", "played", "the title role in Macbeth in a production directed by George C. In 1998")	("Baldwin", "played", "the title role in Macbeth In 1998")	("Baldwin", "played", "the title role in Macbeth at the Public theater alongside Angela Bassett")	("Baldwin", "played", "the title role in Macbeth at the Public theater alongside Angela Liev Schreiber")	("Baldwin", "played", "the title role in Macbeth at the Public theater in a production directed by George C.")	("Baldwin", "played", "the title role in Macbeth at the Public theater")	("Baldwin", "played", "the title role in Macbeth alongside Angela Bassett in a production directed by George C.")	("Baldwin", "played", "the title role in Macbeth alongside Angela Liev Schreiber in a production directed by George C.")	("Baldwin", "played", "the title role in Macbeth alongside Angela Bassett")	("Baldwin", "played", "the title role in Macbeth alongside Angela Liev Schreiber")	("Baldwin", "played", "the title role in Macbeth in a production directed by George C.")	("Baldwin", "played", "the title role in Macbeth")	("a production", "be directed", "by George C.")
+47	
+48	("Baldwin", "starred", "in a revival of Twentieth Century with Anne Heche In 2004")	("Baldwin", "starred", "in a revival of Twentieth Century with Anne Heche")
+49	("he", "appeared", "in a concert version of the Rogers musical South Pacific at Carnegie Hall On June 9 2005")	("he", "appeared", "in a concert version of the Hammerstein musical South Pacific at Carnegie Hall On June 9 2005")	("he", "appeared", "in a concert version of the Rogers musical South Pacific at Carnegie Hall")	("he", "appeared", "in a concert version of the Hammerstein musical South Pacific at Carnegie Hall")
+50	("He", "starred", "as Luther Billis alongside Reba McEntire as Nellie")	("He", "starred", "as Luther Billis alongside Reba as Nellie Brian Stokes Mitchell as Emile")	("He", "starred", "as Luther Billis")
+51	("The production", "was taped")	("The production", "was telecast", "by PBS on April 26 2006")	("The production", "was telecast", "by PBS")
+52	("Baldwin", "made", "theater news in Roundabout Theatre Company 's Off-Broadway revival of Joe Orton 's Entertaining Mr. In 2006")	("Baldwin", "made", "theater news In 2006")	("Baldwin", "made", "theater news in Roundabout Theatre Company 's Off-Broadway revival of Joe Orton 's Entertaining Mr.")	("Baldwin", "made", "theater news")	("Roundabout Theatre Company", "has", "Off-Broadway revival of Joe Orton 's Entertaining Mr.")	("Joe Orton", "has", "Entertaining Mr.")
+53	
+54	("Baldwin", "starred", "opposite Sam Underwood in a critically acclaimed revival of Peter Shaffer 's Equus directed by Tony Walton at Guild Hall in East Hampton In 2010")	("Baldwin", "starred", "opposite Sam Underwood In 2010")	("Baldwin", "starred", "opposite Sam Underwood in a critically acclaimed revival of Peter Shaffer 's Equus directed by Tony Walton at Guild Hall in East Hampton")	("Baldwin", "starred", "opposite Sam Underwood")	("Peter Shaffer", "has", "Equus directed by Tony Walton at Guild Hall in East Hampton")	("Peter Shaffer 's Equus", "be directed", "by Tony Walton at Guild Hall in East Hampton")	("Peter Shaffer 's Equus", "be directed", "by Tony Walton at Guild Hall")	("East Hampton", "is in", "NY")
+55	("Baldwin", "has", "first major acting role")	("The Doctors from 1980 to 1982", "Baldwin 's first major acting role was", "as Billy Aldrich on the daytime soap opera")	("The Doctors from 1980 to 1982", "Baldwin 's first major acting role was", "as Billy Aldrich")	("Baldwin 's first major acting role", "was The Doctors from 1980 to 1982", "as Billy Aldrich on the daytime soap opera")	("Baldwin 's first major acting role", "was The Doctors from 1980 to 1982", "as Billy Aldrich")
+56	("he", "starred", "in the short-lived television series Cutter to Houston In fall 1983")	("he", "starred", "in the short-lived television series Cutter to Houston")
+57	("He", "co-starred", "in the television series Knots Landing from 1984 to 1986")	("He", "co-starred", "in the television series Knots Landing")
+58	("Baldwin", "starred", "in Dress Gray as an honest cadet sergeant In 1986")	("Baldwin", "starred", "in Dress Gray In 1986")	("Baldwin", "starred", "in Dress Gray as an honest cadet sergeant")	("Baldwin", "starred", "in Dress Gray")	("Dress Gray", "is", "a four-hour made-for-television miniseries")	("an honest cadet sergeant", "tries", "to solve the mystery of a murdered gay classmate")
+59	("The film", "was adapted", "by Gore Vidal from the novel by Lucian Truscott")	("The film", "was adapted", "by Gore Vidal from the novel")	("The film", "was adapted", "by Gore Vidal by Lucian Truscott")	("The film", "was adapted", "by Gore Vidal")
+60	("Baldwin", "was the U.S.", "Between 1998 and 2002")	("Baldwin", "was", "the U.S.")
+61	("Thomas", "be narrating", "all 52 episodes of seasons 5")	("Thomas", "be narrating", "all 52 episodes of 5 6")	("Friends", "be narrating", "all 52 episodes of seasons 5")	("Friends", "be narrating", "all 52 episodes of 5 6")
+62	("He", "portrayed", "Arnold Pagani in a Goosebumps episode")	("He", "portrayed", "Arnold Pagani")
+63	("Baldwin", "appeared", "in a celebrity edition of Who")	("Baldwin", "appeared", "in a celebrity edition of Who")	("To A Millionaire in November 2000", "be competing", "against Jon Stewart")	("To A Millionaire in November 2000", "be competing", "against Jon Charlie Sheen")	("Jon Stewart", "is", "Vivica A.")	("Jon Charlie Sheen", "is", "Vivica A.")
+64	
+65	("He", "won", "$ 250,000 for PAWS")	("He", "used Kim Basinger", "$ 250,000 for PAWS as one of his phone-a-friend partners")	("He", "used Kim Basinger", "$ 250,000 for PAWS")	("his", "has", "phone-a-friend partners")
+66	("He", "voiced", "Blue Barron in Teen Titans")	("He", "voiced", "Blue Barron")
+67	("Baldwin", "appeared", "on two episodes of Friends as Phoebe Buffay 's overly enthusiastic love interest In 2002")	("Baldwin", "appeared", "on two episodes of Friends In 2002")	("Baldwin", "appeared", "on two episodes of Friends as Phoebe Buffay 's overly enthusiastic love interest")	("Baldwin", "appeared", "on two episodes of Friends")	("Phoebe Buffay 's overly enthusiastic love interest", "is", "Parker")	("Phoebe Buffay", "has", "overly enthusiastic love interest")
+68	("He", "portrayed", "a recurring character in a number of episodes in seasons 7 also")	("He", "portrayed", "a recurring character in a of episodes in seasons 7 8 of Will & Grace also")	("He", "portrayed", "a recurring character in a number of episodes in seasons 7")	("He", "portrayed", "a recurring character in a of episodes in seasons 7 8 of Will & Grace")	("he", "played", "Malcolm a top secret agent Will & Grace in which")	("he", "played", "Malcolm a top secret the lover of Karen Walker Will & Grace in which")	("he", "played", "Malcolm a top secret agent Will & Grace")	("he", "played", "Malcolm a top secret the lover of Karen Walker Will & Grace")	("Karen Walker", "is", "Megan Mullally")
+69	("He", "guest-starred", "in the first live episode of the series also")	("He", "guest-starred", "in the first live episode of the series")
+70	("Baldwin", "wrote", "an episode of Law & Order entitled Tabloid")	("an episode of Law & Order", "be entitled")	("an episode of Law & Order entitled Tabloid", "aired", "in 1998")
+71	("He", "played", "the role of Dr.")
+72	("Barrett Moore in the series Nip/Tuck", "is", "a retired plastic surgeon")
+73	("Baldwin", "was a host", "at the American leg of Live Earth On July 7 2007")	("Baldwin", "was a host", "On July 7 2007")	("Baldwin", "was a host", "at the American leg of Live Earth")	("Baldwin", "was", "a host")	("Live Earth", "was broadcast", "on NBC")
+74	("the NBC sitcom 30 Rock", "aired", "October 2006 first")	("the NBC sitcom 30 Rock", "aired", "October 2006")
+75	("Baldwin", "met", "his future co-stars Tina Fey while appearing on Saturday Night Live")	("Baldwin", "met", "his future co-stars Tina Tracy Morgan while appearing on Saturday Night Live")	("Baldwin", "met", "his future co-stars Tina Fey")	("Baldwin", "met", "his future co-stars Tina Tracy Morgan")	("his", "has", "future co-stars Tina Fey")
+76	("He", "has received", "two Emmy Awards")	("two Emmy Awards", "is", "two Golden Globe awards for his role")	("two Emmy Awards", "is", "two Golden Globe five Screen Actors Guild Awards for his role")	("his", "has", "role")
+77	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy as Jack Donaghy in 2008")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical as Jack Donaghy in 2008")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy as Jack Donaghy marking his seventh Primetime Emmy nomination")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy as Jack Donaghy marking his seventh Primetime Emmy first win")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical as Jack Donaghy marking his seventh Primetime Emmy nomination")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical as Jack Donaghy marking his seventh Primetime Emmy first win")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy as Jack Donaghy")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical as Jack Donaghy")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy in 2008 marking his seventh Primetime Emmy nomination")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy in 2008 marking his seventh Primetime Emmy first win")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical in 2008 marking his seventh Primetime Emmy nomination")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical in 2008 marking his seventh Primetime Emmy first win")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy in 2008")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical in 2008")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy marking his seventh Primetime Emmy nomination")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy marking his seventh Primetime Emmy first win")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical marking his seventh Primetime Emmy nomination")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical marking his seventh Primetime Emmy first win")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Comedy")	("Baldwin", "received", "his second Emmy nomination for Best Actor in a Television Musical")	("Baldwin", "be marking", "his seventh Primetime Emmy nomination")	("Baldwin", "be marking", "his seventh Primetime Emmy first win")	("his", "has", "second Emmy nomination for Best Actor in a Television Comedy")	("his", "has", "second Emmy nomination for Best Actor in a Television Musical")	("his", "has", "seventh Primetime Emmy nomination")
+78	("He", "won", "again in 2009")	("He", "won", "again")
+79	("Baldwin", "has been credited", "as producer of the show Since season 3")	("Baldwin", "has been credited", "as producer of the show")
+80	("Baldwin", "joined", "TCM 's The Essentials Robert Osborne as co-host beginning in March 2009")	("Baldwin", "joined", "TCM 's The Essentials Robert Osborne")	("TCM", "has", "The Essentials Robert Osborne")
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	("August 2011 Baldwin", "co-hosted", "the 82nd Academy Awards with Steve Martin in 2010")	("August 2011 Baldwin", "co-hosted", "the 82nd Academy Awards with Steve Martin")	("August 2011 Baldwin", "co-hosted", "the 82nd Academy Awards in 2010")	("August 2011 Baldwin", "co-hosted", "the 82nd Academy Awards")
+89	("He", "has hosted", "Saturday Night Live sixteen times")	("the most recent", "being", "the Season 37 premiere on September 24 2011")
+90	("He", "holds", "the record for most times hosting Saturday Night Live eclipsing Steve Martin currently")	("He", "holds", "the record for most times hosting Saturday Night Live currently")	("He", "holds", "the record for most times hosting Saturday Night Live eclipsing Steve Martin")	("He", "holds", "the record for most times hosting Saturday Night Live")	("He", "be eclipsing", "Steve Martin")	("most times", "be hosting", "Saturday Night Live")
+91	
+92	
+93	("Alec Baldwin", "Sets", "Hosting Record as SNL")
+94	
+95	("Alec Baldwin", "Sets", "Hosting Record as SNL")	("NBC New York 2011-10-31 Baldwin", "made", "his film debut with a minor role in the 1987 film Forever _ Lulu Anew")	("NBC New York 2011-10-31 Baldwin", "made", "his film debut Anew")	("NBC New York 2011-10-31 Baldwin", "made", "his film debut with a minor role in the 1987 film Forever _ Lulu")	("NBC New York 2011-10-31 Baldwin", "made", "his film debut")	("his", "has", "film debut")	("the 1987 film", "be _", "Forever Lulu")
+96	("he", "appeared", "in Beetlejuice Also in 1988")	("he", "appeared", "in Working Girl Also in 1988")	("he", "appeared", "in Beetlejuice Also")	("he", "appeared", "in Working Girl Also")	("he", "appeared", "in Beetlejuice in 1988")	("he", "appeared", "in Working Girl in 1988")	("he", "appeared", "in Beetlejuice")	("he", "appeared", "in Working Girl")
+97	("He", "gained", "further recognition as a leading man with his role as Jack Ryan in The Hunt for Red October")	("He", "gained", "further recognition")	("his", "has", "role as Jack Ryan in The Hunt for Red October")	("Red October", "is", "1990")
+98	("Baldwin", "met", "his future wife Kim Basinger when they played lovers in the 1991 film The Marrying Man")	("Baldwin", "met", "his future wife Kim Basinger")	("his", "has", "future wife")	("his future wife", "Kim Basinger")	("they", "played", "lovers in the 1991 film The Marrying Man when")	("they", "played", "lovers when")	("they", "played", "lovers in the 1991 film The Marrying Man")	("they", "played", "lovers")
+99	("He", "appeared", "with Basinger again in The Getaway")	("He", "appeared", "with Basinger again")	("He", "appeared", "with Basinger in The Getaway")	("He", "appeared", "with Basinger")	("The Getaway", "is", "a 1994 remake of the 1972 Steve McQueen film of the same name")
+100	("Baldwin", "played", "a ferocious sales executive in Glengarry Glen Ross Next in a brief role")	("Baldwin", "played", "a ferocious sales executive in Glengarry Glen Ross Next")	("Baldwin", "played", "a ferocious sales executive in Glengarry Glen Ross in a brief role")	("Baldwin", "played", "a ferocious sales executive in Glengarry Glen Ross")	("Glengarry Glen Ross", "is", "1992")	("a part", "added", "to the film version of David Mamet 's Pulitzer Prize a ferocious sales executive in Glengarry Glen Ross")	("a part", "added", "a ferocious sales executive in Glengarry Glen Ross")	("David Mamet", "has", "Pulitzer Prize")
+101	("he", "starred", "in Prelude to a Kiss with Meg Ryan Later that year")	("he", "starred", "in Prelude to a Kiss with Meg Ryan")	("Meg Ryan", "was based", "on the Broadway play")
+102	("The film", "received", "a lukewarm reception by critics")	("The film", "grossed", "a lukewarm reception by critics only $ 22 million worldwide")
+103	
+104	
+105	
+106	
+107	("Baldwin", "be 2011-10-31", "In 1994")	("Baldwin", "made", "a foray into pulp fiction-based movies with the role of the title character in The Shadow 2011-10-31 In 1994")	("Baldwin", "made", "a foray into pulp fiction-based movies with the role of the title character in The Shadow")
+108	("The film", "made", "$ 48 million")
+109	("Baldwin", "continued", "to work in several thrillers including The Edge In 1996")	("Baldwin", "continued", "to work in several thrillers including The The Juror In 1996")	("Baldwin", "continued", "to work in several thrillers including The Heaven 's Prisoners In 1996")	("Baldwin", "continued", "to work in several thrillers including The Edge In 1997")	("Baldwin", "continued", "to work in several thrillers including The The Juror In 1997")	("Baldwin", "continued", "to work in several thrillers including The Heaven 's Prisoners In 1997")	("Baldwin", "continued", "to work in several thrillers including The Edge")	("Baldwin", "continued", "to work in several thrillers including The The Juror")	("Baldwin", "continued", "to work in several thrillers including The Heaven 's Prisoners")	("Heaven", "has", "Prisoners")
+110	("Baldwin", "shifted", "towards character acting beginning with Pearl Harbor in 2001")	("Baldwin", "shifted", "towards character acting beginning with Pearl Harbor")	("Baldwin", "shifted", "beginning with Pearl Harbor in 2001")	("Baldwin", "shifted", "beginning with Pearl Harbor")
+111	("He", "played", "Lt")
+112	
+113	("the film", "remains", "the highest grossing film Baldwin has appeared in his acting career with a worldwide box office of $ 449,220,945")	("the film", "remains", "the highest grossing film Baldwin has appeared in his acting career")	("the highest grossing film Baldwin", "has appeared", "in his acting career")	("his", "has", "acting career")
+114	
+115	
+116	("Pearl Harbor", "Box Office Mojo 2001-07-22 2011-10-31 http")
+117	
+118	("Pearl Harbor 2001 Box Office Mojo 2001-07-22 2011-10-31 Baldwin", "was nominated", "for an Academy Award")	("Pearl Harbor 2001 Box Office Mojo 2001-07-22 2011-10-31 Baldwin", "was the Screen Actors Guild Award", "for his performance in the 2003 gambling drama The Cooler for an Academy Award")	("Pearl Harbor 2001 Box Office Mojo 2001-07-22 2011-10-31 Baldwin", "was the Screen Actors Guild Award", "for his performance in the 2003 gambling drama The Cooler")	("an Academy Award", "is", "a Golden Globe")	("his", "has", "performance in the 2003 gambling drama The Cooler")
+119	("He", "appeared", "in Martin Scorsese 's The Aviator")	("He", "appeared", "in Martin Scorsese 's The The Departed 2006")	("The Aviator", "is", "2004")	("The The Departed 2006", "is", "2004")	("The", "be Departed")
+120	("he", "starred", "in the film Mini 's First Time alongside Nikki Reed In 2006")	("he", "starred", "in the film Mini 's First Time alongside Nikki Luke Wilson In 2006")	("he", "starred", "in the film Mini 's First Time In 2006")	("he", "starred", "in the film Mini 's First Time alongside Nikki Reed")	("he", "starred", "in the film Mini 's First Time alongside Nikki Luke Wilson")	("he", "starred", "in the film Mini 's First Time")	("the film Mini", "has", "First Time")
+121	("Baldwin", "performed", "opposite Sarah Michelle Gellar in the 2007 romantic comedy Suburban Girl")	("Baldwin", "performed", "opposite Sarah Michelle Gellar Suburban Girl")
+122	("he", "co-starred", "in the hit romantic comedy In 2009")	("he", "co-starred", "in the hit romantic comedy In 2009")	("he", "co-starred", "in the hit romantic comedy")	("he", "co-starred", "in the hit romantic comedy")	("It", "'s Complicated", "with Meryl Streep")	("It", "'s Complicated", "with Meryl Steve Martin")
+123	("he", "voiced", "Butch in Cats & Dogs In 2001")	("he", "voiced", "Butch In 2001")	("he", "voiced", "Butch in Cats & Dogs")	("he", "voiced", "Butch")
+124	("he", "portrayed", "Ken Bradley in The Last Day of Summer In 2007")	("he", "portrayed", "Ken Bradley In 2007")	("he", "portrayed", "Ken Bradley in The Last Day of Summer")	("he", "portrayed", "Ken Bradley")
+125	("he", "voiced", "Farley in A Goofy Movie In 1995")	("he", "voiced", "Farley In 1995")	("he", "voiced", "Farley in A Goofy Movie")	("he", "voiced", "Farley")
+126	("Baldwin", "directed")	("Baldwin", "starred", "in an all-star version of The Devil with Anthony Hopkins")	("Baldwin", "starred", "in an all-star version of The Daniel Webster with Anthony Hopkins Jennifer Love Hewitt and Dan Aykroyd in 2001")	("Baldwin", "starred", "in an all-star version of The Devil with Anthony Jennifer Love Hewitt")	("Baldwin", "starred", "in an all-star version of The Devil with Anthony Dan Aykroyd in 2001")
+127	("The then-unreleased film", "became", "an asset in a federal bank fraud trial when investor Jed Barron was convicted of bank fraud while the movie was in production")	("The then-unreleased film", "became", "an asset in a federal bank fraud trial")	("investor Jed Barron", "was convicted", "of bank fraud while the movie was in production when")	("investor Jed Barron", "was convicted", "of bank fraud when")	("investor Jed Barron", "was convicted", "of bank fraud while the movie was in production")	("investor Jed Barron", "was convicted", "of bank fraud")	("the movie", "was", "in production")
+128	("The film", "was acquired", "by The Yari Group without Baldwin 's involvement eventually")	("The film", "was acquired", "by The Yari Group eventually")	("The film", "was acquired", "by The Yari Group without Baldwin 's involvement")	("The film", "was acquired", "by The Yari Group")	("Baldwin", "has", "involvement")
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	("the Yari Film Group", "announced", "it would give the film now titled Shortcut to Happiness")	("it", "be titled", "now Shortcut to Happiness")	("it", "would give", "the film now titled Shortcut to Happiness")	("it", "would give", "the film")	("Shortcut to Happiness", "is", "a theatrical release in the spring film network Starz")	("Shortcut to Happiness", "is", "a theatrical release in the cable film network Starz")
+144	("they", "had acquired", "pay TV rights for the film")
+145	("Shortcut to Happiness", "was released", "in 2008 finally")	("Shortcut to Happiness", "was released", "in 2008")
+146	("the film", "had been cut", "in post-production the way")	("the film", "had been cut", "the way")	("Baldwin displeased with the way", "demanded", "that his directorial credit be changed to the pseudonym Harry Kirkpatrick")	("his", "has", "directorial credit")	("his directorial credit", "be changed", "to the pseudonym Harry Kirkpatrick")
+147	
+148	("Club Baldwin", "has worked", "as voice actor in films such as The Royal Tenenbaums The Spirits Within Thomas also")	("Club Baldwin", "has worked", "as voice actor in films such as The Royal Tenenbaums The Spirits Within the Magic Railroad also")	("Club Baldwin", "has worked", "as voice actor in films such as The Royal Tenenbaums The Spirits Within The Spongebob Squarepants Movie also")	("Club Baldwin", "has worked", "as voice actor also")	("Club Baldwin", "has worked", "as voice actor in films such as The Royal Tenenbaums The Spirits Within Thomas")	("Club Baldwin", "has worked", "as voice actor in films such as The Royal Tenenbaums The Spirits Within the Magic Railroad")	("Club Baldwin", "has worked", "as voice actor in films such as The Royal Tenenbaums The Spirits Within The Spongebob Squarepants Movie")	("Club Baldwin", "has worked", "as voice actor")	("The Royal Tenenbaums The Spirits Within Thomas", "is", "Final Fantasy")	("The Royal Tenenbaums The Spirits Within the Magic Railroad", "is", "Final Fantasy")	("The Royal Tenenbaums The Spirits Within The Spongebob Squarepants Movie", "is", "Final Fantasy")
+149	("Baldwin", "has signed", "on to star alongside Tom Cruise Catherine Zeta-Jones As of March 2011")	("Baldwin", "has signed", "on to star alongside Tom Cruise Catherine Mary J. As of March 2011")	("Baldwin", "has signed", "on to star alongside Tom Cruise Catherine Zeta-Jones")	("Baldwin", "has signed", "on to star alongside Tom Cruise Catherine Mary J.")	("Catherine Zeta-Jones", "is", "Julianne Hough")	("Catherine Mary J.", "is", "Julianne Hough")
+150	("Blige in the film adaptaion of the jukebox", "hit", "musical Rock of Ages")
+151	("Baldwin", "will play", "Dennis Dupree when production begins in May 2011")	("Baldwin", "will play", "Dennis Dupree")	("Dennis Dupree", "is", "the aging owner of a Sunset Strip rock club")	("production", "begins", "in May 2011 when")	("production", "begins", "in May 2011")
+152	("Baldwin", "is one", "also of the spokespersons for Capital One")	("Baldwin", "is one", "also")	("Baldwin", "is one", "of the spokespersons for Capital One")	("Baldwin", "is", "one")
+153	("Baldwin", "became", "the host of The New York Philharmonic This Week the nationally broadcast radio series of the New York Philharmonic On January 12 2009")	("Baldwin", "became", "the host of The New York Philharmonic the nationally broadcast radio series of the New York Philharmonic On January 12 2009")	("Baldwin", "became", "the host of The New York Philharmonic This Week the nationally broadcast radio series of the New York Philharmonic")	("Baldwin", "became", "the host of The New York Philharmonic the nationally broadcast radio series of the New York Philharmonic")
+154	
+155	("New York Times 2009", "is", "December 11")
+156	("He", "has recorded", "two nationally distributed public service radio announcements on behalf of the Save the Manatee Club")
+157	("Associated Press", "is", "USA Today")	("Associated Press", "is", "August 1 2007")
+158	("WNYC public radio", "released", "the first episode of Baldwin 's new podcast Here On October 24 2011")	("WNYC public radio", "released", "the first episode of Baldwin 's new podcast On October 24 2011")	("WNYC public radio", "released", "the first episode of Baldwin 's new podcast Here")	("WNYC public radio", "released", "the first episode of Baldwin 's new podcast")	("Baldwin", "has", "new podcast")	("On October 24 2011 WNYC public radio released the first episode of Baldwin 's new podcast Here 's the Thing", "is", "a series of interviews with public figures including artists")	("On October 24 2011 WNYC public radio released the first episode of Baldwin 's new podcast Here 's the Thing", "is", "a series of interviews with public figures including policy makers")	("On October 24 2011 WNYC public radio released the first episode of Baldwin 's new podcast Here 's the Thing", "is", "a series of interviews with public figures including performers")	("On October 24 2011 WNYC public radio released the first episode of Baldwin 's new podcast Here", "'s", "the Thing")
+159	("The first two episodes", "featured", "actor Michael Douglas")	("The first two episodes", "featured", "actor Michael political consultant Ed Rollins")
+160	
+161	
+162	
+163	
+164	("he", "met", "his future wife when they played lovers in the film The Marrying Man In 1990")	("he", "met", "his future wife In 1990")	("he", "met", "his future wife when they played lovers in the film The Marrying Man")	("he", "met", "his future wife")	("his", "has", "future wife")	("his future wife", "is", "actress Kim Basinger")	("they", "played", "lovers in the film when")	("they", "played", "lovers The Marrying Man when")	("they", "played", "lovers when")	("they", "played", "lovers in the film The Marrying Man")	("they", "played", "lovers in the film")	("they", "played", "lovers The Marrying Man")	("they", "played", "lovers")
+165	("They", "married", "in 1993")	("They", "had", "a daughter in October 1995 in 1993")	("They", "had", "a daughter in 1993")	("They", "had", "a daughter in October 1995")	("They", "had", "a daughter")	("a daughter", "is", "Ireland")
+166	("they", "filed", "for divorce In January 2001")	("they", "filed", "for divorce")	("divorce", "was finalized", "in February 2002")
+167	
+168	
+169	("London Daily Mail Alec Baldwin", "apologises", "for calling daughter www.dailymail.co.uk/tvshowbiz/article-449775/Alec-Baldwin-apologises-calling-daughter-11-rude-thoughtless-pig")	("daughter www.dailymail.co.uk/tvshowbiz/article-449775/Alec-Baldwin-apologises-calling-daughter-11-rude-thoughtless-pig", "is", "a rude thoughtless pig http")	("daughter www.dailymail.co.uk/tvshowbiz/article-449775/Alec-Baldwin-apologises-calling-daughter-11-rude-thoughtless-pig", "is", "11")
+170	
+171	("London Daily Mail Alec Baldwin", "apologises", "for calling daughter Since March 2011 Baldwin has been dating Hilaria Thomas")	("London Daily Mail Alec Baldwin", "apologises", "Baldwin has been dating Hilaria Thomas")	("daughter", "is", "a rude thoughtless pig")	("daughter", "is", "11")	("Baldwin", "has been dating", "Hilaria Thomas")	("Hilaria Thomas", "is", "one of the instructors at the YogaVida yoga studio in Union Square")
+172	
+173	
+174	("he", "sold", "his home on the Upper West Side In August 2011")	("he", "sold", "his home In August 2011")	("he", "sold", "his home on the Upper West Side")	("he", "sold", "his home")	("he", "moved", "his home In August 2011 on the Upper West Side")	("he", "moved", "his home in with Thomas in SoHo In August 2011")	("he", "moved", "his home In August 2011")	("he", "moved", "his home in with Thomas in SoHo on the Upper West Side")	("he", "moved", "his home on the Upper West Side")	("he", "moved", "his home in with Thomas in SoHo")	("he", "moved", "his home")	("his", "has", "home")
+175	
+176	
+177	
+178	("his", "has", "family")	("Baldwin", "are", "Catholic")	("his family", "are", "Catholic")
+179	
+180	("Stephen Colbert More on What They 're Giving Up for Lent The Daily Beast 2011-03-08 2011-10-31 The Daily Beast http www.thedailybeast.com/blogs-and-stories/2011-03-08/stephen-colbert-alec-baldwin-more-on-what-theyre-giving-up-for-lent/#", "is", "Alec Baldwin")	("They", "'re Giving Up", "What for Lent The Daily Beast 2011-03-08 2011-10-31 The Daily Beast http")	("They", "'re Giving Up", "What")
+181	("Stephen Colbert More on What They 're Giving Up for Lent The Daily Beast 2011-03-08 2011-10-31 http www.angelfire", "is", "Alec Baldwin")	("They", "'re Giving Up", "What for Lent The Daily Beast 2011-03-08 2011-10-31 http")	("They", "'re Giving Up", "What")
+182	
+183	
+184	
+185	
+186	
+187	
+188	
+189	("2011-10-31 In 2008 Alec Baldwin", "published", "their book")	("2011-10-31 In 2008 Alec Mark Tabb", "published", "their book")	("their", "has", "book")	("their book", "is", "A Promise to Ourselves")	("Ourselves", "chronicles", "Baldwin 's seven-year battle to remain a part of his daughter 's life")	("Ourselves", "chronicles", "Baldwin 's seven-year battle")	("which", "be remain", "a part of his daughter 's life")	("Baldwin", "has", "seven-year battle")	("his", "has", "daughter 's")	("his daughter", "has", "life")
+190	
+191	("Baldwin", "contends", "that after their separation in December 2000 his former wife endeavored to deny him access to his daughter by refusing to discuss parenting")	("their", "has", "separation in December 2000")	("his former wife", "is", "Kim Basinger")	("his", "has", "former wife")	("his former wife", "endeavored", "to deny him access to his daughter by refusing to discuss parenting after their separation in December 2000")	("his former wife", "endeavored", "to deny him access to his daughter by refusing to discuss parenting")	("his", "has", "daughter")
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	("their", "has", "daughter")	("it", "being", "inconvenient")
+202	
+203	
+204	
+205	("He", "contends", "she spent over $ 1.5")	("she", "spent", "over $ 1.5")
+206	
+207	
+208	
+209	("185", "is", "202")
+210	("Baldwin", "called", "this parental alienation syndrome")
+211	
+212	
+213	
+214	("Baldwin", "has called", "the attorneys in the case opportunists")	("Baldwin", "has has characterized", "the attorneys in the case opportunists Basinger 's psychologists as part of the divorce industry")	("Baldwin", "has has characterized", "the attorneys in the case opportunists Basinger 's psychologists")	("the attorneys in the case", "opportunists")	("Basinger", "has", "psychologists")
+215	("He", "has faulted", "them more than Basinger In fact")	("He", "has faulted", "them more than Basinger")	("He", "has writes", "them more than Basinger In fact")	("He", "has writes", "them more than Basinger")	("I", "blame", "He has faulted them more than Basinger In fact my ex-wife least of all for what has transpired")	("I", "blame", "He has them more than Basinger writes In fact my ex-wife least of all for what has transpired")	("I", "blame", "He has faulted them more than Basinger In fact")	("I", "blame", "He has them more than Basinger writes In fact")	("my", "has", "ex-wife least")	("what", "has transpired")
+216	("She", "is a person", "like many of us doing the best with what she has")	("She", "is a person", "like many of us")	("She", "is a person", "doing the best with what she has")	("She", "is", "a person")	("a person like many of us", "be doing", "the best with what she has")	("she", "can", "the best")	("she", "has", "what")
+217	("She", "is a litigant", "therefore one")	("She", "is", "a litigant")	("one", "walks", "into a courtroom")	("one", "walks")	("one", "is never offered", "anything other than what is served there into a courtroom")	("one", "is never offered", "anything other than what is served there")	("what", "is served", "there")
+218	
+219	
+220	
+221	
+222	("Baldwin", "wrote", "that he has spent over a million dollars Baldwin 2008")	("he", "has spent", "over a million dollars Baldwin 2008")	("he", "has spent", "Baldwin 2008")
+223	
+224	
+225	("his", "has", "career")
+226	
+227	("99", "is", "102")
+228	
+229	
+230	
+231	("he", "lived", "in New York")
+232	
+233	("44", "is", "117")	("47", "is", "117")
+234	("he", "could stay", "in his daughter 's life")	("his", "has", "daughter 's")	("his daughter", "has", "life")
+235	("Baldwin", "contended", "that after seven years of these issues he hit a breaking point")	("Baldwin", "contended", "that after seven years of these issues he a breaking point left an angry voicemail message in response to another unanswered arranged call")	("he", "hit", "a breaking point after seven years of these issues")	("he", "hit", "a breaking point")	("he", "left", "a breaking point an angry voicemail message in response to another unanswered arranged call after seven years of these issues")	("he", "left", "a breaking point an angry voicemail message after seven years of these issues")	("he", "left", "a breaking point an angry voicemail message in response to another unanswered arranged call")	("he", "left", "a breaking point an angry voicemail message")	("Baldwin", "called", "his daughter a rude thoughtless little pig another unanswered arranged call in which")	("Baldwin", "called", "his daughter a rude thoughtless little pig another unanswered arranged call")	("his", "has", "daughter")	("his daughter", "a rude thoughtless little pig")
+236	
+237	
+238	
+239	("He", "contends", "that the tape was sold to TMZ")	("the tape", "was sold", "to TMZ")	("TMZ", "released", "the recording despite laws against publishing media related to a minor without the permission of both parents")	("TMZ", "released", "the recording")	("laws against publishing media", "be related", "to a minor without the permission of both parents")	("laws against publishing media", "be related", "to a minor")
+240	
+241	
+242	
+243	("Baldwin", "admitted", "he made a mistake")	("Baldwin", "asked", "he made a mistake not to be judged as a parent based on a bad moment")	("he", "made", "a mistake")	("a parent", "be based", "on a bad moment")
+244	
+245	
+246	("101", "is", "151")
+247	("He", "admitted", "to Playboy that he contemplated suicide over the voice mail later")	("He", "admitted", "in June 2009 that he contemplated suicide over the voice mail later")	("He", "admitted", "that he contemplated suicide over the voice mail later")	("He", "admitted", "to Playboy in June 2009 that he contemplated suicide over the voice mail")	("He", "admitted", "to Playboy that he contemplated suicide over the voice mail")	("He", "admitted", "in June 2009 that he contemplated suicide over the voice mail")	("He", "admitted", "that he contemplated suicide over the voice mail")	("he", "contemplated", "suicide over the voice mail")	("the voice mail", "leaked", "to the public")
+248	("he", "said", "I spoke to a lot of professionals Of the incident")	("he", "said", "I spoke to a lot of professionals")	("I", "spoke", "to a lot of professionals")	("a lot of professionals", "helped", "me")
+249	("I", "committed", "suicide")	("Kim Basinger", "has", "side")	("ex-wife Kim Basinger 's side", "would have considered", "a victory If I committed suicide")	("ex-wife Kim Basinger 's side", "would have considered", "a victory")
+250	("Destroying me", "was", "their avowed goal")	("their", "has", "avowed goal")
+251	
+252	("Alec Baldwin", "Says", "He Considered Suicide Over Rude Pig Voicemail TV Guide June 16 www.webcitation")	("Suicide Over Rude Pig Voicemail TV Guide June 16", "is", "2009 http")
+253	
+254	
+255	("Alec Baldwin", "Says", "He Considered Suicide Over Rude Pig Voicemail TV Guide June 16 www.webcitation")	("Suicide Over Rude Pig Voicemail TV Guide June 16", "is", "2009 http")
+256	
+257	("Baldwin", "be speaking", "about his experiences related in it")	("Baldwin", "toured", "2010-11-14 no During the autumn of 2008 in support of the book speaking about his experiences related in it")	("Baldwin", "toured", "2010-11-14 no During the autumn of 2008 in support of the book")	("Baldwin", "toured", "2010-11-14 no During the autumn of 2008 speaking about his experiences related in it")	("Baldwin", "toured", "2010-11-14 no During the autumn of 2008")	("his", "has", "experiences related in it")	("his experiences", "be related", "in it")
+258	("Italie", "is", "Hillel")
+259	
+260	
+261	
+262	
+263	
+264	
+265	
+266	
+267	
+268	("Baldwin book rails against US family court system International Herald Tribune 2009-03-29 2011-10-31 Georgiades", "is", "William")
+269	
+270	
+271	
+272	("Baldwin", "serves", "on the board of People for the American Way")
+273	("He", "is", "an animal rights activist select.nytimes.com/gst/abstract")	("He", "is", "an animal rights a strong supporter of PETA A Night Out With Alec Baldwin Mellow Is Not His Role http select.nytimes.com/gst/abstract")	("His", "has", "Not Role")
+274	
+275	("FA0C13FD355C0C718EDDAF0894DB404482 & scp", "=", "14 & sq = alec % 20baldwin % 20 & st = cse June 22")	("FA0C13FD355C0C718EDDAF0894DB404482 & scp", "=", "14 & sq = alec % 20baldwin % vegetarian = cse June 22")	("cse June 22", "is", "2003 Hilary De Vries The New York Times March 10 2011 A Night Out With Alec Baldwin")	("His", "has", "Not Role")
+276	
+277	("The New York Times March 10 2011", "Goes", "to 2003 Hilary De Vries")	("The New York Times 10 2011 the Oscar", "Goes", "to 2003 Hilary De Vries")	("The New York Times March 10 2011", "Goes", "2003 Hilary De Vries")	("The New York Times 10 2011 the Oscar", "Goes", "2003 Hilary De Vries")	("FA0C13FD355C0C718EDDAF0894DB404482 & scp", "=", "14 & sq = alec % 20baldwin % 20 & st = cse June 22")	("FA0C13FD355C0C718EDDAF0894DB404482 & scp", "=", "14 & sq = alec % 20baldwin % vegetarian = cse June 22")	("cse June 22", "is", "2003 Hilary De Vries")
+278	
+279	
+280	
+281	
+282	("March 10 2011", "Goes", "to the Ethical Treatment of Animals")	("10 2011 the Oscar", "Goes", "to the Ethical Treatment of Animals")	("March 10 2011", "Goes", "the Ethical Treatment of Animals")	("10 2011 the Oscar", "Goes", "the Ethical Treatment of Animals")
+283	
+284	
+285	
+286	
+287	("he", "has done", "work March 10 2011 for which")	("he", "has done", "work March 10 2011")	("work", "includes", "narrating the video entitled Meet Your Meat")	("the video", "be entitled", "Meet Your Meat")	("Your", "has", "Meet Meat")
+288	("Baldwin", "lent", "his support to the Save the Manatee Club by donating his time to record several public service announcements for the group an episode of The Simpsons also")	("Baldwin", "lent", "his support also")	("Baldwin", "lent", "his support to the Save the Manatee Club by donating his time to record several public service announcements for the group an episode of The Simpsons")	("Baldwin", "lent", "his support")	("Baldwin", "be Save", "the Manatee Club by donating his time to record several public service announcements for the group an episode of The Simpsons")	("his", "has", "support")	("donating his time", "be record", "several public service announcements for the group an episode of The Simpsons")	("his", "has", "time")	("the group", "had contacted", "him following his role in Bonfire of the Manatees")	("the group", "had contacted", "him")	("his", "has", "role in Bonfire of the Manatees")	("he", "was", "the voice of a biologist working to save the endangered mammals an episode of The Simpsons in which")	("he", "was", "the voice an episode of The Simpsons in which")	("he", "was", "the voice of a biologist working to save the endangered mammals an episode of The Simpsons")	("he", "was", "the voice an episode of The Simpsons")	("a biologist", "be working", "to save the endangered mammals")
+289	
+290	("org/news", "_", "pr_baldwin_psas")
+291	
+292	
+293	("org/news", "_", "pr_baldwin_psas")
+294	
+295	("July 31", "is", "eight days")	("2007 August 20 2011", "Save", "the Manatee Club During his appearance on the comedy late night show Late Night with Conan O'Brien on December 12 1998 July 31")	("2007 August 20 2011", "Save", "the Manatee Club July 31")	("his", "has", "appearance on the comedy late night show Late Night with Conan O'Brien on December 12 1998")	("President Bill Clinton", "was", "to be impeached eight days")	("Baldwin", "said", "If we were in another country July 31")	("Baldwin", "said", "If we were in another country")	("we", "were", "in another country")
+296	("we", "would stone")	("we", "would their children")	("we", "would kill", "their wives")	("we", "would go", "to their homes")	("their", "has", "homes")	("their", "has", "wives")	("their", "has", "children")
+297	("We", "would kill", "their families for what they 're doing to this country")	("We", "would kill", "their families")	("their", "has", "families")	("they", "'re doing", "what to this country")	("they", "'re doing", "what")
+298	
+299	
+300	
+301	
+302	("CyberAlert December 16", "is", "1998 Media Research Center March 3 www.webcitation")	("March 3", "is", "2011 http")
+303	
+304	
+305	
+306	
+307	
+308	("CyberAlert December 16", "is", "1998 Media Research Center March 3 www.webcitation")	("March 3", "is", "2011 http")
+309	
+310	("no Baldwin", "apologized", "for the remarks November 14 2010 later")	("no Baldwin", "apologized", "for the remarks November 14 2010")	("no Baldwin", "apologized", "for the remarks later")	("no Baldwin", "apologized", "for the remarks")	("the network", "explained", "it was meant as a joke")	("the network", "explained", "it was as a joke promised not to rerun it")	("it", "was meant", "as a joke")	("it", "was promised", "not to rerun it as a joke")	("it", "was promised", "not to rerun it")
+311	("Baldwin", "said", "in a 2006 interview with the New York Times that if he did become involved in electoral politics he would prefer to run for Governor of New York")	("Baldwin", "said", "that if he did become involved in electoral politics he would prefer to run for Governor of New York")	("he", "did become", "involved in electoral politics")	("he", "would prefer", "to run for Governor of New York if he did become involved in electoral politics")	("he", "would prefer", "to run for Governor of New York")
+312	("he", "was qualified", "for the office")	("Baldwin", "responded", "that he considered himself far more qualified than California Governor Arnold Schwarzenegger When asked if he was qualified for the office")	("Baldwin", "responded", "that he considered himself far more qualified than California Governor Arnold Schwarzenegger")	("he", "considered", "himself qualified than California Governor Arnold Schwarzenegger far more")	("he", "considered", "himself qualified than California Governor Arnold Schwarzenegger")	("himself", "qualified", "than California Governor Arnold Schwarzenegger far more")	("himself", "qualified", "than California Governor Arnold Schwarzenegger")
+313	("The Daily", "reported", "that Baldwin was mulling a 2013 run for Mayor of New York City in the wake of a potential early race shakeup after candidate Congressman Anthony Weiner 's sexting scandal In June 2011")	("The Daily", "reported", "that Baldwin was mulling a 2013 run for Mayor of New York City in the wake of a potential early race shakeup after candidate Congressman Anthony Weiner 's sexting scandal")	("Baldwin", "was mulling", "a 2013 run for Mayor of New York City in the wake of a potential early race shakeup after candidate Congressman Anthony Weiner 's sexting scandal")	("Baldwin", "was mulling", "a 2013 run for Mayor of New York City")	("candidate Congressman Anthony Weiner", "has", "sexting scandal")
+314	
+315	
+316	("Political Smart Alec June 8 2011 August 20 www.thedaily", "is", "2011 Richard Johnson The Daily http")
+317	
+318	("Political Smart Alec June 8 2011 August 20", "is", "2011 Richard Johnson")	("Baldwin", "The Daily said", "he was abandoning plans to run for the office 2011 Richard Johnson However on December 21 2011")	("Baldwin", "The Daily said", "he was plans to run for the office would instead continue in his role on 30 Rock 2011 Richard Johnson However on December 21 2011")	("Baldwin", "The Daily said", "he was abandoning plans to run for the office 2011 Richard Johnson However")	("Baldwin", "The Daily said", "he was plans to run for the office would instead continue in his role on 30 Rock 2011 Richard Johnson However")	("Baldwin", "The Daily said", "he was abandoning plans to run for the office 2011 Richard Johnson on December 21 2011")	("Baldwin", "The Daily said", "he was plans to run for the office would instead continue in his role on 30 Rock 2011 Richard Johnson on December 21 2011")	("Baldwin", "The Daily said", "he was abandoning plans to run for the office 2011 Richard Johnson")	("Baldwin", "The Daily said", "he was plans to run for the office would instead continue in his role on 30 Rock 2011 Richard Johnson")	("The Daily", "Baldwin said", "he was abandoning plans to run for the office 2011 Richard Johnson However on December 21 2011")	("The Daily", "Baldwin said", "he was plans to run for the office would instead continue in his role on 30 Rock 2011 Richard Johnson However on December 21 2011")	("The Daily", "Baldwin said", "he was abandoning plans to run for the office 2011 Richard Johnson However")	("The Daily", "Baldwin said", "he was plans to run for the office would instead continue in his role on 30 Rock 2011 Richard Johnson However")	("The Daily", "Baldwin said", "he was abandoning plans to run for the office 2011 Richard Johnson on December 21 2011")	("The Daily", "Baldwin said", "he was plans to run for the office would instead continue in his role on 30 Rock 2011 Richard Johnson on December 21 2011")	("The Daily", "Baldwin said", "he was abandoning plans to run for the office 2011 Richard Johnson")	("The Daily", "Baldwin said", "he was plans to run for the office would instead continue in his role on 30 Rock 2011 Richard Johnson")	("he", "was abandoning", "plans to run for the office")	("he", "was would continue", "plans to run for the office in his role on 30 Rock instead")	("he", "was would continue", "plans to run for the office instead")	("he", "was would continue", "plans to run for the office in his role on 30 Rock")	("he", "was would continue", "plans to run for the office")	("plans", "be run", "for the office")	("his", "has", "role on 30 Rock")
+319	
+320	("Alec Baldwin", "rules out", "2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York http www.nydailynews.com/news/politics/alec-baldwin-rules-2013-mayoral-campaign-article-1.995075")
+321	("Alec Baldwin", "rules out", "2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009")	("Baldwin", "spoke out", "Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 to encourage state leaders to renew New York 's tax break for the film")	("Baldwin", "spoke out", "Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 to encourage state leaders to renew New York 's tax break for the television industry")	("New York", "has", "tax break for the film")	("New York", "has", "tax break for the television industry")	("the tax breaks", "are not reinstated", "into the budget")	("film production in this town", "is going", "to collapse if the tax breaks are not reinstated into the budget")	("film production in this town", "is going", "to television production if the tax breaks are not reinstated into the budget")	("film production in this town", "is going", "to collapse")	("film production in this town", "is going", "to television production")	("stating that if the tax breaks are not reinstated into the budget film production in this town is going to collapse", "is going", "to collapse Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 Baldwin spoke out to encourage state leaders to renew New York 's tax break for the film")	("stating that if the tax breaks are not reinstated into the budget film production in this town is going to collapse", "is going", "to collapse Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 Baldwin spoke out to encourage state leaders to renew New York 's tax break for the television industry")	("stating that if the tax breaks are not reinstated into the budget film production in this town is going to television production", "is going", "to collapse Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 Baldwin spoke out to encourage state leaders to renew New York 's tax break for the film")	("stating that if the tax breaks are not reinstated into the budget film production in this town is going to television production", "is going", "to collapse Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 Baldwin spoke out to encourage state leaders to renew New York 's tax break for the television industry")	("stating that if the tax breaks are not reinstated into the budget film production in this town is going to collapse", "is going", "Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 Baldwin spoke out to encourage state leaders to renew New York 's tax break for the film")	("stating that if the tax breaks are not reinstated into the budget film production in this town is going to collapse", "is going", "Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 Baldwin spoke out to encourage state leaders to renew New York 's tax break for the television industry")	("stating that if the tax breaks are not reinstated into the budget film production in this town is going to television production", "is going", "Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 Baldwin spoke out to encourage state leaders to renew New York 's tax break for the film")	("stating that if the tax breaks are not reinstated into the budget film production in this town is going to television production", "is going", "Alec Baldwin rules out 2013 NYC mayoral campaign December 21 2011 December 23 2011 Richard Johnson Daily News New York In February 2009 Baldwin spoke out to encourage state leaders to renew New York 's tax break for the television industry")	("it", "'s going", "to go to California")
+322	
+323	
+324	("Alec Baldwin Calls on Governor", "be Extend", "Tax Credit NY1 February 26 2009 August 20 www.ny1.com/content/94633/alec-baldwin-calls-on-governor-to-extend-tax-credit/Default")	("2009 August 20", "is", "2011 http")
+325	
+326	("Alec Baldwin Calls on Governor", "be Extend", "Tax Credit NY1 February 26 was slated to appear in a taped skit")	("Tax Credit NY1 February 26", "is", "Baldwin")	("Tax Credit NY1 February 26", "is", "2009 August 20 2011 During the 2011 Emmy Awards")	("Tax Credit NY1 February 26", "was slated", "to appear in a taped skit")
+327	("the producers of the show", "cut", "a portion of the skit containing a reference to Rupert Murdoch However")	("the producers of the show", "cut", "a portion of the skit containing a reference to Rupert the News International phone hacking scandal However")	("the producers of the show", "cut", "a portion of the skit containing a reference to Rupert Murdoch")	("the producers of the show", "cut", "a portion of the skit containing a reference to Rupert the News International phone hacking scandal")	("the skit", "be containing", "a reference to Rupert Murdoch")	("the skit", "be containing", "a reference to Rupert the News International phone hacking scandal")
+328	("Baldwin", "told", "Access Hollywood Live that he asked them not to air his performance")	("he", "asked", "them not to air his performance")	("his", "has", "performance")
+329	("Producers", "complied")	("he", "was replaced", "with Leonard Nimoy")
+330	("hacking joke", "nixed", "http")
+331	
+332	("D9PRAQ100 & show_article", "=", "1 breitbart.com")
+333	
+334	("hacking joke", "nixed", "http")
+335	
+336	("D9PRAQ100 & show_article", "=", "1 breitbart.com")
+337	
+338	
+339	
+340	
+341	("Alec Baldwin www.webcitation", "be receive", "award at PETA gala USA Today 2005-08-22 August 22")	("2005-08-22 August 22", "is", "2005 April 23")	("2005-08-22 August 22", "is", "2010 http")
+342	
+343	
+344	
+345	
+346	("Alec Baldwin www.webcitation", "be receive", "award at PETA gala USA Today 2005-08-22 August 22")	("2005-08-22 August 22", "is", "2005 April 23")	("2005-08-22 August 22", "is", "2010 http")
+347	
+348	
+349	
+350	
+351	
+352	
+353	
+354	
+355	
+356	("html?categoryid", "=")
+357	("Clearasil crowd", "makes", "room for another Vice Fleming Michael 2002-11-07 Variety 2008-11-01 http www.webcitation")
+358	
+359	
+360	("html?categoryid", "=")
+361	("Clearasil crowd", "makes", "room for another Vice Fleming Michael 2002-11-07 Variety 2008-11-01 http www.webcitation")
+362	
+363	
+364	
+365	
+366	
+367	
+368	
+369	("Dress Gray The New York Times 2008-10-28 Anita Gates http www.nytimes.com/2006/10/29/magazine/29wwln_q4.html", "is", "1986")
+370	("_ r", "=", "1 & oref = slogin Getting In on the Sitcom Act The New York Times Deborah Solomon 2006-10-29 2008-10-28 http www.nytimes.com/2006/10/29/magazine/29wwln_q4.html")	("1 & oref = slogin", "be Getting", "In on the Sitcom Act The New York Times Deborah Solomon 2006-10-29 2008-10-28 http www.nytimes.com/2006/10/29/magazine/29wwln_q4.html")
+371	("_ r", "=", "1 & oref = slogin Getting In on the Sitcom Act The New York Times Deborah Solomon 2006-10-29 2008-10-28 Joyce Eng Kristin Chenoweth www.tvguide.com/News/Kristin-Chenoweth-Jon-1009931.aspx")	("1 & oref = slogin", "be Getting", "In on the Sitcom Act The New York Times Deborah Solomon 2006-10-29 2008-10-28 Joyce Eng Kristin Chenoweth www.tvguide.com/News/Kristin-Chenoweth-Jon-1009931.aspx")	("2006-10-29 2008-10-28 Joyce Eng Kristin Chenoweth", "is", "Jon Cryer Win First Emmys http")
+372	
+373	
+374	("2009-09-24 no Joyce Eng Kristin Chenoweth www.tvguide.com/News/Kristin-Chenoweth-Jon-1009931.aspx", "is", "Jon Cryer Win First Emmys http")
+375	
+376	
+377	
+378	
+379	
+380	
+381	
+382	
+383	
+384	
+385	
+386	
+387	
+388	("Alec Baldwin www.webcitation", "be receive", "award at PETA gala USA Today 2005-08-22 August 22")	("2005-08-22 August 22", "is", "2005 April 23")	("2005-08-22 August 22", "is", "2010 http")
+389	
+390	
+391	
+392	
+393	("Alec Baldwin www.webcitation", "be receive", "award at PETA gala USA Today 2005-08-22 August 22")	("2005-08-22 August 22", "is", "2005 April 23")	("2005-08-22 August 22", "is", "2010 http")
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	("html?categoryid", "=")
+404	("Clearasil crowd", "makes", "room for another Vice Fleming Michael 2002-11-07 Variety 2008-11-01 http www.webcitation")
+405	
+406	
+407	("html?categoryid", "=")
+408	("Clearasil crowd", "makes", "room for another Vice Fleming Michael 2002-11-07 Variety 2008-11-01 http www.webcitation")
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	("Dress Gray The New York Times 2008-10-28 Anita Gates http www.nytimes.com/2006/10/29/magazine/29wwln_q4.html", "is", "1986")
+417	("_ r", "=", "1 & oref = slogin Getting In on the Sitcom Act The New York Times Deborah Solomon 2006-10-29 2008-10-28 http www.nytimes.com/2006/10/29/magazine/29wwln_q4.html")	("1 & oref = slogin", "be Getting", "In on the Sitcom Act The New York Times Deborah Solomon 2006-10-29 2008-10-28 http www.nytimes.com/2006/10/29/magazine/29wwln_q4.html")
+418	("_ r", "=", "1 & oref = slogin Getting In on the Sitcom Act The New York Times Deborah Solomon 2006-10-29 2008-10-28 Joyce Eng Kristin Chenoweth www.tvguide.com/News/Kristin-Chenoweth-Jon-1009931.aspx")	("1 & oref = slogin", "be Getting", "In on the Sitcom Act The New York Times Deborah Solomon 2006-10-29 2008-10-28 Joyce Eng Kristin Chenoweth www.tvguide.com/News/Kristin-Chenoweth-Jon-1009931.aspx")	("2006-10-29 2008-10-28 Joyce Eng Kristin Chenoweth", "is", "Jon Cryer Win First Emmys http")
+419	
+420	
+421	("2009-09-24 no Joyce Eng Kristin Chenoweth www.tvguide.com/News/Kristin-Chenoweth-Jon-1009931.aspx", "is", "Jon Cryer Win First Emmys http")
+422	
+423	
+424	
+425	
+426	
+427	
+428	
+429	
+430	
+431	
+432	("the Actors Studio", "is", "2007 Awards for Alec Baldwin Baldwin")	("the Actors Studio", "is", "2007 Awards for Alec Baldwin Alec Baldwin")	("Alec Baldwin Baldwin", "is", "Alexander Rae III American actor April 3")	("Alec Baldwin Alec Baldwin", "is", "Alexander Rae III American actor April 3")	("April 3", "is", "1958 Amityville _ New York")	("April 3", "is", "U.S.")
+433	("Best Musical Actor Golden Globe", "is", "television")	("Best Comedy Actor Golden Globe", "is", "television")	("Emmy Award winners", "is", "Category Gemini Award winners Category Living people Category New York Democrats Category New York University alumni Category Outstanding Performance by a Male Actor in a Comedy Series Screen Actors Guild Award winners Category Outstanding Performance by an Ensemble in a Comedy Series Screen Actors Guild Award winners Category People from Nassau County _ New York Category Soap Opera Digest Award winners")	("Soap Opera Digest Award winners", "is", "ar أليك بالدوين an Alec Baldwin bg Алек Болдуин ca Alec Baldwin cs Alec Baldwin cy Alec Baldwin da Alec Baldwin de Alec Baldwin et Alec Baldwin es Alec Baldwin fa الک بالدوین fr Alec Baldwin gl Alec Baldwin ko 알렉 볼드윈 io Alec Baldwin id Alec Baldwin it Alec Baldwin he אלק בולדווין ka ალეკ ბოლდუინი hu Alec Baldwin mk Алек Болдвин nl Alec Baldwin ja アレック ・ ボールドウィン no Alec Baldwin oc Alec Baldwin pl Alec Baldwin pt Alec Baldwin ro Alec Baldwin ru Болдуин _ Алек simple Alec Baldwin sr Алек Болдвин sh Alec Baldwin fi Alec Baldwin sv Alec Baldwin tl Alec Baldwin th อเล็ก บอลด์วิน tg Алек Болдуин tr Alec Baldwin uk Алек Болдвін vi Alec Baldwin zh 艾力 · 寶雲 A Promise to Ourselves A Journey Through Fatherhood")	("Soap Opera Digest Award winners", "is", "ar أليك بالدوين an Alec Baldwin bg Алек Болдуин ca Alec Baldwin cs Alec Baldwin cy Alec Baldwin da Alec Baldwin de Alec Baldwin et Alec Baldwin es Alec Baldwin fa الک بالدوین fr Alec Baldwin gl Alec Baldwin ko 알렉 볼드윈 io Alec Baldwin id Alec Baldwin it Alec Baldwin he אלק בולדווין ka ალეკ ბოლდუინი hu Alec Baldwin mk Алек Болдвин nl Alec Baldwin ja アレック ・ ボールドウィン no Alec Baldwin oc Alec Baldwin pl Alec Baldwin pt Alec Baldwin ro Alec Baldwin ru Болдуин _ Алек simple Alec Baldwin sr Алек Болдвин sh Alec Baldwin fi Alec Baldwin sv Alec Baldwin tl Alec Baldwin th อเล็ก บอลด์วิน tg Алек Болдуин tr Alec Baldwin uk Алек Болдвін vi Alec Baldwin zh 艾力 · 寶雲 A Promise to Ourselves A Journey Through Divorce Baldwin Alec 2008 St")	("Алек Болдуин", "ca", "Alec Baldwin cs Alec Baldwin cy Alec Baldwin da Alec Baldwin de Alec Baldwin et Alec Baldwin es Alec Baldwin fa الک بالدوین fr Alec Baldwin gl Alec Baldwin ko 알렉 볼드윈 io Alec Baldwin id Alec Baldwin it Alec Baldwin he אלק בולדווין ka ალეკ ბოლდუინი hu Alec Baldwin mk Алек Болдвин nl Alec Baldwin ja アレック ・ ボールドウィン no Alec Baldwin oc Alec Baldwin pl Alec Baldwin pt Alec Baldwin ro Alec Baldwin ru Болдуин _ Алек simple Alec Baldwin sr Алек Болдвин sh Alec Baldwin fi Alec Baldwin sv Alec Baldwin tl Alec Baldwin th อเล็ก บอลด์วิน tg Алек Болдуин tr Alec Baldwin uk Алек Болдвін vi Alec Baldwin zh 艾力 · 寶雲 A Promise to Ourselves A Journey Through Fatherhood")	("Алек Болдуин", "ca", "Alec Baldwin cs Alec Baldwin cy Alec Baldwin da Alec Baldwin de Alec Baldwin et Alec Baldwin es Alec Baldwin fa الک بالدوین fr Alec Baldwin gl Alec Baldwin ko 알렉 볼드윈 io Alec Baldwin id Alec Baldwin it Alec Baldwin he אלק בולדווין ka ალეკ ბოლდუინი hu Alec Baldwin mk Алек Болдвин nl Alec Baldwin ja アレック ・ ボールドウィン no Alec Baldwin oc Alec Baldwin pl Alec Baldwin pt Alec Baldwin ro Alec Baldwin ru Болдуин _ Алек simple Alec Baldwin sr Алек Болдвин sh Alec Baldwin fi Alec Baldwin sv Alec Baldwin tl Alec Baldwin th อเล็ก บอลด์วิน tg Алек Болдуин tr Alec Baldwin uk Алек Болдвін vi Alec Baldwin zh 艾力 · 寶雲 A Promise to Ourselves A Journey Through Divorce Baldwin Alec 2008 St")	("Alec Baldwin", "es", "Alec Baldwin fa الک بالدوین fr Alec Baldwin gl Alec Baldwin ko 알렉 볼드윈 io Alec Baldwin id Alec Baldwin it Alec Baldwin he אלק בולדווין ka ალეკ ბოლდუინი hu Alec Baldwin mk Алек Болдвин nl Alec Baldwin ja アレック ・ ボールドウィン no Alec Baldwin oc Alec Baldwin pl Alec Baldwin pt Alec Baldwin ro Alec Baldwin ru Болдуин _ Алек simple Alec Baldwin sr Алек Болдвин sh Alec Baldwin fi Alec Baldwin sv Alec Baldwin tl Alec Baldwin th อเล็ก บอลด์วิน tg Алек Болдуин tr Alec Baldwin uk Алек Болдвін vi Alec Baldwin zh 艾力 · 寶雲 A Promise to Ourselves A Journey Through Fatherhood")	("Alec Baldwin", "es", "Alec Baldwin fa الک بالدوین fr Alec Baldwin gl Alec Baldwin ko 알렉 볼드윈 io Alec Baldwin id Alec Baldwin it Alec Baldwin he אלק בולדווין ka ალეკ ბოლდუინი hu Alec Baldwin mk Алек Болдвин nl Alec Baldwin ja アレック ・ ボールドウィン no Alec Baldwin oc Alec Baldwin pl Alec Baldwin pt Alec Baldwin ro Alec Baldwin ru Болдуин _ Алек simple Alec Baldwin sr Алек Болдвин sh Alec Baldwin fi Alec Baldwin sv Alec Baldwin tl Alec Baldwin th อเล็ก บอลด์วิน tg Алек Болдуин tr Alec Baldwin uk Алек Болдвін vi Alec Baldwin zh 艾力 · 寶雲 A Promise to Ourselves A Journey Through Divorce Baldwin Alec 2008 St")
+434	
+435	
+436	("s #v", "onepage & q = & f")
+437	("Alec Baldwin", "Wired", "Condé Nast Publications 86 87 December 15 www.alecbaldwin.com")	("87 December 15", "is", "2009 January 2010 http")
+438	

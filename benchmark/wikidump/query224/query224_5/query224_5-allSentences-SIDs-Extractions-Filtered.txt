@@ -1,0 +1,102 @@
+200pxrightthumbTwo restaurant chefs . 	0
+A cook is a person who prepares food for consumption . 	1
+"A cook"	"is"	"a person"	1
+"a person"	"prepares"	"food for consumption"	1
+"a person"	"prepares"	"food"	1
+In Germany , Austria , Switzerland and Canada this profession requires government approval ( examination after three years apprenticeship ) . 	2
+"In Germany this profession"	"requires"	"government approval"	2
+"In Germany Austria this profession"	"requires"	"government approval"	2
+"In Germany Switzerland this profession"	"requires"	"government approval"	2
+"In Germany Canada this profession"	"requires"	"government approval"	2
+A cook is sometimes referred to as a chef , although in the professional kitchen , the terms are not interchangeable . 	3
+"A cook"	"is referred"	"to as a chef although in the professional kitchen the terms are not interchangeable sometimes"	3
+"A cook"	"is referred"	"to as a chef although in the professional kitchen the terms are not interchangeable"	3
+"the terms"	"are not interchangeable"	"in the professional kitchen"	3
+"the terms"	"are not"	"interchangeable"	3
+The executive chef or sous chef is generally never referred to as a " cook " ( and in fact would likely be an insult ) . 	4
+"The executive chef"	"is never referred"	"to as a cook generally"	4
+"The executive sous chef"	"is never referred"	"to as a cook generally"	4
+"The executive chef"	"is never referred"	"to as a cook"	4
+"The executive sous chef"	"is never referred"	"to as a cook"	4
+The term " cook " within a restaurant kitchen usually refers to a person with little to no creative influence on a menu and little to no command over others within the kitchen , such as a line cook . 	5
+"The term cook within a restaurant kitchen"	"refers"	"to a person with little to no creative influence on a menu over others within the kitchen usually"	5
+"The term cook within a restaurant kitchen"	"refers"	"to a person with to no creative influence on a menu little to no command over others within the kitchen usually"	5
+"The term cook within a restaurant kitchen"	"refers"	"to a person with little to no creative influence on a menu over others within the kitchen such as a line cook"	5
+"The term cook within a restaurant kitchen"	"refers"	"to a person with to no creative influence on a menu little to no command over others within the kitchen such as a line cook"	5
+"The term cook within a restaurant kitchen"	"refers"	"to a person with little to no creative influence on a menu over others within the kitchen"	5
+"The term cook within a restaurant kitchen"	"refers"	"to a person with to no creative influence on a menu little to no command over others within the kitchen"	5
+These are usually all members of a restaurant kitchen that are underneath the sous chef in the brigade de cuisine . 	6
+"These"	"are all members"	"usually"	6
+"These"	"are all members"	"of a restaurant kitchen"	6
+"These"	"are"	"all members"	6
+"a restaurant kitchen"	"are"	"underneath the sous chef in the brigade de cuisine"	6
+Other establishments may have a relatively constant menu , often only having people that can prepare food quickly and consistently , having little need for an executive chef or sous chef . 	7
+"Other establishments"	"may have"	"a relatively constant menu often only having people"	7
+"Other establishments"	"may have"	"a relatively constant menu often only having people"	7
+"Other establishments"	"may have"	"a relatively constant menu often only having people"	7
+"Other establishments"	"may have"	"a relatively constant menu often only having people"	7
+"Other establishments"	"may have"	"a relatively constant menu often only having people"	7
+"Other establishments"	"may have"	"a relatively constant menu often only having people"	7
+"Other establishments"	"may have"	"a relatively constant menu often only having people"	7
+The kitchens in these particular restaurants would thus be entirely run by cooks . 	8
+"The kitchens in these particular restaurants"	"would be run"	"by cooks entirely"	8
+"The kitchens in these particular restaurants"	"would be run"	"by cooks"	8
+An example would be a short order cook , who is a cook who prepares fast , easily-assembled meals to order , often working in a diner or cafe . 	9
+"An example"	"would be"	"a short order cook who is a cook"	9
+"who is a cook"	"is"	"easily-assembled meals to order often working in a diner"	9
+"who is a cook"	"is"	"easily-assembled meals to order often working in a cafe"	9
+"who is a cook"	"is"	"easily-assembled meals to order often working in a cafe"	9
+"a cook"	"prepares"	"fast"	9
+"easily-assembled meals"	"be order"	"working in a diner often"	9
+"easily-assembled meals"	"be order"	"working in a cafe often"	9
+"easily-assembled meals"	"be order"	"working in a diner"	9
+"easily-assembled meals"	"be order"	"working in a cafe"	9
+A head chef is a person in charge of one kitchen whereas an executive chef is in charge of more kitchens or of a larger kitchen-brigade . 	10
+"A head chef"	"is a person"	"in charge of one kitchen"	10
+"A head chef"	"is a person"	"whereas an executive chef is in charge of more kitchens of a larger kitchen-brigade"	10
+"A head chef"	"is"	"a person"	10
+"an executive chef"	"is"	"in charge of more kitchens of a larger kitchen-brigade"	10
+The name "executive " refers to the Latin meaning "acting " power , whereby the Property Manager ( Director ) or GM ( General Manager ) would be the "legislative " - deciding power . 	11
+"The name executive"	"refers"	"to the Latin meaning acting power whereby the Property Manager would be the legislative deciding power"	11
+"The name executive"	"refers"	"to the Latin meaning acting power whereby the Property GM would be the legislative deciding power"	11
+"the Property Manager would be the legislative deciding power"	"is"	"Director"	11
+"the Property GM would be the legislative deciding power"	"is"	"Director"	11
+"the Property GM would be the legislative deciding power"	"is"	"Director"	11
+"the Property GM would be the legislative deciding power"	"is"	"Director"	11
+When used of residential staff the word cook may refer to the head of the kitchen in a great house or to a cook-housekeeper , responsible for cleaning as well . 	12
+"the word cook"	"may refer"	"to the head of the kitchen When used of residential staff"	12
+"the word cook"	"may refer"	"to the head of the kitchen in a great house"	12
+"the word cook"	"may refer"	"to the head of the kitchen"	12
+"the word cook"	"may to"	"a cook-housekeeper responsible for cleaning as well When used of residential staff"	12
+"the word cook"	"may to"	"a cook-housekeeper responsible for cleaning as well to the head of the kitchen"	12
+"the word cook"	"may to"	"a cook-housekeeper responsible for cleaning as well in a great house"	12
+"the word cook"	"may to"	"a cook-housekeeper responsible for cleaning as well"	12
+See Cook ( servant ) . 	13
+See Cook ( servant ) . 	13
+thumbAn old Muslim cook with his assistant _ Beijing 1871-2 . 	14
+thumbAn old Muslim cook with his assistant _ Beijing 1871-2 . 	14
+The first Olympic champion listed in the records was a cook , Coroebus of Elis , who won the sprint race in 776 BC . 	15
+"The first Olympic champion"	"be listed"	"in the records"	15
+"The first Olympic champion listed in the records"	"was"	"a cook"	15
+"The first Olympic champion listed in the records was a cook"	"is"	"Coroebus of Elis"	15
+"The first Olympic champion listed in the records was a cook"	"is"	"Coroebus of Elis"	15
+"The first Olympic champion listed in the records was a cook"	"is"	"Coroebus of Elis"	15
+Saint Lawrence is said to be the patron saint of cooks . 	16
+"Saint Lawrence"	"is said"	"to be the patron saint of cooks"	16
+"Saint Lawrence"	"is said"	"to be the patron saint"	16
+He is reported to have said as he was being burned at the stake in the third century , " I 'm roasted on this side . 	17
+He is reported to have said as he was being burned at the stake in the third century , " I 'm roasted on this side . 	17
+He is reported to have said as he was being burned at the stake in the third century , " I 'm roasted on this side . 	17
+He is reported to have said as he was being burned at the stake in the third century , " I 'm roasted on this side . 	17
+He is reported to have said as he was being burned at the stake in the third century , " I 'm roasted on this side . 	17
+If you want me well done , it 's time to turn me over . 	18
+If you want me well done , it 's time to turn me over . 	18
+If you want me well done , it 's time to turn me over . 	18
+If you want me well done , it 's time to turn me over . 	18
+If you want me well done , it 's time to turn me over . 	18
+If you want me well done , it 's time to turn me over . 	18
+"If you want me well done time"	"be turn"	"me"	18
+" Prida , Delores , " Modern Holy Helpers " , New York Daily NewslLatino , 2008-05 - Category :Food services occupations ar :طباخ bg :Готвач cs :Kuchař da:Kok de:Koch en:Chef eo:Kuiristo es :Cocinero fi:Kokki fr:Chef cuisinier he :שף hu:Szakács id :Koki it :Chef ja :調理師 nl:Chef-kok nn:Kokk no:Kokk pt:Chef pl:Kucharz qu:Yanuq ro:Bucătar ru:Повар simple :Chef sk :Kuchár sv:Kock th :พ่อครัว tr :Yemek yapmak zh :廚師 Chef Chief Cook Cooking Personal chef Cook ( servant ) Domestic worker 	19
+"Prida Modern Holy Helpers"	"is"	"Delores"	19
+"Modern Holy Helpers"	"is"	"New York Daily NewslLatino"	19
+"Modern Holy Helpers"	"is"	"2008-05 Category Food services occupations ar طباخ bg Готвач cs Kuchař da Kok de Koch en Chef eo Kuiristo es Cocinero fi Kokki fr Chef cuisinier he שף hu Szakács id Koki it Chef ja 調理師 nl Chef-kok nn Kokk no Kokk pt Chef pl Kucharz qu Yanuq ro Bucătar ru Повар simple Chef sk Kuchár sv Kock th พ่อครัว tr Yemek yapmak zh 廚師 Chef Chief Cook Cooking Personal chef Cook servant Domestic worker"	19

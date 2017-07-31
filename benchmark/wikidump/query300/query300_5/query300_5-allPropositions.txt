@@ -1,0 +1,452 @@
+0	("64pxMicrosoft Office Excel Icon 300px Microsoft Office Excel 2010", "running", "on Windows 7 Microsoft Corporation 2010 14.0.4760.1000")	("64pxMicrosoft Office Excel Icon 300px Microsoft Office Excel 2010", "running", "14.0.4760.1000")
+1	
+2	("Mac 2011", "running", "on Mac OS X Snow Leopard Microsoft Corporation 2011")
+3	
+4	("Microsoft Excel", "is a proprietary commercial spreadsheet application", "written by Microsoft for Microsoft Windows")	("Microsoft Excel", "is a proprietary commercial spreadsheet application", "distributed by Microsoft for Microsoft Windows")	("Microsoft Excel", "is a proprietary commercial spreadsheet application", "distributed by Microsoft for Microsoft Mac OS X")	("Microsoft Excel", "is a proprietary commercial spreadsheet application", "written by Microsoft for Microsoft Mac OS X")	("Microsoft Excel", "is", "a proprietary commercial spreadsheet application")	("a proprietary commercial spreadsheet application distributed", "be written", "by Microsoft for Microsoft Windows")	("a proprietary commercial spreadsheet application distributed", "be written", "by Microsoft for Microsoft Mac OS X")	("a proprietary commercial spreadsheet application distributed", "be written", "by Microsoft for Microsoft Windows")	("a proprietary commercial spreadsheet application distributed", "be written", "by Microsoft for Microsoft Mac OS X")
+5	("It", "features", "calculation")	("It", "features", "graphing tools")	("It", "features", "pivot table")	("It", "features", "a macro programming language called Visual Basic for Applications")	("a macro programming language", "be called", "for Applications")
+6	("It", "has been a very widely applied spreadsheet", "for these platforms especially since version 5 in 1993")	("It", "has been a very widely applied spreadsheet", "for these platforms")	("It", "has been a very widely applied spreadsheet", "especially since version 5 in 1993")	("It", "has been", "a very widely applied spreadsheet")	("it", "has replaced", "Lotus 1-2-3 as the industry standard for spreadsheets almost completely")	("it", "has replaced", "Lotus 1-2-3 almost completely")	("it", "has replaced", "Lotus 1-2-3 as the industry standard for spreadsheets")	("it", "has replaced", "Lotus 1-2-3")
+7	("Excel", "forms", "part of Microsoft Office")
+8	("The current versions", "are 2010", "for Microsoft Windows")	("The current versions", "are 2011 for Mac OS X", "for Microsoft Windows")	("The current versions", "are", "2010")	("The current versions", "are", "2011 for Mac OS X")
+9	
+10	
+11	
+12	
+13	("id = i5ffgL9KEg8C", "be using", "a grid of cells arranged in numbered rows to organize data manipulations like arithmetic operations")	("id = i5ffgL9KEg8C", "be using", "a grid of cells arranged in numbered letter-named columns to organize data manipulations like arithmetic operations")	("cells", "be arranged", "in numbered rows to organize data manipulations like arithmetic operations")	("cells", "be arranged", "in numbered letter-named columns to organize data manipulations like arithmetic operations")
+14	("It", "has", "a battery of supplied functions to answer statistical needs")	("It", "has", "a battery of supplied functions to answer engineering needs")	("It", "has", "a battery of supplied functions to answer financial needs")	("a battery of supplied functions", "be answer", "statistical needs")	("a battery of supplied functions", "be answer", "engineering needs")	("a battery of supplied functions", "be answer", "financial needs")
+15	("it", "can display", "data as line graphs In addition")	("it", "can display", "data as line histograms In addition")	("it", "can display", "data as line charts In addition")	("it", "can display", "data In addition")	("it", "can display", "data as line graphs")	("it", "can display", "data as line histograms")	("it", "can display", "data as line charts")	("it", "can display", "data")	("it", "can with", "data In addition as line graphs")	("it", "can with", "data In addition as line histograms")	("it", "can with", "data In addition as line charts")	("it", "can with", "data a very limited three-dimensional graphical display In addition")	("it", "can with", "data In addition")	("it", "can with", "data a very limited three-dimensional graphical display as line graphs")	("it", "can with", "data a very limited three-dimensional graphical display as line histograms")	("it", "can with", "data a very limited three-dimensional graphical display as line charts")	("it", "can with", "data as line graphs")	("it", "can with", "data as line histograms")	("it", "can with", "data as line charts")	("it", "can with", "data a very limited three-dimensional graphical display")	("it", "can with", "data")
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	("it", "has", "a variety of interactive features allowing user interfaces so the spreadsheet presents itself as a so-called application via a custom-designed user interface for example Finally")	("it", "has", "a variety of interactive features allowing user interfaces so the spreadsheet presents itself as a so-called decision support system via a custom-designed user interface for example Finally")	("it", "has", "a variety of interactive features allowing user interfaces Finally")	("it", "has", "a variety of interactive features allowing user interfaces so the spreadsheet presents itself as a so-called application via a custom-designed user interface for example")	("it", "has", "a variety of interactive features allowing user interfaces so the spreadsheet presents itself as a so-called decision support system via a custom-designed user interface for example")	("it", "has", "a variety of interactive features allowing user interfaces")	("interactive features", "be allowing", "user interfaces")	("user interfaces", "can hide", "the spreadsheet from the user completely")	("user interfaces", "can hide", "the spreadsheet completely")	("user interfaces", "can hide", "the spreadsheet from the user")	("user interfaces", "can hide", "the spreadsheet")	("the spreadsheet", "presents", "itself as a so-called application via a custom-designed user interface for example")	("the spreadsheet", "presents", "itself as a so-called decision support system via a custom-designed user interface for example")	("the spreadsheet", "presents", "itself")	("a so-called application via a custom-designed user interface for example", "is", "a stock analyzer Basic Themes Michelle MH Şeref & Ravindra K Ahuja Frada Burstein")	("a so-called decision support system via a custom-designed user interface for example", "is", "a stock analyzer Basic Themes Michelle MH Şeref & Ravindra K Ahuja Frada Burstein")	("decision support system", "is", "DSS")	("a stock analyzer Basic Themes Michelle MH Şeref & Ravindra K Ahuja Frada Burstein", "is", "Handbook on Decision Support Systems 1")	("Basic Themes Michelle MH Şeref & Ravindra K Ahuja Frada Burstein", "is", "Clyde W.")
+31	
+32	
+33	
+34	("Basic Themes Michelle MH Şeref & Ravindra K Ahuja Frada Burstein", "is", "Clyde W.")
+35	
+36	
+37	
+38	("a design tool", "asks", "the user questions")	("a design tool", "provides", "the user questions answers")	("a design tool", "provides", "the user questions reports")
+39	
+40	
+41	
+42	
+43	("id = LRZnWl-LvwsC Excellent examples", "are developed", "that show just how applications can be designed")	("applications", "can be designed", "just how")	("applications", "can be designed", "just")	("applications", "can be designed", "how")	("applications", "can be designed")
+44	
+45	
+46	
+47	
+48	
+49	
+50	("Şeref", "is", "Ravindra K.")
+51	("Ahuja", "is", "Wayne L.")
+52	
+53	
+54	
+55	
+56	("Şeref", "is", "Ravindra K.")
+57	("Ahuja", "is", "Wayne L.")
+58	
+59	
+60	
+61	
+62	("id = iKKVOJYqi6YC & pg = PA281 0120683776 2003 Academic Press 2nd 281 ff Some form of data acquisition hardware", "is required")
+63	
+64	
+65	("id = iKKVOJYqi6YC & pg = PA281 0120683776 2003 Academic Press 2nd 281 ff", "analyze", "the results")	("id = iKKVOJYqi6YC & pg = PA281 0120683776 2003 Academic Press 2nd 281 ff", "make", "the results a Word report")	("id = iKKVOJYqi6YC & pg = PA281 0120683776 2003 Academic Press 2nd 281 ff", "make", "the results a Word Power Point slide show")	("id = iKKVOJYqi6YC & pg = PA281 0120683776 2003 Academic Press 2nd 281 ff", "e-mail", "the results these presentations on a regular basis to a list of participants")	("id = iKKVOJYqi6YC & pg = PA281 0120683776 2003 Academic Press 2nd 281 ff", "e-mail", "the results these presentations")
+66	("sq", "is", "x")
+67	("The named variables &", "y are identified", "in the Name Manager")	("y", "The named variables & are identified", "in the Name Manager")
+68	("The function sq", "is introduced", "using the Visual Basic editor supplied with Excel")	("the Visual Basic editor", "supplied", "with Excel")
+69	("thumb300pxSubroutine in Excel", "calculates", "the square of named column variable read from the spreadsheet _")	("thumb300pxSubroutine in Excel", "writes", "the square of named column variable read from the spreadsheet _ it into the named column variable y")	("thumb300pxSubroutine in Excel", "writes", "the square of named column variable read from the spreadsheet _ it")	("the square of named column variable", "read", "from the spreadsheet _")	("the", "be named")
+70	("thumbright300pxGraph of a functionGraphmade", "be using", "Microsoft Excel Microsoft")	("thumbright300pxGraph of a functionGraphmade using Microsoft Excel Microsoft", "allows", "for a number of optional command-line switches to control the manner")	("a number of optional command-line switches", "be control", "the manner")	("Excel", "starts", "the manner in which")	("Excel", "starts", "the manner")
+71	
+72	("Description of the startup", "switches", "for Excel 2007-05-07 Microsoft Help")	("Description of the startup", "switches", "for Excel 2007-05-07 Microsoft Support Microsoft Support 2010-12-14 Microsoft Excel")	("you", "can use", "to control how the program starts")	("the program", "starts", "how")	("the program", "starts")
+73	("This article", "lists", "the switches")	("This article", "provides", "the switches a description of each switch")
+74	
+75	("Description of the startup", "switches", "for Excel 2007-05-07 Microsoft Help")	("Description of the startup", "switches", "for Excel 2007-05-07 Microsoft Support Microsoft Support 2010-12-14 Microsoft Excel")	("you", "can use", "to control how the program starts")	("the program", "starts", "how")	("the program", "starts")
+76	("This article", "lists", "the switches")	("This article", "provides", "the switches a description of each switch")
+77	("The Windows version of Excel", "supports", "programming through Microsoft 's Visual Basic for Applications applications")	("The Windows version of Excel", "supports", "programming through Microsoft 's Visual Basic applications")	("The Windows version of Excel", "supports", "programming for Applications applications")	("The Windows version of Excel", "supports", "programming applications")	("Microsoft", "has", "Visual Basic")	("Applications", "is", "VBA")	("Applications", "is a dialect", "of Visual Basic")	("Applications", "is", "a dialect")
+78	("Programming with VBA", "allows", "spreadsheet manipulation")	("spreadsheet manipulation", "is awkward", "with standard spreadsheet techniques")	("spreadsheet manipulation", "is impossible", "with standard spreadsheet techniques")	("spreadsheet manipulation", "is", "awkward")	("spreadsheet manipulation", "is", "impossible")
+79	("Programmers", "may write", "code using the Visual Basic Editor directly")	("Programmers", "may write", "code using the Visual Basic code module organization environment directly")	("Programmers", "may write", "code using the Visual Basic Editor")	("Programmers", "may write", "code using the Visual Basic code module organization environment")	("the Visual Basic Editor", "is", "debugging code")	("the Visual Basic code module organization environment", "is", "debugging code")	("the Visual Basic Editor", "is", "VBE")	("the Visual Basic code module organization environment", "is", "VBE")	("the Visual Basic Editor", "includes", "a window for writing code")	("the Visual Basic code module organization environment", "includes", "a window for writing code")
+80	("The user", "can implement", "numerical methods")	("The user", "can implement", "numerical automating tasks such as formatting organization in VBA Numerical recipes")	("The user", "can implement", "numerical automating tasks such as data organization in VBA Numerical recipes")
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	
+89	("= frontcover Code conversion to Basic from Fortran", "is id = 1aAOdzK3FegC & printsec easier", "than from C++ probably")	("= frontcover Code conversion to Basic from Fortran", "is id = 1aAOdzK3FegC & printsec easier", "probably")	("= frontcover Code conversion to Basic from Fortran", "is id = 1aAOdzK3FegC & printsec easier", "than from C++")	("= frontcover Code conversion to Basic from Fortran", "is", "id = 1aAOdzK3FegC & printsec easier")	("the 2nd edition isbn = 0521437210", "may be", "id = 1aAOdzK3FegC & printsec = frontcover Code conversion to Basic from Fortran probably is easier than from C++ easier to use")	("the 2nd edition isbn = 0521437210", "may be", "id = 1aAOdzK3FegC & printsec = frontcover Code conversion to Basic from Fortran probably is easier than from C++ easier to the Basic code implementation of the first edition")	("the 2nd edition isbn = 0521437210", "may be", "id = 1aAOdzK3FegC & printsec = frontcover Code conversion to Basic from Fortran probably is easier than from C++ easier to the Basic code implementation of the first edition")
+90	
+91	
+92	
+93	("any desired intermediate results", "reported", "back to the spreadsheet")
+94	("VBA", "was removed", "from Mac Excel 2008 as the developers did not believe that a timely release would allow porting the VBA engine natively to Mac OS X")	("VBA", "was removed", "from Mac Excel 2008")	("the developers", "did not believe", "that a timely release would allow porting the VBA engine natively to Mac OS X")	("a timely release", "would allow", "porting the VBA engine natively to Mac OS X")
+95	("VBA", "was restored", "in the next version")
+96	("A common way", "be generate", "VBA code")	("A easy way", "be generate", "VBA code")	("A common way to generate VBA code", "is", "by using the Macro Recorder")	("A easy way to generate VBA code", "is", "by using the Macro Recorder")
+97	
+98	
+99	("However an increasing proportion of Excel functionality", "is not captured", "by the Macro Recorder leading to largely useless macros 0470046740 2007 Wiley")	("However an increasing proportion of Excel functionality", "is not captured", "0470046740 2007 Wiley")	("the Macro Recorder", "be leading", "to largely useless macros")	("the Excel macro recorder 79 ff", "be Revised", "by Jan Karel Pieterse 0470046740 2007 Wiley")
+100	
+101	
+102	("the Excel macro recorder 79 ff", "be Revised", "by Jan Karel Pieterse 0470046740 2007 Wiley The Macro Recorder records actions of the user")
+103	("These actions", "can be repeated", "automatically by running the macro")	("These actions", "can be repeated", "automatically")
+104	("The macros", "can be linked", "to different trigger types like keyboard shortcuts also")	("The macros", "can be linked", "to different trigger types like keyboard shortcuts")	("keyboard shortcuts", "is", "a command button")	("keyboard shortcuts", "is", "a command a graphic")
+105	("The actions in the macro", "can be executed", "from these trigger types")	("The actions in the macro", "can be executed", "these trigger types from the generic toolbar options")
+106	("The VBA code of the macro", "can be edited", "in the VBE also")	("The VBA code of the macro", "can be edited", "in the VBE")
+107	("Certain features such as loop functions", "prompts", "by their own properties")	("Certain features such as loop screen", "prompts", "by their own properties")	("their", "has", "own properties")	("some graphical display items", "can not be recorded")	("some graphical display items", "can not be must be entered", "into the VBA module directly by the programmer")	("some graphical display items", "can not be must be entered", "into the VBA module directly")	("some graphical display items", "can not be must be entered", "into the VBA module by the programmer")	("some graphical display items", "can not be must be entered", "into the VBA module")
+108	("Advanced users", "can employ", "user")	("Advanced users", "can employ", "user")	("Advanced users", "can employ", "user")	("sheets", "being loaded")	("sheets", "being changed")
+109	("an increasing proportion of Excel functionality", "is not captured", "by the Macro Recorder leading to largely useless macros However")	("an increasing proportion of Excel functionality", "is not captured", "by the Macro Recorder leading to largely useless macros")	("the Macro Recorder", "be leading", "to largely useless macros")
+110	
+111	
+112	
+113	
+114	
+115	
+116	("0470046740 2007-02-02 a vocabulary", "be identifying", "spreadsheet objects")	("supplied functions", "enable", "reading with its users for example through custom toolbars")	("supplied functions", "enable", "reading with its users for example through custom command bars")	("supplied functions", "enable", "reading with its users for example through custom message boxes")	("supplied functions", "enable", "writing to the spreadsheet with its users for example through custom toolbars")	("supplied functions", "enable", "writing to the spreadsheet with its users for example through custom command bars")	("supplied functions", "enable", "writing to the spreadsheet with its users for example through custom message boxes")	("supplied functions", "enable", "writing to the interaction with its users for example through custom toolbars")	("supplied functions", "enable", "writing to the interaction with its users for example through custom command bars")	("supplied functions", "enable", "writing to the interaction with its users for example through custom message boxes")	("supplied methods", "enable", "reading with its users for example through custom toolbars")	("supplied methods", "enable", "reading with its users for example through custom command bars")	("supplied methods", "enable", "reading with its users for example through custom message boxes")	("supplied methods", "enable", "writing to the spreadsheet with its users for example through custom toolbars")	("supplied methods", "enable", "writing to the spreadsheet with its users for example through custom command bars")	("supplied methods", "enable", "writing to the spreadsheet with its users for example through custom message boxes")	("supplied methods", "enable", "writing to the interaction with its users for example through custom toolbars")	("supplied methods", "enable", "writing to the interaction with its users for example through custom command bars")	("supplied methods", "enable", "writing to the interaction with its users for example through custom message boxes")	("supplied functions", "enable", "reading")	("supplied functions", "enable", "writing to the spreadsheet")	("supplied functions", "enable", "writing to the interaction")	("supplied methods", "enable", "reading")	("supplied methods", "enable", "writing to the spreadsheet")	("supplied methods", "enable", "writing to the interaction")	("its", "has", "users for example through custom toolbars")	("its", "has", "users for example through custom command bars")	("its", "has", "users for example through custom message boxes")
+117	("VBA subroutine", "execute", "these actions")	("VBA subroutine", "operate", "these actions like macros generated using the macro recorder")	("VBA subroutine", "operate", "these actions")	("macros", "be generated", "using the macro recorder")
+118	("Excel", "supports", "chart generated from specified groups of cells")	("Excel", "supports", "graphs generated from specified groups of cells")	("Excel", "supports", "histogram generated from specified groups of cells")	("chart", "be generated", "from specified groups of cells")	("graphs", "be generated", "from specified groups of cells")	("histogram", "be generated", "from specified groups of cells")
+119	("The generated graphic component", "can be embedded", "within the current sheet either")	("The generated graphic component", "can be embedded", "within the current sheet")	("The generated graphic component", "can be added", "as a separate object either within the current sheet")	("The generated graphic component", "can be added", "as a separate object either")	("The generated graphic component", "can be added", "as a separate object within the current sheet")	("The generated graphic component", "can be added", "as a separate object")
+120	("These displays", "are updated", "if the content of cells change dynamically")	("These displays", "are updated", "if the content of cells change")	("the content of cells", "change")
+121	("the important design requirements", "are displayed", "visually")	("a user", "has", "change")	("the curves describing the design change shape", "be assisting", "the selection of the best design")	("the describing the design change shape their points of intersection shift", "be assisting", "the selection of the best design")	("the curves assisting the selection of the best design", "be describing", "the design change shape")	("the their points of intersection shift assisting the selection of the best design", "be describing", "the design change shape")	("their", "has", "points of intersection shift")
+122	("Excel", "can communicate", "with each other")	("Excel", "can use", "each others ' capabilities.The with each other")	("Excel", "can use", "each others ' capabilities.The")	("each others", "has", "capabilities.The")
+123	("most common", "are", "Dynamic Data Exchange")	("although strongly deprecated by Microsoft a common method", "be send", "data between applications running on Windows with official MS publications referring to it as the protocol from hell")	("this", "is a common method", "to send data between applications running on Windows with official MS publications referring to it as the protocol from hell although strongly deprecated by Microsoft")	("this", "is a common method", "although strongly deprecated by Microsoft")	("this", "is a common method", "to send data between applications running on Windows with official MS publications referring to it as the protocol from hell")	("this", "is", "a common method")	("applications", "be running", "on Windows")	("official MS publications", "be referring", "to it as the protocol from hell")	("official MS publications", "be referring", "to it")
+124	
+125	("the name", "suggests")	("it", "allows", "articleId = 184409151 & siteSectionName = As the name suggests applications to supply data to others for calculation")	("it", "allows", "articleId = 184409151 & siteSectionName = As the name suggests applications to supply data to others for display")	("it", "allows", "articleId = 184409151 & siteSectionName = As the name suggests applications to supply data to others")	("it", "allows", "articleId = 184409151 & siteSectionName = As the name suggests applications to supply data for calculation")	("it", "allows", "articleId = 184409151 & siteSectionName = As the name suggests applications to supply data for display")	("it", "allows", "articleId = 184409151 & siteSectionName = As the name suggests applications to supply data")
+126	("It", "is common", "very in financial markets")	("It", "is common", "very being used to connect to important financial data services such as Bloomberg")	("It", "is common", "very being used to connect to important financial data services such as Reuters")	("It", "is common", "very")	("It", "is common", "in financial markets being used to connect to important financial data services such as Bloomberg")	("It", "is common", "in financial markets being used to connect to important financial data services such as Reuters")	("It", "is common", "in financial markets")	("It", "is common", "being used to connect to important financial data services such as Bloomberg")	("It", "is common", "being used to connect to important financial data services such as Reuters")	("It", "is", "common")	("very common in financial markets", "be used", "to connect to important financial data services such as Bloomberg")	("very common in financial markets", "be used", "to connect to important financial data services such as Reuters")
+127	("a Windows application", "be control", "another to enable it to format")	("a Windows application", "be control", "another to it to format calculate data")	("to control another to calculate data", "be enable", "it to format")	("to control another to calculate", "be enable", "it to format data")
+128	("This", "may take on", "the form of embedding")	("an application", "be handle", "as task that it is more suited to")	("an application", "uses", "another to handle as task that it is more suited to embedding where")	("an application", "uses", "another embedding where")	("an application", "uses", "another to handle as task that it is more suited to embedding")	("an application", "uses", "another embedding")	("it", "is suited", "to more")	("it", "is suited", "to")	("a Powerpoint presentation", "may be embedded", "in an Excel spreadsheet for example")	("a Powerpoint presentation", "may be embedded", "in an Excel vice versa for example")	("a Powerpoint presentation", "may be embedded", "in an Excel spreadsheet")	("a Powerpoint presentation", "may be embedded", "in an Excel vice versa")
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	("connections", "be built", "with the Office Data Connection file format")
+155	("Excel", "files", "themselves may be updated using a Microsoft")	("themselves", "may be updated", "using a Microsoft")
+156	("Excel", "can accept", "data in real time through several programming interfaces")	("Excel", "can accept", "data in real time")	("Excel", "can accept", "data through several programming interfaces")	("Excel", "can accept", "data")	("several programming interfaces", "allow", "it to communicate with many data sources such as Bloomberg")	("several programming interfaces", "allow", "it to communicate with many data sources such as Reuters")
+157	("Microsoft Query", "provides", "ODBC-based browsing within Microsoft Excel Alternatively")	("Microsoft Query", "provides", "ODBC-based browsing Alternatively")	("Microsoft Query", "provides", "ODBC-based browsing within Microsoft Excel")	("Microsoft Query", "provides", "ODBC-based browsing")
+158	
+159	
+160	("we", "have", "to include some VBA code id = VnegO0pMYlIC & pg = PA665 665 2nd To create a robust solution always")	("we", "have", "to include some VBA code id = VnegO0pMYlIC & pg = PA665 665 2nd To create a robust solution")
+161	
+162	
+163	("we", "have", "to include some VBA code id = VnegO0pMYlIC & pg = PA665 665 2nd To create a robust solution always")	("we", "have", "to include some VBA code id = VnegO0pMYlIC & pg = PA665 665 2nd To create a robust solution")
+164	
+165	
+166	
+167	
+168	
+169	("ODBC browser", "can be employed", "within Excel 97")
+170	("It", "allows", "a user to create queries on external relational databases")	("It", "allows", "a user to save queries on external relational databases")	("an ODBC driver", "is", "available external relational databases for which")	("an ODBC driver", "is", "available external relational databases")
+171	
+172	
+173	
+174	
+175	
+176	("ODBC browser", "can be employed", "within Excel 97")
+177	("It", "allows", "a user to create queries on external relational databases")	("It", "allows", "a user to save queries on external relational databases")	("an ODBC driver", "is", "available external relational databases for which")	("an ODBC driver", "is", "available external relational databases")
+178	("Other errors specific to Excel", "include", "misleading statistics functions")	("Other errors specific to Excel", "include", "misleading statistics mod function errors")	("Other errors specific to Excel", "include", "misleading statistics date limitations")	("Other errors specific to Excel", "include", "misleading statistics the Excel 2007 error")
+179	("Spreadsheet Shortcomings", "The accuracy of statistical tools in Excel has been criticized", "McCullough B.D.")	("Spreadsheet Shortcomings", "The convenience of statistical tools in Excel has been criticized", "McCullough B.D.")	("The accuracy of statistical tools in Excel", "Spreadsheet Shortcomings has been criticized", "McCullough B.D.")	("The convenience of statistical tools in Excel", "Spreadsheet Shortcomings has been criticized", "McCullough B.D.")
+180	("Wilson", "is", "B.")
+181	("S0167-9473", "is", "02")
+182	
+183	("Wilson", "is", "B.")
+184	("S0167-9473", "is", "02")
+185	
+186	("Heiser", "is", "D.A.")
+187	
+188	
+189	("Heiser", "is", "D.A.")
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	
+206	
+207	
+208	
+209	("mishandling", "be missing", "data")	("some cell values", "are changed", "when")	("some cell values", "are changed")
+210	("Microsoft", "has announced", "some of these issues are addressed in Excel 2010")	("some of these issues", "are addressed", "in Excel 2010")
+211	("Comments", "are provided", "from readers")	("readers", "may illuminate", "some remaining problems")
+212	("menus", "be related", "to graphs")	("menus", "be related", "to graph formatting")	("menus related to graphs", "have been changed", "In the Microsoft Excel 2007")	("menus related to graph formatting", "have been changed", "In the Microsoft Excel 2007")	("menus related to graphs", "have been changed")	("menus related to graph formatting", "have been changed")
+213	("Some common activities in using graphs", "are transparent", "less than previously")	("Some common activities in using graphs", "are transparent", "less")	("Some common activities in using graphs", "are transparent", "than previously")	("Some common activities in using graphs", "are", "transparent")
+214	("one", "can click", "on the graph right")	("one", "can click", "on the graph")	("one", "can select data", "from the drop-down menu right on the graph")	("one", "can select data", "from the drop-down menu right")	("one", "can select data", "from the drop-down menu on the graph")	("one", "can select data", "from the drop-down menu")	("one", "can use", "the chart tools/design tab right on the graph")	("one", "can use", "the chart tools/design tab right")	("one", "can use", "the chart tools/design tab on the graph")	("one", "can use", "the chart tools/design tab")
+215	("other drop-down menus open", "there are", "when")	("other drop-down menus open", "there are")	("this menu", "does n't appear", "However when there are other drop-down menus open")	("this menu", "does n't appear", "However")	("this menu", "does n't appear", "when there are other drop-down menus open")	("this menu", "does n't appear")	("this menu", "does n't the select data option", "However when there are other drop-down menus open")	("this menu", "does n't the select data option", "However")	("this menu", "does n't the select data option", "when there are other drop-down menus open")	("this menu", "does n't the select data option")
+216	("That facet of the menu system", "must be discovered", "by the user")
+217	("Excel", "has", "issues with modulo operation")
+218	("Excel", "will return", "the error warning NUM In the case of excessively large results")	("Excel", "will return", "the error warning NUM")
+219	
+220	
+221	("MOD Function", "Returns", "#NUM")
+222	("Error Value Microsoft January 19 support.microsoft.com/kb/119083", "is", "2007 2008-11-10 http")
+223	("MOD Function", "Returns", "#NUM")
+224	("Error Value Microsoft January 19 www.bygsoftware", "is", "2007 2008-11-10 http")
+225	
+226	
+227	
+228	("The MOD bug Byg Software 2008-11-10 Excel", "includes", "January 0 incorrectly treating 1900 as a leap year")	("The MOD bug Byg Software 2008-11-10 Excel", "includes", "0 1900 incorrectly treating 1900 as a leap year")	("The MOD bug Byg Software 2008-11-10 Excel", "includes", "0 February 29 incorrectly treating 1900 as a leap year")	("The MOD bug Byg Software 2008-11-10 Excel", "includes", "0 1900 incorrectly treating 1900 as a leap year")	("January 0", "be treating", "incorrectly 1900 as a leap year")	("0 1900", "be treating", "incorrectly 1900 as a leap year")	("0 February 29", "be treating", "incorrectly 1900 as a leap year")	("0 1900", "be treating", "incorrectly 1900 as a leap year")	("January 0", "be treating", "incorrectly 1900")	("0 1900", "be treating", "incorrectly 1900")	("0 February 29", "be treating", "incorrectly 1900")	("0 1900", "be treating", "incorrectly 1900")
+229	
+230	("1900", "are Days of the week before March 1 incorrect support.microsoft.com/kb/214058/EN-US/", "in Excel Microsoft 2008-11-10 http")	("1900", "are", "Days of the week before March 1 incorrect support.microsoft.com/kb/214058/EN-US/")
+231	("1900", "are Days of the week before March 1 incorrect support.microsoft.com/kb/214326/en-us", "in Excel Microsoft 2008-11-10 http")	("1900", "are", "Days of the week before March 1 incorrect support.microsoft.com/kb/214326/en-us")
+232	("Excel 2000", "assumes", "that the year 1900 is a leap year Microsoft 2008-11-10 http support.microsoft.com/kb/214326/en-us incorrectly")	("Excel 2000", "assumes", "that the year 1900 is a leap year Microsoft 2008-11-10 http support.microsoft.com/kb/214326/en-us")	("the year 1900", "is", "a leap year Microsoft 2008-11-10 http support.microsoft.com/kb/214326/en-us")
+233	("Excel 2000", "assumes", "that the year 1900 is a leap year Microsoft 2008-11-10 The bug originated from Lotus 1-2-3 incorrectly")	("Excel 2000", "assumes", "that the year 1900 is a leap year 2008-11-10 The bug originated from Lotus 1-2-3 was purposely implemented in Excel for the purpose of backward compatibility incorrectly")	("Excel 2000", "assumes", "that the year 1900 is a leap year Microsoft 2008-11-10 The bug originated from Lotus 1-2-3")	("Excel 2000", "assumes", "that the year 1900 is a leap year 2008-11-10 The bug originated from Lotus 1-2-3 was purposely implemented in Excel for the purpose of backward compatibility")	("the year 1900", "is", "a leap year Microsoft 2008-11-10 The bug originated from Lotus 1-2-3")	("the year 1900", "is was", "a leap year implemented 2008-11-10 The bug originated from Lotus 1-2-3 purposely in Excel")	("the year 1900", "is was", "a leap year implemented 2008-11-10 The bug originated from Lotus 1-2-3 purposely for the purpose of backward compatibility")	("the year 1900", "is was", "a leap year implemented 2008-11-10 The bug originated from Lotus 1-2-3 purposely")	("the year 1900", "is was", "a leap year implemented 2008-11-10 The bug originated from Lotus 1-2-3 in Excel for the purpose of backward compatibility")	("the year 1900", "is was", "a leap year implemented 2008-11-10 The bug originated from Lotus 1-2-3 in Excel")	("the year 1900", "is was", "a leap year implemented 2008-11-10 The bug originated from Lotus 1-2-3 for the purpose of backward compatibility")	("the year 1900", "is was", "a leap year implemented 2008-11-10 The bug originated from Lotus 1-2-3")	("2008-11-10 The bug", "be originated", "from Lotus 1-2-3")
+234	
+235	
+236	
+237	
+238	("My", "has", "First BillG Review Joel Spolsky Joel on Software")	("This legacy", "My First BillG Review Joel Spolsky Joel on Software has been carried", "over into Office Open XML file format June 16 2006 2008-11-10 later")	("This legacy", "My First BillG Review Joel Spolsky Joel on Software has been carried", "over into Office Open XML file format June 16 2006 2008-11-10")	("This legacy", "My First BillG Review Joel Spolsky Joel on Software has been carried", "over into Office Open XML file format later")	("This legacy", "My First BillG Review Joel Spolsky Joel on Software has been carried", "over into Office Open XML file format")	("My First BillG Review Joel Spolsky Joel on Software", "This legacy has been carried", "over into Office Open XML file format June 16 2006 2008-11-10 later")	("My First BillG Review Joel Spolsky Joel on Software", "This legacy has been carried", "over into Office Open XML file format June 16 2006 2008-11-10")	("My First BillG Review Joel Spolsky Joel on Software", "This legacy has been carried", "over into Office Open XML file format later")	("My First BillG Review Joel Spolsky Joel on Software", "This legacy has been carried", "over into Office Open XML file format")
+239	
+240	
+241	
+242	
+243	
+244	
+245	("Microsoft Excel", "will not open", "two documents with the same name")	("Microsoft Excel", "will not open", "two documents")	("Microsoft Excel", "will not will display", "two documents the following error with the same name instead")	("Microsoft Excel", "will not will display", "two documents the following error with the same name")	("Microsoft Excel", "will not will display", "two documents the following error instead")	("Microsoft Excel", "will not will display", "two documents the following error")	("The reason", "is", "for calculation ambiguity with linked cells")
+246	("a cell = Book1.xlsx Sheet1", "there is")
+247	
+248	("two books", "named")	("no way to tell which one the user means", "there is")	("no way", "be tell", "which one the user means")	("one the user", "means", "which")
+249	("Numeric precision in Microsoft Excel thumb390pxExcel", "maintains", "15 figures in its numbers")	("Numeric precision in Microsoft Excel thumb390pxExcel", "maintains", "15 figures in its numbers")	("its", "has", "numbers")	("they", "are not accurate", "always")	("they", "are not", "accurate")	("the bottom line", "should be the same", "as the top line")	("the bottom line", "should be", "the same")
+250	("Excel", "can display", "many more figures up to thirty upon user request Despite the use of 15-figure precision")	("Excel", "can display", "many more figures up to thirty upon user request")
+251	("the displayed figures", "are not those", "actually used in its computations for example the difference of two numbers may differ from the difference of their displayed values")	("the displayed figures", "are not so", "actually used in its computations for example the difference of two numbers may differ from the difference of their displayed values")	("the displayed figures", "are not those", "actually used in its computations the difference of two numbers may differ from the difference of their displayed values")	("the displayed figures", "are not so", "actually used in its computations the difference of two numbers may differ from the difference of their displayed values")	("the displayed figures", "are not those", "for example the difference of two numbers may differ from the difference of their displayed values")	("the displayed figures", "are not so", "for example the difference of two numbers may differ from the difference of their displayed values")	("the displayed figures", "are not those", "the difference of two numbers may differ from the difference of their displayed values")	("the displayed figures", "are not so", "the difference of two numbers may differ from the difference of their displayed values")	("not those for example the difference of two numbers may differ from the difference of their displayed values", "be used", "actually in its computations")	("not so for example the difference of two numbers may differ from the difference of their displayed values", "be used", "actually in its computations")	("not those for example the difference of two numbers may differ from the difference of their displayed values", "be used", "actually")	("not so for example the difference of two numbers may differ from the difference of their displayed values", "be used", "actually")	("its", "has", "computations")	("the difference of two numbers", "may differ", "from the difference of their displayed values")	("their", "has", "displayed values")
+252	("such departures", "are", "usually beyond the 15th decimal")	("exceptions", "do occur", "especially for very large numbers Although such departures are usually beyond the 15th decimal")	("exceptions", "do occur", "especially for very very small numbers Although such departures are usually beyond the 15th decimal")	("exceptions", "do occur", "especially for very large numbers")	("exceptions", "do occur", "especially for very very small numbers")
+253	("Serious errors", "can occur", "if decisions are made based upon automated comparisons of numbers for example as equality of two numbers can be unpredictable")	("Serious errors", "can occur", "if decisions are made based upon automated comparisons of numbers for example")	("decisions", "are made")	("equality of two numbers", "can be", "unpredictable")
+254	("the fraction 1/9000", "is displayed", "in Excel In the figure")	("the fraction 1/9000", "is displayed", "in Excel")
+255	("this number", "has", "a decimal representation")	("a decimal representation", "is an infinite string", "of ones")	("a decimal representation", "is", "an infinite string")	("Excel", "displays", "only the leading 15 figures Although this number has a decimal representation")	("Excel", "displays", "only the leading 15 figures")
+256	("the number one", "is added", "to the fraction In the second line")	("the number one", "is added", "to the fraction")	("Excel", "displays", "only 15 figures again")	("Excel", "displays", "only 15 figures")
+257	("one", "is subtracted", "from the sum using Excel In the third line")	("one", "is subtracted", "using Excel In the third line")	("one", "is subtracted", "from the sum using Excel")	("one", "is subtracted", "using Excel")
+258	("the sum in the second line", "has", "only eleven 1 's after the decimal")	("1", "is subtracted", "from this displayed value the difference when")	("1", "is subtracted", "the difference when")	("1", "is subtracted", "from this displayed value the difference")	("1", "is subtracted", "the difference")	("the difference", "is", "three 0 's followed by a string of eleven 1 's Because the sum in the second line has only eleven 1 's after the decimal")	("the difference", "is", "three 0 's followed by a string of eleven 1 's")	("three 0 's", "be followed", "by a string of eleven 1 's")
+259	("the difference is three 0 's followed by a string of thirteen 1 's", "be reported", "by Excel in the third line")	("the difference is three 0 's followed by a string of thirteen 's two extra erroneous digits", "be reported", "by Excel in the third line")	("the difference is three 0 's followed by a string of thirteen 1 's", "be reported", "by Excel")	("the difference is three 0 's followed by a string of thirteen 's two extra erroneous digits", "be reported", "by Excel")	("three 0 's followed by a string of thirteen 1 's", "is")	("three 0 's followed by a string of thirteen 's two extra erroneous digits", "is")	("three 0 's", "be followed", "by a string of thirteen 1 's")	("three 0 's", "be followed", "by a string of thirteen 's two extra erroneous digits")
+260	("the numbers", "Excel calculates", "with to obtain the third line")	("Excel", "the numbers calculates", "with to obtain the third line")	("it", "displays", "the numbers that in the first two lines")	("it", "displays", "the numbers that")
+261	("Excel", "has", "answer")	("the error in Excel 's answer", "is not just round-off error", "Moreover")	("the error in Excel 's answer", "is not", "just round-off error")
+262	("Excel", "works", "with a modified 1985 version of the IEEE 754 specification")
+263	
+264	("Floating-point arithmetic", "may give", "inaccurate results in Excel Microsoft support Revision 8.2")
+265	("article ID 78113 June 30 2010 2010-07-02 Microsoft 's overview is found at http support.microsoft.com/kb/78113/en-us", "has", ";")	("Microsoft", "has", "overview")	("Microsoft 's overview", "is found", "at http support.microsoft.com/kb/78113/en-us 78113 June 30 2010 2010-07-02")	("Microsoft 's overview", "is found", "at http support.microsoft.com/kb/78113/en-us")
+266	("Floating-point arithmetic", "may give", "inaccurate results in Excel Microsoft support Revision 8.2")
+267	("Excel", "has", "implementation")	("Excel 's implementation", "involves", "an amalgam of truncations between binary representations 78113 June 30 2010 2010-07-02")	("Excel 's implementation", "involves", "an amalgam of conversions between binary and decimal representations 78113 June 30 2010 2010-07-02")	("Excel 's implementation", "involves", "an amalgam of truncations between decimal representations 78113 June 30 2010 2010-07-02")	("Excel 's implementation", "involves", "an amalgam of truncations between binary representations")	("Excel 's implementation", "involves", "an amalgam of conversions between binary and decimal representations")	("Excel 's implementation", "involves", "an amalgam of truncations between decimal representations")	("Excel 's implementation", "worse", "an amalgam of truncations between binary representations 78113 June 30 2010 2010-07-02 sometimes")	("Excel 's implementation", "worse", "an amalgam of conversions between binary and decimal representations 78113 June 30 2010 2010-07-02 sometimes")	("Excel 's implementation", "worse", "an amalgam of truncations between decimal representations 78113 June 30 2010 2010-07-02 sometimes")	("Excel 's implementation", "worse", "an amalgam of truncations between binary representations 78113 June 30 2010 2010-07-02 much")	("Excel 's implementation", "worse", "an amalgam of conversions between binary and decimal representations 78113 June 30 2010 2010-07-02 much")	("Excel 's implementation", "worse", "an amalgam of truncations between decimal representations 78113 June 30 2010 2010-07-02 much")	("Excel 's implementation", "worse", "an amalgam of truncations between binary representations 78113 June 30 2010 2010-07-02")	("Excel 's implementation", "worse", "an amalgam of conversions between binary and decimal representations 78113 June 30 2010 2010-07-02")	("Excel 's implementation", "worse", "an amalgam of truncations between decimal representations 78113 June 30 2010 2010-07-02")	("Excel 's implementation", "worse", "an amalgam of truncations between binary representations sometimes much")	("Excel 's implementation", "worse", "an amalgam of conversions between binary and decimal representations sometimes much")	("Excel 's implementation", "worse", "an amalgam of truncations between decimal representations sometimes much")	("Excel 's implementation", "worse", "an amalgam of truncations between binary representations sometimes")	("Excel 's implementation", "worse", "an amalgam of conversions between binary and decimal representations sometimes")	("Excel 's implementation", "worse", "an amalgam of truncations between decimal representations sometimes")	("Excel 's implementation", "worse", "an amalgam of truncations between binary representations much")	("Excel 's implementation", "worse", "an amalgam of conversions between binary and decimal representations much")	("Excel 's implementation", "worse", "an amalgam of truncations between decimal representations much")	("Excel 's implementation", "worse", "an amalgam of truncations between binary representations")	("Excel 's implementation", "worse", "an amalgam of conversions between binary and decimal representations")	("Excel 's implementation", "worse", "an amalgam of truncations between decimal representations")	("accuracy", "is better", "than one sometimes")	("accuracy", "is better", "sometimes")	("accuracy", "is better", "than one")	("accuracy", "is", "better")	("leading to accuracy", "would expect", "from simple fifteen digit precision")
+268	
+269	("functions", "may be raised")
+270	("Excel", "has been criticized", "for sacrificing accuracy for speed of calculation Particularly in the arena of statistical functions")	("Excel", "has been criticized", "for sacrificing accuracy for speed of calculation")
+271	
+272	
+273	
+274	
+275	
+276	
+277	("12 Robert de Levie", "cited", "work 0195152751 2004 45 46 Robert de Levie cited work the coefficient standard deviation")	("46 Robert de Levie", "cited", "work")	("many calculations in Excel", "are executed", "using VBA")	("VBA", "is", "an additional issue")	("0195152751 2004 45 46 As many calculations in Excel are executed using VBA", "is", "the accuracy of VBA work")	("0195152751 2004 45 46 As many calculations in Excel are executed using VBA", "is", "the accuracy work")	("VBA", "varies", "with variable type")	("VBA", "varies", "with variable user-requested precision")
+278	
+279	
+280	
+281	
+282	("PA198 Microsoft", "marketed", "a spreadsheet program called Multiplan in 1982 originally")	("PA198 Microsoft", "marketed", "a spreadsheet program called Multiplan in 1982")	("a spreadsheet program", "be called", "in 1982")
+283	("Multiplan", "became", "very popular on CP/M systems")	("Multiplan", "became", "very popular")	("Multiplan", "on", "very popular MS-DOS systems on CP/M systems")	("Multiplan", "on", "very popular on CP/M systems")	("Multiplan", "on", "very popular MS-DOS systems")	("Multiplan", "on", "very popular")	("it", "lost", "popularity to Lotus 1-2-3 MS-DOS systems")	("it", "lost", "popularity MS-DOS systems")
+284	("Microsoft", "released", "the first version of Excel for the Mac in 30 September 1985")	("Microsoft", "released", "the first version of Excel for the Mac")	("Microsoft", "the first Windows version", "the first version of Excel for the Mac in 30 September 1985")	("Microsoft", "the first Windows version", "the first version of Excel for the Mac")
+285	
+286	
+287	
+288	
+289	
+290	("First", "Look", "InfoWorld Supercalc 4 challenging 1-2-3 with new tactic Infoworld Media Group Inc 1986-07-07 Lotus was slow to bring 1-2-3 to Windows")	("First", "Look", "InfoWorld Supercalc 4 challenging 1-2-3 with new tactic Infoworld Media Group Inc 1986-07-07 Lotus was to bring 1-2-3 to Windows by 1988 Excel had started to outsell 1-2-3")	("First", "Look", "InfoWorld Supercalc 4 challenging 1-2-3 with new tactic Infoworld Media Group Inc 1986-07-07 Lotus was to bring 1-2-3 to Windows helped Microsoft achieve the position of leading PC software developer")	("Supercalc 4 challenging 1-2-3 with new tactic Infoworld Media Group Inc 1986-07-07 Lotus", "was", "slow to bring 1-2-3 to Windows")	("Supercalc 4 challenging 1-2-3 with new tactic Infoworld Media Group Inc 1986-07-07 Lotus", "was", "helped to bring 1-2-3 to Windows Microsoft achieve the position of leading PC software developer")	("Excel", "had started", "to outsell 1-2-3 by 1988")	("Excel", "had started", "to outsell 1-2-3")	("Microsoft", "achieve", "the position of leading PC software developer")
+291	("This accomplishment", "be dethroning", "the king of the software world")	("This accomplishment dethroning the king of the software world", "solidified", "Microsoft as a valid competitor")	("This accomplishment dethroning the king of the software world", "solidified", "Microsoft")	("This accomplishment dethroning the king of the software world", "showed", "Microsoft its future of developing GUI software as a valid competitor")	("This accomplishment dethroning the king of the software world", "showed", "Microsoft its future of developing GUI software")	("its", "has", "future of developing GUI software")
+292	("Microsoft", "pushed", "its advantage with regular new releases")	("Microsoft", "pushed", "its advantage")	("its", "has", "advantage")	("regular new releases", "is", "every two years so")
+293	("a trademark lawsuit by another company", "be selling", "already a software package named Excel")
+294	("Microsoft", "had", "to refer to the program the dispute")	("its", "has", "formal press releases")
+295	("over time this practice", "has been ignored", "However")	("over time this practice", "has been ignored")	("Microsoft", "cleared up", "the issue permanently when they purchased the trademark of the other program")	("Microsoft", "cleared up", "the issue permanently")	("Microsoft", "cleared up", "the issue when they purchased the trademark of the other program")	("Microsoft", "cleared up", "the issue")	("they", "purchased", "the trademark of the other program when")	("they", "purchased", "the trademark of the other program")
+296	
+297	
+298	("Excel", "offers", "many user interface")	("the essence", "remains", "the same as in the original spreadsheet software however")	("the essence", "remains", "the same as in the original spreadsheet software however")	("the essence", "remains", "the same as in the original spreadsheet software however")	("the essence", "remains", "the same as in the original spreadsheet software however")	("the essence", "remains", "the same as in the original spreadsheet software however")	("the essence", "remains", "the same as in the original spreadsheet software however")	("the essence", "remains", "the same as in the original spreadsheet software")	("the essence", "remains", "the same as in the original spreadsheet software")	("the essence", "remains", "the same as in the original spreadsheet software")	("the essence", "remains", "the same as in the original spreadsheet software")	("the essence", "remains", "the same as in the original spreadsheet software")	("the essence", "remains", "the same as in the original spreadsheet software")	("the program", "displays", "cells organized in rows")	("the program", "displays", "cells organized in columns")	("cells", "be organized", "in rows")	("cells", "be organized", "in columns")	("each cell", "may contain", "data with relative references to other cells")	("each cell", "may contain", "a formula with relative references to other cells")	("each cell", "may contain", "a formula with absolute references to other cells")	("each cell", "may contain", "data with absolute references to other cells")
+299	("Excel", "became", "the first spreadsheet to allow the user to define the appearance of spreadsheets fonts")	("Excel", "became", "the first spreadsheet to allow the user to define the appearance of spreadsheets character attributes")	("Excel", "became", "the first spreadsheet to allow the user to define the appearance of spreadsheets cell appearance")	("the first spreadsheet", "be allow", "the user to define the appearance of spreadsheets fonts")	("the first spreadsheet", "be allow", "the user to define the appearance of spreadsheets character attributes")	("the first spreadsheet", "be allow", "the user to define the appearance of spreadsheets cell appearance")
+300	("It", "introduced", "intelligent cell recomputation also")	("It", "introduced", "intelligent cell recomputation")	("the cell", "be modified")	("only cells dependent on the cell being modified", "are updated", "intelligent cell recomputation where")	("only cells dependent on the cell being modified", "are updated", "intelligent cell recomputation where")	("only cells dependent on the cell being modified", "are updated", "intelligent cell recomputation")	("only cells dependent on the cell being modified", "are updated", "intelligent cell recomputation")	("previous spreadsheet programs", "be recomputed", "everything all the time for a specific user command")	("previous spreadsheet programs", "be recomputed", "everything all the waited for a specific user command")
+301	("Excel", "has", "extensive graphing capabilities")	("Excel", "enables", "extensive graphing capabilities users to perform mail")
+302	
+303	("Excel", "has included", "Visual Basic for Applications")	("Visual Basic for Applications", "is", "a programming language based on Visual Basic")	("Applications", "is", "VBA")	("a programming language", "be based", "on Visual Basic")	("Visual Basic", "adds", "the ability to automate tasks in Excel")	("Visual Basic", "adds", "the ability to tasks in Excel to provide user-defined functions for use in worksheets")	("the ability to to provide user-defined functions for use in worksheets", "be automate", "tasks in Excel")	("the ability to to provide", "be automate", "tasks in Excel user-defined functions for use in worksheets")	("user-defined functions for use in worksheets", "is", "UDF")
+304	("VBA", "is a powerful addition", "to the application")	("VBA", "is", "a powerful addition")	("VBA", "is", "a powerful includes to the application a fully featured integrated development environment")	("VBA", "is", "a powerful includes a fully featured integrated development environment")	("a fully featured integrated development environment", "is", "IDE")
+305	("Macro recording", "can produce", "VBA code replicating user actions thus allowing simple automation of regular tasks")	("Macro recording", "can produce", "VBA code replicating user actions")	("Macro recording", "be allowing", "simple automation of regular tasks")	("code", "be replicating", "user actions")
+306	("VBA", "allows", "the creation of forms to communicate with the user")	("VBA", "allows", "the creation of in-worksheet controls to communicate with the user")
+307	("The language", "supports", "use not creation of ActiveX DLL 's")	("ActiveX", "is", "COM")	("later versions", "add", "support for class modules allowing the use of basic object-oriented programming techniques")	("later versions", "add", "support for class modules")	("later versions", "be allowing", "the use of basic object-oriented programming techniques")
+308	("The automation functionality", "be provided", "by VBA")	("The automation functionality provided by VBA", "made", "Excel a target for macro viruses")	("Excel", "a target", "for macro viruses")
+309	("This", "caused", "serious problems until antivirus products began to detect these viruses")	("This", "caused", "serious problems")	("antivirus products", "began", "to detect these viruses")
+310	("Microsoft", "took", "steps to prevent the misuse by adding the ability to disable macros completely to enable macros when opening a workbook belatedly")	("Microsoft", "took", "steps to prevent the misuse by adding the ability to disable macros completely to enable macros when a workbook to trust all macros signed using a trusted certificate belatedly")	("Microsoft", "took", "steps to prevent the misuse by adding the ability to disable macros completely to enable macros when opening a workbook")	("Microsoft", "took", "steps to prevent the misuse by adding the ability to disable macros completely to enable macros when a workbook to trust all macros signed using a trusted certificate")	("steps", "be prevent", "the misuse by adding the ability to disable macros completely to enable macros when opening a workbook")	("steps", "be prevent", "the misuse by adding the ability to disable macros completely to enable macros when a workbook to trust all macros signed using a trusted certificate")	("the ability", "be disable", "macros completely to enable macros when opening a workbook")	("the ability", "be disable", "macros completely to enable macros when a workbook to trust all macros signed using a trusted certificate")	("the ability", "be disable", "macros completely to enable macros")	("all macros", "be signed", "using a trusted certificate")
+311	
+312	
+313	("10 Microsoft", "has taken", "measures to eliminate such undocumented features from their products version")	("measures", "be eliminate", "such undocumented features from their products")	("their", "has", "products")
+314	
+315	
+316	("Larry Osterman October 21", "is", "2005 2006-07-29 Larry Osterman 's WebLog MSDN Blogs Microsoft Office 2000 For many users")	("2005 2006-07-29 Larry Osterman", "has", "WebLog MSDN Blogs Microsoft Office 2000 For many users")	("the most obvious changes the rest of the Office 2000 suite", "be introduced", "with Excel 2000")	("one of the most obvious changes introduced with Excel 2000 the rest of the Office 2000 suite", "involved", "a clipboard Larry Osterman October 21")	("a clipboard", "could hold", "multiple objects at once")	("a clipboard", "could hold", "multiple objects")
+317	("the Office Assistant", "has", "frequent unsolicited appearance in Excel 97")	("the Office Assistant frequent unsolicited appearance in Excel 97", "had annoyed", "many users")	("the Office Assistant", "became", "less intrusive another noticeable change")
+318	("a completely revamped user interface", "be called", "the Ribbon menu system")	("64pxthumbExcel 2007 icon thumb250pxMicrosoft Excel 2007 The most obvious change", "is a completely revamped user interface", "called the Ribbon menu system")	("64pxthumbExcel 2007 icon thumb250pxMicrosoft Excel 2007 The most obvious change", "is", "a completely revamped user interface")	("the Ribbon menu system", "means", "a user must abandon most habits acquired from previous versions")	("a user", "must abandon", "most habits acquired from previous versions")	("most habits", "be acquired", "from previous versions")
+319	
+320	
+321	("removing the gridlines", "takes", "2 mouse-clicks instead of 5 greatly improved management of named variables through the Name Manager now")	("removing the gridlines", "takes", "2 mouse-clicks greatly improved management of named variables through the Name Manager now")	("removing the gridlines", "takes", "2 mouse-clicks instead of 5 greatly improved management of named variables through the Name Manager")	("removing the gridlines", "takes", "2 mouse-clicks greatly improved management of named variables through the Name Manager")	("removing the gridlines", "much improved flexibility", "2 mouse-clicks greatly improved management of named variables through the Name Manager now instead of 5")	("removing the gridlines", "much improved flexibility", "2 mouse-clicks greatly improved management of named variables through the Name Manager in formatting graphs now")	("removing the gridlines", "much improved flexibility", "2 mouse-clicks greatly improved management of named variables through the Name Manager now")	("removing the gridlines", "much improved flexibility", "2 mouse-clicks greatly improved management of named variables through the Name Manager in formatting graphs instead of 5")	("removing the gridlines", "much improved flexibility", "2 mouse-clicks greatly improved management of named variables through the Name Manager instead of 5")	("removing the gridlines", "much improved flexibility", "2 mouse-clicks greatly improved management of named variables through the Name Manager in formatting graphs")	("removing the gridlines", "much improved flexibility", "2 mouse-clicks greatly improved management of named variables through the Name Manager")	("formatting graphs", "allow", "coordinate labeling of arbitrary weight now")	("formatting graphs", "allow", "coordinate lines of arbitrary weight now")	("formatting graphs", "allow", "coordinate labeling of arbitrary weight")	("formatting graphs", "allow", "coordinate lines of arbitrary weight")	("x", "is", "y")
+322	("The number of rows", "is 1,048,576", "now")	("The number of rows", "is columns", "now")	("The number of rows", "is", "1,048,576")	("The number of rows", "is", "columns")	("The number of rows is now 1,048,576", "is", "16,384")	("The number of rows is now columns", "is", "16,384")
+323	("Several improvements to pivot tables", "were introduced")
+324	
+325	
+326	
+327	("Mark Dodge", "is", "Craig Stinson 2007 Microsoft Press 073562321X Chapter 1")	("new in Microsoft Office Excel 2007 1 ff Microsoft Office Excel 2007 inside out Mark Dodge What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only are executed in parallel if they are thread-safe", "'s", "What")	("new in Microsoft Office Excel 2007 1 ff Microsoft Office Excel 2007 inside out Mark Dodge What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only are executed in parallel if they are thread-safe and indicate this at the time of registration", "'s", "What")	("new in Microsoft Office Excel 2007 1 ff Microsoft Office Excel 2007 inside out Mark Dodge What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only are in parallel if they are thread-safe indicate this at the time of registration", "'s", "What")	("Mark Dodge", "is", "Craig Stinson 2007 Microsoft Press 073562321X Chapter 1")	("new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets", "'s", "What")	("2007 1 ff This version", "makes", "Microsoft Office Excel more extensive use of multiple cores for the calculation of spreadsheets")	("2007 1 ff This version", "makes", "Microsoft Office Excel more extensive use of multiple cores")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets in parallel addins however")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets in XLL addins however")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets only however")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets in parallel addins only")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets in XLL addins only")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets in parallel addins")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets in XLL addins")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets only")	("VBA macros", "are not handled", "What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are executed", "in parallel if they are thread-safe out Mark Dodge")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are executed", "in parallel if they are thread-safe out Mark Dodge")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are executed", "in parallel out Mark Dodge")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are executed", "in parallel out Mark Dodge")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are executed", "in parallel if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are executed", "in parallel if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are executed", "in parallel")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are executed", "in parallel")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this out Mark Dodge in parallel")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this out Mark Dodge in parallel")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this out Mark Dodge if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this out Mark Dodge if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this at the time of registration out Mark Dodge")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this at the time of registration out Mark Dodge")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this out Mark Dodge")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this out Mark Dodge")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this in parallel if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this in parallel if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this at the time of registration in parallel")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this at the time of registration in parallel")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this in parallel")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this in parallel")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this at the time of registration if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this at the time of registration if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this if they are thread-safe")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this at the time of registration")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this at the time of registration")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in parallel addins only", "are indicate", "this")	("What 's new in Microsoft Office Excel 2007 1 ff This version makes more extensive use of multiple cores for the calculation of spreadsheets however VBA macros are not handled in XLL addins only", "are indicate", "this")	("they", "are", "thread-safe")
+328	("The changes in Excel 2010", "are listed", "on the microsoft website")
+329	
+330	("their", "has", "data sets of 16K 2 ^ 14 = 16384 rows")
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	
+341	
+342	
+343	
+344	
+345	
+346	("2007 version", "used", "a proprietary binary file format called Binary Interchange File Format as its primary format")	("2007 version", "used", "a proprietary binary file format called Binary Interchange File Format")	("a proprietary binary file format", "be called")	("Binary Interchange File Format", "is", "BIFF")	("its", "has", "primary format")
+347	
+348	
+349	("its primary file format", "is", "an XML based format")	("its", "has", "primary file format")	("based format", "followed", "after a previous XML based format first introduced in Excel 2002")	("based format", "followed", "after a previous based format called XML Spreadsheet XMLSS first introduced in Excel 2002")	("a previous XML based format", "be introduced", "first in Excel 2002")	("a previous based format called XML Spreadsheet XMLSS", "be introduced", "first in Excel 2002")	("a previous XML based format", "be introduced", "first")	("a previous based format called XML Spreadsheet XMLSS", "be introduced", "first")
+350	
+351	
+352	
+353	
+354	
+355	
+356	("replacements", "is", "Excel 2007")	("replacements", "remained", "backwards-compatible with the traditional binary formats")	("replacements", "remained", "backwards-compatible")
+357	("most versions of Microsoft Excel", "can read", "CSV In addition")	("most versions of Microsoft Excel", "can read", "DBF In addition")	("most versions of Microsoft Excel", "can read", "SYLK In addition")	("most versions of Microsoft Excel", "can read", "DIF In addition")	("most versions of Microsoft Excel", "can read", "other legacy formats In addition")	("most versions of Microsoft Excel", "can read", "CSV")	("most versions of Microsoft Excel", "can read", "DBF")	("most versions of Microsoft Excel", "can read", "SYLK")	("most versions of Microsoft Excel", "can read", "DIF")	("most versions of Microsoft Excel", "can read", "other legacy formats")
+358	("Support for some older file formats", "were removed", "in Excel 2007")
+359	
+360	
+361	
+362	
+363	("David Gainer August 24 were mainly from DOS based programs", "is", "2006 2009-01-02 The file formats")	("David Gainer August 24", "be were", "mainly from DOS based programs")
+364	
+365	
+366	
+367	
+368	
+369	
+370	
+371	
+372	("Microsoft", "made", "the Excel binary format specification available to freely download")
+373	
+374	
+375	
+376	
+377	
+378	
+379	("The XML Spreadsheet format", "be introduced", "in Excel 2002")	("97-2007 format 2007 Microsoft Corporation Microsoft Office XML formats The XML Spreadsheet format introduced in Excel 2002", "is a simple XML based format", "missing some more advanced features like storage of VBA macros")	("97-2007 format 2007 Microsoft Corporation Microsoft Office XML formats The XML Spreadsheet format introduced in Excel 2002", "is", "a simple XML based format")	("a simple XML based format", "be missing", "some more advanced features like storage of VBA macros")
+380	
+381	
+382	
+383	
+384	
+385	("MySQL Query Browser", "be offer", "export to Excel capabilities without implementing binary file format")
+386	("The following example", "will be opened", "by Excel if saved as Book1.xml correctly")	("The following example", "will be opened", "by Excel correctly")	("The following example", "will be opened", "by Excel if saved as Book1.xml")	("The following example", "will be opened", "by Excel")
+387	
+388	
+389	("deprecated February 2009 Office Open XML Microsoft Excel 2007 along with the other products in the Microsoft Office 2007 suite", "introduced", "new file-formats when")	("deprecated February 2009 Office Open XML Microsoft Excel 2007 along with the other products in the Microsoft Office 2007 suite", "introduced", "new file-formats")
+390	
+391	("the Office Open XML", "is", "OOXML")
+392	("The new Excel 2007 formats", "are Excel 2010 continues", "with these new formats")	("Excel 2010", "The new Excel 2007 formats are continues", "with these new formats")
+393	("Programmers", "have produced", "API to open Excel spreadsheets in a variety of applications other than Microsoft Excel")	("Programmers", "have produced", "API to open Excel spreadsheets in a variety of environments other than Microsoft Excel")	("Programmers", "have produced", "API to open Excel spreadsheets")
+394	("These", "include", "opening Excel documents on the web using ActiveX controls")	("These", "include", "opening Excel documents on the web using ActiveX plugins like the Adobe Flash Player")	("These", "include", "opening Excel documents on the web")	("opening Excel documents on the web", "be using", "ActiveX controls")	("opening Excel documents on the web", "be using", "ActiveX plugins like the Adobe Flash Player")
+395	("The Apache POI opensource project", "provides", "Java libraries for reading")	("The Apache POI opensource project", "provides", "Java libraries")	("The Apache POI opensource project", "writing", "Java libraries Excel spreadsheet files for reading")	("The Apache POI opensource project", "writing", "Java libraries Excel spreadsheet files")
+396	("ExcelPackage", "is", "another open-source project")	("another open-source project", "provides", "server-side generation of Microsoft Excel 2007 spreadsheets")
+397	("PHPExcel", "is", "a PHP library")	("a PHP library", "converts", "Excel5")	("a PHP library", "converts", "Excel 2003")	("a PHP library", "converts", "Excel 2007 formats into objects for reading")	("a PHP library", "writing", "Excel5 within a web application")	("a PHP library", "writing", "Excel 2003 within a web application")	("a PHP library", "writing", "Excel 2007 formats into objects for reading within a web application")	("a PHP library", "writing", "Excel5")	("a PHP library", "writing", "Excel 2003")	("a PHP library", "writing", "Excel 2007 formats into objects for reading")
+398	
+399	("Dynamic Data Exchange", "uses", "the message passing mechanism in Windows to allow data to flow between Excel and other applications")	("the message", "be mechanism", "in Windows to allow data to flow between Excel and other applications")	("the message", "be mechanism", "in Windows")	("passing mechanism in Windows", "be allow", "data to flow between Excel and other applications")
+400	("it", "is easy", "for users to create such links")	("it", "is", "easy")	("users", "to create", "such links")	("such links", "is difficult", "that Microsoft officially refer to it as the protocol from hell reliably")	("such links", "is difficult", "that Microsoft officially refer to it as the protocol from hell")	("Microsoft", "is", "the creators of the system")	("Microsoft", "refer", "to it as the protocol from hell officially")	("Microsoft", "refer", "to it officially")	("Microsoft", "refer", "to it as the protocol from hell")	("Microsoft", "refer", "to it")
+401	("its", "has", "many issues")	("DDE", "remains", "the most common way for data to reach traders in financial markets its many issues")	("data", "be reach", "traders in financial markets")
+402	("Network DDE", "Extended", "the protocol to allow spreadsheets on different computers to exchange data")	("Network DDE", "Extended", "the protocol")	("Network DDE", "be allow", "spreadsheets on different computers to exchange data")
+403	("it", "is not surprising", "that in Vista Microsoft no longer supports the facility Given the view above")	("it", "is not surprising", "that in Vista Microsoft no longer supports the facility")	("Microsoft", "supports", "the facility in Vista no longer")	("Microsoft", "supports", "the facility in Vista")	("Microsoft", "supports", "the facility no longer")	("Microsoft", "supports", "the facility")
+404	("it", "requires", "non-trivial programming skills")	("first released", "was documented", "when adequately")	("first released", "was documented", "when")	("first released", "was documented", "adequately")	("first released", "was documented")	("first released", "was supported", "by the major data vendors when adequately")	("first released", "was supported", "by the major data vendors when")	("first released", "was supported", "by the major data vendors adequately")	("first released", "was supported", "by the major data vendors")
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	("A document with the name % s '", "is open", "already")	("A document with the name % s '", "is", "open")
+413	("You", "can not open", "two documents with the same name even if the documents are in different folders")	("You", "can not open", "two documents with the same name")	("You", "can not open", "two documents even if the documents are in different folders")	("You", "can not open", "two documents")	("the documents", "are", "in different folders")
+414	("the document", "is open", "currently")	("the rename one of the documents", "is open", "currently")	("the document", "is", "open")	("the rename one of the documents", "is", "open")
+415	
+416	
+417	
+418	
+419	
+420	
+421	("also a 32-bit version for Windows NT only on the x86 1995 Excel for Windows 95", "is", "version 7.0")	("also a 32-bit version for Windows NT only on the PowerPC 1995 Excel for Windows 95", "is", "version 7.0")	("also a 32-bit version for Windows NT only on the Alpha 1995 Excel for Windows 95", "is", "version 7.0")	("also a 32-bit version for Windows NT only on the MIPS architectures 1995 Excel for Windows 95", "is", "version 7.0")
+422	("Excel 97", "is", "version 8.0")
+423	
+424	("This version of Excel", "includes", "a flight simulator as an Easter Egg")
+425	("Excel 2000", "is", "version 9.0")
+426	("Office", "be included", "in Office 2007 2010 Excel 2010 version 14 included in Office 2010 Note")	("Office", "be included", "in Office 2010 Note")
+427	("Windows", "existed", "ever")	("Windows", "existed")	("the Windows version", "originated", "at the time")	("the Mac version", "was", "up to 2.0 the time")	("the Mac version", "was", "the time")
+428	("no Excel 6.0", "There is", "Note")
+429	("the Windows 95 version", "was launched", "with Word 7")
+430	
+431	("products", "have", "OLE 2 capacity")	("moving data automatically from various programs", "would show", "that it was contemporary with Word 7")	("moving automatically from various programs Excel 7", "would show", "that it was contemporary with Word 7")	("it", "was contemporary", "with Word 7")	("it", "was", "contemporary")
+432	
+433	
+434	
+435	
+436	
+437	
+438	
+439	
+440	
+441	
+442	
+443	
+444	
+445	
+446	("1989 Excel 2.2", "is", "part of Office 2011")
+447	
+448	
+449	
+450	
+451	("Mark Dodge", "is", "Craig Stinson 2007 Microsoft Press 073562321X http")

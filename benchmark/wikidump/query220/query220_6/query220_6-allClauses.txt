@@ -1,0 +1,825 @@
+0	
+1	SVC (S: HS@27, V: "is", C: Warriors@36)	SV (V: end@53, S: Warriors@51)	SVC (S: end@63, V: "is", C: Lakers@66)	SVC (S: Conquistadors@72, V: "is", C: ABA@74)	SVC (S: end@93, V: "is", C: end@96)	SVC (S: 1969@166, V: "is", C: 1971@168)	SVA (V: "be scoring", S: NBA@174, O: Rookie@204)	SVC (S: 1960@188, V: "is", C: end@198)	SVC (S: 1963@190, V: "is", C: 1966@192)
+2	
+3	SVO (V: Assists@3, S: rpg@1, O: 4.4@6)
+4	SVC (S: Chamberlain@11, V: "is", C: August@13)	SVC (S: player@29, V: "is", C: 76ers@38)	SVC (C: player@29, V: was@23, S: Chamberlain@11, A?: for@30)	SVA (V: played@47, S: he@45, A?: also@46, A!: for@48, A?: prior@52)
+5	SVO (V: weighed@7, S: Chamberlain@6, O: pounds@9, A?: as@10)
+6	
+7	
+8	
+9	SVC (S: March@1, V: "is", C: January@5)	SVC (S: March@1, V: "is", C: 2008@8)
+10	
+11	
+12	
+13	
+14	
+15	
+16	SVOO (V: played@10, S: He@9, O: position@13, IO: 2008@8)	SVOO (V: considered@16, S: He@9, O: position@13, A?: by@17, A?: as@20, IO: 2008@8)	SVO (S: his@18, V: "has", O: contemporaries@19)
+17	
+18	SVO (V: towered@2, S: Chamberlain@1, A?: over@3, O: static.espn.go.com/nba/news/1999/1012/110493.html@9)
+19	
+20	SVO (V: towered@2, S: Chamberlain@1, A?: over@3, O: static.espn.go.com/nba/news/1999/1012/110493.html@9)
+21	SVA (V: "be setting", S: Chamberlain@9, O: records@18, A!: in@19)	SVO (V: holds@10, S: Chamberlain@9, O: records@15, A?: setting@17)
+22	SVC (C: player@10, V: is@7, S: he@6, A?: Among@1, A?: in@11, A?: average@15)	SVA (V: "be average", S: player@10, O: points@21, A!: in@22, A?: in@29)
+23	SVO (V: won@3, S: He@1, A?: also@2, O: percentage@10)	SVO (V: titles@15, S: He@1, A?: also@2, O: percentage@10)
+24	SVO (V: suffered@3, S: he@2, O: string@6)	SVOC (V: battled@14, S: Wilt@13, A?: suffered@3, O: http@17, O: static.espn.go.com/sportscentury/features/00014133.html@21)
+25	SVOC (V: battled@12, S: Wilt@11, O: http@15, O: static.espn.go.com/sportscentury/features/00014133.html@19)
+26	SVOC (V: had@10, S: Chamberlain@9, O: career@13, A?: winning@15, XCOMP: earning@20, O: Rookie@29)	SVA (V: "be winning", S: Chamberlain@9, O: titles@18)
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	
+40	
+41	SVA (V: enshrined@9, S: Chamberlain@6, A?: yes@5, A?: subsequently@8, A!: in@10, A?: in@18)	SVA (V: elected@21, S: February@1, A!: into@22)	SVA (V: chosen@33, S: February@1, A?: into@22, A!: as@34)	SVO (S: NBA@24, V: "has", O: Team@28)
+42	SVA (V: known@3, S: Chamberlain@1, A!: by@4)	SVO (S: his@8, V: "has", O: basketball@9)	SVA (V: "be playing", S: basketball@9, O: career@11)
+43	SVO (V: hated@2, S: He@1, O: ones@4)	SVO (V: called@6, S: ones@4, O: attention@7, A?: to@8)	SVO (S: his@9, V: "has", O: height@10)	SVA (V: coined@21, S: Stilt@17, A!: during@22)	SVO (S: his@23, V: "has", O: days@26)
+44	SVO (V: preferred@2, S: He@1, O: Dipper@5)	SVA (V: inspired@9, S: Dipper@5, A!: by@10)	SVO (S: his@11, V: "has", O: friends@12)	SVO (V: saw@14, S: friends@12, CCOMP: dip@16)	SVO (V: dip@16, S: him@15, O: head@18, A?: walked@21)	SVO (S: his@17, V: "has", O: head@18)	SV (V: walked@21, S: he@20, A?: through@22)
+45	SVO (V: called@4, S: He@1, A?: also@3, XCOMP: Chairman@6)
+46	SVO (S: his@2, V: "has", O: career@4)	SV (V: ended@5, S: career@4)	SVO (V: played@8, S: Chamberlain@7, A?: ended@5, O: volleyball@9, A?: in@10)	SVO (S: his@33, V: "has", O: contributions@34)
+47	SVC (C: businessman@6, V: was@3, S: Chamberlain@1, A?: also@2)	SVOC (C: authored@8, V: was@3, S: Chamberlain@1, A?: also@2, O: books@10)	SVC (C: appeared@13, V: was@3, S: Chamberlain@1, A?: also@2, A?: in@14)
+48	SVC (C: bachelor@5, V: was@2, S: He@1)	SVC (C: became@8, V: was@2, S: He@1, ACOMP: notorious@9, A?: for@10)	SVA (V: "be sex", S: claim@12, A!: with@17)	SVO (S: his@11, V: "has", O: claim@12)
+49	
+50	
+51	
+52	
+53	SVA (V: born@13, S: Chamberlain@11, A!: in@14, A?: into@19)	SVA (S: Philadelphia@15, V: "is in", C: Pennsylvania@17)
+54	SVO (S: his@2, V: "has", O: Cherry@5)	SV (V: observed@6, S: Cherry@5)	SVC (C: child@12, V: was@9, S: he@8, A?: observed@6)	SVO (S: his@19, V: "has", O: years@21)
+55	SVC (S: Cherry@8, V: "is", C: Books@11)	SVC (S: Books@11, V: "is", C: Chicago@13)
+56	SVO (S: his@2, V: "has", O: years@4)	SVC (C: interested@8, V: was@6, S: Chamberlain@5, A?: In@1, A?: in@9, A?: thought@14)	SVO (V: thought@14, S: he@13, CCOMP: game@19)	SVC (C: game@19, V: was@16, S: it@15, A?: for@20)
+57	SVC (S: Cherry@1, V: "is", C: 8@3)
+58	SVC (C: track@7, V: was@4, S: he@3, A?: Instead@1)	SVO (V: jump@18, S: he@16, A?: as@12, A?: high@17, O: feet@20)	SVC (S: feet@20, V: "is", C: inches@23)
+59	
+60	
+61	
+62	
+63	SVC (S: Chamberlain@12, V: "is", C: king@17)	SVC (C: king@17, V: was@16, S: basketball@15, A?: in@18)	SVA (V: turned@25, S: February@1, A-: so@22, A?: eventually@24, A!: to@26)	SVA (V: turned@25, S: he@23, A-: so@22, A?: eventually@24, A!: to@26)
+64	
+65	SVC (C: child@7, V: was@3, S: Chamberlain@2)	SVC (S: Cherry@16, V: "is", C: 9@18)
+66	SVOO (V: entered@8, S: he@7, A?: when@6, O: School@13, IO: inches@5)	SVO (S: Philadelphia@9, V: "has", O: School@13)	SVOC (V: had@16, S: he@15, CCOMP: inches@5, O: advantage@19, A?: against@20)	SVO (S: his@21, V: "has", O: peers@22)	SVA (V: renowned@27, S: he@24, A?: soon@25, A!: for@28)	SVO (S: his@29, V: "has", O: talent@31)	SVO (S: his@33, V: "has", O: strength@35)	SVO (S: his@37, V: "has", O: shot@38)	SVA (V: "be blocking", S: shot@38, O: abilities@40)
+67	
+68	SVC (C: scary@11, V: was@9, S: Chamberlain@8, A?: According@1)
+69	SVA (V: came@3, S: he@2, A!: along@4)	SVC (C: men@11, V: were@9, S: players@8, A?: came@3)
+70	SVO (V: changed@2, S: Chamberlain@1, O: that@3)
+71	SVC (C: http@14, V: was@11, S: Wilt@10)
+72	SVC (C: http@21, V: was@18, S: Wilt@17)
+73	SVA (V: was@10, S: It@9, A!: also@11, A?: in@12)	SVO (S: his@16, V: "has", O: life@17)	SVO (S: his@19, V: "has", O: nicknames@22)	SVO (S: his@34, V: "has", O: favorite@35)	SV (V: born@45, S: nicknames@22, A?: when@18, A?: allegedly@44)
+74	SVO (V: averaged@10, S: Chamberlain@9, A?: As@1, O: points@12, A?: during@13)	SVOC (V: led@20, S: Chamberlain@9, A?: As@1, O: points@12, A?: during@13, O: team@22, A?: to@23)	SVO (S: his@21, V: "has", O: team@22)	SVA (V: win@28, S: 62@27, A!: against@29)	SVO (S: his@35, V: "has", O: Rodgers@40)
+75	SVOC (V: scored@2, S: He@1, O: points@4, O: Catholic@31)	SVOC (V: won@6, S: He@1, O: points@4, O: title@11, O: Catholic@31)	SVOC (V: berth@14, S: He@1, O: points@4, A?: for@15, O: Catholic@31)
+76	
+77	SVOO (V: triple-teamed@7, S: Catholic@6, A?: In@1, IO: Chamberlain@8, O: game@11)	SVO (S: center@16, V: "has", O: points@19)	SVO (V: lost@23, S: Panthers@22, A?: despite@14, O: 54-42@24)
+78	SVO (S: his@2, V: "has", O: season@5)	SVO (V: continued@8, S: Chamberlain@7, A?: In@1, O: scoring@11)	SVO (S: his@9, V: "has", O: scoring@11)	SVO (V: scoring@15, S: them@14, O: record@19)
+79	SVO (V: won@4, S: Panthers@2, A?: comfortably@3, O: title@8, A?: after@9)	SVOC (V: won@22, S: Panthers@2, A?: comfortably@3, O: title@8, A?: after@9, A?: later@21, O: title@25, A?: by@26)	SVOO (V: scored@16, S: Chamberlain@15, A?: in@13, O: points@18, IO: Northeast@12)
+80	SVO (V: scored@2, S: Chamberlain@1, O: points@4)	SVOC (V: led@7, S: Chamberlain@1, O: points@4, O: Overbrook@8, A?: to@9)
+81	
+82	SVO (S: Kutsher@10, V: "has", O: Hotel@12)
+83	SVC (S: Auerbach@2, V: "is", C: coach@5)	SVO (V: spotted@11, S: Auerbach@2, O: teenager@14)	SVO (V: play@19, S: him@18, O: 1-on-1@20, A?: against@21)	SVC (S: standout@24, V: "is", C: B.@29)
+84	
+85	SVA (V: "be Born", S: elected@3)
+86	SVO (V: won@2, S: Chamberlain@1, O: 25@3)	SVC (C: dejected@10, V: was@8, S: Born@7, A-: so@9, CCOMP: gave@13)	SVO (V: gave@13, S: he@12, O: career@18)	SVOC (V: became@20, S: he@12, O: career@18, XCOMP: engineer@23)	SVO (S: kids@31, V: were@28, O: going@40)	SVO (V: figured@36, S: kids@31, O: I@37)	SVOO (V: figured@36, S: I@35, O: I@37, IO: kids@31)
+87	SVOC (V: wanted@3, S: Auerbach@2, O: Chamberlain@4, XCOMP: go@6, CCOMP: draft@16)	SVO (V: draft@16, S: he@14, A-: so@13, O: him@17, A?: as@18)	SV (V: respond@30, S: Chamberlain@27)
+88	SVO (S: Chamberlain@2, V: "has", O: season@8)	SVO (V: continued@11, S: he@10, A?: In@1, O: scoring@14)	SVO (S: his@12, V: "has", O: scoring@14)
+89	
+90	SVO (V: won@3, S: Panthers@2, O: League@6, A?: time@9, A?: beating@11)	SVA (V: "be beating", S: Panthers@2, O: Philadelphia@13)	SVO (V: met@26, S: they@25, O: Catholic@28, A?: again@30)
+91	SVOO (V: led@6, S: Chamberlain@5, O: Overbrook@7, A?: to@8, IO: points@3)
+92	SVO (V: won@7, S: Chamberlain@5, A?: After@1, O: championships@11)	SVO (V: logged@13, S: Chamberlain@5, A?: After@1, O: championships@11)	SVO (S: Gola@23, V: "has", O: school@26)	SVA (V: "be scoring", S: school@26, O: record@28, A!: by@29)
+93	
+94	
+95	SVC (S: February@1, V: "is", C: http@14)
+96	SVO (S: his@10, V: "has", O: season@13)	SVO (V: wanted@18, S: universities@17, XCOMP: recruit@20)
+97	SVOO (V: offered@5, S: UCLA@4, A?: Among@1, IO: Chamberlain@6, O: opportunity@8)	SVA (V: "be become", S: opportunity@8, XCOMP: star@13)	SVO (V: wanted@19, S: University@16, XCOMP: buy@21)	SVO (S: Chamberlain@26, V: "has", O: Mosenson@30)	SVO (V: offered@33, S: Mosenson@30, A-: even@32, O: position@36, A?: persuade@40)	SVO (V: persuade@40, S: he@38, O: center@42)
+98	
+99	SVO (V: described@3, S: Cherry@1, CCOMP: wanted@6)	SVO (V: wanted@6, S: Chamberlain@5, O: change@8)	SVOC (V: snubbed@35, S: Chamberlain@5, O: change@8, O: South@37, A?: of@39)	SVOC (V: want@13, S: Chamberlain@5, O: change@8, A?: therefore@10, XCOMP: go@15)	SVOC (C: interested@29, V: was@27, S: Chamberlain@5, O: change@8, A?: in@30)
+100	SVC (S: Allen@23, V: "is", C: Chamberlain@25)	SVC (V: going@30, S: he@28, XCOMP: play@32)
+101	SVO (V: joined@5, S: Chamberlain@4, A?: In@1, O: KU@6)
+102	SVO (V: described@2, S: Cherry@1, CCOMP: was@8)	SVA (V: was@8, S: teenager@7, A!: arrived@12)	SVA (V: arrived@12, S: he@10, A?: when@9, A?: first@11, A!: in@13)	SVO (S: his@29, V: "has", O: Philadelphia@31)	SVO (V: saw@35, S: he@33, A?: after@22, A?: now@34, O: places@36)	SVOC (V: prohibited@40, S: people@38, XCOMP: enter@42, O: places@36)
+103	SVA (V: reacted@2, S: Chamberlain@1, A!: by@3)	SV (V: wanted@15, S: he@14, A?: wherever@13)
+104	
+105	SVO (V: discovered@3, S: he@2, A?: When@1, CCOMP: heckled@6)	SVO (V: heckled@6, S: nobody@5, O: him@7)	SVO (V: gave@10, S: he@9, A?: discovered@3, O: antipathy@13)	SVO (V: as@16, S: he@9, A?: discovered@3, O: antipathy@13, A?: result@18)	SVO (S: his@12, V: "has", O: antipathy@13)	SVO (V: treated@25, S: people@20, A?: eventually@24, ACOMP: better@26, O: result@18)
+106	SVO (V: enjoyed@2, S: Chamberlain@1, O: living@3)	SVA (V: "be enjoying", S: living@3, A!: especially@7, O: scene@12)
+107	
+108	SVO (V: admired@20, S: he@19, O: Allen@16)	SVOC (C: president@36, V: was@34, S: he@33, A?: where@32, A?: of@37, O: fraternity@30)	SVO (S: his@38, V: "has", O: class@40)
+109	
+110	SVO (S: his@7, V: "has", O: pounds@9)	SVO (S: his@40, V: "has", O: debut@41)	SV (V: anticipated@44, S: debut@41, A?: with@30, A?: highly@43)	SVO (V: delivered@48, S: he@47, A?: in@50, A?: for@55, CCOMP: pitted@64)	SVO (S: Chamberlain@51, V: "has", O: game@54)	SVA (V: pitted@64, S: Jayhawks@62, A!: against@65)	SVO (V: favored@72, S: Jayhawks@68, XCOMP: win@74)	SVO (S: their@75, V: "has", O: conference@76)
+111	SVO (V: dominated@2, S: Chamberlain@1, O: mates@6, A?: by@7)	SVO (S: his@3, V: "has", O: mates@6)	SVO (V: throw@24, S: 16@12, O: points@10)
+112	SVO (S: Chamberlain@1, V: "has", O: prospects@3)	SVA (V: ended@8, S: prospects@3, A!: however@10, A?: turned@15)	SVO (V: turned@15, S: coach@14, A?: when@12, O: 70@16, A?: shortly@17)
+113	SVO (V: had@2, S: Chamberlain@1, O: relationship@5)	SVA (V: "be fueled", S: relationship@5, A!: by@15)	SVO (S: Allen@7, V: "has", O: successor@9)	SVC (S: successor@9, V: "is", C: Harp@12)	SVO (V: doubted@22, S: Cherry@20, CCOMP: chosen@27)	SVO (V: chosen@27, S: Chamberlain@24, O: KU@28, A?: known@32)	SVO (V: known@32, S: he@30, CCOMP: going@36)	SVC (V: going@36, S: Allen@34, XCOMP: retire@38)
+114	
+115	SVO (V: made@8, S: Chamberlain@7, A?: On@1, O: debut@11)	SVO (S: his@9, V: "has", O: debut@11)
+116	SVO (S: his@2, V: "has", O: game@5)	SVO (V: scored@8, S: center@7, A?: In@1, O: points@10)	SVOC (V: grabbed@12, S: center@7, A?: In@1, O: points@10, O: rebounds@14, A?: breaking@16)	SVA (V: "be breaking", S: grabbed@12, O: records@20, A!: in@21)	SVA (V: win@26, S: 69@25, A!: against@27)
+117	
+118	SVO (V: testified@4, S: Johnson@3, A?: to@5, O: Wilt@10)	SVO (S: his@6, V: "has", O: athleticism@7)
+119	
+120	
+121	SV (V: dunked@3, S: he@2, A?: When@1)	SVC (C: fast@8, V: was@6, S: he@5, A?: dunked@3, A-: so@7, CCOMP: got@14)	SVC (V: got@14, S: lot@11, CCOMP: jammed@17)	SVO (S: their@15, V: "has", O: fingers@16)	SV (V: jammed@17, S: fingers@16)	SVO (S: Chamberlain@20, V: "has", O: hand@22)
+122	SVO (V: broke@6, S: Chamberlain@4, A?: Reportedly@2, A?: also@5, O: toe@10, A?: with@11)	SVO (S: Kerr@8, V: "has", O: toe@10)
+123	SVO (V: developed@7, S: Chamberlain@5, A?: By@1, O: weapons@10)	SVO (V: became@12, S: weapons@10, O: trademarks@14)	SVO (S: his@13, V: "has", O: trademarks@14)	SVO (S: his@16, V: "has", O: roll@18)	SVC (S: roll@18, V: "is", C: passing@36)	SVC (S: roll@18, V: "is", C: shot@23)	SVO (S: his@20, V: "has", O: shot@23)	SVO (V: hit@29, S: he@26, O: roll@18, A?: also@28, A?: as@30)	SVO (S: his@35, V: "has", O: passing@36)	SVO (S: his@38, V: "has", O: shot-blocking@39)
+124	SVOO (V: went@26, S: Jayhawks@25, O: 13@27, IO: King@10)	SVO (V: lost@32, S: they@31, O: game@34)	SVO (V: held@43, S: 54@37, O: ball@45, A?: three@48)	SVC (C: possible@64, V: was@62, S: basket@59, A?: still@63, A?: in@65)
+125	SVA (V: did@3, S: he@2, A!: at@4)	SVC (S: Overbrook@5, V: "is", C: Chamberlain@7)	SVO (S: his@10, V: "has", O: talent@13)
+126	SVO (V: ran@2, S: He@1, O: dash@5, A?: in@6)
+127	SVC (S: feet@4, V: "is", C: jump@7)
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	SVO (V: played@14, S: teams@13, A?: for@15, O: September@1)	SVO (S: Men@18, V: "has", O: Championship@23)
+137	SVA (V: held@6, S: tourney@4, A!: in@7)	SV (V: segregated@17, S: Texas@10, A?: at@13)
+138	SVO (V: played@8, S: Jayhawks@7, A?: In@1, O: team@14)	SV (V: said@22, S: Parker@20, A?: later@21)	SVC (C: brutal@28, V: was@27, S: crowd@26)
+139	SVC (C: spat@3, V: were@2, S: We@1, A?: on@4)
+140	SVO (V: won@3, S: KU@2, O: 73@4)	SVOC (V: had@13, S: police@12, O: which@11, A?: to@14, O: Jayhawks@17)
+141	SVC (C: unpleasant@9, V: was@7, S: game@3, A?: equally@8, A?: with@11)	SVO (V: winning@13, S: KU@12, O: 81@14)
+142	SVO (S: Chamberlain@5, V: "has", O: Jayhawks@7)	SVO (V: defeated@9, S: Jayhawks@7, A?: In@1, A?: handily@8, O: University@11)	SVC (S: University@11, V: "is", C: 56@18)	SVA (V: "be grabbing", S: 56@18, O: rebounds@28)	SVO (V: scoring@22, S: Wilt@21, O: points@24)	SVO (V: blocked@35, S: 7@34, O: shots@36)
+143	SVC (C: unclear@5, V: is@4, S: film@3, CCOMP: occurred@10)	SV (V: occurred@10, S: block@9)	SVC (V: fell@16, S: ball@14, A?: just@15, A?: short@17, ACOMP: due@18)	SVA (V: "be withering", S: Chamberlain@20, O: intimidation@24)
+144	SVO (V: demonstrated@2, S: Chamberlain@1, O: arsenal@5)	SVO (S: his@3, V: "has", O: arsenal@5)	SVO (S: his@19, V: "has", O: shot@22)
+145	SVC (C: comfortable@5, V: was@2, S: He@1, A?: more@4, A?: at@8, A?: be@16)	SVA (V: be@16, S: he@13, A?: later@15, A!: during@17)	SVO (S: his@18, V: "has", O: career@20)
+146	SVO (V: had@2, S: He@1, O: speed@5, A?: through@6)	SVO (V: led@14, S: times@13, O: fastbreak@16)
+147	SVO (S: His@1, V: "has", O: lead@4)	SVA (V: rested@13, S: he@12, A!: on@14, A?: for@17)	SVA (V: "be remaining", S: 3:45@20, A!: in@22)
+148	SVO (V: made@2, S: Chamberlain@1, O: Team@5)	SVOC (V: led@11, S: Chamberlain@1, O: Team@5, O: Jayhawks@13, A?: into@14)	SVO (S: his@12, V: "has", O: Jayhawks@13)
+149	SVO (V: used@10, S: McGuire@9, A?: In@1, O: tactics@13, A?: thwart@15)	SVA (V: "be thwart", S: McGuire@9, O: Chamberlain@16)
+150	SVO (V: sent@6, S: he@5, A?: For@1, O: player@9, A?: rattle@17)	SVO (S: his@7, V: "has", O: player@9)	SVC (S: player@9, V: "is", C: Kearns@12)	SVO (V: spent@24, S: Heels@23, O: rest@26)	SVA (V: "be triple-teaming", S: night@29, O: him@31)	SVC (S: defender@34, V: "is", C: one@38)	SVA (V: "be arriving", S: third@43, A!: soon@46)	SVO (V: got@49, S: he@48, O: ball@51)
+151	SVO (S: their@2, V: "has", O: fixation@3)	SVO (V: shot@9, S: Jayhawks@8, A?: With@1, O: %@12, A?: from@13, A?: opposed@18)	SVOC (V: trailed@28, S: Jayhawks@8, A?: With@1, O: %@12, A?: from@13, A?: opposed@18, O: 22@29)
+152	SVO (V: led@5, S: Carolina@4, A?: Later@1, O: 40@6)	SVO (V: passed@20, S: they@19, O: ball@22, A?: around@23, A?: without@24)
+153	SVA (V: tied@10, S: game@8, A?: After@1, A!: at@11, A?: at@13)
+154	SVO (V: scored@7, S: teams@6, A?: In@1, O: points@9)	SVOC (V: froze@16, S: teams@6, A?: In@1, O: points@9, A?: in@12, O: ball@18, A?: in@19, A?: keeping@22)	SVA (V: "be keeping", S: froze@16, O: game@24)	SVA (V: "be tied", S: game@24, A!: at@26)
+155	SVA (V: "be leaving", S: Heels@8, XCOMP: trailing@23)	SVO (V: scored@9, S: Heels@8, A?: In@1, O: baskets@12, A?: leaving@21)	SVO (V: executed@16, S: Chamberlain@15, O: play@19)	SVO (V: trailing@23, S: KU@22, O: 52@24)
+156	SVO (V: scored@3, S: King@2, O: basket@5)	SVA (V: was@8, S: Kansas@7, A?: scored@3, A!: ahead@9, A?: by@10)	SVA (V: fouled@21, S: Quigg@19, A!: on@22)	SVO (V: made@30, S: Quigg@19, A?: on@22, O: shots@34)	SVA (V: "be remaining", S: seconds@27)	SVO (S: his@31, V: "has", O: shots@34)
+157	SVA (V: called@8, S: Harp@7, A?: For@1, A!: pass@13)	SVO (V: pass@13, S: Loneski@11, O: ball@15, A?: into@16, A?: in@18)
+158	SVC (C: soft@5, V: was@3, S: pass@2, A?: too@4, A?: however@10)	SVC (C: intercepted@8, V: was@3, S: pass@2, A?: too@4, A?: however@10)	SVO (V: won@16, S: Heels@15, O: game@18)
+159	SVO (V: scored@7, S: Chamberlain@3, O: points@9)	SVO (V: elected@15, S: Chamberlain@3, A?: Nonetheless@1, O: Player@19)
+160	SVO (V: speculated@3, S: Cherry@1, A?: however@5, CCOMP: watershed@12)	SVC (C: watershed@12, V: was@10, S: loss@9, A?: in@13, A?: time@23)	SVO (S: Chamberlain@14, V: "has", O: life@16)	SVC (C: time@23, V: was@20, S: it@19)	SVO (S: his@25, V: "has", O: team@26)	SVO (V: lost@28, S: team@26, O: that@24, A?: despite@29)	SVO (V: putting@31, S: him@30, O: stats@35)
+161	SVO (V: admitted@3, S: Chamberlain@1, A?: later@2, CCOMP: painful@10)	SVC (C: painful@10, V: was@7, S: loss@6, A?: most@9, A?: of@11)	SVO (S: his@12, V: "has", O: life@13)
+162	SVO (S: Chamberlain@2, V: "has", O: year@5)	SVC (S: year@5, V: "is", C: season@11)	SVO (S: Jayhawks@15, V: "has", O: matches@17)	SVC (C: frustrating@21, V: were@18, S: matches@17, A?: In@1, A-: even@19, A?: more@20, A?: for@22)
+163	SV (V: was@5, S: Chamberlain@4, A?: how@2)	SVA (V: "be Knowing", S: opponents@8, CCOMP: was@5)	SVA (V: resorted@9, S: opponents@8, A?: Knowing@1, A!: to@10)	SVO (V: used@15, S: opponents@8, A?: Knowing@1, A?: to@10, A?: routinely@14, O: players@19, A?: guard@21)	SVA (V: "be guard", S: used@15, O: him@22)
+164	
+165	SVO (V: commented@4, S: Billings@3, O: Teammate@1)	SVC (C: fun@10, V: was@8, S: It@7)
+166	SVC (C: out@4, V: were@2, S: we@1, A?: just@3)	SVO (V: throwing@7, S: people@6, O: basketball@9, A?: back@10)	SVO (V: forth@12, S: people@6, O: basketball@9, A?: back@10)
+167	SVA (V: "be inflicted", S: punishment@9, A!: on@11)	SVOA (V: showed@21, S: he@20, A?: after@14, O: imprints@22, A!: in@29)	SVO (S: his@30, V: "has", O: arm@31)
+168	SVO (V: averaged@4, S: Chamberlain@3, A?: Nevertheless@1, O: 30.1@5)
+169	SVA (V: "be losing", S: record@14, O: games@18)	SVA (V: was@21, S: he@20, A!: out@22, A?: with@23)	SVC (V: came@30, S: KU@29, ACOMP: second@31, A?: in@32)	SVC (V: at@36, S: KU@29, ACOMP: second@31, A?: in@32, A?: time@38)	SVO (V: invited@43, S: winners@41, A?: to@44, O: time@38)	SVO (S: Jayhawks@50, V: "has", O: season@52)	SV (V: ended@53, S: season@52, A?: an@10)
+170	SVC (C: consolation@5, V: was@2, S: It@1, CCOMP: named@10)	SV (V: named@10, S: he@7, A?: again@9)
+171	SVA (V: "be lost", S: he@14, O: enjoyment@4)	SVA (V: "be lost", S: he@14, O: enjoyment@4, XCOMP: earn@11)	SVO (V: left@15, S: he@14, A?: lost@2, O: college@16)	SVOC (V: sold@18, S: he@14, A?: lost@2, O: college@16, O: story@20)	SVA (V: "be named", S: story@20, A!: Leaving@26)	SVO (V: Leaving@26, S: I@24, A-: Why@23, O: College@27, A?: Look@30)	SVA (V: "be Look", S: I@24, O: magazine@31, A!: for@32)	SVC (S: $@33, V: "is", C: sum@38)	SVOO (V: earned@42, S: players@41, A?: when@39, O: $@43, A?: in@45, IO: sum@38)
+172	SVO (V: averaged@8, S: Chamberlain@7, A?: In@1, O: 29.9@9)
+173	
+174	
+175	SVOC (C: 21@6, V: was@5, S: Chamberlain@4, O: time@3)	SVA (V: featured@12, S: he@8, A?: By@1, A?: already@10, A!: in@13)	SVC (S: Time@14, V: "is", C: Life@16)	SVC (V: turned@27, S: he@26, A-: even@24, ACOMP: professional@28)
+176	
+177	SVC (S: February@1, V: "is", C: http@14)
+178	SVO (S: Chamberlain@13, V: "has", O: departure@15)	SVO (V: claimed@23, S: critics@22, CCOMP: wanted@27)	SVO (V: wanted@27, S: he@25, A?: either@26, XCOMP: leave@29)	SVO (V: embarrassed@36, S: he@25, A?: either@26, XCOMP: leave@29, A?: by@37)
+179	SVO (V: returned@5, S: Chamberlain@4, A?: In@1, A?: to@6, XCOMP: participate@14)	SVO (S: his@20, V: "has", O: 13@22)
+180	SVA (V: quoted@8, S: he@5, A?: Around@1, A!: as@9)	SVO (V: trying@25, S: people@22, XCOMP: get@27)	SVO (S: my@28, V: "has", O: number@30)	SV (V: retired@31, S: number@30)	SVO (V: have@35, S: I@34, O: dislike@37)
+181	SVC (C: ridiculous@4, V: is@2, S: That@1, A?: totally@3)
+182	
+183	SVO (S: Men@1, V: "has", O: http@4)
+184	
+185	
+186	
+187	
+188	
+189	
+190	SVO (S: Men@1, V: "has", O: http@4)
+191	
+192	
+193	
+194	
+195	
+196	SVO (S: his@6, V: "has", O: year@9)	SVO (V: wanted@12, S: Chamberlain@11, A?: December@1, XCOMP: become@14)	SVO (S: his@20, V: "has", O: year@22)
+197	
+198	
+199	
+200	
+201	SVOO (V: accept@19, S: NBA@16, O: players@20, IO: February@1)	SVA (V: finished@24, S: players@20, A!: year@27)	SVO (S: their@25, V: "has", O: year@27)
+202	SVA (V: prohibited@5, S: Chamberlain@3, A?: Therefore@1, A!: from@6)	SVO (V: decided@15, S: Chamberlain@3, A?: Therefore@1, A?: from@6, XCOMP: play@17)
+203	SVC (V: became@2, S: Chamberlain@1, XCOMP: member@4, CCOMP: enjoyed@19)	SVO (V: made@10, S: team@8, O: history@11, A?: by@12)	SVO (S: Moscow@36, V: "has", O: Stadium@40)
+204	
+205	
+206	
+207	
+208	
+209	
+210	
+211	
+212	
+213	
+214	
+215	
+216	
+217	
+218	SVA (V: "be collapsing", S: August@1, A!: to@16)	SVA (V: collapsing@15, S: Lemon@14, A!: to@16)	SVOO (V: threw@28, S: Chamberlain@27, IO: him@29, O: high@32)
+219	SVC (C: athlete@8, V: was@5, S: Chamberlain@3)	SV (V: lived@11, S: athlete@8, A?: ever@10)	SVO (V: recounted@17, S: Lemon@16, A?: later@18, O: athlete@8)
+220	
+221	SVO (V: joined@7, S: Chamberlain@5, A?: In@1, A?: frequently@6, O: Trotters@9, A?: in@10, A?: jeered@25)	SVOC (V: recalled@15, S: Chamberlain@5, A?: In@1, A?: frequently@6, O: Trotters@9, A?: in@10, A?: fondly@14, O: time@17, A?: jeered@25)	SVO (S: his@16, V: "has", O: time@17)	SVO (V: jeered@25, S: he@21, A?: longer@24, XCOMP: break@30)	SVO (V: one@35, S: he@21, A?: longer@24, XCOMP: break@30, A?: just@34, A?: of@36)	SVO (V: loved@40, S: artists@38, XCOMP: entertain@42)
+222	SVO (V: doing@4, S: Frank@2, A?: Just@3, O: fine@5)	SVO (S: my@7, V: "has", O: man@8)	SVO (V: http@9, S: man@8, O: sportsillustrated.cnn.com/basketball/news/1999/10/12/wilt_at_50/@13)
+223	SVOO (V: doing@13, S: Frank@11, A?: Just@12, O: fine@14, IO: February@1)	SVO (S: my@16, V: "has", O: man@17)	SV (V: http@18, S: man@17)
+224	SVC (S: February@1, V: "is", C: number@18)	SVO (S: Chamberlain@16, V: "has", O: number@18)	SVA (V: retired@21, S: February@1, A!: by@22)
+225	SVA (V: "be starting", S: Chamberlain@7, A!: for@18)	SVO (V: made@9, S: Chamberlain@7, A?: On@1, A?: finally@8, O: debut@11, A?: starting@17)	SVO (S: his@10, V: "has", O: debut@11)
+226	SVO (S: Warriors@2, V: "has", O: pick@5)	SVC (C: unusual@8, V: was@6, S: pick@5, A?: highly@7, A?: spent@24)	SVC (C: pick@17, V: was@12, S: it@11)	SVO (V: spent@24, S: Chamberlain@21, O: years@27, A?: in@28)	SVO (S: his@25, V: "has", O: years@27)	SVA (V: "be covered", S: region@35, A!: by@37)	SVC (C: region@35, V: is@32, S: which@31, A?: covered@36)
+227	SVC (S: Gottlieb@6, V: "is", C: one@8)	SVO (S: NBA@11, V: "has", O: fathers@14)	SVO (V: argued@16, S: Gottlieb@6, A?: However@1, CCOMP: grown@20)	SVA (V: grown@20, S: Chamberlain@18, A!: up@21, A?: in@22)	SVA (V: become@26, S: Chamberlain@18, A?: up@21, A?: in@22, A!: there@28, A?: as@29)	EXISTENTIAL (V: were@39, S: teams@42)	SVO (V: held@48, S: Warriors@47, A?: were@39, O: rights@51)	SVOC (V: draft@54, S: Warriors@47, A?: were@39, O: rights@51, O: him@55)	SVO (S: his@49, V: "has", O: rights@51)
+228	SVO (V: agreed@3, S: NBA@2, XCOMP: marking@5)	SVO (V: made@16, S: player@14, O: selection@19)	SVA (V: "be based", S: selection@19, A!: on@21)	SVO (S: his@22, V: "has", O: roots@24)
+229	SVC (V: became@3, S: Chamberlain@1, A?: immediately@2, XCOMP: player@9)	SVO (S: NBA@5, V: "has", O: player@9)	SVA (V: "be earning", S: player@9, O: $@12, A!: in@14)	SVO (S: his@15, V: "has", O: contract@17)	SVC (C: Cousy@28, V: was@26, S: earner@25, A?: in@19, A?: of@29, A?: with@33)	SVO (V: bought@42, S: Gottlieb@40, A?: in@37, O: franchise@46, A?: for@47)
+230	
+231	SVC (S: season@7, V: "is", C: Chamberlain@9)	SVO (V: joined@10, S: season@7, A?: In@1, O: squad@13)	SVA (V: coached@16, S: squad@13, A!: by@17)	SVO (V: contained@21, S: squad@13, A?: by@17, O: Gola@25)	SVC (S: Gola@25, V: "is", C: Rodgers@39)	SVO (S: his@34, V: "has", O: rival@36)	SVC (C: Philadelphians@47, V: were@46, S: starters@45, A?: remarkably@41)
+232	SVO (S: his@2, V: "has", O: game@5)	SVO (V: scored@16, S: center@15, A?: In@1, A?: against@7, O: points@18)	SVOC (V: grabbed@20, S: center@15, A?: In@1, A?: against@7, O: points@18, O: rebounds@22)
+233	
+234	SVO (S: his@2, V: "has", O: game@4)	SVO (V: met@7, S: Philadelphia@6, A?: In@1, O: champions@10)	SVC (S: champions@10, V: "is", C: Celtics@14)	SVO (S: Auerbach@19, V: "has", O: Chamberlain@23)	SVO (V: snubbed@25, S: Chamberlain@23, O: years@27, A?: before@28)	SVC (S: rival@34, V: "is", C: Russell@37)	SVO (S: his@31, V: "has", O: rival@34)	SVA (V: lauded@42, S: rival@34, A?: now@41, A!: as@43)
+235	SVC (C: first@5, V: was@3, S: what@2, A?: of@6)	SVOO (V: outscored@14, S: Chamberlain@13, O: Russell@15, A?: with@16, IO: match-ups@11)	SVO (V: won@25, S: Boston@24, O: game@27)
+236	SVO (V: called@2, S: Cherry@1, O: outcome@4)
+237	SVO (S: his@3, V: "has", O: nemesis@5)	SVC (S: nemesis@5, V: "is", C: Russell@7)	SVC (V: grow@10, S: Chamberlain@1, XCOMP: become@12)	SVO (S: NBA@16, V: "has", O: rivalries@20)
+238	SVC (V: became@6, S: two@4, A?: Nevertheless@1, A?: also@5, XCOMP: friends@7, ACOMP: similar@12)
+239	
+240	
+241	
+242	
+243	SVO (S: his@10, V: "has", O: season@13)	SVO (V: averaged@16, S: Chamberlain@15, O: 37.6@17)
+244	SVA (V: "be breaking", S: points@1, A!: convincingly@6, O: records@11)
+245	SVO (V: needed@2, S: He@1, O: games@5, A?: score@7)	SVA (V: "be score", S: He@1, O: 2,102@9)	SVO (V: broke@12, S: 2,102@9, O: season@16)	SVO (V: needed@24, S: Pettit@21, O: games@26, A?: score@28)	SVA (V: "be score", S: who@23, O: points@30)
+246	
+247	SVO (V: named@3, S: Chamberlain@1, O: MVP@5)	SVO (V: matched@16, S: Year@10, A?: season@12, A?: by@18, A?: in@23, O: MVP@5)	SVO (V: matched@16, S: feat@15, A?: season@12, A?: by@18, A?: in@23, O: MVP@5)
+248	SVO (V: capped@2, S: Chamberlain@1, O: season@6, A?: by@7)	SVO (S: his@4, V: "has", O: season@6)
+249	SVC (V: became@5, S: it@3, A?: However@1, A?: also@4, ACOMP: evident@6)	SVC (C: shooter@13, V: was@9, S: he@8, A?: making@15)	SVA (V: "be making", S: shooter@13, O: half@17)	SVO (S: his@19, V: "has", O: shots@21)
+250	SV (V: progressed@3, S: time@2)	SVC (V: grew@6, S: Chamberlain@5, A?: progressed@3, ACOMP: worse@8)	SVO (V: acknowledged@11, S: Chamberlain@5, A?: progressed@3, ACOMP: worse@8, CCOMP: case@18)	SVC (C: case@18, V: was@13, S: he@12, A?: simply@14, A?: on@20)
+251	SVO (V: entered@3, S: Warriors@2, O: Playoffs@7)	SVOC (V: beat@9, S: Warriors@2, O: Playoffs@7, O: Nationals@12)	SVOC (V: setting@14, S: Warriors@2, O: Playoffs@7, O: meeting@17)
+252	SVO (V: described@2, S: Cherry@1, CCOMP: ordered@8)	SVOC (V: ordered@8, S: Auerbach@7, A?: how@3, O: Heinsohn@12, XCOMP: commit@14)	SVO (S: his@9, V: "has", O: Heinsohn@12)	SVO (V: shot@23, S: Warriors@22, A?: whenever@20, O: shots@25)	SVA (V: "be prevent", S: Heinsohn@27, O: him@34, A!: from@35)	SVA (V: grabbed@28, S: Heinsohn@27, A?: shot@23, A!: prevent@33)	SVO (V: shoved@30, S: Heinsohn@27, A?: shot@23, O: Chamberlain@31, A?: prevent@33)	SVO (S: his@40, V: "has", O: intention@41)	SVC (V: was@42, S: intention@41, CCOMP: throw@47)	SVO (V: throw@47, S: Celtics@45, O: ball@49, A?: in@50)	SVC (C: yet@60, V: was@58, S: Chamberlain@57, A?: back@61)	SVO (S: his@63, V: "has", O: basket@65)	SVO (V: score@70, S: Boston@68, O: basket@74)
+253	SVO (V: split@3, S: teams@2, O: games@7)	SVA (V: fed@16, S: Chamberlain@14, A?: in@10, A!: with@18)	SVO (V: punched@21, S: Chamberlain@14, A?: in@10, A?: with@18, O: him@22)
+254	SVO (V: injured@6, S: Wilt@5, A?: In@1, O: hand@8)	SVO (S: his@7, V: "has", O: hand@8)	SVO (V: lost@12, S: Philadelphia@11, O: games@16)
+255	SVO (S: his@6, V: "has", O: hand@7)	SVO (V: scored@13, S: Chamberlain@12, A?: In@1, A?: with@5, O: points@15, A?: on@16)
+256	SVOA (V: got@7, S: Heinsohn@6, A?: in@2, O: laugh@10, A!: scoring@12)	SVA (V: "be scoring", S: Heinsohn@6, O: basket@15, A!: with@16)
+257	SVO (V: lost@3, S: Warriors@2, O: series@5)
+258	SVO (V: shocked@5, S: Chamberlain@3, A-: then@4, O: fans@8, A?: by@9)	SVO (S: Warriors@6, V: "has", O: fans@8)	SVA (V: thinking@13, S: he@11, A!: of@14)
+259	SVA (V: tired@3, S: He@1, A!: of@4)	SV (V: triple-teamed@9, S: He@1, A?: of@4)	SVA (V: "be coming", S: teams@13, A!: down@15, A?: on@16, A?: with@18)
+260	SVO (V: feared@2, S: Chamberlain@1, CCOMP: lose@5)	SVA (V: lose@5, S: he@3, A!: day@9)	SVO (S: his@6, V: "has", O: day@9)
+261	SV (V: said@5, S: Celtics@2)	SVA (V: stranger@9, S: himself@7, A?: said@5, A!: to@10)	SVC (C: fouls@24, V: were@22, S: fouls@19)
+262	SVO (V: took@2, S: he@1, O: brutal@5)	SVA (V: "be pounding", S: brutal@5, A!: of@7, A?: ever@10)
+263	SVA (V: seen@6, S: Chamberlain@4, A?: In@1, A!: as@7)
+264	SV (V: said@4, S: Chamberlain@2, A?: often@3)	SVO (S: Hannum@9, V: "has", O: explanation@11)	SVO (S: his@13, V: "has", O: situation@14)	SVO (V: loves@18, S: Nobody@17, A?: said@4, A?: quoting@6, O: Goliath@19)	SVA (V: "be quoting", S: Nobody@17, O: explanation@11)
+265	SVO (V: coaxed@4, S: Gottlieb@3, O: Chamberlain@5, A?: back@6, A?: sweetening@11)	SVA (V: "be sweetening", S: Gottlieb@3, O: return@13, A!: to@18)	SVO (S: his@12, V: "has", O: return@13)
+266	
+267	SVO (V: surpassed@6, S: Chamberlain@5, A?: season@3, O: statistics@10, A?: averaged@13)	SVO (S: his@7, V: "has", O: statistics@10)	SVO (V: averaged@13, S: he@12, O: 38.4@14)
+268	
+269	
+270	SVC (V: became@2, S: He@1, XCOMP: player@5)	SVA (V: "be break", S: player@5, O: barrier@10)	SVA (V: "be break", S: player@17, O: barrier@22, A!: for@23)	SVA (V: "be grabbing", S: player@17, O: boards@30)
+271	
+272	
+273	
+274	
+275	
+276	
+277	SVC (S: February@1, V: "is", C: Chamberlain@9)	SVO (V: won@11, S: February@1, A?: also@10, O: title@17)	SVOC (V: set@20, S: February@1, A?: also@10, O: title@17, O: record@23, A?: in@26)	SVO (S: his@12, V: "has", O: title@17)
+278	SVC (C: dominant@4, V: was@2, S: Chamberlain@1, A-: so@3, A?: on@5)	SVO (V: scored@10, S: he@9, O: %@13)	SVOC (V: collected@20, S: he@9, O: %@13, O: 30.4@21)	SVO (S: his@15, V: "has", O: team@16)	SVO (S: team@16, V: "has", O: points@18)
+279	SVO (S: their@3, V: "has", O: rebounds@4)
+280	SVO (V: failed@3, S: Chamberlain@1, A?: again@2, XCOMP: convert@5)	SVO (S: his@6, V: "has", O: play@7)	SVA (V: "be bowing", S: time@15, A!: against@18, A?: in@22)
+281	
+282	
+283	
+284	
+285	
+286	
+287	SVC (S: February@1, V: "is", C: Cherry@9)	SVO (V: noted@10, S: February@1, CCOMP: difficult@15)	SVC (C: difficult@15, V: was@13, S: Chamberlain@12)	SVC (C: unable@27, V: was@26, S: Johnston@23, XCOMP: handle@29)
+288	SVO (V: remarked@6, S: Gottlieb@5, A?: In@1, CCOMP: getting@13)	SVO (S: My@9, V: "has", O: mistake@10)	SVO (V: getting@13, S: mistake@10, O: coach@16)
+289	SVC (C: ready@6, V: was@4, S: Johnston@2, A?: for@7)
+290	SVC (S: Cherry@2, V: "is", C: 100@4)
+291	SVO (S: his@2, V: "has", O: season@5)	SVA (V: coached@10, S: team@8, A?: In@1, A!: by@11)	SVC (S: McGuire@13, V: "is", C: coach@16)	SVO (V: masterminded@19, S: coach@16, O: loss@24, A?: against@25)	SVO (S: Chamberlain@20, V: "has", O: loss@24)
+292	SVO (V: set@6, S: Wilt@5, A?: In@1, O: records@9)	SV (V: threatened@14, S: records@9)
+293	SVO (V: averaged@7, S: he@6, A?: In@1, O: 50.4@8)
+294	
+295	
+296	SVA (S: Hershey@13, V: "is in", C: Pennsylvania@15)	SVO (V: scoring@19, S: Wilt@17, A?: Perhaps@1, A?: on@6, O: points@21)	SVOC (V: shooting@23, S: Wilt@17, A?: Perhaps@1, A?: on@6, O: points@21, O: 36@24, A?: from@27)	SVA (V: throws@37, S: making@32, A!: against@38)
+297	SVO (S: Chamberlain@1, V: "has", O: points@5)	SVOO (V: made@6, S: points@5, IO: him@7, O: player@12)	SVA (V: "be break", S: player@12, O: barrier@17)
+298	SVA (V: "be break", S: player@10, O: barrier@15)	SVC (C: Jordan@18, V: is@16, S: player@10, A?: put@2, A?: with@20)
+299	SVO (V: broke@4, S: Chamberlain@1, A?: again@3, O: barrier@7, A?: with@8)
+300	SVA (V: was@4, S: he@3, A?: Additionally@1, A!: on@5, A?: for@8)
+301	SVA (V: "be playing", S: minutes@1, O: 3,882@4)	SVO (S: his@6, V: "has", O: team@7)	SVO (S: team@7, V: "has", O: minutes@10)
+302	SVA (V: played@3, S: Chamberlain@2, A!: in@4)	SVO (V: averaged@9, S: he@8, A?: played@3, O: minutes@11, A?: than@14)	SVO (V: reached@25, S: Chamberlain@22, A?: in@19, O: mark@28, A?: ejected@34)	SVA (V: ejected@34, S: he@30, A!: in@35, A?: left@48)	SVC (V: left@48, S: picking@39, XCOMP: play@50)
+303	
+304	SVO (S: His@1, V: "has", O: feats@3)	SVC (S: subject@10, V: "is", C: 1962@16)	SVC (C: subject@10, V: were@8, S: feats@3, A?: later@9, A?: of@11)
+305	SVC (S: Pomerantz@1, V: "is", C: 2005@3)	SVO (V: used@7, S: Pomerantz@1, O: Chamberlain@8, A?: as@9)
+306	
+307	SVC (S: Wilt@1, V: "is", C: http@4)
+308	
+309	SVC (S: Wilt@1, V: "is", C: http@4)
+310	SVO (S: Chamberlain@8, V: "has", O: accomplishments@11)	SVOC (V: scored@14, S: he@13, A?: January@1, O: points@16, A?: in@17, O: record@27)
+311	SVO (V: met@9, S: Warriors@8, A?: In@1, O: Celtics@12, A?: again@13, A?: in@14)	SVC (S: Finals@18, V: "is", C: team@21)	SVOC (V: called@28, S: Cousy@24, O: team@21, O: team@32)
+312	
+313	SVO (V: won@3, S: team@2, O: games@6, A?: split@12)	SVO (S: their@4, V: "has", O: games@6)	SVA (V: split@12, S: series@10, A!: at@13, A?: after@15)
+314	SVO (V: tied@9, S: Chamberlain@8, A?: In@1, O: game@11, A?: at@12, A?: with@14)	SVA (V: "be go", S: seconds@16)	SVA (V: "be left", S: Jones@25, XCOMP: win@35)	SVO (V: hit@26, S: Jones@25, O: clutch@28, A?: left@33)	SVA (V: "be shot", S: clutch@28, A!: with@30)
+315	
+316	
+317	
+318	
+319	
+320	
+321	SVC (S: February@1, V: "is", C: Chamberlain@13)	SVA (V: criticized@15, S: February@1, A!: for@16)
+322	SVO (S: his@2, V: "has", O: defense@3)	SVO (V: said@9, S: McGuire@8, A?: In@1, CCOMP: super-human@15)	SVOC (V: pointed@19, S: McGuire@8, A?: In@1, CCOMP: super-human@15, CCOMP: lacked@24)	SVC (C: super-human@15, V: been@13, S: Wilt@11, A?: simply@14)	SVO (V: lacked@24, S: Warriors@23, O: scorer@28)	SVA (V: "be take", S: man@37, O: pressure@40, A!: off@41)
+323	
+324	SVO (V: sold@11, S: Gottlieb@10, A?: In@1, O: franchise@14, A?: for@15, A?: to@18)	SVA (V: "be led", S: group@20, A!: by@24)	SVO (V: relocated@34, S: team@33, XCOMP: become@36)
+325	
+326	SVO (V: meant@3, S: This@1, A?: also@2, A?: however@5, CCOMP: broke@10)	SVA (V: broke@10, S: team@9, A!: apart@11, A?: chose@16)	SVO (V: chose@16, S: Arizin@15, XCOMP: retire@18)	SVO (S: his@24, V: "has", O: family@25)	SVO (S: his@27, V: "has", O: job@28)	SVC (C: homesick@38, V: was@37, S: Gola@36, XCOMP: requesting@40)
+327	
+328	SV (V: gone@5, S: scorers@4)	SVO (V: continued@8, S: Chamberlain@7, A?: gone@5, O: array@10)	SVO (S: his@9, V: "has", O: array@10)
+329	
+330	
+331	SVO (S: his@2, V: "has", O: success@4)	SVO (V: lost@8, S: Warriors@7, A?: Despite@1, O: 49@9)	SVOC (V: missed@15, S: Warriors@7, A?: Despite@1, O: 49@9, O: playoffs@17)	SVO (S: their@11, V: "has", O: games@13)
+332	
+333	
+334	
+335	
+336	
+337	
+338	SVC (S: February@1, V: "is", C: Chamberlain@17)	SVO (V: got@18, S: February@1, O: coach@22)	SVC (S: center@34, V: "is", C: Thurmond@37)	SVO (V: entered@41, S: center@34, A?: eventually@40, O: Hall@43)
+339	SVO (V: entered@6, S: Hannum@2, A?: later@5, O: Hall@9, A?: as@12)	SVC (C: psychologist@19, V: was@16, S: Hannum@2)	SVO (V: emphasized@21, S: psychologist@19, O: defense@22)
+340	SVC (C: afraid@7, V: was@5, S: he@4, A?: importantly@2, XCOMP: stand@9)	SVO (V: known@18, S: Chamberlain@14, XCOMP: freeze@21)	SVO (V: like@33, S: he@30, O: coaches@29)
+341	
+342	SVO (V: had@9, S: Chamberlain@8, O: season@12, A?: with@13)
+343	
+344	SVO (V: went@6, S: rpg@1, O: way@9, A?: to@10)
+345	SVO (V: succumbed@5, S: they@4, A?: In@1, A?: to@6, A?: yet@11, A?: again@12, XCOMP: losing@16)	SVO (S: Russell@7, V: "has", O: Celtics@10)	SVO (V: losing@16, S: time@15, O: 4@17)
+346	
+347	
+348	
+349	
+350	
+351	
+352	SVC (S: February@1, V: "is", C: Chamberlain@16)	SV (V: remarked@12, S: Cherry@11)	SVO (V: deserved@22, S: Hannum@21, O: credit@24)	SVO (V: taken@30, S: he@26, A?: basically@28, O: 31@33)	SVOC (V: made@43, S: he@26, A?: basically@28, O: 31@33, O: it@44, A?: into@45)
+353	
+354	SVC (S: Chamberlain@6, V: "is", C: one@8)	SVC (S: Chamberlain@6, V: "is", C: Hawkins@26)
+355	
+356	
+357	
+358	SVO (V: made@5, S: July@1, O: acquaintance@7)	SVA (V: played@17, S: teenager@15, A!: there@18)
+359	SVA (V: allowed@8, S: Alcindor@6, A?: Soon@1, A!: into@9)	SVO (V: idolized@16, S: Alcindor@6, A?: Soon@1, A?: into@9, A?: quickly@15, O: player@21)	SVO (S: his@10, V: "has", O: circle@12)
+360	SVO (V: name@11, S: Chamberlain@3, A?: Unfortunately@1, O: himself@12, A?: later@13)	SVO (V: name@11, S: Alcindor@9, A?: Unfortunately@1, O: himself@12, A?: later@13)
+361	
+362	SVA (V: got@12, S: Warriors@11, A!: to@14)	SVA (V: ran@19, S: Warriors@11, A?: to@14, A!: into@20)
+363	
+364	SVO (V: received@5, S: Warriors@4, A?: In@1, O: Neumann@7)	SVO (V: opted@16, S: who@15, XCOMP: retire@18)
+365	SVO (V: left@3, S: Chamberlain@2, A?: When@1, O: Warriors@5)	SV (V: said@10, S: Mieuli@9, A?: left@3)	SVC (C: man@18, V: is@14, S: Chamberlain@13)	SVOC (V: learned@30, S: fans@25, XCOMP: love@32, O: man@18)
+366	SVC (C: easy@3, V: is@2, S: Wilt@1, XCOMP: hate@5)
+367	SVC (V: came@2, S: people@1, XCOMP: see@4)	SV (V: lose@6, S: him@5)
+368	SVO (V: found@6, S: Chamberlain@5, O: himself@7)	SVO (V: included@14, S: team@12, O: Greer@17)	SVC (S: Greer@17, V: "is", C: Hall-of-Famer@21)
+369	SVO (V: remarks@2, S: Cherry@1, CCOMP: was@5)	EXISTENTIAL (V: was@5, S: tension@8)	SVC (C: leader@18, V: was@14, S: Greer@13)	SVC (C: willing@22, V: was@14, S: Greer@13, XCOMP: give@24)	SVO (S: his@26, V: "has", O: authority@27)	SVC (S: Jackson@30, V: "is", C: center@34)	SVO (V: forced@38, S: Jackson@30, A?: now@37, XCOMP: play@40, A?: blocked@45)	SVO (V: blocked@45, S: Chamberlain@44, O: spot@48)	SV (V: progressed@55, S: season@54)	SVO (V: began@59, S: three@58, A?: however@50, A?: progressed@55, XCOMP: mesh@61)
+370	
+371	SVA (V: care@4, S: Chamberlain@1, A!: for@5, A?: made@22)	SVO (S: Sixer@7, V: "has", O: coach@9)	SVC (S: coach@9, V: "is", C: Schayes@12)	SVO (V: made@22, S: Schayes@15, A?: according@17, O: remarks@25, A?: players@30)	SVC (C: players@30, V: were@28, S: they@27, A?: when@26, A?: in@31)
+372	SVA (V: "be defended", S: thumbChamberlain@1, O: Russellof@5)	SVC (S: Celtics@8, V: "is", C: Chamberlain@11)	SVOC (C: outstanding@14, V: was@12, S: Celtics@8, A?: again@13, O: Russellof@5)	SVO (V: posting@16, S: thumbChamberlain@1, O: 34.7@17)
+373	
+374	
+375	SVOC (V: met@18, S: Sixers@17, CCOMP: led@6, O: rival@22)	SVO (S: Chamberlain@19, V: "has", O: rival@22)	SVC (S: rival@22, V: "is", C: Celtics@26)
+376	SVO (V: called@3, S: press@2, XCOMP: matchup@7, A?: in@8, A?: at@13)	SV (V: matchup@7, S: it@4, A-: even@6)	SVOC (V: expected@20, S: Russell@18, A?: where@16, XCOMP: give@22, O: center@14)
+377	
+378	SVO (V: split@6, S: teams@5, A?: Indeed@1, O: games@10)	SVO (V: of@14, S: teams@5, A?: Indeed@1, O: games@10, A?: record@18)	SVO (V: held@24, S: game@22, A?: in@25, O: record@18)	SVO (S: Celtics@27, V: "has", O: Garden@30)
+379	SVC (C: marvelous@9, V: were@8, S: centers@7, A?: In@1)	SVO (V: scored@12, S: Chamberlain@11, O: points@14)	SVO (V: logged@21, S: Russell@20, O: points@23)	SV (V: assists@29, S: 8@28)
+380	SV (V: hit@7, S: Chamberlain@6, A?: In@1)	SV (V: throws@11, S: clutch@9)	SVOA (V: bringing@18, S: clutch@9, O: lead@21, A!: down@22)	SVA (V: dunk@14, S: clutch@9, A!: on@15)	SVO (S: Boston@19, V: "has", O: lead@21)	SVO (S: 109@26, V: left@30, O: throws@11)
+381	SVO (V: botched@2, S: Russell@1, CCOMP: pass@5)	SVO (V: pass@5, S: inbounds@4, CCOMP: hitting@7)
+382	SVA (V: "be called", S: Schayes@2)	SVO (V: feared@22, S: he@21, CCOMP: foul@27, A?: shooter@35)	SVO (V: foul@27, S: Celtics@24, A?: intentionally@26, O: him@28)	SVC (C: shooter@35, V: was@31, S: he@30)
+383	SVO (V: attempted@4, S: Greer@3, A?: when@2, XCOMP: stole@12)	SVC (S: ball@8, V: "is", C: Havlicek@11)	SVO (V: stole@12, S: ball@8, O: it@13, A?: preserve@15)	SVA (V: "be preserve", S: ball@8, O: lead@19)	SVO (S: Celtics@17, V: "has", O: lead@19)
+384	
+385	SVO (S: NBA@1, V: "has", O: Moments@4)	SVO (V: Stole@8, S: Havlicek@7, O: Ball@10)
+386	
+387	
+388	
+389	SVO (S: NBA@1, V: "has", O: Moments@4)	SVO (V: Stole@8, S: Havlicek@7, O: Ball@10)
+390	
+391	
+392	SVO (S: Russell@17, V: "has", O: team@19)	SVOO (V: deprived@21, S: team@19, O: Chamberlain@22, A?: of@23, IO: January@1)
+393	SVC (C: time@8, V: was@6, S: Chamberlain@3, CCOMP: started@11)	SVO (V: started@11, S: people@10, XCOMP: calling@12)	SV (V: loser@15, S: him@13)
+394	SVO (S: My@17, V: "has", O: Life@18)	SVOO (V: criticized@26, S: he@25, A?: where@24, O: players@29, IO: League@22)	SVO (S: his@27, V: "has", O: players@29)
+395	
+396	
+397	
+398	
+399	
+400	
+401	SVO (V: commented@11, S: Chamberlain@9, A?: later@10, CCOMP: see@15)	SVO (V: see@15, S: he@13, A?: in@16, CCOMP: instrumental@22)	SVC (C: instrumental@22, V: was@21, S: interview@20, A?: how@18, A?: in@23)	SVO (S: his@25, V: "has", O: image@27)
+402	SVO (V: experienced@10, S: Sixers@9, O: tragedy@11, A?: died@29)	SVC (S: Richman@14, V: "is", C: co-owner@19)	SVO (S: Sixers@17, V: "has", O: co-owner@19)	SVO (S: Chamberlain@23, V: "has", O: confidant@25)	SV (V: died@29, S: Richman@14, A?: when@12, A?: of@30)
+403	SVA (V: "be reeling", S: Sixers@8, A!: Still@1, A?: from@3)	SVO (V: posted@9, S: Sixers@8, A?: reeling@2, O: a@10)	SVO (S: his@20, V: "has", O: play@22)	SVO (V: handed@26, S: record@16, O: award@30)	SVO (S: his@27, V: "has", O: award@30)
+404	SVO (V: dominated@8, S: center@6, A?: In@1, A?: again@7, O: opposition@10, A?: by@11)	SVO (S: his@9, V: "has", O: opposition@10)
+405	
+406	SVA (V: "be leading", S: game@3, O: league@7)
+407	SVO (V: blocked@7, S: Chamberlain@6, A?: In@1, O: attempt@10)	SVO (V: dislocated@18, S: he@17, O: shoulder@21)	SVO (S: Johnson@19, V: "has", O: shoulder@21)
+408	
+409	SVO (S: Chamberlain@7, V: "has", O: commitment@9)	SVO (V: doubted@14, S: commitment@9, A?: Off@1, A?: however@5, CCOMP: available@42)	SVC (C: sleeper@21, V: was@18, S: Chamberlain@17)	SVC (C: lived@23, V: was@18, S: Chamberlain@17, A?: in@24)	SVC (C: preferred@28, V: was@18, S: Chamberlain@17, A?: to@29)	SVC (C: available@42, V: was@40, S: he@39, CCOMP: sleeper@21, A?: only@41, A?: during@43)
+410	SVO (V: want@5, S: Schayes@2, XCOMP: risk@7)	SVO (S: his@9, V: "has", O: player@11)	SVO (V: scheduled@14, S: he@13, A?: want@5, O: workout@17, A?: at@18)	SVO (V: angered@23, S: this@22, O: team@25)	SVOC (V: preferred@28, S: team@25, O: schedule@31, XCOMP: have@33)	SVO (V: said@41, S: Schayes@39, A?: just@40, CCOMP: is@45)	EXISTENTIAL (V: is@45, S: way@48)
+411	
+412	SVO (V: owned@6, S: Kosloff@2, A?: now@5, O: Sixers@8, A?: alone@9, A?: after@10)	SVO (S: Richman@11, V: "has", O: death@13)	SVO (V: pleaded@15, S: Kosloff@2, A?: to@16, XCOMP: move@19)	SV (V: turned@29, S: he@27)
+413	SVO (V: met@9, S: Sixers@8, A?: In@1, O: foes@12)	SVOC (V: had@23, S: Sixers@8, A?: In@1, O: foes@12, A?: for@18, A-: even@22, O: advantage@25)	SVO (S: their@10, V: "has", O: foes@12)	SVC (S: foes@12, V: "is", C: Celtics@15)
+414	SVO (V: won@5, S: Boston@3, A?: However@1, A?: easily@4, O: games@9, A?: winning@14)	SVA (V: "be winning", S: Boston@3, O: 115@15)	SVA (V: played@24, S: Chamberlain@23, A!: within@25)	SVO (S: his@26, V: "has", O: range@28)	SVO (S: his@31, V: "has", O: shot@34)
+415	SVOC (V: caused@2, S: This@1, O: McGinnis@6, XCOMP: comment@8)	SVA (V: played@13, S: Celtics@12, A!: like@14)	SV (V: played@20, S: Sixers@18, A?: just@19)
+416	
+417	SVO (V: scored@6, S: Chamberlain@5, A?: In@1, O: points@8, A?: win@16)	SV (V: win@16, S: road@15)	SVO (V: planned@25, S: coach@23, A?: day@21, XCOMP: hold@27)
+418	SVO (V: said@4, S: Chamberlain@3, A?: However@1, CCOMP: tired@9)	SVOC (V: refused@16, S: Chamberlain@3, A?: However@1, CCOMP: tired@9, A-: even@15, O: plea@19, XCOMP: show@23)	SVC (C: tired@9, V: was@6, S: he@5, A?: too@8, XCOMP: attend@12)	SVO (S: Schayes@17, V: "has", O: plea@19)
+419	SVO (V: won@6, S: Boston@5, A?: In@1, O: 114@7)
+420	SVO (V: found@11, S: Chamberlain@6, A?: Prior@1, A?: nowhere@8, XCOMP: skipping@13)
+421	SVO (V: defended@4, S: Schayes@3, A?: Outwardly@1, O: center@7, A?: excused@10)	SVO (S: his@5, V: "has", O: center@7)	SVO (S: his@16, V: "has", O: teammates@17)	SVO (V: knew@18, S: teammates@17, O: truth@20)	SVOC (C: forgiving@25, V: were@22, S: teammates@17, O: truth@20, A?: less@24)
+422	SVC (C: superb@8, V: was@7, S: Chamberlain@6, A?: In@1, XCOMP: scoring@10)	SVO (V: won@20, S: Celtics@19, O: game@22)
+423	
+424	
+425	
+426	
+427	
+428	
+429	SVC (S: February@1, V: "is", C: Cherry@9)	SVC (C: critical@12, V: is@10, S: February@1, A?: highly@11, A?: of@13)	SVC (C: player@23, V: was@19, S: he@18)	SVA (V: performed@25, S: player@23, A!: in@26)	SVO (V: pointed@31, S: he@30, A?: conceding@17, O: behavior@37, A?: as@38)	SVO (S: his@33, V: "has", O: behavior@37)	SVO (S: his@44, V: "has", O: teammates@45)
+430	SVC (S: season@8, V: "is", C: crafty@23)	SVO (V: replaced@16, S: Schayes@14, A?: by@17, O: season@8)
+431	SVO (V: addressed@12, S: Hannum@11, A?: calls@4, O: issues@15)	SVO (V: observed@17, S: he@16, A?: during@18, O: issues@15)	SVA (V: "be putting", S: several@23, O: Chamberlain@27, A!: in@28)
+432	SVO (V: testified@5, S: Sixers@1, CCOMP: had@12)	SVO (V: had@12, S: players@11, A?: on@7, XCOMP: pull@14)	SVA (V: "be prevent", S: pull@14, O: fistfight@22)
+433	
+434	SVO (V: observed@5, S: Cunningham@4, CCOMP: backed@10)	SV (V: backed@10, S: Hannum@7)	SVO (V: showed@15, S: observed@5, CCOMP: boss@19)	SVC (C: boss@19, V: was@17, S: who@16)
+435	SVO (V: won@6, S: he@5, A?: By@1, O: respect@9)	SVO (S: Chamberlain@7, V: "has", O: respect@9)
+436	SVA (V: "be cooled", S: emotions@2)	SVO (V: pointed@7, S: emotions@2, A?: When@1, A?: to@9, CCOMP: was@13)	SVOC (V: pull@27, S: emotions@2, A?: When@1, A?: to@9, CCOMP: was@13, O: this@28, CCOMP: had@37)	SVO (V: pointed@7, S: Hannum@6, A?: When@1, A?: to@9, CCOMP: was@13)	SVOC (V: pull@27, S: Hannum@6, A?: When@1, A?: to@9, CCOMP: was@13, O: this@28, CCOMP: had@37)	SVA (V: was@13, S: he@12, A!: on@14)	SVO (S: his@34, V: "has", O: teammates@35)	SVO (V: had@37, S: he@31, XCOMP: act@40)
+437	SVA (V: "be Concerning", S: he@4, O: basketball@2)	SVOC (V: persuaded@5, S: he@4, A?: Concerning@1, O: him@6, XCOMP: change@8)	SVO (S: his@9, V: "has", O: style@10)
+438	SV (V: score@8, S: players@5)	SVOO (V: wanted@22, S: Hannum@21, O: Chamberlain@23, XCOMP: concentrate@25, IO: players@5)
+439	SVO (S: Wilt@3, V: "has", O: spirit@5)	SVC (C: larger@7, V: was@6, S: spirit@5, A?: than@8)
+440	SVO (S: Wilt@11, V: "has", O: spirit@13)	SVOC (C: larger@15, V: was@14, S: spirit@13, A?: than@16, O: February@1)
+441	SVC (C: dominant@16, V: was@14, S: Chamberlain@13, A?: less@15)	SVO (S: team@24, V: "has", O: shots@26)	SVO (S: his@29, V: "has", O: 50.4@30)
+442	SVC (C: 35.3@6, V: was@5, S: it@4, A?: season@2)
+443	SVO (V: averaged@9, S: he@8, O: 24.1@12)
+444	SVOA (V: led@5, S: he@4, O: league@7, A!: in@8)
+445	
+446	SVA (V: "be breaking", S: record@5, O: .683@7)
+447	
+448	SVO (V: earned@6, S: Chamberlain@5, A?: For@1, O: award@10)	SVO (S: his@7, V: "has", O: award@10)
+449	SVO (V: charged@3, S: Sixers@2, O: way@5, A?: to@6)	SVO (S: their@4, V: "has", O: way@5)
+450	SVOC (V: began@8, S: Chamberlain@7, A?: In@1, XCOMP: praise@10, XCOMP: lauding@14, XCOMP: calling@26)	SVO (S: his@11, V: "has", O: teammates@12)
+451	SVA (V: "be knowing", S: center@6, CCOMP: earned@20)	SVO (V: invited@7, S: center@6, A?: Off@1, O: team@9, A?: to@10, A?: knowing@18)	SVOC (V: paid@13, S: center@6, A?: Off@1, O: team@9, A?: to@10, O: bill@16, A?: knowing@18)	SVO (V: earned@20, S: he@19, O: more@23)
+452	SVO (V: considered@5, S: Greer@1, XCOMP: professional@8, A?: of@16)	SVO (V: clashed@11, S: Greer@1, XCOMP: professional@8, A?: often@10, A?: with@12, A?: of@16)	SVO (S: his@17, V: "has", O: attitude@18)	SVA (V: spoke@20, S: Greer@1, A!: positively@21)	SVO (V: knew@29, S: You@28, A?: in@30, CCOMP: ready@40)	SVC (S: Fella@35, V: "is", C: Chamberlain@37)	SVC (C: ready@40, V: was@39, S: Fella@35, XCOMP: go@42)
+453	SV (V: follow@4, S: everybody@2)
+454	
+455	SVO (V: battled@11, S: Sixers@8, A?: In@1, A?: again@10, O: Celtics@14, A?: in@15)	SVOC (V: held@23, S: Sixers@8, A?: In@1, A?: again@10, O: Celtics@14, A?: in@15, A?: again@22, O: advantage@26)
+456	SVO (V: beat@7, S: Sixers@6, A?: In@1, O: Boston@8, A?: with@27)	SVA (V: "be powered", S: Boston@8, A!: by@14)	SVO (S: Greer@16, V: "has", O: points@19)	SVO (S: Chamberlain@21, V: "has", O: quadruple@24)	SVC (S: points@29, V: "is", C: rebounds@32)	SVO (V: assists@35, S: 13@34, O: points@29)	SVO (V: blocks@42, S: 13@34, O: points@29)
+457	
+458	SVO (V: won@7, S: Sixers@6, A?: In@1, O: 107@8)	SVO (V: praised@18, S: Russell@16, A?: grudgingly@17, O: Chamberlain@19)
+459	SVO (V: grabbed@6, S: Chamberlain@5, A?: In@1, O: rebounds@8)	SVOC (V: helped@10, S: Chamberlain@5, A?: In@1, O: rebounds@8, CCOMP: win@13)	SVO (V: win@13, S: Sixers@12, O: 115@14)
+460	SVOC (V: prevented@3, S: Celtics@2, O: sweep@5, A?: by@6, CCOMP: overpowered@25)	SVO (V: overpowered@25, S: Sixers@23, A?: simply@24, O: Celtics@27)	SVO (V: ended@34, S: Celtics@27, A?: effectively@33, O: run@38)	SVO (S: Boston@35, V: "has", O: run@38)
+461	SVO (S: Sixers@2, V: "has", O: center@4)	SVO (V: scored@5, S: center@4, CCOMP: assists@13)	SV (V: assists@13, S: points@7)	SVA (V: praised@17, S: points@7, A?: highly@16, A!: by@18)
+462	
+463	SVA (V: pitted@10, S: Sixers@8, A?: In@1, A!: against@11)	SVO (S: Chamberlain@12, V: "has", O: team@15)	SVO (S: his@22, V: "has", O: Thurmond@26)
+464	SVO (V: won@3, S: Sixers@2, O: games@7, A?: with@9)	SVA (V: "be taking", S: Greer@12, O: credit@14, A!: for@15)	SVO (V: won@26, S: Francisco@25, O: two@27)
+465	SVO (V: trailing@8, S: Warriors@6, A?: In@1, O: 123-122@9, A?: with@10)
+466	SVO (V: assigned@10, S: Thurmond@6, A?: For@1, XCOMP: do@12)	SVO (V: guard@22, S: whoever@20, O: Barry@23)
+467	SVO (V: ran@10, S: Barry@9, A?: when@8, O: pick@14)	SVOA (V: drove@16, S: Barry@9, A?: when@8, O: pick@14, A!: to@17)	SVO (S: Thurmond@12, V: "has", O: pick@14)	SVO (V: picked@23, S: he@21, A?: ran@10, A?: by@25, XCOMP: making@29)	SV (V: shoot@33, S: it@30)	SVA (V: covered@37, S: Thurmond@35, A!: by@38)	SVO (V: made@42, S: Chamberlain@39, XCOMP: impossible@44)	SVO (V: impossible@44, S: it@43, XCOMP: pass@46)
+468	SVO (V: botched@2, S: Barry@1, O: attempt@5)	SVO (S: his@3, V: "has", O: attempt@5)	SVO (V: won@10, S: Sixers@9, O: championship@12)
+469	SVO (V: said@2, S: Chamberlain@1, CCOMP: wonderful@8)	SVC (C: wonderful@8, V: is@6, S: It@5, XCOMP: part@12)
+470	SVA (V: is@4, S: champion@3, A!: like@5)
+471	SVA (V: contributed@4, S: He@2, A!: with@5)
+472	
+473	SVA (V: "be failing", S: rpg@1, XCOMP: snare@13)
+474	
+475	
+476	
+477	
+478	
+479	
+480	SVO (V: described@11, S: Chamberlain@9, O: team@13, A?: as@14)
+481	SVO (V: wrote@7, S: Lynch@6, A?: In@1, O: book@9)	SVC (S: book@9, V: "is", C: Season@16)	SVA (V: "be centering", S: book@9, A!: on@22)
+482	SVO (V: began@10, S: matters@9, A?: In@1, XCOMP: turn@12)	SVC (S: Chamberlain@15, V: "is", C: Kosloff@25)	SVO (S: Sixers@18, V: "has", O: owner@22)
+483	SVA (V: going@5, S: conflict@2, A!: along@6)	SVO (V: asserted@15, S: Chamberlain@14, A?: in@11, CCOMP: worked@23)	SVO (V: worked@23, S: he@17, O: deal@26)	SVOO (V: give@29, S: deal@26, IO: center@31, O: %@33, A?: ended@40)	SVO (V: ended@40, S: he@38, A?: once@37, O: career@42)	SVO (S: his@41, V: "has", O: career@42)
+484	
+485	EXISTENTIAL (V: is@3, S: proof@6)	SVO (V: assumed@20, S: Schayes@14, CCOMP: was@22)	SVA (V: was@22, S: Chamberlain@21, A!: right@23)	SVA (V: "be leaving", S: Kosloff@29, XCOMP: livid@36)	SVO (V: declined@30, S: Kosloff@29, A?: in@25, O: request@32, A?: leaving@34)	SV (V: livid@36, S: Chamberlain@35)	SVO (S: his@46, V: "has", O: contract@47)	SVA (V: ended@48, S: contract@47, A!: in@49)
+486	SVO (V: worked@4, S: Kosloff@1, O: truce@7)	SVOC (V: signed@11, S: Kosloff@1, O: truce@7, A?: later@10, O: contract@17)
+487	SVO (V: continued@6, S: Chamberlain@5, A?: On@1, O: focus@8, A?: 24.3@14)	SVO (S: his@7, V: "has", O: focus@8)
+488	
+489	
+490	SVO (V: had@3, S: 76ers@2, O: record@6)
+491	SVOC (V: made@2, S: Chamberlain@1, O: history@3, A?: by@4, O: runner-up@27)	SVA (V: "be finish", S: center@10, O: season@17, A!: as@18)	SVC (S: runner-up@27, V: "is", C: total@35)	SVO (S: his@24, V: "has", O: runner-up@27)	SVO (S: Wilkens@33, V: "has", O: total@35)
+492	SVO (V: won@6, S: Chamberlain@5, A?: For@1, O: fourth@8)	SVO (S: his@7, V: "has", O: fourth@8)
+493	SVC (C: point@7, V: was@3, S: landmark@2, A?: making@9)	SVO (S: his@4, V: "has", O: point@7)	SVA (V: "be making", S: point@7, XCOMP: player@14)	SVA (V: "be score", S: player@14, O: points@19)	SVA (V: player@14, S: him@10, A?: ever@13, A!: score@16)	SVO (V: gave@22, S: he@21, O: ball@24, A?: to@25)	SVO (S: his@26, V: "has", O: physician@28)
+494	
+495	
+496	SVA (V: "be Winning", S: Sixers@6, O: games@3)	SVO (V: took@8, S: Sixers@6, A?: Winning@1, A?: easily@7, O: playoff@11)
+497	SVA (V: pitted@10, S: they@8, A?: In@1, A!: against@11)
+498	SVO (V: lost@9, S: Sixers@8, A?: In@1, O: Cunningham@13, A?: with@14)	SVA (V: struggling@26, S: Chamberlain@20, A!: with@27)	SVO (V: pulled@35, S: Chamberlain@20, A?: with@27, O: hamstrings@36, A?: respectively@37)
+499	SVO (V: defeated@9, S: Sixers@8, A?: ahead@2, O: 115@12)	SVO (V: scored@20, S: Chamberlain@19, O: points@22)	SVO (V: rebounds@25, S: Chamberlain@19, O: points@22)	SVO (V: had@28, S: he@27, O: series@31)	SVOO (V: led@35, S: he@34, A?: in@32, O: teams@37, A?: in@38, IO: series@31)	SVC (S: points@39, V: "is", C: 153@41)	SVC (S: rebounds@44, V: "is", C: 145@46)
+500	
+501	SVO (V: met@12, S: Sixers@9, A?: In@1, A?: yet@10, A?: again@11, O: Celtics@15, A?: with@18)	SVO (V: time@25, S: Sixers@9, A?: In@1, A?: yet@10, A?: again@11, O: Celtics@15, A?: with@18, A?: as@26)
+502	SVO (S: Sixers@3, V: "has", O: woes@6)	SVC (C: confident@11, V: was@10, S: Hannum@9, A?: Despite@1, XCOMP: take@14)	SVA (V: pointed@25, S: he@24, A!: age@28)	SVA (V: built@35, S: Celtics@31, A!: around@36)
+503	
+504	SVA (V: struck@6, S: tragedy@5, A-: then@2, A!: assassinated@12)	SVA (V: assassinated@12, S: King@10, A!: on@13)
+505	SVO (V: were@20, S: teams@19, A?: in@21, O: eight@2)	EXISTENTIAL (V: were@27, S: calls@28)	SVA (V: "be cancel", S: calls@28, O: series@32)
+506	SVA (V: "be called", S: game@3)	SVOC (V: lost@17, S: Sixers@16, CCOMP: devoid@10, O: 118@20, A?: on@21)
+507	
+508	SVO (S: King@1, V: "has", O: funeral@3)	SVC (S: funeral@3, V: "is", C: Chamberlain@5)	SVO (V: called@6, S: funeral@3, A?: to@8, XCOMP: stating@21)	SVOA (V: setting@14, S: rioters@11, O: fires@15, A!: all@16)
+509	SV (V: approved@5, S: King@1)
+510	SVOC (V: evened@6, S: Philadelphia@5, A?: In@1, O: series@8, A?: with@9, O: victory@14, A?: with@23)	SVA (V: "be played", S: Chamberlain@24, A!: suspiciously@25, A?: often@26, A?: by@28)	SVA (V: "be causing", S: backup@30, O: press@37, XCOMP: speculate@39)	SVA (V: worn@42, S: Russell@40, A!: down@43)
+511	SVC (V: seemed@8, S: Celtics@7, A?: Prior@1, ACOMP: dead@9)	SVO (V: overcome@15, S: team@13, O: deficit@21, A?: before@22)
+512	SVO (V: rallied@5, S: Celtics@4, A?: However@1, A?: back@6, XCOMP: winning@8)	SVO (S: Sixers@32, V: "has", O: shooting@35)
+513	SVO (V: followed@2, S: What@1, CCOMP: first@5)	SVO (V: played@17, S: Chamberlain@16, A?: in@14, O: 7s@13)
+514	SVOA (V: get@10, S: Sixers@7, A?: In@1, O: act@12, A!: together@13)	SVO (S: their@11, V: "has", O: act@12)	SVO (V: witnessed@19, S: fans@18, O: 100@22)	SVA (V: "be making", S: defeat@25, XCOMP: time@31)	SVA (V: time@31, S: it@28, A!: in@32)	SVOO (V: lost@37, S: team@36, O: series@39, A?: after@40, IO: time@31)
+515	SVO (V: points@3, S: Cherry@2, CCOMP: shot@8)	SVO (V: shot@8, S: Sixers@7, A?: badly@9, CCOMP: hit@25)	SVO (V: hit@25, S: Greer@12, O: 25@28)	SVO (V: grabbed@35, S: Chamberlain@34, O: rebounds@37)	SVO (V: scored@45, S: center@43, A?: points@3, O: points@48)
+516	SVO (V: attempt@12, S: Chamberlain@9, A?: In@1, O: shot@15)
+517	SVO (V: observes@2, S: Cherry@1, O: pattern@5)	SVC (V: got@17, S: Chamberlain@16, A?: in@10, CCOMP: times@21)	SVO (V: times@38, S: Chamberlain@16, A?: in@10, CCOMP: times@21, A?: only@36, A?: in@39)	SVO (V: in@45, S: Chamberlain@16, A?: in@10, CCOMP: times@21, A?: twice@44, A?: quarter@48)	SVO (V: times@30, S: Chamberlain@16, A?: in@10, CCOMP: times@21, A?: only@28, A?: in@31)	SVA (V: times@21, S: ball@19, A!: in@22)
+518	
+519	
+520	SVOC (V: conceded@10, S: coach@9, O: point@6, O: himself@11)	SVO (V: points@15, S: Cherry@14, CCOMP: outspoken@36)	SVA (V: thought@22, S: Chamberlain@18, A?: always@21, A!: of@23, A?: as@25)	SVC (C: outspoken@36, V: been@35, S: Chamberlain@18, A?: enough@37, XCOMP: demand@39)
+521	SVO (V: meant@3, S: loss@2, CCOMP: 1@8)	SVC (C: 1@8, V: was@6, S: Chamberlain@5, A?: now@7)
+522	SVO (V: wanted@8, S: Hannum@7, A?: After@1, XCOMP: closer@11)	SVO (S: his@13, V: "has", O: family@14)	SVO (V: left@21, S: he@20, O: Sixers@23, A?: to@24)
+523	
+524	SVA (V: asked@3, S: Chamberlain@1, A-: then@2, A!: for@4)	SVO (V: traded@14, S: Ramsay@13, O: him@15, A?: to@16, A?: for@21)
+525	SVA (V: remains@6, S: motivation@2, A!: in@7)
+526	SVC (S: Lazenby@5, V: "is", C: journalist@8)	SVC (C: angry@16, V: was@15, S: Chamberlain@14, A?: According@1, A?: at@17, A?: for@19)	SVC (C: according@29, V: was@15, S: Chamberlain@14, A?: According@1, A?: at@17, A?: for@19)
+527	SVC (S: Ramsay@2, V: "is", C: Chamberlain@12)	SVC (C: manager@9, V: was@5, S: Ramsay@2, A-: then@10)	SVO (V: threatened@14, S: Ramsay@2, A?: also@13, XCOMP: jump@16)	SVOC (V: forced@25, S: Ramsay@2, A?: also@13, XCOMP: jump@16, O: trade@27)	SV (V: left@22, S: Hannum@21)
+528	SVO (V: adds@3, S: Cherry@1, A?: finally@2, O: reasons@6)	SVC (V: felt@10, S: center@9, CCOMP: grown@13)	SVOC (V: sought@19, S: center@9, CCOMP: grown@13, O: presence@21)	SVC (V: grown@13, S: he@11, ACOMP: big@15)	SVA (V: were@27, S: which@26, A!: plenty@28, A?: in@29)
+529	SVC (C: possible@15, V: was@14, S: women@11, A?: for@16)
+530	
+531	
+532	SVC (C: centerpiece@10, V: was@8, S: Chamberlain@7, A?: On@1, A?: of@11)	SVO (V: sent@25, S: Lakers@22, O: Imhoff@28)	SVA (V: started@37, S: center@35, A!: against@38)	SVA (V: "be making", S: Chambers@50, XCOMP: time@62)	SV (V: time@62, S: it@59)	SVOO (V: traded@70, S: Player@68, O: season@73, IO: NBA@65)
+533	
+534	SVOO (V: gave@6, S: Cooke@5, IO: Chamberlain@7, O: contract@10)	SVO (V: paid@29, S: West@27, A?: in@19, O: $@30, A?: before@32)
+535	
+536	SVO (V: joined@2, S: Chamberlain@1, O: squad@4, A?: along@17, A?: forwards@24)	SVO (V: featured@6, S: squad@4, O: Hall-of-Fame@7)
+537	SVO (V: joined@36, S: who@35, A?: after@28, O: Suns@39, A?: after@40)	SVOC (V: said@47, S: Kolff@26, CCOMP: joined@36, CCOMP: murdered@52)	SVOC (V: said@47, S: he@46, CCOMP: joined@36, CCOMP: murdered@52)	SVA (V: murdered@52, S: Egan@50, A!: on@53, A?: of@56)	SVO (S: his@57, V: "has", O: lack@59)
+538	SVO (V: play@5, S: I@2, O: him@6)	SVA (V: look@9, S: we@8, A?: play@5, A!: like@10)
+539	
+540	SVO (V: observed@5, S: Cherry@4, A?: In@1, CCOMP: was@8)	SV (V: was@8, S: Chamberlain@7)	SV (V: was@8, S: leader@12)	SVO (V: made@19, S: leader@12, XCOMP: difficult@21)	SVO (V: difficult@21, S: him@20, XCOMP: fit@23)
+541	SVA (V: was@3, S: he@2, A!: on@4)	SVA (V: argued@13, S: he@11, A?: was@3, A?: often@12, A!: with@14)	SV (V: explained@25, S: he@23, A?: Baylor@21, A?: later@24)	SVC (C: friends@31, V: were@29, S: We@28)
+542	
+543	SVO (V: let@3, S: you@1, CCOMP: one-up@7)	SVO (V: one-up@7, S: guy@6, O: you@8)
+544	SVC (C: relationship@8, V: was@5, S: problem@4, A?: with@9)	SVO (S: his@6, V: "has", O: relationship@8)	SVA (V: "be calling", S: he@27, A!: pejoratively@17, XCOMP: recruit@21)	SVO (V: complained@29, S: he@27, A?: calling@18, A?: later@28, CCOMP: egotistical@33)	SVC (C: egotistical@33, V: was@32, S: Chamberlain@31)	SVO (S: his@50, V: "has", O: statistics@52)
+545	SVO (V: blasted@6, S: center@5, A?: In@1, O: Kolff@9, A?: as@10)
+546	SVO (V: observed@4, S: Erickson@3, CCOMP: catered@8)	SVA (V: catered@8, S: Butch@7, A!: to@9)
+547	SVC (C: way@6, V: is@2, S: that@1, A?: get@8)	SVA (V: "be get", S: way@6, A!: on@9)	SVO (S: Wilt@10, V: "has", O: side@12)
+548	SVA (V: doomed@3, S: relationship@1, A!: from@4)
+549	SVO (V: experienced@3, S: Chamberlain@2, O: season@9)
+550	SVO (V: benched@4, S: Kolff@3, O: him@5, A?: times@7)	SVA (V: happened@11, S: times@7, A!: in@12, A?: before@15)	SVO (S: his@13, V: "has", O: career@14)	SVO (V: had@24, S: champion@23, A?: in@17, O: games@26)	SVOO (V: scored@30, S: he@29, A?: in@27, O: six@32, IO: games@26)	SVOO (V: points@37, S: he@29, A?: in@27, O: six@32, A-: then@34, IO: games@26)
+551	SVO (S: his@3, V: "has", O: problems@4)	SVA (V: "be Playing", S: Chamberlain@6, A!: through@2)	SVO (V: averaged@7, S: Chamberlain@6, A?: Playing@1, O: 20.5@8)
+552	
+553	SV (V: season@5, S: game@3)
+554	SVC (C: pleased@7, V: was@6, S: Cooke@5, A?: However@1, A?: because@9)	SVO (V: went@16, S: sales@15, A?: up@17, A?: by@18, O: Chamberlain@12)
+555	SVOC (V: dispatched@9, S: Lakers@8, A?: In@1, O: club@13, O: Warriors@18)	SVOC (V: met@36, S: Lakers@8, A?: In@1, O: club@13, O: Warriors@18, O: rivals@40)	SVO (S: Chamberlain@10, V: "has", O: club@13)	SVO (S: Chamberlain@37, V: "has", O: rivals@40)	SVC (S: rivals@40, V: "is", C: Celtics@46)	SVO (S: Russell@43, V: "has", O: Celtics@46)
+556	SVA (V: "be Going", S: Lakers@10, A!: into@2, A?: as@5)	SVO (V: won@11, S: Lakers@10, A?: Going@1, O: games@15)	SVOC (V: dropped@18, S: Lakers@10, A?: Going@1, O: games@15, O: two@21)
+557	SVO (V: criticized@3, S: Chamberlain@1, A?: as@4, XCOMP: getting@11)
+558	SVO (V: started@9, S: center@8, A?: in@2, XCOMP: come@11)	SVO (S: 104@30, V: win@31, O: come@11)
+559	SVO (V: won@7, S: Celtics@6, A?: In@1, O: 99@8)	SVO (V: scored@15, S: 90@10, A?: only@14, O: points@17)	SVO (V: accuses@20, S: Cherry@19, O: him@21, A?: of@22)	SV (V: came@30, S: Chamberlain@28)	SVA (V: "be scoring", S: point@39, O: night@41)
+560	SVO (S: its@5, V: "has", O: championship@7)
+561	SVO (V: featured@3, S: Game@1, O: scene@6)	SVOA (V: put@21, S: Cooke@19, O: thousands@23, A!: in@26)
+562	SVO (V: motivated@5, S: display@2, O: Celtics@7)	SVOC (V: angered@9, S: display@2, O: Celtics@7, O: West@11)
+563	SVO (V: experienced@6, S: Chamberlain@5, A?: In@1, O: Game@9)	SVO (S: his@7, V: "has", O: Game@9)
+564	SVO (V: trailed@3, S: Lakers@2, O: 91-76@4, A?: after@5)
+565	SVA (V: played@10, S: West@7, A!: with@11, A?: after@16)	SVO (V: mounted@22, S: Lakers@21, O: comeback@24)	SVO (V: twisted@29, S: Chamberlain@28, A-: then@27, O: knee@31, A?: after@32)	SVOC (V: had@36, S: Chamberlain@28, A-: then@27, O: knee@31, A?: after@32, XCOMP: replaced@39)	SVO (S: his@30, V: "has", O: knee@31)
+566	SVA (V: "be go", S: minutes@3)	SVO (V: hitting@11, S: West@8, A?: With@1, O: baskets@13)	SVO (V: trailed@17, S: Lakers@16, O: 103-102@18)
+567	SVO (V: tightened@5, S: Celtics@4, A?: when@2, O: defense@8)	SVO (S: their@7, V: "has", O: defense@8)	SVO (V: committed@12, S: Lakers@11, A?: tightened@5, O: turnovers@14)	SVOC (V: lost@16, S: Lakers@11, A?: tightened@5, O: turnovers@14, O: game@18, A?: assists@38)	SVC (S: West@27, V: "is", C: rebounds@35)	SVO (V: had@30, S: West@27, O: points@32)	SV (V: assists@38, S: triple-double@25)
+568	SVO (V: became@2, S: West@1, O: player@5, A?: despite@14)	SVA (V: "be named", S: player@5, O: MVP@13)
+569	SVA (V: was@8, S: question@7, A?: After@1, A!: stayed@12)	SVA (V: stayed@12, S: Chamberlain@10, A-: why@9, A!: out@13)
+570	SVO (S: his@5, V: "has", O: substitution@7)	SVO (V: scored@11, S: he@9, A?: At@1, O: points@13)	SVOC (V: grabbed@23, S: he@9, A?: At@1, O: points@13, O: rebounds@25)	SVO (S: his@18, V: "has", O: shots@20)
+571	SVO (S: Chamberlain@9, V: "has", O: injury@11)	SVO (V: had@12, S: injury@11, A?: justify@2, XCOMP: grave@15)	SVO (S: Kolff@20, V: "has", O: trust@22)
+572	SVOC (V: believe@8, S: Russell@5, A?: Among@1, CCOMP: grave@13, O: injury@26)	SVO (S: Chamberlain@9, V: "has", O: injury@11)	SVC (C: grave@13, V: was@12, S: injury@11)	SVOC (C: accused@17, V: was@12, S: injury@11, A?: openly@16, O: him@18, A?: of@19)	SVC (C: enough@38, V: is@36, S: a@33)
+573	SVC (V: came@7, S: Kolff@6, A?: to@8, XCOMP: insisting@13)	SVO (S: Chamberlain@9, V: "has", O: defense@11)	SVC (C: able@20, V: was@19, S: center@17, A!: hardly@18, XCOMP: move@22)
+574	SVO (V: perceived@4, S: himself@2, A?: as@5, O: He@1)	SVO (V: resigned@15, S: himself@2, A?: as@5, A?: soon@14, A?: as@16, O: He@1)
+575	SVO (V: destroyed@13, S: comments@2, A?: according@4, O: careers@15)	SVOO (V: destroyed@13, S: Game@10, A?: according@4, O: careers@15, IO: comments@2)	SV (V: take@23, S: he@20)	SV (V: Kolff@28, S: he@20)	SVA (V: give@33, S: he@30, A!: in@34)
+576	SVO (S: his@2, V: "has", O: year@4)	SVO (V: injured@16, S: Chamberlain@14, A?: In@1, A?: seriously@15, O: knee@18)	SVO (S: his@17, V: "has", O: knee@18)
+577	SVA (V: injured@3, S: He@1, A!: in@4)	SVA (V: missed@12, S: He@1, A?: in@4, A!: months@16, A?: before@17)
+578	SVA (V: "be Owing", S: he@7, A!: to@2)	SVA (V: managed@8, S: he@7, A?: Owing@1, A!: to@9)
+579	
+580	
+581	
+582	SVA (V: charged@5, S: Lakers@4, A?: Again@1, A!: through@6)	SV (V: DeBusschere@35, S: Lakers@4, A?: Again@1, A?: through@6)	SVA (V: loaded@27, S: Lakers@4, A?: Again@1, A?: through@6, A!: with@28)	SVA (V: pitted@20, S: Lakers@18, A?: in@11, A!: against@21)
+583	SVO (V: observed@2, S: Cherry@1, CCOMP: matchup@14)	SVC (S: Reed@4, V: "is", C: shooter@9)	SVC (C: matchup@14, V: was@11, S: Reed@4, A?: for@15)	SVO (S: his@24, V: "has", O: injury@25)	SVC (C: slow@33, V: was@30, S: center@29, A?: lost@19, A?: often@31, A?: too@32, XCOMP: block@35)	SVO (S: Reed@36, V: "has", O: shots@42)
+584	
+585	SVO (V: masterminded@6, S: Reed@5, A?: In@1, O: 124@8)	SVOC (V: win@11, S: 112@10, CCOMP: scored@15, O: 124@8)	SVO (V: scored@15, S: he@14, A?: in@12, O: points@17)
+586	SVO (V: scored@6, S: Chamberlain@5, A?: In@1, O: points@8, A?: leading@23)	SVOC (V: grabbed@10, S: Chamberlain@5, A?: In@1, O: points@8, O: rebounds@12, A?: leading@23)	SVOC (V: blocked@14, S: Chamberlain@5, A?: In@1, O: points@8, O: shot@17, A?: in@18, A?: leading@23)	SVA (V: "be leading", S: Chamberlain@5, O: Lakers@25, A!: to@26)	SVO (S: Reed@15, V: "has", O: shot@17)	SVO (S: 103@30, V: win@31, O: scored@6)
+587	SVO (V: saw@3, S: 3@2, CCOMP: hit@7)	SVO (V: hit@7, S: West@5, A?: famously@6, O: shot@10, A?: at@11, A?: tie@15)	SVA (V: "be tie", S: West@5, O: game@17, A!: at@18)	SVO (V: took@25, S: Knicks@24, A?: however@21, O: game@27)
+588	SVO (V: scored@6, S: Chamberlain@5, A?: In@1, O: points@8)	SVOC (V: grabbed@10, S: Chamberlain@5, A?: In@1, O: points@8, O: rebounds@12)	SVOC (V: helped@14, S: Chamberlain@5, A?: In@1, O: points@8, CCOMP: tie@15)
+589	SVC (V: seemed@7, S: things@6, A?: in@2, XCOMP: go@9)	SVO (V: pulled@21, S: Reed@20, O: muscle@24)	SVOC (V: seemed@26, S: Reed@20, O: muscle@24, XCOMP: done@29)	SVO (S: his@22, V: "has", O: muscle@24)
+590	SVA (V: dominated@9, S: Chamberlain@5, A?: By@1, A?: now@6, A!: against@10)	SVO (V: gave@27, S: Bradley@22, O: foot@33, A?: against@34)
+591	SVO (V: gave@5, S: Lakers@4, A?: Instead@1, O: lead@11)	SVO (V: succumbed@13, S: Lakers@4, A?: Instead@1, O: lead@11, A?: to@14)	SVO (S: their@7, V: "has", O: lead@11)
+592	SVO (V: shot@15, S: Chamberlain@12, O: ball@17, A?: times@22, A?: respectively@24, A?: in@26)
+593	SVO (V: lost@3, S: Lakers@2, O: 107@4)	SVO (V: called@10, S: what@8, XCOMP: one@11)
+594	SVO (V: scored@6, S: Chamberlain@5, A?: In@1, CCOMP: equalized@12)	SVO (V: equalized@12, S: points@8, O: series@14, A?: in@15)	SVO (V: win@21, S: Lakers@20, O: 135@17)	SVO (V: with@24, S: Lakers@20, A?: Reed@25, O: 135@17)	SVC (V: seemed@30, S: Knicks@29, ACOMP: doomed@31)
+595	SVC (C: Reed@11, V: was@9, S: hero@4, A?: However@1)
+596	SVO (V: hobbled@3, S: He@1, A?: famously@2, O: court@5)	SVOC (V: scored@7, S: He@1, A?: famously@2, O: court@5, O: points@11)	SVOC (V: inspired@14, S: He@1, A?: famously@2, O: court@5, O: team@16, A?: to@17)	SVO (S: his@15, V: "has", O: team@16)
+597	
+598	
+599	
+600	
+601	SVA (V: led@11, S: Knicks@10, A!: by@12, A?: at@14)	SVO (V: prevent@26, S: Chamberlain@23, A?: despite@18, O: loss@30)
+602	SVA (V: criticized@6, S: center@3, A!: for@7)	SVO (S: his@8, V: "has", O: inability@9)	SVA (V: "be dominate", S: inability@9, O: counterpart@14)	SVO (S: his@12, V: "has", O: counterpart@14)	SVO (V: pointed@18, S: Cherry@17, CCOMP: forgotten@35)	SVO (S: Chamberlain@21, V: "has", O: feat@23)	SV (V: forgotten@35, S: feat@23, A?: quickly@34)
+603	SVO (V: made@11, S: Lakers@10, A?: In@1, O: move@14, A?: by@15)	SVA (V: came@24, S: Goodrich@21, A!: back@25, A?: from@26, A?: after@30)
+604	
+605	SVO (V: averaged@2, S: Chamberlain@1, O: 20.7@3)
+606	
+607	
+608	SV (V: won@13, S: Lakers@12)
+609	SVO (V: ended@12, S: rupture@9, A?: effectively@11, O: career@14)	SVO (S: his@13, V: "has", O: career@14)	SVA (V: seen@31, S: Lakers@29, A?: After@1, A!: as@32)	SVA (V: Robertson@60, S: Lakers@29, A?: After@1, A?: as@32, A!: in@61)	SVO (S: his@48, V: "has", O: Abdul-Jabbar@53)
+610	SVA (V: "be Winning", S: Bucks@10, O: season@4, A!: with@5)	SVA (V: seen@12, S: Bucks@10, A?: Winning@1, A!: as@13)	SVA (V: looking@25, S: pundits@23, A?: still@20, A!: forward@26, A?: to@27)
+611	
+612	SVO (V: outscored@6, S: Abdul-Jabbar@5, A?: In@1, O: Chamberlain@7)	SVO (V: won@15, S: Bucks@14, O: 106@16)
+613	SVA (V: won@7, S: Bucks@6, A?: In@1, A!: again@8, A?: despite@9)	SVC (S: center@12, V: "is", C: more@18)	SVA (V: "be scoring", S: center@12, O: points@15)	SVO (S: his@20, V: "has", O: counterpart@22)
+614	SVC (V: became@7, S: things@6, A?: Prior@1, ACOMP: worse@9, A?: for@10, A?: had@21)	SVC (S: Erickson@15, V: "is", C: stand-in@19)	SVO (S: West@17, V: "has", O: stand-in@19)	SVO (V: had@21, S: Erickson@15, A?: when@13, O: appendectomy@23)	SVOC (C: out@26, V: was@25, S: Erickson@15, A?: when@13, O: appendectomy@23)	SVA (V: "be easing", S: McMillan@35, O: pressure@39)	SVO (V: scored@42, S: Chamberlain@41, A?: with@31, O: points@44, A?: in@48)	SVOC (V: defeated@56, S: Bucks@55, O: Lakers@58, A?: in@60, XCOMP: take@64)
+615	SVOC (V: closed@2, S: Milwaukee@1, O: series@5, A?: with@8, O: victory@13)
+616	
+617	
+618	
+619	
+620	
+621	
+622	SV (V: lost@11, S: Chamberlain@10)	SVA (V: lauded@15, S: he@13, A?: lost@11, A!: for@16)	SVO (V: had@34, S: he@13, A?: lost@11, A?: for@16, A?: still@33, O: knees@37)	SVO (S: his@18, V: "has", O: own@19)	SVC (C: years@29, V: was@25, S: Alcindor@22, A?: only@27)
+623	SVO (V: had@7, S: Chamberlain@6, A?: After@1, O: offer@9)	SVA (V: "be fight", S: offer@9, O: legend@14)
+624	SVOA (V: taken@6, S: fight@3, O: place@7, A!: on@8)	SVO (V: refused@20, S: 1971@12, A?: finally@19, O: match@22)
+625	SVO (V: stated@7, S: Chamberlain@6, A?: In@1, CCOMP: wanted@13)	SVO (V: wanted@13, S: D'Amato@12, XCOMP: train@15)	SVOC (V: offered@23, S: they@22, O: Ali@24, XCOMP: battle@32)
+626	SVO (S: his@7, V: "has", O: father@8)	SVC (S: father@8, V: "is", C: Chamberlain@10)	SVO (V: said@12, S: checking@4, A?: finally@11, O: no@13)
+627	
+628	SVO (V: spoke@2, S: Wilt@1, A?: of@3, O: static.espn.go.com/nba/news/1999/1012/110905.html@13)
+629	
+630	SVO (V: spoke@2, S: Wilt@1, A?: of@3, O: static.espn.go.com/nba/news/1999/1012/110905.html@13)
+631	
+632	
+633	SVO (V: Was@8, S: Fight@5, A?: Almost@7, O: http@9)
+634	
+635	SVC (S: March@8, V: "is", C: January@12)	SV (V: =@2, S: p@1)
+636	
+637	SVO (V: Was@8, S: Fight@5, A?: Almost@7, O: http@9)
+638	
+639	SV (V: =@2, S: p@1)	SVC (S: March@8, V: "is", C: January@12)	SVC (S: March@8, V: "is", C: 2008@15)	SVO (V: hired@26, S: Lakers@25, O: Sharman@32, A?: as@33)
+640	SVO (V: introduced@2, S: Sharman@1, O: shoot-arounds@4)	SVO (V: participated@13, S: Chamberlain@11, A?: in@6, A?: regularly@12, O: shoot-arounds@4)	SVO (S: his@38, V: "has", O: Russell@42)
+641	SVO (S: Chamberlain@3, V: "has", O: feats@5)
+642	SVC (S: February@1, V: "is", C: feats@13)	SVO (S: Chamberlain@11, V: "has", O: feats@13)
+643	SVOC (V: told@12, S: he@11, CCOMP: February@1, O: Chamberlain@13, XCOMP: use@15)	SVO (S: his@16, V: "has", O: rebounding@17)	SVA (V: "be initiate", S: skills@20, A!: quickly@22, O: fastbreak@24, A?: to@25)	SVO (S: his@26, V: "has", O: teammates@27)
+644	
+645	SVO (V: named@11, S: Chamberlain@9, A?: While@1, O: captain@14)	SVO (S: his@21, V: "has", O: tendon@23)	SVO (V: retired@29, S: Baylor@28, A?: after@19, XCOMP: leaving@31)	SVA (V: "be filled", S: center@35, A!: now@36)
+646	SVOC (V: wanted@5, S: Sharman@3, A?: Initially@1, O: Chamberlain@6, XCOMP: share@10)	SVO (V: declined@16, S: West@15, XCOMP: stating@18)	SVC (C: injury-prone@21, V: was@20, S: he@19)	SVC (C: wanted@23, V: was@20, S: he@19, XCOMP: concentrate@26)
+647	
+648	SVO (V: accepted@2, S: Chamberlain@1, O: roles@5)	SVO (V: posted@7, S: Chamberlain@1, O: roles@5)	SVO (S: his@3, V: "has", O: roles@5)
+649	
+650	
+651	
+652	SVO (S: his@3, V: "has", O: presence@5)	SVA (V: "be Powered", S: Lakers@8, A!: by@2)	SVA (V: embarked@9, S: Lakers@8, A?: Powered@1, A!: on@10)
+653	SVOC (V: defeated@7, S: Lakers@6, A?: In@1, O: Bulls@10, A?: in@11, O: databasebasketball.com@15)
+654	SV (V: http@11, S: Log@8)
+655	
+656	SVC (S: February@12, V: "is", C: January@16)
+657	SV (V: http@11, S: Log@8)
+658	
+659	SVO (V: changed@40, S: he@38, O: name@42, A?: again@44)	SVO (S: his@41, V: "has", O: name@42)	SVC (S: February@12, V: "is", C: January@16)	SVO (V: went@21, S: February@12, A-: then@20, A?: on@22, O: n@11)
+660	SVA (V: hailed@8, S: matchup@2, A!: by@9, A?: as@12)
+661	SVO (V: help@3, S: Chamberlain@1, CCOMP: lead@4)
+662	SVA (V: lauded@5, S: Chamberlain@3, A?: Particularly@1, A!: for@6)	SVO (S: his@7, V: "has", O: performance@8)	SVOC (V: won@16, S: Lakers@15, O: Game@10, O: 106@17)	SVO (V: scored@31, S: he@30, O: points@33)	SVOC (V: played@38, S: he@30, O: points@33, O: minutes@41)	SVOC (V: outsprinted@43, S: he@30, O: points@33, O: center@47, A?: on@48)
+663	
+664	SVO (V: called@3, S: West@2, O: it@4)	SVO (V: seen@13, S: I@10, A?: ever@12, O: performance@9)
+665	SVA (V: performed@3, S: Chamberlain@2, A!: well@5, A?: in@6)	SVA (V: "be stated", S: magazine@11)
+666	SVC (S: he@9, V: "is", C: Chamberlain@11)	SVOC (V: outplayed@14, S: he@9, CCOMP: series@5, A?: decisively@13, O: superstar@19)	SVC (S: superstar@19, V: "is", C: Abdul-Jabbar@22)	SVC (S: superstar@19, V: "is", C: years@25)	SVO (S: basketball@15, V: "has", O: superstar@19)	SVO (S: his@26, V: "has", O: junior@27)
+667	
+668	
+669	
+670	
+671	
+672	
+673	SVC (S: May@1, V: "is", C: Time@9)	SVO (V: met@19, S: Lakers@17, A?: again@18, O: Knicks@23)	SVA (V: shorthanded@28, S: Knicks@26, A!: after@29)	SV (V: so@37, S: Knicks@26, A?: after@29)	SV (V: undersized@39, S: Knicks@26, A?: after@29)	SVOO (V: had@46, S: 6@40, O: task@48, IO: undersized@39)	SVOO (V: had@46, S: Lucas@45, O: task@48, IO: undersized@39)	SVA (V: "be defend", S: task@48, A!: against@51)
+674	
+675	SVOC (V: helped@7, S: Lucas@6, A?: However@1, O: York@9, XCOMP: win@11, A?: in@27)	SVA (V: "be hitting", S: win@11, O: 9@16)	SVO (S: his@18, V: "has", O: shots@20)	SVOC (V: won@34, S: Lakers@33, O: Game@28, O: 106@35)	SVOC (V: put@40, S: Chamberlain@39, CCOMP: 92@37, O: Lucas@41, A?: into@42)	SVO (V: lost@49, S: Knicks@48, O: power@51, A?: to@55)
+676	SVO (V: scored@6, S: Chamberlain@5, A?: In@1, O: points@8)	SVOC (V: grabbed@10, S: Chamberlain@5, A?: In@1, O: points@8, O: rebounds@12, A?: for@13)	SVA (V: playing@30, S: center@28, A?: in@19, A!: with@31, A?: in@35)
+677	SVA (V: "be proving", S: fouled@3, O: those@40)	SVO (S: his@6, V: "has", O: career@7)	SVC (C: proud@15, V: was@13, S: he@12, A?: very@14, A?: of@16)	SVO (V: played@19, S: he@18, O: defense@21, A?: despite@22)	SVO (S: Lucas@33, V: "has", O: shots@35)	SVO (V: said@43, S: wrong@41, CCOMP: played@46)	SVA (V: played@46, S: he@44, A?: only@45, A!: for@47)	SVO (S: his@48, V: "has", O: stats@50)	SVO (V: ended@53, S: he@52, XCOMP: scoring@54)
+678	SVA (V: fallen@8, S: he@6, A?: in@2, A!: on@9)	SVO (V: said@16, S: he@6, A?: in@2, A?: on@9, XCOMP: have@18)	SVO (S: his@10, V: "has", O: hand@12)	SV (V: broken@27, S: it@24, A?: actually@26)
+679	SVO (S: Chamberlain@5, V: "has", O: hands@7)	SVA (V: packed@9, S: hands@7, A?: For@1, A!: into@10)	SVA (V: "be destined", S: pads@12, A!: normally@13, A?: for@15)	SVO (V: offered@24, S: he@22, O: shot@27)	SVO (V: refused@30, S: he@22, O: shot@27, A?: feared@33)	SVO (V: feared@33, S: he@32, CCOMP: lose@36)	SVO (V: lose@36, S: he@34, O: touch@39, A?: became@43)	SVO (S: his@37, V: "has", O: touch@39)	SVO (S: his@41, V: "has", O: hands@42)	SVC (V: became@43, S: hands@42, ACOMP: numb@44)
+680	SVO (V: recorded@6, S: Chamberlain@5, A?: In@1, O: points@8)	SVC (S: points@8, V: "is", C: rebounds@11)	SVOO (V: assists@14, S: 8@13, O: shots@18, IO: points@8)	SV (V: blocked@17, S: 8@16)
+681	SVC (C: stat@10, V: were@5, S: shots@4, A?: at@11)	SVO (V: counted@18, S: Jackson@17, A?: blocked@3, O: blocks@20, A?: during@21)
+682	SVO (S: Chamberlain@4, V: "has", O: performance@8)	SVO (V: helped@9, S: performance@8, CCOMP: win@12)	SVO (V: win@12, S: Lakers@11, O: championship@15, A?: with@16)	SVO (S: their@13, V: "has", O: championship@15)	SVO (V: win@22, S: 100@21, CCOMP: helped@9)
+683	SVO (V: named@3, S: Chamberlain@1, XCOMP: MVP@5, A?: playing@18)	SVO (V: admired@9, S: Chamberlain@1, XCOMP: MVP@5, A?: for@10, A?: playing@18)
+684	SVC (V: was@7, S: 1972@2, XCOMP: last@12, A?: know@18)	SVC (V: was@7, S: season@6, XCOMP: last@12, A?: know@18)	SVO (S: Chamberlain@10, V: "has", O: last@12)	SVO (V: know@18, S: he@15, O: this@19, A?: at@20)
+685	SVO (S: his@2, V: "has", O: season@4)	SVO (V: lost@9, S: Lakers@7, A?: In@1, O: substance@10)	SVO (V: injured@15, S: Hairston@13, CCOMP: left@23)	SV (V: left@23, S: Robinson@18)	SVA (V: struggled@29, S: West@28, A!: with@30)
+686	
+687	SVO (V: averaged@2, S: Chamberlain@1, O: 13.2@3)
+688	
+689	SVO (S: his@15, V: "has", O: career@16)
+690	SVO (V: shot@5, S: he@4, A?: In@1, O: record@8)
+691	SVA (V: "be bettering", S: %@1, O: mark@9)	SVO (S: his@7, V: "has", O: mark@9)
+692	SVA (V: topped@12, S: percentage@9, A?: from@1, A!: by@13)
+693	SVC (C: time@5, V: was@2, S: It@1)	SVOO (V: lead@8, S: Chamberlain@6, O: league@10, A?: in@11, IO: time@5)
+694	SVO (V: won@3, S: Lakers@2, O: games@5, A?: in@6)	SVOC (V: reached@11, S: Lakers@2, O: games@5, A?: in@6, O: Finals@15)
+695	SV (V: turned@7, S: tables@5, A?: time@2)	SVO (V: featured@12, S: Knicks@10, A?: now@11, O: team@15)	SVA (V: handicapped@27, S: Lakers@24, A?: now@26, A!: by@28)
+696	SVO (V: won@7, S: Lakers@6, A?: In@1, O: Game@8)	SVO (V: won@17, S: Knicks@16, O: Games@18)	SVA (V: worsened@24, S: things@23, A!: injured@28)	SVO (V: injured@28, S: West@27, A?: when@25, O: hamstring@30, A?: yet@31, A?: again@32)	SVO (S: his@29, V: "has", O: hamstring@30)
+697	SVC (C: match@10, V: were@8, S: Lakers@7, A?: In@1, A?: for@11)	SVO (V: had@28, S: West@25, A?: in@16, O: games@30)	SVO (V: scoring@35, S: Chamberlain@34, O: points@37)	SVOC (V: grabbing@39, S: Chamberlain@34, O: points@37, O: rebounds@41)	SVO (V: lost@45, S: Lakers@44, A?: despite@33, O: 102@46)
+698	
+699	
+700	
+701	
+702	
+703	
+704	
+705	SVO (V: know@13, S: Chamberlain@9, A?: yet@12, CCOMP: game@21)	SVC (C: game@21, V: was@17, S: loss@16, A?: of@22)	SVO (S: his@23, V: "has", O: career@24)
+706	SVO (V: signed@14, S: Conquistadors@7, A?: In@1, O: Chamberlain@15, A?: as@16)
+707	
+708	SVO (V: sued@5, S: Lakers@4, A?: However@1, O: star@8, A?: owed@20)	SVOC (V: prevented@11, S: Lakers@4, A?: However@1, O: star@8, A?: successfully@10, O: him@12, A?: from@13, A?: owed@20)	SVO (S: their@6, V: "has", O: star@8)	SVOO (V: owed@20, S: he@18, A?: still@19, IO: them@21, O: option@23)	SVO (S: his@26, V: "has", O: contract@27)
+709	SVA (V: "be Barred", S: Chamberlain@5, A!: from@2)	SVOC (V: left@7, S: Chamberlain@5, A?: Barred@1, A?: mostly@6, O: duties@10, A?: to@11, O: Chamberlain@21)	SVO (S: his@12, V: "has", O: Albeck@15)	SV (V: recalled@18, S: Albeck@15)
+710	
+711	SV (V: but@2, S: things@6)	SVC (C: part@11, V: are@8, S: things@6, A?: of@12)
+712	
+713	SVO (V: have@4, S: He@1, O: patience@6)
+714	SVA (V: split@5, S: players@3, A!: on@6)	SV (V: indifferent@17, S: players@3, A?: on@6, A?: often@16)	SVA (V: seen@11, S: Chamberlain@7, A!: as@12)	SVO (S: his@24, V: "has", O: autobiography@25)	SVO (V: Lives@38, S: Millionaire@36, O: Door@40, A?: than@41)
+715	SVO (S: his@2, V: "has", O: season@4)	SV (V: called@19, S: Conquistadors@16, A?: colloquially@18)
+716	SVA (V: pleased@6, S: Chamberlain@3, A?: However@1, A!: by@7)	SVO (S: Qs@10, V: "has", O: attendance@12)	SVC (S: 1,843@19, V: "is", C: half@23)	SVC (C: 1,843@19, V: was@16, S: crowd@15)	SVO (S: Qs@26, V: "has", O: arena@33)
+717	SVA (V: retired@6, S: Chamberlain@5, A?: After@1, A!: from@7)
+718	SVO (S: his@2, V: "has", O: stint@3)	SVA (V: went@10, S: Chamberlain@8, A?: After@1, A?: successfully@9, A!: into@11)	SVO (V: made@16, S: Chamberlain@8, A?: After@1, A?: successfully@9, A?: into@11, O: money@17, A?: in@18)	SVO (V: opened@24, S: Chamberlain@8, A?: After@1, A?: successfully@9, A?: into@11, O: nightclub@28)	SVC (S: nightclub@28, V: "is", C: Paradise@34)	SVO (S: Wilt@31, V: "has", O: Paradise@34)
+719	SVO (V: sponsored@3, S: Chamberlain@1, A?: also@2, O: volleyball@7)	SVOC (V: provided@16, S: Chamberlain@1, A?: also@2, O: volleyball@7, A?: also@15, O: teams@18)	SVO (S: his@4, V: "has", O: volleyball@7)
+720	
+721	
+722	
+723	SVC (S: TWA@17, V: "is", C: Express@20)	SVC (S: TWA@17, V: "is", C: Volkswagen@22)	SVC (S: TWA@17, V: "is", C: Burnham@25)
+724	SVO (S: his@2, V: "has", O: career@4)	SVC (V: became@7, S: volleyball@6, A?: After@1, XCOMP: passion@11, XCOMP: volleyballer@17)	SVO (S: Chamberlain@8, V: "has", O: passion@11)	SVO (S: his@41, V: "has", O: days@43)	SVOC (V: became@46, S: he@45, XCOMP: member@48, A?: in@56, O: volleyballer@17)	SVOC (V: became@59, S: he@45, XCOMP: member@48, A?: in@56, XCOMP: president@61, O: volleyballer@17)	SVO (S: its@60, V: "has", O: president@61)
+725	
+726	SVO (S: his@5, V: "has", O: importance@6)	SVA (V: televised@13, S: game@11, A?: As@1, A!: only@14, A?: played@18)	SVA (V: played@18, S: Chamberlain@16, A?: also@17, A!: in@19)	SVA (V: rose@23, S: he@22, A!: to@24)	SVO (V: named@29, S: he@22, A?: to@24, XCOMP: MVP@33)	SVO (S: game@31, V: "has", O: MVP@33)
+727	SVO (V: played@2, S: He@1, O: matches@4, A?: for@5, A?: folded@13)	SVA (V: folded@13, S: league@12, A!: in@14)
+728	SVO (V: promoted@5, S: Chamberlain@3, A?: However@1, O: sport@7, A?: effectively@9)	SVA (V: named@13, S: he@11, A!: to@14)	SVC (V: became@22, S: he@21, XCOMP: one@23)	SVA (V: enshrined@30, S: athletes@27, A!: in@31)
+729	SVO (V: played@5, S: Chamberlain@4, A?: In@1, O: warrior@8)	SVC (S: Destroyer@19, V: "is", C: 1984@21)	SVO (S: his@25, V: "has", O: phrase@29)	SVC (C: thieves@32, V: is@30, S: phrase@29, A?: where@24)	SVO (V: hanged@35, S: thieves@32, O: Destroyer@19)	SVO (V: caused@39, S: This@38, O: physician@41)	SVO (S: his@40, V: "has", O: physician@41)
+730	SVA (V: "be greet", S: Lorber@1, A!: jokingly@4, O: Chamberlain@6, A?: with@7)	SVA (V: hanged@12, S: Lorber@1, A!: met@16)	SV (V: met@16, S: they@15, A?: whenever@14)
+731	
+732	SVC (V: became@4, S: contracts@3, A?: When@1, ACOMP: common@5, A?: in@6)	SVC (V: felt@12, S: Chamberlain@10, A?: became@4, A?: increasingly@11, CCOMP: underpaid@16)	SVC (C: underpaid@16, V: been@15, S: he@13, A?: during@17)	SVO (S: his@18, V: "has", O: career@19)
+733	
+734	SVC (S: Today@7, V: "is", C: 1997@9)	SVO (V: criticized@16, S: he@14, A?: Inside@1, A?: in@12, A?: harshly@15, O: NBA@18, A?: for@22)
+735	
+736	SVC (S: World@4, V: "is", C: Today@7)	SVC (S: March@8, V: "is", C: January@12)	SVC (S: March@8, V: "is", C: http@18)
+737	SVC (S: March@8, V: "is", C: Chamberlain@23)	SVC (S: March@8, V: "is", C: January@12)	SVO (S: his@19, V: "has", O: days@21)	SVOC (C: person@28, V: was@24, S: March@8, A?: Today@7, O: World@4)
+738	SVO (S: his@2, V: "has", O: mid-forties@3)	SVC (C: able@7, V: was@6, S: he@5, A?: In@1, A?: to@8, A?: in@13)	SVC (S: Chris@17, V: "is", C: Wilt@23)	SVO (S: his@19, V: "has", O: day@21)	SVC (C: http@26, V: was@24, S: Chris@17, CCOMP: able@7)
+739	SVO (S: his@12, V: "has", O: day@14)	SVC (C: http@19, V: was@17, S: Wilt@16)
+740	SVO (V: flirted@16, S: he@15, CCOMP: February@1, A?: with@17)
+741	SVC (S: season@7, V: "is", C: Brown@11)	SVO (V: recalled@12, S: season@7, A?: In@1, CCOMP: received@18)	SVO (V: received@18, S: Chamberlain@16, O: offer@20)
+742	SVC (C: 50@4, V: was@3, S: Chamberlain@2, A?: When@1)	SVO (V: had@10, S: Nets@9, A?: 50@4, O: idea@13)	SVA (V: declined@17, S: Chamberlain@16, A!: again@18)
+743	SVO (V: continue@5, S: he@3, A?: However@1, XCOMP: epitomize@7)	SVA (V: come@13, S: years@11, A!: including@15)
+744	SVA (V: hospitalized@7, S: Chamberlain@4, A?: In@1, A?: briefly@6, A!: for@8)
+745	SVC (S: Hudson@1, V: "is", C: Maryann@3)
+746	
+747	SVC (S: Times@6, V: "is", C: C4@9)	SVOC (V: began@19, S: he@17, A?: eventually@18, XCOMP: taking@20, O: Times@6)	SVO (S: his@23, V: "has", O: troubles@25)
+748	
+749	
+750	SVC (S: October@5, V: "is", C: Fordahl@10)	SVC (S: October@5, V: "is", C: Matthew@12)
+751	
+752	
+753	SVO (V: found@8, S: rescuers@7, A?: On@1, XCOMP: dead@10)	SVA (V: dead@10, S: him@9, A!: upon@11)	SVC (S: California@19, V: "is", C: home@21)	SVO (S: his@15, V: "has", O: California@19)
+754	
+755	
+756	
+757	SVO (S: His@1, V: "has", O: agent@2)	SVO (V: reported@3, S: agent@2, A?: after@5, CCOMP: died@14)	SVO (S: Chamberlain@8, V: "has", O: cardiologist@10)	SVOC (V: died@14, S: Chamberlain@13, O: that@12, A?: of@15, CCOMP: deteriorated@23)	SVO (S: his@20, V: "has", O: health@21)	SVA (V: deteriorated@23, S: health@21, A!: rapidly@24, A?: during@25)	SVA (V: "be preceding", S: month@27, O: death@30)	SVO (S: his@29, V: "has", O: death@30)
+758	
+759	
+760	SVC (S: Post-Gazette@5, V: "is", C: List@9)	SVOC (C: force@21, V: was@17, S: He@16, A?: by@13, O: Post-Gazette@5)	SVO (S: basketball@18, V: "has", O: force@21)	SVC (S: force@21, V: "is", C: force@27)	SVO (V: seen@32, S: game@29, A?: ever@31, O: force@27)
+761	SVO (S: Chamberlain@4, V: "has", O: biography@8)	SVC (S: 7-foot-1@13, V: "is", C: Chamberlain@18)	SVA (V: regarded@21, S: 7-foot-1@13, A?: >@11, A?: universally@20, A!: as@22)
+762	
+763	
+764	
+765	
+766	
+767	
+768	SVA (V: "be establishing", S: February@1, O: himself@20, A!: as@21)	SVOC (C: holder@11, V: is@10, S: MVP@9, A?: of@12, O: February@1)	SVA (V: "be scoring", S: a@22, O: champion@24)	SVC (S: champion@24, V: "is", C: rebounder@28)
+769	SVC (C: responsible@4, V: was@2, S: He@1, A?: also@3, A?: for@5)
+770	
+771	
+772	
+773	SV (V: throws@5, S: free@4)
+774	SVC (S: Chris@2, V: "is", C: Wilt@8)	SVO (S: his@4, V: "has", O: day@6)	SVC (C: http@11, V: was@9, S: Chris@2)
+775	SVO (S: his@5, V: "has", O: day@7)	SVC (C: http@12, V: was@10, S: Wilt@9)
+776	SVO (S: Chamberlain@2, V: "has", O: weakness@5)	SVC (C: free@10, V: was@6, S: weakness@5)	SVO (S: his@7, V: "has", O: free@10)	SVO (V: has@16, S: he@15, A?: where@14, O: career@20)
+777	
+778	SVO (V: acknowledged@3, S: He@1, A?: later@2, CCOMP: case@10)	SVC (C: case@10, V: was@6, S: he@5, A?: in@12)
+779	SVO (V: committed@7, S: he@6, A?: On@1, O: fouls@10, A?: during@11, A?: despite@16)	SVO (S: his@12, V: "has", O: career@14)
+780	SVA (V: fouled@3, S: Chamberlain@1, A!: out@4, A?: in@12)	SVO (S: his@13, V: "has", O: career@16)
+781	SVO (S: His@1, V: "has", O: average@3)	SVC (C: fouls@7, V: was@4, S: average@3, A?: per@8, A?: despite@11)
+782	SVO (S: his@5, V: "has", O: career@6)
+783	SVO (V: had@2, S: He@1, O: seasons@4)	SVOO (V: committed@7, S: he@6, A?: where@5, O: fouls@11, A?: with@15, IO: seasons@4)
+784	SVOO (V: averaged@11, S: he@9, A?: in@7, A?: also@10, O: 50.4@12, IO: fouls@1)
+785	
+786	SVO (S: His@1, V: "has", O: fouls@2)	SVA (V: "be used", S: stat@8, XCOMP: compare@11)	SVO (V: average@14, S: players@12, O: minutes@17)	SVC (C: 1.6@22, V: was@19, S: fouls@2)
+787	
+788	
+789	
+790	
+791	
+792	
+793	
+794	
+795	
+796	
+797	
+798	
+799	
+800	
+801	SVC (S: March@4, V: "is", C: January@8)	SVC (S: March@4, V: "is", C: rivalry@14)	SVO (S: His@12, V: "has", O: rivalry@14)	SVA (V: acknowledged@19, S: page@1, A!: as@20)	SVO (S: NBA@24, V: "has", O: rivalries@28)
+802	SVA (V: known@7, S: Chamberlain@5, A?: In@1, A!: for@8)
+803	SVO (V: states@6, S: Nozick@5, CCOMP: entitled@21)	SVO (V: agreed@10, S: fans@9, XCOMP: pay@12)	SV (V: play@16, S: him@15)	SVA (V: entitled@21, S: Chamberlain@19, A?: agreed@10, A!: to@22, A?: resulted@33)	SVA (V: resulted@33, S: inequality@30, A!: from@34)
+804	SVOC (V: used@2, S: Nozick@1, O: Chamberlain@3, A?: as@4, XCOMP: argue@9)	SVC (C: unjust@17, V: were@15, S: theories@12, A?: inherently@16)
+805	
+806	
+807	
+808	
+809	
+810	
+811	
+812	
+813	
+814	
+815	SVO (S: his@10, V: "has", O: persona@13)	SVO (S: Chamberlain@15, V: "has", O: philanthropy@17)	SVA (V: done@20, S: philanthropy@17, A?: mostly@19, A!: out@21)
+816	SVO (S: his@2, V: "has", O: death@3)	SVO (V: revealed@7, S: it@5, A?: Upon@1, CCOMP: left@14)	SVO (S: his@10, V: "has", O: estate@11)	SVO (V: left@14, S: he@12, A?: in@9, O: $@15, A?: to@17)
+817	SVO (V: used@4, S: money@2, XCOMP: establish@6)	SVO (S: men@23, V: "has", O: student-athletes@26)
+818	SVA (V: "be established", S: $@1, O: Clinic@9)	SVO (V: aids@15, S: Clinic@9, O: clinic@20, A?: for@21)	SVA (V: run@26, S: Olympians@23, A!: by@27)
+819	SVO (V: Coach@13, S: Head@12, O: K.@14)
+820	
+821	
+822	
+823	
+824	

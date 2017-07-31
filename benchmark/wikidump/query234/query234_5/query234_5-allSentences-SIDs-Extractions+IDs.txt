@@ -1,0 +1,108 @@
+Dove ( toiletries ) January 2010 right300pxDove Milk Chocolate bar right300pxDove Dark Chocolate bar Dove ( sold as Galaxy in the United Kingdom , Republic of Ireland and the Middle East ) is a brand of chocolate made and marketed by the Mars company . 	0	query234_Dove_(chocolate)\S\0
+"Dove"	"is"	"toiletries"	0	query234_Dove_(chocolate)\P\0-0
+"a brand of chocolate marketed"	"be made"	"by the Mars company"	0	query234_Dove_(chocolate)\P\0-1
+"a brand of chocolate marketed"	"be made"	"by the Mars company"	0	query234_Dove_(chocolate)\P\0-2
+"Republic of Ireland"	"is a brand"	"of chocolate"	0	query234_Dove_(chocolate)\P\0-3
+"of Ireland the Middle East"	"is a brand"	"of chocolate"	0	query234_Dove_(chocolate)\P\0-4
+"Republic of Ireland"	"is a brand"	"made by the Mars company"	0	query234_Dove_(chocolate)\P\0-5
+"Republic of Ireland"	"is a brand"	"marketed by the Mars company"	0	query234_Dove_(chocolate)\P\0-6
+"of Ireland the Middle East"	"is a brand"	"made by the Mars company"	0	query234_Dove_(chocolate)\P\0-7
+"of Ireland the Middle East"	"is a brand"	"marketed by the Mars company"	0	query234_Dove_(chocolate)\P\0-8
+"Republic of Ireland"	"is"	"a brand"	0	query234_Dove_(chocolate)\P\0-9
+"of Ireland the Middle East"	"is"	"a brand"	0	query234_Dove_(chocolate)\P\0-10
+thumbDove Milk Chocolate Miniatures with a " Promises " message The name comes from Dove Candies &amp; Ice Cream , Zeldes Leah A. 	1	query234_Dove_(chocolate)\S\1
+thumbDove Milk Chocolate Miniatures with a " Promises " message The name comes from Dove Candies &amp; Ice Cream , Zeldes Leah A. 	1	query234_Dove_(chocolate)\S\1
+"The name"	"comes"	"from Dove Candies & Ice Cream message"	1	query234_Dove_(chocolate)\P\1-0
+"The name"	"comes"	"message"	1	query234_Dove_(chocolate)\P\1-1
+"Dove Candies & Ice Cream"	"is"	"Zeldes Leah A."	1	query234_Dove_(chocolate)\P\1-2
+DoveBar 's sweet Chicago success story Dining Chicago Chicago 's Restaurant &amp; Entertainment Guide , Inc. 	2	query234_Dove_(chocolate)\S\2
+DoveBar 's sweet Chicago success story Dining Chicago Chicago 's Restaurant &amp; Entertainment Guide , Inc. 	2	query234_Dove_(chocolate)\S\2
+"DoveBar 's sweet Chicago success story Dining Chicago Chicago 's Restaurant & Entertainment Guide"	"is"	"Inc."	2	query234_Dove_(chocolate)\P\2-0
+"DoveBar 's sweet Chicago success story Dining Chicago Chicago"	"has"	"Restaurant &"	2	query234_Dove_(chocolate)\P\2-1
+19 October 2009 http ://blog.diningchicago.com/2009/10/19/dovebars-sweet-chicago-success-story 	3	query234_Dove_(chocolate)\S\3
+/ 2009-10-23 Zeldes Leah A. 	4	query234_Dove_(chocolate)\S\4
+DoveBar 's sweet Chicago success story Dining Chicago Chicago 's Restaurant &amp; Entertainment Guide , Inc. 	5	query234_Dove_(chocolate)\S\5
+DoveBar 's sweet Chicago success story Dining Chicago Chicago 's Restaurant &amp; Entertainment Guide , Inc. 	5	query234_Dove_(chocolate)\S\5
+"DoveBar 's sweet Chicago success story Dining Chicago Chicago 's Restaurant & Entertainment Guide"	"is"	"Inc."	5	query234_Dove_(chocolate)\P\5-0
+"DoveBar 's sweet Chicago success story Dining Chicago Chicago"	"has"	"Restaurant &"	5	query234_Dove_(chocolate)\P\5-1
+19 October 2009 http ://blog.diningchicago.com/2009/10/19/dovebars-sweet-chicago-success-story 	6	query234_Dove_(chocolate)\S\6
+/ 2009-10-23 which were Chicago sweet shops owned by Leo Stefanos , a Greek-American . 	7	query234_Dove_(chocolate)\S\7
+"2009-10-23"	"were Chicago sweet shops"	"owned by Leo Stefanos"	7	query234_Dove_(chocolate)\P\7-0
+"2009-10-23"	"were"	"Chicago sweet shops"	7	query234_Dove_(chocolate)\P\7-1
+"Chicago sweet shops"	"be owned"	"by Leo Stefanos"	7	query234_Dove_(chocolate)\P\7-2
+"Leo Stefanos"	"is"	"a Greek-American"	7	query234_Dove_(chocolate)\P\7-3
+In 1956 , Stefanos created the Dove brand of ice cream bars , which were only sold locally in Chicago until 1985 when distribution began in selected cities around the country . 	8	query234_Dove_(chocolate)\S\8
+In 1956 , Stefanos created the Dove brand of ice cream bars , which were only sold locally in Chicago until 1985 when distribution began in selected cities around the country . 	8	query234_Dove_(chocolate)\S\8
+"the Dove brand of ice cream bars"	"were sold"	"locally only"	8	query234_Dove_(chocolate)\P\8-0
+"the Dove brand of ice cream bars"	"were sold"	"locally in Chicago"	8	query234_Dove_(chocolate)\P\8-1
+"the Dove brand of ice cream bars"	"were sold"	"locally until 1985"	8	query234_Dove_(chocolate)\P\8-2
+"the Dove brand of ice cream bars"	"were sold"	"locally"	8	query234_Dove_(chocolate)\P\8-3
+"the Dove brand of ice cream bars"	"were sold"	"locally"	8	query234_Dove_(chocolate)\P\8-4
+"the Dove brand of ice cream bars"	"were sold"	"locally"	8	query234_Dove_(chocolate)\P\8-5
+"the Dove brand of ice cream bars"	"were sold"	"locally"	8	query234_Dove_(chocolate)\P\8-6
+http ://select.nytimes.com/search/restricted/article 	9	query234_Dove_(chocolate)\S\9
+?res=F20C12F7345D0C768CDDAE0894DD484D81 The latest cult in ice cream Select.nytimes.com 	10	query234_Dove_(chocolate)\S\10
+1985-07-05 2010-01-05 Jeffrey A. 	11	query234_Dove_(chocolate)\S\11
+Leib http ://select.nytimes.com/search/restricted/article 	12	query234_Dove_(chocolate)\S\12
+?res=F20C12F7345D0C768CDDAE0894DD484D81 The latest cult in ice cream Select.nytimes.com 	13	query234_Dove_(chocolate)\S\13
+1985-07-05 2010-01-05 Jeffrey A. 	14	query234_Dove_(chocolate)\S\14
+Leib The Galaxy brand was first launched in the UK in 1960 . 	15	query234_Dove_(chocolate)\S\15
+"The Galaxy brand"	"was launched"	"15 Leib first"	15	query234_Dove_(chocolate)\P\15-0
+"The Galaxy brand"	"was launched"	"in the UK 15 Leib"	15	query234_Dove_(chocolate)\P\15-1
+"The Galaxy brand"	"was launched"	"in 1960 15 Leib"	15	query234_Dove_(chocolate)\P\15-2
+"The Galaxy brand"	"was launched"	"15 Leib"	15	query234_Dove_(chocolate)\P\15-3
+In 1986 , the company was acquired by Mars _ Incorporated . 	16	query234_Dove_(chocolate)\S\16
+"the company"	"was acquired"	"by Mars _ Incorporated"	16	query234_Dove_(chocolate)\P\16-0
+http ://query .nytimes.com/gst/fullpage 	17	query234_Dove_(chocolate)\S\17
+.html 	18	query234_Dove_(chocolate)\S\18
+?res=9A0DE6DE153DF931A2575BC0A960948260 Mars Acquires The Dove Bar New York Times 1986-08-12 2010-01-05 http ://query .nytimes.com/gst/fullpage 	19	query234_Dove_(chocolate)\S\19
+.html 	20	query234_Dove_(chocolate)\S\20
+?res=9A0DE6DE153DF931A2575BC0A960948260 Mars Acquires The Dove Bar New York Times 1986-08-12 2010-01-05 The Galaxy and Dove brands cover a wide range of products including chocolate bars in milk chocolate , Caramel and Fruit &amp; Nut varieties , Minstrels , Ripple ( milk chocolate with a folded or "rippled " milk chocolate centre ) , Amicelli , Duetto , Promises , and Truffle . 	21	query234_Dove_(chocolate)\S\21
+"9A0DE6DE153DF931A2575BC0A960948260 Mars"	"Acquires"	"The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-0
+"The Galaxy brands"	"cover"	"a wide range of products including chocolate bars in milk chocolate The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-1
+"The Galaxy brands"	"cover"	"a wide range of products including chocolate bars in milk Caramel Minstrels Ripple milk chocolate with a folded or rippled milk chocolate centre Amicelli Promises and Truffle The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-2
+"The Galaxy brands"	"cover"	"a wide range of products including chocolate bars in milk Fruit & Nut varieties Minstrels Ripple milk chocolate with a folded or rippled milk chocolate centre Amicelli Promises and Truffle The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-3
+"The Galaxy brands"	"cover"	"a wide range of products including chocolate in milk chocolate Minstrels The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-4
+"The Galaxy brands"	"cover"	"a wide range of products including chocolate in milk chocolate Ripple milk chocolate with a folded Amicelli Promises The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-5
+"The Galaxy brands"	"cover"	"a wide range of products including chocolate in milk chocolate Ripple milk chocolate with a rippled milk chocolate centre Amicelli Promises The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-6
+"The Galaxy brands"	"cover"	"a wide range of products including chocolate in milk chocolate Truffle The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-7
+"The Dove brands"	"cover"	"a wide range of products including chocolate bars in milk chocolate The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-8
+"The Dove brands"	"cover"	"a wide range of products including chocolate bars in milk Caramel Minstrels Ripple milk chocolate with a folded or rippled milk chocolate centre Amicelli Promises and Truffle The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-9
+"The Dove brands"	"cover"	"a wide range of products including chocolate bars in milk Fruit & Nut varieties Minstrels Ripple milk chocolate with a folded or rippled milk chocolate centre Amicelli Promises and Truffle The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-10
+"The Dove brands"	"cover"	"a wide range of products including chocolate in milk chocolate Minstrels The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-11
+"The Dove brands"	"cover"	"a wide range of products including chocolate in milk chocolate Ripple milk chocolate with a folded Amicelli Promises The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-12
+"The Dove brands"	"cover"	"a wide range of products including chocolate in milk chocolate Ripple milk chocolate with a rippled milk chocolate centre Amicelli Promises The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-13
+"The Dove brands"	"cover"	"a wide range of products including chocolate in milk chocolate Truffle The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-14
+"The Dove brands"	"cover"	"a wide range of products including chocolate in milk chocolate Truffle The Dove Bar New York Times 1986-08-12 2010-01-05"	21	query234_Dove_(chocolate)\P\21-15
+Related brands in other parts of the world include " Jewels " , and " Senzi " in the Middle East . 	22	query234_Dove_(chocolate)\S\22
+"Related brands in other parts of the world"	"include"	"Jewels"	22	query234_Dove_(chocolate)\P\22-0
+The Galaxy and Dove brands also market a wide range of products including ready-to-drink chocolate milk , hot chocolate powder , chocolate cake , ice cream and more . 	23	query234_Dove_(chocolate)\S\23
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate milk also"	23	query234_Dove_(chocolate)\P\23-0
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate hot chocolate powder also"	23	query234_Dove_(chocolate)\P\23-1
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate chocolate cake also"	23	query234_Dove_(chocolate)\P\23-2
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate ice cream also"	23	query234_Dove_(chocolate)\P\23-3
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate more also"	23	query234_Dove_(chocolate)\P\23-4
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate milk also"	23	query234_Dove_(chocolate)\P\23-5
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate hot chocolate powder also"	23	query234_Dove_(chocolate)\P\23-6
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate chocolate cake also"	23	query234_Dove_(chocolate)\P\23-7
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate ice cream also"	23	query234_Dove_(chocolate)\P\23-8
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate more also"	23	query234_Dove_(chocolate)\P\23-9
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate milk"	23	query234_Dove_(chocolate)\P\23-10
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate hot chocolate powder"	23	query234_Dove_(chocolate)\P\23-11
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate chocolate cake"	23	query234_Dove_(chocolate)\P\23-12
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate ice cream"	23	query234_Dove_(chocolate)\P\23-13
+"The Galaxy brands"	"market"	"a wide range of products including ready-to-drink chocolate more"	23	query234_Dove_(chocolate)\P\23-14
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate milk"	23	query234_Dove_(chocolate)\P\23-15
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate hot chocolate powder"	23	query234_Dove_(chocolate)\P\23-16
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate chocolate cake"	23	query234_Dove_(chocolate)\P\23-17
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate ice cream"	23	query234_Dove_(chocolate)\P\23-18
+"The Dove brands"	"market"	"a wide range of products including ready-to-drink chocolate more"	23	query234_Dove_(chocolate)\P\23-19
+The Dove brand is known for the messages written on the inside of the foil wrapper of each individual chocolate piece love . 	24	query234_Dove_(chocolate)\S\24
+"The Dove brand"	"is known"	"for the messages written on the inside of the foil wrapper of each individual chocolate piece love"	24	query234_Dove_(chocolate)\P\24-0
+"the messages"	"be written"	"on the inside of the foil wrapper of each individual chocolate piece love"	24	query234_Dove_(chocolate)\P\24-1
+Category :Mars confectionery brands Category :Ice cream brands fr :Dove ( chocolat ) id :Galaxy nl :Dove ( chocolade ) pl :Dove ( czekolada ) sv:Dove ( choklad ) zh :德芙 Dove Individuals Dove Caramel Dove Milk Chocolate Large Bar Dove Dark Chocolate Large Bar Dove Extra Dark Chocolate 63 % CACAO Large Bar Dove Milk Chocolate with Almonds Large Bar Dove Milk Chocolate Singles Bar Dove Dark Chocolate Singles Bar Dove Milk Chocolate Miniatures Dove Dark Chocolate Miniatures Dove Ice Cream Bars Dove Cookies Dove Sugar Free Chocolates Dove Truffle ( Discontinued In 2011 In Celebrations , Replaced By Twix ) 	25	query234_Dove_(chocolate)\S\25
+Category :Mars confectionery brands Category :Ice cream brands fr :Dove ( chocolat ) id :Galaxy nl :Dove ( chocolade ) pl :Dove ( czekolada ) sv:Dove ( choklad ) zh :德芙 Dove Individuals Dove Caramel Dove Milk Chocolate Large Bar Dove Dark Chocolate Large Bar Dove Extra Dark Chocolate 63 % CACAO Large Bar Dove Milk Chocolate with Almonds Large Bar Dove Milk Chocolate Singles Bar Dove Dark Chocolate Singles Bar Dove Milk Chocolate Miniatures Dove Dark Chocolate Miniatures Dove Ice Cream Bars Dove Cookies Dove Sugar Free Chocolates Dove Truffle ( Discontinued In 2011 In Celebrations , Replaced By Twix ) 	25	query234_Dove_(chocolate)\S\25
+Category :Mars confectionery brands Category :Ice cream brands fr :Dove ( chocolat ) id :Galaxy nl :Dove ( chocolade ) pl :Dove ( czekolada ) sv:Dove ( choklad ) zh :德芙 Dove Individuals Dove Caramel Dove Milk Chocolate Large Bar Dove Dark Chocolate Large Bar Dove Extra Dark Chocolate 63 % CACAO Large Bar Dove Milk Chocolate with Almonds Large Bar Dove Milk Chocolate Singles Bar Dove Dark Chocolate Singles Bar Dove Milk Chocolate Miniatures Dove Dark Chocolate Miniatures Dove Ice Cream Bars Dove Cookies Dove Sugar Free Chocolates Dove Truffle ( Discontinued In 2011 In Celebrations , Replaced By Twix ) 	25	query234_Dove_(chocolate)\S\25
+Category :Mars confectionery brands Category :Ice cream brands fr :Dove ( chocolat ) id :Galaxy nl :Dove ( chocolade ) pl :Dove ( czekolada ) sv:Dove ( choklad ) zh :德芙 Dove Individuals Dove Caramel Dove Milk Chocolate Large Bar Dove Dark Chocolate Large Bar Dove Extra Dark Chocolate 63 % CACAO Large Bar Dove Milk Chocolate with Almonds Large Bar Dove Milk Chocolate Singles Bar Dove Dark Chocolate Singles Bar Dove Milk Chocolate Miniatures Dove Dark Chocolate Miniatures Dove Ice Cream Bars Dove Cookies Dove Sugar Free Chocolates Dove Truffle ( Discontinued In 2011 In Celebrations , Replaced By Twix ) 	25	query234_Dove_(chocolate)\S\25
+Category :Mars confectionery brands Category :Ice cream brands fr :Dove ( chocolat ) id :Galaxy nl :Dove ( chocolade ) pl :Dove ( czekolada ) sv:Dove ( choklad ) zh :德芙 Dove Individuals Dove Caramel Dove Milk Chocolate Large Bar Dove Dark Chocolate Large Bar Dove Extra Dark Chocolate 63 % CACAO Large Bar Dove Milk Chocolate with Almonds Large Bar Dove Milk Chocolate Singles Bar Dove Dark Chocolate Singles Bar Dove Milk Chocolate Miniatures Dove Dark Chocolate Miniatures Dove Ice Cream Bars Dove Cookies Dove Sugar Free Chocolates Dove Truffle ( Discontinued In 2011 In Celebrations , Replaced By Twix ) 	25	query234_Dove_(chocolate)\S\25
+"Almonds Large Bar Dove Milk Chocolate Singles Bar Dove Dark Chocolate Singles Bar Dove Milk Chocolate Miniatures Dove Dark Chocolate Miniatures Dove Ice Cream Bars Dove Cookies Dove Sugar Free Chocolates Dove Truffle"	"is"	"Discontinued In 2011 In Celebrations Replaced By Twix"	25	query234_Dove_(chocolate)\P\25-0

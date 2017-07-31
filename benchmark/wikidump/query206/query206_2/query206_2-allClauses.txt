@@ -1,0 +1,266 @@
+0	SVA (V: "be using", S: farm@7, O: turbinesREpower5M@10, A!: in@11)	SVC (C: device@19, V: is@17, S: farm@7)	SVO (V: converts@21, S: device@19, O: energy@23, A?: from@24, A?: into@27)
+1	SVO (V: used@6, S: energy@4, XCOMP: produce@8)	SVO (V: called@15, S: device@12, A?: used@6, O: generator@18)
+2	SVO (V: used@6, S: energy@4, XCOMP: drive@8)	SVO (V: called@23, S: device@21, A?: used@6, O: windmill@25)
+3	SVO (S: today@7, V: "has", O: turbines@10)	SVA (V: "be Developed", S: turbines@10, A!: for@2)	SVA (V: manufactured@12, S: turbines@10, A?: Developed@1, A!: in@13)
+4	SVA (V: used@5, S: turbines@3, A!: for@6, A?: becoming@26)	SVA (V: "be charging", S: battery@10)	SVA (V: "be charging", S: battery@10, A!: on@15)	SVC (V: becoming@26, S: arrays@22, XCOMP: source@30)
+5	SVO (S: Blyth@6, V: "has", O: electricity@8)	SVA (V: "be generating", S: electricity@8, O: turbine@11)	SVA (V: "be photographed", S: turbine@11, A!: in@13)	SVO (V: used@17, S: History@1, A?: in@18, O: B.C.@28)	SVA (S: Persia@19, V: "is in", C: Iran@22)
+6	
+7	
+8	
+9	
+10	SVOO (V: marks@15, S: History@5, O: one@16, IO: Part@1)	SVA (V: "be powering", S: wind@23, O: machine@26, A!: in@27)
+11	
+12	SVC (S: Drachmann@1, V: "is", C: Centaurus@9)	SVO (S: Heron@4, V: "has", O: Windmill@6)	SVC (S: Centaurus@9, V: "is", C: pp@16)	SVC (S: 7@11, V: "is", C: 1961@13)
+13	SVC (S: Lohrmann@5, V: "is", C: Kulturgeschichte@18)	SVC (S: Lohrmann@5, V: "is", C: Vol@20)
+14	SVC (S: 77@1, V: "is", C: Issue@3)	SVC (S: Issue@3, V: "is", C: pp@9)	SVC (S: 1@4, V: "is", C: 1995@6)
+15	
+16	SVA (V: built@10, S: windmills@8, A?: However@2, A!: in@11, A?: from@21)	SVC (S: Sistan@12, V: "is", C: region@15)
+17	SVC (C: windmills@8, V: were@5, S: Panemone@3)	SVO (V: had@11, S: windmills@8, O: driveshaft@14)
+18	SVC (S: Hassan@3, V: "is", C: Hill@7)	SVC (S: Hill@7, V: "is", C: 1986@9)
+19	SVC (S: history@6, V: "is", C: p@8)
+20	
+21	
+22	
+23	SVA (V: "be covered", S: sail@6, A!: in@8)	SVO (V: used@18, S: windmills@16, A?: Made@1, XCOMP: grind@20)	SVO (V: used@29, S: windmills@16, A?: Made@1, XCOMP: grind@20, A?: in@30)	SVA (V: "be Made", S: windmills@16, A!: of@2)
+24	SVC (S: Hill@3, V: "is", C: American@16)	SVC (S: American@16, V: "is", C: May@18)	SVC (S: American@16, V: "is", C: p@21)
+25	
+26	
+27	SVA (V: appeared@8, S: Windmills@6, A?: first@7, A!: in@9, A?: during@11)
+28	SVO (S: their@6, V: "has", O: use@7)	EXISTENTIAL (V: are@19, S: reports@20)	SVA (V: "be taking", S: crusaders@23, O: skills@27, A!: to@28, A?: around@30)	SVO (S: their@25, V: "has", O: skills@27)
+29	SVC (S: Morthorst@1, V: "is", C: Erik@4)	SVC (S: Redlinger@6, V: "is", C: Y.@9)
+30	SVC (S: economics@12, V: "is", C: Hampshire@27)	SVC (S: Morthorst@33, V: "is", C: Erik@36)
+31	SVC (S: economics@12, V: "is", C: Hampshire@27)	SVC (S: December@31, V: "is", C: windmills@39)	SVO (V: were@40, S: December@31, A?: in@41, O: Hampshire@27)	SVA (V: "be drain", S: use@42, O: areas@45)
+32	SVA (V: "be generating", S: electricity@3, O: turbine@6)	SVC (C: battery@10, V: was@8, S: electricity@3, A?: charging@11)	SVA (V: "be charging", S: battery@10, O: machine@12)	SVA (V: "be installed", S: machine@12, A!: in@14, A?: by@17, XCOMP: light@23)	SVO (S: his@24, V: "has", O: home@26)	SVA (S: Marykirk@28, V: "is in", C: Scotland@30)
+33	
+34	
+35	SVO (V: built@20, S: Dictionary@4, O: turbine@26)
+36	SVO (S: Blyth@2, V: "has", O: turbine@4)	SVO (V: considered@6, S: turbine@4, XCOMP: uneconomical@7, A?: by@14)
+37	SVA (V: "be built", S: _@7, A!: in@9, A?: in@11, A?: by@13)
+38	
+39	SV (V: was60ftmtall@2, S: It@1)	SVO (V: weighed@4, S: _@3, O: tons@6)
+40	
+41	
+42	
+43	
+44	
+45	
+46	
+47	
+48	
+49	EXISTENTIAL (V: were@11, S: Association@4, O: windmills@14)	SVA (V: "be producing", S: windmills@14, O: power@29)
+50	SVA (V: were@4, S: machines@3, A!: on@5, A?: on@9)
+51	EXISTENTIAL (V: were@4, S: generators@8, A?: By@1)	SVA (V: "be operating", S: generators@8, A!: in@10, A?: from@13, A?: to@17)
+52	SVC (S: I@7, V: "is", C: makers@11)
+53	SVC (C: common@10, V: were@9, S: generators@6, A?: By@1, A?: on@11, A?: in@15)	SVO (V: installed@26, S: systems@21, A?: where@19, A?: yet@24, O: States@18)
+54	SVC (C: cheap@8, V: was@7, S: steel@6, A?: In@1)	SVA (V: placed@14, S: generators@12, A!: atop@15)
+55	SVA (V: was@8, S: forerunner@2, A!: in@9)
+56	SVA (V: "be connected", S: generator@7, A!: to@17)	SVC (C: generator@7, V: was@2, S: This@1, A?: on@8, A?: connected@16)
+57	
+58	SVO (V: reported@3, S: It@1, XCOMP: have@5)
+59	
+60	
+61	SVC (S: Toronto@2, V: "is", C: ISBN@5)	SVA (V: synchronized@19, S: turbine@17, A!: to@20)	SVA (V: synchronized@19, S: Toronto@2, A!: to@20)
+62	SVA (V: ran@6, S: turbine@4, A?: only@5, A!: for@7, A?: before@10)
+63	SVA (V: repaired@5, S: unit@2, A!: of@7)
+64	SVA (V: "be operate", S: turbine@6, A!: in@9)
+65	
+66	
+67	
+68	SV (V: http@18, S: Ltd@14)
+69	
+70	SVA (V: measure@22, S: Ltd@14, A!: of@23)	SVO (V: called@32, S: measure@22, O: Density@36)	SVO (V: tabulated@62, S: measure@22, O: Density@36, A?: for@63)	SVC (S: Density@36, V: "is", C: WPD@38)	SVOC (C: calculation@43, V: is@41, S: It@40, A?: of@44, O: Density@36)
+71	SVO (V: includes@6, S: Calculation@1, O: effect@8)
+72	SVA (V: prepared@4, S: maps@2, A!: for@5, A?: for@11, A?: Mean@16)	SVA (V: "be described", S: area@8)
+73	SVA (V: included@14, S: results@8, A?: In@2, A!: in@15)	SVA (V: "be developed", S: index@17, A!: by@19)
+74	
+75	SVO (V: rated@12, S: it@10, A?: by@13, O: higher@9)
+76	SVA (V: range@2, S: Classes@1, A!: from@3, A?: to@17)	SVC (S: Class@18, V: "is", C: meter@25)
+77	SVA (V: sited@6, S: farms@3, A?: generally@4, A!: in@7, A?: practical@25)	SVC (C: practical@25, V: be@24, S: points@16, XCOMP: exploit@27)
+78	
+79	
+80	
+81	SV (V: towered@9, S: HAWT@8)	SVA (V: appear@15, S: they@14, A!: in@16)
+82	SVA (V: rotate@4, S: turbines@2, A!: about@5)	SVC (C: older@18, V: being@16, S: former@15)
+83	
+84	
+85	SV (V: http@12, S: Association@7)
+86	
+87	SVC (S: turbine@18, V: "is", C: shaft@23)	SVA (V: lifted@29, S: turbine@18, A!: into@30)	SVC (S: turbines@36, V: "is", C: HAWT@38)	SVO (V: have@40, S: thumbleftComponents@12, O: shaft@44)	SVO (V: pointed@58, S: thumbleftComponents@12, O: shaft@44, A?: into@59)
+88	SVA (V: pointed@4, S: turbines@2, A!: by@5, A?: use@15)	SVO (V: use@15, S: turbines@13, A?: generally@14, O: sensor@18)	SVA (V: "be coupled", S: sensor@18, A!: with@20)
+89	SVO (V: have@2, S: Most@1, O: gearbox@4)	SVO (V: turns@7, S: gearbox@4, O: rotation@10, A?: into@14)	SVC (C: suitable@21, V: is@19, S: rotation@17, A?: more@20, XCOMP: drive@23)
+90	
+91	
+92	
+93	SVA (V: retrieved@4, S: components@3, A!: November@5, A?: produces@12)	SVO (V: produces@12, S: tower@11, O: turbulence@13)	SVOC (V: positioned@21, S: turbine@18, CCOMP: retrieved@4, A?: usually@20, O: upwind@22)	SVO (S: its@24, V: "has", O: tower@26)
+94	SVC (V: made@4, S: blades@2, ACOMP: stiff@5)
+95	SVO (V: placed@6, S: blades@4, A?: Additionally@1, O: distance@9)	SVOC (C: tilted@18, V: are@16, S: blades@4, A?: Additionally@1, O: distance@9, A?: sometimes@17, A?: forward@19, A?: into@20, A?: amount@25)
+96	SVA (V: built@5, S: machines@2, A!: despite@7, A?: need@21)	SVC (S: turbulence@11, V: "is", C: wake@14)	SVO (V: need@21, S: they@18, O: mechanism@24)	SVO (V: allowed@43, S: blades@40, A?: in@36, XCOMP: bend@45)	SVO (V: reduces@47, S: which@46, O: area@50)	SVO (V: resistance@55, S: which@46, O: area@50, A-: thus@52)	SVO (S: their@48, V: "has", O: area@50)	SVO (S: their@53, V: "has", O: resistance@55)
+97	SVC (C: repetitive@6, V: is@5, S: that@4)	SVA (V: lead@10, S: turbulence@8, A!: to@11)	SVA (V: are@17, S: HAWTs@16, A?: lead@10, A!: of@18)
+98	
+99	SVC (S: Windfarm@8, V: "is", C: Belgium@10)	SVC (S: Windfarm@8, V: "is", C: July@12)	SVC (S: July@12, V: "is", C: month@16)
+100	SVA (V: "be passing", S: convoy@3, O: Turbines@7)	SVA (V: "be used", S: Turbines@7, A!: in@9, A?: for@12)	SVC (C: three-bladed@20, V: are@18, S: convoy@3, A?: usually@19, A?: by@26)	SVC (C: pointed@22, V: are@18, S: convoy@3, A?: usually@19, A?: into@23, A?: by@26)
+101	SVO (V: have@2, S: These@1, O: speeds@5)	SVO (V: ripple@18, S: These@1, O: speeds@5)	SVO (V: efficiency@13, S: These@1, O: speeds@5)	SVA (V: contribute@21, S: ripple@18, A!: to@22)
+102	SVO (V: colored@5, S: blades@2, A?: usually@4, XCOMP: gray@7)
+103	SVA (V: range@5, S: towers@4, A!: from@6)
+104	SVA (V: rotate@3, S: blades@2, A!: at@4)
+105	SVO (V: exceeds@9, S: speed@8, A?: At@1, O: ft/s@12)
+106	SVA (V: used@6, S: box@3, A?: commonly@5, A!: for@7, A?: use@20)	SVO (V: use@20, S: designs@17, A?: also@19, O: drive@22)
+107	SVA (V: operate@3, S: models@2, A!: at@4)	SVA (V: collected@13, S: energy@10, A!: by@14)	SVO (V: use@18, S: turbines@16, O: converter@22, A?: to@23, A?: to@25)
+108	SVO (V: equipped@4, S: turbines@2, A?: with@5, XCOMP: avoid@9)	SVO (V: ceases@24, S: wind@22, O: rotation@26)	SVO (S: their@25, V: "has", O: rotation@26)
+109	SVC (S: turbine@3, V: "is", C: VAWTs@6)	SVO (V: have@8, S: turbine@3, CCOMP: arranged@13)	SVA (V: arranged@13, S: shaft@12, A!: vertically@14)
+110	SVC (V: are@6, S: advantages@2, CCOMP: need@12)	SVO (V: need@12, S: turbine@9, XCOMP: pointed@15)
+111	SVC (C: advantage@4, V: is@2, S: This@1, A?: on@5, A?: for@15, A?: integrated@18)	SVOC (C: variable@13, V: is@11, S: direction@10, A?: where@7, A?: highly@12, O: sites@6)
+112	SVO (V: include@4, S: disadvantages@3, O: speed@8)	SVA (V: "be generated", S: torque@55, A!: by@57)
+113	SVA (V: "be using", S: generator@12, O: drive@25)	SVOA (V: placed@17, S: generator@12, A?: at@1, A?: With@6, A!: near@18, A?: using@22, XCOMP: improving@36)
+114	SVA (V: mounted@5, S: turbine@3, A?: When@1, A!: on@6)	SVO (V: redirects@13, S: building@11, A?: mounted@5, A?: generally@12, O: wind@14, A?: over@15)	SVO (V: double@21, S: this@19, O: speed@24, A?: at@25)
+115	SVO (V: mounted@7, S: height@3, O: tower@9)	SVC (S: %@13, V: "is", C: this@19)	SVC (C: %@13, V: is@10, S: mounted@7, A?: of@14)	SVA (V: "be is", S: this@19, A!: near@21)
+116	SVO (V: borne@4, S: It@1, A?: in@5, CCOMP: lower@17)	SVC (C: lower@17, V: are@14, S: speeds@9, A?: much@16, A?: than@18)
+117	
+118	SV (V: is@8, S: turbine@11)	SVOO (V: uses@21, S: it@20, O: effect@24, IO: fan@16)
+119	SVA (V: tried@9, S: turbines@3, A!: for@10)	SVA (V: "be producing", S: unit@15, A!: to@18)	SVO (V: built@22, S: unit@15, A?: by@23, A?: in@29, O: years@12)
+120	
+121	SVA (V: mentioned@5, S: device@3, A!: in@6)
+122	SVO (S: Hirsch@3, V: "has", O: report@6)	SVO (V: decided@9, S: report@6, O: investments@14, A?: in@17)	SVO (V: uses@27, S: blimp@26, O: configuration@29, A?: well@31)
+123	SVA (V: "be thumb80pxTwisted", S: m@5, O: thumbrightComponents@11)	SVO (V: designed@23, S: m@5, XCOMP: exploit@25)	SVA (V: exists@30, S: energy@28, A!: at@31)
+124	SVO (V: used@4, S: modelling@2, XCOMP: determine@6)
+125	SVO (V: convert@3, S: turbines@2, O: energy@5, A?: to@6)
+126	SVA (V: divided@7, S: turbines@4, A!: into@8)
+127	
+128	SVA (V: "be seen", S: type@6, A!: frequently@7, A?: in@9)	SVO (V: has@13, S: turbine@3, O: meters@17)
+129	SVO (V: weighs@9, S: assembly@3, O: lbs@11)
+130	SVO (V: contains@5, S: nacelle@2, O: component@8)	SVO (V: weighs@10, S: nacelle@2, O: lbs@12)
+131	SVO (V: constructed@8, S: base@3, XCOMP: using@9)	SVOC (V: contains@16, S: base@3, XCOMP: using@9, O: yards@19)	SVC (S: yards@19, V: "is", C: meters@23)
+132	SVC (C: ft@5, V: is@3, S: base@2, A?: in@6)
+133	SVA (S: Holtriem@10, V: "is in", C: Germany@12)	SVOO (V: carries@14, S: turbine@7, O: deck@17, IO: turbines@3)
+134	SVC (C: located@14, V: is@13, S: turbine@2, A?: in@15)	SVA (S: Swaffham@16, V: "is in", C: England@18)
+135	SVO (V: investigated@6, S: turbine@3, O: times@8)	SVOC (V: have@10, S: turbine@3, O: times@8, A?: yet@11, XCOMP: produce@13)
+136	SVA (V: used@8, S: turbines@4, A?: Conceptually@1, A?: also@6, A!: in@9)	SVA (V: "be extract", S: tower@17, O: energy@21, A!: due@22)	SVA (V: "be heated", S: air@24, A!: by@26)
+137	SVO (V: utilise@4, S: turbines@2, O: effect@7)	SV (V: developed@10, S: turbines@2)
+138	SVC (C: form@8, V: is@5, S: turbine@4, A?: of@9)	SVA (V: fitted@14, S: turbine@11, A!: to@15)
+139	SVA (V: spun@7, S: RAT@5, A?: deployed@2, A!: by@8)	SVO (V: provide@17, S: RAT@5, A?: deployed@2, A?: by@8, O: power@18, A?: for@19, A?: is@26)	SVA (V: "be going", S: airstream@10, A!: past@12)	EXISTENTIAL (V: is@26, S: loss@28)
+140	SVA (V: "be used", S: turbine@4, O: turbine@10)	SVO (V: used@16, S: turbines@13, A?: for@17, O: turbine@10)	SVC (S: residences@27, V: "is", C: platforms@33)	SVC (S: residences@27, V: "is", C: schools@36)	SVC (S: residences@27, V: "is", C: monitoring@41)	SVC (S: residences@27, V: "is", C: towers@30)	SVO (V: require@46, S: monitoring@41, O: energy@47)	EXISTENTIAL (V: is@50, S: grid@53, A?: where@48, O: energy@47)	SVC (C: unstable@60, V: is@59, S: grid@58, A?: where@56)
+141	SVA (V: be@5, S: turbines@3, A!: as@6)
+142	SVO (S: Energy@5, V: "has", O: Laboratory@10)	SVC (S: Laboratory@10, V: "is", C: NREL@12)	SVO (V: defines@14, S: Department@3, O: turbines@17, A?: as@18)
+143	
+144	SVO (V: have@4, S: units@2, A?: often@3, O: generators@7)	SVA (V: "be point", S: use@19, A!: into@24)
+145	SVO (V: geared@8, S: turbines@5, A?: generally@6, O: trains@10, A?: alternating@12)	SVA (V: "be alternating", S: turbines@5, O: output@14)
+146	SV (V: researched@13, S: generators@3)
+147	SV (V: upheld@18, S: spacing@8, A?: On@1, A?: often@17)
+148	SVA (V: distances@7, S: farms@6, A?: However@1, A!: of@8)	SVC (C: optimal@17, V: be@14, S: distances@7, A?: more@15, A?: economically@16, XCOMP: taking@19)
+149	SVA (V: reached@5, S: conclusion@2, A!: by@6, A?: based@26)	SVA (V: "be conducted", S: research@7, A!: by@9, A?: in@23)	SVOA (V: take@31, S: simulations@29, A!: into@32, O: interactions@36, A?: among@37)	SVC (S: turbines@39, V: "is", C: wakes@41)
+150	SVO (V: suggests@10, S: research@4, A?: Moreover@1, CCOMP: placed@17)	SVA (V: placed@17, S: turbines@14, A!: closely@20, A?: together@21, A?: long@23)	SVO (V: created@31, S: pattern@27, XCOMP: allowing@32)	SVO (V: approach@45, S: they@44, O: one@46)
+151	SVA (V: occurred@3, S: cases@2, A!: caught@10)	SVO (V: caught@10, S: housings@6, A?: where@4, O: fire@11)
+152	SVC (C: out@5, V: are@3, S: housings@2, A?: normally@4, A?: of@6)	SVC (C: impossible@18, V: is@16, S: it@15, A?: out@5, A?: nearly@17, XCOMP: extinguish@20)	SVO (V: lack@28, S: units@26, O: system@31)
+153	SVO (V: damaged@9, S: blades@7, O: cases@3)	SVO (V: torn@11, S: blades@7, A?: away@12, O: cases@3)
+154	SVA (V: "be prompting", S: damaged@8, O: removal@14)
+155	
+156	SV (V: collapsed@5, S: turbines@3, A?: also@4)
+157	SVO (V: had@6, S: accidents@4, O: impacts@9)	SVO (V: occurred@16, S: accidents@15, A?: where@13, O: communities@12)
+158	SVO (V: created@15, S: sites@6, A?: In@1, O: zones@18)	SVA (V: remain@25, S: size@20, A!: in@26, A?: for@28)
+159	SVO (V: has@4, S: E-126@3, O: capacity@7)
+160	
+161	SVC (S: m@7, V: "is", C: ft@10)	SVC (S: m@7, V: "is", C: diameter@14)	SVC (S: m@17, V: "is", C: ft@20)	SVO (S: world@26, V: "has", O: turbine@30)	SVO (S: its@32, V: "has", O: introduction@33)
+162	
+163	
+164	SVO (S: World@4, V: "has", O: Turbine@8)
+165	
+166	
+167	SVO (S: World@4, V: "has", O: Turbine@8)
+168	SVO (V: working@8, S: companies@6, A?: on@9, O: 2008-02-03@2)	SVC (C: prototype@26, V: is@24, S: turbine@18, A?: installed@27)	SVA (V: "be installed", S: prototype@26, A!: by@28, A?: at@30)	SVA (S: Jaulín@31, V: "is in", C: Spain@35)
+169	
+170	SVO (V: has@2, S: MW@1, O: diameter@5)
+171	
+172	SVO (V: Presents@2, S: Gamesa@1, O: G10X-4@3)
+173	
+174	SVO (V: Presents@2, S: Gamesa@1, O: G10X-4@3)
+175	SVOC (C: Laasow@14, V: is@10, S: turbine@9, O: Prototype@4)
+176	SVO (S: Its@1, V: "has", O: axis@2)	SVC (C: meters@5, V: is@3, S: axis@2, A?: above@6)	SVO (S: its@9, V: "has", O: tips@11)	SVO (V: reach@13, S: meters@5, O: height@15)
+177	SVC (C: turbine@6, V: is@2, S: It@1, A?: in@7)
+178	
+179	
+180	SV (V: =@2, S: produkt_gesucht@1)
+181	
+182	SV (V: is@39, S: world@41)	SVO (V: =@2, S: produkt_gesucht@1, O: farm@21)	SVA (V: "be named", S: turbine@31)	SVC (S: turbine@31, V: "is", C: VAWT@33)
+183	
+184	
+185	
+186	
+187	SVOO (V: has@8, S: It@7, O: capacity@11, IO: Visits@1)
+188	
+189	
+190	
+191	
+192	SVA (V: "be operating", S: turbines@13, A!: currently@14, A?: closest@16)	SVOC (C: E@24, V: are@21, S: turbines@13, A?: powering@30, O: provinces@9)	SVA (V: "be powering", S: E@24, O: Base@35)	SVO (S: Zealand@32, V: "has", O: Base@35)	SVO (S: States@39, V: "has", O: Station@42)	SVA (V: operated@55, S: turbine@50, A!: at@56, A?: in@62)
+193	
+194	SVA (V: "be designed", S: CITEDEF@4)
+195	SVO (V: share@9, S: turbines@2, O: record@11, A?: with@19)	SVA (V: "be generated", S: each@20, O: G@24)
+196	
+197	
+198	SV (V: http@9, S: turbines@8)
+199	
+200	SVO (S: world@10, V: "has", O: turbine@14)	SVO (V: made@16, S: turbine@14, A?: by@17, O: turbines@8)	SVA (V: "be installed", S: DeWind@18, A!: by@20)	SVA (S: Andes@28, V: "is in", C: Argentina@30)
+201	SVO (V: uses@3, S: site@2, O: .2@7)
+202	
+203	SVO (V: has@3, S: turbine@2, O: concept@8)	SVA (V: "be made", S: converter@13, A!: by@18)	SVC (S: converter@13, V: "is", C: WinDrive@15)
+204	SVA (V: put@4, S: WKA@2, A!: into@5, A?: in@7)	SVO (V: supplied@12, S: WKA@2, A?: into@5, A?: in@7, O: mine@15, A?: with@19, A?: since@21)
+205	
+206	SVC (C: 2.3@19, V: is@17, S: world@2)
+207	SVA (V: "be operating", S: Hywind@2, A!: currently@3, O: km@6)	SVC (S: Hywind@2, V: "is", C: southwest@12)	SVA (S: Karmøy@14, V: "is in", C: Norway@16)
+208	SVO (V: began@3, S: turbine@2, XCOMP: operating@4)	SVOC (V: utilizes@9, S: turbine@2, XCOMP: operating@4, O: Siemens@11)
+209	
+210	
+211	
+212	
+213	SVA (V: holds@2, S: turbine@1, A!: in@4)
+214	
+215	
+216	
+217	
+218	SVA (V: holds@2, S: turbine@1, A!: in@4)
+219	
+220	
+221	SVO (S: world@17, V: "has", O: world@35)	SVO (S: world@35, V: "has", O: thumbcenterÉole@38)	SVO (V: _@39, S: challenge@3, O: the@40)	SVC (S: Province@59, V: "is", C: Argentina@61)	SVOO (V: _@71, S: _@52, O: development@76, IO: turbine@51)	SV (V: ca@127, S: турбина@126)	SV (V: es@154, S: μηχανή@153)	SVO (V: discusses@282, S: article@281, O: generators@285)
+222	SVA (V: "be used", S: machinery@5, XCOMP: grind@8)
+223	SVA (V: named@17, S: turbines@10, A!: after@18)	SVC (S: inventor@21, V: "is", C: Darrieus@24)
+224	
+225	SVO (V: have@2, S: They@1, O: efficiency@4)	SVOC (V: produce@7, S: They@1, O: efficiency@4, O: ripple@10, A?: on@14)	SVA (V: contributes@19, S: tower@16, A!: to@20)
+226	SVO (V: require@4, S: They@1, A?: also@2, A?: generally@3, O: source@8, A?: low@25)	SVA (V: "be start", S: rotor@14, XCOMP: turning@17)	SVC (C: low@25, V: is@23, S: torque@22, A?: very@24)
+227	SVA (V: reduced@5, S: ripple@3, A!: by@6)	SVA (V: results@13, S: blades@11, A!: in@14)
+228	SVA (V: measured@3, S: Solidity@1, A!: by@4)	SVA (V: "be divided", S: area@6, A!: by@8)
+229	SVA (V: held@7, S: turbines@4, A!: by@9)	SVO (V: have@12, S: turbines@4, A?: by@9, O: superstructure@15)	SVA (V: "be connected", S: superstructure@15, A!: to@17)
+230	SVC (S: Singh@7, V: "is", C: subtype@16)	SVC (S: curved@26, V: "is", C: blades@28)
+231	SVO (V: has@4, S: variety@3, O: pitch@6)	SVOC (C: self-starting@14, V: is@13, S: variety@3, O: pitch@6)	SVA (V: "be reduce", S: pitch@6, O: pulsation@11)
+232	
+233	
+234	SVOC (C: high@8, V: are@6, S: advantages@2, O: torque@10)	SVO (V: lowers@46, S: ratio@44, O: stresses@49)
+235	SV (V: used@10, S: Straight@1)
+236	SVC (C: devices@12, V: are@10, S: These@9, A?: at@1, A?: with@13)	SVO (V: scoops@19, S: devices@12, CCOMP: used@22)	SVA (V: used@22, S: that@20, A!: in@23)
+237	SVC (C: self-starting@4, V: are@2, S: They@1, A?: always@3, A?: are@7)	EXISTENTIAL (V: are@7, S: scoops@11)
+238	SVC (C: savonius@8, V: is@5, S: Savonius@4, A?: with@10)	SVA (V: used@23, S: this@20, A?: mostly@22, A!: as@24)
+239	SVC (C: %@9, V: is@6, S: component@3, A?: of@10)	SVO (V: includes@16, S: component@3, O: blades@18)
+240	
+241	
+242	
+243	SVC (C: %@10, V: is@7, S: component@4, A?: of@11)	SVO (V: includes@17, S: component@4, O: tower@19)
+244	SVC (S: NREL/TP@13, V: "is", C: December@17)	SVC (S: NREL/TP@13, V: "is", C: page@21)
+245	
+246	
+247	SVO (V: go@3, S: Turbines@2, O: Efficiency@8)
+248	SVO (V: go@3, S: Turbines@2, O: Efficiency@8)	SVC (S: VAWT@19, V: "is", C: http@24)
+249	SVA (V: "be design", S: race@2, O: turbines@10)	SVO (S: world@5, V: "has", O: turbines@10)
+250	SVA (V: "be design", S: race@2, O: turbines@10)	SVO (S: world@5, V: "has", O: turbines@10)
+251	SVC (S: m@11, V: "is", C: ft@14)
+252	
+253	
+254	SVO (V: developing@4, S: 2010-02-13@2, CCOMP: levitated@8)	SVO (V: levitated@8, S: magneto@7, O: turbine@11, A?: with@12)
+255	SVOC (V: Quadruples@4, S: Turbine@3, O: http@10, O: pptymag.com/10mw-wind-turbine-quadruples-power/4730/@14)
+256	
+257	
+258	SVO (V: developing@14, S: Windpower@12, O: HAWT@19)	SVOC (V: terminated@22, S: Windpower@12, O: HAWT@19, O: project@24)
+259	
+260	SVC (C: giants@8, V: be@5, S: turbines@3)
+261	SVC (C: giants@8, V: be@5, S: turbines@3)
+262	
+263	
+264	SVO (V: run@8, S: Wind@7, O: turbines@10)	SVC (S: Burton@18, V: "is", C: Bossanyi@27)	SVC (S: Handbook@31, V: "is", C: Development@53)	SVC (S: Handbook@31, V: "is", C: Copyright@55)	SVC (S: edition@39, V: "is", C: 2001@41)	SVC (S: David@59, V: "is", C: Company@70)	SVC (S: Company@70, V: "is", C: Boston@72)	SVC (S: Company@70, V: "is", C: Copyright@74)	SVC (S: Copyright@74, V: "is", C: pg.41-42@79)
+265	SVC (S: Concepts@35, V: "is", C: ISBN@50)	SVC (S: Edition@42, V: "is", C: 2009@44)

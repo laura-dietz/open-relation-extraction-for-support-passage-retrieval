@@ -1,0 +1,225 @@
+0	SVO (V: _@17, S: Things@15, O: Bosch@19)
+1	SVC (C: force@5, V: is@2, S: Lust@1)	SVA (V: associated@9, S: force@5, A?: directly@8, A!: with@10)	SVO (S: one@16, V: "has", O: desire@18)
+2	SVC (S: Lazarus@6, V: "is", C: Passion@8)	SVO (S: Our@15, V: "has", O: Emotions@16)	SVC (C: similar@33, V: is@31, S: ISBN@26, A?: phonetically@32, A?: to@34)	SVO (V: meant@42, S: lustrum@38, A?: literally@41, O: purification@44)
+3	SVC (C: time@6, V: was@2, S: This@1, A?: for@7)	SVA (V: "be called", S: sins@13)
+4	SVC (C: one@4, V: was@3, S: intercourse@2, A?: of@5)	SVA (V: "be requiring", S: sins@9, O: lustration@11)
+5	SVA (V: existed@4, S: word@3, A!: in@5)	SVC (S: Latin@7, V: "is", C: lustratio@9)
+6	SVA (V: "be written", S: Sins@6, A!: during@9)	SVC (C: list@16, V: is@13, S: Sins@6, A?: of@17)	SVA (V: "be requiring", S: sins@18, O: expiation@20)
+7	SVO (V: forbade@3, S: doctrines@2, O: thoughts@5, A?: generalized@15)	SVA (V: "be generalized", S: doctrines@2, A!: later@14, A?: as@16)	SVC (S: fornicatio@9, V: "is", C: fornication@11)	SVC (S: luxuria@17, V: "is", C: lust/lechery@19)
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	SVA (V: embodied@6, S: concept@2, A?: also@3, A?: progressively@5, A!: in@7, A?: through@17)	SV (V: following@21, S: concept@2, A?: also@3, A?: progressively@5, A?: in@7, A?: through@17)
+29	SVO (V: states@7, S: Lea@6, A?: For@1, O: III@11)	SVO (V: obtain@18, S: persons@16, O: life@20, A?: in@22)	SVO (S: his@23, V: "has", O: History@26)
+30	
+31	SV (V: states@3, S: He@1, A?: also@2)	SVO (V: ransacked@10, S: I@9, O: Gospels@12, A?: for@13)
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	
+40	
+41	
+42	SVOC (V: began@7, S: lust@5, XCOMP: used@9, O: 2011-11-21@1)	SVO (S: Reformation@17, V: "has", O: translations@22)
+43	SVA (V: is@2, S: This@1, A!: despite@3)	SVO (V: has@12, S: Bible@11, O: word@15)	SVA (V: translated@19, S: word@15, A?: uniquely@18, A!: as@20)
+44	
+45	SVO (V: has@9, S: meaning@4, A?: Today@1, A?: still@8, O: meanings@11)
+46	
+47	SVC (S: pleasure@3, V: "is", C: b@6)
+48	
+49	SVC (S: enthusiasm@10, V: "is", C: <admired his lust for life>@13)
+50	
+51	
+52	
+53	
+54	SVC (S: Precepts@3, V: "is", C: lust@14)	SVA (V: used@18, S: Precepts@3, A?: occasionally@17, A!: as@19)	SVO (S: its@34, V: "has", O: forms@36)
+55	SVA (V: rendered@8, S: ἐπιθυμέω@5, A!: as@9)	SVO (V: represents@26, S: verse@25, A?: However@22, O: ἐπιθυμέω@31)
+56	SVO (V: gained@5, S: insight@2, A?: from@6, XCOMP: describing@9)	SVO (S: His@10, V: "has", O: feelings@12)	SVC (C: redundancy@36, V: is@33, S: doubling@26)
+57	SVC (C: mechanism@8, V: is@4, S: it@3, A?: Rather@1, A?: accomplish@10)	SVA (V: "be accomplish", S: mechanism@8, O: voice@13)
+58	SVO (V: render@4, S: versions@2, A?: therefore@3, O: words@7, A?: as@11)	SVO (S: Christ@5, V: "has", O: words@7)	SVC (S: BBE@22, V: "is", C: desire@26)	SVC (S: WEB@34, V: "is", C: RSV@36)
+59	SVOC (V: has@7, S: Mt@3, A?: Obviously@1, O: expression@9, XCOMP: using@13)
+60	SVO (V: raises@3, S: analysis@2, O: questions@5)
+61	SVO (V: attempt@11, S: Mt@6, XCOMP: answer@13)	EXISTENTIAL (V: are@2, S: understandings@4)
+62	SVA (V: "be satiating", S: demon@2, O: lust@5, A!: in@6)	SVO (S: his@4, V: "has", O: lust@5)
+63	SVC (S: artRomanesqueCapital@2, V: "is", C: architecture@4)	SVA (V: "be capitalrepresenting", S: artRomanesqueCapital@2, O: lust@8, A!: According@9)	SVA (V: "be According", S: capitalrepresenting@6, A!: to@10)	SVC (S: Encyclopedia@13, V: "is", C: heart@18)	SVO (S: Christian@16, V: "has", O: heart@18)	SVC (C: lustful@20, V: is@19, S: artRomanesqueCapital@2, A?: sought@26)	SVA (V: sought@26, S: satisfaction@24, A?: when@21, A!: for@27)	SVC (C: contrary@42, V: is@41, S: manner@39, A?: to@43)	SVO (V: govern@47, S: laws@45, O: intercourse@49)
+64	SVO (V: states@5, S: II@4, CCOMP: different@10)	SVC (C: different@10, V: is@8, S: lust@7, A?: totally@9, A?: from@11)
+65	
+66	SVC (S: Romano@1, V: "is", C: Edition@4)	SVC (S: Romano@1, V: "is", C: September@9)	SVC (S: September@9, V: "is", C: p@12)
+67	SVO (V: considered@4, S: Lust@2, A?: by@5, XCOMP: desire@11)	SVA (V: "be isolated", S: pleasure@14, A!: from@26)	SVO (V: sought@21, S: pleasure@18, A?: where@16, A?: for@22, O: pleasure@14)	SVO (S: its@27, V: "has", O: purposes@31)
+68	
+69	SVC (C: good@10, V: is@9, S: desire@6, A?: In@2)	SVC (C: considered@14, V: is@9, S: desire@6, A?: In@2, XCOMP: part@15)	SVO (S: God@17, V: "has", O: plan@19)
+70	SVA (V: separated@7, S: desire@5, A?: when@3, A!: from@8)	SVO (S: God@9, V: "has", O: love@11)	SVC (V: becomes@14, S: it@13, A?: However@1, A?: separated@7, ACOMP: disordered@15)	SVA (V: "be seeking", S: self@17)
+71	SVA (V: seen@3, S: This@1, A!: as@4)
+72	SVC (V: became@6, S: lust@5, A?: In@1, XCOMP: one@7, XCOMP: taking@14)
+73	SVA (V: occurred@5, S: change@4, A?: February@1, A!: evolved@24)	SVO (V: evolved@24, S: cognate@13, A?: in@7, XCOMP: have@26)	SVA (V: adopted@39, S: cognate@37, A?: February@32, A!: into@40, A?: as@42)	SVO (V: lost@47, S: this@46, O: meaning@50, A?: by@51)	SVO (S: its@48, V: "has", O: meaning@50)
+74	SVA (V: represented@11, S: lust@8, A?: often@10, A!: by@12)
+75	SVC (S: Krishna@7, V: "is", C: Avatar@10)	SVO (V: declared@13, S: Krishna@7, A?: In@1, A?: in@14, CCOMP: one@21)	SVC (C: one@21, V: is@20, S: lust@19, A?: of@22, A?: to@25)
+76	SVC (C: enemy@35, V: is@31, S: which@30, A?: of@36)	SVO (V: said@3, S: Krishna@2, A-: Then@1, CCOMP: lust@7)	SVC (C: lust@7, V: is@6, S: It@5, A?: only@8)	SVC (S: lust@7, V: "is", C: Arjuna@10)	SVA (V: born@14, S: Arjuna@10, A!: of@15)	SVA (V: transformed@25, S: Arjuna@10, A?: of@15, A?: later@24, A!: into@26)
+77	SVA (V: covered@4, S: fire@2, A!: by@5)	SVA (V: covered@12, S: mirror@10, A!: by@13)	SVO (V: covered@21, S: embryo@19, A?: covered@4, A?: covered@12, A?: by@22, CCOMP: covered@31)	SVA (V: covered@31, S: entity@28, A?: similarly@30, A!: by@32)
+78	SVO (S: entity@5, V: "has", O: consciousness@8)	SVC (V: becomes@9, S: consciousness@8, A-: Thus@1, XCOMP: covered@10)	SVO (S: his@12, V: "has", O: enemy@14)	SVC (C: satisfied@24, V: is@22, S: enemy@14)
+79	SVC (C: places@12, V: are@9, S: senses@2, A?: of@13)
+80	
+81	SVC (S: Arjuna@4, V: "is", C: best@6)
+82	SVC (C: superior@5, V: are@4, S: senses@3, A?: to@6)	SVC (C: higher@12, V: is@11, S: mind@10, A?: than@13)	SVC (C: higher@20, V: is@18, S: intelligence@17, A?: still@19, A?: than@21)	SVC (S: he@26, V: "is", C: soul@29)	SVC (C: higher@33, V: is@31, S: he@26, A-: even@32, A?: than@34)
+83	SVA (C: transcendental@6, V: "be transcendental", S: oneself@3, A!: to@7)	SVOO (V: conquer@36, S: one@20, O: enemy@39, IO: Arjuna@18)	SVA (V: "be known", S: enemy@39, A!: as@41)
+84	
+85	SVOC (C: best@15, V: is@14, S: Lust@12, O: word@10)	SVA (V: "be called", S: force@20)	SVA (V: "be Wanting", S: force@20)
+86	SV (V: forbidden@8, S: glances@6, A?: In@1)
+87	SVA (V: disliked@4, S: thoughts@2, A!: for@6)	SVC (C: step@11, V: are@8, S: disliked@4, A?: towards@12)
+88	
+89	SVO (V: had@3, S: Muhammad@2, O: fears@5, A?: said@11)	SVO (S: his@4, V: "has", O: fears@5)	SV (V: said@11, S: he@9, A?: once@10)	SVC (V: is@19, S: fornication@15, CCOMP: had@3, XCOMP: look@21)	SVC (V: is@30, S: fornication@26, XCOMP: speak@32)	SVC (V: is@41, S: fornication@37, XCOMP: touch@43)	SVC (V: is@52, S: fornication@48, XCOMP: walk@54)	SVC (V: is@63, S: fornication@59, XCOMP: desire@65)
+90	SVO (V: stressed@8, S: prophet@6, A?: November@2, A?: also@7, O: magnitude@10, A?: as@18)	SVO (V: be@39, S: glance@37, A?: that@40, O: observatory@33)
+91	SVO (V: advocate@4, S: Islam@1, O: celibacy@5)	SVO (V: requires@8, S: it@7, O: marriage@9)	SVA (V: "be conduct", S: marriage@9, O: sex@12, A!: legally@13)
+92	SVO (V: prohibits@5, S: Islam@4, A-: So@1, A?: in@2, O: actions@7)	SVOA (V: lead@10, S: actions@7, A!: to@11, XCOMP: decrease@21)	SVC (S: acts@14, V: "is", C: gazing@18)
+93	SVA (V: characterized@13, S: inclinations@6, A?: In@1, A!: by@14)	SVC (S: hara@16, V: "is", C: Hebrew@18)
+94	SVC (C: force@7, V: is@3, S: hara@2)	SVC (C: misuse@15, V: is@12, S: it@11, A?: rather@9, A?: of@16)	SVC (C: contrasted@30, V: is@12, S: it@11, A?: rather@9, A?: of@16, A?: often@29, A?: with@31)	SVO (S: man@13, V: "has", O: misuse@15)	SVOC (V: needs@23, S: body@22, O: things@18, XCOMP: survive@25)
+95	SVA (V: derived@4, S: idea@2, A!: from@5)	SVO (V: states@10, S: Genesis@6, CCOMP: evil@21)	SVC (C: evil@21, V: is@20, S: imagination@14, A?: from@22)	SVO (S: his@23, V: "has", O: youth@24)
+96	SVA (V: identified@5, S: hara@2, A?: often@4, A!: with@6)	EXISTENTIAL (V: is@22, S: tendency@25, A?: sometimes@23)	SVA (V: "be give", S: tendency@25, O: personality@29, A!: to@33)
+97	
+98	SVA (V: is@4, S: Yetzer@3, A!: however@6)
+99	SVO (V: considered@4, S: Torah@2, XCOMP: antidote@7)
+100	SVO (V: made@9, S: God@7, O: things@5)	SVC (C: good@14, V: is@13, S: Yetzer@12, A?: Though@1, A?: like@3, A?: for@16)	SVO (S: man@20, V: marry@23, O: good@14)
+101	SVOC (V: considered@8, S: religions@5, A?: ancient@2, A?: actually@7, O: lust@9, XCOMP: vice@13)
+102	SVA (V: "be practicing", S: movement@11, O: lechery@13, A!: Bacchanalias@20)	SVC (C: Bacchanalias@20, V: be@18, S: ritual@16, A?: of@21)
+103	SVA (V: outlawed@7, S: activity@4, A?: However@1, A?: soon@6, A!: by@8, A?: in@12)
+104	SVO (V: continued@9, S: practice@2, A?: however@7, XCOMP: activity@13)	SVA (V: "be practiced", S: activity@13, A!: often@15, A?: by@16)
+105	SVA (V: counted@6, S: lust@4, A?: In@1, A!: among@7)	SVC (S: sins@11, V: "is", C: ego@21)	SVOC (C: anger@19, V: being@18, S: others@17, O: sins@11)
+106	SVA (V: stands@7, S: term@6, A?: In@1, A!: for@8)	SVC (V: is@15, S: it@14, A?: in@16, CCOMP: considered@22)	SVO (V: considered@22, S: it@20, XCOMP: evil@24)
+107	SVC (S: Kumaris@4, V: "is", C: organisation@8)	SVA (V: based@11, S: organisation@8, A!: on@12)	SVC (S: philosphy@14, V: "is", C: lust@17)	SV (V: is@18, S: enemy@21, A?: According@1)
+108	SVC (S: Salvadori@2, V: "is", C: Fedders@5)
+109	
+110	
+111	
+112	SVC (S: Chryssides@1, V: "is", C: Followers@4)	SVO (V: eat@7, S: Chryssides@1, O: onions@8, A?: as@13, A?: in@16)	SVA (V: bound@26, S: body@23, A!: to@27, A?: in@29)
+113	SVC (C: impure@4, V: is@3, S: sex@2)	SVC (C: leads@6, V: is@3, S: sex@2, A?: to@7)
+114	SVO (V: poisons@2, S: It@1, O: body@4)	SVOA (V: leads@6, S: It@1, O: body@4, A!: to@7)
+115	SVO (V: teach@4, S: Kumaris@3, O: is@5)	SV (V: is@5, S: it@6)
+116	SVO (V: conquer@7, S: Students@1, O: lust@8, A?: go@12)	SVO (V: created@22, S: children@20, A?: where@19, A?: by@23, A?: for@27, O: earth@18)
+117	SVC (S: revolution@14, V: "is", C: p@23)
+118	
+119	SVC (S: Abbott@2, V: "is", C: riendo@9)	SVC (S: Abbott@2, V: "is", C: Women@12)	SVO (S: rightthumbGoya@5, V: "has", O: riendo@9)
+120	SVA (V: faced@15, S: characters@11, A?: From@1, A?: always@13, A!: with@16)	SVC (C: motif@29, V: been@26, S: lust@25, A?: long@22, A?: in@30)
+121	SVO (V: written@15, S: writers@2, O: works@16)	SVOO (V: take@25, S: scenes@18, A?: wherein@17, O: place@26, IO: works@16)
+122	SVC (S: Baudelaire@6, V: "is", C: author@8)	SVOC (V: remarked@18, S: he@15, A?: once@17, A?: in@20, CCOMP: cultivates@32, O: evils@4)	SVO (V: cultivates@32, S: that@26, O: arts@34)	SVO (V: cultivates@32, S: man@31, O: arts@34)	SVC (S: arts@34, V: "is", C: randy@38)	SVO (V: becomes@40, S: he@39, O: randy@38)
+123	SVC (C: good@5, V: is@4, S: brute@3, A?: at@6)	SVC (C: lyricism@13, V: is@11, S: copulation@10, A?: of@14)
+124	SVA (V: enter@5, S: copulate@2, A!: into@6)	SVA (V: emerges@13, S: artist@11, A!: from@14)
+125	SVA (V: "be touch", S: work@4, A!: upon@7)	SVC (C: Commedia@26, V: is@21, S: work@4)	SVO (S: Dante@22, V: "has", O: Commedia@26)
+126	SVO (S: Dante@1, V: "has", O: criterion@3)	SVC (C: love@10, V: was@6, S: criterion@3, A?: of@11, A?: insofar@15)	SVO (V: render@23, S: love@19, O: love@26)	SVO (S: one@24, V: "has", O: love@26)
+127	SVO (S: Dante@6, V: "has", O: Inferno@8)	SVA (V: punished@13, S: lustful@11, A?: In@1, A!: by@14)	SVO (V: symbolizes@24, S: whirlwind@21, O: passions@26)	SVO (S: their@25, V: "has", O: passions@26)
+128	SVC (C: guilty@5, V: are@4, S: who@3, A?: of@6, A?: like@9)	SVC (S: lovers@13, V: "is", C: Paolo@15)	SVOC (V: receive@19, S: guilty@5, CCOMP: desired@22, O: damned@2)	SVO (V: desired@22, S: they@21, O: what@20, A?: in@23)	SVO (S: their@24, V: "has", O: lives@26)	SVO (S: their@28, V: "has", O: passions@29)	SVO (V: give@31, S: passions@29, A?: damned@2, O: them@32)
+129	SVO (V: choose@11, S: penitents@10, A?: In@1, A?: of@4, XCOMP: walk@13)	SVO (S: their@22, V: "has", O: inclinations@24)
+130	SVC (C: question@12, V: been@9, S: link@2, A?: always@8, A?: in@13)
+131	SVO (V: notes@2, S: Schopenhauer@1, O: misery@4)	SVA (V: results@6, S: misery@4, A!: from@7)
+132	SVO (V: explains@7, S: this@5, A?: According@1, A?: directly@6, O: sentiments@9)	SVO (V: tend@15, S: sentiments@9, XCOMP: follow@17)
+133	SVO (S: he@3, V: states@4, O: desire@14)	SV (V: reigns@10, S: power@8)	SVA (V: "be face", S: desire@14, A!: at@18, O: love@24)	SVC (C: desire@14, V: is@11, S: power@8, A?: face@16)
+134	SVO (V: estimates@2, S: He@1, CCOMP: industrial@11)	SVOC (V: wants@20, S: He@1, CCOMP: industrial@11, XCOMP: think@23)	SVO (S: his@7, V: "has", O: species@8)	SVC (C: industrial@11, V: is@9, S: genius@5, XCOMP: being@12)	SVO (V: wants@14, S: being@12, XCOMP: produce@17)
+135	SVO (V: consider@10, S: theme@2, A-: thus@8, O: horrors@12)	SVO (V: follow@17, S: horrors@12, A?: certainly@16, O: culmination@19)
+136	SVA (V: defined@8, S: lust@5, A?: In@1, A?: loosely@7, A!: with@9)	SV (V: equated@16, S: it@13, A?: often@15)	SVA (V: confused@18, S: it@13, A?: often@15, A!: with@19)
+137	SVA (V: states@3, S: Long@2, A!: that@4)	SVA (V: "be thinking", S: the@8, A!: about@10)	SVA (V: thinking@15, S: this@14, A!: about@16)	SVA (V: "be known", S: condition@28, A!: as@30)
+138	SVC (C: problem@6, V: is@4, S: condition@3, A?: in@7)
+139	SVO (V: clarifies@21, S: Long@5, A?: with@12, O: definition@23)	SVO (S: his@22, V: "has", O: definition@23)	SVO (V: need@31, S: You@28, O: body@34)	SVO (V: need@37, S: you@36, O: mind@40)	SVOC (C: mind@53, V: is@51, S: Talks@44, O: mind@40)
+140	SVO (V: states@2, S: He@1, CCOMP: pure@11)	SVC (C: pure@11, V: is@10, S: attraction@6)
+141	SVC (S: fantasizing@16, V: "is", C: lust@18)
+142	SVC (V: is@5, S: error@2, XCOMP: think@7)
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	SVO (S: Way@9, V: "has", O: Long@12)	SVC (S: Long@12, V: "is", C: ISBN@15)	SVC (S: Long@18, V: "is", C: Talks@22)	SVO (V: redirects@29, S: Lechery@27, A?: currently@28, A?: to@30, A?: same@38, O: audio@23)	SVC (C: same@38, V: is@35, S: it@34, A?: as@39)
+152	SVC (C: interior@4, V: is@2, S: Lust@1)	SVC (S: interior@4, V: "is", C: action@7)
+153	SVC (C: behaviour@3, V: is@2, S: Lechery@1)	SVC (S: condition@14, V: "is", C: lust@16)
+154	SVA (V: result@5, S: Lust@1, A?: necessarily@4, A!: in@6)
+155	SVO (V: confirms@4, S: definition@3, CCOMP: behaviour@9)	SVC (C: behaviour@9, V: is@7, S: lechery@6)
+156	
+157	SVC (C: likely@4, V: is@2, S: person@1, A?: more@3, XCOMP: lust@6)	SVO (V: resemble@12, S: someone@8, O: oneself@13)
+158	SVC (C: cue@6, V: is@4, S: relatedness@3, A?: of@7)	SVOC (C: causes@10, V: is@4, S: relatedness@3, A?: of@7, O: reaction@13)	SVA (V: "be attracted", S: reaction@13)
+159	SVO (V: decreases@4, S: self-resemblance@3, A?: Therefore@1, O: attractiveness@5, A?: in@9, A?: increases@15)	SVOC (V: increases@15, S: resemblance@14, O: attractiveness@16, XCOMP: creating@20)
+160	SVC (S: DeBruine@1, V: "is", C: M.@4)
+161	
+162	
+163	SV (V: es@46, S: Wollust@45)	SVO (V: heard@124, S: You@122, CCOMP: said@128)	SV (V: said@128, S: it@126)	SVO (V: commit@133, S: he@68, O: adultery@134)
+164	SVO (V: tell@4, S: I@3, O: you@5, A?: that@6)	SVA (V: looks@9, S: anyone@7, A!: at@10)	SVA (V: "be committed", S: woman@12, A!: lustfully@13, A?: already@15, O: adultery@17, A?: with@18)	SVO (S: his@21, V: "has", O: heart@22)
+165	
+166	
+167	
+168	
+169	
+170	
+171	
+172	
+173	
+174	
+175	
+176	
+177	
+178	SVC (S: Hebrew/Greek/English@5, V: "is", C: 9781878442826@7)
+179	
+180	
+181	
+182	SVC (S: Hebrew/Greek/English@5, V: "is", C: 9781878442826@7)
+183	
+184	SVOC (V: rejects@6, S: view@5, O: translation@10, XCOMP: lust@13)
+185	SVA (V: centers@3, S: view@2, A!: instead@4, A?: on@5)	SVC (S: woman@9, V: "is", C: γυνή@12)
+186	SVO (V: taken@3, S: It@1, XCOMP: mean@5)	SVO (S: man@9, V: "has", O: wife@11)
+187	SVO (V: renders@3, S: KJV@2, O: γυνή@4, A?: as@5, A?: in@9)	SVO (S: its@12, V: "has", O: uses@14)
+188	
+189	
+190	
+191	
+192	SVO (V: supports@10, S: presence@2, A?: also@9, O: view@12)
+193	SVO (V: says@5, S: Mt@3, A-: Thus@1, CCOMP: desire@13)	SVO (V: desire@13, S: one@8, A?: simply@6, A?: covetously@12, O: wife@17)	SVO (S: man@15, V: "has", O: wife@17)
+194	SVO (V: considered@10, S: judgments@2, A?: therefore@9, XCOMP: unstated@11)
+195	
+196	SVO (V: accepts@5, S: view@4, O: translation@10, A?: inspired@15)	SVA (V: inspired@15, S: it@13, A!: by@16)
+197	SVO (V: considers@4, S: It@3, A?: June@1, O: marriage@12)	SVA (C: sin@15, V: "be sin", S: marriage@12)
+198	SVO (V: considered@4, S: Romance@1, A?: usually@3, XCOMP: non-sexual@7)	SVC (C: acceptable@14, V: is@9, S: Romance@1, A?: usually@3, XCOMP: non-sexual@7, A?: often@10, A?: therefore@12)
+199	SVA (V: represented@4, S: approach@2, A!: in@5)	SVO (V: Kissed@10, S: I@9, XCOMP: Dating@11)
+200	SVC (V: is@5, S: approach@4, XCOMP: accept@7)	SVC (S: Catholicism@27, V: "is", C: Orthodoxy@30)	SVO (V: http@38, S: religions@20, O: encyclopedia@44)
+201	
+202	
+203	
+204	
+205	SVA (V: is@6, S: elaboration@2, A!: in@7)
+206	
+207	SVO (V: considers@7, S: view@3, O: verse@9)	SVA (C: endorsement@13, V: "be endorsement", S: verse@9, A!: of@14)
+208	SVC (V: seems@7, S: Christ@6, A?: In@1, XCOMP: forbid@9)
+209	
+210	
+211	SV (V: embody@7, S: Gospel@3)	SVO (V: elaborate@9, S: Gospel@3, O: approach@11)
+212	
+213	
+214	
+215	
+216	SVO (S: Catherine@10, V: "has", O: Monastery@12)	SVOC (V: have@22, S: monks@21, O: monks@5, A?: With@15, O: need@24)	SVA (V: "be tempt", S: need@24, O: them@30)
+217	SVO (V: considered@6, S: homosexuality@4, A-: Thus@2, A?: in@7, XCOMP: state@16)
+218	
+219	SVA (V: rejected@5, S: view@3, A!: by@6)
+220	
+221	SVC (S: Froböse@26, V: "is", C: Gabriele@28)	SVC (S: Froböse@26, V: "is", C: Froböse@31)	SVC (S: Gross@35, V: "is", C: translator@37)
+222	SVC (S: Society@2, V: "is", C: 2006@6)
+223	
+224	

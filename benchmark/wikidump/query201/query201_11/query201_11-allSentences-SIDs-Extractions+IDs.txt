@@ -1,0 +1,93 @@
+January 2012 RS Components 100px Subsidiary 1937 Birchington Road , Corby , UK Europe Electronic component 5,800 Electrocomponents http ://www.rs-components 	0	query201_RS_Components\S\0
+"100px Subsidiary 1937 Birchington Road"	"is"	"UK Europe Electronic component 5,800 Electrocomponents http"	0	query201_RS_Components\P\0-0
+"100px Subsidiary 1937 Birchington Road"	"is"	"Corby"	0	query201_RS_Components\P\0-1
+.co.uk 	1	query201_RS_Components\S\1
+RS Components , commonly known as RS , is a global industrial component distributor headquartered in Corby in the United Kingdom . 	2	query201_RS_Components\S\2
+"RS Components"	"be known"	"commonly as RS"	2	query201_RS_Components\P\2-0
+"RS Components"	"be known"	"commonly"	2	query201_RS_Components\P\2-1
+"a global industrial component distributor"	"be headquartered"	"in Corby in the United Kingdom"	2	query201_RS_Components\P\2-2
+"RS Components commonly known as RS"	"is a global industrial component distributor"	"headquartered in Corby in the United Kingdom"	2	query201_RS_Components\P\2-3
+"RS Components commonly known as RS"	"is"	"a global industrial component distributor"	2	query201_RS_Components\P\2-4
+It distributes to the United Kingdom , most of Europe and Asia and is part of the Electrocomponents group . 	3	query201_RS_Components\S\3
+It distributes to the United Kingdom , most of Europe and Asia and is part of the Electrocomponents group . 	3	query201_RS_Components\S\3
+It distributes to the United Kingdom , most of Europe and Asia and is part of the Electrocomponents group . 	3	query201_RS_Components\S\3
+It distributes to the United Kingdom , most of Europe and Asia and is part of the Electrocomponents group . 	3	query201_RS_Components\S\3
+It distributes to the United Kingdom , most of Europe and Asia and is part of the Electrocomponents group . 	3	query201_RS_Components\S\3
+It distributes to the United Kingdom , most of Europe and Asia and is part of the Electrocomponents group . 	3	query201_RS_Components\S\3
+It distributes to the United Kingdom , most of Europe and Asia and is part of the Electrocomponents group . 	3	query201_RS_Components\S\3
+thumbleftRS Trade-Counter_Leeds . 	4	query201_RS_Components\S\4
+The company was founded in 1937 in London under the name Radiospares selling spare parts for radio . 	5	query201_RS_Components\S\5
+"The company"	"was founded"	"in 1937 in London"	5	query201_RS_Components\P\5-0
+"The company"	"was founded"	"in 1937 under the name Radiospares selling spare parts for radio"	5	query201_RS_Components\P\5-1
+"The company"	"was founded"	"in 1937"	5	query201_RS_Components\P\5-2
+"the name Radiospares"	"be selling"	"spare parts for radio"	5	query201_RS_Components\P\5-3
+When television became popular , television parts were added to Radiospares ' product list . 	6	query201_RS_Components\S\6
+When television became popular , television parts were added to Radiospares ' product list . 	6	query201_RS_Components\S\6
+When television became popular , television parts were added to Radiospares ' product list . 	6	query201_RS_Components\S\6
+"television parts"	"were added"	"to Radiospares ' product list 6"	6	query201_RS_Components\P\6-0
+"television parts"	"were added"	"to Radiospares ' product list"	6	query201_RS_Components\P\6-1
+"television parts"	"were added"	"to Radiospares ' product list"	6	query201_RS_Components\P\6-2
+By the end of World War II , the company had evolved into a large national distribution company . 	7	query201_RS_Components\S\7
+"the company"	"had evolved"	"7 By the end of World War II into a large national distribution company"	7	query201_RS_Components\P\7-0
+"the company"	"had evolved"	"7 By the end of World War II"	7	query201_RS_Components\P\7-1
+In 1954 , the founders of Radiospares expanded the company 's focus from shops and home users to the industrial sector . 	8	query201_RS_Components\S\8
+"the founders of Radiospares"	"expanded"	"the company 's focus from shops users to the industrial sector"	8	query201_RS_Components\P\8-0
+"the founders of Radiospares"	"expanded"	"the company 's focus from home users to the industrial sector"	8	query201_RS_Components\P\8-1
+"the company"	"has"	"focus from shops users to the industrial sector"	8	query201_RS_Components\P\8-2
+"the company"	"has"	"focus from home users to the industrial sector"	8	query201_RS_Components\P\8-3
+This process was completed in the 1960s . 	9	query201_RS_Components\S\9
+"This process"	"was completed"	"in the 1960s"	9	query201_RS_Components\P\9-0
+RS Components is part of the Electrocomponents group , which trades as RS across the world except in North America where it trades as Allied Electronics . 	10	query201_RS_Components\S\10
+"RS Components"	"is part"	"of the Electrocomponents group"	10	query201_RS_Components\P\10-0
+"RS Components"	"is"	"part"	10	query201_RS_Components\P\10-1
+"the Electrocomponents group"	"trades"	"as RS across the world"	10	query201_RS_Components\P\10-2
+"the Electrocomponents group"	"trades"	"as RS except in North America"	10	query201_RS_Components\P\10-3
+"the Electrocomponents group"	"trades"	"as RS"	10	query201_RS_Components\P\10-4
+"the Electrocomponents group"	"trades"	"as RS"	10	query201_RS_Components\P\10-5
+"the Electrocomponents group"	"trades"	"as RS"	10	query201_RS_Components\P\10-6
+"the Electrocomponents group"	"trades"	"as RS"	10	query201_RS_Components\P\10-7
+The leading international high service distributor of electronic , electrical and industrial supplies , with over 1.6 	11	query201_RS_Components\S\11
+million customers and offering 550,000 products . 	12	query201_RS_Components\S\12
+Electrocomponents operates in 32 countries , covering more than 85 % of the world’s GDP with distributors in many more , with an annual revenue of £1.18 	13	query201_RS_Components\S\13
+"Electrocomponents"	"operates"	"in 32 countries covering more than 85 % of the world 's GDP with distributors in many more"	13	query201_RS_Components\P\13-0
+"Electrocomponents"	"operates"	"in 32 countries with an annual revenue of # 1.18"	13	query201_RS_Components\P\13-1
+"Electrocomponents"	"operates"	"in 32 countries"	13	query201_RS_Components\P\13-2
+"Electrocomponents"	"be covering"	"more than 85 % of the world 's GDP with distributors in many more"	13	query201_RS_Components\P\13-3
+"Electrocomponents"	"be covering"	"more than 85 % of the world 's GDP with distributors"	13	query201_RS_Components\P\13-4
+"the world"	"has"	"GDP"	13	query201_RS_Components\P\13-5
+billion . 	14	query201_RS_Components\S\14
+Using a variety of channels to market including selling via catalogues , e-Commerce ( Websites in 17 languages covering 70 countries ) and trade counters . 	15	query201_RS_Components\S\15
+Using a variety of channels to market including selling via catalogues , e-Commerce ( Websites in 17 languages covering 70 countries ) and trade counters . 	15	query201_RS_Components\S\15
+Using a variety of channels to market including selling via catalogues , e-Commerce ( Websites in 17 languages covering 70 countries ) and trade counters . 	15	query201_RS_Components\S\15
+Using a variety of channels to market including selling via catalogues , e-Commerce ( Websites in 17 languages covering 70 countries ) and trade counters . 	15	query201_RS_Components\S\15
+"languages"	"be covering"	"70 countries"	17	query201_RS_Components\P\15-0
+A catalogue-based distributor of electronic , electrical and industrial components to engineers in the United Kingdom , most of Europe and Asia . 	16	query201_RS_Components\S\16
+Customers are served by local warehouses in each region . 	17	query201_RS_Components\S\17
+"Customers"	"are served"	"by local warehouses in each region"	17	query201_RS_Components\P\17-0
+"Customers"	"are served"	"by local warehouses"	17	query201_RS_Components\P\17-1
+In addition , RS Components ' facilities in the UK provide some products directly to Europe from both the Corby HQ and the fully mechanised Nuneaton warehouse . 	18	query201_RS_Components\S\18
+"RS Components"	"has"	"facilities in the UK"	18	query201_RS_Components\P\18-0
+"RS Components ' facilities in the UK"	"provide"	"18 In addition some products directly to Europe from the Corby HQ"	18	query201_RS_Components\P\18-1
+"RS Components ' facilities in the UK"	"provide"	"18 In addition some products directly to Europe from the Corby the fully mechanised Nuneaton warehouse"	18	query201_RS_Components\P\18-2
+"RS Components ' facilities in the UK"	"provide"	"18 In addition some products directly to Europe"	18	query201_RS_Components\P\18-3
+The countries of South-East Asia are served by a hub in Singapore . 	19	query201_RS_Components\S\19
+"The countries of South-East Asia"	"are served"	"by a hub in Singapore"	19	query201_RS_Components\P\19-0
+The company also has a warehouse in Shanghai . 	20	query201_RS_Components\S\20
+"The company"	"has"	"a warehouse in Shanghai also"	20	query201_RS_Components\P\20-0
+"The company"	"has"	"a warehouse in Shanghai"	20	query201_RS_Components\P\20-1
+In 2003 , RS Components was awarded the E-Business Strategy of the Year award by the UK National Business Awards . 	21	query201_RS_Components\S\21
+"RS Components"	"be 21"	"In 2003"	21	query201_RS_Components\P\21-0
+"RS Components"	"was awarded"	"the E-Business Strategy of the Year award by the UK National Business Awards 21 In 2003"	21	query201_RS_Components\P\21-1
+"RS Components"	"was awarded"	"the E-Business Strategy of the Year award by the UK National Business Awards"	21	query201_RS_Components\P\21-2
+The RS Components site in Corby is the town 's largest employer . 	22	query201_RS_Components\S\22
+"The RS Components site in Corby"	"is"	"the town 's largest employer"	22	query201_RS_Components\P\22-0
+"the town"	"has"	"largest employer"	22	query201_RS_Components\P\22-1
+It sponsors the IET . 	23	query201_RS_Components\S\23
+It sponsors the IET . 	23	query201_RS_Components\S\23
+It also has links with the Corby Business Academy . 	24	query201_RS_Components\S\24
+It also has links with the Corby Business Academy . 	24	query201_RS_Components\S\24
+It also has links with the Corby Business Academy . 	24	query201_RS_Components\S\24
+Category :Consumer electronics retailers of the United Kingdom Category :Electronic component distributors Category :Companies based in Northamptonshire de:RS Components Allied Electronics - sister company is the US 	25	query201_RS_Components\S\25
+"Electronic component distributors"	"is"	"Category Companies based in Northamptonshire de RS Components Allied Electronics sister company is the US"	25	query201_RS_Components\P\25-0
+"Companies RS Components Allied Electronics sister company is the US"	"be based"	"in Northamptonshire de"	25	query201_RS_Components\P\25-1
+"RS Components Allied Electronics sister company"	"is"	"the US"	25	query201_RS_Components\P\25-2

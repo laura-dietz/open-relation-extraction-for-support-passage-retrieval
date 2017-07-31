@@ -1,0 +1,660 @@
+The geometric mean , in mathematics , is a type of mean or average , which indicates the central tendency or typical value of a set of numbers . 	0
+"The geometric mean in mathematics"	"is a type"	"of mean"	0
+"The geometric mean in mathematics"	"is a type"	"of average"	0
+"The geometric mean in mathematics"	"is"	"a type"	0
+"a type of mean"	"indicates"	"the central tendency"	0
+"a type of mean"	"indicates"	"the central typical value of a set of numbers"	0
+"a type of average"	"indicates"	"the central tendency"	0
+"a type of average"	"indicates"	"the central typical value of a set of numbers"	0
+A geometric mean is often used when comparing different items - finding a single "figure of merit " for these items - when each item has multiple properties that have different numeric ranges TPC-D - Frequently Asked Questions ( FAQ ) http ://www.tpc.org/tpcd/faq.asp#anchor1140017 	1
+"A geometric mean"	"is used"	"often"	1
+"each item"	"has"	"multiple properties these items when"	1
+"each item"	"has"	"multiple properties these items"	1
+"multiple properties"	"have"	"different numeric ranges TPC-D Frequently Asked Questions http www.tpc.org/tpcd/faq.asp#anchor1140017"	1
+"Questions http"	"is"	"FAQ"	1
+Transaction Processing Performance Council 9 January 2012 TPC-D - Frequently Asked Questions ( FAQ ) http ://www.tpc.org/tpcd/faq.asp#anchor1140017 	2
+"Questions http"	"is"	"FAQ"	2
+Transaction Processing Performance Council 9 January 2012 . 	3
+For example , the geometric mean can give a meaningful "average " to compare two companies which are each rated at 0 to 5 for their environmental sustainability , and are rated at 0 to 100 for their financial viability . 	4
+"the geometric mean"	"can give"	"4 For example a meaningful average to compare two companies which are each rated at 0 to 5 for their environmental sustainability"	4
+"the geometric mean"	"can give"	"4 For example a meaningful average to compare two companies which each rated at 0 to 5 for their environmental sustainability are rated at 0 to 100 for their financial viability"	4
+"each rated at 0 to 5"	"are"	"for their environmental sustainability"	4
+"each rated at 0 to 5"	"are rated"	"at 0 for their environmental sustainability"	4
+"each rated at 0 to 5"	"are rated"	"at 0 to 100"	4
+"each rated at 0 to 5"	"are rated"	"at 0 for their financial viability"	4
+"each rated at 0 to 5"	"are rated"	"at 0"	4
+"each rated at 0 to 5"	"are rated"	"at 0"	4
+"each rated at 0 to 5"	"are rated"	"at 0"	4
+"each rated at 0 to 5"	"are rated"	"at 0"	4
+"each rated at 0 to 5"	"are rated"	"at 0"	4
+If an arithmetic mean was used instead of a geometric mean , the financial viability is given more weight because its numeric range is larger - so a small percentage change in the financial rating ( e .g 	5
+. 	6
+going from 80 to 90 ) makes a much larger difference in the arithmetic mean than a large percentage change in environmental sustainability ( e .g 	7
+. 	8
+going from 2 to 5 ) . 	9
+going from 2 to 5 ) . 	9
+The use of a geometric mean "normalizes " the ranges being averaged , so that no range dominates the weighting , and a given percentage change in any of the properties has the same effect on the geometric mean . 	10
+"The use of a geometric mean"	"normalizes"	"the ranges being averaged so that no range dominates the weighting"	10
+"The use of a geometric mean"	"normalizes"	"the ranges being averaged so that no range the weighting a given percentage change in any of the properties has the same effect on the geometric mean"	10
+"The use of a geometric mean"	"normalizes"	"the ranges being averaged"	10
+"no range"	"dominates"	"the weighting"	10
+"a given percentage change in any of the properties"	"has"	"the same effect on the geometric mean"	10
+So , a 20 % change in environmental sustainability from 4 to 4.8 	11
+"So"	"is"	"a 20 % change in environmental sustainability from 4 to 4.8"	11
+has the same effect on the geometric mean as a 20 % change in financial viability from 60 to 72 . 	12
+has the same effect on the geometric mean as a 20 % change in financial viability from 60 to 72 . 	12
+has the same effect on the geometric mean as a 20 % change in financial viability from 60 to 72 . 	12
+The geometric mean is similar to the arithmetic mean , except that the numbers are multiplied and then the ''n ''th root ( where n is the count of numbers in the set ) of the resulting product is taken . 	13
+"The geometric mean"	"is similar"	"to the arithmetic mean"	13
+"The geometric mean"	"is similar"	"except that the numbers are multiplied"	13
+"The geometric mean"	"is similar"	"except that the numbers are then the n th root of the resulting product is taken"	13
+"The geometric mean"	"is"	"similar"	13
+"th root of the resulting product"	"is"	"where n is the count of numbers in the set"	13
+"th root of the resulting product"	"is"	"where n is the count of numbers in the set"	13
+"th root of the resulting product"	"is"	"where n is the count of numbers in the set"	13
+"th root of the resulting product"	"is"	"where n is the count of numbers in the set"	13
+"th root of the resulting product"	"is"	"where n is the count of numbers in the set"	13
+For instance , the geometric mean of two numbers , say 2 and 8 , is just the square root of their product ; that is } } 4 . 	14
+"For instance"	"the geometric mean of two numbers say"	"2 is just the square root of their product"	14
+"For instance"	"the geometric mean of two numbers say"	"8 is just the square root of their product"	14
+"the geometric mean of two numbers"	"14 For instance say"	"2 is just the square root of their product"	14
+"the geometric mean of two numbers"	"14 For instance say"	"8 is just the square root of their product"	14
+"the geometric mean of two numbers"	"14 For instance say"	"8 is just the square root of their product"	14
+"the geometric mean of two numbers"	"14 For instance say"	"8 is just the square root of their product"	14
+As another example , the geometric mean of the three numbers 4 , 1 , and 1/32 is the cube root of their product ( 1/8 ) , which is 1/2 ; that is } } ½ . 	15
+As another example , the geometric mean of the three numbers 4 , 1 , and 1/32 is the cube root of their product ( 1/8 ) , which is 1/2 ; that is } } ½ . 	15
+As another example , the geometric mean of the three numbers 4 , 1 , and 1/32 is the cube root of their product ( 1/8 ) , which is 1/2 ; that is } } ½ . 	15
+As another example , the geometric mean of the three numbers 4 , 1 , and 1/32 is the cube root of their product ( 1/8 ) , which is 1/2 ; that is } } ½ . 	15
+"their product"	"is"	"1/8"	15
+"their product"	"is"	"1/2"	15
+"their product"	"is"	"1/2"	15
+More generally , if the numbers are x_1 ,ldots ,x_n , the geometric mean G satisfies and hence The latter expression states that the log of the geometric mean is the arithmetic mean of the logs of the numbers . 	16
+"the numbers"	"are"	"x_1 ldots"	16
+"the numbers"	"are"	"x_1 x_n"	16
+"the numbers"	"are"	"x_1 the geometric mean G satisfies"	16
+"the numbers"	"are"	"x_1 hence The latter expression states that the log of the geometric mean is the arithmetic mean of the logs of the numbers"	16
+"the log of the geometric mean"	"is the arithmetic mean"	"of the logs of the numbers"	16
+"the log of the geometric mean"	"is"	"the arithmetic mean"	16
+The geometric mean can also be understood in terms of geometry . 	17
+"The geometric mean"	"can be understood"	"in terms of geometry also"	17
+"The geometric mean"	"can be understood"	"in terms of geometry"	17
+The geometric mean of two numbers , a and b , is the length of one side of a square whose area is equal to the area of a rectangle with sides of lengths a and b . 	18
+"two numbers"	"is"	"a"	18
+"two numbers"	"is"	"b"	18
+"The geometric mean of two numbers"	"is the length"	"of one side of a square"	18
+"The geometric mean of two numbers"	"is"	"the length"	18
+"a square"	"has"	"area"	18
+"a square area"	"is equal a"	"to the area of a rectangle with sides of lengths"	18
+"a square area"	"is equal b"	"to the area of a rectangle with sides of lengths"	18
+"a square area"	"is"	"equal a"	18
+"a square area"	"is"	"equal b"	18
+Similarly , the geometric mean of three numbers , a , b , and c , is the length of one side of a cube whose volume is the same as that of a cuboid with sides whose lengths are equal to the three given numbers . 	19
+"three numbers"	"is"	"a b"	19
+"three numbers"	"is"	"a c"	19
+"the geometric mean of three numbers"	"is the length"	"19 Similarly"	19
+"the geometric mean of three numbers"	"is the length"	"of one side of a cube"	19
+"the geometric mean of three numbers"	"is"	"the length"	19
+"a cube"	"has"	"volume"	19
+"a cube volume"	"is the same"	"as that of a cuboid with sides"	19
+"a cube volume"	"is"	"the same"	19
+"a cube volume"	"is"	"the same"	19
+"sides lengths"	"are equal"	"to the three given numbers"	19
+"sides lengths"	"are"	"equal"	19
+The geometric mean applies only to positive numbers . 	20
+"The geometric mean"	"applies"	"only to positive numbers"	20
+The geometric mean only applies to positive numbers in order to avoid taking the root of a negative product , which would result in imaginary number , and also to satisfy certain properties about means , which is explained later in the article . 	21
+"The geometric mean"	"applies"	"to positive numbers only"	21
+"The geometric mean"	"applies"	"to positive numbers in order to avoid taking the root of a negative product"	21
+"The geometric mean"	"applies"	"to positive numbers"	21
+"The geometric mean"	"to satisfy"	"certain properties about means only"	21
+"The geometric mean"	"to satisfy"	"certain properties about means to positive numbers"	21
+"The geometric mean"	"to satisfy"	"certain properties about means in order to avoid taking the root of a negative product"	21
+"The geometric mean"	"to satisfy"	"certain properties about means also"	21
+"The geometric mean"	"to satisfy"	"certain properties about means"	21
+"a negative product"	"would result"	"in imaginary number"	21
+"a negative product"	"would result"	"in imaginary number"	21
+Note that the definition is unambiguous if one allows 0 ( which yields a geometric mean of 0) , but may be excluded , as one frequently wishes to take the logarithm of geometric means ( to convert between multiplication and addition ) , and one cannot take the logarithm of 0. 	22
+"the definition"	"is unambiguous"	"if one allows 0 which yields a geometric mean of 0"	22
+"the definition"	"is unambiguous"	"if one 0 which yields a geometric mean of 0 may be excluded as one frequently wishes to take the logarithm of geometric means"	22
+"the definition"	"is unambiguous"	"if one 0 which yields a geometric mean of 0 may be excluded as one frequently wishes to take the logarithm of geometric means one can not take the logarithm of 0"	22
+"the definition"	"is"	"unambiguous"	22
+"the definition"	"is"	"unambiguous"	22
+"the definition"	"is"	"unambiguous"	22
+"the definition"	"is"	"unambiguous"	22
+"the definition"	"is"	"unambiguous"	22
+"the definition"	"is"	"unambiguous"	22
+"the definition"	"is"	"unambiguous"	22
+"the definition"	"is"	"unambiguous"	22
+"the definition"	"is"	"unambiguous"	22
+"the definition"	"is"	"unambiguous"	22
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+It is also often used for a set of numbers whose values are meant to be multiplied together or are exponential in nature , such as data on the growth of the human population or interest rates of a financial investment . 	23
+"numbers values"	"are meant"	"to be multiplied together"	23
+The geometric mean is also one of the three classic Pythagorean means , together with the aforementioned arithmetic mean and the harmonic mean . 	24
+"The geometric mean"	"is one"	"also"	24
+"The geometric mean"	"is one"	"of the three classic Pythagorean means"	24
+"The geometric mean"	"is one"	"together with the aforementioned arithmetic mean"	24
+"The geometric mean"	"is one"	"together with the aforementioned arithmetic the harmonic mean"	24
+"The geometric mean"	"is"	"one"	24
+For all positive data sets containing at least one pair of unequal values , the harmonic mean is always the least of the three means , while the arithmetic mean is always the greatest of the three and the geometric mean is always in between ( see Inequality of arithmetic and geometric means . 	25
+"all positive data sets"	"be containing"	"at least one pair of unequal values"	25
+"the harmonic mean"	"is the least"	"25 For all positive data sets containing at least one pair of unequal values always"	25
+"the harmonic mean"	"is the least"	"25 For all positive data sets containing at least one pair of unequal values of the three means"	25
+"the harmonic mean"	"is the least"	"25 For all positive data sets containing at least one pair of unequal values"	25
+"the arithmetic mean"	"is the greatest"	"always"	25
+"the arithmetic mean"	"is the greatest"	"of the three"	25
+"the arithmetic mean"	"is the greatest"	"of the the geometric mean"	25
+"the arithmetic mean"	"is"	"the greatest"	25
+) The geometric mean of a data set {a_1 ,a_2 , ldots ,a_n } is given by : The geometric mean of a data set is less than the data set 's arithmetic mean unless all members of the data set are equal , in which case the geometric and arithmetic means are equal . 	26
+"a data set"	"is"	"a_1 a_n"	26
+"a data set"	"is"	"a_2 a_n"	26
+"a data set"	"is"	"ldots a_n"	26
+"The geometric mean of a data set"	"is given"	"by The geometric mean of a data set is less than the data set 's arithmetic mean unless all members of the data set are equal in which case the geometric means are equal"	26
+"The geometric mean of a data set"	"is given"	"by The geometric mean of a data set is less than the data set 's arithmetic mean unless all members of the data set are equal in which case the arithmetic means are equal"	26
+"The geometric mean of a data set"	"is less"	"than the data set 's arithmetic mean unless all members of the data set are equal in which case the geometric means are equal"	26
+"The geometric mean of a data set"	"is less"	"than the data set 's arithmetic mean unless all members of the data set are equal in which case the arithmetic means are equal"	26
+"The geometric mean of a data set"	"is"	"less"	26
+"The geometric mean of a data set"	"is"	"less"	26
+"all members of the data set"	"are"	"equal in which case the geometric means are equal"	26
+"all members of the data set"	"are"	"equal in which case the arithmetic means are equal"	26
+"the geometric means"	"are case equal"	"in which"	26
+"the arithmetic means"	"are case equal"	"in which"	26
+"the geometric means"	"are"	"case equal"	26
+"the arithmetic means"	"are"	"case equal"	26
+This allows the definition of the arithmetic-geometric mean , a mixture of the two which always lies in between . 	27
+This allows the definition of the arithmetic-geometric mean , a mixture of the two which always lies in between . 	27
+"the definition of the arithmetic-geometric mean"	"is"	"a mixture of the two"	27
+"the definition of the arithmetic-geometric mean"	"is"	"a mixture of the two"	27
+"the definition of the arithmetic-geometric mean"	"is"	"a mixture of the two"	27
+The geometric mean is also the arithmetic-harmonic mean in the sense that if two sequence ( a n ) and ( h n ) are defined : and then a n and h n will converge to the geometric mean of x and y . 	28
+"The geometric mean"	"is the arithmetic-harmonic mean"	"also"	28
+"The geometric mean"	"is the arithmetic-harmonic mean"	"in the sense that if two sequence are defined"	28
+"The geometric mean"	"is the arithmetic-harmonic mean"	"in the sense that if two h n are defined and then a n and h n will converge to the geometric mean of x and y"	28
+"The geometric mean"	"is the arithmetic-harmonic mean"	"in the sense that if two sequence are then a n will converge to the geometric mean of x"	28
+"The geometric mean"	"is the arithmetic-harmonic mean"	"in the sense that if two sequence are then a h n will converge to the geometric mean of x and y"	28
+"The geometric mean"	"is the arithmetic-harmonic mean"	"in the sense that if two sequence are then a n will converge to the geometric mean of y"	28
+"The geometric mean"	"is"	"the arithmetic-harmonic mean"	28
+"two sequence"	"is"	"a n"	28
+"two h n"	"is"	"a n"	28
+"a n"	"will converge"	"to the geometric mean of x"	28
+"a n"	"will converge"	"to the geometric mean of y"	28
+"a h n"	"will converge"	"to the geometric mean of x"	28
+"a h n"	"will converge"	"to the geometric mean of y"	28
+This can be seen easily from the fact that the sequences do converge to a common limit ( which can be shown by Bolzano–Weierstrass theorem ) and the fact that geometric mean is preserved : Replacing the arithmetic and harmonic mean by a pair of generalized mean of opposite , finite exponents yields the same result . 	29
+This can be seen easily from the fact that the sequences do converge to a common limit ( which can be shown by Bolzano–Weierstrass theorem ) and the fact that geometric mean is preserved : Replacing the arithmetic and harmonic mean by a pair of generalized mean of opposite , finite exponents yields the same result . 	29
+This can be seen easily from the fact that the sequences do converge to a common limit ( which can be shown by Bolzano–Weierstrass theorem ) and the fact that geometric mean is preserved : Replacing the arithmetic and harmonic mean by a pair of generalized mean of opposite , finite exponents yields the same result . 	29
+This can be seen easily from the fact that the sequences do converge to a common limit ( which can be shown by Bolzano–Weierstrass theorem ) and the fact that geometric mean is preserved : Replacing the arithmetic and harmonic mean by a pair of generalized mean of opposite , finite exponents yields the same result . 	29
+This can be seen easily from the fact that the sequences do converge to a common limit ( which can be shown by Bolzano–Weierstrass theorem ) and the fact that geometric mean is preserved : Replacing the arithmetic and harmonic mean by a pair of generalized mean of opposite , finite exponents yields the same result . 	29
+This can be seen easily from the fact that the sequences do converge to a common limit ( which can be shown by Bolzano–Weierstrass theorem ) and the fact that geometric mean is preserved : Replacing the arithmetic and harmonic mean by a pair of generalized mean of opposite , finite exponents yields the same result . 	29
+"the sequences"	"do converge"	"to a common limit which can be shown by Bolzano Weierstrass theorem"	29
+"the sequences"	"do the fact"	"that geometric mean is preserved Replacing the arithmetic by a pair of generalized mean of opposite finite exponents yields the same result to a common limit which can be shown by Bolzano Weierstrass theorem"	29
+"the sequences"	"do the fact"	"that geometric mean is preserved Replacing the harmonic mean by a pair of generalized mean of opposite finite exponents yields the same result to a common limit which can be shown by Bolzano Weierstrass theorem"	29
+"the sequences"	"do the fact"	"that geometric mean is preserved Replacing the arithmetic by a pair of generalized mean of opposite finite exponents yields the same result"	29
+"the sequences"	"do the fact"	"that geometric mean is preserved Replacing the harmonic mean by a pair of generalized mean of opposite finite exponents yields the same result"	29
+"the sequences"	"do the fact"	"that geometric mean is preserved Replacing the harmonic mean by a pair of generalized mean of opposite finite exponents yields the same result"	29
+"finite exponents"	"yields"	"the same result opposite"	29
+"finite exponents"	"yields"	"the same result"	29
+By using logarithmic identities to transform the formula , the multiplications can be expressed as a sum and the power as a multiplication . 	30
+"using logarithmic identities"	"be transform"	"the formula"	30
+"the multiplications"	"can be expressed"	"30 By using logarithmic identities to transform the formula as a sum"	30
+"the multiplications"	"can be expressed"	"30 By using logarithmic identities to transform the formula as a the power"	30
+"the multiplications"	"can be expressed"	"30 By using logarithmic identities to transform the formula as a multiplication"	30
+"the multiplications"	"can be expressed"	"30 By using logarithmic identities to transform the formula"	30
+This is sometimes called the log-average . 	31
+This is sometimes called the log-average . 	31
+This is sometimes called the log-average . 	31
+It is simply computing the arithmetic mean of the logarithm-transformed values of a_i ( i .e 	32
+. 	33
+, the arithmetic mean on the log scale ) and then using the exponentiation to return the computation to the original scale , i .e 	34
+. 	35
+, it is the generalised f-mean with f ( x ) = log&nbsp; x . 	36
+, it is the generalised f-mean with f ( x ) = log&nbsp; x . 	36
+, it is the generalised f-mean with f ( x ) = log&nbsp; x . 	36
+, it is the generalised f-mean with f ( x ) = log&nbsp; x . 	36
+For example , the geometric mean of 2 and 8 can be calculated as : where b is any base of a logarithm ( commonly 2 , e or 10 ) . 	37
+For example , the geometric mean of 2 and 8 can be calculated as : where b is any base of a logarithm ( commonly 2 , e or 10 ) . 	37
+For example , the geometric mean of 2 and 8 can be calculated as : where b is any base of a logarithm ( commonly 2 , e or 10 ) . 	37
+For example , the geometric mean of 2 and 8 can be calculated as : where b is any base of a logarithm ( commonly 2 , e or 10 ) . 	37
+For example , the geometric mean of 2 and 8 can be calculated as : where b is any base of a logarithm ( commonly 2 , e or 10 ) . 	37
+For example , the geometric mean of 2 and 8 can be calculated as : where b is any base of a logarithm ( commonly 2 , e or 10 ) . 	37
+For example , the geometric mean of 2 and 8 can be calculated as : where b is any base of a logarithm ( commonly 2 , e or 10 ) . 	37
+If a set of non-identical numbers is subjected to a mean-preserving spread — that is , two or more elements of the set are " spread apart " from each other while leaving the arithmetic mean unchanged — then the geometric mean always decreases . 	38
+"a set of non-identical numbers"	"is subjected"	"to a mean-preserving spread"	38
+"two elements of the set"	"that is are spread"	"apart from each other"	38
+"more elements of the set"	"that is are spread"	"apart from each other"	38
+"two elements of the set"	"that is are spread"	"apart while leaving the arithmetic mean unchanged"	38
+"more elements of the set"	"that is are spread"	"apart while leaving the arithmetic mean unchanged"	38
+"two elements of the set"	"that is are spread"	"apart"	38
+"more elements of the set"	"that is are spread"	"apart"	38
+"more elements of the set"	"that is are spread"	"apart"	38
+"more elements of the set"	"that is are spread"	"apart"	38
+"more elements of the set"	"that is are spread"	"apart"	38
+"more elements of the set"	"that is are spread"	"apart"	38
+"more elements of the set"	"that is are spread"	"apart"	38
+"more elements of the set"	"that is are spread"	"apart"	38
+"the arithmetic"	"mean"	"unchanged"	38
+"If a set of non-identical numbers is subjected to a mean-preserving spread that is two elements of the set are spread apart from each other while leaving the arithmetic mean unchanged then the geometric mean"	"decreases"	"always"	38
+"If a set of non-identical numbers is subjected to a mean-preserving spread that is more elements of the set are spread apart from each other while leaving the arithmetic mean unchanged then the geometric mean"	"decreases"	"always"	38
+Mitchell , Douglas W. 	39
+"Mitchell"	"is"	"Douglas W."	39
+, " More on spreads and non-arithmetic means , " The Mathematical Gazette 88 , March 2004 , 142-144 . 	40
+"142-144"	"is"	"March 2004"	88
+In cases where the geometric mean is being used to determine the average growth rate of some quantity , and the initial and final values a_0 and a_n of that quantity are known , the product of the measured growth rate at every step need not be taken . 	41
+"the geometric mean"	"is being used"	"to determine the average growth rate of some quantity cases where"	41
+"the geometric mean"	"is being used"	"to determine the average growth rate of some quantity cases"	41
+"In cases of that quantity"	"are known"	"the product of the measured growth rate at every step need not be taken"	41
+"In cases the initial values a_0 of that quantity"	"are known"	"the product of the measured growth rate at every step need not be taken"	41
+"In cases the final values a_0 of that quantity"	"are known"	"the product of the measured growth rate at every step need not be taken"	41
+"In cases a_n of that quantity"	"are known"	"the product of the measured growth rate at every step need not be taken"	41
+Instead , the geometric mean is simply where n is the number of steps from the initial to final state . 	42
+"the geometric mean"	"is is the number"	"42 Instead"	42
+"the geometric mean"	"is is the number"	"simply"	42
+"the geometric mean"	"is is the number"	"where"	42
+"the geometric mean"	"is is the number"	"of steps from the initial to final state"	42
+"the geometric mean"	"is is"	"the number"	42
+"the geometric mean"	"is is"	"the number"	42
+"the geometric mean"	"is is"	"the number"	42
+"the geometric mean"	"is is"	"the number"	42
+"the geometric mean"	"is is"	"the number"	42
+"the geometric mean"	"is is"	"the number"	42
+If the values are a_0 , ldots , a_n , then the growth rate between measurement a_k and a_{k+1 } is a_{k+1}/a_k . 	43
+"the values"	"are"	"a_0"	43
+"the values"	"are"	"a_0"	43
+"the values"	"are"	"a_0"	43
+"a _"	"is"	"k +1"	43
+"a _"	"is"	"k +1"	43
+"a _"	"is"	"k +1"	43
+"If the values are a_0 ldots is a _ a_k"	"is"	"k +1"	43
+The geometric mean of these growth rates is just The fundamental property of the geometric mean , which can be proven to be false for any other mean , is GMleft( frac{ X_i}{ Y_i}right ) = frac{GM(X_i) }{GM( Y_i) } This makes the geometric mean the only correct mean when averaging normalized results , that is results that are presented as ratios to reference values . 	44
+"The geometric mean of these growth rates"	"is The fundamental property is GMleft frac right = frac GM GM"	"just"	44
+"The geometric mean of these growth rates"	"is The fundamental property is GMleft frac right = frac GM GM"	"of the geometric mean"	44
+"The geometric mean of these growth rates"	"is"	"The fundamental property is GMleft frac right = frac GM GM"	44
+"the geometric mean"	"can be proven"	"to be false for any other mean"	44
+"the geometric mean"	"can be proven"	"to be false"	44
+"frac right"	"is"	"X_i"	44
+"frac right"	"is"	"Y_i"	44
+"frac GM GM"	"is"	"X_i"	44
+"frac GM GM"	"is"	"X_i"	44
+"frac GM GM"	"is"	"X_i"	44
+"frac GM GM"	"is"	"X_i"	44
+"frac GM GM"	"is"	"X_i"	44
+Philip J. 	45
+Fleming and John J. 	46
+Wallace . 	47
+How not to lie with statistics : the correct way to summarize benchmark results . 	48
+"the correct way to summarize benchmark results"	"be lie"	"with statistics"	48
+"the correct way"	"be summarize"	"benchmark results"	48
+Communications of the ACM , 29( 3 ) :218–221 , March 1986 . 	49
+"the ACM"	"is"	"29 3 :218 221"	49
+":218 221"	"is"	"March 1986"	3
+This is the case when presenting computer performance with respect to a reference computer , or when computing a single average index from several heterogeneous sources ( for example life expectancy , education years and infant mortality ) . 	50
+"This"	"is the case"	"when presenting computer performance with respect to a reference computer"	50
+"This"	"is the case"	"when computer performance with respect to a reference computer when computing a single average index from several heterogeneous sources for example life expectancy education years"	50
+"This"	"is the case"	"when computer performance with respect to a reference computer when computing a single average index from several heterogeneous sources for example life expectancy education infant mortality"	50
+"This"	"is"	"the case"	50
+In this scenario , using the arithmetic or harmonic mean would change the ranking of the results depending on what is used as a reference . 	51
+"In this scenario"	"be using"	"the arithmetic"	51
+"In this scenario"	"be using"	"the harmonic mean"	51
+"In this scenario using the arithmetic"	"would change"	"the ranking of the results depending on what is used as a reference"	51
+"In this scenario using the harmonic mean"	"would change"	"the ranking of the results depending on what is used as a reference"	51
+"In this scenario using the arithmetic"	"would change"	"the ranking of the results"	51
+"In this scenario using the harmonic mean"	"would change"	"the ranking of the results"	51
+"In this scenario using the harmonic mean"	"would change"	"the ranking of the results"	51
+For example , take the following results : The arithmetic and geometric means "agree " that computer C is the fastest . 	52
+"The arithmetic"	"agree"	"that computer C is the fastest"	52
+"The geometric means"	"agree"	"that computer C is the fastest"	52
+"computer C"	"is"	"the fastest"	52
+However , by presenting appropriately normalized values and using the arithmetic mean , we can show either of the other two computers to be the fastest . 	53
+"However by presenting appropriately"	"normalized"	"values"	53
+"However by presenting appropriately"	"using"	"values the arithmetic mean"	53
+"However by presenting appropriately"	"using"	"values the arithmetic mean"	53
+"However by presenting appropriately"	"using"	"values the arithmetic mean"	53
+"either of the other two computers"	"be fastest"	"the fastest"	53
+Normalizing by A 's result gives A as the fastest computer according to the arithmetic mean : while normalizing by B 's result gives B as the fastest computer according to the arithmetic mean : In all cases , the ranking given by the geometric mean stays the same as the one obtained with unnormalized values . 	54
+Normalizing by A 's result gives A as the fastest computer according to the arithmetic mean : while normalizing by B 's result gives B as the fastest computer according to the arithmetic mean : In all cases , the ranking given by the geometric mean stays the same as the one obtained with unnormalized values . 	54
+"Normalizing by A 's result"	"gives"	"A as the fastest computer according to the arithmetic mean"	54
+"Normalizing by A 's result"	"gives"	"A"	54
+"Normalizing by A 's result"	"gives"	"A"	54
+"the ranking"	"be given"	"by the geometric mean"	54
+"the ranking given by the geometric mean"	"stays"	"the same as the one obtained with unnormalized values In all cases"	54
+"the ranking given by the geometric mean"	"stays"	"the same as the one obtained with unnormalized values"	54
+"the one"	"be obtained"	"with unnormalized values"	54
+Compound annual growth rate The geometric mean is more appropriate than the arithmetic mean for describing proportional growth , both exponential growth ( constant proportional growth ) and varying growth ; in business the geometric mean of growth rates is known as the compound annual growth rate ( CAGR ) . 	55
+"Compound annual growth rate"	"is"	"exponential growth"	55
+"Compound annual growth rate"	"is"	"exponential varying growth"	55
+"The geometric mean"	"is"	"appropriate more than the arithmetic mean for describing proportional growth 55 Compound annual growth rate"	55
+"The geometric mean"	"is"	"appropriate than the arithmetic mean for describing proportional growth 55 Compound annual growth rate"	55
+"the arithmetic"	"mean"	"for describing proportional growth"	55
+"exponential growth"	"is"	"constant proportional growth"	55
+"exponential varying growth"	"is"	"constant proportional growth"	55
+"the geometric mean of growth rates"	"is known"	"as the compound annual growth rate in business"	55
+"the geometric mean of growth rates"	"is known"	"as the compound annual growth rate"	55
+"the compound annual growth rate"	"is"	"CAGR"	55
+The geometric mean of growth over periods yields the equivalent constant growth rate that would yield the same final amount . 	56
+"The geometric mean of growth over periods"	"yields"	"the equivalent constant growth rate"	56
+"the equivalent constant growth rate"	"would yield"	"the same final amount"	56
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+Suppose an orange tree yields 100 oranges one year and then 180 , 210 and 300 the following years , so the growth is 80 % , 16.6666 	57
+"the growth"	"is"	"80 %"	57
+"the growth"	"is"	"80 16.6666"	57
+% and 42.8571 	58
+% for each year respectively . 	59
+Using the arithmetic mean calculates a ( linear ) average growth of 46.5079 	60
+% ( 80 % + 16.6666 	61
+% + 42.8579 	62
+% divided by 3 ) . 	63
+"%"	"be divided"	"by 3"	63
+However , if we start with 100 oranges and let it grow 46.5079 	64
+However , if we start with 100 oranges and let it grow 46.5079 	64
+However , if we start with 100 oranges and let it grow 46.5079 	64
+However , if we start with 100 oranges and let it grow 46.5079 	64
+However , if we start with 100 oranges and let it grow 46.5079 	64
+% each year , the result is 314 oranges , not 300 , so the linear average over -states the year-on-year growth . 	65
+"the result"	"is"	"314 oranges not 300"	65
+Instead , we can use the geometric mean . 	66
+Instead , we can use the geometric mean . 	66
+Instead , we can use the geometric mean . 	66
+Growing with 80 % corresponds to multiplying with 1.80 	67
+Growing with 80 % corresponds to multiplying with 1.80 	67
+"Growing with 80 %"	"corresponds"	"to multiplying with 1.80"	67
+, so we take the geometric mean of 1.80 	68
+, so we take the geometric mean of 1.80 	68
+, 1.166666 	69
+and 1.428571 	70
+, i .e 	71
+. 	72
+sqrt[3]{1.80 	73
+"sqrt 1.80"	"is"	"3"	73
+times 1.166666 	74
+times 1.428571} 	75
+= 1.442249 	76
+; thus the "average " growth per year is 44.2249 	77
+"thus the average growth per year"	"is"	"44.2249"	77
+% . 	78
+If we start with 100 oranges and let the number grow with 44.2249 	79
+If we start with 100 oranges and let the number grow with 44.2249 	79
+If we start with 100 oranges and let the number grow with 44.2249 	79
+If we start with 100 oranges and let the number grow with 44.2249 	79
+"the number"	"grow"	"with 44.2249"	79
+% each year , the result is 300 oranges . 	80
+"the result"	"is"	"80 % each year 300 oranges"	80
+Although the geometric mean has been relatively rare in computing social statistics , starting from 2010 the United Nations Human Development Index did switch to this mode of calculation , on the grounds that it better reflected the non-substitutable nature of the statistics being compiled and compared : Note that not all values used to compute the HDI are normalized ; some of them instead have the form ( X - X_{min} ) / ( X_{norm } - X_{min} ) . 	81
+"the geometric mean"	"has been rare"	"relatively"	81
+"the geometric mean"	"has been rare"	"in computing social statistics"	81
+"the geometric mean"	"has been"	"rare"	81
+"starting from 2010 the United Nations Human Development Index"	"did switch"	"81 X _ norm X _ Although the geometric mean has been relatively rare in computing social statistics"	81
+"starting from 2010 the United Nations Human Development Index"	"did switch"	"to this mode of calculation 81 X _ norm X _"	81
+"starting from 2010 the United Nations Human Development Index"	"did switch"	"on the grounds that it better reflected the non-substitutable nature of the statistics being compiled 81 X _ norm X _"	81
+"starting from 2010 the United Nations Human Development Index"	"did switch"	"on the grounds that it better the non-substitutable nature of the statistics being compiled compared 81 X _ norm X _"	81
+"starting from 2010 the United Nations Human Development Index"	"did switch"	"81 X _ norm X _"	81
+"starting from 2010 the United Nations Human Development Index"	"did switch"	"81 X _ norm X _"	81
+"starting from 2010 the United Nations Human Development Index"	"did switch"	"81 X _ norm X _"	81
+"starting from 2010 the United Nations Human Development Index"	"did switch"	"81 X _ norm X _"	81
+"starting from 2010 the United Nations Human Development Index"	"did switch"	"81 X _ norm X _"	81
+"not all values"	"be used"	"to compute the HDI"	81
+"some of them"	"have"	"the form X X _ min instead"	81
+"some of them"	"have"	"the form X X _ min"	81
+"norm X _"	"is"	"min"	81
+This makes the choice of the geometric mean less obvious than one would expect from the " Properties " section above . 	82
+This makes the choice of the geometric mean less obvious than one would expect from the " Properties " section above . 	82
+This makes the choice of the geometric mean less obvious than one would expect from the " Properties " section above . 	82
+thumbright300pxEqual area comparison of the aspect ratios used by Kerns Powers to derive theSMPTE16 :9standard.TV 	83
+"the aspect ratios"	"be used"	"by Kerns Powers to derive theSMPTE16 :9 standard.TV"	83
+4:3/1.33 	84
+in red_1.66 	85
+in orange_716 :9/1.77in 	86
+blue_1.85 	87
+in yellow_Panavision/2.2 	88
+in mauveandCinemaScope/2.35 	89
+in purple . 	90
+The geometric mean has been used in choosing a compromise aspect ratio in film and video : given two aspect ratios , the geometric mean of them provides a compromise between them , distorting or cropping both in some sense equally . 	91
+"The geometric mean"	"has been used"	"in choosing a compromise aspect ratio in film"	91
+"The geometric mean"	"has been used"	"in choosing a compromise aspect ratio in video"	91
+"The geometric mean"	"has been used"	"in choosing a compromise aspect ratio in film"	91
+"The geometric mean"	"has been used"	"in choosing a compromise aspect ratio in video"	91
+"two aspect ratios cropping"	"be distorting"	"in some sense equally"	91
+"two aspect ratios cropping"	"be distorting"	"in some sense"	91
+"two aspect ratios cropping"	"be distorting"	"in some sense equally"	91
+"two aspect ratios cropping"	"be distorting"	"in some sense"	91
+"the geometric mean of them"	"provides"	"a compromise between them two aspect ratios distorting in some sense equally"	91
+"the geometric mean of them"	"provides"	"a compromise between them two aspect ratios cropping in some sense equally"	91
+Concretely , two equal area rectangles ( with the same center and parallel sides ) of different aspect ratios intersect in a rectangle whose aspect ratio is the geometric mean , and their hull ( smallest rectangle which contains both of them ) likewise has aspect ratio their geometric mean . 	92
+"two equal area rectangles with the same center of different aspect ratios"	"intersect"	"in a rectangle 92 Concretely"	92
+"two equal area rectangles with the same center of different aspect ratios"	"intersect"	"in a rectangle Concretely their hull smallest rectangle"	92
+"two equal area rectangles with the same parallel sides of different aspect ratios"	"intersect"	"in a rectangle 92 Concretely"	92
+"two equal area rectangles with the same parallel sides of different aspect ratios"	"intersect"	"in a rectangle Concretely their hull smallest rectangle"	92
+"two equal area rectangles with the same center of different aspect ratios"	"intersect"	"92 Concretely"	92
+"two equal area rectangles with the same center of different aspect ratios"	"intersect"	"Concretely their hull smallest rectangle"	92
+"two equal area rectangles with the same parallel sides of different aspect ratios"	"intersect"	"92 Concretely"	92
+"two equal area rectangles with the same parallel sides of different aspect ratios"	"intersect"	"Concretely their hull smallest rectangle"	92
+"a rectangle"	"has"	"aspect ratio"	92
+"a rectangle aspect ratio"	"is"	"the geometric mean"	92
+"a rectangle aspect ratio"	"is"	"the geometric mean"	92
+"smallest rectangle"	"contains"	"both of them"	92
+"Concretely"	"has"	"aspect ratio their geometric mean likewise"	92
+"Concretely their hull smallest rectangle"	"has"	"aspect ratio their geometric mean likewise"	92
+"Concretely"	"has"	"aspect ratio their geometric mean"	92
+"Concretely their hull smallest rectangle"	"has"	"aspect ratio their geometric mean"	92
+"Concretely their hull smallest rectangle"	"has"	"aspect ratio their geometric mean"	92
+In the choice of 16 :9 aspect ratio by the SMPTE , balancing 2.35 	93
+"In the choice of 16 :9 aspect ratio by the SMPTE"	"be balancing"	"2.35"	93
+and 4:3 , the geometric mean is sqrt{2.35 	94
+"the geometric mean"	"is"	"sqrt 2.35 94"	94
+"the geometric mean"	"is"	"sqrt 2.35 4:3"	94
+times frac{4}{ 3} }=1.7overline{7 	95
+} , and thus 16 :9 = 1.77 	96
+":9"	"="	"1.77"	16
+7 ... 	97
+was chosen . 	98
+This was discovered empirically by Kerns Powers , who cut out rectangles with equal areas and shaped them to match each of the popular aspect ratios . 	99
+This was discovered empirically by Kerns Powers , who cut out rectangles with equal areas and shaped them to match each of the popular aspect ratios . 	99
+This was discovered empirically by Kerns Powers , who cut out rectangles with equal areas and shaped them to match each of the popular aspect ratios . 	99
+This was discovered empirically by Kerns Powers , who cut out rectangles with equal areas and shaped them to match each of the popular aspect ratios . 	99
+"Kerns Powers"	"cut out"	"rectangles with equal areas"	99
+"Kerns Powers"	"cut out"	"rectangles"	99
+"Kerns Powers"	"out shaped"	"rectangles them with equal areas"	99
+"Kerns Powers"	"out shaped"	"rectangles them to match each of the popular aspect ratios"	99
+"Kerns Powers"	"out shaped"	"rectangles them"	99
+"shaped them"	"be match"	"each of the popular aspect ratios"	99
+When overlapped with their center points aligned , he found that all of those aspect ratio rectangles fit within an outer rectangle with an aspect ratio of 1.7 	100
+When overlapped with their center points aligned , he found that all of those aspect ratio rectangles fit within an outer rectangle with an aspect ratio of 1.7 	100
+When overlapped with their center points aligned , he found that all of those aspect ratio rectangles fit within an outer rectangle with an aspect ratio of 1.7 	100
+When overlapped with their center points aligned , he found that all of those aspect ratio rectangles fit within an outer rectangle with an aspect ratio of 1.7 	100
+"all of those aspect ratio rectangles"	"fit"	"within an outer rectangle with an aspect ratio of 1.7"	100
+"all of those aspect ratio rectangles"	"fit"	"within an outer rectangle"	100
+7 :1 and all of them also covered a smaller common inner rectangle with the same aspect ratio 1.7 	101
+"7 :1"	"covered"	"a smaller common inner rectangle with the same aspect ratio 1.7 also"	101
+"7 all of them"	"covered"	"a smaller common inner rectangle with the same aspect ratio 1.7 also"	101
+"7 :1"	"covered"	"a smaller common inner rectangle with the same aspect ratio 1.7"	101
+"7 all of them"	"covered"	"a smaller common inner rectangle with the same aspect ratio 1.7"	101
+7 :1. 	102
+http ://www.cinemasource 	103
+.com/articles/aspect_ratios.pdf#page=8 	104
+"com/articles/aspect _ ratios.pdf #page"	"="	"8"	104
+TECHNICAL BULLETIN : Understanding Aspect Ratios The CinemaSource Press 2001 2009-10-24 http ://www.cinemasource 	105
+.com/articles/aspect_ratios.pdf#page=8 	106
+"com/articles/aspect _ ratios.pdf #page"	"="	"8"	106
+TECHNICAL BULLETIN : Understanding Aspect Ratios The CinemaSource Press 2001 2009-10-24 The value found by Powers is exactly the geometric mean of the extreme aspect ratios , 4:3 ( 1.33 	107
+"Understanding Aspect Ratios The CinemaSource Press 2001 2009-10-24 The value"	"be found"	"by Powers"	107
+"Understanding Aspect Ratios The CinemaSource Press 2001 2009-10-24 The value found by Powers"	"is the geometric mean 4:3 1.33"	"exactly"	107
+"Understanding Aspect Ratios The CinemaSource Press 2001 2009-10-24 The value found by Powers"	"is the geometric mean 4:3 1.33"	"of the extreme aspect ratios"	107
+"Understanding Aspect Ratios The CinemaSource Press 2001 2009-10-24 The value found by Powers"	"is"	"the geometric mean 4:3 1.33"	107
+:1 ) and CinemaScope ( 2.35 	108
+:1 ) , which is coincidentally close to 16 :9 ( 1.78:1 	109
+":1 1.78:1"	"is close"	"coincidentally"	109
+":1 1.78:1"	"is close"	"to 16 :9"	109
+":1 1.78:1"	"is"	"close"	109
+) . 	110
+Note that the intermediate ratios have no effect on the result , only the two extreme ratios . 	111
+"the intermediate ratios"	"have"	"no effect on the result only the two extreme ratios"	111
+"the intermediate ratios"	"have"	"no effect only the two extreme ratios"	111
+Applying the same geometric mean technique to 16 :9 and 4:3 approximately yields the 14:9 ( 1.55 	112
+"Applying the same geometric mean technique to 16 :9"	"yields"	"the 14:9 1.55 112 approximately"	112
+"Applying the same geometric mean technique to 16 4:3"	"yields"	"the 14:9 1.55 112 approximately"	112
+"Applying the same geometric mean technique to 16 :9"	"yields"	"the 14:9 1.55 112"	112
+"Applying the same geometric mean technique to 16 4:3"	"yields"	"the 14:9 1.55 112"	112
+5 ... 	113
+) aspect ratio , which is likewise used as a compromise between these ratios . 	114
+"aspect ratio"	"is used"	"as a compromise between these ratios likewise"	114
+"aspect ratio"	"is used"	"as a compromise between these ratios"	114
+Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 , 1999 Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 , 1999 In this case 14:9 is exactly the arithmetic mean of 16 :9 and 4:3 = 12:9 , since 14 is the average of 16 and 12 , while the precise geometric mean is sqrt{frac{16}{9}timesfrac{4}{ 3} } approx 1.5396 	115
+"Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 1999 Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 1999 In this case 14:9"	"is the arithmetic"	"exactly"	115
+"Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 1999 Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 1999 In this case 14:9"	"is the arithmetic"	"while the precise geometric mean is sqrt frac 16 9 timesfrac 4 3 approx 1.5396"	115
+"Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 1999 Method of showing 16 :9 pictures on 4:3 displays US 5956091 September 21 1999 In this case 14:9"	"is"	"the arithmetic"	115
+"mean of 16 :9 since 14"	"is"	"the average of 16 the arithmetic while the precise geometric mean is sqrt frac 16 9 timesfrac 4 3 approx 1.5396"	115
+"mean of 16 :9 since 14"	"is"	"the average of 12 the arithmetic while the precise geometric mean is sqrt frac 16 9 timesfrac 4 3 approx 1.5396"	115
+"mean of 16 4:3 = 12:9 since 14"	"is"	"the average of 16 the arithmetic while the precise geometric mean is sqrt frac 16 9 timesfrac 4 3 approx 1.5396"	115
+"mean of 16 4:3 = 12:9 since 14"	"is"	"the average of 12 the arithmetic while the precise geometric mean is sqrt frac 16 9 timesfrac 4 3 approx 1.5396"	115
+"mean of 16 :9 since 14"	"is"	"the average the arithmetic while the precise geometric mean is sqrt frac 16 9 timesfrac 4 3 approx 1.5396"	115
+"mean of 16 4:3 = 12:9 since 14"	"is"	"the average the arithmetic while the precise geometric mean is sqrt frac 16 9 timesfrac 4 3 approx 1.5396"	115
+"the precise geometric mean"	"is sqrt frac 16 9 1.5396"	"timesfrac 4 3"	115
+"the precise geometric mean"	"is sqrt frac 16 9 1.5396"	"approx"	115
+"the precise geometric mean"	"is"	"sqrt frac 16 9 1.5396"	115
+approx 13.8:9 	116
+, but the two different means , arithmetic and geometric , are approximately equal because both numbers are sufficiently close to 1 . 	117
+"the two different means"	"is"	"arithmetic"	117
+"the two different means"	"is"	"geometric"	117
+"the two different means"	"are equal"	"approximately"	117
+"the two different means"	"are equal"	"because both numbers are sufficiently close to 1"	117
+"the two different means"	"are"	"equal"	117
+"both numbers"	"are close"	"sufficiently"	117
+"both numbers"	"are close"	"to 1"	117
+"both numbers"	"are"	"close"	117
+In signal processing , spectral flatness , a measure of how flat or spiky a spectrum is , is defined as the ratio of the geometric mean of the power spectrum to its arithmetic mean . 	118
+"In signal processing"	"is"	"spectral flatness"	118
+"In signal processing"	"is"	"a measure of how flat a spectrum is"	118
+"In signal processing"	"is"	"a measure of how spiky a spectrum is"	118
+"In signal processing"	"is defined"	"as the ratio of the geometric mean of the power spectrum to its arithmetic mean"	118
+"In signal processing"	"is defined"	"as the ratio of the geometric mean of the power spectrum to its arithmetic mean"	118
+The length of the altitude of a right triangle from the hypotenuse to the right angle , where the altitude is perpendicular to the hypotenuse , is the geometric mean of the two segments into which the hypotenuse is divided . 	119
+"the altitude"	"is"	"perpendicular the right angle where"	119
+"the altitude"	"is"	"perpendicular to the hypotenuse the right angle"	119
+"the altitude"	"is"	"perpendicular the right angle"	119
+"The length of the altitude of a right triangle from the hypotenuse to the right angle"	"is the geometric mean"	"of the two segments"	119
+"The length of the altitude of a right triangle from the hypotenuse to the right angle"	"is"	"the geometric mean"	119
+"the hypotenuse"	"is divided"	"the two segments into which"	119
+"the hypotenuse"	"is divided"	"the two segments"	119
+In an ellipse , the semi-minor axis is the geometric mean of the maximum and minimum distances of the ellipse from a focus ; and the semi-major axis of the ellipse is the geometric mean of the distance from the center to either focus and the distance from the center to either directrix . 	120
+"the semi-minor axis"	"is 120 In an ellipse the geometric mean"	"of the maximum distances of the ellipse"	120
+"the semi-minor axis"	"is 120 In an ellipse the geometric mean"	"of the minimum distances of the ellipse"	120
+"the semi-minor axis"	"is 120 In an ellipse the geometric mean"	"from a focus"	120
+"the semi-minor axis"	"is"	"120 In an ellipse the geometric mean"	120
+"the semi-major axis of the ellipse"	"is the geometric mean"	"of the distance from the center"	120
+"the semi-major axis of the ellipse"	"is the geometric mean"	"to focus"	120
+"the semi-major axis of the ellipse"	"is the geometric mean"	"to the distance from the center"	120
+"the semi-major axis of the ellipse"	"is the geometric mean"	"to directrix"	120
+"the semi-major axis of the ellipse"	"is"	"the geometric mean"	120
+Statistics Arithmetic mean Arithmetic-geometric mean Average Generalized mean Geometric standard deviation Harmonic mean Heronian mean Hyperbolic coordinates Log-normal distribution Muirhead 's inequality Product Pythagorean means Quadratic mean Rate of return Weighted geometric mean article May 2010 descriptive Category :Means ar :متوسط هندسي be-x-old :Сярэдняе геамэтрычнае bg :Средно геометрично bs :Geometrijska sredina ca :Mitjana geomètrica cs :Geometrický průměr da:Geometrisk gennemsnit de:Geometrisches Mittel es :Media geométrica eo:Geometria meznombro eu:Batezbesteko geometriko fa :میانگین هندسی fr :Moyenne géométrique gl:Media xeométrica ko :기하 평균 hi :ज्यामितीय माध्य hr:Geometrijska sredina lt :Geometrinis vidurkis hu:Mértani közép nl :Meetkundig gemiddelde ja :幾何平均 no:Geometrisk gjennomsnitt nn:Geometrisk middel pms :Media geométrica pl :Średnia geometryczna pt:Média geométrica ro:Medie geometrică ru:Среднее геометрическое sk :Geometrický priemer sl:Geometrična sredina sr:Geometrijska sredina sh:Geometrijska sredina fi:Geometrinen keskiarvo sv:Geometriskt medelvärde ta :பெருக்கல ் சராசர ி tr:Geometrik ortalama ur :ہندسی اوسط vi:Trung bình nhân zh :几何平均数 G = sqrt[n ]{ x_1 x_2 cdots x_n} , ln G = frac{1}{n }{sum_{i=1}^n ln x_i} . 	121
+"Statistics Arithmetic"	"mean"	"Arithmetic-geometric mean Average Generalized mean Geometric standard deviation Harmonic mean Heronian mean"	121
+"Arithmetic-geometric mean Average Generalized"	"mean"	"Geometric standard deviation Harmonic mean Heronian mean"	121
+"Geometric standard deviation Harmonic"	"mean"	"Heronian mean"	121
+"Geometric standard deviation Harmonic"	"mean"	"Heronian mean"	121
+"Log-normal distribution Muirhead"	"has"	"inequality Product Pythagorean"	121
+"Log-normal distribution Muirhead 's inequality Product Pythagorean"	"means"	"Quadratic mean Rate of return Weighted geometric mean article May 2010 descriptive Category Means ar متوسط هندسي be-x-old Сярэдняе геамэтрычнае bg Средно геометрично bs Geometrijska sredina ca Mitjana geomètrica cs Geometrický průměr da Geometrisk gennemsnit de Geometrisches Mittel es Media geométrica eo Geometria meznombro eu Batezbesteko geometriko fa میانگین هندسی fr Moyenne géométrique gl Media xeométrica ko 기하 평균 hi ज्यामितीय माध्य hr Geometrijska sredina lt Geometrinis vidurkis hu Mértani közép nl Meetkundig gemiddelde ja 幾何平均 no Geometrisk gjennomsnitt nn Geometrisk middel pms Media geométrica pl Średnia geometryczna pt Média geométrica ro Medie geometrică ru Среднее геометрическое sk Geometrický priemer sl Geometrična sredina sr Geometrijska sredina sh Geometrijska sredina fi Geometrinen keskiarvo sv Geometriskt medelvärde ta பெருக்கல ் சராசர ி tr Geometrik ortalama ur ہندسی اوسط vi Trung bình nhân zh 几何平均数 G = sqrt x_1 x_2 cdots x_n ln G = frac sum _ i = 1 ^ n ln x_i"	121
+"Log-normal distribution Muirhead 's inequality Product Pythagorean"	"means"	"Quadratic mean Rate of return Weighted geometric mean article May 2010 descriptive Category Means ar متوسط هندسي be-x-old Сярэдняе геамэтрычнае bg Средно геометрично bs Geometrijska sredina ca Mitjana geomètrica cs Geometrický průměr da Geometrisk gennemsnit de Geometrisches Mittel es Media geométrica eo Geometria meznombro eu Batezbesteko geometriko fa میانگین هندسی fr Moyenne géométrique gl Media xeométrica ko 기하 평균 hi ज्यामितीय माध्य hr Geometrijska sredina lt Geometrinis vidurkis hu Mértani közép nl Meetkundig gemiddelde ja 幾何平均 no Geometrisk gjennomsnitt nn Geometrisk middel pms Media geométrica pl Średnia geometryczna pt Média geométrica ro Medie geometrică ru Среднее геометрическое sk Geometrický priemer sl Geometrična sredina sr Geometrijska sredina sh Geometrijska sredina fi Geometrinen keskiarvo sv Geometriskt medelvärde ta பெருக்கல ் சராசர ி tr Geometrik ortalama ur ہندسی اوسط vi Trung bình nhân zh 几何平均数 G = sqrt x_1 x_2 cdots x_n ln G = frac sum _ i = 1 ^ n ln x_i"	121
+"Log-normal distribution Muirhead 's inequality Product Pythagorean"	"means"	"Quadratic mean Rate of return Weighted geometric mean article May 2010 descriptive Category Means ar متوسط هندسي be-x-old Сярэдняе геамэтрычнае bg Средно геометрично bs Geometrijska sredina ca Mitjana geomètrica cs Geometrický průměr da Geometrisk gennemsnit de Geometrisches Mittel es Media geométrica eo Geometria meznombro eu Batezbesteko geometriko fa میانگین هندسی fr Moyenne géométrique gl Media xeométrica ko 기하 평균 hi ज्यामितीय माध्य hr Geometrijska sredina lt Geometrinis vidurkis hu Mértani közép nl Meetkundig gemiddelde ja 幾何平均 no Geometrisk gjennomsnitt nn Geometrisk middel pms Media geométrica pl Średnia geometryczna pt Média geométrica ro Medie geometrică ru Среднее геометрическое sk Geometrický priemer sl Geometrična sredina sr Geometrijska sredina sh Geometrijska sredina fi Geometrinen keskiarvo sv Geometriskt medelvärde ta பெருக்கல ் சராசர ி tr Geometrik ortalama ur ہندسی اوسط vi Trung bình nhân zh 几何平均数 G = sqrt x_1 x_2 cdots x_n ln G = frac sum _ i = 1 ^ n ln x_i"	121
+"Log-normal distribution Muirhead 's inequality Product Pythagorean"	"means"	"Quadratic mean Rate of return Weighted geometric mean article May 2010 descriptive Category Means ar متوسط هندسي be-x-old Сярэдняе геамэтрычнае bg Средно геометрично bs Geometrijska sredina ca Mitjana geomètrica cs Geometrický průměr da Geometrisk gennemsnit de Geometrisches Mittel es Media geométrica eo Geometria meznombro eu Batezbesteko geometriko fa میانگین هندسی fr Moyenne géométrique gl Media xeométrica ko 기하 평균 hi ज्यामितीय माध्य hr Geometrijska sredina lt Geometrinis vidurkis hu Mértani közép nl Meetkundig gemiddelde ja 幾何平均 no Geometrisk gjennomsnitt nn Geometrisk middel pms Media geométrica pl Średnia geometryczna pt Média geométrica ro Medie geometrică ru Среднее геометрическое sk Geometrický priemer sl Geometrična sredina sr Geometrijska sredina sh Geometrijska sredina fi Geometrinen keskiarvo sv Geometriskt medelvärde ta பெருக்கல ் சராசர ி tr Geometrik ortalama ur ہندسی اوسط vi Trung bình nhân zh 几何平均数 G = sqrt x_1 x_2 cdots x_n ln G = frac sum _ i = 1 ^ n ln x_i"	121
+bigg( prod_{i=1}^n a_i bigg ) ^{ 1/n } = sqrt[n ]{a_1 a_2 cdots a_n} . 	122
+bigg( prod_{i=1}^n a_i bigg ) ^{ 1/n } = sqrt[n ]{a_1 a_2 cdots a_n} . 	122
+"a_1 a_2"	"cdots"	"a_n"	122
+a_{n+1 } = frac{a_n + h_n }{ 2} , quad a_0=x h_{n+1 } = frac{2}{frac{1}{a_n } + frac{1}{h_n }} , quad h_0=y sqrt{a_ih_i}=sqrt{frac{a_i+h_i}{frac{a_i+h_i}{h_ia_i} } }=sqrt{frac{a_i+h_i}{frac{1}{a_i}+frac{1}{h_i} } }=sqrt{a_{i+1}h _{i+1} } bigg( prod_{i=1}^na_i bigg ) ^{ 1/n } = expleft[frac1nsum_{i=1}^nln a_iright ] b^{( log_b ( 2 )+log_b ( 8 ) )/2 } = 4 , left( frac{a_n }{a_0}right ) ^{frac1n} , left ( frac{a_1}{a_0 } frac{a_2 }{a_1 } cdots frac{a_n }{a_{n-1} } right ) ^{frac1n } = left( frac{a_n }{a_0}right ) ^{frac1n } The geometric mean reduces the level of substitutability between dimensions [being compared ] and at the same time ensures that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in education or income . 	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1"	"is"	"n +1"	123
+"a _ = frac h_n quad a_0 = x h _ = frac 2 frac 1 + frac"	"is"	"n +1"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 1 frac"	"is"	"n +1"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1"	"is"	"quad h_0 = y sqrt = sqrt frac a_i frac a_i"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1"	"is"	"quad h_0 = y sqrt = sqrt frac h_i frac a_i + h_i"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1"	"is"	"quad h_0 = y sqrt = sqrt frac a_i frac h_i"	123
+"a _ = frac h_n quad a_0 = x h _ = frac 2 frac 1 + frac"	"is"	"quad h_0 = y sqrt = sqrt frac a_i frac a_i"	123
+"a _ = frac h_n quad a_0 = x h _ = frac 2 frac 1 + frac"	"is"	"quad h_0 = y sqrt = sqrt frac h_i frac a_i + h_i"	123
+"a _ = frac h_n quad a_0 = x h _ = frac 2 frac 1 + frac"	"is"	"quad h_0 = y sqrt = sqrt frac a_i frac h_i"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 1 frac"	"is"	"quad h_0 = y sqrt = sqrt frac a_i frac a_i"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 1 frac"	"is"	"quad h_0 = y sqrt = sqrt frac h_i frac a_i + h_i"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 1 frac"	"is"	"quad h_0 = y sqrt = sqrt frac a_i frac h_i"	123
+"frac a_n"	"is"	"2"	123
+"frac h_n"	"is"	"2"	123
+"quad a_0 = x h _ = frac 2 frac 1"	"is"	"n +1"	123
+"quad a_0 = x h _ = frac 2 1 frac"	"is"	"n +1"	123
+"frac 2 frac 1"	"is"	"a_n"	123
+"frac 2 1 frac"	"is"	"a_n"	123
+"frac 2 1 frac"	"is"	"a_n"	123
+"y sqrt"	"is"	"a_ih_i"	123
+"frac a_i"	"is"	"h_ia_i"	123
+"frac h_i"	"is"	"h_ia_i"	123
+"frac h_i"	"is"	"h_ia_i"	123
+"frac 1 h_i"	"is"	"1 a_i"	123
+"= expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared"	"is"	"left frac right"	123
+"= expleft frac1nsum _ i = 1 ^ nln a_iright b ^ 2 log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"is"	"left frac right"	123
+"expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"is"	"left frac right"	123
+"expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"is"	"left frac right"	123
+"expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"is"	"left frac right"	123
+"expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"is"	"left frac right"	123
+"expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"is"	"left frac right"	123
+"expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"is"	"left frac right"	123
+"expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"is"	"left frac right"	123
+"expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"is"	"left frac right"	123
+"expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"is"	"left frac right"	123
+"frac a _"	"is"	"a_n"	123
+"a _"	"is"	"n-1"	123
+"a _"	"is"	"n-1"	123
+"a _"	"is"	"n-1"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac a_i frac = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in education"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac a_i frac = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in income"	123
+"a _ = frac h_n quad a_0 = x h _ = frac 2 frac 1 + frac = sqrt frac a_i + h_i frac + frac 1 h_i = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 + log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in education"	123
+"a _ = frac h_n quad a_0 = x h _ = frac 2 frac 1 + frac = sqrt frac a_i + h_i frac + frac 1 h_i = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 + log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in income"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 1 frac = sqrt frac a_i + h_i frac + frac 1 h_i = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 + log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in education"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 1 frac = sqrt frac a_i + h_i frac + frac 1 h_i = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 + log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in income"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac h_i frac + frac 1 h_i = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 + log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in education"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac h_i frac + frac 1 h_i = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 + log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in income"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac a_i frac 1 h_i = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 + log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in education"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac a_i frac 1 h_i = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 + log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in income"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac a_i frac = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ 2 log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in education"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac a_i frac = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n = expleft frac1nsum _ i = 1 ^ nln a_iright b ^ 2 log_b 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared and at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in income"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac a_i frac = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in education"	123
+"a _ = frac a_n quad a_0 = x h _ = frac 2 frac 1 = sqrt frac a_i frac = sqrt a _ i +1 h _ i +1 bigg prod _ i = 1 ^ na_i bigg ^ 1/n expleft frac1nsum _ i = 1 ^ nln a_iright b ^ log_b 2 2 = 4 ^ frac1n left reduces the level of substitutability between dimensions being compared at the same time"	"ensures"	"that a 1 percent decline in say life expectancy at birth has the same impact on the HDI as a 1 percent decline in income"	123
+"a 1 percent decline in say life expectancy at birth"	"has"	"the same impact on the HDI as a 1 percent decline in education"	123
+"a 1 percent decline in say life expectancy at birth"	"has"	"the same impact on the HDI as a 1 percent decline in income"	123
+Thus , as a basis for comparisons of achievements , this method is also more respectful of the intrinsic differences across the dimensions than a simple average . 	124
+"Thus"	"is respectful"	"as a basis for comparisons of achievements"	124
+"Thus"	"is respectful"	"also"	124
+"Thus"	"is respectful"	"more"	124
+"Thus"	"is respectful"	"of the intrinsic differences across the dimensions"	124
+"Thus"	"is respectful"	"than a simple average"	124
+"Thus"	"is"	"respectful"	124
+"this method"	"is respectful"	"as a basis for comparisons of achievements"	124
+"this method"	"is respectful"	"also"	124
+"this method"	"is respectful"	"more"	124
+"this method"	"is respectful"	"of the intrinsic differences across the dimensions"	124
+"this method"	"is respectful"	"than a simple average"	124
+"this method"	"is"	"respectful"	124
+http ://hdr.undp.org/en/statistics/faq 	125
+/ Arithmetic mean Arithmetic-geometric mean Average Generalized mean Geometric standard deviation Harmonic mean Heronian mean Hyperbolic coordinates Log-normal distribution Muirhead 's inequality Product Pythagorean means Quadratic mean Rate of return Weighted geometric mean ] using Geometric Mean ] 	126
+/ Arithmetic mean Arithmetic-geometric mean Average Generalized mean Geometric standard deviation Harmonic mean Heronian mean Hyperbolic coordinates Log-normal distribution Muirhead 's inequality Product Pythagorean means Quadratic mean Rate of return Weighted geometric mean ] using Geometric Mean ] 	126
+"Arithmetic-geometric mean Average Generalized"	"mean"	"Geometric standard deviation Harmonic mean Heronian mean"	126
+"Geometric standard deviation Harmonic"	"mean"	"Heronian mean"	126
+"Geometric standard deviation Harmonic"	"mean"	"Heronian mean"	126
+"Log-normal distribution Muirhead"	"has"	"inequality Product Pythagorean"	126
+"Log-normal distribution Muirhead 's inequality Product Pythagorean"	"means"	"Quadratic mean Rate of return Weighted geometric mean"	126

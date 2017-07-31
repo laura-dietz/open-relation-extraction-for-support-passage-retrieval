@@ -1,0 +1,23 @@
+0	SVC (S: December@1, V: "is", C: food@4)
+1	SVC (C: preparation@6, V: is@2, S: Broth@1, A?: consisting@9)	SVA (V: "be consisting", S: preparation@6, A!: typically@8, A?: of@10)	SVO (V: simmered@34, S: bone@21, A?: in@19, O: water@12)
+2	
+3	SVC (S: Becker@3, V: "is", C: Joy@7)	SVC (S: Avenue@12, V: "is", C: York@18)	SVC (S: York@18, V: "is", C: S.@27)
+4	SVC (S: Becker@3, V: "is", C: Joy@7)	SVC (S: York@18, V: "is", C: Broth@25)	SVO (V: used@27, S: York@18, A?: as@28, O: Avenue@12)
+5	SVA (V: eaten@4, S: It@1, A!: alone@5)	SVA (V: with@7, S: It@1, A?: alone@5, A!: garnish@8)
+6	SV (V: used@5, S: ingredients@3)	SVO (V: called@20, S: it@16, A?: used@5, A?: as@8, A-: then@18, A?: generally@19, O: soup@21)
+7	SVA (V: defined@7, S: broth@5, A?: In@1, A!: as@8, A?: along@22)	EXISTENTIAL (V: are@14, S: pieces@16, A?: in@11, O: soup@10)
+8	SVA (V: made@5, S: broth@2, A?: usually@4, A!: with@6, A?: with@16)	SVO (S: its@13, V: "has", O: base@14)	SVA (V: "be added", S: vegetables@29, A!: later@31)
+9	SVC (V: made@11, S: broth@8, A?: frequently@10, ACOMP: substantial@13)
+10	SVC (S: Plc@12, V: "is", C: Square@16)	SVO (S: Leith@5, V: "has", O: Plc@12)	SVC (S: Square@16, V: "is", C: london@18)	SVC (S: Plc@36, V: "is", C: Square@40)	SVC (S: Plc@36, V: "is", C: london@42)	SVO (S: Leith@29, V: "has", O: Plc@36)	SVC (S: Springer-Verlag@56, V: "is", C: Berlin@58)	SVC (S: Springer-Verlag@71, V: "is", C: Berlin@73)	SVOC (C: distinct@81, V: is@80, S: Plc@36, A?: from@82, O: HB@21)	SVA (V: "be sieving", S: stock@83, A-: then@105, O: liquid@109)	SVC (C: liquid@89, V: is@86, S: stock@83, A?: made@90)	SVA (V: "be made", S: liquid@89, A!: by@91)	SVA (V: retrieved@101, S: taste@98, A!: from@102)
+11	SVA (V: differentiate@6, S: schools@4, A?: often@5, A!: between@7)	SVA (V: "be made", S: broth@8, A!: usually@10, A?: from@12)	SVA (V: "be made", S: stock@19, A!: often@20, A?: from@22)
+12	SVO (V: made@4, S: Broth@1, A?: for@5, XCOMP: using@8)	SVA (V: boiled@17, S: bones@11, A?: traditionally@14, A!: in@18, A?: for@22)	SVA (V: "be extract", S: periods@24, O: flavour@28)
+13	
+14	
+15	
+16	SVA (V: added@11, S: white@8, A?: for@1, A!: during@12)	SVO (V: coagulate@19, S: whites@17, O: sediment@22)
+17	SVC (V: is@11, S: approach@5, A?: However@1, XCOMP: use@13)	SVC (C: roasted@18, V: are@16, S: bones@14)
+18	SVO (V: add@4, S: bones@2, O: flavor@7, A?: to@8)	SVO (V: color@15, S: bones@2, O: flavor@7, A?: to@8, A?: also@12)
+19	
+20	SVA (V: made@5, S: Broths@2, A?: usually@4, A!: with@6, A?: as@12)
+21	SVO (V: include@2, S: This@1, O: spices@3, A?: as@7)	SVA (V: "be give", S: parsley@8, IO: it@11, O: taste@15)
+22	SVC (C: bg@8, V: be@5, S: ingredients@4)	SVA (V: "be ca", S: Бульон@10)	SV (V: es@20, S: Brühe@19)	SVC (S: Bouillon@31, V: "is", C: cuisine@33)	SVC (S: Bouillon@61, V: "is", C: voedsel@63)

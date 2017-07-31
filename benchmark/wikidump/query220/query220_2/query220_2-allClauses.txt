@@ -1,0 +1,2007 @@
+0	
+1	SVO (V: joined@8, S: Division@5, O: NBA@9, A?: in@10)	SVC (S: VM@230, V: "is", C: JK@238)	SVOC (C: team@264, V: are@259, S: Lakers@258, A?: based@265, O: lakers2@254)	SVA (V: "be based", S: team@264, A!: in@266)	SVA (S: Angeles@268, V: "is in", C: California@270)
+2	SVA (V: play@2, S: They@1, A!: in@3, A?: in@11)	SVC (S: Association@15, V: "is", C: NBA@17)
+3	SVO (V: play@3, S: Lakers@2, O: games@6, A?: at@7)	SVO (S: their@4, V: "has", O: games@6)	SVO (V: share@13, S: they@12, O: Center@9, A?: with@14)	SVC (S: rival@18, V: "is", C: Clippers@23)	SVC (S: rival@18, V: "is", C: Kings@28)	SVO (S: their@15, V: "has", O: rival@18)	SVA (V: Sparks@37, S: Angeles@36, A!: of@38)
+4	
+5	SVA (V: =@2, S: section@1, A!: about@3)
+6	
+7	SVA (V: =@2, S: section@1, A!: about@3)
+8	SVC (C: one@4, V: are@3, S: Lakers@2, A?: of@5, XCOMP: being@25)	SVOC (C: won@19, V: are@3, S: Lakers@2, A?: of@5, O: championships@21, XCOMP: being@25)	SVO (S: their@23, V: "has", O: being@25)
+9	SVA (V: "be having", S: franchise@13, O: value@21)	SVC (C: franchise@13, V: are@7, S: Lakers@6, A?: As@1, A?: according@14, A?: having@18)
+10	
+11	
+12	SVC (S: January@5, V: "is", C: http@10)
+13	
+14	SVO (V: started@12, S: franchise@11, A?: with@13, O: January@5)	SVC (S: team@20, V: "is", C: Gems@24)
+15	SVOC (V: began@4, S: team@3, O: play@5, A?: in@6, XCOMP: calling@11)	SVA (S: Minneapolis@7, V: "is in", C: Minnesota@9)	SVO (S: state@19, V: "has", O: nickname@21)
+16	SVC (S: Reavis@1, V: "is", C: Tracey@3)	SVC (S: Sacchare@5, V: "is", C: 2000@10)
+17	
+18	SVA (V: "be propelled", S: 95@1, A!: by@11)	SVOO (V: won@4, S: Lakers@3, O: championships@6, IO: 95@1)	SVA (V: described@18, S: Mikan@14, A!: by@19)	SVO (S: NBA@21, V: "has", O: website@24)	SVO (S: league@27, V: "has", O: superstar@31)
+19	
+20	
+21	
+22	
+23	SVO (S: Mikan@13, V: "has", O: retirement@15)	SVO (V: relocated@18, S: November@1, A?: to@19, A?: before@22, O: season@27)	SVO (V: relocated@18, S: they@17, A?: to@19, A?: before@22, O: season@27)
+24	SVC (S: West@10, V: "is", C: Angeles@13)	SVO (V: made@14, S: West@10, CCOMP: times@19)	SVA (V: times@19, S: Finals@17, A!: in@20)
+25	SVOC (V: acquired@6, S: Lakers@5, A?: In@1, O: Chamberlain@11, XCOMP: play@13)	SVOC (V: in@36, S: Lakers@5, A?: In@1, O: Chamberlain@11, XCOMP: play@13, A?: first@35, A?: Angeles@38)	SVO (V: won@28, S: they@27, A?: after@17, O: title@32)	SVO (S: their@29, V: "has", O: title@32)
+26	SVO (V: acquired@11, S: team@10, A?: After@1, O: center@13)	SVOC (C: unable@27, V: was@26, S: team@10, A?: After@1, O: center@13, XCOMP: make@29)	SVC (S: center@13, V: "is", C: Abdul-Jabbar@16)	SVO (V: won@20, S: center@13, O: awards@23)
+27	SVO (V: nicknamed@5, S: Lakers@3, XCOMP: Showtime@7)	SVO (S: their@11, V: "has", O: Johnson@13)
+28	SVO (V: featured@3, S: team@2, O: Hall@4)	SVO (V: Hall@18, S: team@2, O: Hall@4, A?: of@19)	SVC (S: Hall@18, V: "is", C: Riley@24)
+29	SVA (V: were@5, S: Two@1, A!: against@6)	SVA (V: were@5, S: Celtics@11, A!: against@6)	SVO (S: their@7, V: "has", O: rivals@8)
+30	SVO (S: Johnson@4, V: "has", O: retirement@6)	SVA (V: struggled@10, S: team@9, A?: After@1, A!: in@11, A?: before@15)
+31	SVOO (V: won@19, S: Angeles@18, O: titles@22, A?: between@23, IO: Jackson@15)	SVA (V: "be Led", S: Jackson@15, A!: by@2)	SVO (V: securing@28, S: Jackson@15, A?: Led@1, O: franchise@30)	SVC (S: franchise@30, V: "is", C: three-peat@34)	SVO (S: its@31, V: "has", O: three-peat@34)
+32	SVO (V: won@13, S: Lakers@12, A?: After@1, O: championships@16, A?: by@17)
+33	SVO (V: hold@3, S: Lakers@2, O: record@5)	SVA (V: "be set", S: streak@11, A!: during@17)	SVO (S: NBA@7, V: "has", O: streak@11)	SVC (S: streak@11, V: "is", C: 33@13)
+34	
+35	
+36	
+37	SVC (S: October@1, V: "is", C: http@5)
+38	
+39	
+40	SVO (V: played@10, S: Hall@6, A?: for@11, O: October@1)	SVO (V: coached@18, S: four@16, O: team@20)
+41	SVC (S: Abdul-Jabbar@5, V: "is", C: Johnson@8)	SVC (S: Abdul-Jabbar@5, V: "is", C: O'Neal@11)	SVO (V: won@17, S: Lakers@2, O: NBA@19, A?: for@24)
+42	
+43	
+44	
+45	
+46	
+47	
+48	SVOA (V: led@31, S: Lakers@11, O: franchise@34, A!: to@35)	SVO (S: their@36, V: "has", O: championships@40)
+49	SVA (V: described@3, S: He@1, A!: by@4, A?: as@10)	SVO (S: NBA@6, V: "has", O: website@9)
+50	SVO (S: Lakers@2, V: "has", O: franchise@4)	SVA (V: began@5, S: franchise@4, A!: in@6, A?: purchased@16)	SVO (V: purchased@16, S: Berger@10, A?: when@8, O: Gems@21, A?: for@30)	SVC (S: League@26, V: "is", C: NBL@28)
+51	
+52	
+53	SVO (V: played@8, S: Hartman@7, O: key@10)
+54	SVC (S: Lazenby@1, V: "is", C: p@3)
+55	
+56	SVO (S: Minnesota@3, V: "has", O: nickname@5)	SVA (V: "be Inspired", S: Land@8, A!: by@2)	SVOO (V: christened@16, S: team@15, IO: themselves@17, O: Lakers@19)
+57	SVO (V: http@9, S: Roster@6, O: 1956@1)
+58	
+59	
+60	SV (V: http@13, S: November@1)
+61	
+62	
+63	SVOC (V: helped@6, S: Hartman@5, CCOMP: hire@8, O: November@1)	SVO (V: hire@8, S: them@7, O: Kundla@10, A?: from@11)
+64	SVO (S: their@5, V: "has", O: coach@8)
+65	SVC (S: Lazenby@1, V: "is", C: p@3)
+66	
+67	SVO (V: had@3, S: Lakers@2, O: roster@6)	SVA (V: featured@8, S: roster@6, A!: forward@9)	SVC (V: became@23, S: Mikan@20, XCOMP: player@27)
+68	
+69	
+70	
+71	
+72	SVC (S: August@3, V: "is", C: sportsecyclopedia@7)	SVO (S: their@9, V: "has", O: season@11)	SVOO (V: led@14, S: they@13, O: league@16, A?: with@17, IO: August@3)
+73	SVC (S: Lazenby@1, V: "is", C: p@3)
+74	
+75	SVA (V: moved@6, S: Lakers@5, A?: In@1, A!: from@7, A?: to@10)	SV (V: Mikan@21, S: Lakers@5, A?: In@1, A?: from@7, A?: to@10)	SVC (S: Association@13, V: "is", C: BAA@17)
+76	SVC (S: game@3, V: "is", C: ppg@5)	SVA (V: "be scoring", S: game@3, O: average@8)
+77	SVO (V: won@7, S: they@6, A?: In@1, O: championship@9, A?: beating@11)	SVA (V: "be beating", S: they@6, O: Capitols@14, O: games@16, A!: to@17)
+78	SVC (S: Lazenby@1, V: "is", C: p@3)
+79	
+80	SVO (V: improved@7, S: team@6, A?: to@8, O: season@3)	SVA (V: "be repeating", S: 17@11, A!: as@14)
+81	SVC (S: Lazenby@1, V: "is", C: pp@3)
+82	SVC (S: 40@1, V: "is", C: 42@3)
+83	SVO (V: won@9, S: Mikan@8, A?: In@1, A?: season@6, O: title@14)	SVO (S: his@10, V: "has", O: title@14)
+84	SVO (V: went@4, S: Lakers@3, O: 44@5)	SVO (S: their@10, V: "has", O: title@14)
+85	
+86	
+87	
+88	
+89	
+90	
+91	SVC (S: One@1, V: "is", C: loss@10)	SVC (V: became@17, S: One@1, ACOMP: infamous@18, A?: as@19)
+92	SVC (S: Sacchare@1, V: "is", C: ed@3)	SVC (S: Sacchare@1, V: "is", C: 2000@6)
+93	
+94	SVO (V: defeated@7, S: they@6, O: Olympians@10, A?: in@11)	SVO (V: lost@15, S: they@6, O: Olympians@10, A?: in@11, A?: to@16, A?: in@20)
+95	SVO (V: won@9, S: Lakers@8, A?: During@1, O: games@11, A?: finishing@13)	SVA (V: "be finishing", S: Lakers@8, ACOMP: second@14)	SVO (S: their@16, V: "has", O: division@17)
+96	SVO (V: faced@2, S: They@1, O: Knicks@6, A?: in@7)	SVO (V: won@14, S: they@13, O: Finals@10, A?: in@15)
+97	SVOA (V: led@7, S: Mikan@6, A?: In@1, O: NBA@9, A!: in@10)
+98	SVC (S: game@3, V: "is", C: rpg@5)
+99	SVOO (V: defeated@11, S: Lakers@10, O: Pistons@15, A?: in@16, XCOMP: advance@21, IO: season@7)
+100	SVC (S: Lazenby@1, V: "is", C: p@3)
+101	
+102	SVOC (V: defeated@3, S: They@1, A-: then@2, O: Knicks@7, XCOMP: win@9)	SVO (S: their@10, V: "has", O: championship@13)
+103	SVA (V: suffered@6, S: Mikan@5, A!: from@7)	SVC (C: able@18, V: was@16, S: he@15, A?: suffered@6, A?: still@17, A?: to@19)
+104	SVA (V: drafted@6, S: Lovellette@2, A!: in@7)	SVO (V: helped@10, S: Lovellette@2, CCOMP: win@13)	SVO (V: win@13, S: team@12, O: Division@16)
+105	SVC (S: Lazenby@1, V: "is", C: p@3)
+106	
+107	SVO (V: won@3, S: team@2, O: championship@7)	SVO (S: its@4, V: "has", O: championship@7)	SVO (V: defeated@18, S: it@17, A?: when@16, O: Nationals@21, A?: in@22)
+108	SVC (S: Lazenby@1, V: "is", C: p@3)
+109	
+110	SVO (S: Mikan@2, V: "has", O: retirement@4)	SV (V: struggled@12, S: Lakers@11, A?: Following@1)	SVO (V: managed@15, S: Lakers@11, A?: Following@1, A?: still@14, XCOMP: win@17)
+111	SVO (V: defeated@3, S: they@2, O: Royals@6, A?: in@7)	SVA (V: defeated@17, S: they@15, A?: defeated@3, A!: by@18, A?: in@23)
+112	
+113	
+114	
+115	
+116	
+117	
+118	SVO (V: had@3, S: they@2, O: records@5, A?: seasons@9)	SVO (V: made@12, S: they@11, A?: had@3, O: playoffs@14, A?: year@16)
+119	SVA (V: came@2, S: Mikan@1, A!: back@3, A?: for@4)
+120	SVC (S: Lazenby@1, V: "is", C: p@3)
+121	
+122	
+123	
+124	SVA (V: advanced@4, S: they@3, A?: rebounds@1, A!: to@5)
+125	SVO (V: had@3, S: Lakers@2, O: one@4, A?: in@12)	SVOO (V: won@18, S: they@17, A?: when@16, O: games@22, IO: 58@15)
+126	SVC (S: Lazenby@1, V: "is", C: p@3)
+127	
+128	SVOC (V: hired@3, S: They@1, O: Mikan@4, A?: as@20, XCOMP: replace@24)	SVC (C: manager@13, V: been@8, S: Mikan@4, A?: for@14)	SVO (S: team@10, V: "has", O: manager@13)
+129	SVA (V: fired@3, S: Mikan@1, A!: in@4, A?: 9@10)	SVC (C: 9@10, V: was@9, S: team@8, A?: when@6)	SVO (S: 30@12, V: rehired@17, O: fired@3)
+130	
+131	
+132	SVO (V: =@10, S: qOIDAAAAIBAJ@7, O: george-mikan@15)	SVC (S: george-mikan@15, V: "is", C: http@36)
+133	
+134	SVO (V: =@10, S: qOIDAAAAIBAJ@7, O: george-mikan@15)	SVOO (V: earned@34, S: Lakers@33, O: pick@37, A?: in@38, IO: george-mikan@15)	SVOO (V: used@44, S: Lakers@33, O: pick@37, A?: in@38, O: it@45, A?: select@47, IO: george-mikan@15)	SVA (V: "be select", S: used@44, O: Baylor@49)
+135	SV (V: named@5, S: Baylor@1)	SVO (V: averaged@22, S: Rookie@7, O: ppg@24)
+136	
+137	SVA (V: improve@4, S: Lakers@3, A!: to@5, A?: despite@10)	SVO (S: their@8, V: "has", O: division@9)
+138	SVC (S: Sacchare@1, V: "is", C: ed@3)	SVC (S: Sacchare@1, V: "is", C: 1994@6)
+139	
+140	SVO (V: returned@17, S: they@16, CCOMP: 3@3, A?: to@18, A?: beginning@30)	SVO (V: swept@25, S: they@16, CCOMP: 3@3, A?: to@18, A?: by@26, A?: beginning@30)	SVO (V: returned@17, S: 92@1, CCOMP: 3@3, A?: to@18, A?: beginning@30)	SVO (V: swept@25, S: 92@1, CCOMP: 3@3, A?: to@18, A?: by@26, A?: beginning@30)	SVA (V: "be beginning", S: 92@1, O: rivalry@33)	SVO (S: their@31, V: "has", O: rivalry@33)
+141	SVC (S: Lazenby@1, V: "is", C: p@3)
+142	
+143	SVOA (V: led@3, S: West@2, O: team@5, A!: to@6)
+144	
+145	SVO (V: _@3, S: Clutch@1, O: silhouette@5)	SVO (S: his@4, V: "has", O: silhouette@5)	SVA (V: featured@7, S: _@3, A!: on@8)	SVO (S: NBA@10, V: "has", O: logo.Jerry@13)
+146	
+147	
+148	
+149	
+150	SVA (V: traced@6, S: silhouette@3, A!: back@7)	SVC (S: Angeles@13, V: "is", C: TimesJune@14)	SVO (S: their@19, V: "has", O: year@21)	SVOO (V: went@27, S: Lakers@26, O: 25@28, IO: Angeles@13)
+151	SVO (V: coming@10, S: team@8, A?: On@1, O: loss@13)
+152	SVO (S: their@3, V: "has", O: plane@4)	SVO (V: crashed@5, S: plane@4, A?: when@2, O: Louis@1)
+153	SVC (S: Lazenby@1, V: "is", C: p@3)
+154	
+155	SVOA (V: driven@4, S: storms@2, O: pilot@6, A!: forced@14)	SVO (V: forced@14, S: he@12, A?: when@11, XCOMP: land@16)
+156	SV (V: hurt@4, S: one@2)
+157	SVC (S: Lazenby@1, V: "is", C: pp@3)
+158	
+159	SVO (S: Their@1, V: "has", O: record@2)	SVOO (V: earned@3, S: record@2, IO: them@4, O: number@6)
+160	SVA (V: "be selected", S: team@2, O: West@5)
+161	
+162	
+163	
+164	
+165	
+166	
+167	SVC (V: became@8, S: Lakers@7, A?: During@1, XCOMP: team@15)	SVO (S: NBA@10, V: "has", O: team@15)	SVOC (V: decided@20, S: Short@19, A?: when@16, XCOMP: move@22, O: team@15)
+168	
+169	
+170	
+171	
+172	
+173	
+174	SVO (S: Baylor@3, V: "has", O: ppg@6)
+175	
+176	SVO (V: won@4, S: Angeles@3, O: more@6)	SVO (S: West@12, V: "has", O: season@15)
+177	
+178	
+179	
+180	
+181	
+182	
+183	SVO (V: set@8, S: Baylor@7, A?: On@1, O: a@9)	SVA (V: "be scoring", S: NBA@11, O: record@13)	SVO (V: scored@16, S: he@15, A?: when@14, O: points@18, A?: in@19)
+184	
+185	
+186	
+187	
+188	SVO (V: broke@6, S: Baylor@5, A?: In@1, O: record@10)	SVO (S: his@7, V: "has", O: record@10)
+189	SVO (V: made@8, S: Lakers@7, A?: Despite@1, O: playoffs@10)
+190	
+191	
+192	
+193	
+194	
+195	
+196	SVA (V: came@2, S: They@1, A!: within@3, A?: lost@12)	SVA (V: lost@12, S: they@11, A?: when@10, A!: in@13)	SVO (S: their@17, V: "has", O: series@20)
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	SVA (V: traced@7, S: silhouette@4, A!: back@8, A?: to@9)	SVA (V: "be Led", S: June@20, A!: by@25)
+206	
+207	
+208	
+209	
+210	
+211	
+212	
+213	SVA (V: improved@3, S: Lakers@2, A!: to@4)
+214	SVOC (V: grabbed@8, S: Baylor@7, A?: In@1, O: rebounds@10, O: www.nba.com/history/baylor61_moments@36)	SVOC (V: Scores@27, S: Baylor@7, A?: In@1, O: rebounds@10, A?: for@29, O: www.nba.com/history/baylor61_moments@36)	SVOC (V: set@12, S: Baylor@7, A?: In@1, O: rebounds@10, O: record@16, A?: for@17, A?: in@19, O: www.nba.com/history/baylor61_moments@36)
+215	
+216	
+217	SVC (S: December@1, V: "is", C: Scores@6)
+218	
+219	
+220	
+221	SVC (S: Lazenby@1, V: "is", C: p@3)
+222	
+223	SVA (V: lost@6, S: Lakers@2, A?: however@4, A!: to@7, A?: by@10)
+224	SVA (V: "be tie", S: seconds@12, O: game@16)	SVA (V: Win@19, S: Selvy@2, A?: after@4, A!: Again@20)	SVA (V: Win@19, S: Celtics@18, A?: after@4, A!: Again@20)
+225	SVO (V: Was@3, S: It@2, O: http@5)
+226	
+227	SVO (V: =@10, S: eekFAAAAIBAJ@7, O: los-angeles-lakers@15)
+228	SVO (V: Was@3, S: It@2, O: http@5)
+229	
+230	SVO (V: =@10, S: eekFAAAAIBAJ@7, O: los-angeles-lakers@15)	SVC (S: April@26, V: "is", C: Press@31)	SVO (V: missed@32, S: pJAyAAAAIBAJ@3, O: shot@39)	SVO (V: missed@32, S: id@1, O: shot@39)	SVA (V: "be miss", S: a@43, CCOMP: said@47)	SVOC (V: said@47, S: he@46, O: which@45, CCOMP: haunted@52)
+231	
+232	
+233	SVO (V: miss@6, S: Selvy@4, A?: in@7, A?: still@10, O: =@2)	SVC (S: November@12, V: "is", C: St@16)
+234	
+235	
+236	SVO (V: miss@6, S: Selvy@4, A?: in@7, A?: still@10, O: =@2)	SVC (S: November@12, V: "is", C: St@16)
+237	SVO (V: won@11, S: June@3, O: games@13, A?: in@14)	SVO (S: Baylor@20, V: "has", O: ppg@23)
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	SVO (V: won@24, S: team@23, A?: After@1, O: games@26, A?: in@27)
+247	SVA (V: surged@3, S: Lakers@2, A!: past@4)	SVO (S: West@14, V: "has", O: ppg@18)
+248	
+249	SVC (S: Sacchare@1, V: "is", C: ed@3)	SVC (S: Sacchare@1, V: "is", C: 1994@6)
+250	
+251	SVO (V: lost@3, S: They@2, A?: again@4, A?: to@5, A?: in@7, A?: however@10, O: 402@1)
+252	
+253	
+254	
+255	
+256	
+257	
+258	SVA (V: lost@3, S: Angeles@2, A!: in@4, A?: to@7, A?: in@9, A?: again@12, A?: in@13, A?: time@17, A?: by@18)
+259	
+260	
+261	
+262	
+263	
+264	
+265	SVA (V: "be entering", S: 16@3, O: quarter@7)	SVA (V: "be go", S: half@16)	SVOO (V: mounted@22, S: Lakers@21, O: rally@25, A?: in@26, IO: Down@1)	SVC (V: fell@31, S: moments@29, ACOMP: short@33)
+266	
+267	
+268	SV (V: =@11, S: kDAAAAIBAJ@8)
+269	
+270	SVO (V: =@11, S: kDAAAAIBAJ@8, O: los-angeles-lakers@16)	SVC (S: April@28, V: "is", C: Press@33)	SVO (V: lost@52, S: they@51, A?: in@53, A?: to@56, A?: again@59, A?: in@60, O: los-angeles-lakers@16)
+271	SVO (V: moved@3, S: Angeles@2, A?: to@4, O: Forum@10)
+272	SVA (V: played@3, S: Chamberlain@2, A!: for@4, A?: for@7, A?: during@10)
+273	
+274	
+275	
+276	
+277	
+278	SVO (V: acquired@12, S: team@11, O: Chamberlain@14, A?: from@15)
+279	
+280	
+281	
+282	
+283	SVO (S: his@2, V: "has", O: season@4)	SVOA (V: set@10, S: Chamberlain@9, A?: In@1, A?: as@5, O: record@13, A!: by@14)
+284	
+285	
+286	
+287	
+288	
+289	
+290	
+291	SVO (V: averaged@8, S: West@1, O: points@11)	SVO (V: won@16, S: Angeles@15, O: division@18)	SVO (S: their@17, V: "has", O: division@18)
+292	
+293	
+294	
+295	
+296	
+297	
+298	SVA (V: met@6, S: Lakers@2, A?: again@5, A!: in@7)	SVO (V: had@14, S: Angeles@13, O: advantage@17, A?: against@18, A?: for@20)	SVO (S: their@25, V: "has", O: rivalry@26)
+299	SVO (V: won@2, S: They@1, O: game@5)	SVO (S: West@8, V: "has", O: points@11)	SVC (S: Sacchare@13, V: "is", C: 1994@18)
+300	
+301	
+302	SVC (S: Lazenby@1, V: "is", C: p@3)
+303	
+304	SVO (V: won@2, S: Boston@1, O: series@4, A?: in@5, A?: p@12)
+305	
+306	SVO (S: their@3, V: "has", O: Championship@6)
+307	SVC (S: Lazenby@1, V: "is", C: p@3)
+308	
+309	SVO (V: named@3, S: West@1, XCOMP: MVP@7)	SVC (V: remains@10, S: this@9, XCOMP: time@13)	SVO (V: won@22, S: member@16, O: award@24)
+310	
+311	SVO (S: West@1, V: "has", O: Heroics@3)	SVO (V: Deprive@6, S: Heroics@3, O: Russell@7)	SVC (S: Russell@7, V: "is", C: NBA.com@15)
+312	
+313	SVO (S: West@1, V: "has", O: Heroics@3)	SVO (V: Deprive@6, S: Heroics@3, O: Russell@7)	SVC (S: Russell@7, V: "is", C: NBA.com@15)
+314	SVO (V: won@5, S: West@4, A?: In@1, O: title@9)	SVO (S: his@6, V: "has", O: title@9)
+315	SVA (V: returned@4, S: team@3, A!: to@5)	SVO (V: have@21, S: they@18, A?: for@10, XCOMP: face@23)	SVO (V: defeated@35, S: Knicks@32, O: 3@39)
+316	
+317	
+318	
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	SVA (V: "be led", S: season@3, A!: by@14, A?: in@26)	SVO (V: defeated@7, S: Lakers@5, A?: by@8, O: season@3)
+327	
+328	
+329	
+330	
+331	
+332	
+333	SVO (V: brought@6, S: season@5, A?: 1971@2, O: changes@8)
+334	SVOC (V: brought@5, S: Cooke@4, O: Sharman@8, A?: as@9, O: www.nba.com/lakers/history/lakers_history_new@17)	SVC (S: coach@11, V: "is", C: http@13)
+335	
+336	
+337	
+338	
+339	
+340	
+341	
+342	SVO (V: announced@4, S: Baylor@3, O: retirement@6, A?: early@7, A?: after@11)	SVO (S: his@5, V: "has", O: retirement@6)	SVO (S: his@14, V: "has", O: legs@15)	SVC (C: healthy@18, V: were@16, S: legs@15, A?: enough@19)
+343	SVO (V: increased@2, S: Sharman@1, O: discipline@6)	SVO (S: team@4, V: "has", O: discipline@6)
+344	
+345	
+346	SVO (V: introduced@5, S: He@4, O: concept@7)	SVO (V: arrive@15, S: players@13, A?: where@12, A?: at@16, A?: early@19, A?: before@23, O: shootaround@10)	SVA (V: "be practice", S: game@25, O: shots@28)
+347	SVC (S: Lazenby@1, V: "is", C: p@3)
+348	
+349	SVO (V: won@2, S: They@1, O: games@5, A?: in@6)	SVO (V: games@11, S: They@1, O: games@5, A?: in@6, A?: played@12)	SVA (V: "be played", S: games@11, A!: in@13)
+350	SVO (V: won@2, S: They@1, O: three@3)	SVO (V: ended@19, S: Bucks@18, A?: on@12, O: streak@22, A?: by@23)	SVO (S: their@20, V: "has", O: streak@22)
+351	SVC (S: Lazenby@1, V: "is", C: p@3)
+352	
+353	SVO (V: set@9, S: Angeles@8, A?: By@1, O: record@11)
+354	
+355	
+356	
+357	
+358	
+359	
+360	SVO (V: won@3, S: Lakers@2, O: games@5)	SVA (V: stood@10, S: season@7, A!: as@11)	SVO (V: won@22, S: Bulls@21, O: games@24, A?: in@25)
+361	
+362	
+363	
+364	
+365	
+366	
+367	SVO (V: averaged@2, S: Chamberlain@1, O: 14.8@5)
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	
+376	
+377	SVC (S: game@3, V: "is", C: apg@5)	SVO (V: led@7, S: assists@1, O: league@9)	SVOC (V: averaged@13, S: he@11, CCOMP: led@7, A?: also@12, O: points@17)	SVOC (V: named@21, S: he@11, CCOMP: led@7, A?: also@12, O: points@17, XCOMP: MVP@22)
+378	SVO (V: failed@3, S: team@2, XCOMP: score@5)
+379	
+380	SVO (V: named@13, S: Sharman@11, A?: 173@1, XCOMP: Coach@14)
+381	
+382	
+383	
+384	
+385	
+386	
+387	SVA (V: went@3, S: Lakers@2, A!: on@4)	SVOO (V: avenge@17, S: they@15, A?: where@14, O: loss@21, A?: by@22, IO: finals@8)	SVO (S: their@18, V: "has", O: loss@21)	SVA (V: games@26, S: them@24, A!: to@27)
+388	SVO (V: tallied@2, S: Chamberlain@1, O: points@4, A?: in@8)	SVOC (V: won@12, S: Chamberlain@1, O: points@4, A?: in@8, O: Finals@15)
+389	SVC (S: Lazenby@1, V: "is", C: p@3)
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	SVC (C: Laker@8, V: was@6, S: uprightthumbHall@1, A?: for@9, A?: in@12)	SVC (C: played@19, V: was@6, S: uprightthumbHall@1, A?: for@9, A?: in@12, A?: in@20)
+398	SVO (V: won@3, S: Lakers@2, O: games@5, A?: in@6)
+399	
+400	
+401	
+402	
+403	
+404	
+405	
+406	
+407	SVA (V: "be playing", S: Chamberlain@2, A!: in@5)	SVO (S: his@6, V: "has", O: season@8)	SVO (V: led@11, S: Chamberlain@2, A?: again@10, O: league@13)	SVOC (V: set@17, S: Chamberlain@2, A?: again@10, O: league@13, O: record@22, A?: at@26)
+408	
+409	SVOC (V: defeated@3, S: team@2, O: Bulls@6, A?: in@7, O: Warriors@19)
+410	SVO (V: played@2, S: They@1, O: Knicks@6, A?: in@7)
+411	SVOA (V: took@3, S: Angeles@2, O: game@6, A!: by@7)	SVO (V: won@14, S: York@13, O: series@16, A?: in@17)
+412	
+413	SVC (S: Win@2, V: "is", C: NBA.com@13)
+414	
+415	SVC (S: Win@2, V: "is", C: NBA.com@13)
+416	SVO (V: hampered@11, S: team@9, A?: by@12, O: season@6)	SVO (V: played@19, S: West@16, O: games@22, A?: gave@26)	SVO (S: his@24, V: "has", O: legs@25)	SV (V: gave@26, S: legs@25)
+417	
+418	
+419	
+420	
+421	
+422	
+423	
+424	
+425	SVA (V: "be averaging", S: Goodrich@1, O: 25.3@4)
+426	SVO (V: helped@3, S: points@1, O: team@5, A?: to@6)
+427	SVC (V: left@11, S: Trailing@1, XCOMP: play@13)	SVOC (V: rallied@17, S: Lakers@16, CCOMP: left@11, XCOMP: finish@19)
+428	SVO (V: made@2, S: They@1, O: playoffs@4)	SVOC (V: managed@6, S: They@1, O: playoffs@4, CCOMP: win@9)	SVA (V: win@9, S: one@8, A!: against@10, A?: in@12)
+429	SVC (V: retired@6, S: West@5, A?: Following@1, ACOMP: due@7)	SVO (V: filed@15, S: West@5, A?: Following@1, ACOMP: due@7, O: suit@17)
+430	SVC (S: Lazenby@1, V: "is", C: pp@3)
+431	
+432	SVO (V: acquired@3, S: Angeles@2, O: Abdul-Jabbar@5, A?: in@6)
+433	SVOO (V: acquired@14, S: Lakers@13, O: Abdul-Jabbar@16, IO: season@10)	SVO (V: won@20, S: Abdul-Jabbar@16, O: MVP@22, A?: by@24)
+434	SVC (S: Lazenby@1, V: "is", C: p@3)
+435	
+436	SVO (V: wanted@2, S: Abdul-Jabbar@1, A?: out@3, XCOMP: demanding@7)
+437	SVC (S: Lazenby@1, V: "is", C: p@3)
+438	
+439	SVA (V: traded@3, S: He@1, A!: for@4)
+440	SVO (V: had@2, S: Abdul-Jabbar@1, O: season@6)	SVOC (V: blocked@18, S: Abdul-Jabbar@1, O: season@6, O: shots@19)	SVO (S: his@3, V: "has", O: season@6)	SVA (V: "be leading", S: season@6, O: league@14)	SV (V: played@23, S: minutes@22)
+441	
+442	
+443	
+444	
+445	
+446	
+447	
+448	
+449	SVO (V: struggled@4, S: Angeles@3, A?: in@5, XCOMP: going@8)
+450	SVO (V: settled@4, S: West@1, O: differences@6)	SVO (V: lawsuit@13, S: West@1, O: differences@6)	SVO (S: their@5, V: "has", O: differences@6)	SVO (S: Laker@11, V: "has", O: lawsuit@13)	SVOC (V: hired@17, S: Cooke@16, O: him@18, XCOMP: replace@20)	SVO (S: team@24, V: "has", O: coach@26)
+451	SVC (S: Lazenby@1, V: "is", C: pp@3)
+452	
+453	SVC (V: became@2, S: West@1, ACOMP: upset@3, A?: however@5, A?: refused@9)	SVO (V: refused@9, S: Cooke@8, A?: when@7, XCOMP: spend@11)	SVO (V: selling@25, S: Nets@23, O: Erving@19)
+454	SVC (S: Lazenby@1, V: "is", C: pp@3)
+455	
+456	SVC (S: Abdul-Jabbar@6, V: "is", C: Angeles@9)	SVO (V: won@10, S: Abdul-Jabbar@6, O: Division@13)
+457	
+458	
+459	
+460	
+461	
+462	
+463	SVO (V: defeated@2, S: They@1, O: Warriors@4, A?: in@5)	SVA (V: "be open", S: series@8, O: postseason@12, A!: before@13)
+464	SVO (V: picked@7, S: Angeles@6, A?: During@1, O: Wilkes@10, A?: from@11)	SVOC (V: signed@15, S: Angeles@6, A?: During@1, O: Wilkes@10, A?: from@11, O: Nixon@20)
+465	SVO (V: punched@18, S: Abdul-Jabbar@17, A?: In@1, A?: season@15, O: Benson@22)	SVOC (V: broke@29, S: Abdul-Jabbar@17, A?: In@1, A?: season@15, O: Benson@22, O: hand@31)	SVO (S: his@30, V: "has", O: hand@31)
+466	SVC (S: Lazenby@1, V: "is", C: p@3)
+467	
+468	SVA (V: got@8, S: Abdul-Jabbar@7, A?: later@3, A!: into@9, A?: after@18)
+469	SVO (V: averaging@13, S: Washington@9, O: 11.5@14)
+470	
+471	SVC (S: rebounds@1, V: "is", C: http@3)
+472	
+473	
+474	
+475	
+476	
+477	SVA (V: ran@9, S: Tomjanovich@8, A?: when@6, A!: in@10)	SVO (V: punched@21, S: Washington@20, O: him@22, A?: in@23)
+478	
+479	
+480	SVO (V: died@4, S: Tomjanovich@2, A?: nearly@3, A?: from@5, XCOMP: suffering@9)	SVO (V: ended@19, S: injuries@16, A?: prematurely@18, O: career@22)	SVO (S: his@20, V: "has", O: career@22)
+481	SVC (S: Lazenby@1, V: "is", C: p@3)
+482	
+483	SVO (V: stated@4, S: Washington@1, CCOMP: assumed@7)	SVO (V: assumed@7, S: he@6, CCOMP: combatant@11)	SVC (C: combatant@11, V: was@9, S: Tomjanovich@8, A?: suspended@14)	SVC (C: released@23, V: was@9, S: Tomjanovich@8, A?: suspended@14, A?: by@24)	SVA (V: "be suspended", S: combatant@11, A!: for@15)
+484	SVC (S: Night@7, V: "is", C: Lives@10)	SVO (V: Changed@16, S: Fight@14, O: Basketball@17)
+485	
+486	
+487	SVC (S: November@1, V: "is", C: Punch@8)	SVC (S: Night@11, V: "is", C: Lives@14)	SVO (V: Changed@20, S: Fight@18, O: Basketball@21)
+488	
+489	
+490	SVOO (V: won@7, S: team@6, O: games@9, IO: November@1)
+491	
+492	
+493	
+494	
+495	
+496	
+497	SVO (V: posted@10, S: team@9, O: record@15)
+498	SVO (V: led@7, S: Johnson@2, O: Showtime@10)
+499	SVO (V: selected@9, S: Angeles@8, A?: In@1, O: 6-foot@10)
+500	
+501	
+502	
+503	
+504	
+505	
+506	SVOA (V: took@2, S: It@1, O: teammates@5, A!: as@15)	SVO (S: Johnson@3, V: "has", O: teammates@5)	SVA (V: "be acclimate", S: time@6, O: themselves@9, A!: to@10)	SVO (S: his@11, V: "has", O: ability@13)	SVC (V: passes@20, S: no-look@18, ACOMP: caught@22)	SV (V: unaware@24, S: them@23)
+507	SV (V: adjusted@3, S: they@2)	SVO (S: his@5, V: "has", O: passing@6)	SVC (V: became@7, S: passing@6, A?: adjusted@3, XCOMP: part@10)	SVO (S: Angeles@13, V: "has", O: offense@15)
+508	SVC (S: Lazenby@1, V: "is", C: pp@3)
+509	SVC (S: 193@1, V: "is", C: 200@3)
+510	SVO (V: won@3, S: Lakers@2, O: games@5, A?: in@6)	SVOC (V: defeated@13, S: Lakers@2, O: games@5, A?: in@6, O: 76ers@16, A?: in@17, A?: in@20)	SVO (S: Johnson@7, V: "has", O: year@10)
+511	SVO (V: won@2, S: Johnson@1, O: award@7, A?: after@9)	SVOC (V: tallying@22, S: Johnson@1, O: award@7, A?: after@9, O: points@24)	SV (V: assists@31, S: seven@30)
+512	
+513	
+514	
+515	
+516	
+517	
+518	SVA (V: fell@3, S: team@2, A!: in@5)	SVO (V: lost@17, S: Lakers@16, O: Johnson@18, A?: for@19)
+519	
+520	
+521	
+522	
+523	
+524	
+525	
+526	
+527	SVO (V: turned@3, S: team@2, O: 54@6, A?: in@17)
+528	SVA (V: "be led", S: Rockets@2, A!: by@5)	SVO (V: defeated@9, S: Rockets@2, O: Angeles@11, A?: in@12)
+529	SVA (V: complained@10, S: Johnson@9, A?: Early@1, A!: to@11)	SVO (V: demanded@20, S: Johnson@9, A?: Early@1, A?: to@11, O: trade@22)
+530	SVO (V: says@3, S: Johnson@2, CCOMP: wants@5)	SVO (V: wants@5, S: he@4, O: http@8)
+531	
+532	SV (V: =@10, S: RaUEAAAAIBAJ@7)	SVA (V: =@24, S: magic@15, A!: en@25)	SVO (V: says@41, S: Johnson@40, CCOMP: wants@43)	SVO (V: wants@43, S: he@42, O: http@46)
+533	
+534	SV (V: =@10, S: RaUEAAAAIBAJ@7)	SVA (V: =@24, S: magic@15, A!: en@25)	SVA (V: fired@41, S: Westhead@39, A!: after@43)	SVA (V: although@49, S: Westhead@39, A?: after@43, A!: owner@52)	SVO (S: Johnson@44, V: "has", O: criticisms@46)	SVO (S: Lakers@50, V: "has", O: owner@52)	SVO (V: stated@55, S: Buss@54, A?: that@56, O: owner@52)	SVO (S: Johnson@57, V: "has", O: comments@59)	SVA (V: vilified@69, S: Johnson@67, A?: factor@62, A!: by@70)	SVA (V: booed@75, S: Johnson@67, A?: factor@62, A?: by@70, A!: on@77)
+535	
+536	
+537	SVC (S: November@9, V: "is", C: pp@19)	SVC (S: November@9, V: "is", C: October@13)	SVC (S: November@9, V: "is", C: Lazenby@17)
+538	
+539	
+540	
+541	SVO (V: promoted@3, S: Buss@2, O: Riley@7, A?: to@8, A?: with@13, A?: considered@19)	SVO (V: considered@19, S: West@18, XCOMP: assistant@23)	SV (V: assistant@23, S: himself@20)	SVO (S: Riley@21, V: "has", O: assistant@23)	SVO (V: won@31, S: team@30, O: 17@32)	SVO (S: its@34, V: "has", O: games@37)
+542	
+543	
+544	SV (V: =@10, S: e7IMAAAAIBAJ@7)	SVA (V: =@26, S: los-angeles-lakers@15, A!: en@27)
+545	
+546	SVC (S: Lazenby@42, V: "is", C: p@44)	SV (V: =@10, S: e7IMAAAAIBAJ@7)	SVA (V: =@26, S: los-angeles-lakers@15, A!: en@27)
+547	
+548	SVO (S: team@8, V: "has", O: Johnson@11)	SVOC (V: won@19, S: Lakers@18, CCOMP: led@13, O: title@23)	SVOC (V: swept@25, S: Lakers@18, CCOMP: led@13, O: title@23, O: Suns@28)
+549	SVC (S: Lazenby@1, V: "is", C: pp@3)
+550	SVC (S: 203@1, V: "is", C: 218@3)
+551	SVO (V: stretched@3, S: Angeles@2, O: postseason@5, A?: by@11)	SVO (S: its@4, V: "has", O: postseason@5)
+552	SVC (S: Lazenby@1, V: "is", C: p@3)
+553	
+554	SVO (V: won@3, S: team@2, O: Finals@5)	SVA (V: "be finish", S: 2@8, O: run@16)
+555	SVO (V: had@9, S: Lakers@8, A?: On@1, O: pick@13)
+556	
+557	
+558	SVO (V: Pick@9, S: Draft@8, O: August@10)
+559	
+560	
+561	SVO (V: Pick@9, S: Draft@8, O: August@10)
+562	SVO (V: won@3, S: Lakers@2, O: Division@6, A?: at@7, A?: however@32)	SVO (V: suffered@14, S: Worthy@13, O: injury@17, A?: in@18)
+563	SVO (V: advanced@4, S: they@3, A?: Nevertheless@1, XCOMP: play@6)
+564	SVC (S: Lazenby@1, V: "is", C: p@3)
+565	
+566	SVO (V: won@6, S: Sixers@2, A?: however@4, O: series@8, A?: in@12)
+567	SVOO (V: replaced@5, S: West@4, O: Sharman@6, A?: as@7, IO: season@3)	SVO (S: team@9, V: "has", O: GM@11)
+568	SVC (S: Lazenby@1, V: "is", C: p@3)
+569	
+570	SVO (V: went@9, S: Angeles@8, A?: In@1, O: 54@10)
+571	SVO (V: won@2, S: They@1, O: two@3)
+572	SVA (V: credited@17, S: clothesline@5, A?: hard@4, A!: as@18)
+573	SVC (S: Lazenby@1, V: "is", C: p@3)
+574	
+575	SVOC (V: won@2, S: Boston@1, O: three@3, XCOMP: win@9)	SVO (S: Angeles@15, V: "has", O: record@17)
+576	
+577	
+578	
+579	SVC (S: November@1, V: "is", C: Finals@6)
+580	
+581	
+582	SVA (V: "be Using", S: November@1, O: Finals@10)	SVO (S: year@8, V: "has", O: Finals@10)	SVA (V: defeat@11, S: November@1, A!: as@12)	SVOC (V: won@17, S: team@16, CCOMP: defeat@11, O: Division@20, A?: for@21)	SVOC (V: lost@27, S: team@16, CCOMP: defeat@11, O: Division@20, A?: for@21, A?: twice@29, A?: in@30)
+583	SVC (C: hurdle@14, V: were@8, S: Celtics@7, A?: In@1, A?: again@9)	SVO (S: Lakers@11, V: "has", O: hurdle@14)
+584	SVO (V: lost@3, S: Angeles@2, O: one@5, A?: by@10, A?: in@18)	SVA (V: remembered@21, S: what@19, A!: as@22)
+585	
+586	SVC (S: Kareem@1, V: "is", C: Conquer@4)
+587	
+588	SVC (S: Kareem@1, V: "is", C: Conquer@4)
+589	SVO (V: recovered@11, S: Lakers@2, XCOMP: defeat@13)
+590	SVC (S: Lazenby@1, V: "is", C: p@3)
+591	
+592	SVO (V: won@3, S: team@2, O: title@5, A?: becoming@11)	SVA (V: "be becoming", S: team@2, XCOMP: team@15)	SVA (V: "be win", S: team@15, A!: ever@17, O: championship@21)
+593	SVO (V: drafted@3, S: Angeles@2, O: Worthy@5, A?: overall@7, A?: in@8)
+594	
+595	
+596	
+597	
+598	
+599	SVOO (V: started@20, S: Lakers@19, O: 24@21, IO: season@16)
+600	SVO (V: won@2, S: They@1, O: games@4)	SVO (V: title@11, S: They@1, O: games@4)	SVO (S: their@7, V: "has", O: title@11)
+601	
+602	
+603	
+604	
+605	
+606	
+607	SVO (V: defeated@6, S: Rockets@2, A?: however@4, O: Lakers@8, A?: in@9)
+608	SVO (V: won@2, S: Houston@1, O: series@4, A?: hit@8)	SVO (V: hit@8, S: Sampson@7, A?: when@5, O: jumper@11, A?: expired@14)	SVA (V: expired@14, S: time@13, A!: in@15, A?: at@18)
+609	SVO (V: moved@11, S: Lakers@10, A?: Prior@1, O: A.@12)
+610	
+611	
+612	
+613	
+614	
+615	
+616	
+617	
+618	
+619	
+620	SVO (V: won@2, S: Johnson@1, O: Award@7, A?: leading@9)	SVO (S: his@3, V: "has", O: Award@7)	SVO (V: named@23, S: Cooper@21, XCOMP: Player@26)
+621	SVOO (V: made@6, S: Riley@4, O: decision@8, IO: season@3)	SVA (V: "be shift", S: decision@8, O: focus@12)
+622	SVC (S: Lazenby@1, V: "is", C: p@3)
+623	
+624	SVO (V: advanced@3, S: Lakers@2, A?: to@4, A?: by@8, CCOMP: defeating@13)
+625	SVC (S: Lazenby@1, V: "is", C: p@3)
+626	
+627	SVO (V: defeated@3, S: Lakers@2, O: Boston@4, A?: in@5)	SVO (V: split@17, S: teams@16, O: games@21, A?: giving@23)	SVA (V: "be giving", S: teams@16, IO: Angeles@25, O: championship@28, A!: in@29)	SVO (S: their@26, V: "has", O: championship@28)
+628	SVA (V: highlighted@4, S: series@2, A!: by@5)	SVA (V: "be running", S: Johnson@6, O: hook@11)	SVA (V: "be shot", S: hook@11, XCOMP: win@15, A!: at@18, A?: with@21)	SVA (V: "be remaining", S: seconds@23)
+629	
+630	
+631	
+632	
+633	SVO (V: named@3, S: Johnson@1, XCOMP: MVP@7)
+634	SVC (S: Lazenby@1, V: "is", C: pp@3)
+635	SVC (S: 246@1, V: "is", C: 253@3)
+636	SVO (S: Lakers@3, V: "has", O: celebration@6)	SVO (V: declared@14, S: Riley@12, A?: At@1, A?: brashly@13, CCOMP: repeat@19)	SVA (V: repeat@19, S: Angeles@17, A!: as@20)
+637	SVOO (V: took@10, S: Lakers@9, O: title@16, IO: season@6)	SVO (S: their@11, V: "has", O: title@16)
+638	SVOA (V: took@3, S: Angeles@2, O: series@5, A!: in@6)	SVO (V: game@14, S: Angeles@2, O: series@5, A?: in@6)	SVO (S: Worthy@12, V: "has", O: game@14)	SVOO (V: earned@18, S: double@17, IO: him@19, O: award@23)
+639	SVC (S: Lazenby@1, V: "is", C: p@3)
+640	
+641	SVOO (V: won@10, S: Angeles@9, O: games@12, IO: season@6)
+642	SVO (V: swept@2, S: They@1, O: playoffs@4, A?: up@5)	SVOC (V: faced@12, S: They@1, O: playoffs@4, A?: up@5, O: Pistons@15, A?: again@16)
+643	SVC (S: Lazenby@1, V: "is", C: p@3)
+644	
+645	SVA (V: "be hampered", S: Lakers@2, A!: by@5)	SVA (V: swept@14, S: Lakers@2, A!: by@15)
+646	
+647	
+648	
+649	
+650	
+651	
+652	SV (V: _@3, S: banners@2)	SVO (V: retired@5, S: Lakers@4, O: jerseys@6)	SVOC (V: honored@9, S: Lakers@4, O: jerseys@6, O: banner@12)	SVOO (V: announced@33, S: Abdul-Jabbar@32, O: retirement@35, IO: hanging@13)	SVO (S: his@34, V: "has", O: retirement@35)
+653	SVOC (V: decided@14, S: Cooper@13, XCOMP: play@16, O: Player@7)	SVA (V: waived@21, S: Player@7, A?: later@3, A!: at@22)	SVO (S: his@23, V: "has", O: request@24)
+654	
+655	
+656	
+657	SVO (V: went@3, S: Lakers@2, O: 63@4)	SVOC (V: lost@13, S: Lakers@2, O: 63@4, O: 4@14)
+658	SVC (S: Lazenby@1, V: "is", C: pp@3)
+659	
+660	SVO (V: left@2, S: Riley@1, O: team@4, A?: after@5)	SVA (V: "be citing", S: season@7, O: burnout@9)	SVC (S: burnout@9, V: "is", C: p@13)
+661	
+662	
+663	
+664	
+665	SVO (S: Riley@2, V: "has", O: departure@4)	SVO (V: received@5, S: departure@4, O: reaction@8)
+666	SVO (V: respected@2, S: They@1, O: contributions@4)	SVO (S: his@3, V: "has", O: contributions@4)	SVC (V: grown@16, S: some@7, ACOMP: tired@17)	SVC (V: felt@23, S: some@7, ACOMP: tired@17, CCOMP: tried@25)	SVO (S: his@19, V: "has", O: practices@21)	SVO (V: tried@25, S: he@24, XCOMP: take@27)	SVO (S: team@33, V: "has", O: successes@35)
+667	SVC (S: Lazenby@1, V: "is", C: pp@3)
+668	
+669	SVO (V: made@3, S: team@2, O: appearance@6, A?: in@7)	SVO (V: lost@11, S: team@2, O: appearance@6, A?: in@7, A?: in@12, A?: to@15)	SVA (V: "be led", S: team@19, A!: by@21)
+670	
+671	SVC (V: Get@3, S: Bulls@1, A?: Finally@2, XCOMP: Feeling@6)	SVA (V: Feeling@6, S: Championship@5, A!: August@7)
+672	
+673	SVC (V: Get@3, S: Bulls@1, A?: Finally@2, XCOMP: Feeling@6)	SVA (V: Feeling@6, S: Championship@5, A!: August@7)
+674	SVO (V: announced@9, S: Johnson@8, A?: On@1, CCOMP: tested@12)	SVO (V: tested@12, S: he@10, O: positive@13)	SVO (V: retire@18, S: he@10, O: positive@13, A?: immediately@19)
+675	
+676	
+677	SVO (S: Magic@4, V: "has", O: announcement@7)	SVC (S: August@8, V: "is", C: November@14)	SVO (S: their@19, V: "has", O: season@21)	SVOC (V: won@27, S: team@26, CCOMP: years@2, O: games@29)	SVOC (V: became@32, S: team@26, CCOMP: years@2, O: games@29, XCOMP: seed@36)	SVA (V: "be win", S: seed@36, O: games@42, A!: against@46, A?: took@53)	SVO (V: took@53, S: they@52, A?: when@51, O: a@54)
+678	SVOC (V: lost@2, S: They@1, O: games@6, A?: at@7, A?: however@9, O: game@12, A?: in@16)
+679	SVC (S: Lazenby@1, V: "is", C: pp@3)
+680	
+681	SV (V: let@4, S: Pfund@2)	SVO (V: coached@19, S: Johnson@16, O: club@21, A?: with@22, A?: as@27)	SVO (S: his@28, V: "has", O: assistant@30)
+682	SVC (S: Lazenby@1, V: "is", C: p@3)
+683	
+684	SVO (V: decided@2, S: Johnson@1, XCOMP: take@5)	SVO (V: felt@13, S: he@12, O: what@11)	SVC (C: lack@16, V: was@14, S: felt@13, A?: of@17)	SVO (V: ended@26, S: Angeles@25, O: season@28, A?: with@29)	SVA (V: "be streak", S: game@32, A!: finish@36)	SVA (V: "be finish", S: streak@34, O: 33@37)
+685	
+686	
+687	
+688	
+689	
+690	SVO (V: made@9, S: Angeles@8, A?: seasons@5, O: playoffs@11)	SVO (V: eliminated@15, S: Angeles@8, A?: seasons@5, O: playoffs@11, A?: in@16)
+691	
+692	
+693	
+694	
+695	
+696	
+697	
+698	
+699	
+700	
+701	
+702	
+703	SVA (V: coached@4, S: team@2, A!: by@5)	SVA (V: led@9, S: team@2, A?: by@5, A!: by@10)
+704	
+705	
+706	SVO (V: came@3, S: Johnson@2, A?: out@4, A?: in@7, O: season@12)	SVA (V: "be lead", S: season@12, O: 24@17)
+707	SVC (S: Lazenby@1, V: "is", C: p@3)
+708	
+709	SVO (S: Harris@10, V: "has", O: strategies@12)	SVO (V: decided@24, S: Johnson@23, A?: After@1, XCOMP: retire@26)
+710	SVC (S: Lazenby@1, V: "is", C: pp@3)
+711	
+712	SVO (V: acquired@8, S: Lakers@7, A?: During@1, O: Bryant@11, A?: from@12, A?: for@16)	SVC (V: drafted@22, S: Bryant@20, ACOMP: 13th@23, A?: by@40)
+713	SVO (V: signed@4, S: Angeles@2, A?: also@3, O: O'Neal@7)
+714	
+715	
+716	
+717	
+718	
+719	
+720	SVC (C: idea@7, V: was@4, S: Trading@1)	SVO (S: West@5, V: "has", O: idea@7)	SVC (C: influential@12, V: was@11, S: he@10, A?: in@13)	SVO (S: team@15, V: "has", O: signing@17)
+721	SVC (S: Lazenby@1, V: "is", C: pp@3)
+722	
+723	SVC (C: reason@6, V: is@4, S: West@3)	SVO (V: came@8, S: I@7, A?: to@9, O: reason@6)	SV (V: said@16, S: O'Neal@14, A?: later@15)
+724	SVC (S: Lazenby@1, V: "is", C: p@3)
+725	
+726	SVO (V: used@2, S: They@1, O: pick@5, A?: in@6, A?: select@10)	SVA (V: "be select", S: They@1, O: Fisher@12)	SVO (S: their@3, V: "has", O: pick@5)
+727	
+728	
+729	
+730	
+731	
+732	
+733	SVO (V: traded@7, S: team@6, A?: During@1, O: Ceballos@9, A?: to@10, A?: for@12)
+734	
+735	
+736	
+737	
+738	SVOA (V: led@12, S: O'Neal@11, O: team@14, A!: to@15)	SVC (S: record@20, V: "is", C: effort@24)	SVO (S: their@22, V: "has", O: effort@24)
+739	
+740	
+741	
+742	
+743	
+744	
+745	SVO (V: averaged@2, S: O'Neal@1, O: ppg@4)
+746	
+747	
+748	
+749	
+750	
+751	SVC (S: August@7, V: "is", C: ESPN@11)	SVOO (V: defeated@14, S: Lakers@13, O: Blazers@18, A?: in@19, IO: ESPN@11)
+752	SVO (V: scored@2, S: O'Neal@1, O: points@4, A?: in@5, A?: marking@13)	SVA (V: "be marking", S: O'Neal@1, O: playoff@17)	SVA (V: "be scoring", S: playoff@17, O: output@19, A!: by@20)	SVO (V: scored@26, S: West@25, O: 53@27, A?: against@28, A?: in@31)
+753	SVO (V: lost@8, S: Lakers@7, A?: In@1, O: games@10, A?: to@11)
+754	SVO (V: had@12, S: Lakers@11, O: start@15)	SVC (S: history@18, V: "is", C: 11@20)
+755	
+756	
+757	
+758	
+759	
+760	
+761	
+762	
+763	SVO (V: missed@2, S: O'Neal@1, O: games@4, A?: to@6)
+764	SVO (V: battled@3, S: Angeles@2, O: Seattle@4, A?: for@5, A?: most@10)
+765	SVO (V: won@9, S: Lakers@8, A?: In@1, O: 22@10)	SVO (S: their@12, V: "has", O: games@15)
+766	SVO (V: defeated@3, S: Lakers@2, O: games@6, A?: to@7)
+767	SVO (V: faced@6, S: they@5, A?: round@3, O: Seattle@7)
+768	SVO (V: won@4, S: Sonics@3, O: game@7)	SVO (V: responded@11, S: Lakers@10, A?: won@4, A?: with@12, XCOMP: taking@17)	SVO (V: swept@23, S: Lakers@10, A?: won@4, A?: with@12, XCOMP: taking@17, A?: by@24, A?: in@27)
+769	SVA (V: traded@17, S: season@6, A?: During@1, A!: to@18)
+770	SVC (S: Lazenby@1, V: "is", C: p@3)
+771	
+772	SVO (V: acquired@4, S: team@2, A?: also@3, O: J.@5)
+773	
+774	SVC (S: Reid@1, V: "is", C: B.@3)
+775	
+776	
+777	
+778	
+779	SVC (S: March@1, V: "is", C: http@5)
+780	
+781	SVA (V: fired@7, S: Harris@5, A!: in@8, A?: after@10)
+782	SVC (S: Lazenby@1, V: "is", C: pp@3)
+783	
+784	SVO (V: finished@3, S: team@2, O: 31@4)	SVC (C: fourth@14, V: was@13, S: season@10, A?: in@15)
+785	
+786	
+787	
+788	
+789	
+790	
+791	SVO (V: defeated@3, S: Angeles@2, O: Houston@4, A?: in@5)	SVO (V: swept@15, S: Angeles@2, O: Houston@4, A?: in@5, A?: by@16, A?: in@19, A?: with@23)	SVC (C: game@29, V: being@26, S: game@24, A?: played@31)	SVA (V: "be played", S: game@29, A!: ever@30, A?: at@32)
+792	
+793	
+794	
+795	
+796	
+797	
+798	SVA (V: "be Housefollowing", S: theWhite@4, O: championship@9)	SVO (S: their@6, V: "has", O: championship@9)	SVC (S: season@15, V: "is", C: West@17)	SVO (V: prepared@19, S: season@15, XCOMP: hire@21)	SVO (S: team@25, V: "has", O: coach@28)	SVOC (V: caused@39, S: outcry@31, O: him@40, XCOMP: seek@42)
+799	SVC (S: Lazenby@1, V: "is", C: p@3)
+800	
+801	SVO (V: hired@3, S: Angeles@2, O: coach@7)	SVA (V: coached@13, S: Jackson@9, A!: that@14)
+802	SVC (S: Lazenby@1, V: "is", C: pp@3)
+803	
+804	SVO (V: brought@2, S: He@1, O: Winter@6)	SVO (V: installed@9, S: they@8, O: version@12)	SVO (S: Winter@10, V: "has", O: version@12)
+805	SVC (S: Lazenby@1, V: "is", C: p@3)
+806	
+807	SVO (V: signed@2, S: They@1, O: Shaw@5)
+808	
+809	SVC (C: Laker@6, V: was@4, S: Green@1, A?: during@7)
+810	SVA (V: moved@4, S: team@2, A?: also@3, A!: to@5)
+811	
+812	
+813	
+814	
+815	
+816	
+817	
+818	
+819	SVO (V: left@9, S: starters@5, A?: After@1, O: team@11)	SVC (S: team@11, V: "is", C: Kaye@13)
+820	
+821	SVO (V: signed@5, S: 19@1, O: Grant@7)
+822	
+823	
+824	SVA (V: "be Led", S: 22@1, A!: by@3)	SVOC (V: won@10, S: Lakers@9, CCOMP: 22@1, O: 31@11)	SVO (S: their@13, V: "has", O: games@16)
+825	
+826	
+827	
+828	
+829	
+830	
+831	SVO (V: finished@3, S: Angeles@2, O: 67@4)	SVC (S: 15@6, V: "is", C: total@10)	SVO (S: their@8, V: "has", O: total@10)	SVO (V: won@13, S: they@12, O: 65@14, A?: in@15)
+832	SVO (V: eliminated@2, S: They@1, O: Kings@5, A?: in@8)
+833	
+834	
+835	
+836	
+837	
+838	
+839	SVOA (V: took@4, S: Lakers@3, O: games@7, A!: to@8)	SVO (V: won@20, S: Blazers@19, A?: took@4, O: games@24, A?: force@26)	SVA (V: "be force", S: Blazers@19, O: game@28)
+840	
+841	SVO (S: Blazers@1, V: "has", O: spell@4)	SVOC (V: allows@5, S: spell@4, O: Lakers@6, XCOMP: take@8)
+842	SVC (S: June@1, V: "is", C: http@5)
+843	SVO (S: Blazers@1, V: "has", O: spell@4)	SVOC (V: allows@5, S: spell@4, O: Lakers@6, XCOMP: take@8)
+844	SVO (V: were@7, S: Lakers@6, A?: down@8, O: June@1)	SVO (V: went@17, S: Lakers@6, A?: down@8, A?: on@18, O: June@1)	SVA (V: "be tie", S: run@23, O: game@27)
+845	SVO (V: won@2, S: They@1, O: 89@3)	SVA (V: "be advance", S: 84@5, A!: to@8)
+846	SVOC (V: defeated@2, S: They@1, O: Miller@4, XCOMP: win@18)	SVO (S: their@19, V: "has", O: title@21)
+847	
+848	
+849	
+850	
+851	SVA (V: retired@2, S: West@1, A!: from@3, A?: after@12)	SVO (S: his@4, V: "has", O: spot@5)	SVO (S: team@8, V: "has", O: office@11)	SVO (S: team@27, V: "has", O: operations@29)
+852	SVC (S: Lazenby@1, V: "is", C: pp@3)
+853	
+854	SVOO (V: won@7, S: Angeles@6, O: games@12, IO: season@3)	SVC (S: games@12, V: "is", C: http@14)
+855	
+856	
+857	
+858	
+859	
+860	SVA (V: "be defeating", S: swept@2, O: the@12)
+861	
+862	
+863	
+864	0	
+1	SVO (V: joined@8, S: Division@5, O: NBA@9, A?: in@10)	SVC (S: VM@230, V: "is", C: JK@238)	SVOC (C: team@264, V: are@259, S: Lakers@258, A?: based@265, O: lakers2@254)	SVA (V: "be based", S: team@264, A!: in@266)	SVA (S: Angeles@268, V: "is in", C: California@270)
+2	SVA (V: play@2, S: They@1, A!: in@3, A?: in@11)	SVC (S: Association@15, V: "is", C: NBA@17)
+3	SVO (V: play@3, S: Lakers@2, O: games@6, A?: at@7)	SVO (S: their@4, V: "has", O: games@6)	SVO (V: share@13, S: they@12, O: Center@9, A?: with@14)	SVC (S: rival@18, V: "is", C: Clippers@23)	SVC (S: rival@18, V: "is", C: Kings@28)	SVO (S: their@15, V: "has", O: rival@18)	SVA (V: Sparks@37, S: Angeles@36, A!: of@38)
+4	
+5	SVA (V: =@2, S: section@1, A!: about@3)
+6	
+7	SVA (V: =@2, S: section@1, A!: about@3)
+8	SVC (C: one@4, V: are@3, S: Lakers@2, A?: of@5, XCOMP: being@25)	SVOC (C: won@19, V: are@3, S: Lakers@2, A?: of@5, O: championships@21, XCOMP: being@25)	SVO (S: their@23, V: "has", O: being@25)
+9	SVA (V: "be having", S: franchise@13, O: value@21)	SVC (C: franchise@13, V: are@7, S: Lakers@6, A?: As@1, A?: according@14, A?: having@18)
+10	
+11	
+12	SVC (S: January@5, V: "is", C: http@10)
+13	
+14	SVO (V: started@12, S: franchise@11, A?: with@13, O: January@5)	SVC (S: team@20, V: "is", C: Gems@24)
+15	SVOC (V: began@4, S: team@3, O: play@5, A?: in@6, XCOMP: calling@11)	SVA (S: Minneapolis@7, V: "is in", C: Minnesota@9)	SVO (S: state@19, V: "has", O: nickname@21)
+16	SVC (S: Reavis@1, V: "is", C: Tracey@3)	SVC (S: Sacchare@5, V: "is", C: 2000@10)
+17	
+18	SVA (V: "be propelled", S: 95@1, A!: by@11)	SVOO (V: won@4, S: Lakers@3, O: championships@6, IO: 95@1)	SVA (V: described@18, S: Mikan@14, A!: by@19)	SVO (S: NBA@21, V: "has", O: website@24)	SVO (S: league@27, V: "has", O: superstar@31)
+19	
+20	
+21	
+22	
+23	SVO (S: Mikan@13, V: "has", O: retirement@15)	SVO (V: relocated@18, S: November@1, A?: to@19, A?: before@22, O: season@27)	SVO (V: relocated@18, S: they@17, A?: to@19, A?: before@22, O: season@27)
+24	SVC (S: West@10, V: "is", C: Angeles@13)	SVO (V: made@14, S: West@10, CCOMP: times@19)	SVA (V: times@19, S: Finals@17, A!: in@20)
+25	SVOC (V: acquired@6, S: Lakers@5, A?: In@1, O: Chamberlain@11, XCOMP: play@13)	SVOC (V: in@36, S: Lakers@5, A?: In@1, O: Chamberlain@11, XCOMP: play@13, A?: first@35, A?: Angeles@38)	SVO (V: won@28, S: they@27, A?: after@17, O: title@32)	SVO (S: their@29, V: "has", O: title@32)
+26	SVO (V: acquired@11, S: team@10, A?: After@1, O: center@13)	SVOC (C: unable@27, V: was@26, S: team@10, A?: After@1, O: center@13, XCOMP: make@29)	SVC (S: center@13, V: "is", C: Abdul-Jabbar@16)	SVO (V: won@20, S: center@13, O: awards@23)
+27	SVO (V: nicknamed@5, S: Lakers@3, XCOMP: Showtime@7)	SVO (S: their@11, V: "has", O: Johnson@13)
+28	SVO (V: featured@3, S: team@2, O: Hall@4)	SVO (V: Hall@18, S: team@2, O: Hall@4, A?: of@19)	SVC (S: Hall@18, V: "is", C: Riley@24)
+29	SVA (V: were@5, S: Two@1, A!: against@6)	SVA (V: were@5, S: Celtics@11, A!: against@6)	SVO (S: their@7, V: "has", O: rivals@8)
+30	SVO (S: Johnson@4, V: "has", O: retirement@6)	SVA (V: struggled@10, S: team@9, A?: After@1, A!: in@11, A?: before@15)
+31	SVOO (V: won@19, S: Angeles@18, O: titles@22, A?: between@23, IO: Jackson@15)	SVA (V: "be Led", S: Jackson@15, A!: by@2)	SVO (V: securing@28, S: Jackson@15, A?: Led@1, O: franchise@30)	SVC (S: franchise@30, V: "is", C: three-peat@34)	SVO (S: its@31, V: "has", O: three-peat@34)
+32	SVO (V: won@13, S: Lakers@12, A?: After@1, O: championships@16, A?: by@17)
+33	SVO (V: hold@3, S: Lakers@2, O: record@5)	SVA (V: "be set", S: streak@11, A!: during@17)	SVO (S: NBA@7, V: "has", O: streak@11)	SVC (S: streak@11, V: "is", C: 33@13)
+34	
+35	
+36	
+37	SVC (S: October@1, V: "is", C: http@5)
+38	
+39	
+40	SVO (V: played@10, S: Hall@6, A?: for@11, O: October@1)	SVO (V: coached@18, S: four@16, O: team@20)
+41	SVC (S: Abdul-Jabbar@5, V: "is", C: Johnson@8)	SVC (S: Abdul-Jabbar@5, V: "is", C: O'Neal@11)	SVO (V: won@17, S: Lakers@2, O: NBA@19, A?: for@24)
+42	
+43	
+44	
+45	
+46	
+47	
+48	SVOA (V: led@31, S: Lakers@11, O: franchise@34, A!: to@35)	SVO (S: their@36, V: "has", O: championships@40)
+49	SVA (V: described@3, S: He@1, A!: by@4, A?: as@10)	SVO (S: NBA@6, V: "has", O: website@9)
+50	SVO (S: Lakers@2, V: "has", O: franchise@4)	SVA (V: began@5, S: franchise@4, A!: in@6, A?: purchased@16)	SVO (V: purchased@16, S: Berger@10, A?: when@8, O: Gems@21, A?: for@30)	SVC (S: League@26, V: "is", C: NBL@28)
+51	
+52	
+53	SVO (V: played@8, S: Hartman@7, O: key@10)
+54	SVC (S: Lazenby@1, V: "is", C: p@3)
+55	
+56	SVO (S: Minnesota@3, V: "has", O: nickname@5)	SVA (V: "be Inspired", S: Land@8, A!: by@2)	SVOO (V: christened@16, S: team@15, IO: themselves@17, O: Lakers@19)
+57	SVO (V: http@9, S: Roster@6, O: 1956@1)
+58	
+59	
+60	SV (V: http@13, S: November@1)
+61	
+62	
+63	SVOC (V: helped@6, S: Hartman@5, CCOMP: hire@8, O: November@1)	SVO (V: hire@8, S: them@7, O: Kundla@10, A?: from@11)
+64	SVO (S: their@5, V: "has", O: coach@8)
+65	SVC (S: Lazenby@1, V: "is", C: p@3)
+66	
+67	SVO (V: had@3, S: Lakers@2, O: roster@6)	SVA (V: featured@8, S: roster@6, A!: forward@9)	SVC (V: became@23, S: Mikan@20, XCOMP: player@27)
+68	
+69	
+70	
+71	
+72	SVC (S: August@3, V: "is", C: sportsecyclopedia@7)	SVO (S: their@9, V: "has", O: season@11)	SVOO (V: led@14, S: they@13, O: league@16, A?: with@17, IO: August@3)
+73	SVC (S: Lazenby@1, V: "is", C: p@3)
+74	
+75	SVA (V: moved@6, S: Lakers@5, A?: In@1, A!: from@7, A?: to@10)	SV (V: Mikan@21, S: Lakers@5, A?: In@1, A?: from@7, A?: to@10)	SVC (S: Association@13, V: "is", C: BAA@17)
+76	SVC (S: game@3, V: "is", C: ppg@5)	SVA (V: "be scoring", S: game@3, O: average@8)
+77	SVO (V: won@7, S: they@6, A?: In@1, O: championship@9, A?: beating@11)	SVA (V: "be beating", S: they@6, O: Capitols@14, O: games@16, A!: to@17)
+78	SVC (S: Lazenby@1, V: "is", C: p@3)
+79	
+80	SVO (V: improved@7, S: team@6, A?: to@8, O: season@3)	SVA (V: "be repeating", S: 17@11, A!: as@14)
+81	SVC (S: Lazenby@1, V: "is", C: pp@3)
+82	SVC (S: 40@1, V: "is", C: 42@3)
+83	SVO (V: won@9, S: Mikan@8, A?: In@1, A?: season@6, O: title@14)	SVO (S: his@10, V: "has", O: title@14)
+84	SVO (V: went@4, S: Lakers@3, O: 44@5)	SVO (S: their@10, V: "has", O: title@14)
+85	
+86	
+87	
+88	
+89	
+90	
+91	SVC (S: One@1, V: "is", C: loss@10)	SVC (V: became@17, S: One@1, ACOMP: infamous@18, A?: as@19)
+92	SVC (S: Sacchare@1, V: "is", C: ed@3)	SVC (S: Sacchare@1, V: "is", C: 2000@6)
+93	
+94	SVO (V: defeated@7, S: they@6, O: Olympians@10, A?: in@11)	SVO (V: lost@15, S: they@6, O: Olympians@10, A?: in@11, A?: to@16, A?: in@20)
+95	SVO (V: won@9, S: Lakers@8, A?: During@1, O: games@11, A?: finishing@13)	SVA (V: "be finishing", S: Lakers@8, ACOMP: second@14)	SVO (S: their@16, V: "has", O: division@17)
+96	SVO (V: faced@2, S: They@1, O: Knicks@6, A?: in@7)	SVO (V: won@14, S: they@13, O: Finals@10, A?: in@15)
+97	SVOA (V: led@7, S: Mikan@6, A?: In@1, O: NBA@9, A!: in@10)
+98	SVC (S: game@3, V: "is", C: rpg@5)
+99	SVOO (V: defeated@11, S: Lakers@10, O: Pistons@15, A?: in@16, XCOMP: advance@21, IO: season@7)
+100	SVC (S: Lazenby@1, V: "is", C: p@3)
+101	
+102	SVOC (V: defeated@3, S: They@1, A-: then@2, O: Knicks@7, XCOMP: win@9)	SVO (S: their@10, V: "has", O: championship@13)
+103	SVA (V: suffered@6, S: Mikan@5, A!: from@7)	SVC (C: able@18, V: was@16, S: he@15, A?: suffered@6, A?: still@17, A?: to@19)
+104	SVA (V: drafted@6, S: Lovellette@2, A!: in@7)	SVO (V: helped@10, S: Lovellette@2, CCOMP: win@13)	SVO (V: win@13, S: team@12, O: Division@16)
+105	SVC (S: Lazenby@1, V: "is", C: p@3)
+106	
+107	SVO (V: won@3, S: team@2, O: championship@7)	SVO (S: its@4, V: "has", O: championship@7)	SVO (V: defeated@18, S: it@17, A?: when@16, O: Nationals@21, A?: in@22)
+108	SVC (S: Lazenby@1, V: "is", C: p@3)
+109	
+110	SVO (S: Mikan@2, V: "has", O: retirement@4)	SV (V: struggled@12, S: Lakers@11, A?: Following@1)	SVO (V: managed@15, S: Lakers@11, A?: Following@1, A?: still@14, XCOMP: win@17)
+111	SVO (V: defeated@3, S: they@2, O: Royals@6, A?: in@7)	SVA (V: defeated@17, S: they@15, A?: defeated@3, A!: by@18, A?: in@23)
+112	
+113	
+114	
+115	
+116	
+117	
+118	SVO (V: had@3, S: they@2, O: records@5, A?: seasons@9)	SVO (V: made@12, S: they@11, A?: had@3, O: playoffs@14, A?: year@16)
+119	SVA (V: came@2, S: Mikan@1, A!: back@3, A?: for@4)
+120	SVC (S: Lazenby@1, V: "is", C: p@3)
+121	
+122	
+123	
+124	SVA (V: advanced@4, S: they@3, A?: rebounds@1, A!: to@5)
+125	SVO (V: had@3, S: Lakers@2, O: one@4, A?: in@12)	SVOO (V: won@18, S: they@17, A?: when@16, O: games@22, IO: 58@15)
+126	SVC (S: Lazenby@1, V: "is", C: p@3)
+127	
+128	SVOC (V: hired@3, S: They@1, O: Mikan@4, A?: as@20, XCOMP: replace@24)	SVC (C: manager@13, V: been@8, S: Mikan@4, A?: for@14)	SVO (S: team@10, V: "has", O: manager@13)
+129	SVA (V: fired@3, S: Mikan@1, A!: in@4, A?: 9@10)	SVC (C: 9@10, V: was@9, S: team@8, A?: when@6)	SVO (S: 30@12, V: rehired@17, O: fired@3)
+130	
+131	
+132	SVO (V: =@10, S: qOIDAAAAIBAJ@7, O: george-mikan@15)	SVC (S: george-mikan@15, V: "is", C: http@36)
+133	
+134	SVO (V: =@10, S: qOIDAAAAIBAJ@7, O: george-mikan@15)	SVOO (V: earned@34, S: Lakers@33, O: pick@37, A?: in@38, IO: george-mikan@15)	SVOO (V: used@44, S: Lakers@33, O: pick@37, A?: in@38, O: it@45, A?: select@47, IO: george-mikan@15)	SVA (V: "be select", S: used@44, O: Baylor@49)
+135	SV (V: named@5, S: Baylor@1)	SVO (V: averaged@22, S: Rookie@7, O: ppg@24)
+136	
+137	SVA (V: improve@4, S: Lakers@3, A!: to@5, A?: despite@10)	SVO (S: their@8, V: "has", O: division@9)
+138	SVC (S: Sacchare@1, V: "is", C: ed@3)	SVC (S: Sacchare@1, V: "is", C: 1994@6)
+139	
+140	SVO (V: returned@17, S: they@16, CCOMP: 3@3, A?: to@18, A?: beginning@30)	SVO (V: swept@25, S: they@16, CCOMP: 3@3, A?: to@18, A?: by@26, A?: beginning@30)	SVO (V: returned@17, S: 92@1, CCOMP: 3@3, A?: to@18, A?: beginning@30)	SVO (V: swept@25, S: 92@1, CCOMP: 3@3, A?: to@18, A?: by@26, A?: beginning@30)	SVA (V: "be beginning", S: 92@1, O: rivalry@33)	SVO (S: their@31, V: "has", O: rivalry@33)
+141	SVC (S: Lazenby@1, V: "is", C: p@3)
+142	
+143	SVOA (V: led@3, S: West@2, O: team@5, A!: to@6)
+144	
+145	SVO (V: _@3, S: Clutch@1, O: silhouette@5)	SVO (S: his@4, V: "has", O: silhouette@5)	SVA (V: featured@7, S: _@3, A!: on@8)	SVO (S: NBA@10, V: "has", O: logo.Jerry@13)
+146	
+147	
+148	
+149	
+150	SVA (V: traced@6, S: silhouette@3, A!: back@7)	SVC (S: Angeles@13, V: "is", C: TimesJune@14)	SVO (S: their@19, V: "has", O: year@21)	SVOO (V: went@27, S: Lakers@26, O: 25@28, IO: Angeles@13)
+151	SVO (V: coming@10, S: team@8, A?: On@1, O: loss@13)
+152	SVO (S: their@3, V: "has", O: plane@4)	SVO (V: crashed@5, S: plane@4, A?: when@2, O: Louis@1)
+153	SVC (S: Lazenby@1, V: "is", C: p@3)
+154	
+155	SVOA (V: driven@4, S: storms@2, O: pilot@6, A!: forced@14)	SVO (V: forced@14, S: he@12, A?: when@11, XCOMP: land@16)
+156	SV (V: hurt@4, S: one@2)
+157	SVC (S: Lazenby@1, V: "is", C: pp@3)
+158	
+159	SVO (S: Their@1, V: "has", O: record@2)	SVOO (V: earned@3, S: record@2, IO: them@4, O: number@6)
+160	SVA (V: "be selected", S: team@2, O: West@5)
+161	
+162	
+163	
+164	
+165	
+166	
+167	SVC (V: became@8, S: Lakers@7, A?: During@1, XCOMP: team@15)	SVO (S: NBA@10, V: "has", O: team@15)	SVOC (V: decided@20, S: Short@19, A?: when@16, XCOMP: move@22, O: team@15)
+168	
+169	
+170	
+171	
+172	
+173	
+174	SVO (S: Baylor@3, V: "has", O: ppg@6)
+175	
+176	SVO (V: won@4, S: Angeles@3, O: more@6)	SVO (S: West@12, V: "has", O: season@15)
+177	
+178	
+179	
+180	
+181	
+182	
+183	SVO (V: set@8, S: Baylor@7, A?: On@1, O: a@9)	SVA (V: "be scoring", S: NBA@11, O: record@13)	SVO (V: scored@16, S: he@15, A?: when@14, O: points@18, A?: in@19)
+184	
+185	
+186	
+187	
+188	SVO (V: broke@6, S: Baylor@5, A?: In@1, O: record@10)	SVO (S: his@7, V: "has", O: record@10)
+189	SVO (V: made@8, S: Lakers@7, A?: Despite@1, O: playoffs@10)
+190	
+191	
+192	
+193	
+194	
+195	
+196	SVA (V: came@2, S: They@1, A!: within@3, A?: lost@12)	SVA (V: lost@12, S: they@11, A?: when@10, A!: in@13)	SVO (S: their@17, V: "has", O: series@20)
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	SVA (V: traced@7, S: silhouette@4, A!: back@8, A?: to@9)	SVA (V: "be Led", S: June@20, A!: by@25)
+206	
+207	
+208	
+209	
+210	
+211	
+212	
+213	SVA (V: improved@3, S: Lakers@2, A!: to@4)
+214	SVOC (V: grabbed@8, S: Baylor@7, A?: In@1, O: rebounds@10, O: www.nba.com/history/baylor61_moments@36)	SVOC (V: Scores@27, S: Baylor@7, A?: In@1, O: rebounds@10, A?: for@29, O: www.nba.com/history/baylor61_moments@36)	SVOC (V: set@12, S: Baylor@7, A?: In@1, O: rebounds@10, O: record@16, A?: for@17, A?: in@19, O: www.nba.com/history/baylor61_moments@36)
+215	
+216	
+217	SVC (S: December@1, V: "is", C: Scores@6)
+218	
+219	
+220	
+221	SVC (S: Lazenby@1, V: "is", C: p@3)
+222	
+223	SVA (V: lost@6, S: Lakers@2, A?: however@4, A!: to@7, A?: by@10)
+224	SVA (V: "be tie", S: seconds@12, O: game@16)	SVA (V: Win@19, S: Selvy@2, A?: after@4, A!: Again@20)	SVA (V: Win@19, S: Celtics@18, A?: after@4, A!: Again@20)
+225	SVO (V: Was@3, S: It@2, O: http@5)
+226	
+227	SVO (V: =@10, S: eekFAAAAIBAJ@7, O: los-angeles-lakers@15)
+228	SVO (V: Was@3, S: It@2, O: http@5)
+229	
+230	SVO (V: =@10, S: eekFAAAAIBAJ@7, O: los-angeles-lakers@15)	SVC (S: April@26, V: "is", C: Press@31)	SVO (V: missed@32, S: pJAyAAAAIBAJ@3, O: shot@39)	SVO (V: missed@32, S: id@1, O: shot@39)	SVA (V: "be miss", S: a@43, CCOMP: said@47)	SVOC (V: said@47, S: he@46, O: which@45, CCOMP: haunted@52)
+231	
+232	
+233	SVO (V: miss@6, S: Selvy@4, A?: in@7, A?: still@10, O: =@2)	SVC (S: November@12, V: "is", C: St@16)
+234	
+235	
+236	SVO (V: miss@6, S: Selvy@4, A?: in@7, A?: still@10, O: =@2)	SVC (S: November@12, V: "is", C: St@16)
+237	SVO (V: won@11, S: June@3, O: games@13, A?: in@14)	SVO (S: Baylor@20, V: "has", O: ppg@23)
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	SVO (V: won@24, S: team@23, A?: After@1, O: games@26, A?: in@27)
+247	SVA (V: surged@3, S: Lakers@2, A!: past@4)	SVO (S: West@14, V: "has", O: ppg@18)
+248	
+249	SVC (S: Sacchare@1, V: "is", C: ed@3)	SVC (S: Sacchare@1, V: "is", C: 1994@6)
+250	
+251	SVO (V: lost@3, S: They@2, A?: again@4, A?: to@5, A?: in@7, A?: however@10, O: 402@1)
+252	
+253	
+254	
+255	
+256	
+257	
+258	SVA (V: lost@3, S: Angeles@2, A!: in@4, A?: to@7, A?: in@9, A?: again@12, A?: in@13, A?: time@17, A?: by@18)
+259	
+260	
+261	
+262	
+263	
+264	
+265	SVA (V: "be entering", S: 16@3, O: quarter@7)	SVA (V: "be go", S: half@16)	SVOO (V: mounted@22, S: Lakers@21, O: rally@25, A?: in@26, IO: Down@1)	SVC (V: fell@31, S: moments@29, ACOMP: short@33)
+266	
+267	
+268	SV (V: =@11, S: kDAAAAIBAJ@8)
+269	
+270	SVO (V: =@11, S: kDAAAAIBAJ@8, O: los-angeles-lakers@16)	SVC (S: April@28, V: "is", C: Press@33)	SVO (V: lost@52, S: they@51, A?: in@53, A?: to@56, A?: again@59, A?: in@60, O: los-angeles-lakers@16)
+271	SVO (V: moved@3, S: Angeles@2, A?: to@4, O: Forum@10)
+272	SVA (V: played@3, S: Chamberlain@2, A!: for@4, A?: for@7, A?: during@10)
+273	
+274	
+275	
+276	
+277	
+278	SVO (V: acquired@12, S: team@11, O: Chamberlain@14, A?: from@15)
+279	
+280	
+281	
+282	
+283	SVO (S: his@2, V: "has", O: season@4)	SVOA (V: set@10, S: Chamberlain@9, A?: In@1, A?: as@5, O: record@13, A!: by@14)
+284	
+285	
+286	
+287	
+288	
+289	
+290	
+291	SVO (V: averaged@8, S: West@1, O: points@11)	SVO (V: won@16, S: Angeles@15, O: division@18)	SVO (S: their@17, V: "has", O: division@18)
+292	
+293	
+294	
+295	
+296	
+297	
+298	SVA (V: met@6, S: Lakers@2, A?: again@5, A!: in@7)	SVO (V: had@14, S: Angeles@13, O: advantage@17, A?: against@18, A?: for@20)	SVO (S: their@25, V: "has", O: rivalry@26)
+299	SVO (V: won@2, S: They@1, O: game@5)	SVO (S: West@8, V: "has", O: points@11)	SVC (S: Sacchare@13, V: "is", C: 1994@18)
+300	
+301	
+302	SVC (S: Lazenby@1, V: "is", C: p@3)
+303	
+304	SVO (V: won@2, S: Boston@1, O: series@4, A?: in@5, A?: p@12)
+305	
+306	SVO (S: their@3, V: "has", O: Championship@6)
+307	SVC (S: Lazenby@1, V: "is", C: p@3)
+308	
+309	SVO (V: named@3, S: West@1, XCOMP: MVP@7)	SVC (V: remains@10, S: this@9, XCOMP: time@13)	SVO (V: won@22, S: member@16, O: award@24)
+310	
+311	SVO (S: West@1, V: "has", O: Heroics@3)	SVO (V: Deprive@6, S: Heroics@3, O: Russell@7)	SVC (S: Russell@7, V: "is", C: NBA.com@15)
+312	
+313	SVO (S: West@1, V: "has", O: Heroics@3)	SVO (V: Deprive@6, S: Heroics@3, O: Russell@7)	SVC (S: Russell@7, V: "is", C: NBA.com@15)
+314	SVO (V: won@5, S: West@4, A?: In@1, O: title@9)	SVO (S: his@6, V: "has", O: title@9)
+315	SVA (V: returned@4, S: team@3, A!: to@5)	SVO (V: have@21, S: they@18, A?: for@10, XCOMP: face@23)	SVO (V: defeated@35, S: Knicks@32, O: 3@39)
+316	
+317	
+318	
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	SVA (V: "be led", S: season@3, A!: by@14, A?: in@26)	SVO (V: defeated@7, S: Lakers@5, A?: by@8, O: season@3)
+327	
+328	
+329	
+330	
+331	
+332	
+333	SVO (V: brought@6, S: season@5, A?: 1971@2, O: changes@8)
+334	SVOC (V: brought@5, S: Cooke@4, O: Sharman@8, A?: as@9, O: www.nba.com/lakers/history/lakers_history_new@17)	SVC (S: coach@11, V: "is", C: http@13)
+335	
+336	
+337	
+338	
+339	
+340	
+341	
+342	SVO (V: announced@4, S: Baylor@3, O: retirement@6, A?: early@7, A?: after@11)	SVO (S: his@5, V: "has", O: retirement@6)	SVO (S: his@14, V: "has", O: legs@15)	SVC (C: healthy@18, V: were@16, S: legs@15, A?: enough@19)
+343	SVO (V: increased@2, S: Sharman@1, O: discipline@6)	SVO (S: team@4, V: "has", O: discipline@6)
+344	
+345	
+346	SVO (V: introduced@5, S: He@4, O: concept@7)	SVO (V: arrive@15, S: players@13, A?: where@12, A?: at@16, A?: early@19, A?: before@23, O: shootaround@10)	SVA (V: "be practice", S: game@25, O: shots@28)
+347	SVC (S: Lazenby@1, V: "is", C: p@3)
+348	
+349	SVO (V: won@2, S: They@1, O: games@5, A?: in@6)	SVO (V: games@11, S: They@1, O: games@5, A?: in@6, A?: played@12)	SVA (V: "be played", S: games@11, A!: in@13)
+350	SVO (V: won@2, S: They@1, O: three@3)	SVO (V: ended@19, S: Bucks@18, A?: on@12, O: streak@22, A?: by@23)	SVO (S: their@20, V: "has", O: streak@22)
+351	SVC (S: Lazenby@1, V: "is", C: p@3)
+352	
+353	SVO (V: set@9, S: Angeles@8, A?: By@1, O: record@11)
+354	
+355	
+356	
+357	
+358	
+359	
+360	SVO (V: won@3, S: Lakers@2, O: games@5)	SVA (V: stood@10, S: season@7, A!: as@11)	SVO (V: won@22, S: Bulls@21, O: games@24, A?: in@25)
+361	
+362	
+363	
+364	
+365	
+366	
+367	SVO (V: averaged@2, S: Chamberlain@1, O: 14.8@5)
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	
+376	
+377	SVC (S: game@3, V: "is", C: apg@5)	SVO (V: led@7, S: assists@1, O: league@9)	SVOC (V: averaged@13, S: he@11, CCOMP: led@7, A?: also@12, O: points@17)	SVOC (V: named@21, S: he@11, CCOMP: led@7, A?: also@12, O: points@17, XCOMP: MVP@22)
+378	SVO (V: failed@3, S: team@2, XCOMP: score@5)
+379	
+380	SVO (V: named@13, S: Sharman@11, A?: 173@1, XCOMP: Coach@14)
+381	
+382	
+383	
+384	
+385	
+386	
+387	SVA (V: went@3, S: Lakers@2, A!: on@4)	SVOO (V: avenge@17, S: they@15, A?: where@14, O: loss@21, A?: by@22, IO: finals@8)	SVO (S: their@18, V: "has", O: loss@21)	SVA (V: games@26, S: them@24, A!: to@27)
+388	SVO (V: tallied@2, S: Chamberlain@1, O: points@4, A?: in@8)	SVOC (V: won@12, S: Chamberlain@1, O: points@4, A?: in@8, O: Finals@15)
+389	SVC (S: Lazenby@1, V: "is", C: p@3)
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	SVC (C: Laker@8, V: was@6, S: uprightthumbHall@1, A?: for@9, A?: in@12)	SVC (C: played@19, V: was@6, S: uprightthumbHall@1, A?: for@9, A?: in@12, A?: in@20)
+398	SVO (V: won@3, S: Lakers@2, O: games@5, A?: in@6)
+399	
+400	
+401	
+402	
+403	
+404	
+405	
+406	
+407	SVA (V: "be playing", S: Chamberlain@2, A!: in@5)	SVO (S: his@6, V: "has", O: season@8)	SVO (V: led@11, S: Chamberlain@2, A?: again@10, O: league@13)	SVOC (V: set@17, S: Chamberlain@2, A?: again@10, O: league@13, O: record@22, A?: at@26)
+408	
+409	SVOC (V: defeated@3, S: team@2, O: Bulls@6, A?: in@7, O: Warriors@19)
+410	SVO (V: played@2, S: They@1, O: Knicks@6, A?: in@7)
+411	SVOA (V: took@3, S: Angeles@2, O: game@6, A!: by@7)	SVO (V: won@14, S: York@13, O: series@16, A?: in@17)
+412	
+413	SVC (S: Win@2, V: "is", C: NBA.com@13)
+414	
+415	SVC (S: Win@2, V: "is", C: NBA.com@13)
+416	SVO (V: hampered@11, S: team@9, A?: by@12, O: season@6)	SVO (V: played@19, S: West@16, O: games@22, A?: gave@26)	SVO (S: his@24, V: "has", O: legs@25)	SV (V: gave@26, S: legs@25)
+417	
+418	
+419	
+420	
+421	
+422	
+423	
+424	
+425	SVA (V: "be averaging", S: Goodrich@1, O: 25.3@4)
+426	SVO (V: helped@3, S: points@1, O: team@5, A?: to@6)
+427	SVC (V: left@11, S: Trailing@1, XCOMP: play@13)	SVOC (V: rallied@17, S: Lakers@16, CCOMP: left@11, XCOMP: finish@19)
+428	SVO (V: made@2, S: They@1, O: playoffs@4)	SVOC (V: managed@6, S: They@1, O: playoffs@4, CCOMP: win@9)	SVA (V: win@9, S: one@8, A!: against@10, A?: in@12)
+429	SVC (V: retired@6, S: West@5, A?: Following@1, ACOMP: due@7)	SVO (V: filed@15, S: West@5, A?: Following@1, ACOMP: due@7, O: suit@17)
+430	SVC (S: Lazenby@1, V: "is", C: pp@3)
+431	
+432	SVO (V: acquired@3, S: Angeles@2, O: Abdul-Jabbar@5, A?: in@6)
+433	SVOO (V: acquired@14, S: Lakers@13, O: Abdul-Jabbar@16, IO: season@10)	SVO (V: won@20, S: Abdul-Jabbar@16, O: MVP@22, A?: by@24)
+434	SVC (S: Lazenby@1, V: "is", C: p@3)
+435	
+436	SVO (V: wanted@2, S: Abdul-Jabbar@1, A?: out@3, XCOMP: demanding@7)
+437	SVC (S: Lazenby@1, V: "is", C: p@3)
+438	
+439	SVA (V: traded@3, S: He@1, A!: for@4)
+440	SVO (V: had@2, S: Abdul-Jabbar@1, O: season@6)	SVOC (V: blocked@18, S: Abdul-Jabbar@1, O: season@6, O: shots@19)	SVO (S: his@3, V: "has", O: season@6)	SVA (V: "be leading", S: season@6, O: league@14)	SV (V: played@23, S: minutes@22)
+441	
+442	
+443	
+444	
+445	
+446	
+447	
+448	
+449	SVO (V: struggled@4, S: Angeles@3, A?: in@5, XCOMP: going@8)
+450	SVO (V: settled@4, S: West@1, O: differences@6)	SVO (V: lawsuit@13, S: West@1, O: differences@6)	SVO (S: their@5, V: "has", O: differences@6)	SVO (S: Laker@11, V: "has", O: lawsuit@13)	SVOC (V: hired@17, S: Cooke@16, O: him@18, XCOMP: replace@20)	SVO (S: team@24, V: "has", O: coach@26)
+451	SVC (S: Lazenby@1, V: "is", C: pp@3)
+452	
+453	SVC (V: became@2, S: West@1, ACOMP: upset@3, A?: however@5, A?: refused@9)	SVO (V: refused@9, S: Cooke@8, A?: when@7, XCOMP: spend@11)	SVO (V: selling@25, S: Nets@23, O: Erving@19)
+454	SVC (S: Lazenby@1, V: "is", C: pp@3)
+455	
+456	SVC (S: Abdul-Jabbar@6, V: "is", C: Angeles@9)	SVO (V: won@10, S: Abdul-Jabbar@6, O: Division@13)
+457	
+458	
+459	
+460	
+461	
+462	
+463	SVO (V: defeated@2, S: They@1, O: Warriors@4, A?: in@5)	SVA (V: "be open", S: series@8, O: postseason@12, A!: before@13)
+464	SVO (V: picked@7, S: Angeles@6, A?: During@1, O: Wilkes@10, A?: from@11)	SVOC (V: signed@15, S: Angeles@6, A?: During@1, O: Wilkes@10, A?: from@11, O: Nixon@20)
+465	SVO (V: punched@18, S: Abdul-Jabbar@17, A?: In@1, A?: season@15, O: Benson@22)	SVOC (V: broke@29, S: Abdul-Jabbar@17, A?: In@1, A?: season@15, O: Benson@22, O: hand@31)	SVO (S: his@30, V: "has", O: hand@31)
+466	SVC (S: Lazenby@1, V: "is", C: p@3)
+467	
+468	SVA (V: got@8, S: Abdul-Jabbar@7, A?: later@3, A!: into@9, A?: after@18)
+469	SVO (V: averaging@13, S: Washington@9, O: 11.5@14)
+470	
+471	SVC (S: rebounds@1, V: "is", C: http@3)
+472	
+473	
+474	
+475	
+476	
+477	SVA (V: ran@9, S: Tomjanovich@8, A?: when@6, A!: in@10)	SVO (V: punched@21, S: Washington@20, O: him@22, A?: in@23)
+478	
+479	
+480	SVO (V: died@4, S: Tomjanovich@2, A?: nearly@3, A?: from@5, XCOMP: suffering@9)	SVO (V: ended@19, S: injuries@16, A?: prematurely@18, O: career@22)	SVO (S: his@20, V: "has", O: career@22)
+481	SVC (S: Lazenby@1, V: "is", C: p@3)
+482	
+483	SVO (V: stated@4, S: Washington@1, CCOMP: assumed@7)	SVO (V: assumed@7, S: he@6, CCOMP: combatant@11)	SVC (C: combatant@11, V: was@9, S: Tomjanovich@8, A?: suspended@14)	SVC (C: released@23, V: was@9, S: Tomjanovich@8, A?: suspended@14, A?: by@24)	SVA (V: "be suspended", S: combatant@11, A!: for@15)
+484	SVC (S: Night@7, V: "is", C: Lives@10)	SVO (V: Changed@16, S: Fight@14, O: Basketball@17)
+485	
+486	
+487	SVC (S: November@1, V: "is", C: Punch@8)	SVC (S: Night@11, V: "is", C: Lives@14)	SVO (V: Changed@20, S: Fight@18, O: Basketball@21)
+488	
+489	
+490	SVOO (V: won@7, S: team@6, O: games@9, IO: November@1)
+491	
+492	
+493	
+494	
+495	
+496	
+497	SVO (V: posted@10, S: team@9, O: record@15)
+498	SVO (V: led@7, S: Johnson@2, O: Showtime@10)
+499	SVO (V: selected@9, S: Angeles@8, A?: In@1, O: 6-foot@10)
+500	
+501	
+502	
+503	
+504	
+505	
+506	SVOA (V: took@2, S: It@1, O: teammates@5, A!: as@15)	SVO (S: Johnson@3, V: "has", O: teammates@5)	SVA (V: "be acclimate", S: time@6, O: themselves@9, A!: to@10)	SVO (S: his@11, V: "has", O: ability@13)	SVC (V: passes@20, S: no-look@18, ACOMP: caught@22)	SV (V: unaware@24, S: them@23)
+507	SV (V: adjusted@3, S: they@2)	SVO (S: his@5, V: "has", O: passing@6)	SVC (V: became@7, S: passing@6, A?: adjusted@3, XCOMP: part@10)	SVO (S: Angeles@13, V: "has", O: offense@15)
+508	SVC (S: Lazenby@1, V: "is", C: pp@3)
+509	SVC (S: 193@1, V: "is", C: 200@3)
+510	SVO (V: won@3, S: Lakers@2, O: games@5, A?: in@6)	SVOC (V: defeated@13, S: Lakers@2, O: games@5, A?: in@6, O: 76ers@16, A?: in@17, A?: in@20)	SVO (S: Johnson@7, V: "has", O: year@10)
+511	SVO (V: won@2, S: Johnson@1, O: award@7, A?: after@9)	SVOC (V: tallying@22, S: Johnson@1, O: award@7, A?: after@9, O: points@24)	SV (V: assists@31, S: seven@30)
+512	
+513	
+514	
+515	
+516	
+517	
+518	SVA (V: fell@3, S: team@2, A!: in@5)	SVO (V: lost@17, S: Lakers@16, O: Johnson@18, A?: for@19)
+519	
+520	
+521	
+522	
+523	
+524	
+525	
+526	
+527	SVO (V: turned@3, S: team@2, O: 54@6, A?: in@17)
+528	SVA (V: "be led", S: Rockets@2, A!: by@5)	SVO (V: defeated@9, S: Rockets@2, O: Angeles@11, A?: in@12)
+529	SVA (V: complained@10, S: Johnson@9, A?: Early@1, A!: to@11)	SVO (V: demanded@20, S: Johnson@9, A?: Early@1, A?: to@11, O: trade@22)
+530	SVO (V: says@3, S: Johnson@2, CCOMP: wants@5)	SVO (V: wants@5, S: he@4, O: http@8)
+531	
+532	SV (V: =@10, S: RaUEAAAAIBAJ@7)	SVA (V: =@24, S: magic@15, A!: en@25)	SVO (V: says@41, S: Johnson@40, CCOMP: wants@43)	SVO (V: wants@43, S: he@42, O: http@46)
+533	
+534	SV (V: =@10, S: RaUEAAAAIBAJ@7)	SVA (V: =@24, S: magic@15, A!: en@25)	SVA (V: fired@41, S: Westhead@39, A!: after@43)	SVA (V: although@49, S: Westhead@39, A?: after@43, A!: owner@52)	SVO (S: Johnson@44, V: "has", O: criticisms@46)	SVO (S: Lakers@50, V: "has", O: owner@52)	SVO (V: stated@55, S: Buss@54, A?: that@56, O: owner@52)	SVO (S: Johnson@57, V: "has", O: comments@59)	SVA (V: vilified@69, S: Johnson@67, A?: factor@62, A!: by@70)	SVA (V: booed@75, S: Johnson@67, A?: factor@62, A?: by@70, A!: on@77)
+535	
+536	
+537	SVC (S: November@9, V: "is", C: pp@19)	SVC (S: November@9, V: "is", C: October@13)	SVC (S: November@9, V: "is", C: Lazenby@17)
+538	
+539	
+540	
+541	SVO (V: promoted@3, S: Buss@2, O: Riley@7, A?: to@8, A?: with@13, A?: considered@19)	SVO (V: considered@19, S: West@18, XCOMP: assistant@23)	SV (V: assistant@23, S: himself@20)	SVO (S: Riley@21, V: "has", O: assistant@23)	SVO (V: won@31, S: team@30, O: 17@32)	SVO (S: its@34, V: "has", O: games@37)
+542	
+543	
+544	SV (V: =@10, S: e7IMAAAAIBAJ@7)	SVA (V: =@26, S: los-angeles-lakers@15, A!: en@27)
+545	
+546	SVC (S: Lazenby@42, V: "is", C: p@44)	SV (V: =@10, S: e7IMAAAAIBAJ@7)	SVA (V: =@26, S: los-angeles-lakers@15, A!: en@27)
+547	
+548	SVO (S: team@8, V: "has", O: Johnson@11)	SVOC (V: won@19, S: Lakers@18, CCOMP: led@13, O: title@23)	SVOC (V: swept@25, S: Lakers@18, CCOMP: led@13, O: title@23, O: Suns@28)
+549	SVC (S: Lazenby@1, V: "is", C: pp@3)
+550	SVC (S: 203@1, V: "is", C: 218@3)
+551	SVO (V: stretched@3, S: Angeles@2, O: postseason@5, A?: by@11)	SVO (S: its@4, V: "has", O: postseason@5)
+552	SVC (S: Lazenby@1, V: "is", C: p@3)
+553	
+554	SVO (V: won@3, S: team@2, O: Finals@5)	SVA (V: "be finish", S: 2@8, O: run@16)
+555	SVO (V: had@9, S: Lakers@8, A?: On@1, O: pick@13)
+556	
+557	
+558	SVO (V: Pick@9, S: Draft@8, O: August@10)
+559	
+560	
+561	SVO (V: Pick@9, S: Draft@8, O: August@10)
+562	SVO (V: won@3, S: Lakers@2, O: Division@6, A?: at@7, A?: however@32)	SVO (V: suffered@14, S: Worthy@13, O: injury@17, A?: in@18)
+563	SVO (V: advanced@4, S: they@3, A?: Nevertheless@1, XCOMP: play@6)
+564	SVC (S: Lazenby@1, V: "is", C: p@3)
+565	
+566	SVO (V: won@6, S: Sixers@2, A?: however@4, O: series@8, A?: in@12)
+567	SVOO (V: replaced@5, S: West@4, O: Sharman@6, A?: as@7, IO: season@3)	SVO (S: team@9, V: "has", O: GM@11)
+568	SVC (S: Lazenby@1, V: "is", C: p@3)
+569	
+570	SVO (V: went@9, S: Angeles@8, A?: In@1, O: 54@10)
+571	SVO (V: won@2, S: They@1, O: two@3)
+572	SVA (V: credited@17, S: clothesline@5, A?: hard@4, A!: as@18)
+573	SVC (S: Lazenby@1, V: "is", C: p@3)
+574	
+575	SVOC (V: won@2, S: Boston@1, O: three@3, XCOMP: win@9)	SVO (S: Angeles@15, V: "has", O: record@17)
+576	
+577	
+578	
+579	SVC (S: November@1, V: "is", C: Finals@6)
+580	
+581	
+582	SVA (V: "be Using", S: November@1, O: Finals@10)	SVO (S: year@8, V: "has", O: Finals@10)	SVA (V: defeat@11, S: November@1, A!: as@12)	SVOC (V: won@17, S: team@16, CCOMP: defeat@11, O: Division@20, A?: for@21)	SVOC (V: lost@27, S: team@16, CCOMP: defeat@11, O: Division@20, A?: for@21, A?: twice@29, A?: in@30)
+583	SVC (C: hurdle@14, V: were@8, S: Celtics@7, A?: In@1, A?: again@9)	SVO (S: Lakers@11, V: "has", O: hurdle@14)
+584	SVO (V: lost@3, S: Angeles@2, O: one@5, A?: by@10, A?: in@18)	SVA (V: remembered@21, S: what@19, A!: as@22)
+585	
+586	SVC (S: Kareem@1, V: "is", C: Conquer@4)
+587	
+588	SVC (S: Kareem@1, V: "is", C: Conquer@4)
+589	SVO (V: recovered@11, S: Lakers@2, XCOMP: defeat@13)
+590	SVC (S: Lazenby@1, V: "is", C: p@3)
+591	
+592	SVO (V: won@3, S: team@2, O: title@5, A?: becoming@11)	SVA (V: "be becoming", S: team@2, XCOMP: team@15)	SVA (V: "be win", S: team@15, A!: ever@17, O: championship@21)
+593	SVO (V: drafted@3, S: Angeles@2, O: Worthy@5, A?: overall@7, A?: in@8)
+594	
+595	
+596	
+597	
+598	
+599	SVOO (V: started@20, S: Lakers@19, O: 24@21, IO: season@16)
+600	SVO (V: won@2, S: They@1, O: games@4)	SVO (V: title@11, S: They@1, O: games@4)	SVO (S: their@7, V: "has", O: title@11)
+601	
+602	
+603	
+604	
+605	
+606	
+607	SVO (V: defeated@6, S: Rockets@2, A?: however@4, O: Lakers@8, A?: in@9)
+608	SVO (V: won@2, S: Houston@1, O: series@4, A?: hit@8)	SVO (V: hit@8, S: Sampson@7, A?: when@5, O: jumper@11, A?: expired@14)	SVA (V: expired@14, S: time@13, A!: in@15, A?: at@18)
+609	SVO (V: moved@11, S: Lakers@10, A?: Prior@1, O: A.@12)
+610	
+611	
+612	
+613	
+614	
+615	
+616	
+617	
+618	
+619	
+620	SVO (V: won@2, S: Johnson@1, O: Award@7, A?: leading@9)	SVO (S: his@3, V: "has", O: Award@7)	SVO (V: named@23, S: Cooper@21, XCOMP: Player@26)
+621	SVOO (V: made@6, S: Riley@4, O: decision@8, IO: season@3)	SVA (V: "be shift", S: decision@8, O: focus@12)
+622	SVC (S: Lazenby@1, V: "is", C: p@3)
+623	
+624	SVO (V: advanced@3, S: Lakers@2, A?: to@4, A?: by@8, CCOMP: defeating@13)
+625	SVC (S: Lazenby@1, V: "is", C: p@3)
+626	
+627	SVO (V: defeated@3, S: Lakers@2, O: Boston@4, A?: in@5)	SVO (V: split@17, S: teams@16, O: games@21, A?: giving@23)	SVA (V: "be giving", S: teams@16, IO: Angeles@25, O: championship@28, A!: in@29)	SVO (S: their@26, V: "has", O: championship@28)
+628	SVA (V: highlighted@4, S: series@2, A!: by@5)	SVA (V: "be running", S: Johnson@6, O: hook@11)	SVA (V: "be shot", S: hook@11, XCOMP: win@15, A!: at@18, A?: with@21)	SVA (V: "be remaining", S: seconds@23)
+629	
+630	
+631	
+632	
+633	SVO (V: named@3, S: Johnson@1, XCOMP: MVP@7)
+634	SVC (S: Lazenby@1, V: "is", C: pp@3)
+635	SVC (S: 246@1, V: "is", C: 253@3)
+636	SVO (S: Lakers@3, V: "has", O: celebration@6)	SVO (V: declared@14, S: Riley@12, A?: At@1, A?: brashly@13, CCOMP: repeat@19)	SVA (V: repeat@19, S: Angeles@17, A!: as@20)
+637	SVOO (V: took@10, S: Lakers@9, O: title@16, IO: season@6)	SVO (S: their@11, V: "has", O: title@16)
+638	SVOA (V: took@3, S: Angeles@2, O: series@5, A!: in@6)	SVO (V: game@14, S: Angeles@2, O: series@5, A?: in@6)	SVO (S: Worthy@12, V: "has", O: game@14)	SVOO (V: earned@18, S: double@17, IO: him@19, O: award@23)
+639	SVC (S: Lazenby@1, V: "is", C: p@3)
+640	
+641	SVOO (V: won@10, S: Angeles@9, O: games@12, IO: season@6)
+642	SVO (V: swept@2, S: They@1, O: playoffs@4, A?: up@5)	SVOC (V: faced@12, S: They@1, O: playoffs@4, A?: up@5, O: Pistons@15, A?: again@16)
+643	SVC (S: Lazenby@1, V: "is", C: p@3)
+644	
+645	SVA (V: "be hampered", S: Lakers@2, A!: by@5)	SVA (V: swept@14, S: Lakers@2, A!: by@15)
+646	
+647	
+648	
+649	
+650	
+651	
+652	SV (V: _@3, S: banners@2)	SVO (V: retired@5, S: Lakers@4, O: jerseys@6)	SVOC (V: honored@9, S: Lakers@4, O: jerseys@6, O: banner@12)	SVOO (V: announced@33, S: Abdul-Jabbar@32, O: retirement@35, IO: hanging@13)	SVO (S: his@34, V: "has", O: retirement@35)
+653	SVOC (V: decided@14, S: Cooper@13, XCOMP: play@16, O: Player@7)	SVA (V: waived@21, S: Player@7, A?: later@3, A!: at@22)	SVO (S: his@23, V: "has", O: request@24)
+654	
+655	
+656	
+657	SVO (V: went@3, S: Lakers@2, O: 63@4)	SVOC (V: lost@13, S: Lakers@2, O: 63@4, O: 4@14)
+658	SVC (S: Lazenby@1, V: "is", C: pp@3)
+659	
+660	SVO (V: left@2, S: Riley@1, O: team@4, A?: after@5)	SVA (V: "be citing", S: season@7, O: burnout@9)	SVC (S: burnout@9, V: "is", C: p@13)
+661	
+662	
+663	
+664	
+665	SVO (S: Riley@2, V: "has", O: departure@4)	SVO (V: received@5, S: departure@4, O: reaction@8)
+666	SVO (V: respected@2, S: They@1, O: contributions@4)	SVO (S: his@3, V: "has", O: contributions@4)	SVC (V: grown@16, S: some@7, ACOMP: tired@17)	SVC (V: felt@23, S: some@7, ACOMP: tired@17, CCOMP: tried@25)	SVO (S: his@19, V: "has", O: practices@21)	SVO (V: tried@25, S: he@24, XCOMP: take@27)	SVO (S: team@33, V: "has", O: successes@35)
+667	SVC (S: Lazenby@1, V: "is", C: pp@3)
+668	
+669	SVO (V: made@3, S: team@2, O: appearance@6, A?: in@7)	SVO (V: lost@11, S: team@2, O: appearance@6, A?: in@7, A?: in@12, A?: to@15)	SVA (V: "be led", S: team@19, A!: by@21)
+670	
+671	SVC (V: Get@3, S: Bulls@1, A?: Finally@2, XCOMP: Feeling@6)	SVA (V: Feeling@6, S: Championship@5, A!: August@7)
+672	
+673	SVC (V: Get@3, S: Bulls@1, A?: Finally@2, XCOMP: Feeling@6)	SVA (V: Feeling@6, S: Championship@5, A!: August@7)
+674	SVO (V: announced@9, S: Johnson@8, A?: On@1, CCOMP: tested@12)	SVO (V: tested@12, S: he@10, O: positive@13)	SVO (V: retire@18, S: he@10, O: positive@13, A?: immediately@19)
+675	
+676	
+677	SVO (S: Magic@4, V: "has", O: announcement@7)	SVC (S: August@8, V: "is", C: November@14)	SVO (S: their@19, V: "has", O: season@21)	SVOC (V: won@27, S: team@26, CCOMP: years@2, O: games@29)	SVOC (V: became@32, S: team@26, CCOMP: years@2, O: games@29, XCOMP: seed@36)	SVA (V: "be win", S: seed@36, O: games@42, A!: against@46, A?: took@53)	SVO (V: took@53, S: they@52, A?: when@51, O: a@54)
+678	SVOC (V: lost@2, S: They@1, O: games@6, A?: at@7, A?: however@9, O: game@12, A?: in@16)
+679	SVC (S: Lazenby@1, V: "is", C: pp@3)
+680	
+681	SV (V: let@4, S: Pfund@2)	SVO (V: coached@19, S: Johnson@16, O: club@21, A?: with@22, A?: as@27)	SVO (S: his@28, V: "has", O: assistant@30)
+682	SVC (S: Lazenby@1, V: "is", C: p@3)
+683	
+684	SVO (V: decided@2, S: Johnson@1, XCOMP: take@5)	SVO (V: felt@13, S: he@12, O: what@11)	SVC (C: lack@16, V: was@14, S: felt@13, A?: of@17)	SVO (V: ended@26, S: Angeles@25, O: season@28, A?: with@29)	SVA (V: "be streak", S: game@32, A!: finish@36)	SVA (V: "be finish", S: streak@34, O: 33@37)
+685	
+686	
+687	
+688	
+689	
+690	SVO (V: made@9, S: Angeles@8, A?: seasons@5, O: playoffs@11)	SVO (V: eliminated@15, S: Angeles@8, A?: seasons@5, O: playoffs@11, A?: in@16)
+691	
+692	
+693	
+694	
+695	
+696	
+697	
+698	
+699	
+700	
+701	
+702	
+703	SVA (V: coached@4, S: team@2, A!: by@5)	SVA (V: led@9, S: team@2, A?: by@5, A!: by@10)
+704	
+705	
+706	SVO (V: came@3, S: Johnson@2, A?: out@4, A?: in@7, O: season@12)	SVA (V: "be lead", S: season@12, O: 24@17)
+707	SVC (S: Lazenby@1, V: "is", C: p@3)
+708	
+709	SVO (S: Harris@10, V: "has", O: strategies@12)	SVO (V: decided@24, S: Johnson@23, A?: After@1, XCOMP: retire@26)
+710	SVC (S: Lazenby@1, V: "is", C: pp@3)
+711	
+712	SVO (V: acquired@8, S: Lakers@7, A?: During@1, O: Bryant@11, A?: from@12, A?: for@16)	SVC (V: drafted@22, S: Bryant@20, ACOMP: 13th@23, A?: by@40)
+713	SVO (V: signed@4, S: Angeles@2, A?: also@3, O: O'Neal@7)
+714	
+715	
+716	
+717	
+718	
+719	
+720	SVC (C: idea@7, V: was@4, S: Trading@1)	SVO (S: West@5, V: "has", O: idea@7)	SVC (C: influential@12, V: was@11, S: he@10, A?: in@13)	SVO (S: team@15, V: "has", O: signing@17)
+721	SVC (S: Lazenby@1, V: "is", C: pp@3)
+722	
+723	SVC (C: reason@6, V: is@4, S: West@3)	SVO (V: came@8, S: I@7, A?: to@9, O: reason@6)	SV (V: said@16, S: O'Neal@14, A?: later@15)
+724	SVC (S: Lazenby@1, V: "is", C: p@3)
+725	
+726	SVO (V: used@2, S: They@1, O: pick@5, A?: in@6, A?: select@10)	SVA (V: "be select", S: They@1, O: Fisher@12)	SVO (S: their@3, V: "has", O: pick@5)
+727	
+728	
+729	
+730	
+731	
+732	
+733	SVO (V: traded@7, S: team@6, A?: During@1, O: Ceballos@9, A?: to@10, A?: for@12)
+734	
+735	
+736	
+737	
+738	SVOA (V: led@12, S: O'Neal@11, O: team@14, A!: to@15)	SVC (S: record@20, V: "is", C: effort@24)	SVO (S: their@22, V: "has", O: effort@24)
+739	
+740	
+741	
+742	
+743	
+744	
+745	SVO (V: averaged@2, S: O'Neal@1, O: ppg@4)
+746	
+747	
+748	
+749	
+750	
+751	SVC (S: August@7, V: "is", C: ESPN@11)	SVOO (V: defeated@14, S: Lakers@13, O: Blazers@18, A?: in@19, IO: ESPN@11)
+752	SVO (V: scored@2, S: O'Neal@1, O: points@4, A?: in@5, A?: marking@13)	SVA (V: "be marking", S: O'Neal@1, O: playoff@17)	SVA (V: "be scoring", S: playoff@17, O: output@19, A!: by@20)	SVO (V: scored@26, S: West@25, O: 53@27, A?: against@28, A?: in@31)
+753	SVO (V: lost@8, S: Lakers@7, A?: In@1, O: games@10, A?: to@11)
+754	SVO (V: had@12, S: Lakers@11, O: start@15)	SVC (S: history@18, V: "is", C: 11@20)
+755	
+756	
+757	
+758	
+759	
+760	
+761	
+762	
+763	SVO (V: missed@2, S: O'Neal@1, O: games@4, A?: to@6)
+764	SVO (V: battled@3, S: Angeles@2, O: Seattle@4, A?: for@5, A?: most@10)
+765	SVO (V: won@9, S: Lakers@8, A?: In@1, O: 22@10)	SVO (S: their@12, V: "has", O: games@15)
+766	SVO (V: defeated@3, S: Lakers@2, O: games@6, A?: to@7)
+767	SVO (V: faced@6, S: they@5, A?: round@3, O: Seattle@7)
+768	SVO (V: won@4, S: Sonics@3, O: game@7)	SVO (V: responded@11, S: Lakers@10, A?: won@4, A?: with@12, XCOMP: taking@17)	SVO (V: swept@23, S: Lakers@10, A?: won@4, A?: with@12, XCOMP: taking@17, A?: by@24, A?: in@27)
+769	SVA (V: traded@17, S: season@6, A?: During@1, A!: to@18)
+770	SVC (S: Lazenby@1, V: "is", C: p@3)
+771	
+772	SVO (V: acquired@4, S: team@2, A?: also@3, O: J.@5)
+773	
+774	SVC (S: Reid@1, V: "is", C: B.@3)
+775	
+776	
+777	
+778	
+779	SVC (S: March@1, V: "is", C: http@5)
+780	
+781	SVA (V: fired@7, S: Harris@5, A!: in@8, A?: after@10)
+782	SVC (S: Lazenby@1, V: "is", C: pp@3)
+783	
+784	SVO (V: finished@3, S: team@2, O: 31@4)	SVC (C: fourth@14, V: was@13, S: season@10, A?: in@15)
+785	
+786	
+787	
+788	
+789	
+790	
+791	SVO (V: defeated@3, S: Angeles@2, O: Houston@4, A?: in@5)	SVO (V: swept@15, S: Angeles@2, O: Houston@4, A?: in@5, A?: by@16, A?: in@19, A?: with@23)	SVC (C: game@29, V: being@26, S: game@24, A?: played@31)	SVA (V: "be played", S: game@29, A!: ever@30, A?: at@32)
+792	
+793	
+794	
+795	
+796	
+797	
+798	SVA (V: "be Housefollowing", S: theWhite@4, O: championship@9)	SVO (S: their@6, V: "has", O: championship@9)	SVC (S: season@15, V: "is", C: West@17)	SVO (V: prepared@19, S: season@15, XCOMP: hire@21)	SVO (S: team@25, V: "has", O: coach@28)	SVOC (V: caused@39, S: outcry@31, O: him@40, XCOMP: seek@42)
+799	SVC (S: Lazenby@1, V: "is", C: p@3)
+800	
+801	SVO (V: hired@3, S: Angeles@2, O: coach@7)	SVA (V: coached@13, S: Jackson@9, A!: that@14)
+802	SVC (S: Lazenby@1, V: "is", C: pp@3)
+803	
+804	SVO (V: brought@2, S: He@1, O: Winter@6)	SVO (V: installed@9, S: they@8, O: version@12)	SVO (S: Winter@10, V: "has", O: version@12)
+805	SVC (S: Lazenby@1, V: "is", C: p@3)
+806	
+807	SVO (V: signed@2, S: They@1, O: Shaw@5)
+808	
+809	SVC (C: Laker@6, V: was@4, S: Green@1, A?: during@7)
+810	SVA (V: moved@4, S: team@2, A?: also@3, A!: to@5)
+811	
+812	
+813	
+814	
+815	
+816	
+817	
+818	
+819	SVO (V: left@9, S: starters@5, A?: After@1, O: team@11)	SVC (S: team@11, V: "is", C: Kaye@13)
+820	
+821	SVO (V: signed@5, S: 19@1, O: Grant@7)
+822	
+823	
+824	SVA (V: "be Led", S: 22@1, A!: by@3)	SVOC (V: won@10, S: Lakers@9, CCOMP: 22@1, O: 31@11)	SVO (S: their@13, V: "has", O: games@16)
+825	
+826	
+827	
+828	
+829	
+830	
+831	SVO (V: finished@3, S: Angeles@2, O: 67@4)	SVC (S: 15@6, V: "is", C: total@10)	SVO (S: their@8, V: "has", O: total@10)	SVO (V: won@13, S: they@12, O: 65@14, A?: in@15)
+832	SVO (V: eliminated@2, S: They@1, O: Kings@5, A?: in@8)
+833	
+834	
+835	
+836	
+837	
+838	
+839	SVOA (V: took@4, S: Lakers@3, O: games@7, A!: to@8)	SVO (V: won@20, S: Blazers@19, A?: took@4, O: games@24, A?: force@26)	SVA (V: "be force", S: Blazers@19, O: game@28)
+840	
+841	SVO (S: Blazers@1, V: "has", O: spell@4)	SVOC (V: allows@5, S: spell@4, O: Lakers@6, XCOMP: take@8)
+842	SVC (S: June@1, V: "is", C: http@5)
+843	SVO (S: Blazers@1, V: "has", O: spell@4)	SVOC (V: allows@5, S: spell@4, O: Lakers@6, XCOMP: take@8)
+844	SVO (V: were@7, S: Lakers@6, A?: down@8, O: June@1)	SVO (V: went@17, S: Lakers@6, A?: down@8, A?: on@18, O: June@1)	SVA (V: "be tie", S: run@23, O: game@27)
+845	SVO (V: won@2, S: They@1, O: 89@3)	SVA (V: "be advance", S: 84@5, A!: to@8)
+846	SVOC (V: defeated@2, S: They@1, O: Miller@4, XCOMP: win@18)	SVO (S: their@19, V: "has", O: title@21)
+847	
+848	
+849	
+850	
+851	SVA (V: retired@2, S: West@1, A!: from@3, A?: after@12)	SVO (S: his@4, V: "has", O: spot@5)	SVO (S: team@8, V: "has", O: office@11)	SVO (S: team@27, V: "has", O: operations@29)
+852	SVC (S: Lazenby@1, V: "is", C: pp@3)
+853	
+854	SVOO (V: won@7, S: Angeles@6, O: games@12, IO: season@3)	SVC (S: games@12, V: "is", C: http@14)
+855	
+856	
+857	
+858	
+859	
+860	SVA (V: "be defeating", S: swept@2, O: the@12)
+861	
+862	
+863	
+864	
+865	
+866	
+867	SVO (V: met@2, S: They@1, O: Iverson@4, A?: in@9)
+868	SVO (V: took@4, S: Sixers@3, O: game@5)	SVC (S: one@6, V: "is", C: http@10)
+869	SVA (S: Philadelphia@1, V: "is in", C: Angeles@5)
+870	SVC (S: June@1, V: "is", C: http@5)
+871	SVA (S: Philadelphia@1, V: "is in", C: Angeles@5)
+872	SVO (V: won@7, S: Lakers@6, A?: June@1, O: games@11, A?: win@13)	SVA (V: "be win", S: Lakers@6, O: title@17)	SVO (S: their@14, V: "has", O: title@17)
+873	SVO (S: Their@1, V: "has", O: 15@2)	SVOC (C: best@9, V: is@7, S: record@6, A?: in@10, O: 15@2)
+874	
+875	SVO (V: grab@2, S: Lakers@1, O: title@3)	SVO (V: win@10, S: history@6, A?: August@11, O: CNNSI.com@15)
+876	SVC (S: June@1, V: "is", C: http@5)
+877	SVO (V: grab@2, S: Lakers@1, O: title@3)	SVO (V: win@10, S: history@6, A?: August@11, O: CNNSI.com@15)
+878	SVC (S: O'Neal@8, V: "is", C: left@10)	SVC (S: Bryant@15, V: "is", C: right@17)	SVO (V: helped@20, S: June@1, CCOMP: win@23)	SVO (V: win@23, S: Lakers@22, O: titles@27)
+879	SVA (V: played@3, S: they@2, A!: well@4, A?: together@5, A?: on@6)	SVO (V: had@12, S: pair@11, A?: played@3, O: relationship@15)
+880	SVC (S: Lazenby@1, V: "is", C: pp@3)
+881	
+882	
+883	
+884	
+885	
+886	SVO (V: won@4, S: Angeles@3, O: games@6, A?: in@7)	SVOO (V: won@13, S: 02@10, O: Division@16, IO: 2001@8)
+887	
+888	
+889	
+890	
+891	
+892	
+893	SVO (V: swept@6, S: they@5, A?: In@1, O: Blazers@10, A?: in@11)	SVOC (V: defeated@17, S: they@5, A?: In@1, O: Blazers@10, A?: in@11, O: Spurs@19)
+894	SVO (V: faced@2, S: They@1, O: Kings@4, A?: in@5)
+895	SVO (V: went@3, S: series@2, O: games@5)	SVO (V: ended@10, S: series@2, O: games@5, A?: in@11)
+896	
+897	SVO (V: Dethrone@8, S: Kings@5, O: Dynasty@9, A?: August@10)
+898	
+899	SVO (V: Dethrone@8, S: Kings@5, O: Dynasty@9, A?: August@10)
+900	SVO (V: achieved@4, S: Lakers@2, A-: then@3, O: three-peat@6, A?: by@7)
+901	
+902	
+903	
+904	
+905	
+906	
+907	SVO (V: won@2, S: O'Neal@1, O: each@3, A?: making@12)	SVA (V: "be making", S: O'Neal@1, XCOMP: player@16)	SVA (V: "be win", S: player@16, O: MVPs@25)	SVA (V: player@16, S: him@13, A!: besides@17, A?: win@21)
+908	
+909	
+910	SVC (S: Interactive@7, V: "is", C: NBA.com@10)
+911	SVC (S: July@1, V: "is", C: http@5)
+912	
+913	SVC (S: Interactive@7, V: "is", C: NBA.com@10)
+914	SVO (V: started@7, S: Lakers@6, A?: July@1, O: the@8)
+915	
+916	SVO (S: Kings@1, V: "has", O: August@6)
+917	
+918	SVO (S: Kings@1, V: "has", O: August@6)
+919	SVO (V: went@2, S: They@1, O: 39@3)	SVA (V: "be finish", S: way@10, O: 50@13)
+920	
+921	
+922	
+923	
+924	
+925	
+926	SVO (V: defeated@2, S: They@1, O: Timberwolves@5, A?: in@6)	SVO (V: eliminated@18, S: They@1, O: Timberwolves@5, A?: in@6, A?: by@19, A?: in@22)
+927	SVO (V: http@10, S: Roster@7, O: www.basketball-reference@14)
+928	
+929	
+930	SV (V: http@14, S: November@1)
+931	
+932	
+933	SVOC (C: subject@16, V: was@14, S: team@13, A?: of@17, O: season@10)	SVA (V: "be generated", S: coverage@20, A!: by@22)	SVA (V: "be teaming", S: the@23, A!: of@25)	SVA (V: "be involving", S: case@31, O: Bryant@34)
+934	
+935	
+936	
+937	
+938	SVC (S: November@3, V: "is", C: Angeles@16)	SVC (S: November@3, V: "is", C: August@7)	SVC (S: November@3, V: "is", C: 2003@10)	SVO (V: signed@17, S: November@3, O: Malone@21, A?: of@23)	SVO (V: Player@31, S: November@3, O: Malone@21, A?: of@23, A?: of@32)
+939	
+940	
+941	SVC (S: July@1, V: "is", C: http@5)
+942	
+943	SVO (V: suffered@20, S: O'Neal@19, A?: from@21, O: knee@29)	SVO (V: shoulder@35, S: O'Neal@19, A?: from@21, O: knee@29)
+944	
+945	
+946	
+947	SVC (S: January@7, V: "is", C: http@11)
+948	
+949	
+950	SVC (S: January@7, V: "is", C: http@11)
+951	SVC (S: News@13, V: "is", C: City@17)
+952	SVC (S: Kobe@4, V: "is", C: News@13)	SVC (S: News@13, V: "is", C: City@17)	SVC (S: December@24, V: "is", C: RjwilmsiBot@26)	SVOO (V: started@29, S: Lakers@28, O: 18@30, IO: RjwilmsiBot@26)
+953	SVO (V: won@2, S: They@1, O: title@6)	SVOC (V: entered@9, S: They@1, O: title@6, O: playoffs@11, A?: as@12)
+954	SVO (V: defeated@2, S: They@1, O: Rockets@4, A?: in@10, A?: before@21)
+955	
+956	
+957	
+958	
+959	
+960	
+961	SVO (V: entered@8, S: team@7, A?: During@1, O: phase@11, A?: traded@15)	SVA (V: traded@15, S: O'Neal@13, A?: when@12, A!: to@16)	SVC (S: Grant@25, V: "is", C: Butler@28)
+962	
+963	
+964	
+965	
+966	
+967	
+968	
+969	
+970	SVC (S: November@3, V: "is", C: October@7)	SVO (V: credited@14, S: media@13, O: feud@16, A?: as@17)	SVO (S: their@15, V: "has", O: feud@16)
+971	
+972	
+973	SVC (S: November@9, V: "is", C: July@13)	SVC (S: November@9, V: "is", C: Jackson@17)	SVA (V: return@20, S: November@9, A!: as@21)	SVOO (V: criticized@42, S: he@40, A?: in@38, A?: heavily@41, O: Bryant@43, IO: team@31)	SVOO (V: called@45, S: he@40, A?: in@38, A?: heavily@41, O: Bryant@43, XCOMP: uncoachable@48, IO: team@31)	SV (V: uncoachable@48, S: him@46)
+974	
+975	
+976	SVO (S: Jackson@4, V: "has", O: L.A.@6)
+977	SVO (V: blames@3, S: book@2, O: http@5)
+978	
+979	
+980	SVO (V: blames@3, S: book@2, O: http@5)
+981	
+982	SVOO (V: scorches@17, S: Jackson@16, O: Kobe@18, A?: in@19, IO: November@4)
+983	
+984	SVOO (V: scorches@18, S: Jackson@17, O: Kobe@19, A?: in@20, IO: November@5)
+985	
+986	SVC (S: November@5, V: "is", C: office@16)	SVC (S: November@5, V: "is", C: October@9)	SVO (V: said@17, S: November@5, CCOMP: contained@21)	SVO (V: contained@21, S: book@20, O: inaccuracies@24)
+987	
+988	
+989	SVC (S: November@4, V: "is", C: http@18)
+990	
+991	SVO (V: traded@18, S: Lakers@17, O: Fox@20, A?: for@27)
+992	
+993	
+994	
+995	
+996	SVC (S: Mihm@2, V: "is", C: Fisher@15)	SVC (C: frustrated@17, V: gets@1, S: Mihm@2, A?: with@18)	SVO (S: his@26, V: "has", O: contract@27)
+997	SVOC (V: hired@3, S: team@2, O: Tomjanovich@5, XCOMP: replace@7)
+998	SVO (V: announced@15, S: Malone@14, A?: After@1, O: retirement@17)	SVO (S: his@16, V: "has", O: retirement@17)
+999	
+1000	SVO (V: Hangs@2, S: Malone@1, O: It@3, A?: November@5)
+1001	
+1002	SVO (V: Hangs@2, S: Malone@1, O: It@3, A?: November@5)
+1003	SVOC (V: coached@2, S: Tomjanovich@1, O: team@4, A?: to@5, O: record@10)
+1004	
+1005	
+1006	SVOC (V: named@6, S: Hamblen@4, XCOMP: coach@9, XCOMP: replace@11)
+1007	
+1008	
+1009	
+1010	
+1011	
+1012	
+1013	SVC (S: Bryant@13, V: "is", C: ankle@15)	SVO (V: suffered@22, S: November@1, O: injuries@23)	SVO (V: suffered@22, S: Bryant@13, O: injuries@23)	SVO (V: finished@28, S: Lakers@27, O: 34@29)
+1014	SVO (V: selected@12, S: Angeles@11, A?: With@1, O: Bynum@14)	SVC (S: Bynum@14, V: "is", C: center@17)
+1015	
+1016	
+1017	
+1018	
+1019	
+1020	SVO (V: traded@4, S: team@2, A?: also@3, O: Butler@6, A?: to@10, A?: for@14)
+1021	
+1022	SVO (V: Acquire@2, S: Wizards@1, O: Butler@4)	SVC (S: Butler@4, V: "is", C: Wizards.com@12)
+1023	
+1024	SVO (V: Acquire@2, S: Wizards@1, O: Butler@4)	SVC (S: Butler@4, V: "is", C: Wizards.com@12)
+1025	SVO (V: returned@2, S: Jackson@1, A?: to@3, O: team@6)	SVO (V: resigned@10, S: Tomjanovich@9, O: midway@11, A?: through@12)
+1026	
+1027	
+1028	SVC (S: id@1, V: "is", C: ESPN@15)	SVC (S: Jackson@4, V: "is", C: Lakers@6)	SVA (V: reunite@7, S: Jackson@4, A!: with@8)	SVOO (V: scored@23, S: Bryant@22, O: points@25, A?: against@26, IO: id@1)	SVC (S: Raptors@29, V: "is", C: total@33)
+1029	
+1030	
+1031	SVO (S: Kobe@1, V: "has", O: game@4)	SVOO (V: Ending@14, S: ESPN@13, O: season@16, IO: August@9)	SVOO (V: made@23, S: team@22, O: playoffs@25, A?: after@26, IO: season@16)
+1032	
+1033	
+1034	
+1035	
+1036	
+1037	
+1038	SVC (V: came@16, S: Suns@15, A?: After@1, A?: back@17, XCOMP: take@19)
+1039	
+1040	
+1041	SVC (S: Series@3, V: "is", C: NBA.com@10)
+1042	
+1043	
+1044	SVC (S: Series@3, V: "is", C: NBA.com@10)
+1045	SVO (V: won@7, S: they@6, A?: In@1, O: 26@8)	SVO (S: their@10, V: "has", O: games@13)
+1046	
+1047	
+1048	
+1049	
+1050	
+1051	SVO (S: their@5, V: "has", O: 43@7)
+1052	SVA (V: eliminated@3, S: They@1, A!: in@4, A?: time@14)
+1053	SVO (S: team@4, V: "has", O: inability@6)	SVA (V: "be advance", S: inability@6, A!: in@9)	SVA (V: "be Frustrated", S: Bryant@13, A!: by@2)	SVO (V: demanded@14, S: Bryant@13, A?: Frustrated@1, XCOMP: traded@17)
+1054	
+1055	
+1056	SVO (V: agreed@4, S: Buss@2, A?: initially@3, XCOMP: seek@6)	SVC (S: trade@8, V: "is", C: Heisler@10)
+1057	
+1058	SVO (S: Bryant@9, V: "has", O: mind@11)
+1059	
+1060	
+1061	SVA (V: "be Obamafollowing", S: withBarack@4, O: championship@9, A!: After@10)	SVO (S: their@6, V: "has", O: championship@9)	SVC (S: Fisher@13, V: "is", C: Angeles@16)	SVO (V: started@17, S: Fisher@13, O: season@22, A?: with@23)	SVC (S: Bynum@32, V: "is", C: center@35)	SVO (S: their@34, V: "has", O: center@35)	SVOA (V: leading@38, S: center@35, O: league@40, A!: in@41)	SVA (V: went@45, S: Bynum@32, A!: for@47, A?: to@51)
+1062	
+1063	
+1064	
+1065	
+1066	SVC (S: USA@5, V: "is", C: Press@12)	SVOO (V: acquired@14, S: They@13, O: Gasol@18, A?: from@19, A?: in@23, A?: in@26, IO: Press@12)	SVA (V: "be finish", S: 5@33, O: season@37)
+1067	
+1068	
+1069	SVOO (V: earned@9, S: Lakers@3, IO: them@10, O: seed@13)
+1070	
+1071	
+1072	
+1073	SVC (S: seed@2, V: "is", C: home-court@4)
+1074	SVC (S: April@1, V: "is", C: http@5)
+1075	
+1076	
+1077	SVC (S: seed@2, V: "is", C: home-court@4)
+1078	SVO (V: awarded@7, S: Bryant@5, O: award@12, A?: becoming@14)	SVA (V: "be becoming", S: Bryant@5, XCOMP: Laker@17)	SVO (S: league@9, V: "has", O: award@12)	SVA (V: "be win", S: Laker@17, O: award@21, A!: since@22)
+1079	
+1080	
+1081	SVC (S: September@1, V: "is", C: http@5)
+1082	
+1083	SVC (S: September@1, V: "is", C: http@5)
+1084	
+1085	SVC (C: NBA.com@5, V: is@3, S: Bryant@2)
+1086	
+1087	
+1088	SVC (C: NBA.com@5, V: is@3, S: Bryant@2)
+1089	SVC (S: September@1, V: "is", C: May@5)	SVO (V: defeated@14, S: they@13, O: Nuggets@16, A?: in@17)	SVA (V: Spurs@30, S: Jazz@22, A?: defeated@14, A!: in@31)	SVA (V: lost@35, S: Jazz@22, A?: defeated@14, A?: in@31, A!: to@36, A?: in@39)
+1090	SVO (V: http@10, S: Roster@7, O: www.basketball-reference@14)
+1091	
+1092	
+1093	SV (V: http@14, S: November@1)
+1094	
+1095	
+1096	SVOO (V: finished@14, S: Lakers@13, O: 65@15, IO: season@10)
+1097	
+1098	
+1099	
+1100	
+1101	SVOC (V: defeated@6, S: They@5, A?: June@1, O: Jazz@8, A?: in@9, O: Rockets@14, A?: win@24)	SVA (V: "be win", S: They@5, O: title@28)
+1102	SVO (V: won@3, S: They@1, A-: then@2, O: championship@7, A?: by@8)	SVO (S: their@4, V: "has", O: championship@7)
+1103	SV (V: http@10, S: Roster@7)
+1104	
+1105	
+1106	SV (V: http@14, S: November@1)
+1107	
+1108	
+1109	SVO (V: named@7, S: Bryant@5, O: MVP@11)	SVO (S: his@17, V: "has", O: career@18)
+1110	SVO (V: prove@2, S: Magic@1, O: match@4, A?: as@5)	SVOC (V: claim@9, S: Lakers@8, O: http@13, O: espn.go.com/nba/recap?gameId=290614019@17)
+1111	SVO (V: prove@7, S: June@2, O: match@9)	SVOC (V: claim@14, S: Lakers@13, CCOMP: prove@7, O: http@18)
+1112	SVO (V: added@11, S: ESPN@1, O: Artest@13)
+1113	
+1114	SVC (S: September@10, V: "is", C: http@22)	SVC (S: September@10, V: "is", C: September@14)
+1115	
+1116	SVC (S: September@10, V: "is", C: Times@21)	SVC (S: September@10, V: "is", C: September@14)	SVO (S: their@29, V: "has", O: lineup@31)	SVO (V: finished@33, S: Artest@1, A?: in@23, O: 2009@35)
+1117	SVC (V: became@9, S: Lakers@8, A?: On@1, XCOMP: team@12)	SVA (V: "be win", S: team@12, O: games@21, A!: by@22)
+1118	
+1119	
+1120	
+1121	
+1122	SVOO (V: defeated@13, S: They@12, O: Thunder@17, IO: January@1)	SVC (S: Thunder@17, V: "is", C: Jazz@21)
+1123	SVO (V: played@7, S: Lakers@6, A?: In@1, O: Celtics@10, A?: for@11)
+1124	SVA (V: rallied@2, S: They@1, A!: back@3, A?: from@4)	SVO (V: erased@14, S: They@1, A?: back@3, A?: from@4, O: deficit@17, A?: in@18, A?: defeat@27)	SVA (V: "be defeat", S: erased@14, O: Celtics@29)
+1125	SV (V: win@3, S: series@2)	SVO (S: their@6, V: "has", O: title@9)	SVA (V: moved@15, S: they@14, A!: to@16)
+1126	
+1127	
+1128	
+1129	SVC (S: December@1, V: "is", C: http@5)
+1130	
+1131	
+1132	SVA (V: named@7, S: Bryant@5, A!: despite@18)
+1133	
+1134	SVO (V: edge@2, S: Lakers@1, O: Celtics@3, A?: in@4)	SVOC (V: win@8, S: Lakers@1, O: Celtics@3, A?: in@4, O: title@10)	SVC (S: June@17, V: "is", C: http@21)
+1135	SVO (V: edge@2, S: Lakers@1, O: Celtics@3, A?: in@4)	SVO (V: returned@29, S: Jackson@28, CCOMP: win@8, A?: for@30)
+1136	
+1137	
+1138	SVO (V: return@4, S: Jackson@2, A?: to@5, CCOMP: defeated@28)	SVC (S: June@16, V: "is", C: Bresnahan@21)	SVO (V: defeated@28, S: Lakers@8, A?: July@9, A?: Los@13, A?: Times@15, A?: June@16, O: Hornets@32, A?: in@33)	SVO (V: defeated@28, S: Lakers@27, A?: July@9, A?: Los@13, A?: Times@15, A?: June@16, O: Hornets@32, A?: in@33)	SVO (V: defeated@28, S: Angeles@14, A?: July@9, A?: Los@13, A?: Times@15, A?: June@16, O: Hornets@32, A?: in@33)
+1139	
+1140	
+1141	
+1142	

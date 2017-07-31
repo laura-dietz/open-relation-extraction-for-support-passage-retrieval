@@ -1,0 +1,94 @@
+0	thumbrightLogoof the NBA Finals . 
+1	List of NBA champions The NBA Finals is the championship series of the National Basketball Association ( NBA ) . 
+1	"The NBA Finals"	"is"	"the championship series of the National Basketball Association NBA champions"	
+1	"The NBA Finals"	"is"	"the championship series NBA champions"	
+1	"the National Basketball Association"	"is"	"NBA"	
+2	The series was named the NBA World Championship Series until 1986 . 
+2	"2 The series"	"was named"	"the NBA World Championship Series until 1986"	
+2	"2 The series"	"was named"	"the NBA World Championship Series"	
+3	The series is played between the winners of Western Conference Finals and Eastern Conference Finals . 
+3	"3 The series"	"is played"	"between the winners of Western Conference Finals"	
+3	"3 The series"	"is played"	"between the winners of Western Conference Eastern Conference Finals"	
+4	At the conclusion of the championship round , the winners of the NBA Finals are awarded the Larry O'Brien Championship Trophy . 
+4	"the winners of the NBA Finals"	"are awarded"	"the Larry O'Brien Championship Trophy"	
+5	( Winners from 1946 to 1977 received the Walter A. 
+5	"5 Winners from 1946 to 1977"	"received"	"the Walter A."	
+6	Brown Trophy ) The NBA Finals has been played at the conclusion of every NBA and BAA season in history , the first being held in 1947 . 
+6	"The NBA Finals"	"has been played"	"at the conclusion of every NBA in history"	
+6	"The NBA Finals"	"has been played"	"at the conclusion of every BAA season in history"	
+6	"the first"	"be held"	"in 1947"	
+7	Since 1985 , the winner of the NBA Finals has been determined through a 2–3–2 format . 
+7	"the winner of the NBA Finals"	"has been determined"	"through a 2 3 2 format"	
+8	The first two and the last two games of the series are played at the arena of the team who earned home court advantage by having the better record during the regular season . 
+8	"The first two"	"are played"	"at the arena of the team 8"	
+8	"The first the last two games of the series"	"are played"	"at the arena of the team 8"	
+8	"The first two"	"are played"	"8"	
+8	"The first the last two games of the series"	"are played"	"8"	
+8	"the team"	"earned"	"home court advantage by having the better record during the regular season"	
+8	"the team"	"earned"	"home court advantage"	
+9	section December 2007 List of NBA champions During the first decade the Minneapolis Lakers had the first NBA dynasty , winning 5 championships in 6 years under Hall of Fame head coach John Kundla . 
+9	"the Minneapolis Lakers"	"had"	"the first NBA dynasty 9 section December 2007 List of NBA champions During the first decade"	
+9	"9 section December 2007 List of NBA champions During the first decade"	"winning"	"5 championships in 6 years"	
+9	"9 section December 2007 List of NBA champions During the first decade"	"winning"	"5 championships under Hall of Fame head coach John Kundla"	
+9	"9 section December 2007 List of NBA champions During the first decade"	"winning"	"5 championships"	
+10	The team also featured George Mikan , one of the greatest players in the history of the NBA . 
+10	"10 The team"	"featured"	"George Mikan also"	
+10	"10 The team"	"featured"	"George Mikan"	
+10	"George Mikan"	"is"	"one of the greatest players in the history of the NBA"	
+11	Franchises which had previously been in the National Basketball League tended to dominate , especially the Minneapolis Lakers . 
+11	"11 Franchises"	"had been"	"in the National Basketball League previously"	
+11	"11 Franchises"	"had been"	"in the National Basketball League"	
+11	"11 Franchises"	"tended"	"to dominate especially the Minneapolis Lakers"	
+12	The Boston Celtics went 11–1 in the NBA Finals during thirteen seasons ( 1956–1957 to 1968–1969 ) . 
+12	"12 The Boston Celtics"	"went"	"11 1 in the NBA Finals during thirteen seasons 1956 1957 to 1968 1969"	
+13	The Boston Celtics won the NBA Finals 8 years in a row during the 1958–59 to 1965–66 NBA seasons . 
+13	"13 The Boston Celtics"	"won"	"the NBA Finals 8 years in a row during the 1958"	
+13	"13 The Boston Celtics"	"won"	"the NBA Finals 8 years in a row"	
+14	http ://www.nba.com/history/finals/champions 
+15	.html 
+16	The Boston Celtics and Los Angeles Lakers made up 19 of 26 possible NBA appearances during thirteen seasons ( 1956–1957 to 1968–1969 ) . 
+16	"16 The Boston Celtics"	"made up"	"19 of 26 possible NBA appearances during thirteen seasons 1956 1957 to 1968 1969"	
+16	"16 The Boston Los Angeles Lakers"	"made up"	"19 of 26 possible NBA appearances during thirteen seasons 1956 1957 to 1968 1969"	
+17	The two teams met 6 times during the 8 years Boston won the NBA in a row . 
+17	"17 The two teams"	"met"	"6 times during the 8 years"	
+17	"17 The two teams"	"met"	"6 times"	
+17	"Boston"	"won"	"the NBA in a row the 8 years"	
+17	"Boston"	"won"	"the NBA the 8 years"	
+18	This period includes one season ( 1958–1959 ) when the Lakers were still based in Minneapolis , and it marks the largest stretch of seasons ( 14 ) that two teams made up over 65 % of NBA appearances , second being the 10 seasons ( 1979–1980 to 1988 –1989 ) the Boston Celtics and Los Angeles Lakers appeared 13 times . 
+18	"18 This period"	"includes"	"one season 1958 1959 when the Lakers were still based in Minneapolis"	
+18	"18 This period"	"includes"	"one season 1958 1959"	
+18	"the Lakers"	"were based"	"in Minneapolis when"	
+18	"the Lakers"	"were based"	"in Minneapolis still"	
+18	"the Lakers"	"were based"	"in Minneapolis"	
+18	"it"	"marks"	"the largest stretch of seasons second being the 10 seasons 1979 1980 to 1988 1989"	
+18	"seasons"	"is"	"14"	
+18	"two teams"	"made up"	"seasons over 65 % of NBA appearances"	
+18	"two teams"	"made up"	"seasons"	
+18	"second"	"being"	"the 10 seasons 1979 1980 to 1988 1989"	
+18	"the Boston Celtics"	"appeared"	"13 times the 10 seasons 1979 1980 to 1988 1989"	
+18	"the Boston Los Angeles Lakers"	"appeared"	"13 times the 10 seasons 1979 1980 to 1988 1989"	
+18	"the Boston Celtics"	"appeared"	"the 10 seasons 1979 1980 to 1988 1989"	
+18	"the Boston Los Angeles Lakers"	"appeared"	"the 10 seasons 1979 1980 to 1988 1989"	
+19	For most of the late 1950s and the 1960s , the Celtics seemed always to have the upper hand on Wilt Chamberlain 's teams . 
+19	"the Celtics"	"seemed"	"always to have the upper hand on Wilt Chamberlain 's teams"	
+19	"the Celtics"	"seemed"	"always to have the upper hand on Wilt Chamberlain 's teams"	
+19	"the Celtics"	"seemed"	"to have the upper hand on Wilt Chamberlain 's teams"	
+19	"the Celtics"	"seemed"	"to have the upper hand on Wilt Chamberlain 's teams"	
+19	"Wilt Chamberlain"	"has"	"teams"	
+20	With the establishment of the Celtics dynasty in 1957 , Bill Russell became the star of the league . 
+20	"Bill Russell"	"became"	"20 With the establishment of the Celtics dynasty in 1957 the star of the league"	
+21	The seventh game of that year 's championship was decided on a Celtics basket in the final seconds of the second overtime . 
+21	"that year"	"has"	"championship"	
+21	"21 The seventh game of that year 's championship"	"was decided"	"on a Celtics basket in the final seconds of the second overtime"	
+21	"21 The seventh game of that year 's championship"	"was decided"	"on a Celtics basket"	
+22	In 1964 , Wilt Chamberlain , who had moved to California with his team , the former Philadelphia Warriors , led the San Francisco Warriors to a Western Conference championship , but again failed to conquer the Celtics . 
+22	"Wilt Chamberlain"	"is"	"the former Philadelphia Warriors"	
+22	"Wilt Chamberlain"	"had moved"	"to California with his team"	
+22	"Wilt Chamberlain"	"had moved"	"to California"	
+22	"his"	"has"	"team"	
+22	"Wilt Chamberlain"	"led"	"22 In 1964 the San Francisco Warriors to a Western Conference championship"	
+22	"Wilt Chamberlain"	"led"	"22 In 1964 the San Francisco Warriors"	
+22	"Wilt Chamberlain"	"failed"	"22 In 1964 the San Francisco Warriors to conquer the Celtics to a Western Conference championship"	
+22	"Wilt Chamberlain"	"failed"	"22 In 1964 the San Francisco Warriors to conquer the Celtics again"	
+22	"Wilt Chamberlain"	"failed"	"22 In 1964 the San Francisco Warriors to conquer the Celtics"	
+23	The following season , he was traded back to Philadelphia , to

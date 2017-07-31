@@ -1,0 +1,150 @@
+thumb300pxrightKetogenesis Pathway Ketogenesis is the process by which ketone bodies are produced as a result of fatty acid breakdown . 	0	query281_Ketogenesis\S\0
+"thumb300pxrightKetogenesis Pathway Ketogenesis"	"is"	"the process"	0	query281_Ketogenesis\P\0-0
+"ketone bodies"	"are produced"	"the process by which"	0	query281_Ketogenesis\P\0-1
+"ketone bodies"	"are produced"	"as a result of fatty acid breakdown the process"	0	query281_Ketogenesis\P\0-2
+"ketone bodies"	"are produced"	"the process"	0	query281_Ketogenesis\P\0-3
+Ketone bodies are produced mainly in the mitochondria of liver cells . 	1	query281_Ketogenesis\S\1
+"Ketone bodies"	"are produced"	"mainly in the mitochondria of liver cells"	1	query281_Ketogenesis\P\1-0
+Its synthesis occurs in response to low glucose levels in the blood , and after exhaustion of cellular carbohydrate stores , such as glycogen . 	2	query281_Ketogenesis\S\2
+Its synthesis occurs in response to low glucose levels in the blood , and after exhaustion of cellular carbohydrate stores , such as glycogen . 	2	query281_Ketogenesis\S\2
+"Its synthesis"	"occurs"	"in response to low glucose levels in the blood"	2	query281_Ketogenesis\P\2-0
+"Its synthesis"	"after"	"exhaustion of cellular carbohydrate stores such as glycogen in response to low glucose levels in the blood"	2	query281_Ketogenesis\P\2-1
+"Its synthesis"	"after"	"exhaustion of cellular carbohydrate stores such as glycogen"	2	query281_Ketogenesis\P\2-2
+The production of ketone bodies is then initiated to make available energy that is stored as fatty acid . 	3	query281_Ketogenesis\S\3
+"The production of ketone bodies"	"is initiated"	"to make available energy"	3	query281_Ketogenesis\P\3-0
+"available energy"	"is stored"	"as fatty acid"	3	query281_Ketogenesis\P\3-1
+Fatty acids are enzymatically broken down in β-oxidation to form acetyl-CoA . 	4	query281_Ketogenesis\S\4
+"Fatty acids"	"are broken down"	"to form acetyl-CoA enzymatically"	4	query281_Ketogenesis\P\4-0
+"Fatty acids"	"are broken down"	"in β-oxidation to form acetyl-CoA"	4	query281_Ketogenesis\P\4-1
+"Fatty acids"	"are broken down"	"to form acetyl-CoA"	4	query281_Ketogenesis\P\4-2
+Under normal conditions , acetyl- CoA is further oxidized and its energy transferred as electrons to NADH , FADH2 , and GTP in the citric acid cycle (TCA cycle ) . 	5	query281_Ketogenesis\S\5
+"acetyl CoA"	"is oxidized"	"as electrons to NADH in the citric acid cycle"	5	query281_Ketogenesis\P\5-0
+"acetyl CoA"	"is oxidized"	"as electrons to FADH2 in the citric acid cycle"	5	query281_Ketogenesis\P\5-1
+"acetyl CoA"	"is oxidized"	"as electrons to GTP in the citric acid cycle"	5	query281_Ketogenesis\P\5-2
+"acetyl CoA"	"is oxidized"	"as electrons to GTP in the citric acid cycle"	5	query281_Ketogenesis\P\5-3
+"the citric acid cycle"	"is"	"TCA cycle"	5	query281_Ketogenesis\P\5-4
+However , if the amounts of acetyl- CoA generated in fatty-acid β-oxidation challenge the processing capacity of the TCA cycle or if activity in the TCA cycle is low due to low amounts of intermediates such as oxaloacetate , acetyl- CoA is then used instead in biosynthesis of ketone bodies via acetoacyl- CoA and β-hydroxy-β-methylglutaryl- CoA ( HMG-CoA ) . 	6	query281_Ketogenesis\S\6
+"acetyl CoA"	"be generated"	"in fatty-acid β-oxidation challenge"	6	query281_Ketogenesis\P\6-0
+"activity in the TCA cycle"	"is low"	"due to low amounts of intermediates such as oxaloacetate"	6	query281_Ketogenesis\P\6-1
+"activity in the TCA cycle"	"is"	"low"	6	query281_Ketogenesis\P\6-2
+"acetyl CoA"	"is used"	"instead oxaloacetate"	6	query281_Ketogenesis\P\6-3
+"acetyl CoA"	"is used"	"in biosynthesis of ketone bodies oxaloacetate"	6	query281_Ketogenesis\P\6-4
+"acetyl CoA"	"is used"	"via acetoacyl CoA CoA oxaloacetate"	6	query281_Ketogenesis\P\6-5
+"acetyl CoA"	"is used"	"via acetoacyl β-hydroxy-β-methylglutaryl CoA oxaloacetate"	6	query281_Ketogenesis\P\6-6
+"acetyl CoA"	"is used"	"oxaloacetate"	6	query281_Ketogenesis\P\6-7
+"acetyl CoA"	"is used"	"oxaloacetate"	6	query281_Ketogenesis\P\6-8
+Besides its role in the synthesis of ketone bodies , HMG-CoA is also an intermediate in the synthesis of cholesterol . 	7	query281_Ketogenesis\S\7
+Besides its role in the synthesis of ketone bodies , HMG-CoA is also an intermediate in the synthesis of cholesterol . 	7	query281_Ketogenesis\S\7
+Besides its role in the synthesis of ketone bodies , HMG-CoA is also an intermediate in the synthesis of cholesterol . 	7	query281_Ketogenesis\S\7
+Besides its role in the synthesis of ketone bodies , HMG-CoA is also an intermediate in the synthesis of cholesterol . 	7	query281_Ketogenesis\S\7
+Besides its role in the synthesis of ketone bodies , HMG-CoA is also an intermediate in the synthesis of cholesterol . 	7	query281_Ketogenesis\S\7
+Besides its role in the synthesis of ketone bodies , HMG-CoA is also an intermediate in the synthesis of cholesterol . 	7	query281_Ketogenesis\S\7
+The three ketone bodies are : Each of these compounds is synthesized from acetyl- CoA molecules . 	8	query281_Ketogenesis\S\8
+"Each of these compounds"	"is synthesized"	"from acetyl CoA molecules"	8	query281_Ketogenesis\P\8-0
+Ketogenesis may or may not occur , depending on levels of available carbohydrates in the cell or body . 	9	query281_Ketogenesis\S\9
+This is closely related to the paths of acetyl- CoA : Ketone bodies are created at moderate levels in everyone 's bodies , such as during sleep and other times when no carbohydrates are available . 	10	query281_Ketogenesis\S\10
+This is closely related to the paths of acetyl- CoA : Ketone bodies are created at moderate levels in everyone 's bodies , such as during sleep and other times when no carbohydrates are available . 	10	query281_Ketogenesis\S\10
+This is closely related to the paths of acetyl- CoA : Ketone bodies are created at moderate levels in everyone 's bodies , such as during sleep and other times when no carbohydrates are available . 	10	query281_Ketogenesis\S\10
+This is closely related to the paths of acetyl- CoA : Ketone bodies are created at moderate levels in everyone 's bodies , such as during sleep and other times when no carbohydrates are available . 	10	query281_Ketogenesis\S\10
+This is closely related to the paths of acetyl- CoA : Ketone bodies are created at moderate levels in everyone 's bodies , such as during sleep and other times when no carbohydrates are available . 	10	query281_Ketogenesis\S\10
+This is closely related to the paths of acetyl- CoA : Ketone bodies are created at moderate levels in everyone 's bodies , such as during sleep and other times when no carbohydrates are available . 	10	query281_Ketogenesis\S\10
+This is closely related to the paths of acetyl- CoA : Ketone bodies are created at moderate levels in everyone 's bodies , such as during sleep and other times when no carbohydrates are available . 	10	query281_Ketogenesis\S\10
+"Ketone bodies"	"are created"	"at moderate levels in everyone 's bodies such as during sleep"	10	query281_Ketogenesis\P\10-0
+"Ketone bodies"	"are created"	"at moderate levels in everyone 's bodies such as during other times"	10	query281_Ketogenesis\P\10-1
+"Ketone bodies"	"are created"	"at moderate levels in everyone 's bodies when no carbohydrates are available"	10	query281_Ketogenesis\P\10-2
+"Ketone bodies"	"are created"	"at moderate levels in everyone 's bodies"	10	query281_Ketogenesis\P\10-3
+"Ketone bodies"	"are created"	"at moderate levels in everyone 's bodies"	10	query281_Ketogenesis\P\10-4
+"no carbohydrates"	"are available"	"when"	10	query281_Ketogenesis\P\10-5
+"no carbohydrates"	"are"	"available"	10	query281_Ketogenesis\P\10-6
+However , when ketogenesis is happening at higher-than-normal levels , the body is said to be in a state of ketosis . 	11	query281_Ketogenesis\S\11
+"However"	"is"	"the body"	11	query281_Ketogenesis\P\11-0
+"However"	"is"	"the body"	11	query281_Ketogenesis\P\11-1
+"However"	"is"	"the body"	11	query281_Ketogenesis\P\11-2
+"However"	"is"	"the body"	11	query281_Ketogenesis\P\11-3
+"However"	"is said"	"to be in a state of ketosis"	11	query281_Ketogenesis\P\11-4
+It is unknown whether ketosis has negative long-term effects . 	12	query281_Ketogenesis\S\12
+"It"	"is"	"unknown whether ketosis has negative long-term effects"	12	query281_Ketogenesis\P\12-0
+"It"	"is"	"unknown whether ketosis has negative long-term effects"	12	query281_Ketogenesis\P\12-1
+Both acetoacetate and beta-hydroxybutyrate are acid , and , if levels of these ketone bodies are too high , the pH of the blood drops , resulting in ketoacidosis . 	13	query281_Ketogenesis\S\13
+Both acetoacetate and beta-hydroxybutyrate are acid , and , if levels of these ketone bodies are too high , the pH of the blood drops , resulting in ketoacidosis . 	13	query281_Ketogenesis\S\13
+Both acetoacetate and beta-hydroxybutyrate are acid , and , if levels of these ketone bodies are too high , the pH of the blood drops , resulting in ketoacidosis . 	13	query281_Ketogenesis\S\13
+Both acetoacetate and beta-hydroxybutyrate are acid , and , if levels of these ketone bodies are too high , the pH of the blood drops , resulting in ketoacidosis . 	13	query281_Ketogenesis\S\13
+Both acetoacetate and beta-hydroxybutyrate are acid , and , if levels of these ketone bodies are too high , the pH of the blood drops , resulting in ketoacidosis . 	13	query281_Ketogenesis\S\13
+Both acetoacetate and beta-hydroxybutyrate are acid , and , if levels of these ketone bodies are too high , the pH of the blood drops , resulting in ketoacidosis . 	13	query281_Ketogenesis\S\13
+"if levels of these ketone bodies are too high the pH of the blood drops"	"be resulting"	"in ketoacidosis"	13	query281_Ketogenesis\P\13-0
+"levels of these ketone bodies"	"are high"	"too"	13	query281_Ketogenesis\P\13-1
+"levels of these ketone bodies"	"are"	"high"	13	query281_Ketogenesis\P\13-2
+"the pH of the blood"	"drops"	"if levels of these ketone bodies are too high"	13	query281_Ketogenesis\P\13-3
+Ketoacidosis is known to occur in untreated Type I diabetes ( see diabetic ketoacidosis ) and in alcoholic after prolonged binge-drinking without intake of sufficient carbohydrates ( see alcoholic ketoacidosis ) . 	14	query281_Ketogenesis\S\14
+"Ketoacidosis"	"is known"	"to occur in untreated Type I diabetes"	14	query281_Ketogenesis\P\14-0
+"Ketoacidosis"	"is known"	"to in alcoholic in untreated Type I diabetes"	14	query281_Ketogenesis\P\14-1
+"Ketoacidosis"	"is known"	"to in alcoholic after prolonged binge-drinking without intake of sufficient carbohydrates see alcoholic ketoacidosis"	14	query281_Ketogenesis\P\14-2
+"Ketoacidosis"	"is known"	"to in alcoholic"	14	query281_Ketogenesis\P\14-3
+Less commonly , some patients with poorly controlled Type 2 diabetes may have detectable levels of plasma ketones without significant acidosis . 	15	query281_Ketogenesis\S\15
+"some patients with poorly controlled Type 2 diabetes"	"may have"	"detectable levels of plasma ketones 15 Less commonly"	15	query281_Ketogenesis\P\15-0
+"some patients with poorly controlled Type 2 diabetes"	"may have"	"detectable levels of plasma ketones without significant acidosis 15"	15	query281_Ketogenesis\P\15-1
+"some patients with poorly controlled Type 2 diabetes"	"may have"	"detectable levels of plasma ketones 15"	15	query281_Ketogenesis\P\15-2
+Category :Metabolism es :Cetogénesis fr:Cétogenèse fi:ketogeneesi sv:ketogenes zh :生酮作用 Acetoacetate , which , if not oxidized to form usable energy , is the source of the two other ketone bodies below Acetone , which , unlike free fatty acids , can be used by the brain for energy . 	16	query281_Ketogenesis\S\16
+Category :Metabolism es :Cetogénesis fr:Cétogenèse fi:ketogeneesi sv:ketogenes zh :生酮作用 Acetoacetate , which , if not oxidized to form usable energy , is the source of the two other ketone bodies below Acetone , which , unlike free fatty acids , can be used by the brain for energy . 	16	query281_Ketogenesis\S\16
+Category :Metabolism es :Cetogénesis fr:Cétogenèse fi:ketogeneesi sv:ketogenes zh :生酮作用 Acetoacetate , which , if not oxidized to form usable energy , is the source of the two other ketone bodies below Acetone , which , unlike free fatty acids , can be used by the brain for energy . 	16	query281_Ketogenesis\S\16
+Acetone is generated through the decarboxylation of acetoacetate which may occur spontaneously or through the enzyme acetoacetate decarboxylase . 	17	query281_Ketogenesis\S\17
+"Acetone"	"is generated"	"through the decarboxylation of acetoacetate"	17	query281_Ketogenesis\P\17-0
+"the decarboxylation of acetoacetate"	"may occur"	"spontaneously"	17	query281_Ketogenesis\P\17-1
+"the decarboxylation of acetoacetate"	"may through"	"the enzyme acetoacetate decarboxylase spontaneously"	17	query281_Ketogenesis\P\17-2
+"the decarboxylation of acetoacetate"	"may through"	"the enzyme acetoacetate decarboxylase"	17	query281_Ketogenesis\P\17-3
+β-hydroxybutyrate , which is not , in the technical sense , a ketone according to IUPAC nomenclature . 	18	query281_Ketogenesis\S\18
+It is generated through the action of the enzyme D-β-hydroxybutyrate dehydrogenase on acetoacetate . 	19	query281_Ketogenesis\S\19
+It is generated through the action of the enzyme D-β-hydroxybutyrate dehydrogenase on acetoacetate . 	19	query281_Ketogenesis\S\19
+It is generated through the action of the enzyme D-β-hydroxybutyrate dehydrogenase on acetoacetate . 	19	query281_Ketogenesis\S\19
+When the body has ample carbohydrates available as energy source , glucose is completely oxidized to CO2 ; acetyl- CoA is formed as an intermediate in this process , first entering the citric acid cycle followed by complete conversion of its chemical energy to ATP in oxidative phosporylation . 	20	query281_Ketogenesis\S\20
+When the body has ample carbohydrates available as energy source , glucose is completely oxidized to CO2 ; acetyl- CoA is formed as an intermediate in this process , first entering the citric acid cycle followed by complete conversion of its chemical energy to ATP in oxidative phosporylation . 	20	query281_Ketogenesis\S\20
+"the body"	"has"	"ample carbohydrates available as energy source 20 When"	20	query281_Ketogenesis\P\20-0
+"the body"	"has"	"ample carbohydrates available as energy source 20"	20	query281_Ketogenesis\P\20-1
+"the body"	"has"	"ample carbohydrates available as energy source 20"	20	query281_Ketogenesis\P\20-2
+"the body"	"has"	"ample carbohydrates available as energy source 20"	20	query281_Ketogenesis\P\20-3
+"the body"	"has"	"ample carbohydrates available as energy source 20"	20	query281_Ketogenesis\P\20-4
+"acetyl CoA"	"is formed"	"as an intermediate in this process"	20	query281_Ketogenesis\P\20-5
+"the citric acid cycle"	"be followed"	"by complete conversion of its chemical energy to ATP in oxidative phosporylation"	20	query281_Ketogenesis\P\20-6
+"the citric acid cycle"	"be followed"	"by complete conversion of its chemical energy to ATP in oxidative phosporylation"	20	query281_Ketogenesis\P\20-7
+When the body has excess carbohydrates available , some glucose is fully metabolized , and some of it is stored by using acetyl- CoA to create fatty acids . 	21	query281_Ketogenesis\S\21
+"the body"	"has"	"excess carbohydrates available 21 When"	21	query281_Ketogenesis\P\21-0
+"the body"	"has"	"excess carbohydrates available 21"	21	query281_Ketogenesis\P\21-1
+"some glucose"	"is metabolized"	"fully"	21	query281_Ketogenesis\P\21-2
+"some of it"	"is stored"	"by using acetyl CoA to create fatty acids"	21	query281_Ketogenesis\P\21-3
+"using acetyl CoA"	"be create"	"fatty acids"	21	query281_Ketogenesis\P\21-4
+( CoA is also recycled here . 	22	query281_Ketogenesis\S\22
+"CoA"	"is recycled"	"here also"	22	query281_Ketogenesis\P\22-0
+"CoA"	"is recycled"	"here"	22	query281_Ketogenesis\P\22-1
+) When the body has no free carbohydrates available , fat must be broken down into acetyl- CoA in order to get energy . 	23	query281_Ketogenesis\S\23
+"the body"	"has"	"When"	23	query281_Ketogenesis\P\23-0
+"no free carbohydrates"	"fat must be broken down"	"available into acetyl CoA"	23	query281_Ketogenesis\P\23-1
+"no free carbohydrates"	"fat must be broken down"	"available in order to get energy"	23	query281_Ketogenesis\P\23-2
+"no free carbohydrates"	"fat must be broken down"	"available"	23	query281_Ketogenesis\P\23-3
+"no free carbohydrates"	"fat must be broken down"	"available"	23	query281_Ketogenesis\P\23-4
+"no free carbohydrates"	"fat must be broken down"	"available"	23	query281_Ketogenesis\P\23-5
+"no free carbohydrates"	"fat must be broken down"	"available"	23	query281_Ketogenesis\P\23-6
+Acetyl-CoA is not being recycled through the citric acid cycle because the citric acid cycle intermediates ( mainly oxaloacetate ) have been depleted to feed the gluconeogenesis pathway , and the resulting accumulation of acetyl- CoA activates ketogenesis . 	24	query281_Ketogenesis\S\24
+"Acetyl-CoA"	"is not being recycled"	"through the citric acid cycle because the citric acid cycle intermediates have been depleted to feed the gluconeogenesis pathway"	24	query281_Ketogenesis\P\24-0
+"Acetyl-CoA"	"is not being recycled"	"through the citric acid cycle"	24	query281_Ketogenesis\P\24-1
+"the citric acid cycle intermediates"	"is"	"mainly oxaloacetate"	24	query281_Ketogenesis\P\24-2
+"the citric acid cycle intermediates"	"have been depleted"	"to feed the gluconeogenesis pathway"	24	query281_Ketogenesis\P\24-3
+"the resulting accumulation of acetyl CoA"	"activates"	"ketogenesis"	24	query281_Ketogenesis\P\24-4
+ketone bodies fatty acid metabolism Ketosis Ketogenic diet at University of South Australia James Baggott . 	25	query281_Ketogenesis\S\25
+( 1998 ) at University of Utah Retrieved 23 May 2005 . 	26	query281_Ketogenesis\S\26
+"at University of Utah Retrieved 23 May 2005"	"is"	"1998"	26	query281_Ketogenesis\P\26-0
+Musa-Veloso K , Likhodii SS , Cunnane SC Breath acetone is a reliable indicator of ketosis in adults consuming ketogenic meals Am . 	27	query281_Ketogenesis\S\27
+"Musa-Veloso K"	"is"	"Likhodii SS"	27	query281_Ketogenesis\P\27-0
+"Musa-Veloso K"	"is"	"Cunnane SC Breath acetone"	27	query281_Ketogenesis\P\27-1
+"Musa-Veloso K"	"is a reliable indicator Am"	"of ketosis"	27	query281_Ketogenesis\P\27-2
+"Musa-Veloso K"	"is a reliable indicator Am"	"in adults consuming ketogenic meals"	27	query281_Ketogenesis\P\27-3
+"Musa-Veloso K"	"is"	"a reliable indicator Am"	27	query281_Ketogenesis\P\27-4
+"Musa-Veloso K"	"is"	"a reliable indicator Am"	27	query281_Ketogenesis\P\27-5
+J. 	28	query281_Ketogenesis\S\28
+Clin . 	29	query281_Ketogenesis\S\29
+Nutr . 	30	query281_Ketogenesis\S\30
+76 1 65–70 1 July 2002 12081817 http ://www.ajcn 	31	query281_Ketogenesis\S\31
+.org/cgi/content/full/76/1/65 	32	query281_Ketogenesis\S\32
+Richard A. 	33	query281_Ketogenesis\S\33
+Paselk . 	34	query281_Ketogenesis\S\34
+( 2001 ) at Humboldt State University Retrieved 23 May 2005 . 	35	query281_Ketogenesis\S\35
+"2001 at Humboldt State University"	"Retrieved"	"23 May 2005"	35	query281_Ketogenesis\P\35-0

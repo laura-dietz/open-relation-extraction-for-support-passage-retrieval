@@ -1,0 +1,972 @@
+generation of electricity using solar energy other uses of solar energy Solar energy January 2012 yes thumbright275pxThePS10 solar power towerPS10concentrates sunlight from a field of heliostats onto a central tower . 	0	query206_Solar_power\S\0
+"generation of electricity"	"be using"	"solar energy other uses of solar energy Solar energy January 2012 yes thumbright275pxThePS10 solar power towerPS10concentrates sunlight from a field of heliostats onto a central tower"	0	query206_Solar_power\P\0-0
+"generation of electricity"	"be using"	"solar energy other uses of solar energy Solar energy January 2012 yes thumbright275pxThePS10 solar power towerPS10concentrates sunlight from a field of heliostats"	0	query206_Solar_power\P\0-1
+Solar power is the conversion of sunlight into electricity , either directly using photovoltaics ( PV) , or indirectly using concentrated solar power ( CSP) . 	1	query206_Solar_power\S\1
+"Solar power"	"is the conversion"	"of sunlight"	1	query206_Solar_power\P\1-0
+"Solar power"	"is the conversion"	"into electricity"	1	query206_Solar_power\P\1-1
+"Solar power"	"is the conversion"	"directly using photovoltaics"	1	query206_Solar_power\P\1-2
+"Solar power"	"is the conversion"	"directly using indirectly using concentrated solar power"	1	query206_Solar_power\P\1-3
+"Solar power"	"is"	"the conversion"	1	query206_Solar_power\P\1-4
+"the conversion of sunlight into electricity"	"be using"	"directly photovoltaics"	1	query206_Solar_power\P\1-5
+"the conversion of sunlight into electricity"	"be using"	"directly indirectly using concentrated solar power"	1	query206_Solar_power\P\1-6
+"the conversion of sunlight into electricity"	"be using"	"directly indirectly using concentrated solar power"	1	query206_Solar_power\P\1-7
+"indirectly using concentrated solar power"	"is"	"PV"	1	query206_Solar_power\P\1-8
+"concentrated solar power"	"is"	"CSP"	1	query206_Solar_power\P\1-9
+Concentrated solar power systems use lenses or mirrors and tracking systems to focus a large area of sunlight into a small beam . 	2	query206_Solar_power\S\2
+"Concentrated solar power systems"	"use"	"lenses"	2	query206_Solar_power\P\2-0
+"Concentrated solar power systems"	"mirrors"	"lenses"	2	query206_Solar_power\P\2-1
+"Concentrated solar power systems"	"tracking"	"lenses systems to focus a large area of sunlight into a small beam"	2	query206_Solar_power\P\2-2
+"Concentrated solar power systems"	"tracking"	"lenses systems"	2	query206_Solar_power\P\2-3
+"tracking systems"	"be focus"	"a large area of sunlight into a small beam"	2	query206_Solar_power\P\2-4
+Photovoltaics convert light into electric current using the photoelectric effect . 	3	query206_Solar_power\S\3
+"Photovoltaics"	"convert"	"light into electric current"	3	query206_Solar_power\P\3-0
+"Photovoltaics"	"convert"	"light"	3	query206_Solar_power\P\3-1
+Energy Sources : Solar http ://www.energy 	4	query206_Solar_power\S\4
+.gov/energysources/solar 	5	query206_Solar_power\S\5
+.htm 	6	query206_Solar_power\S\6
+Department of Energy 19 April 2011 Energy Sources : Solar http ://www.energy 	7	query206_Solar_power\S\7
+.gov/energysources/solar 	8	query206_Solar_power\S\8
+.htm 	9	query206_Solar_power\S\9
+Department of Energy 19 April 2011 Commercial concentrated solar power plants were first developed in the 1980s . 	10	query206_Solar_power\S\10
+Department of Energy 19 April 2011 Commercial concentrated solar power plants were first developed in the 1980s . 	10	query206_Solar_power\S\10
+The 354 MW SEGS CSP installation is the largest solar power plant in the world , located in the Mojave Desert of California . 	11	query206_Solar_power\S\11
+"The 354 MW SEGS CSP installation"	"is the largest solar power plant located in the Mojave Desert of California"	"in the world"	11	query206_Solar_power\P\11-0
+"The 354 MW SEGS CSP installation"	"is"	"the largest solar power plant located in the Mojave Desert of California"	11	query206_Solar_power\P\11-1
+Other large CSP plants include the Solnova Solar Power Station ( 150 MW) and the Andasol solar power station ( 150 MW) , both in Spain . 	12	query206_Solar_power\S\12
+"Other large CSP plants"	"include"	"the Solnova Solar Power Station in Spain"	12	query206_Solar_power\P\12-0
+"Other large CSP plants"	"include"	"the Solnova Solar Power the Andasol solar power station in Spain"	12	query206_Solar_power\P\12-1
+"the Solnova Solar Power Station in Spain"	"is"	"150 MW"	12	query206_Solar_power\P\12-2
+"the Solnova Solar Power the Andasol solar power station in Spain"	"is"	"150 MW"	12	query206_Solar_power\P\12-3
+"the Andasol solar power station"	"is"	"150 MW"	12	query206_Solar_power\P\12-4
+The 200 MW Golmud Solar Park in China , is the world’s largest photovoltaic plant . 	13	query206_Solar_power\S\13
+"The 200 MW Golmud Solar Park in China"	"is"	"the world 's largest photovoltaic plant"	13	query206_Solar_power\P\13-0
+"the world"	"has"	"largest photovoltaic plant"	13	query206_Solar_power\P\13-1
+thumbleftAverageinsolationshowing land area ( small black dots ) required to replace the world primary energy supply with solar electricity . 	14	query206_Solar_power\S\14
+"thumbleftAverageinsolationshowing land area required to replace the world primary energy supply with solar electricity"	"is"	"small black dots"	14	query206_Solar_power\P\14-0
+"thumbleftAverageinsolationshowing land area"	"be required"	"to replace the world primary energy supply with solar electricity"	14	query206_Solar_power\P\14-1
+18 TW is 568 Exajoule ( EJ) per year . 	15	query206_Solar_power\S\15
+"18 TW"	"is 568 Exajoule"	"per year"	15	query206_Solar_power\P\15-0
+"18 TW"	"is"	"568 Exajoule"	15	query206_Solar_power\P\15-1
+"18 TW is 568 Exajoule per year"	"is"	"EJ"	15	query206_Solar_power\P\15-2
+Insolation for most people is from 150 to 300 W/m2or 3.5 	16	query206_Solar_power\S\16
+"Insolation for most people"	"is"	"from 150 to 300 W/m2or 3.5"	16	query206_Solar_power\P\16-0
+to 7.0 	17	query206_Solar_power\S\17
+k Wh/( m2day ) . 	18	query206_Solar_power\S\18
+Solar power is the conversion of sunlight into electricity . 	19	query206_Solar_power\S\19
+"Solar power"	"is the conversion"	"of sunlight"	19	query206_Solar_power\P\19-0
+"Solar power"	"is the conversion"	"into electricity"	19	query206_Solar_power\P\19-1
+"Solar power"	"is"	"the conversion"	19	query206_Solar_power\P\19-2
+Sunlight can be converted directly into electricity using photovoltaics ( PV) , or indirectly with concentrated solar power ( CSP) , which normally focuses the sun 's energy to boil water which is then used to provide power . 	20	query206_Solar_power\S\20
+"Sunlight"	"can be converted"	"directly into electricity using photovoltaics"	20	query206_Solar_power\P\20-0
+"Sunlight"	"can be converted"	"directly into electricity using indirectly with concentrated solar power"	20	query206_Solar_power\P\20-1
+"Sunlight"	"can be converted"	"directly"	20	query206_Solar_power\P\20-2
+"Sunlight"	"can be converted"	"directly"	20	query206_Solar_power\P\20-3
+"Sunlight"	"can be converted"	"directly"	20	query206_Solar_power\P\20-4
+"Sunlight"	"can be converted"	"directly"	20	query206_Solar_power\P\20-5
+"indirectly with concentrated solar power"	"is"	"PV"	20	query206_Solar_power\P\20-6
+"concentrated solar power"	"is"	"CSP"	20	query206_Solar_power\P\20-7
+"concentrated solar power"	"focuses"	"the sun 's energy to boil water normally"	20	query206_Solar_power\P\20-8
+"concentrated solar power"	"focuses"	"the sun 's energy to boil water"	20	query206_Solar_power\P\20-9
+"the sun 's energy"	"be boil"	"water"	20	query206_Solar_power\P\20-10
+"the sun"	"has"	"energy to boil water"	20	query206_Solar_power\P\20-11
+"the sun 's energy to boil water"	"is used"	"to provide power"	20	query206_Solar_power\P\20-12
+Other technologies also exist , such as Stirling engine dishes which use a Stirling cycle engine to power a generator . 	21	query206_Solar_power\S\21
+"Other technologies"	"exist"	"such as Stirling engine dishes also"	21	query206_Solar_power\P\21-0
+"Other technologies"	"exist"	"such as Stirling engine dishes"	21	query206_Solar_power\P\21-1
+"Stirling engine dishes"	"use"	"a Stirling cycle engine to power a generator"	21	query206_Solar_power\P\21-2
+"Stirling engine dishes"	"use"	"a Stirling cycle engine"	21	query206_Solar_power\P\21-3
+Photovoltaics were initially used to power small and medium-sized applications , from the calculator powered by a single solar cell to off-grid homes powered by a photovoltaic array . 	22	query206_Solar_power\S\22
+"Photovoltaics"	"were used"	"to power small applications initially"	22	query206_Solar_power\P\22-0
+"Photovoltaics"	"were used"	"to power medium-sized applications initially"	22	query206_Solar_power\P\22-1
+"Photovoltaics"	"were used"	"to power small applications from the calculator powered by a single solar cell to off-grid homes powered by a photovoltaic array"	22	query206_Solar_power\P\22-2
+"Photovoltaics"	"were used"	"to power medium-sized applications from the calculator powered by a single solar cell to off-grid homes powered by a photovoltaic array"	22	query206_Solar_power\P\22-3
+"Photovoltaics"	"were used"	"to power small applications"	22	query206_Solar_power\P\22-4
+"Photovoltaics"	"were used"	"to power medium-sized applications"	22	query206_Solar_power\P\22-5
+"the calculator"	"be powered"	"by a single solar cell to off-grid homes powered by a photovoltaic array"	22	query206_Solar_power\P\22-6
+"off-grid homes"	"be powered"	"by a photovoltaic array"	22	query206_Solar_power\P\22-7
+Solar thermal energy Concentrated solar power Concentrating Solar Power ( CSP) systems use lenses or mirrors and tracking systems to focus a large area of sunlight into a small beam . 	23	query206_Solar_power\S\23
+"Solar thermal energy Concentrated solar power"	"be Concentrating"	"Solar Power systems use lenses"	23	query206_Solar_power\P\23-0
+"Solar thermal energy Concentrated solar power"	"be Concentrating"	"Solar Power systems lenses mirrors"	23	query206_Solar_power\P\23-1
+"Solar thermal energy Concentrated solar power"	"be Concentrating"	"Solar Power systems lenses tracking systems to focus a large area of sunlight into a small beam"	23	query206_Solar_power\P\23-2
+"Solar Power"	"is"	"CSP"	23	query206_Solar_power\P\23-3
+"Solar Power systems"	"use"	"lenses"	23	query206_Solar_power\P\23-4
+"Solar Power systems"	"mirrors"	"lenses"	23	query206_Solar_power\P\23-5
+"Solar Power systems"	"tracking"	"lenses systems to focus a large area of sunlight into a small beam"	23	query206_Solar_power\P\23-6
+"Solar Power systems"	"tracking"	"lenses systems"	23	query206_Solar_power\P\23-7
+"tracking systems"	"be focus"	"a large area of sunlight into a small beam"	23	query206_Solar_power\P\23-8
+The concentrated heat is then used as a heat source for a conventional power plant . 	24	query206_Solar_power\S\24
+"The concentrated heat"	"is used"	"as a heat source for a conventional power plant"	24	query206_Solar_power\P\24-0
+A wide range of concentrating technologies exists ; the most developed are the parabolic trough , the concentrating linear fresnel reflector , the Stirling dish and the solar power tower . 	25	query206_Solar_power\S\25
+"the most developed"	"are"	"the parabolic trough"	25	query206_Solar_power\P\25-0
+"the most developed"	"are"	"the parabolic the concentrating linear fresnel reflector"	25	query206_Solar_power\P\25-1
+"the most developed"	"are"	"the parabolic the Stirling dish"	25	query206_Solar_power\P\25-2
+"the most developed"	"are"	"the parabolic the solar power tower"	25	query206_Solar_power\P\25-3
+Various techniques are used to track the Sun and focus light . 	26	query206_Solar_power\S\26
+"Various techniques"	"are used"	"to track the Sun"	26	query206_Solar_power\P\26-0
+"Various techniques"	"are used"	"to focus the Sun light"	26	query206_Solar_power\P\26-1
+In all of these systems a working fluid is heated by the concentrated sunlight , and is then used for power generation or energy storage . 	27	query206_Solar_power\S\27
+"a working fluid"	"is heated"	"by the concentrated sunlight"	27	query206_Solar_power\P\27-0
+"a working fluid"	"is is used"	"for power generation by the concentrated sunlight"	27	query206_Solar_power\P\27-1
+"a working fluid"	"is is used"	"for power energy storage by the concentrated sunlight"	27	query206_Solar_power\P\27-2
+"a working fluid"	"is is used"	"for power generation"	27	query206_Solar_power\P\27-3
+"a working fluid"	"is is used"	"for power energy storage"	27	query206_Solar_power\P\27-4
+Martin and Goswami ( 2005 ) , p . 	28	query206_Solar_power\S\28
+"Martin"	"is"	"p"	28	query206_Solar_power\P\28-0
+"Goswami"	"is"	"p"	28	query206_Solar_power\P\28-1
+"Goswami"	"is"	"p"	28	query206_Solar_power\P\28-2
+45 A parabolic trough consists of a linear parabolic reflector that concentrates light onto a receiver positioned along the reflector 's focal line . 	29	query206_Solar_power\S\29
+"45 A parabolic trough"	"consists"	"of a linear parabolic reflector"	29	query206_Solar_power\P\29-0
+"a linear parabolic reflector"	"concentrates"	"light onto a receiver positioned along the reflector 's focal line"	29	query206_Solar_power\P\29-1
+"a linear parabolic reflector"	"concentrates"	"light"	29	query206_Solar_power\P\29-2
+"a receiver"	"be positioned"	"along the reflector 's focal line"	29	query206_Solar_power\P\29-3
+"the reflector"	"has"	"focal line"	29	query206_Solar_power\P\29-4
+The receiver is a tube positioned right above the middle of the parabolic mirror and is filled with a working fluid . 	30	query206_Solar_power\S\30
+"The receiver"	"is a tube"	"positioned right above the middle of the parabolic mirror"	30	query206_Solar_power\P\30-0
+"The receiver"	"is"	"a tube"	30	query206_Solar_power\P\30-1
+"The receiver"	"is is a filled"	"positioned right above the middle of the parabolic mirror"	30	query206_Solar_power\P\30-2
+"The receiver"	"is is a filled"	"with a working fluid"	30	query206_Solar_power\P\30-3
+"The receiver"	"is is"	"a filled"	30	query206_Solar_power\P\30-4
+"a tube"	"be positioned"	"right above the middle of the parabolic mirror"	30	query206_Solar_power\P\30-5
+"a is filled with a working fluid"	"be positioned"	"right above the middle of the parabolic mirror"	30	query206_Solar_power\P\30-6
+The reflector is made to follow the Sun during the daylight hours by tracking along a single axis . 	31	query206_Solar_power\S\31
+"The reflector"	"is made"	"to follow the Sun during the daylight hours"	31	query206_Solar_power\P\31-0
+"The reflector"	"is made"	"to follow the Sun by tracking along a single axis"	31	query206_Solar_power\P\31-1
+"The reflector"	"is made"	"to follow the Sun"	31	query206_Solar_power\P\31-2
+Parabolic trough systems provide the best land-use factor of any solar technology . 	32	query206_Solar_power\S\32
+"Parabolic trough systems"	"provide"	"the best land-use factor of any solar technology"	32	query206_Solar_power\P\32-0
+http ://www.greenpeace 	33	query206_Solar_power\S\33
+.org/raw/content/international/press/reports/Concentrated-Solar-Thermal-Power.pdf 	34	query206_Solar_power\S\34
+Concentrated Solar Thermal Power – Now 19 August 2008 http ://www.greenpeace 	35	query206_Solar_power\S\35
+.org/raw/content/international/press/reports/Concentrated-Solar-Thermal-Power.pdf 	36	query206_Solar_power\S\36
+Concentrated Solar Thermal Power – Now 19 August 2008 The SEGS plants in California and Acciona 's Nevada Solar One near Boulder City _ Nevada are representatives of this technology . 	37	query206_Solar_power\S\37
+Concentrated Solar Thermal Power – Now 19 August 2008 The SEGS plants in California and Acciona 's Nevada Solar One near Boulder City _ Nevada are representatives of this technology . 	37	query206_Solar_power\S\37
+"August 2008 The SEGS plants in California"	"are representatives"	"Now"	19	query206_Solar_power\P\37-0
+"2008 The SEGS plants in California Acciona 's Nevada Solar One near Boulder City _ Nevada"	"are representatives"	"Now"	19	query206_Solar_power\P\37-1
+"August 2008 The SEGS plants in California"	"are representatives"	"of this technology"	19	query206_Solar_power\P\37-2
+"2008 The SEGS plants in California Acciona 's Nevada Solar One near Boulder City _ Nevada"	"are representatives"	"of this technology"	19	query206_Solar_power\P\37-3
+"August 2008 The SEGS plants in California"	"are"	"representatives"	19	query206_Solar_power\P\37-4
+"2008 The SEGS plants in California Acciona 's Nevada Solar One near Boulder City _ Nevada"	"are"	"representatives"	19	query206_Solar_power\P\37-5
+UNLV Solar Site University of Las Vegas http ://www .solar.unlv.edu/projects/eldorado.php 	38	query206_Solar_power\S\38
+2 July 2008 UNLV Solar Site University of Las Vegas http ://www .solar.unlv.edu/projects/eldorado.php 	39	query206_Solar_power\S\39
+2 July 2008 Compact Linear Fresnel Reflector are CSP-plants which use many thin mirror strips instead of parabolic mirrors to concentrate sunlight onto two tubes with working fluid . 	40	query206_Solar_power\S\40
+"2 July 2008 Compact Linear Fresnel Reflector"	"are"	"CSP-plants"	40	query206_Solar_power\P\40-0
+"2 July 2008 Compact Linear Fresnel Reflector"	"are"	"CSP-plants"	40	query206_Solar_power\P\40-1
+"2 July 2008 Compact Linear Fresnel Reflector"	"are"	"CSP-plants"	40	query206_Solar_power\P\40-2
+"2 July 2008 Compact Linear Fresnel Reflector"	"are"	"CSP-plants"	40	query206_Solar_power\P\40-3
+"2 July 2008 Compact Linear Fresnel Reflector"	"are"	"CSP-plants"	40	query206_Solar_power\P\40-4
+This has the advantage that flat mirrors can be used which are much cheaper than parabolic mirrors , and that more reflectors can be placed in the same amount of space , allowing more of the available sunlight to be used . 	41	query206_Solar_power\S\41
+This has the advantage that flat mirrors can be used which are much cheaper than parabolic mirrors , and that more reflectors can be placed in the same amount of space , allowing more of the available sunlight to be used . 	41	query206_Solar_power\S\41
+This has the advantage that flat mirrors can be used which are much cheaper than parabolic mirrors , and that more reflectors can be placed in the same amount of space , allowing more of the available sunlight to be used . 	41	query206_Solar_power\S\41
+This has the advantage that flat mirrors can be used which are much cheaper than parabolic mirrors , and that more reflectors can be placed in the same amount of space , allowing more of the available sunlight to be used . 	41	query206_Solar_power\S\41
+This has the advantage that flat mirrors can be used which are much cheaper than parabolic mirrors , and that more reflectors can be placed in the same amount of space , allowing more of the available sunlight to be used . 	41	query206_Solar_power\S\41
+"more reflectors"	"can be placed"	"in the same amount of space allowing more of the available sunlight to be used"	41	query206_Solar_power\P\41-0
+Concentrating linear fresnel reflectors can be used in either large or more compact plants . 	42	query206_Solar_power\S\42
+"Concentrating linear fresnel reflectors"	"can be used"	"in large plants"	42	query206_Solar_power\P\42-0
+"Concentrating linear fresnel reflectors"	"can be used"	"in more compact plants"	42	query206_Solar_power\P\42-1
+http ://www.physics 	43	query206_Solar_power\S\43
+.usyd 	44	query206_Solar_power\S\44
+.edu.au/app/research/solar/clfr 	45	query206_Solar_power\S\45
+.html 	46	query206_Solar_power\S\46
+Compact CLFR Physics .usyd 	47	query206_Solar_power\S\47
+.edu.au 	48	query206_Solar_power\S\48
+12 June 2002 19 April 2011 http ://www.physics 	49	query206_Solar_power\S\49
+.usyd 	50	query206_Solar_power\S\50
+.edu.au/app/research/solar/clfr 	51	query206_Solar_power\S\51
+.html 	52	query206_Solar_power\S\52
+Compact CLFR Physics .usyd 	53	query206_Solar_power\S\53
+.edu.au 	54	query206_Solar_power\S\54
+12 June 2002 19 April 2011 http ://www.ese 	55	query206_Solar_power\S\55
+.iitb.ac.in/activities/solarpower/ausra.pdf 	56	query206_Solar_power\S\56
+Ausra compact CLFR introducing cost-saving solar rotation features PDF 19 April 2011 http ://www.ese 	57	query206_Solar_power\S\57
+"Ausra compact CLFR"	"be introducing"	"cost-saving solar rotation features PDF 19 April 2011 http www.ese"	57	query206_Solar_power\P\57-0
+.iitb.ac.in/activities/solarpower/ausra.pdf 	58	query206_Solar_power\S\58
+Ausra compact CLFR introducing cost-saving solar rotation features PDF 19 April 2011 The Stirling solar dish combines a parabolic concentrating dish with a Stirling engine which normally drives an electric generator . 	59	query206_Solar_power\S\59
+"Ausra compact CLFR"	"be introducing"	"cost-saving solar rotation features"	59	query206_Solar_power\P\59-0
+"The Stirling solar dish"	"PDF combines"	"a parabolic concentrating dish with a Stirling engine solar rotation features"	59	query206_Solar_power\P\59-1
+"The Stirling solar dish"	"PDF combines"	"a parabolic concentrating dish solar rotation features"	59	query206_Solar_power\P\59-2
+"The Stirling solar dish"	"PDF combines"	"a parabolic concentrating dish solar rotation features"	59	query206_Solar_power\P\59-3
+"The Stirling solar dish"	"PDF combines"	"a parabolic concentrating dish solar rotation features"	59	query206_Solar_power\P\59-4
+"a Stirling engine"	"drives"	"an electric generator normally"	59	query206_Solar_power\P\59-5
+"a Stirling engine"	"drives"	"an electric generator"	59	query206_Solar_power\P\59-6
+The advantages of Stirling solar over photovoltaic cells are higher efficiency of converting sunlight into electricity and longer lifetime .Parabolic 	60	query206_Solar_power\S\60
+dish systems give the highest efficiency among CSP technologies . 	61	query206_Solar_power\S\61
+"dish systems"	"give"	"the highest efficiency among CSP technologies"	61	query206_Solar_power\P\61-0
+An Assessment of Solar Energy Conversion Technologies and Research Opportunities Stanford University – Global Climate Change &amp; Energy Project http ://gcep.stanford 	62	query206_Solar_power\S\62
+.edu/pdfs/assessments/solar_assessment.pdf 	63	query206_Solar_power\S\63
+2 July 2008 PDF An Assessment of Solar Energy Conversion Technologies and Research Opportunities Stanford University – Global Climate Change &amp; Energy Project http ://gcep.stanford 	64	query206_Solar_power\S\64
+.edu/pdfs/assessments/solar_assessment.pdf 	65	query206_Solar_power\S\65
+2 July 2008 PDF The 50&nbsp;k W Big Dish in Canberra , Australia is an example of this technology . 	66	query206_Solar_power\S\66
+"July 2008 PDF The 50 k W Big Dish in Canberra"	"is"	"Australia"	66	query206_Solar_power\P\66-0
+"July 2008 PDF The 50 k W Big Dish in Canberra"	"is 66 2 an example"	"of this technology"	66	query206_Solar_power\P\66-1
+"July 2008 PDF The 50 k W Big Dish in Canberra"	"is"	"66 2 an example"	66	query206_Solar_power\P\66-2
+Concentrating Solar Power in 2001 – An IEA/SolarPACES Summary of Present Status and Future Prospects International Energy Agency – SolarPACES http ://www .solarpaces 	67	query206_Solar_power\S\67
+.org/Library/docs/CSP_Brochure_2001.pdf 	68	query206_Solar_power\S\68
+2 July 2008 PDF Concentrating Solar Power in 2001 – An IEA/SolarPACES Summary of Present Status and Future Prospects International Energy Agency – SolarPACES http ://www .solarpaces 	69	query206_Solar_power\S\69
+.org/Library/docs/CSP_Brochure_2001.pdf 	70	query206_Solar_power\S\70
+2 July 2008 PDF A solar power tower uses an array of tracking reflectors ( heliostat ) to concentrate light on a central receiver atop a tower . 	71	query206_Solar_power\S\71
+"2 July 2008 PDF A solar power tower"	"uses"	"an array of tracking reflectors to concentrate light on a central receiver atop a tower"	71	query206_Solar_power\P\71-0
+"tracking reflectors"	"be concentrate"	"light on a central receiver atop a tower"	71	query206_Solar_power\P\71-1
+"tracking reflectors"	"be concentrate"	"light on a central receiver"	71	query206_Solar_power\P\71-2
+"tracking reflectors"	"be concentrate"	"light on a central receiver"	71	query206_Solar_power\P\71-3
+Power towers are more cost effective , offer higher efficiency and better energy storage capability among CSP technologies . 	72	query206_Solar_power\S\72
+"Power towers"	"are cost effective offer higher efficiency among CSP technologies"	"more"	72	query206_Solar_power\P\72-0
+"Power towers"	"are cost effective offer higher better energy storage capability among CSP technologies"	"more"	72	query206_Solar_power\P\72-1
+"Power towers"	"are"	"cost effective offer higher efficiency among CSP technologies"	72	query206_Solar_power\P\72-2
+"Power towers"	"are"	"cost effective offer higher better energy storage capability among CSP technologies"	72	query206_Solar_power\P\72-3
+The PS10 Solar Power Plant and PS20 solar power plant are examples of this technology . 	73	query206_Solar_power\S\73
+"The PS10 Solar Power Plant"	"are examples"	"of this technology"	73	query206_Solar_power\P\73-0
+"The PS10 Solar Power PS20 solar power plant"	"are examples"	"of this technology"	73	query206_Solar_power\P\73-1
+"The PS10 Solar Power Plant"	"are"	"examples"	73	query206_Solar_power\P\73-2
+"The PS10 Solar Power PS20 solar power plant"	"are"	"examples"	73	query206_Solar_power\P\73-3
+Photovoltaics thumbThe 71.8 	74	query206_Solar_power\S\74
+MWLieberose Photovoltaic Parkin Germany . 	75	query206_Solar_power\S\75
+A solar cell , or photovoltaic cell ( PV) , is a device that converts light into electric current using the photoelectric effect . 	76	query206_Solar_power\S\76
+"photovoltaic cell"	"is"	"PV"	76	query206_Solar_power\P\76-0
+"A solar cell"	"is"	"a device"	76	query206_Solar_power\P\76-1
+"A solar photovoltaic cell"	"is"	"a device"	76	query206_Solar_power\P\76-2
+"a device"	"converts"	"light into electric current"	76	query206_Solar_power\P\76-3
+"a device"	"converts"	"light"	76	query206_Solar_power\P\76-4
+The first solar cell was constructed by Charles Fritts in the 1880s . 	77	query206_Solar_power\S\77
+"The first solar cell"	"was constructed"	"by Charles Fritts in the 1880s"	77	query206_Solar_power\P\77-0
+"The first solar cell"	"was constructed"	"by Charles Fritts"	77	query206_Solar_power\P\77-1
+Perlin ( 1999 ) , p . 	78	query206_Solar_power\S\78
+"Perlin"	"is"	"1999"	78	query206_Solar_power\P\78-0
+"Perlin"	"is"	"p"	78	query206_Solar_power\P\78-1
+147 In 1931 a German engineer , Dr Bruno Lange , developed a photo cell using silver selenide in place of copper oxide . 	79	query206_Solar_power\S\79
+"147 In 1931 a German engineer"	"is"	"Dr Bruno Lange"	79	query206_Solar_power\P\79-0
+"147 In 1931 a German engineer"	"developed"	"a photo cell using silver selenide in place of copper oxide"	79	query206_Solar_power\P\79-1
+"a photo cell"	"be using"	"silver selenide in place of copper oxide"	79	query206_Solar_power\P\79-2
+http ://books .google 	80	query206_Solar_power\S\80
+.com/books 	81	query206_Solar_power\S\81
+?id=9CcDAAAAMBAJ&pg=PA41 Magic Plates , Tap Sun For Power Popular Science June 1931 19 April 2011 http ://books .google 	82	query206_Solar_power\S\82
+.com/books 	83	query206_Solar_power\S\83
+?id=9CcDAAAAMBAJ&pg=PA41 Magic Plates , Tap Sun For Power Popular Science June 1931 19 April 2011 Although the prototype selenium cells converted less than 1 % of incident light into electricity , both Ernst Werner von Siemens and James Clerk Maxwell recognized the importance of this discovery . 	84	query206_Solar_power\S\84
+"the prototype selenium cells"	"Tap Sun Science converted"	"less than 1 % of incident light into electricity PA41 Magic Plates"	84	query206_Solar_power\P\84-0
+"the prototype selenium cells"	"Tap Sun Science converted"	"less than 1 % of incident light PA41 Magic Plates"	84	query206_Solar_power\P\84-1
+"Tap Sun"	"Science the prototype selenium cells converted"	"less than 1 % of incident light into electricity PA41 Magic Plates"	84	query206_Solar_power\P\84-2
+"Tap Sun"	"Science the prototype selenium cells converted"	"less than 1 % of incident light PA41 Magic Plates"	84	query206_Solar_power\P\84-3
+"Tap Sun"	"Science the prototype selenium cells converted"	"less than 1 % of incident light PA41 Magic Plates"	84	query206_Solar_power\P\84-4
+"Tap Sun"	"Science the prototype selenium cells converted"	"less than 1 % of incident light PA41 Magic Plates"	84	query206_Solar_power\P\84-5
+"Ernst Werner von Siemens"	"recognized"	"the importance of this discovery"	84	query206_Solar_power\P\84-6
+"Ernst Werner von James Clerk Maxwell"	"recognized"	"the importance of this discovery"	84	query206_Solar_power\P\84-7
+Perlin ( 1999 ) , pp . 	85	query206_Solar_power\S\85
+"Perlin"	"is"	"1999"	85	query206_Solar_power\P\85-0
+"Perlin"	"is"	"pp"	85	query206_Solar_power\P\85-1
+18–20 Following the work of Russell Ohl in the 1940s , researchers Gerald Pearson , Calvin Fuller and Daryl Chapin created the silicon solar cell in 1954 . 	86	query206_Solar_power\S\86
+"researchers Gerald Pearson"	"created"	"the silicon solar cell in 1954"	86	query206_Solar_power\P\86-0
+"researchers Gerald Calvin Fuller"	"created"	"the silicon solar cell in 1954"	86	query206_Solar_power\P\86-1
+"researchers Gerald Daryl Chapin"	"created"	"the silicon solar cell in 1954"	86	query206_Solar_power\P\86-2
+Perlin ( 1999 ) , p . 	87	query206_Solar_power\S\87
+"Perlin"	"is"	"1999"	87	query206_Solar_power\P\87-0
+"Perlin"	"is"	"p"	87	query206_Solar_power\P\87-1
+29 These early solar cells cost 286&nbsp;USD/watt and reached efficiencies of 4.5–6 	88	query206_Solar_power\S\88
+"29 These early solar cells"	"cost"	"286 USD/watt"	88	query206_Solar_power\P\88-0
+"29 These early solar cells"	"reached"	"286 USD/watt efficiencies of 4.5"	88	query206_Solar_power\P\88-1
+% . 	89	query206_Solar_power\S\89
+Perlin ( 1999 ) , p . 	90	query206_Solar_power\S\90
+"Perlin"	"is"	"1999"	90	query206_Solar_power\P\90-0
+"Perlin"	"is"	"p"	90	query206_Solar_power\P\90-1
+29–30 , 38 Photovoltaic system thumbrightSimplified schematics of a grid-connected residential PV power systemSolar Cells and their Applications Second Edition _ Lewis Fraas _ Larry Partain_ Wiley _ 2010_ ISBN 978-0-470-44633-1 _ Section10.2 	91	query206_Solar_power\S\91
+29–30 , 38 Photovoltaic system thumbrightSimplified schematics of a grid-connected residential PV power systemSolar Cells and their Applications Second Edition _ Lewis Fraas _ Larry Partain_ Wiley _ 2010_ ISBN 978-0-470-44633-1 _ Section10.2 	91	query206_Solar_power\S\91
+"Second Edition _ Lewis Fraas _ Larry Partain _ Wiley"	"_"	"2010 _ ISBN 978-0-470-44633-1 _ Section10 .2 their Applications"	91	query206_Solar_power\P\91-0
+. 	92	query206_Solar_power\S\92
+Solar cell produce direct current (DC ) power , which fluctuates with the intensity of the irradiated light . 	93	query206_Solar_power\S\93
+"Solar cell"	"produce"	"direct current DC power"	93	query206_Solar_power\P\93-0
+"direct current DC power"	"fluctuates"	"with the intensity of the irradiated light"	93	query206_Solar_power\P\93-1
+This usually requires conversion to certain desired voltages or alternating current (AC ) , which requires the use of the inverters . 	94	query206_Solar_power\S\94
+This usually requires conversion to certain desired voltages or alternating current (AC ) , which requires the use of the inverters . 	94	query206_Solar_power\S\94
+This usually requires conversion to certain desired voltages or alternating current (AC ) , which requires the use of the inverters . 	94	query206_Solar_power\S\94
+This usually requires conversion to certain desired voltages or alternating current (AC ) , which requires the use of the inverters . 	94	query206_Solar_power\S\94
+This usually requires conversion to certain desired voltages or alternating current (AC ) , which requires the use of the inverters . 	94	query206_Solar_power\S\94
+This usually requires conversion to certain desired voltages or alternating current (AC ) , which requires the use of the inverters . 	94	query206_Solar_power\S\94
+This usually requires conversion to certain desired voltages or alternating current (AC ) , which requires the use of the inverters . 	94	query206_Solar_power\S\94
+Multiple solar cells are connected inside the modules . 	95	query206_Solar_power\S\95
+"Multiple solar cells"	"are connected"	"inside the modules"	95	query206_Solar_power\P\95-0
+Modules are wired together to form arrays , then tied to inverter , which produces power with the desired voltage , and frequency/phase ( when its AC ) . 	96	query206_Solar_power\S\96
+"Modules"	"are wired"	"together to form arrays"	96	query206_Solar_power\P\96-0
+"Modules"	"are wired"	"to form arrays"	96	query206_Solar_power\P\96-1
+"Modules"	"are wired"	"to form arrays"	96	query206_Solar_power\P\96-2
+"Modules"	"are wired"	"to form arrays"	96	query206_Solar_power\P\96-3
+"Modules"	"are wired"	"to form arrays"	96	query206_Solar_power\P\96-4
+"Modules"	"are wired"	"to form arrays"	96	query206_Solar_power\P\96-5
+"Modules"	"are wired"	"to form arrays"	96	query206_Solar_power\P\96-6
+Many residential systems are connected to the grid wherever available , especially in the developed countries with large markets . 	97	query206_Solar_power\S\97
+"Many residential systems"	"are connected"	"to the grid wherever available especially in the developed countries with large markets"	97	query206_Solar_power\P\97-0
+"Many residential systems"	"are connected"	"to the grid"	97	query206_Solar_power\P\97-1
+http ://www.iea-pvps 	98	query206_Solar_power\S\98
+.org/index.php 	99	query206_Solar_power\S\99
+?id=92&eID=dam_frontend_push&docID=432 Trends in Photovoltaic Applications Survey report of selected IEA countries between 1992 and 2009 , IEA-PVPS 8 November 2011 http ://www.iea-pvps 	100	query206_Solar_power\S\100
+.org/index.php 	101	query206_Solar_power\S\101
+?id=92&eID=dam_frontend_push&docID=432 Trends in Photovoltaic Applications Survey report of selected IEA countries between 1992 and 2009 , IEA-PVPS 8 November 2011 In these grid-connected PV systems , use of energy storages are optional. 	102	query206_Solar_power\S\102
+"use of energy storages"	"are"	"optional"	102	query206_Solar_power\P\102-0
+"dam_frontend_push & docID"	"="	"In these grid-connected PV systems"	102	query206_Solar_power\P\102-1
+In certain applications such as satellites , lighthouses , or in developing countries , batteries or additional power generators are often added as back-ups , which forms stand-alone power system . 	103	query206_Solar_power\S\103
+"In certain applications such as satellites"	"are added"	"as back-ups often"	103	query206_Solar_power\P\103-0
+"In certain applications such as lighthouses"	"are added"	"as back-ups often"	103	query206_Solar_power\P\103-1
+"In certain applications such as in developing countries"	"are added"	"as back-ups often"	103	query206_Solar_power\P\103-2
+"In certain applications such as in developing batteries"	"are added"	"as back-ups often"	103	query206_Solar_power\P\103-3
+"In certain applications such as in developing additional power generators"	"are added"	"as back-ups often"	103	query206_Solar_power\P\103-4
+"In certain applications such as satellites"	"are added"	"as back-ups"	103	query206_Solar_power\P\103-5
+"In certain applications such as lighthouses"	"are added"	"as back-ups"	103	query206_Solar_power\P\103-6
+"In certain applications such as in developing countries"	"are added"	"as back-ups"	103	query206_Solar_power\P\103-7
+"In certain applications such as in developing batteries"	"are added"	"as back-ups"	103	query206_Solar_power\P\103-8
+"In certain applications such as in developing additional power generators"	"are added"	"as back-ups"	103	query206_Solar_power\P\103-9
+"In certain applications such as in developing additional power generators"	"are added"	"as back-ups"	103	query206_Solar_power\P\103-10
+Deployment of solar power to energy grids thumbleftNellis Solar Power Plant _ 14 MW power plant installed 2007 in Nevada_ USA The early development of solar technologies starting in the 1860s was driven by an expectation that coal would soon become scarce . 	104	query206_Solar_power\S\104
+"Deployment of solar power to energy grids thumbleftNellis Solar Power Plant"	"_"	"14 MW power plant installed 2007 in Nevada _ USA The early development of solar technologies starting in the 1860s"	104	query206_Solar_power\P\104-0
+"MW power plant"	"be installed"	"2007 in Nevada _ USA The early development of solar technologies starting in the 1860s"	14	query206_Solar_power\P\104-1
+"The early development of solar technologies"	"be starting"	"in the 1860s"	14	query206_Solar_power\P\104-2
+"Deployment of solar power to energy grids thumbleftNellis Solar Power Plant _ 14 MW power plant installed 2007 in Nevada _ USA The early development of solar technologies starting in the 1860s"	"was driven"	"by an expectation"	104	query206_Solar_power\P\104-3
+"Deployment of solar power to energy grids thumbleftNellis Solar Power Plant _ 14 MW power plant installed 2007 in Nevada _ USA The early development of solar technologies starting in the 1860s"	"was driven"	"by an expectation"	104	query206_Solar_power\P\104-4
+"Deployment of solar power to energy grids thumbleftNellis Solar Power Plant _ 14 MW power plant installed 2007 in Nevada _ USA The early development of solar technologies starting in the 1860s"	"was driven"	"by an expectation"	104	query206_Solar_power\P\104-5
+However , development of solar technologies stagnated in the early 20th&nbsp;century in the face of the increasing availability , economy , and utility of coal and petroleum . 	105	query206_Solar_power\S\105
+"However"	"is"	"development of solar technologies stagnated in the early 20th century in the face of the increasing availability"	105	query206_Solar_power\P\105-0
+"However"	"is"	"development of solar technologies stagnated in the early 20th century in the face of the increasing economy"	105	query206_Solar_power\P\105-1
+"However"	"is"	"development of solar technologies stagnated in the early 20th century in the face of the increasing utility of coal"	105	query206_Solar_power\P\105-2
+"However"	"is"	"development of solar technologies stagnated in the early 20th century in the face of the increasing utility of petroleum"	105	query206_Solar_power\P\105-3
+"solar technologies"	"be stagnated"	"in the early 20th century in the face of the increasing availability"	105	query206_Solar_power\P\105-4
+"solar technologies"	"be stagnated"	"in the early 20th century in the face of the increasing economy"	105	query206_Solar_power\P\105-5
+"solar technologies"	"be stagnated"	"in the early 20th century in the face of the increasing utility of coal"	105	query206_Solar_power\P\105-6
+"solar technologies"	"be stagnated"	"in the early 20th century in the face of the increasing utility of petroleum"	105	query206_Solar_power\P\105-7
+"solar technologies"	"be stagnated"	"in the early 20th century"	105	query206_Solar_power\P\105-8
+Butti and Perlin ( 1981 ) , p . 	106	query206_Solar_power\S\106
+Butti and Perlin ( 1981 ) , p . 	106	query206_Solar_power\S\106
+Butti and Perlin ( 1981 ) , p . 	106	query206_Solar_power\S\106
+63 , 77 , 101 In 1974 it was estimated that only six private homes in all of North America were entirely heated or cooled by functional solar power systems . 	107	query206_Solar_power\S\107
+"63"	"is"	"77"	107	query206_Solar_power\P\107-0
+"63"	"is"	"101 In 1974"	107	query206_Solar_power\P\107-1
+"63"	"is"	"101 In 1974"	107	query206_Solar_power\P\107-2
+"63"	"is"	"101 In 1974"	107	query206_Solar_power\P\107-3
+"63"	"is"	"101 In 1974"	107	query206_Solar_power\P\107-4
+"63"	"is"	"101 In 1974"	107	query206_Solar_power\P\107-5
+"only six private homes in all of North America"	"were heated"	"entirely"	107	query206_Solar_power\P\107-6
+"only six private homes in all of North America"	"were heated"	"by functional solar power systems"	107	query206_Solar_power\P\107-7
+"only six private homes in all of North America"	"were"	"heated"	107	query206_Solar_power\P\107-8
+"only six private homes in all of North America"	"were cooled"	"entirely"	107	query206_Solar_power\P\107-9
+"only six private homes in all of North America"	"were cooled"	"by functional solar power systems"	107	query206_Solar_power\P\107-10
+"only six private homes in all of North America"	"were"	"cooled"	107	query206_Solar_power\P\107-11
+" The Solar Energy Book-Once More . 	108	query206_Solar_power\S\108
+" Mother Earth News 31 :16–17 , Jan . 	109	query206_Solar_power\S\109
+"Mother Earth News 31 :16 17"	"is"	"Jan"	109	query206_Solar_power\P\109-0
+1975 The 1973 oil embargo and 1979 energy crisis caused a reorganization of energy policies around the world and brought renewed attention to developing solar technologies . 	110	query206_Solar_power\S\110
+"1975 The 1973 oil embargo"	"caused"	"a reorganization of energy policies around the world"	110	query206_Solar_power\P\110-0
+"1975 The 1973 oil 1979 energy crisis"	"caused"	"a reorganization of energy policies around the world"	110	query206_Solar_power\P\110-1
+"1975 The 1973 oil embargo"	"brought"	"a reorganization of energy policies around the world renewed attention to developing solar technologies"	110	query206_Solar_power\P\110-2
+"1975 The 1973 oil 1979 energy crisis"	"brought"	"a reorganization of energy policies around the world renewed attention to developing solar technologies"	110	query206_Solar_power\P\110-3
+"1975 The 1973 oil embargo"	"brought"	"a reorganization of energy policies around the world renewed attention"	110	query206_Solar_power\P\110-4
+"1975 The 1973 oil 1979 energy crisis"	"brought"	"a reorganization of energy policies around the world renewed attention"	110	query206_Solar_power\P\110-5
+Butti and Perlin ( 1981 ) , p . 	111	query206_Solar_power\S\111
+Butti and Perlin ( 1981 ) , p . 	111	query206_Solar_power\S\111
+Butti and Perlin ( 1981 ) , p . 	111	query206_Solar_power\S\111
+249 Yergin ( 1991 ) , pp . 	112	query206_Solar_power\S\112
+"249 Yergin"	"is"	"1991"	112	query206_Solar_power\P\112-0
+"249 Yergin"	"is"	"pp"	112	query206_Solar_power\P\112-1
+634 , 653–673 Deployment strategies focused on incentive programs such as the Federal Photovoltaic Utilization Program in the US and the Sunshine Program in Japan . 	113	query206_Solar_power\S\113
+"634 673 Deployment strategies focused on incentive programs such as the Federal Photovoltaic Utilization Program in the US in Japan"	"is"	"653"	113	query206_Solar_power\P\113-0
+"634 673 Deployment strategies focused on incentive programs such as the Federal Photovoltaic Utilization Program in the the Sunshine Program in Japan"	"is"	"653"	113	query206_Solar_power\P\113-1
+"Deployment strategies"	"focused"	"on incentive programs such as the Federal Photovoltaic Utilization Program in the US in Japan"	673	query206_Solar_power\P\113-2
+"Deployment strategies"	"focused"	"on incentive programs such as the Federal Photovoltaic Utilization Program in the the Sunshine Program in Japan"	673	query206_Solar_power\P\113-3
+Other efforts included the formation of research facilities in the US ( SERI , now NREL ) , Japan ( NEDO ) , and Germany ( Fraunhofer Institute for Solar Energy Systems ISE ) . 	114	query206_Solar_power\S\114
+"Other efforts"	"included"	"the formation of research facilities in the US SERI Fraunhofer Institute for Solar Energy Systems ISE"	114	query206_Solar_power\P\114-0
+"Other efforts"	"included"	"the formation of research facilities in the SERI Japan Fraunhofer Institute for Solar Energy Systems ISE"	114	query206_Solar_power\P\114-1
+"Other efforts"	"included"	"the formation of research facilities in the SERI Germany Fraunhofer Institute for Solar Energy Systems ISE"	114	query206_Solar_power\P\114-2
+"Other efforts"	"included"	"the formation of research facilities in the SERI Germany Fraunhofer Institute for Solar Energy Systems ISE"	114	query206_Solar_power\P\114-3
+"Other efforts"	"included"	"the formation of research facilities in the SERI Germany Fraunhofer Institute for Solar Energy Systems ISE"	114	query206_Solar_power\P\114-4
+Chronicle of Fraunhofer-Gesellschaft Fraunhofer-Gesellschaft http ://www.fraunhofer.de/EN/company/profile/chronicle/1972-1982.jsp 	115	query206_Solar_power\S\115
+4 November 2007 Chronicle of Fraunhofer-Gesellschaft Fraunhofer-Gesellschaft http ://www.fraunhofer.de/EN/company/profile/chronicle/1972-1982.jsp 	116	query206_Solar_power\S\116
+4 November 2007 Between 1970 and 1983 photovoltaic installations grew rapidly , but falling oil prices in the early 1980s moderated the growth of PV from 1984 to 1996 . 	117	query206_Solar_power\S\117
+"4 November 2007 Between 1970 photovoltaic installations"	"grew"	"rapidly"	117	query206_Solar_power\P\117-0
+"4 November 2007 Between 1983 photovoltaic installations"	"grew"	"rapidly"	117	query206_Solar_power\P\117-1
+"falling oil prices in the early 1980s"	"moderated"	"the growth of PV from 1984 to 1996"	117	query206_Solar_power\P\117-2
+"falling oil prices in the early 1980s"	"moderated"	"the growth of PV"	117	query206_Solar_power\P\117-3
+Since 1997 , PV development has accelerated due to supply issues with oil and natural gas , global warming concerns , and the improving economic position of PV relative to other energy technologies . 	118	query206_Solar_power\S\118
+"PV development"	"has accelerated"	"due to supply issues with oil 118 Since 1997"	118	query206_Solar_power\P\118-0
+"PV development"	"has accelerated"	"due to supply issues with natural gas 118 Since 1997"	118	query206_Solar_power\P\118-1
+"PV development"	"has accelerated"	"due to supply issues with oil"	118	query206_Solar_power\P\118-2
+"PV development"	"has accelerated"	"due to supply issues with natural gas"	118	query206_Solar_power\P\118-3
+"PV development"	"has the improving economic position relative to other energy technologies"	"due to supply issues with oil 118 Since 1997"	118	query206_Solar_power\P\118-4
+"PV development"	"has the improving economic position relative to other energy technologies"	"due to supply issues with natural gas 118 Since 1997"	118	query206_Solar_power\P\118-5
+"PV development"	"has the improving economic position relative to other energy technologies"	"due to supply issues with oil of PV"	118	query206_Solar_power\P\118-6
+"PV development"	"has the improving economic position relative to other energy technologies"	"due to supply issues with natural gas of PV"	118	query206_Solar_power\P\118-7
+"PV development"	"has the improving economic position relative to other energy technologies"	"due to supply issues with oil"	118	query206_Solar_power\P\118-8
+"PV development"	"has the improving economic position relative to other energy technologies"	"due to supply issues with natural gas"	118	query206_Solar_power\P\118-9
+retrieved 19 May 2009 Photovoltaic production growth has averaged 40 % per year since 2000 and installed capacity reached 39.8&nbsp;GW 	119	query206_Solar_power\S\119
+retrieved 19 May 2009 Photovoltaic production growth has averaged 40 % per year since 2000 and installed capacity reached 39.8&nbsp;GW 	119	query206_Solar_power\S\119
+retrieved 19 May 2009 Photovoltaic production growth has averaged 40 % per year since 2000 and installed capacity reached 39.8&nbsp;GW 	119	query206_Solar_power\S\119
+"installed capacity"	"reached"	"39.8 GW"	119	query206_Solar_power\P\119-0
+at the end of 2010 , BP Statistical World Energy Review 2011 http ://www.bp.com/liveassets/bp_internet/globalbp/globalbp_uk_english/reports_and_publications/statistical_energy_review_2011/STAGING/local_assets/spreadsheets/statistical_review_of_world_energy_full_report_2011.xls 	120	query206_Solar_power\S\120
+XLS 8 August 2011 BP Statistical World Energy Review 2011 http ://www.bp.com/liveassets/bp_internet/globalbp/globalbp_uk_english/reports_and_publications/statistical_energy_review_2011/STAGING/local_assets/spreadsheets/statistical_review_of_world_energy_full_report_2011.xls 	121	query206_Solar_power\S\121
+XLS 8 August 2011 of them 17.4 	122	query206_Solar_power\S\122
+GW in Germany . 	123	query206_Solar_power\S\123
+As of October 2011 , the largest photovoltaic ( PV ) power plants in the world are the Sarnia Photovoltaic Power Plant ( Canada , 97 MW) , Montalto di Castro Photovoltaic Power Station ( Italy , 84.2 	124	query206_Solar_power\S\124
+"As of October 2011 the largest photovoltaic PV power plants in the world"	"are"	"the Sarnia Photovoltaic Power Plant Canada Montalto di Castro Photovoltaic Power Station Italy 84.2"	124	query206_Solar_power\P\124-0
+"As of October 2011 the largest photovoltaic PV power plants in the world"	"are"	"the Sarnia Photovoltaic Power Plant Canada Montalto di Castro Photovoltaic Power Station Italy 84.2"	124	query206_Solar_power\P\124-1
+MW) and Finsterwalde Solar Park ( Germany , 80.7 	125	query206_Solar_power\S\125
+MW) . 	126	query206_Solar_power\S\126
+PV Resources.com 	127	query206_Solar_power\S\127
+( 2011 ) . 	128	query206_Solar_power\S\128
+( 2011 ) . 	128	query206_Solar_power\S\128
+There are also many large plants under construction . 	129	query206_Solar_power\S\129
+"many large plants under construction"	"There are"	"also 129"	129	query206_Solar_power\P\129-0
+"many large plants under construction"	"There are"	"129"	129	query206_Solar_power\P\129-1
+The Desert Sunlight Project is a 550 MW solar power plant under construction in Riverside County _ California , that will use thin-film solar photovoltaic modules made by First Solar . 	130	query206_Solar_power\S\130
+"The Desert Sunlight Project"	"is a 550 MW solar power plant"	"under construction in Riverside County _ California"	130	query206_Solar_power\P\130-0
+"The Desert Sunlight Project"	"is"	"a 550 MW solar power plant"	130	query206_Solar_power\P\130-1
+"a 550 MW solar power plant under construction in Riverside County _ California"	"will use"	"thin-film solar photovoltaic modules made by First Solar"	130	query206_Solar_power\P\130-2
+"thin-film solar photovoltaic modules"	"be made"	"by First Solar"	130	query206_Solar_power\P\130-3
+http ://www.renewableenergyworld.com/rea/news/article/2011/09/doe-closes-on-three-major-solar-projects 	131	query206_Solar_power\S\131
+?cmpid=SolarNL-Tuesday-October4-2011 DOE Closes on Four Major Solar Projects 30 September 2011 Renewable Energy World http ://www.renewableenergyworld.com/rea/news/article/2011/09/doe-closes-on-three-major-solar-projects 	132	query206_Solar_power\S\132
+"cmpid = SolarNL-Tuesday-October4-2011 DOE"	"Closes"	"on Four Major Solar Projects 30 September 2011 Renewable Energy World http www.renewableenergyworld.com/rea/news/article/2011/09/doe-closes-on-three-major-solar-projects"	132	query206_Solar_power\P\132-0
+"cmpid = SolarNL-Tuesday-October4-2011 DOE"	"Closes"	"www.renewableenergyworld.com/rea/news/article/2011/09/doe-closes-on-three-major-solar-projects"	132	query206_Solar_power\P\132-1
+?cmpid=SolarNL-Tuesday-October4-2011 DOE Closes on Four Major Solar Projects 30 September 2011 Renewable Energy World The Topaz Solar Farm is a 550 MW photovoltaic power plant , being built in San Luis Obispo County _ California . 	133	query206_Solar_power\S\133
+"cmpid = SolarNL-Tuesday-October4-2011 DOE"	"Closes"	"on Four Major Solar Projects 30 September 2011 Renewable Energy World The Topaz Solar Farm"	133	query206_Solar_power\P\133-0
+"cmpid = SolarNL-Tuesday-October4-2011 DOE Closes on Four Major Solar Projects 30 September 2011 Renewable Energy World The Topaz Solar Farm"	"is a 550 MW photovoltaic power plant"	"being built in San Luis Obispo County _ California"	133	query206_Solar_power\P\133-1
+"cmpid = SolarNL-Tuesday-October4-2011 DOE Closes on Four Major Solar Projects 30 September 2011 Renewable Energy World The Topaz Solar Farm"	"is"	"a 550 MW photovoltaic power plant"	133	query206_Solar_power\P\133-2
+"a 550 MW photovoltaic power plant"	"be built"	"in San Luis Obispo County _ California"	133	query206_Solar_power\P\133-3
+http ://www.renewableenergyworld.com/rea/news/article/2011/12/billionaire-buffett-bets-on-solar-energy 	134	query206_Solar_power\S\134
+?cmpid=SolarNL-Thursday-December8-2011 Billionaire Buffett Bets on Solar Energy Steve Leone 7 December 2011 Renewable Energy World http ://www.renewableenergyworld.com/rea/news/article/2011/12/billionaire-buffett-bets-on-solar-energy 	135	query206_Solar_power\S\135
+?cmpid=SolarNL-Thursday-December8-2011 Billionaire Buffett Bets on Solar Energy Steve Leone 7 December 2011 Renewable Energy World The Blythe Solar Power Project is a 500 MW photovoltaic station under construction in Riverside County _ California . 	136	query206_Solar_power\S\136
+"cmpid = SolarNL-Thursday-December8-2011 Billionaire Buffett Bets on Solar Energy Steve Leone 7 December 2011 Renewable Energy World The Blythe Solar Power Project"	"is a 500 MW photovoltaic station"	"under construction in Riverside County _ California"	136	query206_Solar_power\P\136-0
+"cmpid = SolarNL-Thursday-December8-2011 Billionaire Buffett Bets on Solar Energy Steve Leone 7 December 2011 Renewable Energy World The Blythe Solar Power Project"	"is"	"a 500 MW photovoltaic station"	136	query206_Solar_power\P\136-1
+The Agua Caliente Solar Project is a 290 megawatt photovoltaic solar generating facility being built in Yuma County _ Arizona . 	137	query206_Solar_power\S\137
+"a 290 megawatt photovoltaic solar generating facility"	"be built"	"in Yuma County _ Arizona"	137	query206_Solar_power\P\137-0
+"The Agua Caliente Solar Project"	"is a 290 megawatt photovoltaic solar generating facility"	"being built in Yuma County _ Arizona"	137	query206_Solar_power\P\137-1
+"The Agua Caliente Solar Project"	"is"	"a 290 megawatt photovoltaic solar generating facility"	137	query206_Solar_power\P\137-2
+The California Valley Solar Ranch ( CVSR ) is a 250&nbsp; megawatt ( MW) solar photovoltaic power plant , which is being built by SunPower in the Carrizo Plain , northeast of California Valley . 	138	query206_Solar_power\S\138
+"The California Valley Solar Ranch"	"is"	"CVSR"	138	query206_Solar_power\P\138-0
+"megawatt"	"is"	"MW"	250	query206_Solar_power\P\138-1
+"The California Valley Solar Ranch"	"is"	"a 250 megawatt solar photovoltaic power plant"	138	query206_Solar_power\P\138-2
+"a 250 megawatt solar photovoltaic power plant"	"is being built"	"by SunPower in the Carrizo Plain"	138	query206_Solar_power\P\138-3
+"a 250 megawatt solar photovoltaic power plant"	"is being built"	"by SunPower"	138	query206_Solar_power\P\138-4
+"the Carrizo Plain"	"is"	"northeast of California Valley"	138	query206_Solar_power\P\138-5
+http ://www.marketwatch.com/story/nrg-energy-completes-acquisition-of-250-megawatt-california-valley-solar-ranch-from-sunpower-2011-09-30 	139	query206_Solar_power\S\139
+NRG Energy Completes Acquisition of 250-Megawatt California Valley Solar Ranch from SunPower 30 September 2011 MarketWatch http ://www.marketwatch.com/story/nrg-energy-completes-acquisition-of-250-megawatt-california-valley-solar-ranch-from-sunpower-2011-09-30 	140	query206_Solar_power\S\140
+NRG Energy Completes Acquisition of 250-Megawatt California Valley Solar Ranch from SunPower 30 September 2011 MarketWatch The 230 MW Antelope Valley Solar Ranch is a First Solar photovoltaic project which is under construction in the Antelope Valley area of the Western Mojave Desert , and due to be completed in 2013 . 	141	query206_Solar_power\S\141
+"NRG Energy Completes Acquisition of 250-Megawatt California Valley Solar Ranch from SunPower 30 September 2011 MarketWatch The 230 MW Antelope Valley Solar Ranch"	"is"	"a First Solar photovoltaic project"	141	query206_Solar_power\P\141-0
+"NRG Energy Completes Acquisition of 250-Megawatt California Valley Solar Ranch from SunPower 30 September 2011 MarketWatch The 230 MW Antelope Valley Solar Ranch"	"is"	"a First Solar photovoltaic due to be completed in 2013"	141	query206_Solar_power\P\141-1
+"a First Solar photovoltaic project"	"is"	"under construction in the Antelope Valley area of the Western Mojave Desert"	141	query206_Solar_power\P\141-2
+"a First Solar photovoltaic due to be completed in 2013"	"is"	"under construction in the Antelope Valley area of the Western Mojave Desert"	141	query206_Solar_power\P\141-3
+http ://www .solarserver.com/solar-magazine/solar-news/current/2011/kw40/exelon-purchases-230-mw-antelope-valley-solar-ranch-one-from-first-solar 	142	query206_Solar_power\S\142
+.html 	143	query206_Solar_power\S\143
+Exelon purchases 230 MW Antelope Valley Solar Ranch One from First Solar 4 October 2011 Solar Server http ://www .solarserver.com/solar-magazine/solar-news/current/2011/kw40/exelon-purchases-230-mw-antelope-valley-solar-ranch-one-from-first-solar 	144	query206_Solar_power\S\144
+.html 	145	query206_Solar_power\S\145
+Exelon purchases 230 MW Antelope Valley Solar Ranch One from First Solar 4 October 2011 Solar Server List of photovoltaic power stations Commercial concentrating solar thermal power ( CSP) plants were first developed in the 1980s . 	146	query206_Solar_power\S\146
+"photovoltaic power stations Commercial concentrating solar thermal power"	"is"	"CSP"	146	query206_Solar_power\P\146-0
+"photovoltaic power stations Commercial concentrating solar thermal power"	"is"	"CSP"	146	query206_Solar_power\P\146-1
+The 354 MW SEGS CSP installation is the largest solar power plant in the world , located in the Mojave Desert of California . 	147	query206_Solar_power\S\147
+"The 354 MW SEGS CSP installation"	"is the largest solar power plant located in the Mojave Desert of California"	"in the world"	147	query206_Solar_power\P\147-0
+"The 354 MW SEGS CSP installation"	"is"	"the largest solar power plant located in the Mojave Desert of California"	147	query206_Solar_power\P\147-1
+Other large CSP plants include the Solnova Solar Power Station ( 150 MW) , the Andasol solar power station ( 150 MW) , and Extresol Solar Power Station ( 100&nbsp;MW) , all in Spain . 	148	query206_Solar_power\S\148
+"Other large CSP plants"	"include"	"the Solnova Solar Power Station"	148	query206_Solar_power\P\148-0
+"Other large CSP plants"	"include"	"the Solnova Solar Power the Andasol solar power station"	148	query206_Solar_power\P\148-1
+"Other large CSP plants"	"include"	"the Solnova Solar Power Extresol Solar Power Station"	148	query206_Solar_power\P\148-2
+"the Solnova Solar Power Station"	"is"	"all in Spain"	148	query206_Solar_power\P\148-3
+"the Solnova Solar Power the Andasol solar power station"	"is"	"all in Spain"	148	query206_Solar_power\P\148-4
+"the Solnova Solar Power Extresol Solar Power Station"	"is"	"all in Spain"	148	query206_Solar_power\P\148-5
+"the Solnova Solar Power Station"	"is"	"150 MW"	148	query206_Solar_power\P\148-6
+"the Solnova Solar Power the Andasol solar power station"	"is"	"150 MW"	148	query206_Solar_power\P\148-7
+"the Solnova Solar Power Extresol Solar Power Station"	"is"	"150 MW"	148	query206_Solar_power\P\148-8
+"the Andasol solar power station"	"is"	"150 MW"	148	query206_Solar_power\P\148-9
+"Extresol Solar Power Station"	"is"	"100 MW"	148	query206_Solar_power\P\148-10
+The 370&nbsp;MW Ivanpah Solar Power Facility , located in California 's Mojave Desert , is the world’s largest solar thermal power plant project currently under construction . 	149	query206_Solar_power\S\149
+The 370&nbsp;MW Ivanpah Solar Power Facility , located in California 's Mojave Desert , is the world’s largest solar thermal power plant project currently under construction . 	149	query206_Solar_power\S\149
+"the world"	"has"	"largest solar thermal power plant project currently under construction"	149	query206_Solar_power\P\149-0
+"The 370 MW Ivanpah Solar Power Facility located in California 's Mojave Desert"	"is"	"the world 's largest solar thermal power plant project under currently construction 149"	149	query206_Solar_power\P\149-1
+"The 370 MW Ivanpah Solar Power Facility located in California 's Mojave Desert"	"is"	"the world 's largest solar thermal power plant project 149"	149	query206_Solar_power\P\149-2
+List of solar thermal power stations thumbProjection of levelized cost of PV energy in Europe .Solar 	150	query206_Solar_power\S\150
+Photovoltaics Competing in the Energy Sector_ W. 	151	query206_Solar_power\S\151
+"Photovoltaics"	"be Competing"	"in the Energy Sector _ W."	151	query206_Solar_power\P\151-0
+Hoffman _ 8th European PV Industry Summit _ September 2011( Link to the document in the "presentation " section ) Bloomberg New Energy Finance , in March 2011 , put the 2010 cost of solar panels at $ 1.80 	152	query206_Solar_power\S\152
+"Bloomberg New Energy Finance in March 2011"	"put"	"the 2010 cost of solar panels at $ 1.80"	152	query206_Solar_power\P\152-0
+per watt , but estimated that the price would decline to $ 1.50 	153	query206_Solar_power\S\153
+"the price"	"would decline"	"to $ 1.50"	153	query206_Solar_power\P\153-0
+per watt by the end of 2011 . 	154	query206_Solar_power\S\154
+Yasu Mariko Maki Shiraki Bloomberg http ://search .japantimes.co.jp/cgi-bin/nb20110422n1.html 	155	query206_Solar_power\S\155
+Silver lining in sight for makers of solar panels Japan Times 22 April 2011 p . 	156	query206_Solar_power\S\156
+7 Yasu Mariko Maki Shiraki Bloomberg http ://search .japantimes.co.jp/cgi-bin/nb20110422n1.html 	157	query206_Solar_power\S\157
+Silver lining in sight for makers of solar panels Japan Times 22 April 2011 p . 	158	query206_Solar_power\S\158
+7 Nevertheless , there are exceptions-- Nellis Air Force Base is receiving photoelectric power for about 2.2&nbsp;¢/k 	159	query206_Solar_power\S\159
+7 Nevertheless , there are exceptions-- Nellis Air Force Base is receiving photoelectric power for about 2.2&nbsp;¢/k 	159	query206_Solar_power\S\159
+"Nellis Air Force Base"	"is receiving"	"photoelectric power for about 2.2 cents k"	159	query206_Solar_power\P\159-0
+"Nellis Air Force Base"	"is receiving"	"photoelectric power"	159	query206_Solar_power\P\159-1
+Wh and grid power for 9&nbsp;¢/k Wh . 	160	query206_Solar_power\S\160
+. 	161	query206_Solar_power\S\161
+nellis .af.mil 	162	query206_Solar_power\S\162
+An Argument for Feed-in Tariffs European Photovoltaic Industry Association http ://www.epia 	163	query206_Solar_power\S\163
+.org/index.php 	164	query206_Solar_power\S\164
+?id=18 9 June 2008 PDF An Argument for Feed-in Tariffs European Photovoltaic Industry Association http ://www.epia 	165	query206_Solar_power\S\165
+.org/index.php 	166	query206_Solar_power\S\166
+?id=18 9 June 2008 PDF Also , since PV systems use no fuel and modules typically last 25 to 40 years , the International Conference on Solar Photovoltaic Investments , organized by EPIA , has estimated that PV systems will pay back their investors in 8 to 12 years . 	167	query206_Solar_power\S\167
+"PV systems"	"use"	"no fuel typically last 25 to 40 years"	167	query206_Solar_power\P\167-0
+"PV systems"	"use"	"no modules typically last 25 to 40 years"	167	query206_Solar_power\P\167-1
+"PV systems"	"use"	"no fuel"	167	query206_Solar_power\P\167-2
+"PV systems"	"use"	"no modules"	167	query206_Solar_power\P\167-3
+"the International Conference on Solar Photovoltaic Investments"	"be organized"	"by EPIA"	167	query206_Solar_power\P\167-4
+"the International Conference on Solar Photovoltaic Investments organized by EPIA"	"id has estimated"	"that PV systems will pay back their investors in 8 to 12 years since PV systems use no fuel typically last 25 to 40 years"	167	query206_Solar_power\P\167-5
+"the International Conference on Solar Photovoltaic Investments organized by EPIA"	"id has estimated"	"that PV systems will pay back their investors in 8 to 12 years since PV systems use no modules typically last 25 to 40 years"	167	query206_Solar_power\P\167-6
+"the International Conference on Solar Photovoltaic Investments organized by EPIA"	"id has estimated"	"that PV systems will pay back their investors in 8 to 12 years"	167	query206_Solar_power\P\167-7
+"the International Conference on Solar Photovoltaic Investments organized by EPIA"	"id has estimated"	"that PV systems will pay back their investors in 8 to 12 years"	167	query206_Solar_power\P\167-8
+"the International Conference on Solar Photovoltaic Investments organized by EPIA"	"id has estimated"	"that PV systems will pay back their investors in 8 to 12 years"	167	query206_Solar_power\P\167-9
+"the International Conference on Solar Photovoltaic Investments organized by EPIA"	"id has estimated"	"that PV systems will pay back their investors in 8 to 12 years"	167	query206_Solar_power\P\167-10
+"PV systems"	"will pay back"	"their investors in 8 to 12 years"	167	query206_Solar_power\P\167-11
+"PV systems"	"will pay back"	"their investors"	167	query206_Solar_power\P\167-12
+"PV systems"	"will pay back"	"their investors"	167	query206_Solar_power\P\167-13
+http ://www.pvinvestmentconference 	168	query206_Solar_power\S\168
+.org 	169	query206_Solar_power\S\169
+3rd International Conference on Solar Photovoltaic Investments Pvinvestmentconference .org 	170	query206_Solar_power\S\170
+19 April 2011 http ://www.pvinvestmentconference 	171	query206_Solar_power\S\171
+.org 	172	query206_Solar_power\S\172
+3rd International Conference on Solar Photovoltaic Investments Pvinvestmentconference .org 	173	query206_Solar_power\S\173
+19 April 2011 As a result , since 2006 it has been economical for investors to install photovoltaics for free in return for a long term power purchase agreement . 	174	query206_Solar_power\S\174
+19 April 2011 As a result , since 2006 it has been economical for investors to install photovoltaics for free in return for a long term power purchase agreement . 	174	query206_Solar_power\S\174
+19 April 2011 As a result , since 2006 it has been economical for investors to install photovoltaics for free in return for a long term power purchase agreement . 	174	query206_Solar_power\S\174
+19 April 2011 As a result , since 2006 it has been economical for investors to install photovoltaics for free in return for a long term power purchase agreement . 	174	query206_Solar_power\S\174
+19 April 2011 As a result , since 2006 it has been economical for investors to install photovoltaics for free in return for a long term power purchase agreement . 	174	query206_Solar_power\S\174
+19 April 2011 As a result , since 2006 it has been economical for investors to install photovoltaics for free in return for a long term power purchase agreement . 	174	query206_Solar_power\S\174
+Fifty percent of commercial systems were installed in this manner in 2007 and it is expected that 90 % will by 2009 . 	175	query206_Solar_power\S\175
+"Fifty percent of commercial systems"	"were installed"	"in this manner in 2007"	175	query206_Solar_power\P\175-0
+"Fifty percent of commercial systems"	"were installed"	"in this manner"	175	query206_Solar_power\P\175-1
+"Fifty percent of commercial systems"	"were installed"	"in this manner"	175	query206_Solar_power\P\175-2
+"%"	"be will"	"by 2009"	90	query206_Solar_power\P\175-3
+http ://www.gtmresearch.com/report/solar-power-services-how-ppas-are-changing-the-pv-value-chain 	176	query206_Solar_power\S\176
+Solar Power Services : How PPAs are Changing the PV Value Chain 11 February 2008 21 May 2009 http ://www.gtmresearch.com/report/solar-power-services-how-ppas-are-changing-the-pv-value-chain 	177	query206_Solar_power\S\177
+"How PPAs"	"are Changing"	"the PV Value Chain 11 February 2008 21 May 2009 http"	177	query206_Solar_power\P\177-0
+Solar Power Services : How PPAs are Changing the PV Value Chain 11 February 2008 21 May 2009 As of 2011 , the cost of PV has fallen well below that of nuclear power and is set to fall further . 	178	query206_Solar_power\S\178
+"How PPAs"	"are Changing"	"the PV Value Chain 11 February 2008 21 May 2009 As of 2011"	178	query206_Solar_power\P\178-0
+"How PPAs"	"are is set"	"the PV Value Chain 11 February 2008 21 May 2009 As of 2011 to fall further"	178	query206_Solar_power\P\178-1
+"the cost of PV"	"has fallen"	"well below that of nuclear power"	178	query206_Solar_power\P\178-2
+The average retail price of solar cells as monitored by the Solarbuzz group fell from $ 3.50/watt 	179	query206_Solar_power\S\179
+to $ 2.43/watt 	180	query206_Solar_power\S\180
+over the course of 2011 , and a decline to prices below $ 2.00/watt 	181	query206_Solar_power\S\181
+seems inevitable : http ://nationalinterest .org/commentary/the-end-the-nuclear-renaissance-6325 	182	query206_Solar_power\S\182
+?page=1 The End of the Nuclear Renaissance John Quiggin 3 January 2012 National Interest For large-scale installations , prices below $ 1.00/watt 	183	query206_Solar_power\S\183
+"the Nuclear Renaissance John Quiggin 3 January 2012 National Interest For large-scale installations"	"is"	"prices below $ 1.00"	183	query206_Solar_power\P\183-0
+are now common . 	184	query206_Solar_power\S\184
+are now common . 	184	query206_Solar_power\S\184
+are now common . 	184	query206_Solar_power\S\184
+In some locations , PV has reached grid parity , the cost at which it is competitive with coal or gas-fired generation . 	185	query206_Solar_power\S\185
+"In some locations"	"is"	"the cost"	185	query206_Solar_power\P\185-0
+"In some locations"	"is"	"the cost"	185	query206_Solar_power\P\185-1
+"In some locations"	"is"	"the cost"	185	query206_Solar_power\P\185-2
+"In some locations"	"is"	"the cost"	185	query206_Solar_power\P\185-3
+"In some locations"	"is"	"the cost"	185	query206_Solar_power\P\185-4
+"In some locations"	"is"	"the cost"	185	query206_Solar_power\P\185-5
+More generally , it is now evident that , given a carbon price of $ 50/ton , which would raise the price of coal-fired power by 5c/k Wh , solar PV will be cost-competitive in most locations . 	186	query206_Solar_power\S\186
+More generally , it is now evident that , given a carbon price of $ 50/ton , which would raise the price of coal-fired power by 5c/k Wh , solar PV will be cost-competitive in most locations . 	186	query206_Solar_power\S\186
+More generally , it is now evident that , given a carbon price of $ 50/ton , which would raise the price of coal-fired power by 5c/k Wh , solar PV will be cost-competitive in most locations . 	186	query206_Solar_power\S\186
+More generally , it is now evident that , given a carbon price of $ 50/ton , which would raise the price of coal-fired power by 5c/k Wh , solar PV will be cost-competitive in most locations . 	186	query206_Solar_power\S\186
+"a carbon price of $ 50/ton"	"would raise"	"the price of coal-fired power by 5c/k Wh"	186	query206_Solar_power\P\186-0
+"a carbon price of $ 50/ton"	"would raise"	"the price of coal-fired power"	186	query206_Solar_power\P\186-1
+"5c/k Wh"	"is"	"solar PV"	186	query206_Solar_power\P\186-2
+"given a carbon price of $ 50/ton"	"will be cost-competitive"	"in most locations"	186	query206_Solar_power\P\186-3
+"given a carbon price of $ 50/ton"	"will be"	"cost-competitive"	186	query206_Solar_power\P\186-4
+The declining price of PV has been reflected in rapidly growing installations , totalling about 23 GW in 2011 . 	187	query206_Solar_power\S\187
+"The declining price of PV"	"has been reflected"	"in rapidly growing installations totalling about 23 GW in 2011"	187	query206_Solar_power\P\187-0
+"The declining price of PV"	"has been reflected"	"totalling about 23 GW in 2011"	187	query206_Solar_power\P\187-1
+Although some consolidation is likely in 2012 , as firms try to restore profitability , strong growth seems likely to continue for the rest of the decade . 	188	query206_Solar_power\S\188
+"some consolidation"	"is likely"	"in 2012"	188	query206_Solar_power\P\188-0
+"some consolidation"	"is"	"likely"	188	query206_Solar_power\P\188-1
+"some consolidation"	"is"	"likely"	188	query206_Solar_power\P\188-2
+"strong growth"	"seems"	"likely to continue for the rest of the decade Although some consolidation is likely in 2012"	188	query206_Solar_power\P\188-3
+"strong growth"	"seems"	"likely to continue for the rest of the decade as firms try to restore profitability"	188	query206_Solar_power\P\188-4
+"strong growth"	"seems"	"likely to continue for the rest of the decade"	188	query206_Solar_power\P\188-5
+Already , by one estimate , total investment in renewables for 2011 exceeded investment in carbon-based electricity generation . 	189	query206_Solar_power\S\189
+Already , by one estimate , total investment in renewables for 2011 exceeded investment in carbon-based electricity generation . 	189	query206_Solar_power\S\189
+Already , by one estimate , total investment in renewables for 2011 exceeded investment in carbon-based electricity generation . 	189	query206_Solar_power\S\189
+Already , by one estimate , total investment in renewables for 2011 exceeded investment in carbon-based electricity generation . 	189	query206_Solar_power\S\189
+"total investment in renewables for 2011"	"189 exceeded"	"investment in carbon-based electricity generation Already"	189	query206_Solar_power\P\189-0
+"total investment in renewables for 2011"	"189 exceeded"	"investment in carbon-based electricity generation by one estimate"	189	query206_Solar_power\P\189-1
+"total investment in renewables for 2011"	"189 exceeded"	"investment in carbon-based electricity generation"	189	query206_Solar_power\P\189-2
+http ://nationalinterest .org/commentary/the-end-the-nuclear-renaissance-6325 	190	query206_Solar_power\S\190
+?page=1 The End of the Nuclear Renaissance John Quiggin 3 January 2012 National Interest http ://nationalinterest .org/commentary/the-end-the-nuclear-renaissance-6325 	191	query206_Solar_power\S\191
+?page=1 The End of the Nuclear Renaissance John Quiggin 3 January 2012 National Interest Additionally , governments have created various financial incentives to encourage the use of solar power , such as feed-in tariff programs . 	192	query206_Solar_power\S\192
+?page=1 The End of the Nuclear Renaissance John Quiggin 3 January 2012 National Interest Additionally , governments have created various financial incentives to encourage the use of solar power , such as feed-in tariff programs . 	192	query206_Solar_power\S\192
+"various financial incentives"	"be encourage"	"the use of solar power such as feed-in tariff programs"	192	query206_Solar_power\P\192-0
+Also , Renewable portfolio standard impose a government mandate that utilities generate or acquire a certain percentage of renewable power regardless of increased energy procurement costs . 	193	query206_Solar_power\S\193
+Also , Renewable portfolio standard impose a government mandate that utilities generate or acquire a certain percentage of renewable power regardless of increased energy procurement costs . 	193	query206_Solar_power\S\193
+Also , Renewable portfolio standard impose a government mandate that utilities generate or acquire a certain percentage of renewable power regardless of increased energy procurement costs . 	193	query206_Solar_power\S\193
+In most states , RPS goals can be achieved by any combination of solar , wind , biomass , landfill gas , ocean , geothermal , municipal solid waste , hydroelectric , hydrogen , or fuel cell technologies . 	194	query206_Solar_power\S\194
+"In most states RPS goals"	"can be achieved"	"by any combination of solar cell technologies"	194	query206_Solar_power\P\194-0
+"In most states RPS goals"	"can be achieved"	"by any combination of wind cell technologies"	194	query206_Solar_power\P\194-1
+"In most states RPS goals"	"can be achieved"	"by any combination of biomass cell technologies"	194	query206_Solar_power\P\194-2
+"In most states RPS goals"	"can be achieved"	"by any combination of landfill gas cell technologies"	194	query206_Solar_power\P\194-3
+"In most states RPS goals"	"can be achieved"	"by any combination of ocean cell technologies"	194	query206_Solar_power\P\194-4
+"In most states RPS goals"	"can be achieved"	"by any combination of geothermal cell technologies"	194	query206_Solar_power\P\194-5
+"In most states RPS goals"	"can be achieved"	"by any combination of municipal solid waste cell technologies"	194	query206_Solar_power\P\194-6
+"In most states RPS goals"	"can be achieved"	"by any combination of hydroelectric cell technologies"	194	query206_Solar_power\P\194-7
+"In most states RPS goals"	"can be achieved"	"by any combination of hydrogen cell technologies"	194	query206_Solar_power\P\194-8
+"In most states RPS goals"	"can be achieved"	"by any combination of fuel cell technologies"	194	query206_Solar_power\P\194-9
+Robert Glennon and Andrew M. 	195	query206_Solar_power\S\195
+Reeves , Solar Energy 's Cloudy Future , 1 Ariz . 	196	query206_Solar_power\S\196
+"Reeves"	"is"	"Solar Energy 's Cloudy Future"	196	query206_Solar_power\P\196-0
+"Reeves"	"is"	"1 Ariz"	196	query206_Solar_power\P\196-1
+"Solar Energy"	"has"	"Cloudy Future"	196	query206_Solar_power\P\196-2
+J. 	197	query206_Solar_power\S\197
+Evtl . 	198	query206_Solar_power\S\198
+L. 	199	query206_Solar_power\S\199
+&amp; Pol 'y , 91 , 106 ( 2010 ) available at http ://ajelp.com/documents/GlennonFinal 	200	query206_Solar_power\S\200
+&amp; Pol 'y , 91 , 106 ( 2010 ) available at http ://ajelp.com/documents/GlennonFinal 	200	query206_Solar_power\S\200
+.pdf 	201	query206_Solar_power\S\201
+Grid energy storage V2G thumbrightThis energy park inGeesthacht _ Germany _ includes solar panels andpumped-storage hydroelectricity . 	202	query206_Solar_power\S\202
+Grid energy storage V2G thumbrightThis energy park inGeesthacht _ Germany _ includes solar panels andpumped-storage hydroelectricity . 	202	query206_Solar_power\S\202
+Grid energy storage V2G thumbrightThis energy park inGeesthacht _ Germany _ includes solar panels andpumped-storage hydroelectricity . 	202	query206_Solar_power\S\202
+Grid energy storage V2G thumbrightThis energy park inGeesthacht _ Germany _ includes solar panels andpumped-storage hydroelectricity . 	202	query206_Solar_power\S\202
+Grid energy storage V2G thumbrightThis energy park inGeesthacht _ Germany _ includes solar panels andpumped-storage hydroelectricity . 	202	query206_Solar_power\S\202
+thumbrightSeasonal variation of the output of the solar panels atAT&T Parkin San Francisco Solar energy is not available at night , making energy storage an important issue in order to provide the continuous availability of energy . 	203	query206_Solar_power\S\203
+"thumbrightSeasonal variation of the output of the solar panels atAT & T Parkin San Francisco Solar energy"	"is not available"	"at night"	203	query206_Solar_power\P\203-0
+"thumbrightSeasonal variation of the output of the solar panels atAT & T Parkin San Francisco Solar energy"	"is not available"	"making energy storage an important issue in order to provide the continuous availability of energy"	203	query206_Solar_power\P\203-1
+"thumbrightSeasonal variation of the output of the solar panels atAT & T Parkin San Francisco Solar energy"	"is not"	"available"	203	query206_Solar_power\P\203-2
+"not available at night"	"be making"	"energy storage an important issue"	203	query206_Solar_power\P\203-3
+Carr ( 1976 ) , p . 	204	query206_Solar_power\S\204
+"Carr"	"is"	"1976"	204	query206_Solar_power\P\204-0
+"Carr"	"is"	"p"	204	query206_Solar_power\P\204-1
+85 Both wind power and solar power are intermittent energy source , meaning that all available output must be taken when it is available and either stored for when it can be used , or transported , over transmission lines , to where it can be used . 	205	query206_Solar_power\S\205
+"85 Both wind power"	"are intermittent energy source"	"meaning that all available output must be taken when it is available"	205	query206_Solar_power\P\205-0
+"85 Both wind power"	"are intermittent energy source"	"meaning that all available output must be taken when it is either stored for when it can be used over transmission lines to where it can be used"	205	query206_Solar_power\P\205-1
+"85 Both wind power"	"are intermittent energy source"	"meaning that all available output must be taken when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-2
+"85 Both wind solar power"	"are intermittent energy source"	"meaning that all available output must be taken when it is available"	205	query206_Solar_power\P\205-3
+"85 Both wind solar power"	"are intermittent energy source"	"meaning that all available output must be taken when it is either stored for when it can be used over transmission lines to where it can be used"	205	query206_Solar_power\P\205-4
+"85 Both wind solar power"	"are intermittent energy source"	"meaning that all available output must be taken when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-5
+"85 Both wind power"	"are"	"intermittent energy source"	205	query206_Solar_power\P\205-6
+"85 Both wind solar power"	"are"	"intermittent energy source"	205	query206_Solar_power\P\205-7
+"intermittent energy source"	"be meaning"	"that all available output must be taken when it is available"	205	query206_Solar_power\P\205-8
+"intermittent energy source"	"be meaning"	"that all available output must be taken when it is either stored for when it can be used over transmission lines to where it can be used"	205	query206_Solar_power\P\205-9
+"intermittent energy source"	"be meaning"	"that all available output must be taken when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-10
+"all available output"	"must be taken"	"when it is available"	205	query206_Solar_power\P\205-11
+"all available output"	"must be taken"	"when it is either stored for when it can be used over transmission lines to where it can be used"	205	query206_Solar_power\P\205-12
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-13
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-14
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-15
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-16
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-17
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-18
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-19
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-20
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-21
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-22
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-23
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-24
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-25
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-26
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-27
+"all available output"	"must be taken"	"when it is either stored for when it can be transported over transmission lines to where it can be used"	205	query206_Solar_power\P\205-28
+Wind power and solar power tend to be somewhat complementary , as there tends to be more wind in the winter and more sun in the summer , but on days with no sun and no wind the difference needs to be made up in some manner . 	206	query206_Solar_power\S\206
+"Wind power"	"tend"	"to be complementary somewhat as there tends to be more wind in the winter in the summer"	206	query206_Solar_power\P\206-0
+"Wind power"	"tend"	"to be complementary somewhat as there tends to be more wind in the more sun in the summer but on days with no sun and no wind the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-1
+"Wind power"	"tend"	"to be complementary somewhat as there to be more wind in the winter in the summer on days with no sun the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-2
+"Wind power"	"tend"	"to be complementary somewhat as there to be more wind in the winter in the summer on days with no no wind the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-3
+"Wind power"	"tend"	"to be complementary as there tends to be more wind in the winter in the summer"	206	query206_Solar_power\P\206-4
+"Wind power"	"tend"	"to be complementary as there tends to be more wind in the more sun in the summer but on days with no sun and no wind the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-5
+"Wind power"	"tend"	"to be complementary as there to be more wind in the winter in the summer on days with no sun the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-6
+"Wind power"	"tend"	"to be complementary as there to be more wind in the winter in the summer on days with no no wind the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-7
+"Wind solar power"	"tend"	"to be complementary somewhat as there tends to be more wind in the winter in the summer"	206	query206_Solar_power\P\206-8
+"Wind solar power"	"tend"	"to be complementary somewhat as there tends to be more wind in the more sun in the summer but on days with no sun and no wind the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-9
+"Wind solar power"	"tend"	"to be complementary somewhat as there to be more wind in the winter in the summer on days with no sun the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-10
+"Wind solar power"	"tend"	"to be complementary somewhat as there to be more wind in the winter in the summer on days with no no wind the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-11
+"Wind solar power"	"tend"	"to be complementary as there tends to be more wind in the winter in the summer"	206	query206_Solar_power\P\206-12
+"Wind solar power"	"tend"	"to be complementary as there tends to be more wind in the more sun in the summer but on days with no sun and no wind the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-13
+"Wind solar power"	"tend"	"to be complementary as there to be more wind in the winter in the summer on days with no sun the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-14
+"Wind solar power"	"tend"	"to be complementary as there to be more wind in the winter in the summer on days with no no wind the difference needs to be made up in some manner"	206	query206_Solar_power\P\206-15
+"Wind power"	"tend"	"to be complementary somewhat"	206	query206_Solar_power\P\206-16
+"Wind power"	"tend"	"to be complementary"	206	query206_Solar_power\P\206-17
+"Wind solar power"	"tend"	"to be complementary somewhat"	206	query206_Solar_power\P\206-18
+"Wind solar power"	"tend"	"to be complementary"	206	query206_Solar_power\P\206-19
+"the difference"	"needs"	"to be made up in some manner on days with no sun"	206	query206_Solar_power\P\206-20
+"the difference"	"needs"	"to be made up in some manner on days with no no wind"	206	query206_Solar_power\P\206-21
+"the difference"	"needs"	"to be made up in some manner"	206	query206_Solar_power\P\206-22
+http ://blog .oregonlive 	207	query206_Solar_power\S\207
+.com/pdxgreen/2008/01/wind_sun_join_forces_at_washin 	208	query206_Solar_power\S\208
+.html 	209	query206_Solar_power\S\209
+Wind + sun join forces at Washington power plant 31 January 2008 http ://blog .oregonlive 	210	query206_Solar_power\S\210
+.com/pdxgreen/2008/01/wind_sun_join_forces_at_washin 	211	query206_Solar_power\S\211
+.html 	212	query206_Solar_power\S\212
+Wind + sun join forces at Washington power plant 31 January 2008 The Institute for Solar Energy Supply Technology of the University of Kassel pilot-tested a combined power plant linking solar , wind , biogas and hydrostorage to provide load-following power around the clock , entirely from renewable sources . 	213	query206_Solar_power\S\213
+"Wind"	"join"	"forces at Washington power plant 31 January 2008 entirely from renewable sources"	213	query206_Solar_power\P\213-0
+"sun"	"join"	"forces at Washington power plant 31 January 2008 entirely from renewable sources"	213	query206_Solar_power\P\213-1
+"Wind"	"join"	"forces"	213	query206_Solar_power\P\213-2
+"sun"	"join"	"forces"	213	query206_Solar_power\P\213-3
+"The Institute for Solar Energy Supply Technology of the University of Kassel"	"pilot-tested"	"a combined power plant linking solar to provide load-following power around the clock 31 January 2008 entirely from renewable sources"	213	query206_Solar_power\P\213-4
+"The Institute for Solar Energy Supply Technology of the University of Kassel"	"pilot-tested"	"a combined power plant linking wind to provide load-following power around the clock 31 January 2008 entirely from renewable sources"	213	query206_Solar_power\P\213-5
+"The Institute for Solar Energy Supply Technology of the University of Kassel"	"pilot-tested"	"a combined power plant linking biogas to provide load-following power around the clock 31 January 2008 entirely from renewable sources"	213	query206_Solar_power\P\213-6
+"The Institute for Solar Energy Supply Technology of the University of Kassel"	"pilot-tested"	"a combined power plant linking hydrostorage to provide load-following power around the clock 31 January 2008 entirely from renewable sources"	213	query206_Solar_power\P\213-7
+"a combined power plant"	"be linking"	"solar to provide load-following power around the clock"	213	query206_Solar_power\P\213-8
+"a combined power plant"	"be linking"	"wind to provide load-following power around the clock"	213	query206_Solar_power\P\213-9
+"a combined power plant"	"be linking"	"biogas to provide load-following power around the clock"	213	query206_Solar_power\P\213-10
+"a combined power plant"	"be linking"	"hydrostorage to provide load-following power around the clock"	213	query206_Solar_power\P\213-11
+"a combined power plant"	"be linking"	"solar to provide load-following power"	213	query206_Solar_power\P\213-12
+"a combined power plant"	"be linking"	"wind to provide load-following power"	213	query206_Solar_power\P\213-13
+"a combined power plant"	"be linking"	"biogas to provide load-following power"	213	query206_Solar_power\P\213-14
+"a combined power plant"	"be linking"	"hydrostorage to provide load-following power"	213	query206_Solar_power\P\213-15
+"linking solar around the clock"	"be provide"	"load-following power"	213	query206_Solar_power\P\213-16
+"linking wind around the clock"	"be provide"	"load-following power"	213	query206_Solar_power\P\213-17
+"linking biogas around the clock"	"be provide"	"load-following power"	213	query206_Solar_power\P\213-18
+"linking hydrostorage around the clock"	"be provide"	"load-following power"	213	query206_Solar_power\P\213-19
+http ://www .solarserver.de/solarmagazin/anlagejanuar2008_e 	214	query206_Solar_power\S\214
+.html 	215	query206_Solar_power\S\215
+The Combined Power Plant : the first stage in providing 100 % power from renewable energy January 2008 10 October 2008 SolarServer http ://www .solarserver.de/solarmagazin/anlagejanuar2008_e 	216	query206_Solar_power\S\216
+.html 	217	query206_Solar_power\S\217
+The Combined Power Plant : the first stage in providing 100 % power from renewable energy January 2008 10 October 2008 SolarServer Solar energy can be stored at high temperatures using molten salts . 	218	query206_Solar_power\S\218
+"energy January 2008 10 October 2008 SolarServer Solar energy"	"can be stored"	"at high temperatures using molten salts"	218	query206_Solar_power\P\218-0
+"energy January 2008 10 October 2008 SolarServer Solar energy"	"can be stored"	"using molten salts"	218	query206_Solar_power\P\218-1
+Salts are an effective storage medium because they are low-cost , have a high specific heat capacity and can deliver heat at temperatures compatible with conventional power systems . 	219	query206_Solar_power\S\219
+"Salts"	"are an effective storage medium have a high specific heat capacity"	"because they are low-cost"	219	query206_Solar_power\P\219-0
+"Salts"	"are an effective storage medium a high specific heat capacity can deliver heat at temperatures compatible with conventional power systems"	"because they are low-cost"	219	query206_Solar_power\P\219-1
+"Salts"	"are"	"an effective storage medium have a high specific heat capacity"	219	query206_Solar_power\P\219-2
+"Salts"	"are"	"an effective storage medium a high specific heat capacity can deliver heat at temperatures compatible with conventional power systems"	219	query206_Solar_power\P\219-3
+"Salts"	"are"	"an effective storage medium a high specific heat capacity can deliver heat at temperatures compatible with conventional power systems"	219	query206_Solar_power\P\219-4
+The Solar Two used this method of energy storage , allowing it to store 1.44&nbsp; 	220	query206_Solar_power\S\220
+"Solar Two used this method of energy storage"	"be allowing"	"it to store 1.44"	220	query206_Solar_power\P\220-0
+"Solar Two used this method of energy storage"	"be allowing"	"it to store 1.44"	220	query206_Solar_power\P\220-1
+TJ in its 68&nbsp;m ³ storage tank , enough to provide full output for close to 39 hours , with an efficiency of about 99 % . 	221	query206_Solar_power\S\221
+TJ in its 68&nbsp;m ³ storage tank , enough to provide full output for close to 39 hours , with an efficiency of about 99 % . 	221	query206_Solar_power\S\221
+Advantages of Using Molten Salt Sandia National Laboratory http ://www .sandia.gov/Renewable_Energy/solarthermal/NSTTF/salt 	222	query206_Solar_power\S\222
+.htm 	223	query206_Solar_power\S\223
+29 September 2007 Advantages of Using Molten Salt Sandia National Laboratory http ://www .sandia.gov/Renewable_Energy/solarthermal/NSTTF/salt 	224	query206_Solar_power\S\224
+.htm 	225	query206_Solar_power\S\225
+29 September 2007 Off-grid PV systems have traditionally used rechargeable batteries to store excess electricity . 	226	query206_Solar_power\S\226
+"29 September 2007 Off-grid PV systems"	"have used"	"rechargeable batteries traditionally"	226	query206_Solar_power\P\226-0
+"29 September 2007 Off-grid PV systems"	"have used"	"rechargeable batteries to store excess electricity"	226	query206_Solar_power\P\226-1
+"29 September 2007 Off-grid PV systems"	"have used"	"rechargeable batteries"	226	query206_Solar_power\P\226-2
+"29 September 2007 Off-grid PV systems"	"be store"	"excess electricity"	226	query206_Solar_power\P\226-3
+With grid-tied systems , excess electricity can be sent to the transmission grid . 	227	query206_Solar_power\S\227
+"excess electricity"	"can be sent"	"to the transmission grid 227 With grid-tied systems"	227	query206_Solar_power\P\227-0
+"excess electricity"	"can be sent"	"to the transmission grid"	227	query206_Solar_power\P\227-1
+Net metering programs give these systems a credit for the electricity they deliver to the grid . 	228	query206_Solar_power\S\228
+"Net metering programs"	"give"	"these systems a credit for the electricity"	228	query206_Solar_power\P\228-0
+"Net metering programs"	"give"	"these systems a credit for the electricity"	228	query206_Solar_power\P\228-1
+"Net metering programs"	"give"	"these systems a credit for the electricity"	228	query206_Solar_power\P\228-2
+This credit offsets electricity provided from the grid when the system cannot meet demand , effectively using the grid as a storage mechanism . 	229	query206_Solar_power\S\229
+"This credit offsets electricity"	"be provided"	"from the grid"	229	query206_Solar_power\P\229-0
+"the system"	"be using"	"effectively the grid as a storage mechanism"	229	query206_Solar_power\P\229-1
+"the system"	"be using"	"effectively the grid"	229	query206_Solar_power\P\229-2
+"the system"	"can not meet"	"demand 229 This credit offsets electricity provided from the grid when"	229	query206_Solar_power\P\229-3
+"the system"	"can not meet"	"demand effectively using the grid as a storage mechanism 229 This credit offsets electricity provided from the grid"	229	query206_Solar_power\P\229-4
+"the system"	"can not meet"	"demand 229 This credit offsets electricity provided from the grid"	229	query206_Solar_power\P\229-5
+Credits are normally rolled over month to month and any remaining surplus settled annually . 	230	query206_Solar_power\S\230
+"Credits"	"are rolled"	"over month normally"	230	query206_Solar_power\P\230-0
+"Credits"	"are rolled"	"over month to month"	230	query206_Solar_power\P\230-1
+"Credits"	"are rolled"	"over month"	230	query206_Solar_power\P\230-2
+"any remaining surplus"	"settled"	"annually"	230	query206_Solar_power\P\230-3
+PV Systems and Net Metering Department of Energy http ://www1.eere 	231	query206_Solar_power\S\231
+.energy 	232	query206_Solar_power\S\232
+.gov/solar/net_metering 	233	query206_Solar_power\S\233
+.html 	234	query206_Solar_power\S\234
+31 July 2008 http ://web.archive 	235	query206_Solar_power\S\235
+.org/web/20080704062311/http 	236	query206_Solar_power\S\236
+://www1.eere 	237	query206_Solar_power\S\237
+.energy 	238	query206_Solar_power\S\238
+.gov/solar/net_metering 	239	query206_Solar_power\S\239
+.html 	240	query206_Solar_power\S\240
+4 July 2008 PV Systems and Net Metering Department of Energy http ://www1.eere 	241	query206_Solar_power\S\241
+.energy 	242	query206_Solar_power\S\242
+.gov/solar/net_metering 	243	query206_Solar_power\S\243
+.html 	244	query206_Solar_power\S\244
+31 July 2008 http ://web.archive 	245	query206_Solar_power\S\245
+.org/web/20080704062311/http 	246	query206_Solar_power\S\246
+://www1.eere 	247	query206_Solar_power\S\247
+.energy 	248	query206_Solar_power\S\248
+.gov/solar/net_metering 	249	query206_Solar_power\S\249
+.html 	250	query206_Solar_power\S\250
+4 July 2008 Pumped-storage hydroelectricity stores energy in the form of water pumped when surplus electricity is available , from a lower elevation reservoir to a higher elevation one . 	251	query206_Solar_power\S\251
+4 July 2008 Pumped-storage hydroelectricity stores energy in the form of water pumped when surplus electricity is available , from a lower elevation reservoir to a higher elevation one . 	251	query206_Solar_power\S\251
+"surplus electricity"	"is available"	"when"	251	query206_Solar_power\P\251-0
+"surplus electricity"	"is"	"available"	251	query206_Solar_power\P\251-1
+The energy is recovered when demand is high by releasing the water : the pump becomes a turbine , and the motor a hydroelectric power generator . 	252	query206_Solar_power\S\252
+"The energy"	"is recovered"	"when demand is high by releasing the water"	252	query206_Solar_power\P\252-0
+"The energy"	"is recovered"	"when demand is high by releasing the water"	252	query206_Solar_power\P\252-1
+"The energy"	"is recovered"	"when demand is high by releasing the water"	252	query206_Solar_power\P\252-2
+"The energy"	"is recovered"	"when demand is high by releasing the water"	252	query206_Solar_power\P\252-3
+"the pump"	"becomes"	"a turbine"	252	query206_Solar_power\P\252-4
+Pumped Hydro Storage Electricity Storage Association http ://www.electricitystorage 	253	query206_Solar_power\S\253
+.org/tech/technologies_technologies_pumpedhydro.htm 	254	query206_Solar_power\S\254
+31 July 2008 Pumped Hydro Storage Electricity Storage Association http ://www.electricitystorage 	255	query206_Solar_power\S\255
+.org/tech/technologies_technologies_pumpedhydro.htm 	256	query206_Solar_power\S\256
+31 July 2008 Artificial photosynthesis involves the use of nanotechnology to store solar electromagnetic energy in chemical bonds , by splitting water to produce hydrogen fuel or then combining with carbon dioxide to make biopolymers such as methanol . 	257	query206_Solar_power\S\257
+"31 July 2008 Artificial photosynthesis"	"involves"	"the use of nanotechnology to store solar electromagnetic energy in chemical bonds by splitting water to produce hydrogen fuel"	257	query206_Solar_power\P\257-0
+"31 July 2008 Artificial photosynthesis"	"involves"	"the use of nanotechnology to store solar electromagnetic energy in chemical bonds splitting water to produce hydrogen fuel then combining with carbon dioxide to make biopolymers such as methanol"	257	query206_Solar_power\P\257-1
+"31 July 2008 Artificial photosynthesis"	"involves"	"the use of nanotechnology to store solar electromagnetic energy in chemical bonds"	257	query206_Solar_power\P\257-2
+"the use of nanotechnology"	"be store"	"solar electromagnetic energy in chemical bonds"	257	query206_Solar_power\P\257-3
+"splitting water"	"be produce"	"hydrogen fuel"	257	query206_Solar_power\P\257-4
+Many large national and regional research projects on artificial photosynthesis are now trying to develop techniques integrating improved light capture , quantum coherence methods of electron transfer and cheap catalytic materials that operate under a variety of atmospheric conditions . 	258	query206_Solar_power\S\258
+"Many large national research projects on artificial photosynthesis"	"are trying"	"to develop techniques integrating improved light capture now"	258	query206_Solar_power\P\258-0
+"Many large regional research projects on artificial photosynthesis"	"are trying"	"to develop techniques integrating improved light capture now"	258	query206_Solar_power\P\258-1
+"Many large national research projects on artificial photosynthesis"	"are trying"	"to develop techniques integrating improved light capture"	258	query206_Solar_power\P\258-2
+"Many large regional research projects on artificial photosynthesis"	"are trying"	"to develop techniques integrating improved light capture"	258	query206_Solar_power\P\258-3
+"Many large regional research projects on artificial photosynthesis"	"are trying"	"to develop techniques integrating improved light capture"	258	query206_Solar_power\P\258-4
+"quantum coherence methods of electron transfer"	"operate"	"under a variety of atmospheric conditions"	258	query206_Solar_power\P\258-5
+"quantum coherence methods of electron cheap catalytic materials"	"operate"	"under a variety of atmospheric conditions"	258	query206_Solar_power\P\258-6
+10.1002/3527606742 	259	query206_Solar_power\S\259
+Collings AF , Critchley C. 	260	query206_Solar_power\S\260
+"Collings AF"	"is"	"Critchley C."	260	query206_Solar_power\P\260-0
+. 	261	query206_Solar_power\S\261
+Wiley-VCH. 	262	query206_Solar_power\S\262
+Weinheim ( 2005 ) p . 	263	query206_Solar_power\S\263
+"Weinheim"	"is"	"2005"	263	query206_Solar_power\P\263-0
+x ISBN 3527310908 10.1002/3527606742 	264	query206_Solar_power\S\264
+. 	265	query206_Solar_power\S\265
+thumbrightConcentrating photovoltaics in Catalonia_ Spain Concentrated photovoltaics ( CPV ) systems employ sunlight concentrated onto photovoltaic surfaces for the purpose of electrical power production . 	266	query206_Solar_power\S\266
+"Catalonia _ Spain Concentrated photovoltaics"	"is"	"CPV"	266	query206_Solar_power\P\266-0
+"Catalonia _ Spain Concentrated photovoltaics"	"is"	"CPV"	266	query206_Solar_power\P\266-1
+"thumbrightConcentrating photovoltaics in Catalonia _ Spain Concentrated photovoltaics"	"concentrated"	"onto photovoltaic surfaces for the purpose of electrical power production"	266	query206_Solar_power\P\266-2
+"thumbrightConcentrating photovoltaics in Catalonia _ Spain Concentrated photovoltaics"	"concentrated"	"onto photovoltaic surfaces"	266	query206_Solar_power\P\266-3
+Solar concentrators of all varieties may be used , and these are often mounted on a solar tracker in order to keep the focal point upon the cell as the Sun moves across the sky . 	267	query206_Solar_power\S\267
+Solar concentrators of all varieties may be used , and these are often mounted on a solar tracker in order to keep the focal point upon the cell as the Sun moves across the sky . 	267	query206_Solar_power\S\267
+Solar concentrators of all varieties may be used , and these are often mounted on a solar tracker in order to keep the focal point upon the cell as the Sun moves across the sky . 	267	query206_Solar_power\S\267
+Solar concentrators of all varieties may be used , and these are often mounted on a solar tracker in order to keep the focal point upon the cell as the Sun moves across the sky . 	267	query206_Solar_power\S\267
+"the Sun"	"moves"	"across the sky the cell"	267	query206_Solar_power\P\267-0
+"the Sun"	"moves"	"the cell"	267	query206_Solar_power\P\267-1
+MSU-CSET Participation Archive with notation in the Murray Ledger &amp; Times Luminescent solar concentrator ( when combined with a PV-solar cell ) can also be regarded as a CPV system . 	268	query206_Solar_power\S\268
+"MSU-CSET Participation Archive with notation in the Murray Ledger & Times Luminescent solar concentrator when combined with a PV-solar cell"	"can be regarded"	"as a CPV system also"	268	query206_Solar_power\P\268-0
+"MSU-CSET Participation Archive with notation in the Murray Ledger & Times Luminescent solar concentrator when combined with a PV-solar cell"	"can be regarded"	"as a CPV system"	268	query206_Solar_power\P\268-1
+Luminescent solar concentrators are useful as they can improve performance of PV-solar panels drastically . 	269	query206_Solar_power\S\269
+"Luminescent solar concentrators"	"are useful"	"as they can improve performance of PV-solar panels drastically"	269	query206_Solar_power\P\269-0
+"Luminescent solar concentrators"	"are"	"useful"	269	query206_Solar_power\P\269-1
+"Luminescent solar concentrators"	"are"	"useful"	269	query206_Solar_power\P\269-2
+"Luminescent solar concentrators"	"are"	"useful"	269	query206_Solar_power\P\269-3
+Layton Julia http ://science .howstuffworks 	270	query206_Solar_power\S\270
+.com/luminescent-solar-concentrator1.htm 	271	query206_Solar_power\S\271
+What is a luminescent solar concentrator ? Science .howstuffworks 	272	query206_Solar_power\S\272
+.com 	273	query206_Solar_power\S\273
+5 November 2008 19 April 2011 Layton Julia http ://science .howstuffworks 	274	query206_Solar_power\S\274
+.com/luminescent-solar-concentrator1.htm 	275	query206_Solar_power\S\275
+What is a luminescent solar concentrator ? Science .howstuffworks 	276	query206_Solar_power\S\276
+.com 	277	query206_Solar_power\S\277
+5 November 2008 19 April 2011 Thermoelectric , or " thermovoltaic " devices convert a temperature difference between dissimilar materials into an electric current . 	278	query206_Solar_power\S\278
+"thermovoltaic devices"	"convert"	"a temperature difference between dissimilar materials into an electric current"	278	query206_Solar_power\P\278-0
+"thermovoltaic devices"	"convert"	"a temperature difference between dissimilar materials"	278	query206_Solar_power\P\278-1
+First proposed as a method to store solar energy by solar pioneer Mouchout in the 1800s , Perlin and Butti ( 1981 ) , p . 	279	query206_Solar_power\S\279
+First proposed as a method to store solar energy by solar pioneer Mouchout in the 1800s , Perlin and Butti ( 1981 ) , p . 	279	query206_Solar_power\S\279
+First proposed as a method to store solar energy by solar pioneer Mouchout in the 1800s , Perlin and Butti ( 1981 ) , p . 	279	query206_Solar_power\S\279
+First proposed as a method to store solar energy by solar pioneer Mouchout in the 1800s , Perlin and Butti ( 1981 ) , p . 	279	query206_Solar_power\S\279
+"a method"	"be store"	"solar energy by solar pioneer Mouchout in the 1800s"	279	query206_Solar_power\P\279-0
+"a method"	"be store"	"solar energy by solar pioneer Mouchout in the Perlin"	279	query206_Solar_power\P\279-1
+"a method"	"be store"	"solar energy by solar pioneer Mouchout in the Butti"	279	query206_Solar_power\P\279-2
+"a method"	"be store"	"solar energy by solar pioneer Mouchout"	279	query206_Solar_power\P\279-3
+"a method"	"be store"	"solar energy by solar pioneer Mouchout"	279	query206_Solar_power\P\279-4
+"a method"	"be store"	"solar energy by solar pioneer Mouchout"	279	query206_Solar_power\P\279-5
+73 thermoelectrics reemerged in the Soviet Union during the 1930s . 	280	query206_Solar_power\S\280
+"73 thermoelectrics"	"reemerged"	"in the Soviet Union during the 1930s"	280	query206_Solar_power\P\280-0
+"73 thermoelectrics"	"reemerged"	"in the Soviet Union"	280	query206_Solar_power\P\280-1
+Under the direction of Soviet scientist Abram Ioffe a concentrating system was used to thermoelectrically generate power for a 1&nbsp; hp engine . 	281	query206_Solar_power\S\281
+"Under the direction of Soviet scientist Abram Ioffe a concentrating system"	"was used"	"to generate power thermoelectrically"	281	query206_Solar_power\P\281-0
+"Under the direction of Soviet scientist Abram Ioffe a concentrating system"	"was used"	"to generate power for a 1 hp engine"	281	query206_Solar_power\P\281-1
+"Under the direction of Soviet scientist Abram Ioffe a concentrating system"	"was used"	"to generate power"	281	query206_Solar_power\P\281-2
+Halacy ( 1973 ) , p . 	282	query206_Solar_power\S\282
+"Halacy"	"is"	"1973"	282	query206_Solar_power\P\282-0
+"Halacy"	"is"	"p"	282	query206_Solar_power\P\282-1
+76 Thermogenerators were later used in the US space program as an energy conversion technology for powering deep space missions such as Cassini , Galileo and Viking . 	283	query206_Solar_power\S\283
+"76 Thermogenerators"	"were used"	"in the US space program later"	283	query206_Solar_power\P\283-0
+"76 Thermogenerators"	"were used"	"in the US space program as an energy conversion technology for powering deep space missions such as Cassini"	283	query206_Solar_power\P\283-1
+"76 Thermogenerators"	"were used"	"in the US space program as an energy conversion technology for powering deep space missions such as Galileo"	283	query206_Solar_power\P\283-2
+"76 Thermogenerators"	"were used"	"in the US space program as an energy conversion technology for powering deep space missions such as Viking"	283	query206_Solar_power\P\283-3
+"76 Thermogenerators"	"were used"	"in the US space program"	283	query206_Solar_power\P\283-4
+Research in this area is focused on raising the efficiency of these devices from 7–8 % to 15–20 % . 	284	query206_Solar_power\S\284
+"Research in this area"	"is focused"	"on raising the efficiency of these devices from 7"	284	query206_Solar_power\P\284-0
+Tritt ( 2008 ) , pp . 	285	query206_Solar_power\S\285
+"Tritt"	"is"	"2008"	285	query206_Solar_power\P\285-0
+"Tritt"	"is"	"pp"	285	query206_Solar_power\P\285-1
+366–368 Space-based solar power is a theoretical design for the collection of solar power in space , for use on Earth . 	286	query206_Solar_power\S\286
+"366 368 Space-based solar power"	"is a theoretical design"	"for the collection of solar power in space"	286	query206_Solar_power\P\286-0
+"366 368 Space-based solar power"	"is a theoretical design"	"for use on Earth"	286	query206_Solar_power\P\286-1
+"366 368 Space-based solar power"	"is"	"a theoretical design"	286	query206_Solar_power\P\286-2
+SBSP differs from the usual method of solar power collection in that the solar panels used to collect the energy would reside on a satellite in orbit , often referred to as a solar power satellite ( SPS) , rather than on Earth 's surface . 	287	query206_Solar_power\S\287
+"SBSP"	"differs"	"from the usual method of solar power collection in that the solar panels used to collect the energy would reside on a satellite in orbit often referred to as a solar power satellite"	287	query206_Solar_power\P\287-0
+"SBSP"	"differs"	"from the usual method of solar power collection in that the solar panels used to collect the energy would reside on a satellite in orbit often referred to as a solar power on Earth 's surface"	287	query206_Solar_power\P\287-1
+"the solar panels"	"be used"	"to collect the energy"	287	query206_Solar_power\P\287-2
+"the solar panels used to collect the energy"	"would reside"	"on a satellite in orbit"	287	query206_Solar_power\P\287-3
+"the solar panels used to collect the energy"	"would reside"	"on a satellite in orbit"	287	query206_Solar_power\P\287-4
+"a solar power satellite"	"is"	"SPS"	287	query206_Solar_power\P\287-5
+"a solar power on Earth 's surface"	"is"	"SPS"	287	query206_Solar_power\P\287-6
+"a solar power on Earth 's surface"	"is"	"SPS"	287	query206_Solar_power\P\287-7
+In space , collection of the Sun 's energy is unaffected by the day/night cycle , weather , seasons , or the filtering effect of Earth 's atmospheric gases . 	288	query206_Solar_power\S\288
+"the Sun"	"has"	"energy"	288	query206_Solar_power\P\288-0
+"collection of the Sun 's energy"	"is 288 In space unaffected"	"by the day/night cycle"	288	query206_Solar_power\P\288-1
+"collection of the Sun 's energy"	"is 288 In space unaffected"	"by the day/night weather"	288	query206_Solar_power\P\288-2
+"collection of the Sun 's energy"	"is 288 In space unaffected"	"by the day/night seasons"	288	query206_Solar_power\P\288-3
+"collection of the Sun 's energy"	"is 288 In space unaffected"	"by the day/night the filtering effect of Earth 's atmospheric gases"	288	query206_Solar_power\P\288-4
+"collection of the Sun 's energy"	"is"	"288 In space unaffected"	288	query206_Solar_power\P\288-5
+"collection of the Sun 's energy"	"is"	"288 In space unaffected"	288	query206_Solar_power\P\288-6
+Average solar energy per unit area outside Earth 's atmosphere is on the order of ten times that available on Earth 's surface . 	289	query206_Solar_power\S\289
+Average solar energy per unit area outside Earth 's atmosphere is on the order of ten times that available on Earth 's surface . 	289	query206_Solar_power\S\289
+"Average solar energy per unit area outside Earth 's atmosphere"	"is"	"on the order of ten times"	289	query206_Solar_power\P\289-0
+"ten times"	"available"	"on Earth 's surface"	289	query206_Solar_power\P\289-1
+"ten times"	"available"	"on Earth 's surface"	289	query206_Solar_power\P\289-2
+Energy Sustainable development 2 30em Solar energy Butti , Ken Perlin , John 1981 A Golden Thread ( 2500 Years of Solar Architecture and Technology ) Van Nostrand Reinhold 0-442-24005-8 Carr , Donald E. 	290	query206_Solar_power\S\290
+"30em Solar energy Butti"	"is"	"John 1981 A Golden Thread 2500 Years of Solar Architecture"	2	query206_Solar_power\P\290-0
+"30em Solar energy Butti"	"is"	"John 1981 A Golden Thread 2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr"	2	query206_Solar_power\P\290-1
+"30em Solar energy Butti"	"is"	"Ken Perlin"	2	query206_Solar_power\P\290-2
+"Years of Solar Architecture"	"is"	"Donald E."	2500	query206_Solar_power\P\290-3
+"Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr"	"is"	"Donald E."	2500	query206_Solar_power\P\290-4
+1976 Energy &amp; the Earth Machine W. 	291	query206_Solar_power\S\291
+W. 	292	query206_Solar_power\S\292
+Norton &amp; Company 0-393-06407-7 Halacy , Daniel 1973 The Coming Age of Solar Energy Harper and Row 0-380-00233-7 Martin , Christopher L. 	293	query206_Solar_power\S\293
+"Norton & Company 0-393-06407-7 Halacy"	"is"	"Daniel 1973 The Coming Age of Solar Energy Harper"	293	query206_Solar_power\P\293-0
+"Norton & Company 0-393-06407-7 Halacy"	"is"	"Daniel 1973 The Coming Age of Solar Energy Row 0-380-00233-7 Martin"	293	query206_Solar_power\P\293-1
+"Row 0-380-00233-7 Martin"	"is"	"Christopher L."	293	query206_Solar_power\P\293-2
+Goswami , D. 	294	query206_Solar_power\S\294
+"Goswami"	"is"	"D."	294	query206_Solar_power\P\294-0
+Yogi 2005 Solar Energy Pocket Reference International Solar Energy Society 0-9771282-0-2 Mills David Advances in solar thermal electricity technology Solar Energy 76 1–3 19–31 2004 10.1016/S0038-092X(03)00102-6 	295	query206_Solar_power\S\295
+Yogi 2005 Solar Energy Pocket Reference International Solar Energy Society 0-9771282-0-2 Mills David Advances in solar thermal electricity technology Solar Energy 76 1–3 19–31 2004 10.1016/S0038-092X(03)00102-6 	295	query206_Solar_power\S\295
+Perlin , John 1999 From Space to Earth ( The Story of Solar Electricity ) Harvard University Press 0-674-01013-2 Tritt T. 	296	query206_Solar_power\S\296
+"Perlin"	"is"	"John 1999 From Space to Earth The Story of Solar Electricity Harvard University Press 0-674-01013-2 Tritt T."	296	query206_Solar_power\P\296-0
+Böttner H. 	297	query206_Solar_power\S\297
+Chen L. 	298	query206_Solar_power\S\298
+Thermoelectrics : Direct Solar Thermal Energy Conversion MRS Bulletin 33 4 355–372 2008 http ://www.mrs 	299	query206_Solar_power\S\299
+.org/s_mrs/bin 	300	query206_Solar_power\S\300
+.asp?CID=12527&DID=208641 	301	query206_Solar_power\S\301
+Yergin , Daniel The Prize : The Epic Quest for Oil , Money , and Power Simon &amp; Schuster 1991 885 978-0-671-79932-8 Butti , Ken Perlin , John 1981 A Golden Thread ( 2500 Years of Solar Architecture and Technology ) Van Nostrand Reinhold 0-442-24005-8 Carr , Donald E. 	302	query206_Solar_power\S\302
+"Yergin The Epic Quest for Oil"	"is"	"Daniel The Prize"	302	query206_Solar_power\P\302-0
+"Yergin The Epic Quest for Money"	"is"	"Daniel The Prize"	302	query206_Solar_power\P\302-1
+"Yergin The Epic Quest for Power Simon & Schuster 1991 885 978 -0 -671 -79932 -8 Butti John 1981 A Golden Thread 2500 Years of Solar Architecture"	"is"	"Daniel The Prize"	302	query206_Solar_power\P\302-2
+"Yergin The Epic Quest for Power Simon & Schuster 1991 885 978 -0 -671 -79932 -8 Butti John 1981 A Golden Thread 2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr"	"is"	"Daniel The Prize"	302	query206_Solar_power\P\302-3
+"1991 885 978 -0 -671 -79932 -8 Butti John 1981 A Golden Thread 2500 Years of Solar Architecture"	"is"	"Ken Perlin"	302	query206_Solar_power\P\302-4
+"1991 885 978 -0 -671 -79932 -8 Butti John 1981 A Golden Thread 2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr"	"is"	"Ken Perlin"	302	query206_Solar_power\P\302-5
+"Years of Solar Architecture"	"is"	"Donald E."	2500	query206_Solar_power\P\302-6
+"Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr"	"is"	"Donald E."	2500	query206_Solar_power\P\302-7
+1976 Energy &amp; the Earth Machine W. 	303	query206_Solar_power\S\303
+W. 	304	query206_Solar_power\S\304
+Norton &amp; Company 0-393-06407-7 Halacy , Daniel 1973 The Coming Age of Solar Energy Harper and Row 0-380-00233-7 Martin , Christopher L. 	305	query206_Solar_power\S\305
+"Norton & Company 0-393-06407-7 Halacy"	"is"	"Daniel 1973 The Coming Age of Solar Energy Harper"	305	query206_Solar_power\P\305-0
+"Norton & Company 0-393-06407-7 Halacy"	"is"	"Daniel 1973 The Coming Age of Solar Energy Row 0-380-00233-7 Martin"	305	query206_Solar_power\P\305-1
+"Row 0-380-00233-7 Martin"	"is"	"Christopher L."	305	query206_Solar_power\P\305-2
+Goswami , D. 	306	query206_Solar_power\S\306
+"Goswami"	"is"	"D."	306	query206_Solar_power\P\306-0
+Yogi 2005 Solar Energy Pocket Reference International Solar Energy Society 0-9771282-0-2 Mills David Advances in solar thermal electricity technology Solar Energy 76 1–3 19–31 2004 10.1016/S0038-092X(03)00102-6 	307	query206_Solar_power\S\307
+Yogi 2005 Solar Energy Pocket Reference International Solar Energy Society 0-9771282-0-2 Mills David Advances in solar thermal electricity technology Solar Energy 76 1–3 19–31 2004 10.1016/S0038-092X(03)00102-6 	307	query206_Solar_power\S\307
+Perlin , John 1999 From Space to Earth ( The Story of Solar Electricity ) Harvard University Press 0-674-01013-2 Tritt T. 	308	query206_Solar_power\S\308
+"Perlin"	"is"	"John 1999 From Space to Earth The Story of Solar Electricity Harvard University Press 0-674-01013-2 Tritt T."	308	query206_Solar_power\P\308-0
+Böttner H. 	309	query206_Solar_power\S\309
+Chen L. 	310	query206_Solar_power\S\310
+Thermoelectrics : Direct Solar Thermal Energy Conversion MRS Bulletin 33 4 355–372 2008 http ://www.mrs 	311	query206_Solar_power\S\311
+.org/s_mrs/bin 	312	query206_Solar_power\S\312
+.asp?CID=12527&DID=208641 	313	query206_Solar_power\S\313
+Yergin , Daniel The Prize : The Epic Quest for Oil , Money , and Power Simon &amp; Schuster 1991 885 978-0-671-79932-8 autocollapse Category :Energy conversion Category :Alternative energy Category :Solar power Power af :Sonkrag ar :قوة شمسية az:Günəş elektrik stansiyası da :Solkraft fr:Centrale solaire hi :सौर शक्त ि no :Solkraft simple :Solar power plant ta :சூரிய மின்சக்த ி te :సౌర శక్త ి vi:Điện mặt trời war :Kusog sirak Cost of electricity by source List of photovoltaic power stations List of renewable energy organizations List of solar energy topics List of solar thermal power stations Renewable energy commercialization Solar energy Solar lamp Sustainable energy Thin-film cell Timeline of solar energy Scientific American analysis Butti , Ken Perlin , John 1981 A Golden Thread ( 2500 Years of Solar Architecture and Technology ) Van Nostrand Reinhold 0-442-24005-8 Carr , Donald E. 	314	query206_Solar_power\S\314
+"Yergin The Epic Quest for Oil Energy conversion Category Alternative energy Category Solar power Power af Sonkrag ar قوة شمسية az Günəş elektrik stansiyası da Solkraft fr Centrale solaire hi सौर शक्त ि no Solkraft simple Solar power plant ta சூரிய மின்சக்த ி te సౌర శక్త ి vi Điện mặt trời war Kusog sirak Cost of electricity by source List of photovoltaic power stations List of renewable energy organizations List of solar energy topics List of solar thermal power stations Renewable energy commercialization Solar energy Solar lamp Sustainable energy Thin-film cell Timeline of solar energy Scientific American analysis Butti"	"is"	"Daniel The Prize"	314	query206_Solar_power\P\314-0
+"Yergin The Epic Quest for Money Energy conversion Category Alternative energy Category Solar power Power af Sonkrag ar قوة شمسية az Günəş elektrik stansiyası da Solkraft fr Centrale solaire hi सौर शक्त ि no Solkraft simple Solar power plant ta சூரிய மின்சக்த ி te సౌర శక్త ి vi Điện mặt trời war Kusog sirak Cost of electricity by source List of photovoltaic power stations List of renewable energy organizations List of solar energy topics List of solar thermal power stations Renewable energy commercialization Solar energy Solar lamp Sustainable energy Thin-film cell Timeline of solar energy Scientific American analysis Butti"	"is"	"Daniel The Prize"	314	query206_Solar_power\P\314-1
+"Yergin The Epic Quest for Power Simon & Schuster 1991 885 978 -0 -671 -79932 -8 autocollapse Category Energy conversion Category Alternative energy Category Solar power Power af Sonkrag ar قوة شمسية az Günəş elektrik stansiyası da Solkraft fr Centrale solaire hi सौर शक्त ि no Solkraft simple Solar power plant ta சூரிய மின்சக்த ி te సౌర శక్త ి vi Điện mặt trời war Kusog sirak Cost of electricity by source List of photovoltaic power stations List of renewable energy organizations List of solar energy topics List of solar thermal power stations Renewable energy commercialization Solar energy Solar lamp Sustainable energy Thin-film cell Timeline of solar energy Scientific American analysis Butti"	"is"	"Daniel The Prize"	314	query206_Solar_power\P\314-2
+"List of solar energy topics List of solar thermal power stations Renewable energy commercialization Solar energy Solar lamp Sustainable energy Thin-film cell Timeline of solar energy Scientific American analysis Butti"	"is"	"Ken Perlin"	314	query206_Solar_power\P\314-3
+"Ken Perlin"	"is"	"John 1981 A Golden Thread 2500 Years of Solar Architecture"	314	query206_Solar_power\P\314-4
+"Ken Perlin"	"is"	"John 1981 A Golden Thread 2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr"	314	query206_Solar_power\P\314-5
+"Years of Solar Architecture"	"is"	"Donald E."	2500	query206_Solar_power\P\314-6
+"Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr"	"is"	"Donald E."	2500	query206_Solar_power\P\314-7
+1976 Energy &amp; the Earth Machine W. 	315	query206_Solar_power\S\315
+W. 	316	query206_Solar_power\S\316
+Norton &amp; Company 0-393-06407-7 Halacy , Daniel 1973 The Coming Age of Solar Energy Harper and Row 0-380-00233-7 Martin , Christopher L. 	317	query206_Solar_power\S\317
+"Norton & Company 0-393-06407-7 Halacy"	"is"	"Daniel 1973 The Coming Age of Solar Energy Harper"	317	query206_Solar_power\P\317-0
+"Norton & Company 0-393-06407-7 Halacy"	"is"	"Daniel 1973 The Coming Age of Solar Energy Row 0-380-00233-7 Martin"	317	query206_Solar_power\P\317-1
+"Row 0-380-00233-7 Martin"	"is"	"Christopher L."	317	query206_Solar_power\P\317-2
+Goswami , D. 	318	query206_Solar_power\S\318
+"Goswami"	"is"	"D."	318	query206_Solar_power\P\318-0
+Yogi 2005 Solar Energy Pocket Reference International Solar Energy Society 0-9771282-0-2 Mills David Advances in solar thermal electricity technology Solar Energy 76 1–3 19–31 2004 10.1016/S0038-092X(03)00102-6 	319	query206_Solar_power\S\319
+Yogi 2005 Solar Energy Pocket Reference International Solar Energy Society 0-9771282-0-2 Mills David Advances in solar thermal electricity technology Solar Energy 76 1–3 19–31 2004 10.1016/S0038-092X(03)00102-6 	319	query206_Solar_power\S\319
+Perlin , John 1999 From Space to Earth ( The Story of Solar Electricity ) Harvard University Press 0-674-01013-2 Tritt T. 	320	query206_Solar_power\S\320
+"Perlin"	"is"	"John 1999 From Space to Earth The Story of Solar Electricity Harvard University Press 0-674-01013-2 Tritt T."	320	query206_Solar_power\P\320-0
+Böttner H. 	321	query206_Solar_power\S\321
+Chen L. 	322	query206_Solar_power\S\322
+Thermoelectrics : Direct Solar Thermal Energy Conversion MRS Bulletin 33 4 355–372 2008 http ://www.mrs 	323	query206_Solar_power\S\323
+.org/s_mrs/bin 	324	query206_Solar_power\S\324
+.asp?CID=12527&DID=208641 	325	query206_Solar_power\S\325
+Yergin , Daniel The Prize : The Epic Quest for Oil , Money , and Power Simon &amp; Schuster 1991 885 978-0-671-79932-8 	326	query206_Solar_power\S\326
+"Yergin The Epic Quest for Oil"	"is"	"Daniel The Prize"	326	query206_Solar_power\P\326-0
+"Yergin The Epic Quest for Money"	"is"	"Daniel The Prize"	326	query206_Solar_power\P\326-1
+"Yergin The Epic Quest for Power Simon & Schuster 1991 885 978 -0 -671 -79932 -8"	"is"	"Daniel The Prize"	326	query206_Solar_power\P\326-2

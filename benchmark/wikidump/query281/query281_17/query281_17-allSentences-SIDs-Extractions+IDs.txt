@@ -1,0 +1,258 @@
+MyPyramid http ://www.mypyramid.gov/ 	0	query281_Low-fat_diet\S\0
+USDA April 23 , 2011 MyPyramid http ://www.mypyramid.gov/ 	1	query281_Low-fat_diet\S\1
+"USDA April 23 www.mypyramid.gov"	"is"	"2011 MyPyramid http"	1	query281_Low-fat_diet\P\1-0
+USDA April 23 , 2011 rightthumb250pxUSDA 's Food Pyramid thumbrightNew Version of the Food Guide Pyramid According to the USDA , a low-fat diet as the name implies is a diet that consists of little fat , especially saturated fat and cholesterol , which are thought to lead to increased blood cholesterol levels and heart attack . 	2	query281_Low-fat_diet\S\2
+"USDA April 23"	"is"	"a low-fat diet as the name"	2	query281_Low-fat_diet\P\2-0
+"USDA April 23"	"is"	"2011 rightthumb250pxUSDA 's Food Pyramid thumbrightNew Version of the Food Guide Pyramid According to the USDA"	2	query281_Low-fat_diet\P\2-1
+"rightthumb250pxUSDA"	"has"	"Food Pyramid thumbrightNew Version of the Food Guide Pyramid According to the USDA"	2011	query281_Low-fat_diet\P\2-2
+"USDA April 23"	"implies"	"is a diet"	2	query281_Low-fat_diet\P\2-3
+"a diet"	"consists"	"of little fat which are thought to lead to increased blood cholesterol levels"	2	query281_Low-fat_diet\P\2-4
+"a diet"	"consists"	"of little fat which are thought to lead to increased blood cholesterol heart attack"	2	query281_Low-fat_diet\P\2-5
+"a diet"	"consists"	"of little especially saturated fat which are thought to lead to increased blood cholesterol levels"	2	query281_Low-fat_diet\P\2-6
+"a diet"	"consists"	"of little especially saturated fat which are thought to lead to increased blood cholesterol heart attack"	2	query281_Low-fat_diet\P\2-7
+"a diet"	"consists"	"of little cholesterol which are thought to lead to increased blood cholesterol levels"	2	query281_Low-fat_diet\P\2-8
+"a diet"	"consists"	"of little cholesterol which are thought to lead to increased blood cholesterol heart attack"	2	query281_Low-fat_diet\P\2-9
+"a diet"	"consists"	"which are thought to lead to increased blood cholesterol levels"	2	query281_Low-fat_diet\P\2-10
+"a diet"	"consists"	"which are thought to lead to increased blood cholesterol heart attack"	2	query281_Low-fat_diet\P\2-11
+"a diet"	"consists"	"which are thought to lead to increased blood cholesterol heart attack"	2	query281_Low-fat_diet\P\2-12
+"a diet"	"consists"	"which are thought to lead to increased blood cholesterol heart attack"	2	query281_Low-fat_diet\P\2-13
+It is important to know that dietary fat is needed for good health , as fats supply energy and fatty acids , in addition to supplying fat-soluble vitamins like A , D , E , and K. 	3	query281_Low-fat_diet\S\3
+It is important to know that dietary fat is needed for good health , as fats supply energy and fatty acids , in addition to supplying fat-soluble vitamins like A , D , E , and K. 	3	query281_Low-fat_diet\S\3
+It is important to know that dietary fat is needed for good health , as fats supply energy and fatty acids , in addition to supplying fat-soluble vitamins like A , D , E , and K. 	3	query281_Low-fat_diet\S\3
+It is important to know that dietary fat is needed for good health , as fats supply energy and fatty acids , in addition to supplying fat-soluble vitamins like A , D , E , and K. 	3	query281_Low-fat_diet\S\3
+It is important to know that dietary fat is needed for good health , as fats supply energy and fatty acids , in addition to supplying fat-soluble vitamins like A , D , E , and K. 	3	query281_Low-fat_diet\S\3
+It is important to know that dietary fat is needed for good health , as fats supply energy and fatty acids , in addition to supplying fat-soluble vitamins like A , D , E , and K. 	3	query281_Low-fat_diet\S\3
+"that dietary fat"	"is needed"	"for good health"	3	query281_Low-fat_diet\P\3-0
+USDA , , Retrieved on July 2007 In recent years the exact health benefits of a low-fat diet have been debated . 	4	query281_Low-fat_diet\S\4
+"USDA"	"the exact health benefits of a low-fat diet have been debated"	"In recent years"	4	query281_Low-fat_diet\P\4-0
+"the exact health benefits of a low-fat diet"	"4 USDA have been debated"	"In recent years"	4	query281_Low-fat_diet\P\4-1
+A 2006 study published by the Journal of the American Medical Association argued that a low-fat diet did not reduce the incidence of breast cancer . 	5	query281_Low-fat_diet\S\5
+"A 2006 study"	"be published"	"by the Journal of the American Medical Association"	5	query281_Low-fat_diet\P\5-0
+"A 2006 study published by the Journal of the American Medical Association"	"argued"	"that a low-fat diet did not reduce the incidence of breast cancer"	5	query281_Low-fat_diet\P\5-1
+"a low-fat diet"	"did not reduce"	"the incidence of breast cancer"	5	query281_Low-fat_diet\P\5-2
+However , this study was criticized by several epidemiologists for its lack of validity ( see " Criticisms " in the Women 's Health Initiative article ) . 	6	query281_Low-fat_diet\S\6
+"this study"	"was criticized"	"by several epidemiologists for its lack of validity 6 However"	6	query281_Low-fat_diet\P\6-0
+"this study"	"was criticized"	"by several epidemiologists for its lack of validity"	6	query281_Low-fat_diet\P\6-1
+"this study"	"was criticized"	"by several epidemiologists for its lack of validity"	6	query281_Low-fat_diet\P\6-2
+"the Women"	"has"	"Health Initiative article"	6	query281_Low-fat_diet\P\6-3
+Recently , the Nurses ' Health Study from the Harvard School of Public Health reported from a Dietary Approaches to Stop Hypertension ( DASH) , and found that a diet " with high intake of fruits , vegetables , and whole grains , moderate intake of legumes , nuts , and low-fat dairy products , and low intake of red and processed meats and sodium , was significantly associated with lower risk of coronary heart disease and stroke in women . 	7	query281_Low-fat_diet\S\7
+"the Nurses"	"has"	"7 Recently Health Study from the Harvard School of Public Health"	7	query281_Low-fat_diet\P\7-0
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"reported"	"from a Dietary Approaches to Stop Hypertension"	7	query281_Low-fat_diet\P\7-1
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"reported"	"to Stop Hypertension"	7	query281_Low-fat_diet\P\7-2
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a diet with high intake of fruits was significantly associated with lower risk of coronary heart disease from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-3
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a diet with high intake of vegetables moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium was significantly associated with lower risk of coronary heart disease and stroke in women from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-4
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a diet with high intake of whole grains moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium was significantly associated with lower risk of coronary heart disease and stroke in women from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-5
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits moderate intake of legumes was significantly associated with lower risk of coronary heart disease and stroke in women from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-6
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits moderate intake of nuts was significantly associated with lower risk of coronary heart disease and stroke in women from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-7
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits moderate intake of low-fat dairy products was significantly associated with lower risk of coronary heart disease and stroke in women from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-8
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits low intake of red meats was significantly associated with lower risk of coronary heart disease and stroke in women from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-9
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits low intake of processed meats and sodium was significantly associated with lower risk of coronary heart disease and stroke in women from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-10
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits low intake of red sodium was significantly associated with lower risk of coronary heart disease and stroke in women from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-11
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a diet with high intake of fruits was significantly associated with lower of coronary heart disease stroke in women from a Dietary Approaches"	7	query281_Low-fat_diet\P\7-12
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a diet with high intake of fruits was significantly associated with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-13
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a diet with high intake of vegetables moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium was significantly associated with lower risk of coronary heart disease and stroke in women"	7	query281_Low-fat_diet\P\7-14
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a diet with high intake of whole grains moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium was significantly associated with lower risk of coronary heart disease and stroke in women"	7	query281_Low-fat_diet\P\7-15
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits moderate intake of legumes was significantly associated with lower risk of coronary heart disease and stroke in women"	7	query281_Low-fat_diet\P\7-16
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits moderate intake of nuts was significantly associated with lower risk of coronary heart disease and stroke in women"	7	query281_Low-fat_diet\P\7-17
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits moderate intake of low-fat dairy products was significantly associated with lower risk of coronary heart disease and stroke in women"	7	query281_Low-fat_diet\P\7-18
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits low intake of red meats was significantly associated with lower risk of coronary heart disease and stroke in women"	7	query281_Low-fat_diet\P\7-19
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits low intake of processed meats and sodium was significantly associated with lower risk of coronary heart disease and stroke in women"	7	query281_Low-fat_diet\P\7-20
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a with high intake of fruits low intake of red sodium was significantly associated with lower risk of coronary heart disease and stroke in women"	7	query281_Low-fat_diet\P\7-21
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a diet with high intake of fruits was significantly associated with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-22
+"Recently the Nurses ' Health Study from the Harvard School of Public Health"	"found"	"to Stop Hypertension that a diet with high intake of fruits was significantly associated with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-23
+"a diet with high intake of fruits"	"was associated"	"with lower risk of coronary heart disease significantly"	7	query281_Low-fat_diet\P\7-24
+"a diet with high intake of fruits"	"was associated"	"with lower of coronary heart disease stroke in women significantly"	7	query281_Low-fat_diet\P\7-25
+"a diet with high intake of vegetables moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium"	"was associated"	"with lower risk of coronary heart disease significantly"	7	query281_Low-fat_diet\P\7-26
+"a diet with high intake of vegetables moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium"	"was associated"	"with lower of coronary heart disease stroke in women significantly"	7	query281_Low-fat_diet\P\7-27
+"a diet with high intake of whole grains moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium"	"was associated"	"with lower risk of coronary heart disease significantly"	7	query281_Low-fat_diet\P\7-28
+"a diet with high intake of whole grains moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium"	"was associated"	"with lower of coronary heart disease stroke in women significantly"	7	query281_Low-fat_diet\P\7-29
+"a with high intake of fruits moderate intake of legumes"	"was associated"	"with lower risk of coronary heart disease significantly"	7	query281_Low-fat_diet\P\7-30
+"a with high intake of fruits moderate intake of legumes"	"was associated"	"with lower of coronary heart disease stroke in women significantly"	7	query281_Low-fat_diet\P\7-31
+"a with high intake of fruits moderate intake of nuts"	"was associated"	"with lower risk of coronary heart disease significantly"	7	query281_Low-fat_diet\P\7-32
+"a with high intake of fruits moderate intake of nuts"	"was associated"	"with lower of coronary heart disease stroke in women significantly"	7	query281_Low-fat_diet\P\7-33
+"a with high intake of fruits moderate intake of low-fat dairy products"	"was associated"	"with lower risk of coronary heart disease significantly"	7	query281_Low-fat_diet\P\7-34
+"a with high intake of fruits moderate intake of low-fat dairy products"	"was associated"	"with lower of coronary heart disease stroke in women significantly"	7	query281_Low-fat_diet\P\7-35
+"a with high intake of fruits low intake of red meats"	"was associated"	"with lower risk of coronary heart disease significantly"	7	query281_Low-fat_diet\P\7-36
+"a with high intake of fruits low intake of red meats"	"was associated"	"with lower of coronary heart disease stroke in women significantly"	7	query281_Low-fat_diet\P\7-37
+"a with high intake of fruits low intake of processed meats and sodium"	"was associated"	"with lower risk of coronary heart disease significantly"	7	query281_Low-fat_diet\P\7-38
+"a with high intake of fruits low intake of processed meats and sodium"	"was associated"	"with lower of coronary heart disease stroke in women significantly"	7	query281_Low-fat_diet\P\7-39
+"a with high intake of fruits low intake of red sodium"	"was associated"	"with lower risk of coronary heart disease significantly"	7	query281_Low-fat_diet\P\7-40
+"a with high intake of fruits low intake of red sodium"	"was associated"	"with lower of coronary heart disease stroke in women significantly"	7	query281_Low-fat_diet\P\7-41
+"a diet with high intake of fruits"	"was associated"	"with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-42
+"a diet with high intake of fruits"	"was associated"	"with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-43
+"a diet with high intake of vegetables moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium"	"was associated"	"with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-44
+"a diet with high intake of vegetables moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium"	"was associated"	"with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-45
+"a diet with high intake of whole grains moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium"	"was associated"	"with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-46
+"a diet with high intake of whole grains moderate intake of legumes nuts and low-fat dairy products and low intake of red and processed meats and sodium"	"was associated"	"with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-47
+"a with high intake of fruits moderate intake of legumes"	"was associated"	"with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-48
+"a with high intake of fruits moderate intake of legumes"	"was associated"	"with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-49
+"a with high intake of fruits moderate intake of nuts"	"was associated"	"with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-50
+"a with high intake of fruits moderate intake of nuts"	"was associated"	"with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-51
+"a with high intake of fruits moderate intake of low-fat dairy products"	"was associated"	"with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-52
+"a with high intake of fruits moderate intake of low-fat dairy products"	"was associated"	"with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-53
+"a with high intake of fruits low intake of red meats"	"was associated"	"with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-54
+"a with high intake of fruits low intake of red meats"	"was associated"	"with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-55
+"a with high intake of fruits low intake of processed meats and sodium"	"was associated"	"with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-56
+"a with high intake of fruits low intake of processed meats and sodium"	"was associated"	"with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-57
+"a with high intake of fruits low intake of red sodium"	"was associated"	"with lower risk of coronary heart disease"	7	query281_Low-fat_diet\P\7-58
+"a with high intake of fruits low intake of red sodium"	"was associated"	"with lower of coronary heart disease stroke in women"	7	query281_Low-fat_diet\P\7-59
+" A 2002 Cochrane Review found low-fat diets to be no more effective than other weight loss diets in achieving lasting weight loss , two newer studies concluding the same , published 2008 . 	8	query281_Low-fat_diet\S\8
+"A 2002 Cochrane Review"	"found"	"low-fat diets to be no effective more two newer studies concluding the same published 2008"	8	query281_Low-fat_diet\P\8-0
+"A 2002 Cochrane Review"	"found"	"low-fat diets to be no effective than other weight loss diets two newer studies concluding the same published 2008"	8	query281_Low-fat_diet\P\8-1
+"A 2002 Cochrane Review"	"found"	"low-fat diets to be no effective in achieving lasting weight loss two newer studies concluding the same published 2008"	8	query281_Low-fat_diet\P\8-2
+"A 2002 Cochrane Review"	"found"	"low-fat diets to be no effective two newer studies concluding the same published 2008"	8	query281_Low-fat_diet\P\8-3
+Hession M , Rolland C , Kulkarni U, Wise A , Broom J Systematic review of randomized controlled trials of low-carbohydrate vs. 	9	query281_Low-fat_diet\S\9
+"Hession M"	"is"	"Broom J Systematic review of randomized controlled trials of low-carbohydrate vs."	9	query281_Low-fat_diet\P\9-0
+"Hession M"	"is"	"Rolland C"	9	query281_Low-fat_diet\P\9-1
+"Hession M"	"is"	"Kulkarni U"	9	query281_Low-fat_diet\P\9-2
+"Hession M"	"is"	"Wise A"	9	query281_Low-fat_diet\P\9-3
+low-fat/low-calorie diets in the management of obesity and its comorbidities Obes Rev 10 1 2008 36–50 August 18700873 10.1111/j.1467-789X.2008.00518.x 	10	query281_Low-fat_diet\S\10
+There was a higher attrition rate in the low-fat compared with the low-carbohydrate groups suggesting a patient preference for a low-carbohydrate/high-protein approach as opposed to the Public Health preference of a low-fat/high-carbohydrate diet . 	11	query281_Low-fat_diet\S\11
+"a higher attrition rate in the low-fat compared with the low-carbohydrate groups suggesting a patient preference for a low-carbohydrate/high-protein approach as opposed to the Public Health preference of a low-fat/high-carbohydrate diet"	"There was"	"11"	11	query281_Low-fat_diet\P\11-0
+"the low-carbohydrate groups"	"be suggesting"	"a patient preference for a low-carbohydrate/high-protein approach as opposed to the Public Health preference of a low-fat/high-carbohydrate diet"	11	query281_Low-fat_diet\P\11-1
+Evidence from this systematic review demonstrates that low-carbohydrate/high-protein diets are more effective at 6 months and are as effective , if not more , as low-fat diets in reducing weight and cardiovascular disease risk up to 1 year . 	12	query281_Low-fat_diet\S\12
+"Evidence from this systematic review"	"demonstrates"	"that low-carbohydrate/high-protein diets are more effective at 6 months"	12	query281_Low-fat_diet\P\12-0
+"Evidence from this systematic review"	"demonstrates"	"that low-carbohydrate/high-protein diets are more at 6 months are as effective if not more"	12	query281_Low-fat_diet\P\12-1
+"low-carbohydrate/high-protein diets"	"are effective"	"more"	12	query281_Low-fat_diet\P\12-2
+"low-carbohydrate/high-protein diets"	"are effective"	"at 6 months"	12	query281_Low-fat_diet\P\12-3
+"low-carbohydrate/high-protein diets"	"are"	"effective"	12	query281_Low-fat_diet\P\12-4
+"low-carbohydrate/high-protein diets"	"are are as effective if not more"	"more"	12	query281_Low-fat_diet\P\12-5
+"low-carbohydrate/high-protein diets"	"are are as effective if not more"	"at 6 months"	12	query281_Low-fat_diet\P\12-6
+"low-carbohydrate/high-protein diets"	"are"	"are as effective if not more"	12	query281_Low-fat_diet\P\12-7
+Hession M , Rolland C , Kulkarni U, Wise A , Broom J Systematic review of randomized controlled trials of low-carbohydrate vs. 	13	query281_Low-fat_diet\S\13
+"Hession M"	"is"	"Broom J Systematic review of randomized controlled trials of low-carbohydrate vs."	13	query281_Low-fat_diet\P\13-0
+"Hession M"	"is"	"Rolland C"	13	query281_Low-fat_diet\P\13-1
+"Hession M"	"is"	"Kulkarni U"	13	query281_Low-fat_diet\P\13-2
+"Hession M"	"is"	"Wise A"	13	query281_Low-fat_diet\P\13-3
+low-fat/low-calorie diets in the management of obesity and its comorbidities Obes Rev 10 1 2008 36–50 August 18700873 10.1111/j.1467-789X.2008.00518.x 	14	query281_Low-fat_diet\S\14
+There was a higher attrition rate in the low-fat compared with the low-carbohydrate groups suggesting a patient preference for a low-carbohydrate/high-protein approach as opposed to the Public Health preference of a low-fat/high-carbohydrate diet . 	15	query281_Low-fat_diet\S\15
+"a higher attrition rate in the low-fat compared with the low-carbohydrate groups suggesting a patient preference for a low-carbohydrate/high-protein approach as opposed to the Public Health preference of a low-fat/high-carbohydrate diet"	"There was"	"15"	15	query281_Low-fat_diet\P\15-0
+"the low-carbohydrate groups"	"be suggesting"	"a patient preference for a low-carbohydrate/high-protein approach as opposed to the Public Health preference of a low-fat/high-carbohydrate diet"	15	query281_Low-fat_diet\P\15-1
+Evidence from this systematic review demonstrates that low-carbohydrate/high-protein diets are more effective at 6 months and are as effective , if not more , as low-fat diets in reducing weight and cardiovascular disease risk up to 1 year . 	16	query281_Low-fat_diet\S\16
+"Evidence from this systematic review"	"demonstrates"	"that low-carbohydrate/high-protein diets are more effective at 6 months"	16	query281_Low-fat_diet\P\16-0
+"Evidence from this systematic review"	"demonstrates"	"that low-carbohydrate/high-protein diets are more at 6 months are as effective if not more"	16	query281_Low-fat_diet\P\16-1
+"low-carbohydrate/high-protein diets"	"are effective"	"more"	16	query281_Low-fat_diet\P\16-2
+"low-carbohydrate/high-protein diets"	"are effective"	"at 6 months"	16	query281_Low-fat_diet\P\16-3
+"low-carbohydrate/high-protein diets"	"are"	"effective"	16	query281_Low-fat_diet\P\16-4
+"low-carbohydrate/high-protein diets"	"are are as effective if not more"	"more"	16	query281_Low-fat_diet\P\16-5
+"low-carbohydrate/high-protein diets"	"are are as effective if not more"	"at 6 months"	16	query281_Low-fat_diet\P\16-6
+"low-carbohydrate/high-protein diets"	"are"	"are as effective if not more"	16	query281_Low-fat_diet\P\16-7
+http ://www.nejm.org/doi/full/10.1056/NEJMoa0708681 	17	query281_Low-fat_diet\S\17
+Weight Loss with a Low-Carbohydrate , Mediterranean , or Low-Fat Diet Shai , I. 	18	query281_Low-fat_diet\S\18
+et . 	19	query281_Low-fat_diet\S\19
+al . 	20	query281_Low-fat_diet\S\20
+359 229–241 3 2008-07-17 2011-02-28 Conclusions : Mediterranean and low-carbohydrate diets may be effective alternatives to low-fat diets . 	21	query281_Low-fat_diet\S\21
+"Mediterranean diets"	"may be effective alternatives"	"to low-fat diets"	21	query281_Low-fat_diet\P\21-0
+"low-carbohydrate diets"	"may be effective alternatives"	"to low-fat diets"	21	query281_Low-fat_diet\P\21-1
+"Mediterranean diets"	"may be"	"effective alternatives"	21	query281_Low-fat_diet\P\21-2
+"low-carbohydrate diets"	"may be"	"effective alternatives"	21	query281_Low-fat_diet\P\21-3
+10.1056/NEJMoa0708681 	22	query281_Low-fat_diet\S\22
+New England Journal of Medicine 18635428 http ://www.nejm.org/doi/full/10.1056/NEJMoa0708681 	23	query281_Low-fat_diet\S\23
+Weight Loss with a Low-Carbohydrate , Mediterranean , or Low-Fat Diet Shai , I. 	24	query281_Low-fat_diet\S\24
+et . 	25	query281_Low-fat_diet\S\25
+al . 	26	query281_Low-fat_diet\S\26
+359 229–241 3 2008-07-17 2011-02-28 Conclusions : Mediterranean and low-carbohydrate diets may be effective alternatives to low-fat diets . 	27	query281_Low-fat_diet\S\27
+"Mediterranean diets"	"may be effective alternatives"	"to low-fat diets"	27	query281_Low-fat_diet\P\27-0
+"low-carbohydrate diets"	"may be effective alternatives"	"to low-fat diets"	27	query281_Low-fat_diet\P\27-1
+"Mediterranean diets"	"may be"	"effective alternatives"	27	query281_Low-fat_diet\P\27-2
+"low-carbohydrate diets"	"may be"	"effective alternatives"	27	query281_Low-fat_diet\P\27-3
+10.1056/NEJMoa0708681 	28	query281_Low-fat_diet\S\28
+New England Journal of Medicine 18635428 Vegan nutrition Doctors Dean Ornish , T. 	29	query281_Low-fat_diet\S\29
+"New England Journal of Medicine 18635428 Vegan nutrition Doctors Dean Ornish"	"is"	"T."	29	query281_Low-fat_diet\P\29-0
+Colin Campbell , John A. 	30	query281_Low-fat_diet\S\30
+"Colin Campbell"	"is"	"John A."	30	query281_Low-fat_diet\P\30-0
+McDougall , Caldwell Esselstyn and Neal D. 	31	query281_Low-fat_diet\S\31
+Barnard claim that high animal fat and protein diets , such as the standard American diet , are detrimental to health . 	32	query281_Low-fat_diet\S\32
+"high animal fat such as the standard American diet"	"are"	"detrimental 32 Barnard claim to health"	32	query281_Low-fat_diet\P\32-0
+"high animal protein diets such as the standard American diet"	"are"	"detrimental 32 Barnard claim to health"	32	query281_Low-fat_diet\P\32-1
+"high animal fat such as the standard American diet"	"are"	"detrimental 32 Barnard claim"	32	query281_Low-fat_diet\P\32-2
+"high animal protein diets such as the standard American diet"	"are"	"detrimental 32 Barnard claim"	32	query281_Low-fat_diet\P\32-3
+http ://www.news.cornell 	33	query281_Low-fat_diet\S\33
+.edu/Chronicle/01/6.28.01/China_Study_II.html 	34	query281_Low-fat_diet\S\34
+China Study II : Switch to Western diet may bring Western-type diseases 2006-09-15 Segelken Roger 2001-06-28 Cornell Chronicle http ://www.news.cornell 	35	query281_Low-fat_diet\S\35
+"Switch to Western diet"	"may bring"	"Western-type diseases 2006-09-15 Segelken Roger 2001-06-28 Cornell Chronicle http"	35	query281_Low-fat_diet\P\35-0
+.edu/Chronicle/01/6.28.01/China_Study_II.html 	36	query281_Low-fat_diet\S\36
+China Study II : Switch to Western diet may bring Western-type diseases 2006-09-15 Segelken Roger 2001-06-28 Cornell Chronicle http ://www.nutrition.cornell 	37	query281_Low-fat_diet\S\37
+"Switch to Western diet"	"may bring"	"Western-type diseases 2006-09-15 Segelken Roger 2001-06-28 Cornell Chronicle http"	37	query281_Low-fat_diet\P\37-0
+.edu/ChinaProject/ 	38	query281_Low-fat_diet\S\38
+China-Cornell-Oxford Project On Nutrition , Environment and Health at Cornell University 2006-09-15 Division of Nutritional Sciences Cornell University http ://www.nutrition.cornell 	39	query281_Low-fat_diet\S\39
+"China-Cornell-Oxford Project On Nutrition www.nutrition.cornell"	"is"	"Environment at Cornell University 2006-09-15 Division of Nutritional Sciences Cornell University http"	39	query281_Low-fat_diet\P\39-0
+"China-Cornell-Oxford Project On Nutrition www.nutrition.cornell"	"is"	"Health at Cornell University 2006-09-15 Division of Nutritional Sciences Cornell University http"	39	query281_Low-fat_diet\P\39-1
+.edu/ChinaProject/ 	40	query281_Low-fat_diet\S\40
+China-Cornell-Oxford Project On Nutrition , Environment and Health at Cornell University 2006-09-15 Division of Nutritional Sciences Cornell University Dr. 	41	query281_Low-fat_diet\S\41
+Neal Barnard 's Program for Reversing Diabetes Barnard Neal D. 	42	query281_Low-fat_diet\S\42
+"Neal Barnard"	"has"	"42 Program for Reversing Diabetes Barnard Neal D."	42	query281_Low-fat_diet\P\42-0
+Neal D. 	43	query281_Low-fat_diet\S\43
+Barnard 2007 Rodale New York 40–50 Set aside animal products Dr. 	44	query281_Low-fat_diet\S\44
+Neal Barnard 's Program for Reversing Diabetes Barnard Neal D. 	45	query281_Low-fat_diet\S\45
+"Neal Barnard"	"has"	"45 Program for Reversing Diabetes Barnard Neal D."	45	query281_Low-fat_diet\P\45-0
+Neal D. 	46	query281_Low-fat_diet\S\46
+Barnard 2007 Rodale New York 40–50 Set aside animal products They also state that a lifestyle change incorporating a low-fat vegan diet could not only prevent various degenerative disease , such as coronary artery disease , but reverse them . 	47	query281_Low-fat_diet\S\47
+"Barnard 2007 Rodale New York 40 50 Set aside animal products"	"They state"	"that a lifestyle change incorporating a low-fat vegan diet could not only prevent various degenerative disease such as coronary artery disease also"	47	query281_Low-fat_diet\P\47-0
+"Barnard 2007 Rodale New York 40 50 Set aside animal products"	"They state"	"that a lifestyle change incorporating a low-fat vegan diet could not only various degenerative disease such as coronary artery disease reverse them also"	47	query281_Low-fat_diet\P\47-1
+"Barnard 2007 Rodale New York 40 50 Set aside animal products"	"They state"	"that a lifestyle change incorporating a low-fat vegan diet could not only prevent various degenerative disease such as coronary artery disease"	47	query281_Low-fat_diet\P\47-2
+"Barnard 2007 Rodale New York 40 50 Set aside animal products"	"They state"	"that a lifestyle change incorporating a low-fat vegan diet could not only various degenerative disease such as coronary artery disease reverse them"	47	query281_Low-fat_diet\P\47-3
+"Barnard 2007 Rodale New York 40 50 Set aside animal products"	"They state"	"that a lifestyle change incorporating a low-fat vegan diet could not only various degenerative disease such as coronary artery disease reverse them"	47	query281_Low-fat_diet\P\47-4
+"Barnard 2007 Rodale New York 40 50 Set aside animal products"	"They state"	"that a lifestyle change incorporating a low-fat vegan diet could not only various degenerative disease such as coronary artery disease reverse them"	47	query281_Low-fat_diet\P\47-5
+"Barnard 2007 Rodale New York 40 50 Set aside animal products"	"They state"	"that a lifestyle change incorporating a low-fat vegan diet could not only various degenerative disease such as coronary artery disease reverse them"	47	query281_Low-fat_diet\P\47-6
+"Barnard 2007 Rodale New York 40 50 Set aside animal products"	"They state"	"that a lifestyle change incorporating a low-fat vegan diet could not only various degenerative disease such as coronary artery disease reverse them"	47	query281_Low-fat_diet\P\47-7
+"a lifestyle change"	"be incorporating"	"a low-fat vegan diet"	47	query281_Low-fat_diet\P\47-8
+"a lifestyle change incorporating a low-fat vegan diet"	"could not prevent"	"various degenerative disease only"	47	query281_Low-fat_diet\P\47-9
+"a lifestyle change incorporating a low-fat vegan diet"	"could not prevent"	"various degenerative disease such as coronary artery disease"	47	query281_Low-fat_diet\P\47-10
+"a lifestyle change incorporating a low-fat vegan diet"	"could not prevent"	"various degenerative disease"	47	query281_Low-fat_diet\P\47-11
+"a lifestyle change incorporating a low-fat vegan diet"	"could not reverse"	"various degenerative disease them only"	47	query281_Low-fat_diet\P\47-12
+"a lifestyle change incorporating a low-fat vegan diet"	"could not reverse"	"various degenerative disease them such as coronary artery disease"	47	query281_Low-fat_diet\P\47-13
+"a lifestyle change incorporating a low-fat vegan diet"	"could not reverse"	"various degenerative disease them"	47	query281_Low-fat_diet\P\47-14
+10.1016/0140-6736(90 	48	query281_Low-fat_diet\S\48
+)91656-U Ornish D , Brown SE , Scherwitz LW , et al . 	49	query281_Low-fat_diet\S\49
+"91656-U Ornish D"	"is"	"Brown SE"	49	query281_Low-fat_diet\P\49-0
+"91656-U Ornish D"	"is"	"Scherwitz LW"	49	query281_Low-fat_diet\P\49-1
+"91656-U Ornish D"	"is"	"et al"	49	query281_Low-fat_diet\P\49-2
+Can lifestyle changes reverse coronary heart disease ? The Lifestyle Heart Trial Lancet 336 8708 129–33 1990 July 1973470 10.1016/0140-6736(90 	50	query281_Low-fat_diet\S\50
+)91656-U Ornish D , Brown SE , Scherwitz LW , et al . 	51	query281_Low-fat_diet\S\51
+"91656-U Ornish D"	"is"	"Brown SE"	51	query281_Low-fat_diet\P\51-0
+"91656-U Ornish D"	"is"	"Scherwitz LW"	51	query281_Low-fat_diet\P\51-1
+"91656-U Ornish D"	"is"	"et al"	51	query281_Low-fat_diet\P\51-2
+Can lifestyle changes reverse coronary heart disease ? The Lifestyle Heart Trial Lancet 336 8708 129–33 1990 July 1973470 Campbell TC , et al . 	52	query281_Low-fat_diet\S\52
+"1990 July 1973470 Campbell TC"	"is"	"et al"	33	query281_Low-fat_diet\P\52-0
+Medically supervised water-only fasting in the treatment of borderline hypertension J Altern Complement Med . 	53	query281_Low-fat_diet\S\53
+8 5 643–50 2002 Oct 12470446 10.1089/107555302320825165 	54	query281_Low-fat_diet\S\54
+Campbell TC , et al . 	55	query281_Low-fat_diet\S\55
+"Campbell TC"	"is"	"et al"	55	query281_Low-fat_diet\P\55-0
+Medically supervised water-only fasting in the treatment of borderline hypertension J Altern Complement Med . 	56	query281_Low-fat_diet\S\56
+8 5 643–50 2002 Oct 12470446 10.1089/107555302320825165 	57	query281_Low-fat_diet\S\57
+McDougall J , et al . 	58	query281_Low-fat_diet\S\58
+"McDougall J"	"is"	"et al"	58	query281_Low-fat_diet\P\58-0
+Effects of a very low-fat , vegan diet in subjects with rheumatoid arthritis J Altern Complement Med . 	59	query281_Low-fat_diet\S\59
+8 1 71–5 2002 Feb 11890437 10.1089/107555302753507195 	60	query281_Low-fat_diet\S\60
+McDougall J , et al . 	61	query281_Low-fat_diet\S\61
+"McDougall J"	"is"	"et al"	61	query281_Low-fat_diet\P\61-0
+Effects of a very low-fat , vegan diet in subjects with rheumatoid arthritis J Altern Complement Med . 	62	query281_Low-fat_diet\S\62
+8 1 71–5 2002 Feb 11890437 10.1089/107555302753507195 	63	query281_Low-fat_diet\S\63
+10.1016/S0002-9149(99)00290-8 	64	query281_Low-fat_diet\S\64
+10.1016/S0002-9149(99)00290-8 	64	query281_Low-fat_diet\S\64
+Esselstyn CB Jr. 	65	query281_Low-fat_diet\S\65
+Updating a 12-year experience with arrest and reversal therapy for coronary heart disease ( an overdue requiem for palliative cardiology ) Am J Cardiol . 	66	query281_Low-fat_diet\S\66
+Updating a 12-year experience with arrest and reversal therapy for coronary heart disease ( an overdue requiem for palliative cardiology ) Am J Cardiol . 	66	query281_Low-fat_diet\S\66
+Updating a 12-year experience with arrest and reversal therapy for coronary heart disease ( an overdue requiem for palliative cardiology ) Am J Cardiol . 	66	query281_Low-fat_diet\S\66
+84 3 339–41 1999 Aug 10496449 10.1016/S0002-9149(99)00290-8 	67	query281_Low-fat_diet\S\67
+84 3 339–41 1999 Aug 10496449 10.1016/S0002-9149(99)00290-8 	67	query281_Low-fat_diet\S\67
+Esselstyn CB Jr. 	68	query281_Low-fat_diet\S\68
+Updating a 12-year experience with arrest and reversal therapy for coronary heart disease ( an overdue requiem for palliative cardiology ) Am J Cardiol . 	69	query281_Low-fat_diet\S\69
+Updating a 12-year experience with arrest and reversal therapy for coronary heart disease ( an overdue requiem for palliative cardiology ) Am J Cardiol . 	69	query281_Low-fat_diet\S\69
+Updating a 12-year experience with arrest and reversal therapy for coronary heart disease ( an overdue requiem for palliative cardiology ) Am J Cardiol . 	69	query281_Low-fat_diet\S\69
+84 3 339–41 1999 Aug 10496449 Barnard ND , et al . 	70	query281_Low-fat_diet\S\70
+"1999 Aug 10496449 Barnard ND"	"is"	"et al"	41	query281_Low-fat_diet\P\70-0
+A low-fat vegan diet improves glycemic control and cardiovascular risk factors in a randomized clinical trial in individuals with type 2 diabetes Diabetes Care 1777–83 2006 Aug 16873779 10.2337/dc06-0606 	71	query281_Low-fat_diet\S\71
+"A low-fat vegan diet"	"improves"	"glycemic control in a randomized clinical trial in individuals with type 2 diabetes Diabetes Care 1777 83 2006 Aug 16873779 10.2337 dc06-0606"	71	query281_Low-fat_diet\P\71-0
+"A low-fat vegan diet"	"improves"	"glycemic cardiovascular risk factors in a randomized clinical trial in individuals with type 2 diabetes Diabetes Care 1777 83 2006 Aug 16873779 10.2337 dc06-0606"	71	query281_Low-fat_diet\P\71-1
+"A low-fat vegan diet"	"improves"	"glycemic control"	71	query281_Low-fat_diet\P\71-2
+"A low-fat vegan diet"	"improves"	"glycemic cardiovascular risk factors"	71	query281_Low-fat_diet\P\71-3
+29 8 Barnard ND , et al . 	72	query281_Low-fat_diet\S\72
+"29 8 Barnard ND"	"is"	"et al"	72	query281_Low-fat_diet\P\72-0
+A low-fat vegan diet improves glycemic control and cardiovascular risk factors in a randomized clinical trial in individuals with type 2 diabetes Diabetes Care 1777–83 2006 Aug 16873779 10.2337/dc06-0606 	73	query281_Low-fat_diet\S\73
+"A low-fat vegan diet"	"improves"	"glycemic control in a randomized clinical trial in individuals with type 2 diabetes Diabetes Care 1777 83 2006 Aug 16873779 10.2337 dc06-0606"	73	query281_Low-fat_diet\P\73-0
+"A low-fat vegan diet"	"improves"	"glycemic cardiovascular risk factors in a randomized clinical trial in individuals with type 2 diabetes Diabetes Care 1777 83 2006 Aug 16873779 10.2337 dc06-0606"	73	query281_Low-fat_diet\P\73-1
+"A low-fat vegan diet"	"improves"	"glycemic control"	73	query281_Low-fat_diet\P\73-2
+"A low-fat vegan diet"	"improves"	"glycemic cardiovascular risk factors"	73	query281_Low-fat_diet\P\73-3
+29 8 2 Category :Diets de:Low-Fat 	74	query281_Low-fat_diet\S\74

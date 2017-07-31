@@ -1,0 +1,452 @@
+0	SVO (V: running@10, S: Excel@8, A?: on@11, O: 14.0.4760.1000@18)
+1	
+2	SVA (V: running@12, S: Mac@10, A!: on@13)
+3	
+4	SVC (C: application@8, V: is@3, S: Excel@2, A?: written@9)	SVA (V: "be written", S: application@8, A!: by@12)	SVA (V: "be written", S: application@8, A!: by@12)
+5	SVO (V: features@2, S: It@1, O: calculation@3)	SVA (V: "be called", S: language@15, A!: for@19)
+6	SVC (C: spreadsheet@8, V: been@3, S: It@1, A?: for@9, A?: since@14)	SVO (V: replaced@25, S: it@21, A?: completely@24, O: 1-2-3@27, A?: as@28)
+7	SVO (V: forms@2, S: Excel@1, O: part@3)
+8	SVC (C: 2010@5, V: are@4, S: versions@3, A?: for@6)
+9	
+10	
+11	
+12	
+13	SVA (V: "be using", S: i5ffgL9KEg8C@3, O: grid@6)	SVA (V: "be arranged", S: cells@8, A!: in@10, XCOMP: organize@17)
+14	SVO (V: has@2, S: It@1, O: battery@4)	SVA (V: "be answer", S: battery@4, O: needs@15)
+15	SVO (V: display@6, S: it@4, A?: In@1, O: data@7, A?: as@8)	SVO (V: with@17, S: it@4, A?: In@1, O: data@7, A?: as@8, A?: display@23)
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	SVO (V: has@4, S: it@3, A?: Finally@1, O: variety@6, A?: presents@26)	SVA (V: "be allowing", S: features@9, O: interfaces@12)	SVO (V: hide@16, S: interfaces@12, A?: completely@15, O: spreadsheet@18, A?: from@19)	SVO (V: presents@26, S: spreadsheet@25, O: itself@27, A?: as@28)	SVC (S: application@31, V: "is", C: analyzer@52)	SVC (S: system@36, V: "is", C: DSS@38)	SVC (S: analyzer@52, V: "is", C: Handbook@54)	SVC (S: Şeref@65, V: "is", C: W.@74)
+31	
+32	
+33	
+34	SVC (S: Şeref@22, V: "is", C: W.@31)
+35	
+36	
+37	
+38	SVO (V: asks@20, S: tool@18, O: questions@23)	SVOC (V: provides@25, S: tool@18, O: questions@23, O: answers@26)
+39	
+40	
+41	
+42	
+43	SVO (V: developed@7, S: id@1, CCOMP: designed@15)	SV (V: designed@15, S: applications@12, A?: just@10, A?: how@11)
+44	
+45	
+46	
+47	
+48	
+49	
+50	SVC (S: Şeref@1, V: "is", C: K.@4)
+51	SVC (S: Ahuja@1, V: "is", C: L.@4)
+52	
+53	
+54	
+55	
+56	SVC (S: Şeref@1, V: "is", C: K.@4)
+57	SVC (S: Ahuja@1, V: "is", C: L.@4)
+58	
+59	
+60	
+61	
+62	SV (V: required@22, S: id@1)
+63	
+64	
+65	SVO (V: analyze@15, S: id@1, O: results@17)	SVOC (V: make@19, S: id@1, O: results@17, O: report@22)	SVOC (V: e-mail@30, S: id@1, O: results@17, O: presentations@32, A?: on@33)
+66	SVC (S: sq@7, V: "is", C: x@9)
+67	SVA (V: identified@12, S: variables@3, A!: in@13)	SVA (V: identified@12, S: y@9, A!: in@13)
+68	SVO (V: introduced@7, S: sq@4, XCOMP: using@8)	SVA (V: supplied@15, S: editor@14, A!: with@16)
+69	SVO (V: calculates@4, S: thumb300pxSubroutine@1, CCOMP: read@14)	SVOC (V: writes@20, S: thumb300pxSubroutine@1, CCOMP: read@14, O: it@21, A?: into@22)	SVA (V: read@14, S: square@6, A!: from@15)	SVA (V: "be named", S: the@23)
+70	SVA (V: "be using", S: thumbright300pxGraph@1, O: Microsoft@8)	SVA (V: allows@9, S: thumbright300pxGraph@1, A!: for@10)	SVA (V: "be control", S: number@12, O: manner@20)	SVO (V: starts@24, S: Excel@23, A?: in@21, O: manner@20)
+71	
+72	SVA (V: switches@5, S: Description@1, A!: for@6)	SVO (V: use@27, S: you@25, XCOMP: control@29)	SV (V: starts@33, S: program@32, A?: how@30)
+73	SVO (V: lists@3, S: article@2, O: switches@5)	SVOC (V: provides@7, S: article@2, O: switches@5, O: description@9)
+74	
+75	SVA (V: switches@5, S: Description@1, A!: for@6)	SVO (V: use@27, S: you@25, XCOMP: control@29)	SV (V: starts@33, S: program@32, A?: how@30)
+76	SVO (V: lists@3, S: article@2, O: switches@5)	SVOC (V: provides@7, S: article@2, O: switches@5, O: description@9)
+77	SVOO (V: supports@10, S: version@7, O: programming@11, A?: through@12, A?: for@17, IO: applications@4)	SVO (S: Microsoft@13, V: "has", O: Basic@16)	SVC (S: Applications@18, V: "is", C: VBA@20)	SVC (C: dialect@26, V: is@24, S: Applications@18, A?: of@27)
+78	SVO (V: allows@4, S: Programming@1, O: manipulation@6)	SVC (C: awkward@9, V: is@8, S: manipulation@6, A?: with@12)
+79	SVOC (V: write@3, S: Programmers@1, O: code@4, XCOMP: using@6)	SVC (S: Editor@10, V: "is", C: code@24)	SVC (S: Editor@10, V: "is", C: VBE@12)	SVO (V: includes@16, S: Editor@10, O: window@18)
+80	SVO (V: implement@4, S: user@2, O: methods@6)
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	
+89	SVC (C: easier@16, V: is@15, S: =@6, A?: probably@14, A?: than@17)	SVC (C: easier@32, V: be@31, S: edition@24, XCOMP: use@34)
+90	
+91	
+92	
+93	SVA (V: reported@10, S: results@9, A!: back@11)
+94	SVA (V: removed@3, S: VBA@1, A!: from@4, A?: believe@14)	SVO (V: believe@14, S: developers@11, CCOMP: allow@20)	SVO (V: allow@20, S: release@18, XCOMP: porting@21)
+95	SVA (V: restored@3, S: VBA@1, A!: in@4)
+96	SVA (V: "be generate", S: way@5, O: code@9)	SVA (V: is@10, S: way@5, A!: by@11)
+97	
+98	
+99	SVO (V: captured@35, S: proportion@29, A?: by@36, O: Wiley@25)	SVA (V: "be leading", S: Recorder@39, A!: to@41)	SVA (V: "be Revised", S: ff@17, A!: by@19)
+100	
+101	
+102	SVA (V: "be Revised", S: ff@17, A!: by@19)
+103	SVA (V: repeated@6, S: actions@2, A-: then@4, A!: automatically@7, A?: by@8)
+104	SVA (V: linked@6, S: macros@2, A?: also@4, A!: to@7)	SVC (S: shortcuts@13, V: "is", C: button@17)
+105	SVA (V: executed@8, S: actions@2, A!: from@9)
+106	SVA (V: edited@10, S: code@3, A?: also@8, A!: in@11)
+107	SVA (V: prompts@9, S: features@2, A!: by@10)	SVO (S: their@11, V: "has", O: properties@13)	SV (V: recorded@24, S: items@19)	SVA (V: entered@29, S: items@19, A!: into@30, A?: directly@34, A?: by@35)
+108	SVO (V: employ@4, S: users@2, O: user@5)	SV (V: loaded@21, S: sheets@19)	SV (V: changed@23, S: sheets@19)
+109	SVA (V: captured@10, S: proportion@4, A?: However@1, A!: by@11)	SVA (V: "be leading", S: Recorder@14, A!: to@16)
+110	
+111	
+112	
+113	
+114	
+115	
+116	SVA (V: "be identifying", S: vocabulary@21, O: objects@24)	SVO (V: enable@35, S: functions@31, O: reading@36, A?: with@44)	SVO (S: its@45, V: "has", O: users@46)
+117	SVO (V: execute@6, S: subroutine@5, O: actions@8)	SVO (V: operate@10, S: subroutine@5, O: actions@8, A?: like@11)	SVA (V: "be generated", S: macros@12, XCOMP: using@14)
+118	SVO (V: supports@2, S: Excel@1, O: chart@3)	SVA (V: "be generated", S: chart@3, A!: from@9)
+119	SVA (V: embedded@8, S: component@4, A?: either@6, A!: within@9)	SVA (V: added@15, S: component@4, A?: either@6, A?: within@9, A!: as@16)
+120	SVA (V: updated@5, S: displays@2, A?: dynamically@4, A!: change@11)	SV (V: change@11, S: content@8)
+121	SVA (V: displayed@11, S: requirements@9, A!: visually@12)	SVO (S: user@20, V: "has", O: change@22)	SVA (V: "be assisting", S: curves@30, O: selection@46)	SVA (V: "be describing", S: curves@30, O: shape@35)	SVO (S: their@38, V: "has", O: points@39)
+122	SVA (V: communicate@19, S: Excel@16, A!: with@20)	SVO (V: use@24, S: Excel@16, A?: with@20, O: capabilities.The@28)	SVO (S: others@26, V: "has", O: capabilities.The@28)
+123	SVC (C: Exchange@6, V: are@3, S: common@2)	SVA (V: "be send", S: method@18, O: data@21, A!: with@28)	SVC (C: method@18, V: is@15, S: this@14, A?: deprecated@10, A?: send@20)	SVA (V: "be running", S: applications@23, A!: on@25)	SVA (V: "be referring", S: publications@31, A!: to@33, A?: as@35)
+124	
+125	SV (V: suggests@10, S: name@9)	SVOC (V: allows@13, S: it@12, CCOMP: articleId@1, O: applications@14, XCOMP: supply@16)
+126	SVC (C: common@4, V: is@2, S: It@1, A?: very@3, A?: in@5, A?: used@10)	SVA (V: "be used", S: common@4, XCOMP: connect@12)
+127	SVA (V: "be control", S: application@10, O: another@13, A!: enable@15)	SVA (V: "be enable", S: control@12, O: it@16, A!: to@17)	SVA (V: "be enable", S: control@12, O: it@16, A!: to@17, O: data@21)
+128	SVO (V: take@3, S: This@1, O: form@6)	SVA (V: "be handle", S: application@13, A!: as@18)	SVOO (V: uses@14, S: application@13, A?: where@11, O: another@15, A?: handle@17, IO: embedding@9)	SVO (V: suited@24, S: it@21, A?: more@23, XCOMP: to@25)	SVA (V: embedded@34, S: presentation@31, A?: for@27, A!: in@35)
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	SVA (V: "be built", S: connections@1, A!: with@3)
+155	SVO (V: files@2, S: Excel@1, CCOMP: updated@6)	SVO (V: updated@6, S: themselves@3, XCOMP: using@7)
+156	SVO (V: accept@3, S: Excel@1, O: data@4, A?: in@5, A?: through@8)	SVOC (V: allow@14, S: interfaces@11, O: it@15, XCOMP: communicate@17)
+157	SVO (V: provides@5, S: Query@4, A?: Alternatively@1, O: browsing@7, A?: within@8)
+158	
+159	
+160	SVOC (V: have@18, S: we@16, A?: always@17, XCOMP: include@20, O: id@1)
+161	
+162	
+163	SVOC (V: have@18, S: we@16, A?: always@17, XCOMP: include@20, O: id@1)
+164	
+165	
+166	
+167	
+168	
+169	SVA (V: employed@7, S: browser@2, A!: within@8)
+170	SVOC (V: allows@2, S: It@1, O: user@4, XCOMP: create@6)	SVOC (C: available@20, V: is@19, S: driver@18, A?: for@14, O: databases@13)
+171	
+172	
+173	
+174	
+175	
+176	SVA (V: employed@7, S: browser@2, A!: within@8)
+177	SVOC (V: allows@2, S: It@1, O: user@4, XCOMP: create@6)	SVOC (C: available@20, V: is@19, S: driver@18, A?: for@14, O: databases@13)
+178	SVO (V: include@6, S: errors@2, O: functions@9)
+179	SVO (V: criticized@14, S: Shortcomings@2, O: B.D.@17)	SVO (V: criticized@14, S: accuracy@4, O: B.D.@17)
+180	SVC (S: Wilson@1, V: "is", C: B.@3)
+181	SVC (S: S0167-9473@27, V: "is", C: 02@29)
+182	
+183	SVC (S: Wilson@1, V: "is", C: B.@3)
+184	SVC (S: S0167-9473@27, V: "is", C: 02@29)
+185	
+186	SVC (S: Heiser@1, V: "is", C: D.A.@3)
+187	
+188	
+189	SVC (S: Heiser@1, V: "is", C: D.A.@3)
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	
+206	
+207	
+208	
+209	SVA (V: "be missing", S: mishandling@5, O: data@7)	SV (V: changed@36, S: values@34, A?: when@31)
+210	SVO (V: announced@3, S: Microsoft@1, CCOMP: addressed@9)	SVA (V: addressed@9, S: some@4, A!: in@10)
+211	SVA (V: provided@3, S: Comments@1, A!: from@4)	SVO (V: illuminate@8, S: readers@5, O: problems@11)
+212	SVA (V: "be related", S: menus@7, A!: to@9)	SV (V: changed@16, S: menus@7, A?: In@1)
+213	SVC (C: transparent@9, V: are@7, S: activities@3, A?: less@8, A?: than@10)
+214	SVA (V: click@15, S: one@12, A?: right@14, A!: on@16)	SVA (V: data@23, S: one@12, A?: right@14, A?: on@16, A!: from@25)	SVO (V: use@31, S: one@12, A?: right@14, A?: on@16, O: tab@37)
+215	EXISTENTIAL (V: are@5, S: menus@8, A?: when@3)	SV (V: appear@15, S: menu@12, A?: However@1, A?: are@5)	SV (V: option@22, S: menu@12, A?: However@1, A?: are@5)
+216	SVA (V: discovered@10, S: facet@2, A!: by@12)
+217	SVO (V: has@2, S: Excel@1, O: issues@3)
+218	SVO (V: return@11, S: Excel@9, A?: In@1, O: NUM@15)
+219	
+220	
+221	SVO (V: Returns@7, S: Function@6, O: #NUM@8)
+222	SVC (S: January@4, V: "is", C: http@9)
+223	SVO (V: Returns@7, S: Function@6, O: #NUM@8)
+224	SVC (S: January@4, V: "is", C: http@9)
+225	
+226	
+227	
+228	SVO (V: includes@8, S: Excel@7, O: January@9)	SVA (V: "be treating", S: January@9, A!: incorrectly@19, O: 1900@21, A?: as@22)
+229	
+230	SVC (C: incorrect@11, V: are@10, S: 1900@9, A?: in@12)
+231	SVC (C: incorrect@11, V: are@10, S: 1900@9, A?: in@12)
+232	SVO (V: assumes@4, S: Excel@1, A?: incorrectly@3, CCOMP: http@15)	SVC (C: http@15, V: is@9, S: year@7)
+233	SVO (V: assumes@4, S: Excel@1, A?: incorrectly@3, CCOMP: Microsoft@13)	SVOC (C: Microsoft@13, V: is@9, S: year@7, O: bug@16)	SVOC (C: implemented@25, V: is@9, S: year@7, O: bug@16, A?: purposely@24, A?: in@26, A?: for@28)	SVA (V: "be originated", S: bug@16, A!: from@18)
+234	
+235	
+236	
+237	
+238	SVO (S: My@1, V: "has", O: Joel@7)	SVA (V: carried@20, S: legacy@16, A?: June@10, A?: later@18, A!: over@21)	SVA (V: carried@20, S: Joel@7, A?: June@10, A?: later@18, A!: over@21)
+239	
+240	
+241	
+242	
+243	
+244	
+245	SVO (V: open@5, S: Excel@2, O: documents@7, A?: with@8)	SVOC (V: display@15, S: Excel@2, O: documents@7, A?: with@8, A?: instead@13, O: the@16)	SVA (V: is@22, S: reason@21, A!: for@23)
+246	EXISTENTIAL (V: is@3, S: Sheet1@11)
+247	
+248	SV (V: named@9, S: books@8)	EXISTENTIAL (V: is@16, S: way@18)	SVA (V: "be tell", S: way@18, CCOMP: means@25)	SVO (V: means@25, S: user@24, O: which@21)
+249	SVO (V: maintains@7, S: precision@2, O: figures@9)	SVO (S: its@11, V: "has", O: numbers@12)	SVC (C: accurate@19, V: are@16, S: they@15, A?: always@18)	SVC (C: same@27, V: be@25, S: line@23, A?: as@28)
+250	SVO (V: display@10, S: Excel@8, A?: Despite@1, O: figures@13)
+251	SVC (C: those@7, V: are@5, S: figures@4, A?: used@9, A?: for@17, CCOMP: differ@26)	SVA (V: "be used", S: those@7, A!: actually@8, A?: in@10)	SVO (S: its@11, V: "has", O: computations@12)	SVA (V: differ@26, S: difference@21, A!: from@27)	SVO (S: their@31, V: "has", O: values@33)
+252	SVA (V: are@4, S: departures@3, A!: beyond@6)	SVA (V: occur@13, S: exceptions@11, A?: are@4, A!: for@16)
+253	SVA (V: occur@4, S: errors@2, A!: made@8, A?: unpredictable@33)	SV (V: made@8, S: decisions@6)	SVC (C: unpredictable@33, V: be@32, S: equality@27)
+254	SVA (V: displayed@8, S: fraction@5, A?: In@1, A!: in@9)
+255	SVO (V: has@4, S: number@3, O: representation@7)	SVC (C: string@12, V: is@9, S: representation@7, A?: of@13)	SVO (V: displays@17, S: Excel@16, A?: has@4, O: figures@22)
+256	SVA (V: added@10, S: number@7, A?: In@1, A!: to@11)	SVO (V: displays@18, S: Excel@17, A?: again@16, O: figures@21)
+257	SVO (V: subtracted@8, S: one@6, A?: In@1, A?: from@9, XCOMP: using@12)
+258	SVO (V: has@8, S: sum@3, O: eleven@10)	SVO (V: subtracted@22, S: 1@20, A?: when@19, A?: from@23, O: difference@18)	SVO (V: is@27, S: difference@18, A?: has@8, O: 0@29)	SVA (V: "be followed", S: 0@29, A!: by@32)
+259	SVA (V: "be reported", S: difference@4, A!: by@6, A?: in@8)	SV (V: is@12, S: 0@14)	SVA (V: "be followed", S: 0@14, A!: by@17)
+260	SVA (V: calculates@6, S: numbers@4, A-: Thus@1, A!: with@7)	SVA (V: calculates@6, S: Excel@5, A-: Thus@1, A!: with@7)	SVO (V: displays@19, S: it@18, O: that@17, A?: in@20)
+261	SVO (S: Excel@6, V: "has", O: answer@8)	SVC (C: error@13, V: is@9, S: error@4, A?: Moreover@1)
+262	SVA (V: works@2, S: Excel@1, A!: with@3)
+263	
+264	SVO (V: give@4, S: arithmetic@2, O: results@6)
+265	SVO (S: ID@3, V: "has", O: ;@1)	SVO (S: Microsoft@11, V: "has", O: overview@13)	SVA (V: found@15, S: overview@13, A?: June@6, A!: at@16)
+266	SVO (V: give@4, S: arithmetic@2, O: results@6)
+267	SVO (S: Excel@11, V: "has", O: implementation@13)	SVO (V: involves@14, S: implementation@13, A?: June@6, O: amalgam@16)	SVO (V: worse@47, S: implementation@13, A?: June@6, O: amalgam@16, A?: sometimes@45, A?: much@46)	SVC (C: better@33, V: is@32, S: accuracy@29, A?: sometimes@31, A?: than@34)	SVA (V: expect@37, S: leading@27, A!: from@38)
+268	
+269	SV (V: raised@18, S: functions@15)
+270	SVA (V: criticized@12, S: Excel@9, A?: in@2, A!: for@13)
+271	
+272	
+273	
+274	
+275	
+276	
+277	SVOO (V: cited@13, S: Levie@12, O: work@14, IO: deviation@8)	SVO (V: cited@23, S: Levie@22, O: work@24)	SVO (V: executed@36, S: calculations@32, XCOMP: using@37)	SVC (S: VBA@38, V: "is", C: issue@42)	SVOC (C: accuracy@45, V: is@43, S: 45@27, A?: of@46, O: work@24)	SVA (V: varies@50, S: VBA@47, A!: with@51)
+278	
+279	
+280	
+281	
+282	SVO (V: marketed@10, S: Microsoft@8, A?: originally@9, O: program@13)	SVA (V: "be called", S: program@13, A!: in@16)
+283	SVC (V: became@2, S: Multiplan@1, ACOMP: popular@4, A?: on@5)	SVC (V: on@10, S: Multiplan@1, ACOMP: popular@4, A?: on@5, A?: systems@12)	SVOO (V: lost@14, S: it@13, O: popularity@15, A?: to@16, IO: systems@12)
+284	SVO (V: released@2, S: Microsoft@1, O: version@5, A?: in@11)	SVO (V: version@20, S: Microsoft@1, O: version@5, A?: in@11)
+285	
+286	
+287	
+288	
+289	
+290	SVO (V: Look@35, S: First@34, O: InfoWorld@33)	SVC (C: slow@51, V: was@50, S: 1-2-3@40, XCOMP: bring@53)	SVC (C: helped@67, V: was@50, S: 1-2-3@40, XCOMP: bring@53, CCOMP: achieve@69)	SVO (V: started@62, S: Excel@60, A?: by@58, XCOMP: outsell@64)	SVO (V: achieve@69, S: Microsoft@68, O: position@71)
+291	SVA (V: "be dethroning", S: accomplishment@2, O: king@6)	SVO (V: solidified@12, S: accomplishment@2, O: Microsoft@13, A?: as@14)	SVOC (V: showed@19, S: accomplishment@2, O: Microsoft@13, A?: as@14, O: future@21)	SVO (S: its@20, V: "has", O: future@21)
+292	SVO (V: pushed@2, S: Microsoft@1, O: advantage@4, A?: with@5)	SVO (S: its@3, V: "has", O: advantage@4)	SVC (S: releases@8, V: "is", C: years@12)
+293	SVA (V: "be selling", S: lawsuit@11, A!: already@15, O: Excel@22)
+294	SVOC (V: had@8, S: Microsoft@7, XCOMP: refer@10, O: dispute@6)	SVO (S: its@22, V: "has", O: releases@25)
+295	SV (V: ignored@9, S: practice@6, A?: However@1)	SVO (V: cleared@13, S: Microsoft@12, O: issue@16, A?: permanently@17, A?: purchased@20)	SVO (V: purchased@20, S: they@19, A?: when@18, O: trademark@22)
+296	
+297	
+298	SVO (V: offers@2, S: Excel@1, O: interface@5)	SVC (V: remains@17, S: essence@16, A?: however@13, XCOMP: same@19)	SVO (V: displays@31, S: program@30, O: cells@32)	SVA (V: "be organized", S: cells@32, A!: in@34)	SVO (V: contain@43, S: cell@41, O: data@44)
+299	SVC (V: became@2, S: Excel@1, XCOMP: spreadsheet@5)	SVA (V: "be allow", S: spreadsheet@5, O: user@9, XCOMP: define@11)
+300	SVO (V: introduced@3, S: It@1, A?: also@2, O: recomputation@6)	SVA (V: "be modified", S: cell@14)	SVO (V: updated@18, S: cells@10, A?: where@8, O: recomputation@6)	SVA (V: "be recomputed", S: programs@22, O: everything@24)
+301	SVO (V: has@2, S: Excel@1, O: capabilities@5)	SVOC (V: enables@8, S: Excel@1, O: capabilities@5, O: users@9, XCOMP: perform@11)
+302	
+303	SVO (V: included@7, S: Excel@5, O: Basic@9)	SVC (S: Basic@9, V: "is", C: language@18)	SVC (S: Applications@11, V: "is", C: VBA@13)	SVA (V: "be based", S: language@18, A!: on@20)	SVO (V: adds@24, S: Basic@22, O: ability@26)	SVA (V: "be automate", S: ability@26, O: tasks@29)	SVA (V: "be automate", S: ability@26, O: tasks@29, O: functions@36)	SVC (S: functions@36, V: "is", C: UDF@38)
+304	SVC (C: addition@5, V: is@2, S: VBA@1, A?: to@6)	SVOC (C: includes@10, V: is@2, S: VBA@1, A?: to@6, O: environment@16)	SVC (S: environment@16, V: "is", C: IDE@18)
+305	SVO (V: produce@4, S: recording@2, O: VBA@5, A?: allowing@12)	SVA (V: "be allowing", S: recording@2, A-: thus@11, O: automation@14)	SVA (V: "be replicating", S: code@6, O: actions@9)
+306	SVOC (V: allows@2, S: VBA@1, O: creation@4, XCOMP: communicate@11)
+307	SVO (V: supports@3, S: language@2, O: use@4)	SVC (S: ActiveX@11, V: "is", C: COM@13)	SVO (V: add@20, S: versions@19, O: support@21, A?: allowing@25)	SVA (V: "be allowing", S: versions@19, O: use@27)
+308	SVA (V: "be provided", S: functionality@3, A!: by@5)	SVO (V: made@7, S: functionality@3, XCOMP: target@10)	SVA (V: target@10, S: Excel@8, A!: for@11)
+309	SVO (V: caused@2, S: This@1, O: problems@4, A?: began@8)	SVO (V: began@8, S: products@7, XCOMP: detect@10)
+310	SVO (V: took@3, S: Microsoft@1, A?: belatedly@2, O: steps@4)	SVA (V: "be prevent", S: steps@4, O: misuse@8, A!: by@9)	SVA (V: "be disable", S: ability@12, O: macros@15, A!: completely@16, XCOMP: enable@19)	SVA (V: "be signed", S: macros@29, XCOMP: using@31)
+311	
+312	
+313	SVOO (V: taken@21, S: Microsoft@19, O: measures@22, IO: version@17)	SVA (V: "be eliminate", S: measures@22, O: features@27, A!: from@28)	SVO (S: their@29, V: "has", O: products@30)
+314	
+315	
+316	SVC (S: October@3, V: "is", C: Office@15)	SVO (S: Osterman@9, V: "has", O: Office@15)	SVA (V: "be introduced", S: changes@26, A!: with@28)	SVOO (V: involved@41, S: one@21, O: clipboard@43, IO: October@3)	SVO (V: hold@46, S: clipboard@43, O: objects@48, A?: at@49)
+317	SVO (S: Assistant@7, V: "has", O: appearance@12)	SVO (V: annoyed@17, S: appearance@12, O: users@19)	SVO (V: became@21, S: Assistant@7, ACOMP: intrusive@23, O: change@4)
+318	SVA (V: "be called", S: interface@16, O: system@21)	SVC (C: interface@16, V: is@11, S: change@10, A?: called@17)	SVO (V: means@24, S: system@21, CCOMP: abandon@28)	SVO (V: abandon@28, S: user@26, O: habits@30)	SVA (V: "be acquired", S: habits@30, A!: from@32)
+319	
+320	
+321	SVOC (V: takes@5, S: removing@1, A?: now@4, O: mouse-clicks@7, A?: of@9, O: management@15)	SVOC (V: flexibility@27, S: removing@1, A?: now@4, O: mouse-clicks@7, A?: of@9, O: management@15, A?: in@28)	SVO (V: allow@34, S: graphs@30, A?: now@33, O: labeling@41)	SVC (S: x@36, V: "is", C: y@38)
+322	SVC (C: 1,048,576@7, V: is@5, S: number@2, A?: now@6)	SVC (C: 16,384@11, V: is@10, S: 1,048,576@7)
+323	SV (V: introduced@7, S: improvements@2)
+324	
+325	
+326	
+327	SVC (S: Dodge@8, V: "is", C: Chapter@16)	SVC (C: What@19, V: 's@20, S: new@21)	SVC (S: Dodge@36, V: "is", C: Chapter@44)	SVC (C: What@47, V: 's@48, S: new@49)	SVOC (V: makes@59, S: version@58, O: Excel@53, O: use@62, A?: for@66)	SVO (V: handled@77, S: macros@74, O: What@47, A?: however@72, A?: in@78, A?: only@83)	SVA (V: executed@85, S: handled@77, A?: out@34, A!: in@86, A?: thread-safe@91)	SVO (V: indicate@93, S: handled@77, A?: out@34, A?: in@86, A?: thread-safe@91, O: this@94, A?: at@95)	SVC (C: thread-safe@91, V: are@90, S: they@89)
+328	SVA (V: listed@7, S: changes@2, A!: on@8)
+329	
+330	SVO (S: their@8, V: "has", O: sets@10)
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	
+341	
+342	
+343	
+344	
+345	
+346	SVO (V: used@9, S: version@8, O: format@14, A?: as@23)	SVA (V: "be called", S: format@14)	SVC (S: Format@19, V: "is", C: BIFF@21)	SVO (S: its@24, V: "has", O: format@26)
+347	
+348	
+349	SVC (S: format@31, V: "is", C: XML@34)	SVO (S: its@28, V: "has", O: format@31)	SVA (V: followed@39, S: format@37, A!: after@40)	SVA (V: "be introduced", S: XML@43, A!: first@58, A?: in@60)
+350	
+351	
+352	
+353	
+354	
+355	
+356	SVC (S: replacements@26, V: "is", C: Excel@28)	SVC (V: remained@30, S: replacements@26, ACOMP: backwards-compatible@31, A?: with@32)
+357	SVO (V: read@10, S: versions@5, A?: In@1, O: CSV@11)
+358	SVA (V: removed@8, S: Support@1, A!: in@9)
+359	
+360	
+361	
+362	
+363	SVC (S: August@10, V: "is", C: formats@17)	SVA (V: "be were", S: August@10, A!: from@20)
+364	
+365	
+366	
+367	
+368	
+369	
+370	
+371	
+372	SVO (V: made@13, S: Microsoft@12, A-: then@11, O: specification@18)
+373	
+374	
+375	
+376	
+377	
+378	
+379	SVA (V: "be introduced", S: format@14, A!: in@16)	SVC (C: format@25, V: is@19, S: formats@10, A?: missing@26)	SVA (V: "be missing", S: format@25, O: features@30)
+380	
+381	
+382	
+383	
+384	
+385	SVA (V: "be offer", S: Browser@3, O: export@8, O: capabilities@12)
+386	SVA (V: opened@7, S: example@3, A?: correctly@6, A!: by@8, A?: saved@11)
+387	
+388	
+389	SVO (V: introduced@33, S: Excel@18, A?: when@10, O: file-formats@35)
+390	
+391	SVC (S: XML@8, V: "is", C: OOXML@10)
+392	SVA (V: continues@10, S: formats@5, A!: with@11)	SVA (V: continues@10, S: Excel@8, A!: with@11)
+393	SVOC (V: produced@3, S: Programmers@1, O: API@4, XCOMP: open@6)
+394	SVO (V: include@2, S: These@1, XCOMP: opening@3)	SVA (V: "be using", S: opening@3, O: controls@12)
+395	SVO (V: provides@6, S: project@5, O: libraries@8, A?: for@9)	SVOC (V: writing@12, S: project@5, O: libraries@8, A?: for@9, O: files@15)
+396	SVC (C: project@5, V: is@2, S: ExcelPackage@1)	SVO (V: provides@7, S: project@5, O: generation@9)
+397	SVC (C: library@5, V: is@2, S: PHPExcel@1)	SVO (V: converts@7, S: library@5, O: Excel5@8)	SVO (V: writing@22, S: library@5, O: Excel5@8, A?: within@23)
+398	
+399	SVO (V: uses@119, S: Exchange@117, O: message@121)	SVA (V: "be mechanism", S: message@121, A!: in@124, A?: allow@127)	SVA (V: "be allow", S: mechanism@123, O: data@128, XCOMP: flow@130)
+400	SVC (C: easy@4, V: is@3, S: it@2, A?: create@8)	SVO (V: create@8, S: users@6, O: links@10)	SVC (C: difficult@18, V: is@16, S: links@14, A?: reliably@15, A-: so@17, CCOMP: refer@29)	SVC (S: Microsoft@20, V: "is", C: creators@23)	SVA (V: refer@29, S: Microsoft@20, A?: officially@28, A!: to@30, A?: as@32)
+401	SVO (S: its@4, V: "has", O: issues@6)	SVOC (V: remains@8, S: DDE@7, XCOMP: way@12, O: issues@6)	SVA (V: "be reach", S: data@14, O: traders@17)
+402	SVO (V: Extended@3, S: DDE@2, O: protocol@5, A?: allow@7)	SVA (V: "be allow", S: DDE@2, O: spreadsheets@8, A!: on@9, XCOMP: exchange@13)
+403	SVC (C: surprising@9, V: is@7, S: it@6, A?: Given@1, CCOMP: supports@17)	SVO (V: supports@17, S: Microsoft@14, A?: in@11, A?: longer@16, O: facility@19)
+404	SVO (V: requires@24, S: it@23, O: skills@27)	SV (V: documented@36, S: first@31, A?: when@30, A?: adequately@35)	SVA (V: supported@38, S: first@31, A?: when@30, A?: adequately@35, A!: by@39)
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	SVC (C: open@12, V: is@10, S: document@2, A?: already@11)
+413	SVO (V: open@4, S: You@1, O: documents@6, A?: with@7, A?: are@16)	SVA (V: are@16, S: documents@15, A-: even@12, A!: in@17)
+414	SVC (C: open@14, V: is@12, S: document@10, A?: currently@13)
+415	
+416	
+417	
+418	
+419	
+420	
+421	SVC (S: Excel@23, V: "is", C: version@28)
+422	SVC (S: Excel@6, V: "is", C: version@9)
+423	
+424	SVO (V: includes@5, S: version@2, O: simulator@8)
+425	SVC (S: Excel@2, V: "is", C: version@5)
+426	SVA (V: "be included", S: Office@26, A!: in@37)	SVA (V: "be included", S: Office@38, A!: in@48)
+427	SV (V: existed@4, S: Windows@2, A?: ever@3)	SVA (V: originated@9, S: version@8, A!: at@10)	SVO (V: was@16, S: version@15, A?: up@17, O: time@12)
+428	SVO (S: Excel@6, V: is@4, O: Note@1)
+429	SVA (V: launched@7, S: version@5, A!: with@8)
+430	
+431	SVO (V: have@2, S: products@1, O: capacity@5)	SVO (V: show@18, S: data@8, CCOMP: contemporary@22)	SVC (C: contemporary@22, V: was@21, S: it@20, A?: with@23)
+432	
+433	
+434	
+435	
+436	
+437	
+438	
+439	
+440	
+441	
+442	
+443	
+444	
+445	
+446	SVC (S: Excel@8, V: "is", C: part@2)
+447	
+448	
+449	
+450	
+451	SVC (S: Dodge@20, V: "is", C: http@28)

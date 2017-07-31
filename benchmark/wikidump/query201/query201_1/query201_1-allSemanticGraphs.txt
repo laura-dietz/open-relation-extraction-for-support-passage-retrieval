@@ -1,0 +1,1312 @@
+0	[board/NN
+                     nn:Raspberry/NN
+                     nn:Pi/NN
+                     amod:50px/JJ
+                     nn:320px/NN
+                     nn:Beta/NN
+                     rcmod:[include/VB
+                            nsubj:[board/NN amod:retail/JJ]
+                            aux:will/MD
+                            neg:not/RB
+                            dobj:[USD/NNP
+                                  nn:pin/NN
+                                  nn:header/NN
+                                  nn:Raspberry/NN
+                                  nn:Pi/NN
+                                  nn:Foundation/NNP
+                                  nn:Early/NNP
+                                  num:2012/CD
+                                  amod:Single-board/JJ
+                                  nn:computer/NN
+                                  dep:[$/$
+                                       num:25/CD
+                                       cc:and/CC
+                                       conj:[$/$ num:35/CD]
+                                       dep:[GBP/NN
+                                            dep:[16/CD
+                                                 number:~/CD
+                                                 dep:#/#
+                                                 cc:and/CC
+                                                 conj:[22/CD number:~/CD dep:#/#]]]
+                                       dep:[ARM1176JZF-S/NN
+                                            dep:[Slot/NNP
+                                                 num:700/CD
+                                                 nn:MHz/NNP
+                                                 nn:Broadcom/NNP
+                                                 nn:VideoCore/NNP
+                                                 num:IV/CD
+                                                 nn:SD/NN
+                                                 nn:Card/NNP
+                                                 dep:[SD/NN cc:or/CC conj:[card/NN nn:SDHC/NN]]
+                                                 dep:[Linux/NN
+                                                      num:[128/CD cc:or/CC conj:256/CD]
+                                                      nn:MiB/NN
+                                                      dep:[GNU/Linux/NN
+                                                           amod:Debian/JJ
+                                                           conj:Fedora/NNP
+                                                           cc:and/CC
+                                                           conj:[Linux/NNP nn:Arch/NNP]]]]]]
+                                  dep:www.raspberrypi/NN]]]
+1	[org/NN]
+2	[computer/NN
+                     nsubj:[Pi/NN det:The/DT nn:Raspberry/NN]
+                     cop:is/VBZ
+                     det:a/DT
+                     amod:single-board/JJ
+                     vmod:[developed/VBN
+                           prep:[in/IN pobj:[UK/NNP det:the/DT]]
+                           prep:[by/IN pobj:[Foundation/NNP det:the/DT nn:Raspberry/NN nn:Pi/NN]]]]
+3	[FAQ/NNP
+                     amod:[Scheduled/VBN
+                           prep:[for/IN
+                                 pobj:[release/NN
+                                       amod:public/JJ
+                                       prep:[in/IN pobj:[January/NNP num:2012/CD]]]]]
+                     nn:Raspberry/NN
+                     nn:Pi/NNP
+                     nn:Foundation/NNP]
+4	[2011-12-10/CD amod:Retrieved/VBN]
+5	[plans/VBZ
+                     nsubj:[foundation/NN det:the/DT]
+                     xcomp:[release/VB
+                            aux:to/TO
+                            dobj:[versions/NNS
+                                  num:two/CD
+                                  vmod:[priced/VBN
+                                        prep:[at/IN
+                                              pobj:[USD/NNP
+                                                    dep:[$/$
+                                                         num:25/CD
+                                                         cc:and/CC
+                                                         conj:[$/$ num:35/CD]
+                                                         dep:[GBP/NN
+                                                              dep:[16/CD
+                                                                   number:~/CD
+                                                                   dep:#/#
+                                                                   cc:and/CC
+                                                                   conj:[22/CD number:~/CD dep:#/#]]]]]]]]]]
+6	[intended/VBN
+                     nsubjpass:It/PRP
+                     auxpass:is/VBZ
+                     xcomp:[stimulate/VB
+                            aux:to/TO
+                            dobj:[teaching/NN
+                                  det:the/DT
+                                  prep:[of/IN pobj:[science/NN amod:basic/JJ nn:computer/NN]]
+                                  prep:[in/IN pobj:schools/NNS]]]]
+7	[http/NN
+                     nn:FAQs/NNS
+                     nn:Raspberry/NNP
+                     nn:Pi/NNP
+                     nn:Foundation/NNP
+                     dep:www.raspberrypi/NNS]
+8	[org/NN]
+9	[page_id/NN
+                     amod:[=/JJ
+                           dep:[http/NN
+                                num:[2011-10-06/CD number:8/CD]
+                                nn:FAQs/NNS
+                                nn:Raspberry/NN
+                                nn:Pi/NNP
+                                nn:Foundation/NNP]]
+                     dep:www.raspberrypi/NNS]
+10	[org/NN]
+11	[page_id/NN
+                     dep:[=/JJ
+                          dobj:[computer/NN
+                                num:[2011-10-06/CD number:8/CD]
+                                nn:Cellan-Jones/NNP
+                                nn:Rory/NNP
+                                nn:Rory/NNP
+                                nn:Cellan-Jones/NNP
+                                nn:A/NNP
+                                dep:#/#
+                                num:15/CD
+                                vmod:[inspire/VB
+                                      aux:to/TO
+                                      dobj:[programmers/NNS
+                                            amod:young/JJ
+                                            dep:[News/NNP
+                                                 nn:BBC/NNP
+                                                 dep:[http/NN num:2011-05-05/CD]
+                                                 dep:www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young/VBG]]]]]]
+12	[html/NN]
+13	[computer/NN
+                     nn:Cellan-Jones/NNP
+                     nn:Rory/NNP
+                     nn:Rory/NNP
+                     nn:Cellan-Jones/NNP
+                     nn:A/NNP
+                     dep:#/#
+                     num:15/CD
+                     vmod:[inspire/VB
+                           aux:to/TO
+                           dobj:[programmers/NNS
+                                 amod:young/JJ
+                                 dep:[News/NNP
+                                      nn:BBC/NNP
+                                      dep:[http/NN num:2011-05-05/CD]
+                                      dep:www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young/VBG]]]]
+14	[html/NN]
+15	[stm/NN]
+16	[stm/NN]
+17	[http/NN amod:2011-07-02/JJ dep:www.electronicsweekly/RB]
+18	[htm/NN]
+19	[lets/VBZ
+                     nsubj:[computer/NN nn:Dongle/NNP]
+                     ccomp:[discover/VBP
+                            nsubj:kids/NNS
+                            dobj:programming/NN
+                            prep:[on/IN
+                                  pobj:[http/NN
+                                        det:a/DT
+                                        nn:TV/NN
+                                        num:2011-07-11/CD
+                                        nn:Bush/NNP
+                                        nn:Steve/NNP
+                                        num:2011-05-25/CD
+                                        nn:Electronics/NNP
+                                        nn:Weekly/NNP]]
+                            advmod:www.electronicsweekly/RB]]
+20	[htm/NN]
+21	[based/VBN
+                     csubjpass:[lets/VBZ
+                                nsubj:[computer/NN nn:Dongle/NNP]
+                                ccomp:[discover/VBP
+                                       nsubj:kids/NNS
+                                       dobj:programming/NN
+                                       prep:[on/IN
+                                             pobj:[design/NN
+                                                   det:a/DT
+                                                   nn:TV/NN
+                                                   num:2011-07-11/CD
+                                                   nn:Bush/NNP
+                                                   nn:Steve/NNP
+                                                   num:2011-05-25/CD
+                                                   nn:Electronics/NNP
+                                                   nn:Weekly/NNP
+                                                   nn:The/NNP]]]]
+                     auxpass:is/VBZ
+                     prep:[around/IN
+                           pobj:[SoC/NNP
+                                 det:a/DT
+                                 nn:Broadcom/NNP
+                                 nn:BCM2835/NNP
+                                 rcmod:[includes/VBZ
+                                        nsubj:which/WDT
+                                        dobj:[processor/NN
+                                              det:an/DT
+                                              nn:ARM1176JZF-S/NN
+                                              num:700/CD
+                                              nn:MHz/NN
+                                              conj:[GPU/NNP nn:VideoCore/NNP num:IV/CD]
+                                              cc:and/CC
+                                              conj:[megabyte/NN
+                                                    num:[128/CD cc:or/CC conj:256/CD]
+                                                    appos:MiB/NN
+                                                    prep:[of/IN pobj:RAM/NNP]]]]]]]
+22	[include/VB
+                     nsubj:[design/NN det:The/DT]
+                     aux:does/VBZ
+                     neg:not/RB
+                     dobj:[disk/NN
+                           det:a/DT
+                           amod:built-in/JJ
+                           amod:hard/JJ
+                           cc:or/CC
+                           conj:[drive/NN amod:solid-state/JJ]
+                           vmod:[relying/VBG
+                                 advmod:instead/RB
+                                 prep:[on/IN
+                                       pobj:[card/NN
+                                             det:a/DT
+                                             nn:SD/NN
+                                             prep:[for/IN
+                                                   pobj:[booting/VBG
+                                                         cc:and/CC
+                                                         conj:long-term/JJ
+                                                         dep:storage/NN]]]]]]]
+23	[intended/VBN
+                     nsubjpass:[board/NN det:This/DT]
+                     auxpass:is/VBZ
+                     xcomp:[run/VB
+                            aux:to/TO
+                            dobj:[systems/NNS nn:Linux/NNP amod:based/VBN amod:operating/VBG]]]
+24	[undertaken/VBN
+                     nsubjpass:[Development/NN prep:[of/IN pobj:[device/NN det:the/DT]]]
+                     auxpass:is/VBZ
+                     prep:[by/IN
+                           pobj:[Foundation/NNP
+                                 det:the/DT
+                                 nn:Raspberry/NN
+                                 nn:Pi/NN
+                                 appos:[organization/NN
+                                        det:a/DT
+                                        amod:charitable/JJ
+                                        vmod:[registered/VBN
+                                              prep:[with/IN
+                                                    pobj:[Commission/NNP det:the/DT nn:Charity/NNP]]
+                                              prep:[for/IN
+                                                    pobj:[England/NNP cc:and/CC conj:Wales/NNP]]]]]]]
+25	[is/VBZ
+                     nsubj:[aim/NN poss:Its/PRP$]
+                     dep:[promote/VB
+                          aux:to/TO
+                          dobj:[study/NN
+                                det:the/DT
+                                prep:[of/IN
+                                      pobj:[science/NN
+                                            nn:computer/NN
+                                            cc:and/CC
+                                            conj:[topics/NNS amod:related/JJ]]]]
+                          prep:[at/IN advmod:especially/RB pobj:[level/NN nn:school/NN]]
+                          cc:and/CC
+                          conj:[put/VB
+                                aux:to/TO
+                                dobj:[fun/NN det:the/DT]
+                                advmod:back/RB
+                                prep:[into/IN pcomp:[learning/VBG dobj:computing/NN]]]]]
+26	[http/NN dep:www.raspberrypi/NNS]
+27	[org/NN]
+28	[http/NN
+                     nn:Raspberry/NN
+                     nn:Pi/NN
+                     nn:Foundation/NNP
+                     nn:Raspberry/NNP
+                     nn:Pi/NNP
+                     nn:Foundation/NNP
+                     num:2011-07-02/CD
+                     dep:www.raspberrypi/NNS]
+29	[org/NN]
+30	[Foundation/NNP
+                     nn:Raspberry/NN
+                     nn:Pi/NN
+                     nn:Foundation/NNP
+                     nn:Raspberry/NNP
+                     nn:Pi/NNP
+                     num:2011-07-02/CD
+                     rcmod:[promoting/VBG
+                            nsubj:[Foundation/NNP det:The/DT nn:Raspberry/NN nn:Pi/NN]
+                            aux:will/MD
+                            aux:be/VB
+                            dobj:[learning/VBG
+                                  prep:[in/IN
+                                        advmod:mainly/RB
+                                        pobj:[language/NN
+                                              det:the/DT
+                                              nn:Python/NNP
+                                              nn:programming/NN]]
+                                  conj:[http/NN dep:www.raspberrypi/NNS]]]]
+31	[#comment/VBP nsubj:org/faqs/NNS dobj:-132/CD]
+32	[FAQs/NNS
+                     dep:[July/NNP
+                          nn:Raspberry/NNP
+                          nn:Pi/NNP
+                          num:26/CD
+                          dep:[December/NNP
+                               num:2011/CD
+                               num:12/CD
+                               appos:[Upton/NNP num:2011/CD]
+                               appos:[http/NNP nn:Eben/NNP]]]
+                     dep:www.raspberrypi/NNS]
+33	[#comment/VBP nsubj:org/faqs/NNS dobj:-132/CD]
+34	[FAQs/NNS
+                     dep:[July/NNP
+                          nn:Raspberry/NNP
+                          nn:Pi/NNP
+                          num:26/CD
+                          dep:[December/NNP
+                               num:2011/CD
+                               num:12/CD
+                               appos:[Upton/NNP num:2011/CD]
+                               appos:[http/NNP nn:Eben/NNP]]]
+                     dep:www.raspberrypi/NNS]
+35	[#comment/VBP nsubj:org/faqs/NNS dobj:-1632/CD]
+36	[FAQs/NNS
+                     dep:[August/NNP
+                          nn:Raspberry/NNP
+                          nn:Pi/NNP
+                          num:29/CD
+                          dep:[December/NNP
+                               num:2011/CD
+                               num:12/CD
+                               appos:[Upton/NNP num:2011/CD]
+                               appos:[http/NNP nn:Liz/NNP]]]
+                     dep:www.raspberrypi/NNS]
+37	[#comment/VBP nsubj:org/faqs/NNS dobj:-1632/CD]
+38	[FAQs/NNS
+                     dep:[August/NNP
+                          nn:Raspberry/NNP
+                          nn:Pi/NNP
+                          num:29/CD
+                          appos:[December/NNP
+                                 num:2011/CD
+                                 num:12/CD
+                                 appos:[Upton/NNP num:2011/CD]
+                                 appos:Liz/NNP
+                                 cc:but/CC
+                                 conj:[support/VBP
+                                       nsubj:they/PRP
+                                       advmod:also/RB
+                                       dobj:[BASIC/NNP
+                                             nn:BBC/NNP
+                                             appos:http/NN
+                                             dep:www.next-gen.biz/features/david-braben-interview/NN]]]]]
+39	[Braben/NNP
+                     nn:David/NNP
+                     prep:[on/IN
+                           pobj:[November/NNP
+                                 nn:Raspberry/NNP
+                                 nn:Pi/NNP
+                                 nn:Edge/NNP
+                                 num:25/CD
+                                 appos:[December/NNP num:2011/CD num:08/CD]
+                                 appos:[http/NN num:2011/CD]]]
+                     dep:www.next-gen.biz/features/david-braben-interview/NN]
+40	[Braben/NNP
+                     nn:David/NNP
+                     prep:[on/IN
+                           pobj:[November/NNP
+                                 nn:Raspberry/NNP
+                                 nn:Pi/NNP
+                                 nn:Edge/NNP
+                                 num:25/CD
+                                 appos:[December/NNP num:2011/CD num:08/CD]
+                                 appos:[C/NN num:2011/CD cc:and/CC conj:Perl/NN]]]]
+41	[available/JJ
+                     nsubj:[languages/NNS
+                            amod:Many/JJ
+                            amod:other/JJ
+                            rcmod:[have/VBP
+                                   nsubj:that/WDT
+                                   dobj:[support/NN
+                                         prep:[for/IN pobj:[Linux/NNP cc:and/CC conj:ARM/NNP]]]]]
+                     aux:will/MD
+                     cop:be/VB]
+42	[based/VBN
+                     prep:[In/IN pobj:2006/CD]
+                     nsubjpass:[concepts/NNS
+                                advmod:early/RB
+                                prep:[of/IN pobj:[Pi/NN det:the/DT nn:Raspberry/NN]]]
+                     auxpass:were/VBD
+                     prep:[on/IN pobj:[microcontroller/NN det:the/DT nn:Atmel/NNP nn:ATmega644/NN]]]
+43	[available/JJ
+                     nsubj:[schematics/NNS poss:Its/PRP$ cc:and/CC conj:[layout/NN nn:PCB/NN]]
+                     cop:are/VBP
+                     prep:[for/IN pobj:[download/NN amod:public/JJ]]]
+44	[ubergizmo.com/2011/10/build-raspberry-pi-minicomputer//NN]
+45	[ubergizmo.com/2011/10/build-raspberry-pi-minicomputer//NN]
+46	[Build/VB
+                     ccomp:[assembled/VBD
+                            nsubj:[October/NNP
+                                   poss:your/PRP$
+                                   amod:own/JJ
+                                   nn:prototype/NN
+                                   nn:Raspberry/NN
+                                   nn:Pi/NN
+                                   nn:minicomputer/NN
+                                   nn:ubergizmo/NN
+                                   num:24/CD
+                                   appos:[November/NNP num:2011/CD num:02/CD]
+                                   appos:[Wong/NNP num:2011/CD]
+                                   appos:[Upton/NNP nn:George/NNP nn:Trustee/NNP nn:Eben/NNP]]
+                            dobj:[group/NN
+                                  det:a/DT
+                                  prep:[of/IN
+                                        pobj:[teachers/NNS
+                                              conj:academics/NNS
+                                              cc:and/CC
+                                              conj:[enthusiasts/NNS nn:computer/NN]]]]
+                            vmod:[devise/VB
+                                  aux:to/TO
+                                  dobj:[computer/NN det:a/DT]
+                                  vmod:[inspire/VB aux:to/TO dobj:children/NNS]]]]
+47	[http/NN
+                     dep:www.guardian.co.uk/education/2012/jan/09/raspberry-pi-computer-revolutionise-computing-schools/NNS]
+48	[device/NN
+                     nn:newsfeed/NN
+                     amod:=/JJ
+                     amod:true/JJ
+                     nn:Raspberry/NN
+                     nn:Pi/NN
+                     vmod:[will/MD
+                           dep:[computing/NN
+                                nn:reboot/NN
+                                prep:[in/IN
+                                      pobj:[schools/NNS
+                                            possessive:'/POS
+                                            dep:[January/NNP
+                                                 det:The/DT
+                                                 nn:Guardian/NNP
+                                                 num:09/CD
+                                                 appos:[January/NNP num:2012/CD num:20/CD]
+                                                 appos:[Moorhead/NNP num:2012/CD]
+                                                 appos:[http/NN nn:Joanna/NNP]]]]
+                                dep:www.guardian.co.uk/education/2012/jan/09/raspberry-pi-computer-revolutionise-computing-schools/NNS]]]
+49	[device/NN
+                     nn:newsfeed/NN
+                     amod:=/JJ
+                     amod:true/JJ
+                     nn:Raspberry/NN
+                     nn:Pi/NN
+                     dep:[will/MD
+                          dep:[computing/NN
+                               nn:reboot/NN
+                               prep:[in/IN
+                                     pobj:[schools/NNS
+                                           possessive:'/POS
+                                           rcmod:[founded/VBN
+                                                  nsubjpass:[January/NNP
+                                                             det:The/DT
+                                                             nn:Guardian/NNP
+                                                             num:09/CD
+                                                             appos:[January/NNP
+                                                                    num:2012/CD
+                                                                    num:20/CD]
+                                                             appos:[Moorhead/NNP num:2012/CD]
+                                                             appos:[Joanna/NNP
+                                                                    prep:[In/IN
+                                                                          pobj:[May/NNP
+                                                                                num:2009/CD]]]
+                                                             appos:[Foundation/NNP
+                                                                    det:the/DT
+                                                                    nn:Raspberry/NNP
+                                                                    nn:Pi/NNP]]
+                                                  auxpass:was/VBD
+                                                  prep:[in/IN
+                                                        pobj:[Cambridgeshire/NNP
+                                                              nn:Caldecote/NNP
+                                                              nn:_/NNP
+                                                              nn:South/NNP
+                                                              appos:[UK/NNP
+                                                                     prep:[as/IN
+                                                                           pobj:[charity/NN
+                                                                                 det:a/DT
+                                                                                 amod:registered/VBN
+                                                                                 rcmod:[regulated/VBN
+                                                                                        nsubjpass:that/WDT
+                                                                                        auxpass:is/VBZ
+                                                                                        prep:[by/IN
+                                                                                              pobj:[Commission/NNP
+                                                                                                    det:the/DT
+                                                                                                    nn:Charity/NNP
+                                                                                                    prep:[for/IN
+                                                                                                          pobj:[England/NNP
+                                                                                                                cc:and/CC
+                                                                                                                conj:Wales/NNP]]]]]]]]]]]]]]]]
+50	[http/NN
+                     dep:www.charity-commission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?Registered/JJ]
+51	[1129409/CD
+                     dep:CharityNumber/NN
+                     dep:=/JJ
+                     dep:[1129409/CD cc:&/CC conj:SubsidiaryNumber/NNP]
+                     dep:=/JJ
+                     number:0/CD
+                     dep:[Commission/NNP
+                          nn:Raspberry/NN
+                          nn:Pi/NN
+                          nn:Foundation/NNP
+                          nn:Charity/NNP
+                          prep:[for/IN
+                                pobj:[England/NNP
+                                      cc:and/CC
+                                      conj:[http/NN nn:Wales/NNP num:2011-06-06/CD]]]]
+                     dep:www.charity-commission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?Registered/JJ]
+52	[mounted/VBN
+                     nsubjpass:[1129409/CD
+                                dep:CharityNumber/NN
+                                dep:=/JJ
+                                dep:[1129409/CD cc:&/CC conj:SubsidiaryNumber/NNP]
+                                dep:=/JJ
+                                number:0/CD
+                                dep:[version/NN
+                                     dep:[Commission/NNP
+                                          nn:Raspberry/NN
+                                          nn:Pi/NN
+                                          nn:Foundation/NNP
+                                          nn:Charity/NNP
+                                          prep:[for/IN pobj:[England/NNP cc:and/CC conj:Wales/NNP]]]
+                                     num:2011-06-06/CD
+                                     det:The/DT
+                                     amod:first/JJ
+                                     nn:ARM/NN
+                                     nn:prototype/NN
+                                     prep:[of/IN pobj:[computer/NN det:the/DT]]]]
+                     auxpass:was/VBD
+                     prep:[in/IN
+                           pobj:[package/NN
+                                 det:a/DT
+                                 dep:[size/NN
+                                      det:the/DT
+                                      amod:same/JJ
+                                      prep:[as/IN
+                                            pobj:[stick/NN det:a/DT amod:USB/JJ nn:memory/NN]]]]]]
+53	[had/VBD
+                     nsubj:It/PRP
+                     dobj:[port/NN det:a/DT amod:USB/JJ]
+                     prep:[on/IN pobj:[end/NN num:one/CD]]
+                     cc:and/CC
+                     conj:[port/NN det:a/DT nn:HDMI/NN prep:[on/IN pobj:[other/JJ det:the/DT]]]]
+54	[manufactured/VBN
+                     prep:[In/IN pobj:[August/NNP num:2011/CD]]
+                     nsubjpass:[boards/NNS num:fifty/CD nn:Alpha/NN]
+                     auxpass:were/VBD]
+55	[identical/JJ
+                     nsubj:[boards/NNS det:These/DT]
+                     cop:were/VBD
+                     advmod:functionally/RB
+                     prep:[to/TO pobj:[B/NN det:the/DT amod:planned/VBN nn:model/NN appos:http/NN]]
+                     dep:www.geek/NN]
+56	[com/articles/chips/NNS
+                     dep:raspberry-pi-25-pc-goes-into-alpha-production-20110728/NN]
+57	[com/NN]
+58	[http/NN num:2011-08-01/CD dep:www.geek/NN]
+59	[com/articles/chips/NNS
+                     dep:raspberry-pi-25-pc-goes-into-alpha-production-20110728/NN]
+60	[com/NN]
+61	[accommodate/VB
+                     nsubj:2011-08-01/CD
+                     dep:[larger/JJR advmod:only/RB]
+                     aux:to/TO
+                     dobj:[headers/NNS nn:debug/NN]]
+62	[showed/VBD
+                     nsubj:[Demos/NNS prep:[of/IN pobj:[board/NN det:the/DT]]]
+                     dobj:[it/PRP
+                           vmod:[running/VBG
+                                 dobj:[desktop/NN
+                                       det:the/DT
+                                       nn:LXDE/NN
+                                       prep:[on/IN pobj:Debian/NNP]
+                                       dep:[Quake/NN
+                                            num:3/CD
+                                            prep:[at/IN pobj:1080p/CD]
+                                            appos:http/NN]
+                                       dep:www.youtube/NN]]]]
+63	[com/watch/NN]
+64	[http/NN
+                     dep:v/LS
+                     dep:=/SYM
+                     nn:[e_mDuJuvZjI/NNP cc:&/CC conj:list/NN]
+                     dep:=/JJ
+                     nn:[UUhmozgJ0cqX8Gx7676ZQ4ig/NN cc:&/CC conj:feature/NN]
+                     dep:=/JJ
+                     nn:plcp/NN
+                     nn:Raspberry/NN
+                     nn:Pi/NN
+                     nn:Youtube/NNP
+                     nn:Channel/NNP
+                     num:2011-08-28/CD
+                     dep:www.youtube/NN]
+65	[com/watch/NN]
+66	[v/LS
+                     dep:[=/SYM
+                          dep:[e_mDuJuvZjI/NNP
+                               cc:&/CC
+                               conj:list/NN
+                               amod:[=/JJ
+                                     dep:[UUhmozgJ0cqX8Gx7676ZQ4ig/NN
+                                          cc:&/CC
+                                          conj:feature/NN
+                                          dep:[=/JJ
+                                               dobj:[Channel/NNP
+                                                     nn:plcp/NN
+                                                     nn:Raspberry/NN
+                                                     nn:Pi/NN
+                                                     nn:Youtube/NNP
+                                                     num:2011-08-28/CD
+                                                     cc:and/CC
+                                                     conj:[H./NN amod:Full/JJ nn:HD/NN num:264/CD]]]]]]]]
+67	[video/NN prep:[over/IN pobj:HDMI/NN]]
+68	[http/NN dep:www.youtube/NN]
+69	[com/watch/NN]
+70	[v/LS
+                     dep:[=/JJ
+                          dep:[demo/NN
+                               nn:TgR74Kp6Ws4/NN
+                               amod:Full/JJ
+                               nn:HD/NN
+                               nn:video/NN
+                               prep:[at/IN
+                                     pobj:[http/NN
+                                           nn:TransferSummit/NNP
+                                           nn:Oxford/NNP
+                                           num:2011-09-12/CD]]]
+                          dep:www.youtube/NN]]
+71	[com/watch/NN]
+72	[v/LS
+                     dep:[=/JJ
+                          dobj:[demo/NN
+                                nn:TgR74Kp6Ws4/NN
+                                amod:Full/JJ
+                                nn:HD/NN
+                                nn:video/NN
+                                vmod:[selected/VBN
+                                      prep:[at/IN pobj:[Oxford/NNP nn:TransferSummit/NNP]]
+                                      advmod:[2011-09-12/CD
+                                              prep:[In/IN pobj:[October/NNP num:2011/CD]]]
+                                      nsubjpass:[logo/NN det:the/DT]
+                                      auxpass:was/VBD
+                                      prep:[from/IN
+                                            pobj:[number/NN
+                                                  det:a/DT
+                                                  vmod:[submitted/VBN
+                                                        prep:[by/IN
+                                                              pobj:[members/NNS
+                                                                    prep:[of/IN
+                                                                          pobj:[community/NN
+                                                                                det:the/DT]]]]]]]]]]]
+73	[drawn/VBN
+                     nsubjpass:[shortlist/NN det:A/DT prep:[of/IN pobj:six/CD]]
+                     auxpass:was/VBD
+                     prt:up/RP
+                     prep:[with/IN
+                           pobj:[the/DT
+                                 amod:[final/JJ
+                                       dep:[judging/VBG
+                                            xcomp:[taking/VBG dobj:[days/NNS amod:several/JJ]]]]]]]
+74	[based/VBN
+                     nsubjpass:[design/NN det:The/DT amod:chosen/VBN]
+                     auxpass:was/VBD
+                     prep:[on/IN pobj:[buckyball/NN det:a/DT]]]
+75	[http/NN dep:www.geek/NN]
+76	[com/articles/chips/NNS
+                     dep:raspberry-pi-selects-a-very-clever-logo-20111010/JJ]
+77	[com/NN]
+78	[October/NNP
+                     num:11/CD
+                     conj:[Humphries/NNP num:2011/CD]
+                     appos:[http/NN nn:Matthew/NNP]
+                     dep:www.geek/NN]
+79	[com/articles/chips/NNS
+                     dep:raspberry-pi-selects-a-very-clever-logo-20111010/JJ]
+80	[com/NN]
+81	[worked/VBN
+                     dep:[October/NNP
+                          num:11/CD
+                          appos:[Humphries/NNP num:2011/CD]
+                          appos:[Matthew/NNP
+                                 prep:[During/IN pobj:[month/NN det:the/DT amod:same/JJ]]]]
+                     nsubjpass:[version/NN
+                                det:a/DT
+                                nn:development/NN
+                                prep:[of/IN pobj:[OS/NNP nn:RISC/NNP nn:OSRISC/NNP num:5/CD]]]
+                     aux:was/VBD
+                     auxpass:being/VBG
+                     prep:[on/IN pobj:http/NN]
+                     dep:www.iconbar.com/articles/Newsround/index1271.html/NN]
+82	[Newsround/NNP
+                     dep:[October/NNP
+                          nn:The/NNP
+                          nn:Icon/NNP
+                          nn:Bar/NNP
+                          num:17/CD
+                          appos:[Lee/NNP num:2011/CD]
+                          appos:[http/NN nn:Jeffrey/NNP]]
+                     dep:www.iconbar.com/articles/Newsround/index1271.html/NN]
+83	[Newsround/NNP
+                     dep:[October/NNP
+                          nn:The/NNP
+                          nn:Icon/NNP
+                          nn:Bar/NNP
+                          num:17/CD
+                          appos:[Lee/NNP num:2011/CD]
+                          appos:Jeffrey/NNP
+                          cc:and/CC
+                          conj:[demonstrated/VBD prep:[in/IN pobj:public/NN]]]]
+84	[http/NN dep:www.osnews.com/story/25276/Raspberry_Pi_To_Embrace_RISC_OS/NN]
+85	[Pi/NN
+                     nn:Raspberry/NN
+                     vmod:[Embrace/VB
+                           aux:To/TO
+                           dep:[October/NNP
+                                nn:RISC/NNP
+                                nn:OS/NNP
+                                nn:OSNews/NNP
+                                num:31/CD
+                                appos:[November/NNP num:2011/CD num:01/CD]
+                                appos:[Holwerda/NNP num:2011/CD]
+                                appos:[http/NNP nn:Thom/NNP]]
+                           dobj:www.osnews.com/story/25276/Raspberry_Pi_To_Embrace_RISC_OS/NN]]
+86	[Pi/NN
+                     nn:Raspberry/NN
+                     vmod:[Embrace/VB
+                           aux:To/TO
+                           dobj:[October/NNP
+                                 nn:RISC/NNP
+                                 nn:OS/NNP
+                                 nn:OSNews/NNP
+                                 num:31/CD
+                                 appos:[November/NNP num:2011/CD num:01/CD]
+                                 appos:[Holwerda/NNP num:2011/CD]
+                                 dep:[assembled/VBN
+                                      dep:Thom/NNP
+                                      dep:[magazine/NN
+                                           det:The/DT
+                                           nn:London/NNP
+                                           nn:show/NN
+                                           num:2011/CD
+                                           nn:Archive/NNP
+                                           dep:[December/NNP
+                                                dep:[January/NNP
+                                                     num:2011/CD
+                                                     num:19/CD
+                                                     appos:[Dewhurst/NNP num:2012/CD]
+                                                     appos:[Christopher/NNP
+                                                            num:[3/CD num:[3/CD number:23/CD]]]
+                                                     dep:[magazine/NN
+                                                          det:The/DT
+                                                          nn:London/NNP
+                                                          nn:show/NN
+                                                          num:2011/CD
+                                                          nn:Archive/NNP]]]]
+                                      nsubjpass:[December/NNP
+                                                 dep:[January/NNP
+                                                      num:2011/CD
+                                                      num:19/CD
+                                                      appos:[Dewhurst/NNP num:2012/CD]
+                                                      appos:[Christopher/NNP
+                                                             num:[3/CD number:23/CD]
+                                                             num:3/CD]
+                                                      prep:[In/IN pobj:[December/NNP num:2011/CD]]]
+                                                 appos:[boards/NNS
+                                                        num:[hundred/CD number:one/CD]
+                                                        nn:model/NN
+                                                        nn:B/NN
+                                                        nn:Beta/NN]]
+                                      auxpass:were/VBD
+                                      cc:and/CC
+                                      conj:tested/VBN]]]]
+87	[same/JJ
+                     dep:[Blog/NN nn:Raspberry/NN nn:Pi/NN]
+                     nsubj:[layout/NN
+                            det:The/DT
+                            nn:component/NN
+                            prep:[of/IN pobj:[boards/NNS det:the/DT nn:Beta/NN]]]
+                     cop:is/VBZ
+                     det:the/DT
+                     prep:[as/IN pobj:[boards/NNS nn:production/NN]]]
+88	[discovered/VBN
+                     nsubjpass:[error/NN nn:[PCB/NN det:A/DT amod:single/JJ] amod:routing/VBG]
+                     auxpass:was/VBD
+                     prep:[in/IN pobj:[design/NN det:the/DT nn:board/NN]]
+                     cc:and/CC
+                     conj:[fixed/VBN
+                           prep:[for/IN pobj:[run/NN det:the/DT amod:first/JJ nn:production/NN]]]]
+89	[Blog/NN
+                     nn:Raspberry/NN
+                     nn:Pi/NN
+                     dep:[demonstrated/VBN
+                          nsubjpass:[boards/NNS det:The/DT nn:Beta/NN]
+                          auxpass:were/VBD
+                          xcomp:[booting/VBG dobj:Linux/NNP]
+                          xcomp:[playing/VBG
+                                 dobj:[trailer/NN det:a/DT amod:1080p/JJ nn:movie/NN]
+                                 cc:and/CC
+                                 conj:[benchmark/NN
+                                       det:the/DT
+                                       nn:Rightware/NNP
+                                       nn:Samurai/NNP
+                                       nn:OpenGL/NNP
+                                       nn:ES/NN]]]]
+90	[Blog/NN
+                     nn:Raspberry/NN
+                     nn:Pi/NN
+                     prep:[During/IN
+                           pobj:[week/NN det:the/DT amod:first/JJ prep:[of/IN pobj:2012/CD]]]
+                     rcmod:[put/VBN
+                            nsubjpass:[boards/NNS det:the/DT amod:first/JJ num:10/CD]
+                            auxpass:were/VBD
+                            prt:up/RP
+                            prep:[for/IN pobj:[auction/NN prep:[on/IN pobj:eBay/NNP]]]]]
+91	[http/NN dep:www.theregister.co.uk/2012/01/03/raspberry_pi_auction//NN]
+92	[computer/NN
+                     det:That/DT
+                     amod:Brit-built/JJ
+                     num:[22/CD number:#/#]
+                     dep:[Yours/NNP
+                          prep:[for/IN
+                                pobj:[1,900/CD
+                                      quantmod:just/RB
+                                      number:#/#
+                                      cc:or/CC
+                                      conj:more/JJR
+                                      dep:[January/NNP
+                                           det:The/DT
+                                           nn:Register/NNP
+                                           num:03/CD
+                                           appos:[January/NNP num:2012/CD num:10/CD]
+                                           appos:[Williams/NNP num:2012/CD]
+                                           appos:[http/NN nn:Chris/NNP]]]]]
+                     dep:www.theregister.co.uk/2012/01/03/raspberry_pi_auction//NN]
+93	[computer/NN
+                     det:That/DT
+                     amod:Brit-built/JJ
+                     num:[22/CD number:#/#]
+                     dep:[Yours/NNP
+                          prep:[for/IN
+                                pobj:[1,900/CD
+                                      quantmod:just/RB
+                                      number:#/#
+                                      cc:or/CC
+                                      conj:more/JJR
+                                      dep:[January/NNP
+                                           det:The/DT
+                                           nn:Register/NNP
+                                           num:03/CD
+                                           appos:[January/NNP num:2012/CD num:10/CD]
+                                           appos:[Williams/NNP num:2012/CD]]
+                                      conj:[bought/VBN
+                                            nsubjpass:[Chris/NNP num:One/CD]
+                                            auxpass:was/VBD
+                                            advmod:anonymously/RB]]]
+                          cc:and/CC
+                          conj:[donated/VBN prep:[to/TO pobj:[museum/NN det:the/DT]]]
+                          prep:[at/IN
+                                pobj:[Centre/NNP
+                                      det:The/DT
+                                      prep:[for/IN pobj:[History/NN nn:Computing/NNP]]]]
+                          prep:[in/IN pobj:[Suffolk/NNP appos:England/NNP]]]]
+94	[http/NN
+                     dep:www.techweekeurope.co.uk/news/raspberry-pi-goes-into-production-53652/NN]
+95	[Goes/VBZ
+                     nsubj:[Pi/NN nn:Raspberry/NN]
+                     dobj:[Into/NNP
+                           dep:[January/NNP
+                                nn:Production/NNP
+                                nn:TechWeekEurope/NNP
+                                nn:UK/NNP
+                                num:11/CD
+                                appos:[January/NNP num:2012/CD num:11/CD]
+                                appos:[Cheerin/NNP num:2012/CD]
+                                appos:[http/NNP nn:Iris/NNP]]
+                           dep:www.techweekeurope.co.uk/news/raspberry-pi-goes-into-production-53652/NN]]
+96	[Goes/VBZ
+                     nsubj:[Pi/NN nn:Raspberry/NN]
+                     dobj:[Into/NNP
+                           rcmod:[raised/VBD
+                                  nsubj:[January/NNP
+                                         nn:Production/NNP
+                                         nn:TechWeekEurope/NNP
+                                         nn:UK/NNP
+                                         num:11/CD
+                                         appos:[January/NNP num:2012/CD num:11/CD]
+                                         appos:[Cheerin/NNP num:2012/CD]
+                                         appos:[boards/NNS
+                                                nn:Iris/NNP
+                                                det:The/DT
+                                                num:ten/CD
+                                                prep:[with/IN
+                                                      pobj:[price/NN
+                                                            det:a/DT
+                                                            amod:total/JJ
+                                                            amod:retail/JJ
+                                                            prep:[of/IN pobj:[220/CD dep:#/#]]]]
+                                                advmod:together/RB]]
+                                  prep:[over/IN pobj:[16,000/CD number:#/#]]]]
+                     prep:[with/IN
+                           pobj:[last/JJ
+                                 det:the/DT
+                                 vmod:[auctioned/VBN
+                                       aux:to/TO
+                                       auxpass:be/VB
+                                       parataxis:[serial/JJ
+                                                  dep:[number/NN
+                                                       num:[01/CD dep:#/#]
+                                                       vmod:[raising/VBG dobj:[3,500/CD dep:#/#]]]]]]]]
+97	[manufactured/VBN
+                     nsubjpass:[batch/NN
+                                det:The/DT
+                                amod:first/JJ
+                                prep:[of/IN pobj:[boards/NNS num:10,000/CD]]]
+                     auxpass:were/VBD
+                     prep:[in/IN pobj:[http/NN nn:Taiwan/NNP]]
+                     dep:www.tax-news.com/news/Raspberry_Pi_Balks_At_UK_Tax_Regime/NN]
+98	[53494.html/NN]
+99	[com/NN]
+100	[January/NNP
+                     num:17/CD
+                     dep:[January/NNP num:2012/CD num:20/CD]
+                     dep:[Lee/NNP num:2012/CD]
+                     appos:[http/NNP nn:Robert/NNP]
+                     dep:www.tax-news.com/news/Raspberry_Pi_Balks_At_UK_Tax_Regime/NN]
+101	[53494.html/NN]
+102	[com/NN]
+103	[January/NNP
+                     num:17/CD
+                     dep:[January/NNP num:2012/CD num:20/CD]
+                     dep:[Lee/NNP num:2012/CD]
+                     conj:Robert/NNP
+                     cc:and/CC
+                     conj:China/NNP
+                     conj:http/NN
+                     dep:www.civilsociety/NN]
+104	[co.uk/NN
+                     dep:finance/news/content/JJ
+                     dep:[computing_charity_manufacturing_product_abroad/NN
+                          amod:11318/uk/JJ
+                          nn:_/NN]]
+105	[opts/NNS
+                     nn:UK/NNP
+                     amod:computing/VBG
+                     nn:charity/NN
+                     vmod:[manufacture/VB
+                           aux:to/TO
+                           dobj:product/NN
+                           advmod:[abroad/RB
+                                   pobj:[January/NNP
+                                         num:20/CD
+                                         conj:[Weakley/NNP num:2012/CD]
+                                         appos:[http/NN
+                                                nn:Kirsty/NNP
+                                                nn:Civil/NNP
+                                                nn:Society/NNP
+                                                nn:Media/NNP]]]]
+                     dep:www.civilsociety/NN]
+106	[co.uk/NN
+                     dep:finance/news/content/JJ
+                     dep:[computing_charity_manufacturing_product_abroad/NN
+                          amod:11318/uk/JJ
+                          nn:_/NN]]
+107	[opts/NNS
+                     nn:UK/NNP
+                     amod:computing/VBG
+                     nn:charity/NN
+                     vmod:[manufacture/VB
+                           aux:to/TO
+                           dobj:product/NN
+                           prep:[abroad/RB
+                                 pobj:[January/NNP
+                                       num:20/CD
+                                       conj:[Weakley/NNP num:2012/CD]
+                                       dep:[Media/NNP
+                                            nn:Kirsty/NNP
+                                            nn:Civil/NNP
+                                            nn:Society/NNP
+                                            cc:[rather/RB mwe:than/IN]
+                                            conj:[in/IN pobj:[UK/NNP det:the/DT]]]]]]]
+108	[is/VBZ
+                     nsubj:This/DT
+                     advcl:[payable/JJ
+                            mark:because/IN
+                            nsubj:[duty/NN nn:import/NN]
+                            cop:is/VBZ
+                            prep:[on/IN pobj:[components/NNS amod:individual/JJ]]
+                            cc:but/CC
+                            conj:[on/IN neg:not/RB pobj:[products/NNS amod:finished/VBN]]]]
+109	[quoted/VBD
+                     nsubj:[manufacturers/NNS amod:Chinese/JJ]
+                     advmod:also/RB
+                     dobj:[time/NN det:a/DT amod:lead/JJ prep:[of/IN pobj:[weeks/NNS num:4/CD]]]
+                     prep:[compared/VBN
+                           pcomp:[to/TO
+                                  pobj:[weeks/NNS num:12/CD prep:[in/IN pobj:[UK/NNP det:the/DT]]]]]]
+110	[reinvested/VBN
+                     nsubjpass:Savings/NNS
+                     aux:can/MD
+                     auxpass:be/VB
+                     prep:[in/IN
+                           pobj:[research/NN
+                                 poss:[Foundation/NNP det:the/DT possessive:'s/POS]
+                                 cc:and/CC
+                                 conj:[activities/NNS nn:development/NN]]]]
+111	[plans/VBZ
+                     nsubj:[foundation/NN det:The/DT]
+                     xcomp:[release/VB
+                            aux:to/TO
+                            dobj:[models/NNS num:two/CD]
+                            prep:[at/IN pobj:launch/NN]]]
+112	[have/VB
+                     nsubj:[A/NNP nn:Model/NNP]
+                     aux:will/MD
+                     dobj:[memory/NN
+                           num:128/CD
+                           nn:MiB/NNP
+                           nn:RAM/NNP
+                           conj:[port/NN num:one/CD amod:USB/JJ]
+                           cc:and/CC
+                           conj:[controller/NN neg:no/DT nn:Ethernet/NN]]
+                     cc:and/CC
+                     conj:[cost/VB
+                           aux:will/MD
+                           dobj:[US$/$ num:25/CD]
+                           advcl:[contain/VB
+                                  mark:while/IN
+                                  nsubj:[B/NN nn:model/NN]
+                                  aux:will/MD
+                                  dobj:[memory/NN num:256/CD nn:MiB/NNP nn:RAM/NNP]]
+                           parataxis:[ports/NNS
+                                      num:two/CD
+                                      amod:USB/JJ
+                                      cc:and/CC
+                                      conj:[controller/NN det:a/DT num:10/100/CD nn:Ethernet/NN]
+                                      cc:and/CC
+                                      conj:[cost/VB aux:will/MD dobj:[US$/$ num:35/CD]]]]]
+113	[connect/VB
+                     advcl:[have/VB
+                            mark:Though/IN
+                            nsubj:[A/NN det:the/DT nn:Model/NNP]
+                            aux:does/VBZ
+                            neg:n't/RB
+                            dobj:[port/NN det:an/DT nn:RJ45/NN nn:Ethernet/NN]]
+                     nsubj:it/PRP
+                     aux:can/MD
+                     prep:[to/TO pobj:[network/NN det:a/DT]]
+                     prep:[by/IN
+                           pcomp:[using/VBG
+                                  ccomp:[supplied/VBD
+                                         nsubj:[user/NN det:a/DT]
+                                         dobj:[Ethernet/NN
+                                               amod:USB/JJ
+                                               cc:or/CC
+                                               conj:[adapter/NN amod:Wi-Fi/JJ]]]]]]
+114	[compatible/JJ
+                     prep:[As/IN
+                           pobj:[typical/JJ prep:[of/IN pobj:[computers/NNS amod:modern/JJ]]]]
+                     nsubj:[keyboard/NN amod:generic/JJ amod:USB/JJ cc:and/CC conj:mice/NNS]
+                     cop:are/VBP
+                     prep:[with/IN pobj:[Pi/NN det:the/DT nn:Raspberry/NN]]]
+115	[use/VB
+                     nsubj:[Pi/NN det:The/DT nn:Raspberry/NN]
+                     aux:will/MD
+                     dobj:[system/NN det:the/DT nn:Linux/NNP nn:operating/NN]]
+116	[planned/VBN
+                     nsubjpass:[GNU/Linux/NN
+                                amod:Debian/JJ
+                                conj:Iceweasel/NNP
+                                conj:[Suite/NNP nn:Calligra/NNP]
+                                cc:and/CC
+                                conj:Python/NNP]
+                     auxpass:are/VBP
+                     xcomp:[bundled/VBN
+                            aux:to/TO
+                            auxpass:be/VB
+                            prep:[with/IN pobj:[Pi/NN det:the/DT nn:Raspberry/NN]]]]
+117	[come/VBN
+                     nsubj:[PI/NN det:The/DT nn:Raspberry/NN]
+                     aux:does/VBZ
+                     neg:not/RB
+                     prep:[with/IN pobj:[clock/NN det:a/DT amod:real-time/JJ]]
+                     advcl:[use/VB
+                            mark:so/IN
+                            nsubj:[OS/NN det:an/DT]
+                            aux:must/MD
+                            dobj:[server/NN det:a/DT nn:network/NN nn:time/NN]]
+                     cc:or/CC
+                     conj:[ask/VB
+                           dobj:[user/NN det:the/DT]
+                           prep:[for/IN
+                                 pobj:[information/NN
+                                       nn:time/NN
+                                       prep:[at/IN pobj:[time/NN nn:boot/NN]]]]
+                           vmod:[get/VB
+                                 aux:to/TO
+                                 dobj:[access/NN
+                                       prep:[to/TO pobj:[time/NN cc:and/CC conj:date/NN]]
+                                       dep:[info/NN
+                                            prep:[for/IN pobj:[time/NN nn:file/NN]]
+                                            cc:and/CC
+                                            conj:[stamping/VBG nn:date/NN]]]]]]
+118	[added/VBN
+                     advmod:However/RB
+                     nsubjpass:[clock/NN
+                                det:a/DT
+                                amod:real/JJ
+                                nn:time/NN
+                                prep:[as/IN mwe:such/JJ pobj:[DS1307/NN det:the/DT]]
+                                prep:[with/IN pobj:[backup/NN nn:battery/NN]]]
+                     aux:can/MD
+                     auxpass:be/VB
+                     advmod:easily/RB
+                     prep:[via/IN pobj:[interface/NN det:the/DT nn:I2C/NN]]]
+119	[received/VBN
+                     prep:[In/IN
+                           pobj:[enquiries/NNS
+                                 det:the/DT
+                                 nn:UK/NNP
+                                 prep:[about/IN pobj:[board/NN det:the/DT]]]]
+                     aux:have/VBP
+                     auxpass:been/VBN
+                     prep:[from/IN pobj:schools/NNS]
+                     prep:[in/IN
+                           pobj:[state/NN
+                                 preconj:both/CC
+                                 det:the/DT
+                                 cc:and/CC
+                                 conj:[sectors/NNS amod:independent/JJ]]]
+                     prep:[with/IN
+                           pobj:[interest/NN
+                                 num:[times/NNS
+                                      quantmod:around/IN
+                                      number:five/CD
+                                      quantmod:as/RB
+                                      quantmod:much/JJ]
+                                 prep:[from/IN
+                                       pobj:[latter/JJ det:the/DT appos:[January/NNP num:2012/CD]]]]]]
+120	[hoped/VBN
+                     nsubjpass:It/PRP
+                     auxpass:is/VBZ
+                     ccomp:[sponsor/VB
+                            mark:that/IN
+                            nsubj:businesses/NNS
+                            aux:will/MD
+                            dobj:[purchases/NNS
+                                  prep:[for/IN pobj:[schools/NNS amod:less/JJR amod:advantaged/JJ]]]]]
+121	[Category/NN
+                     nn:Computing/NNP
+                     nn:Education/NNP
+                     num:2/CD
+                     nn:Raspberry/NN
+                     nn:Pi/NN
+                     dep:[Category/NNP
+                          nn:Educational/NNP
+                          nn:technology/NN
+                          dep:[Category/NNP
+                               nn:Home/NNP
+                               nn:computers/NNS
+                               dep:[computers/NNS
+                                    amod:Single-board/JJ
+                                    appos:[Category/NNP
+                                           dep:[devices/NNS
+                                                amod:Linux-based/JJ
+                                                dep:[de/IN
+                                                     dep:[es/VBZ
+                                                          nsubj:[Pi/NN
+                                                                 nn:Raspberry/NN
+                                                                 nn:Pi/NN
+                                                                 nn:Foundation/NNP
+                                                                 dep:#/#
+                                                                 nn:Raspberry/NN]
+                                                          dep:[fr/NN
+                                                               nn:Raspberry/NN
+                                                               nn:Pi/NN
+                                                               dep:[Pi/NN
+                                                                    nn:Raspberry/NN
+                                                                    dep:[it/PRP
+                                                                         dep:[ru/NN
+                                                                              nn:Raspberry/NN
+                                                                              nn:Pi/NN
+                                                                              dep:[uk/NN
+                                                                                   nn:Raspberry/NN
+                                                                                   nn:Pi/NN
+                                                                                   dep:[references/NNS
+                                                                                        nsubj:[Raspberry/NN
+                                                                                               dep:[Pi/NN
+                                                                                                    dep:[Notes/NNS
+                                                                                                         dep:[A/NNP
+                                                                                                              nn:Model/NNP
+                                                                                                              cc:and/CC
+                                                                                                              conj:[B/NNP
+                                                                                                                    nn:Model/NNP]]]]]
+                                                                                        cop:are/VBP
+                                                                                        amod:cultural/JJ
+                                                                                        dep:http/VBP
+                                                                                        dep:www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html/NN]]]]]]]]]]]]]]
+122	[kid/NN advmod:Psst/RB]
+123	[Williams/NNP
+                     det:The/DT
+                     nn:Register/NNP
+                     amod:28th/JJ
+                     nn:November/NNP
+                     num:2011/CD
+                     amod:24th/JJ
+                     nn:December/NNP
+                     num:2011/CD
+                     appos:[http/NN nn:Chris/NNP]
+                     dep:www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html/NN]
+124	[kid/NN advmod:Psst/RB]
+125	[Williams/NNP
+                     det:The/DT
+                     nn:Register/NNP
+                     amod:28th/JJ
+                     nn:November/NNP
+                     num:2011/CD
+                     amod:24th/JJ
+                     nn:December/NNP
+                     num:2011/CD
+                     appos:[Chris/NNP
+                            prep:[to/TO
+                                  pobj:[models/NNS
+                                        det:the/DT
+                                        amod:original/JJ
+                                        prep:[of/IN
+                                              pobj:[computer/NN
+                                                    det:the/DT
+                                                    amod:British/JJ
+                                                    amod:educational/JJ
+                                                    nn:BBC/NNP
+                                                    nn:Micro/NNP]]]]]
+                     vmod:[developed/VBN
+                           prep:[by/IN
+                                 pobj:[Computers/NNPS
+                                       nn:Acorn/NNP
+                                       rcmod:[developed/VBD
+                                              nsubj:who/WP
+                                              advmod:originally/RB
+                                              dobj:[processors/NNS det:the/DT nn:ARM/NN]]]]]
+                     dep:[architecture/NN
+                          det:the/DT
+                          prep:[of/IN pobj:[Pi/NN det:the/DT nn:Raspberry/NN]]]
+                     cc:and/CC
+                     conj:[OS/NNP
+                           amod:operating/VBG
+                           nn:system/NN
+                           nn:RISC/NNP
+                           rcmod:[able/JJ
+                                  nsubj:which/WDT
+                                  aux:will/MD
+                                  cop:be/VB
+                                  xcomp:[run/VBN aux:to/TO auxpass:be/VB prep:[on/IN pobj:it/PRP]]]]]
+126	[assembled/VBN
+                     nsubjpass:[connector/NN det:The/DT amod:26-pin/JJ nn:GPIO/NNP]
+                     auxpass:is/VBZ
+                     neg:not/RB
+                     prep:[on/IN pobj:[board/NN det:the/DT]]]
+127	[purchase/VB
+                     nsubj:[end-user/NN det:The/DT]
+                     aux:must/MD
+                     cc:and/CC
+                     conj:[solder/VB
+                           dobj:[header/NN det:a/DT nn:13x2/NN nn:pin/NN]
+                           prep:[with/IN pobj:0.1-inch/JJ]]]
+128	[mm/NN num:2.54/CD]
+129	[spacing/NN]
+130	[be/VB
+                     nsubj:[header/NN det:The/DT nn:pin/NN]
+                     aux:can/MD
+                     ccomp:[connector/NN
+                            nsubj:[header/NN
+                                   preconj:either/CC
+                                   det:a/DT
+                                   amod:straight/JJ
+                                   nn:pin/NN
+                                   vmod:[mounted/VBN
+                                         prep:[on/IN
+                                               pobj:[bottom/NN
+                                                     preconj:either/CC
+                                                     det:the/DT
+                                                     cc:or/CC
+                                                     conj:[top/NN det:the/DT]]]]
+                                   dep:[connect/VB
+                                        aux:to/TO
+                                        prep:[to/TO pobj:[daughterboard/NN det:a/DT]]]
+                                   cc:or/CC
+                                   conj:it/PRP]
+                            aux:can/MD
+                            cop:be/VB
+                            det:a/DT
+                            amod:right-angle/JJ
+                            amod:shrouded/VBD
+                            nn:box/NN
+                            prep:[for/IN
+                                  pobj:[use/NN
+                                        prep:[with/IN pobj:[cable/NN det:a/DT nn:ribbon/NN]]]]]]
+131	[supported/VBN
+                     prep:[At/IN pobj:[moment/NN det:the/DT]]
+                     nsubjpass:[OS/NNP nn:RISC/NNP appos:[source/NN amod:shared/VBN]]
+                     auxpass:is/VBZ
+                     neg:not/RB
+                     advmod:yet/RB
+                     advcl:[lacks/VBZ mark:as/IN nsubj:it/PRP dobj:[drivers/NNS amod:essential/JJ]]]
+132	[org/NN]
+133	[,/,]
+134	[smsc.com/NNP]

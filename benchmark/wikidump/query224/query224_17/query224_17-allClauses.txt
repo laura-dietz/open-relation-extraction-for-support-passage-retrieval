@@ -1,0 +1,174 @@
+0	SVA (V: "be stewed", S: Chicken@27, A!: including@38)
+1	
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	SVC (S: type@9, V: "is", C: FAOSTAT@16)	SVC (C: type@9, V: is@5, S: Chicken@4, A?: of@10, A?: in@12)
+29	SVO (V: =@2, S: aspx?PageID@1, O: 569@3)
+30	
+31	SVO (V: =@2, S: aspx?PageID@1, O: 569@3)
+32	SVA (V: "be varying", S: October@2, A!: by@17)
+33	SVC (C: descendant@6, V: is@4, S: chicken@3, A?: of@7, A?: along@11)	SVO (V: raised@17, S: Junglefowl@15, A?: first@16, O: thousands@18, A?: in@22)
+34	SVC (S: J@2, V: "is", C: M@16)	SVC (S: J@2, V: "is", C: al@19)	SVC (S: J@2, V: "is", C: G@5)	SVC (S: J@2, V: "is", C: U@8)	SVC (S: J@2, V: "is", C: B@13)
+35	SVO (V: Reveals@10, S: Identification@4, O: Origin@13)
+36	
+37	SVA (V: depicted@7, S: meat@4, A!: in@8)
+38	SVC (C: one@3, V: was@2, S: Chicken@1, A?: of@4)
+39	SVO (V: believed@4, S: It@1, A?: widely@3, XCOMP: digested@8)
+40	SVA (V: eaten@5, S: It@3, A!: over@6)	SV (V: eaten@28, S: eaten@5)
+41	SVC (C: one@3, V: was@2, S: It@1, A?: of@4)	SVA (V: "be consisting", S: stew@15, A!: usually@16, A?: of@18)	SVA (V: "be cooked", S: onions@22, A!: in@24)
+42	SVA (V: increased@7, S: consumption@2, A!: during@8, A?: to@13)
+43	
+44	
+45	
+46	SVA (V: bred@14, S: varieties@4, A!: for@16, A?: with@20)	SVA (V: "be placed", S: emphasis@22, A!: on@24)	SVA (V: "be produced", S: meat@30, A!: by@32)
+47	SVA (V: "be consumed", S: chicken@6, A!: in@8)	SVC (C: Cornish@12, V: are@11, S: breeds@4)
+48	
+49	
+50	SVA (V: raised@2, S: Chickens@1, A!: specifically@3, A?: for@4)
+51	SVA (V: butchered@9, S: broilers@6, A?: In@1, A?: typically@8, A!: at@10)
+52	SVA (V: butchered@10, S: hybrids@4, A?: for@6, A!: early@12, A?: for@16)
+53	SVO (V: produce@6, S: Capon@1, O: meat@10)
+54	SVO (V: considered@7, S: they@5, A?: For@1, O: delicacy@9)
+55	SVO (V: contains@8, S: thumbChicken@1, O: polyunsaturated@16)
+56	
+57	SVA (V: "be Retrieved", S: Chicken@7, A!: on@2)	SVO (V: includes@9, S: Chicken@7, A?: Retrieved@1, A?: generally@8, O: fat@11)	SVC (S: fat@11, V: "is", C: roosters@18)	SVA (V: "be excluded", S: roosters@18)	SVA (V: concentrated@26, S: it@23, A?: however@22, A?: highly@25, A!: on@27)	SVO (S: its@28, V: "has", O: skin@29)	SVA (V: avoided@34, S: skin@29, A!: necessary@41)	SVC (C: necessary@41, V: is@40, S: intake@37, A?: when@35)
+58	SVA (V: related@5, S: method@2, A?: highly@4, A!: to@6, A?: with@13)	SVA (V: "be related", S: issues@8, A!: to@10)
+59	SVO (V: ate@18, S: people@16, O: chicken@21)	SVO (V: had@28, S: people@16, A?: according@2, O: chance@33)	SV (V: did@42, S: people@40)
+60	SVA (V: found@8, S: associations@5, A?: However@1, A!: in@9)	SVA (V: "be consuming", S: individuals@10, A!: regularly@11, O: chicken@13, A?: with@14)
+61	
+62	
+63	
+64	
+65	
+66	
+67	SVO (V: showed@12, S: study@5, CCOMP: contaminated@31)	SVC (S: half@15, V: "is", C: %@18)	SVA (V: contaminated@31, S: percent@20, A!: with@32)
+68	SVC (S: half@6, V: "is", C: %@9)
+69	
+70	SVA (V: marketed@18, S: chickens@2, A!: as@19)
+71	SVA (V: sold@4, S: chicken@2, A!: as@5)
+72	SVA (V: marketed@5, S: chickens@3, A!: in@6, A?: as@10)
+73	SVC (C: size@5, V: are@2, S: Fryers@1)
+74	SVO (V: reach@13, S: chicken@12, O: size@15, A?: quickly@16)
+75	SVC (V: sold@7, S: chicken@4, ACOMP: whole@8)
+76	SVC (C: larger@3, V: are@2, S: Broilers@1, A?: than@4)
+77	SVO (V: sold@4, S: They@1, A?: typically@3, O: whole@5)
+78	SVC (C: chickens@10, V: are@7, S: Roasters@1, A?: sold@12)	SVC (C: expensive@26, V: are@7, S: Roasters@1, A?: sold@12, A?: typically@24, A?: more@25)	SVA (V: "be sold", S: chickens@10, A!: commonly@11)
+79	SVO (V: called@7, S: chickens@5, XCOMP: stewing@8)	SVA (V: found@16, S: these@11, A?: longer@14, A?: usually@15, A!: commercially@17)
+80	SVO (V: reflect@3, S: names@2, O: method@8)
+81	SV (V: increases@4, S: size@3)	SVO (V: determines@10, S: which@9, CCOMP: enter@15)	SVO (V: enter@15, S: heat@13, O: bird@17, A?: cooked@22)	SV (V: cooked@22, S: it@19)	SVA (V: increases@24, S: volume@7, A?: increases@4, A!: faster@25)	SVO (V: determines@32, S: which@31, CCOMP: enter@37)	SVO (V: enter@37, S: heat@35, O: bird@39)
+82	SVC (C: appropriate@16, V: is@15, S: bird@14)	SVA (V: results@24, S: frying@18, A?: For@1, A!: in@25)	SVA (V: "be undercooked", S: inside@27, A!: ready@34)	SVC (C: ready@34, V: is@33, S: outside@32, A?: when@30)
+83	SVA (V: sold@4, S: Chicken@1, A?: also@3, A!: in@5)
+84	SVO (V: include@3, S: Pieces@1, O: quarters@4)
+85	SVA (V: cut@5, S: chicken@2, A?: typically@4, A!: into@6)
+86	SVO (V: contains@3, S: quarter@2, O: two@4)
+87	SVO (V: contains@4, S: quarter@3, O: thigh@6)	SVO (S: leg@17, V: removed@22, O: contains@4)	SVO (S: leg@17, V: removed@22, O: contains@4)
+88	SV (V: contains@4, S: quarter@3)	SV (V: removed@23, S: breast@16)	SV (V: removed@23, S: portion@20)
+89	SVA (V: sold@4, S: Pieces@1, A!: in@5)
+90	SVO (V: cut@3, S: chicken@2, O: refers@5)	SVA (V: cut@11, S: bird@10, A!: into@12)
+91	
+92	SVO (V: has@11, S: cut@3, CCOMP: cut@17)	SVA (V: cut@17, S: tip@13, A!: before@19)
+93	SVA (V: refers@10, S: Pick@1, A!: to@11)
+94	
+95	SVO (V: sold@5, S: Thighs@1, O: boneless@6)
+96	SVC (C: cheaper@13, V: are@11, S: pieces@10, A?: typically@12, A?: than@14)	SVC (S: breast@19, V: "is", C: wings@21)
+97	SVC (C: available@7, V: are@5, S: livers@2, A?: commonly@6)
+98	
+99	SVO (V: are@10, S: they@9, A?: where@8, A?: in@11, O: countries@7)	SVA (V: cater@18, S: cities@16, A!: to@19)	SVO (V: favor@23, S: groups@21, O: parts@25)
+100	EXISTENTIAL (V: are@2, S: chains@7)	SVA (V: sell@16, S: scale@14, A!: exclusively@17, A?: in@20)	SVC (S: Rooster@30, V: "is", C: Australia@32)	SVC (S: Chicken@36, V: "is", C: Belgium@38)	SVC (S: CFC@41, V: "is", C: Indonesia@43)
+101	SV (V: fried@12, S: Most@1)	SVA (V: served@17, S: Most@1, A!: with@18)	SV (V: breaded@14, S: Most@1)
+102	
+103	SVO (V: cuts@6, S: Department@3, O: ofpoultryin@7)
+104	SVA (V: frozen@5, S: chicken@2, A!: for@6, A?: without@11)
+105	SVC (V: eaten@4, S: Chicken@1, A?: typically@3, ACOMP: cooked@5)	SVO (V: contains@11, S: it@9, A?: when@7, A?: often@10, O: Salmonella@12)
+106	SVA (V: cooked@4, S: Chicken@1, A!: in@5)
+107	SVA (V: made@4, S: It@1, A!: into@5)
+108	EXISTENTIAL (V: is@2, S: variation@4)
+109	SVO (V: include@4, S: methods@3, O: roasting@5)
+110	SVA (V: cooked@6, S: chickens@3, A?: Today@1, A?: frequently@5, A!: by@7)
+111	SVC (C: grilled@5, V: are@2, S: They@1, A?: also@3, A?: often@4, A?: for@6)
+112	SVA (V: come@3, S: Chickens@1, A?: often@2, A!: with@4)	SVO (V: suggest@13, S: roaster@9, O: method@15)	SVA (V: "be based", S: method@15, A!: on@19)
+113	SVC (C: suggestions@6, V: are@4, S: labels@3, A?: only@5)	SVA (V: "be labeled", S: ones@8, A!: for@10)	SVA (V: do@15, S: stew@11, A?: often@12, A!: well@16, A?: cooked@18)
+114	
+115	
+116	SVO (V: include@10, S: cuts@4, O: moniker@12)
+117	SVC (C: misnomer@5, V: is@3, S: This@2)	SVC (C: piece@12, V: is@9, S: it@8, A?: of@13)	SVC (C: removed@23, V: is@9, S: it@8, A?: of@13, A?: with@24)	SVO (V: overlays@17, S: piece@12, O: scapula@19)
+118	SVA (V: cut@4, S: breast@2, A!: from@5, A?: stripped@24)	SVA (V: sold@9, S: breast@2, A?: from@5, A!: as@10, A?: stripped@24)	SVA (V: stripped@24, S: breast@18, A!: from@25, A?: through@28)
+119	SVC (C: sliced@5, V: is@3, S: meat@2, A?: often@4, A?: thinly@6)
+120	SVA (V: marketed@10, S: tenderloin@4, A?: Often@1, A!: separately@11, A?: from@12)	SVC (S: breast@14, V: "is", C: pectoralis@16)
+121	SV (V: be@9, S: tenders@6, A?: In@1)	SV (V: be@9, S: tenderloins@11, A?: In@1)	SVA (V: "be cut", S: tenderloins@11, A!: from@15)
+122	SV (V: called@10, S: strips@5, A?: In@1)
+123	SVC (C: hazardous@4, V: are@3, S: bones@2, A?: to@5, A?: tend@9)	SVO (V: tend@9, S: they@8, XCOMP: break@11)	SVA (V: simmered@22, S: they@19, A!: with@23, A?: for@27)	SVA (V: "be make", S: days@31, O: stock@35)
+124	SVC (C: possible@6, V: is@5, S: it@4, A?: In@1, XCOMP: buy@8)	SVC (C: popular@15, V: are@13, S: they@12, A?: very@14, A?: for@16)	SVO (V: said@23, S: soups@19, XCOMP: healthy@26)
+125	SV (V: removed@16, S: cages@5, A?: In@1)
+126	SVO (V: maintains@3, S: chicken@2, O: quality@5, A?: compared@11)	SVO (S: its@4, V: "has", O: quality@5)	SVA (V: lost@20, S: moisture@18, A!: during@21)
+127	
+128	
+129	EXISTENTIAL (V: is@2, S: change@4)
+130	SVA (V: recommended@18, S: time@10, A?: For@1, A?: however@5, A!: for@19)	SVA (V: months@34, S: time@10, A?: For@1, A?: however@5, A?: for@19, A!: for@35)	SVA (V: months@42, S: time@10, A?: For@1, A?: however@5, A?: for@19, A!: for@43)	SVC (S: chicken@22, V: "is", C: months@25)
+131	SVO (V: cause@5, S: Freezing@1, A?: usually@4, O: changes@7)	SVC (V: become@20, S: bones@13, ACOMP: dark@21)
+132	SVO (V: seeps@7, S: pigment@6, A?: when@5, A?: through@8, A?: into@15, A?: frozen@24, O: results@4)	SV (V: frozen@24, S: meat@22, A?: when@19)	SV (V: thawed@26, S: meat@22, A?: when@19)
+133	SVC (C: safe@3, V: is@2, S: It@1, XCOMP: freeze@5)	SVO (S: its@9, V: "has", O: packaging@11)	SVC (C: permeable@19, V: is@18, S: type@15, A?: however@13, A?: to@20)	SVA (V: diminish@25, S: quality@23, A!: over@26)
+134	SVO (V: recommended@9, S: it@7, A?: Therefore@1, A?: for@3, XCOMP: overwrap@11)
+135	SVO (V: recommended@3, S: It@1, XCOMP: freeze@5)
+136	SVA (V: torn@7, S: package@3, A?: accidentally@5, A!: is@13)	SVA (V: opened@10, S: package@3, A?: accidentally@5, A!: is@13)	SVA (V: is@13, S: food@12, A!: in@14)	SVC (C: safe@22, V: is@20, S: food@19, A?: torn@7, A?: still@21, XCOMP: use@24)	SVA (V: recommended@30, S: it@27, A?: still@29, A!: to@31)	SVO (V: rewrap@34, S: it@27, A?: still@29, A?: to@31, O: it@35)
+137	SVA (V: be@3, S: Chicken@1, A!: from@4)	SVA (V: begin@11, S: they@10, A-: so@8, A!: to@12)	SVO (S: their@15, V: "has", O: juices@16)	SVA (V: drip@19, S: juices@16, A?: begin@11, A!: onto@20)
+138	SVA (V: purchased@6, S: chicken@4, A!: at@7)	SVA (V: refrozen@15, S: it@12, A?: purchased@6, A!: handled@20)	SVA (V: handled@20, S: it@17, A!: properly@21)
+139	SV (V: cooked@4, S: Chicken@1)	SVA (V: reheated@6, S: Chicken@1, A!: from@7)	SVA (V: "be cook", S: it@13)	SVOA (V: take@15, S: it@13, O: one@17, A!: long@23, A?: cook@25)	SV (V: discarded@35, S: wrapping@29)
+140	SVA (V: administered@9, S: chickens@6, A?: In@1, A?: routinely@8, A!: with@10)	SVA (V: in@35, S: chickens@6, A?: In@1, A?: routinely@8, A?: with@10, A!: feces@37)	SVC (S: Roxarsone@14, V: "is", C: compound@20)	SVA (V: decomposes@23, S: compound@20, A?: partially@22, A!: into@24)	SVO (S: their@36, V: "has", O: feces@37)	SVA (V: used@42, S: feces@37, A?: often@41, A!: as@43)
+141	SVO (V: used@4, S: compound@2, XCOMP: control@6)
+142	SVOO (V: reported@7, S: study@4, O: finding@8, IO: Reports@3)	SVO (S: our@14, V: "has", O: samples@15)	SVO (S: our@25, V: "has", O: samples@27)	SVO (V: has@28, S: few@23, O: amount@30)	SVO (V: cause@37, S: amount@30, A?: according@32, O: problems@39, A?: in@40)	SVO (V: ate@44, S: child@42, O: ounces@46, A?: per@50)	SVO (V: in@53, S: child@42, O: ounces@46, A?: per@50, A?: adult@55)	SVO (V: ate@57, S: adult@55, O: 5.5@58)
+143	
+144	SVA (V: "be found", S: amounts@5, A!: in@7)	SVA (V: averaged@10, S: amounts@5, A?: However@2, A!: to@11)	SVA (V: "be set", S: parts@24, A!: by@29)
+145	
+146	
+147	
+148	
+149	
+150	
+151	SVO (V: found@6, S: FDA@4, A?: there@7, XCOMP: impact@12)
+152	
+153	SV (V: es@24, S: Kanaliha@23)	SVC (C: meat@75, V: are@73, S: These@72)	SVC (C: dry@79, V: are@73, S: These@72, A?: relatively@78)
+154	SVC (C: meat@17, V: is@15, S: this@14)	SVC (C: part@22, V: is@15, S: this@14, A?: of@23)	SVC (C: part@42, V: is@39, S: this@38, A?: of@43)
+155	SVA (V: "be shaped", S: drumette@11, A!: like@15)	SVA (V: "be containing", S: drumette@11, O: bones@31)	SVA (V: "be discarded", S: tip@37, A!: sometimes@39)
+156	SVA (V: served@4, S: Wings@1, A?: often@3, A!: as@5)
+157	SVC (C: example@6, V: are@3, S: wing@2)
+158	SVO (V: contain@6, S: These@5, O: meat@9)	SVO (V: eaten@13, S: These@5, O: meat@9, A?: mainly@14, A?: for@15)
+159	SVC (C: fare@12, V: are@10, S: feet@9, A?: considered@2, A?: in@13, A?: in@18)
+160	SVO (V: split@12, S: head@10, O: middle@15)	SV (V: eaten@24, S: brains@19)
+161	SVA (V: served@5, S: This@3, A!: in@6)
+162	SVOC (V: considered@22, S: pieces@16, A?: small@13, A?: often@21, XCOMP: delicacy@26, O: back@6)	SVOC (V: considered@22, S: these@12, A?: small@13, A?: often@21, XCOMP: delicacy@26, O: back@6)
+163	
+164	
+165	
+166	
+167	
+168	
+169	SVC (S: May@1, V: "is", C: buttocks@9)	SVO (S: chicken@7, V: "has", O: buttocks@9)	SVA (V: eaten@17, S: These@14, A?: commonly@16, A!: in@18)	SVA (V: parts@23, S: These@14, A?: commonly@16, A?: in@18, A!: of@24)
+170	SVA (V: used@13, S: this@11, A?: After@4, A!: for@14)
+171	SVC (C: organ@12, V: is@9, S: This@8, A?: of@13)	SVC (C: used@19, V: is@9, S: This@8, A?: of@13, A?: in@20)
+172	SVA (V: produced@5, S: This@3, A!: by@6)	SVA (V: used@13, S: This@3, A?: by@6, A!: in@14)
+173	

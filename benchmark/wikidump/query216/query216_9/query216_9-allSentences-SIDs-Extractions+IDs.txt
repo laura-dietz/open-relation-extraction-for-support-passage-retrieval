@@ -1,0 +1,886 @@
+Travolta yes John Travolta 2.jpg 	0	query216_John_Travolta\S\0
+John Travolta in 2007 John Joseph Travolta yes 1954 2 18 Englewood , New Jersey , U.S. 	1	query216_John_Travolta\S\1
+"2 18 Englewood"	"is in"	"New Jersey"	1954	query216_John_Travolta\P\1-0
+"2 18 Englewood"	"is in"	"U.S."	1954	query216_John_Travolta\P\1-1
+Actor , singer , dancer , producer , writer 1969–present Roman Catholic (until 1975 ) Scientologist ( 1975-present ) Kelly Preston ( 1991–present ) Jett Travolta ( 1992–2009 ) Ella Bleu Travolta ( b . 	2	query216_John_Travolta\S\2
+"Actor"	"is"	"singer present Roman Catholic until 1975 Scientologist 1975-present Kelly Preston 1991 present Jett Travolta 1992 2009 Ella Bleu Travolta b"	2	query216_John_Travolta\P\2-0
+"Actor"	"is"	"dancer present Roman Catholic until 1975 Scientologist 1975-present Kelly Preston 1991 present Jett Travolta 1992 2009 Ella Bleu Travolta b"	2	query216_John_Travolta\P\2-1
+"Actor"	"is"	"producer present Roman Catholic until 1975 Scientologist 1975-present Kelly Preston 1991 present Jett Travolta 1992 2009 Ella Bleu Travolta b"	2	query216_John_Travolta\P\2-2
+"Actor"	"is"	"writer 1969 present Roman Catholic until 1975 Scientologist 1975-present Kelly Preston 1991 present Jett Travolta 1992 2009 Ella Bleu Travolta b"	2	query216_John_Travolta\P\2-3
+2000 ) Benjamin Travolta ( b . 	3	query216_John_Travolta\S\3
+2010 ) Jumbolair subdivision ; Ocala_ Florida http ://www.travolta.com 	4	query216_John_Travolta\S\4
+John Joseph Travolta ( born February 18 , 1954 ) is an American actor , dancer , and singer . 	5	query216_John_Travolta\S\5
+"John Joseph Travolta born February 18 1954"	"is"	"an American actor"	5	query216_John_Travolta\P\5-0
+"John Joseph Travolta born February 18 1954"	"is"	"an American dancer"	5	query216_John_Travolta\P\5-1
+"John Joseph Travolta born February 18 1954"	"is"	"an American singer"	5	query216_John_Travolta\P\5-2
+Travolta first became known in the 1970s , after appearing on the television series Welcome Back _ Kotter and starring in the box office successes Saturday Night Fever and Grease . 	6	query216_John_Travolta\S\6
+"Travolta"	"became"	"known in the 1970s first"	6	query216_John_Travolta\P\6-0
+"Travolta"	"became"	"known in the 1970s after appearing on the television series Welcome Back _ Kotter"	6	query216_John_Travolta\P\6-1
+"Travolta"	"became"	"known in the 1970s after appearing on the television series Back _ Kotter starring in the box office successes Saturday Night Fever"	6	query216_John_Travolta\P\6-2
+"Travolta"	"became"	"known in the 1970s after appearing on the television series Back _ Kotter starring in the box office successes Saturday Night Grease"	6	query216_John_Travolta\P\6-3
+"Travolta"	"became"	"known in the 1970s"	6	query216_John_Travolta\P\6-4
+"appearing on the television series"	"Welcome"	"Back _ Kotter"	6	query216_John_Travolta\P\6-5
+"appearing on the television series"	"starring"	"Saturday Night Fever Back _ Kotter"	6	query216_John_Travolta\P\6-6
+"appearing on the television series"	"starring"	"Saturday Night Grease Back _ Kotter"	6	query216_John_Travolta\P\6-7
+"appearing on the television series"	"starring"	"in the box office successes Saturday Night Fever"	6	query216_John_Travolta\P\6-8
+"appearing on the television series"	"starring"	"in the box office successes Saturday Night Grease"	6	query216_John_Travolta\P\6-9
+"appearing on the television series"	"starring"	"Saturday Night Fever"	6	query216_John_Travolta\P\6-10
+"appearing on the television series"	"starring"	"Saturday Night Grease"	6	query216_John_Travolta\P\6-11
+Travolta 's acting career declined in the early 1980s and continued to deteriorate for the rest of the decade . 	7	query216_John_Travolta\S\7
+Travolta 's acting career declined in the early 1980s and continued to deteriorate for the rest of the decade . 	7	query216_John_Travolta\S\7
+"Travolta 's acting career"	"declined"	"in the early 1980s"	7	query216_John_Travolta\P\7-0
+"Travolta 's acting career"	"continued"	"to deteriorate for the rest of the decade in the early 1980s"	7	query216_John_Travolta\P\7-1
+"Travolta 's acting career"	"continued"	"to deteriorate for the rest of the decade"	7	query216_John_Travolta\P\7-2
+His career enjoyed a resurgence in the 1990s with his role in Pulp Fiction , and he has since continued starring in Hollywood films , including Face/Off , Ladder 49 , and Wild Hogs . 	8	query216_John_Travolta\S\8
+His career enjoyed a resurgence in the 1990s with his role in Pulp Fiction , and he has since continued starring in Hollywood films , including Face/Off , Ladder 49 , and Wild Hogs . 	8	query216_John_Travolta\S\8
+"His career"	"enjoyed"	"a resurgence in the 1990s with his role in Pulp Fiction"	8	query216_John_Travolta\P\8-0
+"His career"	"enjoyed"	"a resurgence in the 1990s"	8	query216_John_Travolta\P\8-1
+"His career"	"he"	"a resurgence in the 1990s with his role in Pulp Fiction"	8	query216_John_Travolta\P\8-2
+"His career"	"he"	"a resurgence in the 1990s with his role in Pulp Fiction"	8	query216_John_Travolta\P\8-3
+"His career"	"he"	"a resurgence in the 1990s with his role in Pulp Fiction"	8	query216_John_Travolta\P\8-4
+"His career"	"he"	"a resurgence in the 1990s"	8	query216_John_Travolta\P\8-5
+"His career"	"he"	"a resurgence in the 1990s"	8	query216_John_Travolta\P\8-6
+"His career"	"he"	"a resurgence in the 1990s"	8	query216_John_Travolta\P\8-7
+"His career"	"he"	"a resurgence in the 1990s"	8	query216_John_Travolta\P\8-8
+Travolta was nominated for the Academy Award for Best Actor for Saturday Night Fever and Pulp Fiction . 	9	query216_John_Travolta\S\9
+"Travolta"	"was nominated"	"for the Academy Award for Best Actor for Saturday Night Fever"	9	query216_John_Travolta\P\9-0
+"Travolta"	"was nominated"	"for the Academy Award for Best Actor for Saturday Night Pulp Fiction"	9	query216_John_Travolta\P\9-1
+"Travolta"	"was nominated"	"for the Academy Award for Best Actor"	9	query216_John_Travolta\P\9-2
+He won the Golden Globe Award for Best Actor - Motion Picture Musical or Comedy for his performance in Get Shorty . 	10	query216_John_Travolta\S\10
+He won the Golden Globe Award for Best Actor - Motion Picture Musical or Comedy for his performance in Get Shorty . 	10	query216_John_Travolta\S\10
+He won the Golden Globe Award for Best Actor - Motion Picture Musical or Comedy for his performance in Get Shorty . 	10	query216_John_Travolta\S\10
+He won the Golden Globe Award for Best Actor - Motion Picture Musical or Comedy for his performance in Get Shorty . 	10	query216_John_Travolta\S\10
+Travolta , the youngest of six children , Pearce Garth On the move : John Travolta Times Online July 15 , 2007 http ://driving.timesonline 	11	query216_John_Travolta\S\11
+"Travolta On the move John Travolta Times Online July 15 driving.timesonline"	"is"	"the youngest of six children"	11	query216_John_Travolta\P\11-0
+"Travolta On the move John Travolta Times Online July 15 driving.timesonline"	"is"	"Pearce Garth"	11	query216_John_Travolta\P\11-1
+"July 15"	"is"	"2007 http"	11	query216_John_Travolta\P\11-2
+.co.uk/tol/life_and_style/driving/article2068940.ece 	12	query216_John_Travolta\S\12
+July 17 , 2007 London Pearce Garth On the move : John Travolta Times Online July 15 , 2007 http ://driving.timesonline 	13	query216_John_Travolta\S\13
+"July 15"	"is"	"2007 http"	13	query216_John_Travolta\P\13-0
+.co.uk/tol/life_and_style/driving/article2068940.ece 	14	query216_John_Travolta\S\14
+July 17 , 2007 London was born and raised in Englewood , New Jersey , an inner-ring suburb of New York City . 	15	query216_John_Travolta\S\15
+"London"	"was born"	"an inner-ring suburb of New York City 15 July 17"	2007	query216_John_Travolta\P\15-0
+"London"	"was raised"	"in Englewood an inner-ring suburb of New York City 15 July 17"	2007	query216_John_Travolta\P\15-1
+"London"	"was raised"	"an inner-ring suburb of New York City 15 July 17"	2007	query216_John_Travolta\P\15-2
+"London"	"was raised"	"an inner-ring suburb of New York City 15 July 17"	2007	query216_John_Travolta\P\15-3
+His father , Salvatore Travolta ( November 1912 – May 1995 ) , http ://ssdi.rootsweb.ancestry 	16	query216_John_Travolta\S\16
+His father , Salvatore Travolta ( November 1912 – May 1995 ) , http ://ssdi.rootsweb.ancestry 	16	query216_John_Travolta\S\16
+"His father ssdi.rootsweb.ancestry"	"is"	"Salvatore Travolta"	16	query216_John_Travolta\P\16-0
+"His father ssdi.rootsweb.ancestry"	"is"	"http"	16	query216_John_Travolta\P\16-1
+"Salvatore Travolta"	"is"	"November 1912 May 1995"	16	query216_John_Travolta\P\16-2
+.com 	17	query216_John_Travolta\S\17
+Social Security Death Index Ssdi.rootsweb.ancestry 	18	query216_John_Travolta\S\18
+.com 	19	query216_John_Travolta\S\19
+2011-05-14 http ://ssdi.rootsweb.ancestry 	20	query216_John_Travolta\S\20
+.com 	21	query216_John_Travolta\S\21
+Social Security Death Index Ssdi.rootsweb.ancestry 	22	query216_John_Travolta\S\22
+.com 	23	query216_John_Travolta\S\23
+2011-05-14 was a semi-professional American football player turned tire salesman and partner in a tire company . 	24	query216_John_Travolta\S\24
+"2011-05-14"	"was a semi-professional American football player"	"turned tire salesman in a tire company"	24	query216_John_Travolta\P\24-0
+"2011-05-14"	"was a semi-professional American football player"	"turned tire partner in a tire company"	24	query216_John_Travolta\P\24-1
+"2011-05-14"	"was"	"a semi-professional American football player"	24	query216_John_Travolta\P\24-2
+"a semi-professional American football player"	"be turned"	"tire salesman in a tire company"	24	query216_John_Travolta\P\24-3
+"a semi-professional American football player"	"be turned"	"tire partner in a tire company"	24	query216_John_Travolta\P\24-4
+http ://www.filmreference 	25	query216_John_Travolta\S\25
+.com/film/50/John-Travolta 	26	query216_John_Travolta\S\26
+.html 	27	query216_John_Travolta\S\27
+John Travolta Biography ( 1954– ) Filmreference .com 	28	query216_John_Travolta\S\28
+August 26 , 2009 http ://www.filmreference 	29	query216_John_Travolta\S\29
+"August 26 www.filmreference"	"is"	"2009 http"	29	query216_John_Travolta\P\29-0
+.com/film/50/John-Travolta 	30	query216_John_Travolta\S\30
+.html 	31	query216_John_Travolta\S\31
+John Travolta Biography ( 1954– ) Filmreference .com 	32	query216_John_Travolta\S\32
+August 26 , 2009 His mother , Helen Cecilia ( née Burke , January 1912 – December 1978 ) , was an actress and singer who had appeared in The Sunshine Sisters , a radio vocal group , and acted and directed before becoming a high school drama and English teacher . 	33	query216_John_Travolta\S\33
+"August 26"	"is"	"2009 His mother"	33	query216_John_Travolta\P\33-0
+"August 26"	"is"	"Helen Cecilia"	33	query216_John_Travolta\P\33-1
+"August 26"	"is"	"Helen Cecilia"	33	query216_John_Travolta\P\33-2
+"Helen Cecilia"	"is"	"née Burke December 1978"	33	query216_John_Travolta\P\33-3
+"née Burke December 1978"	"is"	"January 1912"	33	query216_John_Travolta\P\33-4
+"August 26"	"was"	"an actress"	33	query216_John_Travolta\P\33-5
+"August 26"	"was"	"an singer"	33	query216_John_Travolta\P\33-6
+"August 26"	"was"	"an acted"	33	query216_John_Travolta\P\33-7
+"August 26"	"was an directed"	"before becoming a high school drama"	33	query216_John_Travolta\P\33-8
+"August 26"	"was an directed"	"before becoming a high school English teacher"	33	query216_John_Travolta\P\33-9
+"August 26"	"was"	"an directed"	33	query216_John_Travolta\P\33-10
+"August 26"	"was"	"an directed"	33	query216_John_Travolta\P\33-11
+"The Sunshine Sisters"	"is"	"a radio vocal group"	33	query216_John_Travolta\P\33-12
+Stated on Inside the Actors Studio , 2003 His siblings , Joey , Ellen , Ann , Margaret , and Sam Travolta , have all acted . 	34	query216_John_Travolta\S\34
+Stated on Inside the Actors Studio , 2003 His siblings , Joey , Ellen , Ann , Margaret , and Sam Travolta , have all acted . 	34	query216_John_Travolta\S\34
+"the Actors Studio"	"is"	"2003 His siblings"	34	query216_John_Travolta\P\34-0
+"the Actors Studio"	"is"	"2003 His siblings"	34	query216_John_Travolta\P\34-1
+"His siblings"	"is"	"Joey"	2003	query216_John_Travolta\P\34-2
+"His siblings"	"is"	"Ellen"	2003	query216_John_Travolta\P\34-3
+"His siblings"	"is"	"Ann"	2003	query216_John_Travolta\P\34-4
+"His siblings"	"is"	"Margaret"	2003	query216_John_Travolta\P\34-5
+"His siblings"	"is"	"Sam Travolta"	2003	query216_John_Travolta\P\34-6
+His father was a second-generation Italian American and his mother was Irish American ; Begorrah ! 	35	query216_John_Travolta\S\35
+His father was a second-generation Italian American and his mother was Irish American ; Begorrah ! 	35	query216_John_Travolta\S\35
+"His father"	"was"	"a second-generation Italian American Begorrah"	35	query216_John_Travolta\P\35-0
+"His father"	"was"	"a second-generation Italian American Begorrah"	35	query216_John_Travolta\P\35-1
+"his mother"	"was"	"Irish American"	35	query216_John_Travolta\P\35-2
+! 	36	query216_John_Travolta\S\36
+Travolta 's Irish ... 	37	query216_John_Travolta\S\37
+Travolta 's Irish ... 	37	query216_John_Travolta\S\37
+Showbiz Ireland January 7 , 2007 http ://www .showbizireland.com/news/july01/20-travolta01 	38	query216_John_Travolta\S\38
+.shtml 	39	query216_John_Travolta\S\39
+July 17 , 2007 Begorrah ! 	40	query216_John_Travolta\S\40
+"July 17"	"is"	"2007 Begorrah"	40	query216_John_Travolta\P\40-0
+! 	41	query216_John_Travolta\S\41
+Travolta 's Irish ... 	42	query216_John_Travolta\S\42
+Travolta 's Irish ... 	42	query216_John_Travolta\S\42
+Showbiz Ireland January 7 , 2007 http ://www .showbizireland.com/news/july01/20-travolta01 	43	query216_John_Travolta\S\43
+.shtml 	44	query216_John_Travolta\S\44
+July 17 , 2007 Flynn Gaynor The resurrection man The Sydney Morning Herald February 28 , 2010 http ://www .smh.com 	45	query216_John_Travolta\S\45
+.au/lifestyle/people/the-resurrection-man-20100227-pa1y 	46	query216_John_Travolta\S\46
+.html 	47	query216_John_Travolta\S\47
+September 9 , 2010 Flynn Gaynor The resurrection man The Sydney Morning Herald February 28 , 2010 http ://www .smh.com 	48	query216_John_Travolta\S\48
+.au/lifestyle/people/the-resurrection-man-20100227-pa1y 	49	query216_John_Travolta\S\49
+.html 	50	query216_John_Travolta\S\50
+September 9 , 2010 he grew up in an Irish - American neighborhood and has said that his household was predominantly Irish in culture . 	51	query216_John_Travolta\S\51
+September 9 , 2010 he grew up in an Irish - American neighborhood and has said that his household was predominantly Irish in culture . 	51	query216_John_Travolta\S\51
+September 9 , 2010 he grew up in an Irish - American neighborhood and has said that his household was predominantly Irish in culture . 	51	query216_John_Travolta\S\51
+September 9 , 2010 he grew up in an Irish - American neighborhood and has said that his household was predominantly Irish in culture . 	51	query216_John_Travolta\S\51
+September 9 , 2010 he grew up in an Irish - American neighborhood and has said that his household was predominantly Irish in culture . 	51	query216_John_Travolta\S\51
+September 9 , 2010 he grew up in an Irish - American neighborhood and has said that his household was predominantly Irish in culture . 	51	query216_John_Travolta\S\51
+September 9 , 2010 he grew up in an Irish - American neighborhood and has said that his household was predominantly Irish in culture . 	51	query216_John_Travolta\S\51
+"his household"	"was Irish"	"predominantly"	51	query216_John_Travolta\P\51-0
+"his household"	"was Irish"	"in culture"	51	query216_John_Travolta\P\51-1
+"his household"	"was"	"Irish"	51	query216_John_Travolta\P\51-2
+Celebetty : John Travolta BeatBoxBetty .com 	52	query216_John_Travolta\S\52
+2000 http ://www.beatboxbetty 	53	query216_John_Travolta\S\53
+.com/celebetty/johntravolta/johntravolta2/johntravolta2/johntravolta2.htm 	54	query216_John_Travolta\S\54
+July 17 , 2007 Celebetty : John Travolta BeatBoxBetty .com 	55	query216_John_Travolta\S\55
+2000 http ://www.beatboxbetty 	56	query216_John_Travolta\S\56
+.com/celebetty/johntravolta/johntravolta2/johntravolta2/johntravolta2.htm 	57	query216_John_Travolta\S\57
+July 17 , 2007 Grant Meg Night Moves Reader 's Digest February 2005 http ://www.rd.com/your-america-inspiring-people-and-stories/face-to-face-with-john-travolta/article26272-1.html 	58	query216_John_Travolta\S\58
+"July 17 www.rd.com/your-america-inspiring-people-and-stories/face-to-face-with-john-travolta/article26272-1.html"	"is"	"2007 Grant Meg Night Moves Reader 's Digest February 2005 http"	58	query216_John_Travolta\P\58-0
+"Grant Meg Night Moves Reader"	"has"	"Digest February 2005 http"	2007	query216_John_Travolta\P\58-1
+July 17 , 2007 Grant Meg Night Moves Reader 's Digest February 2005 http ://www.rd.com/your-america-inspiring-people-and-stories/face-to-face-with-john-travolta/article26272-1.html 	59	query216_John_Travolta\S\59
+"July 17 www.rd.com/your-america-inspiring-people-and-stories/face-to-face-with-john-travolta/article26272-1.html"	"is"	"2007 Grant Meg Night Moves Reader 's Digest February 2005 http"	59	query216_John_Travolta\P\59-0
+"Grant Meg Night Moves Reader"	"has"	"Digest February 2005 http"	2007	query216_John_Travolta\P\59-1
+July 17 , 2007 He was raised Roman Catholic , but converted to Scientology in 1975 . 	60	query216_John_Travolta\S\60
+July 17 , 2007 He was raised Roman Catholic , but converted to Scientology in 1975 . 	60	query216_John_Travolta\S\60
+July 17 , 2007 He was raised Roman Catholic , but converted to Scientology in 1975 . 	60	query216_John_Travolta\S\60
+The Big Question : John Travolta " THE BIG QUESTION" BBC1 January 28 , 2004 http ://cosmedia .freewinds.cx/media/articles/bbc250198.html 	61	query216_John_Travolta\S\61
+July 17 , 2007 The Big Question : John Travolta " THE BIG QUESTION" BBC1 January 28 , 2004 http ://cosmedia .freewinds.cx/media/articles/bbc250198.html 	62	query216_John_Travolta\S\62
+July 17 , 2007 After attending Dwight Morrow High School , http ://sportsillustrated.cnn.com/2007/writers/richard_deitsch/02/28/qa.travolta/1.html 	63	query216_John_Travolta\S\63
+"Dwight Morrow High School"	"is"	"http"	63	query216_John_Travolta\P\63-0
+Q&A : John Travolta Sports Illustrated February 28 , 2007 August 26 , 2009 http ://sportsillustrated.cnn.com/2007/writers/richard_deitsch/02/28/qa.travolta/1.html 	64	query216_John_Travolta\S\64
+Q&A : John Travolta Sports Illustrated February 28 , 2007 August 26 , 2009 Travolta moved across the Hudson River to New York City and landed a role in the touring company of the musical Grease and on Broadway in Over Here ! 	65	query216_John_Travolta\S\65
+"Travolta"	"moved"	"across the Hudson River to New York City"	2009	query216_John_Travolta\P\65-0
+"Travolta"	"moved"	"across the Hudson River"	2009	query216_John_Travolta\P\65-1
+"Travolta"	"landed"	"a role in the touring company of the musical Grease across the Hudson River"	2009	query216_John_Travolta\P\65-2
+"Travolta"	"on Broadway in Over Here"	"a role in the touring company of the musical Grease across the Hudson River"	2009	query216_John_Travolta\P\65-3
+"Travolta"	"landed"	"a role in the touring company of the musical Grease to New York City"	2009	query216_John_Travolta\P\65-4
+"Travolta"	"on Broadway in Over Here"	"a role in the touring company of the musical Grease to New York City"	2009	query216_John_Travolta\P\65-5
+"Travolta"	"landed"	"a role in the touring company of the musical Grease"	2009	query216_John_Travolta\P\65-6
+"Travolta"	"on Broadway in Over Here"	"a role in the touring company of the musical Grease"	2009	query216_John_Travolta\P\65-7
+, singing the Sherman Brothers ' song " Dream Drummin' " . 	66	query216_John_Travolta\S\66
+, singing the Sherman Brothers ' song " Dream Drummin' " . 	66	query216_John_Travolta\S\66
+"the Sherman Brothers"	"has"	"song"	66	query216_John_Travolta\P\66-0
+"the Sherman Brothers ' song"	"Dream"	"Drummin"	66	query216_John_Travolta\P\66-1
+http ://baltimore .broadwayworld.com/article/Masterworks_Playbill_Debut_2_Editors_Choice_Compilations_20070311 	67	query216_John_Travolta\S\67
+Masterworks &amp; Playbill Debut 2 Editors ' Choice Compilations Baltimore .broadwayworld.com 	68	query216_John_Travolta\S\68
+March 11 , 2007 August 26 , 2009 http ://baltimore .broadwayworld.com/article/Masterworks_Playbill_Debut_2_Editors_Choice_Compilations_20070311 	69	query216_John_Travolta\S\69
+Masterworks &amp; Playbill Debut 2 Editors ' Choice Compilations Baltimore .broadwayworld.com 	70	query216_John_Travolta\S\70
+March 11 , 2007 August 26 , 2009 Nancy Collins http ://www.rollingstone 	71	query216_John_Travolta\S\71
+"March 11 www.rollingstone"	"is"	"2007 August 26"	71	query216_John_Travolta\P\71-0
+"March 11 www.rollingstone"	"is"	"2009 Nancy Collins http"	71	query216_John_Travolta\P\71-1
+.com/news/coverstory/25281885/ 	72	query216_John_Travolta\S\72
+Sex and the Single Star : John Travolta Rolling Stone August 18 , 1983 August 26 , 2009 Nancy Collins http ://www.rollingstone 	73	query216_John_Travolta\S\73
+"John Travolta Rolling Stone August 18"	"is"	"1983 August 26"	73	query216_John_Travolta\P\73-0
+"August 26"	"is"	"2009 Nancy Collins http"	1983	query216_John_Travolta\P\73-1
+.com/news/coverstory/25281885/ 	74	query216_John_Travolta\S\74
+Sex and the Single Star : John Travolta Rolling Stone August 18 , 1983 August 26 , 2009 He then moved to Los Angeles to further his career in show business . 	75	query216_John_Travolta\S\75
+Sex and the Single Star : John Travolta Rolling Stone August 18 , 1983 August 26 , 2009 He then moved to Los Angeles to further his career in show business . 	75	query216_John_Travolta\S\75
+Sex and the Single Star : John Travolta Rolling Stone August 18 , 1983 August 26 , 2009 He then moved to Los Angeles to further his career in show business . 	75	query216_John_Travolta\S\75
+Sex and the Single Star : John Travolta Rolling Stone August 18 , 1983 August 26 , 2009 He then moved to Los Angeles to further his career in show business . 	75	query216_John_Travolta\S\75
+Sex and the Single Star : John Travolta Rolling Stone August 18 , 1983 August 26 , 2009 He then moved to Los Angeles to further his career in show business . 	75	query216_John_Travolta\S\75
+Travolta 's first California-filmed television role was as a fall victim in , Emergency ! 	76	query216_John_Travolta\S\76
+Travolta 's first California-filmed television role was as a fall victim in , Emergency ! 	76	query216_John_Travolta\S\76
+"Travolta 's first California-filmed television role"	"was"	"as a fall victim in Emergency"	76	query216_John_Travolta\P\76-0
+"Travolta 's first California-filmed television role"	"was"	"as a fall victim"	76	query216_John_Travolta\P\76-1
+( S2E2 ) , in September 1972 , http ://www .highbeam.com/doc/1G1-133738542.html 	77	query216_John_Travolta\S\77
+The Quintessential Tarot Tina : What 's on the Cards for Star John Travolta Highbeam.com 	78	query216_John_Travolta\S\78
+The Quintessential Tarot Tina : What 's on the Cards for Star John Travolta Highbeam.com 	78	query216_John_Travolta\S\78
+July 3 , 2005 August 26 , 2009 http ://www .highbeam.com/doc/1G1-133738542.html 	79	query216_John_Travolta\S\79
+The Quintessential Tarot Tina : What 's on the Cards for Star John Travolta Highbeam.com 	80	query216_John_Travolta\S\80
+The Quintessential Tarot Tina : What 's on the Cards for Star John Travolta Highbeam.com 	80	query216_John_Travolta\S\80
+July 3 , 2005 August 26 , 2009 but his first significant movie role was as Billy Nolan , a bully who was goaded into playing a prank on Sissy Spacek 's character in the horror film , Carrie ( 1976 ) . 	81	query216_John_Travolta\S\81
+"July 3"	"is"	"2005 August 26"	81	query216_John_Travolta\P\81-0
+"July 3"	"is"	"2009"	81	query216_John_Travolta\P\81-1
+"July 3"	"is"	"his first significant movie role"	81	query216_John_Travolta\P\81-2
+"July 3"	"is"	"his first significant movie role"	81	query216_John_Travolta\P\81-3
+"July 3"	"was"	"as Billy Nolan"	81	query216_John_Travolta\P\81-4
+"Billy Nolan"	"is"	"a bully"	81	query216_John_Travolta\P\81-5
+"Billy Nolan"	"is"	"Carrie"	81	query216_John_Travolta\P\81-6
+"a bully"	"was goaded"	"into playing a prank on Sissy Spacek 's character in the horror film"	81	query216_John_Travolta\P\81-7
+"Sissy Spacek"	"has"	"character in the horror film"	81	query216_John_Travolta\P\81-8
+"Sissy Spacek"	"has"	"character in the horror film"	81	query216_John_Travolta\P\81-9
+Mcelroy Steven http ://query .nytimes.com/gst/fullpage 	82	query216_John_Travolta\S\82
+.html 	83	query216_John_Travolta\S\83
+?res=9B0DE5DD1030F93BA35754C0A9609C8B63 What 's on Tonight New York Times July 8 , 2006 August 26 , 2009 Mcelroy Steven http ://query .nytimes.com/gst/fullpage 	84	query216_John_Travolta\S\84
+.html 	85	query216_John_Travolta\S\85
+?res=9B0DE5DD1030F93BA35754C0A9609C8B63 What 's on Tonight New York Times July 8 , 2006 August 26 , 2009 Around the same time , he landed his star-making role as Vinnie Barbarino in the TV sitcom Welcome Back _ Kotter ( 1975–1979 ) , in which his sister , Ellen , also occasionally appeared ( as Arnold Horshack 's mother ) . 	86	query216_John_Travolta\S\86
+"New York Times July 8"	"is"	"2006 August 26"	86	query216_John_Travolta\P\86-0
+"New York Times July 8"	"is"	"2009 Around the same time"	86	query216_John_Travolta\P\86-1
+"res = 9B0DE5DD1030F93BA35754C0A9609C8B63"	"he landed"	"his star-making role New York Times July 8"	86	query216_John_Travolta\P\86-2
+"res = 9B0DE5DD1030F93BA35754C0A9609C8B63"	"he landed"	"his star-making role as Vinnie Barbarino in the TV sitcom Welcome Back _ Kotter 1975 1979"	86	query216_John_Travolta\P\86-3
+"res = 9B0DE5DD1030F93BA35754C0A9609C8B63"	"he landed"	"his star-making role"	86	query216_John_Travolta\P\86-4
+"res = 9B0DE5DD1030F93BA35754C0A9609C8B63"	"he landed"	"his star-making role"	86	query216_John_Travolta\P\86-5
+"res = 9B0DE5DD1030F93BA35754C0A9609C8B63"	"he landed"	"his star-making role"	86	query216_John_Travolta\P\86-6
+"res = 9B0DE5DD1030F93BA35754C0A9609C8B63"	"he landed"	"his star-making role"	86	query216_John_Travolta\P\86-7
+"res = 9B0DE5DD1030F93BA35754C0A9609C8B63"	"he landed"	"his star-making role"	86	query216_John_Travolta\P\86-8
+"Vinnie Barbarino in the TV sitcom"	"Welcome"	"Back _ Kotter 1975 1979"	86	query216_John_Travolta\P\86-9
+"his sister"	"is"	"Ellen"	86	query216_John_Travolta\P\86-10
+"his sister"	"is"	"Ellen"	86	query216_John_Travolta\P\86-11
+"his sister"	"appeared"	"_ Kotter 1975 1979 in which"	86	query216_John_Travolta\P\86-12
+"his sister"	"appeared"	"_ Kotter 1975 1979 also"	86	query216_John_Travolta\P\86-13
+"his sister"	"appeared"	"_ Kotter 1975 1979 occasionally"	86	query216_John_Travolta\P\86-14
+"his sister"	"appeared"	"_ Kotter 1975 1979"	86	query216_John_Travolta\P\86-15
+"Arnold Horshack"	"has"	"mother"	86	query216_John_Travolta\P\86-16
+http ://docs .newsbank 	87	query216_John_Travolta\S\87
+.com/g/GooglePM/SR/lib00140,0EAF4675750590A1.html 	88	query216_John_Travolta\S\88
+A Sister 's Inspiration – John Travolta Followed Ellen 's Lead into Acting The Spokesman-Review July 7 , 1996 August 26 , 2009 http ://docs .newsbank 	89	query216_John_Travolta\S\89
+.com/g/GooglePM/SR/lib00140,0EAF4675750590A1.html 	90	query216_John_Travolta\S\90
+A Sister 's Inspiration – John Travolta Followed Ellen 's Lead into Acting The Spokesman-Review July 7 , 1996 August 26 , 2009 The show aired on ABC . 	91	query216_John_Travolta\S\91
+"A Sister"	"has"	"91 Inspiration John Travolta Followed Ellen 's Lead into Acting The Spokesman-Review July 7 1996 August 26 2009 The show aired on ABC"	91	query216_John_Travolta\P\91-0
+"John Travolta Followed Ellen 's"	"2009 The show aired"	"on ABC"	91	query216_John_Travolta\P\91-1
+"The show"	"John Travolta Followed Ellen 's aired"	"on ABC"	2009	query216_John_Travolta\P\91-2
+Around this time , Travolta had a hit single entitled " Let Her In" , peaking at number ten on the Billboard Hot 100 chart . 	92	query216_John_Travolta\S\92
+Around this time , Travolta had a hit single entitled " Let Her In" , peaking at number ten on the Billboard Hot 100 chart . 	92	query216_John_Travolta\S\92
+Around this time , Travolta had a hit single entitled " Let Her In" , peaking at number ten on the Billboard Hot 100 chart . 	92	query216_John_Travolta\S\92
+Blank Ed http ://www.pittsburghlive 	93	query216_John_Travolta\S\93
+.com/x/pittsburghtrib/s_126015.html 	94	query216_John_Travolta\S\94
+John Travolta talks about his past , his present and his destiny in Hollywood Pittsburgh Tribune-Review March 28 , 2003 August 26 , 2009 Blank Ed http ://www.pittsburghlive 	95	query216_John_Travolta\S\95
+"John Travolta"	"talks"	"about his past"	95	query216_John_Travolta\P\95-0
+"John Travolta"	"talks"	"about his past"	95	query216_John_Travolta\P\95-1
+"John Travolta"	"talks"	"about his past"	95	query216_John_Travolta\P\95-2
+"John Travolta"	"talks"	"about his past"	95	query216_John_Travolta\P\95-3
+"John Travolta"	"talks"	"about his past"	95	query216_John_Travolta\P\95-4
+"March 28 2003 August 26"	"is"	"2009 Blank Ed http"	95	query216_John_Travolta\P\95-5
+.com/x/pittsburghtrib/s_126015.html 	96	query216_John_Travolta\S\96
+John Travolta talks about his past , his present and his destiny in Hollywood Pittsburgh Tribune-Review March 28 , 2003 August 26 , 2009 http ://www.foxnews.com/story/0,2933,474846,00.html 	97	query216_John_Travolta\S\97
+"John Travolta"	"talks"	"about his past"	97	query216_John_Travolta\P\97-0
+"John Travolta"	"talks"	"about his past"	97	query216_John_Travolta\P\97-1
+"John Travolta"	"talks"	"about his past"	97	query216_John_Travolta\P\97-2
+"John Travolta"	"talks"	"about his past"	97	query216_John_Travolta\P\97-3
+"John Travolta"	"talks"	"about his past"	97	query216_John_Travolta\P\97-4
+"March 28 2003 August 26"	"is"	"2009 http"	97	query216_John_Travolta\P\97-5
+Then &amp; Now : 10 Best Teen Idols of All Time FOXNews.com 	98	query216_John_Travolta\S\98
+January 1 , 2009 August 26 , 2009 http ://www.foxnews.com/story/0,2933,474846,00.html 	99	query216_John_Travolta\S\99
+"January 1 www.foxnews.com/story/0,2933,474846,00.html"	"is"	"2009 August 26"	99	query216_John_Travolta\P\99-0
+"January 1 www.foxnews.com/story/0,2933,474846,00.html"	"is"	"2009 http"	99	query216_John_Travolta\P\99-1
+Then &amp; Now : 10 Best Teen Idols of All Time FOXNews.com 	100	query216_John_Travolta\S\100
+January 1 , 2009 August 26 , 2009 In the next few years , he appeared in two of his most noted screen roles : Tony Manero in Saturday Night Fever ( 1977 ) and as Danny Zuko in Grease ( 1978 ) . 	101	query216_John_Travolta\S\101
+"January 1 Tony Manero in Saturday Night Fever"	"is"	"2009 August 26"	101	query216_John_Travolta\P\101-0
+"January 1 Tony in Saturday Night Fever as Danny Zuko in Grease"	"is"	"2009 August 26"	101	query216_John_Travolta\P\101-1
+"January 1 Tony Manero in Saturday Night Fever"	"is"	"2009 In the next few years"	101	query216_John_Travolta\P\101-2
+"January 1 Tony in Saturday Night Fever as Danny Zuko in Grease"	"is"	"2009 In the next few years"	101	query216_John_Travolta\P\101-3
+"January 1 Tony in Saturday Night Fever as Danny Zuko in Grease"	"is"	"2009 In the next few years"	101	query216_John_Travolta\P\101-4
+"January 1 Tony in Saturday Night Fever as Danny Zuko in Grease"	"is"	"2009 In the next few years"	101	query216_John_Travolta\P\101-5
+"January 1 Tony in Saturday Night Fever as Danny Zuko in Grease"	"is"	"2009 In the next few years"	101	query216_John_Travolta\P\101-6
+"January 1 Tony in Saturday Night Fever as Danny Zuko in Grease"	"is"	"2009 In the next few years"	101	query216_John_Travolta\P\101-7
+"January 1 Tony in Saturday Night Fever as Danny Zuko in Grease"	"is"	"2009 In the next few years"	101	query216_John_Travolta\P\101-8
+"Saturday Night Fever"	"is"	"1977"	101	query216_John_Travolta\P\101-9
+"Saturday Night Fever"	"is"	"1977"	101	query216_John_Travolta\P\101-10
+The films were among the most commercially successful pictures of the decade and catapulted Travolta to international stardom . 	102	query216_John_Travolta\S\102
+"The films"	"were"	"among the most commercially successful pictures of the decade"	102	query216_John_Travolta\P\102-0
+"The films"	"catapulted"	"Travolta among the most commercially successful pictures of the decade"	102	query216_John_Travolta\P\102-1
+"The films"	"catapulted"	"Travolta to international stardom"	102	query216_John_Travolta\P\102-2
+"The films"	"catapulted"	"Travolta"	102	query216_John_Travolta\P\102-3
+http ://www.independent.co.uk/arts-entertainment/film--look-whos-acting-staying-alive-was-dire-perfect-was-anything-but-now-courtesy-of-tarantinos-pulp-fiction-travolta-is-back-by-jim-white-1443469.html 	103	query216_John_Travolta\S\103
+Look who 's acting : Staying Alive was dire . 	104	query216_John_Travolta\S\104
+"Look"	"'s acting"	"Staying Alive was dire"	104	query216_John_Travolta\P\104-0
+"Staying Alive"	"was"	"dire"	104	query216_John_Travolta\P\104-1
+Perfect was anything but . 	105	query216_John_Travolta\S\105
+"Perfect"	"was"	"anything"	105	query216_John_Travolta\P\105-0
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	106	query216_John_Travolta\S\106
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	106	query216_John_Travolta\S\106
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	106	query216_John_Travolta\S\106
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	106	query216_John_Travolta\S\106
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	106	query216_John_Travolta\S\106
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	106	query216_John_Travolta\S\106
+Jim White The Independent October 17 , 1994 August 26 , 2009 London http ://www.independent.co.uk/arts-entertainment/film--look-whos-acting-staying-alive-was-dire-perfect-was-anything-but-now-courtesy-of-tarantinos-pulp-fiction-travolta-is-back-by-jim-white-1443469.html 	107	query216_John_Travolta\S\107
+"October 17 1994 August 26"	"is"	"2009 London http"	107	query216_John_Travolta\P\107-0
+Look who 's acting : Staying Alive was dire . 	108	query216_John_Travolta\S\108
+"Look"	"'s acting"	"Staying Alive was dire"	108	query216_John_Travolta\P\108-0
+"Staying Alive"	"was"	"dire"	108	query216_John_Travolta\P\108-1
+Perfect was anything but . 	109	query216_John_Travolta\S\109
+"Perfect"	"was"	"anything"	109	query216_John_Travolta\P\109-0
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	110	query216_John_Travolta\S\110
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	110	query216_John_Travolta\S\110
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	110	query216_John_Travolta\S\110
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	110	query216_John_Travolta\S\110
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	110	query216_John_Travolta\S\110
+Now , courtesy of Tarantino 's Pulp Fiction , Travolta is back . 	110	query216_John_Travolta\S\110
+Jim White The Independent October 17 , 1994 August 26 , 2009 London Saturday Night Fever earned him an Academy Award nomination for Best Actor . 	111	query216_John_Travolta\S\111
+Jim White The Independent October 17 , 1994 August 26 , 2009 London Saturday Night Fever earned him an Academy Award nomination for Best Actor . 	111	query216_John_Travolta\S\111
+Jim White The Independent October 17 , 1994 August 26 , 2009 London Saturday Night Fever earned him an Academy Award nomination for Best Actor . 	111	query216_John_Travolta\S\111
+"October 17 1994 August 26 2009 London Saturday Night Fever"	"111 The earned"	"him an Academy Award nomination for Best Actor"	111	query216_John_Travolta\P\111-0
+http ://www.variety 	112	query216_John_Travolta\S\112
+.com/index 	113	query216_John_Travolta\S\113
+.asp?layout=print_review&reviewid=VE1117794638&categoryid=31 	114	query216_John_Travolta\S\114
+Saturday Night Fever Variety December 14 , 1977 August 26 , 2009 http ://www.variety 	115	query216_John_Travolta\S\115
+.com/index 	116	query216_John_Travolta\S\116
+.asp?layout=print_review&reviewid=VE1117794638&categoryid=31 	117	query216_John_Travolta\S\117
+Saturday Night Fever Variety December 14 , 1977 August 26 , 2009 At age 24 , Travolta became one of the youngest performers ever nominated for the Best Actor Oscar . 	118	query216_John_Travolta\S\118
+Saturday Night Fever Variety December 14 , 1977 August 26 , 2009 At age 24 , Travolta became one of the youngest performers ever nominated for the Best Actor Oscar . 	118	query216_John_Travolta\S\118
+Saturday Night Fever Variety December 14 , 1977 August 26 , 2009 At age 24 , Travolta became one of the youngest performers ever nominated for the Best Actor Oscar . 	118	query216_John_Travolta\S\118
+Saturday Night Fever Variety December 14 , 1977 August 26 , 2009 At age 24 , Travolta became one of the youngest performers ever nominated for the Best Actor Oscar . 	118	query216_John_Travolta\S\118
+Saturday Night Fever Variety December 14 , 1977 August 26 , 2009 At age 24 , Travolta became one of the youngest performers ever nominated for the Best Actor Oscar . 	118	query216_John_Travolta\S\118
+"the youngest performers"	"be nominated"	"ever for the Best Actor Oscar"	118	query216_John_Travolta\P\118-0
+"the youngest performers"	"be nominated"	"ever"	118	query216_John_Travolta\P\118-1
+Karger Dave http ://www.ew.com/ew/article/0 	119	query216_John_Travolta\S\119
+,,20035877,00.html 	120	query216_John_Travolta\S\120
+Spotlight on Ryan Gosling Entertainment Weekly April 27 , 2007 August 26 , 2009 Karger Dave http ://www.ew.com/ew/article/0 	121	query216_John_Travolta\S\121
+"Ryan Gosling Entertainment Weekly April 27"	"is"	"2009 Karger Dave http"	121	query216_John_Travolta\P\121-0
+"Ryan Gosling Entertainment Weekly April 27"	"is"	"2007 August 26"	121	query216_John_Travolta\P\121-1
+,,20035877,00.html 	122	query216_John_Travolta\S\122
+Spotlight on Ryan Gosling Entertainment Weekly April 27 , 2007 August 26 , 2009 His mother and his sister Ann appeared as extras in Saturday Night Fever and his sister Ellen appeared as a waitress in Grease . 	123	query216_John_Travolta\S\123
+"Ryan Gosling Entertainment Weekly April 27"	"is"	"2009 His mother"	123	query216_John_Travolta\P\123-0
+"Ryan Gosling Entertainment Weekly 27 his sister Ann"	"is"	"2009 His mother"	123	query216_John_Travolta\P\123-1
+"Ryan Gosling Entertainment Weekly April 27"	"is"	"2007 August 26"	123	query216_John_Travolta\P\123-2
+"Ryan Gosling Entertainment Weekly 27 his sister Ann"	"is"	"2007 August 26"	123	query216_John_Travolta\P\123-3
+"Ryan Gosling Entertainment Weekly 27 his sister Ann"	"is"	"2007 August 26"	123	query216_John_Travolta\P\123-4
+"Ryan Gosling Entertainment Weekly 27 his sister Ann"	"is"	"2007 August 26"	123	query216_John_Travolta\P\123-5
+"Spotlight on Ryan Gosling Entertainment Weekly April 27"	"appeared"	"as extras in Saturday Night Fever"	123	query216_John_Travolta\P\123-6
+"Spotlight on Ryan Gosling Entertainment Weekly April 27"	"appeared"	"as extras in Saturday Night his sister Ellen"	123	query216_John_Travolta\P\123-7
+"Spotlight on Ryan Gosling Entertainment Weekly 27 his sister Ann"	"appeared"	"as extras in Saturday Night Fever"	123	query216_John_Travolta\P\123-8
+"Spotlight on Ryan Gosling Entertainment Weekly 27 his sister Ann"	"appeared"	"as extras in Saturday Night his sister Ellen"	123	query216_John_Travolta\P\123-9
+"Spotlight on Ryan Gosling Entertainment Weekly April 27"	"appeared"	"as extras"	123	query216_John_Travolta\P\123-10
+"Spotlight on Ryan Gosling Entertainment Weekly 27 his sister Ann"	"appeared"	"as extras"	123	query216_John_Travolta\P\123-11
+"Spotlight on Ryan Gosling Entertainment Weekly 27 his sister Ann"	"appeared"	"as extras"	123	query216_John_Travolta\P\123-12
+Travolta performed several of the songs on the Grease soundtrack album . 	124	query216_John_Travolta\S\124
+"Travolta"	"performed"	"several of the songs on the Grease soundtrack album"	124	query216_John_Travolta\P\124-0
+http ://www.mtv.com/news/articles/1427842/19970717/danzig 	125	query216_John_Travolta\S\125
+.jhtml 	126	query216_John_Travolta\S\126
+Travolta , R.E.M. 	127	query216_John_Travolta\S\127
+"Travolta"	"is"	"R.E.M."	127	query216_John_Travolta\P\127-0
+, Moby , Danzig Make Movie/Music Crossovers Mtv.com 	128	query216_John_Travolta\S\128
+, Moby , Danzig Make Movie/Music Crossovers Mtv.com 	128	query216_John_Travolta\S\128
+, Moby , Danzig Make Movie/Music Crossovers Mtv.com 	128	query216_John_Travolta\S\128
+July 17 , 1997 August 26 , 2009 http ://www.mtv.com/news/articles/1427842/19970717/danzig 	129	query216_John_Travolta\S\129
+"July 17 www.mtv.com/news/articles/1427842/19970717/danzig"	"is"	"1997 August 26"	129	query216_John_Travolta\P\129-0
+"July 17 www.mtv.com/news/articles/1427842/19970717/danzig"	"is"	"2009 http"	129	query216_John_Travolta\P\129-1
+.jhtml 	130	query216_John_Travolta\S\130
+Travolta , R.E.M. 	131	query216_John_Travolta\S\131
+"Travolta"	"is"	"R.E.M."	131	query216_John_Travolta\P\131-0
+, Moby , Danzig Make Movie/Music Crossovers Mtv.com 	132	query216_John_Travolta\S\132
+, Moby , Danzig Make Movie/Music Crossovers Mtv.com 	132	query216_John_Travolta\S\132
+July 17 , 1997 August 26 , 2009 In 1980 , Travolta inspired a nationwide country music craze that followed on the heels of his hit film , Urban Cowboy , in which he starred with Debra Winger . 	133	query216_John_Travolta\S\133
+"July 17"	"is"	"1997 August 26 2009 In 1980"	133	query216_John_Travolta\P\133-0
+"July 17"	"is"	"1997 August 26 2009 In 1980"	133	query216_John_Travolta\P\133-1
+"a nationwide country music craze"	"followed"	"on the heels of his hit film"	133	query216_John_Travolta\P\133-2
+"a nationwide country music craze"	"followed"	"on the heels of his hit film"	133	query216_John_Travolta\P\133-3
+"his hit film"	"is"	"Urban Cowboy"	133	query216_John_Travolta\P\133-4
+"his hit film"	"is"	"Urban Cowboy"	133	query216_John_Travolta\P\133-5
+"his hit film"	"is"	"Urban Cowboy"	133	query216_John_Travolta\P\133-6
+"his hit film"	"is"	"Urban Cowboy"	133	query216_John_Travolta\P\133-7
+http ://www.mtv.com/music/artist/travolta_john/artist 	134	query216_John_Travolta\S\134
+.jhtml 	135	query216_John_Travolta\S\135
+John Travolta MTV February 18 , 1954 August 26 , 2009 http ://www.mtv.com/music/artist/travolta_john/artist 	136	query216_John_Travolta\S\136
+.jhtml 	137	query216_John_Travolta\S\137
+John Travolta MTV February 18 , 1954 August 26 , 2009 After Urban Cowboy , Travolta starred in a series of financial and critical failures that sidelined his acting career . 	138	query216_John_Travolta\S\138
+"February 18 2009"	"is"	"1954 August 26"	138	query216_John_Travolta\P\138-0
+"February 18 2009"	"is"	"1954 August 26"	138	query216_John_Travolta\P\138-1
+"February 18 2009"	"is"	"1954 August 26"	138	query216_John_Travolta\P\138-2
+"financial failures"	"sidelined"	"his acting career"	138	query216_John_Travolta\P\138-3
+"critical failures"	"sidelined"	"his acting career"	138	query216_John_Travolta\P\138-4
+"critical failures"	"sidelined"	"his acting career"	138	query216_John_Travolta\P\138-5
+These included Perfect , co-starring Jamie Lee Curtis , and Two of a Kind , a romantic comedy reteaming him with Olivia Newton-John . 	139	query216_John_Travolta\S\139
+"These"	"included"	"Perfect co-starring Jamie Lee Curtis"	139	query216_John_Travolta\P\139-0
+"These"	"included"	"co-starring Jamie Lee Curtis Two of a Kind"	139	query216_John_Travolta\P\139-1
+"Perfect co-starring Jamie Lee Curtis"	"is"	"a romantic comedy reteaming him with Olivia Newton-John"	139	query216_John_Travolta\P\139-2
+"co-starring Jamie Lee Curtis Two of a Kind"	"is"	"a romantic comedy reteaming him with Olivia Newton-John"	139	query216_John_Travolta\P\139-3
+"co-starring Jamie Lee Curtis Two of a Kind"	"is"	"a romantic comedy reteaming him with Olivia Newton-John"	139	query216_John_Travolta\P\139-4
+"Two of a Kind"	"be co-starring"	"Jamie Lee Curtis"	139	query216_John_Travolta\P\139-5
+"a romantic comedy"	"be reteaming"	"him with Olivia Newton-John"	139	query216_John_Travolta\P\139-6
+During that time he was offered , but turned down , lead roles in what would become box office hits , including American Gigolo http ://www.independent.co.uk/arts-entertainment/highconcept-high-roller-1317555.html 	140	query216_John_Travolta\S\140
+During that time he was offered , but turned down , lead roles in what would become box office hits , including American Gigolo http ://www.independent.co.uk/arts-entertainment/highconcept-high-roller-1317555.html 	140	query216_John_Travolta\S\140
+During that time he was offered , but turned down , lead roles in what would become box office hits , including American Gigolo http ://www.independent.co.uk/arts-entertainment/highconcept-high-roller-1317555.html 	140	query216_John_Travolta\S\140
+During that time he was offered , but turned down , lead roles in what would become box office hits , including American Gigolo http ://www.independent.co.uk/arts-entertainment/highconcept-high-roller-1317555.html 	140	query216_John_Travolta\S\140
+High-concept high roller The Independent Kevin Jackson February 6 , 1996 August 26 , 2009 London http ://www.independent.co.uk/arts-entertainment/highconcept-high-roller-1317555.html 	141	query216_John_Travolta\S\141
+High-concept high roller The Independent Kevin Jackson February 6 , 1996 August 26 , 2009 London and An Officer and a Gentleman , both of which went to Richard Gere . 	142	query216_John_Travolta\S\142
+"both of which"	"went"	"to Richard Gere The Independent Kevin Jackson February 6 1996 August 26 2009 London"	142	query216_John_Travolta\P\142-0
+"both of which"	"went"	"to Richard Gere The Independent Kevin Jackson 6 1996 August 26 2009 London An Officer"	142	query216_John_Travolta\P\142-1
+"both of which"	"went"	"to Richard Gere The Independent Kevin Jackson 6 1996 August 26 2009 London a Gentleman"	142	query216_John_Travolta\P\142-2
+"both of which"	"went"	"The Independent Kevin Jackson February 6 1996 August 26 2009 London"	142	query216_John_Travolta\P\142-3
+"both of which"	"went"	"The Independent Kevin Jackson 6 1996 August 26 2009 London An Officer"	142	query216_John_Travolta\P\142-4
+"both of which"	"went"	"The Independent Kevin Jackson 6 1996 August 26 2009 London a Gentleman"	142	query216_John_Travolta\P\142-5
+http ://www.independent.co.uk/arts-entertainment/films/features/john-travolta-goes-the-whole-hog-with-his-new-hit-movie-443516.html 	143	query216_John_Travolta\S\143
+John Travolta goes the whole Hog with his new hit movie The Independent April 6 , 2007 August 26 , 2009 London http ://www.independent.co.uk/arts-entertainment/films/features/john-travolta-goes-the-whole-hog-with-his-new-hit-movie-443516.html 	144	query216_John_Travolta\S\144
+"John Travolta"	"goes"	"the whole Hog with his new hit movie The Independent April 6 www.independent.co.uk/arts-entertainment/films/features/john-travolta-goes-the-whole-hog-with-his-new-hit-movie-443516.html"	144	query216_John_Travolta\P\144-0
+"John Travolta"	"goes"	"the whole Hog www.independent.co.uk/arts-entertainment/films/features/john-travolta-goes-the-whole-hog-with-his-new-hit-movie-443516.html"	144	query216_John_Travolta\P\144-1
+"John Travolta"	"goes"	"the whole Hog www.independent.co.uk/arts-entertainment/films/features/john-travolta-goes-the-whole-hog-with-his-new-hit-movie-443516.html"	144	query216_John_Travolta\P\144-2
+"The Independent April 6"	"is"	"2007 August 26"	144	query216_John_Travolta\P\144-3
+"August 26"	"is"	"2009 London http"	2007	query216_John_Travolta\P\144-4
+John Travolta goes the whole Hog with his new hit movie The Independent April 6 , 2007 August 26 , 2009 London In 1989 , Travolta starred in Look Who 's Talking , which grossed $ 297,000,000 , making it his most successful film since Grease . 	145	query216_John_Travolta\S\145
+"John Travolta"	"goes"	"the whole Hog with his new hit movie The Independent April 6"	145	query216_John_Travolta\P\145-0
+"John Travolta"	"goes"	"the whole Hog"	145	query216_John_Travolta\P\145-1
+"John Travolta"	"goes"	"the whole Hog"	145	query216_John_Travolta\P\145-2
+"August 26"	"is"	"2009 London In 1989"	2007	query216_John_Travolta\P\145-3
+"August 26"	"is"	"Travolta"	2007	query216_John_Travolta\P\145-4
+"August 26"	"starred"	"in Look The Independent April 6"	2007	query216_John_Travolta\P\145-5
+"August 26"	"starred"	"The Independent April 6"	2007	query216_John_Travolta\P\145-6
+"August 26"	"starred"	"The Independent April 6"	2007	query216_John_Travolta\P\145-7
+"August 26"	"starred"	"The Independent April 6"	2007	query216_John_Travolta\P\145-8
+"August 26"	"starred"	"The Independent April 6"	2007	query216_John_Travolta\P\145-9
+"August 26"	"starred"	"The Independent April 6"	2007	query216_John_Travolta\P\145-10
+Travolta continued to the two sequels Look Who 's Talking Too ( 1990 ) and Look Who 's Talking Now ( 1993 ) . 	146	query216_John_Travolta\S\146
+"Travolta"	"continued"	"to the two sequels Look Who 's Talking Too 1990"	146	query216_John_Travolta\P\146-0
+"Travolta"	"continued"	"to the two sequels Look Who 's Too 1990 Look"	146	query216_John_Travolta\P\146-1
+"the two sequels"	"be Look"	"Who 's Talking Too 1990"	146	query216_John_Travolta\P\146-2
+"the two sequels"	"be Look"	"Who 's Too 1990 Look"	146	query216_John_Travolta\P\146-3
+"the two sequels"	"be Look"	"Who 's Too 1990 Look"	146	query216_John_Travolta\P\146-4
+"the two sequels"	"be Look"	"Who 's Too 1990 Look"	146	query216_John_Travolta\P\146-5
+"the two sequels"	"be Look"	"Who 's Too 1990 Look"	146	query216_John_Travolta\P\146-6
+But it was not until he played Vincent Vega in Quentin Tarantino 's hit Pulp Fiction ( 1994 ) , for which he received an Academy Award nomination , that his career was revived . 	147	query216_John_Travolta\S\147
+But it was not until he played Vincent Vega in Quentin Tarantino 's hit Pulp Fiction ( 1994 ) , for which he received an Academy Award nomination , that his career was revived . 	147	query216_John_Travolta\S\147
+But it was not until he played Vincent Vega in Quentin Tarantino 's hit Pulp Fiction ( 1994 ) , for which he received an Academy Award nomination , that his career was revived . 	147	query216_John_Travolta\S\147
+"Quentin Tarantino 's hit Pulp Fiction"	"is"	"1994"	147	query216_John_Travolta\P\147-0
+"Quentin Tarantino"	"has"	"hit Pulp Fiction"	147	query216_John_Travolta\P\147-1
+"Quentin Tarantino"	"has"	"hit Pulp Fiction"	147	query216_John_Travolta\P\147-2
+"Quentin Tarantino"	"has"	"hit Pulp Fiction"	147	query216_John_Travolta\P\147-3
+"Quentin Tarantino"	"has"	"hit Pulp Fiction"	147	query216_John_Travolta\P\147-4
+http ://www .sfgate 	148	query216_John_Travolta\S\148
+.com/cgi-bin/article 	149	query216_John_Travolta\S\149
+.cgi?f=/c/a/1995/10/15/PK67911.DTL&type=printable 	150	query216_John_Travolta\S\150
+Making Movies With the Mob / John Travolta stars as gangster producer in Elmore Leonard 's ` Get Shorty ' Sfgate .com 	151	query216_John_Travolta\S\151
+October 15 , 1995 August 26 , 2009 Mick Lasalle http ://www .sfgate 	152	query216_John_Travolta\S\152
+.com/cgi-bin/article 	153	query216_John_Travolta\S\153
+.cgi?f=/c/a/1995/10/15/PK67911.DTL&type=printable 	154	query216_John_Travolta\S\154
+Making Movies With the Mob / John Travolta stars as gangster producer in Elmore Leonard 's ` Get Shorty ' Sfgate .com 	155	query216_John_Travolta\S\155
+October 15 , 1995 August 26 , 2009 Mick Lasalle James Caryn http ://query .nytimes.com/gst/fullpage 	156	query216_John_Travolta\S\156
+.html 	157	query216_John_Travolta\S\157
+?res=9A03EEDB1E3EF931A35751C1A9629C8B63 CRITIC'S NOTEBOOK ; As Praise Flows , Travolta Awaits His 3rd Comeback New York Times December 2 , 2004 August 26 , 2009 James Caryn http ://query .nytimes.com/gst/fullpage 	158	query216_John_Travolta\S\158
+.html 	159	query216_John_Travolta\S\159
+?res=9A03EEDB1E3EF931A35751C1A9629C8B63 CRITIC'S NOTEBOOK ; As Praise Flows , Travolta Awaits His 3rd Comeback New York Times December 2 , 2004 August 26 , 2009 The movie shifted him back onto the A-list , and he was inundated with offers . 	160	query216_John_Travolta\S\160
+?res=9A03EEDB1E3EF931A35751C1A9629C8B63 CRITIC'S NOTEBOOK ; As Praise Flows , Travolta Awaits His 3rd Comeback New York Times December 2 , 2004 August 26 , 2009 The movie shifted him back onto the A-list , and he was inundated with offers . 	160	query216_John_Travolta\S\160
+"9A03EEDB1E3EF931A35751C1A9629C8B63 CRITIC"	"has"	"NOTEBOOK"	160	query216_John_Travolta\P\160-0
+"9A03EEDB1E3EF931A35751C1A9629C8B63 CRITIC"	"has"	"NOTEBOOK"	160	query216_John_Travolta\P\160-1
+"9A03EEDB1E3EF931A35751C1A9629C8B63 CRITIC"	"has"	"NOTEBOOK"	160	query216_John_Travolta\P\160-2
+"9A03EEDB1E3EF931A35751C1A9629C8B63 CRITIC"	"has"	"NOTEBOOK"	160	query216_John_Travolta\P\160-3
+"The movie"	"shifted"	"him back His 3rd Comeback New York Times December 2 2004 August 26"	2009	query216_John_Travolta\P\160-4
+"The movie"	"shifted"	"him onto the A-list His 3rd Comeback New York Times December 2 2004 August 26"	2009	query216_John_Travolta\P\160-5
+"The movie"	"shifted"	"him His 3rd Comeback New York Times December 2 2004 August 26"	2009	query216_John_Travolta\P\160-6
+Notable roles following Pulp Fiction include a movie-buff loan shark in Get Shorty ( 1995 ) , an FBI agent and terrorist in Face/Off ( 1997 ) , a desperate attorney in A Civil Action ( 1998 ) , a Bill Clinton-esque presidential candidate in Primary Colors ( 1998 ) , and a military detective in The General 's Daughter ( 1999 ) . 	161	query216_John_Travolta\S\161
+"Notable roles following Pulp Fiction"	"include"	"a movie-buff loan shark in Get Shorty"	161	query216_John_Travolta\P\161-0
+"Notable roles following Pulp Fiction"	"include"	"a movie-buff loan shark in Get a military detective in The General 's Daughter"	161	query216_John_Travolta\P\161-1
+"Notable roles following Pulp Fiction"	"include"	"a movie-buff loan shark in Get a military detective in The General 's Daughter"	161	query216_John_Travolta\P\161-2
+"a military detective in The General 's Daughter"	"is"	"1995"	161	query216_John_Travolta\P\161-3
+"a military detective in The General 's Daughter"	"is"	"1995"	161	query216_John_Travolta\P\161-4
+"a military detective in The General 's Daughter"	"is"	"1995"	161	query216_John_Travolta\P\161-5
+"a military detective in The General 's Daughter"	"is"	"an FBI agent in Face/Off a desperate attorney in A Civil Action"	161	query216_John_Travolta\P\161-6
+"a military detective in The General 's Daughter"	"is"	"an FBI terrorist in Face/Off a desperate attorney in A Civil Action"	161	query216_John_Travolta\P\161-7
+"a military detective in The General 's Daughter"	"is"	"an FBI terrorist in Face/Off a desperate attorney in A Civil Action"	161	query216_John_Travolta\P\161-8
+"a military detective in The General 's Daughter"	"is"	"a Bill Clinton-esque presidential candidate in Primary Colors"	161	query216_John_Travolta\P\161-9
+"a military detective in The General 's Daughter"	"is"	"a Bill Clinton-esque presidential candidate in Primary Colors"	161	query216_John_Travolta\P\161-10
+"A Civil Action"	"is"	"1998"	161	query216_John_Travolta\P\161-11
+"Primary Colors"	"is"	"1998"	161	query216_John_Travolta\P\161-12
+"The General"	"has"	"Daughter"	161	query216_John_Travolta\P\161-13
+"The General 's Daughter"	"is"	"1999"	161	query216_John_Travolta\P\161-14
+Travolta also starred in Battlefield Earth ( 2000 ) based on a work of science fiction by L. 	162	query216_John_Travolta\S\162
+"Travolta"	"starred"	"in Battlefield Earth also"	162	query216_John_Travolta\P\162-0
+"Travolta"	"starred"	"in Battlefield Earth"	162	query216_John_Travolta\P\162-1
+"Battlefield Earth"	"is"	"2000"	162	query216_John_Travolta\P\162-2
+Ron Hubbard , in which he played the leader of a group of aliens that enslaves humanity on a bleak future Earth . 	163	query216_John_Travolta\S\163
+Ron Hubbard , in which he played the leader of a group of aliens that enslaves humanity on a bleak future Earth . 	163	query216_John_Travolta\S\163
+Ron Hubbard , in which he played the leader of a group of aliens that enslaves humanity on a bleak future Earth . 	163	query216_John_Travolta\S\163
+Ron Hubbard , in which he played the leader of a group of aliens that enslaves humanity on a bleak future Earth . 	163	query216_John_Travolta\S\163
+Ron Hubbard , in which he played the leader of a group of aliens that enslaves humanity on a bleak future Earth . 	163	query216_John_Travolta\S\163
+The film received almost universally negative reviews and did very poorly at the box office . 	164	query216_John_Travolta\S\164
+"The film"	"received"	"almost universally negative reviews"	164	query216_John_Travolta\P\164-0
+"The film"	"did"	"almost universally negative reviews very poorly"	164	query216_John_Travolta\P\164-1
+"The film"	"did"	"almost universally negative reviews at the box office"	164	query216_John_Travolta\P\164-2
+"The film"	"did"	"almost universally negative reviews"	164	query216_John_Travolta\P\164-3
+battlefield_earth battlefield_earth Travolta played Mrs. 	165	query216_John_Travolta\S\165
+"battlefield_earth battlefield_earth Travolta"	"played"	"Mrs."	165	query216_John_Travolta\P\165-0
+Edna Turnblad in the remake of Hairspray , his first musical since Grease . 	166	query216_John_Travolta\S\166
+Edna Turnblad in the remake of Hairspray , his first musical since Grease . 	166	query216_John_Travolta\S\166
+Edna Turnblad in the remake of Hairspray , his first musical since Grease . 	166	query216_John_Travolta\S\166
+stv.tv 	167	query216_John_Travolta\S\167
+thumbrightTravolta dancing withPrincess Dianaat theWhite House _ November 9_ 1985 Travolta was in a relationship with actress Diana Hyland , whom he met while filming The Boy in the Plastic Bubble ; Hyland died of breast cancer in 1977 . 	168	query216_John_Travolta\S\168
+"thumbrightTravolta dancing withPrincess Dianaat theWhite House _ November 9 _ 1985 Travolta"	"was"	"in a relationship with actress Diana Hyland"	168	query216_John_Travolta\P\168-0
+"thumbrightTravolta dancing withPrincess Dianaat theWhite House _ November 9 _ 1985 Travolta"	"was"	"in a relationship with actress Diana Hyland"	168	query216_John_Travolta\P\168-1
+"thumbrightTravolta dancing withPrincess Dianaat theWhite House _ November 9 _ 1985 Travolta"	"was"	"in a relationship with actress Diana Hyland"	168	query216_John_Travolta\P\168-2
+"thumbrightTravolta dancing withPrincess Dianaat theWhite House _ November 9 _ 1985 Travolta"	"was"	"in a relationship with actress Diana Hyland"	168	query216_John_Travolta\P\168-3
+"thumbrightTravolta dancing withPrincess Dianaat theWhite House _ November 9 _ 1985 Travolta"	"was"	"in a relationship with actress Diana Hyland"	168	query216_John_Travolta\P\168-4
+Biography of Diana Hyland http ://www.imdb.com/name/nm0405076/bio 	169	query216_John_Travolta\S\169
+IMDB March 28 , 2007 Biography of Diana Hyland http ://www.imdb.com/name/nm0405076/bio 	170	query216_John_Travolta\S\170
+"March 28"	"is"	"2007 Biography of Diana Hyland http"	170	query216_John_Travolta\P\170-0
+IMDB March 28 , 2007 Travolta married actress Kelly Preston in 1991 . 	171	query216_John_Travolta\S\171
+"March 28"	"is"	"2007 Travolta married actress Kelly Preston in 1991"	171	query216_John_Travolta\P\171-0
+"Travolta"	"be married"	"actress Kelly Preston in 1991"	2007	query216_John_Travolta\P\171-1
+The couple had a son , Jett ( 1992–2009 ) . 	172	query216_John_Travolta\S\172
+"The couple"	"had"	"a son Jett 1992 2009"	172	query216_John_Travolta\P\172-0
+Douglas Thompson http ://www.dailymail.co.uk/tvshowbiz/article-1104777/For-John-Travolta-protecting-Jett-He-control-Thats-flew-plane-says-biographer 	173	query216_John_Travolta\S\173
+.html 	174	query216_John_Travolta\S\174
+' For John Travolta , protecting Jett was everything ' Dailymail.co.uk 	175	query216_John_Travolta\S\175
+"protecting Jett"	"was"	"175 For John Travolta everything"	175	query216_John_Travolta\P\175-0
+2011-05-14 Douglas Thompson http ://www.dailymail.co.uk/tvshowbiz/article-1104777/For-John-Travolta-protecting-Jett-He-control-Thats-flew-plane-says-biographer 	176	query216_John_Travolta\S\176
+.html 	177	query216_John_Travolta\S\177
+' For John Travolta , protecting Jett was everything ' Dailymail.co.uk 	178	query216_John_Travolta\S\178
+"protecting Jett"	"was"	"178 For John Travolta everything"	178	query216_John_Travolta\P\178-0
+2011-05-14 Their daughter , Ella Bleu , was born in 2000 . 	179	query216_John_Travolta\S\179
+2011-05-14 Their daughter , Ella Bleu , was born in 2000 . 	179	query216_John_Travolta\S\179
+"2011-05-14 Their daughter"	"is"	"Ella Bleu"	179	query216_John_Travolta\P\179-0
+"2011-05-14 Their daughter"	"was born"	"in 2000"	179	query216_John_Travolta\P\179-1
+On May 18 , 2010 , Travolta and Preston announced that she was pregnant with the couple 's third child , http ://www.people 	180	query216_John_Travolta\S\180
+"On May 18 2010"	"announced"	"that she was pregnant with the couple 's third child http www.people"	180	query216_John_Travolta\P\180-0
+"On 18 2010 Travolta"	"announced"	"that she was pregnant with the couple 's third child http www.people"	180	query216_John_Travolta\P\180-1
+"On 18 2010 Preston"	"announced"	"that she was pregnant with the couple 's third child http www.people"	180	query216_John_Travolta\P\180-2
+"On 18 2010 Preston"	"announced"	"that she was pregnant with the couple 's third child http www.people"	180	query216_John_Travolta\P\180-3
+"On 18 2010 Preston"	"announced"	"that she was pregnant with the couple 's third child http www.people"	180	query216_John_Travolta\P\180-4
+"the couple"	"has"	"third child"	180	query216_John_Travolta\P\180-5
+.com/people/article/0 	181	query216_John_Travolta\S\181
+,,20386272,00.html 	182	query216_John_Travolta\S\182
+John Travolta and Kelly Preston Are Expecting ! 	183	query216_John_Travolta\S\183
+May 18 , 2010 People May 18 , 2010 http ://www.people 	184	query216_John_Travolta\S\184
+.com/people/article/0 	185	query216_John_Travolta\S\185
+,,20386272,00.html 	186	query216_John_Travolta\S\186
+John Travolta and Kelly Preston Are Expecting ! 	187	query216_John_Travolta\S\187
+May 18 , 2010 People May 18 , 2010 later confirmed to be a boy . 	188	query216_John_Travolta\S\188
+"People"	"May 2010 confirmed"	"May 18 to be a boy later"	2010	query216_John_Travolta\P\188-0
+"People"	"May 2010 confirmed"	"May 18 to be a boy"	2010	query216_John_Travolta\P\188-1
+"People"	"May 2010 confirmed"	"May 18 to be a boy"	2010	query216_John_Travolta\P\188-2
+"People"	"May 2010 confirmed"	"May 18 to be a boy"	2010	query216_John_Travolta\P\188-3
+http ://celebritybabies .people 	189	query216_John_Travolta\S\189
+.com/2010/08/25/kelly-preston-and-john-travolta-expecting-a-boy/ 	190	query216_John_Travolta\S\190
+Kelly Preston and John Travolta Expecting a Boy ! 	191	query216_John_Travolta\S\191
+"John Travolta"	"be Expecting"	"a Boy"	191	query216_John_Travolta\P\191-0
+People .com 	192	query216_John_Travolta\S\192
+August 25 , 2010 November 11 , 2010 http ://celebritybabies .people 	193	query216_John_Travolta\S\193
+.com/2010/08/25/kelly-preston-and-john-travolta-expecting-a-boy/ 	194	query216_John_Travolta\S\194
+Kelly Preston and John Travolta Expecting a Boy ! 	195	query216_John_Travolta\S\195
+"John Travolta"	"be Expecting"	"a Boy"	195	query216_John_Travolta\P\195-0
+People .com 	196	query216_John_Travolta\S\196
+August 25 , 2010 November 11 , 2010 Their son , Benjamin , was born on November 23 , 2010 in Florida . 	197	query216_John_Travolta\S\197
+"August 25"	"is"	"2010 November 11"	197	query216_John_Travolta\P\197-0
+"August 25"	"is"	"2010 Their son"	197	query216_John_Travolta\P\197-1
+"August 25"	"is"	"Benjamin"	197	query216_John_Travolta\P\197-2
+"August 25"	"is"	"Benjamin"	197	query216_John_Travolta\P\197-3
+"August 25"	"was born"	"on November 23 2010 in Florida"	197	query216_John_Travolta\P\197-4
+http ://celebritybabies .people 	198	query216_John_Travolta\S\198
+.com/2010/11/24/john-travolta-kelly-preston-welcome-son-benjamin/ 	199	query216_John_Travolta\S\199
+John Travolta and Kelly Preston Welcome Son Benjamin November 24 , 2010 People .com 	200	query216_John_Travolta\S\200
+November 24 , 2010 http ://celebritybabies .people 	201	query216_John_Travolta\S\201
+.com/2010/11/24/john-travolta-kelly-preston-welcome-son-benjamin/ 	202	query216_John_Travolta\S\202
+John Travolta and Kelly Preston Welcome Son Benjamin November 24 , 2010 People .com 	203	query216_John_Travolta\S\203
+November 24 , 2010 Travolta and Preston have regularly attended marriage counseling ; Travolta has stated that therapy has helped the marriage . 	204	query216_John_Travolta\S\204
+"November 24"	"have attended"	"marriage counseling regularly"	204	query216_John_Travolta\P\204-0
+"24 2010 Travolta"	"have attended"	"marriage counseling regularly"	204	query216_John_Travolta\P\204-1
+"24 Preston"	"have attended"	"marriage counseling regularly"	204	query216_John_Travolta\P\204-2
+"November 24"	"have attended"	"marriage counseling"	204	query216_John_Travolta\P\204-3
+"24 2010 Travolta"	"have attended"	"marriage counseling"	204	query216_John_Travolta\P\204-4
+"24 Preston"	"have attended"	"marriage counseling"	204	query216_John_Travolta\P\204-5
+"24 Preston"	"have attended"	"marriage counseling"	204	query216_John_Travolta\P\204-6
+"24 Preston"	"have attended"	"marriage counseling"	204	query216_John_Travolta\P\204-7
+Linton Marilyn http ://lfpress.ca/newsstand/Today/2009/02/10/8330506-sun 	205	query216_John_Travolta\S\205
+.html 	206	query216_John_Travolta\S\206
+Therapy can keep it real when the honeymoon is over February 10 , 2009 London Free Press February 12 , 2009 September 2010 H3llBot Linton Marilyn http ://lfpress.ca/newsstand/Today/2009/02/10/8330506-sun 	207	query216_John_Travolta\S\207
+"Therapy"	"can keep"	"it real when the honeymoon is over February 10 2009 September 2010 H3llBot Linton Marilyn http"	207	query216_John_Travolta\P\207-0
+"Therapy"	"can keep"	"it real"	207	query216_John_Travolta\P\207-1
+"the honeymoon"	"is"	"over February 10 2009 September 2010 H3llBot Linton Marilyn http when"	207	query216_John_Travolta\P\207-2
+"the honeymoon"	"is"	"over February 10 2009 September 2010 H3llBot Linton Marilyn http"	207	query216_John_Travolta\P\207-3
+"February 10"	"is"	"2009 London Free Press February 12"	207	query216_John_Travolta\P\207-4
+.html 	208	query216_John_Travolta\S\208
+Therapy can keep it real when the honeymoon is over February 10 , 2009 London Free Press February 12 , 2009 September 2010 H3llBot Travolta is a certified private pilot and owns five aircraft , including an ex - Qantas Boeing 707–138 airliner . 	209	query216_John_Travolta\S\209
+"Therapy"	"can keep"	"it real when the honeymoon is over February 10 is a certified private pilot"	209	query216_John_Travolta\P\209-0
+"Therapy"	"can keep"	"it real when the honeymoon is over February 10 is a certified private owns five aircraft including an ex Qantas Boeing 707 138 airliner"	209	query216_John_Travolta\P\209-1
+"Therapy"	"can keep"	"it real"	209	query216_John_Travolta\P\209-2
+"the honeymoon"	"is"	"over February 10 is a certified private pilot when"	209	query216_John_Travolta\P\209-3
+"the honeymoon"	"is"	"over February 10 is a certified private owns five aircraft including an ex Qantas Boeing 707 138 airliner when"	209	query216_John_Travolta\P\209-4
+"the honeymoon"	"is"	"over February 10 is a certified private pilot"	209	query216_John_Travolta\P\209-5
+"the honeymoon"	"is"	"over February 10 is a certified private owns five aircraft including an ex Qantas Boeing 707 138 airliner"	209	query216_John_Travolta\P\209-6
+"February 10"	"is"	"2009 London Free Press February 12"	209	query216_John_Travolta\P\209-7
+"February 10"	"is"	"2009 September 2010 H3llBot Travolta"	209	query216_John_Travolta\P\209-8
+"February 10"	"is"	"a certified private pilot"	209	query216_John_Travolta\P\209-9
+"February 10"	"is"	"a certified private owns five aircraft including an ex Qantas Boeing 707 138 airliner"	209	query216_John_Travolta\P\209-10
+The plane bears the name Jett Clipper Ella in honor of his children . 	210	query216_John_Travolta\S\210
+"The plane"	"bears"	"the name Jett Clipper Ella in honor of his children"	210	query216_John_Travolta\P\210-0
+"The plane"	"bears"	"the name Jett Clipper Ella in honor of his children"	210	query216_John_Travolta\P\210-1
+http ://blog .flightstory 	211	query216_John_Travolta\S\211
+.net/45/john-travoltas-boeing-707/ 	212	query216_John_Travolta\S\212
+Pan American World Airways was a large operator of the Boeing 707 and used Clipper in its names . 	213	query216_John_Travolta\S\213
+"Pan American World Airways"	"was a large operator"	"of the Boeing 707"	213	query216_John_Travolta\P\213-0
+"Pan American World Airways"	"was"	"a large operator"	213	query216_John_Travolta\P\213-1
+"Pan American World Airways"	"was"	"a large used of the Boeing 707 Clipper"	213	query216_John_Travolta\P\213-2
+"Pan American World Airways"	"was"	"a large used Clipper in its names"	213	query216_John_Travolta\P\213-3
+"Pan American World Airways"	"was"	"a large used Clipper"	213	query216_John_Travolta\P\213-4
+"Pan American World Airways"	"was"	"a large used Clipper"	213	query216_John_Travolta\P\213-5
+The 707 aircraft bears the marks of Qantas , as Travolta acts as an official goodwill ambassador for the airline wherever he flies . 	214	query216_John_Travolta\S\214
+"The 707 aircraft"	"bears"	"the marks of Qantas as Travolta acts as an official goodwill ambassador for the airline wherever he flies"	214	query216_John_Travolta\P\214-0
+"The 707 aircraft"	"bears"	"the marks of Qantas"	214	query216_John_Travolta\P\214-1
+"The 707 aircraft"	"bears"	"the marks of Qantas"	214	query216_John_Travolta\P\214-2
+"The 707 aircraft"	"bears"	"the marks of Qantas"	214	query216_John_Travolta\P\214-3
+"The 707 aircraft"	"bears"	"the marks of Qantas"	214	query216_John_Travolta\P\214-4
+His $ 4.9&nbsp;million 	215	query216_John_Travolta\S\215
+estate in the Jumbolair subdivision in Ocala_ Florida , is situated on Greystone Airport with its own runway and taxiway right to his front door . 	216	query216_John_Travolta\S\216
+"estate in the Jumbolair subdivision in Ocala _ Florida"	"is situated"	"on Greystone Airport with its own runway"	216	query216_John_Travolta\P\216-0
+"estate in the Jumbolair subdivision in Ocala _ Florida"	"is situated"	"on Greystone Airport with its own taxiway right to his front door"	216	query216_John_Travolta\P\216-1
+"estate in the Jumbolair subdivision in Ocala _ Florida"	"is situated"	"on Greystone Airport"	216	query216_John_Travolta\P\216-2
+"estate in the Jumbolair subdivision in Ocala _ Florida"	"is situated"	"on Greystone Airport"	216	query216_John_Travolta\P\216-3
+"estate in the Jumbolair subdivision in Ocala _ Florida"	"is situated"	"on Greystone Airport"	216	query216_John_Travolta\P\216-4
+Kelly Preston showed a picture of this on the August 29 , 2007 , episode of Late Night with Conan O'Brien . 	217	query216_John_Travolta\S\217
+"Kelly Preston"	"showed"	"a picture of this on the August 29 2007"	217	query216_John_Travolta\P\217-0
+"August 29 2007"	"is"	"episode of Late Night with Conan O'Brien"	217	query216_John_Travolta\P\217-1
+On November 24 , 1992 , Travolta was piloting his Gulfstream N728T at night on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport . 	218	query216_John_Travolta\S\218
+On November 24 , 1992 , Travolta was piloting his Gulfstream N728T at night on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport . 	218	query216_John_Travolta\S\218
+On November 24 , 1992 , Travolta was piloting his Gulfstream N728T at night on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport . 	218	query216_John_Travolta\S\218
+On November 24 , 1992 , Travolta was piloting his Gulfstream N728T at night on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport . 	218	query216_John_Travolta\S\218
+On November 24 , 1992 , Travolta was piloting his Gulfstream N728T at night on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport . 	218	query216_John_Travolta\S\218
+On November 24 , 1992 , Travolta was piloting his Gulfstream N728T at night on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport . 	218	query216_John_Travolta\S\218
+On November 24 , 1992 , Travolta was piloting his Gulfstream N728T at night on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport . 	218	query216_John_Travolta\S\218
+On November 24 , 1992 , Travolta was piloting his Gulfstream N728T at night on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport . 	218	query216_John_Travolta\S\218
+On November 24 , 1992 , Travolta was piloting his Gulfstream N728T at night on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport . 	218	query216_John_Travolta\S\218
+During the emergency landing he almost had a mid-air collision with a USAir Boeing 727 , attributed to a risky decision by an air traffic controller . 	219	query216_John_Travolta\S\219
+During the emergency landing he almost had a mid-air collision with a USAir Boeing 727 , attributed to a risky decision by an air traffic controller . 	219	query216_John_Travolta\S\219
+During the emergency landing he almost had a mid-air collision with a USAir Boeing 727 , attributed to a risky decision by an air traffic controller . 	219	query216_John_Travolta\S\219
+"During the emergency landing"	"attributed"	"to a risky decision by an air traffic controller"	219	query216_John_Travolta\P\219-0
+http ://articles .orlandosentinel.com/1995-03-27/news/9503270179_1_joseph-travolta-actor-john-travolta-mid-air-collision 	220	query216_John_Travolta\S\220
+On September 13 , 2010 , during the first episode of the final season of her talk show , Oprah Winfrey announced that she would be taking her entire studio audience on an 8-day expenses-paid trip to Australia , with Travolta serving as pilot for the trip . 	221	query216_John_Travolta\S\221
+On September 13 , 2010 , during the first episode of the final season of her talk show , Oprah Winfrey announced that she would be taking her entire studio audience on an 8-day expenses-paid trip to Australia , with Travolta serving as pilot for the trip . 	221	query216_John_Travolta\S\221
+"Oprah Winfrey"	"announced"	"that she would be taking her entire studio audience on an 8-day expenses-paid trip to Australia with Travolta serving as pilot for the trip 221 On September 13 2010 during the first episode of the final season of her talk show"	221	query216_John_Travolta\P\221-0
+"Oprah Winfrey"	"announced"	"that she would be taking her entire studio audience on an 8-day expenses-paid trip to Australia with Travolta serving as pilot for the trip 221 On September 13 2010 during the first episode of the final season of her talk show"	221	query216_John_Travolta\P\221-1
+"Oprah Winfrey"	"announced"	"that she would be taking her entire studio audience on an 8-day expenses-paid trip to Australia with Travolta serving as pilot for the trip 221 On September 13 2010 during the first episode of the final season of her talk show"	221	query216_John_Travolta\P\221-2
+"Oprah Winfrey"	"announced"	"that she would be taking her entire studio audience on an 8-day expenses-paid trip to Australia with Travolta serving as pilot for the trip 221 On September 13 2010 during the first episode of the final season of her talk show"	221	query216_John_Travolta\P\221-3
+"Oprah Winfrey"	"announced"	"that she would be taking her entire studio audience on an 8-day expenses-paid trip to Australia with Travolta serving as pilot for the trip 221 On September 13 2010 during the first episode of the final season of her talk show"	221	query216_John_Travolta\P\221-4
+He had helped Winfrey plan the trip for over a year . 	222	query216_John_Travolta\S\222
+He had helped Winfrey plan the trip for over a year . 	222	query216_John_Travolta\S\222
+He had helped Winfrey plan the trip for over a year . 	222	query216_John_Travolta\S\222
+http ://www.nbcchicago.com/news/local-beat/Oprah-Takes-Audience-Down-Under-102775699.html 	223	query216_John_Travolta\S\223
+Oprah Taking Audience Down Under , with Travolta at Controls Ally Clark NBC Chicago September 13 , 2010 September 14 , 2010 http ://www.nbcchicago.com/news/local-beat/Oprah-Takes-Audience-Down-Under-102775699.html 	224	query216_John_Travolta\S\224
+"Oprah"	"Taking"	"Audience Down Under"	224	query216_John_Travolta\P\224-0
+"Oprah"	"Taking"	"Audience Down with Travolta at Controls Ally Clark NBC Chicago September 13 2010 September 14 www.nbcchicago.com/news/local-beat/Oprah-Takes-Audience-Down-Under-102775699.html"	224	query216_John_Travolta\P\224-1
+"September 14"	"is"	"2010 http"	2010	query216_John_Travolta\P\224-2
+Oprah Taking Audience Down Under , with Travolta at Controls Ally Clark NBC Chicago September 13 , 2010 September 14 , 2010 Travolta has been a practitioner of Scientology since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango , Mexico . 	225	query216_John_Travolta\S\225
+"Oprah"	"Taking"	"Audience Down Under with Travolta at Controls Ally Clark NBC Chicago September 13 2010 September 14 2010 Travolta has been a practitioner of Scientology since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango"	225	query216_John_Travolta\P\225-0
+"Oprah"	"Taking"	"Audience Down Under with Travolta at Controls Ally Clark NBC Chicago September 13 2010 September 14 2010 Travolta has been a practitioner of Scientology since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango"	225	query216_John_Travolta\P\225-1
+"Oprah"	"Taking"	"Audience Down Under with Travolta at Controls Ally Clark NBC Chicago September 13 2010 September 14 2010 Travolta has been a practitioner of Scientology since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango"	225	query216_John_Travolta\P\225-2
+"Oprah"	"Taking"	"Audience Down Under with Travolta at Controls Ally Clark NBC Chicago September 13 2010 September 14 2010 Travolta has been a practitioner of Scientology since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango"	225	query216_John_Travolta\P\225-3
+"Oprah"	"Taking"	"Audience Down Under with Travolta at Controls Ally Clark NBC Chicago September 13 2010 September 14 2010 Travolta has been a practitioner of Scientology since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango"	225	query216_John_Travolta\P\225-4
+"Oprah"	"Taking"	"Audience Down Under with Travolta at Controls Ally Clark NBC Chicago September 13 2010 September 14 2010 Travolta has been a practitioner of Scientology since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango"	225	query216_John_Travolta\P\225-5
+"Oprah"	"Taking"	"Audience Down Under with Travolta at Controls Ally Clark NBC Chicago September 13 2010 September 14 2010 Travolta has been a practitioner of Scientology since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango"	225	query216_John_Travolta\P\225-6
+"Oprah"	"Taking"	"Audience Down Under with Travolta at Controls Ally Clark NBC Chicago September 13 2010 September 14 2010 Travolta has been a practitioner of Scientology since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango"	225	query216_John_Travolta\P\225-7
+"The Devil"	"has"	"Rain in Durango"	225	query216_John_Travolta\P\225-8
+"The Devil"	"has"	"Rain in Durango"	225	query216_John_Travolta\P\225-9
+Successes of Scientology http ://www.whatisscientology 	226	query216_John_Travolta\S\226
+.org/html/Part05/chp19/pg0308.html 	227	query216_John_Travolta\S\227
+Church of Scientology International May 2007 May 21 , 2007 Successes of Scientology http ://www.whatisscientology 	228	query216_John_Travolta\S\228
+"May 21"	"is"	"2007 Successes of Scientology http"	2007	query216_John_Travolta\P\228-0
+.org/html/Part05/chp19/pg0308.html 	229	query216_John_Travolta\S\229
+Church of Scientology International May 2007 May 21 , 2007 After the 2010 Haiti earthquake , joining other celebrities in helping with the relief efforts , Travolta flew his 707 full of supplies , doctors , and Scientologist Volunteer Ministers into the disaster area . 	230	query216_John_Travolta\S\230
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-0
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-1
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-2
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-3
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-4
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-5
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-6
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-7
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-8
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-9
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-10
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-11
+"May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts"	"be joining"	"other celebrities"	230	query216_John_Travolta\P\230-12
+John Travolta 's mercy flight to Haiti http ://marquee .blogs 	231	query216_John_Travolta\S\231
+.cnn.com/2010/01/25/john-travoltas-mercy-flight-to-haiti/ 	232	query216_John_Travolta\S\232
+?hpt=T2 Douglas Hyde – CNN Entertainment Producer January 25 , 2010 January 26 , 2010 John Travolta 's mercy flight to Haiti http ://marquee .blogs 	233	query216_John_Travolta\S\233
+.cnn.com/2010/01/25/john-travoltas-mercy-flight-to-haiti/ 	234	query216_John_Travolta\S\234
+?hpt=T2 Douglas Hyde – CNN Entertainment Producer January 25 , 2010 January 26 , 2010 On January 2 , 2009 , Travolta and Preston 's son , Jett , died while on their holiday vacation in The Bahamas . 	235	query216_John_Travolta\S\235
+?hpt=T2 Douglas Hyde – CNN Entertainment Producer January 25 , 2010 January 26 , 2010 On January 2 , 2009 , Travolta and Preston 's son , Jett , died while on their holiday vacation in The Bahamas . 	235	query216_John_Travolta\S\235
+"CNN Entertainment Producer January 25 2010 On January 2 2009"	"is"	"2010 January 26"	235	query216_John_Travolta\P\235-0
+"CNN Entertainment Producer 25 2010 On January 2 2009 Travolta"	"is"	"2010 January 26"	235	query216_John_Travolta\P\235-1
+"CNN Entertainment Producer 25 2010 On January 2 2009 Preston 's son"	"is"	"2010 January 26"	235	query216_John_Travolta\P\235-2
+"CNN Entertainment Producer 25 2010 On January 2 2009 Preston 's son"	"is"	"2010 January 26"	235	query216_John_Travolta\P\235-3
+"Preston 's son"	"is"	"Jett"	235	query216_John_Travolta\P\235-4
+"T2 Douglas Hyde CNN Entertainment Producer January 25 2010 On January 2 2009"	"died"	"while on their holiday vacation in The Bahamas"	235	query216_John_Travolta\P\235-5
+"T2 Douglas Hyde CNN Entertainment Producer 25 2010 On January 2 2009 Travolta"	"died"	"while on their holiday vacation in The Bahamas"	235	query216_John_Travolta\P\235-6
+"T2 Douglas Hyde CNN Entertainment Producer 25 2010 On January 2 2009 Preston 's son"	"died"	"while on their holiday vacation in The Bahamas"	235	query216_John_Travolta\P\235-7
+Jett Travolta , son of actors , dies at 16 CNN http ://www.cnn.com/2009/SHOWBIZ/Movies/01/02/obit 	236	query216_John_Travolta\S\236
+"Jett Travolta"	"is"	"son of actors"	236	query216_John_Travolta\P\236-0
+"Jett Travolta"	"dies"	"at 16 CNN http www.cnn.com/2009/SHOWBIZ/Movies/01/02/obit"	236	query216_John_Travolta\P\236-1
+"Jett Travolta"	"dies"	"www.cnn.com/2009/SHOWBIZ/Movies/01/02/obit"	236	query216_John_Travolta\P\236-2
+.jett.travolta/ 	237	query216_John_Travolta\S\237
+January 2 , 2009 January 2 , 2009 Jett Travolta , son of actors , dies at 16 CNN http ://www.cnn.com/2009/SHOWBIZ/Movies/01/02/obit 	238	query216_John_Travolta\S\238
+"January 2"	"is"	"2009 January 2"	238	query216_John_Travolta\P\238-0
+"January 2"	"is"	"2009 Jett Travolta"	238	query216_John_Travolta\P\238-1
+"January 2"	"is"	"son of actors"	238	query216_John_Travolta\P\238-2
+"January 2"	"dies"	"at 16 CNN http www.cnn.com/2009/SHOWBIZ/Movies/01/02/obit"	238	query216_John_Travolta\P\238-3
+"January 2"	"dies"	"www.cnn.com/2009/SHOWBIZ/Movies/01/02/obit"	238	query216_John_Travolta\P\238-4
+.jett.travolta/ 	239	query216_John_Travolta\S\239
+January 2 , 2009 January 2 , 2009 John Travolta 's teenage son dies http ://news .bbc.co.uk/2/hi/entertainment/7809172.stm 	240	query216_John_Travolta\S\240
+BBC News Online BBC January 2 , 2009 January 2 , 2009 John Travolta 's teenage son dies http ://news .bbc.co.uk/2/hi/entertainment/7809172.stm 	241	query216_John_Travolta\S\241
+BBC News Online BBC January 2 , 2009 January 2 , 2009 A Bahamian death certificate was issued , attributing the cause of death to a seizure . 	242	query216_John_Travolta\S\242
+"BBC January 2"	"is"	"2009 A Bahamian death certificate"	242	query216_John_Travolta\P\242-0
+"BBC January 2"	"is"	"2009 January 2"	242	query216_John_Travolta\P\242-1
+"BBC January 2"	"was issued"	"Online"	242	query216_John_Travolta\P\242-2
+"BBC January 2"	"was issued"	"Online"	242	query216_John_Travolta\P\242-3
+"BBC January 2"	"was issued"	"Online"	242	query216_John_Travolta\P\242-4
+http ://abcnews.go.com/Entertainment/MindMoodNews/story 	243	query216_John_Travolta\S\243
+?id=6576215&page=1 Death Certificate : John Travolta 's Son Died of a Seizure ABC News January 5 , 2009 January 5 , 2009 http ://abcnews.go.com/Entertainment/MindMoodNews/story 	244	query216_John_Travolta\S\244
+"John Travolta"	"has"	"Son"	244	query216_John_Travolta\P\244-0
+"John Travolta 's Son"	"Died"	"of a Seizure ABC News January 5"	244	query216_John_Travolta\P\244-1
+"a Seizure ABC News January 5"	"is"	"2009 January 5"	244	query216_John_Travolta\P\244-2
+"a Seizure ABC News January 5"	"is"	"2009 http"	244	query216_John_Travolta\P\244-3
+?id=6576215&page=1 Death Certificate : John Travolta 's Son Died of a Seizure ABC News January 5 , 2009 January 5 , 2009 Jett , who had a history of seizures , http ://www.people 	245	query216_John_Travolta\S\245
+"John Travolta"	"has"	"Son"	245	query216_John_Travolta\P\245-0
+"John Travolta 's Son"	"Died"	"of a Seizure ABC News January 5"	245	query216_John_Travolta\P\245-1
+"a Seizure ABC News January 5"	"is"	"http"	245	query216_John_Travolta\P\245-2
+"a Seizure ABC News January 5"	"is"	"2009 January 5"	245	query216_John_Travolta\P\245-3
+"a Seizure ABC News January 5"	"is"	"2009 Jett"	245	query216_John_Travolta\P\245-4
+"a Seizure ABC News January 5"	"had"	"a history of seizures"	245	query216_John_Travolta\P\245-5
+.com/people/article/0 	246	query216_John_Travolta\S\246
+,,20249865,00.html 	247	query216_John_Travolta\S\247
+John Travolta 's 16-Year-Old Son Dies People January 2 , 2009 January 4 , 2009 http ://www.people 	248	query216_John_Travolta\S\248
+"John Travolta"	"has"	"16-Year-Old Son"	248	query216_John_Travolta\P\248-0
+"John Travolta 's 16-Year-Old Son"	"Dies"	"People January 2 2009 January 4 2009 http www.people"	248	query216_John_Travolta\P\248-1
+.com/people/article/0 	249	query216_John_Travolta\S\249
+,,20249865,00.html 	250	query216_John_Travolta\S\250
+John Travolta 's 16-Year-Old Son Dies People January 2 , 2009 January 4 , 2009 reportedly suffered from Kawasaki disease as an infant . 	251	query216_John_Travolta\S\251
+"John Travolta"	"has"	"16-Year-Old Son"	251	query216_John_Travolta\P\251-0
+"John Travolta 's 16-Year-Old Son"	"Dies"	"People January 2"	251	query216_John_Travolta\P\251-1
+"January 2"	"is"	"2009 reportedly suffered from Kawasaki disease as an infant"	251	query216_John_Travolta\P\251-2
+"January 2"	"is"	"2009 January 4"	251	query216_John_Travolta\P\251-3
+"January 2"	"is"	"2009 January 4"	251	query216_John_Travolta\P\251-4
+"January 2"	"is"	"2009 January 4"	251	query216_John_Travolta\P\251-5
+"January 2"	"is"	"2009 January 4"	251	query216_John_Travolta\P\251-6
+Errico Marcus http ://uk .eonline 	252	query216_John_Travolta\S\252
+.com/uberblog/b77259_john_travoltas_son_jett_dead_16.html 	253	query216_John_Travolta\S\253
+John Travolta 's Son Jett Dead at 16 E! 	254	query216_John_Travolta\S\254
+"John Travolta"	"has"	"Son Jett Dead at 16 E!"	254	query216_John_Travolta\P\254-0
+Online January 2 , 2009 January 2 , 2009 Errico Marcus http ://uk .eonline 	255	query216_John_Travolta\S\255
+.com/uberblog/b77259_john_travoltas_son_jett_dead_16.html 	256	query216_John_Travolta\S\256
+John Travolta 's Son Jett Dead at 16 E! 	257	query216_John_Travolta\S\257
+"John Travolta"	"has"	"Son Jett Dead at 16 E!"	257	query216_John_Travolta\P\257-0
+Online January 2 , 2009 January 2 , 2009 On September 24 , 2009 , Steve L. 	258	query216_John_Travolta\S\258
+"January 2"	"is"	"2009 January 2"	258	query216_John_Travolta\P\258-0
+"January 2"	"is"	"2009 On September 24 2009"	258	query216_John_Travolta\P\258-1
+Heureux Travolta finally admits that son had Autism The Examiner September 24 , 2009 September 24 , 2009 http ://www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism 	259	query216_John_Travolta\S\259
+"Heureux Travolta"	"admits"	"that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism finally"	259	query216_John_Travolta\P\259-0
+"Heureux Travolta"	"admits"	"that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism"	259	query216_John_Travolta\P\259-1
+"Heureux Travolta"	"admits"	"that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism"	259	query216_John_Travolta\P\259-2
+October 2010 H3llBot Steve L. 	260	query216_John_Travolta\S\260
+Heureux Travolta finally admits that son had Autism The Examiner September 24 , 2009 September 24 , 2009 http ://www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism 	261	query216_John_Travolta\S\261
+"Heureux Travolta"	"admits"	"that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism finally"	261	query216_John_Travolta\P\261-0
+"Heureux Travolta"	"admits"	"that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism"	261	query216_John_Travolta\P\261-1
+"Heureux Travolta"	"admits"	"that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism"	261	query216_John_Travolta\P\261-2
+October 2010 H3llBot Travolta and Preston confirmed speculations that their son had autism and suffered regular seizures . 	262	query216_John_Travolta\S\262
+"October 2010 H3llBot Travolta"	"confirmed"	"speculations that their son had autism"	262	query216_John_Travolta\P\262-0
+"October 2010 H3llBot Travolta"	"confirmed"	"speculations that their son autism suffered regular seizures"	262	query216_John_Travolta\P\262-1
+"October 2010 H3llBot Preston"	"confirmed"	"speculations that their son had autism"	262	query216_John_Travolta\P\262-2
+"October 2010 H3llBot Preston"	"confirmed"	"speculations that their son autism suffered regular seizures"	262	query216_John_Travolta\P\262-3
+"October 2010 H3llBot Preston"	"confirmed"	"speculations that their son autism suffered regular seizures"	262	query216_John_Travolta\P\262-4
+"their son"	"had"	"autism"	262	query216_John_Travolta\P\262-5
+"their son"	"suffered"	"autism regular seizures"	262	query216_John_Travolta\P\262-6
+Mary Rose Abraham From John Travolta : I Ran Down the Stairs To Help My Son ABC News September 23 , 2009 September 23 , 2009 http ://abcnews.go.com/Entertainment/john-travolta-bahamas-testify-extortion-case/story 	263	query216_John_Travolta\S\263
+"I Ran Down the Stairs"	"be Help"	"My Son ABC News September 23 abcnews.go.com/Entertainment/john-travolta-bahamas-testify-extortion-case/story"	263	query216_John_Travolta\P\263-0
+"I Ran Down the Stairs"	"be Help"	"My Son ABC News September 23 abcnews.go.com/Entertainment/john-travolta-bahamas-testify-extortion-case/story"	263	query216_John_Travolta\P\263-1
+"My Son ABC News September 23"	"is"	"2009 September 23"	263	query216_John_Travolta\P\263-2
+"My Son ABC News September 23"	"is"	"2009 http"	263	query216_John_Travolta\P\263-3
+?id=8649816 Mary Rose Abraham From John Travolta : I Ran Down the Stairs To Help My Son ABC News September 23 , 2009 September 23 , 2009 http ://abcnews.go.com/Entertainment/john-travolta-bahamas-testify-extortion-case/story 	264	query216_John_Travolta\S\264
+"My Son ABC News September 23"	"is"	"2009 September 23"	264	query216_John_Travolta\P\264-0
+"My Son ABC News September 23"	"is"	"2009 http"	264	query216_John_Travolta\P\264-1
+"My Son ABC News September 23"	"is"	"2009 http"	264	query216_John_Travolta\P\264-2
+?id=8649816 They made their statements while giving testimony after a multi-million dollar extortion plot against them regarding the circumstances of their son 's death . 	265	query216_John_Travolta\S\265
+?id=8649816 They made their statements while giving testimony after a multi-million dollar extortion plot against them regarding the circumstances of their son 's death . 	265	query216_John_Travolta\S\265
+?id=8649816 They made their statements while giving testimony after a multi-million dollar extortion plot against them regarding the circumstances of their son 's death . 	265	query216_John_Travolta\S\265
+?id=8649816 They made their statements while giving testimony after a multi-million dollar extortion plot against them regarding the circumstances of their son 's death . 	265	query216_John_Travolta\S\265
+?id=8649816 They made their statements while giving testimony after a multi-million dollar extortion plot against them regarding the circumstances of their son 's death . 	265	query216_John_Travolta\S\265
+"their son"	"has"	"death"	265	query216_John_Travolta\P\265-0
+After a mistrial , Usborne David http ://www.independent.co.uk/news/people/news/judge-declares-mistrial-in-travolta-extortion-case-1807653.html 	266	query216_John_Travolta\S\266
+Judge declares mistrial in Travolta extortion case The Independent October 23 , 2009 June 28 , 2011 Usborne David http ://www.independent.co.uk/news/people/news/judge-declares-mistrial-in-travolta-extortion-case-1807653.html 	267	query216_John_Travolta\S\267
+"Judge"	"declares"	"mistrial in Travolta extortion case The Independent October 23 www.independent.co.uk/news/people/news/judge-declares-mistrial-in-travolta-extortion-case-1807653.html"	267	query216_John_Travolta\P\267-0
+"The Independent October 23"	"is"	"2009 June 28 2011 Usborne David http"	267	query216_John_Travolta\P\267-1
+Judge declares mistrial in Travolta extortion case The Independent October 23 , 2009 June 28 , 2011 Travolta dropped the charges . 	268	query216_John_Travolta\S\268
+"Judge"	"declares"	"mistrial in Travolta extortion case The Independent October 23"	268	query216_John_Travolta\P\268-0
+"Judge"	"declares"	"mistrial in Travolta extortion case The Independent October 23"	268	query216_John_Travolta\P\268-1
+"Judge"	"declares"	"mistrial in Travolta extortion case The Independent October 23"	268	query216_John_Travolta\P\268-2
+Allen Nick http ://www.telegraph.co.uk/news/celebritynews/7985783/John-Travolta-to-drop-charges-in-extortion-case 	269	query216_John_Travolta\S\269
+.html 	270	query216_John_Travolta\S\270
+John Travolta to drop charges in extortion case The Telegraph September 6 , 2010 June 28 , 2011 Allen Nick http ://www.telegraph.co.uk/news/celebritynews/7985783/John-Travolta-to-drop-charges-in-extortion-case 	271	query216_John_Travolta\S\271
+"John Travolta"	"to drop"	"charges in extortion case The Telegraph September 6 www.telegraph.co.uk/news/celebritynews/7985783/John-Travolta-to-drop-charges-in-extortion-case"	271	query216_John_Travolta\P\271-0
+"The Telegraph September 6 www.telegraph.co.uk/news/celebritynews/7985783/John-Travolta-to-drop-charges-in-extortion-case"	"is"	"2010 June 28"	271	query216_John_Travolta\P\271-1
+"The Telegraph September 6 www.telegraph.co.uk/news/celebritynews/7985783/John-Travolta-to-drop-charges-in-extortion-case"	"is"	"2011 Allen Nick http"	271	query216_John_Travolta\P\271-2
+.html 	272	query216_John_Travolta\S\272
+John Travolta to drop charges in extortion case The Telegraph September 6 , 2010 June 28 , 2011 Travolta has credited his family and faith in helping him survive the tragic death of his son , and in moving forward with his film career . 	273	query216_John_Travolta\S\273
+"John Travolta"	"to drop"	"charges in extortion case"	273	query216_John_Travolta\P\273-0
+"The Telegraph September 6"	"is"	"2010 June 28"	273	query216_John_Travolta\P\273-1
+"The Telegraph September 6"	"is"	"2011 Travolta"	273	query216_John_Travolta\P\273-2
+"The Telegraph September 6"	"has credited"	"his family in helping him survive the tragic death of his son charges in extortion case"	273	query216_John_Travolta\P\273-3
+"The Telegraph September 6"	"has credited"	"his faith in helping him survive the tragic death of his son charges in extortion case"	273	query216_John_Travolta\P\273-4
+"The Telegraph September 6"	"has credited"	"his family charges in extortion case"	273	query216_John_Travolta\P\273-5
+"The Telegraph September 6"	"has credited"	"his faith charges in extortion case"	273	query216_John_Travolta\P\273-6
+"The Telegraph September 6"	"has in moving forward with his film career"	"his family charges in extortion case in helping him survive the tragic death of his son"	273	query216_John_Travolta\P\273-7
+"The Telegraph September 6"	"has in moving forward with his film career"	"his faith charges in extortion case in helping him survive the tragic death of his son"	273	query216_John_Travolta\P\273-8
+"The Telegraph September 6"	"has in moving forward with his film career"	"his family charges in extortion case"	273	query216_John_Travolta\P\273-9
+"The Telegraph September 6"	"has in moving forward with his film career"	"his faith charges in extortion case"	273	query216_John_Travolta\P\273-10
+"The Telegraph September 6"	"has in moving forward with his film career"	"his faith charges in extortion case"	273	query216_John_Travolta\P\273-11
+"The Telegraph September 6"	"has in moving forward with his film career"	"his faith charges in extortion case"	273	query216_John_Travolta\P\273-12
+"The Telegraph September 6"	"has in moving forward with his film career"	"his faith charges in extortion case"	273	query216_John_Travolta\P\273-13
+"The Telegraph September 6"	"has in moving forward with his film career"	"his faith charges in extortion case"	273	query216_John_Travolta\P\273-14
+http ://www .huffingtonpost.com/2010/01/28/john-travolta-scientology_n_441399.html 	274	query216_John_Travolta\S\274
+John Travolta : Scientology Helped Me Heal huffingtonpost.com 	275	query216_John_Travolta\S\275
+John Travolta : Scientology Helped Me Heal huffingtonpost.com 	275	query216_John_Travolta\S\275
+John Travolta : Scientology Helped Me Heal huffingtonpost.com 	275	query216_John_Travolta\S\275
+January 28 , 2010 June 13 , 2011 http ://www .huffingtonpost.com/2010/01/28/john-travolta-scientology_n_441399.html 	276	query216_John_Travolta\S\276
+John Travolta : Scientology Helped Me Heal huffingtonpost.com 	277	query216_John_Travolta\S\277
+John Travolta : Scientology Helped Me Heal huffingtonpost.com 	277	query216_John_Travolta\S\277
+John Travolta : Scientology Helped Me Heal huffingtonpost.com 	277	query216_John_Travolta\S\277
+January 28 , 2010 June 13 , 2011 Scientology 30em news on this topic Court revelation by John Travolta of son 's disease sparks autism debate Testimony by John Travolta that son was autistic raises Scientology questions John Travolta 's 16-year-old son dies John Travolta December 2010 Travolta , John Travolta , John Joseph Actor , singer , dancer February 18 , 1954 Englewood _ New Jersey , U.S. 	278	query216_John_Travolta\S\278
+"January 28 2011 Scientology 30em news on this topic Court revelation by John Travolta of son 's disease sparks autism debate Testimony by John Travolta that son was autistic raises Scientology questions"	"is"	"2010 June 13"	278	query216_John_Travolta\P\278-0
+"January 28 2011 Scientology 30em news on this topic Court revelation by John Travolta of son 's disease sparks autism debate Testimony by John Travolta that son was autistic raises Scientology questions"	"is"	"2010 June 13"	278	query216_John_Travolta\P\278-1
+"Scientology 30em news on this topic Court revelation by John Travolta of son 's disease"	"sparks"	"autism debate Testimony by John Travolta"	2011	query216_John_Travolta\P\278-2
+"Scientology 30em news on this topic Court revelation by John Travolta of son 's disease"	"sparks"	"autism debate Testimony"	2011	query216_John_Travolta\P\278-3
+"Scientology 30em news on this topic Court revelation by John Travolta of son 's disease"	"sparks"	"autism debate Testimony"	2011	query216_John_Travolta\P\278-4
+"John Travolta"	"has"	"16-year-old son"	2011	query216_John_Travolta\P\278-5
+"John Travolta 's 16-year-old son"	"dies"	"John Travolta December 2010 Travolta Scientology questions"	2011	query216_John_Travolta\P\278-6
+"John Travolta December 2010 Travolta"	"is"	"John Travolta"	2011	query216_John_Travolta\P\278-7
+"John Travolta December 2010 Travolta"	"is"	"U.S."	2011	query216_John_Travolta\P\278-8
+"John Travolta December 2010 Travolta"	"is"	"John Joseph Actor"	2011	query216_John_Travolta\P\278-9
+"John Joseph Actor"	"is"	"singer"	2011	query216_John_Travolta\P\278-10
+"John Joseph Actor"	"is"	"dancer February 18 1954 Englewood _ New Jersey"	2011	query216_John_Travolta\P\278-11
+Category :1954 births Category :20th-century actors Category :21st-century actors Category :Actors from New Jersey Category :American aviators Category :American dancers Category :American film actors Category :American male singers Category :American musical theatre actors Category :American musicians of Irish descent Category :American musicians of Italian descent Category :American people of Irish descent Category :American people of Italian descent Category :American pop singers Category :American Scientologists Category :American television actors Category :Best Musical or Comedy Actor Golden Globe ( film ) winners Category :Converts from Roman Catholicism Category :Former Roman Catholics Category :Living people Category :People from Englewood _ New Jersey ar :جون ترافولتا an:John Travolta az:Con Travolta be :Джон Траволта be-x-old :Джон Траволта bs :John Travolta bg :Джон Траволта ca :John Travolta cs :John Travolta co:John Travolta cy :John Travolta da:John Travolta de:John Travolta et :John Travolta el :Τζον Τραβόλτα es :John Travolta eo:John Travolta eu:John Travolta fa :جان تراولتا fr:John Travolta ga:John Travolta gd :John Travolta gl:John Travolta ko :존 트래볼타 hy :Ջոն Տրավոլտա hr:John Travolta io:John Travolta id :John Travolta is :John Travolta it :John Travolta he :ג'ון טרבולטה sw:John Travolta la:Ioannes Travolta lv:Džons Travolta lt :John Travolta hu:John Travolta nah :John Travolta nl :John Travolta ja :ジョン・トラボルタ no:John Travolta nn:John Travolta oc:John Travolta pl:John Travolta pt:John Travolta ro:John Travolta ru:Траволта _ Джон simple :John Travolta sr :Џон Траволта sh:John Travolta fi:John Travolta sv:John Travolta tl:John Travolta th :จอห์น ทราโวลตา tr :John Travolta uk :Джон Траволта yi :זשאן טראוואלטע zh :约翰·特拉沃尔塔 " Dream Drummin ( 1974 ) " Easy Evil " ( 1975 ) " Can't Let You Go " ( 1975 ) " You Set My Dreams To Music " ( 1976 ) " Goodnight Mr. 	279	query216_John_Travolta\S\279
+Category :1954 births Category :20th-century actors Category :21st-century actors Category :Actors from New Jersey Category :American aviators Category :American dancers Category :American film actors Category :American male singers Category :American musical theatre actors Category :American musicians of Irish descent Category :American musicians of Italian descent Category :American people of Irish descent Category :American people of Italian descent Category :American pop singers Category :American Scientologists Category :American television actors Category :Best Musical or Comedy Actor Golden Globe ( film ) winners Category :Converts from Roman Catholicism Category :Former Roman Catholics Category :Living people Category :People from Englewood _ New Jersey ar :جون ترافولتا an:John Travolta az:Con Travolta be :Джон Траволта be-x-old :Джон Траволта bs :John Travolta bg :Джон Траволта ca :John Travolta cs :John Travolta co:John Travolta cy :John Travolta da:John Travolta de:John Travolta et :John Travolta el :Τζον Τραβόλτα es :John Travolta eo:John Travolta eu:John Travolta fa :جان تراولتا fr:John Travolta ga:John Travolta gd :John Travolta gl:John Travolta ko :존 트래볼타 hy :Ջոն Տրավոլտա hr:John Travolta io:John Travolta id :John Travolta is :John Travolta it :John Travolta he :ג'ון טרבולטה sw:John Travolta la:Ioannes Travolta lv:Džons Travolta lt :John Travolta hu:John Travolta nah :John Travolta nl :John Travolta ja :ジョン・トラボルタ no:John Travolta nn:John Travolta oc:John Travolta pl:John Travolta pt:John Travolta ro:John Travolta ru:Траволта _ Джон simple :John Travolta sr :Џон Траволта sh:John Travolta fi:John Travolta sv:John Travolta tl:John Travolta th :จอห์น ทราโวลตา tr :John Travolta uk :Джон Траволта yi :זשאן טראוואלטע zh :约翰·特拉沃尔塔 " Dream Drummin ( 1974 ) " Easy Evil " ( 1975 ) " Can't Let You Go " ( 1975 ) " You Set My Dreams To Music " ( 1976 ) " Goodnight Mr. 	279	query216_John_Travolta\S\279
+Category :1954 births Category :20th-century actors Category :21st-century actors Category :Actors from New Jersey Category :American aviators Category :American dancers Category :American film actors Category :American male singers Category :American musical theatre actors Category :American musicians of Irish descent Category :American musicians of Italian descent Category :American people of Irish descent Category :American people of Italian descent Category :American pop singers Category :American Scientologists Category :American television actors Category :Best Musical or Comedy Actor Golden Globe ( film ) winners Category :Converts from Roman Catholicism Category :Former Roman Catholics Category :Living people Category :People from Englewood _ New Jersey ar :جون ترافولتا an:John Travolta az:Con Travolta be :Джон Траволта be-x-old :Джон Траволта bs :John Travolta bg :Джон Траволта ca :John Travolta cs :John Travolta co:John Travolta cy :John Travolta da:John Travolta de:John Travolta et :John Travolta el :Τζον Τραβόλτα es :John Travolta eo:John Travolta eu:John Travolta fa :جان تراولتا fr:John Travolta ga:John Travolta gd :John Travolta gl:John Travolta ko :존 트래볼타 hy :Ջոն Տրավոլտա hr:John Travolta io:John Travolta id :John Travolta is :John Travolta it :John Travolta he :ג'ון טרבולטה sw:John Travolta la:Ioannes Travolta lv:Džons Travolta lt :John Travolta hu:John Travolta nah :John Travolta nl :John Travolta ja :ジョン・トラボルタ no:John Travolta nn:John Travolta oc:John Travolta pl:John Travolta pt:John Travolta ro:John Travolta ru:Траволта _ Джон simple :John Travolta sr :Џон Траволта sh:John Travolta fi:John Travolta sv:John Travolta tl:John Travolta th :จอห์น ทราโวลตา tr :John Travolta uk :Джон Траволта yi :זשאן טראוואלטע zh :约翰·特拉沃尔塔 " Dream Drummin ( 1974 ) " Easy Evil " ( 1975 ) " Can't Let You Go " ( 1975 ) " You Set My Dreams To Music " ( 1976 ) " Goodnight Mr. 	279	query216_John_Travolta\S\279
+"Drummin Easy Evil"	"is"	"1975"	279	query216_John_Travolta\P\279-0
+"John Travolta uk Джон Траволта yi זשאן טראוואלטע zh 约翰 · 特拉沃尔塔 Dream Drummin Easy Evil"	"Ca n't Let"	"You Go 1975 You Set My Dreams To Music"	279	query216_John_Travolta\P\279-1
+"John Travolta uk Джон Траволта yi זשאן טראוואלטע zh 约翰 · 特拉沃尔塔 Dream Drummin Easy Evil"	"Ca n't Let"	"You Go 1975 You Set My Dreams To Music"	279	query216_John_Travolta\P\279-2
+"John Travolta uk Джон Траволта yi זשאן טראוואלטע zh 约翰 · 特拉沃尔塔 Dream Drummin Easy Evil"	"Ca n't Let"	"You Go 1975 You Set My Dreams To Music"	279	query216_John_Travolta\P\279-3
+Moon " ( 1976 ) " Rainbows " ( 1976 ) " Settle Down " ( 1976 ) " Moonlight Lady " ( 1976 ) " Right Time Of The Night " ( 1976 ) " Big Trouble " ( 1976 ) " What Would They Say " ( 1976 ) " Back Doors Crying " ( 1976 ) " Let Her In " ( 1976 ) – # 10 " Whenever I 'm Away From You " ( 1976 ) – # 38 " Slow Dancin'" ( 1976 ) " It Had To Be You " ( 1976 ) " I Do n't Know What I Like About You Baby " ( 1976 ) " All Strung Out On You " ( 1977 ) – # 34 " Baby , I Could Be So Good At Lovin' You " ( 1977 ) " Razzamatazz " ( 1977 ) " You 're the One That I Want " – # 1 ( 1978 ) ( w/ Olivia Newton-John ) " Sandy " ( 1978 ) " Greased Lightnin " ( 1978 ) – # 47 " Never Gonna Fall in Love Again " ( 1980 ) " Hooker Madness " ( 1983 ) " Take A Chance " ( 1983 ) ( w/ Olivia Newton-John ) " Two Sleepy People " ( 1997 ) ( w/ Carly Simon ) " I Thought I Lost You " ( 2008 ) ( w/ Miley Cyrus ) List of oldest and youngest Academy Award winners and nominees – Youngest Nominees for Best Actor Tast , Brigitte (ed . 	280	query216_John_Travolta\S\280
+Moon " ( 1976 ) " Rainbows " ( 1976 ) " Settle Down " ( 1976 ) " Moonlight Lady " ( 1976 ) " Right Time Of The Night " ( 1976 ) " Big Trouble " ( 1976 ) " What Would They Say " ( 1976 ) " Back Doors Crying " ( 1976 ) " Let Her In " ( 1976 ) – # 10 " Whenever I 'm Away From You " ( 1976 ) – # 38 " Slow Dancin'" ( 1976 ) " It Had To Be You " ( 1976 ) " I Do n't Know What I Like About You Baby " ( 1976 ) " All Strung Out On You " ( 1977 ) – # 34 " Baby , I Could Be So Good At Lovin' You " ( 1977 ) " Razzamatazz " ( 1977 ) " You 're the One That I Want " – # 1 ( 1978 ) ( w/ Olivia Newton-John ) " Sandy " ( 1978 ) " Greased Lightnin " ( 1978 ) – # 47 " Never Gonna Fall in Love Again " ( 1980 ) " Hooker Madness " ( 1983 ) " Take A Chance " ( 1983 ) ( w/ Olivia Newton-John ) " Two Sleepy People " ( 1997 ) ( w/ Carly Simon ) " I Thought I Lost You " ( 2008 ) ( w/ Miley Cyrus ) List of oldest and youngest Academy Award winners and nominees – Youngest Nominees for Best Actor Tast , Brigitte (ed . 	280	query216_John_Travolta\S\280
+"Moon 1976 Rainbows"	"Settle"	"Down Back Doors Crying Let Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-0
+"Moon 1976 Rainbows"	"Settle"	"Down Doors Crying Let Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-1
+"Moonlight Lady Right Time Of The Night 1976 Big Trouble"	"is"	"1976"	280	query216_John_Travolta\P\280-2
+"Moonlight Lady Right Time Of The Night 1976 Big Trouble"	"is"	"1976"	280	query216_John_Travolta\P\280-3
+"Doors Crying"	"is"	"1976"	280	query216_John_Travolta\P\280-4
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-5
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-6
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-7
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-8
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-9
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-10
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-11
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-12
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-13
+"Doors Crying"	"Let"	"Her In 1976 # 10 Whenever I 'm Away From You 1976"	280	query216_John_Travolta\P\280-14
+"# 1 w Olivia Newton-John Sandy"	"is"	"1978"	280	query216_John_Travolta\P\280-15
+"Greased Lightnin"	"is"	"1978"	280	query216_John_Travolta\P\280-16
+"Hooker Madness"	"is"	"1983"	280	query216_John_Travolta\P\280-17
+"Two Sleepy People w Carly Simon"	"is"	"1997"	280	query216_John_Travolta\P\280-18
+"Two Sleepy People w Carly Simon"	"is"	"1997"	280	query216_John_Travolta\P\280-19
+"Two Sleepy People w Carly Simon"	"is"	"1997"	280	query216_John_Travolta\P\280-20
+"Two Sleepy People w Carly Simon"	"is"	"1997"	280	query216_John_Travolta\P\280-21
+"Two Sleepy People w Carly Simon"	"is"	"1997"	280	query216_John_Travolta\P\280-22
+"Two Sleepy People w Carly Simon"	"is"	"1997"	280	query216_John_Travolta\P\280-23
+"Two Sleepy People w Carly Simon"	"is"	"1997"	280	query216_John_Travolta\P\280-24
+) John Travolta . 	281	query216_John_Travolta\S\281
+( Hildesheim/Germany 1978 ) ISBN 3-88842-103-9. 	282	query216_John_Travolta\S\282
+Court revelation by John Travolta of son 's disease sparks autism debate Testimony by John Travolta that son was autistic raises Scientology questions John Travolta 's 16-year-old son dies http ://www.travolta.com 	283	query216_John_Travolta\S\283
+Court revelation by John Travolta of son 's disease sparks autism debate Testimony by John Travolta that son was autistic raises Scientology questions John Travolta 's 16-year-old son dies http ://www.travolta.com 	283	query216_John_Travolta\S\283
+"Court revelation by John Travolta of son 's disease"	"sparks"	"autism debate Testimony by John Travolta that son was autistic raises Scientology questions www.travolta.com"	283	query216_John_Travolta\P\283-0
+"Court revelation by John Travolta of son 's disease"	"sparks"	"autism debate Testimony by John Travolta that son was autistic raises Scientology questions www.travolta.com"	283	query216_John_Travolta\P\283-1
+"John Travolta"	"has"	"16-year-old son"	283	query216_John_Travolta\P\283-2
+"John Travolta 's 16-year-old son"	"dies"	"http Scientology questions"	283	query216_John_Travolta\P\283-3
+237 79824 Arts/Performing_Arts/Acting/Actors_and_Actresses/T/Travolta ,_John/ john_travolta 	284	query216_John_Travolta\S\284

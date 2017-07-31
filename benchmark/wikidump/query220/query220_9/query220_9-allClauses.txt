@@ -1,0 +1,85 @@
+0	SVC (C: Association@9, V: is@4, S: Team@3)	SVC (S: honor@13, V: "is", C: NBA@11)	SVA (V: "be bestowed", S: honor@13, A!: on@15)
+1	SVA (V: conducted@4, S: voting@2, A!: by@5)
+2	
+3	SVC (S: Interactive@9, V: "is", C: NBA.com@12)
+4	
+5	SVC (S: Interactive@9, V: "is", C: NBA.com@12)
+6	SVO (V: selected@13, S: team@10, A?: in@14, XCOMP: dating@23)	SVO (S: league@19, V: "has", O: existence@21)	SVO (S: its@26, V: "has", O: season@28)
+7	
+8	
+9	SVC (S: Interactive@5, V: "is", C: NBA.com@8)
+10	SVC (S: August@1, V: "is", C: http@5)
+11	
+12	SVC (S: Interactive@5, V: "is", C: NBA.com@8)
+13	SVA (V: composed@9, S: Team@7, A!: of@10)
+14	SVO (V: had@5, S: Team@3, A?: originally@4, O: teams@7)	SVO (V: expanded@11, S: Team@3, A?: originally@4, O: teams@7, A?: to@12, A?: in@15)
+15	SVOC (V: receive@2, S: Players@1, O: points@4, A?: for@5, O: points@12)	SVOC (V: point@21, S: Players@1, O: points@4, A?: for@5, O: points@12, A?: for@22)
+16	SVO (V: make@9, S: players@3, O: team@12, A?: with@14, A?: forth@24)	SVA (V: "be making", S: five@17, O: team@21)
+17	SV (V: expanded@18, S: roster@16, A?: In@1)
+18	SVA (V: consists@5, S: team@4, A!: of@6)	SVO (V: consist@19, S: team@16, A?: still@18, A?: of@20, O: players@8)
+19	SVA (V: occurred@4, S: tie@2, A!: once@6, A?: in@8)	SVA (V: "be tied", S: Schayes@16, A!: in@18)	SVA (V: "be received", S: votes@19)
+20	SVA (V: selected@8, S: players@6, A?: From@1, A!: without@9)	SVA (V: consisted@19, S: team@17, A?: however@14, A!: of@20)	SVA (V: "be beginning", S: guards@29, A!: with@31)
+21	SVO (V: holds@3, S: Abdul-Jabbar@2, O: record@5)
+22	
+23	
+24	
+25	
+26	SVC (S: August@1, V: "is", C: http@5)
+27	
+28	
+29	
+30	SVA (V: follow@10, S: August@1, A!: with@11)	SV (V: Schayes@28, S: August@1, A?: with@11)
+31	SVO (V: has@2, S: Malone@1, O: honors@8, A?: tied@29)	SVA (V: tied@29, S: Cousy@13, A!: for@30)
+32	SV (V: =@2, S: alt@1)
+33	SVA (V: chases@3, S: player@2, A!: after@4)
+34	SVOA (V: stands@2, S: He@1, A!: in@3, CCOMP: composed@34)	SVC (S: season@28, V: "is", C: Team@32)	SVA (V: composed@34, S: season@28, A!: of@35)	SVC (S: teams@37, V: "is", C: each@39)	EXISTENTIAL (V: were@48, S: ties@49, A?: when@46)
+35	SVA (V: selected@7, S: players@5, A?: During@1, A!: without@8)
+36	SV (V: =@2, S: alt@1)
+37	SVA (V: "be wearing", S: player@2, O: jersey@7, A!: with@8)	SVOO (V: holding@16, S: _@14, O: basketball@18, A?: in@19, IO: number@10)	SVO (V: wearing@27, S: player@24, O: jersey@30, A?: with@31)
+38	SV (V: =@2, S: alt@1)
+39	SV (V: =@2, S: alt@1)
+40	SVA (V: "be wearing", S: person@3, O: suit@8)	SVA (V: looks@13, S: _@12, A!: to@14)
+41	SV (V: =@2, S: alt@1)
+42	SV (V: =@2, S: alt@1)
+43	SVO (V: attempts@4, S: player@3, O: shot@7)
+44	SVO (V: wears@2, S: He@1, O: jersey@5, A?: with@6)	SVA (V: seen@22, S: _@17, A!: in@23)
+45	SVC (S: season@11, V: "is", C: Team@15)	SVA (V: composed@17, S: season@11, A!: of@18)	SVC (S: teams@20, V: "is", C: each@22)	EXISTENTIAL (V: were@31, S: ties@32, A?: when@29)
+46	SVA (V: selected@7, S: players@5, A?: During@1, A!: with@8)	SVA (V: listed@15, S: they@13, A!: according@16)
+47	SVO (V: composed@13, S: Team@10, A?: of@14, O: season@6)	SVC (S: teams@16, V: "is", C: each@18)	EXISTENTIAL (V: are@27, S: ties@28, A?: when@25)
+48	SVA (V: selected@3, S: Players@1, A!: with@4)	SVA (V: listed@11, S: they@9, A!: according@12)
+49	SVOC (V: Equip@16, S: lists@13, O: de@18, O: fr@29)	SVO (S: Team@21, V: es@22, O: Equip@16)	SV (V: was@99, S: first@100)	SVA (V: "be established", S: first@100, A!: in@102)
+50	SVC (S: season@9, V: "is", C: Alcindor@12)	SVO (V: changed@13, S: season@9, O: name@15, A?: to@16)	SVO (S: his@14, V: "has", O: name@15)
+51	
+52	SVC (S: August@4, V: "is", C: Interactive@10)	SVC (S: August@4, V: "is", C: NBA.com@13)
+53	
+54	SVC (S: August@4, V: "is", C: Interactive@10)	SVC (S: August@4, V: "is", C: NBA.com@13)
+55	SVO (V: arrived@6, S: Olajuwon@5, A?: When@4, A?: in@7, O: c@3)	SVO (V: spelled@17, S: c@3, A?: incorrectly@16, O: name@20)	SVO (V: spelled@17, S: University@13, A?: incorrectly@16, O: name@20)	SVO (S: his@18, V: "has", O: name@20)
+56	SVA (V: used@2, S: He@1, A!: that@3)	SVOC (V: announced@13, S: he@12, A?: when@11, CCOMP: add@17, O: March@6)	SVO (V: add@17, S: he@15, O: H.@19)
+57	
+58	
+59	
+60	
+61	SVO (V: Called@7, S: Hakeem@3, A?: Still@4, XCOMP: Times@14)	SVA (V: "be Called", S: Hakeem@22, A!: Still@23)	SVC (S: March@35, V: "is", C: Artest@43)	SVOO (V: changed@44, S: March@35, O: name@46, A?: into@47, A?: on@51, IO: Times@33)	SVO (S: his@45, V: "has", O: name@46)
+62	
+63	
+64	SVC (S: September@10, V: "is", C: http@22)	SVC (S: September@10, V: "is", C: September@14)
+65	
+66	SVA (V: "be Name", S: Artest@1, O: Change@4)	SVC (S: September@10, V: "is", C: 2011@17)	SVC (S: September@10, V: "is", C: September@14)	SVA (V: "be spelled", S: Amar@25, A!: previously@33, A?: incorrectly@36, A?: as@37, O: Amare@43, A?: since@45)	SVO (S: Stoudemire@28, V: "has", O: name@31)	SVO (V: spelled@35, S: name@31, A?: previously@33, A?: incorrectly@36, A?: as@37, O: Amare@43, A?: since@45)	SVA (V: changed@52, S: Artest@1, A!: to@53, A?: in@59)	SVO (S: Amar@55, V: "has", O: e@57)
+67	
+68	
+69	SVC (S: October@13, V: "is", C: March@17)	SVC (S: October@13, V: "is", C: http@21)
+70	
+71	SVC (S: October@13, V: "is", C: March@17)	SVC (S: October@13, V: "is", C: http@21)
+72	
+73	SVC (S: Interactive@15, V: "is", C: NBA.com@18)
+74	
+75	
+76	SVC (S: Interactive@15, V: "is", C: NBA.com@18)
+77	
+78	
+79	SVC (S: Interactive@5, V: "is", C: NBA.com@8)
+80	SVC (S: August@1, V: "is", C: http@5)
+81	
+82	
+83	
+84	

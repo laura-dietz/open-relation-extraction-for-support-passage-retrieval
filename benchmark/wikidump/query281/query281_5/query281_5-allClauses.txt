@@ -1,0 +1,127 @@
+0	
+1	
+2	SVC (C: state@16, V: is@14, S: s@12, A?: of@17, A?: in@23)
+3	SVC (S: Dictionary@15, V: "is", C: edition@18)	SVO (S: Mosby@12, V: "has", O: Dictionary@15)
+4	SVO (S: Dorland@3, V: "has", O: Dictionary@6)
+5	SVA (V: generalized@7, S: It@3, A?: always@6, A!: throughout@8, A?: with@12)	SV (V: is@16, S: level@20)
+6	SVA (V: formed@4, S: bodies@2, A!: by@5, A?: depleted@13)	SV (V: depleted@13, S: stores@11, A?: when@7)
+7	SVO (V: used@10, S: acetoacetate@4, A?: for@11, O: bodies@3)
+8	SVO (V: detected@10, S: ketosis@7, A?: by@11, O: Harvey@1)
+9	SVC (C: available@8, V: are@6, S: stores@5, A?: When@3, A?: in@9)	SVC (S: fat@13, V: "is", C: triacylglycerol@15)	SVO (V: cleaved@18, S: fat@13, A?: available@8, XCOMP: give@20)	SVA (V: "be called", S: process@31)
+10	SVC (C: able@6, V: is@5, S: Most@1, XCOMP: use@8)	SVA (V: "be called", S: process@19)
+11	SVC (C: acetyl-CoA@8, V: is@7, S: One@1)	SVA (V: used@14, S: acetyl-CoA@8, A?: further@13, A!: in@15)
+12	SVOC (V: used@14, S: CoA@9, A?: During@1, XCOMP: produce@16, XCOMP: leading@21)
+13	SVO (V: starts@12, S: body@11, A?: During@1, XCOMP: using@13)
+14	SVO (V: use@5, S: brain@2, O: acids@8, A?: for@9, A?: albumin@15)	SVC (C: albumin@15, V: are@13, S: they@12, A?: completely@14)
+15	SVA (V: bound@7, S: acids@5, A!: to@8)
+16	SVC (C: soluble@7, V: are@6, S: acids@5, A?: in@8)	SVOC (C: cross@13, V: are@6, S: acids@5, A?: in@8, O: barrier@16)
+17	SVA (V: "be produced", S: bodies@3, A!: in@5)	SVO (V: cross@10, S: bodies@3, A?: also@9, O: barrier@13)
+18	SVA (V: incorporated@10, S: bodies@7, A?: In@1, A-: then@9, A!: into@11)
+19	SVA (V: decarboxylate@7, S: acetoacetate@4, A?: slowly@6, A!: into@8)	SVC (S: acetone@9, V: "is", C: compound@13)	SVA (V: metabolized@17, S: compound@13, A!: as@18)	SVA (V: lost@23, S: compound@13, A?: as@18, A!: in@24)
+20	SVC (C: acidic@5, V: are@4, S: bodies@3)	SVA (V: maintained@15, S: homeostasis@9, A?: normally@14, A!: through@16, A?: through@45)	SVA (V: "be vary", S: compensation@21, O: amount@25, A!: in@29)
+21	
+22	
+23	
+24	
+25	SVO (V: overwhelm@23, S: Sciences@10, O: mechanisms@26)	SVA (V: falls@34, S: pH@33, A!: below@35)
+26	
+27	EXISTENTIAL (V: are@2, S: causes@5)	SVA (V: result@13, S: acidosis@11, A!: from@14)
+28	
+29	
+30	SVA (V: changed@5, S: diet@3, A!: from@6, A?: to@11)	SVOC (V: provide@17, S: diet@13, O: carbohydrate@19, XCOMP: replenish@21)	SVA (V: goes@27, S: body@26, A?: changed@5, A!: through@28)	SVA (V: "be enter", S: set@30, O: ketosis@35)
+31	SVA (V: maintained@13, S: levels@11, A?: During@1, A!: through@14)	SVO (V: burn@23, S: brain@20, O: ketones@24)	SVO (V: makes@30, S: brain@29, A?: however@26, O: use@32)
+32	SVOC (V: starts@11, S: brain@10, A?: After@1, XCOMP: burning@12, XCOMP: avoiding@44)	SVA (V: depended@29, S: stores@25, A!: upon@30)	SVO (S: its@39, V: "has", O: needs@41)	SVO (S: body@49, V: "has", O: store@52)
+33	SVC (S: Eades@1, V: "is", C: M.@3)
+34	
+35	
+36	SVC (S: Eades@1, V: "is", C: M.@3)
+37	
+38	
+39	SVA (V: induced@4, S: Ketosis@1, A?: deliberately@3, A!: by@5, A?: as@11)
+40	SVC (V: remain@6, S: uses@2, ACOMP: controversial@7)
+41	SVC (S: GD@2, V: "is", C: JO@8)	SVC (S: GD@2, V: "is", C: al@11)
+42	
+43	
+44	
+45	
+46	
+47	
+48	SVC (S: GD@2, V: "is", C: JO@8)	SVC (S: GD@2, V: "is", C: al@11)
+49	
+50	
+51	
+52	
+53	
+54	
+55	SVC (S: DM@2, V: "is", C: J@8)	SVC (S: DM@2, V: "is", C: al@11)
+56	
+57	
+58	
+59	SVC (S: DM@9, V: "is", C: J@15)	SVC (S: DM@9, V: "is", C: al@18)
+60	
+61	
+62	
+63	SVO (V: taking@11, S: ketosis@9, O: place@12)	SVA (V: checked@15, S: view@1, A!: by@16)
+64	SVO (V: have@3, S: strips@2, O: pad@6)	SVA (V: dipped@12, S: pad@6, A!: in@13)
+65	SVA (V: "be indicating", S: color@10, O: level@13)	SVA (V: "be detected", S: bodies@16)	SVO (V: reflects@20, S: level@13, O: degree@22)	SVO (V: used@33, S: ketonuria@24, A?: in@28, XCOMP: give@35)
+66	SVA (V: ranges@4, S: reference@3, A!: for@5)	SVC (C: mg/dL@11, V: are@8, S: ranges@4)
+67	
+68	
+69	SVA (V: is@6, S: body@5, A?: when@3, A!: in@7)	SVA (V: smell@12, S: subjects@10, A?: Also@1, A?: is@6, A?: often@11, A!: of@13)
+70	SVO (V: find@2, S: Some@1, O: offensive@5)	SV (V: is@8, S: chemical@11)
+71	SVO (V: regard@3, S: clinicians@2, O: ketosis@4, A?: as@5)	SVO (V: stresses@13, S: state@11, O: liver@15)
+72	SVC (S: Karra@1, V: "is", C: Cindy@3)
+73	
+74	
+75	SVC (S: Koop@2, V: "is", C: References@8)	SVO (V: support@14, S: Koop@2, O: statements@15)	SVO (V: occur@20, S: March@16, A?: from@22, O: statements@15)
+76	SVA (V: accompanied@5, S: Ketosis@1, A!: by@6)	SVC (C: state@22, V: is@19, S: Ketosis@1)	SVO (V: concerned@27, S: clinicians@25, A?: with@23, O: state@22)
+77	SVA (V: challenged@6, S: conclusions@3, A!: by@7)	SVO (V: dispute@19, S: number@9, O: assertions@20)	SVO (V: has@24, S: body@23, O: preference@26)	EXISTENTIAL (V: are@32, S: dangers@33)	SVA (V: "be associated", S: dangers@33, A!: with@35)
+78	
+79	
+80	SVO (S: its@13, V: "has", O: nature@14)
+81	
+82	
+83	
+84	
+85	
+86	
+87	SVO (S: its@13, V: "has", O: nature@14)
+88	
+89	
+90	
+91	
+92	SVC (S: Yancy@5, V: "is", C: Jr@7)	SVC (S: Yancy@5, V: "is", C: Foy@10)	SVC (S: Yancy@5, V: "is", C: Chalecki@14)	SVC (S: Yancy@5, V: "is", C: Vernon@18)	SVA (V: "be treat", S: diet@28, O: Journal@34)
+93	SVC (S: Yancy@4, V: "is", C: Jr@6)	SVC (S: Yancy@4, V: "is", C: Foy@9)	SVC (S: Yancy@4, V: "is", C: Chalecki@13)	SVC (S: Yancy@4, V: "is", C: Vernon@17)	SVA (V: "be treat", S: Yancy@4, O: Journal@33)
+94	SVO (V: argued@5, S: It@2, CCOMP: lived@9)	SVA (V: lived@9, S: Inuit@8, A!: for@10, A?: on@14)	SVC (C: ketogenic@21, V: been@20, S: diet@16)	SVC (C: many@26, V: are@25, S: 34@1)	SVA (V: "be living", S: humans@31, A!: in@33, A?: for@36)
+95	SVA (V: speculated@8, S: it@6, A?: On@1, A!: by@9)	SVO (V: have@48, S: Inuit@46, O: predisposition@51)	SVA (V: "be allowing", S: predisposition@51, O: them@53, XCOMP: eat@56)
+96	SVA (V: caused@13, S: adaptation@9, A?: According@1, A!: by@14)
+97	
+98	
+99	
+100	
+101	
+102	
+103	SVO (V: believed@4, S: it@2, CCOMP: way@14)	SVC (C: way@14, V: is@10, S: intake@7, A?: of@15)
+104	
+105	
+106	
+107	
+108	
+109	SVO (V: shown@74, S: effect@46, CCOMP: unaffected@98)	SVO (V: contains@107, S: diet@106, O: amounts@109)
+110	SVC (S: Ketose@12, V: "is", C: Stoffwechsel@14)	SV (V: es@19, S: Ketoos@18)	SVC (S: Cétose@24, V: "is", C: diététique@26)	SV (V: is@31, S: Ketoza@30)	SVC (S: Ketose@39, V: "is", C: metabolisme@41)	SVC (S: Ketoosi@60, V: "is", C: tila@62)	SVC (S: Ketos@66, V: "is", C: tillstånd@69)	SVO (S: Mosby@83, V: "has", O: Dictionary@86)	SVC (S: Dictionary@86, V: "is", C: edition@89)
+111	SVO (S: Dorland@3, V: "has", O: Dictionary@6)
+112	SVC (C: ketoacidosis@9, V: is@7, S: ketoacidosis@6, A?: ©@1, A?: resulting@14)	SVC (S: ketoacidosis@9, V: "is", C: DKA@11)	SVA (V: "be resulting", S: ketoacidosis@9, A!: from@15)
+113	SVA (V: associated@3, S: It@1, A!: primarily@4, A?: with@5)	SVA (V: result@12, S: It@1, A?: primarily@4, A?: with@5, A!: in@13, A?: left@18)
+114	SVC (S: AE@2, V: "is", C: GE@5)	SVC (S: AE@2, V: "is", C: MB@8)	SVC (S: AE@2, V: "is", C: crises@13)
+115	SVC (S: AE@2, V: "is", C: GE@5)	SVC (S: AE@2, V: "is", C: MB@8)	SVC (S: AE@2, V: "is", C: crises@13)
+116	SVC (S: ketoacidosis@2, V: "is", C: AKA@4)	SVA (V: presents@6, S: ketoacidosis@2, A!: infrequently@7)	SVA (V: occur@11, S: ketoacidosis@2, A?: infrequently@7, A!: with@12)
+117	SVA (V: occurs@3, S: ketoacidosis@2, A!: frequently@5, A?: following@6)
+118	SVC (S: JA@2, V: "is", C: ingestions@8)
+119	SVC (S: JA@2, V: "is", C: ingestions@8)
+120	SVC (S: K@14, V: "is", C: SS@17)	SVC (S: K@14, V: "is", C: acetone@22)	SVC (C: indicator@26, V: is@23, S: K@14, A?: of@27, A?: in@29)	SVA (V: "be consuming", S: adults@30, O: meals@33)
+121	
+122	
+123	
+124	
+125	
+126	

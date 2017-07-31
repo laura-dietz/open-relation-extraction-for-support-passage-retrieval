@@ -1,0 +1,587 @@
+0	
+1	SVA (S: Honolulu@15, V: "is in", C: Hawaii@17)
+2	SVC (S: Dual@5, V: "is", C: Australia@7)	SVC (S: Australia@7, V: "is", C: producer@17)	SVC (S: Kidman@37, V: "is", C: sister@39)
+3	SVC (S: Kidman@3, V: "is", C: AC@5)	SVC (S: actress@15, V: "is", C: singer@17)	SVC (C: actress@15, V: is@12, S: Kidman@3)	SVC (S: actress@15, V: "is", C: producer@20)	SVC (S: actress@15, V: "is", C: role@27)
+4	
+5	
+6	SVO (S: Kidman@14, V: "has", O: breakthrough@16)	SVA (V: was@17, S: breakthrough@16, A?: After@1, A!: in@18)
+7	SVA (V: came@10, S: she@9, A?: Following@1, A!: to@11, A?: in@17)	SVO (S: her@15, V: "has", O: performances@16)	SVC (S: Thunder@20, V: "is", C: 1990@22)	SVC (S: Forever@34, V: "is", C: 1995@36)
+8	SVO (V: followed@2, S: Kidman@1, O: this@3, A?: with@4)	SVC (C: performance@16, V: was@14, S: it@13, CCOMP: followed@2, A?: in@17)	SVO (S: her@15, V: "has", O: performance@16)
+9	SVO (V: earned@5, S: which@4, O: Award@11, A?: for@17)	SVO (S: her@7, V: "has", O: Award@11)
+10	SVO (S: Her@1, V: "has", O: performance@2)	SVC (S: Hours@14, V: "is", C: 2002@16)	SVOO (V: received@18, S: Hours@14, O: acclaim@20, IO: year@8)	SVOO (V: earned@22, S: Hours@14, O: acclaim@20, O: Award@26, A?: for@27, IO: year@8)
+11	SVO (S: Kidman@1, V: "has", O: films@5)	SVO (V: include@6, S: films@5, O: Mountain@8)	SVC (S: Mountain@8, V: "is", C: 2003@10)	SVC (S: Mountain@8, V: "is", C: Interpreter@14)	SVC (S: Interpreter@14, V: "is", C: 2005@16)	SVC (S: Feet@20, V: "is", C: 2006@22)	SVC (S: Australia@26, V: "is", C: 2008@28)
+12	SVO (S: Her@1, V: "has", O: performance@2)	SVO (S: 2010@4, V: "has", O: Hole@7)	SVO (V: produced@12, S: she@10, O: which@9, A?: also@11)	SVO (V: earned@14, S: performance@2, O: accolades@17)
+13	SVC (C: Ambassador@6, V: been@3, S: Kidman@1, A?: for@7, A?: since@9)
+14	
+15	
+16	
+17	
+18	SVO (S: Kidman@1, V: "has", O: work@3)	SVOC (V: earned@5, S: work@3, O: Star@8, A?: on@9, O: Award@19)	SVO (S: her@6, V: "has", O: Star@8)
+19	SVOC (V: made@6, S: Kidman@4, A?: In@1, O: Companion@8, O: Age@27)	SVC (S: Australia@13, V: "is", C: honour@19)	SVA (S: Australia@13, V: "is in", C: Stafford@21)	SVC (S: Australia@13, V: "is", C: Annabel@23)	SVO (S: Australia@15, V: "has", O: honour@19)	SVC (S: Age@27, V: "is", C: April@30)
+20	
+21	
+22	
+23	SVO (V: has@14, S: Kidman@13, A?: As@1, O: citizenship@16)
+24	SVO (S: my@7, V: "has", O: core@8)	SVO (S: people@24, V: "has", O: http@26)	SVC (C: archives.cnn.com/2002/SHOWBIZ/Movies/01/18/sun.kidman@30, V: is@15, S: Girl@13)
+25	
+26	SVO (S: my@14, V: "has", O: core@15)	SVO (S: people@31, V: "has", O: http@33)	SVC (C: archives.cnn.com/2002/SHOWBIZ/Movies/01/18/sun.kidman@37, V: is@22, S: Girl@20)
+27	
+28	SVA (V: born@10, S: Kidman@8, A!: in@11)	SVA (S: Honolulu@12, V: "is in", C: Hawaii@14)
+29	SVO (S: her@2, V: "has", O: parents@3)	SVA (V: were@4, S: parents@3, A!: in@5, A?: on@9)	SVO (V: claim@15, S: Kidman@13, A?: were@4, O: U.S.@17)
+30	
+31	SVC (S: Dickerson@1, V: "is", C: L.@4)
+32	SVC (S: Kidman@2, V: "is", C: Press@5)	SVC (S: Press@5, V: "is", C: p.@9)
+33	SVO (S: Her@1, V: "has", O: father@2)	SVC (S: father@2, V: "is", C: Dr.@4)
+34	SVC (C: biochemist@7, V: is@5, S: Kidman@3)	SVA (S: Cove@20, V: "is in", C: Sydney@22)	SVA (S: Sydney@22, V: "is in", C: Australia@24)
+35	
+36	
+37	
+38	
+39	SVC (S: Thomson@10, V: "is", C: critic@13)	SVC (S: Thomson@23, V: "is", C: critic@26)	SVC (S: mother@34, V: "is", C: Ann@37)	SVO (S: Her@33, V: "has", O: mother@34)	SVC (S: Ann@37, V: "is", C: Glenny@40)	SVC (C: instructor@46, V: is@43, S: res@1)	SVO (V: edits@48, S: instructor@46, O: books@52)	SVOC (C: member@56, V: was@54, S: instructor@46, O: books@52, A?: of@57)	SVO (S: her@49, V: "has", O: husband@50)	SVO (S: husband@50, V: "has", O: books@52)	SVO (S: Women@59, V: "has", O: Lobby@62)
+40	SVO (S: Kidman@1, V: "has", O: ancestry@3)	SVO (V: includes@4, S: ancestry@3, O: Scottish@5)
+41	
+42	
+43	
+44	SVC (S: January@1, V: "is", C: http@5)
+45	
+46	
+47	SVO (S: Kidman@9, V: "has", O: birth@11)	SVO (S: her@15, V: "has", O: father@16)	SVC (C: student@20, V: was@17, S: father@16, A?: at@21, A?: at@26)
+48	SVC (V: became@4, S: He@1, A?: soon@2, XCOMP: fellow@7)
+49	SVO (V: causing@10, S: War@4, O: unrest@12)	SVO (S: Kidman@21, V: "has", O: parents@23)	SVA (V: participated@24, S: parents@23, A!: in@25, A?: living@31)	SVA (V: living@31, S: they@29, A!: in@32)	SVA (S: Washington@33, V: "is in", C: DC@35)
+50	SVC (S: Dickerson@1, V: "is", C: L.@4)
+51	SVC (S: Kidman@2, V: "is", C: Press@5)	SVC (S: Press@5, V: "is", C: p@9)
+52	SVA (V: returned@4, S: family@3, A!: to@5, A?: four@10)	SVC (C: four@10, V: was@9, S: Kidman@8, A?: when@7)	SVO (S: her@12, V: "has", O: parents@13)	SVO (S: Sydney@17, V: "has", O: Shore@20)
+53	SVO (V: has@2, S: Kidman@1, O: sister@5)	SVC (S: sister@5, V: "is", C: Kidman@8)	SVC (S: sister@5, V: "is", C: journalist@11)
+54	SVO (V: attended@2, S: Kidman@1, O: School@6)	SVO (S: Girls@10, V: "has", O: School@13)
+55	SVA (V: enrolled@3, S: She@1, A!: in@4, A?: at@6)	SVOA (V: showed@9, S: She@1, A?: in@4, A?: at@6, O: talent@12, A!: for@13)	SVO (S: her@10, V: "has", O: talent@12)	SVO (S: her@16, V: "has", O: years@21)
+56	
+57	
+58	
+59	
+60	SVO (V: revealed@5, S: Kidman@4, CCOMP: timid@8)	SVC (C: timid@8, V: was@7, S: she@6, A?: as@9, XCOMP: saying@13)	SVC (C: shy@19, V: am@17, S: I@16, CCOMP: revealed@5, A?: very@18)	SVO (V: had@26, S: I@24, A-: even@25, O: stutter@28)	SVO (V: got@36, S: I@34, O: kid@31, A?: slowly@35)	SVA (V: regress@42, S: I@40, A?: still@41, A!: into@43)
+61	SVO (V: like@5, S: I@2, XCOMP: walking@6)	SVO (V: like@17, S: I@14, XCOMP: going@18)
+62	
+63	SVO (V: Develop@2, S: Talent@1, O: Quote@4)
+64	SV (V: Develop@2, S: Talent@1)	SVO (S: her@15, V: "has", O: mother@16)	SVA (V: diagnosed@18, S: mother@16, A!: with@19)	SVOC (V: caused@24, S: cancer@21, O: Kidman@25, XCOMP: halt@28)	SVO (S: her@29, V: "has", O: education@30)
+65	SVA (V: studied@2, S: She@1, A!: at@3)	SVA (V: at@14, S: She@1, A?: at@3, A!: Theatre@18, A?: with@22)	SVO (V: attended@30, S: actress@23, O: school@34, A?: as@35)
+66	
+67	
+68	
+69	
+70	SVO (V: followed@4, S: This@2, A?: by@5, O: London@1)
+71	SVOA (V: took@3, S: she@2, A?: Here@1, O: drama@5, A!: finding@14)	SVA (V: "be finding", S: she@2, XCOMP: acting@15)	SVO (S: her@11, V: "has", O: teens@12)
+72	SVO (S: her@3, V: "has", O: skin@5)	SVOC (V: forced@14, S: sun@13, A?: Due@1, O: Kidman@17, XCOMP: rehearse@19)
+73	SVOC (V: received@10, S: she@9, CCOMP: regular@2, O: encouragement@12)	SVA (V: "be pursue", S: encouragement@12, XCOMP: acting@17)
+74	
+75	
+76	
+77	
+78	SVC (S: channel@2, V: "is", C: Christmas@25)	SVO (V: made@13, S: Kidman@12, O: debut@16, A?: in@17)	SVO (S: her@14, V: "has", O: debut@16)
+79	SVO (V: had@8, S: she@7, A?: By@1, O: role@11)	SVOC (V: began@20, S: she@7, A?: By@1, O: role@11, XCOMP: gaining@21)	SVO (V: Watch@37, S: roles@31, O: Dance@40)	SVO (V: Windrider@46, S: roles@31, O: Dance@40)	SVC (S: Windrider@46, V: "is", C: 1986@48)	SVO (V: earned@52, S: Windrider@46, O: attention@54, A?: due@55)	SVO (S: her@57, V: "has", O: scenes@59)
+80	SVA (V: appeared@7, S: she@6, A?: Also@1, A?: during@2, A!: in@8)	SVC (S: Vietnam@23, V: "is", C: 1986@25)
+81	SVO (V: made@3, S: She@1, A?: also@2, O: appearances@5, A?: on@6)
+82	SVA (V: appeared@3, S: She@1, A?: also@2, A!: in@4)
+83	SVA (V: appeared@5, S: Kidman@4, A?: In@1, A!: in@6)
+84	SVO (V: earned@4, S: film@3, O: her@5)
+85	SVA (V: "be playing", S: Hilton@8, O: wife@24)	SVO (V: starred@11, S: Kidman@10, A?: in@12, A?: as@18, O: Hilton@8)	SVC (S: Calm@14, V: "is", C: 1989@16)
+86	SVO (V: garnered@3, S: thriller@2, O: reviews@5)	SVOC (V: brought@7, S: thriller@2, O: reviews@5, O: Kidman@8, A?: to@9)	SVO (V: commented@14, S: Variety@13, A?: Throughout@17, CCOMP: excellent@23)	SVC (C: excellent@23, V: is@22, S: Kidman@21)
+87	SVO (V: gives@2, S: She@1, O: character@4)
+88	
+89	
+90	
+91	
+92	
+93	SVO (V: noted@6, S: Ebert@5, A?: Meanwhile@1, O: chemistry@9)	SVA (V: "be stating", S: chemistry@9)	SVOO (V: generate@21, S: Kidman@17, O: hatred@25, A?: in@26, IO: chemistry@9)	SVO (S: their@27, V: "has", O: scenes@28)
+94	SVC (S: Roger@4, V: "is", C: April@7)
+95	
+96	
+97	SVO (V: moved@2, S: She@1, A?: on@3, XCOMP: playing@26)	SVO (S: her@7, V: "has", O: husband@11)	SVC (S: husband@11, V: "is", C: Cruise@14)	SVA (V: falls@31, S: doctor@29, A!: in@32, A?: with@34)
+98	SVC (C: debut@6, V: was@2, S: This@1)	SVC (C: was@8, V: was@2, S: This@1, A?: among@9)	SVO (S: Kidman@3, V: "has", O: debut@6)
+99	
+100	
+101	
+102	
+103	SVA (V: co-starred@8, S: she@7, A?: November@2, A!: with@9, A?: in@19)
+104	SVO (V: portrayed@4, S: Kidman@1, O: girls@8, A?: in@9)	SVA (V: "be coming", S: this@10, A!: of@12)	SVO (V: won@17, S: story@14, O: Award@22)
+105	
+106	
+107	
+108	SVC (S: 21@11, V: "is", C: April@12)
+109	
+110	
+111	SVC (S: April@12, V: "is", C: work@19)	SVO (S: her@18, V: "has", O: work@19)	SVOO (V: earned@25, S: April@12, IO: Kidman@26, O: nomination@32, A?: for@34)	SVO (S: her@27, V: "has", O: nomination@32)
+112	SVO (S: its@7, V: "has", O: review@9)	SVO (V: called@11, S: Times@4, A?: in@6, O: beauty@15, A?: with@16)	SVO (S: her@12, V: "has", O: beauty@15)	SVO (V: seems@19, S: it@18, O: sense@22)
+113	
+114	
+115	SVO (V: re-teamed@27, S: she@24, A?: for@28, O: res@1)	SVO (S: Howard@30, V: "has", O: Far@34)	SVC (S: Away@36, V: "is", C: 1992@38)	SVC (C: http@46, V: was@42, S: Far@34)
+116	
+117	
+118	
+119	
+120	
+121	SVO (V: Surviving@4, S: Bob@3, A?: In@5, O: Dolman@1)
+122	
+123	SVO (V: Surviving@4, S: Bob@3, A?: In@5, O: Dolman@1)
+124	
+125	
+126	
+127	
+128	SVA (V: starred@5, S: she@4, A?: In@1, A!: in@6)	SV (V: thriller@14, S: she@4, A?: In@1, A?: in@6)	SVO (S: My@7, V: "has", O: Life@8)	SVC (S: thriller@14, V: "is", C: Baldwin@19)
+129	SVO (S: her@7, V: "has", O: _@9)
+130	SVA (V: appeared@6, S: Kidman@5, A?: In@2, A!: in@7, A?: as@12, A?: at@16)	SVO (S: her@8, V: "has", O: film@11)	SV (V: playing@20, S: Mojo@19)
+131	SVC (S: Meridian@2, V: "is", C: Kilmer@18)	SVC (S: Meridian@2, V: "is", C: damsel@5)	SVO (S: film@21, V: "has", O: character@24)
+132	SVC (V: appeared@5, S: Kidman@4, A?: year@3, A?: in@6, XCOMP: earning@17)	SVO (S: her@20, V: "has", O: portrayal@21)
+133	SVC (S: Roger@3, V: "is", C: October@6)
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	SVC (S: Chronicle@15, V: "is", C: Mike@20)	SVA (V: "be based", S: Portrait@29, A!: on@38)	SVC (S: Lady@32, V: "is", C: 1996@34)
+143	SVA (V: appeared@5, S: she@4, A?: year@3, A!: in@6)	SVC (S: Peacemaker@10, V: "is", C: 1997@12)
+144	SVC (S: Kelly@2, V: "is", C: Clooney@6)
+145	SVO (V: received@3, S: film@2, O: reviews@5)	SVOC (V: grossed@7, S: film@2, O: reviews@5, O: $@9, A?: worldwide@11)
+146	
+147	
+148	
+149	
+150	SVO (V: appeared@7, S: she@6, A?: year@5, O: Bullock@10, A?: in@11)
+151	
+152	SVO (V: returned@2, S: Kidman@1, A?: to@3, A?: on@6, CCOMP: play@15)	SVO (S: her@4, V: "has", O: work@5)	SVO (V: play@15, S: year@10, O: Room@18)	SVA (V: opened@21, S: Room@18, A!: in@22)
+153	SVO (V: reunited@5, S: Kidman@4, A?: In@1, A?: with@6, XCOMP: portray@14)	SVC (S: husband@8, V: "is", C: Cruise@11)	SVC (S: couple@17, V: "is", C: film@25)
+154	SVA (V: opened@3, S: film@2, A!: to@4)	SVC (C: subject@10, V: was@9, S: film@2, A?: to@4, A?: to@11)	SVO (S: its@20, V: "has", O: scenes@22)
+155	
+156	
+157	
+158	
+159	SVOO (V: received@7, S: film@6, O: attention@9, IO: May@3)	SVOO (V: following@10, S: May@3, O: death@13, A?: before@15, IO: 24@2)	SVO (S: Kubrick@11, V: "has", O: death@13)	SVO (S: its@16, V: "has", O: release@17)
+160	
+161	SVO (V: Tells@9, S: Kidman@8, O: Divorce@11)
+162	
+163	SVO (V: Tells@9, S: Kidman@8, O: Divorce@11)
+164	SVO (V: returned@8, S: Kidman@7, A?: to@9, XCOMP: play@13)
+165	SVA (V: appeared@5, S: Kidman@4, A?: In@1, A!: in@6)	SVO (S: her@9, V: "has", O: films@15)
+166	SVO (V: played@5, S: she@4, O: actress@8, A?: in@12)	SVO (S: Luhrmann@14, V: "has", O: Rouge@18)
+167	
+168	SVO (S: her@2, V: "has", O: role@5)	SVO (S: Kidman@7, V: "has", O: numbers@10)	SVO (V: earned@13, S: numbers@10, A?: In@1, O: praise@16)	SVO (S: her@14, V: "has", O: praise@16)
+169	SVO (V: received@6, S: Kidman@5, A?: March@1, O: Award@11, A?: in@16)	SVO (V: awards@29, S: Kidman@5, A?: March@1, O: Award@11, A?: in@16)	SVO (S: her@7, V: "has", O: Award@11)
+170	SVO (V: received@3, S: She@1, A?: also@2, O: nomination@8)	SVO (S: her@4, V: "has", O: nomination@8)
+171	SVO (V: had@6, S: she@5, A?: Also@1, A?: in@2, O: a@7)	SVO (S: Amenábar@13, V: "has", O: film@17)
+172	SVA (V: "be Grossing", S: film@8, O: $@3)	SVO (V: earned@10, S: film@8, A?: Grossing@1, A?: also@9, O: nominations@15)
+173	SVO (V: received@3, S: she@2, A?: Additionally@1, O: BAFTA@6)	SVO (S: her@4, V: "has", O: BAFTA@6)
+174	SVOO (V: won@7, S: Kidman@6, O: praise@9, IO: March@1)	SVO (S: her@11, V: "has", O: portrayal@12)	SVO (S: Daldry@18, V: "has", O: Hours@21)	SVO (V: featured@25, S: Hours@21, A?: also@24, O: Streep@27)
+175	SVOC (V: wore@2, S: Kidman@1, O: prosthetics@3, O: Mrs.@39)	SVOC (V: bouts@26, S: Kidman@1, O: prosthetics@3, A?: with@27, A?: trying@33, O: Mrs.@39)	SVA (V: applied@6, S: prosthetics@3, A!: to@7)	SVO (S: her@8, V: "has", O: nose@9)	SVO (V: making@10, S: nose@9, O: her@11)	SVO (S: her@18, V: "has", O: time@19)	SVO (S: her@25, V: "has", O: bouts@26)	SVO (S: her@36, V: "has", O: novel@37)
+176	
+177	SVO (V: earned@3, S: film@2, O: notices@5)
+178	SVO (V: wrote@5, S: Times@4, CCOMP: tunnels@10)	SVA (V: "be besieged", S: woman@19, A!: by@21)
+179	SVO (V: watch@3, S: you@2, CCOMP: wrestle@5)	SVA (V: wrestle@5, S: her@4, A!: with@6)	SVA (V: is@13, S: it@12, A?: watch@3, A!: shown@21)	SVO (S: its@16, V: "has", O: torment@17)	SVA (V: shown@21, S: torment@17, A!: on@22, A?: before@25)
+180	SVO (S: her@2, V: "has", O: desperate@3)	SVO (S: her@11, V: "has", O: eyes@12)	SV (V: focusing@15, S: eyes@12, A?: really@14)
+181	SVO (V: evokes@10, S: Kidman@1, A?: in@3, O: war@14)	SVA (V: "be waged", S: war@14, A!: by@16)	SVO (V: transmits@27, S: system@22, O: a@28)	SVO (S: her@34, V: "has", O: brain@35)
+182	SVO (V: won@5, S: Kidman@4, O: awards@9, A?: including@11)	SVO (S: critics@7, V: "has", O: awards@9)	SVO (S: her@12, V: "has", O: BAFTA@14)
+183	SVC (C: important@4, V: is@3, S: art@2)
+184	SVA (V: believe@4, S: you@3, A!: in@5)	SVO (V: do@8, S: you@7, O: what@6)	SVO (V: want@11, S: you@10, XCOMP: honour@13)	SVC (C: tradition@20, V: is@18, S: it@17)	SVO (V: needs@22, S: tradition@20, XCOMP: upheld@25)
+185	
+186	
+187	
+188	
+189	SVO (S: her@2, V: "has", O: Oscar@3)	SV (V: win@4, S: Oscar@3)	SVA (V: "be Following", S: Kidman@6, CCOMP: win@4)	SVA (V: appeared@7, S: Kidman@6, A?: Following@1, A!: in@8)
+190	SVA (V: "be set", S: film@20, A!: on@22)	SVC (C: film@20, V: was@17, S: role@6, A?: set@21)
+191	SVC (C: adaptation@5, V: was@3, S: second@2, A?: of@6)	SVC (S: Stain@13, V: "is", C: Hopkins@17)
+192	SVO (S: Her@1, V: "has", O: film@3)	SVC (S: film@3, V: "is", C: Mountain@11)	SVO (S: Minghella@6, V: "has", O: Mountain@11)	SVC (C: success@18, V: was@13, S: film@3)
+193	SVC (V: appeared@2, S: Kidman@1, ACOMP: opposite@3)	SVA (V: "be playing", S: Law@5, O: Monroe@13)	SVA (V: is@16, S: who@15, A!: in@17)	SVA (V: separated@24, S: who@15, A?: in@17, A!: by@25)	SVO (S: Law@20, V: "has", O: character@22)
+194	SV (V: wrote@3, S: magazine@2)	SVOC (V: takes@7, S: Kidman@6, CCOMP: wrote@3, O: strength@8, A?: from@9)	SVOC (V: grows@14, S: Kidman@6, CCOMP: wrote@3, O: strength@8, A?: from@9, A?: steadily@15)	SVO (S: Ada@10, V: "has", O: plight@12)
+195	SVO (S: Her@1, V: "has", O: pallor@3)	SVO (V: gives@4, S: pallor@3, O: way@5, A?: to@6)
+196	
+197	
+198	
+199	
+200	SVO (V: garnered@5, S: film@4, O: nominations@8, A?: for@11)	SVO (S: its@12, V: "has", O: actors@13)	SVO (V: received@16, S: Kidman@15, O: nomination@21, A?: at@22)	SVO (S: her@17, V: "has", O: nomination@21)
+201	SVA (V: appeared@4, S: she@3, A?: In@1, A!: in@5)	SVC (S: film@7, V: "is", C: Birth@9)	SVO (V: received@12, S: film@7, O: controversy@13, A?: over@14)	SVO (S: her@24, V: "has", O: co-star@25)	SVC (S: co-star@25, V: "is", C: Bright@30)
+202	SVO (V: addressed@12, S: Kidman@11, A?: At@1, O: controversy@14)	SVA (V: "be saying", S: controversy@14)	SVC (V: was@19, S: It@18, CCOMP: wanted@23)	SVO (V: wanted@23, S: I@22, XCOMP: make@25)	SV (V: kiss@30, S: I@29)
+203	SVO (V: wanted@2, S: I@1, XCOMP: make@4)	SVOO (V: understand@9, S: you@8, A?: where@7, O: love@10, IO: film@6)
+204	SVOC (V: delivers@4, S: Bacall@3, O: snub@7, O: www.telegraph.co.uk/news/worldnews/europe/italy/1471380/Bacall-delivers-a-legendary-snub-to-Kidman@20)
+205	
+206	SVOC (V: delivers@7, S: Bacall@6, O: snub@10, A?: to@11, O: www.telegraph.co.uk/news/worldnews/europe/italy/1471380/Bacall-delivers-a-legendary-snub-to-Kidman@23)
+207	
+208	SVO (V: received@7, S: film@6, O: negative@8)	SVO (V: earned@14, S: Kidman@13, O: nomination@19)	SVO (S: her@15, V: "has", O: nomination@19)
+209	SVA (V: appeared@5, S: she@4, A?: year@3, A!: in@6)	SVC (S: Wives@15, V: "is", C: remake@18)
+210	SVA (V: appeared@2, S: Kidman@1, A!: in@3)	SVC (S: Eberhart@9, V: "is", C: producer@13)
+211	SVA (V: "be directed", S: film@2, A!: by@5)	SV (V: panned@11, S: film@2, A?: critically@10)	SV (V: failure@15, S: film@2, A?: critically@10)
+212	SVC (V: appeared@6, S: Kidman@5, A?: year@3, ACOMP: opposite@7)	SVA (V: "be playing", S: Interpreter@16, O: Broome@22)
+213	SVA (V: starred@5, S: she@4, A?: Also@1, A?: year@3, A!: in@6)	SVC (S: Bewitched@7, V: "is", C: Ferrell@22)
+214	SVO (V: earned@5, S: Kidman@2, O: Award@10, A?: for@11)	SVO (S: year@7, V: "has", O: Award@10)
+215	SVA (V: fared@3, S: film@2, A!: well@4, A?: in@5, A?: with@10)	SVC (V: falling@14, S: sales@13, ACOMP: short@16)	SVA (V: fared@25, S: films@24, A!: well@26, A?: internationally@27)
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	SVC (S: Interpreter@8, V: "is", C: Kidman@21)	SVO (S: her@14, V: "has", O: success@15)	SVC (V: became@22, S: Interpreter@8, XCOMP: face@24)
+225	
+226	SVA (V: starred@2, S: She@1, A!: in@3)	SVA (V: "be directed", S: Santoro@13, A!: by@16)
+227	SVA (V: "be promote", S: Luhrmann@3, O: fragrance@8, A!: during@9)
+228	SVA (V: "be produced", S: commercial@3, A!: for@5)
+229	SVA (V: "be paid", S: money@10, A!: per@12, A?: to@14)	SVO (V: earned@20, S: she@18, A?: reportedly@19, O: US$@21, A?: for@23)
+230	
+231	
+232	
+233	
+234	
+235	
+236	SVO (V: =@2, S: id@1, O: 64430@3, A?: During@4)	SVA (V: listed@11, S: Kidman@8, A?: also@10, A!: as@12, A?: on@18)
+237	SVO (V: made@2, S: She@1, O: a@3)	SVA (V: "be reported", S: a@3)
+238	
+239	SVO (S: magazine@3, V: "has", O: list@5)	SVO (S: 2005@7, V: "has", O: actresses@11)	SVC (C: second@15, V: was@14, S: Kidman@13, A?: On@1, A?: behind@16, A?: with@20)
+240	
+241	
+242	
+243	
+244	SVO (V: announced@4, S: Nintendo@1, CCOMP: face@11)	SVC (C: face@11, V: be@8, S: Kidman@6, A?: of@12)	SVO (S: Nintendo@13, V: "has", O: campaign@16)	SVO (S: its@26, V: "has", O: market@28)
+245	
+246	
+247	SVO (S: Her@7, V: "has", O: Brain@8)
+248	
+249	SVO (S: Her@7, V: "has", O: Brain@8)	SVOO (V: portrayed@16, S: Brain@8, O: Arbus@19, A?: in@20, IO: Exercises@6)	SVC (S: Fur@23, V: "is", C: 2006@25)	SVC (S: Fur@23, V: "is", C: Jr.@31)
+250	
+251	SVA (V: released@5, S: film@3, A!: to@6)
+252	SVO (S: their@4, V: "has", O: performances@5)
+253	SVO (V: lent@3, S: She@1, A?: also@2, O: voice@5, A?: to@6)	SVO (S: her@4, V: "has", O: voice@5)	SVC (S: Feet@11, V: "is", C: 2006@13)	SVO (V: grossed@17, S: Feet@11, O: US$@19)
+254	SVA (V: starred@5, S: she@4, A?: In@1, A!: in@6)	SVA (V: "be directed", S: Invasion@11, A!: by@13)	SVC (S: Hirschbiegel@15, V: "is", C: remake@18)	SVO (V: proved@28, S: Invasion@22, O: failure@33)
+255	SVC (V: played@3, S: She@1, A?: also@2, ACOMP: opposite@4, A?: at@17)	SVO (S: Baumbach@13, V: "has", O: Margot@16)
+256	SVA (V: starred@3, S: She@1, A-: then@2, A!: in@4)	SVA (V: "be playing", S: fantasy-adventure@8, O: Coulter@21)	SVC (S: fantasy-adventure@8, V: "is", C: Compass@12)	SVC (S: Compass@12, V: "is", C: 2007@14)
+257	SVA (V: reunited@5, S: she@4, A?: In@1, A!: with@6)
+258	SVA (V: "be set", S: Luhrmann@3, A!: in@12, A?: during@17)
+259	SVO (V: played@2, S: Kidman@1, O: Jackman@5, A?: as@6)	SVA (V: "be overwhelmed", S: feeling@9, A!: by@11)
+260	SVO (S: film@3, V: "has", O: reviews@6)	SV (V: praised@11, S: acting@9, A?: Despite@1)	SVC (C: success@19, V: was@15, S: movie@14, A?: worldwide@20)
+261	
+262	
+263	
+264	
+265	SVOA (V: set@14, S: Kidman@11, A?: originally@13, XCOMP: star@16, A!: working@30)	SVO (V: due@41, S: Kidman@11, A?: originally@13, XCOMP: star@16, A?: working@30, A?: to@42, A?: to@46)	SVA (V: "be working", S: Kidman@11, A!: with@31)	SVO (S: her@43, V: "has", O: pregnancy@44)	SVO (V: had@49, S: she@48, XCOMP: back@51)
+266	
+267	
+268	SVA (V: went@15, S: Film@9, A?: January@11, A!: to@16)	SVA (V: went@15, S: role@14, A?: January@11, A!: to@16)	SVO (V: won@22, S: Winslet@18, A?: ultimately@21, O: Oscar@24, A?: for@25)	SVO (V: presented@31, S: Kidman@30, O: Actress@27, A?: to@32)
+269	SVA (V: appeared@2, S: Kidman@1, A!: in@3)	SVC (S: Marshall@7, V: "is", C: Jenssen@22)	SVA (V: "be portraying", S: Marshall@7, O: Fellini@14)	SVO (S: character@17, V: "has", O: muse@19)
+270	SVA (V: featured@3, S: She@1, A!: alongside@4)	SVC (S: Day-Lewis@9, V: "is", C: Dench@12)
+271	SVO (S: Kidman@1, V: "has", O: time@6)	SVC (C: brief@8, V: was@7, S: time@6, A?: compared@9)	SVO (V: performed@15, S: Kidman@1, O: number@18)
+272	SVA (V: released@5, S: film@3, A!: to@6)	SVO (V: received@11, S: it@10, A?: released@5, O: Globe@14)	SVOC (V: earned@21, S: it@10, A?: released@5, O: Globe@14, O: Kidman@22)
+273	SVC (C: face@8, V: was@6, S: Kidman@5, A?: Also@1, A?: in@2, A?: of@9)
+274	
+275	
+276	
+277	
+278	SVO (V: starred@6, S: she@5, CCOMP: London@1, A?: with@7)	SVOO (V: vacated@27, S: she@26, A?: for@24, O: role@29, IO: Hole@22)	SVO (S: her@28, V: "has", O: role@29)	SVOO (V: Meet@37, S: You@35, O: Stranger@41, IO: picture@34)
+279	
+280	SVO (V: lent@5, S: 12@1, A?: May@2, O: voice@7, A?: to@8)	SVO (V: lent@5, S: She@4, A?: May@2, O: voice@7, A?: to@8)	SVO (S: her@6, V: "has", O: voice@7)	SVOC (V: used@14, S: Australia@13, O: that@12, XCOMP: support@16)	SVA (V: "be host", S: support@16, O: Cup@24)	SVO (S: its@17, V: "has", O: bid@18)
+281	SVA (V: broadcast@5, S: video@3, A!: at@6)
+282	
+283	SVA (V: reported@6, S: Guide@5, A!: in@7)	SVO (V: star@12, S: Kidman@10, O: 2008@8, A?: in@13)	SVC (S: Girl@16, V: "is", C: adaptation@20)	SVC (S: Girl@16, V: "is", C: transsexual@38)	SVA (V: "be playing", S: Girl@16, O: Elbe@31)	SVO (S: world@34, V: "has", O: transsexual@38)
+284	
+285	
+286	SVO (V: reported@7, S: Daily@6, CCOMP: begin@11)	SVA (V: begin@11, S: shooting@9, A!: in@12, A?: in@14)
+287	SVC (S: Daily@3, V: "is", C: February@6)	SVO (V: delayed@13, S: project@10, A?: However@8, A?: following@14, O: February@6)	SVO (S: Kidman@24, V: "has", O: Weisz@28)
+288	
+289	SVO (V: said@8, S: Variety@7, A?: May@2, CCOMP: produce@12)	SVA (V: produce@12, S: she@10, A!: in@15, A?: in@27)	SVA (V: star@14, S: she@10, A!: in@15, A?: in@27)
+290	
+291	
+292	SVO (V: announced@10, S: Guide@9, A?: July@2, CCOMP: star@17)	SVA (V: star@17, S: Kidman@12, A!: in@18)	SVO (S: his@26, V: "has", O: relationship@27)
+293	
+294	SVA (V: "be directed", S: film@2, A!: by@5)	SVC (S: Kaufman@7, V: "is", C: http@9)
+295	
+296	
+297	
+298	SVA (V: "be scheduled", S: date@10, A!: for@12)
+299	
+300	SVA (V: stars@6, S: March@2, A?: also@5, A!: alongside@7, A?: with@18)	SVO (S: Schumacher@13, V: "has", O: Trespass@16)	SVA (V: "be playing", S: stars@20, O: couple@24)
+301	SVC (S: Guardian@3, V: "is", C: ContactMusic@13)
+302	SVO (V: said@2, S: com@1, CCOMP: return@5)	SVOC (V: return@5, S: Kidman@3, A?: to@6, XCOMP: portray@9, A?: with@27, O: ContactMusic.com@32)	SVO (S: Cromer@15, V: "has", O: revival@17)	SVO (S: Williams@20, V: "has", O: Bird@23)	SVA (V: "be producing", S: Rudin@29)
+303	SVA (V: spoke@9, S: September@3, A!: to@10)	SVO (V: explained@17, S: September@3, A?: to@10, CCOMP: meet@23)	SVO (V: meet@23, S: production@20, O: date@29)	SVO (S: its@24, V: "has", O: date@29)	SVO (V: remains@33, S: it@32, O: project@36)
+304	
+305	SVOC (V: reported@12, S: Times@11, CCOMP: is@14, O: August@2)	SVA (V: is@14, S: Kidman@13, A!: in@15)	SVA (V: "be join", S: talks@16, O: cast@20)	SVO (S: Wook@24, V: "has", O: Stoker@26)
+306	
+307	
+308	
+309	
+310	SVA (V: look@11, S: Firth@7, A!: to@12)	SVOC (V: reported@35, S: it@33, A?: in@15, CCOMP: star@39, O: roles@14)	SVA (V: star@39, S: Kidman@37, A!: in@42)	SVA (V: produce@41, S: Kidman@37, A!: in@42)	SVC (S: Spectre@43, V: "is", C: thriller@47)	SVA (V: "be directed", S: thriller@47, A!: by@49)
+311	SVO (V: closed@3, S: film@2, O: deals@6, A?: at@7)
+312	
+313	SVA (V: cast@8, S: Kidman@6, A?: May@2, A?: In@4, A!: in@9)	SVO (S: Daniels@11, V: "has", O: adaptation@14)	SVC (S: Dexter@18, V: "is", C: Paperboy@22)
+314	
+315	
+316	SVC (S: August@2, V: "is", C: Noyce@26)	SVOC (V: reported@12, S: Reporter@11, CCOMP: attached@16, O: August@2)	SVO (V: attached@16, S: Kidman@14, XCOMP: star@18)	SVO (S: My@20, V: "has", O: Life@22)	SVC (S: conservationist@31, V: "is", C: Sheldrick@34)
+317	SVA (V: scheduled@6, S: Production@1, A!: for@7)
+318	
+319	
+320	SVO (V: had@5, S: Kidman@4, O: performances@8, A?: in@9)
+321	SVO (S: Her@1, V: "has", O: collaboration@2)	SVA (V: peaked@12, S: What@9, A!: at@13)
+322	
+323	SVA (V: collaborated@7, S: 30@2, A?: Later@5, A!: with@8, A?: on@11)	SVA (V: collaborated@7, S: she@6, A?: Later@5, A!: with@8, A?: on@11)	SVO (S: Williams@20, V: "has", O: swing@22)	SVOO (V: covers@23, S: cover@18, O: Swing@25, A?: Winning@29, IO: Stupid@14)	SV (V: Winning@29, S: You@27, A?: When@26)
+324	SVA (V: peaked@2, S: It@1, A!: at@3)
+325	
+326	
+327	SVA (V: "be Retrieved", S: she@20, A!: In@6, A?: voicing@10)	SVO (V: provided@21, S: she@20, A?: Retrieved@1, O: vocals@22)	SVC (S: heartsong@28, V: "is", C: version@34)	SVO (S: Jean@25, V: "has", O: heartsong@28)
+328	SVA (V: sang@4, S: Kidman@3, A!: in@5)
+329	SVA (V: married@4, S: Kidman@1, A!: twice@5, A?: first@7)	SVA (V: then@14, S: Kidman@1, A?: twice@5, A?: first@7, A!: to@15)
+330	SVO (V: met@2, S: She@1, O: Cruise@3, A?: in@4, A?: on@7)	SVO (S: their@11, V: "has", O: Days@14)
+331	SVA (V: married@5, S: Kidman@1, A!: on@6, A?: in@10)	SVA (S: Telluride@11, V: "is in", C: Colorado@13)
+332	
+333	SVC (S: son@3, V: "is", C: Anthony@6)
+334	SVA (V: separated@2, S: They@1, A!: on@3)
+335	
+336	
+337	
+338	SVC (S: Cruise@1, V: "is", C: People@7)
+339	
+340	
+341	SVC (S: Cruise@1, V: "is", C: People@7)	SVC (C: pregnant@18, V: was@15, S: Cruise@1, A?: months@17, A?: at@19)	SVO (V: suffered@27, S: she@26, A?: afterward@24, O: miscarriage@29)
+342	
+343	
+344	
+345	
+346	
+347	
+348	SVO (V: filed@2, S: Cruise@1, A?: for@3, A?: in@5, A?: with@17, XCOMP: citing@19)	SVA (V: dissolved@13, S: marriage@11, A!: year@15)
+349	
+350	
+351	
+352	
+353	SVO (V: said@6, S: Kidman@5, A?: In@1, CCOMP: had@8)	SVO (V: had@8, S: she@7, O: pregnancy@11, A?: in@13)	SVO (S: their@14, V: "has", O: marriage@15)
+354	SVO (V: says@3, S: Kidman@2, CCOMP: have@7)	SVO (V: have@7, S: she@4, O: surgery@9)
+355	
+356	
+357	
+358	SVO (V: says@3, S: Kidman@2, CCOMP: have@7)	SVO (V: have@7, S: she@4, O: surgery@9)
+359	
+360	
+361	
+362	SVO (S: Ladies@5, V: "has", O: Journal@8)	SVO (V: said@11, S: she@10, A?: In@1, CCOMP: loved@14)	SVO (V: loved@14, S: she@12, A?: still@13, O: Cruise@15)	SVC (C: huge@20, V: was@19, S: He@18)
+363	SVC (C: Tom@7, V: was@5, S: he@4, A?: To@1, A?: just@6)	SVC (C: huge@16, V: is@15, S: he@14, A?: to@10)
+364	SVC (C: lovely@4, V: was@3, S: he@2, A?: to@5)	SVO (V: loved@9, S: I@8, O: him@10)
+365	SVO (V: love@3, S: I@1, A?: still@2, O: him@4)
+366	SVO (V: expressed@7, S: she@5, A?: In@2, O: shock@8, A?: about@9)	SVO (S: their@10, V: "has", O: divorce@11)
+367	
+368	
+369	
+370	
+371	SVC (S: Compass@21, V: "is", C: film@23)
+372	SVO (V: had@7, S: Kidman@6, A?: Prior@1, O: relationship@9, A?: in@15)
+373	
+374	
+375	
+376	
+377	
+378	
+379	SVOO (V: brought@9, S: Mountain@8, O: rumours@10, IO: November@2)	SVC (C: responsible@21, V: was@20, S: affair@13, A?: for@22)	SVO (S: his@26, V: "has", O: marriage@27)
+380	SVO (V: denied@2, S: Both@1, O: allegations@4)	SVO (V: won@8, S: Kidman@7, O: sum@11, A?: from@12)	SVO (V: published@17, S: tabloids@15, O: story@19)
+381	
+382	
+383	
+384	SVOC (V: wins@2, S: Kidman@1, O: case@5, O: www.cnn.com/2003/SHOWBIZ/Movies/07/31/uk@17)
+385	
+386	
+387	SVO (V: wins@2, S: Kidman@1, O: case@5)	SVOO (V: gave@14, S: CNN@12, O: money@16, A?: to@17, IO: case@5)	SVOO (V: gave@14, S: She@13, O: money@16, A?: to@17, IO: case@5)	SVO (V: filmed@28, S: movie@26, A?: where@24, O: town@23)
+388	
+389	
+390	
+391	
+392	SVOC (V: confirmed@9, S: Williams@8, CCOMP: had@11, O: Biography@3)	SVO (V: had@11, S: they@10, O: romance@14, A?: in@18)	SVO (S: her@16, V: "has", O: yacht@17)
+393	SVO (V: met@2, S: She@1, O: Kravitz@5, A?: in@6)	SVOC (V: dated@9, S: She@1, O: Kravitz@5, A?: in@6, O: him@10, A?: into@11)
+394	
+395	
+396	
+397	
+398	SVOC (V: revealed@16, S: Kidman@15, CCOMP: engaged@21, O: Moves@2)	SVA (V: engaged@21, S: she@18, A?: secretly@20, A!: to@22, A?: prior@24)	SVO (S: her@26, V: "has", O: marriage@27)
+399	
+400	
+401	
+402	
+403	SVOO (V: met@13, S: Kidman@12, O: husband@16, A?: at@25, IO: Kravitz@8)	SVC (S: husband@16, V: "is", C: Urban@23)	SVO (S: her@14, V: "has", O: husband@16)	SVC (S: LA@27, V: "is", C: event@30)
+404	SVA (V: married@2, S: They@1, A!: on@3, A?: at@8, A?: in@13)	SVO (S: Patrick@18, V: "has", O: Estate@20)	SVC (S: Estate@20, V: "is", C: Manly@22)
+405	
+406	
+407	
+408	
+409	
+410	
+411	SVO (V: weds@2, S: Kidman@1, O: Urban@3, A?: in@4)	SVC (S: May@12, V: "is", C: http@19)
+412	
+413	
+414	SV (V: Say@4, S: Nicole@1)	SV (V: Do@7, S: I@6)
+415	
+416	
+417	SVO (V: Say@4, S: Nicole@1, CCOMP: Do@7)	SVO (V: Do@7, S: I@6, CCOMP: maintain@15)	SVA (V: "be Retrieved", S: People@9, A!: May@12)	SVO (V: maintain@15, S: People@9, O: homes@16)	SVO (V: maintain@15, S: They@14, O: homes@16)	SVC (S: Sydney@18, V: "is", C: http@36)
+418	SVOO (V: buy@6, S: Urban@5, O: NashvillePost.com@9, IO: Kidman@2)
+419	
+420	SVOO (V: buy@6, S: Urban@5, O: NashvillePost.com@9, IO: Kidman@2)
+421	
+422	
+423	
+424	
+425	SVO (S: Nashville@4, V: "has", O: sales@8)	SVC (S: sales@8, V: "is", C: NashvillePost.com@12)
+426	
+427	
+428	
+429	SVO (S: Nashville@4, V: "has", O: sales@8)	SVC (S: sales@8, V: "is", C: NashvillePost.com@12)
+430	SVC (S: April@4, V: "is", C: daughter@12)	SVO (S: couple@10, V: "has", O: daughter@12)	SVA (V: "be Retrieved", S: Urban@17, A!: on@2)	SVA (V: born@20, S: Urban@17, A?: Retrieved@1, A!: on@21, A?: in@26)
+431	
+432	
+433	
+434	SVO (V: Welcomed@6, S: Kidman@2, O: Girl@9)
+435	
+436	
+437	SV (V: Welcomed@6, S: Kidman@2)	SVO (S: Kidman@19, V: "has", O: father@21)	SVO (V: said@22, S: father@21, A?: July@14, A?: July@17, CCOMP: was@28)	SVO (V: said@22, S: 7@13, A?: July@14, A?: July@17, CCOMP: was@28)	SVO (S: daughter@24, V: "has", O: name@27)	SVA (V: was@28, S: name@27, A!: after@29)	SVC (S: grandmother@33, V: "is", C: Rose@35)	SVO (S: Urban@30, V: "has", O: grandmother@33)
+438	SVC (S: Tauber@1, V: "is", C: Michelle@3)
+439	SVC (S: People@3, V: "is", C: July@7)
+440	
+441	SVO (V: welcomed@9, S: Kidman@6, A?: On@1, O: daughter@12, A?: via@23)	SVC (S: daughter@12, V: "is", C: Urban@21)	SVO (S: his@10, V: "has", O: daughter@12)	SVO (S: her@14, V: "has", O: daughter@16)	SVC (S: carrier@25, V: "is", C: Minutes@34)	SVC (S: carrier@25, V: "is", C: February@39)	SVC (S: transcript@27, V: "is", C: interview@30)	SVC (S: Minutes@34, V: "is", C: Australia@36)	SVO (S: Nashville@44, V: "has", O: Women@47)	SVO (S: Women@47, V: "has", O: Hospital@49)
+442	SVC (C: Kidman@5, V: is@3, S: child@2, A?: biologically@4)
+443	SVO (S: Faith@1, V: "has", O: name@4)	SVA (V: is@5, S: name@4, A!: after@6)	SVO (S: Kidman@7, V: "has", O: grandmother@10)
+444	
+445	
+446	
+447	SVO (V: Welcome@6, S: Kidman@2, O: Daughter@8)
+448	
+449	
+450	
+451	SVO (V: Welcome@6, S: Kidman@2, O: Daughter@8)
+452	
+453	
+454	
+455	
+456	
+457	
+458	SVC (S: Kidman@2, V: "is", C: Kidman@19)	SVA (V: "be Blessed", S: Kidman@2, A!: by@10)	SVO (V: mentioned@20, S: Kidman@2, A?: in@21, CCOMP: banned@30)	SVA (V: banned@30, S: she@28, A!: from@31, A?: shooting@43)	SVO (S: her@35, V: "has", O: hobbies@37)
+459	
+460	
+461	SVO (V: reveals@5, S: Hugh@4, O: all@6)
+462	
+463	
+464	SVO (V: reveals@5, S: Hugh@4, O: all@6)
+465	SVO (V: won@9, S: Kidman@8, O: orders@12)	SVO (V: stationed@19, S: paparazzi@16, A?: persistently@18, O: themselves@20, A?: outside@21)	SVO (S: her@22, V: "has", O: mansion@25)
+466	
+467	
+468	
+469	
+470	SVO (V: wins@2, S: Kidman@1, XCOMP: restraining@3)	SVC (S: January@9, V: "is", C: Herald@14)	SVC (V: appeared@22, S: Kidman@21, CCOMP: wins@2, A?: in@23)	SVA (V: "be featuring", S: stamps@28, O: actors@31)
+471	SVA (V: appear@13, S: Blanchett@11, A!: twice@14, A?: in@15)	SVO (S: their@25, V: "has", O: Award@27)
+472	
+473	SVC (C: Catholic@10, V: is@6, S: Kidman@5)
+474	
+475	
+476	SVA (V: seen@8, S: id@1, A!: as@9)
+477	
+478	SVA (V: seen@8, S: id@1, A!: as@9)	SVOO (V: attended@21, S: She@20, O: Chapel@24, A?: in@25, IO: McAloon@19)
+479	
+480	SVA (V: Upset@4, S: Leaders@3, A!: Over@5)	SVC (S: October@11, V: "is", C: http@19)	SVC (S: October@11, V: "is", C: January@15)
+481	SVA (V: Upset@4, S: Leaders@3, A!: Over@5)	SVC (S: October@11, V: "is", C: 2012@18)	SVC (S: October@11, V: "is", C: January@15)
+482	SVC (S: February@3, V: "is", C: January@7)	SVC (S: February@3, V: "is", C: http@11)
+483	SVO (V: prevent@35, S: beliefs@33, O: her@36, A?: from@37)	SVO (V: perceives@45, S: she@44, A?: at@46, O: film@43)	SVC (S: February@3, V: "is", C: January@7)	SVOO (V: told@12, S: Kidman@11, O: Weekly@14, IO: February@3)	SVC (C: part@21, V: is@20, S: Church@19, A?: of@22)	SVO (S: her@23, V: "has", O: essence@25)	SVO (S: her@31, V: "has", O: beliefs@33)
+484	
+485	SVO (S: Shifts@5, V: "has", O: Compass@8)	SVC (S: October@13, V: "is", C: January@17)	SVC (S: October@13, V: "is", C: http@23)
+486	SVO (S: Shifts@5, V: "has", O: Compass@8)	SVC (S: October@13, V: "is", C: January@17)	SVO (S: her@22, V: "has", O: divorce@23)	SVO (V: stated@29, S: she@28, CCOMP: want@34)	SVO (V: want@34, S: she@31, CCOMP: raised@37)	SVA (V: raised@37, S: children@36, A!: as@38)
+487	SVC (S: Post@4, V: "is", C: February@7)
+488	SVC (C: reluctant@4, V: been@3, S: She@1, XCOMP: discuss@6, A?: since@8)	SVO (S: her@9, V: "has", O: divorce@10)
+489	
+490	
+491	
+492	
+493	
+494	
+495	SVO (V: donated@16, S: Kidman@14, A?: to@17, O: Kidman@10)
+496	
+497	
+498	
+499	
+500	SVA (V: appeared@6, S: Kidman@4, A?: In@1, A?: first@5, A!: on@7)	SVA (V: "be published", S: list@11, A!: annually@13, A?: in@14, A?: with@19)
+501	
+502	
+503	
+504	
+505	SVC (S: Murphy@19, V: "is", C: wealth@33)	SVC (S: Murphy@19, V: "is", C: Damien@21)	SVO (S: Kidman@31, V: "has", O: wealth@33)	SVO (V: estimated@35, S: Murphy@19, A?: at@36, O: $@9)
+506	
+507	
+508	
+509	
+510	SVC (S: BRW@8, V: "is", C: children@27)	SVOO (V: raised@17, S: Kidman@15, O: money@18, A?: for@19, IO: BRW@8)
+511	SVO (V: appointed@6, S: she@4, A?: In@1, O: ambassador@9)	SVA (V: honoured@19, S: she@17, A?: in@14, A!: as@20, A?: by@28)
+512	SVO (V: joined@4, S: Kidman@3, O: Campaign@8)	SVA (V: "be design", S: care@12, O: T-shirts@15, A!: raise@19)	SVA (V: "be raise", S: design@14, O: money@20, A!: fight@22)	SVA (V: "be fight", S: raise@19, O: disease@24)
+513	SVO (V: joins@9, S: Kidman@8, O: crusade@14)
+514	
+515	SVO (V: joins@9, S: Kidman@8, O: crusade@14)
+516	SVA (V: "be motivated", S: October@5, A!: by@8)	SVO (S: her@9, V: "has", O: mother@10)	SVO (S: mother@10, V: "has", O: battle@13)
+517	
+518	
+519	
+520	
+521	
+522	
+523	SVO (S: women@6, V: "has", O: cancers@8)	SVOO (V: received@23, S: Kidman@22, O: honor@28, A?: made@32, IO: cancers@8)	SVOO (V: received@23, S: USA@9, O: honor@28, A?: made@32, IO: cancers@8)	SVO (S: Australia@24, V: "has", O: honor@28)	SVO (V: made@32, S: she@30, A?: when@29, O: Companion@34)
+524	SVO (V: acknowledged@3, S: citation@2, O: service@6, A?: as@11, A?: to@18)	SVO (S: Kidman@4, V: "has", O: service@6)	SVA (V: "be improve", S: contributions@22, O: treatment@26)
+525	
+526	SVOC (C: Commonwealth@19, V: 's@16, S: It@15, A?: of@20, O: Kidman@14)
+527	SVC (S: Women@40, V: "is", C: UNIFEM@42)	SVOC (C: Commonwealth@19, V: 's@16, S: It@15, A?: of@20, O: Kidman@14)	SVOO (V: appointed@30, S: January@23, O: ambassador@32, A?: in@44, IO: 26@22)
+528	
+529	
+530	SVC (V: becomes@2, S: Kidman@1, XCOMP: ambassador@3, A?: In@14)	SVO (V: testified@33, S: Kidman@1, XCOMP: ambassador@3, A?: In@14, A?: before@34)	SVOC (V: raised@27, S: Kidman@1, XCOMP: ambassador@3, A?: In@14, O: awareness@28, A?: through@29)	SVO (V: addressed@20, S: Kidman@18, O: audiences@22, A?: at@23)	SVA (V: "be support", S: Committee@41, O: Violence@49, A!: against@50)
+531	SVOC (V: visited@2, S: Kidman@1, O: Kosovo@3, A?: in@4, XCOMP: learn@7)	SVO (S: women@9, V: "has", O: experiences@11)	SVO (S: UNIFEM@15, V: "has", O: efforts@18)
+532	SVC (C: spokesperson@5, V: is@2, S: She@1, A?: for@6)
+533	
+534	
+535	
+536	
+537	
+538	
+539	SVA (V: "be presented", S: director@9, A!: over@11, A?: to@22, A?: on@26)	SVA (V: "be collected", S: signatures@14, A!: during@16)
+540	
+541	
+542	
+543	
+544	
+545	
+546	SVC (S: Kidman@6, V: "is", C: Chen@13)	SVO (V: attended@18, S: Kidman@6, A?: On@1, O: ceremony@20, A?: help@22)	SVA (V: "be help", S: Kidman@6, O: ground@28, A!: on@29)
+547	
+548	
+549	
+550	SVC (S: Ground@7, V: "is", C: Earthtimes@27)	SVO (S: Francisco@19, V: "has", O: Presidio@21)
+551	
+552	
+553	SVC (S: Ground@7, V: "is", C: Earthtimes@27)	SVO (S: Francisco@19, V: "has", O: Presidio@21)
+554	
+555	SVC (S: Pelosi@1, V: "is", C: Kidman@3)	SVO (V: Help@6, S: Torre@5, CCOMP: Break@8)	SVOC (V: Break@8, S: FVPF@7, O: Ground@9, A?: on@10, O: www.endabuse@25)
+556	
+557	SVC (S: Pelosi@1, V: "is", C: Kidman@3)	SVO (V: Help@6, S: Torre@5, CCOMP: Break@8)	SVO (V: Break@8, S: FVPF@7, O: Ground@9, A?: on@10)	SVO (S: Kidman@21, V: "has", O: movies@23)	SVOO (V: grossed@25, S: movies@23, O: $@28, A?: with@35, IO: Fund@17)	SVC (S: $@28, V: "is", C: US@32)	SVO (V: making@38, S: movies@37, O: $@41)
+558	
+559	
+560	SVO (S: Kidman@3, V: "has", O: revenues@6)
+561	
+562	
+563	SVO (S: Kidman@3, V: "has", O: revenues@6)
+564	SVA (V: "be received", S: awards@10, A!: by@14, A?: In@17)	SVOO (V: received@21, S: Kidman@20, O: Star@23, A?: on@24, IO: List@8)
+565	SVO (S: her@4, V: "has", O: Award@7)	SVO (V: received@14, S: Kidman@12, A?: In@1, O: awards@17, A?: from@18)	SVO (S: critics@21, V: "has", O: groups@23)	SVC (S: Press@31, V: "is", C: Globes@34)	SVC (S: Press@31, V: "is", C: Institute@40)	SVC (S: Press@31, V: "is", C: Awards@44)	SVC (S: Press@31, V: "is", C: Awards@47)	SVC (S: Press@31, V: "is", C: Awards@51)	SVC (S: Press@31, V: "is", C: Festival@55)	SVC (S: Press@31, V: "is", C: Circle@59)	SVC (S: Press@31, V: "is", C: Guild@62)
+566	SVO (V: given@6, S: Kidman@4, A?: In@1, O: Award@10)
+567	SVO (V: received@3, S: She@1, A?: also@2, O: recognition@4, A?: at@12, A?: in@16, A?: as@18)	SVO (V: in@25, S: She@1, A?: also@2, O: recognition@4, A?: at@12, A?: in@16, A?: as@18, A?: 2002@26, A?: for@27)
+568	SVO (V: made@6, S: Kidman@4, A?: In@1, O: Companion@8, A?: for@24, A?: as@31, A?: to@38, A?: through@41, A?: to@57, A?: as@59)	SVO (V: to@69, S: Kidman@4, A?: In@1, O: Companion@8, A?: for@24, A?: as@31, A?: to@38, A?: through@41, A?: to@57, A?: as@59, A?: causes@71)	SVC (S: Australia@13, V: "is", C: honour@22)	SVC (S: Australia@13, V: "is", C: AC@15)	SVO (S: Australia@18, V: "has", O: honour@22)	SVA (V: "be improve", S: contributions@42, O: treatment@46)
+569	
+570	
+571	SVA (V: presented@38, S: she@36, A!: with@39)	SVO (S: her@25, V: "has", O: wedding@26)	SVC (C: April@33, V: was@31, S: it@30)
+572	SVO (S: Nicole@3, V: "has", O: http@8)
+573	
+574	SVO (S: Nicole@12, V: "has", O: http@17)
+575	
+576	SVA (V: presented@12, S: It@10, A!: by@13)	SVC (S: Governor-General@14, V: "is", C: Jeffery@21)	SVC (S: House@27, V: "is", C: Canberra@29)
+577	
+578	
+579	
+580	
+581	SVA (S: Honolulu@39, V: "is in", C: Hawaii@41)	SVC (S: view@3, V: "is", C: actress@35)
+582	SVC (S: winners@65, V: "is", C: people@67)	SVC (S: Globe@89, V: "is", C: film@91)	SVC (S: Globe@102, V: "is", C: film@104)	SVC (C: be-x-old@157, V: be@153, S: Kidman@152)	SVO (S: Kidman@172, V: ca@173, O: br@169)	SV (V: es@201, S: Κίντμαν@200)	SV (V: is@257, S: Kidman@256)	SV (V: ps@338, S: Kidman@337)	SVO (V: Fly@477, S: UK@469, A?: Day@474, A?: Away@478, O: AUS@465)	SVO (V: Fly@477, S: I@475, A?: Day@474, A?: Away@478, O: AUS@465)
+583	
+584	
+585	SVC (S: AUS@17, V: "is", C: UK@21)	SV (V: Kiss@25, S: Williams@12)	SVC (S: December@51, V: "is", C: soundtrack@55)	SVC (S: Thomson@60, V: "is", C: critic@63)
+586	

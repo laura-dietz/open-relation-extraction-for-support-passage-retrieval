@@ -1,0 +1,249 @@
+0	
+1	
+2	SVC (S: Loss@11, V: "is", C: Office@14)	SVC (C: reduction@32, V: is@30, S: episode@2, A?: of@33, A?: due@39)	SVC (S: due@39, V: "is", C: deposits@59)
+3	SVA (V: occur@3, S: It@1, A!: to@6)	SVA (V: arise@12, S: It@1, A?: to@6, A!: from@13)	SVA (V: "be improve", S: effort@16, O: state@26)
+4	SVA (V: occurs@4, S: loss@3, A!: in@5)
+5	SVA (V: "be known", S: management@2, A!: also@9, A?: as@11)	SVC (S: mellitus@14, V: "is", C: IDDM@16)	SVA (V: leads@19, S: management@2, A!: to@20)	SVA (V: amount@29, S: management@2, A?: to@20, A!: of@30, A?: in@32)
+6	SVO (V: triggers@2, S: This@1, O: release@4)	SVC (S: adipose@8, V: "is", C: fat@10)	SVC (S: catabolism@14, V: "is", C: breakdown@16)
+7	SVA (V: results@2, S: This@1, A!: in@3, A?: leading@13)	SVA (V: "be leading", S: This@1, A!: to@14)
+8	SVO (V: produce@7, S: type@2, O: loss@9)
+9	SVA (V: triggered@20, S: loss@17, A?: In@1, A!: by@21)
+10	SVO (V: exacerbates@12, S: loss@2, O: risk@14)
+11	SVA (V: "be leading", S: Journal@45, A!: to@66)	SVO (V: alter@62, S: Journal@45, O: metabolism@63, A?: leading@65)
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	SVC (S: thyroid@8, V: "is", C: hyperthyroidism@10)	SVA (V: exhibit@15, S: disruptions@2, A?: also@14, A!: as@16)
+21	
+22	
+23	
+24	
+25	SVA (V: is@18, S: loss@17, A?: where@14, A!: of@19)	SVA (V: is@22, S: Thyroid@2, A!: 's@25)	SVA (V: %@43, S: Thyroid@2, A?: 's@25, A!: during@44)	EXISTENTIAL (V: 's@25, S: loss@28, A?: where@23, A?: in@34)
+26	SVA (V: "be evaluating", S: role@4, O: coverage@17, A!: for@21)
+27	
+28	
+29	
+30	SVO (V: \@2, S: ISBN@1, CCOMP: refers@16)	SVC (S: t0309068460@3, V: "is", C: loss@15)	SVA (V: refers@16, S: t0309068460@3, A!: to@17)	SVO (V: change@35, S: t0309068460@3, A?: to@17, O: appearance@36)	SVA (V: "be improve", S: effort@26, O: fitness@29)
+31	
+32	
+33	
+34	SVOA (V: shows@10, S: study@9, O: value@11, A!: in@12)
+35	
+36	
+37	
+38	
+39	
+40	
+41	
+42	
+43	SVOA (V: shows@10, S: study@9, O: value@11, A!: in@12)
+44	
+45	
+46	
+47	
+48	
+49	SVC (S: articleID@1, V: "is", C: pressure@14)
+50	
+51	
+52	SVA (V: increases@6, S: Prevalence@1, A!: with@7)
+53	
+54	
+55	
+56	
+57	
+58	
+59	
+60	SVA (V: increases@6, S: Prevalence@1, A!: with@7)
+61	
+62	
+63	
+64	
+65	
+66	
+67	SVO (V: Lean@14, S: Pathophysiology@11, O: ME@15)
+68	SVOO (V: Lean@14, S: Pathophysiology@11, O: ME@15, A?: thought@22, IO: Aug@5)	SVO (V: thought@22, S: overweight@19, XCOMP: linked@25)	EXISTENTIAL (V: is@29, S: evidence@32)	SVA (V: "be support", S: evidence@32, O: link@36)
+69	
+70	
+71	SVC (C: beneficial@8, V: be@7, S: Attention@1, A?: in@9)
+72	
+73	
+74	
+75	
+76	SVA (V: "be leading", S: it@9, A!: gradually@19, A?: to@21)	SVO (V: use@11, S: it@9, A?: from@1, O: reserves@13, A?: from@14, A?: leading@20)
+77	SVC (C: uncommon@6, V: is@4, S: It@3, A?: August@1, A?: for@7)	SVC (V: are@11, S: people@9, A?: currently@12, A?: at@13, XCOMP: seek@19)	SVO (S: their@14, V: "has", O: weight@17)
+78	SVA (V: driven@6, S: others@3, A?: However@1, A!: by@7)
+79	SVA (V: associated@6, S: underweight@4, A?: Notably@1, A!: with@7)	SVA (V: "be fighting", S: difficulty@12, O: infection@15)	SVA (V: "be regulating", S: trouble@23, O: temperature@26)
+80	
+81	SVO (V: poses@5, S: Clinic@2, O: risks@7, A?: web.archive@16)	SVO (V: poses@5, S: underweight@4, O: risks@7, A?: web.archive@16)	SVC (S: January@8, V: "is", C: http@12)
+82	
+83	
+84	SVC (S: March@1, V: "is", C: http@5)
+85	SVO (V: poses@5, S: Clinic@2, O: risks@7, A?: web.archive@16)	SVO (V: poses@5, S: underweight@4, O: risks@7, A?: web.archive@16)	SVC (S: January@8, V: "is", C: http@12)
+86	
+87	
+88	EXISTENTIAL (V: are@6, S: plans@9, O: March@1)	SVC (C: helpful@15, V: be@14, S: plans@9, A?: for@16)
+89	SVA (V: classified@4, S: some@2, A!: as@5)	SVO (S: one@11, V: "has", O: health@14)	SVA (V: recommended@18, S: others@16, A?: classified@4, A!: by@19)
+90	SVA (V: designed@5, S: plans@2, A?: generally@4, A!: according@6)	SVC (C: important@15, V: is@14, S: it@13, XCOMP: note@17)	SVC (C: those@24, V: are@23, S: diets@22)	SVO (V: promote@27, S: those@24, A?: simultaneously@26, O: activity@29)
+91	EXISTENTIAL (V: are@4, S: programs@7, O: August@1)	SVO (V: claim@9, S: programs@7, XCOMP: efficient@12)
+92	SVC (C: questionable@10, V: is@9, S: efficacy@5, A?: However@1)
+93	SVA (V: is@6, S: loss@5, A!: in@8)	SVC (C: manageable@24, V: is@21, S: restriction@20, A?: generally@22, A?: more@23, A?: than@25)	SVO (S: one@31, V: "has", O: lifestyle@33)	SVA (V: associated@40, S: loss@37, A?: generally@39, A!: with@41)	SVO (V: beginning@51, S: loss@37, A?: generally@39, A?: with@41, XCOMP: practice@53)
+94	SVC (S: August@1, V: "is", C: variety@9)	SVO (V: designed@15, S: August@1, XCOMP: meet@17)	SVA (V: "be seeking", S: individuals@21, XCOMP: lose@24)
+95	SVC (C: one@6, V: are@5, S: strategies@4, A?: of@7)
+96	SVA (V: vary@9, S: consumption@5, A?: Notably@1, A!: depending@10)
+97	SVO (V: suggest@5, S: nutritionists@4, A?: For@1, CCOMP: consumed@15)	SVA (V: consumed@15, S: minimum@8, A!: by@16, A?: maintain@21)
+98	SVO (V: approach@14, S: consumption@4, A?: on@8, O: 1,500@15)
+99	
+100	
+101	
+102	
+103	SVOC (C: important@10, V: is@9, S: It@8, XCOMP: note@12, O: losing@5)	SVO (V: target@17, S: recommendations@15, A?: primarily@16, O: individuals@20)	SVO (V: seek@22, S: individuals@20, O: loss@24, A?: for@25)
+104	SVO (S: individuals@3, V: "has", O: obesity@5)	SVOA (V: places@6, S: obesity@5, O: them@7, A!: at@8)	SVO (V: follow@23, S: individuals@3, A?: However@1, O: diet@26)	SVO (V: under@30, S: individuals@3, A?: However@1, O: diet@26, A?: only@29, A?: monitoring@33)
+105	SVO (V: need@8, S: individuals@6, A?: In@1, XCOMP: restrict@10)	SVO (S: their@11, V: "has", O: intake@14)
+106	
+107	SVC (S: Food@1, V: "is", C: individuals@10)	SVC (S: Administration@4, V: "is", C: FDA@6)	SVA (V: "be seeking", S: individuals@10, XCOMP: maintain@13)	SVO (S: their@14, V: "has", O: weight@15)	SVO (V: consume@18, S: Food@1, O: calories@20)
+108	
+109	
+110	SVA (V: released@21, S: Americans@16, A!: on@22)	SVO (V: achieve@30, S: those@28, O: weight@35)	SVO (V: manage@32, S: those@28, O: weight@35)	SVO (V: do@36, S: those@28, A?: successfully@39, A?: by@40, O: January@23)	SVO (V: meet@53, S: calories@51, O: needs@55)	SVO (V: with@57, S: calories@51, O: needs@55, A?: activity@59)	SVO (S: their@54, V: "has", O: needs@55)
+111	SVA (V: referred@6, S: diets@3, A?: also@5, A!: to@7)
+112	SVO (S: their@3, V: "has", O: effects@6)	SVA (V: recommended@15, S: types@9, A?: Due@1, A?: commonly@14, A!: by@16)
+113	SVC (S: intake@6, V: "is", C: diet@10)	SVO (V: regulates@12, S: intake@6, A?: also@11, O: consumption@14)
+114	SVA (V: come@15, S: %@13, A?: Therefore@1, A?: from@3, A!: from@16)	SVA (V: %@20, S: %@13, A?: Therefore@1, A?: from@3, A?: from@16, A!: from@21)	SVA (V: %@26, S: %@13, A?: Therefore@1, A?: from@3, A?: from@16, A!: from@27, A?: with@29)	SVA (V: "be coming", S: fat@37, A!: from@39)
+115	
+116	
+117	SVO (V: consist@13, S: diet@11, A?: of@14, O: 2010-07-19@4)
+118	SVC (V: seems@4, S: counting@2, ACOMP: difficult@5, A?: altogether@6)	SVC (C: many@16, V: are@15, S: benefits@11, A?: seems@4)
+119	
+120	
+121	SVA (V: "be burned", S: calories@4, A!: by@6)	SVA (V: "be consumed", S: calories@10)
+122	SVC (S: activity@5, V: "is", C: diets@8)	SVO (V: thought@10, S: Combined@1, XCOMP: effective@14)	SVO (V: achieve@23, S: diets@20, O: results@26)
+123	SVO (V: enhance@5, S: activity@2, A?: greatly@4, O: efficiency@7)
+124	SVC (C: one@10, V: is@9, S: regimen@5, A?: therefore@7)	SVA (V: consists@12, S: one@10, A!: of@13)
+125	SVC (V: is@7, S: rule@3, XCOMP: avoid@9)	SVC (C: high@13, V: are@12, S: foods@10, A?: in@14)	SVA (V: contribute@20, S: sugars@15, A!: to@21)
+126	SVA (V: associated@7, S: gain@4, A?: Further@1, A!: with@8)
+127	SVC (S: Depression@3, V: "is", C: stress@5)	SVA (V: contribute@10, S: Depression@3, A?: also@9, A!: to@11, A?: August@15)	SVA (V: in@18, S: Depression@3, A?: also@9, A?: to@11, A?: August@15, A!: cases@20)	SVOC (V: advised@24, S: individuals@22, CCOMP: contribute@10, XCOMP: seek@26)
+128	SVA (V: found@4, S: study@3, A!: that@5)	SVC (V: got@8, S: dieters@6, CCOMP: doubled@16)	SVO (S: night@11, V: "has", O: sleep@13)	SVO (V: doubled@16, S: sleep@13, O: amount@18, A?: compared@22)
+129	SVO (V: undermines@13, S: sleep@12, O: efforts@15)	SVA (V: "be reduce", S: efforts@15, O: adiposity@18)
+130	
+131	SVO (V: undermines@13, S: sleep@12, O: efforts@15)	SVA (V: "be reduce", S: efforts@15, O: adiposity@18)
+132	
+133	
+134	
+135	SVO (V: help@6, S: Sleep@4, CCOMP: shed@8)	SVO (V: those@34, S: Sleep@4, CCOMP: shed@8, A?: in@50)	SVO (V: shed@8, S: dieters@7, O: Management@19)
+136	
+137	
+138	SVO (V: recommends@4, S: Organization@3, XCOMP: eating@5)
+139	
+140	
+141	
+142	
+143	
+144	
+145	SV (V: recommended@31, S: Diseases@20, A?: also@30)
+146	SVO (V: include@6, S: methods@2, O: use@7)	SVO (V: decrease@13, S: drugs@9, O: appetite@14)
+147	SVA (V: performed@11, S: Application@1, A?: however@6, A?: only@9, A!: under@12)
+148	
+149	
+150	SVOC (V: used@6, S: surgery@2, A?: in@7, XCOMP: reduce@13, XCOMP: limiting@21)
+151	SVO (V: considered@10, S: supplements@2, O: option@13)
+152	SVC (C: available@10, V: is@9, S: array@5, A-: Even@1, A?: to@11)	SVOC (C: effective@18, V: are@17, S: few@16, A?: available@10, O: term@20)
+153	SVO (V: considered@5, S: surgery@2, A?: usually@4, XCOMP: resort@8)	SVA (V: consists@15, S: it@14, A!: of@16)
+154	SVO (V: uses@4, S: band@3, O: hypnosis@5, A?: make@7)	SVA (V: "be make", S: band@3, CCOMP: think@10)	SVO (V: think@10, S: brain@9, CCOMP: smaller@14)	SVC (C: smaller@14, V: is@13, S: stomach@12, CCOMP: is@18)	SVC (V: is@18, S: it@16, A?: really@17, CCOMP: ingested@26)	SVO (V: lower@21, S: it@16, A?: really@17, A?: hence@20, CCOMP: ingested@26)	SV (V: ingested@26, S: amount@23)
+155	SVA (V: brings@2, S: This@1, A!: as@3)
+156	SVA (V: complemented@4, S: method@2, A!: with@5)	SVA (V: with@12, S: method@2, A?: with@5, A!: hypnopedia@13)
+157	SVO (V: revealed@5, S: study@4, A?: In@1, CCOMP: effective@14)	SVA (V: "be reinforced", S: hypnosis@7, A!: with@9)	SVC (C: effective@14, V: was@12, S: hypnosis@7, A?: more@13, A?: than@15)
+158	SVC (S: Kirsch@1, V: "is", C: Irving@3)
+159	
+160	
+161	SVA (V: refers@4, S: diet@3, A!: to@5)
+162	SVC (V: is@4, S: result@3, XCOMP: have@6)	SVO (V: burn@9, S: body@8, O: fat@10)
+163	EXISTENTIAL (V: is@2, S: possibility@4, A?: depending@9)	SVA (V: "be depending", S: possibility@4, A!: used@13)	SV (V: used@13, S: approach@12)
+164	SVC (C: dangerous@7, V: be@6, S: dieting@4, A?: to@8)	SVA (V: recommended@18, S: method@12, A!: by@19)
+165	
+166	
+167	
+168	
+169	
+170	
+171	
+172	
+173	
+174	
+175	
+176	
+177	
+178	
+179	SVO (V: =@2, S: id@1, O: 6851@3)
+180	SVC (V: sounds@8, S: diet@5, ACOMP: good@10)	SV (V: is@17, S: it@15, A?: sounds@8, A?: probably@16)
+181	EXISTENTIAL (V: are@2, S: foods@4)	SVO (V: burn@9, S: foods@4, A?: magically@8, O: fat@10)
+182	SVO (V: alter@5, S: foods@3, O: code@8)	SVO (S: your@6, V: "has", O: code@8)
+183	SVO (V: melt@5, S: products@2, A?: miraculously@4, O: fat@6, A?: watch@9)	SVO (V: watch@9, S: you@8, O: TV@10)
+184	SVC (C: dangerous@10, V: be@9, S: ingredients@2)
+185	SVO (V: needs@10, S: focus@9, A?: feel@2, XCOMP: be@12)	SV (V: eats@21, S: person@20, A?: how@18)
+186	EXISTENTIAL (V: is@5, S: market@8)	SVO (V: promise@12, S: products@10, XCOMP: make@14)	SV (V: easier@17, S: loss@16)
+187	SVO (V: include@2, S: These@1, O: books@3)	SV (V: wraps@20, S: body@19)
+188	SVO (V: spent@5, S: residents@2, O: $@8, A?: on@13)
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	SVA (V: spent@11, S: $@3, A!: annually@12, A?: on@13, A?: with@26)	SVA (V: "be garnering", S: centers@29, A!: between@31)
+206	SVO (S: Americans@5, V: "has", O: attempts@8)
+207	SVC (C: trend@11, V: are@8, S: fads@7, A?: short-lived@3, A?: for@12, A?: as@15)	SVO (V: meet@24, S: them@23, O: goals@28)	SVO (S: their@25, V: "has", O: goals@28)
+208	
+209	SVO (S: America@3, V: "has", O: http@11)
+210	SVC (S: Portly@5, V: "is", C: Population@6)	SVC (S: PRNewswire@8, V: "is", C: sales@15)	SVOO (V: topped@24, S: PRNewswire@8, O: million@27, IO: Reuters@7)
+211	
+212	
+213	
+214	
+215	
+216	SVO (V: facilitate@7, S: supplements@6, O: loss@9)	SVO (V: finds@13, S: research@12, O: July@14)	SVC (S: July@14, V: "is", C: Category@21)	SVC (S: Starvation@72, V: "is", C: state@75)	SVA (V: "be resulting", S: hunger@78, A!: from@80, A?: over@85)
+217	SVC (S: Cancer@1, V: "is", C: cause@9)
+218	SVC (C: secondary@9, V: are@8, S: one-third@2, A?: to@10)
+219	SVA (V: "be suspect", S: Cancers@1, A!: in@4)	SVO (V: include@10, S: Cancers@1, O: carcinoma@18)	SVO (V: considered@32, S: malignancies@29, A?: in@33, O: carcinoma@18)	SVA (V: "be presenting", S: patient@35, A!: with@37)
+220	SVO (V: cause@3, S: AIDS@1, O: loss@5)	SVO (V: suspected@9, S: AIDS@1, O: loss@5, A?: in@10)	SVA (V: "be presenting", S: individuals@12, A!: with@14)
+221	SVC (C: cause@6, V: are@3, S: disorders@2, A?: of@7)	SVC (C: cause@20, V: are@15, S: they@14, A?: in@12, A?: of@21)
+222	SVC (C: disease@10, V: are@8, S: etiologies@3)	SVO (V: cause@37, S: disease@10, O: loss@39)
+223	
+224	SVO (V: cause@5, S: diseases@3, O: loss@7)
+225	SVO (V: include@2, S: These@1, O: illness@4)
+226	
+227	SVO (V: have@3, S: Patients@1, O: uremia@4)	SVO (V: have@6, S: Patients@1, A?: often@5, O: appetite@10)
+228	SVO (V: cause@3, S: This@1, O: loss@5)
+229	
+230	SVC (S: disease@2, V: "is", C: failure@7)	SVO (V: cause@10, S: disease@2, O: loss@13)
+231	
+232	
+233	
+234	
+235	
+236	
+237	
+238	SVO (V: cause@8, S: medications@6, A?: In@1, O: loss@10, A?: as@11)
+239	SVO (V: cause@3, S: Stress@1, O: loss@5)
+240	SVC (S: research@3, V: "is", C: Jastebott@5)	SVO (V: shows@12, S: research@3, A?: However@1, O: correlation@14)
+241	
+242	
+243	
+244	SVO (V: plans@15, S: smoking@5, O: effects@22)
+245	
+246	SVC (S: Commission@3, V: "is", C: September@5)
+247	
+248	SVC (S: Institutes@2, V: "is", C: June@11)	SVC (S: June@11, V: "is", C: loss@19)

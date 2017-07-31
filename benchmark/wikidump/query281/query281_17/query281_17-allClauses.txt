@@ -1,0 +1,75 @@
+0	
+1	SVC (S: April@2, V: "is", C: http@7)
+2	SVC (S: April@2, V: "is", C: diet@24)	SVC (S: April@2, V: "is", C: Version@11)	SVO (S: rightthumb250pxUSDA@6, V: "has", O: Version@11)	SVO (V: implies@28, S: April@2, CCOMP: diet@31)	SVO (V: consists@33, S: diet@31, A?: of@34, CCOMP: thought@46)	SVO (V: thought@46, S: which@44, XCOMP: lead@48)
+3	SVC (C: important@3, V: is@2, S: It@1, XCOMP: know@5, A?: as@15, A?: in@23)	SVA (V: needed@10, S: fat@8, A!: for@11)
+4	SV (V: debated@21, S: USDA@1, A?: In@8)	SV (V: debated@21, S: benefits@14, A?: In@8)
+5	SVA (V: "be published", S: study@3, A!: by@5)	SVO (V: argued@13, S: study@3, CCOMP: reduce@20)	SVO (V: reduce@20, S: diet@17, O: incidence@22)
+6	SVA (V: criticized@6, S: study@4, A?: However@1, A!: by@7)	SVO (S: its@11, V: "has", O: lack@12)	SVO (S: Women@22, V: "has", O: article@26)
+7	SVO (S: Nurses@4, V: "has", O: Study@7)	SVO (V: reported@15, S: Study@7, A?: Recently@1, A?: from@16, XCOMP: Stop@21)	SVOC (V: found@28, S: Study@7, A?: Recently@1, A?: from@16, XCOMP: Stop@21, CCOMP: associated@70)	SVC (S: Hypertension@22, V: "is", C: DASH@24)	SVA (V: associated@70, S: diet@31, A?: significantly@69, A!: with@71)
+8	SVOC (V: found@6, S: Review@5, O: diets@8, A?: effective@13, O: studies@27)	SVA (C: effective@13, V: "be effective", S: Review@5, A!: more@12, A?: than@14, A?: in@19)	SVA (V: "be concluding", S: studies@27)
+9	SVC (S: M@2, V: "is", C: review@16)	SVC (S: M@2, V: "is", C: C@5)	SVC (S: M@2, V: "is", C: U@8)	SVC (S: M@2, V: "is", C: A@11)
+10	
+11	EXISTENTIAL (V: was@2, S: rate@6)	SVA (V: "be suggesting", S: groups@14, O: preference@18)
+12	SVO (V: demonstrates@6, S: Evidence@1, CCOMP: effective@12)	SVC (C: effective@12, V: are@10, S: diets@9, A?: more@11, A?: at@13)	SVC (C: are@17, V: are@10, S: diets@9, A?: more@11, A?: at@13)
+13	SVC (S: M@2, V: "is", C: review@16)	SVC (S: M@2, V: "is", C: C@5)	SVC (S: M@2, V: "is", C: U@8)	SVC (S: M@2, V: "is", C: A@11)
+14	
+15	EXISTENTIAL (V: was@2, S: rate@6)	SVA (V: "be suggesting", S: groups@14, O: preference@18)
+16	SVO (V: demonstrates@6, S: Evidence@1, CCOMP: effective@12)	SVC (C: effective@12, V: are@10, S: diets@9, A?: more@11, A?: at@13)	SVC (C: are@17, V: are@10, S: diets@9, A?: more@11, A?: at@13)
+17	
+18	
+19	
+20	
+21	SVC (C: alternatives@17, V: be@15, S: diets@13, A?: to@18)
+22	
+23	
+24	
+25	
+26	
+27	SVC (C: alternatives@17, V: be@15, S: diets@13, A?: to@18)
+28	
+29	SVC (S: Journal@3, V: "is", C: T.@13)
+30	SVC (S: Campbell@2, V: "is", C: A.@5)
+31	
+32	SVOC (C: detrimental@19, V: are@18, S: fat@6, O: claim@2, A?: to@20)
+33	
+34	
+35	SVO (V: bring@10, S: Switch@5, O: diseases@12)
+36	
+37	SVO (V: bring@10, S: Switch@5, O: diseases@12)
+38	
+39	SVC (S: Project@2, V: "is", C: Environment@6)
+40	
+41	
+42	SVO (S: Barnard@2, V: "has", O: Program@4)
+43	
+44	
+45	SVO (S: Barnard@2, V: "has", O: Program@4)
+46	
+47	SVOC (V: state@15, S: They@13, A?: also@14, CCOMP: prevent@28, A?: as@34, O: York@5)	SVOO (V: reverse@40, S: They@13, A?: also@14, CCOMP: prevent@28, A?: as@34, O: them@41, IO: York@5)	SVA (V: "be incorporating", S: change@19, O: diet@24)	SVO (V: prevent@28, S: change@19, A?: only@27, O: disease@31)
+48	
+49	SVC (S: D@4, V: "is", C: SE@7)	SVC (S: D@4, V: "is", C: LW@10)	SVC (S: D@4, V: "is", C: al@13)
+50	
+51	SVC (S: D@4, V: "is", C: SE@7)	SVC (S: D@4, V: "is", C: LW@10)	SVC (S: D@4, V: "is", C: al@13)
+52	SVC (S: TC@13, V: "is", C: al@16)
+53	
+54	
+55	SVC (S: TC@2, V: "is", C: al@5)
+56	
+57	
+58	SVC (S: J@2, V: "is", C: al@5)
+59	
+60	
+61	SVC (S: J@2, V: "is", C: al@5)
+62	
+63	
+64	SVC (S: S0002-9149@3, V: "is", C: 99@5)
+65	
+66	SVC (C: Cardiol@24, V: Am@22, S: Updating@1)
+67	SVC (S: S0002-9149@11, V: "is", C: 99@13)
+68	
+69	SVC (C: Cardiol@24, V: Am@22, S: Updating@1)
+70	SVC (S: ND@10, V: "is", C: al@13)
+71	SVO (V: improves@5, S: diet@4, O: control@7)
+72	SVC (S: ND@4, V: "is", C: al@7)
+73	SVO (V: improves@5, S: diet@4, O: control@7)
+74	

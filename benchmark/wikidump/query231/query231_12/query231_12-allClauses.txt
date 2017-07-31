@@ -1,0 +1,84 @@
+0	SVA (V: "be derived", S: Gluttony@1, A!: from@4)	SVA (V: "be meaning", S: gluttire@7, XCOMP: gulp@10)	SVO (V: means@15, S: Gluttony@1, O: over-indulgence@16)
+1	SVO (V: considered@15, S: it@13, A?: In@1, A?: stated@8, O: one@16)	SVO (S: its@29, V: "has", O: withholding@30)
+2	SVC (S: Okholm@1, V: "is", C: http@4)
+3	
+4	SVC (S: Today@5, V: "is", C: Vol@7)
+5	SVC (S: 44@1, V: "is", C: No@3)
+6	SVC (S: 10@1, V: "is", C: p@8)
+7	SVC (S: Okholm@2, V: "is", C: http@5)
+8	
+9	SVC (S: Today@5, V: "is", C: Vol@7)
+10	SVC (S: 44@1, V: "is", C: No@3)
+11	SVC (S: 10@1, V: "is", C: p@8)
+12	
+13	
+14	
+15	SVC (S: Great@3, V: "is", C: St@5)
+16	SVOA (V: took@4, S: Aquinas@2, O: view@8, A!: arguing@12)	SVA (V: "be arguing", S: Aquinas@2, CCOMP: consists@16)	SVO (V: consists@16, S: it@14, A?: also@15, A?: of@17, O: eating@24)
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	SVC (S: Great@3, V: "is", C: doctor@6)	SVOO (V: described@11, S: Great@3, O: ways@13, IO: Gregory@1)	SVOO (V: commit@18, S: one@16, A?: by@14, O: sin@19, IO: ways@13)
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	SVC (C: luxurious@22, V: is@20, S: food@19, A-: even@16)
+34	SVO (S: his@2, V: "has", O: Theologica@4)	SVC (S: Part@6, V: "is", C: Question@9)
+35	SVO (V: reiterated@3, S: Aquinas@2, O: list@5)	SVA (V: "be commit", S: ways@8, O: gluttony@11)	SVO (V: notes@14, S: Aquinas@13, CCOMP: related@21)	SVC (C: related@21, V: are@20, S: ways@19, A?: to@22, A?: have@34)	SVO (V: have@34, S: two@33, XCOMP: do@36)	SVOO (V: consumed@46, S: it@44, A?: in@42, O: St@47, IO: time@39)
+36	SVOC (V: wrote@3, S: Liguori@2, O: the@4, CCOMP: condemned@16)	SVO (V: condemned@16, S: Odescalchi@14, O: proposition@18)	SVO (V: asserts@20, S: proposition@18, CCOMP: sin@26)	SVC (C: sin@26, V: is@23, S: it@22, A?: eat@28)	SVA (V: "be eat", S: sin@26)	SVA (V: "be eat", S: sin@26, A!: from@32)
+37	SVC (C: fault@7, V: is@4, S: it@3, A?: However@1, XCOMP: feel@9)	SVO (V: produces@31, S: food@29, O: delight@27, A?: naturally@30)
+38	SVC (C: defect@5, V: is@3, S: it@2)
+39	SVA (V: eaten@9, S: meats@6, A?: Hence@1, A!: without@10, A?: good@17)	SVC (C: good@17, V: be@16, S: motive@15)
+40	SVO (S: My@2, V: "has", O: Bysine@4)	SVO (V: likes@5, S: Bysine@4, XCOMP: smell@7)	SVO (S: Pops@8, V: "has", O: farts@10)
+41	SVO (V: condemned@8, S: Odescalchi@6, O: proposition@10)	SVO (V: asserts@12, S: proposition@10, CCOMP: sin@18)	SVA (V: "be eat", S: sin@18)	SVA (V: "be eat", S: sin@18, A!: from@24)	SVC (C: sin@18, V: is@15, S: it@14, A?: eat@20)
+42	SVC (C: fault@7, V: is@4, S: it@3, A?: However@1, XCOMP: feel@9)	SVO (V: produces@31, S: food@29, O: delight@27, A?: naturally@30)
+43	SVC (C: defect@5, V: is@3, S: it@2)
+44	SVA (V: eaten@9, S: meats@6, A?: Hence@1, A!: without@10, A?: good@17)	SVC (C: good@17, V: be@16, S: motive@15)
+45	SVO (S: My@2, V: "has", O: Bysine@4)	SVO (V: likes@5, S: Bysine@4, XCOMP: smell@7)	SVO (S: Pops@8, V: "has", O: farts@10)
+46	SVO (S: My@2, V: "has", O: friend@3)	SVOC (V: likes@5, S: Bysine@4, XCOMP: smell@7, O: friend@3)	SVO (S: Pops@8, V: "has", O: farts@10)
+47	SVA (V: "be called", S: character@4)	SVA (V: appeared@10, S: character@4, A!: on@11)
+48	SVO (V: consumed@4, S: character@2, A?: rapidly@3, O: everything@5)	SVC (S: beverage@10, V: "is", C: spaghetti@16)	SVC (S: beverage@10, V: "is", C: saltshaker@19)	SVC (S: beverage@10, V: "is", C: leg@14)
+49	
+50	SVO (V: attempted@7, S: character@6, A?: After@1, XCOMP: eat@9, A?: unsuccessfully@14)
+51	SVO (S: children@3, V: "has", O: Street@7)	SVO (V: displays@13, S: Monster@12, A?: On@1, O: gluttony@17)
+52	SVO (V: eats@2, S: He@1, A?: before@3, XCOMP: infringing@17)	SVA (V: cited@26, S: three@18, A!: above@27)
+53	SVO (S: His@1, V: "has", O: transgressions@3)	SVA (V: treated@6, S: transgressions@3, A!: in@7)
+54	SVC (S: Fraiche@8, V: "is", C: Park@11)	SVC (V: becomes@17, S: Marsh@16, A?: In@1, ACOMP: obsessed@18, XCOMP: aspiring@23, A?: among@33)
+55	SVO (V: pursues@2, S: He@1, O: delicacies@3)	SVA (V: "be referenced", S: delicacies@3, A!: by@13)	SVO (S: episode@16, V: "has", O: title@18)	SVO (V: critiques@21, S: title@18, O: excess@23)	SVA (V: "be involved", S: excess@23, A!: in@25)
+56	SVC (C: personification@8, V: are@6, S: Homunculi@5, A?: In@1, A?: of@9)
+57	
+58	SVO (S: His@1, V: "has", O: appetite@2)	SVC (C: huge@5, V: is@3, S: appetite@2, A-: so@4, CCOMP: able@10)	SVC (C: able@10, V: is@8, S: he@7, A?: also@9, XCOMP: open@12)	SVO (S: his@17, V: "has", O: stomach@18)
+59	SVC (S: Gola@25, V: "is", C: pecat@27)	SV (V: es@38, S: Λαιμαργία@37)	SVC (S: Gola@49, V: "is", C: ingordigia@51)	SVO (V: eating@96, S: Jonathan@95, O: honey@99, A?: commanded@105)	SVO (S: his@102, V: "has", O: Saul@104)	SVOC (V: commanded@105, S: Saul@104, A?: when@101, O: food@107, XCOMP: taken@110)
+60	SVO (V: remember@2, S: We@1, O: fish@4)	SVO (V: eat@8, S: we@6, O: fish@4, A?: in@9, A?: freely@11)	SVA (V: "be eat", S: God@30)	SVA (V: "be eat", S: God@30, O: them@39, A!: later@42)	SVOO (V: rained@31, S: God@30, O: fowls@32, A?: for@33, A?: eat@36, IO: cucumbers@14)
+61	SVOO (V: made@14, S: priest@13, O: meat@17, XCOMP: cooked@20, IO: sons@8)
+62	SVA (V: met@3, S: They@1, A!: with@4)
+63	SVC (C: fullness@15, V: was@13, S: One@7, A?: of@16)
+64	SVA (V: "be selling", S: Esau@9, O: birthright@12, A!: for@13)	SVO (S: his@11, V: "has", O: birthright@12)
+65	SVO (S: His@1, V: "has", O: punishment@2)	SVC (V: was@3, S: punishment@2, CCOMP: person@8)
+66	
+67	
+68	SVO (V: sold@8, S: who@1, A?: for@3, O: birthright@10, A?: sought@26)	SVO (S: his@9, V: "has", O: birthright@10)	SVO (V: learn@14, S: we@13, CCOMP: found@18)	SVO (V: found@18, S: he@17, O: place@20)	SVO (V: sought@26, S: he@25, O: it@27, A?: carefully@28, A?: with@30)
+69	SVC (C: worse@9, V: is@8, S: way@7, A?: than@10)	SVO (V: said@14, S: St@15, CCOMP: worse@9)
+70	SVOA (V: shows@5, S: it@4, O: attachment@6, A!: clearly@10)
+71	SVO (V: said@8, S: Gregory@5, A?: recapitulate@2, CCOMP: succumb@12)	SVO (V: said@8, S: Great@7, A?: recapitulate@2, CCOMP: succumb@12)	SVA (V: succumb@12, S: one@10, A!: to@13, A?: by@18)
+72	SVC (S: Time@1, V: "is", C: when@3)
+73	
+74	
+75	
+76	SVC (C: luxurious@9, V: is@7, S: food@5, A?: too@8)	SVC (C: excessive@21, V: is@20, S: food@18, A?: in@22)	SVC (C: daintily@31, V: is@29, S: Laute@2, A?: too@30)	SVA (V: eating@37, S: Praepropere@35, A!: soon@39)	SVA (V: at@42, S: Praepropere@35, A?: soon@39, A!: Ardenter@46)
+77	SVA (V: Be@6, S: Proverbs@1, A!: among@8)	SVO (V: clothe@31, S: drowsiness@29, O: man@33, A?: with@34)
+78	SVO (S: thy@11, V: "has", O: throat@12)	SVA (V: "be given", S: man@18, A!: to@20)	SVC (C: man@18, V: be@16, S: thou@15, A?: given@19)
+79	SVO (V: came@10, S: -35@4, O: bread@13)	SVO (V: say@20, S: ye@19, CCOMP: hath@23)	SVO (V: hath@23, S: He@22, O: devil@25)
+80	SVO (V: come@6, S: Son@2, O: eating@7)	SV (V: say@13, S: ye@12)	SV (V: winebibber@22, S: ye@12)	SVO (V: Behold@15, S: ye@12, O: man@18)	SVC (S: winebibber@22, V: "is", C: friend@25)
+81	SVC (C: justified@4, V: is@3, S: wisdom@2, A?: of@5)	SVO (S: her@7, V: "has", O: children@8)
+82	SVC (S: Hunger@43, V: "is", C: film@46)
+83	

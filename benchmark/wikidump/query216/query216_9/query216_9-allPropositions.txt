@@ -1,0 +1,285 @@
+0	
+1	("1954 2 18 Englewood", "is in", "U.S.")	("1954 2 18 Englewood", "is in", "New Jersey")
+2	
+3	("2000 Benjamin Travolta", "is", "b")
+4	
+5	("John Joseph Travolta born February 18 1954", "is", "an American actor")	("John Joseph Travolta born February 18 1954", "is", "an American dancer")	("John Joseph Travolta born February 18 1954", "is", "an American singer")
+6	("Travolta", "became", "known in the 1970s after appearing on the television series Welcome Back _ Kotter first")	("Travolta", "became", "known in the 1970s after appearing on the television series Back _ Kotter starring in the box office successes Saturday Night Fever first")	("Travolta", "became", "known in the 1970s after appearing on the television series Back _ Kotter starring in the box office successes Saturday Night Grease first")	("Travolta", "became", "known in the 1970s first")	("Travolta", "became", "known in the 1970s after appearing on the television series Welcome Back _ Kotter")	("Travolta", "became", "known in the 1970s after appearing on the television series Back _ Kotter starring in the box office successes Saturday Night Fever")	("Travolta", "became", "known in the 1970s after appearing on the television series Back _ Kotter starring in the box office successes Saturday Night Grease")	("Travolta", "became", "known in the 1970s")	("appearing on the television series", "Welcome", "Back _ Kotter")	("appearing on the television series", "starring", "in the box office successes Saturday Night Fever Back _ Kotter")	("appearing on the television series", "starring", "in the box office successes Saturday Night Grease Back _ Kotter")	("appearing on the television series", "starring", "Saturday Night Fever Back _ Kotter")	("appearing on the television series", "starring", "Saturday Night Grease Back _ Kotter")	("appearing on the television series", "starring", "in the box office successes Saturday Night Fever")	("appearing on the television series", "starring", "in the box office successes Saturday Night Grease")	("appearing on the television series", "starring", "Saturday Night Fever")	("appearing on the television series", "starring", "Saturday Night Grease")
+7	("Travolta", "has", "acting career")	("Travolta 's acting career", "declined", "in the early 1980s")	("Travolta 's acting career", "continued", "to deteriorate for the rest of the decade in the early 1980s")	("Travolta 's acting career", "continued", "to deteriorate for the rest of the decade")
+8	("His", "has", "career")	("His career", "enjoyed", "a resurgence in the 1990s with his role in Pulp Fiction")	("His career", "enjoyed", "a resurgence in the 1990s")	("His career", "he", "a resurgence in the 1990s with his role in Pulp Fiction")	("His career", "he", "a resurgence in the 1990s with his role in Pulp Fiction")	("His career", "he", "a resurgence in the 1990s with his role in Pulp Fiction")	("His career", "he", "a resurgence in the 1990s")	("His career", "he", "a resurgence in the 1990s")	("His career", "he", "a resurgence in the 1990s")	("his", "has", "role in Pulp Fiction")
+9	("Travolta", "was nominated", "for the Academy Award for Best Actor for Saturday Night Fever")	("Travolta", "was nominated", "for the Academy Award for Best Actor for Saturday Night Pulp Fiction")	("Travolta", "was nominated", "for the Academy Award for Best Actor")
+10	("He", "won", "the Golden Globe Award for Best Actor Motion Picture Musical for his performance in Get Shorty")	("He", "won", "the Golden Globe Award for Best Actor Motion Picture Comedy for his performance in Get Shorty")	("his", "has", "performance")
+11	("Travolta On the move John Travolta Times Online July 15 driving.timesonline", "is", "the youngest of six children")	("Travolta On the move John Travolta Times Online July 15 driving.timesonline", "is", "Pearce Garth")	("July 15", "is", "2007 http")
+12	
+13	("July 15", "is", "2007 http")
+14	
+15	("2007 London", "was born", "an inner-ring suburb of New York City July 17")	("2007 London", "was raised", "in Englewood an inner-ring suburb of New York City July 17")	("2007 London", "was raised", "an inner-ring suburb of New York City July 17")	("Englewood", "is in", "New Jersey")
+16	("His", "has", "father ssdi.rootsweb.ancestry")	("His father ssdi.rootsweb.ancestry", "is", "Salvatore Travolta")	("His father ssdi.rootsweb.ancestry", "is", "http")	("Salvatore Travolta", "is", "November 1912 May 1995")
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	("2011-05-14", "was a semi-professional American football player", "turned tire salesman in a tire company")	("2011-05-14", "was a semi-professional American football player", "turned tire partner in a tire company")	("2011-05-14", "was", "a semi-professional American football player")	("a semi-professional American football player", "be turned", "tire salesman in a tire company")	("a semi-professional American football player", "be turned", "tire partner in a tire company")
+25	
+26	
+27	
+28	
+29	("August 26 www.filmreference", "is", "2009 http")
+30	
+31	
+32	
+33	("August 26 2009 His mother", "is", "Helen Cecilia")	("His", "has", "2009 mother")	("Helen Cecilia", "is", "née Burke December 1978")	("née Burke December 1978", "is", "January 1912")	("August 26 2009 His mother", "was", "an actress")	("August 26 2009 His mother", "was", "an singer")	("August 26 2009 His mother", "was an acted", "before becoming a high school drama")	("August 26 2009 His mother", "was an acted", "before becoming a high school English teacher")	("August 26 2009 His mother", "was an directed", "before becoming a high school drama")	("August 26 2009 His mother", "was an directed", "before becoming a high school English teacher")	("August 26 2009 His mother", "was", "an acted")	("August 26 2009 His mother", "was", "an directed")	("singer", "had appeared", "in The Sunshine Sisters")	("The Sunshine Sisters", "is", "a radio vocal group")
+34	("the Actors Studio", "is", "2003 His siblings")	("His", "has", "2003 siblings")	("2003 His siblings", "is", "Joey")	("2003 His siblings", "is", "Ellen")	("2003 His siblings", "is", "Ann")	("2003 His siblings", "is", "Margaret")	("2003 His siblings", "is", "Sam Travolta")	("Stated on Inside the Actors Studio", "have acted")
+35	("His", "has", "father")	("His father", "was", "a second-generation Italian American Begorrah")	("his", "has", "mother")	("his mother", "was", "Irish American")
+36	
+37	("Travolta", "has", "Irish")
+38	
+39	
+40	("July 17", "is", "2007 Begorrah")
+41	
+42	("Travolta", "has", "Irish")
+43	
+44	
+45	
+46	
+47	
+48	
+49	
+50	
+51	("he", "grew up", "in an Irish American neighborhood")	("he", "up has said", "that his household was predominantly Irish in culture in an Irish American neighborhood")	("he", "up has said", "that his household was predominantly Irish in culture")	("his", "has", "household")	("his household", "was Irish", "predominantly in culture")	("his household", "was Irish", "predominantly")	("his household", "was Irish", "in culture")	("his household", "was", "Irish")
+52	
+53	
+54	
+55	
+56	
+57	
+58	("July 17 www.rd.com/your-america-inspiring-people-and-stories/face-to-face-with-john-travolta/article26272-1.html", "is", "2007 Grant Meg Night Moves Reader 's Digest February 2005 http")	("2007 Grant Meg Night Moves Reader", "has", "Digest February 2005 http")
+59	("July 17 www.rd.com/your-america-inspiring-people-and-stories/face-to-face-with-john-travolta/article26272-1.html", "is", "2007 Grant Meg Night Moves Reader 's Digest February 2005 http")	("2007 Grant Meg Night Moves Reader", "has", "Digest February 2005 http")
+60	("He", "was raised", "Roman Catholic July 17 2007")	("He", "was raised", "Roman Catholic 17 2007 converted to Scientology in 1975")
+61	
+62	
+63	("Dwight Morrow High School", "is", "http")
+64	
+65	("2009 Travolta", "moved", "across the Hudson River to New York City")	("2009 Travolta", "moved", "across the Hudson River")	("2009 Travolta", "landed", "a role in the touring company of the musical Grease across the Hudson River to New York City")	("2009 Travolta", "on Broadway in Over Here", "a role in the touring company of the musical Grease across the Hudson River to New York City")	("2009 Travolta", "landed", "a role in the touring company of the musical Grease across the Hudson River")	("2009 Travolta", "on Broadway in Over Here", "a role in the touring company of the musical Grease across the Hudson River")	("2009 Travolta", "landed", "a role in the touring company of the musical Grease to New York City")	("2009 Travolta", "on Broadway in Over Here", "a role in the touring company of the musical Grease to New York City")	("2009 Travolta", "landed", "a role in the touring company of the musical Grease")	("2009 Travolta", "on Broadway in Over Here", "a role in the touring company of the musical Grease")
+66	("the Sherman Brothers", "has", "song")	("the Sherman Brothers ' song", "Dream", "Drummin")
+67	
+68	
+69	
+70	
+71	("March 11 2007 August 26 www.rollingstone", "is", "2009 Nancy Collins http")
+72	
+73	("John Travolta Rolling Stone August 18", "is", "1983 August 26")	("1983 August 26", "is", "2009 Nancy Collins http")
+74	
+75	("He", "moved", "to Los Angeles to further his career in show business John Travolta Rolling Stone August 18 1983 August 26 2009")	("He", "moved", "to further his career in show business John Travolta Rolling Stone August 18 1983 August 26 2009")	("He", "moved", "to Los Angeles to further his career in show business John Travolta Rolling Stone August 18")	("He", "moved", "to further his career in show business John Travolta Rolling Stone August 18")	("his", "has", "career in show business")
+76	("Travolta", "has", "first California-filmed television role")	("Travolta 's first California-filmed television role", "was", "as a fall victim in Emergency")	("Travolta 's first California-filmed television role", "was", "as a fall victim")
+77	
+78	("What", "'s", "on the Cards for Star John Travolta Highbeam.com")
+79	
+80	("What", "'s", "on the Cards for Star John Travolta Highbeam.com")
+81	("his", "has", "first significant movie role")	("2005 August 26 2009", "was", "as Billy Nolan July 3")	("2005 26 2009 his first significant movie role", "was", "as Billy Nolan July 3")	("2005 August 26 2009", "was", "July 3")	("2005 26 2009 his first significant movie role", "was", "July 3")	("Billy Nolan", "is", "a bully")	("Billy Nolan", "is", "Carrie")	("a bully", "was goaded", "into playing a prank on Sissy Spacek 's character in the horror film")	("Sissy Spacek", "has", "character in the horror film")	("Carrie", "is", "1976")
+82	
+83	
+84	
+85	
+86	("What", "'s")	("New York Times July 8", "is", "2006 August 26")	("New York Times July 8", "is", "2009 Around the same time")	("res = 9B0DE5DD1030F93BA35754C0A9609C8B63", "he landed", "his star-making role as Vinnie Barbarino in the TV sitcom Welcome Back _ Kotter 1975 1979 New York Times July 8")	("res = 9B0DE5DD1030F93BA35754C0A9609C8B63", "he landed", "his star-making role New York Times July 8")	("res = 9B0DE5DD1030F93BA35754C0A9609C8B63", "he landed", "his star-making role as Vinnie Barbarino in the TV sitcom Welcome Back _ Kotter 1975 1979")	("res = 9B0DE5DD1030F93BA35754C0A9609C8B63", "he landed", "his star-making role")	("he", "res = 9B0DE5DD1030F93BA35754C0A9609C8B63 landed", "his star-making role as Vinnie Barbarino in the TV sitcom Welcome Back _ Kotter 1975 1979 New York Times July 8")	("he", "res = 9B0DE5DD1030F93BA35754C0A9609C8B63 landed", "his star-making role New York Times July 8")	("he", "res = 9B0DE5DD1030F93BA35754C0A9609C8B63 landed", "his star-making role as Vinnie Barbarino in the TV sitcom Welcome Back _ Kotter 1975 1979")	("he", "res = 9B0DE5DD1030F93BA35754C0A9609C8B63 landed", "his star-making role")	("his", "has", "star-making role")	("Vinnie Barbarino in the TV sitcom", "Welcome", "Back _ Kotter 1975 1979")	("his sister", "is", "Ellen")	("his", "has", "sister")	("his sister", "appeared", "_ Kotter 1975 1979 in which also")	("his sister", "appeared", "_ Kotter 1975 1979 in which occasionally")	("his sister", "appeared", "_ Kotter 1975 1979 in which")	("his sister", "appeared", "_ Kotter 1975 1979 also occasionally")	("his sister", "appeared", "_ Kotter 1975 1979 also")	("his sister", "appeared", "_ Kotter 1975 1979 occasionally")	("his sister", "appeared", "_ Kotter 1975 1979")	("Arnold Horshack", "has", "mother")
+87	
+88	
+89	
+90	
+91	("A Sister", "has", "Inspiration John Travolta Followed Ellen 's Lead into Acting The Spokesman-Review July 7 1996 August 26 2009 The show aired on ABC")	("John Travolta Followed Ellen 's", "2009 The show aired", "on ABC")	("2009 The show", "John Travolta Followed Ellen 's aired", "on ABC")
+92	("Travolta", "had", "a hit Around this time")	("Travolta", "had", "a hit")	("entitled", "Let", "a hit")
+93	
+94	
+95	("John Travolta", "talks", "about his past")	("John Travolta", "talks", "about his past")	("his", "has", "past")	("his", "has", "present www.pittsburghlive")	("his", "has", "destiny in Hollywood Pittsburgh Tribune-Review March 28 2003 August 26")	("March 28 2003 August 26", "is", "2009 Blank Ed http")
+96	
+97	("John Travolta", "talks", "about his past")	("John Travolta", "talks", "about his past")	("his", "has", "past")	("his", "has", "present www.foxnews.com/story/0,2933,474846,00.html")	("his", "has", "destiny in Hollywood Pittsburgh Tribune-Review March 28 2003 August 26")	("March 28 2003 August 26", "is", "2009 http")
+98	
+99	("January 1 2009 August 26 www.foxnews.com/story/0,2933,474846,00.html", "is", "2009 http")
+100	
+101	("January 1", "is", "2009 August 26 2009 In the next few years")	("he", "appeared", "in two of his most noted screen roles")	("he", "appeared", "in two of his most noted screen roles")	("his", "has", "most noted screen roles")	("Saturday Night Fever", "is", "1977")	("Grease", "is", "1978")
+102	("The films", "were", "among the most commercially successful pictures of the decade")	("The films", "catapulted", "Travolta to international stardom among the most commercially successful pictures of the decade")	("The films", "catapulted", "Travolta among the most commercially successful pictures of the decade")	("The films", "catapulted", "Travolta to international stardom")	("The films", "catapulted", "Travolta")
+103	
+104	("who", "'s acting", "Staying Alive was dire")	("Staying Alive", "was", "dire")
+105	("Perfect", "was", "anything")
+106	("Tarantino", "has", "Pulp Fiction")	("Travolta", "is", "back Now")	("Travolta", "is", "back")
+107	("October 17 1994 August 26", "is", "2009 London http")
+108	("who", "'s acting", "Staying Alive was dire")	("Staying Alive", "was", "dire")
+109	("Perfect", "was", "anything")
+110	("Tarantino", "has", "Pulp Fiction")	("Travolta", "is", "back Now")	("Travolta", "is", "back")
+111	("Jim", "The October 17 earned", "him an Academy Award nomination for Best Actor")	("The", "Jim October 17 earned", "him an Academy Award nomination for Best Actor")	("October 17 1994 August 26 2009 London Saturday Night Fever", "Jim The earned", "him an Academy Award nomination for Best Actor")
+112	
+113	
+114	
+115	
+116	
+117	
+118	("Travolta", "became", "one of the youngest performers ever nominated for the Best Actor Oscar Saturday Night Fever Variety December 14 1977 August 26 2009 At age 24")	("Travolta", "became", "one of the youngest performers ever nominated for the Best Actor Oscar Saturday Night Fever Variety")	("Travolta", "became", "one of the youngest performers ever nominated for the Best Actor Oscar December 14 1977 August 26 2009 At age 24")	("Travolta", "became", "one of the youngest performers ever nominated for the Best Actor Oscar")	("the youngest performers", "be nominated", "ever for the Best Actor Oscar")	("the youngest performers", "be nominated", "ever")
+119	
+120	
+121	("Ryan Gosling Entertainment Weekly April 27", "is", "2009 Karger Dave http")	("Ryan Gosling Entertainment Weekly April 27", "is", "2007 August 26")
+122	
+123	("Ryan Gosling Entertainment Weekly April 27", "is", "2009 His mother")	("Ryan Gosling Entertainment Weekly 27 his sister Ann", "is", "2009 His mother")	("Ryan Gosling Entertainment Weekly April 27", "is", "2007 August 26")	("Ryan Gosling Entertainment Weekly 27 his sister Ann", "is", "2007 August 26")	("His", "has", "2009 mother")	("his", "has", "sister")	("Spotlight on Ryan Gosling Entertainment Weekly April 27", "appeared", "as extras in Saturday Night Fever")	("Spotlight on Ryan Gosling Entertainment Weekly April 27", "appeared", "as extras in Saturday Night his sister Ellen")	("Spotlight on Ryan Gosling Entertainment Weekly 27 his sister Ann", "appeared", "as extras in Saturday Night Fever")	("Spotlight on Ryan Gosling Entertainment Weekly 27 his sister Ann", "appeared", "as extras in Saturday Night his sister Ellen")	("Spotlight on Ryan Gosling Entertainment Weekly April 27", "appeared", "as extras")	("Spotlight on Ryan Gosling Entertainment Weekly 27 his sister Ann", "appeared", "as extras")	("his", "has", "sister Ellen")
+124	("Travolta", "performed", "several of the songs on the Grease soundtrack album")
+125	
+126	
+127	("Travolta", "is", "R.E.M.")
+128	("Moby", "is", "Danzig Make Movie/Music Crossovers Mtv.com")
+129	("July 17 1997 August 26 www.mtv.com/news/articles/1427842/19970717/danzig", "is", "2009 http")
+130	
+131	("Travolta", "is", "R.E.M.")
+132	("Moby", "is", "Danzig Make Movie/Music Crossovers Mtv.com")
+133	("July 17", "is", "1997 August 26 2009 In 1980")	("Travolta", "inspired", "a nationwide country music craze July 17")	("Travolta", "inspired", "a nationwide country music craze")	("a nationwide country music craze", "followed", "on the heels of his hit film")	("his", "has", "hit film")	("his hit film", "is", "Urban Cowboy")	("he", "starred", "with Debra Winger the heels of his hit film in which")	("he", "starred", "the heels of his hit film in which")	("he", "starred", "with Debra Winger the heels of his hit film")	("he", "starred", "the heels of his hit film")
+134	
+135	
+136	
+137	
+138	("February 18 2009", "is", "1954 August 26")	("Travolta", "John starred", "in a series of financial failures")	("Travolta", "John starred", "in a series of critical failures")	("John", "Travolta starred", "in a series of financial failures")	("John", "Travolta starred", "in a series of critical failures")	("financial failures", "sidelined", "his acting career")	("critical failures", "sidelined", "his acting career")	("his", "has", "acting career")
+139	("These", "included", "Perfect co-starring Jamie Lee Curtis")	("These", "included", "co-starring Jamie Lee Curtis Two of a Kind")	("Perfect co-starring Jamie Lee Curtis", "is", "a romantic comedy reteaming him with Olivia Newton-John")	("co-starring Jamie Lee Curtis Two of a Kind", "is", "a romantic comedy reteaming him with Olivia Newton-John")	("Perfect", "be co-starring", "Jamie Lee Curtis")	("Two of a Kind", "be co-starring", "Jamie Lee Curtis")	("a romantic comedy", "be reteaming", "him with Olivia Newton-John")
+140	("he", "was offered", "During that time")	("he", "was offered")	("he", "was turned down", "lead roles in what would become box office hits including American Gigolo http www.independent.co.uk/arts-entertainment/highconcept-high-roller-1317555.html During that time")	("he", "was turned down", "lead roles in what would become box office hits including American Gigolo http www.independent.co.uk/arts-entertainment/highconcept-high-roller-1317555.html")	("what", "would become", "box office hits including American Gigolo http www.independent.co.uk/arts-entertainment/highconcept-high-roller-1317555.html")	("what", "would become", "box office hits")
+141	("The Independent Kevin Jackson", "2009 London http", "High-concept high roller www.independent.co.uk/arts-entertainment/highconcept-high-roller-1317555.html")
+142	("both of which", "went", "to Richard Gere The Independent Kevin Jackson February 6 1996 August 26 2009 London")	("both of which", "went", "to Richard Gere The Independent Kevin Jackson 6 1996 August 26 2009 London An Officer")	("both of which", "went", "to Richard Gere The Independent Kevin Jackson 6 1996 August 26 2009 London a Gentleman")	("both of which", "went", "The Independent Kevin Jackson February 6 1996 August 26 2009 London")	("both of which", "went", "The Independent Kevin Jackson 6 1996 August 26 2009 London An Officer")	("both of which", "went", "The Independent Kevin Jackson 6 1996 August 26 2009 London a Gentleman")
+143	
+144	("John Travolta", "goes", "the whole Hog with his new hit movie The Independent April 6")	("John Travolta", "goes", "the whole Hog")	("his", "has", "new hit movie The Independent April 6")	("The Independent April 6", "is", "2007 August 26")	("2007 August 26", "is", "2009 London http")
+145	("John Travolta", "goes", "the whole Hog with his new hit movie The Independent April 6")	("John Travolta", "goes", "the whole Hog")	("his", "has", "new hit movie The Independent April 6")	("2007 August 26", "is", "2009 London In 1989")	("2007 August 26", "is", "Travolta")	("2007 August 26", "starred", "in Look The Independent April 6")	("2007 August 26", "starred", "The Independent April 6")	("Look", "'s Talking")	("Look", "grossed", "$ 297,000,000 making it his most successful film since Grease")	("Look", "grossed", "$ 297,000,000")	("which", "be making", "it his most successful film since Grease")	("his", "has", "most successful film since Grease")
+146	("Travolta", "continued", "to the two sequels Look Who 's Talking Too 1990")	("Travolta", "continued", "to the two sequels Look Who 's Too 1990 Look")	("the two sequels", "be Look", "Who 's Talking Too 1990")	("the two sequels", "be Look", "Who 's Too 1990 Look")	("Who", "'s Talking", "Too")	("Who", "'s Look", "Too")	("Who", "'s Look")	("Look", "'s Talking", "Now")
+147	("it", "was not", "until he played Vincent Vega in Quentin Tarantino 's hit Pulp Fiction that his career was revived")	("he", "played", "Vincent Vega in Quentin Tarantino 's hit Pulp Fiction that his career was revived")	("he", "played", "Vincent Vega that his career was revived")	("Quentin Tarantino 's hit Pulp Fiction", "is", "1994")	("Quentin Tarantino", "has", "hit Pulp Fiction")	("he", "received", "an Academy Award nomination Quentin Tarantino 's hit Pulp Fiction for which")	("he", "received", "an Academy Award nomination Quentin Tarantino 's hit Pulp Fiction")	("his", "has", "career")	("his career", "was revived")
+148	
+149	
+150	("DTL & type", "=")
+151	
+152	
+153	
+154	("DTL & type", "=")
+155	
+156	
+157	
+158	
+159	
+160	("he", "was inundated", "with offers")	("9A03EEDB1E3EF931A35751C1A9629C8B63 CRITIC", "has", "NOTEBOOK")	("Travolta", "Awaits", "His 3rd Comeback New York Times December 2 2004 August 26 As Praise Flows")	("Travolta", "Awaits", "His 3rd Comeback New York Times December 2 2004 August 26")	("His", "has", "3rd Comeback New York Times December 2 2004 August 26")	("2009 The movie", "shifted", "him back onto the A-list His 3rd Comeback New York Times December 2 2004 August 26")	("2009 The movie", "shifted", "him back His 3rd Comeback New York Times December 2 2004 August 26")	("2009 The movie", "shifted", "him onto the A-list His 3rd Comeback New York Times December 2 2004 August 26")	("2009 The movie", "shifted", "him His 3rd Comeback New York Times December 2 2004 August 26")
+161	("Notable roles following Pulp Fiction", "include", "a movie-buff loan shark in Get Shorty")	("Notable roles following Pulp Fiction", "include", "a movie-buff loan shark in Get a military detective in The General 's Daughter")	("Shorty", "is", "an FBI agent in Face/Off a desperate attorney in A Civil Action")	("Shorty", "is", "an FBI terrorist in Face/Off a desperate attorney in A Civil Action")	("a military detective in The General 's Daughter", "is", "an FBI agent in Face/Off a desperate attorney in A Civil Action")	("a military detective in The General 's Daughter", "is", "an FBI terrorist in Face/Off a desperate attorney in A Civil Action")	("Shorty", "is", "a Bill Clinton-esque presidential candidate in Primary Colors")	("a military detective in The General 's Daughter", "is", "a Bill Clinton-esque presidential candidate in Primary Colors")	("Shorty", "is", "1995")	("a military detective in The General 's Daughter", "is", "1995")	("Face/Off", "is", "1997")	("A Civil Action", "is", "1998")	("Primary Colors", "is", "1998")	("The General", "has", "Daughter")	("The General 's Daughter", "is", "1999")
+162	("Travolta", "starred", "in Battlefield Earth also")	("Travolta", "starred", "in Battlefield Earth")	("Battlefield Earth", "is", "2000")
+163	("he", "played", "the leader of a group of aliens Ron Hubbard in which")	("he", "played", "the leader of a group of aliens Ron Hubbard")	("aliens", "enslaves", "humanity on a bleak future Earth")	("aliens", "enslaves", "humanity")
+164	("The film", "received", "almost universally negative reviews")	("The film", "did", "almost universally negative reviews very poorly at the box office")	("The film", "did", "almost universally negative reviews very poorly")	("The film", "did", "almost universally negative reviews at the box office")	("The film", "did", "almost universally negative reviews")
+165	("battlefield_earth battlefield_earth Travolta", "played", "Mrs.")
+166	("Hairspray", "is", "his first musical since Grease")	("his", "has", "first musical since Grease")
+167	
+168	("thumbrightTravolta dancing withPrincess Dianaat theWhite House _ November 9 _ 1985 Travolta", "was", "in a relationship with actress Diana Hyland")	("he", "met", "actress Diana Hyland while filming The Boy in the Plastic Bubble")	("he", "met", "actress Diana Hyland")	("Hyland", "died", "of breast cancer in 1977")	("Hyland", "died", "of breast cancer")	("Hyland", "died", "in 1977")	("Hyland", "died")
+169	
+170	("March 28", "is", "2007 Biography of Diana Hyland http")
+171	("March 28", "is", "2007 Travolta married actress Kelly Preston in 1991")	("2007 Travolta", "be married", "actress Kelly Preston in 1991")
+172	("The couple", "had", "a son")	("a son", "is", "Jett 1992 2009")
+173	
+174	
+175	("protecting Jett", "was everything Dailymail.co.uk", "For John Travolta")	("protecting Jett", "was", "everything Dailymail.co.uk")
+176	
+177	
+178	("protecting Jett", "was everything Dailymail.co.uk", "For John Travolta")	("protecting Jett", "was", "everything Dailymail.co.uk")
+179	("Their", "has", "2011-05-14 daughter")	("2011-05-14 Their daughter", "is", "Ella Bleu")	("2011-05-14 Their daughter", "was born", "in 2000")
+180	("she", "was pregnant", "with the couple 's third child")	("she", "was", "pregnant")	("the couple", "has", "third child")
+181	
+182	
+183	("John Travolta", "Are Expecting")	("John Kelly Preston", "Are Expecting")
+184	
+185	
+186	
+187	("John Travolta", "Are Expecting")	("John Kelly Preston", "Are Expecting")
+188	("May 18", "2010 People May 2010 confirmed", "to be a boy later")	("May 18", "2010 People May 2010 confirmed", "to be a boy")	("2010 People", "May 18 May 2010 confirmed", "to be a boy later")	("2010 People", "May 18 May 2010 confirmed", "to be a boy")	("2010", "May 18 2010 People May confirmed", "to be a boy later")	("2010", "May 18 2010 People May confirmed", "to be a boy")
+189	
+190	
+191	("John Travolta", "be Expecting", "a Boy")
+192	
+193	
+194	
+195	("John Travolta", "be Expecting", "a Boy")
+196	
+197	("August 25", "is", "2010 November 11")	("August 25", "is", "2010 Their son")	("August 25", "is", "Benjamin")	("Their", "has", "2010 son")	("August 25", "was born", "on November 23 2010 in Florida")
+198	
+199	
+200	
+201	
+202	
+203	
+204	("November 24", "have attended", "marriage counseling regularly")	("24 2010 Travolta", "have attended", "marriage counseling regularly")	("24 Preston", "have attended", "marriage counseling regularly")	("November 24", "have attended", "marriage counseling")	("24 2010 Travolta", "have attended", "marriage counseling")	("24 Preston", "have attended", "marriage counseling")	("Travolta", "has stated", "that therapy has helped the marriage")	("therapy", "has helped", "the marriage")
+205	
+206	
+207	("Therapy", "can keep", "it real when the honeymoon is over February 10 2009 September 2010 H3llBot Linton Marilyn http")	("Therapy", "can keep", "it real")	("it", "real")	("the honeymoon", "is", "over February 10 2009 September 2010 H3llBot Linton Marilyn http when")	("the honeymoon", "is", "over February 10 2009 September 2010 H3llBot Linton Marilyn http")	("February 10", "is", "2009 London Free Press February 12")
+208	
+209	("Therapy", "can keep", "it real when the honeymoon is over February 10 is a certified private pilot")	("Therapy", "can keep", "it real when the honeymoon is over February 10 is a certified private owns five aircraft including an ex Qantas Boeing 707 138 airliner")	("Therapy", "can keep", "it real")	("it", "real")	("the honeymoon", "is", "over February 10 is a certified private pilot when")	("the honeymoon", "is", "over February 10 is a certified private owns five aircraft including an ex Qantas Boeing 707 138 airliner when")	("the honeymoon", "is", "over February 10 is a certified private pilot")	("the honeymoon", "is", "over February 10 is a certified private owns five aircraft including an ex Qantas Boeing 707 138 airliner")	("February 10", "is", "2009 London Free Press February 12")	("February 10", "is", "2009 September 2010 H3llBot Travolta")	("February 10", "is", "a certified private pilot")	("February 10", "is", "a certified private owns five aircraft including an ex Qantas Boeing 707 138 airliner")
+210	("The plane", "bears", "the name Jett Clipper Ella in honor of his children")	("his", "has", "children")
+211	
+212	
+213	("Pan American World Airways", "was a large operator", "of the Boeing 707")	("Pan American World Airways", "was", "a large operator")	("Pan American World Airways", "was", "a large used of the Boeing 707 Clipper in its names")	("Pan American World Airways", "was", "a large used of the Boeing 707 Clipper")	("Pan American World Airways", "was", "a large used Clipper in its names")	("Pan American World Airways", "was", "a large used Clipper")	("its", "has", "names")
+214	("The 707 aircraft", "bears", "the marks of Qantas as Travolta acts as an official goodwill ambassador for the airline wherever he flies")	("The 707 aircraft", "bears", "the marks of Qantas")	("Travolta", "acts", "as an official goodwill ambassador for the airline wherever he flies")	("Travolta", "acts", "as an official goodwill ambassador for the airline")	("he", "flies", "wherever")	("he", "flies")
+215	
+216	("estate in the Jumbolair subdivision in Ocala _ Florida", "is situated", "on Greystone Airport with its own runway")	("estate in the Jumbolair subdivision in Ocala _ Florida", "is situated", "on Greystone Airport with its own taxiway right to his front door")	("estate in the Jumbolair subdivision in Ocala _ Florida", "is situated", "on Greystone Airport")	("its", "has", "own runway")	("his", "has", "front door")
+217	("Kelly Preston", "showed", "a picture of this on the August 29 2007")	("August 29 2007", "is", "episode of Late Night with Conan O'Brien")
+218	("Travolta", "was piloting", "his Gulfstream N728T at night On November 24 1992")	("Travolta", "was piloting", "his Gulfstream N728T on top of a solid undercast On November 24 1992")	("Travolta", "was piloting", "his Gulfstream N728T when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport On November 24 1992")	("Travolta", "was piloting", "his Gulfstream N728T On November 24 1992")	("Travolta", "was piloting", "his Gulfstream N728T at night on top of a solid undercast")	("Travolta", "was piloting", "his Gulfstream N728T at night when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport")	("Travolta", "was piloting", "his Gulfstream N728T at night")	("Travolta", "was piloting", "his Gulfstream N728T on top of a solid undercast when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport")	("Travolta", "was piloting", "his Gulfstream N728T on top of a solid undercast")	("Travolta", "was piloting", "his Gulfstream N728T when he experienced a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport")	("Travolta", "was piloting", "his Gulfstream N728T")	("his", "has", "Gulfstream N728T")	("he", "experienced", "a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport when")	("he", "experienced", "a total electrical system failure when")	("he", "experienced", "a total electrical system failure while flying under instrument flight rules into Ronald Reagan Washington National Airport")	("he", "experienced", "a total electrical system failure")
+219	("he", "had", "a mid-air collision with a USAir Boeing 727 attributed to a risky decision by an air traffic controller During the emergency landing almost")	("he", "had", "a mid-air collision with a USAir Boeing 727 attributed to a risky decision by an air traffic controller During the emergency landing")	("he", "had", "a mid-air collision with a USAir Boeing 727 attributed to a risky decision by an air traffic controller almost")	("he", "had", "a mid-air collision with a USAir Boeing 727 attributed to a risky decision by an air traffic controller")	("a mid-air collision with a USAir Boeing 727", "be attributed", "to a risky decision by an air traffic controller")
+220	
+221	("her", "has", "talk show")	("Oprah Winfrey", "announced", "that she would be taking her entire studio audience on an 8-day expenses-paid trip to Australia with Travolta serving as pilot for the trip On September 13")	("Oprah Winfrey", "announced", "that she would be taking her entire studio audience on an 8-day expenses-paid trip to Australia with Travolta serving as pilot for the trip")	("she", "would be taking", "her entire studio audience on an 8-day expenses-paid trip to Australia with Travolta serving as pilot for the trip")	("she", "would be taking", "her entire studio audience on an 8-day expenses-paid trip to Australia")	("her", "has", "entire studio audience")	("Travolta", "be serving", "as pilot for the trip")
+222	("He", "had helped", "Winfrey plan the trip for over a year")	("Winfrey", "plan", "the trip for over a year")
+223	
+224	("Oprah", "be Taking", "Audience")	("2010 September 14", "is", "2010 http")
+225	("Oprah", "be Taking", "Audience")	("Travolta", "has been 2010 September 14 2010 a practitioner", "of Scientology since 1975")	("Travolta", "has been 2010 September 14 2010 a practitioner", "of Scientology when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango")	("Travolta", "has been 2010 September 14 2010 a practitioner", "of Scientology")	("Travolta", "has been 2010 September 14 2010 a practitioner", "since 1975 when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango")	("Travolta", "has been 2010 September 14 2010 a practitioner", "since 1975")	("Travolta", "has been 2010 September 14 2010 a practitioner", "when he was given the book Dianetics while filming the movie The Devil 's Rain in Durango")	("Travolta", "has been", "2010 September 14 2010 a practitioner")	("he", "was given", "the book Dianetics while filming the movie The Devil 's Rain in Durango when")	("he", "was given", "the book Dianetics when")	("he", "was given", "the book Dianetics while filming the movie The Devil 's Rain in Durango")	("he", "was given", "the book Dianetics")	("The Devil", "has", "Rain in Durango")	("Durango", "is in", "Mexico")
+226	
+227	
+228	("2007 May 21", "is", "2007 Successes of Scientology http")
+229	
+230	("May 2007 May 21 2007 After the 2010 Haiti earthquake in helping with the relief efforts", "be joining", "other celebrities")	("International", "Travolta flew", "his 707 full of supplies into the disaster area May 2007 May 21 2007 After the 2010 Haiti earthquake joining other celebrities in helping with the relief efforts")	("International", "Travolta flew", "his 707 full of doctors into the disaster area May 2007 May 21 2007 After the 2010 Haiti earthquake joining other celebrities in helping with the relief efforts")	("International", "Travolta flew", "his 707 full of Scientologist Volunteer Ministers into the disaster area May 2007 May 21 2007 After the 2010 Haiti earthquake joining other celebrities in helping with the relief efforts")	("International", "Travolta flew", "his 707 full of supplies into the disaster area")	("International", "Travolta flew", "his 707 full of doctors into the disaster area")	("International", "Travolta flew", "his 707 full of Scientologist Volunteer Ministers into the disaster area")	("Travolta", "International flew", "his 707 full of supplies into the disaster area May 2007 May 21 2007 After the 2010 Haiti earthquake joining other celebrities in helping with the relief efforts")	("Travolta", "International flew", "his 707 full of doctors into the disaster area May 2007 May 21 2007 After the 2010 Haiti earthquake joining other celebrities in helping with the relief efforts")	("Travolta", "International flew", "his 707 full of Scientologist Volunteer Ministers into the disaster area May 2007 May 21 2007 After the 2010 Haiti earthquake joining other celebrities in helping with the relief efforts")	("Travolta", "International flew", "his 707 full of supplies into the disaster area")	("Travolta", "International flew", "his 707 full of doctors into the disaster area")	("Travolta", "International flew", "his 707 full of Scientologist Volunteer Ministers into the disaster area")
+231	
+232	
+233	
+234	
+235	("their", "has", "holiday vacation in The Bahamas")	("CNN Entertainment Producer January 25 2010 On January 2 2009", "is", "2010 January 26")	("CNN Entertainment Producer 25 2010 On January 2 2009 Travolta", "is", "2010 January 26")	("CNN Entertainment Producer 25 2010 On January 2 2009 Preston 's son", "is", "2010 January 26")	("Preston", "has", "son")	("Preston 's son", "is", "Jett")	("T2 Douglas Hyde CNN Entertainment Producer January 25 2010 On January 2 2009", "died", "while on their holiday vacation in The Bahamas")	("T2 Douglas Hyde CNN Entertainment Producer 25 2010 On January 2 2009 Travolta", "died", "while on their holiday vacation in The Bahamas")	("T2 Douglas Hyde CNN Entertainment Producer 25 2010 On January 2 2009 Preston 's son", "died", "while on their holiday vacation in The Bahamas")	("T2 Douglas Hyde CNN Entertainment Producer January 25 2010 On January 2 2009", "died")	("T2 Douglas Hyde CNN Entertainment Producer 25 2010 On January 2 2009 Travolta", "died")	("T2 Douglas Hyde CNN Entertainment Producer 25 2010 On January 2 2009 Preston 's son", "died")
+236	("Jett Travolta", "is", "son of actors")	("Jett Travolta", "dies", "at 16 CNN http")	("Jett Travolta", "dies")
+237	
+238	("January 2 2009 January 2 2009 Jett Travolta", "is", "son of actors")	("January 2 2009 January 2 2009 Jett Travolta", "dies", "at 16 CNN http")	("January 2 2009 January 2 2009 Jett Travolta", "dies")
+239	
+240	
+241	
+242	("BBC January 2", "is", "2009 A Bahamian death certificate")	("BBC January 2", "is", "2009 January 2")	("BBC January 2", "was issued", "Online")	("Online", "attributing", "the cause of death to a seizure BBC News")	("Online", "attributing", "the cause of death BBC News")
+243	
+244	("John Travolta", "has", "Son")	("John Travolta 's Son", "Died", "of a Seizure ABC News January 5")	("John Travolta 's Son", "Died")	("a Seizure ABC News January 5", "is", "2009 January 5")	("a Seizure ABC News January 5", "is", "2009 http")
+245	("John Travolta", "has", "Son")	("John Travolta 's Son", "Died", "of a Seizure ABC News January 5")	("John Travolta 's Son", "Died")	("a Seizure ABC News January 5", "is", "http")	("a Seizure ABC News January 5", "is", "2009 January 5")	("a Seizure ABC News January 5", "is", "2009 Jett")	("a Seizure ABC News January 5", "had", "a history of seizures")
+246	
+247	
+248	("John Travolta", "has", "16-Year-Old Son")	("John Travolta 's 16-Year-Old Son", "Dies", "People January 2 2009 January 4 2009 http www.people")
+249	
+250	
+251	("John Travolta", "has", "16-Year-Old Son")	("John Travolta 's 16-Year-Old Son", "Dies", "People January 2")	("January 2", "is", "2009 January 4")	("January 2", "is", "2009 reportedly suffered from Kawasaki disease as an infant")	("2009", "be suffered", "reportedly from Kawasaki disease as an infant")	("2009", "be suffered", "reportedly from Kawasaki disease")	("2009", "be suffered", "reportedly as an infant")	("2009", "be suffered", "reportedly")
+252	
+253	
+254	("John Travolta", "has", "Son Jett Dead at 16 E!")
+255	
+256	
+257	("John Travolta", "has", "Son Jett Dead at 16 E!")
+258	("January 2", "is", "2009 January 2")	("January 2", "is", "2009 On September 24 2009")
+259	("Heureux Travolta", "admits", "that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism finally")	("Heureux Travolta", "admits", "that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism")	("son", "had", "Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism")
+260	
+261	("Heureux Travolta", "admits", "that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism finally")	("Heureux Travolta", "admits", "that son had Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism")	("son", "had", "Autism The Examiner September 24 2009 September 24 2009 http www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism")
+262	("October 2010 H3llBot Travolta", "confirmed", "speculations that their son had autism")	("October 2010 H3llBot Travolta", "confirmed", "speculations that their son autism suffered regular seizures")	("October 2010 H3llBot Preston", "confirmed", "speculations that their son had autism")	("October 2010 H3llBot Preston", "confirmed", "speculations that their son autism suffered regular seizures")	("their", "has", "son")	("their son", "had", "autism")	("their son", "suffered", "autism regular seizures")
+263	("I Ran Down the Stairs", "be Help", "My Son ABC News September 23 abcnews.go.com/Entertainment/john-travolta-bahamas-testify-extortion-case/story")	("My Son ABC News September 23", "is", "2009 September 23")	("My Son ABC News September 23", "is", "2009 http")	("My", "has", "Son ABC News September 23")
+264	("My Son ABC News September 23", "is", "2009 September 23")	("My Son ABC News September 23", "is", "2009 http")	("My", "has", "Son ABC News September 23")
+265	("They", "made", "their statements while giving testimony after a multi-million dollar extortion plot against them regarding the circumstances of their son 's death 8649816")	("They", "made", "their statements 8649816")	("their", "has", "statements")	("their", "has", "son 's")	("their son", "has", "death")
+266	
+267	("Judge", "declares", "mistrial in Travolta extortion case The Independent October 23 www.independent.co.uk/news/people/news/judge-declares-mistrial-in-travolta-extortion-case-1807653.html")	("The Independent October 23", "is", "2009 June 28 2011 Usborne David http")
+268	("Judge", "declares", "mistrial in Travolta extortion case The Independent October 23")	("Travolta", "dropped", "the charges The Independent October 23 2009 June 28 2011")	("Travolta", "dropped", "the charges The Independent October 23")
+269	
+270	
+271	("John Travolta www.telegraph.co.uk/news/celebritynews/7985783/John-Travolta-to-drop-charges-in-extortion-case", "be drop", "charges in extortion case The Telegraph September 6")	("John Travolta to drop charges in extortion case The Telegraph September 6 www.telegraph.co.uk/news/celebritynews/7985783/John-Travolta-to-drop-charges-in-extortion-case", "is", "2010 June 28 2011 Allen Nick http")
+272	
+273	("John Travolta", "be drop", "charges in extortion case The Telegraph September 6")	("Travolta", "has credited", "his family in helping him survive the tragic death of his son John Travolta to drop charges in extortion case The Telegraph September 6 2010 June 28 2011")	("Travolta", "has credited", "his faith in helping him survive the tragic death of his son John Travolta to drop charges in extortion case The Telegraph September 6 2010 June 28 2011")	("Travolta", "has credited", "his family John Travolta to drop charges in extortion case The Telegraph September 6 2010 June 28 2011")	("Travolta", "has credited", "his faith John Travolta to drop charges in extortion case The Telegraph September 6 2010 June 28 2011")	("Travolta", "has credited", "his family in helping him survive the tragic death of his son John Travolta to drop charges in extortion case The Telegraph September 6")	("Travolta", "has credited", "his faith in helping him survive the tragic death of his son John Travolta to drop charges in extortion case The Telegraph September 6")	("Travolta", "has credited", "his family John Travolta to drop charges in extortion case The Telegraph September 6")	("Travolta", "has credited", "his faith John Travolta to drop charges in extortion case The Telegraph September 6")	("Travolta", "has in moving forward with his film career", "his family John Travolta to drop charges in extortion case The Telegraph September 6 2010 June 28 2011 in helping him survive the tragic death of his son")	("Travolta", "has in moving forward with his film career", "his faith John Travolta to drop charges in extortion case The Telegraph September 6 2010 June 28 2011 in helping him survive the tragic death of his son")	("Travolta", "has in moving forward with his film career", "his family John Travolta to drop charges in extortion case The Telegraph September 6 2010 June 28 2011")	("Travolta", "has in moving forward with his film career", "his faith John Travolta to drop charges in extortion case The Telegraph September 6 2010 June 28 2011")	("Travolta", "has in moving forward with his film career", "his family John Travolta to drop charges in extortion case The Telegraph September 6 in helping him survive the tragic death of his son")	("Travolta", "has in moving forward with his film career", "his faith John Travolta to drop charges in extortion case The Telegraph September 6 in helping him survive the tragic death of his son")	("Travolta", "has in moving forward with his film career", "his family John Travolta to drop charges in extortion case The Telegraph September 6")	("Travolta", "has in moving forward with his film career", "his faith John Travolta to drop charges in extortion case The Telegraph September 6")	("his", "has", "family")	("him", "survive", "the tragic death of his son")	("his", "has", "son")	("his", "has", "film career")
+274	
+275	("Scientology", "Helped", "Me Heal huffingtonpost.com")	("Me", "Heal", "huffingtonpost.com")
+276	
+277	("Scientology", "Helped", "Me Heal huffingtonpost.com")	("Me", "Heal", "huffingtonpost.com")
+278	("son", "has", "disease")	("January 28 2010 June 13 2011 Scientology 30em news on this topic Court revelation by John Travolta of son 's disease", "sparks", "autism debate Testimony by John Travolta that son was autistic raises Scientology questions")	("son", "was", "autistic raises Scientology questions")	("John Travolta", "has", "16-year-old son")	("John Travolta 's 16-year-old son", "dies", "John Travolta December 2010 Travolta Scientology questions")	("John Travolta December 2010 Travolta", "is", "John Travolta")	("John Travolta December 2010 Travolta", "is", "U.S.")	("John Travolta December 2010 Travolta", "is", "John Joseph Actor")	("John Joseph Actor", "is", "singer")	("John Joseph Actor", "is", "dancer February 18 1954 Englewood _ New Jersey")
+279	("Best Musical Actor Golden Globe film", "be winners")	("Best Comedy Actor Golden Globe film", "be winners")	("winners", "is", "Category Converts from Roman Catholicism Category")	("Con Travolta", "be")	("Джон Траволта", "ca")	("Drummin", "is", "1974")	("Drummin Easy Evil", "is", "1975")	("John Travolta uk Джон Траволта yi זשאן טראוואלטע zh 约翰 · 特拉沃尔塔 Dream Drummin Easy Evil", "Ca n't Let", "You Go 1975 You Set My Dreams To Music")	("You", "Go")	("You", "Set", "My Dreams To Music")	("My", "has", "Dreams")
+280	("Moon", "is", "1976")	("Moon Rainbows", "is", "1976")	("Moon Rainbows", "Settle", "Down")	("Moonlight Lady Right Time Of The Night", "is", "1976")	("Big Trouble", "is", "1976")	("They", "Would Say", "What")	("Back Doors Crying", "is", "1976")	("I", "'m", "Away From You")	("I", "'m", "Away")	("It", "Had")	("I", "Do n't Know 1977")	("I", "Could Be", "I Like About You Baby 1976 All Strung Out On You 1977 # 34 Baby Good What At Lovin You")	("I", "Could Be", "I Like About You Baby 1976 All Strung Out On You 1977 # 34 Baby Good What")	("You", "'re Moon Rainbows Settle Down 1976 Moonlight Lady Right Time Of The Night 1976 Big Trouble What Would They Say 1976 Back Doors Crying Let Her In 1976 # 10 Whenever I 'm Away From You 1976 # 38 Slow Dancin ' 1976 It Had To Be You 1976 I Do n't Know What I Like About You Baby 1976 All Strung Out On You 1977 # 34 Baby I Could Be So Good At Lovin You 1977 Razzamatazz 1977 the One # 1 w Olivia Newton-John Sandy 1978 Greased Lightnin # 47 Never Gon na Fall", "in Love")	("You", "'re", "Moon Rainbows Settle Down 1976 Moonlight Lady Right Time Of The Night 1976 Big Trouble What Would They Say 1976 Back Doors Crying Let Her In 1976 # 10 Whenever I 'm Away From You 1976 # 38 Slow Dancin ' 1976 It Had To Be You 1976 I Do n't Know What I Like About You Baby 1976 All Strung Out On You 1977 # 34 Baby I Could Be So Good At Lovin You 1977 Razzamatazz 1977 the One # 1 w Olivia Newton-John Sandy 1978 Greased Lightnin # 47 Never Gon na Fall")	("I", "Want", "Moon Rainbows Settle Down 1976 Moonlight Lady Right Time Of The Night 1976 Big Trouble What Would They Say 1976 Back Doors Crying Let Her In 1976 # 10 Whenever I 'm Away From You 1976 # 38 Slow Dancin ' 1976 It Had To Be You 1976 I Do n't Know What I Like About You Baby 1976 All Strung Out On You 1977 # 34 Baby I Could Be So Good At Lovin You 1977 Razzamatazz 1977 the One That # 1 w Olivia Newton-John Sandy 1978 Greased Lightnin # 47 Never Gon na Fall in Love")	("# 1 w Olivia Newton-John Sandy", "is", "1978")	("Greased Lightnin", "is", "1978")	("Moon Rainbows Settle Down 1976 Moonlight Lady Right Time Of The Night 1976 Big Trouble What Would They Say 1976 Back Doors Crying Let Her In 1976 # 10 Whenever I 'm Away From You 1976 # 38 Slow Dancin ' 1976 It Had To Be You 1976 I Do n't Know What I Like About You Baby 1976 All Strung Out On You 1977 # 34 Baby I Could Be So Good At Lovin You 1977 Razzamatazz 1977 You 're the One # 1 w Olivia Newton-John Sandy 1978 Greased Lightnin # 47 Never Gon na Fall in Love", "Again")	("Hooker Madness", "is", "1983")	("Two Sleepy People w Carly Simon", "is", "1997")	("I", "I Lost", "You")	("I", "I Lost", "You")	("I", "I Lost", "You")	("I", "I Lost", "You")	("I", "I Lost", "You")	("I", "I Lost", "You")
+281	
+282	
+283	("son", "has", "disease")	("Court revelation by John Travolta of son 's disease", "sparks", "autism debate Testimony by John Travolta that son was autistic raises Scientology questions www.travolta.com")	("son", "was", "autistic raises Scientology questions www.travolta.com")	("John Travolta", "has", "16-year-old son")	("John Travolta 's 16-year-old son", "dies", "http Scientology questions")
+284	

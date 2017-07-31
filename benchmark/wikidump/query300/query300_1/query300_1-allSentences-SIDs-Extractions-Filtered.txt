@@ -1,0 +1,381 @@
+the statistical concept In statistics , mean has two related meanings : There are other statistical measures that should not be confused with averages - including ' median ' and ' mode ' . 	0
+"other statistical measures"	"There are"	"mean has two related meanings"	0
+"other statistical measures"	"should not be confused"	"with averages including median"	0
+"other statistical measures"	"should not be confused"	"with including median mode"	0
+Other simple statistical analyses use measures of spread , such as range , interquartile range , or standard deviation .For 	1
+a real-valued random variable X , the mean is the expectation of X .Note 	2
+that not every probability distribution has a defined mean ( or variance ) ; see the Cauchy distribution for an example . 	3
+"not every probability distribution"	"be has"	"a defined mean"	3
+"a defined mean"	"is"	"variance"	3
+For a data set , the mean is the sum of the values divided by the number of values . 	4
+"the mean"	"is 4 For a data set the sum"	"of the values divided by the number of values"	4
+"the mean"	"is"	"4 For a data set the sum"	4
+"the values"	"be divided"	"by the number of values"	4
+The mean of a set of numbers x 1 , x 2 , ... 	5
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+, x n is typically denoted by bar{x } , pronounced " x bar" . 	6
+This mean is a type of arithmetic mean . 	7
+"This mean"	"is a type"	"of arithmetic mean"	7
+"This mean"	"is"	"a type"	7
+If the data set were based on a series of observations obtained by sampling a statistical population , this mean is termed the " sample mean " ( bar{x } ) to distinguish it from the "population mean " ( mu or mu x ) . 	8
+"the data set"	"were based"	"on a series of observations obtained by sampling a statistical population"	8
+"the data set"	"were based"	"on a series of observations obtained by sampling a statistical population"	8
+"the sample mean bar"	"be distinguish"	"it from the population"	8
+"the sample mean bar"	"be distinguish"	"it from the population"	8
+The mean is often quoted along with the standard deviation : the mean describes the central location of the data , and the standard deviation describes the spread . 	9
+"The mean"	"is quoted"	"along with the standard deviation often"	9
+"The mean"	"is quoted"	"along with the standard deviation"	9
+"the mean"	"describes"	"the central location of the data"	9
+"the standard deviation"	"describes"	"the spread"	9
+An alternative measure of dispersion is the mean deviation , equivalent to the average absolute deviation from the mean . 	10
+"An alternative measure of dispersion"	"is"	"the mean deviation equivalent to the average absolute deviation from the mean"	10
+It is less sensitive to outliers , but less mathematically tractable . 	11
+It is less sensitive to outliers , but less mathematically tractable . 	11
+It is less sensitive to outliers , but less mathematically tractable . 	11
+It is less sensitive to outliers , but less mathematically tractable . 	11
+It is less sensitive to outliers , but less mathematically tractable . 	11
+It is less sensitive to outliers , but less mathematically tractable . 	11
+It is less sensitive to outliers , but less mathematically tractable . 	11
+If a series of observations is sampled from a larger population ( measuring the heights of a sample of adults drawn from the entire world population , for example ) , or from a probability distribution which gives the probabilities of each possible result , then the larger population or probability distribution can be used to construct a "population mean" , which is also the expected value for a sample drawn from this population or probability distribution . 	12
+"a series of observations"	"is sampled"	"from a larger population measuring the heights of a sample of adults drawn from the entire world population for example then the larger population distribution"	12
+"a series of observations"	"is sampled"	"from a larger measuring the heights of a sample of adults drawn from the entire world population for example from a probability distribution then the larger population distribution"	12
+"a series of observations"	"is sampled"	"from a larger measuring the heights of a sample of adults drawn from the entire world population for example from a probability distribution then the larger probability distribution"	12
+"a series of observations"	"is sampled"	"from a larger population measuring the heights of a sample of adults drawn from the entire world population for example then the larger probability distribution"	12
+"a sample of adults"	"be drawn"	"from the entire world population"	12
+"a probability distribution"	"gives"	"the probabilities of each possible result"	12
+"a probability distribution"	"gives"	"the probabilities of each possible result"	12
+"a probability distribution"	"gives"	"the probabilities of each possible result"	12
+"a probability distribution"	"gives"	"the probabilities of each possible result"	12
+"a probability distribution"	"gives"	"the probabilities of each possible result"	12
+"a sample"	"be drawn"	"from this population"	12
+"a probability distribution"	"be drawn"	"from this population"	12
+For a finite population , this would simply be the arithmetic mean of the given property for every member of the population . 	13
+For a finite population , this would simply be the arithmetic mean of the given property for every member of the population . 	13
+For a finite population , this would simply be the arithmetic mean of the given property for every member of the population . 	13
+For a finite population , this would simply be the arithmetic mean of the given property for every member of the population . 	13
+For a probability distribution , this would be a sum or integral over every possible value weighted by the probability of that value . 	14
+For a probability distribution , this would be a sum or integral over every possible value weighted by the probability of that value . 	14
+For a probability distribution , this would be a sum or integral over every possible value weighted by the probability of that value . 	14
+For a probability distribution , this would be a sum or integral over every possible value weighted by the probability of that value . 	14
+For a probability distribution , this would be a sum or integral over every possible value weighted by the probability of that value . 	14
+"every possible value"	"be weighted"	"by the probability of that value"	14
+It is a universal convention to represent the population mean by the symbol mu . 	15
+"It"	"is a universal convention"	"to represent the population mean by the symbol mu"	15
+"It"	"is"	"a universal convention"	15
+"a universal convention"	"be represent"	"the population mean by the symbol mu"	15
+"the population"	"be mean"	"by the symbol mu"	15
+Underhill , L.G. 	16
+"Underhill"	"is"	"L.G."	16
+; Bradfield d . 	17
+( 1998 ) Introstat , Juta and Company Ltd. 	18
+ISBN 070213838X In the case of a discrete probability distribution , the mean of a discrete random variable x is given by taking the product of each possible value of x and its probability P(x ) , and then adding all these products together , giving mu = sum x P(x ) . 	19
+"ISBN 070213838X In the case of a discrete probability distribution"	"is"	"the mean of a discrete random variable x"	19
+"ISBN 070213838X In the case of a discrete probability distribution"	"is given"	"by taking the product of each possible value of x"	19
+"ISBN 070213838X In the case of a discrete probability distribution"	"is given"	"by the product of each possible value of x its probability P"	19
+"ISBN 070213838X In the case of a discrete probability distribution"	"is given"	"by the product of each possible value of x its P then adding all these products together giving mu = sum x P"	19
+"ISBN 070213838X In the case of a discrete probability distribution"	"is given"	"by the product of each possible value of x its P then adding all these products together giving mu = sum x P"	19
+"sum x P"	"is"	"x"	19
+Elementary Statistics by Robert R. 	20
+Johnson and Patricia J. 	21
+Kuby , The sample mean may differ from the population mean , especially for small samples , but the law of large numbers dictates that the larger the size of the sample , the more likely it is that the sample mean will be close to the population mean . 	22
+"The sample mean"	"may differ"	"from the population mean 22 Kuby especially for small samples"	22
+"The sample mean"	"may differ"	"from the population mean 22 especially for small samples the law of large numbers dictates that the larger the size of the sample"	22
+"The sample mean"	"may differ"	"22 Kuby especially for small samples"	22
+"The sample mean"	"may differ"	"22 especially for small samples the law of large numbers dictates that the larger the size of the sample"	22
+"the law of large numbers"	"dictates"	"that the larger the size of the sample"	22
+"the law of large numbers"	"dictates"	"that the larger the size of the sample"	22
+"the sample mean"	"will be close"	"to the population mean"	22
+"the sample mean"	"will be"	"close"	22
+Schaum 's Outline of Theory and Problems of Probability by Seymour Lipschutz and Marc Lipson , As well as statistics , means are often used in geometry and analysis ; a wide range of means have been developed for these purposes , which are not much used in statistics . 	23
+Schaum 's Outline of Theory and Problems of Probability by Seymour Lipschutz and Marc Lipson , As well as statistics , means are often used in geometry and analysis ; a wide range of means have been developed for these purposes , which are not much used in statistics . 	23
+"Schaum 's Outline of Theory"	"means are used"	"in geometry often"	23
+"Schaum 's Outline of Theory"	"means are used"	"in analysis often"	23
+"Schaum 's of Theory Problems of Probability by Seymour Lipschutz"	"means are used"	"in geometry often"	23
+"Schaum 's of Theory Problems of Probability by Seymour Lipschutz"	"means are used"	"in analysis often"	23
+"Schaum 's of Theory Problems of Probability by Seymour Marc Lipson"	"means are used"	"in geometry often"	23
+"Schaum 's of Theory Problems of Probability by Seymour Marc Lipson"	"means are used"	"in analysis often"	23
+"Schaum 's of Theory statistics"	"means are used"	"in geometry often"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis often"	23
+"Schaum 's Outline of Theory"	"means are used"	"in geometry"	23
+"Schaum 's Outline of Theory"	"means are used"	"in analysis"	23
+"Schaum 's of Theory Problems of Probability by Seymour Lipschutz"	"means are used"	"in geometry"	23
+"Schaum 's of Theory Problems of Probability by Seymour Lipschutz"	"means are used"	"in analysis"	23
+"Schaum 's of Theory Problems of Probability by Seymour Marc Lipson"	"means are used"	"in geometry"	23
+"Schaum 's of Theory Problems of Probability by Seymour Marc Lipson"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in geometry"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"Schaum 's of Theory statistics"	"means are used"	"in analysis"	23
+"a wide range of means"	"have been developed"	"for these purposes"	23
+"not much"	"be used"	"in statistics"	23
+"these purposes"	"are not much"	"used in statistics"	23
+"these purposes"	"are not"	"much"	23
+These are listed below . 	24
+"These"	"are listed"	"below"	24
+Arithmetic mean The arithmetic mean is the " standard " average , often simply called the "mean " . 	25
+"Arithmetic"	"mean"	"The arithmetic mean is the standard average often simply called the mean"	25
+"The arithmetic mean"	"is"	"the standard"	25
+"The arithmetic mean is the standard average"	"be called"	"often simply"	25
+"The arithmetic mean is the standard average"	"be called"	"often"	25
+The mean may often be confused with the median , mode or range . 	26
+"The mean"	"may be confused"	"with the median often"	26
+"The mean"	"may be confused"	"with the mode often"	26
+"The mean"	"may be confused"	"with the range often"	26
+"The mean"	"may be confused"	"with the median"	26
+"The mean"	"may be confused"	"with the mode"	26
+"The mean"	"may be confused"	"with the range"	26
+The mean is the arithmetic average of a set of values , or distribution ; however , for skewed distributions , the mean is not necessarily the same as the middle value ( median ) , or the most likely ( mode ) . 	27
+"The mean"	"is the arithmetic average"	"of a set of values"	27
+"The mean"	"is the arithmetic average"	"of a of values distribution"	27
+"The mean"	"is"	"the arithmetic average"	27
+"the mean"	"is not the same"	"however"	27
+"the mean"	"is not the the most likely mode"	"however"	27
+"the mean"	"is not the same"	"for skewed distributions"	27
+"the mean"	"is not the the most likely mode"	"for skewed distributions"	27
+"the mean"	"is not the same"	"necessarily"	27
+"the mean"	"is not the the most likely mode"	"necessarily"	27
+"the mean"	"is not the same"	"as the middle value"	27
+"the mean"	"is not the the most likely mode"	"as the middle value"	27
+"the mean"	"is not"	"the same"	27
+"the mean"	"is not"	"the the most likely mode"	27
+"the middle value"	"is"	"median"	27
+For example , mean income is skewed upwards by a small number of people with very large incomes , so that the majority have an income lower than the mean . 	28
+"mean income"	"is 28 For example skewed upwards so that the majority have an income lower than the mean"	"by a small number of people with very large incomes"	28
+"mean income"	"is"	"28 For example skewed upwards so that the majority have an income lower than the mean"	28
+"the majority"	"have"	"an income lower than the mean"	28
+By contrast , the median income is the level at which half the population is below and half is above . 	29
+"the median income"	"is"	"29 By contrast the level"	29
+"half the population"	"is"	"29 By contrast the level at which"	29
+"half the population"	"is"	"below is above 29 By contrast the level"	29
+"half the population"	"is"	"half is above 29 By contrast the level"	29
+"half the population"	"is"	"29 By contrast the level"	29
+The mode income is the most likely income , and favors the larger number of people with lower incomes . 	30
+"The mode income"	"is"	"the most likely income"	30
+"The mode income"	"is"	"the most likely favors the larger number of people with lower incomes"	30
+The median or mode are often more intuitive measures of such data . 	31
+"The median"	"are"	"intuitive often measures of such data 31"	31
+"The mode"	"are"	"intuitive often measures of such data 31"	31
+"The median"	"are"	"intuitive more measures of such data 31"	31
+"The mode"	"are"	"intuitive more measures of such data 31"	31
+"The median"	"are"	"intuitive measures of such data 31"	31
+"The mode"	"are"	"intuitive measures of such data 31"	31
+Nevertheless , many skewed distributions are best described by their mean &ndash ; such as the exponential and Poisson distribution . 	32
+"many skewed distributions"	"are described"	"by their mean & ndash 32 Nevertheless"	32
+"many skewed distributions"	"are described"	"by their mean & ndash best"	32
+"many skewed distributions"	"are described"	"by their mean & ndash such as the exponential distribution"	32
+"many skewed distributions"	"are described"	"by their mean & ndash such as the Poisson distribution"	32
+"many skewed distributions"	"are described"	"by their mean & ndash"	32
+"many skewed distributions"	"are described"	"by their mean & ndash"	32
+For example , the arithmetic mean of six values : 5 , 10 , 13 , 7 , 25 , 31 is Geometric mean The geometric mean is an average that is useful for sets of positive numbers that are interpreted according to their product and not their sum ( as is the case with the arithmetic mean ) e.g 	33
+"the arithmetic"	"mean"	"33 For example of six values"	33
+"the arithmetic"	"mean"	"33 For example of six values"	33
+"the arithmetic"	"mean"	"33 For example of six values"	33
+"the arithmetic"	"mean"	"33 For example of six values"	33
+"the arithmetic"	"mean"	"33 For example of six values"	33
+"the arithmetic"	"mean"	"33 For example of six values"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"the arithmetic"	"mean"	"33 For example"	33
+"The geometric mean"	"is"	"an average"	33
+"an average"	"is useful"	"for sets of positive numbers e.g"	33
+"an average"	"is"	"useful"	33
+"sets of positive numbers"	"are interpreted"	"according to their product as is the case with the arithmetic mean"	33
+"sets of positive numbers"	"are interpreted"	"according to their not their sum as is the case with the arithmetic mean"	33
+"sets of positive numbers"	"are interpreted"	"according to their not their sum as is the case with the arithmetic mean"	33
+"sets of positive numbers"	"are interpreted"	"according to their not their sum as is the case with the arithmetic mean"	33
+. 	34
+rates of growth . 	35
+For example , the geometric mean of six values : 34 , 27 , 45 , 55 , 22 , 34 is : Harmonic mean \t The harmonic mean is an average which is useful for sets of numbers which are defined in relation to some unit , for example speed ( distance per unit of time ) . 	36
+"Harmonic mean \ t for example speed"	"is"	"distance per unit of time"	36
+"The harmonic mean"	"is"	"an average Harmonic mean \ t for example speed"	36
+"Harmonic mean \ t for example speed"	"is useful"	"for sets of numbers"	36
+"Harmonic mean \ t for example speed"	"is"	"useful"	36
+"Harmonic mean \ t for example speed"	"is"	"useful"	36
+\t For example , the harmonic mean of the six values : 34 , 27 , 45 , 55 , 22 , and 34 is Inequality of arithmetic and geometric means AM , GM , and HM satisfy these inequalities : Equality holds only when all the elements of the given sample are equal . 	37
+"\ t For example 34 is Inequality of arithmetic means AM GM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 27 is Inequality of arithmetic and geometric means AM GM and HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 45 is Inequality of arithmetic and geometric means AM GM and HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 55 is Inequality of arithmetic and geometric means AM GM and HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 22 is Inequality of arithmetic and geometric means AM GM and HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic and geometric means AM GM and HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of geometric means AM GM and HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"\ t For example 34 is Inequality of arithmetic means AM HM satisfy these inequalities"	"is"	"the harmonic mean of the six values"	37
+"is Inequality of arithmetic"	"GM satisfy"	"these inequalities"	34
+"is Inequality of arithmetic and geometric"	"GM satisfy"	"these inequalities"	27
+"is Inequality of arithmetic and geometric"	"GM satisfy"	"these inequalities"	45
+"is Inequality of arithmetic and geometric"	"GM satisfy"	"these inequalities"	55
+"is Inequality of arithmetic and geometric"	"GM satisfy"	"these inequalities"	22
+"is Inequality of arithmetic and geometric"	"GM satisfy"	"these inequalities"	34
+"is Inequality of geometric"	"GM satisfy"	"these inequalities"	34
+"is Inequality of arithmetic"	"HM satisfy"	"these inequalities"	34
+"is Inequality of arithmetic and geometric"	"HM satisfy"	"these inequalities"	27
+"is Inequality of arithmetic and geometric"	"HM satisfy"	"these inequalities"	45
+"is Inequality of arithmetic and geometric"	"HM satisfy"	"these inequalities"	55
+"is Inequality of arithmetic and geometric"	"HM satisfy"	"these inequalities"	22
+"is Inequality of arithmetic and geometric"	"HM satisfy"	"these inequalities"	34
+"is Inequality of geometric"	"HM satisfy"	"these inequalities"	34
+"is Inequality of geometric"	"HM satisfy"	"these inequalities"	34
+"all the elements of the given sample"	"are equal"	"only"	34
+"all the elements of the given sample"	"are equal"	"when"	34
+"all the elements of the given sample"	"are"	"equal"	34
+The generalized mean , also known as the power mean or Hölder mean , is an abstraction of the quadratic , arithmetic , geometric and harmonic means . 	38
+"The generalized mean"	"be known"	"also as the power mean"	38
+"The generalized mean"	"be known"	"also as the power Hölder mean"	38
+"The generalized mean"	"be known"	"also"	38
+"The generalized mean also known as the power mean"	"is an abstraction"	"of the quadratic means"	38
+"The generalized mean also known as the power mean"	"is an abstraction"	"of the arithmetic means"	38
+"The generalized mean also known as the power mean"	"is an abstraction"	"of the geometric means"	38
+"The generalized mean also known as the power mean"	"is an abstraction"	"of the harmonic means"	38
+"The generalized mean also known as the power Hölder mean"	"is an abstraction"	"of the quadratic means"	38
+"The generalized mean also known as the power Hölder mean"	"is an abstraction"	"of the arithmetic means"	38
+"The generalized mean also known as the power Hölder mean"	"is an abstraction"	"of the geometric means"	38
+"The generalized mean also known as the power Hölder mean"	"is an abstraction"	"of the harmonic means"	38
+"The generalized mean also known as the power mean"	"is"	"an abstraction"	38
+"The generalized mean also known as the power Hölder mean"	"is"	"an abstraction"	38
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+It is defined for a set of n positive numbers x i by By choosing the appropriate value for the parameter m we get all means : This can be generalized further as the generalized f-mean and again a suitable choice of an invertible ƒ will give The weighted arithmetic mean is used , if one wants to combine average values from samples of the same population with different sample sizes : The weights w_i represent the bounds of the partial sample . 	39
+"This can be generalized further as the generalized f-mean"	"will give"	"The weighted arithmetic mean"	39
+"This can be further as the generalized f-mean again a suitable choice of an invertible ƒ"	"will give"	"The weighted arithmetic mean"	39
+"This can be generalized further as the generalized f-mean will give The weighted arithmetic mean"	"is used"	"if one wants to combine average values from samples of the same population with different sample sizes"	39
+"This can be further as the generalized f-mean again a suitable choice of an invertible ƒ will give The weighted arithmetic mean"	"is used"	"if one wants to combine average values from samples of the same population with different sample sizes"	39
+"This can be further as the generalized f-mean again a suitable choice of an invertible ƒ will give The weighted arithmetic mean"	"is used"	"if one wants to combine average values from samples of the same population with different sample sizes"	39
+"This can be further as the generalized f-mean again a suitable choice of an invertible ƒ will give The weighted arithmetic mean"	"is used"	"if one wants to combine average values from samples of the same population with different sample sizes"	39
+"The weights"	"w_i"	"represent the bounds of the partial sample"	39
+In other applications they represent a measure for the reliability of the influence upon the mean by respective values . 	40
+In other applications they represent a measure for the reliability of the influence upon the mean by respective values . 	40
+Sometimes a set of numbers might contain outliers , i .e 	41
+. 	42
+a datum which is much lower or much higher than the others .Often 	43
+, outliers are erroneous data caused by artifacts . 	44
+, outliers are erroneous data caused by artifacts . 	44
+, outliers are erroneous data caused by artifacts . 	44
+"erroneous data"	"be caused"	"by artifacts"	44
+In this case one can use a truncated mean . 	45
+In this case one can use a truncated mean . 	45
+In this case one can use a truncated mean . 	45
+It involves discarding given parts of the data at the top or the bottom end , typically an equal amount at each end , and then taking the arithmetic mean of the remaining data . 	46
+"It"	"involves"	"discarding"	46
+"It"	"involves"	"discarding"	46
+"It"	"involves"	"discarding"	46
+The number of values removed is indicated as a percentage of total number of values . 	47
+"The number of values removed"	"is indicated"	"as a percentage of total number of values"	47
+The interquartile mean is a specific example of a truncated mean . 	48
+"The interquartile mean"	"is a specific example"	"of a truncated mean"	48
+"The interquartile mean"	"is"	"a specific example"	48
+It is simply the arithmetic mean after removing the lowest and the highest quarter of values . 	49
+"It"	"is the arithmetic mean after removing the lowest"	"simply"	49
+"It"	"is the arithmetic mean after removing the the highest quarter of values"	"simply"	49
+"It"	"is"	"the arithmetic mean after removing the lowest"	49
+"It"	"is"	"the arithmetic mean after removing the the highest quarter of values"	49
+assuming the values have been ordered , so is simply a specific example of a weighted mean for a specific set of weights . 	50
+"so"	"be assuming"	"the values have been ordered"	50
+"assuming the values have been ordered so"	"is a specific example"	"simply"	50
+"assuming the values have been ordered so"	"is a specific example"	"of a weighted mean for a specific set of weights"	50
+"assuming the values have been ordered so"	"is"	"a specific example"	50
+In calculus , and especially multivariable calculus , the mean of a function is loosely defined as the average value of the function over its domain . 	51
+"In calculus"	"is"	"the mean of a function"	51
+"In calculus especially multivariable calculus"	"is"	"the mean of a function"	51
+"In calculus"	"is defined"	"as the average value of the function over its domain loosely"	51
+"In calculus especially multivariable calculus"	"is defined"	"as the average value of the function over its domain loosely"	51
+"In calculus"	"is defined"	"as the average value of the function over its domain"	51
+"In calculus especially multivariable calculus"	"is defined"	"as the average value of the function over its domain"	51
+"In calculus especially multivariable calculus"	"is defined"	"as the average value of the function over its domain"	51
+In one variable , the mean of a function f ( x ) over the interval ( a,b ) is defined by Recall that a defining property of the average value bar{y } of finitely many numbers y_1 , y_2 , dots , y_n is that nbar{y } = y_1 + y_2 + cdots + y_n . 	52
+"a function"	"is"	"f x"	52
+"the interval"	"is"	"a b"	52
+"the mean of a function over the interval"	"is defined"	"by Recall that a defining property of the average value bar of finitely many numbers y_1 is that nbar = y_1"	52
+"the mean of a function over the interval"	"is defined"	"by Recall that a defining property of the average value bar of finitely many numbers y_2 is that nbar = y_1 + y_2 + cdots + y_n"	52
+"the mean of a function over the interval"	"is defined"	"by Recall that a defining property of the average value bar of finitely many numbers dots is that nbar = y_1 + y_2 + cdots + y_n"	52
+"the mean of a function over the interval"	"is defined"	"by Recall that a defining property of the average value bar of finitely many numbers y_1 is that nbar = y_2"	52
+"the mean of a function over the interval"	"is defined"	"by Recall that a defining property of the average value bar of finitely many numbers y_1 is that nbar = cdots"	52
+"the mean of a function over the interval"	"is defined"	"by Recall that a defining property of the average value bar of finitely many numbers y_1 is that nbar = y_n"	52
+"the average value bar of finitely many numbers y_1"	"is"	"y"	52
+"the average value bar of finitely many numbers y_2"	"is"	"y"	52
+"the average value bar of finitely many numbers dots"	"is"	"y"	52
+"the average value bar of finitely many numbers dots"	"is"	"y"	52
+"the average value bar of finitely many numbers dots"	"is"	"y"	52
+"the average value bar of finitely many numbers dots"	"is"	"y"	52
+"a defining property of the average value bar of finitely many numbers y_1"	"is"	"that nbar = y_1"	52
+"a defining property of the average value bar of finitely many numbers y_1"	"is"	"that nbar = y_2"	52
+"a defining property of the average value bar of finitely many numbers y_1"	"is"	"that nbar = cdots"	52
+"a defining property of the average value bar of finitely many numbers y_1"	"is"	"that nbar = y_n"	52
+"a defining property of the average value bar of finitely many numbers y_2"	"is"	"that nbar = y_1"	52
+"a defining property of the average value bar of finitely many numbers y_2"	"is"	"that nbar = y_2"	52
+"a defining property of the average value bar of finitely many numbers y_2"	"is"	"that nbar = cdots"	52
+"a defining property of the average value bar of finitely many numbers y_2"	"is"	"that nbar = y_n"	52
+"a defining property of the average value bar of finitely many numbers dots"	"is"	"that nbar = y_1"	52
+"a defining property of the average value bar of finitely many numbers dots"	"is"	"that nbar = y_2"	52
+"a defining property of the average value bar of finitely many numbers dots"	"is"	"that nbar = cdots"	52

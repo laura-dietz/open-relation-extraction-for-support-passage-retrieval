@@ -1,0 +1,327 @@
+0	("generation of electricity", "be using", "solar energy other uses of solar energy Solar energy January 2012 yes thumbright275pxThePS10 solar power towerPS10concentrates sunlight from a field of heliostats onto a central tower")	("generation of electricity", "be using", "solar energy other uses of solar energy Solar energy January 2012 yes thumbright275pxThePS10 solar power towerPS10concentrates sunlight from a field of heliostats")
+1	("Solar power", "is the conversion", "of sunlight into electricity")	("Solar power", "is the conversion", "of sunlight directly using photovoltaics")	("Solar power", "is the conversion", "of sunlight directly using indirectly using concentrated solar power")	("Solar power", "is the conversion", "of sunlight")	("Solar power", "is the conversion", "into electricity directly using photovoltaics")	("Solar power", "is the conversion", "into electricity directly using indirectly using concentrated solar power")	("Solar power", "is the conversion", "into electricity")	("Solar power", "is the conversion", "directly using photovoltaics")	("Solar power", "is the conversion", "directly using indirectly using concentrated solar power")	("Solar power", "is", "the conversion")	("the conversion of sunlight into electricity", "be using", "directly photovoltaics")	("the conversion of sunlight into electricity", "be using", "directly indirectly using concentrated solar power")	("photovoltaics", "is", "PV")	("indirectly using concentrated solar power", "is", "PV")	("concentrated solar power", "is", "CSP")
+2	("Concentrated solar power systems", "use", "lenses")	("Concentrated solar power systems", "mirrors", "lenses")	("Concentrated solar power systems", "tracking", "lenses systems to focus a large area of sunlight into a small beam")	("Concentrated solar power systems", "tracking", "lenses systems")	("tracking systems", "be focus", "a large area of sunlight into a small beam")
+3	("Photovoltaics", "convert", "light into electric current using the photoelectric effect")	("Photovoltaics", "convert", "light using the photoelectric effect")
+4	
+5	
+6	
+7	
+8	
+9	
+10	("first developed in the 1980s", "were")	("first", "be developed", "in the 1980s")
+11	("The 354 MW SEGS CSP installation", "is the largest solar power plant located in the Mojave Desert of California", "in the world")	("The 354 MW SEGS CSP installation", "is", "the largest solar power plant located in the Mojave Desert of California")
+12	("Other large CSP plants", "include", "the Solnova Solar Power Station in Spain")	("Other large CSP plants", "include", "the Solnova Solar Power the Andasol solar power station in Spain")	("the Solnova Solar Power Station in Spain", "is", "150 MW")	("the Solnova Solar Power the Andasol solar power station in Spain", "is", "150 MW")	("the Andasol solar power station", "is", "150 MW")
+13	("The 200 MW Golmud Solar Park in China", "is", "the world 's largest photovoltaic plant")	("the world", "has", "largest photovoltaic plant")
+14	("land area required to replace the world primary energy supply with solar electricity", "is", "small black dots")	("land area", "be required", "to replace the world primary energy supply with solar electricity")
+15	("18 TW", "is 568 Exajoule", "per year")	("18 TW", "is", "568 Exajoule")	("18 TW is 568 Exajoule per year", "is", "EJ")
+16	("Insolation for most people", "is", "from 150 to 300 W/m2or 3.5")
+17	
+18	("k Wh", "is", "m2day")
+19	("Solar power", "is the conversion", "of sunlight into electricity")	("Solar power", "is the conversion", "of sunlight")	("Solar power", "is the conversion", "into electricity")	("Solar power", "is", "the conversion")
+20	("Sunlight", "can be converted", "directly into electricity using photovoltaics")	("Sunlight", "can be converted", "directly into electricity using indirectly with concentrated solar power")	("Sunlight", "can be converted", "directly")	("electricity", "be using", "photovoltaics")	("electricity", "be using", "indirectly with concentrated solar power")	("photovoltaics", "is", "PV")	("indirectly with concentrated solar power", "is", "PV")	("concentrated solar power", "is", "CSP")	("concentrated solar power", "focuses", "the sun 's energy to boil water normally")	("concentrated solar power", "focuses", "the sun 's energy to boil water")	("the sun 's energy", "be boil", "water")	("the sun", "has", "energy to boil water")	("the sun 's energy to boil water", "is used", "to provide power")
+21	("Other technologies", "exist", "such as Stirling engine dishes also")	("Other technologies", "exist", "such as Stirling engine dishes")	("Stirling engine dishes", "use", "a Stirling cycle engine to power a generator")	("Stirling engine dishes", "use", "a Stirling cycle engine")
+22	("Photovoltaics", "were used", "to power small applications from the calculator powered by a single solar cell to off-grid homes powered by a photovoltaic array initially")	("Photovoltaics", "were used", "to power medium-sized applications from the calculator powered by a single solar cell to off-grid homes powered by a photovoltaic array initially")	("Photovoltaics", "were used", "to power small applications initially")	("Photovoltaics", "were used", "to power medium-sized applications initially")	("Photovoltaics", "were used", "to power small applications from the calculator powered by a single solar cell to off-grid homes powered by a photovoltaic array")	("Photovoltaics", "were used", "to power medium-sized applications from the calculator powered by a single solar cell to off-grid homes powered by a photovoltaic array")	("Photovoltaics", "were used", "to power small applications")	("Photovoltaics", "were used", "to power medium-sized applications")	("the calculator", "be powered", "by a single solar cell to off-grid homes powered by a photovoltaic array")	("off-grid homes", "be powered", "by a photovoltaic array")
+23	("Solar thermal energy Concentrated solar power", "be Concentrating", "Solar Power systems use lenses")	("Solar thermal energy Concentrated solar power", "be Concentrating", "Solar Power systems lenses mirrors")	("Solar thermal energy Concentrated solar power", "be Concentrating", "Solar Power systems lenses tracking systems to focus a large area of sunlight into a small beam")	("Solar Power", "is", "CSP")	("Solar Power systems", "use", "lenses")	("Solar Power systems", "mirrors", "lenses")	("Solar Power systems", "tracking", "lenses systems to focus a large area of sunlight into a small beam")	("Solar Power systems", "tracking", "lenses systems")	("tracking systems", "be focus", "a large area of sunlight into a small beam")
+24	("The concentrated heat", "is used", "as a heat source for a conventional power plant")
+25	("A wide range of concentrating technologies", "exists")	("the most developed", "are", "the parabolic trough")	("the most developed", "are", "the parabolic the concentrating linear fresnel reflector")	("the most developed", "are", "the parabolic the Stirling dish")	("the most developed", "are", "the parabolic the solar power tower")
+26	("Various techniques", "are used", "to track the Sun")	("Various techniques", "are used", "to focus the Sun light")
+27	("a working fluid", "is heated", "by the concentrated sunlight")	("a working fluid", "is is used", "for power generation by the concentrated sunlight")	("a working fluid", "is is used", "for power energy storage by the concentrated sunlight")	("a working fluid", "is is used", "for power generation")	("a working fluid", "is is used", "for power energy storage")
+28	("Martin", "is", "p")	("Goswami", "is", "p")	("Goswami", "is", "2005")
+29	("45 A parabolic trough", "consists", "of a linear parabolic reflector")	("a linear parabolic reflector", "concentrates", "light onto a receiver positioned along the reflector 's focal line")	("a linear parabolic reflector", "concentrates", "light")	("a receiver", "be positioned", "along the reflector 's focal line")	("the reflector", "has", "focal line")
+30	("The receiver", "is a tube", "positioned right above the middle of the parabolic mirror")	("The receiver", "is", "a tube")	("The receiver", "is is a filled", "positioned right above the middle of the parabolic mirror with a working fluid")	("The receiver", "is is a filled", "positioned right above the middle of the parabolic mirror")	("The receiver", "is is a filled", "with a working fluid")	("The receiver", "is is", "a filled")	("a tube", "be positioned", "right above the middle of the parabolic mirror")	("a is filled with a working fluid", "be positioned", "right above the middle of the parabolic mirror")
+31	("The reflector", "is made", "to follow the Sun during the daylight hours by tracking along a single axis")	("The reflector", "is made", "to follow the Sun during the daylight hours")	("The reflector", "is made", "to follow the Sun by tracking along a single axis")	("The reflector", "is made", "to follow the Sun")
+32	("Parabolic trough systems", "provide", "the best land-use factor of any solar technology")
+33	
+34	
+35	
+36	
+37	("Acciona", "has", "Nevada Solar One near Boulder City _ Nevada")	("19 August 2008 The SEGS plants in California", "are representatives", "of this technology Now")	("19 2008 The SEGS plants in California Acciona 's Nevada Solar One near Boulder City _ Nevada", "are representatives", "of this technology Now")	("19 August 2008 The SEGS plants in California", "are representatives", "Now")	("19 2008 The SEGS plants in California Acciona 's Nevada Solar One near Boulder City _ Nevada", "are representatives", "Now")	("19 August 2008 The SEGS plants in California", "are representatives", "of this technology")	("19 2008 The SEGS plants in California Acciona 's Nevada Solar One near Boulder City _ Nevada", "are representatives", "of this technology")	("19 August 2008 The SEGS plants in California", "are", "representatives")	("19 2008 The SEGS plants in California Acciona 's Nevada Solar One near Boulder City _ Nevada", "are", "representatives")
+38	
+39	
+40	("2 July 2008 Compact Linear Fresnel Reflector", "are", "CSP-plants")	("CSP-plants", "use", "many thin mirror strips")	("CSP-plants", "use", "many thin mirror parabolic mirrors to concentrate sunlight onto two tubes with working fluid")	("parabolic", "mirrors", "to concentrate sunlight onto two tubes with working fluid")	("parabolic", "mirrors", "to concentrate sunlight")
+41	("This", "has", "the advantage can be used which are much cheaper than parabolic mirrors")	("This", "has", "the advantage can be which are much cheaper than parabolic mirrors that more reflectors can be placed in the same amount of space allowing more of the available sunlight to be used")	("the advantage", "flat mirrors")	("the advantage", "can be used", "which are much cheaper than parabolic mirrors")	("which", "are cheaper", "much than parabolic mirrors")	("which", "are cheaper", "than parabolic mirrors")	("parabolic", "mirrors")	("more reflectors", "can be placed", "in the same amount of space allowing more of the available sunlight to be used")
+42	("Concentrating linear fresnel reflectors", "can be used", "in large plants")	("Concentrating linear fresnel reflectors", "can be used", "in more compact plants")
+43	
+44	
+45	
+46	
+47	
+48	
+49	
+50	
+51	
+52	
+53	
+54	
+55	
+56	
+57	("Ausra compact CLFR", "be introducing", "cost-saving solar rotation features PDF 19 April 2011 http www.ese")
+58	
+59	("Ausra compact CLFR", "be introducing", "cost-saving solar rotation features")	("The Stirling solar dish", "PDF combines", "a parabolic concentrating dish with a Stirling engine solar rotation features")	("The Stirling solar dish", "PDF combines", "a parabolic concentrating dish solar rotation features")	("PDF", "The Stirling solar dish combines", "a parabolic concentrating dish with a Stirling engine solar rotation features")	("PDF", "The Stirling solar dish combines", "a parabolic concentrating dish solar rotation features")	("a Stirling engine", "drives", "an electric generator normally")	("a Stirling engine", "drives", "an electric generator")
+60	
+61	("dish systems", "give", "the highest efficiency among CSP technologies")
+62	
+63	
+64	
+65	
+66	("July 2008 PDF The 50 k W Big Dish in Canberra", "is", "Australia")	("2 July 2008 PDF The 50 k W Big Dish in Canberra", "is an example", "of this technology")	("2 July 2008 PDF The 50 k W Big Dish in Canberra", "is", "an example")
+67	
+68	
+69	
+70	
+71	("2 July 2008 PDF A solar power tower", "uses", "an array of tracking reflectors to concentrate light on a central receiver atop a tower")	("tracking reflectors", "be concentrate", "light on a central receiver atop a tower")	("tracking reflectors", "be concentrate", "light on a central receiver")	("reflectors", "is", "heliostat")
+72	("Power towers", "are cost effective offer higher efficiency among CSP technologies", "more")	("Power towers", "are cost effective offer higher better energy storage capability among CSP technologies", "more")	("Power towers", "are", "cost effective offer higher efficiency among CSP technologies")	("Power towers", "are", "cost effective offer higher better energy storage capability among CSP technologies")
+73	("The PS10 Solar Power Plant", "are examples", "of this technology")	("The PS10 Solar Power PS20 solar power plant", "are examples", "of this technology")	("The PS10 Solar Power Plant", "are", "examples")	("The PS10 Solar Power PS20 solar power plant", "are", "examples")
+74	
+75	
+76	("photovoltaic cell", "is", "PV")	("A solar cell", "is", "a device")	("A solar photovoltaic cell", "is", "a device")	("a device", "converts", "light into electric current")	("a device", "converts", "light")
+77	("The first solar cell", "was constructed", "by Charles Fritts in the 1880s")	("The first solar cell", "was constructed", "by Charles Fritts")
+78	("Perlin", "is", "1999")	("Perlin", "is", "p")
+79	("147 In 1931 a German engineer Dr Bruno Lange", "developed", "a photo cell using silver selenide in place of copper oxide")	("a photo cell", "be using", "silver selenide in place of copper oxide")
+80	
+81	
+82	
+83	
+84	("the prototype selenium cells", "Tap Sun Science converted", "less than 1 % of incident light into electricity PA41 Magic Plates")	("the prototype selenium cells", "Tap Sun Science converted", "less than 1 % of incident light PA41 Magic Plates")	("Tap Sun", "Science the prototype selenium cells converted", "less than 1 % of incident light into electricity PA41 Magic Plates")	("Tap Sun", "Science the prototype selenium cells converted", "less than 1 % of incident light PA41 Magic Plates")	("Science", "Tap Sun the prototype selenium cells converted", "less than 1 % of incident light into electricity PA41 Magic Plates")	("Science", "Tap Sun the prototype selenium cells converted", "less than 1 % of incident light PA41 Magic Plates")	("Ernst Werner von Siemens", "recognized", "the importance of this discovery")	("Ernst Werner von James Clerk Maxwell", "recognized", "the importance of this discovery")
+85	("Perlin", "is", "1999")	("Perlin", "is", "pp")
+86	("researchers Gerald Pearson", "created", "the silicon solar cell in 1954")	("researchers Gerald Calvin Fuller", "created", "the silicon solar cell in 1954")	("researchers Gerald Daryl Chapin", "created", "the silicon solar cell in 1954")	("researchers Gerald Pearson", "created", "the silicon solar cell")	("researchers Gerald Calvin Fuller", "created", "the silicon solar cell")	("researchers Gerald Daryl Chapin", "created", "the silicon solar cell")
+87	("Perlin", "is", "1999")	("Perlin", "is", "p")
+88	("29 These early solar cells", "cost", "286 USD/watt")	("29 These early solar cells", "reached", "286 USD/watt efficiencies of 4.5")
+89	
+90	("Perlin", "is", "1999")	("Perlin", "is", "p")
+91	("their", "has", "Applications")	("Second Edition _ Lewis Fraas _ Larry Partain _ Wiley", "_", "2010 _ ISBN 978-0-470-44633-1 _ Section10 .2 their Applications")
+92	
+93	("Solar cell", "produce", "direct current DC power")	("direct current DC power", "fluctuates", "with the intensity of the irradiated light")
+94	("This", "requires", "conversion to certain desired voltages usually")	("This", "requires", "conversion to certain desired alternating current usually")	("This", "requires", "conversion to certain desired voltages")	("This", "requires", "conversion to certain desired alternating current")	("current", "is", "AC")	("current", "requires", "the use of the inverters")
+95	("Multiple solar cells", "are connected", "inside the modules")
+96	("Modules", "are wired", "together to form arrays")	("Modules", "are wired", "to form arrays")	("inverter", "produces", "power with the desired voltage")	("frequency/phase", "produces", "power with the desired voltage")	("inverter", "produces", "power")	("frequency/phase", "produces", "power")	("its", "has", "AC")
+97	("Many residential systems", "are connected", "to the grid wherever available especially in the developed countries with large markets")	("Many residential systems", "are connected", "to the grid")
+98	
+99	
+100	("dam_frontend_push & docID", "=")
+101	
+102	("use of energy storages", "are", "optional")	("dam_frontend_push & docID", "=", "In these grid-connected PV systems")
+103	("back-ups", "forms", "stand-alone power system")
+104	("Deployment of solar power to energy grids thumbleftNellis Solar Power Plant", "_", "14 MW power plant installed 2007 in Nevada _ USA The early development of solar technologies starting in the 1860s")	("14 MW power plant", "be installed", "2007 in Nevada _ USA The early development of solar technologies starting in the 1860s")	("The early development of solar technologies", "be starting", "in the 1860s")	("Deployment of solar power to energy grids thumbleftNellis Solar Power Plant _ 14 MW power plant installed 2007 in Nevada _ USA The early development of solar technologies starting in the 1860s", "was driven", "by an expectation")	("coal", "would become", "an expectation scarce soon")	("coal", "would become", "an expectation scarce")
+105	("solar technologies", "be stagnated", "in the early 20th century in the face of the increasing availability")	("solar technologies", "be stagnated", "in the early 20th century in the face of the increasing economy")	("solar technologies", "be stagnated", "in the early 20th century in the face of the increasing utility of coal")	("solar technologies", "be stagnated", "in the early 20th century in the face of the increasing utility of petroleum")	("solar technologies", "be stagnated", "in the early 20th century")
+106	("Butti", "is", "p")	("Perlin", "is", "p")	("Perlin", "is", "1981")
+107	("63 it was estimated that only six private homes in all of North America were entirely heated by functional solar power systems", "is", "101 In 1974")	("77 it was estimated that only six private homes in all of North America were entirely heated by functional solar power systems", "is", "101 In 1974")	("77 it was estimated that only six private homes in all of North America were entirely cooled by functional solar power systems", "is", "101 In 1974")	("63 it was estimated that only six private homes in all of North America were entirely cooled by functional solar power systems", "is", "101 In 1974")	("it", "was estimated", "that only six private homes in all of North America were entirely heated by functional solar power systems")	("it", "was estimated", "that only six private homes in all of North America were entirely cooled by functional solar power systems")	("only six private homes in all of North America", "were heated", "entirely by functional solar power systems")	("only six private homes in all of North America", "were heated", "entirely")	("only six private homes in all of North America", "were heated", "by functional solar power systems")	("only six private homes in all of North America", "were", "heated")	("only six private homes in all of North America", "were cooled", "entirely by functional solar power systems")	("only six private homes in all of North America", "were cooled", "entirely")	("only six private homes in all of North America", "were cooled", "by functional solar power systems")	("only six private homes in all of North America", "were", "cooled")
+108	
+109	("17", "is", "Jan")
+110	("1975 The 1973 oil embargo", "caused", "a reorganization of energy policies around the world")	("1975 The 1973 oil 1979 energy crisis", "caused", "a reorganization of energy policies around the world")	("1975 The 1973 oil embargo", "brought", "a reorganization of energy policies around the world renewed attention to developing solar technologies")	("1975 The 1973 oil 1979 energy crisis", "brought", "a reorganization of energy policies around the world renewed attention to developing solar technologies")	("1975 The 1973 oil embargo", "brought", "a reorganization of energy policies around the world renewed attention")	("1975 The 1973 oil 1979 energy crisis", "brought", "a reorganization of energy policies around the world renewed attention")
+111	("Butti", "is", "p")	("Perlin", "is", "p")	("Perlin", "is", "1981")
+112	("249 Yergin", "is", "1991")	("249 Yergin", "is", "pp")
+113	("634", "is", "653")	("673 Deployment strategies", "focused", "on incentive programs such as the Federal Photovoltaic Utilization Program in the US in Japan 634")	("673 Deployment strategies", "focused", "on incentive programs such as the Federal Photovoltaic Utilization Program in the the Sunshine Program in Japan 634")	("673 Deployment strategies", "focused", "634")
+114	("Other efforts", "included", "the formation of research facilities in the US SERI Fraunhofer Institute for Solar Energy Systems ISE")	("Other efforts", "included", "the formation of research facilities in the SERI Japan Fraunhofer Institute for Solar Energy Systems ISE")	("Other efforts", "included", "the formation of research facilities in the SERI Germany Fraunhofer Institute for Solar Energy Systems ISE")	("SERI", "is", "now NREL")	("Japan", "is", "NEDO")
+115	
+116	
+117	("4 November 2007 Between 1970 photovoltaic installations", "grew", "rapidly")	("4 November 2007 Between 1983 photovoltaic installations", "grew", "rapidly")	("falling oil prices in the early 1980s", "moderated", "the growth of PV from 1984 to 1996")	("falling oil prices in the early 1980s", "moderated", "the growth of PV")
+118	("PV development", "has accelerated", "due to supply issues with oil global warming concerns Since 1997")	("PV development", "has accelerated", "due to supply issues with natural gas global warming concerns and the improving economic position of PV relative to other energy technologies Since 1997")	("PV development", "has accelerated", "due to supply issues with oil global warming the improving economic position of PV relative to other energy technologies Since 1997")	("PV development", "has accelerated", "due to supply issues with oil global warming concerns")	("PV development", "has accelerated", "due to supply issues with natural gas global warming concerns and the improving economic position of PV relative to other energy technologies")	("PV development", "has accelerated", "due to supply issues with oil global warming the improving economic position of PV relative to other energy technologies")
+119	("retrieved 19 May 2009 Photovoltaic production growth", "has averaged", "40 % per year since 2000")	("retrieved 19 May 2009 Photovoltaic production growth", "has averaged", "40 % per year")	("retrieved 19 May 2009 Photovoltaic production growth", "has averaged", "40 % since 2000")	("retrieved 19 May 2009 Photovoltaic production growth", "has averaged", "40 %")	("installed capacity", "reached", "39.8 GW")
+120	
+121	
+122	
+123	
+124	("the largest photovoltaic PV power plants in the world", "are the Sarnia Photovoltaic Power Plant Canada Montalto di Castro Photovoltaic Power Station Italy 84.2", "As of October 2011")	("the largest photovoltaic PV power plants in the world", "are", "the Sarnia Photovoltaic Power Plant Canada Montalto di Castro Photovoltaic Power Station Italy 84.2")	("Canada", "is", "97 MW")
+125	
+126	
+127	
+128	
+129	("many large plants under construction", "There are", "also")	("many large plants under construction", "There are")
+130	("The Desert Sunlight Project", "is a 550 MW solar power plant", "under construction in Riverside County _ California")	("The Desert Sunlight Project", "is", "a 550 MW solar power plant")	("a 550 MW solar power plant under construction in Riverside County _ California", "will use", "thin-film solar photovoltaic modules made by First Solar")	("thin-film solar photovoltaic modules", "be made", "by First Solar")
+131	
+132	("cmpid = SolarNL-Tuesday-October4-2011 DOE", "Closes", "on Four Major Solar Projects 30 September 2011 Renewable Energy World http www.renewableenergyworld.com/rea/news/article/2011/09/doe-closes-on-three-major-solar-projects")	("cmpid = SolarNL-Tuesday-October4-2011 DOE", "Closes", "www.renewableenergyworld.com/rea/news/article/2011/09/doe-closes-on-three-major-solar-projects")
+133	("cmpid = SolarNL-Tuesday-October4-2011 DOE", "Closes", "on Four Major Solar Projects 30 September 2011 Renewable Energy World The Topaz Solar Farm")	("cmpid = SolarNL-Tuesday-October4-2011 DOE Closes on Four Major Solar Projects 30 September 2011 Renewable Energy World The Topaz Solar Farm", "is a 550 MW photovoltaic power plant", "being built in San Luis Obispo County _ California")	("cmpid = SolarNL-Tuesday-October4-2011 DOE Closes on Four Major Solar Projects 30 September 2011 Renewable Energy World The Topaz Solar Farm", "is", "a 550 MW photovoltaic power plant")	("a 550 MW photovoltaic power plant", "be built", "in San Luis Obispo County _ California")
+134	
+135	
+136	("cmpid = SolarNL-Thursday-December8-2011 Billionaire Buffett Bets on Solar Energy Steve Leone 7 December 2011 Renewable Energy World The Blythe Solar Power Project", "is a 500 MW photovoltaic station", "under construction in Riverside County _ California")	("cmpid = SolarNL-Thursday-December8-2011 Billionaire Buffett Bets on Solar Energy Steve Leone 7 December 2011 Renewable Energy World The Blythe Solar Power Project", "is", "a 500 MW photovoltaic station")
+137	("The Agua Caliente Solar Project", "is a 290 megawatt photovoltaic solar generating facility", "being built in Yuma County _ Arizona")	("The Agua Caliente Solar Project", "is", "a 290 megawatt photovoltaic solar generating facility")	("a 290 megawatt photovoltaic solar generating facility", "be built", "in Yuma County _ Arizona")
+138	("The California Valley Solar Ranch", "is", "CVSR")	("250 megawatt", "is", "MW")	("The California Valley Solar Ranch", "is", "a 250 megawatt solar photovoltaic power plant")	("a 250 megawatt solar photovoltaic power plant", "is being built", "by SunPower in the Carrizo Plain")	("a 250 megawatt solar photovoltaic power plant", "is being built", "by SunPower")	("the Carrizo Plain", "is", "northeast of California Valley")
+139	
+140	
+141	("NRG Energy Completes Acquisition of 250-Megawatt California Valley Solar Ranch from SunPower 30 September 2011 MarketWatch The 230 MW Antelope Valley Solar Ranch", "is", "a First Solar photovoltaic project")	("NRG Energy Completes Acquisition of 250-Megawatt California Valley Solar Ranch from SunPower 30 September 2011 MarketWatch The 230 MW Antelope Valley Solar Ranch", "is", "a First Solar photovoltaic due to be completed in 2013")	("a First Solar photovoltaic project", "is", "under construction in the Antelope Valley area of the Western Mojave Desert")	("a First Solar photovoltaic due to be completed in 2013", "is", "under construction in the Antelope Valley area of the Western Mojave Desert")
+142	
+143	
+144	
+145	
+146	("photovoltaic power stations Commercial concentrating solar thermal power", "is", "CSP")	("first developed in the 1980s", "were")	("first", "be developed", "in the 1980s")
+147	("The 354 MW SEGS CSP installation", "is the largest solar power plant located in the Mojave Desert of California", "in the world")	("The 354 MW SEGS CSP installation", "is", "the largest solar power plant located in the Mojave Desert of California")
+148	("Other large CSP plants", "include", "the Solnova Solar Power Station")	("Other large CSP plants", "include", "the Solnova Solar Power the Andasol solar power station")	("Other large CSP plants", "include", "the Solnova Solar Power Extresol Solar Power Station")	("the Solnova Solar Power Station", "is", "all in Spain")	("the Solnova Solar Power the Andasol solar power station", "is", "all in Spain")	("the Solnova Solar Power Extresol Solar Power Station", "is", "all in Spain")	("the Solnova Solar Power Station", "is", "150 MW")	("the Solnova Solar Power the Andasol solar power station", "is", "150 MW")	("the Solnova Solar Power Extresol Solar Power Station", "is", "150 MW")	("the Andasol solar power station", "is", "150 MW")	("Extresol Solar Power Station", "is", "100 MW")
+149	("California", "has", "Mojave Desert")	("the world", "has", "largest solar thermal power plant project currently under construction")	("The 370 MW Ivanpah Solar Power Facility located in California 's Mojave Desert", "is the world 's largest solar thermal power plant project", "currently under construction")	("The 370 MW Ivanpah Solar Power Facility located in California 's Mojave Desert", "is", "the world 's largest solar thermal power plant project")
+150	
+151	("Photovoltaics", "be Competing", "in the Energy Sector _ W.")
+152	("Bloomberg New Energy Finance in March 2011", "put", "the 2010 cost of solar panels at $ 1.80")
+153	("the price", "would decline", "to $ 1.50")
+154	
+155	
+156	
+157	
+158	
+159	("Nellis Air Force Base", "is receiving", "photoelectric power for about 2.2 cents k")	("Nellis Air Force Base", "is receiving", "photoelectric power")
+160	
+161	
+162	
+163	
+164	
+165	
+166	
+167	("PV systems", "use", "no fuel typically last 25 to 40 years")	("PV systems", "use", "no modules typically last 25 to 40 years")	("PV systems", "use", "no fuel")	("PV systems", "use", "no modules")	("the International Conference on Solar Photovoltaic Investments", "be organized", "by EPIA")	("the International Conference on Solar Photovoltaic Investments organized by EPIA", "id has estimated", "that PV systems will pay back their investors in 8 to 12 years since PV systems use no fuel typically last 25 to 40 years")	("the International Conference on Solar Photovoltaic Investments organized by EPIA", "id has estimated", "that PV systems will pay back their investors in 8 to 12 years since PV systems use no modules typically last 25 to 40 years")	("the International Conference on Solar Photovoltaic Investments organized by EPIA", "id has estimated", "that PV systems will pay back their investors in 8 to 12 years")	("id", "the International Conference on Solar Photovoltaic Investments organized by EPIA has estimated", "that PV systems will pay back their investors in 8 to 12 years since PV systems use no fuel typically last 25 to 40 years")	("id", "the International Conference on Solar Photovoltaic Investments organized by EPIA has estimated", "that PV systems will pay back their investors in 8 to 12 years since PV systems use no modules typically last 25 to 40 years")	("id", "the International Conference on Solar Photovoltaic Investments organized by EPIA has estimated", "that PV systems will pay back their investors in 8 to 12 years")	("PV systems", "will pay back", "their investors in 8 to 12 years")	("PV systems", "will pay back", "their investors")	("their", "has", "investors")
+168	
+169	
+170	
+171	
+172	
+173	
+174	("it", "has been economical", "for investors to install photovoltaics for free in return for a long term power purchase agreement")	("it", "has been", "economical")	("investors", "to install", "photovoltaics for free in return for a long term power purchase agreement")	("investors", "to install", "photovoltaics for free")	("investors", "to install", "photovoltaics in return for a long term power purchase agreement")	("investors", "to install", "photovoltaics")
+175	("Fifty percent of commercial systems", "were installed", "in this manner in 2007")	("Fifty percent of commercial systems", "were installed", "in this manner")	("it", "is expected", "that 90 % will by 2009")	("90 %", "be will", "by 2009")
+176	
+177	("How PPAs", "are Changing", "the PV Value Chain 11 February 2008 21 May 2009 http")
+178	("How PPAs", "are Changing", "the PV Value Chain 11 February 2008 21 May 2009 As of 2011")	("How PPAs", "are is set", "the PV Value Chain 11 February 2008 21 May 2009 As of 2011 to fall further")	("the cost of PV", "has fallen", "well below that of nuclear power")
+179	
+180	
+181	
+182	
+183	("the Nuclear Renaissance John Quiggin 3 January 2012 National Interest For large-scale installations", "is", "prices below $ 1.00")
+184	
+185	("PV", "has reached", "grid parity the cost In some locations")	("PV", "has reached", "grid parity the cost")	("it", "is", "competitive with coal the cost at which")	("it", "is", "competitive with gas-fired generation the cost at which")	("it", "is", "competitive the cost at which")	("it", "is", "competitive with coal the cost")	("it", "is", "competitive with gas-fired generation the cost")	("it", "is", "competitive the cost")
+186	("it", "is evident", "now that given a carbon price of $ 50/ton will be cost-competitive in most locations More generally")	("it", "is evident", "that given a carbon price of $ 50/ton will be cost-competitive in most locations More generally")	("it", "is evident", "now that given a carbon price of $ 50/ton will be cost-competitive in most locations")	("it", "is evident", "that given a carbon price of $ 50/ton will be cost-competitive in most locations")	("a carbon price of $ 50/ton", "would raise", "the price of coal-fired power by 5c/k Wh")	("a carbon price of $ 50/ton", "would raise", "the price of coal-fired power")	("5c/k Wh", "is", "solar PV")	("given a carbon price of $ 50/ton", "will be cost-competitive", "in most locations")	("given a carbon price of $ 50/ton", "will be", "cost-competitive")
+187	("The declining price of PV", "has been reflected", "in rapidly growing installations totalling about 23 GW in 2011")	("The declining price of PV", "has been reflected", "totalling about 23 GW in 2011")
+188	("some consolidation", "is likely", "in 2012")	("some consolidation", "is", "likely")	("firms", "try", "to restore profitability")	("strong growth", "seems", "likely to continue for the rest of the decade Although some consolidation is likely in 2012 as firms try to restore profitability")	("strong growth", "seems", "likely to continue for the rest of the decade Although some consolidation is likely in 2012")	("strong growth", "seems", "likely to continue for the rest of the decade as firms try to restore profitability")	("strong growth", "seems", "likely to continue for the rest of the decade")
+189	("total investment in renewables for 2011", "exceeded", "investment in carbon-based electricity generation Already by one estimate")	("total investment in renewables for 2011", "exceeded", "investment in carbon-based electricity generation Already")	("total investment in renewables for 2011", "exceeded", "investment in carbon-based electricity generation by one estimate")	("total investment in renewables for 2011", "exceeded", "investment in carbon-based electricity generation")
+190	
+191	
+192	("governments", "have created", "various financial incentives to encourage the use of solar power such as feed-in tariff programs")	("various financial incentives", "be encourage", "the use of solar power such as feed-in tariff programs")
+193	("utilities", "generate", "a government mandate a certain percentage of renewable power regardless of increased energy procurement costs")	("utilities", "acquire", "a government mandate a certain percentage of renewable power regardless of increased energy procurement costs")
+194	("RPS goals", "can be achieved", "by any combination of solar cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of wind cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of biomass cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of landfill gas cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of ocean cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of geothermal cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of municipal solid waste cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of hydroelectric cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of hydrogen cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of fuel cell technologies In most states")	("RPS goals", "can be achieved", "by any combination of solar cell technologies")	("RPS goals", "can be achieved", "by any combination of wind cell technologies")	("RPS goals", "can be achieved", "by any combination of biomass cell technologies")	("RPS goals", "can be achieved", "by any combination of landfill gas cell technologies")	("RPS goals", "can be achieved", "by any combination of ocean cell technologies")	("RPS goals", "can be achieved", "by any combination of geothermal cell technologies")	("RPS goals", "can be achieved", "by any combination of municipal solid waste cell technologies")	("RPS goals", "can be achieved", "by any combination of hydroelectric cell technologies")	("RPS goals", "can be achieved", "by any combination of hydrogen cell technologies")	("RPS goals", "can be achieved", "by any combination of fuel cell technologies")
+195	
+196	("Reeves", "is", "Solar Energy 's Cloudy Future")	("Reeves", "is", "1 Ariz")	("Solar Energy", "has", "Cloudy Future")
+197	
+198	
+199	
+200	("106", "is", "2010")
+201	
+202	("storage", "energy _ includes", "solar panels andpumped-storage hydroelectricity")	("energy", "storage _ includes", "solar panels andpumped-storage hydroelectricity")	("_", "storage energy includes", "solar panels andpumped-storage hydroelectricity")
+203	("thumbrightSeasonal variation of the output of the solar panels atAT & T Parkin San Francisco Solar energy", "is not available", "at night making energy storage an important issue in order to provide the continuous availability of energy")	("thumbrightSeasonal variation of the output of the solar panels atAT & T Parkin San Francisco Solar energy", "is not available", "at night")	("thumbrightSeasonal variation of the output of the solar panels atAT & T Parkin San Francisco Solar energy", "is not available", "making energy storage an important issue in order to provide the continuous availability of energy")	("thumbrightSeasonal variation of the output of the solar panels atAT & T Parkin San Francisco Solar energy", "is not", "available")	("not available at night", "be making", "energy storage an important issue")	("energy storage", "an important issue")
+204	("Carr", "is", "1976")	("Carr", "is", "p")
+205	("wind power", "are 85 intermittent energy source", "meaning that all available output must be taken when it is available")	("wind power", "are 85 intermittent energy source", "meaning that all available output must be taken when it is either stored for when it can be used over transmission lines to where it can be used")	("wind power", "are 85 intermittent energy source", "meaning that all available output must be taken when it is either stored for when it can be transported over transmission lines to where it can be used")	("wind solar power", "are 85 intermittent energy source", "meaning that all available output must be taken when it is available")	("wind solar power", "are 85 intermittent energy source", "meaning that all available output must be taken when it is either stored for when it can be used over transmission lines to where it can be used")	("wind solar power", "are 85 intermittent energy source", "meaning that all available output must be taken when it is either stored for when it can be transported over transmission lines to where it can be used")	("wind power", "are", "85 intermittent energy source")	("wind solar power", "are", "85 intermittent energy source")	("85 intermittent energy source", "be meaning", "that all available output must be taken when it is available")	("85 intermittent energy source", "be meaning", "that all available output must be taken when it is either stored for when it can be used over transmission lines to where it can be used")	("85 intermittent energy source", "be meaning", "that all available output must be taken when it is either stored for when it can be transported over transmission lines to where it can be used")	("all available output", "must be taken", "when it is available")	("all available output", "must be taken", "when it is either stored for when it can be used over transmission lines to where it can be used")	("all available output", "must be taken", "when it is either stored for when it can be transported over transmission lines to where it can be used")	("it", "is available", "when")	("it", "is either stored for when it can be used over transmission lines to where it can be used", "when")	("it", "is either stored for when it can be transported over transmission lines to where it can be used", "when")	("it", "is", "available")	("it", "is", "either stored for when it can be used over transmission lines to where it can be used")	("it", "is", "either stored for when it can be transported over transmission lines to where it can be used")	("either", "be stored", "for when it can be used over transmission lines to where it can be used")	("either", "be stored", "for when it can be transported over transmission lines to where it can be used")	("it", "can be used", "over transmission lines to where it can be used when")	("it", "can be used", "over transmission lines when")	("it", "can be used", "over transmission lines to where it can be used")	("it", "can be used", "over transmission lines")	("it", "can be transported", "over transmission lines to where it can be used when")	("it", "can be transported", "over transmission lines when")	("it", "can be transported", "over transmission lines to where it can be used")	("it", "can be transported", "over transmission lines")	("it", "can be used", "where")	("it", "can be used")
+206	("Wind power", "tend", "to be complementary somewhat")	("Wind power", "tend", "to be complementary")	("Wind solar power", "tend", "to be complementary somewhat")	("Wind solar power", "tend", "to be complementary")	("the difference", "needs", "to be made up in some manner on days with no sun")	("the difference", "needs", "to be made up in some manner on days with no no wind")	("the difference", "needs", "to be made up in some manner")
+207	
+208	
+209	
+210	
+211	
+212	
+213	("Wind", "join", "forces at Washington power plant 31 January 2008 entirely from renewable sources")	("sun", "join", "forces at Washington power plant 31 January 2008 entirely from renewable sources")	("Wind", "join", "forces")	("sun", "join", "forces")	("The Institute for Solar Energy Supply Technology of the University of Kassel", "pilot-tested", "a combined power plant linking solar to provide load-following power around the clock 31 January 2008 entirely from renewable sources")	("The Institute for Solar Energy Supply Technology of the University of Kassel", "pilot-tested", "a combined power plant linking wind to provide load-following power around the clock 31 January 2008 entirely from renewable sources")	("The Institute for Solar Energy Supply Technology of the University of Kassel", "pilot-tested", "a combined power plant linking biogas to provide load-following power around the clock 31 January 2008 entirely from renewable sources")	("The Institute for Solar Energy Supply Technology of the University of Kassel", "pilot-tested", "a combined power plant linking hydrostorage to provide load-following power around the clock 31 January 2008 entirely from renewable sources")	("a combined power plant", "be linking", "solar to provide load-following power around the clock")	("a combined power plant", "be linking", "wind to provide load-following power around the clock")	("a combined power plant", "be linking", "biogas to provide load-following power around the clock")	("a combined power plant", "be linking", "hydrostorage to provide load-following power around the clock")	("a combined power plant", "be linking", "solar to provide load-following power")	("a combined power plant", "be linking", "wind to provide load-following power")	("a combined power plant", "be linking", "biogas to provide load-following power")	("a combined power plant", "be linking", "hydrostorage to provide load-following power")	("linking solar around the clock", "be provide", "load-following power")	("linking wind around the clock", "be provide", "load-following power")	("linking biogas around the clock", "be provide", "load-following power")	("linking hydrostorage around the clock", "be provide", "load-following power")
+214	
+215	
+216	
+217	
+218	("energy January 2008 10 October 2008 SolarServer Solar energy", "can be stored", "at high temperatures using molten salts")	("energy January 2008 10 October 2008 SolarServer Solar energy", "can be stored", "using molten salts")
+219	("Salts", "are an effective storage medium have a high specific heat capacity", "because they are low-cost")	("Salts", "are an effective storage medium a high specific heat capacity can deliver heat at temperatures compatible with conventional power systems", "because they are low-cost")	("Salts", "are", "an effective storage medium have a high specific heat capacity")	("Salts", "are", "an effective storage medium a high specific heat capacity can deliver heat at temperatures compatible with conventional power systems")	("they", "are", "low-cost")
+220	("Solar Two used this method of energy storage", "be allowing", "it to store 1.44")	("Two", "be used", "this method of energy storage")
+221	("its", "has", "68 m ³ storage tank")
+222	
+223	
+224	
+225	
+226	("29 September 2007 Off-grid PV systems", "have used", "rechargeable batteries to store excess electricity traditionally")	("29 September 2007 Off-grid PV systems", "have used", "rechargeable batteries traditionally")	("29 September 2007 Off-grid PV systems", "have used", "rechargeable batteries to store excess electricity")	("29 September 2007 Off-grid PV systems", "have used", "rechargeable batteries")	("29 September 2007 Off-grid PV systems", "be store", "excess electricity")
+227	("excess electricity", "can be sent", "to the transmission grid With grid-tied systems")	("excess electricity", "can be sent", "to the transmission grid")
+228	("Net metering programs", "give", "these systems a credit for the electricity")	("they", "deliver", "to the grid the electricity")	("they", "deliver", "the electricity")
+229	("This credit offsets electricity", "be provided", "from the grid")	("the system", "be using", "effectively the grid as a storage mechanism")	("the system", "be using", "effectively the grid")	("the system", "can not meet", "demand effectively using the grid as a storage mechanism This credit offsets electricity provided from the grid when")	("the system", "can not meet", "demand This credit offsets electricity provided from the grid when")	("the system", "can not meet", "demand effectively using the grid as a storage mechanism This credit offsets electricity provided from the grid")	("the system", "can not meet", "demand This credit offsets electricity provided from the grid")
+230	("Credits", "are rolled", "over month to month normally")	("Credits", "are rolled", "over month normally")	("Credits", "are rolled", "over month to month")	("Credits", "are rolled", "over month")	("any remaining surplus", "settled", "annually")
+231	
+232	
+233	
+234	
+235	
+236	
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	("water", "be pumped", "when surplus electricity is available")	("surplus electricity", "is available", "when")	("surplus electricity", "is", "available")
+252	("The energy", "is recovered", "when demand is high by releasing the water")	("demand", "is high", "by releasing the water when")	("demand", "is high", "when")	("demand", "is high", "by releasing the water")	("demand", "is", "high")	("the pump", "becomes", "a turbine")	("the motor", "a hydroelectric power generator")
+253	
+254	
+255	
+256	
+257	("31 July 2008 Artificial photosynthesis", "involves", "the use of nanotechnology to store solar electromagnetic energy in chemical bonds by splitting water to produce hydrogen fuel")	("31 July 2008 Artificial photosynthesis", "involves", "the use of nanotechnology to store solar electromagnetic energy in chemical bonds splitting water to produce hydrogen fuel then combining with carbon dioxide to make biopolymers such as methanol")	("31 July 2008 Artificial photosynthesis", "involves", "the use of nanotechnology to store solar electromagnetic energy in chemical bonds")	("the use of nanotechnology", "be store", "solar electromagnetic energy in chemical bonds")	("splitting water", "be produce", "hydrogen fuel")
+258	("Many large national research projects on artificial photosynthesis", "are trying", "to develop techniques integrating improved light capture now")	("Many large regional research projects on artificial photosynthesis", "are trying", "to develop techniques integrating improved light capture now")	("Many large national research projects on artificial photosynthesis", "are trying", "to develop techniques integrating improved light capture now")	("Many large regional research projects on artificial photosynthesis", "are trying", "to develop techniques integrating improved light capture now")	("Many large national research projects on artificial photosynthesis", "are trying", "to develop techniques integrating improved light capture")	("Many large regional research projects on artificial photosynthesis", "are trying", "to develop techniques integrating improved light capture")	("Many large national research projects on artificial photosynthesis", "are trying", "to develop techniques integrating improved light capture")	("Many large regional research projects on artificial photosynthesis", "are trying", "to develop techniques integrating improved light capture")	("techniques", "be integrating", "improved light capture")	("quantum coherence methods of electron transfer", "operate", "under a variety of atmospheric conditions")	("quantum coherence methods of electron cheap catalytic materials", "operate", "under a variety of atmospheric conditions")
+259	
+260	("Collings AF", "is", "Critchley C.")
+261	
+262	
+263	("Weinheim", "is", "2005")
+264	
+265	
+266	("Catalonia _ Spain Concentrated photovoltaics", "is", "CPV")	("systems", "employ", "sunlight Catalonia _ Spain Concentrated photovoltaics")	("thumbrightConcentrating photovoltaics in Catalonia _ Spain Concentrated photovoltaics", "concentrated", "onto photovoltaic surfaces for the purpose of electrical power production")	("thumbrightConcentrating photovoltaics in Catalonia _ Spain Concentrated photovoltaics", "concentrated", "onto photovoltaic surfaces")
+267	("Solar concentrators of all varieties", "may be used")	("these", "are mounted", "on a solar tracker in order to keep the focal point upon the cell often")	("these", "are mounted", "on a solar tracker often")	("these", "are mounted", "on a solar tracker in order to keep the focal point upon the cell")	("these", "are mounted", "on a solar tracker")	("the Sun", "moves", "across the sky the cell")	("the Sun", "moves", "the cell")
+268	("MSU-CSET Participation Archive with notation in the Murray Ledger & Times Luminescent solar concentrator when combined with a PV-solar cell", "can be regarded", "as a CPV system also")	("MSU-CSET Participation Archive with notation in the Murray Ledger & Times Luminescent solar concentrator when combined with a PV-solar cell", "can be regarded", "as a CPV system")
+269	("Luminescent solar concentrators", "are useful", "as they can improve performance of PV-solar panels drastically")	("Luminescent solar concentrators", "are", "useful")	("they", "can improve", "performance of PV-solar panels drastically")	("they", "can improve", "performance of PV-solar panels")
+270	
+271	
+272	
+273	
+274	
+275	
+276	
+277	
+278	("5 November 2008 19 April 2011 Thermoelectric", "convert", "a temperature difference between dissimilar materials into an electric current")	("5 November 2008 19 April 2011 thermovoltaic devices", "convert", "a temperature difference between dissimilar materials into an electric current")	("5 November 2008 19 April 2011 Thermoelectric", "convert", "a temperature difference between dissimilar materials")	("5 November 2008 19 April 2011 thermovoltaic devices", "convert", "a temperature difference between dissimilar materials")
+279	("First", "proposed", "as a method to store solar energy by solar pioneer Mouchout in the 1800s")	("First", "proposed", "as a method to store solar energy by solar pioneer Mouchout in the Perlin")	("First", "proposed", "as a method to store solar energy by solar pioneer Mouchout in the Butti")	("a method", "be store", "solar energy by solar pioneer Mouchout in the 1800s")	("a method", "be store", "solar energy by solar pioneer Mouchout in the Perlin")	("a method", "be store", "solar energy by solar pioneer Mouchout in the Butti")	("a method", "be store", "solar energy by solar pioneer Mouchout")	("Butti", "is", "1981")	("Butti", "is", "p")
+280	("73 thermoelectrics", "reemerged", "in the Soviet Union during the 1930s")	("73 thermoelectrics", "reemerged", "in the Soviet Union")
+281	
+282	("Halacy", "is", "1973")	("Halacy", "is", "p")
+283	("76 Thermogenerators", "were used", "in the US space program as an energy conversion technology for powering deep space missions such as Cassini later")	("76 Thermogenerators", "were used", "in the US space program as an energy conversion technology for powering deep space missions such as Galileo later")	("76 Thermogenerators", "were used", "in the US space program as an energy conversion technology for powering deep space missions such as Viking later")	("76 Thermogenerators", "were used", "in the US space program later")	("76 Thermogenerators", "were used", "in the US space program as an energy conversion technology for powering deep space missions such as Cassini")	("76 Thermogenerators", "were used", "in the US space program as an energy conversion technology for powering deep space missions such as Galileo")	("76 Thermogenerators", "were used", "in the US space program as an energy conversion technology for powering deep space missions such as Viking")	("76 Thermogenerators", "were used", "in the US space program")
+284	("Research in this area", "is focused", "on raising the efficiency of these devices from 7")
+285	("Tritt", "is", "2008")	("Tritt", "is", "pp")
+286	("366 368 Space-based solar power", "is a theoretical design", "for the collection of solar power in space for use on Earth")	("366 368 Space-based solar power", "is a theoretical design", "for the collection of solar power in space")	("366 368 Space-based solar power", "is a theoretical design", "for use on Earth")	("366 368 Space-based solar power", "is", "a theoretical design")
+287	("SBSP", "differs", "from the usual method of solar power collection in that the solar panels used to collect the energy would reside on a satellite in orbit often referred to as a solar power satellite")	("SBSP", "differs", "from the usual method of solar power collection in that the solar panels used to collect the energy would reside on a satellite in orbit often referred to as a solar power on Earth 's surface")	("the solar panels", "be used", "to collect the energy")	("the solar panels used to collect the energy", "would reside", "on a satellite in orbit")	("the solar panels used to collect the energy", "would reside", "on a satellite in orbit")	("a solar power satellite", "is", "SPS")	("a solar power on Earth 's surface", "is", "SPS")	("Earth", "has", "surface")
+288	("the Sun", "has", "energy")	("collection of the Sun 's energy", "is unaffected", "by the day/night cycle In space")	("collection of the Sun 's energy", "is unaffected", "by the day/night weather In space")	("collection of the Sun 's energy", "is unaffected", "by the day/night seasons In space")	("collection of the Sun 's energy", "is unaffected", "by the day/night the filtering effect of Earth 's atmospheric gases In space")	("collection of the Sun 's energy", "is unaffected", "In space")	("collection of the Sun 's energy", "is unaffected", "by the day/night cycle")	("collection of the Sun 's energy", "is unaffected", "by the day/night weather")	("collection of the Sun 's energy", "is unaffected", "by the day/night seasons")	("collection of the Sun 's energy", "is unaffected", "by the day/night the filtering effect of Earth 's atmospheric gases")	("collection of the Sun 's energy", "is", "unaffected")	("Earth", "has", "atmospheric gases")
+289	("Earth", "has", "atmosphere")	("Average solar energy per unit area outside Earth 's atmosphere", "is", "on the order of ten times")	("ten times", "available", "on Earth 's surface")	("Earth", "has", "surface")
+290	("2 30em Solar energy Butti", "is", "John 1981 A Golden Thread 2500 Years of Solar Architecture")	("2 30em Solar energy Butti", "is", "John 1981 A Golden Thread 2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr")	("2 30em Solar energy Butti", "is", "Ken Perlin")	("2500 Years of Solar Architecture", "is", "Donald E.")	("2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr", "is", "Donald E.")
+291	
+292	
+293	("Norton & Company 0-393-06407-7 Halacy", "is", "Daniel 1973 The Coming Age of Solar Energy Harper")	("Norton & Company 0-393-06407-7 Halacy", "is", "Daniel 1973 The Coming Age of Solar Energy Row 0-380-00233-7 Martin")	("Row 0-380-00233-7 Martin", "is", "Christopher L.")
+294	("Goswami", "is", "D.")
+295	("S0038-092X", "is", "03")
+296	("Perlin", "is", "John 1999 From Space to Earth The Story of Solar Electricity Harvard University Press 0-674-01013-2 Tritt T.")
+297	
+298	
+299	
+300	
+301	
+302	("Yergin The Epic Quest for Oil", "is", "Daniel The Prize")	("Yergin The Epic Quest for Money", "is", "Daniel The Prize")	("Yergin The Epic Quest for Power Simon & Schuster 1991 885 978 -0 -671 -79932 -8 Butti John 1981 A Golden Thread 2500 Years of Solar Architecture", "is", "Daniel The Prize")	("Yergin The Epic Quest for Power Simon & Schuster 1991 885 978 -0 -671 -79932 -8 Butti John 1981 A Golden Thread 2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr", "is", "Daniel The Prize")	("1991 885 978 -0 -671 -79932 -8 Butti John 1981 A Golden Thread 2500 Years of Solar Architecture", "is", "Ken Perlin")	("1991 885 978 -0 -671 -79932 -8 Butti John 1981 A Golden Thread 2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr", "is", "Ken Perlin")	("2500 Years of Solar Architecture", "is", "Donald E.")	("2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr", "is", "Donald E.")
+303	
+304	
+305	("Norton & Company 0-393-06407-7 Halacy", "is", "Daniel 1973 The Coming Age of Solar Energy Harper")	("Norton & Company 0-393-06407-7 Halacy", "is", "Daniel 1973 The Coming Age of Solar Energy Row 0-380-00233-7 Martin")	("Row 0-380-00233-7 Martin", "is", "Christopher L.")
+306	("Goswami", "is", "D.")
+307	("S0038-092X", "is", "03")
+308	("Perlin", "is", "John 1999 From Space to Earth The Story of Solar Electricity Harvard University Press 0-674-01013-2 Tritt T.")
+309	
+310	
+311	
+312	
+313	
+314	("Yergin The Epic Quest for Oil Energy conversion Category Alternative energy Category Solar power Power af Sonkrag ar قوة شمسية az Günəş elektrik stansiyası da Solkraft fr Centrale solaire hi सौर शक्त ि no Solkraft simple Solar power plant ta சூரிய மின்சக்த ி te సౌర శక్త ి vi Điện mặt trời war Kusog sirak Cost of electricity by source List of photovoltaic power stations List of renewable energy organizations List of solar energy topics List of solar thermal power stations Renewable energy commercialization Solar energy Solar lamp Sustainable energy Thin-film cell Timeline of solar energy Scientific American analysis Butti", "is", "Daniel The Prize")	("Yergin The Epic Quest for Money Energy conversion Category Alternative energy Category Solar power Power af Sonkrag ar قوة شمسية az Günəş elektrik stansiyası da Solkraft fr Centrale solaire hi सौर शक्त ि no Solkraft simple Solar power plant ta சூரிய மின்சக்த ி te సౌర శక్త ి vi Điện mặt trời war Kusog sirak Cost of electricity by source List of photovoltaic power stations List of renewable energy organizations List of solar energy topics List of solar thermal power stations Renewable energy commercialization Solar energy Solar lamp Sustainable energy Thin-film cell Timeline of solar energy Scientific American analysis Butti", "is", "Daniel The Prize")	("Yergin The Epic Quest for Power Simon & Schuster 1991 885 978 -0 -671 -79932 -8 autocollapse Category Energy conversion Category Alternative energy Category Solar power Power af Sonkrag ar قوة شمسية az Günəş elektrik stansiyası da Solkraft fr Centrale solaire hi सौर शक्त ि no Solkraft simple Solar power plant ta சூரிய மின்சக்த ி te సౌర శక్త ి vi Điện mặt trời war Kusog sirak Cost of electricity by source List of photovoltaic power stations List of renewable energy organizations List of solar energy topics List of solar thermal power stations Renewable energy commercialization Solar energy Solar lamp Sustainable energy Thin-film cell Timeline of solar energy Scientific American analysis Butti", "is", "Daniel The Prize")	("List of solar energy topics List of solar thermal power stations Renewable energy commercialization Solar energy Solar lamp Sustainable energy Thin-film cell Timeline of solar energy Scientific American analysis Butti", "is", "Ken Perlin")	("Ken Perlin", "is", "John 1981 A Golden Thread 2500 Years of Solar Architecture")	("Ken Perlin", "is", "John 1981 A Golden Thread 2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr")	("2500 Years of Solar Architecture", "is", "Donald E.")	("2500 Years of Solar Technology Van Nostrand Reinhold 0-442-24005-8 Carr", "is", "Donald E.")
+315	
+316	
+317	("Norton & Company 0-393-06407-7 Halacy", "is", "Daniel 1973 The Coming Age of Solar Energy Harper")	("Norton & Company 0-393-06407-7 Halacy", "is", "Daniel 1973 The Coming Age of Solar Energy Row 0-380-00233-7 Martin")	("Row 0-380-00233-7 Martin", "is", "Christopher L.")
+318	("Goswami", "is", "D.")
+319	("S0038-092X", "is", "03")
+320	("Perlin", "is", "John 1999 From Space to Earth The Story of Solar Electricity Harvard University Press 0-674-01013-2 Tritt T.")
+321	
+322	
+323	
+324	
+325	
+326	("Yergin The Epic Quest for Oil", "is", "Daniel The Prize")	("Yergin The Epic Quest for Money", "is", "Daniel The Prize")	("Yergin The Epic Quest for Power Simon & Schuster 1991 885 978 -0 -671 -79932 -8", "is", "Daniel The Prize")

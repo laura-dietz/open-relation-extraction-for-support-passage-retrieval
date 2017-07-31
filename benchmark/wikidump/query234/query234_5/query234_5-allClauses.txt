@@ -1,0 +1,26 @@
+0	SVA (V: "be made", S: brand@35, A!: by@41)	SVA (V: "be made", S: brand@35, A!: by@41)	SVC (C: brand@35, V: is@33, S: Republic@25, A?: of@36, A?: made@38)
+1	SVO (V: Promises@8, S: a@6, O: message@10)	SVO (V: comes@13, S: name@12, A?: from@14, O: message@10)	SVC (S: Candies@16, V: "is", C: A.@23)
+2	SVO (S: DoveBar@1, V: "has", O: Chicago@9)	SVC (S: Restaurant@11, V: "is", C: Inc.@16)	SVO (S: Chicago@9, V: "has", O: Restaurant@11)
+3	
+4	
+5	SVO (S: DoveBar@1, V: "has", O: Chicago@9)	SVC (S: Restaurant@11, V: "is", C: Inc.@16)	SVO (S: Chicago@9, V: "has", O: Restaurant@11)
+6	
+7	SVC (C: shops@7, V: were@4, S: 2009-10-23@2, A?: owned@8)	SVA (V: "be owned", S: shops@7, A!: by@9)	SVC (S: Stefanos@11, V: "is", C: Greek-American@14)
+8	SVO (V: created@5, S: Stefanos@4, A?: In@1, O: brand@8)	SVA (V: sold@17, S: brand@8, A?: only@16, A!: locally@18, A?: in@19, A?: until@21)	SVO (V: began@25, S: distribution@24, A?: when@23, A?: in@26, O: 1985@22)
+9	
+10	
+11	
+12	
+13	
+14	
+15	SVA (V: launched@7, S: brand@4, A?: first@6, A!: in@8, A?: in@11)
+16	SVA (V: acquired@7, S: company@5, A?: In@1, A!: by@8)
+17	
+18	
+19	
+20	
+21	SVO (V: Acquires@5, S: Mars@4, O: Times@11)	SVOO (V: cover@19, S: brands@18, O: range@22, IO: Times@11)	SVC (S: Amicelli@57, V: "is", C: Duetto@59)	SV (V: Promises@61, S: Amicelli@57)
+22	SVO (V: include@9, S: brands@2, O: Jewels@11)
+23	SVO (V: market@7, S: brands@5, A?: also@6, O: range@10)
+24	SVA (V: known@5, S: brand@3, A!: for@6)	SVA (V: "be written", S: messages@8, A!: on@10)
+25	SVC (S: Dove@13, V: "is", C: chocolat@15)	SVC (S: Dove@22, V: "is", C: chocolade@24)	SVC (S: Dove@28, V: "is", C: czekolada@30)	SVC (S: Dove@34, V: "is", C: choklad@36)	SVC (S: Truffle@100, V: "is", C: Discontinued@102)

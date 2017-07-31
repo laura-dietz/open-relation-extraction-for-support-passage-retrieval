@@ -1,0 +1,256 @@
+0	SVC (S: Heat@3, V: "is", C: disambiguation@5)	SVA (V: "be generated", S: 300pxthumbrightHeat@7, A!: from@9)	SVC (C: one@25, V: is@24, S: 300pxthumbrightHeat@7, A?: of@26)
+1	SVC (S: chemistry@4, V: "is", C: heat@11)	SVA (V: is@12, S: energy@13, A!: in@32)	SVA (V: "be produced", S: energy@13, O: set@23)	SVA (V: "be produced", S: energy@13, A!: from@17, O: set@23)	SVC (S: body@19, V: "is", C: region@21)
+2	
+3	SVC (S: McGraw-Hll@9, V: "is", C: Inc.@11)
+4	
+5	SVC (S: McGraw-Hll@9, V: "is", C: Inc.@11)
+6	SVO (V: has@15, S: 0-07-Y85615-X@2, A?: as@8, O: meaning@18)	SVO (V: has@15, S: heat@14, A?: as@8, O: meaning@18)
+7	SVC (S: Dictionary@3, V: "is", C: edition@6)	SVC (S: Dictionary@3, V: "is", C: Press@10)	SVC (S: Press@10, V: "is", C: Oxford@12)	SVC (S: Press@10, V: "is", C: UK@14)
+8	SVA (V: lead@3, S: This@1, A!: to@4, A?: forgotten@14)	SV (V: forgotten@14, S: diversity@8)
+9	SVC (S: Planck@1, V: "is", C: M.@3)
+10	
+11	
+12	SVC (S: Planck@2, V: "is", C: M.@4)
+13	
+14	
+15	SVC (S: Truesdell@2, V: "is", C: C.@4)
+16	
+17	SVC (S: 4@20, V: "is", C: page@22)	SVO (V: meant@28, S: they@27, O: What@26)	SVOC (C: clear@32, V: is@29, S: meant@28, A?: always@31, O: History@3)
+18	SVA (V: produced@7, S: energy@4, A!: as@10, A?: by@12)	SVA (V: transferred@9, S: energy@4, A!: as@10, A?: by@12)	SVC (S: Guggenheim@15, V: "is", C: E.A.@17)
+19	
+20	SVC (S: Guggenheim@1, V: "is", C: E.A.@3)
+21	
+22	SVC (S: radiation@4, V: "is", C: Planck@6)
+23	
+24	
+25	SVC (S: Radiation@5, V: "is", C: translation@8)	SVC (S: Masius@10, V: "is", C: M.@12)
+26	
+27	SVO (S: Blakiston@1, V: "has", O: Son@3)
+28	
+29	SVC (S: Lebon@6, V: "is", C: G.@8)
+30	SVC (S: Jou@2, V: "is", C: D.@4)
+31	SVC (S: Casas-Vásquez@2, V: "is", C: J.@4)
+32	
+33	
+34	SVC (S: Foundations@1, V: "is", C: ISBN@9)
+35	
+36	SVC (S: Partington@1, V: "is", C: J.R.@3)
+37	
+38	SVC (S: Partington@1, V: "is", C: J.R.@3)
+39	
+40	SVC (S: Guggenheim@1, V: "is", C: E.A.@3)
+41	
+42	SVC (S: Guggenheim@1, V: "is", C: E.A.@3)
+43	
+44	SVO (V: recognizes@7, S: discipline@3, O: transfer@9)
+45	SVC (C: spontaneous@16, V: is@15, S: transfer@2)
+46	SVO (V: requires@6, S: law@3, CCOMP: occur@25)	SVA (V: occur@25, S: transfer@9, A?: only@24, A!: with@26)	SVOC (V: increased@47, S: entropy@45, A?: in@43, A?: in@48, A?: in@51, CCOMP: compensates@55, O: process@42)	SVC (V: compensates@55, S: that@54, A?: for@56, ACOMP: due@66)
+47	SVC (S: Planck@1, V: "is", C: M.@3)
+48	
+49	SVC (S: Planck@1, V: "is", C: M.@3)
+50	
+51	SVA (V: removed@7, S: energy@4, A?: For@1, A!: against@8)
+52	SV (V: used@22, S: concepts@13, A?: In@1, A?: in@5)
+53	SVC (C: energy@9, V: is@7, S: term@6, A?: defined@12)	SVA (V: "be defined", S: energy@9, A!: loosely@11, A?: as@13)	SVA (V: increases@20, S: body@18, A!: with@21)	SVO (S: its@22, V: "has", O: temperature@23)
+54	SVA (V: referred@8, S: energy@5, A?: confusingly@2, A?: sometimes@7, A!: to@9, A?: requires@19)	SVOC (V: requires@19, S: definition@16, O: it@20, XCOMP: be@22)
+55	SVA (V: flows@2, S: Heat@1, A!: spontaneously@3, A?: from@5, A?: to@10)
+56	SVA (V: come@4, S: systems@3, A?: When@1, A!: into@5)	SVO (V: exchange@11, S: they@9, A?: come@4, A?: always@10, O: energy@13)	SVO (S: their@20, V: "has", O: particles@21)
+57	SVA (V: are@4, S: systems@3, A?: When@1, A!: at@5)	SVC (C: zero@17, V: is@15, S: flow@11, A?: are@4, A?: equal@34)	SVC (C: directed@20, V: is@15, S: flow@11, A?: are@4, A?: from@21, A?: to@25, A?: equal@34)	SVO (S: their@31, V: "has", O: temperatures@32)	SVC (C: equal@34, V: are@33, S: temperatures@32)	SV (V: ceases@40, S: flow@37)
+58	SVO (V: reached@4, S: they@2, A-: Then@1, O: state@6, A?: exchanging@11)	SVA (V: "be exchanging", S: they@2, O: energy@13, A!: at@14, A?: in@18)
+59	SVO (V: requires@6, S: law@3, CCOMP: conserved@15)	SV (V: conserved@15, S: energy@9)
+60	SVA (V: transferred@12, S: energy@9, A?: change@2, A!: to@13)
+61	SVC (C: mechanisms@11, V: are@9, S: heat@6, A?: For@1)	SVO (V: transferred@17, S: energy@14, A?: by@12, O: mechanisms@11)
+62	SVA (V: changed@10, S: energy@7, A?: For@1, A!: also@11, A?: by@12)
+63	SVC (S: Kondepudi@1, V: "is", C: D.@3)
+64	
+65	SVC (S: Kondepudi@1, V: "is", C: D.@3)
+66	
+67	SVA (V: "be performed", S: Work@1, A!: on@3)	SVA (V: is@6, S: Work@1, A!: by@8)	SVC (S: definition@9, V: "is", C: transfer@13)	SVC (C: due@19, V: is@18, S: system@16, A?: to@20)	SVC (S: volume@35, V: "is", C: center@39)
+68	SVA (V: defined@16, S: heat@14, A?: For@1, A!: as@17, A?: in@23)	SVA (V: "be transferred", S: energy@18, A!: to@20)
+69	SVC (C: process@6, V: is@3, S: transfer@2)	SVA (V: leads@9, S: process@6, A!: to@10)	SVA (V: "be coming", S: systems@12, ACOMP: closer@14)
+70	SVO (V: defined@14, S: temperature@11, A?: where@10, O: equilibrium@9)	SVA (V: related@21, S: transfer@18, A?: In@1, A!: to@22)
+71	SVA (V: arise@5, S: transfer@2, A?: also@4, A!: by@6)
+72	SVO (V: defined@16, S: temperature@12, A?: where@11, O: equilibrium@9)	SVC (C: feasible@28, V: be@27, S: distinction@20)
+73	SVC (C: terms@10, V: are@8, S: notions@2)	SVC (C: used@14, V: are@8, S: notions@2, A?: generally@13, XCOMP: compare@16)	SVO (S: system@18, V: "has", O: temperature@20)	SVO (S: its@24, V: "has", O: surroundings@25)
+74	SVA (V: flow@3, S: 175pxthumbHeat@1, A!: across@4)
+75	SVO (S: his@8, V: "has", O: Theory@11)	SVC (C: one@16, V: was@15, S: Maxwell@5, A?: in@7, A?: of@17)	SVA (V: "be enunciate", S: first@19, O: definition@24)
+76	SVO (V: outlined@2, S: Maxwell@1, O: stipulations@4, A?: for@5)	SVA (V: are@16, S: definitions@13, A!: follows@18)	SVA (V: regarded@28, S: heat@25, A?: In@20, A!: as@29)
+77	SVA (V: exists@5, S: it@4, A?: Like@1, A!: from@11)	SVO (S: its@21, V: "has", O: surroundings@22)
+78	SVA (V: added@9, S: energy@2, A?: When@1, A!: to@10)	SVA (V: stored@16, S: it@14, A?: added@9, A!: as@17, A?: in@27)
+79	SVC (S: Smith@1, V: "is", C: J.M.@3)
+80	SVC (S: Ness@3, V: "is", C: H.C.@5)
+81	SVC (S: Abbot@2, V: "is", C: M.M.@4)
+82	SVC (S: Smith@10, V: "is", C: J.M.@12)
+83	SVC (S: Ness@3, V: "is", C: H.C.@5)
+84	SVC (S: Abbot@2, V: "is", C: M.M.@4)
+85	SVO (V: has@16, S: form@12, O: joule@19)	SVC (S: joule@19, V: "is", C: J@21)	SVC (S: Units@28, V: "is", C: SI@30)
+86	SVC (S: Unit@12, V: "is", C: BTU@14)	SV (V: used@21, S: in@3, A?: However@1, A?: often@20)
+87	SV (V: transferred@9, S: unit@3)	SV (V: is@10, S: the@11)	SVA (V: "be defined", S: watt@12, A!: as@18)	SVC (S: watt@12, V: "is", C: W@14)
+88	SVA (V: "be transferred", S: energy@5, A!: written@11)	SVA (V: written@11, S: heat@8, A?: conventionally@10, A!: as@12)
+89	SVA (V: "be released", S: Heat@1, A!: by@3)	SVO (S: its@7, V: "has", O: surroundings@8)	SVA (V: is@9, S: Heat@1, A!: by@10)	SVC (S: quantity@14, V: "is", C: Q@16)	SVO (V: absorbs@26, S: system@25, A?: when@23, O: heat@27, A?: from@28)	SVO (S: its@29, V: "has", O: surroundings@30)	SVC (C: positive@34, V: is@33, S: it@32, A?: absorbs@26)
+90	SVA (V: denoted@13, S: rate@3, A!: by@14)	SVA (V: "be resulting", S: defined@18, A!: in@30)
+91	EXISTENTIAL (V: is@2, S: diversity@4, A?: in@13)
+92	
+93	
+94	SVA (V: "be surrounding", S: language@7, O: term@10)	SV (V: conflicting@13, S: language@7, A?: In@1)	SV (V: misleading@16, S: language@7, A?: In@1, A-: even@15)
+95	
+96	
+97	SVC (C: substance@7, V: were@5, S: it@4)	SVC (C: entity@14, V: is@12, S: that@11)	SVA (V: contained@15, S: entity@14, A!: within@16, A?: among@20)
+98	SVO (V: determined@3, S: study@2, CCOMP: uncommon@7)	SVC (C: uncommon@7, V: was@5, S: it@4, A?: for@8)	SVA (V: "be appear", S: combination@10, A!: within@16)
+99	
+100	
+101	
+102	
+103	SVA (V: "be Concerning", S: 2005@1, O: Discourse@4, A!: about@5)
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	SVA (V: "be Concerning", S: 2005@1, O: Discourse@4, A!: about@5)
+113	
+114	
+115	
+116	
+117	SVO (V: found@2, S: They@1, O: use@5)	SVA (V: "be be", S: use@5, A!: substance@15)	SVC (C: substance@15, V: were@13, S: it@12)
+118	SVOC (C: constant@13, V: is@12, S: number@6, A?: where@4, O: case@3)	SVA (V: given@33, S: change@24, A!: by@34, A?: into@41)	SVA (V: "be exerted", S: δW@48, A!: by@50)	SVC (V: is@57, S: convention@56, XCOMP: consider@59)	SVA (V: "be performed", S: work@61, A!: on@63, A?: by@66)	SVO (S: its@67, V: "has", O: surroundings@68)
+119	SVA (V: leads@2, S: This@1, A!: to@3)
+120	SVC (C: convention@4, V: is@2, S: This@1, A?: adopted@5)	SVA (V: "be adopted", S: convention@4, A!: by@6)	SVO (V: define@29, S: textbooks@26, O: work@30, A?: as@31)	SVA (V: "be done", S: work@32, A!: by@34)
+121	
+122	
+123	SVA (V: "be performed", S: work@2, A!: by@4)	SVC (S: W_text@17, V: "is", C: boundary@19)	SVC (C: equal@22, V: is@21, S: U@14, A?: to@23)	SVC (S: change@27, V: "is", C: dH@29)
+124	SV (V: gives@2, S: Substitution@1)	SVC (S: energy@11, V: "is", C: U@13)	SVC (C: function@17, V: are@15, S: enthalpy@5)
+125	SVC (S: engine@12, V: "is", C: functions@15)	SVA (V: return@16, S: processes@3, A!: to@17)	SVO (S: their@18, V: "has", O: values@20)
+126	SVC (C: differential@11, V: are@9, S: differentials@4, A-: Thus@1)	SVC (C: dH@15, V: are@14, S: which@13, A?: respectively@19)
+127	SVC (C: d@10, V: is@6, S: symbol@2)
+128	
+129	
+130	SVO (V: need@2, S: they@1, CCOMP: return@4)	SVO (S: their@6, V: "has", O: values@8)
+131	SVC (C: differentials@12, V: are@10, S: expressions@5, A-: Thus@1)	SVC (S: differentials@12, V: "is", C: Q@15)
+132	SVC (S: delta@5, V: "is", C: delta@7)	SVC (C: symbol@11, V: is@9, S: delta@5, A?: for@12)
+133	SVOC (V: takes@11, S: it@10, XCOMP: leave@13, O: time@9)
+134	
+135	
+136	
+137	
+138	
+139	
+140	SVO (V: =@3, S: Q@2, O: 0@4)	SVO (V: =@7, S: dS@6, O: 0@8)	SVO (V: forms@13, S: W@12, CCOMP: =@3)	SVC (S: differential@16, V: "is", C: dV@18)	SVC (S: =@19, V: "is", C: p@29)	SVC (S: W_text@23, V: "is", C: rev@25)	SVA (V: applies@36, S: relation@35, A?: wherein@32, A!: For@38)	SVA (V: modeled@71, S: U@57, A?: applies@36, A!: by@72, A?: respectively@84)	SVC (C: C_v@80, V: are@79, S: values@76)
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	SVA (V: based@4, S: C_p@1, A!: on@5)	SVA (V: based@12, S: C_v@9, A!: on@13)	SVA (V: disappears@17, S: C_p@1, A!: performed@23)	SV (V: performed@23, S: work@21)
+153	SVA (V: "be entitled", S: lecture@4, A!: On@6)	SVC (S: Force@10, V: "is", C: Joule@17)	SVO (V: characterized@18, S: Force@10, A?: In@1, O: terms@20, A?: as@26, A?: namely@36)
+154	
+155	
+156	SVOC (V: inclined@18, S: I@16, XCOMP: believe@20, O: 274@15)	SVO (V: found@28, S: both@22, XCOMP: hold@30)	SVO (V: found@59, S: heat@56, A?: in@35, A?: in@40, XCOMP: consist@61, A?: produced@93)	SVO (V: induced@76, S: it@74, A?: in@72, O: bodies@71)	SVA (V: produced@93, S: phenomena@91, A?: in@79, A!: by@94, A?: as@103)
+157	
+158	
+159	SVOC (V: inclined@18, S: I@16, XCOMP: believe@20, O: 274@15)	SVO (V: found@28, S: both@22, XCOMP: hold@30)	SVO (V: found@59, S: heat@56, A?: in@35, A?: in@40, XCOMP: consist@61, A?: produced@93)	SVO (V: induced@76, S: it@74, A?: in@72, O: bodies@71)	SVA (V: produced@93, S: phenomena@91, A?: in@79, A!: by@94, A?: as@103)
+160	SVC (S: Lecture@2, V: "is", C: Force@7)
+161	
+162	
+163	SVA (V: "be affecting", S: energy@13, O: energy@17)	SVO (V: called@21, S: he@20, O: energy@17)
+164	SVA (V: released@6, S: heat@2, A!: during@17)	SVA (V: absorbed@8, S: heat@2, A!: by@9, A?: during@17)	SVA (V: released@6, S: heat@5, A!: during@17)	SVA (V: absorbed@8, S: heat@5, A!: by@9, A?: during@17)	SVA (V: occurs@23, S: change@19, A!: without@24)
+165	SVC (C: transition@8, V: be@5, S: process@3, A?: as@11)
+166	SVC (S: Perrot@1, V: "is", C: A@4)	SVC (S: Perrot@14, V: "is", C: A@17)	SVC (S: Clark@27, V: "is", C: John@29)	SVC (S: Clark@27, V: "is", C: O.E.@31)
+167	SVC (S: Clark@12, V: "is", C: O.E.@16)	SVC (S: Clark@12, V: "is", C: John@14)
+168	
+169	SV (V: is@10, S: heat@12)	SVA (V: "be exchanged", S: heat@12, A!: by@14)	SVA (V: has@19, S: system@17, A!: as@20)	SVO (S: its@21, V: "has", O: effect@23)
+170	
+171	
+172	SVC (S: Ritter@1, V: "is", C: E.@4)
+173	
+174	
+175	SVC (S: Ritter@1, V: "is", C: E.@4)
+176	SVO (V: increases@15, S: Introduction@6, A?: therefore@13, A?: only@14, O: energy@18)
+177	SVO (S: Black@3, V: "has", O: distinction@5)	SVA (V: examined@12, S: Consequences@1, A!: in@13)
+178	SVA (V: "be called", S: heat@2, A!: also@4)	SVA (V: defined@11, S: heat@2, A!: as@12)	SVO (V: has@18, S: amount@14, XCOMP: transferred@21)	SVC (S: mass@28, V: "is", C: kilogram@30)	SVC (S: substance@35, V: "is", C: mole@37)
+179	SVC (C: property@6, V: is@3, S: heat@2)	SVO (V: means@9, S: property@6, CCOMP: depends@12)	SVA (V: depends@12, S: it@11, A!: on@13, A?: under@16, A?: specified@22)	SVO (S: its@19, V: "has", O: state@20)	SVO (S: its@24, V: "has", O: properties@25)
+180	
+181	SVC (C: constant@6, V: are@4, S: helium@2, A?: nearly@5, A?: with@7)
+182	
+183	
+184	SVOO (V: defined@9, S: Clausius@8, O: theorem@13, A?: in@21, IO: Entropy@1)	SVC (S: heat@26, V: "is", C: thermodynamics@28)	SVO (V: replace@46, S: transformations@34, A?: without@37, A?: mutually@45, O: another@48)	SVC (S: another@48, V: "is", C: generations@56)	SVO (V: has@70, S: transformations@34, O: equivalence-value@72)	SVC (S: Annalen@79, V: "is", C: Dec.@81)	SVO (S: Poggendoff@77, V: "has", O: Annalen@79)
+185	SVC (S: 1854@1, V: "is", C: vol@3)
+186	
+187	
+188	SVC (S: Mathematiques@8, V: "is", C: vol@10)
+189	
+190	
+191	
+192	
+193	SVC (S: xii@1, V: "is", C: p@3)
+194	SVC (S: Clausius@2, V: "is", C: R.@4)
+195	
+196	SVO (S: its@10, V: "has", O: Applications@11)
+197	SVC (S: Voorst@5, V: "is", C: Row@9)
+198	
+199	SVC (V: came@5, S: he@4, A?: In@1, XCOMP: define@7)	SVA (V: "be symbolized", S: entropy@11, A!: by@13)	SVC (S: Q@36, V: "is", C: differential@40)	SVA (V: defined@43, S: quantities@32, A?: for@19, A?: by@29, A!: as@44)	SVC (S: TdS@47, V: "is", C: differential@51)	SVO (V: facilitates@62, S: S@61, A?: In@54, O: quantification@64, A?: through@70)
+200	SVC (C: valid@9, V: is@7, S: equality@6, A?: precise@3, A?: only@8, A?: applied@17)	SVA (V: applied@17, S: Q@15, A!: reversibly@18)
+201	SV (V: involved@9, S: processes@7, A?: in@3)
+202	
+203	SVO (V: has@13, S: sort@2, CCOMP: law@18)	SVC (C: law@18, V: is@15, S: This@14, A?: of@19)
+204	SVOC (C: radiationradiation@15, V: be@12, S: environment@10, O: transferto@7)
+205	SVA (V: "be considered", S: discipline@2, A!: typically@7, O: aspect@10)	SVC (S: aspect@10, V: "is", C: deals@18)	SVO (V: generated@31, S: energy@26, A?: by@23, O: methods@22)
+206	SVO (V: means@7, S: definition@3, A?: implicitly@6, O: transfer@9)	SVO (V: encompasses@17, S: transfer@16, A?: means@7, O: usage@20, A?: in@21)
+207	SVO (V: includes@3, S: transfer@2, O: mechanisms@5)
+208	SVO (V: used@10, S: transfer@8, A?: In@1, XCOMP: describe@12)	SVO (V: regarded@24, S: transfer@8, A?: In@1, XCOMP: describe@12, A?: often@23, A?: as@25)
+209	SVO (V: describe@6, S: laws@4, O: behavior@8)	SVO (V: exhibit@18, S: systems@16, A?: describe@6, A?: often@17, O: combination@21)	SVA (V: described@25, S: combination@21, A?: often@24, A!: by@26)
+210	SVA (V: converted@11, S: heat@8, A?: In@1, A!: to@12, A?: by@16)
+211	
+212	
+213	SVOC (V: achieve@3, S: engines@2, O: efficiency@5, A?: largest@15, XCOMP: resulting@17)	SVC (C: largest@15, V: is@14, S: difference@8, A?: when@6)
+214	SVO (V: operate@7, S: pump@2, A?: at@8, XCOMP: transferring@14)
+215	
+216	
+217	SVC (C: small@7, V: be@6, S: difference@4, A?: Now@1, XCOMP: keep@10)	SV (V: small@15, S: work@14)
+218	SVO (V: es@57, S: Θερμότητα@56, O: eo@60)	SV (V: is@97, S: Panas@96)	SVC (S: Têhn@114, V: "is", C: fîzîk@116)	SVOC (C: something@212, V: is@211, S: It@210, O: 熱量@209)	SVA (V: transferred@216, S: something@212, A!: from@217, A?: to@220)
+219	SVC (C: quantity@5, V: is@2, S: It@1)	SVC (C: treated@9, V: is@2, S: It@1, A-: thus@8, A?: mathematically@10)
+220	SVA (V: treated@5, S: It@1, A!: as@6, A?: transformed@14, A?: e.g@23)	SVA (V: transformed@14, S: it@11, A!: into@15)	SVC (C: substance@21, V: is@18, S: something@16)
+221	
+222	
+223	SVC (C: one@3, V: is@2, S: Heat@1, A?: of@4)
+224	SVA (V: transferred@3, S: energy@2, A!: from@4, A?: to@8)	SVO (V: called@13, S: transferred@3, XCOMP: heat@14)
+225	SVC (S: Department@2, V: "is", C: University@10)	SVC (S: Hyperphysics@12, V: "is", C: online@14)	SVA (V: "be caused", S: another@25, A!: by@27)	SVO (V: called@36, S: flow@18, O: heat@37)
+226	SVC (S: Schroeder@1, V: "is", C: V.@4)
+227	SVO (V: defined@15, S: Heat@13, A?: as@16, O: physics@5)	SVA (V: "be caused", S: flow@19, A!: by@29)
+228	SVC (S: Schroeder@2, V: "is", C: V.@5)
+229	SVO (V: defined@15, S: Heat@13, A?: as@16, O: physics@5)	SVA (V: "be caused", S: flow@19, A!: by@29)
+230	
+231	
+232	SVC (S: Q_text@8, V: "is", C: Q_text@32)	SVC (S: W_text@62, V: "is", C: boundary@64)	SVC (S: W_text@68, V: "is", C: other@70)	SVC (S: W_text@86, V: "is", C: other@88)	SVC (S: W_text@86, V: "is", C: dU@91)	SVC (S: Q_text@96, V: "is", C: rev@98)
+233	SV (V: =@2, S: dU@1)	SVO (S: pdV@4, V: =@5, O: =@2)	SVC (S: W_text@8, V: "is", C: rev@10)	SVC (S: W_text@8, V: "is", C: Q@13)	SVC (S: C_v@24, V: "is", C: U@29)
+234	SVO (V: =@2, S: Q@1, O: C_p@12)	SVC (S: C_p@12, V: "is", C: dT@14)
+235	SVC (S: frac@6, V: "is", C: Q@8)	SVC (S: frac@16, V: "is", C: Q@18)	SVC (S: dS@27, V: "is", C: rm@36)
+236	
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	SVC (S: Properties@2, V: "is", C: Green@9)
+247	
+248	SVA (V: translated@3, S: Planck@2, A!: by@4)	SVC (S: Ogg@5, V: "is", C: A.@7)
+249	
+250	
+251	
+252	SVA (V: translated@3, S: Planck@2, A!: by@4)	SVC (S: Ogg@5, V: "is", C: A.@7)
+253	
+254	SVA (V: "be generated", S: Heat@7, A!: by@15)
+255	

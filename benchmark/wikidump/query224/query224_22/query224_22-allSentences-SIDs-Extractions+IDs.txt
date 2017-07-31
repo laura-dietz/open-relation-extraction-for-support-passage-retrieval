@@ -1,0 +1,899 @@
+other uses Heat ( disambiguation ) 300pxthumbrightHeat generated from the nuclear fusion in theSun_ and transported to Earth as electromagnetic radiation _ is one of the driving forces oflifeon Earth . 	0	query224_Heat\S\0
+other uses Heat ( disambiguation ) 300pxthumbrightHeat generated from the nuclear fusion in theSun_ and transported to Earth as electromagnetic radiation _ is one of the driving forces oflifeon Earth . 	0	query224_Heat\S\0
+"Heat 300pxthumbrightHeat"	"be generated"	"from the nuclear fusion in theSun _"	0	query224_Heat\P\0-0
+"Heat transported to Earth as electromagnetic radiation _"	"be generated"	"from the nuclear fusion in theSun _"	0	query224_Heat\P\0-1
+"other uses Heat 300pxthumbrightHeat generated from the nuclear fusion in theSun _"	"is"	"one of the driving forces oflifeon Earth 0"	0	query224_Heat\P\0-2
+"other uses Heat generated from the nuclear fusion in theSun _ transported to Earth as electromagnetic radiation _"	"is"	"one of the driving forces oflifeon Earth 0"	0	query224_Heat\P\0-3
+"other uses Heat 300pxthumbrightHeat generated from the nuclear fusion in theSun _"	"is"	"one 0"	0	query224_Heat\P\0-4
+"other uses Heat generated from the nuclear fusion in theSun _ transported to Earth as electromagnetic radiation _"	"is"	"one 0"	0	query224_Heat\P\0-5
+In physics , chemistry , engineering , and thermodynamics , heat is energy produced or transferred from one body , region , set of components , or thermodynamic system to another in any way other than as work . 	1	query224_Heat\S\1
+In physics , chemistry , engineering , and thermodynamics , heat is energy produced or transferred from one body , region , set of components , or thermodynamic system to another in any way other than as work . 	1	query224_Heat\S\1
+"energy produced set of components to another"	"is"	"in any way other than as work"	1	query224_Heat\P\1-0
+"energy transferred from one body set of components to another"	"is"	"in any way other than as work"	1	query224_Heat\P\1-1
+"energy transferred from one body set of thermodynamic system to another"	"is"	"in any way other than as work"	1	query224_Heat\P\1-2
+"energy produced set of thermodynamic system to another"	"is"	"in any way other than as work"	1	query224_Heat\P\1-3
+"energy transferred from one body"	"be produced"	"set of components to another"	1	query224_Heat\P\1-4
+"energy transferred from one body"	"be produced"	"set of thermodynamic system to another"	1	query224_Heat\P\1-5
+"energy transferred"	"be produced"	"from one body set of components to another"	1	query224_Heat\P\1-6
+"energy transferred"	"be produced"	"from one body set of thermodynamic system to another"	1	query224_Heat\P\1-7
+"one body"	"is"	"region"	1	query224_Heat\P\1-8
+F. 	2	query224_Heat\S\2
+Reif Fundamentals of Statistical and Thermal Physics 2000 McGraw-Hll , Inc. 	3	query224_Heat\S\3
+"Statistical Physics 2000 McGraw-Hll"	"is"	"Inc."	3	query224_Heat\P\3-0
+"Thermal Physics 2000 McGraw-Hll"	"is"	"Inc."	3	query224_Heat\P\3-1
+Singapore 0-07-Y85615-X 67 F. 	4	query224_Heat\S\4
+Reif Fundamentals of Statistical and Thermal Physics 2000 McGraw-Hll , Inc. 	5	query224_Heat\S\5
+"Statistical Physics 2000 McGraw-Hll"	"is"	"Inc."	5	query224_Heat\P\5-0
+"Thermal Physics 2000 McGraw-Hll"	"is"	"Inc."	5	query224_Heat\P\5-1
+Singapore 0-07-Y85615-X 67 In ordinary language , as distinct from technical language , heat has a broader meaning . 	6	query224_Heat\S\6
+"Singapore 0-07-Y85615-X 67 In ordinary language"	"heat has"	"a broader meaning as distinct from technical language"	6	query224_Heat\P\6-0
+"Singapore 0-07-Y85615-X 67 In ordinary language"	"heat has"	"a broader meaning"	6	query224_Heat\P\6-1
+"Singapore 0-07-Y85615-X 67 In ordinary language"	"heat has"	"a broader meaning"	6	query224_Heat\P\6-2
+"Singapore 0-07-Y85615-X 67 In ordinary language"	"heat has"	"a broader meaning"	6	query224_Heat\P\6-3
+Oxford English Dictionary , second edition , Oxford University Press , Oxford , UK. 	7	query224_Heat\S\7
+"Oxford English Dictionary"	"is"	"Oxford"	7	query224_Heat\P\7-0
+"Oxford English second edition"	"is"	"Oxford"	7	query224_Heat\P\7-1
+"Oxford English Oxford University Press"	"is"	"Oxford"	7	query224_Heat\P\7-2
+"Oxford English Oxford University Press"	"is"	"Oxford"	7	query224_Heat\P\7-3
+This can lead to confusion if the diversity of usage of words is forgotten . 	8	query224_Heat\S\8
+This can lead to confusion if the diversity of usage of words is forgotten . 	8	query224_Heat\S\8
+This can lead to confusion if the diversity of usage of words is forgotten . 	8	query224_Heat\S\8
+Planck , M. 	9	query224_Heat\S\9
+"Planck"	"is"	"M."	9	query224_Heat\P\9-0
+( 1897/1903 ) 1 , " This direct sensation , however , furnishes no quantitative scientific measure .. 	10	query224_Heat\S\10
+. 	11	query224_Heat\S\11
+" Planck , M. 	12	query224_Heat\S\12
+"Planck"	"is"	"M."	12	query224_Heat\P\12-0
+( 1897/1903 ) 1 , " This direct sensation , however , furnishes no quantitative scientific measure .. 	13	query224_Heat\S\13
+. 	14	query224_Heat\S\14
+" Truesdell , C. 	15	query224_Heat\S\15
+"Truesdell"	"is"	"C."	15	query224_Heat\P\15-0
+( 1980 ) . 	16	query224_Heat\S\16
+( 1980 ) . 	16	query224_Heat\S\16
+The Tragicomical History of Thermodynamics 1822-1854 , Springer , New York , ISBN 0–387–90403–4 , page 15 : " What they meant is not always clear . 	17	query224_Heat\S\17
+The Tragicomical History of Thermodynamics 1822-1854 , Springer , New York , ISBN 0–387–90403–4 , page 15 : " What they meant is not always clear . 	17	query224_Heat\S\17
+The Tragicomical History of Thermodynamics 1822-1854 , Springer , New York , ISBN 0–387–90403–4 , page 15 : " What they meant is not always clear . 	17	query224_Heat\S\17
+"What they meant"	"is not 17 The Tragicomical History of Thermodynamics 1822-1854 clear"	"always"	17	query224_Heat\P\17-0
+"What they meant"	"is not 17 The Tragicomical History of 1822-1854 Springer clear"	"always"	17	query224_Heat\P\17-1
+"What they meant"	"is not 17 The Tragicomical History of 1822-1854 New York clear"	"always"	17	query224_Heat\P\17-2
+"What they meant"	"is not 17 The Tragicomical History of 1822-1854 ISBN 0 387 90403 4 clear"	"always"	17	query224_Heat\P\17-3
+"What they meant"	"is not"	"17 The Tragicomical History of Thermodynamics 1822-1854 clear"	17	query224_Heat\P\17-4
+"What they meant"	"is not"	"17 The Tragicomical History of 1822-1854 Springer clear"	17	query224_Heat\P\17-5
+"What they meant"	"is not"	"17 The Tragicomical History of 1822-1854 New York clear"	17	query224_Heat\P\17-6
+"What they meant"	"is not"	"17 The Tragicomical History of 1822-1854 ISBN 0 387 90403 4 clear"	17	query224_Heat\P\17-7
+" Thermodynamically , energy can be produced or transferred as heat by thermal conduction Guggenheim , E.A. 	18	query224_Heat\S\18
+" Thermodynamically , energy can be produced or transferred as heat by thermal conduction Guggenheim , E.A. 	18	query224_Heat\S\18
+" Thermodynamically , energy can be produced or transferred as heat by thermal conduction Guggenheim , E.A. 	18	query224_Heat\S\18
+" Thermodynamically , energy can be produced or transferred as heat by thermal conduction Guggenheim , E.A. 	18	query224_Heat\S\18
+" Thermodynamically , energy can be produced or transferred as heat by thermal conduction Guggenheim , E.A. 	18	query224_Heat\S\18
+" Thermodynamically , energy can be produced or transferred as heat by thermal conduction Guggenheim , E.A. 	18	query224_Heat\S\18
+"thermal conduction Guggenheim"	"is"	"E.A."	18	query224_Heat\P\18-0
+( 1949/1967 ) 8. 	19	query224_Heat\S\19
+( 1949/1967 ) 8. 	19	query224_Heat\S\19
+Guggenheim , E.A. 	20	query224_Heat\S\20
+"Guggenheim"	"is"	"E.A."	20	query224_Heat\P\20-0
+( 1949/1967 ) 8. 	21	query224_Heat\S\21
+( 1949/1967 ) 8. 	21	query224_Heat\S\21
+, by thermal radiation , Planck . 	22	query224_Heat\S\22
+"thermal radiation"	"is"	"Planck"	22	query224_Heat\P\22-0
+M. 	23	query224_Heat\S\23
+( 1914 ) . 	24	query224_Heat\S\24
+( 1914 ) . 	24	query224_Heat\S\24
+The Theory of Heat Radiation , a translation by Masius , M. 	25	query224_Heat\S\25
+"Heat Radiation"	"is"	"a translation by Masius"	25	query224_Heat\P\25-0
+"Heat Radiation"	"is"	"a translation by Masius"	25	query224_Heat\P\25-1
+of the second German edition , P. 	26	query224_Heat\S\26
+"of the second German edition"	"is"	"P."	26	query224_Heat\P\26-0
+Blakiston 's Son &amp; Co. 	27	query224_Heat\S\27
+Blakiston 's Son &amp; Co. 	27	query224_Heat\S\27
+, Philadelphia . 	28	query224_Heat\S\28
+, Philadelphia . 	28	query224_Heat\S\28
+by friction and viscosity , Lebon , G. 	29	query224_Heat\S\29
+by friction and viscosity , Lebon , G. 	29	query224_Heat\S\29
+, Jou , D. 	30	query224_Heat\S\30
+, Jou , D. 	30	query224_Heat\S\30
+, Jou , D. 	30	query224_Heat\S\30
+, Casas-Vásquez , J. 	31	query224_Heat\S\31
+, Casas-Vásquez , J. 	31	query224_Heat\S\31
+( 2008 ) . 	32	query224_Heat\S\32
+( 2008 ) . 	32	query224_Heat\S\32
+Understanding Non-equilibrium Thermodynamics . 	33	query224_Heat\S\33
+Understanding Non-equilibrium Thermodynamics . 	33	query224_Heat\S\33
+Foundations , Applications , Frontiers , Springer , ISBN 978–3–540–74252–4 , pages 120 and 62 . 	34	query224_Heat\S\34
+"Foundations"	"is"	"Frontiers"	34	query224_Heat\P\34-0
+"Foundations"	"is"	"Springer"	34	query224_Heat\P\34-1
+"Applications"	"is"	"Frontiers"	34	query224_Heat\P\34-2
+"Applications"	"is"	"Springer"	34	query224_Heat\P\34-3
+"Applications"	"is"	"Springer"	34	query224_Heat\P\34-4
+"Applications"	"is"	"Springer"	34	query224_Heat\P\34-5
+"Applications"	"is"	"Springer"	34	query224_Heat\P\34-6
+"Applications"	"is"	"Springer"	34	query224_Heat\P\34-7
+"Applications"	"is"	"Springer"	34	query224_Heat\P\34-8
+"Applications"	"is"	"Springer"	34	query224_Heat\P\34-9
+and by chemical dissipation . 	35	query224_Heat\S\35
+Partington , J.R. 	36	query224_Heat\S\36
+"Partington"	"is"	"J.R."	36	query224_Heat\P\36-0
+( 1949 ) 151–155 . 	37	query224_Heat\S\37
+Partington , J.R. 	38	query224_Heat\S\38
+"Partington"	"is"	"J.R."	38	query224_Heat\P\38-0
+( 1949 ) 151–155 . 	39	query224_Heat\S\39
+Guggenheim , E.A. 	40	query224_Heat\S\40
+"Guggenheim"	"is"	"E.A."	40	query224_Heat\P\40-0
+( 1949/1967 ) 241–242 . 	41	query224_Heat\S\41
+Guggenheim , E.A. 	42	query224_Heat\S\42
+"Guggenheim"	"is"	"E.A."	42	query224_Heat\P\42-0
+( 1949/1967 ) 241–242 . 	43	query224_Heat\S\43
+The engineering discipline of heat transfer recognizes heat transfer by conduction , by convection , by mass transfer , and by radiation . 	44	query224_Heat\S\44
+"The engineering discipline of heat transfer"	"recognizes"	"heat transfer by conduction by convection by mass transfer"	44	query224_Heat\P\44-0
+"The engineering discipline of heat transfer"	"recognizes"	"heat by conduction by convection by mass transfer by radiation"	44	query224_Heat\P\44-1
+Heat transfer by conduction and by radiation from a hotter to a colder body is spontaneous . 	45	query224_Heat\S\45
+"Heat transfer by conduction"	"is"	"spontaneous"	45	query224_Heat\P\45-0
+"Heat by conduction by radiation from a hotter to a colder body"	"is"	"spontaneous"	45	query224_Heat\P\45-1
+The second law of thermodynamics requires that the transfer of energy from one body to another with an equal or higher temperature can only occur with the aid of a heat pump by mechanical work , or by some other similar process in which entropy is increased in the universe in a manner that compensates for the decrease of entropy in the cooled body , due to the removal of the heat from it . 	46	query224_Heat\S\46
+"The second law of thermodynamics"	"requires"	"that the transfer of energy from one body to another with an equal temperature can only occur with the aid of a heat pump by mechanical work"	46	query224_Heat\P\46-0
+"The second law of thermodynamics"	"requires"	"that the transfer of energy from one body to another with an higher temperature can only occur with the aid of a heat pump by mechanical work or by some other similar process"	46	query224_Heat\P\46-1
+"The second law of thermodynamics"	"requires"	"that the transfer of energy from one body to another with an equal temperature can only occur with the of a heat pump by mechanical work by some other similar process"	46	query224_Heat\P\46-2
+"the transfer of energy from one body to another with an equal temperature"	"can occur"	"with the aid of a heat pump by mechanical work only"	46	query224_Heat\P\46-3
+"the transfer of energy from one body to another with an equal temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process only"	46	query224_Heat\P\46-4
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the aid of a heat pump by mechanical work only"	46	query224_Heat\P\46-5
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process only"	46	query224_Heat\P\46-6
+"the transfer of energy from one body to another with an equal temperature"	"can occur"	"with the aid of a heat pump by mechanical work"	46	query224_Heat\P\46-7
+"the transfer of energy from one body to another with an equal temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process"	46	query224_Heat\P\46-8
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the aid of a heat pump by mechanical work"	46	query224_Heat\P\46-9
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process"	46	query224_Heat\P\46-10
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process"	46	query224_Heat\P\46-11
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process"	46	query224_Heat\P\46-12
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process"	46	query224_Heat\P\46-13
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process"	46	query224_Heat\P\46-14
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process"	46	query224_Heat\P\46-15
+"the transfer of energy from one body to another with an higher temperature"	"can occur"	"with the of a heat pump by mechanical work by some other similar process"	46	query224_Heat\P\46-16
+Planck , M. 	47	query224_Heat\S\47
+"Planck"	"is"	"M."	47	query224_Heat\P\47-0
+( 1922/1927 ) 89 . 	48	query224_Heat\S\48
+Planck , M. 	49	query224_Heat\S\49
+"Planck"	"is"	"M."	49	query224_Heat\P\49-0
+( 1922/1927 ) 89 . 	50	query224_Heat\S\50
+For example , energy may be removed against a temperature gradient by spontaneous evaporation of a liquid . 	51	query224_Heat\S\51
+For example , energy may be removed against a temperature gradient by spontaneous evaporation of a liquid . 	51	query224_Heat\S\51
+In physics , especially in calorimetry , and in meteorology , the concepts of latent heat and of sensible heat are used . 	52	query224_Heat\S\52
+A related and potentially confusing term is thermal energy , loosely defined as the energy of a body that increases with its temperature . 	53	query224_Heat\S\53
+"A related term"	"is thermal energy"	"loosely defined as the energy of a body"	53	query224_Heat\P\53-0
+"A potentially confusing term"	"is thermal energy"	"loosely defined as the energy of a body"	53	query224_Heat\P\53-1
+"A related term"	"is"	"thermal energy"	53	query224_Heat\P\53-2
+"A potentially confusing term"	"is"	"thermal energy"	53	query224_Heat\P\53-3
+"thermal energy"	"be defined"	"loosely as the energy of a body"	53	query224_Heat\P\53-4
+"thermal energy"	"be defined"	"loosely"	53	query224_Heat\P\53-5
+"a body"	"increases"	"with its temperature"	53	query224_Heat\P\53-6
+"a body"	"increases"	"with its temperature"	53	query224_Heat\P\53-7
+Potentially confusingly , thermal energy is sometimes referred to as heat , although the thermodynamic definition of heat requires it to be in transfer between two systems or in production in a dissipative process such as friction , viscosity , or chemical reaction . 	54	query224_Heat\S\54
+"although the thermodynamic definition of heat requires it to be in transfer between two systems"	"be referred"	"Potentially confusingly sometimes"	54	query224_Heat\P\54-0
+"although the thermodynamic definition of heat requires it to be transfer between two systems in production in a dissipative process such as friction"	"be referred"	"Potentially confusingly sometimes"	54	query224_Heat\P\54-1
+"although the thermodynamic definition of heat requires it to be transfer between two systems in production in a dissipative process such as viscosity"	"be referred"	"Potentially confusingly sometimes"	54	query224_Heat\P\54-2
+"although the thermodynamic definition of heat requires it to be transfer between two systems in production in a dissipative process such as chemical reaction"	"be referred"	"Potentially confusingly sometimes"	54	query224_Heat\P\54-3
+"although the thermodynamic definition of heat requires it to be in transfer between two systems"	"be referred"	"Potentially confusingly to as heat"	54	query224_Heat\P\54-4
+"although the thermodynamic definition of heat requires it to be transfer between two systems in production in a dissipative process such as friction"	"be referred"	"Potentially confusingly to as heat"	54	query224_Heat\P\54-5
+"although the thermodynamic definition of heat requires it to be transfer between two systems in production in a dissipative process such as viscosity"	"be referred"	"Potentially confusingly to as heat"	54	query224_Heat\P\54-6
+"although the thermodynamic definition of heat requires it to be transfer between two systems in production in a dissipative process such as chemical reaction"	"be referred"	"Potentially confusingly to as heat"	54	query224_Heat\P\54-7
+"although the thermodynamic definition of heat requires it to be in transfer between two systems"	"be referred"	"Potentially confusingly"	54	query224_Heat\P\54-8
+"although the thermodynamic definition of heat requires it to be transfer between two systems in production in a dissipative process such as friction"	"be referred"	"Potentially confusingly"	54	query224_Heat\P\54-9
+"although the thermodynamic definition of heat requires it to be transfer between two systems in production in a dissipative process such as viscosity"	"be referred"	"Potentially confusingly"	54	query224_Heat\P\54-10
+"although the thermodynamic definition of heat requires it to be transfer between two systems in production in a dissipative process such as chemical reaction"	"be referred"	"Potentially confusingly"	54	query224_Heat\P\54-11
+"thermal energy"	"is referred"	"to as heat Potentially confusingly"	54	query224_Heat\P\54-12
+"thermal energy"	"is referred"	"to as heat sometimes"	54	query224_Heat\P\54-13
+"thermal energy"	"is referred"	"to as heat"	54	query224_Heat\P\54-14
+"the thermodynamic definition of heat"	"requires"	"it to be in transfer between two systems"	54	query224_Heat\P\54-15
+"the thermodynamic definition of heat"	"requires"	"it to be transfer between two systems in production in a dissipative process such as friction"	54	query224_Heat\P\54-16
+"the thermodynamic definition of heat"	"requires"	"it to be transfer between two systems in production in a dissipative process such as viscosity"	54	query224_Heat\P\54-17
+"the thermodynamic definition of heat"	"requires"	"it to be transfer between two systems in production in a dissipative process such as chemical reaction"	54	query224_Heat\P\54-18
+Heat flows spontaneously only from systems of higher temperature to systems of lower temperature . 	55	query224_Heat\S\55
+"Heat"	"flows"	"spontaneously only from systems of higher temperature"	55	query224_Heat\P\55-0
+"Heat"	"flows"	"spontaneously to systems of lower temperature"	55	query224_Heat\P\55-1
+"Heat"	"flows"	"spontaneously"	55	query224_Heat\P\55-2
+When two systems come into thermal contact , they always exchange thermal energy due to the microscopic interactions of their particles . 	56	query224_Heat\S\56
+"two systems"	"come"	"56 When"	56	query224_Heat\P\56-0
+"two systems"	"come"	"into thermal contact 56"	56	query224_Heat\P\56-1
+"two systems"	"come"	"56"	56	query224_Heat\P\56-2
+"two systems"	"come"	"56"	56	query224_Heat\P\56-3
+"two systems"	"come"	"56"	56	query224_Heat\P\56-4
+"two systems"	"come"	"56"	56	query224_Heat\P\56-5
+When the systems are at different temperatures , the net flow of thermal energy is not zero and is directed from the hotter region to the cooler region , until their temperatures are equal and the flow of heat ceases . 	57	query224_Heat\S\57
+When the systems are at different temperatures , the net flow of thermal energy is not zero and is directed from the hotter region to the cooler region , until their temperatures are equal and the flow of heat ceases . 	57	query224_Heat\S\57
+"the systems"	"are"	"57 When"	57	query224_Heat\P\57-0
+"the systems"	"are"	"at different temperatures 57"	57	query224_Heat\P\57-1
+"the systems"	"are"	"57"	57	query224_Heat\P\57-2
+"the systems"	"are"	"57"	57	query224_Heat\P\57-3
+"the systems"	"are"	"57"	57	query224_Heat\P\57-4
+"the systems"	"are"	"57"	57	query224_Heat\P\57-5
+"the systems"	"are"	"57"	57	query224_Heat\P\57-6
+"the systems"	"are"	"57"	57	query224_Heat\P\57-7
+"the systems"	"are"	"57"	57	query224_Heat\P\57-8
+"the systems"	"are"	"57"	57	query224_Heat\P\57-9
+"the systems"	"are"	"57"	57	query224_Heat\P\57-10
+"the systems"	"are"	"57"	57	query224_Heat\P\57-11
+"their temperatures"	"are"	"equal"	57	query224_Heat\P\57-12
+Then they have reached a state of thermal equilibrium , exchanging thermal energy at an equal rate in both directions . 	58	query224_Heat\S\58
+Then they have reached a state of thermal equilibrium , exchanging thermal energy at an equal rate in both directions . 	58	query224_Heat\S\58
+Then they have reached a state of thermal equilibrium , exchanging thermal energy at an equal rate in both directions . 	58	query224_Heat\S\58
+The first law of thermodynamics requires that the energy of an isolated system is conserved . 	59	query224_Heat\S\59
+"The first law of thermodynamics"	"requires"	"that the energy of an isolated system is conserved"	59	query224_Heat\P\59-0
+To change the energy of a system , energy must be transferred to or from the system . 	60	query224_Heat\S\60
+To change the energy of a system , energy must be transferred to or from the system . 	60	query224_Heat\S\60
+To change the energy of a system , energy must be transferred to or from the system . 	60	query224_Heat\S\60
+To change the energy of a system , energy must be transferred to or from the system . 	60	query224_Heat\S\60
+To change the energy of a system , energy must be transferred to or from the system . 	60	query224_Heat\S\60
+To change the energy of a system , energy must be transferred to or from the system . 	60	query224_Heat\S\60
+For a closed system , heat and work are the mechanisms by which energy can be transferred . 	61	query224_Heat\S\61
+"For a closed system"	"is"	"heat"	61	query224_Heat\P\61-0
+"For a closed system"	"is"	"work"	61	query224_Heat\P\61-1
+"For a closed system"	"are"	"the mechanisms"	61	query224_Heat\P\61-2
+"For a closed system"	"are"	"the mechanisms"	61	query224_Heat\P\61-3
+"For a closed system"	"are"	"the mechanisms"	61	query224_Heat\P\61-4
+For an open system , total energy can be changed also by transfer of matter . 	62	query224_Heat\S\62
+"total energy"	"can be changed"	"also by transfer of matter"	62	query224_Heat\P\62-0
+"total energy"	"can be changed"	"also"	62	query224_Heat\P\62-1
+Kondepudi , D. 	63	query224_Heat\S\63
+"Kondepudi"	"is"	"D."	63	query224_Heat\P\63-0
+( 2008 ) 59 . 	64	query224_Heat\S\64
+Kondepudi , D. 	65	query224_Heat\S\65
+"Kondepudi"	"is"	"D."	65	query224_Heat\P\65-0
+( 2008 ) 59 . 	66	query224_Heat\S\66
+Work performed on a system is , by definition , an energy transfer to the system that is due to a change to external or mechanical parameters of the system , such as the volume , magnetization , center of mass in a gravitational field . 	67	query224_Heat\S\67
+"Work"	"be performed"	"on a system"	67	query224_Heat\P\67-0
+"Work performed on a system"	"is"	"by definition"	67	query224_Heat\P\67-1
+"Work performed on a system"	"is"	"by definition"	67	query224_Heat\P\67-2
+"the system"	"is due"	"to a change to external parameters of the system such as the volume"	67	query224_Heat\P\67-3
+"the system"	"is due"	"to a change to mechanical parameters of the system such as the volume magnetization"	67	query224_Heat\P\67-4
+"the system"	"is due"	"to a change to external parameters of the system such as the magnetization"	67	query224_Heat\P\67-5
+"the system"	"is"	"due"	67	query224_Heat\P\67-6
+"the volume"	"is"	"center of mass in a gravitational field"	67	query224_Heat\P\67-7
+"the magnetization"	"is"	"center of mass in a gravitational field"	67	query224_Heat\P\67-8
+For a closed system ( with no external transfer of matter ) , heat is defined as energy transferred to the system in any way other than as work . 	68	query224_Heat\S\68
+For a closed system ( with no external transfer of matter ) , heat is defined as energy transferred to the system in any way other than as work . 	68	query224_Heat\S\68
+For a closed system ( with no external transfer of matter ) , heat is defined as energy transferred to the system in any way other than as work . 	68	query224_Heat\S\68
+For a closed system ( with no external transfer of matter ) , heat is defined as energy transferred to the system in any way other than as work . 	68	query224_Heat\S\68
+For a closed system ( with no external transfer of matter ) , heat is defined as energy transferred to the system in any way other than as work . 	68	query224_Heat\S\68
+Heat transfer is an irreversible process , which leads to the systems coming closer to mutual thermodynamic equilibrium . 	69	query224_Heat\S\69
+"Heat transfer"	"is"	"an irreversible process"	69	query224_Heat\P\69-0
+"an irreversible process"	"leads"	"to the systems coming closer to mutual thermodynamic equilibrium"	69	query224_Heat\P\69-1
+"the systems"	"be coming"	"closer to mutual thermodynamic equilibrium"	69	query224_Heat\P\69-2
+In the case of systems close to thermodynamic equilibrium where temperature can be defined , some heat transfer can be related to temperature difference between systems . 	70	query224_Heat\S\70
+In the case of systems close to thermodynamic equilibrium where temperature can be defined , some heat transfer can be related to temperature difference between systems . 	70	query224_Heat\S\70
+In the case of systems close to thermodynamic equilibrium where temperature can be defined , some heat transfer can be related to temperature difference between systems . 	70	query224_Heat\S\70
+"some heat transfer"	"can be related"	"to temperature difference between systems"	70	query224_Heat\P\70-0
+Heat transfer can also arise by friction and by viscosity . 	71	query224_Heat\S\71
+"Heat transfer"	"can arise"	"by friction also"	71	query224_Heat\P\71-0
+"Heat transfer"	"can arise"	"friction by viscosity also"	71	query224_Heat\P\71-1
+"Heat transfer"	"can arise"	"by friction"	71	query224_Heat\P\71-2
+"Heat transfer"	"can arise"	"friction by viscosity"	71	query224_Heat\P\71-3
+For an open system , far from thermodynamic equilibrium , where temperature cannot be defined , there the distinction between heat and work may not be feasible . 	72	query224_Heat\S\72
+For an open system , far from thermodynamic equilibrium , where temperature cannot be defined , there the distinction between heat and work may not be feasible . 	72	query224_Heat\S\72
+For an open system , far from thermodynamic equilibrium , where temperature cannot be defined , there the distinction between heat and work may not be feasible . 	72	query224_Heat\S\72
+"For an open system far from thermodynamic equilibrium"	"may not be"	"feasible"	72	query224_Heat\P\72-0
+Human notions such as hot and cold are relative terms and are generally used to compare one system’s temperature to another or its surroundings . 	73	query224_Heat\S\73
+"Human notions such as hot"	"are"	"relative terms"	73	query224_Heat\P\73-0
+"Human notions such as cold"	"are"	"relative terms"	73	query224_Heat\P\73-1
+"Human notions such as hot"	"are are relative used"	"generally to compare one system 's temperature to another"	73	query224_Heat\P\73-2
+"Human notions such as hot"	"are are relative used"	"generally to compare one system 's temperature to its surroundings"	73	query224_Heat\P\73-3
+"Human notions such as hot"	"are are relative used"	"generally to compare one system 's temperature"	73	query224_Heat\P\73-4
+"Human notions such as cold"	"are are relative used"	"generally to compare one system 's temperature to another"	73	query224_Heat\P\73-5
+"Human notions such as cold"	"are are relative used"	"generally to compare one system 's temperature to its surroundings"	73	query224_Heat\P\73-6
+"Human notions such as cold"	"are are relative used"	"generally to compare one system 's temperature"	73	query224_Heat\P\73-7
+"Human notions such as hot"	"are are relative used"	"to compare one system 's temperature to another"	73	query224_Heat\P\73-8
+"Human notions such as hot"	"are are relative used"	"to compare one system 's temperature to its surroundings"	73	query224_Heat\P\73-9
+"Human notions such as hot"	"are are relative used"	"to compare one system 's temperature"	73	query224_Heat\P\73-10
+"Human notions such as cold"	"are are relative used"	"to compare one system 's temperature to another"	73	query224_Heat\P\73-11
+"Human notions such as cold"	"are are relative used"	"to compare one system 's temperature to its surroundings"	73	query224_Heat\P\73-12
+"Human notions such as cold"	"are are relative used"	"to compare one system 's temperature"	73	query224_Heat\P\73-13
+"one system"	"has"	"temperature"	73	query224_Heat\P\73-14
+"one system"	"has"	"temperature"	73	query224_Heat\P\73-15
+175pxthumbHeat may flow across the boundary of thethermodynamic systemsystemand thus change itsinternal energy . 	74	query224_Heat\S\74
+"175pxthumbHeat"	"may flow"	"across the boundary of thethermodynamic systemsystemand"	74	query224_Heat\P\74-0
+Scottish physicist James Clerk Maxwell , in his 1871 classic Theory of Heat , was one of the first to enunciate a modern definition of heat . 	75	query224_Heat\S\75
+Scottish physicist James Clerk Maxwell , in his 1871 classic Theory of Heat , was one of the first to enunciate a modern definition of heat . 	75	query224_Heat\S\75
+"Scottish physicist James Clerk Maxwell"	"was one"	"in his 1871 classic Theory of Heat"	75	query224_Heat\P\75-0
+"Scottish physicist James Clerk Maxwell"	"was one"	"of the first to enunciate a modern definition of heat"	75	query224_Heat\P\75-1
+"Scottish physicist James Clerk Maxwell"	"was"	"one"	75	query224_Heat\P\75-2
+"the first"	"be enunciate"	"a modern definition of heat"	75	query224_Heat\P\75-3
+Maxwell outlined four stipulations for the definition of heat : Several modern definitions of heat are as follows : In a thermodynamic sense , heat is never regarded as being stored within a system . 	76	query224_Heat\S\76
+"Maxwell"	"outlined"	"four stipulations for the definition of heat Several modern definitions of heat are as follows"	76	query224_Heat\P\76-0
+"Maxwell"	"outlined"	"four stipulations Several modern definitions of heat are as follows"	76	query224_Heat\P\76-1
+"Several modern definitions of heat"	"are"	"as follows"	76	query224_Heat\P\76-2
+"Several modern definitions of heat"	"are"	"as follows"	76	query224_Heat\P\76-3
+"Several modern definitions of heat"	"are"	"as follows"	76	query224_Heat\P\76-4
+Like work , it exists only as energy in transit from one system to another or between a system and its surroundings . 	77	query224_Heat\S\77
+Like work , it exists only as energy in transit from one system to another or between a system and its surroundings . 	77	query224_Heat\S\77
+Like work , it exists only as energy in transit from one system to another or between a system and its surroundings . 	77	query224_Heat\S\77
+Like work , it exists only as energy in transit from one system to another or between a system and its surroundings . 	77	query224_Heat\S\77
+Like work , it exists only as energy in transit from one system to another or between a system and its surroundings . 	77	query224_Heat\S\77
+When energy in the form of heat is added to a system , it is stored as kinetic and potential energy of the atoms and molecules in the system . 	78	query224_Heat\S\78
+"energy in the form of heat"	"is added"	"78 When"	78	query224_Heat\P\78-0
+"energy in the form of heat"	"is added"	"to a system 78"	78	query224_Heat\P\78-1
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-2
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-3
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-4
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-5
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-6
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-7
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-8
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-9
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-10
+"energy in the form of heat"	"is added"	"78"	78	query224_Heat\P\78-11
+Smith , J.M. 	79	query224_Heat\S\79
+"Smith"	"is"	"J.M."	79	query224_Heat\P\79-0
+, Van Ness , H.C. 	80	query224_Heat\S\80
+, Van Ness , H.C. 	80	query224_Heat\S\80
+"Van Ness"	"is"	"H.C."	80	query224_Heat\P\80-0
+, Abbot , M.M. 	81	query224_Heat\S\81
+Introduction to Chemical Engineering Thermodynamics McGraw-Hill 2005 ISBN 0073104450 Smith , J.M. 	82	query224_Heat\S\82
+"Chemical Engineering Thermodynamics McGraw-Hill 2005 ISBN 0073104450 Smith"	"is"	"J.M."	82	query224_Heat\P\82-0
+, Van Ness , H.C. 	83	query224_Heat\S\83
+"Van Ness"	"is"	"H.C."	83	query224_Heat\P\83-0
+, Abbot , M.M. 	84	query224_Heat\S\84
+Introduction to Chemical Engineering Thermodynamics McGraw-Hill 2005 ISBN 0073104450 As a form of energy heat has the unit joule ( J) in the International System of Units ( SI) . 	85	query224_Heat\S\85
+"a form of energy heat"	"has"	"the unit joule in the International System of Units"	85	query224_Heat\P\85-0
+"the unit joule in the International System of Units"	"is"	"J"	85	query224_Heat\P\85-1
+"the unit joule in the International System of Units"	"is"	"J"	85	query224_Heat\P\85-2
+However , in many applied fields in engineering the British Thermal Unit ( BTU) and the calorie are often used . 	86	query224_Heat\S\86
+"the British Thermal Unit"	"is"	"BTU"	86	query224_Heat\P\86-0
+"the British Thermal the calorie"	"is"	"BTU"	86	query224_Heat\P\86-1
+"However in many applied fields in engineering the British Thermal Unit"	"are used"	"often"	86	query224_Heat\P\86-2
+"However in many applied fields in engineering the British Thermal the calorie"	"are used"	"often"	86	query224_Heat\P\86-3
+The standard unit for the rate of heat transferred is the watt ( W) , defined as joules per second . 	87	query224_Heat\S\87
+The standard unit for the rate of heat transferred is the watt ( W) , defined as joules per second . 	87	query224_Heat\S\87
+"watt defined as joules per second"	"is"	"W"	87	query224_Heat\P\87-0
+The total amount of energy transferred as heat is conventionally written as Q for algebraic purposes . 	88	query224_Heat\S\88
+The total amount of energy transferred as heat is conventionally written as Q for algebraic purposes . 	88	query224_Heat\S\88
+The total amount of energy transferred as heat is conventionally written as Q for algebraic purposes . 	88	query224_Heat\S\88
+The total amount of energy transferred as heat is conventionally written as Q for algebraic purposes . 	88	query224_Heat\S\88
+Heat released by a system into its surroundings is by convention a negative quantity ( Q &nbsp;&lt ;&nbsp;0 ) ; when a system absorbs heat from its surroundings , it is positive ( Q &nbsp;&gt ;&nbsp;0 ) . 	89	query224_Heat\S\89
+"Heat"	"be released"	"by a system into its surroundings"	89	query224_Heat\P\89-0
+"Heat"	"be released"	"by a system into its surroundings"	89	query224_Heat\P\89-1
+"Heat released by a system into its surroundings"	"is"	"by convention"	89	query224_Heat\P\89-2
+"a negative quantity"	"is"	"Q & lt 0"	89	query224_Heat\P\89-3
+"a system"	"absorbs"	"heat when"	89	query224_Heat\P\89-4
+"a system"	"absorbs"	"heat from its surroundings"	89	query224_Heat\P\89-5
+"a system"	"absorbs"	"heat"	89	query224_Heat\P\89-6
+"a system"	"absorbs"	"heat"	89	query224_Heat\P\89-7
+"a system"	"absorbs"	"heat"	89	query224_Heat\P\89-8
+"a system"	"absorbs"	"heat"	89	query224_Heat\P\89-9
+Heat transfer rate , or heat flow per unit time , is denoted by Heat flux is defined as rate of heat transfer per unit cross-sectional area , resulting in the unit watts per square metre . 	90	query224_Heat\S\90
+"Heat transfer rate"	"is denoted"	"by Heat flux"	90	query224_Heat\P\90-0
+"Heat transfer heat flow per unit time"	"is denoted"	"by Heat flux"	90	query224_Heat\P\90-1
+"is defined as rate of heat transfer per unit cross-sectional area"	"be resulting"	"in the unit watts per square metre"	90	query224_Heat\P\90-2
+There is some diversity of usage of the word heat , even in technical scientific writings . 	91	query224_Heat\S\91
+"some diversity of usage of the word heat"	"There is"	"91 even in technical scientific writings"	91	query224_Heat\P\91-0
+2003 A review of selected literature on students ' misconceptions of heat Boğaziçi University Journal of Education 20 1 25–41 http ://buje.boun.edu.tr/upload/revizeedilmis/45bc61ceeb94344a0664C646d01.pdf 	92	query224_Heat\S\92
+2003 A review of selected literature on students ' misconceptions of heat Boğaziçi University Journal of Education 20 1 25–41 http ://buje.boun.edu.tr/upload/revizeedilmis/45bc61ceeb94344a0664C646d01.pdf 	93	query224_Heat\S\93
+In current scientific usage , the language surrounding the term can be conflicting and even misleading . 	94	query224_Heat\S\94
+"In current scientific usage"	"is"	"the language surrounding the term"	94	query224_Heat\P\94-0
+"the language"	"be surrounding"	"the term"	94	query224_Heat\P\94-1
+One study showed that several popular textbooks used language that implied several meanings of the term , that heat is the process of transferring energy , that it is the transferred energy ( i .e 	95	query224_Heat\S\95
+. 	96	query224_Heat\S\96
+, as if it were a substance ) , and that is an entity contained within a system , among other similar descriptions . 	97	query224_Heat\S\97
+, as if it were a substance ) , and that is an entity contained within a system , among other similar descriptions . 	97	query224_Heat\S\97
+, as if it were a substance ) , and that is an entity contained within a system , among other similar descriptions . 	97	query224_Heat\S\97
+"as if it were a substance that is an entity"	"contained"	"within a system among other similar descriptions"	97	query224_Heat\P\97-0
+"as if it were a substance that is an entity"	"contained"	"within a system"	97	query224_Heat\P\97-1
+The study determined it was not uncommon for a combination of these representations to appear within the same text . 	98	query224_Heat\S\98
+"The study"	"determined"	"it was not uncommon for a combination of these representations to appear within the same text"	98	query224_Heat\P\98-0
+"The study"	"determined"	"it was not uncommon for a combination of these representations to appear within the same text"	98	query224_Heat\P\98-1
+"The study"	"determined"	"it was not uncommon for a combination of these representations to appear within the same text"	98	query224_Heat\P\98-2
+"a combination of these representations"	"be appear"	"within the same text"	98	query224_Heat\P\98-3
+Brookes D. 	99	query224_Heat\S\99
+Horton G. 	100	query224_Heat\S\100
+Van Heuvelen A. 	101	query224_Heat\S\101
+Etkina E. 	102	query224_Heat\S\102
+2005 Concerning Scientific Discourse about Heat 2004 Physics Education Research Conference AIP Conference Proceedings 790 149–152 http ://research.physics 	103	query224_Heat\S\103
+"2005"	"be Concerning"	"Scientific Discourse about Heat 2004 Physics Education Research Conference AIP Conference Proceedings 790 149 152 http research.physics"	103	query224_Heat\P\103-0
+.illinois 	104	query224_Heat\S\104
+.edu/per/David/perc2004_revised 	105	query224_Heat\S\105
+.pdf 	106	query224_Heat\S\106
+10.1063/1.2084723 	107	query224_Heat\S\107
+Brookes D. 	108	query224_Heat\S\108
+Horton G. 	109	query224_Heat\S\109
+Van Heuvelen A. 	110	query224_Heat\S\110
+Etkina E. 	111	query224_Heat\S\111
+2005 Concerning Scientific Discourse about Heat 2004 Physics Education Research Conference AIP Conference Proceedings 790 149–152 http ://research.physics 	112	query224_Heat\S\112
+"2005"	"be Concerning"	"Scientific Discourse about Heat 2004 Physics Education Research Conference AIP Conference Proceedings 790 149 152 http research.physics"	112	query224_Heat\P\112-0
+.illinois 	113	query224_Heat\S\113
+.edu/per/David/perc2004_revised 	114	query224_Heat\S\114
+.pdf 	115	query224_Heat\S\115
+10.1063/1.2084723 	116	query224_Heat\S\116
+They found the predominant use among physicists to be as if it were a substance . 	117	query224_Heat\S\117
+They found the predominant use among physicists to be as if it were a substance . 	117	query224_Heat\S\117
+"the predominant use among physicists"	"be be"	"as if it were a substance"	117	query224_Heat\P\117-0
+"the predominant use among physicists"	"be be"	"as if it were a substance"	117	query224_Heat\P\117-1
+In the case where the number of particles in the system is constant , the first law of thermodynamics states that the differential change in internal energy dU of a system is given by the differential heat flow δ Q into the system minus the differential work δW exerted by the system : An alternate convention is to consider the work performed on the system by its surroundings . 	118	query224_Heat\S\118
+"In the case"	"is"	"the first law of thermodynamics states that the differential change in internal energy dU of a system is given by the differential heat flow δ Q into the system An alternate convention is to consider the work performed on the system by its surroundings"	118	query224_Heat\P\118-0
+"In the case"	"is"	"the first law of thermodynamics states that the differential change in internal energy dU of a system is given by the differential heat flow δ Q into the the differential work δW exerted by the system An alternate convention is to consider the work performed on the system by its surroundings"	118	query224_Heat\P\118-1
+"the number of particles in the system"	"is"	"constant the case where"	118	query224_Heat\P\118-2
+"the number of particles in the system"	"is"	"constant the case"	118	query224_Heat\P\118-3
+"the differential change in internal energy dU of a system"	"is given"	"by the differential heat flow δ Q into the system"	118	query224_Heat\P\118-4
+"the differential change in internal energy dU of a system"	"is given"	"by the differential heat flow δ Q into the the differential work δW exerted by the system"	118	query224_Heat\P\118-5
+"the differential change in internal energy dU of a system"	"is given"	"by the differential heat flow δ Q"	118	query224_Heat\P\118-6
+"the differential work δW"	"be exerted"	"by the system"	118	query224_Heat\P\118-7
+"An alternate convention"	"is"	"to consider the work performed on the system by its surroundings"	118	query224_Heat\P\118-8
+"the work"	"be performed"	"on the system by its surroundings"	118	query224_Heat\P\118-9
+"the work"	"be performed"	"on the system"	118	query224_Heat\P\118-10
+"the work"	"be performed"	"on the system"	118	query224_Heat\P\118-11
+This leads to a change in sign of the work . 	119	query224_Heat\S\119
+This leads to a change in sign of the work . 	119	query224_Heat\S\119
+This is the convention adopted by many modern textbooks of physical chemistry , such as those by Peter Atkins and Ira Levine , but many textbooks on physics define work as work done by the system . 	120	query224_Heat\S\120
+"This"	"is the convention"	"adopted by many modern textbooks of physical chemistry such as those by Peter Atkins"	120	query224_Heat\P\120-0
+"This"	"is the convention"	"adopted by many modern textbooks of physical chemistry such as those by Peter Ira Levine"	120	query224_Heat\P\120-1
+"This"	"is"	"the convention"	120	query224_Heat\P\120-2
+"the convention"	"be adopted"	"by many modern textbooks of physical chemistry such as those by Peter Atkins"	120	query224_Heat\P\120-3
+"the convention"	"be adopted"	"by many modern textbooks of physical chemistry such as those by Peter Ira Levine"	120	query224_Heat\P\120-4
+"the many textbooks on physics define work as work done by the system"	"be adopted"	"by many modern textbooks of physical chemistry such as those by Peter Atkins"	120	query224_Heat\P\120-5
+"the many textbooks on physics define work as work done by the system"	"be adopted"	"by many modern textbooks of physical chemistry such as those by Peter Ira Levine"	120	query224_Heat\P\120-6
+"many textbooks on physics"	"define"	"work as work done by the system"	120	query224_Heat\P\120-7
+"many textbooks on physics"	"define"	"work"	120	query224_Heat\P\120-8
+"many textbooks on physics"	"define"	"work"	120	query224_Heat\P\120-9
+The differential transfer of heat , delta Q_text{in } , makes differential contributions , not only to internal energy , but also to the work done by the system : The work done by the system includes boundary work , which causes the boundaries of the system to expand , in addition to other work ( e .g 	121	query224_Heat\S\121
+. 	122	query224_Heat\S\122
+shaft work performed by a compressor fan ) : mathrm{d } U + delta W_text{boundary } is equal to the differential enthalpy change ( dH ) of the system . 	123	query224_Heat\S\123
+"shaft work mathrm d U is equal to the differential enthalpy change of the system"	"be performed"	"by a compressor fan"	123	query224_Heat\P\123-0
+"shaft work mathrm d delta W_text is equal to the differential enthalpy change of the system"	"be performed"	"by a compressor fan"	123	query224_Heat\P\123-1
+"delta W_text"	"is"	"boundary"	123	query224_Heat\P\123-2
+"mathrm d U"	"is equal"	"to the differential enthalpy change of the system"	123	query224_Heat\P\123-3
+"mathrm d delta W_text"	"is equal"	"to the differential enthalpy change of the system"	123	query224_Heat\P\123-4
+"mathrm d U"	"is"	"equal"	123	query224_Heat\P\123-5
+"mathrm d delta W_text"	"is"	"equal"	123	query224_Heat\P\123-6
+"the differential enthalpy change of the system"	"is"	"dH"	123	query224_Heat\P\123-7
+Substitution gives : Both enthalpy , H , and internal energy , U , are state function . 	124	query224_Heat\S\124
+"internal energy"	"is"	"U"	124	query224_Heat\P\124-0
+"internal energy"	"is"	"U"	124	query224_Heat\P\124-1
+"internal energy"	"is"	"U"	124	query224_Heat\P\124-2
+"internal energy"	"are"	"state function"	124	query224_Heat\P\124-3
+In cyclical processes , such as the operation of a heat engine , state functions return to their initial values . 	125	query224_Heat\S\125
+"a heat engine"	"is"	"state functions"	125	query224_Heat\P\125-0
+"cyclical processes such as the operation of a heat engine"	"return"	"to their initial values"	125	query224_Heat\P\125-1
+"cyclical processes such as the operation of a heat engine"	"return"	"to their initial values"	125	query224_Heat\P\125-2
+Thus , the differentials for enthalpy and energy are exact differential , which are dH and dU , respectively . 	126	query224_Heat\S\126
+"the differentials for enthalpy"	"are"	"exact differential"	126	query224_Heat\P\126-0
+"the differentials for energy"	"are"	"exact differential"	126	query224_Heat\P\126-1
+"Thus the differentials for enthalpy are exact differential respectively"	"are"	"dH"	126	query224_Heat\P\126-2
+"Thus the differentials for energy are exact differential respectively"	"are"	"dH"	126	query224_Heat\P\126-3
+"Thus the differentials for enthalpy are exact differential respectively"	"are"	"dU"	126	query224_Heat\P\126-4
+"Thus the differentials for energy are exact differential respectively"	"are"	"dU"	126	query224_Heat\P\126-5
+The symbol for exact differential is the lowercase letter d . 	127	query224_Heat\S\127
+"The symbol for exact differential"	"is"	"the lowercase letter d"	127	query224_Heat\P\127-0
+In contrast , neither Q nor W represents the state of the system ( i .e 	128	query224_Heat\S\128
+. 	129	query224_Heat\S\129
+they need not return to their original values when returning to same step in the following cycle ) . 	130	query224_Heat\S\130
+they need not return to their original values when returning to same step in the following cycle ) . 	130	query224_Heat\S\130
+they need not return to their original values when returning to same step in the following cycle ) . 	130	query224_Heat\S\130
+Thus , the infinitesimal expressions for heat and work are inexact differentials , delta Q and delta W , respectively . 	131	query224_Heat\S\131
+"Thus the infinitesimal expressions for heat are inexact differentials respectively"	"is"	"delta Q"	131	query224_Heat\P\131-0
+"Thus the infinitesimal expressions for heat are inexact differentials respectively"	"is"	"delta delta W"	131	query224_Heat\P\131-1
+"Thus the infinitesimal expressions for work are inexact differentials respectively"	"is"	"delta Q"	131	query224_Heat\P\131-2
+"Thus the infinitesimal expressions for work are inexact differentials respectively"	"is"	"delta delta W"	131	query224_Heat\P\131-3
+"the infinitesimal expressions for heat"	"are 131 Thus inexact differentials"	"respectively"	131	query224_Heat\P\131-4
+"the infinitesimal expressions for work"	"are 131 Thus inexact differentials"	"respectively"	131	query224_Heat\P\131-5
+"the infinitesimal expressions for heat"	"are"	"131 Thus inexact differentials"	131	query224_Heat\P\131-6
+"the infinitesimal expressions for work"	"are"	"131 Thus inexact differentials"	131	query224_Heat\P\131-7
+The lowercase Greek letter delta , delta , is the symbol for inexact differential . 	132	query224_Heat\S\132
+"The lowercase Greek letter delta"	"is"	"delta"	132	query224_Heat\P\132-0
+"The lowercase Greek letter delta"	"is the symbol"	"for inexact differential"	132	query224_Heat\P\132-1
+"The lowercase Greek letter delta"	"is"	"the symbol"	132	query224_Heat\P\132-2
+The integral of any inexact differential over the time it takes to leave and return to the same thermodynamic state does not necessarily equal zero . 	133	query224_Heat\S\133
+The integral of any inexact differential over the time it takes to leave and return to the same thermodynamic state does not necessarily equal zero . 	133	query224_Heat\S\133
+The integral of any inexact differential over the time it takes to leave and return to the same thermodynamic state does not necessarily equal zero . 	133	query224_Heat\S\133
+However , for slow enough processes involving no change in volume ( i .e 	134	query224_Heat\S\134
+. 	135	query224_Heat\S\135
+dV = 0 ) , applied magnetic field , or other external parameters ( i .e 	136	query224_Heat\S\136
+. 	137	query224_Heat\S\137
+delta W_text{out } = 0 and delta W_text{in } = 0 ) , delta Q forms the exact differential , dS = frac{delta Q_text{rev} }{ T} , wherein the following relation applies : Likewise , for an isentropic process ( i .e 	138	query224_Heat\S\138
+. 	139	query224_Heat\S\139
+delta Q = 0 and dS = 0 ) , delta W forms the exact differential , dV = frac{delta W_text{rev} }{p } , wherein the following relation applies : For a simple compressible system such as an ideal gas inside a piston , the internal energy change Delta U at constant volume and the enthalpy change Delta H at constant pressure are modeled by separate heat capacity values , which are C_v and C_p , respectively . 	140	query224_Heat\S\140
+"delta Q"	"="	"0"	140	query224_Heat\P\140-0
+"delta Q"	"="	"0"	140	query224_Heat\P\140-1
+"delta W"	"forms"	"140 delta Q = 0"	140	query224_Heat\P\140-2
+"delta W"	"forms"	"140 delta Q 0 dS = 0"	140	query224_Heat\P\140-3
+"delta W"	"forms"	"140 delta Q = 0"	140	query224_Heat\P\140-4
+"delta W"	"forms"	"140 delta Q 0 dS = 0"	140	query224_Heat\P\140-5
+"the exact differential wherein the following relation applies For a simple compressible system such as an ideal gas inside a piston the internal energy change Delta U at constant volume are modeled by separate heat capacity values respectively"	"is"	"dV = frac delta W_text"	140	query224_Heat\P\140-6
+"the exact differential wherein the following relation applies For a simple compressible system such as an ideal gas inside a piston the internal energy change Delta at constant volume the enthalpy change Delta H at constant pressure are modeled by separate heat capacity values respectively"	"is"	"dV = frac delta W_text"	140	query224_Heat\P\140-7
+"= frac delta W_text"	"is"	"p"	140	query224_Heat\P\140-8
+"frac delta W_text"	"is"	"rev"	140	query224_Heat\P\140-9
+"the following relation"	"applies"	"For a simple compressible system such as an ideal gas inside a piston wherein"	140	query224_Heat\P\140-10
+"the following relation"	"applies"	"For a simple compressible system such as an ideal gas inside a piston"	140	query224_Heat\P\140-11
+"the internal energy change Delta U at constant volume"	"are modeled"	"by separate heat capacity values wherein the following relation applies For a simple compressible system such as an ideal gas inside a piston"	140	query224_Heat\P\140-12
+"the internal energy change Delta at constant volume the enthalpy change Delta H at constant pressure"	"are modeled"	"by separate heat capacity values wherein the following relation applies For a simple compressible system such as an ideal gas inside a piston"	140	query224_Heat\P\140-13
+"the internal energy change Delta U at constant volume"	"are modeled"	"by separate heat capacity values respectively"	140	query224_Heat\P\140-14
+"the internal energy change Delta at constant volume the enthalpy change Delta H at constant pressure"	"are modeled"	"by separate heat capacity values respectively"	140	query224_Heat\P\140-15
+"the internal energy change Delta U at constant volume"	"are modeled"	"by separate heat capacity values"	140	query224_Heat\P\140-16
+"the internal energy change Delta at constant volume the enthalpy change Delta H at constant pressure"	"are modeled"	"by separate heat capacity values"	140	query224_Heat\P\140-17
+"separate heat capacity values"	"are"	"C_v"	140	query224_Heat\P\140-18
+"separate heat capacity values"	"are"	"C_p"	140	query224_Heat\P\140-19
+Constrained to have constant volume , the heat , Q , required to change its temperature from an initial temperature , T 0 , to a final temperature , T f , is given by this formula : Removing the volume constraint and allowing the system to expand or contract at constant pressure , the heat , Q , required to change its temperature from an initial temperature , T 0 , to a final temperature , T f , is given by this formula : Note that when integrating an exact differential ( e .g 	141	query224_Heat\S\141
+. 	142	query224_Heat\S\142
+mathrm{d } U ) , the lowercase letter d is substituted for Delta ( e .g 	143	query224_Heat\S\143
+. 	144	query224_Heat\S\144
+Delta U ) , and when integrating an inexact differential ( e .g 	145	query224_Heat\S\145
+. 	146	query224_Heat\S\146
+delta W_{boundary } ) , the lowercase Greek letter delta is removed with no replacement ( e .g 	147	query224_Heat\S\147
+. 	148	query224_Heat\S\148
+W_{boundary } ).z 	149	query224_Heat\S\149
+For incompressible substances , such as solid and liquid , the distinction between the two types of heat capacity ( i .e 	150	query224_Heat\S\150
+. 	151	query224_Heat\S\151
+C_p which is based on constant pressure and C_v which is based on constant volume ) disappears , as no work is performed . 	152	query224_Heat\S\152
+"C_p"	"is based"	"on constant pressure"	152	query224_Heat\P\152-0
+"C_p"	"is based"	"on constant C_v"	152	query224_Heat\P\152-1
+"C_p"	"is based"	"on constant C_v"	152	query224_Heat\P\152-2
+"C_p"	"disappears"	"as no work is performed"	152	query224_Heat\P\152-3
+In a 1847 lecture entitled On Matter , Living Force , and Heat , James Prescott Joule characterized the terms latent heat and sensible heat as components of heat each effecting distinct physical phenomena , namely the potential and kinetic energy of particles , respectively . 	153	query224_Heat\S\153
+"In a 1847 lecture entitled On Matter"	"is"	"Living Force"	153	query224_Heat\P\153-0
+"In a 1847 lecture entitled On Matter Heat"	"is"	"Living Force"	153	query224_Heat\P\153-1
+"a 1847 lecture"	"be entitled"	"On Matter"	153	query224_Heat\P\153-2
+"James Prescott Joule"	"characterized"	"153 In a 1847 lecture entitled On Matter the terms latent heat as components of heat each effecting distinct physical phenomena"	153	query224_Heat\P\153-3
+"James Prescott Joule"	"characterized"	"153 In a 1847 lecture entitled On Matter the terms latent sensible heat as components of heat each effecting distinct physical phenomena"	153	query224_Heat\P\153-4
+"James Prescott Joule"	"characterized"	"In a 1847 lecture entitled On Matter Heat the terms latent heat as components of heat each effecting distinct physical phenomena"	153	query224_Heat\P\153-5
+"James Prescott Joule"	"characterized"	"In a 1847 lecture entitled On Matter Heat the terms latent sensible heat as components of heat each effecting distinct physical phenomena"	153	query224_Heat\P\153-6
+"James Prescott Joule"	"characterized"	"153 In a 1847 lecture entitled On Matter the terms latent heat namely the potential energy of particles respectively"	153	query224_Heat\P\153-7
+"James Prescott Joule"	"characterized"	"153 In a 1847 lecture entitled On Matter the terms latent heat namely the kinetic energy of particles respectively"	153	query224_Heat\P\153-8
+"James Prescott Joule"	"characterized"	"153 In a 1847 lecture entitled On Matter the terms latent sensible heat namely the potential energy of particles respectively"	153	query224_Heat\P\153-9
+"James Prescott Joule"	"characterized"	"153 In a 1847 lecture entitled On Matter the terms latent sensible heat namely the kinetic energy of particles respectively"	153	query224_Heat\P\153-10
+"James Prescott Joule"	"characterized"	"In a 1847 lecture entitled On Matter Heat the terms latent heat namely the potential energy of particles respectively"	153	query224_Heat\P\153-11
+"James Prescott Joule"	"characterized"	"In a 1847 lecture entitled On Matter Heat the terms latent heat namely the kinetic energy of particles respectively"	153	query224_Heat\P\153-12
+"James Prescott Joule"	"characterized"	"In a 1847 lecture entitled On Matter Heat the terms latent sensible heat namely the potential energy of particles respectively"	153	query224_Heat\P\153-13
+"James Prescott Joule"	"characterized"	"In a 1847 lecture entitled On Matter Heat the terms latent sensible heat namely the kinetic energy of particles respectively"	153	query224_Heat\P\153-14
+"James Prescott Joule"	"characterized"	"153 In a 1847 lecture entitled On Matter the terms latent heat"	153	query224_Heat\P\153-15
+"James Prescott Joule"	"characterized"	"153 In a 1847 lecture entitled On Matter the terms latent sensible heat"	153	query224_Heat\P\153-16
+"James Prescott Joule"	"characterized"	"In a 1847 lecture entitled On Matter Heat the terms latent heat"	153	query224_Heat\P\153-17
+"James Prescott Joule"	"characterized"	"In a 1847 lecture entitled On Matter Heat the terms latent sensible heat"	153	query224_Heat\P\153-18
+J. 	154	query224_Heat\S\154
+P. 	155	query224_Heat\S\155
+Joule The Scientific Paper of James Prescott Joule 1884 The Physical Society of London 274 I am inclined to believe that both of these hypotheses will be found to hold good ,&mdash;that in some instances , particularly in the case of sensible heat , or such as is indicated by the thermometer , heat will be found to consist in the living force of the particles of the bodies in which it is induced ; whilst in others , particularly in the case of latent heat , the phenomena are produced by the separation of particle from particle , so as to cause them to attract one another through a greater space . 	156	query224_Heat\S\156
+Joule The Scientific Paper of James Prescott Joule 1884 The Physical Society of London 274 I am inclined to believe that both of these hypotheses will be found to hold good ,&mdash;that in some instances , particularly in the case of sensible heat , or such as is indicated by the thermometer , heat will be found to consist in the living force of the particles of the bodies in which it is induced ; whilst in others , particularly in the case of latent heat , the phenomena are produced by the separation of particle from particle , so as to cause them to attract one another through a greater space . 	156	query224_Heat\S\156
+"both of these hypotheses"	"will be found"	"to hold good"	156	query224_Heat\P\156-0
+"both of these hypotheses"	"will be found"	"to hold good"	156	query224_Heat\P\156-1
+"both of these hypotheses"	"will be found"	"to hold good"	156	query224_Heat\P\156-2
+"both of these hypotheses"	"will be found"	"to hold good"	156	query224_Heat\P\156-3
+"both of these hypotheses"	"will be found"	"to hold good"	156	query224_Heat\P\156-4
+"both of these hypotheses"	"will be found"	"to hold good"	156	query224_Heat\P\156-5
+"both of these hypotheses"	"will be found"	"to hold good"	156	query224_Heat\P\156-6
+"both of these hypotheses"	"will be found"	"to hold good"	156	query224_Heat\P\156-7
+"the phenomena"	"are produced"	"by the separation of particle from particle in others particularly in the case of latent heat"	156	query224_Heat\P\156-8
+"the phenomena"	"are produced"	"by the separation of particle from particle so as to cause them to attract one another through a greater space"	156	query224_Heat\P\156-9
+"the phenomena"	"are produced"	"by the separation of particle from particle"	156	query224_Heat\P\156-10
+J. 	157	query224_Heat\S\157
+P. 	158	query224_Heat\S\158
+Joule The Scientific Paper of James Prescott Joule 1884 The Physical Society of London 274 I am inclined to believe that both of these hypotheses will be found to hold good ,&mdash;that in some instances , particularly in the case of sensible heat , or such as is indicated by the thermometer , heat will be found to consist in the living force of the particles of the bodies in which it is induced ; whilst in others , particularly in the case of latent heat , the phenomena are produced by the separation of particle from particle , so as to cause them to attract one another through a greater space . 	159	query224_Heat\S\159
+Joule The Scientific Paper of James Prescott Joule 1884 The Physical Society of London 274 I am inclined to believe that both of these hypotheses will be found to hold good ,&mdash;that in some instances , particularly in the case of sensible heat , or such as is indicated by the thermometer , heat will be found to consist in the living force of the particles of the bodies in which it is induced ; whilst in others , particularly in the case of latent heat , the phenomena are produced by the separation of particle from particle , so as to cause them to attract one another through a greater space . 	159	query224_Heat\S\159
+"both of these hypotheses"	"will be found"	"to hold good"	159	query224_Heat\P\159-0
+"both of these hypotheses"	"will be found"	"to hold good"	159	query224_Heat\P\159-1
+"both of these hypotheses"	"will be found"	"to hold good"	159	query224_Heat\P\159-2
+"both of these hypotheses"	"will be found"	"to hold good"	159	query224_Heat\P\159-3
+"both of these hypotheses"	"will be found"	"to hold good"	159	query224_Heat\P\159-4
+"both of these hypotheses"	"will be found"	"to hold good"	159	query224_Heat\P\159-5
+"both of these hypotheses"	"will be found"	"to hold good"	159	query224_Heat\P\159-6
+"both of these hypotheses"	"will be found"	"to hold good"	159	query224_Heat\P\159-7
+"the phenomena"	"are produced"	"by the separation of particle from particle in others particularly in the case of latent heat"	159	query224_Heat\P\159-8
+"the phenomena"	"are produced"	"by the separation of particle from particle so as to cause them to attract one another through a greater space"	159	query224_Heat\P\159-9
+"the phenomena"	"are produced"	"by the separation of particle from particle"	159	query224_Heat\P\159-10
+, Lecture on Matter , Living Force , and Heat . 	160	query224_Heat\S\160
+, Lecture on Matter , Living Force , and Heat . 	160	query224_Heat\S\160
+, Lecture on Matter , Living Force , and Heat . 	160	query224_Heat\S\160
+, Lecture on Matter , Living Force , and Heat . 	160	query224_Heat\S\160
+, Lecture on Matter , Living Force , and Heat . 	160	query224_Heat\S\160
+May 5 and 12 , 1847 He described latent energy as the energy of interaction in a given configuration of particles , i .e 	161	query224_Heat\S\161
+. 	162	query224_Heat\S\162
+a form of potential energy , and the sensible heat as an energy affecting the thermal energy , which he called the living force . 	163	query224_Heat\S\163
+"an energy"	"be affecting"	"the thermal energy"	163	query224_Heat\P\163-0
+"an energy"	"be affecting"	"the thermal energy"	163	query224_Heat\P\163-1
+Latent heat is the heat released or absorbed by a chemical substance or a thermodynamic system during a change of state that occurs without a change in temperature . 	164	query224_Heat\S\164
+"Latent heat"	"is the heat released"	"by a chemical substance during a change of state"	164	query224_Heat\P\164-0
+"Latent heat"	"is the heat released"	"by a chemical a thermodynamic system during a change of state"	164	query224_Heat\P\164-1
+"Latent heat"	"is the heat released"	"by a chemical substance"	164	query224_Heat\P\164-2
+"Latent heat"	"is the heat released"	"by a chemical a thermodynamic system"	164	query224_Heat\P\164-3
+"Latent heat"	"is the heat absorbed"	"by a chemical substance during a change of state"	164	query224_Heat\P\164-4
+"Latent heat"	"is the heat absorbed"	"by a chemical a thermodynamic system during a change of state"	164	query224_Heat\P\164-5
+"Latent heat"	"is the heat absorbed"	"by a chemical substance"	164	query224_Heat\P\164-6
+"Latent heat"	"is the heat absorbed"	"by a chemical a thermodynamic system"	164	query224_Heat\P\164-7
+"the heat"	"164 Latent heat is released"	"by a chemical substance during a change of state"	164	query224_Heat\P\164-8
+"the heat"	"164 Latent heat is released"	"by a chemical a thermodynamic system during a change of state"	164	query224_Heat\P\164-9
+"the heat"	"164 Latent heat is released"	"by a chemical substance"	164	query224_Heat\P\164-10
+"the heat"	"164 Latent heat is released"	"by a chemical a thermodynamic system"	164	query224_Heat\P\164-11
+"the heat"	"164 Latent heat is absorbed"	"by a chemical substance during a change of state"	164	query224_Heat\P\164-12
+"the heat"	"164 Latent heat is absorbed"	"by a chemical a thermodynamic system during a change of state"	164	query224_Heat\P\164-13
+"the heat"	"164 Latent heat is absorbed"	"by a chemical substance"	164	query224_Heat\P\164-14
+"the heat"	"164 Latent heat is absorbed"	"by a chemical a thermodynamic system"	164	query224_Heat\P\164-15
+"a change of state"	"occurs"	"without a change in temperature"	164	query224_Heat\P\164-16
+Such a process may be a phase transition , such as the melting of ice or the boiling of water . 	165	query224_Heat\S\165
+"Such a process"	"may be a phase transition"	"such as the melting of ice"	165	query224_Heat\P\165-0
+"Such a process"	"may be a phase transition"	"such as the of ice the boiling of water"	165	query224_Heat\P\165-1
+"Such a process"	"may be"	"a phase transition"	165	query224_Heat\P\165-2
+Perrot , Pierre A to Z of Thermodynamics Oxford University Press 1998 0-19-856552-6 Perrot , Pierre A to Z of Thermodynamics Oxford University Press 1998 0-19-856552-6 Clark , John , O.E. 	166	query224_Heat\S\166
+"Perrot"	"is"	"Pierre A to Z of Thermodynamics Oxford University Press 1998 0-19-856552-6 Perrot"	166	query224_Heat\P\166-0
+"0-19-856552-6 Perrot"	"is"	"Pierre A to Z of Thermodynamics Oxford University Press 1998 0-19-856552-6 Clark"	1998	query224_Heat\P\166-1
+"0-19-856552-6 Clark"	"is"	"O.E."	1998	query224_Heat\P\166-2
+"0-19-856552-6 Clark"	"is"	"John"	1998	query224_Heat\P\166-3
+The Essential Dictionary of Science Barnes &amp; Noble Books 2004 0-7607-4616-8 Clark , John , O.E. 	167	query224_Heat\S\167
+"0-7607-4616-8 Clark"	"is"	"O.E."	2004	query224_Heat\P\167-0
+"0-7607-4616-8 Clark"	"is"	"John"	2004	query224_Heat\P\167-1
+The Essential Dictionary of Science Barnes &amp; Noble Books 2004 0-7607-4616-8 The term was introduced around 1750 by Joseph Black as derived from the Latin latere ( to lie hidden ) , characterizing its effect as not being directly measurable with a thermometer . 	168	query224_Heat\S\168
+"0-7607-4616-8 The term"	"was introduced"	"around 1750 Science Barnes & Noble Books"	2004	query224_Heat\P\168-0
+"0-7607-4616-8 The term"	"was introduced"	"around 1750 by Joseph Black"	2004	query224_Heat\P\168-1
+"0-7607-4616-8 The term"	"was introduced"	"around 1750 as derived from the Latin latere to lie hidden"	2004	query224_Heat\P\168-2
+"0-7607-4616-8 The term"	"was introduced"	"around 1750"	2004	query224_Heat\P\168-3
+"The Essential Dictionary of Science Barnes & Noble Books 2004 0-7607-4616-8 The term was introduced around 1750 by Joseph Black as derived from the Latin latere to lie hidden"	"characterizing"	"its effect as not being directly measurable with a thermometer"	168	query224_Heat\P\168-4
+"The Essential Dictionary of Science Barnes & Noble Books 2004 0-7607-4616-8 The term was introduced around 1750 by Joseph Black as derived from the Latin latere to lie hidden"	"characterizing"	"its effect"	168	query224_Heat\P\168-5
+"The Essential Dictionary of Science Barnes & Noble Books 2004 0-7607-4616-8 The term was introduced around 1750 by Joseph Black as derived from the Latin latere to lie hidden"	"characterizing"	"its effect"	168	query224_Heat\P\168-6
+Sensible heat , in contrast to latent heat , is the heat exchanged by a thermodynamic system that has as its sole effect a change of temperature . 	169	query224_Heat\S\169
+"Sensible heat in contrast to latent heat"	"is the heat"	"exchanged by a thermodynamic system"	169	query224_Heat\P\169-0
+"Sensible heat in contrast to latent heat"	"is"	"the heat"	169	query224_Heat\P\169-1
+"the heat"	"be exchanged"	"by a thermodynamic system"	169	query224_Heat\P\169-2
+"a thermodynamic system"	"has"	"as its sole effect a change of temperature"	169	query224_Heat\P\169-3
+"a thermodynamic system"	"has"	"as its sole effect a change of temperature"	169	query224_Heat\P\169-4
+http ://www .uwsp.edu/geo/faculty/ritter/geog101/textbook/energy/energy_balance 	170	query224_Heat\S\170
+.html 	171	query224_Heat\S\171
+Ritter , Michael E. 	172	query224_Heat\S\172
+"Ritter"	"is"	"Michael E."	172	query224_Heat\P\172-0
+The Physical Environment : an Introduction to Physical Geography 2006 http ://www .uwsp.edu/geo/faculty/ritter/geog101/textbook/energy/energy_balance 	173	query224_Heat\S\173
+.html 	174	query224_Heat\S\174
+Ritter , Michael E. 	175	query224_Heat\S\175
+"Ritter"	"is"	"Michael E."	175	query224_Heat\P\175-0
+The Physical Environment : an Introduction to Physical Geography 2006 Sensible heat therefore only increases the thermal energy of a system . 	176	query224_Heat\S\176
+"an Introduction to Physical Geography 2006 Sensible heat"	"increases"	"the thermal energy of a system therefore"	176	query224_Heat\P\176-0
+"an Introduction to Physical Geography 2006 Sensible heat"	"increases"	"the thermal energy of a system only"	176	query224_Heat\P\176-1
+"an Introduction to Physical Geography 2006 Sensible heat"	"increases"	"the thermal energy of a system"	176	query224_Heat\P\176-2
+Consequences of Black 's distinction between sensible and latent heat are examined in the Wikipedia article on calorimetry . 	177	query224_Heat\S\177
+Consequences of Black 's distinction between sensible and latent heat are examined in the Wikipedia article on calorimetry . 	177	query224_Heat\S\177
+Consequences of Black 's distinction between sensible and latent heat are examined in the Wikipedia article on calorimetry . 	177	query224_Heat\S\177
+"Consequences of Black 's distinction between sensible heat"	"are examined"	"in the Wikipedia article on calorimetry"	177	query224_Heat\P\177-0
+"Consequences of Black 's distinction between latent heat"	"are examined"	"in the Wikipedia article on calorimetry"	177	query224_Heat\P\177-1
+Specific heat , also called specific heat capacity , is defined as the amount of energy that has to be transferred to or from one unit of mass ( kilogram ) or amount of substance ( mole ) to change the system temperature by one degree . 	178	query224_Heat\S\178
+"Specific heat"	"be called"	"also"	178	query224_Heat\P\178-0
+"Specific heat also called specific heat capacity"	"is defined"	"as the amount of energy"	178	query224_Heat\P\178-1
+"the amount of energy"	"has"	"to be transferred to to change the system temperature by one degree"	178	query224_Heat\P\178-2
+"the amount of energy"	"has"	"to be transferred to to change the system temperature"	178	query224_Heat\P\178-3
+"the amount of energy"	"has"	"to be transferred from one unit of mass to change the system temperature by one degree"	178	query224_Heat\P\178-4
+"the amount of energy"	"has"	"to be transferred from one unit of mass to change the system temperature"	178	query224_Heat\P\178-5
+"the amount of energy"	"has"	"to be transferred from one of mass amount of substance to change the system temperature by one degree"	178	query224_Heat\P\178-6
+"the amount of energy"	"has"	"to be transferred from one of mass amount of substance to change the system temperature"	178	query224_Heat\P\178-7
+"the amount of energy"	"has"	"to be transferred to change the system temperature by one degree"	178	query224_Heat\P\178-8
+"the amount of energy"	"has"	"to be transferred to change the system temperature"	178	query224_Heat\P\178-9
+"the amount of energy"	"has"	"to be transferred to change the system temperature"	178	query224_Heat\P\178-10
+"the amount of energy"	"has"	"to be transferred to change the system temperature"	178	query224_Heat\P\178-11
+Specific heat is a physical property , which means that it depends on the substance under consideration and its state as specified by its properties . 	179	query224_Heat\S\179
+"Specific heat"	"is"	"a physical property"	179	query224_Heat\P\179-0
+"a physical property"	"means"	"that it depends on the substance under consideration as specified by its properties"	179	query224_Heat\P\179-1
+"a physical property"	"means"	"that it depends on the substance under its state as specified by its properties"	179	query224_Heat\P\179-2
+"a physical property"	"means"	"that it depends on the substance under its state as specified by its properties"	179	query224_Heat\P\179-3
+"a physical property"	"means"	"that it depends on the substance under its state as specified by its properties"	179	query224_Heat\P\179-4
+"a physical property"	"means"	"that it depends on the substance under its state as specified by its properties"	179	query224_Heat\P\179-5
+"a physical property"	"means"	"that it depends on the substance under its state as specified by its properties"	179	query224_Heat\P\179-6
+"a physical property"	"means"	"that it depends on the substance under its state as specified by its properties"	179	query224_Heat\P\179-7
+"a physical property"	"means"	"that it depends on the substance under its state as specified by its properties"	179	query224_Heat\P\179-8
+The specific heats of monatomic gases ( e .g. 	180	query224_Heat\S\180
+, helium ) are nearly constant with temperature . 	181	query224_Heat\S\181
+, helium ) are nearly constant with temperature . 	181	query224_Heat\S\181
+, helium ) are nearly constant with temperature . 	181	query224_Heat\S\181
+, helium ) are nearly constant with temperature . 	181	query224_Heat\S\181
+, helium ) are nearly constant with temperature . 	181	query224_Heat\S\181
+Diatomic gases such as hydrogen display some temperature dependence , and triatomic gases ( e .g. 	182	query224_Heat\S\182
+, carbon dioxide ) still more . 	183	query224_Heat\S\183
+Entropy In 1856 , German physicist Rudolf Clausius defined the second fundamental theorem ( the second law of thermodynamics ) in the mechanical theory of heat ( thermodynamics ) : "if two transformations which , without necessitating any other permanent change , can mutually replace one another , be called equivalent , then the generations of the quantity of heat Q from work at the temperature T , has the equivalence-value : " Published in Poggendoff’s Annalen , Dec. 	184	query224_Heat\S\184
+"German physicist Rudolf Clausius"	"defined"	"the second fundamental theorem the second law of thermodynamics in the mechanical theory of heat 184 Entropy In 1856 if two transformations has the equivalence-value Published in Poggendoff 's Annalen"	184	query224_Heat\P\184-0
+"German physicist Rudolf Clausius"	"defined"	"the second fundamental theorem the second law of thermodynamics 184 Entropy In 1856 if two transformations has the equivalence-value Published in Poggendoff 's Annalen"	184	query224_Heat\P\184-1
+"German physicist Rudolf Clausius"	"defined"	"the second fundamental theorem the second law of thermodynamics 184 Entropy In 1856 if two transformations has the equivalence-value Published in Poggendoff 's Annalen"	184	query224_Heat\P\184-2
+"two transformations"	"can replace"	"one another without necessitating any other permanent change"	184	query224_Heat\P\184-3
+"two transformations"	"can replace"	"one another mutually"	184	query224_Heat\P\184-4
+"two transformations"	"can replace"	"one another"	184	query224_Heat\P\184-5
+"one another"	"is"	"then the generations of the quantity of heat Q from work at the temperature T"	184	query224_Heat\P\184-6
+"two transformations"	"has"	"the equivalence-value"	184	query224_Heat\P\184-7
+"Poggendoff 's Annalen"	"is"	"Dec."	184	query224_Heat\P\184-8
+"Poggendoff 's Annalen"	"is"	"Dec."	184	query224_Heat\P\184-9
+1854 , vol . 	185	query224_Heat\S\185
+"1854"	"is"	"vol"	185	query224_Heat\P\185-0
+xciii . 	186	query224_Heat\S\186
+p . 	187	query224_Heat\S\187
+481 ; translated in the Journal de Mathematiques , vol . 	188	query224_Heat\S\188
+481 ; translated in the Journal de Mathematiques , vol . 	188	query224_Heat\S\188
+xx . 	189	query224_Heat\S\189
+Paris , 1855 , and in the Philosophical Magazine , August 1856 , s . 	190	query224_Heat\S\190
+"August 1856"	"is"	"s"	190	query224_Heat\P\190-0
+4 . 	191	query224_Heat\S\191
+vol . 	192	query224_Heat\S\192
+xii , p . 	193	query224_Heat\S\193
+"xii"	"is"	"p"	193	query224_Heat\P\193-0
+81 Clausius , R. 	194	query224_Heat\S\194
+"81 Clausius"	"is"	"R."	194	query224_Heat\P\194-0
+( 1865 ) . 	195	query224_Heat\S\195
+( 1865 ) . 	195	query224_Heat\S\195
+The Mechanical Theory of Heat ] '' –with its Applications to the Steam Engine and to Physical Properties of Bodies . 	196	query224_Heat\S\196
+The Mechanical Theory of Heat ] '' –with its Applications to the Steam Engine and to Physical Properties of Bodies . 	196	query224_Heat\S\196
+London : John van Voorst , 1 Paternoster Row . 	197	query224_Heat\S\197
+"John van Voorst"	"is"	"1 Paternoster Row"	197	query224_Heat\P\197-0
+MDCCCLXVII . 	198	query224_Heat\S\198
+In 1865 , he came to define this ratio as entropy symbolized by S , such that , for a closed , stationary system : and thus , by reduction , quantities of heat δ Q ( an inexact differential ) are defined as quantities of TdS ( an exact differential ) : In other words , the entropy function S facilitates the quantification and measurement of heat flow through a thermodynamic boundary . 	199	query224_Heat\S\199
+In 1865 , he came to define this ratio as entropy symbolized by S , such that , for a closed , stationary system : and thus , by reduction , quantities of heat δ Q ( an inexact differential ) are defined as quantities of TdS ( an exact differential ) : In other words , the entropy function S facilitates the quantification and measurement of heat flow through a thermodynamic boundary . 	199	query224_Heat\S\199
+In 1865 , he came to define this ratio as entropy symbolized by S , such that , for a closed , stationary system : and thus , by reduction , quantities of heat δ Q ( an inexact differential ) are defined as quantities of TdS ( an exact differential ) : In other words , the entropy function S facilitates the quantification and measurement of heat flow through a thermodynamic boundary . 	199	query224_Heat\S\199
+In 1865 , he came to define this ratio as entropy symbolized by S , such that , for a closed , stationary system : and thus , by reduction , quantities of heat δ Q ( an inexact differential ) are defined as quantities of TdS ( an exact differential ) : In other words , the entropy function S facilitates the quantification and measurement of heat flow through a thermodynamic boundary . 	199	query224_Heat\S\199
+In 1865 , he came to define this ratio as entropy symbolized by S , such that , for a closed , stationary system : and thus , by reduction , quantities of heat δ Q ( an inexact differential ) are defined as quantities of TdS ( an exact differential ) : In other words , the entropy function S facilitates the quantification and measurement of heat flow through a thermodynamic boundary . 	199	query224_Heat\S\199
+In 1865 , he came to define this ratio as entropy symbolized by S , such that , for a closed , stationary system : and thus , by reduction , quantities of heat δ Q ( an inexact differential ) are defined as quantities of TdS ( an exact differential ) : In other words , the entropy function S facilitates the quantification and measurement of heat flow through a thermodynamic boundary . 	199	query224_Heat\S\199
+"heat δ Q"	"is"	"an inexact differential"	199	query224_Heat\P\199-0
+"quantities of heat δ Q"	"are defined"	"as quantities of TdS for a closed stationary system"	199	query224_Heat\P\199-1
+"quantities of heat δ Q"	"are defined"	"as quantities of TdS a closed stationary system thus"	199	query224_Heat\P\199-2
+"quantities of heat δ Q"	"are defined"	"as quantities of TdS by reduction"	199	query224_Heat\P\199-3
+"quantities of heat δ Q"	"are defined"	"as quantities of TdS"	199	query224_Heat\P\199-4
+"quantities of heat δ Q"	"are defined"	"as quantities of TdS"	199	query224_Heat\P\199-5
+"the entropy function S"	"facilitates"	"the quantification of heat flow In other words"	199	query224_Heat\P\199-6
+"the entropy function S"	"facilitates"	"the measurement of heat flow In other words"	199	query224_Heat\P\199-7
+"the entropy function S"	"facilitates"	"the quantification of heat flow through a thermodynamic boundary"	199	query224_Heat\P\199-8
+"the entropy function S"	"facilitates"	"the measurement of heat flow through a thermodynamic boundary"	199	query224_Heat\P\199-9
+"the entropy function S"	"facilitates"	"the quantification of heat flow"	199	query224_Heat\P\199-10
+"the entropy function S"	"facilitates"	"the measurement of heat flow"	199	query224_Heat\P\199-11
+To be precise , this equality is only valid , if the heat delta Q is applied reversibly . 	200	query224_Heat\S\200
+To be precise , this equality is only valid , if the heat delta Q is applied reversibly . 	200	query224_Heat\S\200
+To be precise , this equality is only valid , if the heat delta Q is applied reversibly . 	200	query224_Heat\S\200
+"this equality"	"is valid"	"only"	200	query224_Heat\P\200-0
+"this equality"	"is"	"valid"	200	query224_Heat\P\200-1
+"the heat delta Q"	"is applied"	"reversibly"	200	query224_Heat\P\200-2
+If , in contrast , irreversible processes are involved , e.g 	201	query224_Heat\S\201
+"irreversible processes"	"are involved"	"in contrast"	201	query224_Heat\P\201-0
+. 	202	query224_Heat\S\202
+some sort of friction , then instead of the above equation one has This is the second law of thermodynamics . 	203	query224_Heat\S\203
+"some sort of friction then instead of the above equation one"	"has"	"This is the second law of thermodynamics"	203	query224_Heat\P\203-0
+"some sort of friction then instead of the above equation one"	"has"	"This is the second law of thermodynamics"	203	query224_Heat\P\203-1
+"some sort of friction then instead of the above equation one"	"has"	"This is the second law of thermodynamics"	203	query224_Heat\P\203-2
+thumbright225pxA red-hot iron rod from whichheat transferto the surrounding environment will be primarily throughThermal radiationradiation . 	204	query224_Heat\S\204
+"the surrounding environment"	"will be"	"primarily throughThermal radiationradiation whichheat transferto"	204	query224_Heat\P\204-0
+The discipline of heat transfer , typically considered an aspect of mechanical engineering and chemical engineering , deals with specific applied methods by which thermal energy in a system is generated , or converted , or transferred to another system . 	205	query224_Heat\S\205
+"The discipline of heat transfer"	"be considered"	"typically an aspect of mechanical engineering"	205	query224_Heat\P\205-0
+"The discipline of heat transfer"	"be considered"	"typically an aspect of mechanical chemical engineering"	205	query224_Heat\P\205-1
+"an aspect of mechanical engineering"	"is"	"deals with specific applied methods"	205	query224_Heat\P\205-2
+"an aspect of mechanical engineering"	"is"	"deals with specific applied converted"	205	query224_Heat\P\205-3
+"an aspect of mechanical engineering"	"is"	"deals with specific applied transferred to another system"	205	query224_Heat\P\205-4
+"an aspect of mechanical chemical engineering"	"is"	"deals with specific applied methods"	205	query224_Heat\P\205-5
+"an aspect of mechanical chemical engineering"	"is"	"deals with specific applied converted"	205	query224_Heat\P\205-6
+"an aspect of mechanical chemical engineering"	"is"	"deals with specific applied transferred to another system"	205	query224_Heat\P\205-7
+"thermal energy in a system"	"is generated"	"specific applied methods by which"	205	query224_Heat\P\205-8
+"thermal energy in a system"	"is generated"	"specific applied converted by which"	205	query224_Heat\P\205-9
+"thermal energy in a system"	"is generated"	"specific applied converted transferred to another system by which"	205	query224_Heat\P\205-10
+"thermal energy in a system"	"is generated"	"specific applied methods"	205	query224_Heat\P\205-11
+"thermal energy in a system"	"is generated"	"specific applied converted"	205	query224_Heat\P\205-12
+"thermal energy in a system"	"is generated"	"specific applied converted transferred to another system"	205	query224_Heat\P\205-13
+Although the definition of heat implicitly means the transfer of energy , the term heat transfer encompasses this traditional usage in many engineering disciplines and laymen language . 	206	query224_Heat\S\206
+"the definition of heat"	"means"	"the transfer of energy implicitly"	206	query224_Heat\P\206-0
+"the definition of heat"	"means"	"the transfer of energy"	206	query224_Heat\P\206-1
+"the term heat transfer"	"encompasses"	"this traditional usage in many engineering disciplines the transfer of energy"	206	query224_Heat\P\206-2
+"the term heat transfer"	"encompasses"	"this traditional usage in many engineering laymen language the transfer of energy"	206	query224_Heat\P\206-3
+"the term heat transfer"	"encompasses"	"this traditional usage the transfer of energy"	206	query224_Heat\P\206-4
+Heat transfer includes the mechanisms of heat conduction , thermal radiation , and mass transfer . 	207	query224_Heat\S\207
+"Heat transfer"	"includes"	"the mechanisms of heat conduction"	207	query224_Heat\P\207-0
+"Heat transfer"	"includes"	"the mechanisms of heat thermal radiation"	207	query224_Heat\P\207-1
+"Heat transfer"	"includes"	"the mechanisms of heat mass transfer"	207	query224_Heat\P\207-2
+In engineering , the term convective heat transfer is used to describe the combined effects of conduction and fluid flow and is often regarded as an additional mechanism of heat transfer . 	208	query224_Heat\S\208
+"the term convective heat transfer"	"is used"	"to describe the combined effects of conduction flow 208 In engineering"	208	query224_Heat\P\208-0
+"the term convective heat transfer"	"is used"	"to describe the combined effects of fluid flow 208 In engineering"	208	query224_Heat\P\208-1
+"In engineering"	"is regarded"	"as an additional mechanism of heat transfer often"	208	query224_Heat\P\208-2
+"In engineering"	"is regarded"	"as an additional mechanism of heat transfer"	208	query224_Heat\P\208-3
+Although distinct physical laws may describe the behavior of each of these methods , real systems often exhibit a complicated combination which are often described by a variety of complex mathematical methods . 	209	query224_Heat\S\209
+"distinct physical laws"	"may describe"	"the behavior of each of these methods"	209	query224_Heat\P\209-0
+"real systems"	"exhibit"	"a complicated combination often"	209	query224_Heat\P\209-1
+"real systems"	"exhibit"	"a complicated combination"	209	query224_Heat\P\209-2
+"a complicated combination"	"are described"	"by a variety of complex mathematical methods often"	209	query224_Heat\P\209-3
+"a complicated combination"	"are described"	"by a variety of complex mathematical methods"	209	query224_Heat\P\209-4
+In accordance with the first law , heat may be converted to or from work by so-called heat engine , e.g 	210	query224_Heat\S\210
+In accordance with the first law , heat may be converted to or from work by so-called heat engine , e.g 	210	query224_Heat\S\210
+In accordance with the first law , heat may be converted to or from work by so-called heat engine , e.g 	210	query224_Heat\S\210
+In accordance with the first law , heat may be converted to or from work by so-called heat engine , e.g 	210	query224_Heat\S\210
+In accordance with the first law , heat may be converted to or from work by so-called heat engine , e.g 	210	query224_Heat\S\210
+. 	211	query224_Heat\S\211
+the steam engine . 	212	query224_Heat\S\212
+Heat engines achieve maximum efficiency when the difference between initial and final temperature is largest , resulting in minimal loss . 	213	query224_Heat\S\213
+"Heat engines"	"achieve"	"maximum efficiency when the difference between initial temperature is largest resulting in minimal loss"	213	query224_Heat\P\213-0
+"Heat engines"	"achieve"	"maximum efficiency when the difference between final temperature is largest resulting in minimal loss"	213	query224_Heat\P\213-1
+"Heat engines"	"achieve"	"maximum efficiency resulting in minimal loss"	213	query224_Heat\P\213-2
+"the difference between initial temperature"	"is largest"	"when"	213	query224_Heat\P\213-3
+"the difference between final temperature"	"is largest"	"when"	213	query224_Heat\P\213-4
+"the difference between initial temperature"	"is"	"largest"	213	query224_Heat\P\213-5
+"the difference between final temperature"	"is"	"largest"	213	query224_Heat\P\213-6
+Heat pump on the other hand operate at a small temperature difference , transferring heat at low temperatures from a reservoir , e.g 	214	query224_Heat\S\214
+"Heat pump on the other hand"	"operate"	"at a small temperature difference transferring heat at low temperatures from a reservoir"	214	query224_Heat\P\214-0
+"Heat pump on the other hand"	"operate"	"at a small temperature difference transferring heat"	214	query224_Heat\P\214-1
+"Heat pump on the other hand"	"operate"	"transferring heat at low temperatures from a reservoir"	214	query224_Heat\P\214-2
+"Heat pump on the other hand"	"operate"	"transferring heat"	214	query224_Heat\P\214-3
+. 	215	query224_Heat\S\215
+from the soil , and deliver it by means of electrical work for heating purposes . 	216	query224_Heat\S\216
+Now the temperature difference should be small , to keep the lost electrical work small . 	217	query224_Heat\S\217
+"the temperature difference"	"should be 217 small"	"Now"	217	query224_Heat\P\217-0
+"the temperature difference"	"should be"	"217 small"	217	query224_Heat\P\217-1
+Energy note Category : Heat transfer Category :Thermodynamics Category :Fundamental physics concepts ar :حرارة ay :Lupi az :İstilik bg :Топлина bs:Toplota ca :Calor ceb:Kainit cs :Teplo sn :Madziya cy :Gwres da :Varme de :Wärme et :Soojus el :Θερμότητα es :Calor eo :Varmo eu:Bero fa :گرما fr:Capacité thermique molaire gl:Calor gu :ઉષ્મ ા ko :열 hi :ऊष्म ा hr:Toplina io:Kaloro id :Panas is :Varmi it :Calore he :חום ( פיזיקה ) ht:Chalè ku:Têhn ( fîzîk ) la:Calor lv :Siltums lt :Šiluma li:Wermte ln :Eyángala ml :താപ ം mn :Дулаан nl :Warmte ja :熱 no :Varme pl:Ciepło pt:Calor ro:Căldură ru:Количество теплоты scn:Caluri simple : Heat sk:Teplo sl:Toplota sr :Топлота sh:Toplina su:Panas fi:Lämpö sv :Värme th :ความร้อน tr :Isı uk :Кількість теплоти ur :حرارت fiu-vro:Lämmüs yi :היץ zh :熱量 It is something which may be transferred from one body to another , according to the second law of thermodynamics . 	218	query224_Heat\S\218
+Energy note Category : Heat transfer Category :Thermodynamics Category :Fundamental physics concepts ar :حرارة ay :Lupi az :İstilik bg :Топлина bs:Toplota ca :Calor ceb:Kainit cs :Teplo sn :Madziya cy :Gwres da :Varme de :Wärme et :Soojus el :Θερμότητα es :Calor eo :Varmo eu:Bero fa :گرما fr:Capacité thermique molaire gl:Calor gu :ઉષ્મ ા ko :열 hi :ऊष्म ा hr:Toplina io:Kaloro id :Panas is :Varmi it :Calore he :חום ( פיזיקה ) ht:Chalè ku:Têhn ( fîzîk ) la:Calor lv :Siltums lt :Šiluma li:Wermte ln :Eyángala ml :താപ ം mn :Дулаан nl :Warmte ja :熱 no :Varme pl:Ciepło pt:Calor ro:Căldură ru:Количество теплоты scn:Caluri simple : Heat sk:Teplo sl:Toplota sr :Топлота sh:Toplina su:Panas fi:Lämpö sv :Värme th :ความร้อน tr :Isı uk :Кількість теплоти ur :حرارت fiu-vro:Lämmüs yi :היץ zh :熱量 It is something which may be transferred from one body to another , according to the second law of thermodynamics . 	218	query224_Heat\S\218
+"Têhn la"	"is"	"fîzîk"	218	query224_Heat\P\218-0
+"Têhn la"	"is"	"fîzîk"	218	query224_Heat\P\218-1
+"Têhn la"	"is"	"fîzîk"	218	query224_Heat\P\218-2
+"Têhn la"	"is"	"fîzîk"	218	query224_Heat\P\218-3
+It is a measurable quantity , and thus treated mathematically . 	219	query224_Heat\S\219
+"It"	"is"	"a measurable quantity"	219	query224_Heat\P\219-0
+"It"	"is a measurable treated"	"mathematically"	219	query224_Heat\P\219-1
+"It"	"is"	"a measurable treated"	219	query224_Heat\P\219-2
+It cannot be treated as a substance , because it may be transformed into something that is not a substance , e.g 	220	query224_Heat\S\220
+It cannot be treated as a substance , because it may be transformed into something that is not a substance , e.g 	220	query224_Heat\S\220
+It cannot be treated as a substance , because it may be transformed into something that is not a substance , e.g 	220	query224_Heat\S\220
+It cannot be treated as a substance , because it may be transformed into something that is not a substance , e.g 	220	query224_Heat\S\220
+It cannot be treated as a substance , because it may be transformed into something that is not a substance , e.g 	220	query224_Heat\S\220
+. 	221	query224_Heat\S\221
+, mechanical work . 	222	query224_Heat\S\222
+Heat is one of the forms of energy . 	223	query224_Heat\S\223
+"Heat"	"is one"	"of the forms of energy"	223	query224_Heat\P\223-0
+"Heat"	"is"	"one"	223	query224_Heat\P\223-1
+The energy transferred from a high-temperature system to a lower-temperature system is called heat . 	224	query224_Heat\S\224
+"The energy"	"transferred"	"from a high-temperature system to a lower-temperature system"	224	query224_Heat\P\224-0
+"The energy"	"transferred"	"from a high-temperature system"	224	query224_Heat\P\224-1
+- Department of Physics and Astronomy , Georgia State University : Hyperphysics (online ) Any spontaneous flow of energy from one system to another caused by a difference in temperature between the systems is called heat . 	225	query224_Heat\S\225
+"Department of Physics"	"is"	"Georgia State University"	225	query224_Heat\P\225-0
+"Department of Astronomy"	"is"	"Georgia State University"	225	query224_Heat\P\225-1
+"Department of Astronomy"	"is"	"Georgia State University"	225	query224_Heat\P\225-2
+"Department of Astronomy"	"is"	"Georgia State University"	225	query224_Heat\P\225-3
+"Department of Physics Hyperphysics Any spontaneous flow of energy from one system to another caused by a difference in temperature between the systems"	"is called"	"heat"	225	query224_Heat\P\225-4
+"Department of Astronomy Hyperphysics Any spontaneous flow of energy from one system to another caused by a difference in temperature between the systems"	"is called"	"heat"	225	query224_Heat\P\225-5
+Schroeder , Daniel V. 	226	query224_Heat\S\226
+"Schroeder"	"is"	"Daniel V."	226	query224_Heat\P\226-0
+An introduction to thermal physics 2000 Addison-Wesley San Francisco _ California 0-321-27779-1 Heat is defined as any spontaneous flow of energy from one system to another , caused by a difference in temperature between the systems . 	227	query224_Heat\S\227
+"Addison-Wesley San Francisco _ California 0-321-27779-1 Heat"	"is defined"	"as any spontaneous flow of energy from one system to another caused by a difference in temperature between the systems thermal physics"	2000	query224_Heat\P\227-0
+"Addison-Wesley San Francisco _ California 0-321-27779-1 Heat"	"is defined"	"thermal physics"	2000	query224_Heat\P\227-1
+"any spontaneous flow of energy from one system to another"	"be caused"	"by a difference in temperature between the systems"	2000	query224_Heat\P\227-2
+18 Schroeder , Daniel V. 	228	query224_Heat\S\228
+"18 Schroeder"	"is"	"Daniel V."	228	query224_Heat\P\228-0
+An introduction to thermal physics 2000 Addison-Wesley San Francisco _ California 0-321-27779-1 Heat is defined as any spontaneous flow of energy from one system to another , caused by a difference in temperature between the systems . 	229	query224_Heat\S\229
+"Addison-Wesley San Francisco _ California 0-321-27779-1 Heat"	"is defined"	"as any spontaneous flow of energy from one system to another caused by a difference in temperature between the systems thermal physics"	2000	query224_Heat\P\229-0
+"Addison-Wesley San Francisco _ California 0-321-27779-1 Heat"	"is defined"	"thermal physics"	2000	query224_Heat\P\229-1
+"any spontaneous flow of energy from one system to another"	"be caused"	"by a difference in temperature between the systems"	2000	query224_Heat\P\229-2
+18 dot{ Q } = {dQover dt } , ! 	230	query224_Heat\S\230
+. 	231	query224_Heat\S\231
+mathrm{d } U = delta Q_text{in } - delta W_text{out } quad{rm{(first , ,law ) } } , delta Q_text{in } = mathrm{d } U + delta W_text{out } , delta Q_text{in } = mathrm{d } U + delta W_text{boundary } + delta W_text{other } , delta Q_text{in } = mathrm{d } H + delta W_text{other } , dU = TdS = delta Q_text{rev} . 	232	query224_Heat\S\232
+"mathrm d U = delta Q_text in delta W_text out quad rm first law"	"is"	"delta Q_text in = mathrm d U out"	232	query224_Heat\P\232-0
+"mathrm d U = delta Q_text in delta W_text out quad rm first law"	"is"	"delta Q_text in = mathrm d delta W_text out"	232	query224_Heat\P\232-1
+"mathrm d U = delta Q_text in delta W_text out quad rm first law"	"is"	"delta Q_text in = mathrm d out delta Q_text"	232	query224_Heat\P\232-2
+"delta W_text"	"is"	"boundary"	232	query224_Heat\P\232-3
+"delta W_text"	"is"	"other"	232	query224_Heat\P\232-4
+"mathrm d H W_text"	"is"	"other"	232	query224_Heat\P\232-5
+"mathrm d delta W_text"	"is"	"other"	232	query224_Heat\P\232-6
+"mathrm d H W_text"	"is"	"dU = TdS = delta Q_text"	232	query224_Heat\P\232-7
+"mathrm d delta W_text"	"is"	"dU = TdS = delta Q_text"	232	query224_Heat\P\232-8
+"delta Q_text"	"is"	"rev"	232	query224_Heat\P\232-9
+dU = - pdV = - delta W_text{rev} , Q = int_{ T_0 }^{ T_f}C_v ,dT = Delta U, ! 	233	query224_Heat\S\233
+dU = - pdV = - delta W_text{rev} , Q = int_{ T_0 }^{ T_f}C_v ,dT = Delta U, ! 	233	query224_Heat\S\233
+"delta W_text"	"is"	"rev"	233	query224_Heat\P\233-0
+"delta W_text"	"is"	"Q = int _ T_0 ^ T_f C_v"	233	query224_Heat\P\233-1
+"int _ T_0 ^ T_f C_v"	"is"	"dT = Delta U"	233	query224_Heat\P\233-2
+Q = int_{ T_0 }^{ T_f}C_p ,dT = Delta U + W_text{boundary } = Delta U + int_{V_0 }^{V_f}P ,dV , ! 	234	query224_Heat\S\234
+Q = int_{ T_0 }^{ T_f}C_p ,dT = Delta U + W_text{boundary } = Delta U + int_{V_0 }^{V_f}P ,dV , ! 	234	query224_Heat\S\234
+"int _ T_0 ^ T_f C_p"	"is"	"dT = Delta U boundary = Delta U"	234	query224_Heat\P\234-0
+"int _ T_0 ^ T_f C_p"	"is"	"dT = Delta W_text boundary = Delta U + int _ V_0 ^ V_f P dV"	234	query224_Heat\P\234-1
+"int _ T_0 ^ T_f C_p"	"is"	"dT = Delta U boundary = Delta int _ V_0 ^ V_f P"	234	query224_Heat\P\234-2
+"int _ T_0 ^ T_f C_p"	"is"	"dT = Delta U boundary = Delta dV"	234	query224_Heat\P\234-3
+= Delta H { } frac { Q}{ T} Delta S = frac { Q}{ T} delta Q = T dS , delta Q leq T dS quad{rm{ (second , ,law ) }} , . 	235	query224_Heat\S\235
+= Delta H { } frac { Q}{ T} Delta S = frac { Q}{ T} delta Q = T dS , delta Q leq T dS quad{rm{ (second , ,law ) }} , . 	235	query224_Heat\S\235
+"frac T delta Q = T dS"	"is"	"delta Q leq T dS quad rm second law"	235	query224_Heat\P\235-0
+Effect of sun angle on climate Heat death of the Universe Heat diffusion Heat equation Heat exchanger Heat flux sensor Heat transfer coefficient History of heat Sigma heat Shock heating Thermal management of electronic devices and systems Thermometer Relativistic heat conduction Waste heat Guggenheim E.A. 	236	query224_Heat\S\236
+Edward A. 	237	query224_Heat\S\237
+Guggenheim Thermodynamics . 	238	query224_Heat\S\238
+An Advanced Treatment for Chemists and Physicists Amsterdam North-Holland Publishing Company . 	239	query224_Heat\S\239
+1949 1967 fifth Kondepudi D. 	240	query224_Heat\S\240
+Dilip Kondepudi Introduction to Modern Thermodynamics Chichester UK Wiley 2008 978–0–470–01598–8 . 	241	query224_Heat\S\241
+Partington J.R. 	242	query224_Heat\S\242
+J.R. 	243	query224_Heat\S\243
+Partington An Advanced Treatise on Physical Chemistry . 	244	query224_Heat\S\244
+Fundamental Principles . 	245	query224_Heat\S\245
+The Properties of Gases , London Longmans _ Green and Co. 	246	query224_Heat\S\246
+"The Properties of Gases"	"is"	"London Longmans _ Green"	246	query224_Heat\P\246-0
+"The Properties of Gases"	"is"	"London Longmans _ Co."	246	query224_Heat\P\246-1
+volume 1 1949 Planck M. 	247	query224_Heat\S\247
+Max Planck translated by Ogg , A. 	248	query224_Heat\S\248
+"Max Planck"	"translated"	"by Ogg"	248	query224_Heat\P\248-0
+"Max Planck"	"translated"	"by Ogg"	248	query224_Heat\P\248-1
+Treatise on Thermodynamics London Longmans _ Green and Co. 	249	query224_Heat\S\249
+1897 1903 first English http ://www.onread.com/reader/145819 	250	query224_Heat\S\250
+Planck M. 	251	query224_Heat\S\251
+Max Planck translated by Ogg , A. 	252	query224_Heat\S\252
+"Max Planck"	"translated"	"by Ogg"	252	query224_Heat\P\252-0
+"Max Planck"	"translated"	"by Ogg"	252	query224_Heat\P\252-1
+Treatise on Thermodynamics London Longmans _ Green and Co. 	253	query224_Heat\S\253
+1922 1927 third English Heat b00fq3d4 Heat - Article about extremely high temperature generated by scientists ( Foxnews.com 	254	query224_Heat\S\254
+"Article about extremely high temperature"	"be generated"	"by scientists Foxnews.com"	254	query224_Heat\P\254-0
+) - ChE Online Resources 	255	query224_Heat\S\255

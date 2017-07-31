@@ -1,0 +1,285 @@
+0	
+1	SVA (S: Englewood@12, V: "is in", C: U.S.@17)	SVA (S: Englewood@12, V: "is in", C: Jersey@15)
+2	
+3	SVC (S: Travolta@4, V: "is", C: b@6)
+4	
+5	SVC (C: actor@14, V: is@11, S: Travolta@3)
+6	SVC (V: became@3, S: Travolta@1, A?: first@2, ACOMP: known@4, A?: Welcome@15)	SVA (V: Welcome@15, S: appearing@10, A!: Back@16)	SVO (V: starring@20, S: appearing@10, A?: Back@16, A?: in@21, O: Fever@28)
+7	SVO (S: Travolta@1, V: "has", O: career@4)	SVA (V: declined@5, S: career@4, A!: in@6)	SVO (V: continued@11, S: career@4, A?: in@6, XCOMP: deteriorate@13)
+8	SVO (S: His@1, V: "has", O: career@2)	SVO (V: enjoyed@3, S: career@2, O: resurgence@5, A?: with@9)	SVO (V: he@17, S: career@2, O: resurgence@5, A?: with@9)	SVO (S: his@10, V: "has", O: role@11)
+9	SVA (V: nominated@3, S: Travolta@1, A!: for@4, A?: for@11)
+10	SVO (V: won@2, S: He@1, O: Award@6)	SVO (S: his@17, V: "has", O: performance@18)
+11	SVC (S: Travolta@1, V: "is", C: youngest@4)	SVC (S: Travolta@1, V: "is", C: Garth@10)	SVC (S: July@19, V: "is", C: http@23)
+12	
+13	SVC (S: July@16, V: "is", C: http@20)
+14	
+15	SVOO (V: born@7, S: London@5, O: suburb@18, IO: July@1)	SVOO (V: raised@9, S: London@5, A?: in@10, O: suburb@18, IO: July@1)	SVA (S: Englewood@11, V: "is in", C: Jersey@14)
+16	SVO (S: His@1, V: "has", O: father@2)	SVC (S: father@2, V: "is", C: Travolta@5)	SVC (S: father@2, V: "is", C: http@14)	SVC (S: Travolta@5, V: "is", C: November@7)
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	SVC (C: player@7, V: was@2, S: 2011-05-14@1, A?: turned@8)	SVA (V: "be turned", S: player@7, O: salesman@10, A!: in@13)
+25	
+26	
+27	
+28	
+29	SVC (S: August@1, V: "is", C: http@5)
+30	
+31	
+32	
+33	SVC (S: August@1, V: "is", C: Cecilia@9)	SVO (S: His@5, V: "has", O: mother@6)	SVC (S: Cecilia@9, V: "is", C: Burke@12)	SVC (S: Burke@12, V: "is", C: January@14)	SVC (C: actress@23, V: was@21, S: August@1)	SVC (C: acted@40, V: was@21, S: August@1, A?: before@43)	SVA (V: appeared@28, S: singer@25, A!: in@29)	SVC (S: Sisters@32, V: "is", C: group@37)
+34	SVC (S: Studio@6, V: "is", C: siblings@10)	SVO (S: His@9, V: "has", O: siblings@10)	SVC (S: siblings@10, V: "is", C: Joey@12)	SVC (S: siblings@10, V: "is", C: Ellen@14)	SV (V: acted@26, S: Stated@1)
+35	SVO (S: His@1, V: "has", O: father@2)	SVC (C: American@7, V: was@3, S: father@2)	SVO (S: his@9, V: "has", O: mother@10)	SVC (C: American@13, V: was@11, S: mother@10)
+36	
+37	SVO (S: Travolta@1, V: "has", O: Irish@3)
+38	
+39	
+40	SVC (S: July@1, V: "is", C: Begorrah@5)
+41	
+42	SVO (S: Travolta@1, V: "has", O: Irish@3)
+43	
+44	
+45	
+46	
+47	
+48	
+49	
+50	
+51	SVA (V: grew@6, S: he@5, A!: in@8)	SVO (V: said@16, S: he@5, A?: in@8, CCOMP: Irish@22)	SVO (S: his@18, V: "has", O: household@19)	SVC (C: Irish@22, V: was@20, S: household@19, A?: predominantly@21, A?: in@23)
+52	
+53	
+54	
+55	
+56	
+57	
+58	SVC (S: July@1, V: "is", C: http@14)	SVO (S: Reader@9, V: "has", O: http@14)
+59	SVC (S: July@1, V: "is", C: http@14)	SVO (S: Reader@9, V: "has", O: http@14)
+60	SVOC (V: raised@7, S: He@5, XCOMP: Catholic@9, O: July@1)
+61	
+62	
+63	SVC (S: School@10, V: "is", C: http@12)
+64	
+65	SVA (V: moved@16, S: Travolta@15, A!: across@17, A?: to@21)	SVO (V: landed@26, S: Travolta@15, A?: across@17, A?: to@21, O: role@28)
+66	SVO (S: Brothers@5, V: "has", O: song@7)	SVO (V: Dream@9, S: song@7, O: Drummin@10)
+67	
+68	
+69	
+70	
+71	SVC (S: March@1, V: "is", C: http@11)
+72	
+73	SVC (S: August@11, V: "is", C: August@15)	SVC (S: August@15, V: "is", C: http@21)
+74	
+75	SVOC (V: moved@21, S: He@19, A?: August@15, A-: then@20, A?: to@22, XCOMP: further@26, O: August@11)	SVO (S: his@27, V: "has", O: career@28)
+76	SVO (S: Travolta@1, V: "has", O: role@6)	SVA (V: was@7, S: role@6, A!: as@8, A?: in@12)
+77	
+78	SVA (V: 's@7, S: What@6, A!: on@8)
+79	
+80	SVA (V: 's@7, S: What@6, A!: on@8)
+81	SVO (S: his@10, V: "has", O: role@14)	SVO (V: was@15, S: August@5, A?: as@16, O: July@1)	SVC (S: Nolan@18, V: "is", C: bully@21)	SVC (S: Nolan@18, V: "is", C: Carrie@39)	SVA (V: goaded@24, S: bully@21, A!: into@25)	SVO (S: Spacek@31, V: "has", O: character@33)	SVC (S: Carrie@39, V: "is", C: 1976@41)
+82	
+83	
+84	
+85	
+86	SV (V: 's@5, S: What@4)	SVC (S: July@11, V: "is", C: August@15)	SVC (S: July@11, V: "is", C: 2009@18)	SVO (V: landed@25, S: 9B0DE5DD1030F93BA35754C0A9609C8B63@3, A?: July@11, O: role@28, A?: Welcome@36)	SVO (V: landed@25, S: he@24, A?: July@11, O: role@28, A?: Welcome@36)	SVO (S: his@26, V: "has", O: role@28)	SVA (V: Welcome@36, S: Barbarino@31, A!: Back@37)	SVC (S: sister@49, V: "is", C: Ellen@51)	SVO (S: his@48, V: "has", O: sister@49)	SVO (V: appeared@55, S: sister@49, A?: in@46, A?: also@53, A?: occasionally@54, O: Kotter@39)	SVO (S: Horshack@59, V: "has", O: mother@61)
+87	
+88	
+89	
+90	
+91	SVO (S: Sister@2, V: "has", O: Inspiration@4)	SVA (V: aired@26, S: Ellen@9, A!: on@27)	SVA (V: aired@26, S: show@25, A!: on@27)
+92	SVO (V: had@6, S: Travolta@5, A?: Around@1, O: hit@8)	SVO (V: Let@12, S: entitled@10, O: hit@8)
+93	
+94	
+95	SVA (V: talks@3, S: Travolta@2, A!: about@4)	SVO (S: his@5, V: "has", O: past@6)	SVO (S: his@8, V: "has", O: present@9)	SVO (S: his@11, V: "has", O: destiny@12)	SVC (S: March@17, V: "is", C: http@27)
+96	
+97	SVA (V: talks@3, S: Travolta@2, A!: about@4)	SVO (S: his@5, V: "has", O: past@6)	SVO (S: his@8, V: "has", O: present@9)	SVO (S: his@11, V: "has", O: destiny@12)	SVC (S: March@17, V: "is", C: http@25)
+98	
+99	SVC (S: January@1, V: "is", C: http@9)
+100	
+101	SVC (S: January@1, V: "is", C: August@5)	SVA (V: appeared@16, S: he@15, A!: in@17)	SVO (S: his@20, V: "has", O: roles@24)	SVC (S: Fever@31, V: "is", C: 1977@33)	SVC (S: Grease@40, V: "is", C: 1978@42)
+102	SVA (V: were@3, S: films@2, A!: among@4)	SVO (V: catapulted@14, S: films@2, A?: among@4, O: Travolta@15, A?: to@16)
+103	
+104	SVC (V: acting@4, S: who@2, CCOMP: dire@9)	SVC (C: dire@9, V: was@8, S: Staying@6)
+105	SVC (C: anything@3, V: was@2, S: Perfect@1)
+106	SVO (S: Tarantino@5, V: "has", O: Fiction@8)	SVA (V: is@11, S: Travolta@10, A?: Now@1, A!: back@12)
+107	SVC (S: October@5, V: "is", C: http@14)
+108	SVC (V: acting@4, S: who@2, CCOMP: dire@9)	SVC (C: dire@9, V: was@8, S: Staying@6)
+109	SVC (C: anything@3, V: was@2, S: Perfect@1)
+110	SVO (S: Tarantino@5, V: "has", O: Fiction@8)	SVA (V: is@11, S: Travolta@10, A?: Now@1, A!: back@12)
+111	SVOO (V: earned@17, S: Jim@1, IO: him@18, O: nomination@22)	SVOO (V: earned@17, S: The@3, IO: him@18, O: nomination@22)	SVOO (V: earned@17, S: October@5, IO: him@18, O: nomination@22)
+112	
+113	
+114	
+115	
+116	
+117	
+118	SVC (V: became@18, S: Travolta@17, A?: Variety@4, A?: December@5, XCOMP: one@19)	SVA (V: "be nominated", S: performers@23, A!: ever@24, A?: for@26)
+119	
+120	
+121	SVC (S: April@7, V: "is", C: http@17)	SVC (S: April@7, V: "is", C: August@11)
+122	
+123	SVC (S: April@7, V: "is", C: mother@16)	SVC (S: April@7, V: "is", C: August@11)	SVO (S: His@15, V: "has", O: mother@16)	SVO (S: his@18, V: "has", O: sister@19)	SVA (V: appeared@21, S: Spotlight@1, A!: as@22, A?: in@24)	SVO (S: his@29, V: "has", O: sister@30)
+124	SVO (V: performed@2, S: Travolta@1, O: several@3)
+125	
+126	
+127	SVC (S: Travolta@1, V: "is", C: R.E.M.@3)
+128	SVC (S: Moby@2, V: "is", C: Mtv.com@8)
+129	SVC (S: July@1, V: "is", C: http@9)
+130	
+131	SVC (S: Travolta@1, V: "is", C: R.E.M.@3)
+132	SVC (S: Moby@2, V: "is", C: Mtv.com@8)
+133	SVC (S: July@1, V: "is", C: August@5)	SVO (V: inspired@13, S: Travolta@12, A?: July@1, O: craze@18)	SVA (V: followed@20, S: craze@18, A!: on@21)	SVO (S: his@25, V: "has", O: film@27)	SVC (S: film@27, V: "is", C: Cowboy@30)	SVO (V: starred@35, S: he@34, A?: in@32, A?: with@36, O: heels@23)
+134	
+135	
+136	
+137	
+138	SVC (S: February@4, V: "is", C: August@8)	SVA (V: starred@17, S: Travolta@16, A!: in@18)	SVA (V: starred@17, S: John@1, A!: in@18)	SVO (V: sidelined@27, S: failures@25, O: career@30)	SVO (S: his@28, V: "has", O: career@30)
+139	SVO (V: included@2, S: These@1, O: Perfect@3)	SVC (S: Perfect@3, V: "is", C: comedy@18)	SVA (V: "be co-starring", S: Perfect@3, O: Curtis@8)	SVA (V: "be reteaming", S: comedy@18, O: him@20, A!: with@21)
+140	SV (V: offered@6, S: he@4, A?: During@1)	SVO (V: turned@9, S: he@4, A?: During@1, O: roles@13)	SVC (V: become@17, S: what@15, XCOMP: hits@20, A?: including@22)
+141	SVO (V: http@17, S: Jackson@7, O: roller@3)
+142	SVO (V: went@27, S: both@24, A?: to@28, O: Jackson@7)
+143	
+144	SVO (V: goes@3, S: Travolta@2, O: Hog@6, A?: with@7)	SVO (S: his@8, V: "has", O: movie@11)	SVC (S: April@14, V: "is", C: August@18)	SVC (S: August@18, V: "is", C: http@23)
+145	SVO (V: goes@3, S: Travolta@2, O: Hog@6, A?: with@7)	SVO (S: his@8, V: "has", O: movie@11)	SVC (S: August@18, V: "is", C: London@22)	SVC (S: August@18, V: "is", C: Travolta@26)	SVO (V: starred@27, S: August@18, A?: in@28, O: April@14)	SV (V: Talking@32, S: Look@29)	SVO (V: grossed@35, S: Look@29, O: $@36, A?: making@39)	SVA (V: "be making", S: which@34, O: it@40)	SVO (S: his@41, V: "has", O: film@44)
+146	SVA (V: continued@2, S: Travolta@1, A!: to@3)	SVA (V: "be Look", S: sequels@6, CCOMP: Talking@10)	SVA (V: Talking@10, S: Who@8, A!: Too@11)	SV (V: Look@16, S: Who@8, A?: Too@11)	SVA (V: Talking@19, S: Look@16, A!: Now@20)
+147	SVA (V: was@3, S: it@2, A!: played@7)	SVOC (V: played@7, S: he@6, O: Vega@9, A?: in@10, CCOMP: revived@34)	SVC (S: Fiction@16, V: "is", C: 1994@18)	SVO (S: Tarantino@12, V: "has", O: Fiction@16)	SVOO (V: received@24, S: he@23, A?: for@21, O: nomination@28, IO: Fiction@16)	SVO (S: his@31, V: "has", O: career@32)	SV (V: revived@34, S: career@32)
+148	
+149	
+150	SV (V: =@4, S: DTL@1)
+151	
+152	
+153	
+154	SV (V: =@4, S: DTL@1)
+155	
+156	
+157	
+158	
+159	
+160	SVA (V: inundated@40, S: he@38, A!: with@41)	SVO (S: CRITIC@4, V: "has", O: NOTEBOOK@6)	SVO (V: Awaits@13, S: Travolta@12, A?: As@8, O: December@20)	SVO (S: His@14, V: "has", O: December@20)	SVOO (V: shifted@30, S: movie@29, O: him@31, A?: back@32, A?: onto@33, IO: December@20)
+161	SVO (V: include@6, S: roles@2, O: shark@10)	SVC (S: Shorty@13, V: "is", C: agent@20)	SVC (S: Shorty@13, V: "is", C: candidate@44)	SVC (S: Shorty@13, V: "is", C: 1995@15)	SVC (S: Face/Off@24, V: "is", C: 1997@26)	SVC (S: Action@35, V: "is", C: 1998@37)	SVC (S: Colors@47, V: "is", C: 1998@49)	SVO (S: General@58, V: "has", O: Daughter@60)	SVC (S: Daughter@60, V: "is", C: 1999@62)
+162	SVA (V: starred@3, S: Travolta@1, A?: also@2, A!: in@4)	SVC (S: Earth@6, V: "is", C: 2000@8)
+163	SVOO (V: played@7, S: he@6, A?: in@4, O: leader@9, IO: Hubbard@2)	SVO (V: enslaves@16, S: aliens@14, O: humanity@17, A?: on@18)
+164	SVO (V: received@3, S: film@2, O: reviews@7)	SVO (V: did@9, S: film@2, O: reviews@7, A?: poorly@11, A?: at@12)
+165	SVO (V: played@4, S: Travolta@3, O: Mrs.@5)
+166	SVC (S: Hairspray@7, V: "is", C: musical@11)	SVO (S: his@9, V: "has", O: musical@11)
+167	
+168	SVA (V: was@13, S: Travolta@12, A!: in@14)	SVO (V: met@24, S: he@23, O: Hyland@20, A?: filming@26)	SV (V: died@35, S: Hyland@34, A?: of@36, A?: in@39)
+169	
+170	SVC (S: March@2, V: "is", C: Biography@6)
+171	SVC (S: March@2, V: "is", C: Travolta@6)	SVA (V: "be married", S: Travolta@6, O: Preston@10, A!: in@11)
+172	SVO (V: had@3, S: couple@2, O: son@5)	SVC (S: son@5, V: "is", C: Jett@7)
+173	
+174	
+175	SVC (C: everything@9, V: was@8, S: protecting@6, A?: For@2)
+176	
+177	
+178	SVC (C: everything@9, V: was@8, S: protecting@6, A?: For@2)
+179	SVO (S: Their@2, V: "has", O: daughter@3)	SVC (S: daughter@3, V: "is", C: Bleu@6)	SVA (V: born@9, S: daughter@3, A!: in@10)
+180	SVC (C: pregnant@14, V: was@13, S: she@12, A?: with@15)	SVO (S: couple@17, V: "has", O: child@20)
+181	
+182	
+183	SV (V: Expecting@7, S: Travolta@2)
+184	
+185	
+186	
+187	SV (V: Expecting@7, S: Travolta@2)
+188	SVO (V: confirmed@11, S: May@1, A?: later@10, XCOMP: boy@15)	SVO (V: confirmed@11, S: People@5, A?: later@10, XCOMP: boy@15)	SVO (V: confirmed@11, S: 2010@9, A?: later@10, XCOMP: boy@15)
+189	
+190	
+191	SVA (V: "be Expecting", S: Travolta@5, O: Boy@8)
+192	
+193	
+194	
+195	SVA (V: "be Expecting", S: Travolta@5, O: Boy@8)
+196	
+197	SVC (S: August@1, V: "is", C: November@5)	SVC (S: August@1, V: "is", C: son@10)	SVC (S: August@1, V: "is", C: Benjamin@12)	SVO (S: Their@9, V: "has", O: son@10)	SVA (V: born@15, S: August@1, A!: on@16)
+198	
+199	
+200	
+201	
+202	
+203	
+204	SVO (V: attended@10, S: November@1, A?: regularly@9, O: counseling@12)	SVO (V: stated@16, S: Travolta@14, CCOMP: helped@20)	SVO (V: helped@20, S: therapy@18, O: marriage@22)
+205	
+206	
+207	SVC (V: keep@3, S: Therapy@1, XCOMP: real@5, A?: is@9)	SV (V: real@5, S: it@4)	SVA (V: is@9, S: honeymoon@8, A?: when@6, A!: over@10)	SVC (S: February@11, V: "is", C: February@18)
+208	
+209	SVC (V: keep@3, S: Therapy@1, XCOMP: real@5, A?: is@9)	SV (V: real@5, S: it@4)	SVA (V: is@9, S: honeymoon@8, A?: when@6, A!: pilot@30)	SVC (S: February@11, V: "is", C: February@18)	SVC (S: February@11, V: "is", C: September@22)	SVC (C: pilot@30, V: is@26, S: February@11)	SVOC (C: owns@32, V: is@26, S: February@11, O: aircraft@34)
+210	SVO (V: bears@3, S: plane@2, O: name@5)	SVO (S: his@12, V: "has", O: children@13)
+211	
+212	
+213	SVC (C: operator@8, V: was@5, S: Airways@4, A?: of@9)	SVOC (C: used@14, V: was@5, S: Airways@4, A?: of@9, O: Clipper@15, A?: in@16)	SVO (S: its@17, V: "has", O: names@18)
+214	SVO (V: bears@4, S: aircraft@3, O: marks@6, A?: acts@12)	SVA (V: acts@12, S: Travolta@11, A!: as@13, A?: flies@23)	SV (V: flies@23, S: he@22, A?: wherever@21)
+215	
+216	SVA (V: situated@12, S: estate@1, A!: on@13, A?: with@16)	SVO (S: its@17, V: "has", O: runway@19)	SVO (S: his@24, V: "has", O: door@26)
+217	SVOA (V: showed@3, S: Preston@2, O: picture@5, A!: on@8)	SVC (S: August@10, V: "is", C: episode@15)
+218	SVO (V: piloting@9, S: Travolta@7, A?: On@1, O: N728T@12, A?: at@13, A?: on@15, A?: experienced@23)	SVO (S: his@10, V: "has", O: N728T@12)	SVO (V: experienced@23, S: he@22, A?: when@21, O: failure@28, A?: flying@30)
+219	SVO (V: had@7, S: he@5, A?: During@1, A?: almost@6, O: collision@10)	SVA (V: "be attributed", S: collision@10, A!: to@18)
+220	
+221	SVO (S: her@16, V: "has", O: show@18)	SVO (V: announced@22, S: Winfrey@21, A?: On@1, CCOMP: taking@27)	SVOA (V: taking@27, S: she@24, O: audience@31, A!: on@32, A?: with@40)	SVO (S: her@28, V: "has", O: audience@31)	SVA (V: "be serving", S: Travolta@41, A!: as@43)
+222	SVO (V: helped@3, S: He@1, CCOMP: plan@5)	SVO (V: plan@5, S: Winfrey@4, O: trip@7)
+223	
+224	SVA (V: "be Taking", S: Oprah@1, O: Audience@3)	SVC (S: September@19, V: "is", C: http@23)
+225	SVA (V: "be Taking", S: Oprah@1, O: Audience@3)	SVC (C: practitioner@27, V: been@25, S: Travolta@23, A?: of@28, A?: since@30, A?: given@35)	SVO (V: given@35, S: he@33, A?: when@32, O: Dianetics@38, A?: while@39)	SVO (S: Devil@44, V: "has", O: Rain@46)	SVA (S: Durango@48, V: "is in", C: Mexico@50)
+226	
+227	
+228	SVC (S: May@7, V: "is", C: Successes@11)
+229	
+230	SVA (V: "be joining", S: May@5, O: celebrities@19)	SVA (V: flew@28, S: International@4, A?: May@5, A!: his@29)	SVA (V: flew@28, S: Travolta@27, A?: May@5, A!: his@29)
+231	
+232	
+233	
+234	
+235	SVO (S: their@35, V: "has", O: vacation@37)	SVC (S: January@10, V: "is", C: January@14)	SVO (S: Preston@26, V: "has", O: son@28)	SVC (S: son@28, V: "is", C: Jett@30)	SV (V: died@32, S: Hyde@5, A?: while@33)
+236	SVC (S: Travolta@2, V: "is", C: son@4)	SV (V: dies@8, S: Travolta@2, A?: at@9)
+237	
+238	SVC (S: January@1, V: "is", C: son@12)	SV (V: dies@16, S: January@1, A?: at@17)
+239	
+240	
+241	
+242	SVC (S: January@5, V: "is", C: certificate@16)	SVC (S: January@5, V: "is", C: January@9)	SVO (V: issued@18, S: January@5, O: Online@3)	SVOO (V: attributing@20, S: Online@3, O: cause@22, A?: to@25, IO: News@2)
+243	
+244	SVO (S: Travolta@12, V: "has", O: Son@14)	SV (V: Died@15, S: Son@14, A?: of@16)	SVC (S: January@21, V: "is", C: January@25)	SVC (S: January@21, V: "is", C: http@29)
+245	SVO (S: Travolta@12, V: "has", O: Son@14)	SV (V: Died@15, S: Son@14, A?: of@16)	SVC (S: January@21, V: "is", C: http@38)	SVC (S: January@21, V: "is", C: January@25)	SVC (S: January@21, V: "is", C: Jett@29)	SVO (V: had@32, S: January@21, O: history@34)
+246	
+247	
+248	SVO (S: Travolta@2, V: "has", O: Son@5)	SVOC (V: Dies@6, S: Son@5, O: People@7, O: www.people@20)
+249	
+250	
+251	SVO (S: Travolta@2, V: "has", O: Son@5)	SVO (V: Dies@6, S: Son@5, O: People@7)	SVC (S: January@8, V: "is", C: January@12)	SVC (S: January@8, V: "is", C: 2009@15)	SVA (V: "be suffered", S: 2009@15, A!: reportedly@16, A?: from@18, A?: as@21)
+252	
+253	
+254	SVO (S: Travolta@2, V: "has", O: Dead@6)
+255	
+256	
+257	SVO (S: Travolta@2, V: "has", O: Dead@6)
+258	SVC (S: January@2, V: "is", C: January@6)	SVC (S: January@2, V: "is", C: 2009@9)
+259	SVO (V: admits@4, S: Travolta@2, A?: finally@3, CCOMP: had@7)	SVOC (V: had@7, S: son@6, O: Autism@8, O: www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism@23)
+260	
+261	SVO (V: admits@4, S: Travolta@2, A?: finally@3, CCOMP: had@7)	SVOC (V: had@7, S: son@6, O: Autism@8, O: www.examiner.com/x-17410-Toledo-Autism--Parenting-Examiner~y2009m9d24-Travolta-finally-admits-that-son-had-Autism@23)
+262	SVO (V: confirmed@7, S: Travolta@4, O: speculations@8)	SVO (S: their@10, V: "has", O: son@11)	SVO (V: had@12, S: son@11, O: autism@13)	SVOC (V: suffered@15, S: son@11, O: autism@13, O: seizures@17)
+263	SVA (V: "be Help", S: Ran@9, O: Son@16, O: abcnews.go.com/Entertainment/john-travolta-bahamas-testify-extortion-case/story@31)	SVC (S: Son@16, V: "is", C: September@23)	SVC (S: Son@16, V: "is", C: http@27)	SVO (S: My@15, V: "has", O: Son@16)
+264	SVC (S: Son@19, V: "is", C: September@26)	SVC (S: Son@19, V: "is", C: http@30)	SVO (S: My@18, V: "has", O: Son@19)
+265	SVOO (V: made@5, S: They@4, O: statements@7, A?: giving@9, IO: 8649816@3)	SVO (S: their@6, V: "has", O: statements@7)	SVO (S: their@23, V: "has", O: son@24)	SVO (S: son@24, V: "has", O: death@26)
+266	
+267	SVO (V: declares@2, S: Judge@1, O: mistrial@3)	SVC (S: October@10, V: "is", C: June@14)
+268	SVO (V: declares@2, S: Judge@1, O: mistrial@3)	SVOO (V: dropped@19, S: Travolta@18, A?: June@14, O: charges@21, IO: October@10)
+269	
+270	
+271	SVA (V: "be drop", S: Travolta@2, O: charges@5, A!: September@11)	SVC (S: Travolta@2, V: "is", C: June@15)
+272	
+273	SVA (V: "be drop", S: Travolta@2, O: charges@5, A!: September@11)	SVOO (V: credited@21, S: Travolta@19, A?: June@15, O: family@23, A?: in@26, IO: Travolta@2)	SVOO (V: in@38, S: Travolta@19, A?: June@15, O: family@23, A?: in@26, IO: Travolta@2)	SVO (S: his@22, V: "has", O: family@23)	SVO (V: survive@29, S: him@28, O: death@32)	SVO (S: his@34, V: "has", O: son@35)	SVO (S: his@42, V: "has", O: career@44)
+274	
+275	SVO (V: Helped@5, S: Scientology@4, CCOMP: Heal@7)	SVO (V: Heal@7, S: Me@6, O: huffingtonpost.com@8)
+276	
+277	SVO (V: Helped@5, S: Scientology@4, CCOMP: Heal@7)	SVO (V: Heal@7, S: Me@6, O: huffingtonpost.com@8)
+278	SVO (S: son@21, V: "has", O: disease@23)	SVO (V: sparks@24, S: January@1, O: Testimony@27)	SVC (C: autistic@34, V: was@33, S: son@32)	SVO (S: Travolta@39, V: "has", O: son@42)	SVOO (V: dies@43, S: son@42, O: Travolta@48, IO: questions@37)	SVC (S: Travolta@48, V: "is", C: Travolta@51)	SVC (S: Travolta@48, V: "is", C: U.S.@69)	SVC (S: Travolta@48, V: "is", C: Actor@55)	SVC (S: Actor@55, V: "is", C: singer@57)	SVC (S: Actor@55, V: "is", C: dancer@59)
+279	SVA (V: "be winners", S: film@94)	SVC (S: winners@96, V: "is", C: Category@97)	SV (V: be@132, S: Travolta@131)	SV (V: ca@148, S: Траволта@147)	SVC (S: Drummin@355, V: "is", C: 1974@357)	SVC (S: Evil@361, V: "is", C: 1975@364)	SVOC (V: Let@369, S: uk@340, CCOMP: Go@371, CCOMP: Set@378)	SV (V: Go@371, S: You@370)	SVOA (V: Set@378, S: You@377, O: Dreams@380, A!: To@381)	SVO (S: My@379, V: "has", O: Dreams@380)
+280	SVC (S: Moon@1, V: "is", C: 1976@4)	SVC (S: Rainbows@7, V: "is", C: 1976@10)	SVO (V: Settle@13, S: Rainbows@7, O: Down@14)	SVC (S: Lady@21, V: "is", C: 1976@24)	SVC (S: Trouble@38, V: "is", C: 1976@41)	SVO (V: Say@47, S: They@46, O: What@44)	SVC (S: Crying@55, V: "is", C: 1976@58)	SVA (V: 'm@74, S: I@73, A!: Away@75, A?: From@76)	SV (V: Had@95, S: It@94)	SV (V: Know@107, S: I@104)	SVOC (C: Good@138, V: Be@136, S: I@134, O: What@108, A-: So@137, A?: At@139)	SVC (C: One@157, V: 're@155, S: You@154, A?: in@195)	SVO (V: Want@160, S: I@159, O: That@158)	SVC (S: 1@164, V: "is", C: 1978@166)	SVC (S: Lightnin@182, V: "is", C: 1978@185)	SV (V: Again@197, S: One@157)	SVC (S: Madness@204, V: "is", C: 1983@207)	SVC (S: People@226, V: "is", C: 1997@229)	SVO (V: Lost@241, S: I@240, O: You@242)	SVO (V: Lost@241, S: I@238, O: You@242)
+281	
+282	
+283	SVO (S: son@7, V: "has", O: disease@9)	SVO (V: sparks@10, S: revelation@2, O: Testimony@13)	SVC (C: autistic@20, V: was@19, S: son@18)	SVO (S: Travolta@25, V: "has", O: son@28)	SVOO (V: dies@29, S: son@28, O: http@30, IO: questions@23)
+284	

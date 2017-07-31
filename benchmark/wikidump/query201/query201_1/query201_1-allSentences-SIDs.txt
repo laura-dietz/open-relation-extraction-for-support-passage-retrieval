@@ -1,0 +1,135 @@
+0	Raspberry Pi 50px 320px Beta board ( retail board will not include pin header ) Raspberry Pi Foundation Early 2012 Single-board computer USD $ 25 and $ 35 ( GBP ~£16 and ~£22 ) ARM1176JZF-S 700 MHz Broadcom VideoCore IV SD Card Slot ( SD or SDHC card ) 128 or 256&nbsp; MiB Linux ( Debian GNU/Linux , Fedora and Arch Linux ) , www.raspberrypi 
+1	.org 
+2	The Raspberry Pi is a single-board computer developed in the UK by the Raspberry Pi Foundation . 
+3	Scheduled for public release in January 2012 , Raspberry Pi Foundation FAQ . 
+4	Retrieved 2011-12-10 . 
+5	the foundation plans to release two versions priced at USD $ 25 and $ 35 ( GBP ~£16 and ~£22 ) . 
+6	It is intended to stimulate the teaching of basic computer science in schools . 
+7	FAQs Raspberry Pi Foundation http ://www.raspberrypi 
+8	.org/ 
+9	?page_id=8 2011-10-06 FAQs Raspberry Pi Foundation http ://www.raspberrypi 
+10	.org/ 
+11	?page_id=8 2011-10-06 Cellan-Jones Rory Rory Cellan-Jones A £15 computer to inspire young programmers BBC News 2011-05-05 http ://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young 
+12	.html 
+13	Cellan-Jones Rory Rory Cellan-Jones A £15 computer to inspire young programmers BBC News 2011-05-05 http ://www.bbc.co.uk/blogs/thereporters/rorycellanjones/2011/05/a_15_computer_to_inspire_young 
+14	.html 
+15	Price Peter Can a £15 computer solve the programming gap ? BBC Click 2011-06-03 http ://news .bbc.co.uk/2/hi/programmes/click_online/9504208.stm 
+16	2011-07-02 Price Peter Can a £15 computer solve the programming gap ? BBC Click 2011-06-03 http ://news .bbc.co.uk/2/hi/programmes/click_online/9504208.stm 
+17	2011-07-02 http ://www.electronicsweekly 
+18	.com/Articles/2011/05/25/51129/Dongle-computer-lets-kids-discover-programming-on-a.htm 
+19	Dongle computer lets kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly http ://www.electronicsweekly 
+20	.com/Articles/2011/05/25/51129/Dongle-computer-lets-kids-discover-programming-on-a.htm 
+21	Dongle computer lets kids discover programming on a TV 2011-07-11 Bush Steve 2011-05-25 Electronics Weekly The design is based around a Broadcom BCM2835 SoC , which includes an ARM1176JZF-S 700&nbsp;MHz processor , VideoCore IV GPU , and 128 or 256&nbsp; megabyte ( MiB ) of RAM. 
+22	The design does not include a built-in hard disk or solid-state drive , instead relying on a SD card for booting and long-term storage . 
+23	This board is intended to run Linux based operating systems . 
+24	Development of the device is undertaken by the Raspberry Pi Foundation , a charitable organization registered with the Charity Commission for England and Wales . 
+25	Its aim is to "promote the study of computer science and related topics , especially at school level , and to put the fun back into learning computing . 
+26	" http ://www.raspberrypi 
+27	.org/ 
+28	Raspberry Pi Foundation Raspberry Pi Foundation 2011-07-02 http ://www.raspberrypi 
+29	.org/ 
+30	Raspberry Pi Foundation Raspberry Pi Foundation 2011-07-02 The Raspberry Pi Foundation will be promoting learning mainly in the Python programming language , http ://www.raspberrypi 
+31	.org/faqs#comment-132 
+32	FAQs Raspberry Pi July 26 , 2011 December 12 , 2011 Upton , Eben http ://www.raspberrypi 
+33	.org/faqs#comment-132 
+34	FAQs Raspberry Pi July 26 , 2011 December 12 , 2011 Upton , Eben http ://www.raspberrypi 
+35	.org/faqs#comment-1632 
+36	FAQs Raspberry Pi August 29 , 2011 December 12 , 2011 Upton , Liz http ://www.raspberrypi 
+37	.org/faqs#comment-1632 
+38	FAQs Raspberry Pi August 29 , 2011 December 12 , 2011 Upton , Liz but they also support BBC BASIC , http ://www.next-gen.biz/features/david-braben-interview 
+39	David Braben on Raspberry Pi Edge November 25 , 2011 December 08 , 2011 http ://www.next-gen.biz/features/david-braben-interview 
+40	David Braben on Raspberry Pi Edge November 25 , 2011 December 08 , 2011 C and Perl . 
+41	Many other languages that have support for Linux and ARM will be available . 
+42	In 2006 , early concepts of the Raspberry Pi were based on the Atmel ATmega644 microcontroller . 
+43	Its schematics and PCB layout are available for public download . 
+44	http ://www .ubergizmo.com/2011/10/build-raspberry-pi-minicomputer/ 
+45	Build your own prototype Raspberry Pi minicomputer ubergizmo October 24 , 2011 November 02 , 2011 Wong , George http ://www .ubergizmo.com/2011/10/build-raspberry-pi-minicomputer/ 
+46	Build your own prototype Raspberry Pi minicomputer ubergizmo October 24 , 2011 November 02 , 2011 Wong , George Trustee Eben Upton assembled a group of teachers , academics and computer enthusiasts to devise a computer to inspire children . 
+47	http ://www.guardian.co.uk/education/2012/jan/09/raspberry-pi-computer-revolutionise-computing-schools 
+48	?newsfeed=true Raspberry Pi device will 'reboot computing in schools ' The Guardian January 09 , 2012 January 20 , 2012 Moorhead , Joanna http ://www.guardian.co.uk/education/2012/jan/09/raspberry-pi-computer-revolutionise-computing-schools 
+49	?newsfeed=true Raspberry Pi device will 'reboot computing in schools ' The Guardian January 09 , 2012 January 20 , 2012 Moorhead , Joanna In May 2009 , the Raspberry Pi Foundation was founded in Caldecote_ South Cambridgeshire , UK as a registered charity that is regulated by the Charity Commission for England and Wales . 
+50	http ://www.charity-commission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?Registered 
+51	CharityNumber=1129409&SubsidiaryNumber=0 1129409 - Raspberry Pi Foundation Charity Commission for England and Wales 2011-06-06 http ://www.charity-commission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?Registered 
+52	CharityNumber=1129409&SubsidiaryNumber=0 1129409 - Raspberry Pi Foundation Charity Commission for England and Wales 2011-06-06 The first ARM prototype version of the computer was mounted in a package the same size as a USB memory stick . 
+53	It had a USB port on one end and a HDMI port on the other . 
+54	In August 2011 , fifty Alpha boards were manufactured . 
+55	These boards were functionally identical to the planned model B , http ://www.geek 
+56	.com/articles/chips/raspberry-pi-25-pc-goes-into-alpha-production-20110728 
+57	Raspberry Pi $ 25 PC goes into alpha production 2011-07-28 Matthew Humphries Geek .com 
+58	2011-08-01 http ://www.geek 
+59	.com/articles/chips/raspberry-pi-25-pc-goes-into-alpha-production-20110728 
+60	Raspberry Pi $ 25 PC goes into alpha production 2011-07-28 Matthew Humphries Geek .com 
+61	2011-08-01 only larger to accommodate debug headers . 
+62	Demos of the board showed it running the LXDE desktop on Debian , Quake 3 at 1080p , http ://www.youtube 
+63	.com/watch 
+64	?v=e_mDuJuvZjI&list=UUhmozgJ0cqX8Gx7676ZQ4ig&feature=plcp Raspberry Pi Youtube Channel 2011-08-28 http ://www.youtube 
+65	.com/watch 
+66	?v=e_mDuJuvZjI&list=UUhmozgJ0cqX8Gx7676ZQ4ig&feature=plcp Raspberry Pi Youtube Channel 2011-08-28 and Full HD H.264 
+67	video over HDMI . 
+68	http ://www.youtube 
+69	.com/watch 
+70	?v=TgR74Kp6Ws4 Full HD video demo at TransferSummit Oxford 2011-09-12 http ://www.youtube 
+71	.com/watch 
+72	?v=TgR74Kp6Ws4 Full HD video demo at TransferSummit Oxford 2011-09-12 In October 2011 , the logo was selected from a number submitted by members of the community . 
+73	A shortlist of six was drawn up , with the final judging taking several days . 
+74	The chosen design was based on a buckyball . 
+75	http ://www.geek 
+76	.com/articles/chips/raspberry-pi-selects-a-very-clever-logo-20111010/ 
+77	Raspberry Pi selects a very clever logo geek .com 
+78	October 11 , 2011 Humphries , Matthew http ://www.geek 
+79	.com/articles/chips/raspberry-pi-selects-a-very-clever-logo-20111010/ 
+80	Raspberry Pi selects a very clever logo geek .com 
+81	October 11 , 2011 Humphries , Matthew During the same month , a development version of RISC OSRISC OS 5 was being worked on http ://www.iconbar.com/articles/Newsround/index1271.html 
+82	Newsround The Icon Bar October 17 , 2011 Lee , Jeffrey http ://www.iconbar.com/articles/Newsround/index1271.html 
+83	Newsround The Icon Bar October 17 , 2011 Lee , Jeffrey and demonstrated in public . 
+84	http ://www.osnews.com/story/25276/Raspberry_Pi_To_Embrace_RISC_OS 
+85	Raspberry Pi To Embrace RISC OS OSNews October 31 , 2011 November 01 , 2011 Holwerda , Thom http ://www.osnews.com/story/25276/Raspberry_Pi_To_Embrace_RISC_OS 
+86	Raspberry Pi To Embrace RISC OS OSNews October 31 , 2011 November 01 , 2011 Holwerda , Thom The London show 2011 Archive ( magazine ) December 2011 January 19 , 2012 Dewhurst , Christopher 23 3 3 The London show 2011 Archive ( magazine ) December 2011 January 19 , 2012 Dewhurst , Christopher 23 3 3 In December 2011 , one hundred model B Beta boards were assembled and tested . 
+87	( Raspberry Pi Blog ) The component layout of the Beta boards is the same as production boards . 
+88	A single PCB routing error was discovered in the board design and fixed for the first production run . 
+89	( Raspberry Pi Blog ) The Beta boards were demonstrated booting Linux , playing a 1080p movie trailer and the Rightware Samurai OpenGL ES benchmark . 
+90	( Raspberry Pi Blog ) During the first week of 2012 , the first 10 boards were put up for auction on eBay . 
+91	http ://www.theregister.co.uk/2012/01/03/raspberry_pi_auction/ 
+92	That Brit-built £22 computer : Yours for just £1,900 or more The Register January 03 , 2012 January 10 , 2012 Williams , Chris http ://www.theregister.co.uk/2012/01/03/raspberry_pi_auction/ 
+93	That Brit-built £22 computer : Yours for just £1,900 or more The Register January 03 , 2012 January 10 , 2012 Williams , Chris One was bought anonymously and donated to the museum at The Centre for Computing History in Suffolk , England . 
+94	http ://www.techweekeurope.co.uk/news/raspberry-pi-goes-into-production-53652 
+95	Raspberry Pi Goes Into Production TechWeekEurope UK January 11 , 2012 January 11 , 2012 Cheerin , Iris http ://www.techweekeurope.co.uk/news/raspberry-pi-goes-into-production-53652 
+96	Raspberry Pi Goes Into Production TechWeekEurope UK January 11 , 2012 January 11 , 2012 Cheerin , Iris The ten boards ( with a total retail price of £220 ) together raised over £16,000 , with the last to be auctioned , serial number # 01 , raising £3,500 . 
+97	The first batch of 10,000 boards were manufactured in Taiwan http ://www.tax-news.com/news/Raspberry_Pi_Balks_At_UK_Tax_Regime 
+98	53494.html 
+99	Raspberry Pi Balks At UK Tax Regime Tax-News.com 
+100	January 17 , 2012 January 20 , 2012 Lee , Robert http ://www.tax-news.com/news/Raspberry_Pi_Balks_At_UK_Tax_Regime 
+101	53494.html 
+102	Raspberry Pi Balks At UK Tax Regime Tax-News.com 
+103	January 17 , 2012 January 20 , 2012 Lee , Robert and China , http ://www.civilsociety 
+104	.co.uk/finance/news/content/11318/uk_computing_charity_manufacturing_product_abroad 
+105	UK computing charity opts to manufacture product abroad January 20 , 2012 Weakley , Kirsty Civil Society Media http ://www.civilsociety 
+106	.co.uk/finance/news/content/11318/uk_computing_charity_manufacturing_product_abroad 
+107	UK computing charity opts to manufacture product abroad January 20 , 2012 Weakley , Kirsty Civil Society Media rather than in the UK. 
+108	This is because import duty is payable on individual components but not on finished products . 
+109	Chinese manufacturers also quoted a lead time of 4 weeks , compared to 12 weeks in the UK. 
+110	Savings can be reinvested in the Foundation 's research and development activities . 
+111	The foundation plans to release two models at launch . 
+112	Model A will have 128&nbsp; MiB RAM memory , one USB port and no Ethernet controller , and will cost US$ 25 , while model B will contain 256&nbsp; MiB RAM memory , two USB ports and a 10/100 Ethernet controller and will cost US$ 35 . 
+113	Though the Model A does n't have an RJ45 Ethernet port , it can connect to a network by using a user supplied USB Ethernet or Wi-Fi adapter . 
+114	As typical of modern computers , generic USB keyboard and mice are compatible with the Raspberry Pi . 
+115	The Raspberry Pi will use the Linux operating system . 
+116	Debian GNU/Linux , Iceweasel , Calligra Suite and Python are planned to be bundled with the Raspberry Pi . 
+117	The Raspberry PI does not come with a real-time clock , so an OS must use a network time server , or ask the user for time information at boot time to get access to time and date info for file time and date stamping . 
+118	However a real time clock ( such as the DS1307 ) with battery backup can be easily added via the I2C interface . 
+119	In the UK enquiries about the board have been received from schools in both the state and independent sectors , with around five times as much interest from the latter ( January 2012 ) . 
+120	It is hoped that businesses will sponsor purchases for less advantaged schools . 
+121	Computing Education 2 Raspberry Pi Category :Educational technology Category :Home computers Category :Single-board computers Category :Linux-based devices de:Raspberry Pi Foundation# Raspberry Pi es :Raspberry Pi fr :Raspberry Pi it :Raspberry Pi ru:Raspberry Pi uk :Raspberry Pi Notes Model A and Model B are cultural references http ://www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html 
+122	Psst , kid ... 
+123	Wanna learn how to hack ? The Register 28th November 2011 24th December 2011 Williams , Chris http ://www.theregister.co.uk/2011/11/28/raspberry_pi/page3.html 
+124	Psst , kid ... 
+125	Wanna learn how to hack ? The Register 28th November 2011 24th December 2011 Williams , Chris to the original models of the British educational BBC Micro computer , developed by Acorn Computers who originally developed the ARM processors ( the architecture of the Raspberry Pi ) and operating system RISC OS which will be able to be run on it . 
+126	The 26-pin GPIO connector is not assembled on the board . 
+127	The end-user must purchase and solder a 13x2 pin header with 0.1-inch 
+128	( 2.54mm 
+129	) spacing . 
+130	The pin header can be either a straight pin header , mounted on either the bottom or the top , ( to connect to a " daughterboard " ) or it can be a right-angle shrouded box connector for use with a ribbon cable . 
+131	At the moment RISC OS ( shared source ) is not yet supported , as it lacks essential drivers . 
+132	Arduino , BeagleBoard , Cotton Candy , CuBox , Hawkboard , IGEPv2 , OmapZoom , PandaBoard , Pandora , SheevaPlug ARM architecture , List of ARM microprocessor cores , ARM11 Single-board computer , Single-board microcontroller Linux , Linux distribution One Laptop per Child ( OLPC ) , Aakash tablet ( USD $ 60 ) , NOVO7 tablet ( USD $ 89 ) Official Websites Unofficial Websites , eLinux .org 
+133	, Technical Information , broadcom.com 
+134	, smsc.com 

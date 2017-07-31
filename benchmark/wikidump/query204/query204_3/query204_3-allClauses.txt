@@ -1,0 +1,465 @@
+0	SVA (V: "be yes", S: January@3)
+1	SVO (S: USGA@22, V: "has", O: Rules@24)	SVC (S: club@29, V: "is", C: ball@32)	SVC (S: club@29, V: "is", C: 1904@35)	SVC (S: club@29, V: "is", C: 2016@37)	SVC (S: club@29, V: "is", C: http@39)
+2	
+3	
+4	
+5	
+6	
+7	
+8	SVC (S: Golf@1, V: "is", C: cleveland.com@11)	SVOO (V: make@4, S: rugby@3, O: roster@6, A?: for@7, IO: Golf@1)
+9	
+10	
+11	
+12	SVC (S: Golf@1, V: "is", C: cleveland.com@11)	SVOO (V: make@4, S: rugby@3, O: roster@6, A?: for@7, IO: Golf@1)
+13	SVC (C: club@11, V: is@8, S: Golf@7)	SVC (S: players@19, V: "is", C: golfers@22)	SVOO (V: use@24, S: players@19, A?: in@16, O: types@26, A?: hit@30, IO: sport@14)	SVA (V: "be hit", S: players@19, O: ball@31, A!: into@32)	SVA (V: "be using", S: series@34, O: number@44)
+14	SVC (C: one@3, V: is@2, S: It@1, A?: of@4)	SVO (V: require@12, S: game@8, O: area@16)
+15	SVA (V: played@6, S: game@4, A?: Instead@1, A!: on@7)	SVO (V: features@16, S: each@13, O: design@19, A?: consist@24)	SVA (V: consist@24, S: courses@22, A?: typically@23, A!: of@25)
+16	SVA (V: defined@3, S: Golf@1, A!: in@5, A?: as@11)
+17	SVA (V: played@6, S: competition@3, A?: generally@5, A!: for@7, A?: by@13)
+18	SVA (V: originated@10, S: game@7, A!: in@11)	SVO (S: game@17, V: "has", O: origins@20)	SVC (C: unclear@22, V: are@21, S: origins@20, A?: originated@10)	SVC (C: debated@25, V: are@21, S: origins@20, A?: originated@10)
+19	SVOO (V: used@27, S: participants@26, A?: in@24, O: stick@30, A?: hit@32, IO: game@20)	SVA (V: "be hit", S: participants@26, O: ball@36)
+20	SVA (V: asserts@3, S: theory@2, A!: that@4)	SVO (V: conquered@12, S: Romans@11, O: most@13, A?: during@18)
+21	
+22	SVC (S: paganica@1, V: "is", C: game@3)
+23	
+24	SVC (S: paganica@1, V: "is", C: game@3)
+25	SVO (V: cite@5, S: Others@4, O: September@2)	SV (V: means@11, S: chui@9)	SVO (V: means@17, S: chuiwan@6, O: ball@19)	SVO (V: played@28, S: game@27, A?: between@29, O: September@2)
+26	
+27	
+28	
+29	
+30	SVA (V: "be entitled", S: September@2)	SVA (V: "be dating", S: scroll@10, A!: back@12)	SVO (V: shows@21, S: September@2, O: member@23)	SVA (V: "be swinging", S: court@28, CCOMP: appears@31)	SVC (V: appears@31, S: what@30, XCOMP: club@36)
+31	SVO (V: thought@4, S: game@2, XCOMP: introduced@8)
+32	SVO (V: resembled@5, S: game@3, O: golf@7)	SVA (V: known@9, S: game@3, A!: as@10)
+33	
+34	
+35	
+36	
+37	SV (V: =@2, S: hl@1)	SVC (S: #PPP@35, V: "is", C: game@49)	SV (V: called@69, S: it@67, A?: where@66)
+38	SVC (S: March@1, V: "is", C: March@6)	SVO (V: believe@10, S: March@1, CCOMP: descended@13)	SVA (V: descended@13, S: golf@12, A!: from@14)	SVC (S: game@17, V: "is", C: chaugán@19)
+39	SVA (V: "be involving", S: game@7, O: ball@10)	SVO (V: played@16, S: kolven@4, A?: In@1, A?: annually@17, A?: in@18, A?: beginning@23, XCOMP: commemorate@28)	SVA (V: "be beginning", S: kolven@4, A!: in@24)	SVA (S: Loenen@19, V: "is in", C: Netherlands@21)
+40	SVA (V: originated@4, S: game@3, A!: in@5)	SVA (V: is@15, S: II@17, A!: as@26)	SVA (V: "be banning", S: II@17, A!: of@20, A?: in@23)
+41	
+42	
+43	SVC (S: Course@7, V: "is", C: course@14)	SVA (V: "be dating", S: course@14, A!: to@16)	SVO (V: considered@21, S: Course@7, A?: To@1, XCOMP: site@25)
+44	
+45	
+46	SVA (V: documented@4, S: Golf@2, A!: as@5)	SVC (S: Links@10, V: "is", C: Lothian@13)	SVA (S: Lothian@13, V: "is in", C: Scotland@15)	SVA (V: certified@25, S: March@20, A!: as@26, A?: by@34)
+47	
+48	
+49	
+50	SVO (S: world@4, V: "has", O: links@7)
+51	
+52	SVO (S: world@4, V: "has", O: links@7)	SVA (V: compiled@26, S: Recognition@1, A!: in@27, A?: for@30)	SVA (V: played@48, S: Golfers@44, A!: at@49)	SVA (S: Leith@50, V: "is in", C: Scotland@52)
+53	
+54	
+55	
+56	
+57	SVO (S: world@2, V: "has", O: tournament@6)	SVO (S: golf@11, V: "has", O: major@14)	SVC (C: Championship@19, V: is@16, S: tournament@6, A?: in@34)	SVA (V: played@24, S: Championship@19, A?: first@23, A!: on@25, A?: at@29)	SVA (S: Ayrshire@35, V: "is in", C: Scotland@37)
+58	
+59	
+60	SVC (S: course@2, V: "is", C: each@13)	SVO (V: consists@6, S: course@5, A?: of@7, O: course@2)	SVA (V: set@20, S: ground@17, A!: by@22)	SVA (V: "be showing", S: markers@24, O: bounds@27)	SVC (S: pin@51, V: "is", C: flagstick@55)
+61	SVO (V: varied@6, S: levels@2, XCOMP: increase@8)	SVO (V: allow@13, S: levels@2, XCOMP: increase@8, A?: for@14)
+62	SVA (V: designed@5, S: holes@3, A!: with@6)	SVA (V: bend@21, S: holes@19, A?: designed@5, A!: to@23)
+63	SVO (V: called@4, S: This@1, A?: commonly@3, O: dogleg@7)	SVO (S: dog@14, V: "has", O: knee@16)
+64	SVO (V: called@4, S: hole@2, CCOMP: left@8)	SVA (V: left@8, S: dogleg@7, A!: if@10)	SVA (V: bends@22, S: it@21, A!: right@23)
+65	SVO (S: hole@4, V: "has", O: direction@6)	SVA (V: bend@8, S: direction@6, A?: Sometimes@1, A!: twice@9)	SVO (V: called@13, S: this@11, XCOMP: dogleg@17)
+66	SVA (V: consists@5, S: course@4, A!: of@6)	SVC (C: common@14, V: are@13, S: courses@12)	SVC (C: played@18, V: are@13, S: courses@12, A?: twice@19, A?: through@20)
+67	
+68	
+69	
+70	
+71	SV (V: http@5, S: October@2)
+72	
+73	
+74	
+75	
+76	
+77	
+78	
+79	
+80	
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	
+89	
+90	
+91	
+92	
+93	SVA (V: laid@10, S: courses@7, A?: primarily@9, A!: on@12)	SVC (S: land@14, V: "is", C: dunes@18)
+94	
+95	
+96	
+97	
+98	
+99	
+100	SVO (V: gave@5, S: This@4, A?: September@2, O: rise@6, A?: to@7)	SVA (V: "be applied", S: links@12, A!: particularly@15, XCOMP: seaside@18)	SVA (V: "be built", S: those@21, A!: on@23)
+101	SVC (C: located@11, V: was@10, S: course@5, A?: on@12, A?: in@22)
+102	SVA (V: situated@5, S: course@2, A?: still@4, A!: today@7)
+103	
+104	
+105	SVA (V: =@19, S: thumbright200px1@4, A!: out@20)	SVA (V: =@19, S: hazard@12, A!: out@20)	SVA (V: =@19, S: _@17, A!: out@20)	SVO (V: =@30, S: bunker@27, O: hazard@32)	SVA (V: based@55, S: round@51, A!: on@56)
+106	SVA (V: consists@6, S: round@3, A?: typically@5, A!: of@7)	SVA (V: played@12, S: holes@9, A!: in@13)	SVA (V: "be determined", S: order@15, A!: by@17)
+107	SVA (V: consists@9, S: round@8, A?: On@1, A!: of@10)
+108	SVA (V: initiated@9, S: Playing@1, A!: by@10)
+109	SVO (V: required@12, S: stroke@4, A?: When@1, XCOMP: due@16)	SVC (C: usual@26, V: is@25, S: it@24, A?: required@12, A?: for@32)	SVA (V: "be suspend", S: golfer@34, O: ball@44, A!: on@45, A?: prior@48)
+110	SVC (C: small@9, V: is@7, S: tee@2)	SVO (V: used@14, S: peg@10, XCOMP: elevate@16)
+111	SVA (V: is@3, S: elevation@2, A!: at@4)
+112	SVA (V: made@4, S: Tees@1, A?: commonly@3, A!: of@5)	SVA (V: constructed@10, S: Tees@1, A?: commonly@3, A?: of@5, A!: of@11)	SVA (V: teed@20, S: ball@16, A-: even@18, A!: on@21)	SVA (V: "be placed", S: pile@34, A!: by@38)	SVO (V: used@43, S: pile@34, A?: at@29, A?: routinely@42, O: mound@23)	SVO (V: sand@45, S: pile@34, A?: at@29, A?: routinely@42, O: mound@23)	SVA (V: provided@47, S: teed@20, A!: at@48)	SVO (S: golfers@52, V: "has", O: use@54)
+113	SVC (C: shot@11, V: is@8, S: shot@4, A?: When@1, A?: intended@12)	SVA (V: "be intended", S: shot@11, XCOMP: move@14)	SV (V: called@28, S: shot@25, A?: shot@11, A?: commonly@27)
+114	SVA (V: initiated@5, S: holes@2, A?: generally@3, A!: with@6)	SVA (V: "be called", S: clubs@8)
+115	SVC (V: comes@4, S: ball@3, A?: Once@1, XCOMP: rest@6)	SVO (V: strikes@10, S: golfer@9, A?: comes@4, O: it@11, A?: again@12, A?: times@15, A?: necessary@17)	SVA (V: known@23, S: shots@19, A?: variously@22, A!: as@24)	SVO (V: reaches@49, S: ball@48, O: green@51)	SVO (S: putts@59, V: "has", O: ball@62)
+116	SVA (V: impeded@25, S: holing@12, A!: by@26)	SVA (V: "be called", S: grass@33, XCOMP: rough@36)	SVOC (V: slows@46, S: both@45, O: fairways@42, O: ball@48)	SVO (V: advance@57, S: it@54, O: ball@59)	SVA (V: stopped@62, S: ball@59, A!: on@63)	SVC (S: bunker@66, V: "is", C: traps@70)
+117	SVO (V: plays@9, S: player@8, A?: In@1, O: his@10, A?: holed@17)	SVO (S: her@12, V: "has", O: ball@13)	SV (V: holed@17, S: it@15)
+118	SV (V: walk@3, S: Players@1, A?: to@4, A?: over@13)	SVO (S: their@5, V: "has", O: shot@7)
+119	SVA (V: played@5, S: game@2, A!: individually@7)	SVA (V: accompanied@13, S: game@2, A?: individually@7, A?: sometimes@12, A!: by@14)	SVO (V: carry@18, S: caddie@15, O: equipment@24)	SVO (V: manage@20, S: caddie@15, O: equipment@24)	SVO (S: players@22, V: "has", O: equipment@24)	SVO (V: allowed@28, S: who@26, A?: by@29, XCOMP: give@33)
+120	
+121	
+122	
+123	
+124	SV (V: http@5, S: October@2)
+125	
+126	
+127	
+128	SVO (S: caddy@6, V: "has", O: advice@8)	SVO (V: given@12, S: advice@8, A?: only@10, A?: to@13, O: October@2)	SVO (V: to@27, S: advice@8, A?: only@10, A?: to@13, A?: players@29, O: October@2)	SVO (V: working@23, S: caddy@21, A?: for@18, O: player@15)
+129	SV (V: standardised@10, S: rules@5, A?: internationally@9)	SVA (V: governed@14, S: rules@5, A?: internationally@9, A?: jointly@13, A!: by@15)	SVA (V: spun@19, S: Rules@1, A!: in@21, A?: from@23)	SV (V: Association@43, S: Rules@1, A?: in@21, A?: from@23)	SVC (S: Association@43, V: "is", C: USGA@45)
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	SVC (C: fairness@11, V: is@10, S: 31@1)
+155	EXISTENTIAL (V: are@14, S: regulations@16)
+156	
+157	
+158	
+159	
+160	
+161	
+162	
+163	
+164	
+165	
+166	
+167	
+168	SVC (S: October@2, V: "is", C: anybody@6)	SVO (V: received@10, S: anybody@6, A?: ever@9, O: payment@11, A?: for@14)	SVO (V: considered@26, S: October@2, XCOMP: amateur@28)	SVA (V: "be limited", S: competitions@34, A!: to@37)
+169	SVO (V: receive@6, S: golfers@4, A?: However@1, O: expenses@7)	SVA (V: comply@9, S: expenses@7, A!: with@10)	SVO (V: accept@16, S: they@14, O: prizes@18, A?: within@19)	SVA (V: "be established", S: limits@21, A!: by@23)
+170	SVA (V: abide@11, S: golfers@9, A?: In@1, A?: also@10, A!: by@12)	SVA (V: "be called", S: guidelines@16)
+171	SVO (V: cover@3, S: guidelines@2, O: matters@4)	SVO (S: player@17, V: "has", O: obligation@19)	SVA (V: "be contribute", S: obligation@19, A!: to@22)
+172	EXISTENTIAL (V: are@3, S: penalties@5)	SVO (V: follow@14, S: players@12, A?: are@3, A?: generally@13, O: rules@16, A?: in@20)	SVA (V: "be improve", S: effort@22, O: experience@28)	SVO (S: everyone@25, V: "has", O: experience@28)
+173	SVA (V: incurred@3, S: Penalties@1, A!: in@4)
+174	SVA (V: counted@3, S: They@1, A!: towards@4, A?: as@9)	SVO (S: player@6, V: "has", O: score@8)	EXISTENTIAL (V: were@12, S: swing@14, A?: at@18)	SVC (S: swing@14, V: "is", C: s@16)
+175	SVA (V: added@3, S: Strokes@1, A!: for@4)	SVO (S: one@10, V: "has", O: ball@12)
+176	SVA (V: hit@7, S: ball@3, A!: out@8)
+177	SVA (V: assessed@5, S: penalty@3, A!: causes@11)	SVO (S: player@8, V: "has", O: equipment@10)	SVOC (V: causes@11, S: equipment@10, O: ball@13, XCOMP: move@15)	SVO (V: causes@23, S: removal@18, O: ball@25)
+178	SVO (V: makes@4, S: golfer@3, O: stroke@6, A?: at@7)	SVOC (V: hits@18, S: golfer@3, O: stroke@6, A?: at@7, O: ball@23, A?: with@24)	SVC (S: ball@10, V: "is", C: Rule@12)	SVO (S: golfer@21, V: "has", O: ball@23)	SVC (S: putt@26, V: "is", C: Rule@28)	SVO (V: incurs@36, S: player@35, A?: makes@4, O: penalty@39)
+179	SVA (V: lead@4, S: infractions@3, A!: to@5)	SVA (V: lead@11, S: infractions@3, A?: to@5, A?: also@9, A!: to@12)
+180	SVC (V: be@3, S: Disqualification@1, A?: from@4, XCOMP: signing@7)	SVA (V: lead@18, S: infractions@16, A!: to@19)
+181	SVA (V: "be woodpositioned", S: September@1)	SVC (S: thumbrightAWood@7, V: "is", C: golf@9)	SVO (V: used@24, S: September@1, XCOMP: hit@26)
+182	SVA (V: composed@4, S: club@2, A!: of@5)	SVC (S: lance@10, V: "is", C: grip@14)
+183	SVO (V: have@5, S: clubs@2, O: amount@8)	SVC (C: those@14, V: are@13, S: clubs@2, A?: meant@15)	SVA (V: "be meant", S: those@14, XCOMP: propel@17)
+184	SVA (V: depending@15, S: length@6, A?: Typically@1, A?: longer@11, A!: on@16)	SVOC (V: intended@22, S: club@20, XCOMP: propel@24, O: distance@18)
+185	SVC (C: club@10, V: is@5, S: driver@3)
+186	SVC (C: shorter@4, V: are@2, S: Wood@1, A?: slightly@3)
+187	SVA (V: made@5, S: Woods@1, A?: now@3, A?: typically@4, A!: of@6)	SVA (V: remains@12, S: name@11, A!: in@13)	SVA (V: replaced@20, S: name@11, A?: in@13, A?: gradually@18, A!: by@21)
+188	SVC (S: iron@9, V: "is", C: class@16)	SVC (C: iron@9, V: are@7, S: April@1)	SVA (V: "be used", S: class@16, A!: for@18)
+189	SVO (V: embody@2, S: Hybrid@1, O: characteristics@4, A?: in@10)	SVO (V: used@17, S: Hybrid@1, O: characteristics@4, A?: in@10, A?: increasingly@15, A?: in@18, A?: easier@29)	SVC (C: easier@29, V: are@28, S: they@27, A?: use@35)	SV (V: use@35, S: golfer@33)
+190	SVO (V: used@6, S: putter@4, A?: Finally@1, XCOMP: roll@8)
+191	SVA (V: allowed@7, S: maximum@2, A!: in@8, A?: at@13, A?: during@16)	SVO (S: player@10, V: "has", O: bag@12)
+192	SVA (V: is@5, S: choice@2, A!: at@6, A?: constructed@17)	SVO (S: golfer@8, V: "has", O: discretion@10)	SVA (V: constructed@17, S: club@14, A!: in@18)	SVA (V: "be outlined", S: parameters@21, A!: in@23)
+193	SVO (V: meet@4, S: Clubs@2, O: parameters@6)	SV (V: called@9, S: Clubs@2, A?: usually@8)
+194	SVA (V: result@7, S: Violation@2, A!: in@8)
+195	SVO (V: used@18, S: club@16, XCOMP: accomplish@20)	SVC (C: completely@26, V: are@24, S: hit@4, A?: always@25, A?: at@27)	EXISTENTIAL (V: is@39, S: restriction@41, A?: in@34)
+196	SVC (C: spherical@4, V: are@3, S: ball@2)	SV (V: allowed@13, S: colors@11)	SVA (V: "be preventing", S: pock-marked@18, O: layer@38)	SVO (V: decrease@22, S: dimples@20, O: drag@24, A?: by@25)
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	
+206	
+207	SVC (S: November@7, V: "is", C: February@12)	SVO (V: allowed@17, S: tee@15, A?: for@19, O: February@12)	SVO (V: hit@31, S: player@29, O: shot@35)	SVO (S: his@38, V: "has", O: shot@42)
+208	SVA (V: "be allowing", S: golfers@2, A-: thus@16, A?: for@18)	SVO (V: wear@3, S: golfers@2, O: shoes@5, A?: with@6, A?: allowing@17)	SVA (V: "be designed", S: metal@7, XCOMP: increase@13)
+209	SVO (V: used@5, S: bag@3, XCOMP: transport@7)	SVO (V: equipment@17, S: bag@3, XCOMP: transport@7)	SVO (S: player@12, V: "has", O: equipment@17)
+210	SVO (V: have@3, S: bags@2, O: pockets@5)	SVA (V: "be designed", S: pockets@5, A!: for@7)
+211	SV (V: carried@5, S: bags@2)	SVA (V: pulled@7, S: bags@2, A!: on@8, A?: during@18)
+212	SVO (V: have@3, S: bags@2, O: strap@7)	SVOC (V: have@16, S: bags@2, O: strap@7, A?: sometimes@15, O: legs@18)	SVOC (V: allow@20, S: legs@18, O: bag@22, XCOMP: stand@24)
+213	SVO (V: takes@3, S: golfer@2, O: shot@6)
+214	SVA (V: "be Understanding", S: mechanics@3, O: stroke@7)	SVC (C: easier@9, V: is@8, S: mechanics@3, A?: understands@13)	SVO (V: understands@13, S: one@11, O: role@17)	SVO (V: understands@13, S: first@12, O: role@17)	SVO (S: golfer@15, V: "has", O: role@17)
+215	SVO (V: hit@6, S: golfer@2, O: ball@8)
+216	SVO (S: golfer@2, V: "has", O: role@4)	SVC (V: is@5, S: role@4, XCOMP: swing@7)	SVO (V: strikes@13, S: club@9, A-: then@12, O: ball@15)
+217	SVA (V: start@2, S: Golfers@1, A!: with@3)	SVA (V: "be facing", S: side@6, O: target@12)
+218	SVC (C: positioned@8, V: are@7, S: body@4, A?: At@1)
+219	SVC (C: shoulder-width@5, V: are@3, S: feet@2, A?: commonly@4, A?: apart@6, A?: for@7)
+220	SVA (V: positioned@4, S: ball@2, A!: in@5)	SVO (S: player@10, V: "has", O: stance@12)
+221	SVO (V: chooses@3, S: golfer@2, O: club@6)	SVC (S: Par@17, V: "is", C: score@19)	SVO (V: classified@24, S: hole@22, A?: by@25, CCOMP: require@38)	SVO (S: its@26, V: "has", O: par@27)	SVO (V: require@38, S: meaning@29, XCOMP: complete@40)
+222	SVO (V: expects@7, S: golfer@6, A?: For@1, XCOMP: reach@9)	SVOC (V: roll@48, S: golfer@6, A?: For@1, XCOMP: reach@9, A-: then@47, O: ball@50, A?: into@51, A?: in@54)	SVC (S: tee@23, V: "is", C: drive@27)
+223	SV (V: termed@4, S: This@1)	SVC (S: regulation@9, V: "is", C: GIR@12)
+224	SV (V: is@3, S: hole@2)	SV (V: is@3, S: par-3@6)
+225	SVC (C: rare@5, V: are@3, S: holes@2, A?: extremely@4)
+226	
+227	
+228	
+229	
+230	
+231	
+232	SVC (S: Kelley@1, V: "is", C: November@5)	SVC (C: distance@19, V: is@17, S: Kelley@1, A?: from@20, A?: to@23)
+233	SVC (C: less@6, V: is@5, S: hole@4, A?: than@7, A?: with@17)	SVC (S: yards@9, V: "is", C: m@12)	SVA (V: "be ranging", S: hole@20, A!: between@22)	SVC (S: 225@28, V: "is", C: m@31)	SVC (C: longer@39, V: being@38, S: 225@28, A?: than@40)	SVC (S: yards@42, V: "is", C: m@45)
+234	SVA (V: stretch@5, S: par-6s@3, A!: well@6, A?: over@7)	SVC (S: yards@9, V: "is", C: m@12)
+235	SVO (V: affect@8, S: gradient@2, A?: also@7, O: par@10)	SVO (S: its@9, V: "has", O: par@10)
+236	SVC (C: downhill@10, V: is@8, S: distance@4, A?: predominantly@9)	SVC (V: play@14, S: it@12, A?: downhill@10, ACOMP: shorter@15)	SVO (V: given@23, S: it@12, A?: downhill@10, ACOMP: shorter@15, O: par@26)	SVO (S: its@17, V: "has", O: length@19)	SVC (C: true@31, V: is@30, S: opposite@29, A?: for@32)
+237	SVA (V: affected@5, S: ratings@2, A?: also@4, A!: by@6)	SVO (V: affect@23, S: green@19, O: play@25, A?: by@29)	SVA (V: "be avoid", S: requiring@30, XCOMP: playing@36)
+238	
+239	
+240	
+241	
+242	
+243	
+244	SVOO (V: comprise@11, S: courses@8, A?: typically@10, O: par-3@13, IO: Kelley@1)	SVO (V: exist@26, S: combinations@25, O: Kelley@1)	SVOC (C: worthy@31, V: are@28, S: combinations@25, A?: less@30, A?: than@32, O: Kelley@1)
+245	SVA (V: contested@5, S: championships@3, A!: on@6)	SVA (V: "be playing", S: courses@7, A!: to@9)
+246	SVA (V: classified@9, S: courses@7, A?: Additionally@1, A?: in@3, A!: according@10)	SVO (S: their@12, V: "has", O: play@13)	SVO (V: used@19, S: difficulty@14, XCOMP: calculate@21)	SVO (S: golfer@23, V: "has", O: handicap@26)
+247	
+248	
+249	SVC (S: Kelley@1, V: "is", C: About.com@4)
+250	
+251	
+252	SVC (S: Kelley@1, V: "is", C: About.com@4)
+253	SVOC (V: is@12, S: goal@11, XCOMP: play@14, O: November@2)
+254	SVA (V: occurs@12, S: hole@2, A!: sinks@16)	SVO (V: sinks@16, S: golfer@15, A?: when@13, O: ball@18, A?: into@19, A?: with@22)	SVO (S: his@17, V: "has", O: ball@18)	SVO (S: his@23, V: "has", O: stroke@25)
+255	SVO (V: have@7, S: scores@2, A?: also@6, O: terms@9)
+256	SVC (S: players@6, V: "is", C: teams@10)	SVO (V: play@12, S: players@6, A?: In@1, O: hole@14, A?: as@15)
+257	SVO (V: wins@7, S: party@2, CCOMP: halved@26)	SVOC (C: equal@21, V: are@20, S: scores@14, O: hole@23)	SV (V: halved@26, S: hole@9)
+258	SVA (V: won@4, S: game@2, A!: by@5)	SVO (V: wins@9, S: party@7, O: holes@11)
+259	SVO (V: taken@10, S: team@6, A?: In@1, O: lead@12)	SVA (V: overcome@17, S: lead@12, A!: in@18)	SVA (V: "be remaining", S: holes@22, XCOMP: played@26)	SVO (V: deemed@31, S: match@29, A?: taken@10, XCOMP: won@34)	SV (V: played@50, S: remainder@44)
+260	SVO (V: has@8, S: party@6, A?: already@7, O: lead@10)	SVC (V: remain@19, S: holes@18, XCOMP: played@22)	SVC (V: is@29, S: match@28, A?: For@1, A?: has@8, CCOMP: deemed@36)
+261	SVC (C: equal@10, V: is@9, S: lead@8, A?: to@11)	SVA (V: "be remaining", S: holes@15)	SVA (V: "be leading", S: party@19, O: match@22)	SVO (V: said@24, S: party@19, A?: At@1, A?: equal@10, XCOMP: dormie@28)	SVO (V: continued@35, S: match@33, A?: increases@39, XCOMP: winning@54)	SVO (V: increases@39, S: party@38, O: lead@41)	SVA (V: ends@62, S: match@61, A!: in@63)	SVO (S: player@69, V: "has", O: opponent@71)	SVO (V: winning@72, S: opponent@71, O: holes@75)
+262	SVA (V: tied@5, S: game@3, A?: When@1, A!: played@14)	SV (V: played@14, S: number@9)	SVA (V: continued@19, S: it@16, A?: tied@5, A!: takes@23)	SVO (V: takes@23, S: side@22, O: lead@26)
+263	SVA (V: "be achieved", S: score@6, A!: for@8)	SVO (V: added@19, S: score@6, A?: In@1, XCOMP: produce@21)	SVO (V: player@28, S: score@6, A?: In@1, XCOMP: produce@21, A?: with@29)
+264	SVC (C: game@5, V: is@3, S: play@2, A?: played@8)	SVA (V: "be played", S: game@5, A!: commonly@7, A?: by@9)
+265	EXISTENTIAL (V: is@3, S: tie@5, A?: after@6)	SVOO (V: takes@19, S: playoff@18, O: place@20, A?: between@21, IO: tournament@15)
+266	SVC (C: death@5, V: are@2, S: Playoffs@1, A?: either@3, A?: from@15)	SVOC (C: employ@7, V: are@2, S: Playoffs@1, A?: either@3, O: number@10, A?: from@15)
+267	SVA (V: scores@8, S: player@6, A!: lower@9, A?: on@10, A?: wins@18)	SVO (S: his@16, V: "has", O: opponents@17)	SVO (V: wins@18, S: all@14, O: match@20)
+268	SVC (V: remain@6, S: players@5, ACOMP: tied@7)	SVA (V: continues@21, S: play@20, A?: remain@6, A!: in@22)	SVA (V: "be win", S: player@30, O: hole@34)	SVOO (V: wins@35, S: player@30, A?: where@27, O: tournament@37, IO: format@25)
+269	SVA (V: compete@7, S: golfers@6, A?: In@1, A!: on@8, A?: as@12)
+270	SVA (V: "be assigned", S: money@27, A!: to@29)	SVA (V: carries@33, S: Played@1, A!: over@34, A?: tied@42)	SV (V: tied@42, S: hole@40)
+271	SVA (V: come@3, S: you@2, A!: to@4)	SVC (V: left@15, S: skins@14, CCOMP: continues@19)	SVA (V: continues@19, S: play@18, A!: decided@26)	SV (V: decided@26, S: skin@23)
+272	SVA (V: compete@9, S: players@8, A?: September@1, A!: for@10)
+273	SVO (V: wins@13, S: player@2, O: game@15)
+274	SVA (V: "be is", S: hole@2, A!: worth@4)
+275	SVC (S: score@6, V: "is", C: lowest@8)	SVO (V: wins@13, S: player@2, O: points@15)	SVOC (V: earns@24, S: player@18, CCOMP: wins@13, O: points@26)
+276	SVO (V: 4@21, S: players@17, O: hole@13)
+277	SVOO (V: gets@7, S: player@6, O: points@9, A?: on@10, IO: ties@3)
+278	EXISTENTIAL (V: is@3, S: tie@5)	SVO (V: get@29, S: two@27, O: points@31)
+279	SVO (V: gets@4, S: player@3, O: birdie@6)	SVOO (V: receive@9, S: they@7, O: points@13, A?: on@14, IO: birdie@6)
+280	SVO (V: gets@4, S: player@3, O: eagle@6)	SVO (V: receive@10, S: they@8, A?: gets@4, O: points@14, A?: on@15)
+281	SVO (V: gains@7, S: player@6, A?: Under@1, O: points@8, A?: for@9)	SVA (V: "be achieved", S: score@11, A!: on@13)	SVC (S: bogey@26, V: "is", C: points@35)	SVC (S: bogey@26, V: "is", C: points@41)	SVC (S: bogey@26, V: "is", C: points@29)
+282	SVA (V: "be achieved", S: points@2, A!: for@4)	SVO (V: added@13, S: points@2, A?: together@14, XCOMP: produce@16)
+283	
+284	EXISTENTIAL (V: are@2, S: variations@6, A?: also@3)	SVC (S: Handicap@11, V: "is", C: golf@13)	SVC (C: measure@20, V: is@17, S: handicap@16, A?: of@21)	SVO (S: golfer@24, V: "has", O: ability@26)	SVA (V: "be play", S: ability@26, O: golf@29, A!: over@30)
+285	SVA (V: applied@4, S: Handicaps@1, A!: for@6)
+286	
+287	
+288	
+289	SVO (S: competitor@7, V: "has", O: handicap@9)	SVO (V: subtracted@11, S: handicap@9, A?: In@1, A?: from@12, A?: at@17, XCOMP: calculate@25)	SVO (S: their@13, V: "has", O: score@16)	SVO (V: calculated@33, S: standings@31, A?: against@29, O: score@28)
+290	SVA (V: assigned@9, S: strokes@7, A?: In@1, A!: on@10, A?: according@15)	SVA (V: provided@26, S: which@24, A!: by@27)
+291	SVO (V: receive@7, S: holes@3, O: strokes@11, A?: with@13)	SVA (V: "be receiving", S: holes@16, O: strokes@21)
+292	SV (V: complicated@6, S: Calculating@1, A?: often@5)	SVC (C: representative@12, V: is@11, S: it@10, A?: essentially@9, A?: of@13, A?: over@16, A?: adjusted@29)	SVA (V: "be adjusted", S: representative@12, A!: for@30)	SVO (S: player@23, V: "has", O: rounds@27)
+293	SVA (V: "be regarding", S: Legislation@1, O: calculation@4)	SVA (V: differs@7, S: Legislation@1, A!: among@8)
+294	SVO (V: include@7, S: rules@5, A?: For@1, O: difficulty@9)	SVC (S: difficulty@9, V: "is", C: length@31)	SVO (V: playing@16, S: golfer@14, A?: by@18, O: difficulty@9)
+295	SVA (V: used@5, S: systems@2, A!: in@6)
+296	SVOC (V: score@4, S: golfers@2, A?: often@3, O: strokes@6, A?: for@9, XCOMP: meaning@23)	SVOC (V: have@14, S: golfers@2, A?: often@3, O: strokes@6, A?: for@9, A-: thus@13, O: handicap@17, XCOMP: meaning@23)	SVO (S: their@25, V: "has", O: handicap@26)	SVA (V: results@27, S: handicap@26, A!: in@28)	SVO (S: their@34, V: "has", O: score@36)
+297	SVO (V: called@11, S: Someone@1, A?: often@10, XCOMP: golfer@15)
+298	
+299	SVO (V: calculated@6, S: Digest@5, A?: In@1, CCOMP: Scotland@24)	SVA (V: "be starting", S: countries@9, A!: with@18)	SVC (C: Scotland@24, V: were@22, S: countries@9)	SV (V: excluded@57, S: countries@50)
+300	SVO (V: have@9, S: all@5, A?: Apart@1, O: English@10, A?: as@11)	SVA (V: increasing@25, S: number@18, A!: rapidly@26)
+301	SVC (C: expansion@10, V: is@8, S: example@4, A?: of@11, A?: in@13)
+302	SVA (V: opened@7, S: course@4, A!: in@8)	EXISTENTIAL (V: were@18, S: 600@20, A?: by@12)
+303	SVA (V: banned@17, S: development@7, A?: For@1, A?: officially@16, A!: with@19)	SVA (V: tripled@37, S: number@32, A?: nonetheless@36, A!: since@38)	SVA (V: evaded@48, S: ban@43, A?: easily@47, A!: with@49, A?: by@56)	SVO (S: government@51, V: "has", O: approval@54)
+304	
+305	
+306	SVO (V: decreased@36, S: number@24, A?: from@37, O: ESPN@11)	SVO (V: makes@5, S: id@1, O: ESPN@11)	SVO (V: play@28, S: people@26, O: times@31)
+307	
+308	
+309	SVA (V: reported@3, S: NGF@2, A!: that@4)	SVO (V: played@8, S: number@6, O: golf@9, A?: at@10)	SVA (V: "be decreased", S: all@11, A!: from@13, A?: to@15, A?: over@18)
+310	
+311	
+312	SVOO (V: Giving@19, S: Americans@17, O: Golf@21, IO: 0A@15)
+313	
+314	SVOO (V: Giving@19, S: Americans@17, O: Golf@21, IO: 0A@15)
+315	
+316	SVC (S: professionals@13, V: "is", C: pros@16)
+317	SV (V: are@7, S: pros@10)	SVC (V: compete@13, S: pros@10, ACOMP: full-time@14, A?: on@15)
+318	SVA (V: "be working", S: club@2, A!: in@7, A?: as@12)	SVO (V: finding@23, S: club@2, O: employment@24)	SVO (V: moving@30, S: club@2, O: employment@24, A?: eventually@29, A?: on@31, A?: in@34)	SVO (S: their@35, V: "has", O: profession@37)
+319	SVO (V: include@3, S: programs@2, O: institutions@5)	SVO (V: those@10, S: programs@2, O: institutions@5)	SVA (V: lead@13, S: those@10, A?: eventually@12, A!: to@14)
+320	SVOO (V: involves@14, S: Putting@4, O: teaching@16, IO: course@2)
+321	SVO (V: requires@6, S: Proficiency@1, O: technical@9)
+322	SVC (C: best@8, V: is@7, S: instruction@6, A?: In@1, A?: performed@9)	SVA (V: "be performed", S: best@8, A!: by@10)	SVA (V: "be certified", S: teachers@11, A!: by@13)
+323	SVA (V: work@5, S: instructors@3, A!: with@6)	SVC (V: become@10, S: instructors@3, ACOMP: known@13)	SVO (S: their@15, V: "has", O: right@17)
+324	SVOC (V: use@2, S: Instructors@1, O: combination@4, O: visualization@10)	SVA (V: "be driving", S: visualization@10, O: instruction@20)	SVA (V: "be teach", S: motion@35, O: golf@38)
+325	EXISTENTIAL (V: are@5, S: tours@11, O: tours@3)	SVA (V: "be run", S: each@13, A!: by@15)	SVA (V: "be finding", S: PGA@17, O: sponsors@32)	SVC (C: responsible@26, V: is@25, S: PGA@17, A?: for@27)
+326	SVA (V: "be has", S: tour@3, O: members@6)	SVO (V: entitled@10, S: members@6, XCOMP: compete@12)	SVO (S: its@16, V: "has", O: events@17)
+327	SVC (C: competitive@9, V: is@7, S: membership@2, A?: highly@8)	SVO (V: achieve@16, S: golfers@14, O: it@17)
+328	SVC (C: Tour@10, V: is@7, S: tour@6, A?: Perhaps@1, A?: outside@20)	SVO (V: tends@13, S: Tour@10, XCOMP: attract@15)
+329	SVC (C: due@3, V: is@2, S: This@1, A?: to@5)	SVO (V: have@13, S: events@12, O: prize@16)
+330	SVO (V: attracts@6, S: Tour@3, O: number@9)	SVO (V: ranks@18, S: Tour@3, O: second@19, A?: in@24)
+331	SVO (V: play@8, S: professionals@3, O: tournaments@10, A?: maintain@12)	SVA (V: "be maintain", S: professionals@3, O: membership@13)
+332	SVO (S: men@4, V: "has", O: tours@6)	SVO (V: include@7, S: tours@6, O: Tour@11)	SVC (S: Tour@15, V: "is", C: Asia@17)
+333	SVC (C: members@16, V: are@13, S: Japan@2, A?: of@17)	SVC (S: members@16, V: "is", C: Federation@30)	SVO (S: world@23, V: "has", O: tours@26)	SVA (V: "be founded", S: Federation@30, A!: in@36)
+334	SVC (V: became@4, S: Tour@3, XCOMP: member@7, A?: in@8)
+335	SVC (V: became@4, S: Tour@3, XCOMP: member@7, A?: in@11)	SVC (S: Américas@19, V: "is", C: America@22)	SVC (V: became@24, S: Américas@19, XCOMP: member@27, A?: in@31)
+336	SVO (V: underwent@3, S: Federation@2, O: expansion@6)	SVO (V: saw@10, S: expansion@6, O: tours@13)	SVC (V: become@14, S: underwent@3, XCOMP: members@16)	SVO (S: Golfers@34, V: "has", O: Association@36)	SVO (S: women@51, V: "has", O: tours@53)
+337	SVA (V: "be founded", S: Tour@3, A!: in@6)	SVC (C: member@12, V: is@9, S: Tour@3, A?: of@13)	SVC (C: founded@19, V: is@9, S: Tour@3, A?: of@13, A?: as@20)
+338	SVO (S: men@4, V: "has", O: tours@6)	SVC (C: members@10, V: are@8, S: tours@6)	SVO (V: offer@19, S: All@1, O: points@20, A?: in@21, A?: to@30)	SVC (S: Ranking@26, V: "is", C: OWGR@28)	SVC (V: place@33, S: players@31, ACOMP: high@35)	SVO (S: their@37, V: "has", O: events@38)
+339	SVO (V: offers@5, S: Tour@3, A?: also@4, O: points@7)
+340	SVC (C: unique@3, V: is@2, S: Golf@1, A?: in@4)
+341	EXISTENTIAL (V: are@2, S: tours@5)	SVC (C: U.S.@21, V: is@19, S: known@16, A?: arguably@13)	SVC (C: U.S.@21, V: is@19, S: best@15, A?: arguably@13)
+342	
+343	EXISTENTIAL (V: are@2, S: tours@5)	SVC (S: tours@5, V: "is", C: each@9)	SVA (V: "be based", S: each@9, A!: in@11)
+344	SV (V: is@6, S: States@9)
+345	SVO (V: offer@6, S: All@1, O: points@7, A?: in@8, A?: for@15)	SVO (S: Women@10, V: "has", O: Rankings@14)	SVO (S: their@19, V: "has", O: events@20)
+346	SVO (V: have@10, S: All@1, O: tour@14)	SVOO (V: earn@28, S: players@20, A?: in@16, O: card@31, IO: tour@14)
+347	SVO (V: include@2, S: Examples@1, O: Tour@5)	SVA (V: feeds@8, S: Tour@5, A!: to@9)	SVC (C: tour@23, V: is@20, S: Tour@17, A?: of@24)
+348	SVO (V: offer@7, S: Tours@5, A?: also@6, O: points@9)
+349	SVO (V: Westwoodpictured@2, S: thumbright200pxLee@1, XCOMP: making@3)	SVO (S: Men@12, V: "has", O: championships@16)	SVOC (C: tournaments@27, V: are@20, S: championships@19, A?: of@28, O: championships@16)	SVO (S: men@25, V: "has", O: tournaments@27)
+350	SVC (C: Masters@8, V: are@5, S: they@4, A?: In@1)	SVC (S: Masters@8, V: "is", C: U.S.@11)
+351	
+352	
+353	
+354	
+355	
+356	
+357	
+358	SVO (V: include@9, S: December@2, O: golfers@14)
+359	SVA (V: played@5, S: Masters@2, A!: at@6, A?: since@16)	SVA (S: Augusta@12, V: "is in", C: Georgia@14)	SVO (S: its@17, V: "has", O: inception@18)
+360	SVC (C: championship@6, V: is@2, S: It@1, A?: only@4)	SVA (V: played@9, S: championship@6, A!: at@10, A?: year@15)
+361	
+362	
+363	
+364	
+365	
+366	SVA (V: played@6, S: Open@1, A!: at@7, A?: played@19)	SVA (V: played@19, S: Championship@17, A!: at@20)
+367	
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	
+376	
+377	
+378	
+379	SVC (C: U.S.@21, V: were@19, S: Majors@18)
+380	SVC (S: Open@1, V: "is", C: U.S.@4)
+381	
+382	SVA (V: "be pictured", S: _@11, A!: here@13, A?: in@14)
+383	SVO (S: Women@1, V: "has", O: championships@5)	SVO (S: Women@6, V: "has", O: golf@8)	SVOO (V: have@11, S: golf@8, O: set@15, IO: championships@5)
+384	SVC (S: list@2, V: "is", C: Tour@15)	SVA (V: "be recognised", S: majors@4, A!: by@6)	SVO (S: women@9, V: "has", O: tour@11)
+385	
+386	
+387	EXISTENTIAL (V: are@4, S: bodies@6)	SVA (V: "be known", S: bodies@6, A!: as@8)	SVC (S: bodies@6, V: "is", C: each@14)	SVA (V: "be based", S: each@14, A!: in@16)
+388	
+389	SVC (C: one@5, V: is@2, S: LPGA@1, A?: only@4, A?: without@6, A?: first@18)	SVO (S: its@11, V: "has", O: name@12)	SVC (C: first@18, V: was@16, S: it@15, XCOMP: founded@21)
+390	SVO (V: used@10, S: LPGA@7, A?: without@11, O: term@5)	SVA (V: refers@16, S: term@5, A!: to@17)	SVA (V: refers@16, S: it@15, A!: to@17)
+391	
+392	SVC (S: Championship@8, V: "is", C: Championship@12)	SVC (S: Championship@8, V: "is", C: U.S.@15)
+393	SVO (S: Women@1, V: "has", O: Open@3)	SVO (S: Women@6, V: "has", O: Open@9)
+394	SVA (V: recognised@8, S: last@3, A?: also@7, A!: by@9)
+395	SVO (V: recognises@6, S: it@5, O: that@4, A?: Masters@13)	SVC (C: Masters@13, V: is@10, S: major@9)	SVC (C: become@30, V: is@10, S: major@9, XCOMP: major@32, A?: on@33, A?: in@36)	SVA (V: sanctioned@18, S: Masters@13, A?: currently@17, A!: by@19, A?: as@23)
+396	SVA (V: limited@8, S: significance@4, A?: However@1, A!: dominant@16)	SVC (C: dominant@16, V: is@13, S: LPGA@12, A?: more@15, A?: in@17, CCOMP: is@25)	SVO (S: women@18, V: "has", O: golf@20)	SVA (V: is@25, S: Tour@24, A!: in@26)	SVO (S: men@28, V: "has", O: golf@30)
+397	SVO (V: known@8, S: BBC@5, A?: For@1, XCOMP: use@10)
+398	SVO (S: women@4, V: "has", O: majors@6)
+399	SVO (S: Ladies@4, V: "has", O: Union@7)	SVC (S: Union@7, V: "is", C: body@11)	SVO (S: women@13, V: "has", O: golf@15)	SVA (V: stated@25, S: Union@7, A?: Also@1, A!: on@26)	SVO (S: its@27, V: "has", O: website@29)	SVO (S: Women@32, V: "has", O: Open@35)
+400	
+401	SVO (S: Women@1, V: "has", O: breaks@5)	SVO (S: Ladies@11, V: "has", O: Union@14)
+402	SVO (S: Women@1, V: "has", O: breaks@5)	SVO (S: Ladies@11, V: "has", O: Union@14)	SVOO (V: acknowledged@27, S: Tour@25, A?: tacitly@26, O: dominance@29, IO: ground@7)	SVA (V: "be conflict", S: scheduling@36, A!: with@44)	SVO (S: its@39, V: "has", O: events@41)	SVO (V: played@49, S: ground@7, A?: in@50, O: breaks@5)
+403	SVO (V: changed@4, S: that@3, O: beginning@5)	SVOO (V: scheduled@12, S: LET@11, A?: when@9, O: event@14, IO: 2008@7)
+404	SVO (S: women@3, V: "has", O: tour@5)	SVC (S: tour@5, V: "is", C: LPGA@8)	SVO (V: recognise@15, S: tour@5, O: any@16)
+405	SVO (V: has@7, S: it@6, O: set@10)	SVO (S: its@8, V: "has", O: set@10)
+406	SVO (V: attract@5, S: events@4, A?: However@1, O: notice@7)
+407	SVO (S: men@12, V: "has", O: golf@14)	SVOO (V: have@17, S: golf@14, O: set@21, IO: championships@4)
+408	
+409	SVA (V: changed@6, S: Tour@4, A!: over@7)	SVA (V: by@13, S: Tour@4, A?: over@7, A?: always@12, A!: expansion@14)
+410	SVO (V: recognises@5, S: Tour@3, A?: now@4, O: majors@7)	SVC (S: Championship@12, V: "is", C: Open@18)	SVC (S: Championship@12, V: "is", C: Championship@24)	SVC (S: Championship@12, V: "is", C: Tradition@27)
+411	SVC (V: is@9, S: PGA@8, A?: Of@1, A?: by@10, XCOMP: founded@17)
+412	SVOC (V: became@13, S: golf@12, A?: when@10, XCOMP: success@16, A?: reached@35, O: 1980s@8)	SVO (V: reached@35, S: stars@21, O: age@38)
+413	SVA (V: recognised@7, S: Open@4, A!: as@8, A?: by@11, A?: until@15)
+414	SVO (V: recognises@5, S: Tour@4, O: PGA@9)
+415	SVC (C: dominant@9, V: is@6, S: Tour@5, A?: However@1, A?: arguably@7, A?: more@8, A?: in@10, A?: than@14)
+416	SVA (V: is@2, S: LPGA@1, A!: in@3)	SVO (S: women@5, V: "has", O: golf@7)
+417	SVA (V: "be originating", S: Sports@31, A!: in@33)	SVO (V: fr@39, S: activities@38, O: af@42)	SVO (S: Gholf@44, V: am@45, O: fr@39)	SVC (C: be-x-old@70, V: be@67, S: Soaⁿ-kiû@66)	SVC (S: Goif@75, V: "is", C: Spoat@77)	SV (V: es@115, S: Γκολφ@114)	SV (V: is@170, S: Golf@169)	SVO (S: w@188, V: "has", O: ht@191)	SVC (S: Gòlf@193, V: "is", C: espò@195)	SVC (S: Golf@205, V: "is", C: Sport@207)	SVC (S: Golf@227, V: "is", C: sport@229)	SVC (S: Golf@257, V: "is", C: sport@259)	SVO (V: Play@342, S: 高爾夫球@341, O: ball@344, A?: lies@347)	SV (V: lies@347, S: it@346)	SVO (V: play@349, S: it@346, O: course@351, A?: find@354)	SVO (V: find@354, S: you@353, O: it@355)	SVA (V: do@362, S: you@359, A!: either@363)	SVC (C: fair@368, V: is@367, S: what@366)
+418	SVA (V: used@4, S: drive@2, A!: on@5, A?: to@9)	SVA (V: used@17, S: approach@15, A!: in@18)	SVA (V: used@28, S: chip@26, A!: for@29)
+419	SVC (V: is@6, S: goal@2, XCOMP: land@8)
+420	SVA (V: used@4, S: putt@2, A!: in@5)
+421	SVC (V: is@6, S: goal@2, XCOMP: get@8)
+422	SVA (V: played@10, S: this@8, A!: between@11)	SV (V: each@17, S: ball@26)	SVO (V: has@23, S: team@22, A?: in@19, O: each@17)
+423	SVO (S: players@5, V: "has", O: A@7)	SVO (V: form@13, S: A@7, O: team@15)	SVO (V: play@31, S: B@28, O: shot@34, A?: third@40)	SVO (V: on@44, S: B@28, O: shot@34, A?: third@40, A-: so@43)	SV (V: finished@49, S: hole@47)
+424	SV (V: tee@10, S: B@7)	SV (V: on@36, S: B@7, A-: so@35)	SVO (V: played@15, S: who@14, O: putt@18, A?: on@19)
+425	SVA (V: played@4, S: Foursomes@1, A!: as@5)
+426	
+427	
+428	
+429	
+430	
+431	
+432	SVC (S: Kelley@1, V: "is", C: Fourball@7)	SVA (V: played@19, S: this@16, A?: defined@9, A?: also@18, A!: between@20)	SVA (V: "be defined", S: this@16, A!: in@10)	SVO (V: plays@31, S: player@30, O: ball@34)	SVO (S: their@32, V: "has", O: ball@34)	SV (V: counted@47, S: score@42, A?: for@36)
+433	SVA (V: played@4, S: Fourballs@1, A!: as@5)
+434	
+435	
+436	
+437	
+438	
+439	
+440	SVC (S: Kelley@1, V: "is", C: Scramble@7)	SVA (V: tees@21, S: player@17, A!: on@23)	SVO (V: decide@30, S: players@29, CCOMP: best@34)	SVC (C: best@34, V: was@33, S: shot@32)
+441	SVO (V: plays@4, S: player@2, A-: then@3, O: shot@7, A?: from@8)	SVO (S: their@5, V: "has", O: shot@7)	SVC (V: come@18, S: shot@16, A?: where@13, XCOMP: rest@20)	SVA (V: repeated@26, S: procedure@24, A!: finished@31)	SV (V: finished@31, S: hole@29)
+442	SVA (V: tees@11, S: player@7, A?: In@1, A!: on@13)
+443	SV (V: used@5, S: drive@3)	SVO (V: play@9, S: players@8, O: ball@12, A?: from@13)	SVO (S: their@10, V: "has", O: ball@12)
+444	SVO (V: plays@6, S: player@5, A?: In@1, O: hole@8, A?: as@9)	SVA (V: counts@23, S: score@15, A!: as@24)	SVO (S: team@26, V: "has", O: score@28)
+445	
+446	
+447	
+448	
+449	
+450	
+451	SVC (S: Kelley@1, V: "is", C: Greensome@7)	SVO (S: players@16, V: tee@17, O: called@10)
+452	SVO (V: shoot@6, S: player@2, O: shot@10)	SVO (V: plays@11, S: player@2, O: shot@14)
+453	SVA (V: alternates@4, S: play@2, A-: then@3, A!: as@5)
+454	
+455	
+456	
+457	
+458	
+459	
+460	SVC (S: Kelley@1, V: "is", C: variant@8)	SVA (V: played@13, S: Kelley@1, A?: sometimes@12, A!: chooses@18)	SVO (V: chooses@18, S: team@17, A?: where@14, CCOMP: use@29)	SVO (S: their@21, V: "has", O: opponent@22)	SVO (S: opponent@22, V: "has", O: shots@25)	SVO (V: use@29, S: opponents@27, O: which@19)
+461	SVO (V: shoot@6, S: player@2, O: shot@10)	SVO (V: plays@11, S: player@2, O: shot@14)
+462	SVA (V: continues@3, S: Play@1, A-: then@2, A!: as@4)
+463	SVO (V: consists@11, S: this@10, A?: of@12, XCOMP: allowing@19)	SVA (V: "be starting", S: groups@13, A!: on@15)	SVO (V: start@24, S: players@22, O: round@28, A?: at@29)	SVO (V: end@26, S: players@22, O: round@28, A?: at@29)	SVO (S: their@27, V: "has", O: round@28)
+464	SVO (V: wins@19, S: Golf@1, O: Golfers@20, A?: with@21)	SVO (S: men@65, V: "has", O: championships@68)	SVO (V: wins@83, S: Tour@82, O: Association@87)	SVO (S: Golfers@85, V: "has", O: Association@87)	SVC (S: Links@122, V: "is", C: magazine@124)

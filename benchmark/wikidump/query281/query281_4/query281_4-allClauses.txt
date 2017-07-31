@@ -1,0 +1,36 @@
+0	SVC (C: process@6, V: is@4, S: Ketogenesis@3)	SVO (V: produced@12, S: bodies@10, A?: by@7, A?: as@13, O: process@6)
+1	SVA (V: produced@4, S: bodies@2, A!: in@6)
+2	SVO (S: Its@1, V: "has", O: synthesis@2)	SVA (V: occurs@3, S: synthesis@2, A!: in@4)	SVA (V: after@15, S: synthesis@2, A?: in@4, A!: exhaustion@16)
+3	SVO (V: initiated@8, S: production@2, A-: then@7, XCOMP: make@10)	SVA (V: stored@15, S: energy@12, A!: as@16)
+4	SVO (V: broken@5, S: acids@2, A?: enzymatically@4, A?: in@7, XCOMP: form@10)
+5	SVA (V: oxidized@10, S: CoA@7, A?: Under@1, A!: as@15)	SVO (S: its@12, V: "has", O: energy@13)	SV (V: transferred@14, S: energy@13)	SVC (S: cycle@28, V: "is", C: cycle@31)
+6	SVA (V: "be generated", S: CoA@9, A!: in@11)	SVC (C: low@30, V: is@29, S: activity@24, A?: to@32)	SVO (V: used@46, S: CoA@43, A-: then@45, A?: instead@47, A?: in@48, A?: via@53, O: oxaloacetate@39)	SVC (S: CoA@60, V: "is", C: HMG-CoA@62)
+7	SVO (S: its@2, V: "has", O: role@3)	SVC (C: intermediate@15, V: is@12, S: HMG-CoA@11, A?: Besides@1, A?: also@13, A?: in@16)
+8	SV (V: are@5, S: bodies@4)	SVA (V: synthesized@12, S: Each@7, A!: from@13)
+9	
+10	SVC (C: related@4, V: is@2, S: This@1, A?: closely@3, A?: to@5)	SVA (V: created@16, S: bodies@14, A!: at@17, A?: as@26, A?: available@36)	SVO (S: everyone@21, V: "has", O: bodies@23)	SVC (C: available@36, V: are@35, S: carbohydrates@34, A?: when@32)
+11	SVA (V: happening@6, S: ketogenesis@4, A?: when@3, A!: at@7)	SVO (V: said@14, S: body@12, A?: However@1, A?: happening@6, XCOMP: be@16)
+12	SVC (C: unknown@3, V: is@2, S: It@1, CCOMP: has@6)	SVO (V: has@6, S: ketosis@5, O: effects@9)
+13	SVC (C: acid@6, V: are@5, S: acetoacetate@2)	SVC (C: high@18, V: are@16, S: levels@11, A?: too@17)	SVA (V: drops@25, S: pH@21, A?: high@18, A!: resulting@27)	SVA (V: "be resulting", S: pH@21, A!: in@28)
+14	SVO (V: known@3, S: Ketoacidosis@1, XCOMP: occur@5)
+15	SVO (V: have@13, S: patients@5, A?: commonly@2, O: levels@15, A?: without@19)
+16	SVA (V: used@52, S: Acetone@41, A?: unlike@45, A!: by@53)
+17	SVA (V: generated@3, S: Acetone@1, A!: through@4)	SVA (V: occur@11, S: decarboxylation@6, A!: spontaneously@12)	SVA (V: through@14, S: decarboxylation@6, A?: spontaneously@12, A!: decarboxylase@18)
+18	SV (V: is@4, S: β-hydroxybutyrate@1)
+19	SVA (V: generated@3, S: It@1, A!: through@4)
+20	SVO (V: has@4, S: body@3, A?: When@1, O: carbohydrates@6)	SVA (V: oxidized@15, S: glucose@12, A?: has@4, A?: completely@14, A!: to@16)	SVA (V: formed@23, S: CoA@21, A!: as@24, A?: first@31)	SVA (V: "be followed", S: cycle@36, A!: by@38)	SVO (S: its@42, V: "has", O: energy@44)
+21	SVO (V: has@4, S: body@3, A?: When@1, O: carbohydrates@6)	SV (V: metabolized@13, S: glucose@10, A?: has@4, A?: fully@12)	SVA (V: stored@20, S: some@16, A!: by@21)	SVA (V: "be create", S: using@22, O: acids@29)
+22	SVA (V: recycled@5, S: CoA@2, A?: also@4, A!: here@6)
+23	SV (V: has@5, S: body@4, A?: When@2)	SVO (V: broken@14, S: carbohydrates@8, CCOMP: available@9, A?: into@16, A?: get@23)	SVO (V: broken@14, S: fat@11, CCOMP: available@9, A?: into@16, A?: get@23)
+24	SVA (V: recycled@5, S: Acetyl-CoA@1, A!: through@6, A?: depleted@23)	SVC (S: intermediates@16, V: "is", C: oxaloacetate@19)	SVO (V: depleted@23, S: intermediates@16, XCOMP: feed@25)	SVO (V: activates@38, S: accumulation@33, O: ketogenesis@39)
+25	
+26	
+27	SVC (S: K@2, V: "is", C: acetone@10)	SVC (C: indicator@14, V: is@11, S: K@2, A?: of@15, A?: in@17)	SVA (V: "be consuming", S: adults@18, O: meals@21)
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	

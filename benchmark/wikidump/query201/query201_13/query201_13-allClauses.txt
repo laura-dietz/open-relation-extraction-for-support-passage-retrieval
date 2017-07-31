@@ -1,0 +1,454 @@
+0	
+1	
+2	SV (V: is@2, S: instruction@6)	SVA (V: "be developed", S: instruction@6, A!: by@19)	SVC (S: architecture@14, V: "is", C: ISA@16)
+3	SV (V: named@3, S: It@1)
+4	SVO (V: set@11, S: architecture@3, O: architecture@12)	SVO (V: set@11, S: instruction@10, O: architecture@12)	SVA (V: "be produced", S: numbers@14)
+5	SVC (S: Hachman@3, V: "is", C: 2002@5)
+6	
+7	SVO (S: its@9, V: "has", O: computer@11)	SVA (V: "be introduced", S: range@23, A!: in@25)	SVC (C: range@23, V: were@19, S: ARM@15, CCOMP: conceived@2, A?: introduced@24)
+8	SVO (V: makes@7, S: simplicity@3, XCOMP: suitable@9)	SVA (V: suitable@9, S: them@8, A!: for@10)
+9	SVC (V: become@7, S: they@5, A?: As@1, ACOMP: dominant@8, A?: in@9, A?: as@17)
+10	SVA (V: sold@15, S: %@6, A?: In@1, A!: year@17)
+11	
+12	SVA (V: account@5, S: processors@4, A?: 2009@1, A!: for@6)
+13	
+14	SVC (S: assistant@12, V: "is", C: tablets@17)	SVC (S: assistant@12, V: "is", C: game@29)	SVC (S: assistant@12, V: "is", C: PDAs@14)	SVO (V: consoles@30, S: assistant@12, O: peripherals@35)
+15	SVC (C: licensable@5, V: is@4, S: architecture@3)
+16	SVC (C: current@4, V: are@3, S: Companies@1)	SVO (V: include@9, S: Companies@1, O: Alcatel-Lucent@10)	SVC (S: Alcatel-Lucent@10, V: "is", C: Inc.@13)
+17	SVC (S: NXP@48, V: "is", C: Philips@51)
+18	SVA (V: developed@4, S: processors@2, A!: by@5)
+19	SVA (V: "be developed", S: families@4, A!: by@6)	SVO (V: include@9, S: families@4, O: the@10)
+20	SVA (V: "be developed", S: processors@3, A!: by@5)	SVO (V: include@7, S: processors@3, O: X-Gene@9)
+21	SVC (S: XScale@7, V: "is", C: Intel@5)	SVC (S: XScale@7, V: "is", C: Tegra@10)	SVC (S: XScale@7, V: "is", C: Nova@13)	SVC (S: XScale@7, V: "is", C: Snapdragon@18)	SVC (S: XScale@7, V: "is", C: line@25)	SVC (S: XScale@7, V: "is", C: Hummingbird@29)
+22	SVO (V: considered@13, S: Ltd@12, A?: After@1, CCOMP: move@16)	SVA (V: "be address", S: from@18, O: markets@29, A!: like@30, A?: launched@43)	SVA (V: "be launched", S: address@27, A!: in@44)	SVA (V: dominated@37, S: one@32, A?: soon@35, A!: by@38)
+23	SVC (S: Computer@4, V: "is", C: ABC@6)	SVOC (V: required@9, S: plan@8, O: number@11, XCOMP: made@17)	SVOC (C: unsuitable@38, V: were@37, S: Motorola@31, O: the@30)	SVC (C: powerful@45, V: was@43, S: 6502@42, A?: enough@46, A?: for@47)
+24	SVO (V: need@5, S: Acorn@3, O: architecture@8, A?: having@10)	SVA (V: "be having", S: Acorn@3, ACOMP: tested@11)	SVA (V: "be having", S: Acorn@3, ACOMP: tested@11)	SV (V: wanting@20, S: them@19)
+25	SVO (V: considered@4, S: Acorn@1, A-: then@2, A?: seriously@3, XCOMP: designing@5)	SVO (S: its@6, V: "has", O: processor@8)	SVO (S: their@11, V: "has", O: engineers@12)	SVA (V: came@13, S: engineers@12, A!: across@14)
+26	SVC (V: felt@2, S: They@1, CCOMP: showed@4)	SVO (V: showed@4, S: it@3, CCOMP: have@22)	SVO (V: create@13, S: class@8, O: processor@17)	SVO (V: have@22, S: Acorn@20, A?: create@13, O: problem@24)
+27	SVO (V: updated@16, S: 6502@13, A?: where@11, A?: by@17, O: Phoenix@9)	SVC (C: company@23, V: was@19, S: what@18, A?: effectively@20)	SVO (V: showed@25, S: trip@2, O: engineers@27)	SVC (S: Furber@30, V: "is", C: B.@33)
+28	SVC (S: Furber@8, V: "is", C: B.@11)
+29	SVO (V: need@15, S: they@12, O: resources@17)
+30	SVOA (V: set@2, S: Wilson@1, A!: about@3, XCOMP: writing@9)	SVA (V: ran@19, S: Basic@17, A!: on@20, A?: with@24)
+31	SVOC (V: convinced@2, S: It@1, O: engineers@5, CCOMP: were@8)	SVA (V: were@8, S: they@7, A!: on@9)
+32	SVA (V: go@4, S: they@2, A!: further@6)	SVO (V: need@12, S: they@10, A?: go@4, A?: however@8, O: resources@14)
+33	SVC (C: time@3, V: was@2, S: It@1, A?: approach@7)	SVO (V: approach@7, S: Wilson@5, O: CEO@10)	SVOC (V: explain@16, S: Wilson@5, O: CEO@10, CCOMP: afoot@19)	SVO (S: Acorn@8, V: "has", O: CEO@10)	SVC (S: CEO@10, V: "is", C: Hauser@13)	SVC (C: afoot@19, V: was@18, S: what@17)
+34	SV (V: given@6, S: go-ahead@3, A?: Once@1)	SVOA (V: put@12, S: team@10, A?: given@6, A!: together@13, XCOMP: implement@15)	SVO (S: Wilson@16, V: "has", O: model@18)
+35	SVA (V: "be used", S: processor@2, O: routers@9)	SVC (S: inrouter@5, V: "is", C: computing@7)	SVO (V: started@18, S: project@17, A?: March@10, A?: in@19, O: routers@9)
+36	SVA (V: chosen@6, S: Inc@4, A!: as@7, A?: supplied@14)	SVO (V: supplied@14, S: it@12, A?: already@13, O: Acorn@15, A?: with@16)
+37	SVA (V: led@4, S: design@2, A!: by@5, A?: with@10)	SVC (S: input/output@18, V: "is", C: interrupt@20)	SVA (V: "be handling", S: input/output@18, A!: like@23)
+38	SVO (S: 6502@2, V: "has", O: architecture@6)	SVOC (V: allowed@8, S: architecture@6, O: developers@9, XCOMP: produce@11)
+39	SVO (V: produced@2, S: VLSI@1, O: silicon@6, A?: on@7)	SVO (V: worked@13, S: it@12, O: time@16)	SVOC (V: came@18, S: it@12, O: time@16, XCOMP: termed@21)
+40	SVO (V: posting@3, S: Wilson@2, XCOMP: comp.arch@5)
+41	SVA (V: "be Accessed", S: Nov@2)
+42	SVA (V: "be named", S: systems@7)	SVC (C: available@11, V: were@10, S: systems@7, A?: year@14)
+43	SVO (S: Its@1, V: "has", O: application@4)	SVA (V: was@5, S: application@4, A!: as@6, A?: to@10)	SVOC (V: used@18, S: it@16, A?: where@15, XCOMP: develop@20, O: Micro@13)	SVA (V: "be finish", S: develop@20, O: work@26, A!: on@27)	SVA (V: "be finish", S: develop@20, O: work@26, A!: on@27, O: operation@43)	SVC (S: VIDC@32, V: "is", C: IOC@34)	SVC (S: VIDC@32, V: "is", C: MEMC@36)	SVA (V: "be used", S: software@47, A!: in@49)
+44	SVO (V: coded@3, S: Wilson@1, A?: subsequently@2, O: Basic@5, A?: in@6)	SVA (V: "be obtained", S: knowledge@14, A!: from@16)	SVOC (V: allowed@21, S: knowledge@14, O: code@23, XCOMP: dense@27, XCOMP: making@29)	SVA (V: test@36, S: Basic@32, A!: for@37)
+45	SVA (V: achieved@12, S: aim@3, A!: in@13, A?: with@15)
+46	SVC (C: secrecy@4, V: was@2, S: Such@1, A?: surrounding@5)	SVA (V: "be surrounding", S: secrecy@4, O: project@9)	SVO (V: negotiating@14, S: Olivetti@12, A?: when@11, XCOMP: take@16)	SVO (V: told@28, S: they@25, O: project@9, A?: negotiating@14, A?: about@29, A?: until@33)	SV (V: finalised@39, S: negotiations@36)
+47	SVO (S: Queen@8, V: "has", O: Award@10)
+48	SVO (V: featured@3, S: ARM2@2, O: bus@7)	SVC (S: bus@7, V: "is", C: space@12)
+49	SVO (V: had@3, S: code@2, XCOMP: lie@5)	SVA (V: limited@20, S: counter@18, A!: to@21, A?: served@36)	SVA (V: served@36, S: 6@27, A!: as@37)
+50	SVC (C: microprocessor@9, V: was@3, S: ARM2@2, A?: possibly@4, A?: in@10, A?: with@14)	SVO (S: Motorola@24, V: "has", O: model@29)	SVA (V: named@33, S: model@29, A?: aptly@32, A!: contained@37)	SVO (V: contained@37, S: it@36, O: transistors@39)
+51	SVA (V: comes@5, S: Much@1, A!: from@6)	SVA (V: represents@12, S: which@11, A!: about@13)
+52	SVA (V: led@3, S: simplicity@2, A!: to@4, A?: performing@11)	SVO (S: its@5, V: "has", O: usage@8)
+53	SVC (S: Patterson@1, V: "is", C: Jason@3)
+54	SVO (S: My@7, V: "has", O: Lifetime@8)
+55	SVC (S: successor@2, V: "is", C: ARM3@4)	SVA (V: produced@7, S: successor@2, A!: with@8)	SVO (V: improved@16, S: cache@12, A?: further@15, O: performance@17)
+56	
+57	SVC (C: important@5, V: was@3, S: work@2, A-: so@4, CCOMP: spun@8)	SVA (V: "be called", S: Acorn@7)	SVO (V: spun@8, S: Acorn@7, O: team@12, A?: in@13, A?: into@15, A?: called@19)
+58	SVC (V: became@4, S: Machines@3, XCOMP: Ltd@6, A?: floated@16)	SVO (S: its@8, V: "has", O: company@10)	SVC (S: company@10, V: "is", C: plc@14)	SVA (V: floated@16, S: company@10, A?: when@7, A!: on@17, A?: in@24)
+59	
+60	SVA (V: turn@9, S: work@6, A?: eventually@8, A!: into@10)	SVC (S: ARM6@12, V: "is", C: first@14)	SVA (V: "be released", S: first@14, A!: in@16)
+61	SVO (V: used@2, S: Apple@1, O: ARM@5, A?: as@7)	SVO (S: their@11, V: "has", O: PDA@14)
+62	SVO (V: used@5, S: Acorn@4, A?: In@1, O: ARM@7, A?: as@9, A?: in@18)	SVC (S: unit@14, V: "is", C: CPU@16)	SVO (S: their@19, V: "has", O: computers@22)
+63	SVO (V: licensed@2, S: DEC@1, O: architecture@5)	SVOC (V: produced@7, S: DEC@1, O: architecture@5, O: StrongARM@9)
+64	SVO (V: drew@6, S: CPU@5, A?: At@1, O: watt@9)	SVO (V: draw@14, S: versions@13, A?: less@16, O: watt@9)
+65	SVA (V: passed@5, S: work@2, A?: later@4, A!: to@6, A?: as@8)	SVOA (V: took@18, S: Intel@17, O: opportunity@20, A!: supplement@22)	SVA (V: "be supplement", S: Intel@17, O: line@26, A!: with@27)	SVO (S: their@23, V: "has", O: line@26)
+66	SVO (V: developed@3, S: Intel@1, A?: later@2, O: implementation@8)	SVO (S: its@4, V: "has", O: implementation@8)	SVA (V: "be named", S: implementation@8)	SVO (V: sold@15, S: it@12, O: XScale@10, A?: to@16)
+67	SVC (V: remained@5, S: core@3, ACOMP: size@9, A?: throughout@10)
+68	SVO (V: had@2, S: ARM2@1, O: transistors@4, A?: grew@9)	SVA (V: grew@9, S: ARM6@8, A!: to@10)
+69	SVO (S: ARM@1, V: "has", O: business@3)	SVC (V: been@6, S: business@3, A?: always@5, XCOMP: sell@8)	SVO (V: licensees@13, S: core@10, O: use@14, A?: based@20)	SVA (V: "be create", S: use@14, O: microcontroller@17)
+70	SVO (V: combines@5, S: manufacturer@4, O: core@8, A?: with@9)	SVA (V: "be produce", S: number@11, O: CPU@19)	SVC (S: CPU@19, V: "is", C: one@21)	SVA (V: built@25, S: one@21, A!: on@26)	SVO (V: deliver@32, S: one@21, A?: on@26, A?: still@31, O: performance@34, A?: at@35)
+71	SVC (C: ARM7@8, V: been@6, S: implementation@4, A?: with@9)	SVA (V: "be sold", S: millions@12)
+72	SVC (C: center@7, V: been@3, S: Atmel@1, A?: in@8)
+73	SVA (V: licensed@2, S: ARM@1, A!: about@3)
+74	
+75	SVA (V: went@9, S: cores@8, A?: In@1, A!: into@10)
+76	
+77	SV (V: built@12, S: cores@9, A?: By@1)	SVO (V: predicted@18, S: iSuppli@17, A?: in@15, CCOMP: shipping@29)	SVA (V: shipping@29, S: cores@26, A?: by@20, A!: per@30)
+78	SVC (S: Technology@3, V: "is", C: January@6)
+79	SVO (V: shipped@13, S: processors@11, O: states@5)
+80	SVC (S: Profile@4, V: "is", C: January@7)
+81	SVA (V: "be used", S: architectures@3, A!: in@5, A?: from@16)
+82	SVC (C: ARMv5TE@6, V: are@5, S: processors@4)	SVC (C: numerous@12, V: are@5, S: processors@4, A?: now@10, A?: more@11, A?: in@13, A?: than@16)	SVO (V: use@31, S: devices@29, O: cores@33, A?: with@34)
+83	SVO (V: represented@3, S: processors@2, O: step@5)	SVO (V: used@16, S: processors@2, O: step@5, A?: in@17)	SVC (S: processors@23, V: "is", C: ARMv7@25)	SVA (V: provide@28, S: processors@23, A?: now@27, A!: faster@29)
+84	SVO (V: used@14, S: smartphones@11, A?: formerly@13, O: ARM9@15)
+85	
+86	SVO (V: introduced@6, S: manufacturers@5, A?: In@1, O: netbooks@7, A?: in@14, A?: based@19)
+87	SVO (V: estimated@18, S: ICs@16, A?: by@1, A?: by@12, XCOMP: be@20)
+88	SVC (S: McGrath@2, V: "is", C: Times@5)
+89	
+90	
+91	
+92	
+93	
+94	SVA (V: "be used", S: licensed@1, A!: in@10)
+95	SVO (V: included@2, S: These@1, O: basestations@4)
+96	SVC (S: Clarke@2, V: "is", C: Times@5)
+97	
+98	
+99	
+100	SVO (V: implement@13, S: vendors@11, O: cores@15, A?: in@16)	SVO (S: their@17, V: "has", O: design@18)	SVO (V: provided@20, S: summary@7, A?: by@21, O: cores@5)
+101	
+102	
+103	
+104	
+105	SVA (V: used@15, S: List@6, A!: in@16)	SVC (S: number@18, V: "is", C: smartphone@24)
+106	SVC (C: Archimedes@7, V: are@4, S: examples@3)
+107	SVC (C: player@10, V: are@4, S: uses@3)
+108	SVA (V: involved@7, S: ARM@4, A?: Since@1, A?: also@6, A!: in@8)	SVO (S: University@10, V: "has", O: computer@12)	SVC (S: computer@12, V: "is", C: SpiNNaker@14)	SVO (V: used@17, S: computer@12, O: cores@19, A?: simulate@21)	SVA (V: "be simulate", S: which@16, O: brain@24)
+109	
+110	SVA (V: "be Simulate", S: Linked@5, O: http@15)
+111	SVC (S: Linked@5, V: "is", C: interfaces@38)	SVA (V: "be Simulate", S: Linked@5, O: source@25)	SVC (C: source@25, V: been@22, S: the@20, A?: of@26)	SVO (V: required@44, S: processors@42, XCOMP: support@46)	SV (V: vary@58, S: details@55)
+112	SVA (V: evolved@4, S: architecture@2, A!: over@5)	SVA (V: starting@9, S: architecture@2, A?: over@5, A!: with@10)	SVO (S: profiles@19, V: defined@22, O: starting@9)	SVO (V: allowed@26, S: Profiles@24, XCOMP: subset@28)
+113	SVC (C: subset@15, V: is@13, S: profile@6, A?: For@1, A?: of@16)	SVO (V: supports@22, S: it@21, O: instructions@24)
+114	SV (V: clean@5, S: design@4)	SVA (V: hardwired@16, S: implementation@14, A!: without@17, A?: like@20)	SVA (V: "be used", S: processor@26, A!: in@28)
+115	SV (V: includes@4, S: architecture@3)	SVO (V: used@34, S: features@32, O: Intel@23)	SVO (V: implemented@45, S: feature@39, A?: with@46, A?: on@56, O: Intel@23)	SVC (S: selector@51, V: "is", C: predicate@54)	SVO (V: reserved@66, S: one@60, A?: as@67, XCOMP: specify@74)	SVC (C: conditional@85, V: are@84, S: instructions@83)
+116	SVO (V: have@5, S: architectures@3, A?: only@4, O: codes@7, A?: on@8)
+117	SVA (V: cuts@2, S: This@1, A!: significantly@4, A?: on@5)	SVA (V: "be encoding", S: the@6, O: bits@8)	SVO (V: avoids@23, S: it@22, A?: on@18, O: instructions@25, A?: when@26)
+118	SVC (C: algorithm@10, V: is@6, S: example@3)	SV (V: is@23, S: loop@22)
+119	SVC (V: is@29, S: loop@28, CCOMP: =@1)	SVC (S: Ri@33, V: "is", C: Rj@35)
+120	SVC (S: Ri@31, V: "is", C: Rj@35)	SVC (S: T@40, V: "is", C: greater@43)	SVC (S: T@40, V: "is", C: i@47)	SVC (S: Rj@52, V: "is", C: Rj@54)	SVC (S: Rj@52, V: "is", C: Ri@56)	SVC (S: NE@76, V: "is", C: equal@80)	SVC (S: NE@76, V: "is", C: loop@84)	SVO (V: avoids@86, S: loop@84, O: branches@88)
+121	SVC (C: equal@7, V: are@6, S: Ri@3)	SVO (V: executed@16, S: neither@9, A?: equal@7, A-: then@8, XCOMP: optimising@18, A?: for@38)	SVA (V: "be implement", S: branch@25, O: check@30, A!: at@31)	SVC (S: SUBLE@41, V: "is", C: less@43)	SV (V: used@49, S: SUBLE@41)
+122	SVOO (V: provides@8, S: code@7, O: encoding@12, IO: ways@4)	SVC (V: is@13, S: One@1, XCOMP: remove@15)
+123	SVC (C: ability@11, V: is@9, S: March@1, A?: fold@13)	SVC (C: rotates@16, V: is@9, S: March@1, A?: fold@13, A?: into@17)	SVA (V: "be fold", S: ability@11, O: shifts@14)
+124	SVC (S: Ra@2, V: "is", C: LSL@8)	SVO (V: results@12, S: This@11, A?: in@13, O: LSL@8)	SVA (C: denser@19, V: "be denser", S: program@17)	SVA (V: used@31, S: pipeline@29, A-: thus@27, A!: efficiently@33)
+125	SVA (V: runs@5, S: ARM@4, A-: Even@1, A!: at@6)	SVOC (V: consider@10, S: many@8, O: what@7, XCOMP: speeds@14)	SVA (V: competes@18, S: it@16, A?: runs@5, A?: nevertheless@17, A!: well@20, A?: with@21)
+126	SVOO (V: has@7, S: processor@5, A?: also@6, O: features@9, IO: July@1)	SVA (V: "be seen", S: features@9, A!: rarely@10, A?: in@12)
+127	
+128	
+129	
+130	SVC (C: one@12, V: is@11, S: ARMv8@1, A?: of@13)	SVO (S: its@14, V: "has", O: 16@15)
+131	SVC (V: is@5, S: item@2, CCOMP: been@10)	SVA (V: been@10, S: ARM@8, A!: around@11, A?: with@16)	SVA (V: "be set", S: instruction@18, XCOMP: increasing@20)
+132	SVA (V: "be store", S: instruction@15, O: quantity@20)	SVC (C: possible@32, V: 's@30, S: it@29, XCOMP: generate@34)	SVO (V: behave@39, S: code@36, O: way@41)	SVA (V: expect@44, S: processors@4, A!: for@45)
+133	SVO (V: have@6, S: ARM7@2, O: pipeline@10)	SVO (S: stages@13, V: fetch@15, O: have@6)
+134	SVO (V: have@10, S: designs@3, O: pipelines@12)	SVO (V: has@15, S: Cortex-A8@14, O: stages@17)
+135	SVO (V: include@7, S: changes@3, O: adder@10)
+136	SVC (C: multiplier@16, V: was@13, S: difference@2, A?: for@10)
+137	SV (V: support@19, S: family@14, A?: For@1)	SVO (V: have@21, S: family@14, A?: For@1, O: instructions@23)
+138	EXISTENTIAL (V: are@2, S: mechanisms@6, A?: however@4)
+139	SVO (V: provides@4, S: architecture@3, O: way@7)	SVA (V: "be set", S: instruction@11, XCOMP: using@13)	SVO (V: addressed@20, S: coprocessors@15, XCOMP: using@21)
+140	SVA (V: divided@5, S: space@3, A!: logically@6, A?: into@7)	SVA (V: "be reserved", S: coprocessors@9, A!: for@24)	SVC (S: coprocessor@17, V: "is", C: cp15@20)	SVA (V: reserved@23, S: coprocessor@17, A!: for@24)	SVO (V: have@40, S: that@39, O: one@41)
+141	SVO (V: attached@11, S: machines@5, A?: usually@10, A?: to@12, A?: by@15, O: ARM@2)	SVO (S: their@17, V: "has", O: physical@18)	SVA (V: registers@19, S: physical@18, A!: into@20)	SVC (S: device@33, V: "is", C: bus@36)	SVA (V: attaches@41, S: device@33, A?: in@39, A!: to@42)
+142	SVO (V: have@3, S: accesses@2, O: latency@5, A?: designed@18)	SVO (V: designed@18, S: peripherals@8, XCOMP: accessible@21)
+143	SVOC (V: integrate@8, S: designers@6, A?: In@1, A?: only@7, O: hardware@9, XCOMP: using@10)
+144	SVC (C: core@13, V: be@9, S: engine@7, A?: For@1, A?: combined@14)	SVA (V: "be combined", S: core@13, A!: with@15)	SVO (V: specialized@20, S: coprocessor@17, O: operations@21, A?: support@23)	SVA (V: "be support", S: that@18, O: set@26)
+145	SVO (V: include@7, S: processors@6, O: facilities@10)	SVO (V: perform@19, S: debuggers@16, A?: without@12, O: operations@21, A?: like@22)	SVA (V: "be starting", S: breakpointing@28, A!: from@32)
+146	SVO (V: built@4, S: facilities@2, XCOMP: using@5, A?: support@14)	SVO (V: support@14, S: cores@12, A?: optionally@13, O: protocol@22)	SVO (S: ARM@15, V: "has", O: SWD@20)
+147	SVO (V: represented@9, S: D@7, A?: In@1, O: JTAG@10)	SVA (V: "be debug", S: JTAG@10, O: support@12)	SVA (V: represented@19, S: I@17, A!: of@21)
+148	SVC (C: standard@15, V: was@11, S: EmbeddedICE@8, A?: For@1, A?: guaranteed@22)	SV (V: guaranteed@22, S: it@18, A?: architecturally@21)
+149	SVO (V: defines@4, S: architecture@3, O: facilities@7, A?: at@8)
+150	SVO (V: include@2, S: These@1, O: breakpoints@3)	SVC (C: available@21, V: were@19, S: facilities@18, A?: also@20, A?: with@22)
+151	SV (V: supported@13, S: debugging@11)
+152	SVA (V: "be used", S: mechanism@4, XCOMP: access@7)	SV (V: specified@14, S: mechanism@4, A?: architecturally@13)	SVO (V: include@19, S: implementations@17, A?: generally@18, O: support@21)
+153	SVA (V: required@16, S: architecture@10, A?: architecturally@15, A!: by@17)
+154	SVA (V: added@19, S: instructions@17, A?: improve@2, A!: to@20)
+155	
+156	SVO (V: Set@4, S: Instruction@3, O: Arm.com@6)
+157	
+158	SVO (V: Set@4, S: Instruction@3, O: Arm.com@6)
+159	SVA (V: signified@4, S: These@2, A!: by@5, A?: in@10)
+160	SVO (V: imply@3, S: E-variants@1, A?: also@2, O: T@4)
+161	SVC (C: common@5, V: are@4, S: instructions@3, A?: in@6)
+162	SVC (C: variations@3, V: are@2, S: They@1, A?: on@4)	SV (V: multiply@6, S: variations@3)
+163	SVC (C: technique@5, V: is@3, S: Jazelle@2)	SVOC (V: allows@7, S: technique@5, O: Bytecode@9, XCOMP: executed@12, A?: alongside@28)
+164	SVA (V: signified@6, S: Support@1, A!: by@7, A?: in@12)	SVA (V: in@18, S: Support@1, A?: by@7, A?: in@12, A!: names@23)
+165	SVO (V: required@6, S: Support@1, XCOMP: starting@7)	SVO (V: include@22, S: cores@20, A?: only@21, O: implementation@25)	SVO (V: provides@27, S: implementation@25, O: acceleration@30)
+166	SVA (V: "be improve", S: March@1, O: code-density@6)	SVC (S: March@1, V: "is", C: processors@8)	SVO (V: featured@13, S: ARM7TDMI@11, O: set@16)	SVO (V: have@19, S: set@16, O: state@22)	SVO (S: their@20, V: "has", O: state@22)
+167	SVO (V: indicates@10, S: T@4, O: feature@13)
+168	SVO (V: executes@9, S: processor@8, A?: in@3, O: set@13)	SVC (S: set@13, V: "is", C: encoding@18)
+169	SVC (S: Jaggar@1, V: "is", C: Hall@10)	SVC (S: Jaggar@13, V: "is", C: Hall@22)	SVO (V: mapped@32, S: Jaggar@13, A?: directly@31, A?: to@33, O: Hall@10)
+170	SVA (V: comes@3, S: space-saving@2, A!: from@4)	SVA (V: implicit@11, S: some@6, A!: compared@18)	SVO (V: limiting@13, S: some@6, O: number@15, A?: compared@18)	SVA (V: "be executed", S: instructions@22, A!: in@24)
+171	SVO (V: have@7, S: opcodes@6, A?: In@1, O: functionality@9)
+172	SVC (C: conditional@8, V: be@7, S: branches@5, A?: For@1)	SVC (C: restricted@14, V: are@13, S: opcodes@12, A?: to@15)	SVO (S: CPU@23, V: "has", O: purpose@26)
+173	SVO (V: require@14, S: opcodes@3, A-: even@10, O: instructions@16)	SVO (V: require@14, S: operations@13, A-: even@10, O: instructions@16)
+174	SVO (V: constrained@11, S: port@6, A?: where@3, A?: to@12, O: situations@2)	SVO (V: allow@22, S: opcodes@21, A?: In@1, O: performance@24, A?: need@36)	SVO (V: need@36, S: code@34, XCOMP: loaded@39)
+175	SVO (V: have@12, S: hardware@2, A?: typically@11, O: amount@15)	SVA (V: accessed@28, S: majority@26, A!: via@29)
+176	SVO (V: makes@7, S: it@5, A?: In@1, A?: usually@6, O: sense@8)	SVA (V: "be compile", S: sense@8, O: code@12, O: few@16)	SVA (V: "be using", S: few@16, O: instructions@28)
+177	SVC (C: ARM7TDMI@11, V: was@9, S: processor@3)
+178	SVO (V: included@11, S: ARM9@2, O: decoder@15)
+179	SVO (V: made@4, S: technology@3, O: debut@6)	SVO (S: its@5, V: "has", O: debut@6)	SVA (V: "be announced", S: debut@6, A!: in@13)
+180	SVA (V: "be give", S: Thumb@1, O: instruction@18, A!: producing@24)	SVO (V: extends@3, S: Thumb@1, O: set@8, A?: with@11, A?: give@16)	SVA (V: "be producing", S: give@16, A-: thus@23, O: set@28)
+181	SVC (V: is@7, S: aim@3, XCOMP: achieve@9)	SVA (V: "be set", S: instruction@21, A!: on@23)
+182	SVO (V: said@7, S: goal@4, A?: In@1, XCOMP: met@11)
+183	SVO (V: extends@5, S: December@1, O: ARM@8)	SVA (V: "be set", S: ARM@8, A!: with@13)
+184	SVC (S: Language@6, V: "is", C: UAL@9)	SVO (V: supports@11, S: Language@6, O: generation@12)	SVA (V: "be seen", S: versions@26, A!: on@30)	SVC (C: capable@36, V: are@33, S: versions@26, A?: essentially@34, A?: as@37)	SVA (V: "be write", S: ability@43, O: handlers@47)
+185	SVO (V: requires@2, S: This@1, O: bit@4)	SVO (V: use@9, S: This@1, O: bit@4, A?: of@10)	SVO (V: permits@22, S: instruction@19, A?: to@24, XCOMP: execute@29)
+186	SV (V: ignored@8, S: this@6, A?: compiling@2)	SVO (V: generates@17, S: it@16, A?: compiling@12, O: instruction@20)
+187	SVC (S: r0@12, V: "is", C: EQ@15)
+188	SVC (S: r0@11, V: "is", C: r2@13)	SVC (S: r0@36, V: "is", C: r3@38)	SVC (S: condition@46, V: "is", C: else@53)	SVOC (V: recall@55, S: condition@46, CCOMP: has@61, O: r0@74)	SVO (V: has@61, S: instruction@60, O: bits@63)	SVA (V: "be encode", S: bits@63)
+189	SVC (S: r0@6, V: "is", C: r2@8)	SVC (S: r0@26, V: "is", C: r3@28)	SVO (V: support@48, S: chips@47, O: set@53)
+190	
+191	
+192	
+193	SVO (V: Set@4, S: Instruction@3, O: Architecture@5)
+194	
+195	
+196	SVO (V: Set@4, S: Instruction@3, O: Architecture@5)
+197	
+198	SVO (V: aims@2, S: ARM@1, O: son@3, A?: at@6)
+199	
+200	SVO (V: aims@2, S: ARM@1, O: son@3, A?: at@6)
+201	
+202	
+203	
+204	
+205	
+206	
+207	
+208	
+209	SVA (V: "be termed", S: ThumbEE@2, A!: also@4)	SVO (V: announced@20, S: ThumbEE@2, A?: in@21, XCOMP: appearing@25)
+210	SVC (C: mode@6, V: is@2, S: ThumbEE@1, A?: making@8)	SVA (V: "be making", S: mode@6, O: changes@10)
+211	
+212	
+213	
+214	SVC (C: target@4, V: is@2, S: ThumbEE@1, A?: for@5)	SVOC (C: allows@20, V: is@2, S: ThumbEE@1, A?: for@5, O: compiler@22, A?: to@23, A?: without@28)
+215	SVO (V: include@6, S: New@1, O: checks@10)	SVA (V: "be perform", S: instruction@19, O: bounds@24)	SVO (V: check@25, S: instruction@19, O: access@27)	SVO (V: instructions@46, S: instruction@19, O: access@27)	SVA (V: "be registers", S: access@27, O: r8-r15@30)	SV (V: held@41, S: state@39, A?: where@32)	SVO (V: call@48, S: instructions@46, O: handler@50)
+216	
+217	
+218	SVC (C: sections@4, V: are@2, S: Handlers@1, A?: of@5)
+219	SVA (V: come@3, S: changes@2, A!: from@4)	SVO (V: knowing@12, S: changes@2, A?: from@4, CCOMP: is@15)	SVA (V: is@15, S: core@14, A!: in@16)
+220	SVC (S: VFP@1, V: "is", C: Point@5)	SVC (C: extension@12, V: is@8, S: technology@7, A?: to@13)
+221	SVO (V: provides@2, S: It@1, O: single-precision@4)
+222	SVO (V: provides@2, S: VFP@1, O: computation@4)
+223	SVO (V: intended@5, S: architecture@3, XCOMP: support@7)	SVA (V: operated@18, S: these@17, A!: on@19, A?: sequentially@23)	SVO (V: offer@28, S: these@17, A?: on@19, A?: sequentially@23, A-: thus@25, O: performance@30)
+224	SVA (V: removed@6, S: mode@3, A?: therefore@5, A!: after@8)	SVO (S: its@9, V: "has", O: introduction@10)
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	
+233	
+234	SVA (V: "be replaced", S: 2011-11-21@1, A!: with@5)
+235	SVO (V: have@8, S: devices@2, O: module@12)	SVOC (V: require@21, S: devices@2, O: module@12, O: cycles@27)
+236	
+237	
+238	
+239	
+240	
+241	
+242	SVA (V: "be found", S: Cortex-A8@4, A!: in@16)	SVOO (V: include@21, S: processors@20, O: FPA@22, IO: ARM@17)	SVC (S: FPA@22, V: "is", C: iwMMXt@26)
+243	SVO (V: provide@2, S: They@1, O: some@3)	SVO (V: opcode@13, S: They@1, O: some@3)
+244	SVC (C: 64@19, V: is@16, S: extension@4)	SVC (S: data@26, V: "is", C: SIMD@28)	SVO (V: set@31, S: instruction@30, CCOMP: provides@33)	SVO (V: provides@33, S: that@32, O: acceleration@35)
+245	SVA (V: included@3, S: NEON@1, A!: in@4)	SVC (C: optional@10, V: is@9, S: NEON@1, A?: in@4, A?: in@11)
+246	
+247	
+248	
+249	
+250	SVO (V: execute@4, S: NEON@2, O: audio@6)	SVOC (V: run@16, S: NEON@2, O: audio@6, O: codec@25, A?: at@26)	SVA (V: "be decoding", S: audio@6, A!: on@8)	SVA (V: "be running", S: CPUs@9, A!: at@11)
+251	SVO (V: features@2, S: It@1, O: set@6)
+252	
+253	
+254	
+255	
+256	
+257	
+258	
+259	
+260	SVO (V: supports@3, S: NEON@2, O: 8@4, A?: for@27)
+261	SVA (V: supports@6, S: SIMD@5, A?: In@1, A!: to@8, A?: at@11)
+262	SVO (V: registers@8, S: floating-point@7, A?: used@10, O: shares@4)
+263	SVO (V: execute@31, S: devices@29, O: 128-bits@32, A?: at@33)
+264	SVA (V: "be marketed", S: Extensions@3, A!: as@6)	SVA (V: found@11, S: Extensions@3, A!: in@12)	SV (V: architectures@18, S: Extensions@3, A?: in@12, A?: later@15)
+265	SVO (V: provides@2, S: It@1, O: alternative@6, A?: to@7, A?: by@18)	SVA (V: "be backed", S: processors@22, A!: by@24)
+266	SVOC (V: enables@2, S: This@1, O: core@5, XCOMP: switch@7)	SVA (V: "be referred", S: states@10, A!: to@13, A?: as@14)
+267	SVC (C: orthogonal@6, V: is@4, S: switch@3, A?: generally@5, A?: to@7)	SVA (V: operate@19, S: world@17, A-: thus@15, A!: independently@20, A?: using@25)
+268	SVC (V: made@6, S: Memory@1, A-: then@5, ACOMP: aware@7)	SVO (V: use@17, S: Memory@1, A-: then@5, ACOMP: aware@7, O: this@18, A?: provide@20)	SVA (V: "be provide", S: use@17, O: control@22, A!: to@23)
+269	
+270	
+271	
+272	
+273	
+274	SVC (C: proprietary@12, V: are@11, S: details@8)	SVC (C: disclosed@18, V: are@11, S: details@8, A?: publicly@17, A?: for@19)	SVC (C: unclear@24, V: is@23, S: it@22, A?: In@1, A?: proprietary@12, CCOMP: provided@30)	SVO (V: provided@30, S: level@26, O: what@25, A?: for@31)
+275	SVO (V: supports@8, S: architecture@7, A?: As@1, O: protection@11)	SVA (V: referred@15, S: protection@11, A!: to@16)
+276	SVA (V: added@11, S: XN@3, A!: in@12)	SVA (V: added@11, S: execute@5, A!: in@12)	SVA (V: "be retrieved", S: Architecture@18, O: 2009/12/01@24)
+277	SV (V: manufacture@7, S: Ltd@4, A?: March@1)	SVO (V: licenses@21, S: Ltd@4, A?: March@1, O: architecture@24, A?: to@25)	SVO (V: sell@9, S: Ltd@4, A?: March@1, O: devices@11, A?: based@12)	SVO (S: its@14, V: "has", O: designs@16)
+278	SVO (V: offers@2, S: ARM@1, O: variety@4, A?: varying@9)	SVA (V: "be varying", S: ARM@1, A!: in@10)
+279	SVO (V: provides@6, S: ARM@5, A?: To@1, O: description@10)	SVO (V: right@33, S: ARM@5, A?: To@1, O: description@10, A?: sell@35)	SVO (V: toolset@22, S: ARM@5, A?: To@1, O: description@10)	SVC (S: compiler@24, V: "is", C: debugger@26)	SVC (S: compiler@24, V: "is", C: SDK@28)	SVA (V: "be sell", S: right@33, O: silicon@37)	SVA (V: "be containing", S: silicon@37, O: CPU@41)
+280	SVO (V: wish@5, S: licensees@2, XCOMP: integrate@7)	SVO (S: their@12, V: "has", O: design@15)	SVC (C: interested@20, V: are@17, S: licensees@2, A?: usually@18, A?: only@19, A?: in@21)
+281	SVO (V: delivers@6, S: ARM@5, A?: For@1, O: description@10, A?: along@17)
+282	SVC (S: manufacturers@8, V: "is", C: IDM@10)	SVC (S: RTL@24, V: "is", C: Verilog@26)
+283	SVO (V: has@8, S: customer@7, A?: With@1, O: ability@10)	SVA (V: "be perform", S: ability@10, O: optimizations@15)
+284	SVOC (V: allows@2, S: This@1, O: designer@4, XCOMP: achieve@6)	SVC (S: speed@20, V: "is", C: consumption@25)	SVOO (V: set@28, S: instruction@27, O: extensions@29, IO: speed@20)
+285	
+286	SVOC (V: grant@5, S: ARM@2, O: licensee@7, O: right@9)	SVA (V: "be resell", S: right@9, O: architecture@14)	SVO (V: sell@20, S: licensees@17, A?: grant@5, A?: freely@19, O: product@22)	SVC (S: devices@25, V: "is", C: systems@31)
+287	
+288	SVC (C: case@7, V: be@4, S: foundries@2)	SVO (V: allowed@13, S: they@12, A?: only@10, XCOMP: sell@15)	SVA (V: "be containing", S: silicon@17, O: cores@20)	SVO (V: hold@24, S: they@22, A?: generally@23, O: right@26)
+289	SVO (S: its@8, V: "has", O: IP@9)
+290	SVO (V: command@9, S: cores@8, O: costs@12)	SVA (V: "be performing", S: higher@14, O: cores@16)
+291	SVC (S: macro@13, V: "is", C: blackbox@15)
+292	SVC (S: matters@3, V: "is", C: foundry@7)	SVO (V: holds@9, S: foundry@7, O: license@12)	SVO (V: offer@21, S: matters@3, O: costs@24, A?: to@25)	SVO (S: its@26, V: "has", O: customers@28)
+293	SVO (S: foundry@10, V: "has", O: services@14)	SVO (V: reduce@19, S: customer@17, A?: In@1, O: payment@22)	SVO (V: eliminate@21, S: customer@17, A?: In@1, O: payment@22)	SVO (S: ARM@24, V: "has", O: fee@28)
+294	
+295	SVO (V: offers@12, S: foundry@11, A?: For@1, O: pricing@15)
+296	SVO (V: produced@5, S: mass@4, O: parts@6)	SVA (V: achievable@13, S: reduction@12, A?: produced@5, A!: through@14)	SVA (V: "be making", S: reduces@18, XCOMP: choice@37)	SVO (S: ARM@22, V: "has", O: NRE@24)	SVC (S: NRE@24, V: "is", C: Engineering@27)	SV (V: choice@37, S: foundry@34)
+297	SVO (V: hold@7, S: semiconductor@2, O: licenses@9)	SVC (S: Devices@12, V: "is", C: Group@51)	SVC (S: Devices@12, V: "is", C: IBM@44)	SVC (S: Devices@12, V: "is", C: AppliedMicro@14)	SVC (S: Devices@12, V: "is", C: Technologies@47)	SVC (S: AppliedMicro@14, V: "is", C: Intel@33)	SVO (S: its@36, V: "has", O: settlement@37)	SVC (S: Group@51, V: "is", C: Nintendo@53)	SVC (C: some@72, V: are@71, S: Devices@12, A?: of@73)	SVO (V: licensed@79, S: companies@76, O: ARM@81, A?: in@82)
+298	SVO (S: ARM@1, V: "has", O: report@5)	SVA (V: state@8, S: report@5, A!: that@9)	SVA (V: "be totalling", S: royalties@10, O: 88.7@13)
+299	
+300	SVC (C: result@5, V: were@3, S: million@1, A?: of@6)	SVA (V: "be shipping", S: licensees@7, O: 2.45@9)
+301	
+302	SVC (S: review/IFRS@4, V: "is", C: p@7)
+303	
+304	
+305	SVC (C: equivalent@3, V: is@2, S: This@1, A?: to@4)
+306	
+307	
+308	SVA (V: averaged@5, S: this@3, A?: However@1, A!: across@6, A?: including@10)
+309	SVO (S: ARM@5, V: "has", O: revenues@8)	SVOC (C: 65.2@14, V: were@12, S: revenues@8, O: year@4)
+310	
+311	SVA (V: "be Based", S: million@1, A!: on@5)
+312	
+313	
+314	
+315	
+316	
+317	SVO (V: signed@9, S: licenses@7, A?: when@4, O: year@3)	SVC (S: indicators@14, V: "is", C: p@17)
+318	
+319	
+320	
+321	
+322	SVA (V: averaged@5, S: this@3, A?: Again@1, A!: across@6)
+323	SVO (S: ARM@3, V: "has", O: income@6)	SVC (C: %@13, V: was@10, S: income@6, A?: from@14)	SVO (V: makes@23, S: ARM@22, O: equivalent@25)
+324	
+325	SVA (V: "be shipped", S: unit@3, A!: including@5)
+326	SVA (V: bought@8, S: licenses@5, A?: typically@7, A!: for@9)	SVC (S: sales@14, V: "is", C: royalties@18)	SVA (V: dominated@21, S: sales@14, A?: However@1, A?: bought@8, A!: by@22)
+327	SVO (V: reflect@8, S: figures@4, A?: Hence@1, O: costs@11)
+328	SVC (S: thumbAndroid@1, V: "is", C: system@4)	SVA (V: "be running", S: system@11, A!: on@13)	SVO (V: ran@30, S: computers@29, O: system@34)	SVA (V: "be called", S: system@34)	SVA (V: "be used", S: system@34, A!: on@45)	SVA (V: evolved@39, S: system@34, A!: into@40)
+329	
+330	SVC (S: Framework@2, V: "is", C: Symbian@4)
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	
+341	
+342	
+343	SVO (V: include@11, S: Chronicle@6, O: support@12)
+344	SVO (V: demonstrated@2, S: Microsoft@1, O: version@5)
+345	SVO (S: running@2, V: "has", O: -RRB-@1)
+346	SVA (V: supported@6, S: architecture@3, A?: also@5, A!: by@7)	SVO (S: Microsoft@8, V: "has", O: systems@12)
+347	SVA (V: supported@4, S: ARM@1, A?: also@3, A!: on@5)	SVO (S: Microsoft@6, V: "has", O: OS@9)	SVO (V: Embedded@12, S: Windows@11, O: CE@13)	SVO (V: called@17, S: CE@13, A?: now@16, CCOMP: Embedded@19)	SVO (V: Embedded@19, S: Windows@18, O: Compact@20)
+348	SVO (V: supports@4, S: version@3, O: ARMv@5)
+349	SVC (C: OS@7, V: is@4, S: Windows@1, A?: for@8)	SVA (V: "be Embedded", S: Windows@12, O: Compact@14)	SVC (C: OS@19, V: is@16, S: OS@7, A?: for@20)
+350	
+351	SVO (V: uses@2, S: Microframework@1, O: ARM@3, A?: exclusively@4)
+352	
+353	
+354	SVC (S: ARM@6, V: "is", C: працэсар@8)	SVC (S: ARM@18, V: "is", C: processorarkitektur@20)	SVC (S: ARM@27, V: "is", C: arvutiarhitektuur@29)	SV (V: es@35, S: ARM@34)	SVC (S: ಚರ@65, V: "is", C: ಸ@70)	SVC (S: ARM@93, V: "is", C: prosessorarkitektur@95)	SV (V: pt@101, S: ARM@100)	SVC (S: ARM@107, V: "is", C: архитектура@109)	SVC (S: ARM@128, V: "is", C: processorarkitektur@130)
+355	SVA (V: "be related", S: exceptions@17, XCOMP: load/store@20)
+356	
+357	SVA (V: "be ease", S: width@3, O: decoding@9)
+358	SVO (V: set@6, S: instruction@5, A?: Later@1, O: density@9)
+359	
+360	
+361	SVO (V: alter@3, S: instructions@2, O: code@5, A?: desired@8)
+362	SVA (V: used@7, S: shifter@3, A!: without@8)
+363	
+364	SV (V: calls@8, S: register@3)
+365	
+366	SVO (V: has@24, S: instruction@23, O: bits@26)	SVO (V: Plan@40, S: instruction@23, O: bits@26, A?: from@42)	SVA (V: "be encode", S: bits@26)
+367	
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	
+376	
+377	
+378	SVC (S: July@11, V: "is", C: http@19)
+379	
+380	SVC (S: July@15, V: "is", C: http@19)
+381	
+382	
+383	
+384	
+385	
+386	
+387	
+388	
+389	
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	SVOC (V: builds@4, S: ARM@3, O: http@7, O: www.mvista.com/boards@11)
+403	
+404	
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	
+417	
+418	
+419	
+420	
+421	
+422	
+423	
+424	
+425	
+426	
+427	
+428	
+429	
+430	
+431	
+432	
+433	
+434	
+435	
+436	SVA (V: "be supported", S: Hardware@5, A!: by@7)
+437	
+438	SVA (V: "be supported", S: Hardware@5, A!: by@7)
+439	
+440	
+441	
+442	
+443	
+444	
+445	
+446	
+447	
+448	SVC (S: AMULET@9, V: "is", C: family@11)	SVC (S: ARMulator@15, V: "is", C: machine@25)	SVOO (V: Set@19, S: Instruction@18, O: ARMware@21, IO: ARMulator@15)	SVO (V: emulates@27, S: machine@25, O: ARM@29)
+449	SVC (S: QEMU@1, V: "is", C: machine@5)	SVO (V: supports@7, S: machine@5, O: simulator@13)	SVOO (V: Set@20, S: Instruction@19, O: Amber@22, IO: source@17)	SVC (S: Amber@22, V: "is", C: core@25)	SVA (V: developed@32, S: core@31, A!: in@33)
+450	SVC (S: Pi@16, V: "is", C: ARM11@18)
+451	
+452	
+453	

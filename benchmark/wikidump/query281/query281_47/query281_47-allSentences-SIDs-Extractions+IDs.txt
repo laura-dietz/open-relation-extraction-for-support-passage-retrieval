@@ -1,0 +1,855 @@
+2012-02-05T20:34:20Z yes r63.4 	0	query281_Weight_loss\S\0
+783.21 	1	query281_Weight_loss\S\1
+the episode of the American version of The Office Weight Loss ( The Office ) Weight loss , in the context of medicine , health or physical fitness , is a reduction of the total body mass , due to a mean loss of fluid , body fat or adipose tissue and/or lean mass , namely bone mineral deposits , muscle , tendon and other connective tissue . 	2	query281_Weight_loss\S\2
+"The Office Weight Loss"	"is"	"The Office"	2	query281_Weight_loss\P\2-0
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral deposits"	"of the total body mass"	2	query281_Weight_loss\P\2-1
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral deposits"	"of the total body mass"	2	query281_Weight_loss\P\2-2
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral deposits"	"of the total body mass"	2	query281_Weight_loss\P\2-3
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is 2 a reduction due to a mean loss of body fat mass namely bone mineral deposits muscle tendon and other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-4
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is 2 a reduction due to a mean loss of body fat mass namely bone mineral deposits muscle tendon and other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-5
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is 2 a reduction due to a mean loss of body fat mass namely bone mineral deposits muscle tendon and other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-6
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is 2 a reduction due to a mean loss of adipose tissue mass namely bone mineral deposits muscle tendon and other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-7
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is 2 a reduction due to a mean loss of adipose tissue mass namely bone mineral deposits muscle tendon and other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-8
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is 2 a reduction due to a mean loss of adipose tissue mass namely bone mineral deposits muscle tendon and other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-9
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is 2 a reduction due to a mean loss of lean mass namely bone mineral deposits muscle tendon and other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-10
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is 2 a reduction due to a mean loss of lean mass namely bone mineral deposits muscle tendon and other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-11
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is 2 a reduction due to a mean loss of lean mass namely bone mineral deposits muscle tendon and other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-12
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral muscle"	"of the total body mass"	2	query281_Weight_loss\P\2-13
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral muscle"	"of the total body mass"	2	query281_Weight_loss\P\2-14
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral muscle"	"of the total body mass"	2	query281_Weight_loss\P\2-15
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral tendon"	"of the total body mass"	2	query281_Weight_loss\P\2-16
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral tendon"	"of the total body mass"	2	query281_Weight_loss\P\2-17
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral tendon"	"of the total body mass"	2	query281_Weight_loss\P\2-18
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-19
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-20
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is 2 a reduction due to a mean loss of fluid mass namely bone mineral other connective tissue"	"of the total body mass"	2	query281_Weight_loss\P\2-21
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral deposits"	2	query281_Weight_loss\P\2-22
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral deposits"	2	query281_Weight_loss\P\2-23
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral deposits"	2	query281_Weight_loss\P\2-24
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is"	"2 a reduction due to a mean loss of body fat mass namely bone mineral deposits muscle tendon and other connective tissue"	2	query281_Weight_loss\P\2-25
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is"	"2 a reduction due to a mean loss of body fat mass namely bone mineral deposits muscle tendon and other connective tissue"	2	query281_Weight_loss\P\2-26
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is"	"2 a reduction due to a mean loss of body fat mass namely bone mineral deposits muscle tendon and other connective tissue"	2	query281_Weight_loss\P\2-27
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is"	"2 a reduction due to a mean loss of adipose tissue mass namely bone mineral deposits muscle tendon and other connective tissue"	2	query281_Weight_loss\P\2-28
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is"	"2 a reduction due to a mean loss of adipose tissue mass namely bone mineral deposits muscle tendon and other connective tissue"	2	query281_Weight_loss\P\2-29
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is"	"2 a reduction due to a mean loss of adipose tissue mass namely bone mineral deposits muscle tendon and other connective tissue"	2	query281_Weight_loss\P\2-30
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is"	"2 a reduction due to a mean loss of lean mass namely bone mineral deposits muscle tendon and other connective tissue"	2	query281_Weight_loss\P\2-31
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is"	"2 a reduction due to a mean loss of lean mass namely bone mineral deposits muscle tendon and other connective tissue"	2	query281_Weight_loss\P\2-32
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is"	"2 a reduction due to a mean loss of lean mass namely bone mineral deposits muscle tendon and other connective tissue"	2	query281_Weight_loss\P\2-33
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral muscle"	2	query281_Weight_loss\P\2-34
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral muscle"	2	query281_Weight_loss\P\2-35
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral muscle"	2	query281_Weight_loss\P\2-36
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral tendon"	2	query281_Weight_loss\P\2-37
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral tendon"	2	query281_Weight_loss\P\2-38
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral tendon"	2	query281_Weight_loss\P\2-39
+"the episode of the American version of The Office Weight Loss Weight loss in the context of medicine"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral other connective tissue"	2	query281_Weight_loss\P\2-40
+"the episode of the American version of The Office Weight Loss Weight loss in the context of health"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral other connective tissue"	2	query281_Weight_loss\P\2-41
+"the episode of the American version of The Office Weight Loss Weight loss in the context of physical fitness"	"is"	"2 a reduction due to a mean loss of fluid mass namely bone mineral other connective tissue"	2	query281_Weight_loss\P\2-42
+It can occur unintentionally due to an underlying disease or can arise from a conscious effort to improve an actual or perceived overweight or obese state . 	3	query281_Weight_loss\S\3
+It can occur unintentionally due to an underlying disease or can arise from a conscious effort to improve an actual or perceived overweight or obese state . 	3	query281_Weight_loss\S\3
+It can occur unintentionally due to an underlying disease or can arise from a conscious effort to improve an actual or perceived overweight or obese state . 	3	query281_Weight_loss\S\3
+It can occur unintentionally due to an underlying disease or can arise from a conscious effort to improve an actual or perceived overweight or obese state . 	3	query281_Weight_loss\S\3
+It can occur unintentionally due to an underlying disease or can arise from a conscious effort to improve an actual or perceived overweight or obese state . 	3	query281_Weight_loss\S\3
+It can occur unintentionally due to an underlying disease or can arise from a conscious effort to improve an actual or perceived overweight or obese state . 	3	query281_Weight_loss\S\3
+It can occur unintentionally due to an underlying disease or can arise from a conscious effort to improve an actual or perceived overweight or obese state . 	3	query281_Weight_loss\S\3
+It can occur unintentionally due to an underlying disease or can arise from a conscious effort to improve an actual or perceived overweight or obese state . 	3	query281_Weight_loss\S\3
+"a conscious effort"	"be improve"	"an actual overweight state"	3	query281_Weight_loss\P\3-0
+"a conscious effort"	"be improve"	"an perceived overweight or obese state"	3	query281_Weight_loss\P\3-1
+"a conscious effort"	"be improve"	"an actual obese state"	3	query281_Weight_loss\P\3-2
+Unintentional weight loss occurs in many diseases and conditions , including some very serious diseases such as cancer , AIDS , and a variety of other diseases . 	4	query281_Weight_loss\S\4
+"Unintentional weight loss"	"occurs"	"in many diseases including some very serious diseases such as cancer"	4	query281_Weight_loss\P\4-0
+"Unintentional weight loss"	"occurs"	"in many conditions including some very serious diseases such as cancer"	4	query281_Weight_loss\P\4-1
+"Unintentional weight loss"	"occurs"	"in many conditions including some very serious diseases such as AIDS"	4	query281_Weight_loss\P\4-2
+"Unintentional weight loss"	"occurs"	"in many conditions including some very serious diseases such as a variety of other diseases"	4	query281_Weight_loss\P\4-3
+"Unintentional weight loss"	"occurs"	"in many diseases including some very serious diseases such as AIDS"	4	query281_Weight_loss\P\4-4
+"Unintentional weight loss"	"occurs"	"in many diseases including some very serious diseases such as a variety of other diseases"	4	query281_Weight_loss\P\4-5
+Poor management of type 1 diabetes mellitus , also known as insulin-dependent diabetes mellitus ( IDDM) , leads to an excessive amount of glucose and an insufficient amount of insulin in the bloodstream . 	5	query281_Weight_loss\S\5
+"Poor management of type 1 diabetes mellitus"	"be known"	"also as insulin-dependent diabetes mellitus"	5	query281_Weight_loss\P\5-0
+"Poor management of type 1 diabetes mellitus"	"be known"	"also"	5	query281_Weight_loss\P\5-1
+"insulin-dependent diabetes mellitus"	"is"	"IDDM"	5	query281_Weight_loss\P\5-2
+"Poor management of type 1 diabetes mellitus also known as insulin-dependent diabetes mellitus"	"leads"	"to an excessive amount of glucose"	5	query281_Weight_loss\P\5-3
+"Poor management of type 1 diabetes mellitus also known as insulin-dependent diabetes mellitus"	"an insufficient amount"	"of insulin to an excessive amount of glucose"	5	query281_Weight_loss\P\5-4
+"Poor management of type 1 diabetes mellitus also known as insulin-dependent diabetes mellitus"	"an insufficient amount"	"of insulin in the bloodstream"	5	query281_Weight_loss\P\5-5
+"Poor management of type 1 diabetes mellitus also known as insulin-dependent diabetes mellitus"	"an insufficient amount"	"of insulin"	5	query281_Weight_loss\P\5-6
+This triggers the release of triglycerides from adipose ( fat ) tissue and catabolism ( breakdown ) of amino acids in muscle tissue . 	6	query281_Weight_loss\S\6
+This triggers the release of triglycerides from adipose ( fat ) tissue and catabolism ( breakdown ) of amino acids in muscle tissue . 	6	query281_Weight_loss\S\6
+This triggers the release of triglycerides from adipose ( fat ) tissue and catabolism ( breakdown ) of amino acids in muscle tissue . 	6	query281_Weight_loss\S\6
+This triggers the release of triglycerides from adipose ( fat ) tissue and catabolism ( breakdown ) of amino acids in muscle tissue . 	6	query281_Weight_loss\S\6
+This triggers the release of triglycerides from adipose ( fat ) tissue and catabolism ( breakdown ) of amino acids in muscle tissue . 	6	query281_Weight_loss\S\6
+This results in a loss of both fat and lean mass , leading to a significant reduction in total body weight . 	7	query281_Weight_loss\S\7
+This results in a loss of both fat and lean mass , leading to a significant reduction in total body weight . 	7	query281_Weight_loss\S\7
+This results in a loss of both fat and lean mass , leading to a significant reduction in total body weight . 	7	query281_Weight_loss\S\7
+This results in a loss of both fat and lean mass , leading to a significant reduction in total body weight . 	7	query281_Weight_loss\S\7
+This results in a loss of both fat and lean mass , leading to a significant reduction in total body weight . 	7	query281_Weight_loss\S\7
+This results in a loss of both fat and lean mass , leading to a significant reduction in total body weight . 	7	query281_Weight_loss\S\7
+Untreated type 1 diabetes mellitus can produce weight loss. 	8	query281_Weight_loss\S\8
+"type 1 diabetes mellitus"	"can produce"	"weight loss"	8	query281_Weight_loss\P\8-0
+In addition to weight loss due to a reduction in fat and lean mass , fluid loss can be triggered by illnesses such as diabetes , certain medications , lack of fluid intake or other factors . 	9	query281_Weight_loss\S\9
+"fluid loss"	"can be triggered"	"by illnesses such as diabetes"	9	query281_Weight_loss\P\9-0
+"fluid loss"	"can be triggered"	"by illnesses such as certain medications"	9	query281_Weight_loss\P\9-1
+"fluid loss"	"can be triggered"	"by illnesses such as lack of fluid intake"	9	query281_Weight_loss\P\9-2
+"fluid loss"	"can be triggered"	"by illnesses such as lack of fluid other factors"	9	query281_Weight_loss\P\9-3
+"fluid loss"	"can be triggered"	"by illnesses such as diabetes"	9	query281_Weight_loss\P\9-4
+"fluid loss"	"can be triggered"	"by illnesses such as certain medications"	9	query281_Weight_loss\P\9-5
+"fluid loss"	"can be triggered"	"by illnesses such as lack of fluid intake"	9	query281_Weight_loss\P\9-6
+"fluid loss"	"can be triggered"	"by illnesses such as lack of fluid other factors"	9	query281_Weight_loss\P\9-7
+Fluid loss in addition to reduction in fat and lean mass exacerbates the risk for cachexia . 	10	query281_Weight_loss\S\10
+"Fluid loss in addition to reduction in fat mass"	"exacerbates"	"the risk for cachexia"	10	query281_Weight_loss\P\10-0
+"Fluid loss in addition to reduction in lean mass"	"exacerbates"	"the risk for cachexia"	10	query281_Weight_loss\P\10-1
+Morley John E Thomas David R Margaret-Mary G Wilson Cachexia : pathophysiology and clinical relevance American Journal of Clinical Nutrition 83 4 735–743 April 2006 2006 Morley John E Thomas David R Margaret-Mary G Wilson Cachexia : pathophysiology and clinical relevance American Journal of Clinical Nutrition 83 4 735–743 April 2006 2006 Infections such as HIV may alter metabolism , leading to weight loss . 	11	query281_Weight_loss\S\11
+"pathophysiology relevance American Journal of Clinical Nutrition 83 4 735 743 April 2006 2006 Infections such as HIV"	"be leading"	"to weight loss"	11	query281_Weight_loss\P\11-0
+"clinical relevance American Journal of Clinical Nutrition 83 4 735 743 April 2006 2006 Infections such as HIV"	"be leading"	"to weight loss"	11	query281_Weight_loss\P\11-1
+"pathophysiology relevance American Journal of Clinical Nutrition 83 4 735 743 April 2006 2006 Infections such as HIV"	"may alter"	"metabolism leading to weight loss"	11	query281_Weight_loss\P\11-2
+"clinical relevance American Journal of Clinical Nutrition 83 4 735 743 April 2006 2006 Infections such as HIV"	"may alter"	"metabolism leading to weight loss"	11	query281_Weight_loss\P\11-3
+"pathophysiology relevance American Journal of Clinical Nutrition 83 4 735 743 April 2006 2006 Infections such as HIV"	"may alter"	"metabolism"	11	query281_Weight_loss\P\11-4
+"clinical relevance American Journal of Clinical Nutrition 83 4 735 743 April 2006 2006 Infections such as HIV"	"may alter"	"metabolism"	11	query281_Weight_loss\P\11-5
+Mangili A , Murman DH , Zampini AM , Wanke CA Nutrition and HIV infection : review of weight loss and wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin . 	12	query281_Weight_loss\S\12
+"Mangili A"	"is"	"Murman DH review of weight loss"	12	query281_Weight_loss\P\12-0
+"Mangili A"	"is"	"Murman DH of weight loss wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin"	12	query281_Weight_loss\P\12-1
+"Murman DH review of weight loss"	"is"	"Zampini AM"	12	query281_Weight_loss\P\12-2
+"Murman DH of weight loss wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin"	"is"	"Zampini AM"	12	query281_Weight_loss\P\12-3
+"Murman DH review of weight loss"	"is"	"Wanke CA Nutrition"	12	query281_Weight_loss\P\12-4
+"Murman DH review of weight loss"	"is"	"Wanke CA HIV infection"	12	query281_Weight_loss\P\12-5
+"Murman DH of weight loss wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin"	"is"	"Wanke CA Nutrition"	12	query281_Weight_loss\P\12-6
+"Murman DH of weight loss wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin"	"is"	"Wanke CA HIV infection"	12	query281_Weight_loss\P\12-7
+Infect . 	13	query281_Weight_loss\S\13
+Dis . 	14	query281_Weight_loss\S\14
+42 6 836–42 2006 16477562 10.1086/500398 	15	query281_Weight_loss\S\15
+Mangili A , Murman DH , Zampini AM , Wanke CA Nutrition and HIV infection : review of weight loss and wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin . 	16	query281_Weight_loss\S\16
+"Mangili A"	"is"	"Murman DH review of weight loss"	16	query281_Weight_loss\P\16-0
+"Mangili A"	"is"	"Murman DH of weight loss wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin"	16	query281_Weight_loss\P\16-1
+"Murman DH review of weight loss"	"is"	"Zampini AM"	16	query281_Weight_loss\P\16-2
+"Murman DH of weight loss wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin"	"is"	"Zampini AM"	16	query281_Weight_loss\P\16-3
+"Murman DH review of weight loss"	"is"	"Wanke CA Nutrition"	16	query281_Weight_loss\P\16-4
+"Murman DH review of weight loss"	"is"	"Wanke CA HIV infection"	16	query281_Weight_loss\P\16-5
+"Murman DH of weight loss wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin"	"is"	"Wanke CA Nutrition"	16	query281_Weight_loss\P\16-6
+"Murman DH of weight loss wasting in the era of highly active antiretroviral therapy from the nutrition for healthy living cohort Clin"	"is"	"Wanke CA HIV infection"	16	query281_Weight_loss\P\16-7
+Infect . 	17	query281_Weight_loss\S\17
+Dis . 	18	query281_Weight_loss\S\18
+42 6 836–42 2006 16477562 10.1086/500398 	19	query281_Weight_loss\S\19
+Hormonal disruptions , such as an overactive thyroid ( hyperthyroidism ) , may also exhibit as weight loss . 	20	query281_Weight_loss\S\20
+"an overactive thyroid"	"is"	"hyperthyroidism"	20	query281_Weight_loss\P\20-0
+"Hormonal disruptions such as an overactive thyroid"	"may exhibit"	"as weight loss also"	20	query281_Weight_loss\P\20-1
+"Hormonal disruptions such as an overactive thyroid"	"may exhibit"	"as weight loss"	20	query281_Weight_loss\P\20-2
+http ://www.thyroid 	21	query281_Weight_loss\S\21
+.org/patients/brochures/Thyroid_and_Weight.pdf 	22	query281_Weight_loss\S\22
+PDF Thyroid and weight American Thyroid Association 2005 2011-01-26 http ://www.thyroid 	23	query281_Weight_loss\S\23
+.org/patients/brochures/Thyroid_and_Weight.pdf 	24	query281_Weight_loss\S\24
+PDF Thyroid and weight American Thyroid Association 2005 2011-01-26 One cutoff value of where unintentional weight loss is of significant concern is where there 's a weight loss of more than 5 % in the past month , or at least 10 % during the last 6 months . 	25	query281_Weight_loss\S\25
+"unintentional weight loss"	"is"	"of significant concern where"	25	query281_Weight_loss\P\25-0
+"unintentional weight loss"	"is"	"of significant concern"	25	query281_Weight_loss\P\25-1
+"PDF Thyroid"	"is"	"where there 's a weight loss of more than 5 % in the past month"	25	query281_Weight_loss\P\25-2
+"PDF weight American Thyroid Association 2005 2011-01-26 One cutoff value of where unintentional weight loss is of significant concern"	"is"	"where there 's a weight loss of more than 5 % in the past month"	25	query281_Weight_loss\P\25-3
+"PDF Thyroid"	"at least 10 %"	"during the last 6 months where there 's a weight loss of more than 5 % in the past month"	25	query281_Weight_loss\P\25-4
+"PDF weight American Thyroid Association 2005 2011-01-26 One cutoff value of where unintentional weight loss is of significant concern"	"at least 10 %"	"during the last 6 months where there 's a weight loss of more than 5 % in the past month"	25	query281_Weight_loss\P\25-5
+"PDF Thyroid"	"at least 10 %"	"during the last 6 months"	25	query281_Weight_loss\P\25-6
+"PDF weight American Thyroid Association 2005 2011-01-26 One cutoff value of where unintentional weight loss is of significant concern"	"at least 10 %"	"during the last 6 months"	25	query281_Weight_loss\P\25-7
+"a weight loss of more than 5 %"	"there 's"	"where"	25	query281_Weight_loss\P\25-8
+"a weight loss of more than 5 %"	"there 's"	"in the past month"	25	query281_Weight_loss\P\25-9
+in : The role of nutrition in maintaining health in the nation 's elderly : evaluating coverage of nutrition services for the Medicare population . 	26	query281_Weight_loss\S\26
+"The role of nutrition in maintaining health in the nation 's elderly"	"be evaluating"	"coverage of nutrition services for the Medicare population"	26	query281_Weight_loss\P\26-0
+Author : Institute of Medicine ( U.S. 	27	query281_Weight_loss\S\27
+) . 	28	query281_Weight_loss\S\28
+Committee on Nutrition Services for Medicare Beneficiaries . 	29	query281_Weight_loss\S\29
+ISBN\t0309068460 , 9780309068468 section August 2011 August 2011 August 2011 Intentional weight loss refers to the loss of total body mass in an effort to improve fitness and health , and/or to change appearance . 	30	query281_Weight_loss\S\30
+"ISBN \ t0309068460"	"is"	"9780309068468 section August 2011 August 2011 August 2011 Intentional weight loss"	30	query281_Weight_loss\P\30-0
+"ISBN \ t0309068460"	"refers"	"to the loss of total body mass in an effort to improve fitness"	30	query281_Weight_loss\P\30-1
+"ISBN \ t0309068460"	"refers"	"to the loss of total body mass in an effort to improve health"	30	query281_Weight_loss\P\30-2
+"ISBN \ t0309068460"	"to change"	"appearance to the loss of total body mass in an effort to improve fitness"	30	query281_Weight_loss\P\30-3
+"ISBN \ t0309068460"	"to change"	"appearance to the loss of total body mass in an effort to improve health"	30	query281_Weight_loss\P\30-4
+"ISBN \ t0309068460"	"to change"	"appearance"	30	query281_Weight_loss\P\30-5
+"an effort"	"be improve"	"fitness"	30	query281_Weight_loss\P\30-6
+"an effort"	"be improve"	"health"	30	query281_Weight_loss\P\30-7
+Therapeutic weight loss , in individuals who are overweight or obese , can decrease the likelihood of developing diseases such as diabetes , http ://www .usmedicine 	31	query281_Weight_loss\S\31
+.com/article 	32	query281_Weight_loss\S\32
+.cfm 	33	query281_Weight_loss\S\33
+?articleID=261&issueID=30 Diabetes study shows value in diet , exercise Butler ME U.S. 	34	query281_Weight_loss\S\34
+"articleID = 261 & issueID = 30 Diabetes study"	"shows"	"value in diet"	34	query281_Weight_loss\P\34-0
+Medicine September 2001 http ://web.archive 	35	query281_Weight_loss\S\35
+.org/web/20080423042119/http 	36	query281_Weight_loss\S\36
+://www .usmedicine 	37	query281_Weight_loss\S\37
+.com/article 	38	query281_Weight_loss\S\38
+.cfm 	39	query281_Weight_loss\S\39
+?articleID=261&issueID=30 2008-04-23 http ://www .usmedicine 	40	query281_Weight_loss\S\40
+.com/article 	41	query281_Weight_loss\S\41
+.cfm 	42	query281_Weight_loss\S\42
+?articleID=261&issueID=30 Diabetes study shows value in diet , exercise Butler ME U.S. 	43	query281_Weight_loss\S\43
+"articleID = 261 & issueID = 30 Diabetes study"	"shows"	"value in diet"	43	query281_Weight_loss\P\43-0
+Medicine September 2001 http ://web.archive 	44	query281_Weight_loss\S\44
+.org/web/20080423042119/http 	45	query281_Weight_loss\S\45
+://www .usmedicine 	46	query281_Weight_loss\S\46
+.com/article 	47	query281_Weight_loss\S\47
+.cfm 	48	query281_Weight_loss\S\48
+?articleID=261&issueID=30 2008-04-23 heart disease , high blood pressure , osteoarthritis , http ://www.obesity 	49	query281_Weight_loss\S\49
+"articleID = 261 & issueID = 30 2008-04-23 heart disease"	"is"	"high blood pressure www.obesity"	49	query281_Weight_loss\P\49-0
+"articleID = 261 & issueID = 30 2008-04-23 heart disease"	"is"	"high blood osteoarthritis www.obesity"	49	query281_Weight_loss\P\49-1
+"articleID = 261 & issueID = 30 2008-04-23 heart disease"	"is"	"high blood http www.obesity"	49	query281_Weight_loss\P\49-2
+.org/subs/fastfacts/Health_Effects 	50	query281_Weight_loss\S\50
+.shtml 	51	query281_Weight_loss\S\51
+Prevalence of various medical conditions increases with overweight and obesity American Obesity Association 2005 http ://web.archive 	52	query281_Weight_loss\S\52
+"Prevalence of various medical conditions"	"increases"	"with overweight American Obesity Association 2005 http"	52	query281_Weight_loss\P\52-0
+"Prevalence of various medical conditions"	"increases"	"with obesity American Obesity Association 2005 http"	52	query281_Weight_loss\P\52-1
+.org/web/20070122121959/http 	53	query281_Weight_loss\S\53
+://www.obesity 	54	query281_Weight_loss\S\54
+.org/subs/fastfacts/Health_Effects 	55	query281_Weight_loss\S\55
+.shtml 	56	query281_Weight_loss\S\56
+2007-01-22 http ://www.obesity 	57	query281_Weight_loss\S\57
+.org/subs/fastfacts/Health_Effects 	58	query281_Weight_loss\S\58
+.shtml 	59	query281_Weight_loss\S\59
+Prevalence of various medical conditions increases with overweight and obesity American Obesity Association 2005 http ://web.archive 	60	query281_Weight_loss\S\60
+"Prevalence of various medical conditions"	"increases"	"with overweight American Obesity Association 2005 http"	60	query281_Weight_loss\P\60-0
+"Prevalence of various medical conditions"	"increases"	"with obesity American Obesity Association 2005 http"	60	query281_Weight_loss\P\60-1
+.org/web/20070122121959/http 	61	query281_Weight_loss\S\61
+://www.obesity 	62	query281_Weight_loss\S\62
+.org/subs/fastfacts/Health_Effects 	63	query281_Weight_loss\S\63
+.shtml 	64	query281_Weight_loss\S\64
+2007-01-22 and certain types of cancer . 	65	query281_Weight_loss\S\65
+10.1017/S0029665100000379 	66	query281_Weight_loss\S\66
+Proc Nutr Soc 2000 Aug 59 3 331–6 Pathophysiology of obesity Lean ME 10997648 10.1017/S0029665100000379 	67	query281_Weight_loss\S\67
+"Pathophysiology of obesity"	"Lean"	"ME 10997648 10.1017"	6	query281_Weight_loss\P\67-0
+Proc Nutr Soc 2000 Aug 59 3 331–6 Pathophysiology of obesity Lean ME 10997648 While being overweight had been thought to be linked to stroke there is no strong evidence to support that link . 	68	query281_Weight_loss\S\68
+"Pathophysiology of obesity"	"Lean"	"ME 10997648 While being overweight had been thought to be linked to stroke Aug 59 3 331"	6	query281_Weight_loss\P\68-0
+"Pathophysiology of obesity"	"Lean"	"ME 10997648 Aug 59 3 331"	6	query281_Weight_loss\P\68-1
+"being overweight"	"had been thought"	"to be linked to stroke"	6	query281_Weight_loss\P\68-2
+"no strong evidence"	"be support"	"that link"	6	query281_Weight_loss\P\68-3
+Curioni C , André C , Veras R Weight reduction for primary prevention of stroke in adults with overweight or obesity 2006 1 CD006062 Metabolic and Endocrine Disorders 10.1002/14651858.CD006062.pub2 	69	query281_Weight_loss\S\69
+Curioni C , André C , Veras R Weight reduction for primary prevention of stroke in adults with overweight or obesity 2006 1 CD006062 Metabolic and Endocrine Disorders 10.1002/14651858.CD006062.pub2 	70	query281_Weight_loss\S\70
+Attention to diet in particular can be beneficial in reducing the impact of diabetes and other health risks of an overweight or obese individual . 	71	query281_Weight_loss\S\71
+"Attention to diet in particular"	"can be beneficial"	"in reducing the impact of diabetes of an overweight individual"	71	query281_Weight_loss\P\71-0
+"Attention to diet in particular"	"can be beneficial"	"in reducing the impact of other health risks of an overweight individual"	71	query281_Weight_loss\P\71-1
+"Attention to diet in particular"	"can be beneficial"	"in reducing the impact of other health risks of an obese individual"	71	query281_Weight_loss\P\71-2
+"Attention to diet in particular"	"can be beneficial"	"in reducing the impact of diabetes of an obese individual"	71	query281_Weight_loss\P\71-3
+"Attention to diet in particular"	"can be"	"beneficial"	71	query281_Weight_loss\P\71-4
+August 2011 Weight loss occurs when an individual is in a state of negative thermodynamic flux : when the body is exerting more energy ( i .e 	72	query281_Weight_loss\S\72
+. 	73	query281_Weight_loss\S\73
+in work and metabolism ) than it is consuming ( i .e 	74	query281_Weight_loss\S\74
+. 	75	query281_Weight_loss\S\75
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+from food or other nutritional supplements ) , it will use stored reserves from fat or muscle , gradually leading to weight loss . 	76	query281_Weight_loss\S\76
+August 2011 It is not uncommon for some people who are currently at their ideal body weight to seek additional weight loss in order to improve athletic performance , and/or meet required weight classification for participation in a sport . 	77	query281_Weight_loss\S\77
+August 2011 It is not uncommon for some people who are currently at their ideal body weight to seek additional weight loss in order to improve athletic performance , and/or meet required weight classification for participation in a sport . 	77	query281_Weight_loss\S\77
+August 2011 It is not uncommon for some people who are currently at their ideal body weight to seek additional weight loss in order to improve athletic performance , and/or meet required weight classification for participation in a sport . 	77	query281_Weight_loss\S\77
+"some people"	"are"	"currently to seek additional weight loss in order to improve athletic performance"	77	query281_Weight_loss\P\77-0
+"some people"	"are"	"currently to seek additional weight loss"	77	query281_Weight_loss\P\77-1
+"some people"	"are"	"currently to meet additional weight loss required weight classification for participation in a sport in order to improve athletic performance"	77	query281_Weight_loss\P\77-2
+"some people"	"are"	"currently to meet additional weight loss required weight classification for participation in a sport"	77	query281_Weight_loss\P\77-3
+"some people"	"are"	"at their ideal body weight to seek additional weight loss in order to improve athletic performance"	77	query281_Weight_loss\P\77-4
+"some people"	"are"	"at their ideal body weight to seek additional weight loss"	77	query281_Weight_loss\P\77-5
+"some people"	"are"	"at their ideal body weight to meet additional weight loss required weight classification for participation in a sport in order to improve athletic performance"	77	query281_Weight_loss\P\77-6
+"some people"	"are"	"at their ideal body weight to meet additional weight loss required weight classification for participation in a sport"	77	query281_Weight_loss\P\77-7
+"some people"	"are"	"to seek additional weight loss in order to improve athletic performance"	77	query281_Weight_loss\P\77-8
+"some people"	"are"	"to seek additional weight loss"	77	query281_Weight_loss\P\77-9
+"some people"	"are"	"to meet additional weight loss required weight classification for participation in a sport in order to improve athletic performance"	77	query281_Weight_loss\P\77-10
+"some people"	"are"	"to meet additional weight loss required weight classification for participation in a sport"	77	query281_Weight_loss\P\77-11
+"some people"	"are"	"to meet additional weight loss required weight classification for participation in a sport"	77	query281_Weight_loss\P\77-12
+However , others may be driven by achieving a more attractive body image . 	78	query281_Weight_loss\S\78
+However , others may be driven by achieving a more attractive body image . 	78	query281_Weight_loss\S\78
+However , others may be driven by achieving a more attractive body image . 	78	query281_Weight_loss\S\78
+Notably , being underweight is associated with health risks such as difficulty fighting off infection , osteoporosis , decreased muscle strength , trouble regulating body temperature and even increased risk of death . 	79	query281_Weight_loss\S\79
+Notably , being underweight is associated with health risks such as difficulty fighting off infection , osteoporosis , decreased muscle strength , trouble regulating body temperature and even increased risk of death . 	79	query281_Weight_loss\S\79
+Notably , being underweight is associated with health risks such as difficulty fighting off infection , osteoporosis , decreased muscle strength , trouble regulating body temperature and even increased risk of death . 	79	query281_Weight_loss\S\79
+Notably , being underweight is associated with health risks such as difficulty fighting off infection , osteoporosis , decreased muscle strength , trouble regulating body temperature and even increased risk of death . 	79	query281_Weight_loss\S\79
+"being underweight"	"is associated"	"with health risks such as difficulty fighting off infection Notably"	79	query281_Weight_loss\P\79-0
+"being underweight"	"is associated"	"with health risks such as difficulty fighting off osteoporosis Notably"	79	query281_Weight_loss\P\79-1
+"being underweight"	"is associated"	"with health risks such as difficulty fighting off infection"	79	query281_Weight_loss\P\79-2
+"being underweight"	"is associated"	"with health risks such as difficulty fighting off osteoporosis"	79	query281_Weight_loss\P\79-3
+"being underweight"	"is associated"	"with health risks such as difficulty fighting off osteoporosis"	79	query281_Weight_loss\P\79-4
+"being underweight"	"is associated"	"with health risks such as difficulty fighting off osteoporosis"	79	query281_Weight_loss\P\79-5
+"Notably being underweight is associated with health risks such as difficulty fighting off infection"	"decreased"	"muscle strength"	79	query281_Weight_loss\P\79-6
+"Notably being underweight is associated with health risks such as difficulty fighting off osteoporosis"	"decreased"	"muscle strength"	79	query281_Weight_loss\P\79-7
+"Notably being underweight is associated with health risks such as difficulty fighting off infection"	"decreased"	"muscle strength"	79	query281_Weight_loss\P\79-8
+"Notably being underweight is associated with health risks such as difficulty fighting off osteoporosis"	"decreased"	"muscle strength"	79	query281_Weight_loss\P\79-9
+"Notably being underweight is associated with health risks such as difficulty fighting off osteoporosis"	"decreased"	"muscle strength"	79	query281_Weight_loss\P\79-10
+"even increased risk of death"	"be regulating"	"body temperature"	79	query281_Weight_loss\P\79-11
+http ://www.mayoclinic.org/news2005-mchi/2796.html 	80	query281_Weight_loss\S\80
+Mayo Clinic Being underweight poses health risks January 13 , 2007 http ://web.archive 	81	query281_Weight_loss\S\81
+"Mayo Clinic"	"underweight poses"	"health risks January 13 web.archive"	81	query281_Weight_loss\P\81-0
+"Mayo Clinic"	"underweight poses"	"health risks January 13"	81	query281_Weight_loss\P\81-1
+"Mayo Clinic"	"underweight poses"	"health risks January 13"	81	query281_Weight_loss\P\81-2
+"Mayo Clinic"	"underweight poses"	"health risks January 13"	81	query281_Weight_loss\P\81-3
+"January 13"	"is"	"2007 http"	81	query281_Weight_loss\P\81-4
+.org/web/20070304150801/http 	82	query281_Weight_loss\S\82
+://www.mayoclinic.org/news2005-mchi/2796.html 	83	query281_Weight_loss\S\83
+March 4 , 2007 http ://www.mayoclinic.org/news2005-mchi/2796.html 	84	query281_Weight_loss\S\84
+"March 4 www.mayoclinic.org/news2005-mchi/2796.html"	"is"	"2007 http"	84	query281_Weight_loss\P\84-0
+Mayo Clinic Being underweight poses health risks January 13 , 2007 http ://web.archive 	85	query281_Weight_loss\S\85
+"Mayo Clinic"	"underweight poses"	"health risks January 13 web.archive"	85	query281_Weight_loss\P\85-0
+"Mayo Clinic"	"underweight poses"	"health risks January 13"	85	query281_Weight_loss\P\85-1
+"Mayo Clinic"	"underweight poses"	"health risks January 13"	85	query281_Weight_loss\P\85-2
+"Mayo Clinic"	"underweight poses"	"health risks January 13"	85	query281_Weight_loss\P\85-3
+"January 13"	"is"	"2007 http"	85	query281_Weight_loss\P\85-4
+.org/web/20070304150801/http 	86	query281_Weight_loss\S\86
+://www.mayoclinic.org/news2005-mchi/2796.html 	87	query281_Weight_loss\S\87
+March 4 , 2007 There are many diet plans and recipes that can be helpful for weight loss . 	88	query281_Weight_loss\S\88
+"many diet plans"	"There are"	"88 March 4 2007"	88	query281_Weight_loss\P\88-0
+"many diet recipes"	"There are"	"88 March 4 2007"	88	query281_Weight_loss\P\88-1
+"many diet plans"	"can be helpful"	"for weight loss"	88	query281_Weight_loss\P\88-2
+"many diet recipes"	"can be helpful"	"for weight loss"	88	query281_Weight_loss\P\88-3
+"many diet plans"	"can be"	"helpful"	88	query281_Weight_loss\P\88-4
+"many diet recipes"	"can be"	"helpful"	88	query281_Weight_loss\P\88-5
+While some are classified as unhealthy and potentially harmful to one 's general health , others are recommended by specialists . 	89	query281_Weight_loss\S\89
+While some are classified as unhealthy and potentially harmful to one 's general health , others are recommended by specialists . 	89	query281_Weight_loss\S\89
+While some are classified as unhealthy and potentially harmful to one 's general health , others are recommended by specialists . 	89	query281_Weight_loss\S\89
+While some are classified as unhealthy and potentially harmful to one 's general health , others are recommended by specialists . 	89	query281_Weight_loss\S\89
+While some are classified as unhealthy and potentially harmful to one 's general health , others are recommended by specialists . 	89	query281_Weight_loss\S\89
+While some are classified as unhealthy and potentially harmful to one 's general health , others are recommended by specialists . 	89	query281_Weight_loss\S\89
+While some are classified as unhealthy and potentially harmful to one 's general health , others are recommended by specialists . 	89	query281_Weight_loss\S\89
+Diet plans are generally designed according to the recommended caloric intake but it is important to note that the most successful diets are those that simultaneously promote physical activity . 	90	query281_Weight_loss\S\90
+"Diet plans"	"are designed"	"according to the recommended caloric intake generally"	90	query281_Weight_loss\P\90-0
+"Diet plans"	"are designed"	"according to the recommended caloric intake"	90	query281_Weight_loss\P\90-1
+"Diet plans"	"are designed"	"according to the recommended caloric intake"	90	query281_Weight_loss\P\90-2
+"the most successful diets"	"are"	"those"	90	query281_Weight_loss\P\90-3
+"that those"	"promote"	"physical activity simultaneously"	90	query281_Weight_loss\P\90-4
+"that those"	"promote"	"physical activity"	90	query281_Weight_loss\P\90-5
+August 2011 There are many dietary programs that claim to be efficient in helping overweight individuals to lose weight with no effort . 	91	query281_Weight_loss\S\91
+"many dietary programs"	"There are"	"91 August 2011"	91	query281_Weight_loss\P\91-0
+"many dietary programs"	"claim"	"to be efficient in helping overweight individuals to lose weight with no effort"	91	query281_Weight_loss\P\91-1
+"many dietary programs"	"claim"	"to be efficient"	91	query281_Weight_loss\P\91-2
+However , the long-term efficacy of these plans is questionable . 	92	query281_Weight_loss\S\92
+"the long-term efficacy of these plans"	"is"	"92 However questionable"	92	query281_Weight_loss\P\92-0
+December 2011 Intentional weight loss is , in most cases , achieved with the help of diets since dietary restriction is generally more manageable than making a significant change in one 's lifestyle ( although weight loss is generally associated with some degree of change in lifestyle habits ) or beginning to practice a sport . 	93	query281_Weight_loss\S\93
+"December 2011 Intentional weight loss"	"is"	"in most cases"	93	query281_Weight_loss\P\93-0
+"dietary restriction"	"is manageable"	"generally"	93	query281_Weight_loss\P\93-1
+"dietary restriction"	"is manageable"	"more"	93	query281_Weight_loss\P\93-2
+"dietary restriction"	"is manageable"	"than making a significant change in one 's lifestyle"	93	query281_Weight_loss\P\93-3
+"dietary restriction"	"is"	"manageable"	93	query281_Weight_loss\P\93-4
+"dietary restriction"	"is"	"manageable"	93	query281_Weight_loss\P\93-5
+"weight loss"	"is associated"	"with some degree of change in lifestyle habits generally"	93	query281_Weight_loss\P\93-6
+"weight loss"	"is associated"	"with some degree of change in lifestyle habits"	93	query281_Weight_loss\P\93-7
+"weight loss"	"is beginning"	"to practice a sport generally"	93	query281_Weight_loss\P\93-8
+"weight loss"	"is beginning"	"to practice a sport with some degree of change in lifestyle habits"	93	query281_Weight_loss\P\93-9
+"weight loss"	"is beginning"	"to practice a sport"	93	query281_Weight_loss\P\93-10
+August 2011 In that regard , a wide variety of dietary strategies have been designed to meet the needs of individuals seeking to lose excess weight . 	94	query281_Weight_loss\S\94
+"August 2011 In that regard"	"is"	"a wide variety of dietary strategies"	94	query281_Weight_loss\P\94-0
+"August 2011 In that regard"	"have been designed"	"to meet the needs of individuals seeking to lose excess weight"	94	query281_Weight_loss\P\94-1
+"August 2011 In that regard"	"have been designed"	"to meet the needs of individuals seeking to lose excess weight"	94	query281_Weight_loss\P\94-2
+Calorie -restriction strategies are one of the most common dietary plans . 	95	query281_Weight_loss\S\95
+"Calorie restriction strategies"	"are one"	"of the most common dietary plans"	95	query281_Weight_loss\P\95-0
+"Calorie restriction strategies"	"are"	"one"	95	query281_Weight_loss\P\95-1
+Notably , daily calorie consumption for dietary purposes vary depending on a number of factors including , age , gender , weight loss goals , and many more . 	96	query281_Weight_loss\S\96
+"daily calorie consumption for dietary purposes"	"vary"	"96 Notably"	96	query281_Weight_loss\P\96-0
+"daily calorie consumption for dietary purposes"	"vary"	"depending on a number of factors including age 96"	96	query281_Weight_loss\P\96-1
+"daily calorie consumption for dietary purposes"	"vary"	"depending on a number of factors including gender 96"	96	query281_Weight_loss\P\96-2
+"daily calorie consumption for dietary purposes"	"vary"	"depending on a number of factors including weight loss goals 96"	96	query281_Weight_loss\P\96-3
+"daily calorie consumption for dietary purposes"	"vary"	"depending on a number of factors including many more 96"	96	query281_Weight_loss\P\96-4
+"daily calorie consumption for dietary purposes"	"vary"	"96"	96	query281_Weight_loss\P\96-5
+For instance , nutritionists suggest that a minimum of 1,200 daily calories should be consumed by women in order to maintain health . 	97	query281_Weight_loss\S\97
+For instance , nutritionists suggest that a minimum of 1,200 daily calories should be consumed by women in order to maintain health . 	97	query281_Weight_loss\S\97
+"a minimum of 1,200 daily calories"	"should be consumed"	"by women in order to maintain health"	97	query281_Weight_loss\P\97-0
+"a minimum of 1,200 daily calories"	"should be consumed"	"by women"	97	query281_Weight_loss\P\97-1
+The daily calorie consumption by men , on the other hand , could approach 1,500 . 	98	query281_Weight_loss\S\98
+"The daily calorie consumption by men"	"could approach"	"1,500 on the other hand"	98	query281_Weight_loss\P\98-0
+"The daily calorie consumption by men"	"could approach"	"1,500"	98	query281_Weight_loss\P\98-1
+http ://www.nlm 	99	query281_Weight_loss\S\99
+.nih.gov/medlineplus/ency/article/001940.htm 	100	query281_Weight_loss\S\100
+Medline Plus Tips for losing weight 2010-07-19 http ://www.nlm 	101	query281_Weight_loss\S\101
+.nih.gov/medlineplus/ency/article/001940.htm 	102	query281_Weight_loss\S\102
+Medline Plus Tips for losing weight 2010-07-19 It is important to note that these recommendations primarily target relatively healthy individuals who seek weight loss for a better body tonus . 	103	query281_Weight_loss\S\103
+Medline Plus Tips for losing weight 2010-07-19 It is important to note that these recommendations primarily target relatively healthy individuals who seek weight loss for a better body tonus . 	103	query281_Weight_loss\S\103
+"these recommendations"	"target"	"relatively healthy individuals primarily"	103	query281_Weight_loss\P\103-0
+"these recommendations"	"target"	"relatively healthy individuals"	103	query281_Weight_loss\P\103-1
+"relatively healthy individuals"	"seek"	"weight loss for a better body tonus"	103	query281_Weight_loss\P\103-2
+"relatively healthy individuals"	"seek"	"weight loss"	103	query281_Weight_loss\P\103-3
+However , individuals whose obesity places them at an increased risk for diabetes , heart disease , or other conditions , may follow a stricter diet , but only under the close monitoring of a physician and/or specialist . 	104	query281_Weight_loss\S\104
+However , individuals whose obesity places them at an increased risk for diabetes , heart disease , or other conditions , may follow a stricter diet , but only under the close monitoring of a physician and/or specialist . 	104	query281_Weight_loss\S\104
+"individuals obesity"	"places"	"them at an increased risk for diabetes"	104	query281_Weight_loss\P\104-0
+"individuals obesity"	"places"	"them at an increased risk for heart disease"	104	query281_Weight_loss\P\104-1
+"individuals obesity"	"places"	"them at an increased risk for other conditions"	104	query281_Weight_loss\P\104-2
+"individuals obesity"	"places"	"them at an increased risk for other conditions"	104	query281_Weight_loss\P\104-3
+"individuals obesity"	"places"	"them at an increased risk for other conditions"	104	query281_Weight_loss\P\104-4
+"individuals obesity"	"places"	"them at an increased risk for other conditions"	104	query281_Weight_loss\P\104-5
+"individuals obesity"	"places"	"them at an increased risk for other conditions"	104	query281_Weight_loss\P\104-6
+"individuals obesity"	"places"	"them at an increased risk for other conditions"	104	query281_Weight_loss\P\104-7
+In some cases , obese individuals may need to restrict their daily calorie intake to 800 or even 500 . 	105	query281_Weight_loss\S\105
+"obese individuals"	"may need"	"to restrict their daily calorie intake to 800 105 In some cases"	105	query281_Weight_loss\P\105-0
+"obese individuals"	"may need"	"to restrict their daily calorie intake to even 500 105 In some cases"	105	query281_Weight_loss\P\105-1
+"obese individuals"	"may need"	"to restrict their daily calorie intake 105 In some cases"	105	query281_Weight_loss\P\105-2
+"obese individuals"	"may need"	"to restrict their daily calorie intake to 800"	105	query281_Weight_loss\P\105-3
+"obese individuals"	"may need"	"to restrict their daily calorie intake to even 500"	105	query281_Weight_loss\P\105-4
+"obese individuals"	"may need"	"to restrict their daily calorie intake"	105	query281_Weight_loss\P\105-5
+"obese individuals"	"may need"	"to restrict their daily calorie intake"	105	query281_Weight_loss\P\105-6
+According to the U.S. 	106	query281_Weight_loss\S\106
+Food and Drug Administration ( FDA ) , healthy individuals seeking to maintain their weight , should consume 2,000 calories per day . 	107	query281_Weight_loss\S\107
+"Food"	"is"	"healthy individuals seeking to maintain their weight"	107	query281_Weight_loss\P\107-0
+"Drug Administration"	"is"	"healthy individuals seeking to maintain their weight"	107	query281_Weight_loss\P\107-1
+"Drug Administration"	"is"	"FDA"	107	query281_Weight_loss\P\107-2
+"healthy individuals"	"be seeking"	"to maintain their weight"	107	query281_Weight_loss\P\107-3
+"healthy individuals"	"be seeking"	"to maintain their weight"	107	query281_Weight_loss\P\107-4
+"Food"	"should consume"	"2,000 calories per day"	107	query281_Weight_loss\P\107-5
+"Drug Administration"	"should consume"	"2,000 calories per day"	107	query281_Weight_loss\P\107-6
+http ://caloriecount .about.com/cc/2000-calorie-diet.php 	108	query281_Weight_loss\S\108
+The 2000 Calorie Diet - and the RDAs 2010-07-19 http ://caloriecount .about.com/cc/2000-calorie-diet.php 	109	query281_Weight_loss\S\109
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+The 2000 Calorie Diet - and the RDAs 2010-07-19 According to the Dietary Guidelines for Americans , , which was released on January 31 , 2011 , those that achieve and manage a healthy weight do so most successfully by being continuously vigilant in taking in only the amount of calories that meet their needs and with physical activity . 	110	query281_Weight_loss\S\110
+Low-calorie regimen diets are also referred to as balanced percentage diets . 	111	query281_Weight_loss\S\111
+"Low-calorie regimen diets"	"are referred"	"to as balanced percentage diets also"	111	query281_Weight_loss\P\111-0
+"Low-calorie regimen diets"	"are referred"	"to as balanced percentage diets"	111	query281_Weight_loss\P\111-1
+Due to their minimal detrimental effects , these types of diets are most commonly recommended by nutritionists . 	112	query281_Weight_loss\S\112
+Due to their minimal detrimental effects , these types of diets are most commonly recommended by nutritionists . 	112	query281_Weight_loss\S\112
+"these types of diets"	"are recommended"	"112 Due to their minimal detrimental effects most commonly"	112	query281_Weight_loss\P\112-0
+"these types of diets"	"are recommended"	"112 Due to their minimal detrimental effects by nutritionists"	112	query281_Weight_loss\P\112-1
+"these types of diets"	"are recommended"	"112 Due to their minimal detrimental effects"	112	query281_Weight_loss\P\112-2
+In addition to restricting calorie intake , a balanced diet also regulates macronutrient consumption . 	113	query281_Weight_loss\S\113
+"calorie intake"	"is"	"a balanced diet"	113	query281_Weight_loss\P\113-0
+"calorie intake"	"regulates"	"macronutrient consumption also"	113	query281_Weight_loss\P\113-1
+"calorie intake"	"regulates"	"macronutrient consumption"	113	query281_Weight_loss\P\113-2
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+Therefore , from the total number of allotted daily calories , 55 % should come from carbohydrates , 15 % from protein , and 30 % from fats with no more than 10 % of total fat coming from saturated forms . 	114	query281_Weight_loss\S\114
+"%"	"114 should come"	"from carbohydrates Therefore"	55	query281_Weight_loss\P\114-0
+"%"	"114 should come"	"from carbohydrates from the total number of allotted daily calories"	55	query281_Weight_loss\P\114-1
+"%"	"114 should come"	"from carbohydrates"	55	query281_Weight_loss\P\114-2
+"%"	"114 should 15 %"	"from protein Therefore"	55	query281_Weight_loss\P\114-3
+"%"	"114 should 15 %"	"from protein from the total number of allotted daily calories"	55	query281_Weight_loss\P\114-4
+"%"	"114 should 15 %"	"from protein from carbohydrates"	55	query281_Weight_loss\P\114-5
+"%"	"114 should 15 %"	"from protein"	55	query281_Weight_loss\P\114-6
+"%"	"114 should 30 %"	"from fats Therefore"	55	query281_Weight_loss\P\114-7
+"%"	"114 should 30 %"	"from fats from the total number of allotted daily calories"	55	query281_Weight_loss\P\114-8
+"%"	"114 should 30 %"	"from fats from carbohydrates"	55	query281_Weight_loss\P\114-9
+"%"	"114 should 30 %"	"from fats with no more than 10 % of total fat coming from saturated forms"	55	query281_Weight_loss\P\114-10
+"%"	"114 should 30 %"	"from fats"	55	query281_Weight_loss\P\114-11
+"total fat"	"be coming"	"from saturated forms"	55	query281_Weight_loss\P\114-12
+http ://diet .lovetoknow.com/wiki/1200_Calorie_Diet 	115	query281_Weight_loss\S\115
+1200 Calorie Diet 2010-07-19 http ://diet .lovetoknow.com/wiki/1200_Calorie_Diet 	116	query281_Weight_loss\S\116
+1200 Calorie Diet 2010-07-19 For instance , a 1,200 calorie diet would consist of no more than 660 calories from carbohydrates , 180 from protein , and 360 from fat . 	117	query281_Weight_loss\S\117
+"1200 Calorie Diet 2010-07-19 For instance"	"is"	"a 1,200 calorie diet"	117	query281_Weight_loss\P\117-0
+"1200 Calorie Diet 2010-07-19 For instance"	"would consist"	"of no more than 660 calories from carbohydrates"	117	query281_Weight_loss\P\117-1
+"1200 Calorie Diet 2010-07-19 For instance"	"would consist"	"of no more than 660 from carbohydrates 180 from protein"	117	query281_Weight_loss\P\117-2
+"1200 Calorie Diet 2010-07-19 For instance"	"would consist"	"of no more than 660 from carbohydrates 360 from fat"	117	query281_Weight_loss\P\117-3
+Although counting calories seems difficult altogether , the long term benefits of calorie restriction are many . 	118	query281_Weight_loss\S\118
+"counting calories"	"seems"	"difficult altogether"	118	query281_Weight_loss\P\118-0
+"counting calories"	"seems"	"difficult"	118	query281_Weight_loss\P\118-1
+"the long term benefits of calorie restriction"	"are"	"many 118 Although counting calories seems difficult altogether"	118	query281_Weight_loss\P\118-2
+After reaching the desired body weight , the amount of calories consumed per day may be increased gradually , without exceeding 2,000 net ( i .e 	119	query281_Weight_loss\S\119
+. 	120	query281_Weight_loss\S\120
+derived by subtracting calories burned by physical activity from calories consumed ) . 	121	query281_Weight_loss\S\121
+derived by subtracting calories burned by physical activity from calories consumed ) . 	121	query281_Weight_loss\S\121
+"subtracting calories"	"be burned"	"by physical activity from calories consumed"	121	query281_Weight_loss\P\121-0
+Combined with increased physical activity , low-calorie diets are thought to be most effective long term , unlike crash diets which can achieve short term results , at best . 	122	query281_Weight_loss\S\122
+Combined with increased physical activity , low-calorie diets are thought to be most effective long term , unlike crash diets which can achieve short term results , at best . 	122	query281_Weight_loss\S\122
+"increased physical activity"	"is"	"low-calorie diets"	122	query281_Weight_loss\P\122-0
+"Combined with increased physical activity"	"are thought"	"to be effective long term unlike crash diets at best most"	122	query281_Weight_loss\P\122-1
+"Combined with increased physical activity"	"are thought"	"to be effective long term unlike crash diets at best"	122	query281_Weight_loss\P\122-2
+"crash diets"	"can achieve"	"short term results"	122	query281_Weight_loss\P\122-3
+Physical activity could greatly enhance the efficiency of a diet . 	123	query281_Weight_loss\S\123
+"Physical activity"	"could enhance"	"the efficiency of a diet greatly"	123	query281_Weight_loss\P\123-0
+"Physical activity"	"could enhance"	"the efficiency of a diet"	123	query281_Weight_loss\P\123-1
+The healthiest weight loss regimen , therefore , is one that consists of a balanced diet and moderate physical activity . 	124	query281_Weight_loss\S\124
+"The healthiest weight loss regimen one"	"consists"	"of a balanced diet"	124	query281_Weight_loss\P\124-0
+"The healthiest weight loss regimen one"	"consists"	"of a balanced moderate physical activity"	124	query281_Weight_loss\P\124-1
+The golden rule in weight loss is to avoid foods that are high in sugars August 2011 , which contribute to increased body mass and are detrimental to the overall health . 	125	query281_Weight_loss\S\125
+"The golden rule in weight loss"	"is"	"to avoid foods"	125	query281_Weight_loss\P\125-0
+"The golden rule in weight loss"	"is"	"to are detrimental foods to the overall health"	125	query281_Weight_loss\P\125-1
+"The golden rule in weight loss"	"is"	"to are detrimental foods"	125	query281_Weight_loss\P\125-2
+"The golden rule in weight loss"	"is"	"to are detrimental foods"	125	query281_Weight_loss\P\125-3
+"The golden rule in weight loss"	"is"	"to are detrimental foods"	125	query281_Weight_loss\P\125-4
+"sugars August 2011"	"contribute"	"to increased body mass"	125	query281_Weight_loss\P\125-5
+Further , weight gain has been associated with excessive alcohol consumption . 	126	query281_Weight_loss\S\126
+Further , weight gain has been associated with excessive alcohol consumption . 	126	query281_Weight_loss\S\126
+Further , weight gain has been associated with excessive alcohol consumption . 	126	query281_Weight_loss\S\126
+"weight gain"	"has been associated"	"with excessive alcohol consumption Further"	126	query281_Weight_loss\P\126-0
+"weight gain"	"has been associated"	"with excessive alcohol consumption"	126	query281_Weight_loss\P\126-1
+August 2010 Depression , stress or boredom may also contribute to weight increase , August 2010 and in these cases , individuals are advised to seek medical help . 	127	query281_Weight_loss\S\127
+"August 2010 Depression"	"is"	"stress"	127	query281_Weight_loss\P\127-0
+"August 2010 Depression"	"is"	"boredom"	127	query281_Weight_loss\P\127-1
+"August 2010 Depression"	"may contribute"	"to weight increase also"	127	query281_Weight_loss\P\127-2
+"August 2010 Depression"	"may contribute"	"to weight increase"	127	query281_Weight_loss\P\127-3
+"August 2010"	"are advised"	"to seek medical help"	127	query281_Weight_loss\P\127-4
+"in these cases"	"are advised"	"to seek medical help"	2010	query281_Weight_loss\P\127-5
+"individuals"	"are advised"	"to seek medical help"	2010	query281_Weight_loss\P\127-6
+A 2010 study found that dieters who got a full night 's sleep more than doubled the amount of fat loss compared to sleep-deprived dieters . 	128	query281_Weight_loss\S\128
+"A 2010 study"	"found"	"that dieters"	128	query281_Weight_loss\P\128-0
+"A 2010 study"	"found"	"that dieters"	128	query281_Weight_loss\P\128-1
+"a full night"	"has"	"sleep"	128	query281_Weight_loss\P\128-2
+"a full night 's sleep"	"doubled"	"the amount of fat loss compared to sleep-deprived dieters"	128	query281_Weight_loss\P\128-3
+"a full night 's sleep"	"doubled"	"the amount of fat loss"	128	query281_Weight_loss\P\128-4
+Nedeltcheva AV Kilkus JM Imperial J Schoeller DA Penev PD Insufficient sleep undermines dietary efforts to reduce adiposity . 	129	query281_Weight_loss\S\129
+"Nedeltcheva AV Kilkus JM Imperial J Schoeller DA Penev PD Insufficient sleep"	"undermines"	"dietary efforts to reduce adiposity"	129	query281_Weight_loss\P\129-0
+"dietary efforts"	"be reduce"	"adiposity"	129	query281_Weight_loss\P\129-1
+Annals of internal medicine 153 7 435–41 2010 20921542 2951287 10.1059/0003-4819-153-7-201010050-00006 	130	query281_Weight_loss\S\130
+Nedeltcheva AV Kilkus JM Imperial J Schoeller DA Penev PD Insufficient sleep undermines dietary efforts to reduce adiposity . 	131	query281_Weight_loss\S\131
+"Nedeltcheva AV Kilkus JM Imperial J Schoeller DA Penev PD Insufficient sleep"	"undermines"	"dietary efforts to reduce adiposity"	131	query281_Weight_loss\P\131-0
+"dietary efforts"	"be reduce"	"adiposity"	131	query281_Weight_loss\P\131-1
+Annals of internal medicine 153 7 435–41 2010 20921542 2951287 10.1059/0003-4819-153-7-201010050-00006 	132	query281_Weight_loss\S\132
+Harmon , Katherine http ://www .scientificamerican.com/blog/post.cfm 	133	query281_Weight_loss\S\133
+?id=sleep-might-help-dieters-shed-more-2010-10-04 Sleep might help dieters shed more fat Scientific American 4 October 2010 20 October 2010 Harmon , Katherine http ://www .scientificamerican.com/blog/post.cfm 	134	query281_Weight_loss\S\134
+?id=sleep-might-help-dieters-shed-more-2010-10-04 Sleep might help dieters shed more fat Scientific American 4 October 2010 20 October 2010 Management of obesity Bariatrics Virtual gastric band The least intrusive weight loss methods , and those most often recommended , are adjustments to eating patterns and increased physical activity , generally in the form of exercise . 	135	query281_Weight_loss\S\135
+"id = sleep-might-help-dieters-shed-more-2010-10-04 Sleep"	"might help"	"dieters shed more fat Scientific American 4 October 2010 20 October 2010 Management of obesity Bariatrics Virtual gastric band The least intrusive weight loss methods"	135	query281_Weight_loss\P\135-0
+"id = sleep-might-help-dieters-shed-more-2010-10-04 Sleep"	"might those"	"dieters shed more fat Scientific American 4 October 2010 20 October 2010 Management of obesity Bariatrics Virtual gastric band The least intrusive weight loss methods generally in the form of exercise"	135	query281_Weight_loss\P\135-1
+"id = sleep-might-help-dieters-shed-more-2010-10-04 Sleep"	"might those"	"dieters shed more fat Scientific American 4 October 2010 20 October 2010 Management of obesity Bariatrics Virtual gastric band The least intrusive weight loss methods generally in the form of exercise"	135	query281_Weight_loss\P\135-2
+"id = sleep-might-help-dieters-shed-more-2010-10-04 Sleep"	"might those"	"dieters shed more fat Scientific American 4 October 2010 20 October 2010 Management of obesity Bariatrics Virtual gastric band The least intrusive weight loss methods generally in the form of exercise"	135	query281_Weight_loss\P\135-3
+"id = sleep-might-help-dieters-shed-more-2010-10-04 Sleep"	"might those"	"dieters shed more fat Scientific American 4 October 2010 20 October 2010 Management of obesity Bariatrics Virtual gastric band The least intrusive weight loss methods"	135	query281_Weight_loss\P\135-4
+"id = sleep-might-help-dieters-shed-more-2010-10-04 Sleep"	"might those"	"dieters shed more fat Scientific American 4 October 2010 20 October 2010 Management of obesity Bariatrics Virtual gastric band The least intrusive weight loss methods"	135	query281_Weight_loss\P\135-5
+"id = sleep-might-help-dieters-shed-more-2010-10-04 Sleep"	"might those"	"dieters shed more fat Scientific American 4 October 2010 20 October 2010 Management of obesity Bariatrics Virtual gastric band The least intrusive weight loss methods"	135	query281_Weight_loss\P\135-6
+"id = sleep-might-help-dieters-shed-more-2010-10-04 Sleep"	"might those"	"dieters shed more fat Scientific American 4 October 2010 20 October 2010 Management of obesity Bariatrics Virtual gastric band The least intrusive weight loss methods"	135	query281_Weight_loss\P\135-7
+Physicians will usually recommend that their overweight patients combine a reduction of processed foods http ://news .bbc.co.uk/2/hi/health/2814253.stm 	136	query281_Weight_loss\S\136
+World Health Organization recommends eating less processed food BBC News March 3 , 2003 http ://news .bbc.co.uk/2/hi/health/2814253.stm 	137	query281_Weight_loss\S\137
+World Health Organization recommends eating less processed food BBC News March 3 , 2003 and caloric content of the diet with an increase in physical activity . 	138	query281_Weight_loss\S\138
+"World Health Organization"	"recommends"	"eating less processed food BBC News March 3 2003 of the diet"	138	query281_Weight_loss\P\138-0
+"World Health Organization"	"recommends"	"eating less processed food BBC News 3 2003 caloric content of the diet"	138	query281_Weight_loss\P\138-1
+"World Health Organization"	"recommends"	"eating less processed food BBC News with an increase in physical activity"	138	query281_Weight_loss\P\138-2
+"World Health Organization"	"recommends"	"eating less processed food BBC News"	138	query281_Weight_loss\P\138-3
+http ://win .niddk 	139	query281_Weight_loss\S\139
+.nih.gov/publications/choosing 	140	query281_Weight_loss\S\140
+.htm 	141	query281_Weight_loss\S\141
+Choosing a safe and successful weight loss program Weight-control Information Network National Institute of Diabetes and Digestive and Kidney Diseases April 2008 2011-01-26 http ://win .niddk 	142	query281_Weight_loss\S\142
+.nih.gov/publications/choosing 	143	query281_Weight_loss\S\143
+.htm 	144	query281_Weight_loss\S\144
+Choosing a safe and successful weight loss program Weight-control Information Network National Institute of Diabetes and Digestive and Kidney Diseases April 2008 2011-01-26 An increase in fiber intake is also recommended for regulating bowel movements . 	145	query281_Weight_loss\S\145
+Choosing a safe and successful weight loss program Weight-control Information Network National Institute of Diabetes and Digestive and Kidney Diseases April 2008 2011-01-26 An increase in fiber intake is also recommended for regulating bowel movements . 	145	query281_Weight_loss\S\145
+Choosing a safe and successful weight loss program Weight-control Information Network National Institute of Diabetes and Digestive and Kidney Diseases April 2008 2011-01-26 An increase in fiber intake is also recommended for regulating bowel movements . 	145	query281_Weight_loss\S\145
+Choosing a safe and successful weight loss program Weight-control Information Network National Institute of Diabetes and Digestive and Kidney Diseases April 2008 2011-01-26 An increase in fiber intake is also recommended for regulating bowel movements . 	145	query281_Weight_loss\S\145
+Choosing a safe and successful weight loss program Weight-control Information Network National Institute of Diabetes and Digestive and Kidney Diseases April 2008 2011-01-26 An increase in fiber intake is also recommended for regulating bowel movements . 	145	query281_Weight_loss\S\145
+"Diseases April 2008 2011-01-26 An increase in fiber intake"	"is recommended"	"also"	145	query281_Weight_loss\P\145-0
+Other methods of weight loss include use of drugs and supplements that decrease appetite , block fat absorption , or reduce stomach volume . 	146	query281_Weight_loss\S\146
+"Other methods of weight loss"	"include"	"use of drugs"	146	query281_Weight_loss\P\146-0
+"Other methods of weight loss"	"include"	"use of supplements block fat absorption or reduce stomach volume"	146	query281_Weight_loss\P\146-1
+"Other methods of weight loss"	"include"	"of drugs block fat absorption"	146	query281_Weight_loss\P\146-2
+"Other methods of weight loss"	"include"	"of drugs reduce stomach volume"	146	query281_Weight_loss\P\146-3
+"Other methods of weight loss"	"include"	"of drugs reduce stomach volume"	146	query281_Weight_loss\P\146-4
+"Other methods of weight loss"	"include"	"of drugs reduce stomach volume"	146	query281_Weight_loss\P\146-5
+Application of such medications , however , should only be performed under the strict supervision of a physician and/or specialist . 	147	query281_Weight_loss\S\147
+"Application of such medications"	"should be performed"	"under the strict supervision of a physician however"	147	query281_Weight_loss\P\147-0
+"Application of such medications"	"should be performed"	"under the strict supervision of a specialist however"	147	query281_Weight_loss\P\147-1
+"Application of such medications"	"should be performed"	"under the strict supervision of a physician only"	147	query281_Weight_loss\P\147-2
+"Application of such medications"	"should be performed"	"under the strict supervision of a specialist only"	147	query281_Weight_loss\P\147-3
+"Application of such medications"	"should be performed"	"under the strict supervision of a physician"	147	query281_Weight_loss\P\147-4
+"Application of such medications"	"should be performed"	"under the strict supervision of a specialist"	147	query281_Weight_loss\P\147-5
+Finally , surgery ( i .e 	148	query281_Weight_loss\S\148
+. 	149	query281_Weight_loss\S\149
+bariatric surgery ) may be used in more severe cases to artificially reduce the size of the stomach , thus limiting the intake of food energy . 	150	query281_Weight_loss\S\150
+"bariatric surgery"	"may be used"	"in more severe cases to reduce the size of the stomach artificially limiting the intake of food energy"	150	query281_Weight_loss\P\150-0
+"bariatric surgery"	"may be used"	"in more severe cases to reduce the size of the stomach limiting the intake of food energy"	150	query281_Weight_loss\P\150-1
+"bariatric surgery"	"may be used"	"to reduce the size of the stomach artificially limiting the intake of food energy"	150	query281_Weight_loss\P\150-2
+"bariatric surgery"	"may be used"	"to reduce the size of the stomach limiting the intake of food energy"	150	query281_Weight_loss\P\150-3
+Dietary supplements , though widely used , are not considered a healthy option for weight loss . 	151	query281_Weight_loss\S\151
+"Dietary supplements"	"are not considered"	"a healthy option for weight loss"	151	query281_Weight_loss\P\151-0
+Even though a wide array of these products is available to the public , very few are effective long term . 	152	query281_Weight_loss\S\152
+"a wide array of these products"	"is available"	"to the public"	152	query281_Weight_loss\P\152-0
+"a wide array of these products"	"is"	"available"	152	query281_Weight_loss\P\152-1
+"very few"	"are"	"effective long term 152 Even though a wide array of these products is available to the public"	152	query281_Weight_loss\P\152-2
+"very few"	"are"	"effective long term 152"	152	query281_Weight_loss\P\152-3
+Bariatric surgery is usually considered a last resort in treating severe obesity and it consists of two main procedures : gastric bypass and gastric banding . 	153	query281_Weight_loss\S\153
+"Bariatric surgery"	"is considered"	"a last resort in treating severe obesity usually"	153	query281_Weight_loss\P\153-0
+"Bariatric surgery"	"is considered"	"a last resort in treating severe obesity"	153	query281_Weight_loss\P\153-1
+"Bariatric surgery"	"is considered"	"a last resort in treating severe obesity"	153	query281_Weight_loss\P\153-2
+"Bariatric surgery"	"is considered"	"a last resort in treating severe obesity"	153	query281_Weight_loss\P\153-3
+Virtual gastric band uses hypnosis to make the brain think the stomach is smaller than it really is and hence lower the amount of food ingested . 	154	query281_Weight_loss\S\154
+"Virtual gastric band"	"uses"	"hypnosis to make the brain think the stomach is smaller than it really is the amount of food ingested"	154	query281_Weight_loss\P\154-0
+"Virtual gastric band"	"uses"	"hypnosis to make the brain think the stomach is smaller than it really hence lower the amount of food ingested"	154	query281_Weight_loss\P\154-1
+"Virtual gastric band"	"uses"	"hypnosis"	154	query281_Weight_loss\P\154-2
+"Virtual gastric band"	"be make"	"the brain think the stomach is smaller than it really is the amount of food ingested"	154	query281_Weight_loss\P\154-3
+"Virtual gastric band"	"be make"	"the brain think the stomach is smaller than it really hence lower the amount of food ingested"	154	query281_Weight_loss\P\154-4
+"the brain"	"think"	"the stomach is smaller than it really is the amount of food ingested"	154	query281_Weight_loss\P\154-5
+"the brain"	"think"	"the stomach is smaller than it really hence lower the amount of food ingested"	154	query281_Weight_loss\P\154-6
+"the stomach"	"is"	"smaller than it really is the amount of food ingested"	154	query281_Weight_loss\P\154-7
+"the stomach"	"is"	"smaller than it really hence lower the amount of food ingested"	154	query281_Weight_loss\P\154-8
+"the stomach"	"is"	"smaller than it really hence lower the amount of food ingested"	154	query281_Weight_loss\P\154-9
+"the stomach"	"is"	"smaller than it really hence lower the amount of food ingested"	154	query281_Weight_loss\P\154-10
+"the stomach"	"is"	"smaller than it really hence lower the amount of food ingested"	154	query281_Weight_loss\P\154-11
+"the stomach"	"is"	"smaller than it really hence lower the amount of food ingested"	154	query281_Weight_loss\P\154-12
+"the stomach"	"is"	"smaller than it really hence lower the amount of food ingested"	154	query281_Weight_loss\P\154-13
+This brings as a consequence weight reduction . 	155	query281_Weight_loss\S\155
+This brings as a consequence weight reduction . 	155	query281_Weight_loss\S\155
+This method is complemented with psychological treatment for anxiety management and with hypnopedia . 	156	query281_Weight_loss\S\156
+"This method"	"is complemented"	"with psychological treatment for anxiety management"	156	query281_Weight_loss\P\156-0
+"This method"	"is with"	"hypnopedia with psychological treatment for anxiety management"	156	query281_Weight_loss\P\156-1
+"This method"	"is with"	"hypnopedia"	156	query281_Weight_loss\P\156-2
+In 1996 a study revealed that hypnosis reinforced with cognitive-behavioral therapy was more effective than just CBT for weight reduction . 	157	query281_Weight_loss\S\157
+"a study"	"revealed"	"that hypnosis reinforced with cognitive-behavioral therapy was more effective than just CBT for weight reduction 157 In 1996"	157	query281_Weight_loss\P\157-0
+"a study"	"revealed"	"that hypnosis reinforced with cognitive-behavioral therapy was more effective than just CBT for weight reduction 157"	157	query281_Weight_loss\P\157-1
+"a study"	"revealed"	"that hypnosis reinforced with cognitive-behavioral therapy was more effective than just CBT for weight reduction 157"	157	query281_Weight_loss\P\157-2
+"hypnosis reinforced with cognitive-behavioral therapy"	"was effective"	"more"	157	query281_Weight_loss\P\157-3
+"hypnosis reinforced with cognitive-behavioral therapy"	"was effective"	"than just CBT for weight reduction"	157	query281_Weight_loss\P\157-4
+"hypnosis reinforced with cognitive-behavioral therapy"	"was"	"effective"	157	query281_Weight_loss\P\157-5
+Kirsch , Irving . 	158	query281_Weight_loss\S\158
+"Kirsch"	"is"	"Irving"	158	query281_Weight_loss\P\158-0
+" Hypnotic enhancement of cognitive-behavioural weight loss treatments : Another meta-reanalysis . 	159	query281_Weight_loss\S\159
+" Journal of Consulting and Clinical Psychology . 	160	query281_Weight_loss\S\160
+A crash diet refers to willful nutritional restriction ( except water ) for more than 12 waking hours . 	161	query281_Weight_loss\S\161
+"A crash diet"	"refers"	"to willful nutritional restriction"	161	query281_Weight_loss\P\161-0
+The desired result is to have the body burn fat for energy with the goal of losing a significant amount of weight in a short time . 	162	query281_Weight_loss\S\162
+"The desired result"	"is"	"to have the body burn fat for energy with the goal of losing a significant amount of weight in a short time"	162	query281_Weight_loss\P\162-0
+"the body"	"burn"	"fat for energy with the goal of losing a significant amount of weight in a short time"	162	query281_Weight_loss\P\162-1
+There is a possibility of muscle loss , depending on the approach used . 	163	query281_Weight_loss\S\163
+"a possibility of muscle loss"	"There is"	"163 depending on the approach used"	163	query281_Weight_loss\P\163-0
+July 2010 Crash dieting can be dangerous to health and this method of weight loss is not recommended by medical doctors . 	164	query281_Weight_loss\S\164
+"July 2010 Crash dieting"	"can be dangerous"	"to health"	164	query281_Weight_loss\P\164-0
+"July 2010 Crash dieting"	"can be"	"dangerous"	164	query281_Weight_loss\P\164-1
+"this method of weight loss"	"is not recommended"	"by medical doctors"	164	query281_Weight_loss\P\164-2
+Kirby S http ://www.disordered-eating.co.uk/signs-of-eating-disorders/crash-diets 	165	query281_Weight_loss\S\165
+.html 	166	query281_Weight_loss\S\166
+Signs of eating disorders : crash diets disordered-eating.co.uk 	167	query281_Weight_loss\S\167
+2011-01-26 Kirby S http ://www.disordered-eating.co.uk/signs-of-eating-disorders/crash-diets 	168	query281_Weight_loss\S\168
+.html 	169	query281_Weight_loss\S\169
+Signs of eating disorders : crash diets disordered-eating.co.uk 	170	query281_Weight_loss\S\170
+2011-01-26 Crash dieting is not the same as intermittent fasting , in which the individual periodically abstains from food ( e .g. 	171	query281_Weight_loss\S\171
+, every other day ) . 	172	query281_Weight_loss\S\172
+, every other day ) . 	172	query281_Weight_loss\S\172
+According to the Academy of Nutrition and Dietetics Academy of Nutrition and Dietetics . 	173	query281_Weight_loss\S\173
+( 2011 ) . 	174	query281_Weight_loss\S\174
+( 2011 ) . 	174	query281_Weight_loss\S\174
+Staying away from fad diets . 	175	query281_Weight_loss\S\175
+Staying away from fad diets . 	175	query281_Weight_loss\S\175
+Retrieved 1-16-12 , from http ://www.eatright 	176	query281_Weight_loss\S\176
+.org/Public/content 	177	query281_Weight_loss\S\177
+.aspx 	178	query281_Weight_loss\S\178
+?id=6851 . 	179	query281_Weight_loss\S\179
+?id=6851 . 	179	query281_Weight_loss\S\179
+, “If the diet or product sounds too good to be true , it probably is . 	180	query281_Weight_loss\S\180
+"the diet"	"sounds"	"too good to be true it probably is 180"	180	query281_Weight_loss\P\180-0
+"the product"	"sounds"	"too good to be true it probably is 180"	180	query281_Weight_loss\P\180-1
+"the product"	"sounds"	"too good to be true it probably is 180"	180	query281_Weight_loss\P\180-2
+There are no foods or pills that magically burn fat . 	181	query281_Weight_loss\S\181
+"no foods"	"There are"	"181"	181	query281_Weight_loss\P\181-0
+"no pills"	"There are"	"181"	181	query281_Weight_loss\P\181-1
+"no foods"	"burn"	"fat magically"	181	query281_Weight_loss\P\181-2
+"no pills"	"burn"	"fat magically"	181	query281_Weight_loss\P\181-3
+"no foods"	"burn"	"fat"	181	query281_Weight_loss\P\181-4
+"no pills"	"burn"	"fat"	181	query281_Weight_loss\P\181-5
+No super foods will alter your genetic code . 	182	query281_Weight_loss\S\182
+"No super foods"	"will alter"	"your genetic code"	182	query281_Weight_loss\P\182-0
+"No super foods"	"will alter"	"your genetic code"	182	query281_Weight_loss\P\182-1
+No products will miraculously melt fat while you watch TV or sleep. 	183	query281_Weight_loss\S\183
+"No products"	"will melt"	"fat miraculously"	183	query281_Weight_loss\P\183-0
+"No products"	"will melt"	"fat while you watch TV"	183	query281_Weight_loss\P\183-1
+"No products"	"will melt"	"fat while you watch sleep"	183	query281_Weight_loss\P\183-2
+"No products"	"will melt"	"fat"	183	query281_Weight_loss\P\183-3
+"No products"	"will melt"	"fat"	183	query281_Weight_loss\P\183-4
+"No products"	"will melt"	"fat"	183	query281_Weight_loss\P\183-5
+Some ingredients in supplements and herbal products can be dangerous and even deadly for some people ” ( 2011 ) . 	184	query281_Weight_loss\S\184
+"Some ingredients in supplements"	"can be"	"dangerous 2011"	184	query281_Weight_loss\P\184-0
+"Some ingredients in herbal products"	"can be"	"dangerous 2011"	184	query281_Weight_loss\P\184-1
+"Some ingredients in supplements"	"can be"	"even deadly for some people 2011"	184	query281_Weight_loss\P\184-2
+"Some ingredients in herbal products"	"can be"	"even deadly for some people 2011"	184	query281_Weight_loss\P\184-3
+To feel healthier and live longer , the focus needs to be on making lifestyle changes to how a person eats . 	185	query281_Weight_loss\S\185
+To feel healthier and live longer , the focus needs to be on making lifestyle changes to how a person eats . 	185	query281_Weight_loss\S\185
+To feel healthier and live longer , the focus needs to be on making lifestyle changes to how a person eats . 	185	query281_Weight_loss\S\185
+To feel healthier and live longer , the focus needs to be on making lifestyle changes to how a person eats . 	185	query281_Weight_loss\S\185
+"the focus"	"185 needs"	"to be on making lifestyle changes to how a person eats To feel healthier"	185	query281_Weight_loss\P\185-0
+"the focus"	"185 needs"	"to be on making lifestyle changes to how a person eats To healthier live longer"	185	query281_Weight_loss\P\185-1
+"the focus"	"185 needs"	"to be on making lifestyle changes to how a person eats"	185	query281_Weight_loss\P\185-2
+"a person"	"eats"	"how"	185	query281_Weight_loss\P\185-3
+USA December 2010 There is a substantial market for products which promise to make weight loss easier , quicker , cheaper , more reliable , or less painful . 	186	query281_Weight_loss\S\186
+"a substantial market for products"	"There is"	"186 USA December 2010"	186	query281_Weight_loss\P\186-0
+"a substantial market for products"	"There is"	"186 USA December 2010"	186	query281_Weight_loss\P\186-1
+"a substantial market for products"	"There is"	"186 USA December 2010"	186	query281_Weight_loss\P\186-2
+These include books , DVDs , CDs , cremes , lotions , pills , rings and earrings , body wraps , body belts and other materials , not to mention fitness centers , personal coaches , weight loss groups , and food products and supplements . 	187	query281_Weight_loss\S\187
+"These"	"include"	"books"	187	query281_Weight_loss\P\187-0
+"These"	"include"	"DVDs"	187	query281_Weight_loss\P\187-1
+"These"	"include"	"CDs"	187	query281_Weight_loss\P\187-2
+"These"	"include"	"cremes"	187	query281_Weight_loss\P\187-3
+"These"	"include"	"lotions"	187	query281_Weight_loss\P\187-4
+"These"	"include"	"pills"	187	query281_Weight_loss\P\187-5
+"These"	"include"	"rings"	187	query281_Weight_loss\P\187-6
+"These"	"include"	"earrings"	187	query281_Weight_loss\P\187-7
+"These"	"include"	"body wraps"	187	query281_Weight_loss\P\187-8
+"These"	"include"	"body belts"	187	query281_Weight_loss\P\187-9
+"These"	"include"	"other materials"	187	query281_Weight_loss\P\187-10
+"These"	"include"	"not to mention fitness centers"	187	query281_Weight_loss\P\187-11
+"These"	"include"	"personal coaches"	187	query281_Weight_loss\P\187-12
+"These"	"include"	"weight loss groups"	187	query281_Weight_loss\P\187-13
+"These"	"include"	"food products"	187	query281_Weight_loss\P\187-14
+"These"	"include"	"supplements"	187	query281_Weight_loss\P\187-15
+US residents in 1992 spent an estimated $ 30 billion a year on all types of diet programs and products , including diet foods and drinks . 	188	query281_Weight_loss\S\188
+"US residents in 1992"	"spent"	"an estimated $ 30 billion a year on all types of diet programs including diet foods"	188	query281_Weight_loss\P\188-0
+"US residents in 1992"	"spent"	"an estimated $ 30 billion a year on all types of diet products including diet foods and drinks"	188	query281_Weight_loss\P\188-1
+"US residents in 1992"	"spent"	"an estimated $ 30 billion a year on all types of diet programs including diet drinks"	188	query281_Weight_loss\P\188-2
+"US residents in 1992"	"spent"	"an estimated $ 30 billion a year"	188	query281_Weight_loss\P\188-3
+http ://www.cfsan 	189	query281_Weight_loss\S\189
+.fda.gov/~dms/wgtloss 	190	query281_Weight_loss\S\190
+.html 	191	query281_Weight_loss\S\191
+US Food and Drug Administration The facts about weight loss products and programs DHHS Publication No ( FDA ) 92-1189 2011-01-26 http ://web.archive 	192	query281_Weight_loss\S\192
+.org/web/20060926035920/http 	193	query281_Weight_loss\S\193
+://www.cfsan 	194	query281_Weight_loss\S\194
+.fda.gov/~dms/wgtloss 	195	query281_Weight_loss\S\195
+.html 	196	query281_Weight_loss\S\196
+2006-09-26 http ://www.cfsan 	197	query281_Weight_loss\S\197
+.fda.gov/~dms/wgtloss 	198	query281_Weight_loss\S\198
+.html 	199	query281_Weight_loss\S\199
+US Food and Drug Administration The facts about weight loss products and programs DHHS Publication No ( FDA ) 92-1189 2011-01-26 http ://web.archive 	200	query281_Weight_loss\S\200
+.org/web/20060926035920/http 	201	query281_Weight_loss\S\201
+://www.cfsan 	202	query281_Weight_loss\S\202
+.fda.gov/~dms/wgtloss 	203	query281_Weight_loss\S\203
+.html 	204	query281_Weight_loss\S\204
+2006-09-26 Between $ 33 billion and $ 55 billion is spent annually on weight loss products and services , including medical procedures and pharmaceuticals , with weight loss centers garnering between 6 percent and 12 percent of total annual expenditure . 	205	query281_Weight_loss\S\205
+"$ 55 billion"	"is spent"	"annually on weight loss products including medical procedures"	205	query281_Weight_loss\P\205-0
+"$ 55 billion"	"is spent"	"annually on weight loss services including medical procedures"	205	query281_Weight_loss\P\205-1
+"$ 55 billion"	"is spent"	"annually on weight loss services including medical pharmaceuticals"	205	query281_Weight_loss\P\205-2
+"$ 55 billion"	"is spent"	"annually on weight loss products including medical pharmaceuticals"	205	query281_Weight_loss\P\205-3
+"$ 55 billion"	"is spent"	"annually"	205	query281_Weight_loss\P\205-4
+"weight loss centers"	"be garnering"	"between 6 percent and 12 percent of total annual expenditure"	205	query281_Weight_loss\P\205-5
+About 70 percent of Americans ' dieting attempts are of a self-help nature . 	206	query281_Weight_loss\S\206
+About 70 percent of Americans ' dieting attempts are of a self-help nature . 	206	query281_Weight_loss\S\206
+"About 70 percent of Americans ' dieting attempts"	"are"	"of a self-help nature"	206	query281_Weight_loss\P\206-0
+Although often short-lived , these diet fads are a positive trend for this sector as Americans ultimately turn to professionals to help them meet their weight loss goals . 	207	query281_Weight_loss\S\207
+"these diet fads"	"are 207 a positive trend"	"Although often short-lived"	207	query281_Weight_loss\P\207-0
+"these diet fads"	"are 207 a positive trend"	"for this sector"	207	query281_Weight_loss\P\207-1
+"these diet fads"	"are 207 a positive trend"	"as Americans"	207	query281_Weight_loss\P\207-2
+"these diet fads"	"are"	"207 a positive trend"	207	query281_Weight_loss\P\207-3
+"Although often short-lived these diet fads are a positive trend for this sector as Americans"	"turn"	"to help them meet their weight loss goals ultimately"	207	query281_Weight_loss\P\207-4
+"Although often short-lived these diet fads are a positive trend for this sector as Americans"	"turn"	"to professionals to help them meet their weight loss goals"	207	query281_Weight_loss\P\207-5
+"Although often short-lived these diet fads are a positive trend for this sector as Americans"	"turn"	"to help them meet their weight loss goals"	207	query281_Weight_loss\P\207-6
+"Although often short-lived these diet fads are a positive trend for this sector as Americans"	"turn"	"to help them meet their weight loss goals"	207	query281_Weight_loss\P\207-7
+"Although often short-lived these diet fads are a positive trend for this sector as Americans"	"turn"	"to help them meet their weight loss goals"	207	query281_Weight_loss\P\207-8
+http ://www.reuters.com/article/pressRelease/idUS107630+21-Apr-2008+PRN20080421 	208	query281_Weight_loss\S\208
+Profiting From America 's Portly Population Reuters PRNewswire 2008-04-21 2009-01-17 http ://www.reuters.com/article/pressRelease/idUS107630+21-Apr-2008+PRN20080421 	209	query281_Weight_loss\S\209
+Profiting From America 's Portly Population Reuters PRNewswire 2008-04-21 2009-01-17 http ://www.reuters.com/article/pressRelease/idUS107630+21-Apr-2008+PRN20080421 	209	query281_Weight_loss\S\209
+Profiting From America 's Portly Population Reuters PRNewswire 2008-04-21 2009-01-17 In Western Europe , sales of weight-loss products , excluding prescription medications , topped £900 million ( $ 1.4 	210	query281_Weight_loss\S\210
+Profiting From America 's Portly Population Reuters PRNewswire 2008-04-21 2009-01-17 In Western Europe , sales of weight-loss products , excluding prescription medications , topped £900 million ( $ 1.4 	210	query281_Weight_loss\S\210
+Profiting From America 's Portly Population Reuters PRNewswire 2008-04-21 2009-01-17 In Western Europe , sales of weight-loss products , excluding prescription medications , topped £900 million ( $ 1.4 	210	query281_Weight_loss\S\210
+"PRNewswire 2008-04-21 2009-01-17 In Western Europe excluding prescription medications"	"is"	"sales of weight-loss products"	210	query281_Weight_loss\P\210-0
+"PRNewswire 2008-04-21 2009-01-17 In Western Europe excluding prescription medications"	"topped"	"# 900 million $ 1.4 Reuters"	210	query281_Weight_loss\P\210-1
+billion ) in 2009 . 	211	query281_Weight_loss\S\211
+http ://www .sciencedaily 	212	query281_Weight_loss\S\212
+.com/releases/2010/07/100712103445.htm 	213	query281_Weight_loss\S\213
+No evidence that popular slimming supplements facilitate weight loss , new research finds July 14 , 2010 2010-07-19 http ://www .sciencedaily 	214	query281_Weight_loss\S\214
+.com/releases/2010/07/100712103445.htm 	215	query281_Weight_loss\S\215
+No evidence that popular slimming supplements facilitate weight loss , new research finds July 14 , 2010 2010-07-19 February 2010 Category :Dietetics Category :Nutrition Category :Obesity Category :Weight loss Category :Symptoms and signs : General ca :Pèrdua de pes de:Gewichtsreduktion fr:Amaigrissement nl :Vermagering ja :体重減少 pt:Perda de peso sl : Hujšanje fi:Laihduttaminen zh :减肥 Starvation , a state of extreme hunger resulting from lack of essential nutrients over a prolonged period . 	216	query281_Weight_loss\S\216
+"popular slimming supplements"	"facilitate"	"weight loss"	216	query281_Weight_loss\P\216-0
+"new research"	"finds"	"July 14 Dietetics Category Nutrition Category Obesity Category Weight loss Category Symptoms General ca :P èrdua de pes de Gewichtsreduktion fr Amaigrissement nl Vermagering ja 体重減少 pt Perda de peso sl Hujšanje fi Laihduttaminen zh 减肥 Starvation"	216	query281_Weight_loss\P\216-1
+"new research"	"finds"	"July 14 Dietetics Category Nutrition Category Obesity Category Weight loss Category signs General ca :P èrdua de pes de Gewichtsreduktion fr Amaigrissement nl Vermagering ja 体重減少 pt Perda de peso sl Hujšanje fi Laihduttaminen zh 减肥 Starvation"	216	query281_Weight_loss\P\216-2
+"July 14 Dietetics Category Nutrition Category Obesity Category Weight loss Category Symptoms General ca :P èrdua de pes de Gewichtsreduktion fr Amaigrissement nl Vermagering ja 体重減少 pt Perda de peso sl Hujšanje fi Laihduttaminen zh 减肥 Starvation"	"is"	"2010 2010-07-19 February 2010 Category"	216	query281_Weight_loss\P\216-3
+"July 14 Dietetics Category Nutrition Category Obesity Category Weight loss Category signs General ca :P èrdua de pes de Gewichtsreduktion fr Amaigrissement nl Vermagering ja 体重減少 pt Perda de peso sl Hujšanje fi Laihduttaminen zh 减肥 Starvation"	"is"	"2010 2010-07-19 February 2010 Category"	216	query281_Weight_loss\P\216-4
+"减肥 Starvation"	"is"	"a state of extreme hunger resulting from lack of essential nutrients over a prolonged period"	216	query281_Weight_loss\P\216-5
+"extreme hunger"	"be resulting"	"from lack of essential nutrients over a prolonged period"	216	query281_Weight_loss\P\216-6
+"extreme hunger"	"be resulting"	"from lack of essential nutrients"	216	query281_Weight_loss\P\216-7
+Cancer , a very common and sometimes fatal cause of unexplained ( idiopathic ) weight loss . 	217	query281_Weight_loss\S\217
+"Cancer"	"is"	"a very common cause of unexplained idiopathic weight loss"	217	query281_Weight_loss\P\217-0
+"Cancer"	"is"	"a very sometimes fatal cause of unexplained idiopathic weight loss"	217	query281_Weight_loss\P\217-1
+About one-third of unintentional weight loss cases are secondary to malignancy . 	218	query281_Weight_loss\S\218
+Cancers to suspect in patients with unexplained weight loss include gastrointestinal , prostate , hepatobillary ( hepatocellular carcinoma , pancreatic cancer ) , ovarian , hematologic or lung malignancies should be considered in any patient presenting with unexplained weight loss . 	219	query281_Weight_loss\S\219
+"Cancers"	"be suspect"	"in patients with unexplained weight loss"	219	query281_Weight_loss\P\219-0
+"Cancers to suspect in patients with unexplained weight loss"	"include"	"gastrointestinal hepatobillary hepatocellular carcinoma"	219	query281_Weight_loss\P\219-1
+"Cancers to suspect in patients with unexplained weight loss"	"include"	"prostate hepatobillary hepatocellular carcinoma pancreatic cancer"	219	query281_Weight_loss\P\219-2
+"Cancers to suspect in patients with unexplained weight loss"	"include"	"gastrointestinal hepatobillary hepatocellular pancreatic cancer"	219	query281_Weight_loss\P\219-3
+"ovarian malignancies"	"should be considered"	"in any patient presenting with unexplained weight loss gastrointestinal hepatobillary hepatocellular carcinoma"	219	query281_Weight_loss\P\219-4
+"ovarian malignancies"	"should be considered"	"in any patient presenting with unexplained weight loss prostate hepatobillary hepatocellular carcinoma pancreatic cancer"	219	query281_Weight_loss\P\219-5
+"ovarian malignancies"	"should be considered"	"in any patient presenting with unexplained weight loss gastrointestinal hepatobillary hepatocellular pancreatic cancer"	219	query281_Weight_loss\P\219-6
+"hematologic malignancies"	"should be considered"	"in any patient presenting with unexplained weight loss gastrointestinal hepatobillary hepatocellular carcinoma"	219	query281_Weight_loss\P\219-7
+"hematologic malignancies"	"should be considered"	"in any patient presenting with unexplained weight loss prostate hepatobillary hepatocellular carcinoma pancreatic cancer"	219	query281_Weight_loss\P\219-8
+"hematologic malignancies"	"should be considered"	"in any patient presenting with unexplained weight loss gastrointestinal hepatobillary hepatocellular pancreatic cancer"	219	query281_Weight_loss\P\219-9
+"lung malignancies"	"should be considered"	"in any patient presenting with unexplained weight loss gastrointestinal hepatobillary hepatocellular carcinoma"	219	query281_Weight_loss\P\219-10
+"lung malignancies"	"should be considered"	"in any patient presenting with unexplained weight loss prostate hepatobillary hepatocellular carcinoma pancreatic cancer"	219	query281_Weight_loss\P\219-11
+"lung malignancies"	"should be considered"	"in any patient presenting with unexplained weight loss gastrointestinal hepatobillary hepatocellular pancreatic cancer"	219	query281_Weight_loss\P\219-12
+"ovarian malignancies"	"should be considered"	"gastrointestinal hepatobillary hepatocellular carcinoma"	219	query281_Weight_loss\P\219-13
+"ovarian malignancies"	"should be considered"	"prostate hepatobillary hepatocellular carcinoma pancreatic cancer"	219	query281_Weight_loss\P\219-14
+"ovarian malignancies"	"should be considered"	"gastrointestinal hepatobillary hepatocellular pancreatic cancer"	219	query281_Weight_loss\P\219-15
+"hematologic malignancies"	"should be considered"	"gastrointestinal hepatobillary hepatocellular carcinoma"	219	query281_Weight_loss\P\219-16
+"hematologic malignancies"	"should be considered"	"prostate hepatobillary hepatocellular carcinoma pancreatic cancer"	219	query281_Weight_loss\P\219-17
+"hematologic malignancies"	"should be considered"	"gastrointestinal hepatobillary hepatocellular pancreatic cancer"	219	query281_Weight_loss\P\219-18
+"lung malignancies"	"should be considered"	"gastrointestinal hepatobillary hepatocellular carcinoma"	219	query281_Weight_loss\P\219-19
+"lung malignancies"	"should be considered"	"prostate hepatobillary hepatocellular carcinoma pancreatic cancer"	219	query281_Weight_loss\P\219-20
+"lung malignancies"	"should be considered"	"gastrointestinal hepatobillary hepatocellular pancreatic cancer"	219	query281_Weight_loss\P\219-21
+"any patient"	"be presenting"	"with unexplained weight loss"	219	query281_Weight_loss\P\219-22
+AIDS can cause weight loss and should be suspected in high-risk individuals presenting with weight loss . 	220	query281_Weight_loss\S\220
+"AIDS"	"can cause"	"weight loss"	220	query281_Weight_loss\P\220-0
+"AIDS"	"can should be suspected"	"weight loss in high-risk individuals presenting with weight loss"	220	query281_Weight_loss\P\220-1
+"AIDS"	"can should be suspected"	"weight loss"	220	query281_Weight_loss\P\220-2
+"high-risk individuals"	"be presenting"	"with weight loss"	220	query281_Weight_loss\P\220-3
+Gastrointestinal disorders are another common cause of unexplained weight loss - in fact they are the most common non-cancerous cause of idiopathic weight loss . 	221	query281_Weight_loss\S\221
+"Gastrointestinal disorders"	"are another common cause in fact they are the most common non-cancerous cause of idiopathic weight loss"	"of unexplained weight loss"	221	query281_Weight_loss\P\221-0
+"Gastrointestinal disorders"	"are"	"another common cause in fact they are the most common non-cancerous cause of idiopathic weight loss"	221	query281_Weight_loss\P\221-1
+"Gastrointestinal disorders"	"are"	"another common cause in fact they are the most common non-cancerous cause of idiopathic weight loss"	221	query281_Weight_loss\P\221-2
+"Gastrointestinal disorders"	"are"	"another common cause in fact they are the most common non-cancerous cause of idiopathic weight loss"	221	query281_Weight_loss\P\221-3
+"Gastrointestinal disorders"	"are"	"another common cause in fact they are the most common non-cancerous cause of idiopathic weight loss"	221	query281_Weight_loss\P\221-4
+Possible gastrointestinal etiologies of unexplained weight loss are celiac disease , peptic ulcer , inflammatory bowel disease ( crohns disease and ulcerative colitis ) , pancreatitis , gastritis , diarrhea and many other GI conditions can cause weight loss . 	222	query281_Weight_loss\S\222
+"Possible gastrointestinal etiologies of unexplained weight loss"	"are"	"celiac disease"	222	query281_Weight_loss\P\222-0
+"Possible gastrointestinal etiologies of unexplained weight loss"	"are"	"celiac peptic ulcer"	222	query281_Weight_loss\P\222-1
+"Possible gastrointestinal etiologies of unexplained weight loss"	"are"	"celiac inflammatory bowel disease crohns disease"	222	query281_Weight_loss\P\222-2
+"Possible gastrointestinal etiologies of unexplained weight loss"	"are"	"celiac inflammatory bowel disease crohns ulcerative colitis"	222	query281_Weight_loss\P\222-3
+"Possible gastrointestinal etiologies of unexplained weight loss"	"are"	"celiac pancreatitis"	222	query281_Weight_loss\P\222-4
+"Possible gastrointestinal etiologies of unexplained weight loss"	"are"	"celiac gastritis"	222	query281_Weight_loss\P\222-5
+"Possible gastrointestinal etiologies of unexplained weight loss"	"are"	"celiac diarrhea"	222	query281_Weight_loss\P\222-6
+"Possible gastrointestinal etiologies of unexplained weight loss"	"are"	"celiac many other GI conditions"	222	query281_Weight_loss\P\222-7
+"Possible gastrointestinal etiologies of unexplained weight loss are celiac disease"	"can cause"	"weight loss"	222	query281_Weight_loss\P\222-8
+"Possible gastrointestinal etiologies of unexplained weight loss are celiac peptic ulcer"	"can cause"	"weight loss"	222	query281_Weight_loss\P\222-9
+"Possible gastrointestinal etiologies of unexplained weight loss are celiac inflammatory bowel disease crohns disease"	"can cause"	"weight loss"	222	query281_Weight_loss\P\222-10
+"Possible gastrointestinal etiologies of unexplained weight loss are celiac inflammatory bowel disease crohns ulcerative colitis"	"can cause"	"weight loss"	222	query281_Weight_loss\P\222-11
+"Possible gastrointestinal etiologies of unexplained weight loss are celiac pancreatitis"	"can cause"	"weight loss"	222	query281_Weight_loss\P\222-12
+"Possible gastrointestinal etiologies of unexplained weight loss are celiac gastritis"	"can cause"	"weight loss"	222	query281_Weight_loss\P\222-13
+"Possible gastrointestinal etiologies of unexplained weight loss are celiac diarrhea"	"can cause"	"weight loss"	222	query281_Weight_loss\P\222-14
+"Possible gastrointestinal etiologies of unexplained weight loss are celiac many other GI conditions"	"can cause"	"weight loss"	222	query281_Weight_loss\P\222-15
+Infection . 	223	query281_Weight_loss\S\223
+Some infectious diseases can cause weight loss . 	224	query281_Weight_loss\S\224
+"Some infectious diseases"	"can cause"	"weight loss"	224	query281_Weight_loss\P\224-0
+These include fungal illness , endocarditis , many parasitic diseases , AIDS , and some other sub-acute or occult infections may cause weight loss . 	225	query281_Weight_loss\S\225
+"These"	"include"	"fungal illness"	225	query281_Weight_loss\P\225-0
+"These"	"include"	"fungal endocarditis"	225	query281_Weight_loss\P\225-1
+"These"	"include"	"fungal many parasitic diseases"	225	query281_Weight_loss\P\225-2
+"These"	"include"	"fungal AIDS"	225	query281_Weight_loss\P\225-3
+"These"	"include"	"fungal some other sub-acute"	225	query281_Weight_loss\P\225-4
+"These"	"include"	"fungal some other sub-acute occult infections"	225	query281_Weight_loss\P\225-5
+Renal disease . 	226	query281_Weight_loss\S\226
+Patients who have uremia often have poor or absent appetite , emesis and nausea . 	227	query281_Weight_loss\S\227
+"Patients"	"have"	"uremia"	227	query281_Weight_loss\P\227-0
+"Patients"	"have"	"poor appetite often"	227	query281_Weight_loss\P\227-1
+"Patients"	"have"	"absent appetite emesis and nausea often"	227	query281_Weight_loss\P\227-2
+"Patients"	"have"	"poor emesis often"	227	query281_Weight_loss\P\227-3
+"Patients"	"have"	"poor nausea often"	227	query281_Weight_loss\P\227-4
+"Patients"	"have"	"poor appetite"	227	query281_Weight_loss\P\227-5
+"Patients"	"have"	"absent appetite emesis and nausea"	227	query281_Weight_loss\P\227-6
+"Patients"	"have"	"poor emesis"	227	query281_Weight_loss\P\227-7
+"Patients"	"have"	"poor nausea"	227	query281_Weight_loss\P\227-8
+This can cause weight loss . 	228	query281_Weight_loss\S\228
+This can cause weight loss . 	228	query281_Weight_loss\S\228
+Cardiac disease . 	229	query281_Weight_loss\S\229
+Cardiovascular disease , especially congestive heart failure , may cause unexplained weight loss . 	230	query281_Weight_loss\S\230
+"Cardiovascular disease"	"is"	"especially congestive heart failure"	230	query281_Weight_loss\P\230-0
+"Cardiovascular disease"	"may cause"	"unexplained weight loss"	230	query281_Weight_loss\P\230-1
+Pulmonary disease . 	231	query281_Weight_loss\S\231
+Connective tissue disease Neurologic disease , including dementia Shiraz E-Medical Journal Massompoor SM Unintentional weight loss 5 2 April 2004 http ://semj .sums 	232	query281_Weight_loss\S\232
+.ac.ir/vol5/apr2004/rwtloss 	233	query281_Weight_loss\S\233
+.htm 	234	query281_Weight_loss\S\234
+Shiraz E-Medical Journal Massompoor SM Unintentional weight loss 5 2 April 2004 http ://semj .sums 	235	query281_Weight_loss\S\235
+.ac.ir/vol5/apr2004/rwtloss 	236	query281_Weight_loss\S\236
+.htm 	237	query281_Weight_loss\S\237
+In some people , certain medications may cause weight loss as a side effect . 	238	query281_Weight_loss\S\238
+"certain medications"	"may cause"	"238 In some people weight loss as a side effect"	238	query281_Weight_loss\P\238-0
+"certain medications"	"may cause"	"238 In some people weight loss"	238	query281_Weight_loss\P\238-1
+Stress can cause weight loss . 	239	query281_Weight_loss\S\239
+"Stress"	"can cause"	"weight loss"	239	query281_Weight_loss\P\239-0
+However recent research ( Jastebott , Potenza et al 2010 ) shows a correlation between obesity and high levels of stress . 	240	query281_Weight_loss\S\240
+"recent research"	"is"	"Jastebott Potenza et al 2010"	240	query281_Weight_loss\P\240-0
+"recent research"	"shows"	"a correlation between obesity and high levels of stress 240 However"	240	query281_Weight_loss\P\240-1
+"recent research"	"shows"	"a correlation between obesity and high levels of stress 240"	240	query281_Weight_loss\P\240-2
+http ://www.nature 	241	query281_Weight_loss\S\241
+.com/npp/journal/v36/n3/full/npp2010194a 	242	query281_Weight_loss\S\242
+.html 	243	query281_Weight_loss\S\243
+Anorexia Anti-obesity medication Cigarette smoking for weight loss Dieting Enterostatin Obesity Online weight loss plans Physical exercise Weight gain Weight loss effects of water Prenatal nutrition and birth weight Bulimia nervosa Notes . 	244	query281_Weight_loss\S\244
+"Anorexia Anti-obesity medication Cigarette smoking for weight loss Dieting Enterostatin Obesity Online weight loss"	"plans"	"Physical exercise Weight gain Weight loss effects of water Prenatal nutrition"	244	query281_Weight_loss\P\244-0
+"Anorexia Anti-obesity medication Cigarette smoking for weight loss Dieting Enterostatin Obesity Online weight loss"	"plans"	"Physical exercise Weight gain Weight loss effects of water Prenatal birth weight Bulimia nervosa Notes"	244	query281_Weight_loss\P\244-1
+U.S. 	245	query281_Weight_loss\S\245
+Federal Trade Commission ( September 2002 ) U.S. 	246	query281_Weight_loss\S\246
+"Federal Trade Commission"	"is"	"September 2002"	246	query281_Weight_loss\P\246-0
+Food and Drug Administration U.S. 	247	query281_Weight_loss\S\247
+National Institutes of Health US News and World Report , June 29 , 2007 Health/Weight_loss Weight loss 	248	query281_Weight_loss\S\248
+"World Report"	"is"	"2007 Health/Weight _ loss Weight loss"	248	query281_Weight_loss\P\248-0
+"World Report"	"is"	"June 29"	248	query281_Weight_loss\P\248-1

@@ -1,0 +1,1998 @@
+0	Gallus gallus domesticus other subspecies Red Junglefowl yes the animal chicken as human food Chicken ( food ) Birds September 2009 Chicken DOM Female pair.jpg 
+0	"0 Gallus gallus domesticus other subspecies Red Junglefowl"	"is"	"yes the animal chicken as human food Chicken Birds September 2009 Chicken DOM Female pair.jpg"	
+0	"human food Chicken"	"is"	"food"	
+1	200px A rooster ( left ) and hen ( right ) Animal Chordata Aves Galliformes Phasianidae Phasianinae Gallus Gallus gallus Gallus gallus domesticus ( Linnaeus , 1758 ) Chicken : Cock or Rooster ( m ) , Hen ( f ) The chicken ( Gallus gallus domesticus ) is a domesticated fowl , a subspecies of the Red Junglefowl . 
+1	"1 200px A rooster"	"is"	"left"	
+1	"1 200px A hen right Animal Chordata Aves Galliformes Phasianidae Phasianinae Gallus Gallus gallus Gallus gallus domesticus Linnaeus 1758 Chicken Cock Hen f The chicken is a domesticated fowl"	"is"	"left"	
+1	"1 200px A hen right Animal Chordata Aves Galliformes Phasianidae Phasianinae Gallus Gallus gallus Gallus gallus domesticus Linnaeus 1758 Chicken Rooster Hen f The chicken is a domesticated fowl"	"is"	"left"	
+1	"hen right Animal Chordata Aves Galliformes Phasianidae Phasianinae Gallus Gallus"	"gallus"	"Gallus gallus domesticus Linnaeus 1758 Chicken Cock Hen f The chicken is a domesticated fowl"	
+1	"hen right Animal Chordata Aves Galliformes Phasianidae Phasianinae Gallus Gallus"	"gallus"	"Gallus gallus domesticus Linnaeus 1758 Chicken Rooster Hen f The chicken is a domesticated fowl"	
+1	"Cock"	"is"	"m"	
+1	"Rooster"	"is"	"m"	
+1	"The chicken"	"is"	"Gallus gallus domesticus"	
+1	"Linnaeus 1758 Chicken Cock Hen f The chicken is a domesticated fowl"	"is"	"a subspecies of the Red Junglefowl"	
+1	"Linnaeus 1758 Chicken Rooster Hen f The chicken is a domesticated fowl"	"is"	"a subspecies of the Red Junglefowl"	
+1	"The chicken"	"is"	"Linnaeus 1758 Chicken Cock Hen f a domesticated fowl"	
+1	"The chicken"	"is"	"Linnaeus 1758 Chicken Rooster Hen f a domesticated fowl"	
+2	As one of the most common and widespread domestic animals , and with a population of more than 24 billion in 2003 , according to Firefly Encyclopedia of Birds , Ed . 
+2	"Birds"	"is"	"Ed"	
+3	Perrins , Christopher . 
+3	"3 Perrins"	"is"	"Christopher"	
+4	Buffalo , N.Y. 
+4	"4 Buffalo"	"is in"	"N.Y."	
+5	: Firefly Books , Ltd. 
+5	"Firefly Books"	"is"	"Ltd."	
+6	, 2003 . 
+6	"6"	"is"	"2003"	
+7	there are more chickens in the world than any other species of bird . 
+7	"more chickens in the world than any other species of bird"	"there are"	"7"	
+8	Humans keep chickens primarily as a source of food , consuming both their meat and their eggs . 
+8	"8 Humans"	"keep"	"chickens primarily consuming their meat"	
+8	"8 Humans"	"keep"	"chickens primarily consuming their their eggs"	
+8	"8 Humans"	"keep"	"chickens as a source of food consuming their meat"	
+8	"8 Humans"	"keep"	"chickens as a source of food consuming their their eggs"	
+8	"8 Humans"	"keep"	"chickens consuming their meat"	
+8	"8 Humans"	"keep"	"chickens consuming their their eggs"	
+8	"their"	"has"	"meat"	
+8	"their"	"has"	"eggs"	
+9	The traditional poultry farming view of the domestication of the chicken is stated in Encyclopædia Britannica ( 2007 ) : " Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Asia , Africa , and Europe . 
+9	"9 The traditional poultry farming view of the domestication of the chicken"	"is stated"	"in Encyclopædia Britannica Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Asia"	
+9	"9 The traditional poultry farming view of the domestication of the chicken"	"is stated"	"in Encyclopædia Britannica Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Africa"	
+9	"9 The traditional poultry farming view of the domestication of the chicken"	"is stated"	"in Encyclopædia Britannica Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Europe"	
+9	"9 The traditional poultry farming view of the domestication of the chicken"	"is stated"	"Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Asia"	
+9	"9 The traditional poultry farming view of the domestication of the chicken"	"is stated"	"Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Africa"	
+9	"9 The traditional poultry farming view of the domestication of the chicken"	"is stated"	"Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Europe"	
+9	"Encyclopædia Britannica"	"is"	"2007"	
+10	Very little formal attention was given to egg or meat production ... 
+10	"10 Very little formal attention"	"was given"	"to egg production"	
+10	"10 Very little formal attention"	"was given"	"to meat production"	
+11	" Garrigus , W. 
+11	"11 Garrigus"	"is"	"W."	
+12	P. 
+13	( 2007 ) , . 
+13	"13"	"is"	"2007"	
+14	Encyclopædia Britannica . 
+15	Recent genetic studies have pointed to multiple maternal origins in Southeast , East , and South Asia , but with the clade found in the Americas , Europe , the Middle East and Africa originating in the Indian subcontinent . 
+15	"15 Recent genetic studies"	"have pointed"	"to multiple maternal origins in Southeast"	
+15	"15 Recent genetic studies"	"have pointed"	"to multiple maternal origins in East"	
+15	"15 Recent genetic studies"	"have pointed"	"to multiple maternal origins in South Asia"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Americas originating in the Indian subcontinent to multiple maternal origins in Southeast"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Europe originating in the Indian subcontinent to multiple maternal origins in Southeast"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the the Middle East originating in the Indian subcontinent to multiple maternal origins in Southeast"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Africa originating in the Indian subcontinent to multiple maternal origins in Southeast"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Americas originating in the Indian subcontinent to multiple maternal origins in East"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Europe originating in the Indian subcontinent to multiple maternal origins in East"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the the Middle East originating in the Indian subcontinent to multiple maternal origins in East"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Africa originating in the Indian subcontinent to multiple maternal origins in East"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Americas originating in the Indian subcontinent to multiple maternal origins in South Asia"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Europe originating in the Indian subcontinent to multiple maternal origins in South Asia"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the the Middle East originating in the Indian subcontinent to multiple maternal origins in South Asia"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Africa originating in the Indian subcontinent to multiple maternal origins in South Asia"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Americas originating in the Indian subcontinent"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Europe originating in the Indian subcontinent"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the the Middle East originating in the Indian subcontinent"	
+15	"15 Recent genetic studies"	"have with"	"the clade found in the Africa originating in the Indian subcontinent"	
+15	"the clade found in the Americas"	"be originating"	"in the Indian subcontinent"	
+15	"the clade found in the Europe"	"be originating"	"in the Indian subcontinent"	
+15	"the clade found in the the Middle East"	"be originating"	"in the Indian subcontinent"	
+15	"the clade found in the Africa"	"be originating"	"in the Indian subcontinent"	
+15	"the clade originating in the Indian subcontinent"	"be found"	"in the Americas"	
+15	"the clade originating in the Indian subcontinent"	"be found"	"in the Europe"	
+15	"the clade originating in the Indian subcontinent"	"be found"	"in the the Middle East"	
+15	"the clade originating in the Indian subcontinent"	"be found"	"in the Africa"	
+16	From India the domesticated fowl made its way to the Persia kingdom of Lydia in western Asia Minor , and domestic fowl were imported to Greece by the fifth century BC . 
+16	"the domesticated fowl"	"made"	"its way to the Persia kingdom of Lydia in western Asia Minor"	
+16	"its"	"has"	"way to the Persia kingdom of Lydia in western Asia Minor"	
+16	"domestic fowl"	"were imported"	"to Greece by the fifth century BC"	
+16	"domestic fowl"	"were imported"	"to Greece"	
+17	Maguelonne Toussaint-Samat , ( Anthea Bell , translator ) The History of Food , Ch . 
+17	"17 Maguelonne Toussaint-Samat The History of Food"	"is"	"Anthea Bell"	
+17	"Anthea Bell"	"is"	"translator"	
+17	"Food"	"is"	"Ch"	
+18	11 " The History of Poultry" , revised ed . 
+19	2009 , p . 
+19	"19 2009"	"is"	"p"	
+20	306 . 
+21	Fowl had been known in Egypt since the 18th Dynasty , with the "bird that lays every day " having come to Egypt from the land between Syria and Shinar , Babylonia , according to the annals of Tutmose III . 
+21	"21 Fowl"	"had been known"	"in Egypt having come to Egypt from the land between Syria and Shinar"	
+21	"21 Fowl"	"had been known"	"in Egypt having come to Egypt according to the annals of Tutmose III"	
+21	"21 Fowl"	"had been known"	"in Egypt having come to Egypt"	
+21	"21 Fowl"	"had been known"	"since the 18th Dynasty having come to Egypt from the land between Syria and Shinar"	
+21	"21 Fowl"	"had been known"	"since the 18th Dynasty having come to Egypt according to the annals of Tutmose III"	
+21	"21 Fowl"	"had been known"	"since the 18th Dynasty having come to Egypt"	
+21	"21 Fowl"	"had been known"	"with the bird having come to Egypt from the land between Syria and Shinar"	
+21	"21 Fowl"	"had been known"	"with the bird having come to Egypt according to the annals of Tutmose III"	
+21	"21 Fowl"	"had been known"	"with the bird having come to Egypt"	
+21	"21 Fowl"	"had been known"	"having come to Egypt from the land between Syria and Shinar"	
+21	"21 Fowl"	"had been known"	"having come to Egypt according to the annals of Tutmose III"	
+21	"21 Fowl"	"had been known"	"having come to Egypt"	
+21	"the bird"	"lays"	"every day"	
+22	Howard Carter , " An Ostracon Depicting a Red Jungle-Fowl ( The Earliest Known Drawing of the Domestic Cock ) " The Journal of Egyptian Archaeology , 9 .1/2 
+22	"An Ostracon"	"be Depicting"	"a Red Jungle-Fowl The Earliest Known Drawing of the Domestic Cock The Journal of Egyptian Archaeology"	
+23	( April 1923 ) , pp . 
+23	"23"	"is"	"April 1923"	
+24	1-4. 
+25	In the UK, Ireland and Australia adult male chickens over the age of 12 months are primarily known as cocks , whereas in America and Canada they are more commonly called rooster . 
+25	"25 In the UK adult male chickens over the age of 12 months"	"are known"	"as cocks primarily"	
+25	"25 In the Ireland adult male chickens over the age of 12 months"	"are known"	"as cocks primarily"	
+25	"25 In the Australia adult male chickens over the age of 12 months"	"are known"	"as cocks primarily"	
+25	"25 In the UK adult male chickens over the age of 12 months"	"are known"	"as cocks whereas in America they are more commonly called rooster"	
+25	"25 In the UK adult male chickens over the age of 12 months"	"are known"	"as cocks whereas in Canada they are more commonly called rooster"	
+25	"25 In the Ireland adult male chickens over the age of 12 months"	"are known"	"as cocks whereas in America they are more commonly called rooster"	
+25	"25 In the Ireland adult male chickens over the age of 12 months"	"are known"	"as cocks whereas in Canada they are more commonly called rooster"	
+25	"25 In the Australia adult male chickens over the age of 12 months"	"are known"	"as cocks whereas in America they are more commonly called rooster"	
+25	"25 In the Australia adult male chickens over the age of 12 months"	"are known"	"as cocks whereas in Canada they are more commonly called rooster"	
+25	"25 In the UK adult male chickens over the age of 12 months"	"are known"	"as cocks"	
+25	"25 In the Ireland adult male chickens over the age of 12 months"	"are known"	"as cocks"	
+25	"25 In the Australia adult male chickens over the age of 12 months"	"are known"	"as cocks"	
+25	"they"	"are called"	"rooster in America"	
+25	"they"	"are called"	"rooster in Canada"	
+25	"they"	"are called"	"rooster more commonly"	
+25	"they"	"are called"	"rooster"	
+26	Males under a year old are cockerels . 
+26	"26 Males under a year old"	"are"	"cockerels"	
+27	http ://dictionary .reference 
+28	.com/browse/cockerel 
+29	Cockerel - definitions from Dictionary .com 
+30	Dictionary .reference 
+31	.com 
+32	2010-08-29 http ://dictionary .reference 
+33	.com/browse/cockerel 
+34	Cockerel - definitions from Dictionary .com 
+35	Dictionary .reference 
+36	.com 
+37	2010-08-29 Castrated roosters are called capon ( surgical and chemical castration are now illegal in some parts of the world ) . 
+37	"37 2010-08-29 Castrated roosters"	"are called"	
+37	"37 2010-08-29 Castrated roosters"	"are called"	
+37	"surgical castration"	"are capon illegal"	"now"	
+37	"chemical castration"	"are capon illegal"	"now"	
+37	"surgical castration"	"are capon illegal"	"in some parts of the world"	
+37	"chemical castration"	"are capon illegal"	"in some parts of the world"	
+37	"surgical castration"	"are"	"capon illegal"	
+37	"chemical castration"	"are"	"capon illegal"	
+38	Females over a year old are known as hens , and younger females are pullets . 
+38	"38 Females over a year old"	"are known"	"as hens"	
+38	"younger females"	"are"	"pullets"	
+39	http ://dictionary .reference 
+40	.com/browse/pullet 
+41	Pullet - definitions from Dictionary .com 
+42	Dictionary .reference 
+43	.com 
+44	2010-08-29 http ://dictionary .reference 
+45	.com/browse/pullet 
+46	Pullet - definitions from Dictionary .com 
+47	Dictionary .reference 
+48	.com 
+49	2010-08-29 In Australia and New Zealand ( also sometimes in Britain ) , there is a generic term chook ( icon ˈ tʃ ʊ k ) to describe all ages and both sexes . 
+49	"49 2010-08-29 In Australia"	"is"	"also sometimes in Britain"	
+49	"49 2010-08-29 In New Zealand"	"is"	"also sometimes in Britain"	
+49	"a generic term chook icon ˈ tʃ ʊ k to describe all ages"	"there is"	"49 2010-08-29 In Australia"	
+49	"a generic term chook icon ˈ tʃ ʊ k to describe all ages"	"there is"	"49 2010-08-29 In New Zealand"	
+49	"a generic term chook icon ˈ tʃ ʊ k to all ages both sexes"	"there is"	"49 2010-08-29 In Australia"	
+49	"a generic term chook icon ˈ tʃ ʊ k to all ages both sexes"	"there is"	"49 2010-08-29 In New Zealand"	
+49	"a generic term chook icon ˈ tʃ ʊ k to both sexes"	"be describe"	"all ages"	
+49	"a generic term chook icon ˈ tʃ ʊ k to both sexes"	"be describe"	"all ages"	
+50	Definition of " chook " in Encarta . 
+51	The vernacular use is said to be offensive in this dictionary but it may also be used as a term of jocular familiarity http ://encarta.msn.com/dictionary 
+51	"51 The vernacular use"	"is said"	"to be offensive encarta.msn.com/dictionary in this dictionary"	
+51	"51 The vernacular use"	"is said"	"to be offensive encarta.msn.com/dictionary"	
+51	"it"	"may be used"	"as a term of jocular familiarity http also"	
+51	"it"	"may be used"	"as a term of jocular familiarity http"	
+52	_/chook .html 
+53	http ://www.webcitation 
+54	.org/5kwQrJia9 
+55	2009-10-31 yes Definition of " chook " in Encarta . 
+56	The vernacular use is said to be offensive in this dictionary but it may also be used as a term of jocular familiarity http ://encarta.msn.com/dictionary 
+56	"56 The vernacular use"	"is said"	"to be offensive encarta.msn.com/dictionary in this dictionary"	
+56	"56 The vernacular use"	"is said"	"to be offensive encarta.msn.com/dictionary"	
+56	"it"	"may be used"	"as a term of jocular familiarity http also"	
+56	"it"	"may be used"	"as a term of jocular familiarity http"	
+57	_/chook .html 
+58	http ://www.webcitation 
+59	.org/5kwQrJia9 
+60	2009-10-31 yes Babies are called chicks , and the meat is called chicken . 
+60	"Babies"	"are called"	"60 2009-10-31"	
+60	"Babies"	"are called"	"60 the meat is called chicken"	
+60	"the meat"	"is called"	"chicken"	
+61	" Chicken " originally referred to chicks , not the species itself . 
+61	"61 Chicken"	"referred"	"to chicks originally"	
+61	"61 Chicken"	"referred"	"to chicks"	
+61	"chicks"	"is"	"not the species itself"	
+62	The species as a whole was then called domestic fowl , or just fowl . 
+62	"62 The species as a whole"	"was called"	"domestic fowl"	
+62	"62 The species as a whole"	"was called"	"domestic just fowl"	
+63	This use of " chicken " survives in the phrase " Hen and Chickens " , sometimes used as a British public house or theatre name , and to name groups of one large and many small rocks or islands in the sea ( see for example Hen and Chicken Islands ) . 
+63	"63 This use of chicken"	"survives"	"in the phrase Hen"	
+63	"63 This use of chicken"	"survives"	"in the phrase Chickens"	
+63	"63 This use of chicken"	"survives"	"in the phrase Hen"	
+63	"63 This use of chicken"	"survives"	"in the phrase Chickens"	
+63	"63 This use of chicken"	"survives"	"in the phrase Hen"	
+63	"63 This use of chicken"	"survives"	"in the phrase Chickens"	
+63	"63 This use of chicken"	"survives"	"in the phrase Hen"	
+63	"63 This use of chicken"	"survives"	"in the phrase Chickens"	
+63	"63 This use of chicken"	"survives"	"in the phrase Hen"	
+63	"63 This use of chicken"	"survives"	"in the phrase Chickens"	
+63	"63 This use of chicken"	"survives"	"in the phrase Hen"	
+63	"63 This use of chicken"	"survives"	"in the phrase Chickens"	
+64	In the Deep South of the United States chickens are also referred to by the slang term yardbird . 
+64	"64 In the Deep South of the United States chickens"	"are referred"	"to by the slang term yardbird also"	
+64	"64 In the Deep South of the United States chickens"	"are referred"	"to by the slang term yardbird"	
+65	Berhardt Clyde E. 
+66	B. 
+67	I Remember : Eighty Years of Black Entertainment , Big Bands 1986 University of Pennsylvania Press Philadelphia 9780812280180 12805260 153 Berhardt Clyde E. 
+67	"I"	"Remember"	"67 Eighty Years of Black Entertainment"	
+67	"Black Entertainment"	"is"	"Big Bands 1986 University of Pennsylvania Press Philadelphia 9780812280180 12805260 153 Berhardt Clyde E."	
+68	B. 
+69	I Remember : Eighty Years of Black Entertainment , Big Bands 1986 University of Pennsylvania Press Philadelphia 9780812280180 12805260 153 Chickens are omnivore . 
+69	"I"	"Remember"	"69"	
+69	"Black Entertainment"	"is"	"Big Bands 1986 University of Pennsylvania Press Philadelphia 9780812280180 12805260 153 Chickens"	
+69	"Eighty Years of Black Entertainment"	"are"	"69 omnivore"	
+70	http ://www.ideas-4-pets 
+71	.com/pages-infopages/pages_id-24/index 
+71	"com/pages-infopages/pages"	"_"	"id-24 index"	
+72	.html 
+73	Info on Chicken Care 2008-08-13 ideas4pets 2003 http ://www.ideas-4-pets 
+74	.com/pages-infopages/pages_id-24/index 
+74	"com/pages-infopages/pages"	"_"	"id-24 index"	
+75	.html 
+76	Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild , they often scratch at the soil to search for seeds , insects and even larger animals such as lizard or young mice . 
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"to search for seeds often"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"to search for insects often"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"to search for even larger animals such as lizard mice often"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"to search for even larger animals such as young mice often"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"at the soil to search for seeds"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"at the soil to search for insects"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"at the soil to search for even larger animals such as lizard mice"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"at the soil to search for even larger animals such as young mice"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"to search for seeds"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"to search for insects"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"to search for even larger animals such as lizard mice"	
+76	"76 Info on Chicken Care 2008-08-13 ideas4pets 2003 In the wild"	"they scratch"	"to search for even larger animals such as young mice"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"to search for seeds often"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"to search for insects often"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"to search for even larger animals such as lizard mice often"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"to search for even larger animals such as young mice often"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"at the soil to search for seeds"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"at the soil to search for insects"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"at the soil to search for even larger animals such as lizard mice"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"at the soil to search for even larger animals such as young mice"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"to search for seeds"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"to search for insects"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"to search for even larger animals such as lizard mice"	
+76	"they"	"76 Info on Chicken Care In the wild scratch"	"to search for even larger animals such as young mice"	
+77	http ://gworrell .freeyellow.com/chickenfaq 
+78	.html 
+79	Frequently asked questions about chickens &amp; eggs 2008-08-13 Ferry Landing Farm &amp; Apiary Gerard P.Worrell 
+79	"79"	"asked"	"questions about chickens & eggs 2008-08-13 Ferry Landing Farm & Apiary Gerard P.Worrell Frequently"	
+79	"79"	"asked"	"questions about chickens & eggs 2008-08-13 Ferry Landing Farm & Apiary Gerard P.Worrell"	
+80	AKA " Farmer Jerry " http ://gworrell .freeyellow.com/chickenfaq 
+81	.html 
+82	Frequently asked questions about chickens &amp; eggs 2008-08-13 Ferry Landing Farm &amp; Apiary Gerard P.Worrell 
+82	"82"	"asked"	"questions about chickens & eggs 2008-08-13 Ferry Landing Farm & Apiary Gerard P.Worrell Frequently"	
+82	"82"	"asked"	"questions about chickens & eggs 2008-08-13 Ferry Landing Farm & Apiary Gerard P.Worrell"	
+83	AKA " Farmer Jerry " thumbuprightThe adultroostercan be distinguished from the hen by his largerComb ( anatomy)comb Chickens may live for five to ten years , depending on the breed . 
+83	"83 AKA Farmer Jerry thumbuprightThe adultroostercan"	"be distinguished"	"from the hen comb Chickens may live for five to ten years depending on the breed"	
+83	"83 AKA Farmer Jerry thumbuprightThe adultroostercan"	"be distinguished"	"by his largerComb comb Chickens may live for five to ten years depending on the breed"	
+83	"83 AKA Farmer Jerry thumbuprightThe adultroostercan"	"be distinguished"	"comb Chickens may live for five to ten years depending on the breed"	
+83	"his largerComb"	"is"	"anatomy"	
+83	"his"	"has"	"largerComb"	
+83	"comb Chickens"	"may live"	"for five to ten years depending on the breed"	
+83	"comb Chickens"	"may live"	"for five to ten years"	
+84	http ://www.ruleworks 
+85	.co.uk/cgi-bin/TUfaq.exe?Guide=Poultry&Category=Poultry 
+85	"Poultry & Category"	"="	
+86	%20-%20General#q9 The Poultry Guide - A to Z and FAQs Ruleworks .co.uk 
+87	2010-08-29 http ://www.ruleworks 
+88	.co.uk/cgi-bin/TUfaq.exe?Guide=Poultry&Category=Poultry 
+88	"Poultry & Category"	"="	
+89	%20-%20General#q9 The Poultry Guide - A to Z and FAQs Ruleworks .co.uk 
+90	2010-08-29 The world 's oldest chicken , a hen , died of heart failure at the age of 16 according to the Guinness Book of World Records . 
+90	"The world"	"has"	"90 2010-08-29 oldest chicken"	
+90	"90 2010-08-29 The world 's oldest chicken"	"is"	"a hen"	
+90	"90 2010-08-29 The world 's oldest chicken"	"died"	"of heart failure"	
+90	"90 2010-08-29 The world 's oldest chicken"	"died"	"at the age of 16"	
+90	"90 2010-08-29 The world 's oldest chicken"	"died"	"according to the Guinness Book of World Records"	
+90	"90 2010-08-29 The world 's oldest chicken"	"died"	
+91	Smith , Jamon . 
+91	"91 Smith"	"is"	"Jamon"	
+92	, Tuscaloosa News ( Alabama , USA ) . 
+92	"Alabama"	"is in"	"USA"	
+93	6 August 2006 . 
+94	Retrieved on 26 February 2008 . 
+94	"94"	"be Retrieved"	"on 26 February 2008"	
+95	Roosters can usually be differentiated from hens by their striking plumage of long flowing tails and shiny , pointed feathers on their necks ( hackles ) and backs ( saddle ) which are typically of brighter , bolder colors than those of females of the same species . 
+95	"95 Roosters"	"can be differentiated"	"from hens usually"	
+95	"95 Roosters"	"can be differentiated"	"from hens by their striking plumage of long flowing tails"	
+95	"95 Roosters"	"can be differentiated"	"from hens by their striking plumage of long flowing shiny pointed feathers"	
+95	"95 Roosters"	"can be differentiated"	"from hens on their necks"	
+95	"95 Roosters"	"can be differentiated"	"from hens on their backs"	
+95	"95 Roosters"	"can be differentiated"	"from hens"	
+95	"their"	"has"	"striking plumage of long flowing tails"	
+95	"their"	"has"	"striking plumage of long flowing shiny pointed feathers"	
+95	"their"	"has"	"necks"	
+95	"their necks"	"is"	"hackles"	
+95	"their backs"	"is"	"hackles"	
+95	"backs"	"is"	"saddle"	
+96	However , in some breeds , such as the Sebright , the rooster has only slightly pointed neck feathers , the same color as the hen 's . 
+96	"the Sebright"	"is"	"the rooster"	
+96	"96 However in some breeds such as the Sebright"	"only slightly pointed neck feathers"	
+96	"96 However in some breeds such as the Sebright has only slightly pointed neck feathers"	"is"	"the same color as the hen 's"	
+97	The identification must be made by looking at the comb , or eventually from the development of spurs on the male 's legs ( in a few breeds and in certain hybrids the male and female chicks may be differentiated by color ) . 
+97	"97 The identification"	"must be made"	"by looking at the comb"	
+97	"97 The identification"	"must be made"	"by at the comb eventually from the development of spurs on the male 's legs in a few breeds the male chicks"	
+97	"97 The identification"	"must be made"	"by at the comb eventually from the development of spurs on the male 's legs a few breeds in certain hybrids the male chicks"	
+97	"97 The identification"	"must be made"	"by at the comb eventually from the development of spurs on the male 's legs a few breeds in certain hybrids the female chicks"	
+97	"97 The identification"	"must be made"	"by at the comb eventually from the development of spurs on the male 's legs in a few breeds the female chicks"	
+97	"the male"	"has"	"legs in a few breeds the male chicks"	
+97	"the male"	"has"	"legs a few breeds in certain hybrids the male chicks"	
+97	"the male"	"has"	"legs a few breeds in certain hybrids the female chicks"	
+97	"the male"	"has"	"legs in a few breeds the female chicks"	
+98	Adult chickens have a fleshy crest on their heads called a comb or cockscomb , and hanging flaps of skin either side under their beaks called wattles . 
+98	"98 Adult chickens"	"have"	"a fleshy crest on their heads"	
+98	"98 Adult chickens"	"have"	"a fleshy crest on their heads"	
+98	"98 Adult chickens"	"have"	"a fleshy crest on their heads"	
+98	"98 Adult chickens"	"have"	"a fleshy crest"	
+98	"98 Adult chickens"	"have"	"a fleshy crest"	
+98	"98 Adult chickens"	"have"	"a fleshy crest"	
+98	"their"	"has"	"heads"	
+98	"their"	"has"	"beaks called wattles"	
+98	"their beaks"	"be called"	
+99	Both the adult male and female have wattles and combs , but in most breeds these are more prominent in males.A 
+99	"the adult male"	"have"	"wattles"	
+99	"the adult male"	"have"	"combs"	
+99	"the adult female"	"have"	"wattles"	
+99	"the adult female"	"have"	"combs"	
+99	"these"	"are prominent"	"in most breeds"	
+99	"these"	"are prominent"	"more"	
+99	"these"	"are prominent"	"in males.A"	
+99	"these"	"are"	"prominent"	
+100	muff or beard is a mutation found in several chicken breeds which causes extra feather under the chicken 's face , giving the appearance of a beard . 
+100	"100 muff"	"is a mutation"	"found in several chicken breeds"	
+100	"100 beard"	"is a mutation"	"found in several chicken breeds"	
+100	"100 muff"	"is a mutation"	"giving the appearance of a beard"	
+100	"100 beard"	"is a mutation"	"giving the appearance of a beard"	
+100	"100 muff"	"is"	"a mutation"	
+100	"100 beard"	"is"	"a mutation"	
+100	"a mutation found in several chicken breeds"	"be giving"	"the appearance of a beard"	
+100	"a mutation giving the appearance of a beard"	"be found"	"in several chicken breeds"	
+100	"several chicken breeds"	"causes"	"extra feather under the chicken 's face"	
+100	"several chicken breeds"	"causes"	"extra feather"	
+100	"the chicken"	"has"	"face"	
+101	thumbWildRed Junglefowl Domestic chickens are not capable of long distance flight , although lighter birds are generally capable of flying for short distances , such as over fences or into trees ( where they would naturally roost ) . 
+101	"101 thumbWildRed Junglefowl Domestic chickens"	"are not capable"	"of long distance flight"	
+101	"101 thumbWildRed Junglefowl Domestic chickens"	"are not capable"	"although lighter birds are generally capable of flying for short distances such as over fences"	
+101	"101 thumbWildRed Junglefowl Domestic chickens"	"are not capable"	"although lighter birds are generally capable of flying for short distances such as over into trees where they would naturally roost"	
+101	"101 thumbWildRed Junglefowl Domestic chickens"	"are not"	"capable"	
+101	"lighter birds"	"are capable"	"generally"	
+101	"lighter birds"	"are capable"	"of flying for short distances"	
+101	"lighter birds"	"are capable"	"such as over fences"	
+101	"lighter birds"	"are capable"	"such as over into trees where they would naturally roost"	
+101	"lighter birds"	"are"	"capable"	
+101	"they"	"would roost"	"where"	
+101	"they"	"would roost"	"naturally"	
+101	"they"	"would roost"	
+102	Chickens may occasionally fly briefly to explore their surroundings , but generally do so only to flee perceived danger . 
+102	"102 Chickens"	"may fly"	"to explore their surroundings occasionally"	
+102	"102 Chickens"	"may fly"	"briefly to explore their surroundings"	
+102	"102 Chickens"	"may fly"	"to explore their surroundings"	
+102	"102 Chickens"	"may do"	"to explore their surroundings to flee perceived danger only occasionally"	
+102	"102 Chickens"	"may do"	"to explore their surroundings to flee perceived danger occasionally"	
+102	"102 Chickens"	"may do"	"to explore their surroundings to flee perceived danger only briefly"	
+102	"102 Chickens"	"may do"	"to explore their surroundings to flee perceived danger briefly"	
+102	"102 Chickens"	"may do"	"to explore their surroundings to flee perceived danger only generally"	
+102	"102 Chickens"	"may do"	"to explore their surroundings to flee perceived danger generally"	
+102	"102 Chickens"	"may do"	"to explore their surroundings to flee perceived danger only"	
+102	"102 Chickens"	"may do"	"to explore their surroundings to flee perceived danger"	
+102	"their"	"has"	"surroundings"	
+103	Chickens are gregarious birds and live together in flock . 
+103	"103 Chickens"	"are"	"gregarious birds"	
+103	"103 Chickens"	"are gregarious live"	"together"	
+103	"103 Chickens"	"are gregarious live"	"in flock"	
+103	"103 Chickens"	"are"	"gregarious live"	
+104	They have a communal approach to the incubation of eggs and raising of young . 
+104	"They"	"have"	"a communal approach to the incubation of eggs 104"	
+104	"They"	"raising"	"a communal approach to the incubation of eggs of young 104"	
+104	"They"	"raising"	"a communal approach to the incubation of eggs 104"	
+105	Individual chickens in a flock will dominate others , establishing a " pecking order " , with dominant individuals having priority for food access and nesting locations . 
+105	"105 Individual chickens in a flock"	"will dominate"	"others establishing a pecking order"	
+105	"105 Individual chickens in a flock"	"will dominate"	"others with dominant individuals having priority for food access"	
+105	"105 Individual chickens in a flock"	"will dominate"	"others with dominant individuals having priority for food nesting locations"	
+105	"105 Individual chickens in a flock"	"will dominate"	"others"	
+105	"105 Individual chickens in a flock"	"be establishing"	"a pecking order"	
+105	"dominant individuals"	"be having"	"priority for food access"	
+105	"dominant individuals"	"be having"	"priority for food nesting locations"	
+106	Removing hens or roosters from a flock causes a temporary disruption to this social order until a new pecking order is established . 
+106	"106 Removing hens"	"causes"	"a temporary disruption to this social order until a new pecking order is established"	
+106	"106 Removing roosters from a flock"	"causes"	"a temporary disruption to this social order until a new pecking order is established"	
+106	"106 Removing hens"	"causes"	"a temporary disruption to this social order"	
+106	"106 Removing roosters from a flock"	"causes"	"a temporary disruption to this social order"	
+106	"a new pecking order"	"is established"	
+107	Adding hens—especially younger birds—to an existing flock can lead to violence and injury . 
+107	"107"	"be Adding"	"hens"	
+107	"especially younger birds to an existing flock"	"can lead"	"to violence"	
+107	"especially younger birds to an existing flock"	"can lead"	"to injury"	
+108	by Stonehead http ://stonehead .wordpress.com/2006/06/28/introducing-new-hens-to-a-flock 
+109	/ Introducing new hens to a flock « Musings from a Stonehead Stonehead .wordpress.com 
+110	2010-08-29 by Stonehead http ://stonehead .wordpress.com/2006/06/28/introducing-new-hens-to-a-flock 
+111	/ Introducing new hens to a flock « Musings from a Stonehead Stonehead .wordpress.com 
+112	2010-08-29 Hens will try to lay in nests that already contain eggs , and have been known to move eggs from neighboring nests into their own . 
+112	"112 2010-08-29 Hens"	"will try"	"to lay in nests"	
+112	"112 2010-08-29 Hens"	"will have been known"	"to lay in nests to move eggs from neighboring nests"	
+112	"112 2010-08-29 Hens"	"will have been known"	"to lay in nests to move eggs into their own"	
+112	"112 2010-08-29 Hens"	"will have been known"	"to lay in nests to move eggs"	
+112	"nests"	"contain"	"eggs already"	
+112	"nests"	"contain"	"eggs"	
+112	"their"	"has"	"own"	
+113	Some farmers use fake eggs made from plastic or stone ( or golf ball ) to encourage hens to lay in a particular location . 
+113	"113 Some farmers"	"use"	"fake eggs made from plastic to encourage hens to lay in a particular location"	
+113	"113 Some farmers"	"use"	"fake eggs made from stone to encourage hens to lay in a particular location"	
+113	"fake eggs"	"be made"	"from plastic to encourage hens to lay in a particular location"	
+113	"fake eggs"	"be made"	"from stone to encourage hens to lay in a particular location"	
+113	"plastic"	"be encourage"	"hens"	
+113	"stone"	"be encourage"	"hens"	
+113	"plastic to encourage hens"	"is"	"golf ball"	
+113	"stone to encourage hens"	"is"	"golf ball"	
+114	The result of this behavior is that a flock will use only a few preferred locations , rather than having a different nest for every bird . 
+114	"114 The result of this behavior"	"is"	"that a flock will use only a few preferred locations rather than having a different nest for every bird"	
+114	"a flock"	"will use"	"only a few preferred locations rather than having a different nest for every bird"	
+115	Hens can also be extremely stubborn about always laying in the same location . 
+115	"115 Hens"	"can be stubborn"	"also"	
+115	"115 Hens"	"can be stubborn"	"extremely"	
+115	"115 Hens"	"can be stubborn"	"about always laying in the same location"	
+115	"115 Hens"	"can be"	"stubborn"	
+116	It is not unknown for two ( or more ) hens to try to share the same nest at the same time . 
+116	"It"	"is not"	"unknown for two more hens to try to share the same nest at the same time 116"	
+116	"It"	"is not"	"unknown 116"	
+116	"two more hens"	"to try"	"to share the same nest at the same time"	
+116	"two more hens"	"to try"	"to share the same nest"	
+117	If the nest is small , or one of the hens is particularly determined , this may result in chickens trying to lay on top of each other . 
+117	"the nest"	"is"	"small"	
+117	"one of the hens"	"is determined"	"particularly"	
+117	"one of the hens"	"is determined"	
+117	"this"	"may result"	"117 If the nest is small in chickens trying to lay on top of each other"	
+117	"this"	"may result"	"117 If the nest is one of the hens is particularly determined in chickens trying to lay on top of each other"	
+117	"this"	"may result"	"117 If the nest is small"	
+117	"this"	"may result"	"117 If the nest is one of the hens is particularly determined"	
+117	"chickens"	"be trying"	"to lay on top of each other"	
+118	thumbrightSkull of a chicken three weeks old . 
+119	Here the opisthotic bone appears in the occipital region _ as in the adult Chelonian . 
+119	"119 Here the opisthotic bone"	"appears"	"in the occipital region _ as in the adult Chelonian"	
+120	bo = Basi-occipital_ bt = Basi-temporal_ eo = Opisthotic_ f = Frontal_ fm = Foramen magnum _ fo = Fontanella_ oc = Occipital condyle _ op = Opisthotic_ p = Parietal_ pf = Post-frontal_ sc = Sinus canal in supra-occipital_ so = Supra-occpital_ sq = Squamosal_ 8 = Exit of vagus nerve . 
+121	Roosters crowing ( a loud and sometimes shrill call ) is a territorial signal to other roosters . 
+121	"121 Roosters"	"be crowing"	
+121	"a loud"	"is a territorial signal"	"to other roosters"	
+121	"a sometimes shrill call"	"is a territorial signal"	"to other roosters"	
+121	"a loud"	"is"	"a territorial signal"	
+121	"a sometimes shrill call"	"is"	"a territorial signal"	
+122	However , crowing may also result from sudden disturbances within their surroundings . 
+122	"crowing"	"may result"	"from sudden disturbances within their surroundings 122 However"	
+122	"crowing"	"may result"	"from sudden disturbances within their surroundings also"	
+122	"crowing"	"may result"	"from sudden disturbances within their surroundings"	
+122	"their"	"has"	"surroundings"	
+123	Hens cluck loudly after laying an egg , and also to call their chicks . 
+123	"123 Hens"	"cluck"	"loudly after laying an egg"	
+123	"123 Hens"	"cluck"	"loudly"	
+123	"123 Hens"	"to call"	"their chicks loudly"	
+123	"123 Hens"	"to call"	"their chicks after laying an egg"	
+123	"123 Hens"	"to call"	"their chicks also"	
+123	"123 Hens"	"to call"	"their chicks"	
+123	"their"	"has"	"chicks"	
+124	Chickens also give a low "warning call " when they think they see a predator approaching . 
+124	"124 Chickens"	"give"	"a low warning call when they think they see a predator approaching also"	
+124	"124 Chickens"	"give"	"a low warning call when they think they see a predator approaching"	
+124	"they"	"think"	"they see a predator approaching when"	
+124	"they"	"think"	"they see a predator approaching"	
+124	"they"	"see"	"a predator approaching"	
+124	"a predator"	"approaching"	
+125	In 2006 , scientists researching the ancestry of birds "turned on " a chicken recessive gene , talpid2 , and found that the embryo jaws initiated formation of teeth , like those found in ancient bird fossils . 
+125	"scientists"	"be researching"	"the ancestry of birds"	
+125	"scientists researching the ancestry of birds"	"turned on"	"125 In 2006 a chicken recessive gene"	
+125	"scientists researching the ancestry of birds"	"on found"	"125 In 2006 a chicken recessive gene that the embryo jaws initiated formation of teeth like those found in ancient bird fossils"	
+125	"a chicken recessive gene"	"is"	"talpid2"	
+125	"the embryo jaws"	"initiated"	"formation of teeth like those found in ancient bird fossils"	
+125	"the embryo jaws"	"initiated"	"formation of teeth"	
+125	"those"	"be found"	"in ancient bird fossils"	
+126	John Fallon , the overseer of the project , stated that chickens have " ...retained 
+126	"126 John Fallon"	"is"	"the overseer of the project"	
+126	"126 John Fallon"	"stated"	"that chickens have"	
+126	"chickens"	"have"	
+127	the ability to make teeth , under certain conditions ... 
+127	"127 the ability under certain conditions"	"be make"	"teeth"	
+128	. 
+129	" Ammu Kannampilly , ABC News , 2006-02-27 . 
+129	"129 Ammu Kannampilly"	"is"	"ABC News"	
+129	"129 Ammu Kannampilly"	"is"	"2006-02-27"	
+130	Retrieved 2007-10-01 . 
+131	When a rooster finds food , he may call other chickens to eat first . 
+131	"a rooster"	"finds"	"food 131 When"	
+131	"a rooster"	"finds"	"food 131"	
+131	"he"	"may call"	"other chickens to eat first"	
+132	He does this by clucking in a high pitch as well as picking up and dropping the food . 
+132	"He"	"does"	"this by clucking in a high pitch 132"	
+132	"He"	"does"	"this by in a high pitch picking up 132"	
+132	"He"	"does"	"this by in a high pitch up dropping the food 132"	
+132	"He"	"does"	"this 132"	
+133	This behavior may also be observed in mother hens to call their chicks and encourage them to eat . 
+133	"133 This behavior"	"may be observed"	"in mother hens also"	
+133	"133 This behavior"	"may be observed"	"in mother hens also"	
+133	"133 This behavior"	"may be observed"	"in mother hens"	
+133	"133 This behavior"	"may be observed"	"in mother hens"	
+133	"their"	"has"	"chicks"	
+134	To initiate courting , some roosters may dance in a circle around or near a hen ( " a circle dance " ) , often lowering his wing which is closest to the hen . 
+134	"134"	"be initiate"	"courting"	
+134	"some roosters"	"may dance"	"134 To initiate courting in a circle around"	
+134	"some roosters"	"may dance"	"134 To initiate courting in a circle near a hen"	
+134	"some roosters"	"may dance"	"134 To initiate courting often lowering his wing"	
+134	"some roosters"	"may dance"	"134 To initiate courting"	
+134	"some roosters"	"be lowering"	"often his wing"	
+134	"his"	"has"	"wing"	
+134	"his wing"	"is closest"	"to the hen"	
+134	"his wing"	"is"	"closest"	
+135	Animals in Translation Grandin Temple Temple Grandin Johnson , Catherine 2005 Scribner New York , New York 0743247698 69-71 Animals in Translation Grandin Temple Temple Grandin Johnson , Catherine 2005 Scribner New York , New York 0743247698 69-71 The dance triggers a response in the hen 's brain , and when the hen responds to his " call" , the rooster may mount the hen and proceed with the fertilization . 
+135	"Translation Grandin Temple Temple Grandin Johnson"	"is"	"New York 0743247698 69-71 Animals in Translation Grandin Temple Temple Grandin Johnson"	
+135	"Translation Grandin Temple Temple Grandin Johnson"	"is"	"New York 0743247698 69-71 Animals in Translation Grandin Temple Temple Grandin Catherine 2005 Scribner New York"	
+135	"Translation Grandin Temple Temple Grandin Catherine 2005 Scribner New York"	"is"	"New York 0743247698 69-71 Animals in Translation Grandin Temple Temple Grandin Johnson"	
+135	"Translation Grandin Temple Temple Grandin Catherine 2005 Scribner New York"	"is"	"New York 0743247698 69-71 Animals in Translation Grandin Temple Temple Grandin Catherine 2005 Scribner New York"	
+135	"Translation Grandin Temple Temple Grandin Johnson"	"is"	"New York 0743247698 69-71 The dance"	
+135	"Translation Grandin Temple Temple Grandin Catherine 2005 Scribner New York"	"is"	"New York 0743247698 69-71 The dance"	
+135	"135 Animals in Translation Grandin Temple Temple Grandin Johnson"	"triggers"	"a response in the hen 's brain"	
+135	"135 Animals in Translation Grandin Temple Temple Grandin Catherine 2005 Scribner New York"	"triggers"	"a response in the hen 's brain"	
+135	"135 Animals in Translation Grandin Temple Temple Grandin Johnson"	"proceed"	"a response in the hen 's brain with the fertilization"	
+135	"135 Animals in Translation Grandin Temple Temple Grandin Catherine 2005 Scribner New York"	"proceed"	"a response in the hen 's brain with the fertilization"	
+135	"135 Animals in Translation Grandin Temple Temple Grandin Johnson"	"proceed"	"a response in the hen 's brain"	
+135	"135 Animals in Translation Grandin Temple Temple Grandin Catherine 2005 Scribner New York"	"proceed"	"a response in the hen 's brain"	
+135	"the hen"	"has"	"brain"	
+135	"the hen"	"responds"	"to his call when"	
+135	"the hen"	"responds"	"to his call"	
+135	"his"	"has"	"call"	
+135	"the rooster"	"may mount"	"the hen when the hen responds to his call"	
+135	"the rooster"	"may mount"	"the hen"	
+136	The domestic chicken is descended primarily from the Red Junglefowl ( Gallus gallus ) and is scientifically classified as the same species . 
+136	"136 The domestic chicken"	"is descended"	"primarily from the Red Junglefowl"	
+136	"136 The domestic chicken"	"is is classified"	"as the same species primarily from the Red Junglefowl"	
+136	"136 The domestic chicken"	"is is classified"	"as the same species scientifically"	
+136	"136 The domestic chicken"	"is is classified"	"as the same species"	
+136	"the Red Junglefowl"	"is"	"Gallus gallus"	
+137	. 
+138	International Chicken Polymorphism Map Consortium ( GK Wong et . 
+139	al . 
+140	) 2004 . 
+141	Nature 432 , 717-722| doi:10.1038/nature03156 
+142	As such it can and does freely interbreed with populations of red jungle fowl . 
+142	"it"	"can"	
+142	"it"	"does interbreed"	"with populations of red jungle fowl freely"	
+142	"it"	"does interbreed"	"with populations of red jungle fowl"	
+143	Recent genetic analysis has revealed that at least the gene for yellow skin was incorporated into domestic birds through hybridization with the Grey Junglefowl ( G. 
+143	"143 Recent genetic analysis"	"has revealed"	"that at least the gene for yellow skin was incorporated into domestic birds through hybridization with the Grey Junglefowl G."	
+143	"at least the gene for yellow skin"	"was incorporated"	"into domestic birds through hybridization with the Grey Junglefowl G."	
+143	"at least the gene for yellow skin"	"was incorporated"	"into domestic birds"	
+144	sonneratii ) . 
+145	Eriksson J , Larson G , Gunnarsson U, Bed 'hom B , Tixier-Boichard M , et al . 
+145	"145 Eriksson J"	"is"	"et al"	
+145	"145 Eriksson Larson G"	"is"	"et al"	
+145	"145 Eriksson Gunnarsson U"	"is"	"et al"	
+145	"145 Eriksson Bed hom B"	"is"	"et al"	
+145	"145 Eriksson Tixier-Boichard M"	"is"	"et al"	
+146	( 2008 ) Identification of the Yellow Skin Gene Reveals a Hybrid Origin of the Domestic Chicken . 
+146	"146"	"is"	"2008"	
+146	"146 Identification of the Yellow Skin Gene"	"Reveals"	"a Hybrid Origin of the Domestic Chicken"	
+147	PLoS Genet January 23 , 2008 The traditional poultry farming view is stated in Encyclopædia Britannica ( 2007 ) : " Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Asia , Africa , and Europe . 
+147	"2008 The traditional poultry farming view"	"is stated"	"in Encyclopædia Britannica 147 PLoS Genet January 23 Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Asia"	
+147	"2008 The traditional poultry farming view"	"is stated"	"in Encyclopædia Britannica 147 PLoS Genet January 23 Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Africa"	
+147	"2008 The traditional poultry farming view"	"is stated"	"in Encyclopædia Britannica 147 PLoS Genet January 23 Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Europe"	
+147	"2008 The traditional poultry farming view"	"is stated"	"147 PLoS Genet January 23 Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Asia"	
+147	"2008 The traditional poultry farming view"	"is stated"	"147 PLoS Genet January 23 Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Africa"	
+147	"2008 The traditional poultry farming view"	"is stated"	"147 PLoS Genet January 23 Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Europe"	
+147	"Encyclopædia Britannica"	"is"	"2007"	
+148	Very little formal attention was given to egg or meat production ... 
+148	"148 Very little formal attention"	"was given"	"to egg production"	
+148	"148 Very little formal attention"	"was given"	"to meat production"	
+149	" In the last decade there have been a number of genetic studies . 
+150	According to one study , a single domestication event occurring in the region of modern Thailand created the modern chicken with minor transitions separating the modern breeds . 
+150	"a single domestication event"	"be occurring"	"in the region of modern Thailand"	
+150	"a single domestication event occurring in the region of modern Thailand"	"created"	"the modern chicken with minor transitions separating the modern breeds 150 According to one study"	
+150	"a single domestication event occurring in the region of modern Thailand"	"created"	"the modern chicken 150 According to one study"	
+150	"minor transitions"	"separating"	"the modern breeds"	
+151	One subspecies of the red junglefowl ( Gallus gallus gallus ) suffices as the matriarchic ancestor of all domestic breeds A Fumihito T Miyake S Sumi M Takada S Ohno N Kondo PNAS December 20 , 1994 91 26 12505–12509 One subspecies of the red junglefowl ( Gallus gallus gallus ) suffices as the matriarchic ancestor of all domestic breeds A Fumihito T Miyake S Sumi M Takada S Ohno N Kondo PNAS December 20 , 1994 91 26 12505–12509 However , that study was later found to be based on incomplete data , and recent studies point to multiple maternal origins , with the clade found in the Americas , Europe , Middle East , and Africa , originating from the Indian subcontinent , where a large number of unique haplotype occur . 
+151	"the red junglefowl"	"is"	"Gallus gallus gallus"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"as the matriarchic ancestor of all domestic breeds that study was later found to be based on incomplete data"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"as the matriarchic ancestor of all domestic breeds that study was later to be based on incomplete data recent studies point to multiple maternal origins with the clade found in the Americas originating from the Indian subcontinent"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"as the matriarchic ancestor of all domestic breeds that study was later to be based on incomplete data recent studies point to multiple maternal origins with the clade found in the Europe originating from the Indian subcontinent"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"as the matriarchic ancestor of all domestic breeds that study was later to be based on incomplete data recent studies point to multiple maternal origins with the clade found in the Middle East originating from the Indian subcontinent"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"as the matriarchic ancestor of all domestic breeds that study was later to be based on incomplete data recent studies point to multiple maternal origins with the clade found in the Africa originating from the Indian subcontinent"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"that study was later found to be based on incomplete data"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"that study was later to be based on incomplete data recent studies point to multiple maternal origins with the clade found in the Americas originating from the Indian subcontinent"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"that study was later to be based on incomplete data recent studies point to multiple maternal origins with the clade found in the Europe originating from the Indian subcontinent"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"that study was later to be based on incomplete data recent studies point to multiple maternal origins with the clade found in the Middle East originating from the Indian subcontinent"	
+151	"151 One subspecies of the red junglefowl"	"suffices"	"that study was later to be based on incomplete data recent studies point to multiple maternal origins with the clade found in the Africa originating from the Indian subcontinent"	
+151	"the red junglefowl"	"is"	"Gallus gallus gallus"	
+151	"A Fumihito T Miyake S Sumi M Takada S Ohno N Kondo PNAS December 20 1994 91 26 12505 12509 One subspecies of the red junglefowl"	"suffices"	"as the matriarchic ancestor of all domestic breeds A Fumihito T Miyake S Sumi M Takada S Ohno N Kondo PNAS December 20 1994 91 26 12505 12509 However all domestic breeds"	
+151	"A Fumihito T Miyake S Sumi M Takada S Ohno N Kondo PNAS December 20 1994 91 26 12505 12509 One subspecies of the red junglefowl"	"suffices"	"all domestic breeds"	
+151	"study"	"was found"	"to be based on incomplete data later"	
+151	"study"	"was found"	"to be based on incomplete data"	
+151	"recent studies"	"point"	"to multiple maternal origins originating from the Indian subcontinent"	
+151	"recent studies"	"point"	"with the clade found in the Americas originating from the Indian subcontinent"	
+151	"recent studies"	"point"	"with the clade found in the Europe originating from the Indian subcontinent"	
+151	"recent studies"	"point"	"with the clade found in the Middle East originating from the Indian subcontinent"	
+151	"recent studies"	"point"	"with the clade found in the Africa originating from the Indian subcontinent"	
+151	"recent studies"	"point"	"originating from the Indian subcontinent"	
+151	"the clade"	"be found"	"in the Americas"	
+151	"the clade"	"be found"	"in the Europe"	
+151	"the clade"	"be found"	"in the Middle East"	
+151	"the clade"	"be found"	"in the Africa"	
+151	"a large number of unique haplotype"	"occur"	"the Indian subcontinent where"	
+151	"a large number of unique haplotype"	"occur"	"the Indian subcontinent"	
+152	Yi-Ping Liu Gui-Sheng Wu Yong-Gang Yao Yong-Wang Miao Gordon Luikart Mumtaz Baig Albano Beja-Pereira Zhao-Li Ding Malliya Gounder Palanichamy Ya-Ping Zhang Multiple maternal origins of chickens : Out of the Asian jungles Molecular Phylogenetics and Evolution 38 1 2006 12–19 Yi-Ping Liu Gui-Sheng Wu Yong-Gang Yao Yong-Wang Miao Gordon Luikart Mumtaz Baig Albano Beja-Pereira Zhao-Li Ding Malliya Gounder Palanichamy Ya-Ping Zhang Multiple maternal origins of chickens : Out of the Asian jungles Molecular Phylogenetics and Evolution 38 1 2006 12–19 Zeder et al ( 2006 ) Trends in Genetics , vol 22 , number 3 , pp . 
+152	"al"	"is"	"2006"	
+152	"19 Zeder et al Trends in Genetics"	"is"	"vol 22"	
+152	"19 Zeder et al Trends in Genetics"	"is"	"22 number 3"	
+152	"vol 22"	"is"	"pp"	
+152	"22 number 3"	"is"	"pp"	
+153	139-155 . 
+154	It has been claimed ( based on paleoclimatic assumptions ) that chickens were domesticated in Southern China in 6000 BC . 
+154	"It"	"has been claimed"	"based on paleoclimatic assumptions 154"	
+154	"chickens"	"were domesticated"	"paleoclimatic assumptions in Southern China"	
+154	"chickens"	"were domesticated"	"paleoclimatic assumptions in 6000 BC"	
+154	"chickens"	"were domesticated"	"paleoclimatic assumptions"	
+155	West , B. 
+155	"155 West"	"is"	"B."	
+156	, Zhou , B.X. 
+157	, 1988 . 
+157	"157"	"is"	"1988"	
+158	" Did chickens go north ? New evidence for domestication . 
+159	" J. 
+160	Archaeol . 
+161	Sci . 
+162	14 , 515–533 . 
+162	"162 14 533"	"is"	"515"	
+163	However , according to a recent study , Al-Nasser , A. 
+163	"according to a recent study Al-Nasser"	"is"	"A."	
+164	et al ( June 2007 ) , World 's Poultry Science Journal 63 : 285-300 . 
+164	"164 et al June 2007"	"is"	"World 's Poultry Science Journal 63 285-300"	
+164	"World"	"has"	"Poultry Science Journal 63 285-300"	
+165	) "it is not known whether these birds made much contribution to the modern domestic fowl . 
+165	"it"	"is not known"	"whether these birds made much contribution to the modern domestic fowl"	
+165	"these birds"	"made"	"much contribution to the modern domestic fowl"	
+166	Chickens from the Harappan culture of the Indus Valley ( 2500-2100 BC ) , in what today is Pakistan , may have been the main source of diffusion throughout the world . 
+166	"the Indus Valley"	"is"	"2500-2100 BC"	
+166	"today"	"is"	"Pakistan what"	
+166	"166 Chickens from the Harappan culture of the Indus Valley"	"may have been the main source"	"in what today is Pakistan"	
+166	"166 Chickens from the Harappan culture of the Indus Valley"	"may have been the main source"	"of diffusion"	
+166	"166 Chickens from the Harappan culture of the Indus Valley"	"may have been the main source"	"throughout the world"	
+166	"166 Chickens from the Harappan culture of the Indus Valley"	"may have been"	"the main source"	
+167	" A northern road spread chicken to the Tarim basin of central Asia . 
+168	The chicken reached Europe ( Romania , Turkey , Greece , Ukraine ) about 3000 BC . 
+168	"168 The chicken"	"reached"	"Europe about 3000 BC"	
+168	"168 The chicken"	"reached"	"Europe about 3000 BC"	
+168	"168 The chicken"	"reached"	"Europe about 3000 BC"	
+168	"Romania"	"is in"	"Ukraine"	
+168	"Turkey"	"is in"	"Ukraine"	
+168	"Greece"	"is in"	"Ukraine"	
+169	CHOF : The Cambridge History of Food , 2000 , Cambridge University Press , vol .1 
+169	"Food"	"is"	"vol .1"	
+169	"2000"	"is"	"vol .1"	
+169	"Cambridge University Press"	"is"	"vol .1"	
+170	, pp496-499 Introduction into Western Europe came far later , about the 1st millennium BC . 
+170	"170 pp496-499 Introduction into Western Europe"	"came"	"far later about the 1st millennium BC"	
+170	"170 pp496-499 Introduction into Western Europe"	"came"	"far later"	
+171	Phoenicians spread chickens along the Mediterranean coasts , to Iberia . 
+171	"171 Phoenicians"	"spread"	"chickens along the Mediterranean coasts"	
+171	"171 Phoenicians"	"spread"	"chickens to Iberia"	
+171	"171 Phoenicians"	"spread"	"chickens"	
+172	Breeding increased under the Roman Empire , and was reduced in the Middle Ages . 
+172	"172"	"be Breeding"	
+172	"was reduced in the Middle Ages"	"be Breeding"	
+173	Middle East traces of chicken go back to a little earlier than 2000 BC , in Syria ; chicken went southward only in the 1st millennium BC . 
+173	"173 Middle East traces of chicken"	"go"	"back to a little earlier than 2000 BC in Syria"	
+173	"173 Middle East traces of chicken"	"go"	"back"	
+173	"chicken"	"went"	"southward only in the 1st millennium BC"	
+174	The chicken reached Egypt for purposes of cock fighting about 1400 BC , and became widely bred only in Ptolemaic Egypt ( about 300 BC ) . 
+174	"174 The chicken"	"reached"	"Egypt for purposes of cock fighting about 1400 BC"	
+174	"174 The chicken"	"reached"	"Egypt"	
+174	"174 The chicken"	"became"	"Egypt bred only in Ptolemaic Egypt widely for purposes of cock fighting about 1400 BC"	
+174	"174 The chicken"	"became"	"Egypt bred only in Ptolemaic Egypt for purposes of cock fighting about 1400 BC"	
+174	"174 The chicken"	"became"	"Egypt bred only in Ptolemaic Egypt widely"	
+174	"174 The chicken"	"became"	"Egypt bred only in Ptolemaic Egypt"	
+174	"cock"	"be fighting"	"about 1400 BC"	
+175	Little is known about the chicken 's introduction into Africa . 
+175	"175 Little"	"is known"	"about the chicken 's introduction into Africa"	
+175	"the chicken"	"has"	"introduction into Africa"	
+176	Three possible ways of introduction in about the early first millennium AD could have been through the Egyptian Nile Valley , the East Africa Roman -Greek or Indian trade , or from Carthage and the Berbers , across the Sahara . 
+176	"176 Three possible ways of introduction in about the early first millennium AD"	"could have been"	"through the Egyptian Nile Valley"	
+176	"176 Three possible ways of introduction in about the early first millennium AD"	"could have been"	"through the Egyptian Nile Valley"	
+176	"176 Three possible ways of introduction in about the early first millennium AD"	"could have been"	"through the Egyptian Nile Valley"	
+176	"176 Three possible ways of introduction in about the early first millennium AD"	"could have been"	"through the Egyptian Nile Valley"	
+176	"176 Three possible ways of introduction in about the early first millennium AD"	"could have been"	"through the Egyptian Nile Valley"	
+177	The earliest known remains are from Mali , Nubia , East Coast , and South Africa and date back to the middle of the first millennium AD. 
+177	"177 The earliest known remains"	"are"	"from Mali back to the middle of the first millennium AD"	
+177	"177 The earliest known remains"	"are"	"from Nubia and date back to the middle of the first millennium AD"	
+177	"177 The earliest known remains"	"are"	"from East Coast and date back to the middle of the first millennium AD"	
+177	"177 The earliest known remains"	"are"	"from South Africa and date back to the middle of the first millennium AD"	
+177	"177 The earliest known remains"	"are"	"Mali date back to the middle of the first millennium AD"	
+178	Domestic chicken in the Americas before Western conquest is still an ongoing discussion , but blue-egged chicken , found only in the Americas and Asia , suggest an Asian origin for early American chickens . 
+178	"178 Domestic chicken in the Americas before Western conquest"	"is an ongoing discussion"	"still"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is an ongoing blue-egged chicken"	"still"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is an ongoing discussion"	"suggest an Asian origin for early American chickens"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is an ongoing blue-egged chicken"	"suggest an Asian origin for early American chickens"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is"	"an ongoing discussion"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is"	"an ongoing blue-egged chicken"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is an ongoing found"	"still"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is an ongoing found"	"only in the Americas"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is an ongoing found"	"only in the Asia"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is an ongoing found"	"suggest an Asian origin for early American chickens"	
+178	"178 Domestic chicken in the Americas before Western conquest"	"is"	"an ongoing found"	
+178	"still an ongoing discussion"	"be suggest"	"an Asian origin for early American chickens"	
+178	"still an ongoing blue-egged chicken"	"be suggest"	"an Asian origin for early American chickens"	
+178	"still an ongoing found only in the Americas"	"be suggest"	"an Asian origin for early American chickens"	
+178	"still an ongoing found only in the Asia"	"be suggest"	"an Asian origin for early American chickens"	
+179	A lack of data from Thailand , Russia , the Indian subcontinent , Southeast Asia and Sub-Saharan Africa makes it difficult to lay out a clear map of the spread of chickens in these areas ; better description and genetic analysis of local breeds threatened by extinction may also help with research into this area . 
+179	"179 A lack of data from Thailand"	"makes"	"it to lay out a clear map of the spread of chickens in these areas"	
+179	"179 A lack of data from Russia"	"makes"	"it to lay out a clear map of the spread of chickens in these areas"	
+179	"179 A lack of data from the Indian subcontinent"	"makes"	"it to lay out a clear map of the spread of chickens in these areas"	
+179	"179 A lack of data from Southeast Asia"	"makes"	"it to lay out a clear map of the spread of chickens in these areas"	
+179	"179 A lack of data from Sub-Saharan Africa"	"makes"	"it to lay out a clear map of the spread of chickens in these areas"	
+179	"it"	"to lay out"	"a clear map of the spread of chickens in these areas"	
+179	"local breeds"	"be threatened"	"by extinction"	
+179	"better description of local breeds threatened by extinction"	"may help"	"with research into this area also"	
+179	"better genetic analysis of local breeds threatened by extinction"	"may help"	"with research into this area also"	
+179	"better description of local breeds threatened by extinction"	"may help"	"with research into this area"	
+179	"better genetic analysis of local breeds threatened by extinction"	"may help"	"with research into this area"	
+180	thumbrightChickenegg ( biology )eggsvary in color depending on the hen_ typically ranging from bright white to shades of brown and even blue_ green _ and recently reported purple ( found in South Asia ) ( Araucanavarieties ) . 
+180	"180 thumbrightChickenegg eggsvary in color"	"is"	"biology"	
+180	"180 thumbrightChickenegg eggsvary in color"	"depending"	"on the hen _ typically ranging from bright white to shades of brown _ green _"	
+180	"180 thumbrightChickenegg eggsvary in color"	"depending"	"on the hen _ typically ranging from bright white to shades of even blue _ green _"	
+180	"180 thumbrightChickenegg eggsvary in color"	"reported"	"purple found in South Asia Araucanavarieties on the hen _ typically ranging from bright white to shades of brown _ green _"	
+180	"180 thumbrightChickenegg eggsvary in color"	"reported"	"purple found in South Asia Araucanavarieties on the hen _ typically ranging from bright white to shades of even blue _ green _"	
+180	"180 thumbrightChickenegg eggsvary in color"	"reported"	"purple found in South Asia Araucanavarieties recently"	
+180	"180 thumbrightChickenegg eggsvary in color"	"reported"	"purple found in South Asia Araucanavarieties"	
+180	"the hen _"	"be ranging"	"typically from bright white to shades of brown _ green _"	
+180	"the hen _"	"be ranging"	"typically from bright white to shades of even blue _ green _"	
+180	"the hen _"	"be ranging"	"typically"	
+181	thumbrightEarliest gestation stages and blood circulation of a chicken embryo Under natural conditions , most birds lay only until a clutch is complete , and they will then incubate all the eggs . 
+181	"most birds"	"lay"	"only until a clutch is complete 181 thumbrightEarliest gestation stages of a chicken embryo Under natural conditions"	
+181	"most birds"	"lay"	"only until a clutch is complete 181 thumbrightEarliest gestation blood circulation of a chicken embryo Under natural conditions"	
+181	"most birds"	"lay"	"only until a clutch is complete 181 thumbrightEarliest gestation of a chicken embryo Under natural conditions they will then incubate all the eggs"	
+181	"most birds"	"lay"	"only 181 thumbrightEarliest gestation stages of a chicken embryo Under natural conditions"	
+181	"most birds"	"lay"	"only 181 thumbrightEarliest gestation blood circulation of a chicken embryo Under natural conditions"	
+181	"most birds"	"lay"	"only 181 thumbrightEarliest gestation of a chicken embryo Under natural conditions they will then incubate all the eggs"	
+181	"a clutch"	"is"	"complete"	
+181	"they"	"will incubate"	"all the eggs"	
+182	Many domestic hens will also do this–and are then said to "go broody " . 
+182	"182 Many domestic hens"	"will do"	"this also"	
+182	"182 Many domestic hens"	"will do"	"this"	
+182	"182 Many domestic hens"	"will are said"	"this to go broody also"	
+182	"182 Many domestic hens"	"will are said"	"this to go broody"	
+183	The broody hen will stop laying and instead will focus on the incubation of the eggs ( a full clutch is usually about 12 eggs ) . 
+183	"183 The broody hen"	"will stop"	"laying instead"	
+183	"183 The broody hen will stop laying instead"	"will focus"	"on the incubation of the eggs"	
+183	"a full clutch"	"is"	"usually about 12 eggs the eggs"	
+184	She will " sit " or " set " on the nest , protesting or pecking in defense if disturbed or removed , and she will rarely leave the nest to eat , drink , or dust-bathe . 
+184	"184 She"	"will sit"	"protesting in defense if disturbed"	
+184	"184 She"	"will sit"	"protesting in defense if removed"	
+184	"184 She"	"will sit"	"protesting in defense if she will rarely leave the nest to eat"	
+184	"184 She"	"will sit"	"protesting in defense if she will rarely leave the nest to drink"	
+184	"184 She"	"will sit"	"protesting in defense if she will rarely leave the nest to dust-bathe"	
+184	"184 She"	"will sit"	"protesting in defense"	
+184	"184 She"	"will sit"	"pecking in defense if disturbed"	
+184	"184 She"	"will sit"	"pecking in defense if removed"	
+184	"184 She"	"will sit"	"pecking in defense if she will rarely leave the nest to eat"	
+184	"184 She"	"will sit"	"pecking in defense if she will rarely leave the nest to drink"	
+184	"184 She"	"will sit"	"pecking in defense if she will rarely leave the nest to dust-bathe"	
+184	"184 She"	"will sit"	"pecking in defense"	
+184	"184 She"	"will set"	"on the nest protesting in defense if disturbed"	
+184	"184 She"	"will set"	"on the nest protesting in defense if removed"	
+184	"184 She"	"will set"	"on the nest protesting in defense if she will rarely leave the nest to eat"	
+184	"184 She"	"will set"	"on the nest protesting in defense if she will rarely leave the nest to drink"	
+184	"184 She"	"will set"	"on the nest protesting in defense if she will rarely leave the nest to dust-bathe"	
+184	"184 She"	"will set"	"on the nest protesting in defense"	
+184	"184 She"	"will set"	"on the nest pecking in defense if disturbed"	
+184	"184 She"	"will set"	"on the nest pecking in defense if removed"	
+184	"184 She"	"will set"	"on the nest pecking in defense if she will rarely leave the nest to eat"	
+184	"184 She"	"will set"	"on the nest pecking in defense if she will rarely leave the nest to drink"	
+184	"184 She"	"will set"	"on the nest pecking in defense if she will rarely leave the nest to dust-bathe"	
+184	"184 She"	"will set"	"on the nest pecking in defense"	
+184	"she"	"will leave"	"the nest to eat rarely"	
+184	"she"	"will leave"	"the nest to drink rarely"	
+184	"she"	"will leave"	"the nest to dust-bathe rarely"	
+185	While brooding , the hen maintains the nest at a constant temperature and humidity , as well as turning the eggs regularly during the first part of the incubation . 
+185	"the hen"	"maintains"	"the nest While brooding"	
+185	"the hen"	"maintains"	"the nest at a constant temperature"	
+185	"the hen"	"maintains"	"the nest at a constant humidity"	
+185	"the hen"	"maintains"	"the nest"	
+185	"the hen"	"turning"	"the nest the eggs While brooding"	
+185	"the hen"	"turning"	"the nest the eggs at a constant temperature"	
+185	"the hen"	"turning"	"the nest the eggs at a constant humidity"	
+185	"the hen"	"turning"	"the nest the eggs regularly"	
+185	"the hen"	"turning"	"the nest the eggs during the first part of the incubation"	
+185	"the hen"	"turning"	"the nest the eggs"	
+186	To stimulate broodiness , an owner may place many artificial eggs in the nest , or to stop it they may place the hen in an elevated cage with an open wire floor . 
+186	"186"	"be stimulate"	"broodiness"	
+186	"an owner"	"may place"	"many artificial eggs in the nest 186 To stimulate broodiness"	
+186	"an owner"	"may place"	"many artificial eggs 186 To stimulate broodiness"	
+186	"an owner"	"may to stop"	"many artificial eggs it they may place the hen in an elevated cage with an open wire floor 186 To stimulate broodiness in the nest"	
+186	"an owner"	"may to stop"	"many artificial eggs it they may place the hen in an elevated cage with an open wire floor 186 To stimulate broodiness"	
+186	"they"	"may place"	"the hen in an elevated cage with an open wire floor"	
+187	At the end of the incubation period ( about 21 days ) , the eggs , if fertile , will hatch . 
+187	"the eggs"	"will hatch"	"187 At the end of the incubation period about 21 days"	
+188	Development of the egg starts only when incubation begins , so they all hatch within a day or two of each other , despite perhaps being laid over a period of two weeks or so . 
+188	"188 Development of the egg"	"starts"	"only when incubation begins so they all hatch within a day despite perhaps being laid over a period of two weeks so"	
+188	"188 Development of the egg"	"starts"	"only when incubation begins so they all within a day two of each other despite perhaps being laid over a period of two weeks so"	
+188	"incubation"	"begins"	"so they all hatch within a day despite perhaps being laid over a period of two weeks so only"	
+188	"incubation"	"begins"	"so they all within a day two of each other despite perhaps being laid over a period of two weeks so only"	
+188	"incubation"	"begins"	"so they all hatch within a day despite perhaps being laid over a period of two weeks so when"	
+188	"incubation"	"begins"	"so they all within a day two of each other despite perhaps being laid over a period of two weeks so when"	
+188	"incubation"	"begins"	"so they all hatch within a day despite perhaps being laid over a period of two weeks so"	
+188	"incubation"	"begins"	"so they all within a day two of each other despite perhaps being laid over a period of two weeks so"	
+188	"they all"	"hatch"	"within a day despite perhaps being laid over a period of two weeks so"	
+188	"they all"	"hatch"	"within a day"	
+188	"they all"	"two"	"of each other within a day"	
+188	"they all"	"two"	"of each other despite perhaps being laid over a period of two weeks so"	
+188	"they all"	"two"	"of each other"	
+189	Before hatching , the hen can hear the chicks peeping inside the eggs , and will gently cluck to stimulate them to break out of their shells . 
+189	"the hen"	"can hear"	"189 Before hatching the chicks peeping inside the eggs"	
+189	"the hen"	"can will cluck"	"189 Before hatching the chicks peeping inside the eggs to stimulate them to break out of their shells gently"	
+189	"the hen"	"can will cluck"	"189 Before hatching the chicks peeping inside the eggs to stimulate them to break out of their shells"	
+189	"the chicks"	"be peeping"	"inside the eggs"	
+189	"their"	"has"	"shells"	
+190	The chick begins by "pipping " ; pecking a breathing hole with its egg tooth towards the blunt end of the egg , usually on the upper side . 
+190	"190 The chick"	"begins"	"by pipping pecking a breathing hole with its egg tooth towards the blunt end of the egg usually on the upper side"	
+190	"its"	"has"	"egg tooth"	
+191	The chick will then rest for some hours , absorbing the remaining egg yolk and withdrawing the blood supply from the membrane beneath the shell (used earlier for breathing through the shell ) . 
+191	"191 The chick"	"will rest"	"for some hours absorbing the remaining egg yolk"	
+191	"191 The chick"	"will rest"	"for some hours the remaining egg yolk withdrawing the blood supply from the membrane beneath the shell used earlier for breathing through the shell"	
+191	"191 The chick"	"will rest"	"absorbing the remaining egg yolk"	
+191	"191 The chick"	"will rest"	"the remaining egg yolk withdrawing the blood supply from the membrane beneath the shell used earlier for breathing through the shell"	
+192	It then enlarges the hole , gradually turning round as it goes , and eventually severing the blunt end of the shell completely to make a lid . 
+192	"192 It"	"enlarges"	"the hole"	
+192	"192 It"	"enlarges"	"the hole"	
+192	"it"	"goes"	
+192	"eventually severing the blunt end of the shell"	"be make"	"completely a lid"	
+193	It crawls out of the remaining shell , and its wet down dries out in the warmth of the nest . 
+193	"It"	"crawls"	"out of the remaining shell 193"	
+193	"It"	"crawls"	"out of the remaining shell its wet down dries out in the warmth of the nest"	
+193	"It"	"crawls"	"193"	
+193	"It"	"crawls"	"its wet down dries out in the warmth of the nest"	
+193	"its"	"has"	"wet down dries out in the warmth of the nest"	
+194	thumbA day-old chick The hen will usually stay on the nest for about two days after the first egg hatches , and during this time the newly hatched chicks live off the egg yolk they absorb just before hatching . 
+194	"194 thumbA day-old chick The hen"	"will stay"	"on the nest usually"	
+194	"194 thumbA day-old chick The hen"	"will stay"	"on the nest for about two days"	
+194	"194 thumbA day-old chick The hen"	"will stay"	"on the nest after the first egg hatches"	
+194	"194 thumbA day-old chick The hen"	"will stay"	"on the nest"	
+194	"the newly hatched chicks"	"live off"	"the egg yolk during this time"	
+194	"the newly hatched chicks"	"live off"	"the egg yolk"	
+194	"they"	"absorb"	"before just hatching the egg yolk"	
+194	"they"	"absorb"	"the egg yolk"	
+195	Any eggs not fertilized by a rooster will not hatch , and the hen eventually loses interest in these and leaves the nest . 
+195	"Any eggs"	"be fertilized"	"by a rooster"	
+195	"Any eggs not fertilized by a rooster"	"will not hatch"	"195"	
+195	"Any eggs not fertilized by a rooster"	"will not leaves"	"the nest 195"	
+195	"the hen"	"loses"	"interest eventually"	
+195	"the hen"	"loses"	"interest in these"	
+195	"the hen"	"loses"	"interest"	
+196	After hatching , the hen fiercely guards the chicks , and will brood them when necessary to keep them warm , at first often returning to the nest at night . 
+196	"the hen"	"guards"	"the chicks fiercely"	
+196	"the hen"	"guards"	"the chicks"	
+196	"the hen"	"will"	"the chicks fiercely"	
+196	"the hen"	"will"	"the chicks"	
+196	"them"	"warm"	
+197	She leads them to food and water ; she will call them to edible items , but seldom feeds them directly . 
+197	"197 She"	"leads"	"them to food"	
+197	"197 She"	"leads"	"them to water"	
+197	"she"	"will call"	"them to edible items"	
+197	"she"	"will call"	"them"	
+197	"she"	"will feeds"	"them them to edible items seldom"	
+197	"she"	"will feeds"	"them them directly seldom"	
+197	"she"	"will feeds"	"them them seldom"	
+198	She continues to care for them until they are several weeks old , when she will gradually lose interest and eventually start to lay again . 
+198	"She"	"continues"	"to care for them until they are several weeks old when she will gradually lose interest 198"	
+198	"She"	"continues"	"to care for them until they are several weeks old when she will gradually interest eventually start to lay again 198"	
+198	"She"	"continues"	"to care for them 198"	
+198	"they"	"are old"	"several weeks"	
+198	"they"	"are old"	"when she will gradually lose interest"	
+198	"they"	"are old"	"when she will gradually interest eventually start to lay again"	
+198	"they"	"are"	"old"	
+198	"she"	"will lose"	"interest when"	
+198	"she"	"will lose"	"interest gradually"	
+198	"she"	"will lose"	"interest"	
+198	"she"	"will start"	"interest to lay again when"	
+198	"she"	"will start"	"interest to lay again gradually"	
+198	"she"	"will start"	"interest to lay again eventually"	
+198	"she"	"will start"	"interest to lay again"	
+199	Modern egg-laying breeds rarely go broody , and those that do often stop part-way through the incubation . 
+199	"199 Modern egg-laying breeds"	"go"	"broody rarely"	
+199	"199 Modern egg-laying breeds"	"those"	"broody rarely"	
+199	"those"	"do stop"	"part-way often"	
+199	"those"	"do stop"	"part-way through the incubation"	
+199	"those"	"do stop"	"part-way"	
+200	However , some "utility " ( general purpose ) breeds , such as the Cochin , Cornish and Silkie , do regularly go broody , and they make excellent mothers , not only for chicken eggs but also for those of other species—even those with much smaller or larger eggs and different incubation periods , such as quail , pheasant , turkey or geese . 
+200	"200 However some utility general purpose breeds such as the Cochin"	"do go"	"broody regularly"	
+200	"200 However some utility general purpose breeds such as the Cornish"	"do go"	"broody regularly"	
+200	"200 However some utility general purpose breeds such as the Silkie"	"do go"	"broody regularly"	
+200	"200 However some utility general purpose breeds such as the Cochin"	"do go"	"broody"	
+200	"200 However some utility general purpose breeds such as the Cornish"	"do go"	"broody"	
+200	"200 However some utility general purpose breeds such as the Silkie"	"do go"	"broody"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+200	"they"	"make"	"excellent mothers"	
+201	Chicken eggs can also be hatched under a broody duck , with varied success . 
+201	"201 Chicken eggs"	"can be hatched"	"under a broody duck also"	
+201	"201 Chicken eggs"	"can be hatched"	"under a broody duck with varied success"	
+201	"201 Chicken eggs"	"can be hatched"	"under a broody duck"	
+202	Poultry farming thumbEgg-laying chicken 5 days out ofbattery cageNote typical paleComb ( anatomy)comb thumbAPastured poultryfree range roosteron a farm More than 50 billion chickens are reared annually as a source of food , for both their meat and their eggs . 
+202	"ofbattery cageNote typical paleComb"	"is"	"anatomy"	
+202	"202 Poultry farming thumbEgg-laying chicken 5 days out ofbattery cageNote typical paleComb"	"comb"	"thumbAPastured poultryfree range roosteron a farm More than 50 billion chickens"	
+202	"202 Poultry farming thumbEgg-laying chicken 5 days out ofbattery cageNote typical paleComb comb thumbAPastured poultryfree range roosteron a farm More than 50 billion chickens"	"are reared"	"annually as a source of food"	
+202	"202 Poultry farming thumbEgg-laying chicken 5 days out ofbattery cageNote typical paleComb comb thumbAPastured poultryfree range roosteron a farm More than 50 billion chickens"	"are reared"	"annually for their meat"	
+202	"202 Poultry farming thumbEgg-laying chicken 5 days out ofbattery cageNote typical paleComb comb thumbAPastured poultryfree range roosteron a farm More than 50 billion chickens"	"are reared"	"annually for their their eggs"	
+202	"202 Poultry farming thumbEgg-laying chicken 5 days out ofbattery cageNote typical paleComb comb thumbAPastured poultryfree range roosteron a farm More than 50 billion chickens"	"are reared"	"annually"	
+202	"their"	"has"	"meat"	
+202	"their"	"has"	"eggs"	
+203	The vast majority of poultry are raised using intensive farming techniques . 
+203	"203 The vast majority of poultry"	"are raised"	"using intensive farming techniques"	
+204	According to the Worldwatch Institute , 74 percent of the world 's poultry meat , and 68 percent of eggs are produced this way . 
+204	"204 According to the Worldwatch Institute"	"is"	"74 percent of the world 's poultry meat"	
+204	"According to the Worldwatch Institute 68 percent of eggs"	"is"	"74 percent of the world 's poultry meat"	
+204	"the world"	"has"	"poultry meat"	
+204	"204 According to the Worldwatch Institute"	"are produced"	"this way"	
+204	"According to the Worldwatch Institute 68 percent of eggs"	"are produced"	"this way"	
+205	One alternative to intensive poultry farming is free range farming . 
+205	"One alternative to intensive poultry farming"	"is"	"free range farming 205"	
+206	Friction between these two main methods has led to long term issues of ethical consumerism . 
+206	"206 Friction between these two main methods"	"has led"	"to long term issues of ethical consumerism"	
+207	Opponents of intensive farming argue that it harms the environment , creates human health risks and is inhumane . 
+207	"207 Opponents of intensive farming"	"argue"	"that it harms the environment"	
+207	"207 Opponents of intensive farming"	"is"	"inhumane that it harms the environment"	
+207	"207 Opponents of intensive farming"	"creates"	"that it harms the environment human health risks"	
+207	"it"	"harms"	"the environment"	
+208	Advocates of intensive farming say that their highly efficient systems save land and food resources due to increased productivity , stating that the animals are looked after in state-of-the-art environmentally controlled facilities . 
+208	"208 Advocates of intensive farming"	"say"	"that their highly efficient systems save land resources due to increased productivity stating that the animals are looked after in state-of-the-art environmentally controlled facilities"	
+208	"208 Advocates of intensive farming"	"say"	"that their highly efficient systems save food resources due to increased productivity stating that the animals are looked after in state-of-the-art environmentally controlled facilities"	
+208	"their"	"has"	"highly efficient systems"	
+208	"their highly efficient systems"	"be stating"	"that the animals are looked after in state-of-the-art environmentally controlled facilities"	
+208	"their highly efficient systems"	"save"	"land resources due to increased productivity"	
+208	"their highly efficient systems"	"save"	"food resources due to increased productivity"	
+208	"their highly efficient systems"	"save"	"land resources stating that the animals are looked after in state-of-the-art environmentally controlled facilities"	
+208	"their highly efficient systems"	"save"	"food resources stating that the animals are looked after in state-of-the-art environmentally controlled facilities"	
+208	"their highly efficient systems"	"save"	"land resources"	
+208	"their highly efficient systems"	"save"	"food resources"	
+208	"the animals"	"are looked"	"after in state-of-the-art environmentally controlled facilities"	
+209	In part due to the conditions on intensive poultry farms and recent recalls of large quantities of eggs , there is a growing movement for small scale micro-flocks or 'backyard chickens ' . 
+209	"a growing movement for small scale micro-flocks"	"there is"	"209 In part due to the conditions on intensive poultry farms"	
+209	"a growing movement for small scale micro-flocks"	"there is"	"209 In part due to the conditions on intensive poultry recent recalls of large quantities of eggs"	
+209	"a growing movement for small scale backyard chickens '"	"there is"	"209 In part due to the conditions on intensive poultry farms"	
+209	"a growing movement for small scale backyard chickens '"	"there is"	"209 In part due to the conditions on intensive poultry recent recalls of large quantities of eggs"	
+209	"a growing movement for small scale micro-flocks"	"there is"	"209"	
+209	"a growing movement for small scale backyard chickens '"	"there is"	"209"	
+210	This involves keeping small numbers of hens (usually no more than a dozen ) , in suburban or urban residential areas to control bugs , utilize chicken waste as fertilizer in small gardens , and of course for the high-quality eggs and meat that are produced . 
+210	"This"	"involves"	"keeping small numbers of hens in suburban residential areas to control bugs 210"	
+210	"This"	"involves"	"keeping small numbers of hens in suburban residential areas to of bugs course 210"	
+210	"This"	"involves"	"keeping small numbers of hens in suburban residential areas to of bugs for the high-quality eggs 210"	
+210	"This"	"involves"	"keeping small numbers of hens in suburban residential areas to of bugs for the high-quality meat 210"	
+210	"This"	"involves"	"keeping small numbers of hens in suburban residential areas to of bugs 210"	
+210	"This"	"involves"	"keeping small numbers of hens in suburban residential areas to utilize bugs chicken waste as fertilizer in small gardens 210"	
+210	"This"	"involves"	"keeping small numbers of hens in suburban residential areas to utilize bugs chicken waste 210"	
+210	"This"	"involves"	"keeping small numbers of hens in urban residential areas to control bugs 210"	
+210	"This"	"involves"	"keeping small numbers of hens in urban residential areas to of bugs course 210"	
+210	"This"	"involves"	"keeping small numbers of hens in urban residential areas to of bugs for the high-quality eggs 210"	
+210	"This"	"involves"	"keeping small numbers of hens in urban residential areas to of bugs for the high-quality meat 210"	
+210	"This"	"involves"	"keeping small numbers of hens in urban residential areas to of bugs 210"	
+210	"This"	"involves"	"keeping small numbers of hens in urban residential areas to utilize bugs chicken waste as fertilizer in small gardens 210"	
+210	"This"	"involves"	"keeping small numbers of hens in urban residential areas to utilize bugs chicken waste 210"	
+210	"This"	"involves"	"keeping small numbers of hens to control bugs 210"	
+210	"This"	"involves"	"keeping small numbers of hens to of bugs course 210"	
+210	"This"	"involves"	"keeping small numbers of hens to of bugs for the high-quality eggs 210"	
+210	"This"	"involves"	"keeping small numbers of hens to of bugs for the high-quality meat 210"	
+210	"This"	"involves"	"keeping small numbers of hens to of bugs 210"	
+210	"This"	"involves"	"keeping small numbers of hens to utilize bugs chicken waste as fertilizer in small gardens 210"	
+210	"This"	"involves"	"keeping small numbers of hens to utilize bugs chicken waste 210"	
+210	"the high-quality eggs"	"are produced"	
+210	"the high-quality meat"	"are produced"	
+211	Broiler Chickens farmed for meat are called broiler chickens . 
+211	"211 Broiler Chickens"	"be farmed"	"for meat"	
+211	"211 Broiler Chickens farmed for meat"	"are called"	"broiler chickens"	
+212	Chickens will naturally live for 6 or more years , but broiler chickens typically take less than 6 weeks to reach slaughter size . 
+212	"212 Chickens"	"will live"	"for 6 years naturally"	
+212	"212 Chickens"	"will live"	"for more years naturally"	
+212	"212 Chickens"	"will live"	"for 6 years"	
+212	"212 Chickens"	"will live"	"for more years"	
+212	"broiler chickens"	"be reach"	"slaughter size"	
+212	"broiler chickens"	"take"	"less than 6 weeks typically"	
+212	"broiler chickens"	"take"	"less than 6 weeks to reach slaughter size"	
+212	"broiler chickens"	"take"	"less than 6 weeks"	
+213	http ://www.animalsaustralia 
+214	.org/factsheets/broiler_chickens 
+215	.php 
+216	Broiler Chickens Fact Sheet // Animals Australia Animalsaustralia .org 
+217	2010-08-29 http ://www.animalsaustralia 
+218	.org/factsheets/broiler_chickens 
+219	.php 
+220	Broiler Chickens Fact Sheet // Animals Australia Animalsaustralia .org 
+221	2010-08-29 A free range or organic meat chicken will usually be slaughtered at about 14 weeks of age . 
+221	"221 2010-08-29 A free range"	"will be slaughtered"	"at about 14 weeks of age usually"	
+221	"221 2010-08-29 A free organic meat chicken"	"will be slaughtered"	"at about 14 weeks of age usually"	
+221	"221 2010-08-29 A free range"	"will be slaughtered"	"at about 14 weeks of age"	
+221	"221 2010-08-29 A free organic meat chicken"	"will be slaughtered"	"at about 14 weeks of age"	
+222	Chickens farmed for eggs are called egg-laying hens . 
+222	"222 Chickens"	"be farmed"	"for eggs"	
+222	"222 Chickens farmed for eggs"	"are called"	"egg-laying hens"	
+223	In total , the UK alone consumes over 29 million eggs per day . 
+223	"223 In total"	"is"	"the UK alone"	
+223	"223 In total"	"consumes"	"over 29 million eggs per day"	
+224	Some hen breeds can produce over 300 eggs per year . 
+224	"224 Some hen breeds"	"can produce"	"over 300 eggs per year"	
+225	After 12 months of laying , the commercial hen 's egg-laying ability starts to decline to the point where the flock is unviable . 
+225	"the commercial hen"	"has"	"egg-laying ability"	
+225	"the commercial hen 's egg-laying ability"	"starts"	"to decline to the point"	
+225	"the flock"	"is"	"unviable the point where"	
+225	"the flock"	"is"	"unviable the point"	
+226	Hens , particularly from battery cage systems , are sometimes infirm , have lost a significant amount of their feathers , and their life expectancy has been reduced from around 7 years to less than 2 years . 
+226	"226 Hens particularly from battery cage systems"	"are infirm"	"sometimes"	
+226	"226 Hens particularly from battery cage systems"	"are"	"infirm"	
+226	"226 Hens particularly from battery cage systems"	"are have"	"lost sometimes a significant amount of their feathers"	
+226	"226 Hens particularly from battery cage systems"	"are have"	"lost a significant amount of their feathers"	
+226	"their"	"has"	"feathers"	
+226	"their"	"has"	"life expectancy"	
+226	"their life expectancy"	"has been reduced"	"from around 7 years to less than 2 years"	
+226	"their life expectancy"	"has been reduced"	"from around 7 years"	
+227	http ://observer.guardian.co.uk/foodmonthly/story/0 
+228	,,662799,00.html 
+229	The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 http ://observer.guardian.co.uk/foodmonthly/story/0 
+229	"The Guardian London"	"229 Ten weeks"	"to live Anthony Browne 2002-03-10 2010-04-28 http"	
+229	"229 The Guardian London Ten weeks observer.guardian.co.uk foodmonthly/story/0"	"be live"	"Anthony Browne 2002-03-10 2010-04-28 http"	
+230	,,662799,00.html 
+231	The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 In the UK and Europe , laying hens are then slaughtered and used in processed foods , or sold as " soup hens " . 
+231	"231 The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 In the UK"	"be laying"	"hens"	
+231	"231 The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 In the Europe"	"be laying"	"hens"	
+231	"The Guardian London"	"231 Ten weeks"	"to live Anthony Browne 2002-03-10 2010-04-28 In the UK laying hens"	
+231	"The Guardian London"	"231 Ten weeks"	"to live Anthony Browne 2002-03-10 2010-04-28 In the Europe laying hens"	
+231	"The Guardian London"	"231 Ten weeks"	"to live Anthony Browne 2002-03-10 2010-04-28 In the UK"	
+231	"The Guardian London"	"231 Ten weeks"	"to live Anthony Browne 2002-03-10 2010-04-28 In the Europe"	
+231	"231 The Guardian London Ten weeks laying hens"	"be live"	"Anthony Browne 2002-03-10 2010-04-28 In the UK"	
+231	"231 The Guardian London Ten weeks laying hens"	"be live"	"Anthony Browne 2002-03-10 2010-04-28 In the Europe"	
+231	"231 The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 In the UK laying hens"	"are slaughtered"	
+231	"231 The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 In the Europe laying hens"	"are slaughtered"	
+231	"231 The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 In the UK laying hens"	"are used"	"in processed foods"	
+231	"231 The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 In the UK laying hens"	"are used"	"in processed sold as soup hens"	
+231	"231 The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 In the Europe laying hens"	"are used"	"in processed foods"	
+231	"231 The Guardian London Ten weeks to live Anthony Browne 2002-03-10 2010-04-28 In the Europe laying hens"	"are used"	"in processed sold as soup hens"	
+232	In some other countries , flocks are sometimes force moulted , rather than being slaughtered , to reinvigorate egg-laying . 
+232	"232 In some other countries"	"is"	"flocks"	
+232	"232 In some other countries"	"are force"	"moulted to reinvigorate egg-laying sometimes"	
+232	"232 In some other countries"	"are force"	"being slaughtered to reinvigorate egg-laying sometimes"	
+232	"232 In some other countries"	"are force"	"moulted to reinvigorate egg-laying"	
+232	"232 In some other countries"	"are force"	"being slaughtered to reinvigorate egg-laying"	
+233	This involves complete withdrawal of food ( and sometimes water ) for 7–14 days Patwardhan , D. 
+233	"This"	"involves"	"complete withdrawal of food for 7 14 days Patwardhan"	
+233	"This"	"involves"	"complete withdrawal of food"	
+233	"14 days Patwardhan"	"is"	"D."	
+234	and King , A. 
+234	"234"	"is"	"A."	
+234	"King"	"is"	"A."	
+235	, ( 2011 ) . 
+235	"235"	"is"	"2011"	
+236	Review : feed withdrawal and non feed withdrawal moult . 
+237	World 's Poultry Science Journal , 67 : 253-268 or sufficiently long to cause a body weight loss of 25 to 35 % , Webster , A.B. 
+237	"World"	"has"	"237 Poultry Science Journal"	
+237	"237 World 's Poultry Science Journal"	"is"	"67 253-268 long to cause a body weight loss of 25 to 35 %"	
+237	"237 World 's Poultry Science Journal"	"is"	"67 sufficiently long to cause a body weight loss of 25 to 35 %"	
+237	"253-268 long to cause a body weight loss of 25 to 35 %"	"is"	"Webster"	
+237	"sufficiently long to cause a body weight loss of 25 to 35 %"	"is"	"Webster"	
+237	"253-268 long to cause a body weight loss of 25 to 35 %"	"is"	"A.B."	
+237	"sufficiently long to cause a body weight loss of 25 to 35 %"	"is"	"A.B."	
+238	, ( 2003 ) . 
+238	"238"	"is"	"2003"	
+239	Physiology and behavior of the hen during induced moult . 
+240	Poultry Science , 82 : 992-1002 or up to 28 days under experimental conditions Molino , A.B. 
+240	"240 Poultry Science"	"is"	"82 992-1002 days under experimental conditions Molino"	
+240	"240 Poultry Science"	"is"	"82 up to 28 days under experimental conditions Molino"	
+240	"Molino"	"is"	"A.B."	
+241	, Garcia , E.A. 
+242	, Berto , D.A. 
+242	"242"	"is"	"D.A."	
+242	"Berto"	"is"	"D.A."	
+243	, Pelícia , K. 
+243	"243"	"is"	"K."	
+243	"Pelícia"	"is"	"K."	
+244	, Silva , A.P. 
+244	"244"	"is"	"A.P."	
+244	"Silva"	"is"	"A.P."	
+245	and Vercese F. 
+246	, ( 2009 ) . 
+246	"246"	"is"	"2009"	
+247	The Effects of Alternative Forced-Molting Methods on The Performance and Egg Quality of Commercial Layers . 
+248	Brazilian Journal of Poultry Science , 11 : 109-113 which presumably reflect farming practice . 
+248	"248 Brazilian Journal of Poultry Science"	"is"	"11 109-113"	
+248	"109-113"	"reflect"	"farming practice presumably"	
+248	"109-113"	"reflect"	"farming practice"	
+249	This stimulates the hen to lose her feathers , but also reinvigorates egg-production . 
+249	"This"	"stimulates"	"the hen to lose her feathers 249"	
+249	"This"	"reinvigorates"	"the hen to lose her feathers egg-production 249 also"	
+249	"This"	"reinvigorates"	"the hen to lose her feathers egg-production 249"	
+249	"her"	"has"	"feathers"	
+250	Some flocks may be force moulted several times . 
+250	"250 Some flocks"	"may be moulted"	"force"	
+250	"250 Some flocks"	"may be moulted"	"several times"	
+250	"250 Some flocks"	"may be"	"moulted"	
+251	In 2003 , more than 75 % of all flocks were moulted in the US. 
+251	"251 In 2003"	"is"	"more than 75 % of all flocks"	
+251	"251 In 2003"	"were moulted"	"in the US"	
+252	Yousaf , M. 
+252	"252 Yousaf"	"is"	"M."	
+253	and Chaudhry , A.S. 
+254	, ( 2008 ) . 
+254	"254"	"is"	"2008"	
+255	History , changing scenarios and future strategies to induce moulting in laying hens . 
+255	"255 History"	"be changing"	"scenarios to induce moulting in laying hens"	
+255	"255 History"	"be changing"	"future strategies to induce moulting in laying hens"	
+255	"changing scenarios"	"be induce"	"moulting in laying hens"	
+255	"changing future strategies"	"be induce"	"moulting in laying hens"	
+256	World 's Poultry Science Journal , 64 : 65-75 thumbrightAn egg incubator . 
+256	"World"	"has"	"256 Poultry Science Journal"	
+256	"256 World 's Poultry Science Journal"	"is"	"64 65-75 thumbrightAn egg incubator"	
+257	Incubation can successfully occur artificially in machines that provide the correct , controlled environment for the developing chick . 
+257	"257 Incubation"	"can occur"	"artificially in machines successfully"	
+257	"257 Incubation"	"can occur"	"artificially in machines"	
+257	"machines"	"provide"	"the correct controlled environment for the developing chick"	
+258	http ://pods .dasnr.okstate 
+259	.edu/docushare/dsweb/Get/Document-2104/ANSI-8100web.pdf 
+260	Joe G. 
+261	Berry Artificial Incubation Oklahoma Cooperative Extension Service , Oklahoma State University 2010-09-29 http ://pods .dasnr.okstate 
+262	.edu/docushare/dsweb/Get/Document-2104/ANSI-8100web.pdf 
+263	Joe G. 
+264	Berry Artificial Incubation Oklahoma Cooperative Extension Service , Oklahoma State University 2010-09-29 http ://pubs .ext.vt 
+265	.edu/2902/2902-1090/2902-1090.pdf 
+266	Phillip J. 
+267	Clauer Incubating Eggs Virginia Cooperative Extension Service , Virginia State University 2010-10-01 http ://pubs .ext.vt 
+268	.edu/2902/2902-1090/2902-1090.pdf 
+269	Phillip J. 
+270	Clauer Incubating Eggs Virginia Cooperative Extension Service , Virginia State University 2010-10-01 http ://www.brinsea.com/pdffiles/Brinsea_ 
+270	"270 Clauer Incubating Eggs Virginia Cooperative Extension Service www.brinsea.com/pdffiles/Brinsea_"	"is"	"Virginia State University 2010-10-01 http"	
+271	Handbook .pdf 
+272	Incubation Handbook Brinsea Products Ltd 2010-09-30 http ://www.brinsea.com/pdffiles/Brinsea_ 
+273	Handbook .pdf 
+274	Incubation Handbook Brinsea Products Ltd 2010-09-30 http ://www.backyardchickens.com/LC-hatch 
+275	.html 
+276	How To Hatch Chicken Eggs www.backyardchickens.com 
+277	2010-09-30 http ://www.backyardchickens.com/LC-hatch 
+278	.html 
+279	How To Hatch Chicken Eggs www.backyardchickens.com 
+280	2010-09-30 The average incubation period for chickens is 21 days but may depend on the temperature and humidity in the incubator . 
+280	"280 2010-09-30 The average incubation period for chickens"	"is"	"21 days"	
+280	"280 2010-09-30 The average incubation period for chickens"	"is may 21 depend"	"on the temperature"	
+280	"280 2010-09-30 The average incubation period for chickens"	"is may 21 depend"	"on the humidity"	
+280	"280 2010-09-30 The average incubation period for chickens"	"is may 21 depend"	"in the incubator"	
+280	"280 2010-09-30 The average incubation period for chickens"	"is may"	"21 depend"	
+281	Temperature regulation is the most critical factor for a successful hatch . 
+281	"281 Temperature regulation"	"is the most critical factor"	"for a successful hatch"	
+281	"281 Temperature regulation"	"is"	"the most critical factor"	
+282	Variations of more than 1 °F ( 1.8 
+283	°C ) from the optimum temperature of 99.5 
+284	°F °C will reduce hatch rates . 
+284	"284 ° F ° C"	"will reduce"	"hatch rates"	
+285	Humidity is also important because the rate at which eggs lose water by evaporation depends on the ambient relative humidity . 
+285	"285 Humidity"	"is important"	"also"	
+285	"285 Humidity"	"is important"	"because the rate depends on the ambient relative humidity"	
+285	"285 Humidity"	"is"	"important"	
+285	"eggs"	"lose"	"water the rate at which"	
+285	"eggs"	"lose"	"water by evaporation the rate"	
+285	"eggs"	"lose"	"water the rate"	
+285	"the rate"	"depends"	"on the ambient relative humidity"	
+286	Evaporation can be assessed by candling , to view the size of the air sac , or by measuring weight loss . 
+286	"286 Evaporation"	"can be assessed"	"by candling to view the size of the air sac"	
+286	"286 Evaporation"	"can be assessed"	"by candling to the size of the air sac by measuring weight loss"	
+287	Relative humidity should be increased to around 70 % in the last three days of incubation to keep the membrane around the hatching chick from drying out after the chick cracks the shell . 
+287	"287 Relative humidity"	"should be increased"	"to around 70 % in the last three days of incubation to keep the membrane around the hatching chick from drying out after the chick cracks the shell"	
+287	"287 Relative humidity"	"should be increased"	"to around 70 %"	
+287	"incubation"	"be keep"	"the membrane around the hatching chick from drying out after the chick cracks the shell"	
+287	"incubation"	"be keep"	"the membrane around the hatching chick"	
+288	Lower humidity is usual in the first 18 days to ensure adequate evaporation . 
+288	"288 Lower humidity"	"is usual"	"in the first 18 days to ensure adequate evaporation"	
+288	"288 Lower humidity"	"is usual"	"to ensure adequate evaporation"	
+289	The position of the eggs in the incubator can also influence hatch rates . 
+289	"289 The position of the eggs in the incubator"	"can influence"	"hatch rates also"	
+289	"289 The position of the eggs in the incubator"	"can influence"	"hatch rates"	
+290	For best results , eggs should be placed with the pointed ends down and turned regularly ( at least three times per day ) until one to three days before hatching . 
+290	"eggs"	"should be placed"	"with the pointed ends down"	
+290	"eggs"	"should be turned"	"regularly with the pointed ends down"	
+290	"eggs"	"should be turned"	"regularly until one to three days before hatching"	
+290	"eggs"	"should be turned"	"regularly"	
+291	If the eggs are n't turned , the embryo inside may stick to the shell and may hatch with physical defects . 
+291	"the eggs"	"are n't turned"	
+291	"the embryo inside"	"may stick"	"to the shell If the eggs are n't turned"	
+291	"the embryo inside"	"may stick"	"to the shell"	
+291	"the embryo inside"	"may may hatch"	"with physical defects If the eggs are n't turned"	
+291	"the embryo inside"	"may may hatch"	"with physical defects to the shell"	
+291	"the embryo inside"	"may may hatch"	"with physical defects"	
+292	Adequate ventilation is necessary to provide the embryo with oxygen . 
+292	"292 Adequate ventilation"	"is"	"necessary to provide the embryo with oxygen"	
+293	Older eggs require increased ventilation . 
+293	"293 Older eggs"	"require"	"increased ventilation"	
+294	Many commercial incubators are industrial-sized with shelves holding tens of thousands of eggs at a time , with rotation of the eggs a fully automated process . 
+294	"294 Many commercial incubators"	"are industrial-sized"	"with shelves holding tens of thousands of eggs"	
+294	"294 Many commercial incubators"	"are industrial-sized"	"at a time"	
+294	"294 Many commercial incubators"	"are industrial-sized"	"with rotation of the eggs a fully automated process"	
+294	"294 Many commercial incubators"	"are"	"industrial-sized"	
+295	Home incubators are boxes holding from half a dozen to 75 eggs ; they are usually electrically powered , but in the past some were heated with an oil or paraffin lamp . 
+295	"295 Home incubators"	"are boxes"	"holding from half a dozen to 75 eggs"	
+295	"295 Home incubators"	"are"	"boxes"	
+295	"boxes"	"be holding"	"from half a dozen to 75 eggs"	
+295	"boxes"	"be holding"	"from half a dozen"	
+295	"they"	"are powered"	"usually"	
+295	"they"	"are powered"	"electrically"	
+295	"they"	"are powered"	
+295	"some"	"were heated"	"with an oil lamp in the past"	
+295	"some"	"were heated"	"with an paraffin lamp in the past"	
+295	"some"	"were heated"	"with an oil lamp"	
+295	"some"	"were heated"	"with an paraffin lamp"	
+296	Egg ( food ) List of egg dishes rightthumbBrown chicken eggs . 
+296	"296 Egg"	"is"	"food"	
+297	rightthumbA fried chicken egg _ " sunny side up " . 
+297	"297 rightthumbA"	"fried up"	"chicken egg _ sunny side"	
+298	Chicken eggs are widely used in many types of dishes , both sweet and savory , including many baked goods . 
+298	"298 Chicken eggs"	"are used"	"sweet including many baked goods widely"	
+298	"298 Chicken eggs"	"are used"	"savory including many baked goods widely"	
+298	"298 Chicken eggs"	"are used"	"in many types of dishes sweet including many baked goods"	
+298	"298 Chicken eggs"	"are used"	"in many types of dishes savory including many baked goods"	
+298	"298 Chicken eggs"	"are used"	"sweet including many baked goods"	
+298	"298 Chicken eggs"	"are used"	"savory including many baked goods"	
+299	Eggs can be scrambled , fried , hard-boiled , soft-boiled , pickled , and poached . 
+299	"299 Eggs"	"can be scrambled"	
+299	"299 Eggs"	"can be fried"	
+299	"299 Eggs"	"can be hard-boiled"	
+299	"299 Eggs"	"can be soft-boiled"	
+299	"299 Eggs"	"can be pickled"	
+299	"299 Eggs"	"can be poached"	
+300	The albumen , or egg white , contains protein but little or no fat , and can be used in cooking separately from the yolk . 
+300	"300 The albumen"	"contains"	"protein"	
+300	"300 The albumen"	"contains"	"little"	
+300	"300 The albumen"	"contains"	"little no fat"	
+300	"300 The albumen"	"contains"	"little fat"	
+300	"300 The egg white"	"contains"	"protein"	
+300	"300 The egg white"	"contains"	"little"	
+300	"300 The egg white"	"contains"	"little no fat"	
+300	"300 The egg white"	"contains"	"little fat"	
+300	"300 The albumen"	"can be used"	"protein in cooking"	
+300	"300 The albumen"	"can be used"	"little in cooking"	
+300	"300 The albumen"	"can be used"	"little no fat in cooking"	
+300	"300 The albumen"	"can be used"	"little fat in cooking"	
+300	"300 The egg white"	"can be used"	"protein in cooking"	
+300	"300 The egg white"	"can be used"	"little in cooking"	
+300	"300 The egg white"	"can be used"	"little no fat in cooking"	
+300	"300 The egg white"	"can be used"	"little fat in cooking"	
+300	"300 The albumen"	"can be used"	"protein separately"	
+300	"300 The albumen"	"can be used"	"little separately"	
+300	"300 The albumen"	"can be used"	"little no fat separately"	
+300	"300 The albumen"	"can be used"	"little fat separately"	
+300	"300 The egg white"	"can be used"	"protein separately"	
+300	"300 The egg white"	"can be used"	"little separately"	
+300	"300 The egg white"	"can be used"	"little no fat separately"	
+300	"300 The egg white"	"can be used"	"little fat separately"	
+300	"300 The albumen"	"can be used"	"protein from the yolk"	
+300	"300 The albumen"	"can be used"	"little from the yolk"	
+300	"300 The albumen"	"can be used"	"little no fat from the yolk"	
+300	"300 The albumen"	"can be used"	"little fat from the yolk"	
+300	"300 The egg white"	"can be used"	"protein from the yolk"	
+300	"300 The egg white"	"can be used"	"little from the yolk"	
+300	"300 The egg white"	"can be used"	"little no fat from the yolk"	
+300	"300 The egg white"	"can be used"	"little fat from the yolk"	
+300	"300 The albumen"	"can be used"	"protein"	
+300	"300 The albumen"	"can be used"	"little"	
+300	"300 The albumen"	"can be used"	"little no fat"	
+300	"300 The albumen"	"can be used"	"little fat"	
+300	"300 The egg white"	"can be used"	"protein"	
+300	"300 The egg white"	"can be used"	"little"	
+300	"300 The egg white"	"can be used"	"little no fat"	
+300	"300 The egg white"	"can be used"	"little fat"	
+301	Egg whites may be aerated or whipped to a light , fluffy consistency and are often used in desserts such as meringue and mousse . 
+301	"301 Egg whites"	"may be aerated"	
+301	"301 Egg whites"	"may be aerated"	
+301	"301 Egg whites"	"may be aerated"	
+301	"301 Egg whites"	"may be whipped"	"to a light"	
+301	"301 Egg whites"	"may be whipped"	"to a light"	
+301	"301 Egg whites"	"may be whipped"	"to a light"	
+302	Ground egg shells are sometimes used as a food additive to deliver calcium . 
+302	"302 Ground egg shells"	"are used"	"as a food additive to deliver calcium sometimes"	
+302	"302 Ground egg shells"	"are used"	"as a food additive to deliver calcium"	
+303	Some people prefer to just have a female , and raise it for the eggs . 
+303	"303 Some people"	"prefer"	"to have a female just"	
+303	"303 Some people"	"prefer"	"to have a female"	
+303	"303 Some people"	"raise"	"to have a female just it for the eggs"	
+303	"303 Some people"	"raise"	"to have a female it for the eggs"	
+303	"303 Some people"	"raise"	"to have a female just it"	
+303	"303 Some people"	"raise"	"to have a female it"	
+304	Chicken ( food ) thumbrightRoastingRoastedchicken . 
+304	"304 Chicken"	"is"	"food"	
+305	The meat of the chicken , also called " chicken" , is a type of poultry meat . 
+305	"305 The meat of the chicken"	"called"	"also"	
+305	"305 The meat of the chicken"	"called"	
+306	Because of its relatively low cost , chicken is one of the most used meats in the world . 
+306	"its"	"has"	"relatively low cost"	
+306	"chicken"	"is one"	"306 Because of its relatively low cost of the most used meats in the world"	
+306	"chicken"	"is one"	"306 Because of its relatively low cost"	
+307	Nearly all parts of the bird can be used for food , and the meat can be cooked in many different ways . 
+307	"307 Nearly all parts of the bird"	"can be used"	"for food"	
+307	"the meat"	"can be cooked"	"in many different ways"	
+308	Popular chicken dishes include roasted chicken , fried chicken , chicken soup , Buffalo wings , tandoori chicken , butter chicken , and chicken rice . 
+308	"308 Popular chicken dishes"	"include"	"roasted chicken"	
+308	"308 Popular chicken dishes"	"fried"	"roasted chicken chicken"	
+308	"308 Popular chicken dishes"	"fried"	"roasted chicken chicken soup"	
+308	"308 Popular chicken dishes"	"fried"	"roasted chicken Buffalo wings"	
+308	"308 Popular chicken dishes"	"fried"	"roasted chicken tandoori chicken"	
+308	"308 Popular chicken dishes"	"fried"	"roasted chicken butter chicken"	
+308	"308 Popular chicken dishes"	"fried"	"roasted chicken chicken rice"	
+309	Chicken is also a staple of many fast food restaurants . 
+309	"309 Chicken"	"is a staple"	"also"	
+309	"309 Chicken"	"is a staple"	"of many fast food restaurants"	
+309	"309 Chicken"	"is"	"a staple"	
+310	Chickens as pets Chickens are sometimes kept as pet and can be tamed by hand feeding , but roosters can sometimes become aggressive and noisy , although aggression can be curbed with proper handling . 
+310	"310 Chickens as pets Chickens"	"are kept"	"as pet sometimes"	
+310	"310 Chickens as pets Chickens"	"are kept"	"as pet"	
+310	"310 Chickens as pets Chickens"	"are can be tamed"	"by hand feeding sometimes"	
+310	"310 Chickens as pets Chickens"	"are can be tamed"	"by hand feeding as pet"	
+310	"310 Chickens as pets Chickens"	"are can be tamed"	"by hand feeding"	
+310	"roosters"	"can become"	"aggressive sometimes"	
+310	"roosters"	"can become"	"aggressive"	
+310	"roosters"	"can noisy"	"aggressive sometimes"	
+310	"roosters"	"can noisy"	"aggressive although aggression can be curbed with proper handling"	
+310	"roosters"	"can noisy"	"aggressive"	
+310	"aggression"	"can be curbed"	"with proper handling"	
+311	Some have advised against keeping them around very young children . 
+311	"311 Some"	"have advised"	"against keeping them around very young children"	
+312	Certain breeds , however , such as silkies and many bantam varieties are generally docile and are often recommended as good pets around children with disabilities . 
+312	"312 Certain breeds however such as silkies"	"are docile"	"generally"	
+312	"312 Certain breeds however such as many bantam varieties"	"are docile"	"generally"	
+312	"312 Certain breeds however such as silkies"	"are"	"docile"	
+312	"312 Certain breeds however such as many bantam varieties"	"are"	"docile"	
+312	"312 Certain breeds however such as silkies"	"are are recommended"	"generally"	
+312	"312 Certain breeds however such as many bantam varieties"	"are are recommended"	"generally"	
+312	"312 Certain breeds however such as silkies"	"are are recommended"	"often"	
+312	"312 Certain breeds however such as many bantam varieties"	"are are recommended"	"often"	
+312	"312 Certain breeds however such as silkies"	"are are recommended"	"as good pets around children with disabilities"	
+312	"312 Certain breeds however such as many bantam varieties"	"are are recommended"	"as good pets around children with disabilities"	
+312	"312 Certain breeds however such as silkies"	"are are"	"recommended"	
+312	"312 Certain breeds however such as many bantam varieties"	"are are"	"recommended"	
+313	http ://www .henkeeping.co.uk/which 
+314	.html 
+315	Clucks and Chooks : A guide to keeping chickens http ://www .henkeeping.co.uk/which 
+316	.html 
+317	Clucks and Chooks : A guide to keeping chickens Some people find chickens ' behaviour entertaining and educational . 
+317	"Some people"	"find"	"chickens ' behaviour entertaining chickens"	
+317	"Some people"	"find"	"chickens ' behaviour educational chickens"	
+318	http ://www .upc-online 
+319	.org/home 
+320	.html 
+321	Providing a Good Home for Chickens United Poultry Concerns 2009-05-04 http ://www .upc-online 
+322	.org/home 
+323	.html 
+324	Providing a Good Home for Chickens United Poultry Concerns 2009-05-04 Chickens are susceptible to several parasite , including lice , mite , tick , flea , and intestinal worm , as well as other diseases . 
+324	"324"	"be Providing"	"a Good Home for Chickens United Poultry Concerns"	
+324	"2009-05-04 Chickens"	"are"	"susceptible to several parasite including lice Chickens United Poultry Concerns"	
+324	"2009-05-04 Chickens"	"are"	"susceptible to several parasite including mite as well as other diseases Chickens United Poultry Concerns"	
+324	"2009-05-04 Chickens"	"are"	"susceptible to several parasite including tick as well as other diseases Chickens United Poultry Concerns"	
+324	"2009-05-04 Chickens"	"are"	"susceptible to several parasite including flea as well as other diseases Chickens United Poultry Concerns"	
+324	"2009-05-04 Chickens"	"are"	"susceptible to several parasite including intestinal worm as well as other diseases Chickens United Poultry Concerns"	
+324	"2009-05-04 Chickens"	"are"	"susceptible to several including lice other diseases Chickens United Poultry Concerns"	
+324	"2009-05-04 Chickens"	"are"	"susceptible Chickens United Poultry Concerns"	
+325	Despite the name , they are not affected by chickenpox , which is generally restricted to humans . 
+325	"they"	"are not affected"	"by chickenpox"	
+325	"chickenpox"	"is restricted"	"generally"	
+325	"chickenpox"	"is restricted"	"to humans"	
+325	"chickenpox"	"is"	"restricted"	
+326	http ://www.ncbi 
+327	.nlm 
+328	.nih.gov/pubmed/11556693 
+329	An animal model of varicella virus infection White TM , Gilden DH , Mahalingam R. 
+329	"varicella virus infection White TM"	"is"	"Mahalingam R."	
+329	"varicella virus infection White Gilden DH"	"is"	"Mahalingam R."	
+330	2009-05-01 http ://www.ncbi 
+331	.nlm 
+332	.nih.gov/pubmed/11556693 
+333	An animal model of varicella virus infection White TM , Gilden DH , Mahalingam R. 
+333	"varicella virus infection White TM"	"is"	"Mahalingam R."	
+333	"varicella virus infection White Gilden DH"	"is"	"Mahalingam R."	
+334	2009-05-01 Some of the common diseases that affect chickens are shown below : In Indonesia the chicken has great significance during the Hindu cremation ceremony . 
+334	"the common diseases"	"affect"	"chickens"	
+334	"334 2009-05-01 Some of the common diseases"	"are shown"	"below In Indonesia the chicken has great significance during the Hindu cremation ceremony"	
+334	"the chicken"	"has"	"great significance In Indonesia"	
+334	"the chicken"	"has"	"great significance during the Hindu cremation ceremony"	
+334	"the chicken"	"has"	"great significance"	
+335	A chicken is considered a channel for evil spirit which may be present during the ceremony . 
+335	"335 A chicken"	"is considered"	"a channel for evil spirit"	
+335	"a channel for evil spirit"	"may be present"	"during the ceremony"	
+335	"a channel for evil spirit"	"may be"	"present"	
+336	A chicken is tethered by the leg and kept present at the ceremony for its duration to ensure that any evil spirits present during the ceremony go into the chicken and not the family members present . 
+336	"336 A chicken"	"is tethered"	"by the leg"	
+336	"336 A chicken"	"is"	"tethered"	
+336	"336 A chicken"	"is kept"	"by the leg present at the ceremony for its duration to ensure that any evil spirits present during the ceremony go into the chicken"	
+336	"336 A chicken"	"is kept"	"by the leg present at the ceremony for its duration to ensure that any evil spirits present during the ceremony into the chicken not the family members present"	
+336	"336 A chicken"	"is kept"	"present at the ceremony for its duration to ensure that any evil spirits present during the ceremony go into the chicken"	
+336	"336 A chicken"	"is kept"	"present at the ceremony for its duration to ensure that any evil spirits present during the ceremony into the chicken not the family members present"	
+336	"its"	"has"	"duration"	
+336	"the ceremony"	"go"	"into the chicken"	
+336	"the family members"	"not present"	
+337	The chicken is then taken home and returns to its normal life . 
+337	"337 The chicken"	"is taken"	"home to its normal life"	
+337	"337 The chicken"	"is taken"	"returns to its normal life"	
+337	"its"	"has"	"normal life"	
+338	In ancient Greece , the chicken was not normally used for sacrifices , perhaps because it was still considered an exotic animal . 
+338	"the chicken"	"was not used"	"for sacrifices normally"	
+338	"the chicken"	"was not used"	"for sacrifices perhaps because it was still considered an exotic animal"	
+338	"the chicken"	"was not used"	"for sacrifices"	
+338	"it"	"was considered"	"an exotic animal perhaps"	
+338	"it"	"was considered"	"an exotic animal still"	
+338	"it"	"was considered"	"an exotic animal"	
+339	Because of its valor , the cock is found as an attribute of Ares , Heracles , and Athena . 
+339	"339 Because of its valor"	"is"	"the cock"	
+339	"its"	"has"	"valor"	
+339	"339 Because of its valor"	"is found"	"as an attribute of Ares"	
+339	"339 Because of its valor"	"is found"	"as an attribute of Heracles"	
+339	"339 Because of its valor"	"is found"	"as an attribute of Athena"	
+340	The alleged last words of Socrates as he died from hemlock poisoning , as recounted by Plato , were " Crito , I owe a cock to Asclepius ; will you remember to pay the debt ? " , signifying that death was a cure for the illness of life . 
+340	"death"	"was a cure"	"for the illness of life"	
+340	"death"	"was"	"a cure"	
+341	The Greeks believed that even lion were afraid of cocks . 
+341	"341 The Greeks"	"believed"	"that even lion were afraid of cocks"	
+341	"even lion"	"were afraid"	"of cocks"	
+341	"even lion"	"were"	"afraid"	
+342	Several of Aesop 's Fables reference this belief . 
+342	"Aesop"	"has"	"Fables reference"	
+343	In the New Testament , Jesus prophesied the betrayal by Peter : " Jesus answered , ' I tell you , Peter , before the rooster crows today , you will deny three times that you know me . 
+343	"Jesus"	"prophesied"	"the betrayal by Peter 343 In the New Testament"	
+343	"Jesus"	"prophesied"	"the betrayal 343 In the New Testament"	
+343	"Jesus"	"answered"	
+343	"I"	"tell"	"you before the rooster crows today you will deny three times that you know me"	
+343	"you"	"is"	"Peter"	
+343	"the rooster"	"crows"	"today"	
+343	"you"	"will deny"	"three times that you know me before the rooster crows today"	
+343	"you"	"will deny"	"three times that you know me"	
+343	"you"	"know"	"me"	
+344	'" ( Luke 22:34 ) Thus it happened ( Luke 22:61 ) , and Peter cried bitterly . 
+344	"344"	"is"	"Luke 22:34"	
+344	"344"	"it happened"	"Luke 22:61 cried bitterly"	
+344	"344"	"it happened"	"22:61 Peter cried bitterly"	
+344	"it"	"344 happened"	"Luke 22:61 cried bitterly"	
+344	"it"	"344 happened"	"22:61 Peter cried bitterly"	
+344	"Luke 22:61"	"cried"	"bitterly"	
+344	"22:61 Peter"	"cried"	"bitterly"	
+345	This made the cock a symbol for both vigilance and betrayal . 
+345	"This"	"made"	"the cock a symbol for vigilance 345"	
+345	"This"	"made"	"the cock a symbol for betrayal 345"	
+346	Earlier , Jesus compares himself to a mother hen when talking about Jerusalem : " O Jerusalem , Jerusalem , you who kill the prophets and stone those sent to you , how often I have longed to gather your children together , as a hen gathers her chicks under her wings , but you were not willing . 
+346	"Jesus"	"compares"	"himself O Jerusalem 346 Earlier"	
+346	"Jesus"	"compares"	"himself O Jerusalem 346 Earlier"	
+346	"Jesus"	"compares"	"himself to a mother hen O Jerusalem"	
+346	"Jesus"	"compares"	"himself to a mother hen O Jerusalem"	
+346	"Jesus"	"compares"	"himself when talking about Jerusalem O Jerusalem"	
+346	"Jesus"	"compares"	"himself when talking about Jerusalem O Jerusalem"	
+346	"Jesus"	"compares"	"himself O Jerusalem"	
+346	"Jesus"	"compares"	"himself O Jerusalem"	
+346	"O Jerusalem"	"is in"	"Jerusalem"	
+346	"O Jerusalem"	"is"	"you"	
+346	"you"	"kill"	"the prophets those sent to you"	
+346	"you"	"kill"	"the stone those sent to you"	
+346	"those"	"be sent"	"to you"	
+346	"I"	"have longed"	"to gather your children together how often"	
+346	"I"	"have longed"	"to gather your children how often"	
+346	"I"	"have longed"	"to gather your children together as a hen gathers her chicks under her wings"	
+346	"I"	"have longed"	"to gather your children as a hen gathers her chicks under her wings"	
+346	"I"	"have longed"	"to gather your children together"	
+346	"I"	"have longed"	"to gather your children"	
+346	"your"	"has"	"children"	
+346	"a hen"	"gathers"	"her chicks under her wings"	
+346	"a hen"	"gathers"	"her chicks"	
+346	"her"	"has"	"chicks"	
+346	"her"	"has"	"wings"	
+346	"you"	"were not"	"willing"	
+347	" ( Matthew 23:37 ; also Luke 13:34) . 
+348	In many Central Europe folk tale , the devil is believed to flee at the first crowing of a cock . 
+348	"the devil"	"is believed"	"to flee at the first crowing of a cock 348 In many Central Europe folk tale"	
+348	"the devil"	"is believed"	"to flee at the first crowing of a cock"	
+349	In traditional Jewish practice , a kosher animal is swung around the head and then slaughtered on the afternoon before Yom Kippur , the Day of Atonement , in a ritual called kapparos . 
+349	"349 In traditional Jewish practice in a ritual called kapparos"	"is"	"the Day of Atonement"	
+349	"a kosher animal"	"is swung"	"around the head 349 In traditional Jewish practice in a ritual called kapparos"	
+349	"a kosher animal"	"is swung"	"349 In traditional Jewish practice in a ritual called kapparos"	
+349	"a kosher animal"	"is slaughtered"	"349 In traditional Jewish practice in a ritual called kapparos around the head"	
+349	"a kosher animal"	"is slaughtered"	"on the afternoon before Yom Kippur 349 In traditional Jewish practice in a ritual called kapparos"	
+349	"a kosher animal"	"is slaughtered"	"349 In traditional Jewish practice in a ritual called kapparos"	
+349	"a ritual"	"be called"	
+350	A chicken or fish is typically used because it is commonly available ( and small enough to hold ) . 
+350	"350 A chicken"	"is used"	"because it is commonly available enough to hold typically"	
+350	"350 A chicken"	"is used"	"because it is commonly available small to hold typically"	
+350	"350 A fish"	"is used"	"because it is commonly available enough to hold typically"	
+350	"350 A fish"	"is used"	"because it is commonly available small to hold typically"	
+350	"350 A chicken"	"is used"	"because it is commonly available enough to hold"	
+350	"350 A chicken"	"is used"	"because it is commonly available small to hold"	
+350	"350 A fish"	"is used"	"because it is commonly available enough to hold"	
+350	"350 A fish"	"is used"	"because it is commonly available small to hold"	
+350	"it"	"is available enough to hold"	"commonly"	
+350	"it"	"is available small to hold"	"commonly"	
+350	"it"	"is"	"available enough to hold"	
+350	"it"	"is"	"available small to hold"	
+351	The sacrifice of the animal is to receive atonement , for the animal symbolically takes on all the person 's sins in kapparos . 
+351	"351 The sacrifice of the animal"	"is"	"to receive atonement for the animal"	
+351	"351 The sacrifice of the animal"	"is"	"to receive atonement"	
+351	"all the person"	"has"	"sins in kapparos"	
+352	The meat is then donated to the poor . 
+352	"352 The meat"	"is donated"	"to the poor"	
+353	A woman brings a hen for the ceremony , while a man brings a rooster . 
+353	"353 A woman"	"brings"	"a hen for the ceremony while a man brings a rooster"	
+353	"353 A woman"	"brings"	"a hen for the ceremony"	
+353	"a man"	"brings"	"a rooster"	
+354	Although not actually a sacrifice in the biblical sense , the death of the animal reminds the penitent sinner that his or her life is in God 's hands . 
+354	"the death of the animal"	"reminds"	"the penitent sinner that his is in God 's hands 354 Although not actually a sacrifice in the biblical sense"	
+354	"the death of the animal"	"reminds"	"the penitent sinner that her life is in God 's hands 354 Although not actually a sacrifice in the biblical sense"	
+354	"her"	"has"	"life"	
+354	"his"	"is"	"in God 's hands"	
+354	"her life"	"is"	"in God 's hands"	
+354	"God"	"has"	"hands"	
+355	The Talmud speaks of learning " courtesy toward one 's mate " from the rooster ( Eruvin 100b ) . 
+355	"355 The Talmud"	"speaks"	"of learning courtesy toward one 's mate from the rooster"	
+355	"one"	"has"	"mate"	
+355	"the rooster"	"is"	"Eruvin 100b"	
+356	This might refer to the fact that when a rooster finds something good to eat , he calls his hens to eat first . 
+356	"This"	"might refer"	"to the fact that when a rooster finds something good to eat he calls his hens to eat first 356"	
+356	"This"	"might refer"	"356"	
+356	"a rooster"	"finds"	"something good to eat when"	
+356	"a rooster"	"finds"	"something good to eat"	
+356	"he"	"calls"	"his hens to eat first when a rooster finds something good to eat"	
+356	"he"	"calls"	"his hens to eat first"	
+356	"his"	"has"	"hens"	
+356	"his hens"	"to eat"	"first"	
+357	The chicken is one of the Zodiac symbols of the Chinese calendar . 
+357	"357 The chicken"	"is one"	"of the Zodiac symbols of the Chinese calendar"	
+357	"357 The chicken"	"is"	"one"	
+358	Also in Chinese religion , a cooked chicken as a religious offering is usually limited to ancestor veneration and worship of village deities . 
+358	"358 Also in Chinese religion"	"is"	"a cooked chicken as a religious offering"	
+358	"358 Also in Chinese religion"	"is limited"	"to ancestor veneration of village deities usually"	
+358	"358 Also in Chinese religion"	"is limited"	"to ancestor worship of village deities usually"	
+358	"358 Also in Chinese religion"	"is limited"	"to ancestor veneration of village deities"	
+358	"358 Also in Chinese religion"	"is limited"	"to ancestor worship of village deities"	
+359	Vegetarian deities such as the Buddha are not one of the recipients of such offerings . 
+359	"359 Vegetarian deities such as the Buddha"	"are not one"	"of the recipients of such offerings"	
+359	"359 Vegetarian deities such as the Buddha"	"are not"	"one"	
+360	Under some observations , an offering of chicken is presented with " serious " prayer ( while roasted pork is offered during a joyous celebration ) . 
+360	"an offering of chicken"	"is presented"	"with serious prayer 360 Under some observations"	
+360	"an offering of chicken"	"is presented"	"with serious prayer"	
+360	"roasted pork"	"is offered"	"during a joyous celebration"	
+361	In Confucian Chinese Wedding , a chicken can be used as a substitute for one who is seriously ill or not available ( e .g 
+362	. 
+363	sudden death ) to attend the ceremony . 
+363	"363 sudden death"	"be attend"	"the ceremony"	
+364	A red silk scarf is placed on the chicken 's head and a close relative of the absent bride/groom holds the chicken so the ceremony may proceed . 
+364	"364 A red silk scarf"	"is placed"	"on the chicken 's head"	
+364	"the chicken"	"has"	"head"	
+364	"a close relative of the absent bride/groom"	"holds"	"the chicken so the ceremony may proceed"	
+364	"a close relative of the absent bride/groom"	"holds"	"the chicken"	
+364	"the ceremony"	"may proceed"	
+365	However , this practice is rare today . 
+365	"this practice"	"is rare"	"365 However today"	
+365	"this practice"	"is rare"	"365 However"	
+366	A cockatrice was supposed to have been born from an egg laid by a rooster , as well as killed by a Rooster 's call . 
+366	"366 A cockatrice"	"was supposed"	"to have been born from an egg laid by a rooster"	
+366	"366 A cockatrice"	"was supposed"	"to have been killed by a Rooster 's call from an egg laid by a rooster"	
+366	"366 A cockatrice"	"was supposed"	"to have been killed by a Rooster 's call"	
+366	"an egg"	"be laid"	"by a rooster"	
+366	"a Rooster"	"has"	"call"	
+367	thumbleftTheRed Junglefowl An early domestication of chickens in Southeast Asia is probable , since the word for domestic chicken ( *manuk ) is part of the reconstructed Proto-Austronesian language ( see Austronesian languages ) . 
+367	"367 thumbleftTheRed Junglefowl An early domestication of chickens in Southeast Asia"	"is probable"	"since the word for domestic chicken is part of the reconstructed Proto-Austronesian language see Austronesian languages"	
+367	"367 thumbleftTheRed Junglefowl An early domestication of chickens in Southeast Asia"	"is"	"probable"	
+367	"domestic chicken"	"is"	"* manuk"	
+367	"the word for domestic chicken"	"is part see Austronesian languages"	"of the reconstructed Proto-Austronesian language"	
+367	"the word for domestic chicken"	"is"	"part see Austronesian languages"	
+368	Chickens , together with dogs and pig , were the domestic animals of the Lapita culture , the first Neolithic culture of Oceania . 
+368	"368 Chickens together with dogs"	"were the domestic animals"	"of the Lapita culture"	
+368	"368 Chickens together with pig"	"were the domestic animals"	"of the Lapita culture"	
+368	"368 Chickens together with dogs"	"were"	"the domestic animals"	
+368	"368 Chickens together with pig"	"were"	"the domestic animals"	
+368	"368 Chickens together with dogs were the domestic animals of the Lapita culture"	"is"	"the first Neolithic culture of Oceania"	
+368	"368 Chickens together with pig were the domestic animals of the Lapita culture"	"is"	"the first Neolithic culture of Oceania"	
+369	The first pictures of chickens in Europe are found on Corinthian pottery of the 7th century BC . 
+369	"369 The first pictures of chickens in Europe"	"are found"	"on Corinthian pottery of the 7th century BC"	
+370	The poet Cratinus ( mid-5th century BC , according to the later Greek author Athenaeus ) calls the chicken " the Persia alarm" . 
+370	"370 The poet Cratinus mid-5th century BC according to the later Greek author Athenaeus"	"calls"	"the chicken the Persia alarm"	
+371	In Aristophanes 's comedy The Birds ( 414 BC ) a chicken is called " the Median bird" , which points to an introduction from the East . 
+371	"Aristophanes"	"has"	"comedy The Birds"	
+371	"Aristophanes 's comedy The Birds"	"is"	"414 BC"	
+371	"a chicken"	"is called"	
+371	"which"	"points"	"to an introduction from the East"	
+372	Pictures of chickens are found on Greek red figure and black-figure pottery . 
+372	"372 Pictures of chickens"	"are found"	"on Greek red figure"	
+372	"372 Pictures of chickens"	"are found"	"on Greek red black-figure pottery"	
+373	In ancient Greece , chickens were still rare and were a rather prestigious food for symposia . 
+373	"chickens"	"were 373 In ancient Greece rare"	"still"	
+373	"chickens"	"were"	"373 In ancient Greece rare"	
+373	"chickens"	"were were 373 In ancient Greece a rather prestigious food"	"still"	
+373	"chickens"	"were were 373 In ancient Greece a rather prestigious food"	"for symposia"	
+373	"chickens"	"were were"	"373 In ancient Greece a rather prestigious food"	
+374	Delos seems to have been a center of chicken breeding . 
+374	"374 Delos"	"seems"	"to have been a center of chicken breeding"	
+374	"374 Delos"	"seems"	"to have been a center"	
+375	The Roman used chickens for oracles , both when flying ( "ex avibus" , Augury ) and when feeding ( "auspicium ex tripudiis" , Alectryomancy ) . 
+375	"auspicium ex tripudiis"	"is"	"Alectryomancy"	
+376	The hen ( "gallina" ) gave a favourable omen ( "auspicium ratum" ) , when appearing from the left ( Cic. 
+376	"376 The hen"	"is"	"gallina"	
+376	"376 The hen"	"gave"	"a favourable omen when appearing from the left Cic"	
+376	"376 The hen"	"gave"	"a favourable omen"	
+377	,de Div. 
+378	ii .26 
+379	) , like the crow and the owl . 
+380	For the oracle "ex tripudiis " according to Cicero ( Cic . 
+380	"380 For the oracle ex tripudiis"	"according"	"to Cicero Cic"	
+381	de Div. 
+382	ii .34) 
+383	, any bird could be used , but normally only chickens ( "pulli" ) were consulted . 
+383	"any bird"	"could be used"	
+383	"normally only chickens pulli"	"were consulted"	
+384	The chickens were cared for by the pullarius , who opened their cage and fed them pulses or a special kind of soft cake when an augury was needed . 
+384	"384 The chickens"	"were cared"	"for by the pullarius"	
+384	"the pullarius"	"opened"	"their cage"	
+384	"the pullarius"	"fed"	"their cage them pulses when an augury was needed"	
+384	"the pullarius"	"fed"	"their cage them a special kind of soft cake when an augury was needed"	
+384	"the pullarius"	"fed"	"their cage them pulses"	
+384	"the pullarius"	"fed"	"their cage them a special kind of soft cake"	
+384	"their"	"has"	"cage"	
+384	"them"	"pulses"	
+384	"them"	"a special kind of soft cake"	
+384	"an augury"	"was needed"	"when"	
+384	"an augury"	"was needed"	
+385	If the chickens stayed in their cage , made noises ( "occinerent " ) , beat their wings or flew away , the omen was bad ; if they ate greedily , the omen was good . 
+385	"the chickens"	"stayed"	"in their cage"	
+385	"their"	"has"	"cage"	
+385	"385 If the chickens stayed in their cage"	"made"	"noises"	
+385	"385 If the chickens stayed in their cage"	"beat"	"noises their wings"	
+385	"385 If the chickens stayed in their cage"	"flew"	"noises away"	
+385	"385 If the chickens stayed in their cage"	"flew"	"noises"	
+385	"noises"	"is"	"occinerent"	
+385	"their"	"has"	"wings"	
+385	"the omen"	"was"	"bad"	
+385	"they"	"ate"	"greedily"	
+385	"the omen"	"was good"	"if they ate greedily"	
+385	"the omen"	"was"	"good"	
+386	In 249 BC , the Roman general Publius Claudius Pulcher had his chickens thrown overboard when they refused to feed before the battle of Drepana , saying " If they wo n't eat , perhaps they will drink . 
+386	"the Roman general Publius Claudius Pulcher"	"had"	"his chickens thrown overboard when they refused to feed before the battle of Drepana 386 In 249 BC"	
+386	"the Roman general Publius Claudius Pulcher"	"had"	"his chickens thrown overboard 386 In 249 BC"	
+386	"his"	"has"	"chickens thrown overboard"	
+386	"his chickens"	"be thrown"	"overboard"	
+386	"they"	"refused"	"to feed before the battle of Drepana when"	
+386	"they"	"refused"	"to feed before the battle of Drepana"	
+386	"386 In 249 BC"	"saying"	"If they wo n't eat"	
+386	"they"	"wo n't eat"	
+386	"they"	"will drink"	"perhaps"	
+386	"they"	"will drink"	
+387	" He promptly lost the battle against the Carthaginian and 93 Roman ships were sunk . 
+387	"He"	"lost"	"the battle against the Carthaginian were sunk promptly"	
+387	"He"	"lost"	"the battle against the 93 Roman ships were sunk promptly"	
+387	"He"	"lost"	"the battle against the Carthaginian were sunk"	
+387	"He"	"lost"	"the battle against the 93 Roman ships were sunk"	
+387	"Carthaginian"	"the were sunk"	
+387	"93 Roman ships"	"the were sunk"	
+388	Back in Rome , he was tried for impiety and heavily fined . 
+388	"he"	"was tried"	"for impiety 388 Back in Rome"	
+388	"he"	"was tried"	"for heavily fined 388 Back in Rome"	
+388	"he"	"was tried"	"for impiety"	
+388	"he"	"was tried"	"for heavily fined"	
+389	In 161 BC , a law was passed in Rome that forbade the consumption of fattened chickens . 
+389	"a law"	"was passed"	"in Rome 389 In 161 BC"	
+389	"a law"	"was passed"	"389 In 161 BC"	
+389	"that"	"forbade"	"the consumption of fattened chickens"	
+390	It was renewed a number of times , but does not seem to have been successful . 
+390	"It"	"was renewed"	"a number of times 390"	
+390	"It"	"was renewed"	"a number of times does not seem to have been successful"	
+391	Fattening chickens with bread soaked in milk was thought to give especially delicious results . 
+391	"bread"	"be soaked"	"in milk"	
+391	"391 Fattening chickens with bread soaked in milk"	"was thought"	"to give especially delicious results"	
+392	The Roman gourmet Apicius offers 17 recipes for chicken , mainly boiled chicken with a sauce . 
+392	"392"	"be boiled"	"mainly chicken with a sauce"	
+392	"392"	"be boiled"	"mainly chicken"	
+392	"The Roman gourmet Apicius"	"offers"	"17 recipes for chicken 392 mainly boiled chicken with a sauce"	
+393	All parts of the animal are used : the recipe include the stomach , liver , testicle and even the pygostyle ( the fatty "tail " of the chicken where the tail feathers attach ) . 
+393	"393 All parts of the animal"	"are used"	
+393	"the recipe"	"include"	"the stomach the pygostyle the fatty tail of the chicken"	
+393	"the recipe"	"include"	"the liver the pygostyle the fatty tail of the chicken"	
+393	"the recipe"	"include"	"the testicle the pygostyle the fatty tail of the chicken"	
+393	"the recipe"	"include"	"the even the pygostyle the fatty tail of the chicken"	
+393	"the tail feathers"	"attach"	"the chicken where"	
+393	"the tail feathers"	"attach"	"the chicken"	
+394	The Roman author Columella gives advice on chicken breeding in his eighth book of his treatise on agriculture . 
+394	"The Roman author Columella"	"gives"	"advice on chicken breeding in his eighth book of his treatise on agriculture 394"	
+394	"The Roman author Columella"	"gives"	"advice on chicken breeding 394"	
+394	"his"	"has"	"eighth book of his treatise on agriculture"	
+394	"his"	"has"	"treatise on agriculture"	
+395	He identifies Tanagrian , Rhodic , Chalkidic and Median ( commonly misidentified as Melian ) breeds , which have an impressive appearance , a quarrelsome nature and were used for cockfighting by the Greeks . 
+395	"He"	"identifies"	"Tanagrian 395"	
+395	"He"	"identifies"	"Rhodic 395"	
+395	"He"	"identifies"	"Chalkidic 395"	
+395	"He"	"identifies"	"Median commonly misidentified as Melian breeds 395"	
+395	"as Melian breeds"	"is"	"a quarrelsome nature"	
+395	"as Melian breeds"	"is"	"a quarrelsome were used for cockfighting by the Greeks"	
+395	"as Melian breeds"	"have"	"an impressive appearance"	
+396	For farming , native ( Roman ) chickens are to be preferred , or a cross between native hens and Greek cocks . 
+396	"native Roman chickens"	"are"	"to be preferred"	
+396	"native Roman chickens"	"are"	"to be a cross between native hens and Greek cocks"	
+397	Dwarf chickens are nice to watch because of their size but have no other advantages . 
+397	"397 Dwarf chickens"	"are nice"	"to watch because of their size"	
+397	"397 Dwarf chickens"	"are nice"	"to watch"	
+397	"397 Dwarf chickens"	"are"	"have to watch because of their size no other advantages"	
+397	"397 Dwarf chickens"	"are"	"have to watch no other advantages"	
+397	"their"	"has"	"size"	
+398	Per Columella , the ideal flock consists of 200 birds , which can be supervised by one person if someone is watching for stray animals . 
+398	"the ideal flock"	"consists"	"of 200 birds 398 Per Columella"	
+398	"the ideal flock"	"consists"	"398 Per Columella"	
+398	"200 birds"	"can be supervised"	"by one person if someone is watching for stray animals"	
+398	"200 birds"	"can be supervised"	"by one person"	
+398	"someone"	"is watching"	"for stray animals"	
+399	White chickens should be avoided as they are not very fertile and are easily caught by eagles or goshawks . 
+399	"399 White chickens"	"should be avoided"	"as they are not very fertile"	
+399	"399 White chickens"	"should be avoided"	"as they are not very are easily caught by eagles"	
+399	"399 White chickens"	"should be avoided"	"as they are not very are easily caught by goshawks"	
+399	"they"	"are not fertile"	"very"	
+399	"they"	"are not"	"fertile"	
+399	"they"	"are not are caught"	"very"	
+399	"they"	"are not are caught"	"easily"	
+399	"they"	"are not are caught"	"by eagles"	
+399	"they"	"are not are caught"	"by goshawks"	
+399	"they"	"are not are"	"caught"	
+400	One cock should be kept for five hens . 
+400	"400 One cock"	"should be kept"	"for five hens"	
+401	In the case of Rhodian and Median cocks that are very heavy and therefore not much inclined to sex , only three hens are kept per cock . 
+401	"Rhodian cocks"	"are heavy"	"very"	
+401	"Median cocks"	"are heavy"	"very"	
+401	"Rhodian cocks"	"are therefore not much inclined to sex"	"very"	
+401	"Median cocks"	"are therefore not much inclined to sex"	"very"	
+401	"Rhodian cocks"	"are"	"heavy"	
+401	"Median cocks"	"are"	"heavy"	
+401	"Rhodian cocks"	"are"	"therefore not much inclined to sex"	
+401	"Median cocks"	"are"	"therefore not much inclined to sex"	
+401	"only three hens"	"are kept"	"per cock"	
+401	"only three hens"	"are kept"	"per cock"	
+402	The hens of heavy fowls are not much inclined to brood ; therefore their eggs are best hatched by normal hens . 
+402	"402 The hens of heavy fowls"	"are not"	"much inclined to brood"	
+402	"their"	"has"	"eggs"	
+402	"their eggs"	"are hatched"	"by normal hens therefore"	
+402	"their eggs"	"are hatched"	"by normal hens best"	
+402	"their eggs"	"are hatched"	"by normal hens"	
+403	A hen can hatch no more than 15-23 eggs , depending on the time of year , and supervise no more than 30 hatchlings . 
+403	"403 A hen"	"can hatch"	"no more than 15-23 eggs depending on the time of year"	
+403	"403 A hen"	"can hatch"	"no more than 15-23 eggs"	
+403	"403 A hen"	"can supervise"	"no more than 15-23 eggs no more than 30 hatchlings depending on the time of year"	
+403	"403 A hen"	"can supervise"	"no more than 15-23 eggs no more than 30 hatchlings"	
+404	Eggs that are long and pointed give more male , rounded eggs mainly female hatchlings . 
+404	"404 Eggs"	"are"	"long"	
+404	"404 Eggs"	"are"	"pointed give more male"	
+404	"404 Eggs"	"rounded"	"eggs"	
+405	Per Columella , chicken coops should face southeast and lie adjacent to the kitchen , as smoke is beneficial for the animals . 
+405	"405 Per Columella"	"is"	"chicken coops"	
+405	"405 Per Columella"	"should face"	"southeast as smoke is beneficial for the animals"	
+405	"405 Per Columella"	"should face"	"southeast"	
+405	"405 Per Columella"	"should lie"	"southeast adjacent to the kitchen as smoke is beneficial for the animals"	
+405	"405 Per Columella"	"should lie"	"southeast adjacent to the kitchen"	
+405	"smoke"	"is beneficial"	"for the animals"	
+405	"smoke"	"is"	"beneficial"	
+406	Coops should consist of three rooms and possess a hearth . 
+406	"406 Coops"	"should consist"	"of three rooms"	
+406	"406 Coops"	"should possess"	"a hearth of three rooms"	
+406	"406 Coops"	"should possess"	"a hearth"	
+407	Dry dust or ash should be provided for dust-baths . 
+407	"407 Dry dust"	"should be provided"	"for dust-baths"	
+407	"407 Dry ash"	"should be provided"	"for dust-baths"	
+408	According to Columella , chicken should be fed on barley groats , small chick-peas , millet and wheat bran , if they are cheap . 
+408	"chicken"	"should be fed"	"on barley groats if they are cheap"	
+408	"chicken"	"should be fed"	"on barley small chick-peas if they are cheap"	
+408	"chicken"	"should be fed"	"on barley millet if they are cheap"	
+408	"chicken"	"should be fed"	"on barley wheat bran if they are cheap"	
+408	"chicken"	"should be fed"	"on barley groats"	
+408	"chicken"	"should be fed"	"on barley small chick-peas"	
+408	"chicken"	"should be fed"	"on barley millet"	
+408	"chicken"	"should be fed"	"on barley wheat bran"	
+408	"they"	"are"	"cheap"	
+409	Wheat itself should be avoided as it is harmful to the birds . 
+409	"409 Wheat itself"	"should be avoided"	"as it is harmful to the birds"	
+409	"it"	"is harmful"	"to the birds"	
+409	"it"	"is"	"harmful"	
+410	Boiled ryegrass ( Lollium sp. 
+411	) and the leaves and seeds of alfalfa ( Medicago sativa L. 
+412	) can be used as well . 
+412	"412"	"can be used"	"as well"	
+413	Grape marc can be used , but only when the hens stop laying eggs , that is , about the middle of November ; otherwise eggs are small and few . 
+413	"413 Grape marc"	"can be used"	
+413	"the hens"	"stop"	"laying eggs only"	
+413	"the hens"	"stop"	"laying eggs only"	
+413	"the hens"	"stop"	"laying eggs when"	
+413	"the hens"	"stop"	"laying eggs when"	
+413	"the hens"	"stop"	"laying eggs"	
+413	"the hens"	"stop"	"laying eggs"	
+413	"that"	"is are small"	"about the middle of November"	
+413	"that"	"is are few"	"about the middle of November"	
+413	"that"	"is are"	"small"	
+413	"that"	"is are"	"few"	
+413	"otherwise eggs"	"is are small"	"about the middle of November"	
+413	"otherwise eggs"	"is are few"	"about the middle of November"	
+413	"otherwise eggs"	"is are"	"small"	
+413	"otherwise eggs"	"is are"	"few"	
+414	When feeding grape marc , it should be supplemented with some bran . 
+414	"it"	"should be supplemented"	"with some bran When feeding grape marc"	
+414	"it"	"should be supplemented"	"with some bran"	
+415	Hens start to lay eggs after the winter solstice , in warm places around the first of January , in colder areas in the middle of February . 
+415	"415 Hens"	"start"	"to lay eggs after the winter solstice in warm places around the first of January"	
+415	"415 Hens"	"start"	"to lay eggs after the winter solstice in colder areas in the middle of February"	
+415	"415 Hens"	"start"	"to lay eggs after the winter solstice"	
+416	Parboiled barley increases their fertility ; this should be mixed with alfalfa leaves and seeds , or vetches or millet if alfalfa is not at hand . 
+416	"416 Parboiled barley"	"increases"	"their fertility"	
+416	"their"	"has"	"fertility"	
+416	"this"	"should be mixed"	"with alfalfa"	
+416	"this"	"should be mixed"	"with alfalfa"	
+416	"this"	"should be mixed"	"with alfalfa"	
+416	"this"	"should be mixed"	"with alfalfa"	
+416	"alfalfa"	"is not"	"at hand"	
+417	Free -ranging chickens should receive two cups of barley daily . 
+417	"417 Free ranging chickens"	"should receive"	"two cups of barley daily"	
+417	"417 Free ranging chickens"	"should receive"	"two cups of barley"	
+418	Columella advises farmers to slaughter hens that are older than three years , because they no longer produce sufficient eggs . 
+418	"418 Columella"	"advises"	"farmers to slaughter hens"	
+418	"418 Columella"	"advises"	"farmers because they no longer produce sufficient eggs"	
+418	"418 Columella"	"advises"	"farmers"	
+418	"slaughter hens"	"are older"	"than three years"	
+418	"slaughter hens"	"are"	"older"	
+418	"they"	"produce"	"sufficient eggs no longer"	
+418	"they"	"produce"	"sufficient eggs"	
+419	Capons were produced by burning out their spurs with a hot iron . 
+419	"419 Capons"	"were produced"	"by burning out their spurs with a hot iron"	
+419	"their"	"has"	"spurs with a hot iron"	
+420	The wound was treated with potter 's chalk . 
+420	"420 The wound"	"was treated"	"with potter 's chalk"	
+420	"potter"	"has"	"chalk"	
+421	For the use of poultry and eggs in the kitchens of ancient Rome see Roman eating and drinking . 
+421	"the use of poultry in the kitchens of ancient Rome"	"see"	"Roman eating 421"	
+421	"the use of poultry in the kitchens of ancient Rome"	"see"	"Roman drinking 421"	
+421	"the use of eggs in the kitchens of ancient Rome"	"see"	"Roman eating 421"	
+421	"the use of eggs in the kitchens of ancient Rome"	"see"	"Roman drinking 421"	
+422	Chickens were spread by Polynesia seafarers and reached Easter Island in the 12th century AD , where they were the only domestic animal , with the possible exception of the Polynesian Rat ( Rattus exulans ) . 
+422	"422 Chickens"	"were spread"	"by Polynesia seafarers"	
+422	"422 Chickens"	"were reached"	"Easter Island by Polynesia seafarers"	
+422	"422 Chickens"	"were reached"	"Easter Island in the 12th century AD"	
+422	"422 Chickens"	"were reached"	"Easter Island with the possible exception of the Polynesian Rat"	
+422	"422 Chickens"	"were reached"	"Easter Island"	
+422	"they"	"were"	"the only domestic animal the 12th century AD where"	
+422	"they"	"were"	"the only domestic animal the 12th century AD"	
+422	"the Polynesian Rat"	"is"	"Rattus exulans"	
+423	They were housed in extremely solid chicken coop built from stone . 
+423	"They"	"were housed"	"in extremely solid chicken coop built from stone 423"	
+423	"They"	"were housed"	"423"	
+423	"extremely solid chicken coop"	"be built"	"from stone"	
+424	An unusual variety of chicken that has its origins in South America is the araucana , bred in southern Chile by Mapuche people . 
+424	"424 An unusual variety of chicken"	"has"	"its origins in South America"	
+424	"its"	"has"	"origins in South America"	
+424	"the araucana"	"be bred"	"in southern Chile by Mapuche people"	
+424	"the araucana"	"be bred"	"in southern Chile"	
+424	"424 An unusual variety of chicken"	"is the araucana"	"bred in southern Chile by Mapuche people"	
+424	"424 An unusual variety of chicken"	"is"	"the araucana"	
+425	Araucanas , some of which are tailless and some of which have tufts of feathers around their ears , lay blue-green eggs . 
+425	"some of which"	"are"	"tailless 425 Araucanas"	
+425	"some of which"	"have"	"tufts of feathers around their ears"	
+425	"their"	"has"	"ears"	
+425	"425 Araucanas"	"lay"	"blue-green eggs"	
+426	It has long been suggested that they predate the arrival of European chickens brought by the Spanish and are evidence of pre-Columbian trans-Pacific contacts between Asian or Pacific Oceanic peoples , particularly the Polynesians and South America . 
+426	"It"	"has been suggested"	"that they predate the arrival of European chickens brought by the Spanish 426 long"	
+426	"It"	"has been suggested"	"that they the arrival of European chickens brought by the Spanish are evidence of pre-Columbian trans-Pacific contacts between Asian Oceanic peoples 426 long"	
+426	"It"	"has been suggested"	"that they the arrival of European chickens brought by the Spanish are evidence of pre-Columbian trans-Pacific contacts between Pacific Oceanic peoples 426 long"	
+426	"It"	"has been suggested"	"that they predate the arrival of European chickens brought by the Spanish 426"	
+426	"It"	"has been suggested"	"that they the arrival of European chickens brought by the Spanish are evidence of pre-Columbian trans-Pacific contacts between Asian Oceanic peoples 426"	
+426	"It"	"has been suggested"	"that they the arrival of European chickens brought by the Spanish are evidence of pre-Columbian trans-Pacific contacts between Pacific Oceanic peoples 426"	
+426	"they"	"predate"	"the arrival of European chickens brought by the Spanish"	
+426	"they"	"are"	"evidence the arrival of European chickens brought by the Spanish of pre-Columbian trans-Pacific contacts between Asian Oceanic peoples"	
+426	"they"	"are"	"evidence the arrival of European chickens brought by the Spanish of pre-Columbian trans-Pacific contacts between Pacific Oceanic peoples"	
+426	"they"	"are"	"evidence the arrival of European chickens brought by the Spanish"	
+426	"European chickens"	"be brought"	"by the Spanish"	
+426	"pre-Columbian trans-Pacific contacts between Asian Oceanic peoples"	"is"	"particularly the Polynesians"	
+426	"pre-Columbian trans-Pacific contacts between Asian Oceanic peoples"	"is"	"particularly the South America"	
+426	"pre-Columbian trans-Pacific contacts between Pacific Oceanic peoples"	"is"	"particularly the Polynesians"	
+426	"pre-Columbian trans-Pacific contacts between Pacific Oceanic peoples"	"is"	"particularly the South America"	
+427	In 2007 , an international team of researchers reported the results of analysis of chicken bones found on the Arauco Peninsula in south central Chile . 
+427	"427 In 2007"	"is"	"an international team of researchers"	
+427	"427 In 2007"	"reported"	"the results of analysis of chicken bones found on the Arauco Peninsula in south central Chile"	
+427	"chicken bones"	"be found"	"on the Arauco Peninsula in south central Chile"	
+427	"chicken bones"	"be found"	"on the Arauco Peninsula"	
+428	Radiocarbon dating suggested that the chickens were Pre-Columbian , and DNA analysis showed that they were related to prehistoric populations of chickens in Polynesia . 
+428	"428 Radiocarbon dating"	"suggested"	"that the chickens were Pre-Columbian"	
+428	"428 Radiocarbon dating"	"suggested"	"that the chickens were DNA analysis showed that they were related to prehistoric populations of chickens in Polynesia"	
+428	"the chickens"	"were"	"Pre-Columbian"	
+428	"DNA analysis"	"showed"	"that they were related to prehistoric populations of chickens in Polynesia"	
+428	"they"	"were related"	"to prehistoric populations of chickens in Polynesia"	
+429	Brendan Borrell , Nature , 5 June 2007 . 
+429	"429 Brendan Borrell 5 June 2007"	"is"	"Nature"	
+430	Retrieved 2007-10-01 . 
+431	These results appeared to confirm that the chickens came from Polynesia and that there were transpacific contacts between Polynesia and South America before Columbus 's arrival in the Americas . 
+431	"431 These results"	"appeared"	"to confirm that the chickens came from Polynesia"	
+431	"431 These results"	"appeared"	"to confirm that the chickens from Polynesia that there were transpacific contacts between Polynesia and South America before Columbus 's arrival in the Americas"	
+431	"the chickens"	"came"	"from Polynesia"	
+431	"transpacific contacts between Polynesia and South America before Columbus 's arrival in the Americas"	"there were"	
+431	"Columbus"	"has"	"arrival in the Americas"	
+432	A. 
+433	A. 
+434	Storey et al . 
+435	, " Radiocarbon and DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile" , Proceedings of the National Academy of Sciences of the United States of America , www.pnas 
+435	"Radiocarbon for a pre-Columbian introduction of Polynesian chickens to Chile Proceedings of the National Academy of Sciences of the United States of America"	"is"	"www.pnas"	
+435	"DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile Proceedings of the National Academy of Sciences of the United States of America"	"is"	"www.pnas"	
+436	.org/cgi/doi/10.1073/pnas.0703993104 
+437	; John Noble Wilford , " First Chickens in Americas were Brought from Polynesia , New York Times , June 5 , 2007 . 
+437	"437 First Chickens in Americas"	"were Brought"	"from Polynesia June 5 2007"	
+437	"437 First Chickens in Americas"	"were Brought"	"from New York Times June 5 2007"	
+437	"John Noble Wilford First Chickens in Americas"	"were Brought"	"from Polynesia June 5 2007"	
+437	"John Noble Wilford First Chickens in Americas"	"were Brought"	"from New York Times June 5 2007"	
+438	However , a later report looking at the same specimens concluded : A published , apparently pre-Columbian , Chilean specimen and six pre-European Polynesian specimens also cluster with the same European/Indian subcontinental/Southeast Asian sequences , providing no support for a Polynesian introduction of chickens to South America . 
+438	"438 However a later report"	"be looking"	"at the same specimens"	
+438	"438 However a later report looking at the same specimens"	"concluded"	
+438	"A published apparently pre-Columbian Chilean specimen"	"cluster"	"providing no support for a Polynesian introduction of chickens to South America also"	
+438	"A published apparently pre-Columbian Chilean six pre-European Polynesian specimens"	"cluster"	"providing no support for a Polynesian introduction of chickens to South America also"	
+438	"A published apparently pre-Columbian Chilean specimen"	"cluster"	"with the same European/Indian subcontinental/Southeast Asian sequences providing no support for a Polynesian introduction of chickens to South America"	
+438	"A published apparently pre-Columbian Chilean six pre-European Polynesian specimens"	"cluster"	"with the same European/Indian subcontinental/Southeast Asian sequences providing no support for a Polynesian introduction of chickens to South America"	
+438	"A published apparently pre-Columbian Chilean specimen"	"cluster"	"providing no support for a Polynesian introduction of chickens to South America"	
+438	"A published apparently pre-Columbian Chilean six pre-European Polynesian specimens"	"cluster"	"providing no support for a Polynesian introduction of chickens to South America"	
+439	In contrast , sequences from two archaeological sites on Easter Island group with an uncommon haplogroup from Indonesia , Japan , and China and may represent a genetic signature of an early Polynesian dispersal . 
+440	Modeling of the potential marine carbon contribution to the Chilean archaeological specimen casts further doubt on claims for pre-Columbian chickens , and definitive proof will require further analyses of ancient DNA sequences and radiocarbon and stable isotope data from archaeological excavations within both Chile and Polynesia . 
+440	"440 Modeling of the potential marine carbon contribution to the Chilean archaeological specimen"	"casts"	"further doubt on claims for pre-Columbian chickens"	
+440	"440 Modeling of the potential marine carbon contribution to the Chilean archaeological specimen"	"casts"	"further doubt"	
+440	"definitive proof"	"will require"	"further analyses of ancient DNA sequences from archaeological excavations within Chile"	
+440	"definitive proof"	"will require"	"further analyses of ancient DNA radiocarbon from archaeological excavations within Chile"	
+440	"definitive proof"	"will require"	"further analyses of ancient DNA radiocarbon from archaeological excavations within Polynesia"	
+440	"definitive proof"	"will require"	"further analyses of ancient DNA stable isotope data from archaeological excavations within Chile"	
+440	"definitive proof"	"will require"	"further analyses of ancient DNA stable isotope data from archaeological excavations within Polynesia"	
+440	"definitive proof"	"will require"	"further analyses of ancient DNA sequences from archaeological excavations within Polynesia"	
+441	'' Indo-European and Asian origins for Chileanand Pacific chickens revealed by mtDNA . 
+441	"441 Indo-European origins for Chileanand Pacific chickens"	"revealed"	"by mtDNA"	
+441	"441 Asian origins for Chileanand Pacific chickens"	"revealed"	"by mtDNA"	
+442	'' Jaime Gongora , Nicolas J. 
+442	"442 Jaime Gongora"	"is"	"Nicolas J."	
+443	Rawlence , Victor A. 
+443	"443 Rawlence"	"is"	"Victor A."	
+444	Mobegi , Han Jianlin , Jose A. 
+444	"444 Mobegi"	"is"	"Jose A."	
+444	"444 Han Jianlin"	"is"	"Jose A."	
+445	Alcalde , Jose T. 
+445	"445 Alcalde"	"is"	"Jose T."	
+446	Matus , Olivier Hanotte , Chris Moran , J. 
+446	"446 Matus"	"is"	"Olivier Hanotte"	
+446	"446 Matus"	"is"	"Chris Moran"	
+446	"446 Matus"	"is"	"J."	
+447	Austin , Sean Ulm , Atholl J. 
+447	"447 Austin"	"is"	"Sean Ulm"	
+447	"447 Austin"	"is"	"Atholl J."	
+448	Anderson , Greger Larson and Alan Cooper , " Indo-European and Asian origins for Chilean and Pacific chickens revealed by mtDNA " PNAS July 29 , 2008 vol . 
+448	"448 Anderson Indo-European origins for Chilean chickens"	"revealed"	"by mtDNA PNAS July 29"	
+448	"448 Greger Larson Indo-European and Asian origins for Chilean and Pacific chickens"	"revealed"	"by mtDNA PNAS July 29"	
+448	"448 Alan Cooper Indo-European and Asian origins for Chilean and Pacific chickens"	"revealed"	"by mtDNA PNAS July 29"	
+448	"448 Anderson Asian origins for Chilean and Pacific chickens"	"revealed"	"by mtDNA PNAS July 29"	
+448	"448 Anderson Indo-European origins for Pacific chickens"	"revealed"	"by mtDNA PNAS July 29"	
+448	"July 29"	"is"	"2008 vol"	
+449	105 no 30 thumbright240pxChicks before their first outing 30em Gallus gallus domesticus Chicken Chickens Category :Chicken Category :Animals described in 1758 Category :Birds kept as pets Category :Junglefowls Category : United States state birds am :ዶሮ ang:Cicen ar :دجاجة an:Gallus gallus domesticus frp:Gallus gallus domesticus av :ГӀанкӀу ay:Chiwchi az:Toyuq bjn :Hayam bn :মুরগ ি zh-min-nan :Ke be :Курыца be-x-old :Курыца ( птушка ) bcl :Manok bo :བྱ་ཏེ ་ bs :Kokoška br :Yar ( evn ) bg :Домашна кокошка ca :Gall cs :Kur domácí sn : Huku tum :Nkhuku cy :Iâr ( ddof ) da :Høns pdc :Hinkel de :Haushuhn nv:Naaʼahóóhai et :Kana el :Όρνιθα eml:Gal es :Gallus gallus domesticus eo:Koko ( birdo ) eu:Oilo fa :مرغ خانگی hif:Murgi fr:Gallus gallus domesticus fur:Gjaline ga :Sicín gd:Cearc gl:Galiña gan :雞 hak :Kiê-é ko :닭 ha:Kaza hi :मुर्ग ी hr:Domaća kokoš io:Hano id :Ayam iu :ᐊ'ᐊ 'ᐋᒃ is :Kjúklingur it :Gallus gallus domesticus he :תרנגול הבית jv:Pitik pam :Manuk ka :ქათამი ks :کۄکَر csb:Kùra rw :Inkoko sw :Kuku ku:Mirîşk koi:Курӧг lbe :АьнакӀи la:Gallus lv:Mājas vista lb :Haushong lt :Višta ln :Nsósó hu:Házityúk ml :കോഴ ി mr :कोंबड ी arz :فرخه mzn :کرک ms :Ayam mdf :Сараз nah:Cuānaca fj:Toa nl :Kip (vogel ) cr :Pakakuan ne :कुखुर ा ja :ニワトリ ce :Kotam no: Tamhøns nn :Høns oc:Gallus gallus nso:Kgogo pnb :ککڑ pcd :Poulhe nds :Hohn pl:Kura domowa pt:Gallus gallus domesticus ro:Găină qu :Wallpa rue :Курка ru:Курица sc:Pudda sco:Chicken sq:Pula ( shpend ) scn :Jaddina simple :Chicken sd :ڪڪڙ sk :Kura domáca sl :Domača kokoš so :Dooro sr :Кокошка sh :Domaća kokoš su:Hayam fi:Kana sv:Tamhöna tl:Manok ta :கோழ ி roa-tara:Jadde tt :Өй тавыгы te :కోడ ి th :ไก ่ tg :Мурғ tr: Tavuk udm :Курег uk :Курка ur :مرغی vi:Gà fiu-vro:Kana wa:Poye vls : Henne war :Manók wo :Ganaar wuu :鸡 yi :האן zh-yue :雞 diq:Kerge bat-smg :Vėšta zh :鸡 Abnormal behaviour of birds in captivity Unihemispheric slow-wave sleep Bantam ( poultry ) Chicken fat Chicken hypnotism Chicken or the egg Chickenpox Chook raffle - a type of raffle where the prize is a chicken . 
+449	"their"	"has"	"first outing 30em Gallus gallus"	
+449	"their first outing 30em Gallus gallus"	"domesticus"	"Chicken Chickens Category Chicken Category Animals described in 1758 Category Birds kept as pets Category Junglefowls Category United States state birds am ዶሮ ang Cicen ar دجاجة an Gallus gallus domesticus frp Gallus gallus domesticus av ГӀанкӀу ay Chiwchi az Toyuq bjn Hayam bn মুরগ ি zh-min-nan Ke be Курыца be-x-old Курыца bcl Manok bo བ ཏ bs Kokoška br Yar bg Домашна кокошка ca Gall cs Kur domácí sn Huku tum Nkhuku cy Iâr da Høns pdc Hinkel de Haushuhn nv Naaʼahóóhai et Kana el Όρνιθα eml Gal es Gallus gallus domesticus eo Koko eu Oilo fa مرغ خانگی hif Murgi fr Gallus gallus domesticus fur Gjaline ga Sicín gd Cearc gl Galiña gan 雞 hak Kiê-é ko 닭 ha Kaza hi मुर्ग ी hr Domaća kokoš io Hano id Ayam iu ᐊ ᐊ ᐋᒃ is Kjúklingur it Gallus gallus domesticus he תרנגול הבית jv Pitik pam Manuk ka ქათამი ks کۄکَر csb Kùra rw Inkoko sw Kuku ku Mirîşk koi Курӧг lbe АьнакӀи la Gallus lv Mājas vista lb Haushong lt Višta ln Nsósó hu Házityúk ml ക ഴ ി mr कोंबड ी arz فرخه mzn کرک ms Ayam mdf Сараз nah Cuānaca fj Toa nl Kip cr Pakakuan ne कुखुर ा ja ニワトリ ce Kotam no Tamhøns nn Høns oc Gallus gallus nso Kgogo pnb ککڑ pcd Poulhe nds Hohn pl Kura domowa pt Gallus gallus domesticus ro Găină qu Wallpa rue Курка ru Курица sc Pudda sco Chicken sq Pula scn Jaddina simple Chicken sd ڪڪڙ sk Kura domáca sl Domača kokoš so Dooro sr Кокошка sh Domaća kokoš su Hayam fi Kana sv Tamhöna tl Manok ta கோழ ி roa-tara Jadde tt Өй тавыгы te కోడ ి th ไก ่ tg Мурғ tr Tavuk udm Курег uk Курка ur مرغی vi Gà fiu-vro Kana wa Poye vls Henne war Manók wo Ganaar wuu 鸡 yi האן zh-yue 雞 diq Kerge bat-smg Vėšta zh 鸡 Abnormal behaviour of birds in captivity Unihemispheric slow-wave sleep Bantam Chicken fat Chicken hypnotism Chicken a type of raffle"	
+449	"their first outing 30em Gallus gallus"	"domesticus"	"Chicken Chickens Category Chicken Category Animals described in 1758 Category Birds kept as pets Category Junglefowls Category United States state birds am ዶሮ ang Cicen ar دجاجة an Gallus gallus domesticus frp Gallus gallus domesticus av ГӀанкӀу ay Chiwchi az Toyuq bjn Hayam bn মুরগ ি zh-min-nan Ke be Курыца be-x-old Курыца bcl Manok bo བ ཏ bs Kokoška br Yar bg Домашна кокошка ca Gall cs Kur domácí sn Huku tum Nkhuku cy Iâr da Høns pdc Hinkel de Haushuhn nv Naaʼahóóhai et Kana el Όρνιθα eml Gal es Gallus gallus domesticus eo Koko eu Oilo fa مرغ خانگی hif Murgi fr Gallus gallus domesticus fur Gjaline ga Sicín gd Cearc gl Galiña gan 雞 hak Kiê-é ko 닭 ha Kaza hi मुर्ग ी hr Domaća kokoš io Hano id Ayam iu ᐊ ᐊ ᐋᒃ is Kjúklingur it Gallus gallus domesticus he תרנגול הבית jv Pitik pam Manuk ka ქათამი ks کۄکَر csb Kùra rw Inkoko sw Kuku ku Mirîşk koi Курӧг lbe АьнакӀи la Gallus lv Mājas vista lb Haushong lt Višta ln Nsósó hu Házityúk ml ക ഴ ി mr कोंबड ी arz فرخه mzn کرک ms Ayam mdf Сараз nah Cuānaca fj Toa nl Kip cr Pakakuan ne कुखुर ा ja ニワトリ ce Kotam no Tamhøns nn Høns oc Gallus gallus nso Kgogo pnb ککڑ pcd Poulhe nds Hohn pl Kura domowa pt Gallus gallus domesticus ro Găină qu Wallpa rue Курка ru Курица sc Pudda sco Chicken sq Pula scn Jaddina simple Chicken sd ڪڪڙ sk Kura domáca sl Domača kokoš so Dooro sr Кокошка sh Domaća kokoš su Hayam fi Kana sv Tamhöna tl Manok ta கோழ ி roa-tara Jadde tt Өй тавыгы te కోడ ి th ไก ่ tg Мурғ tr Tavuk udm Курег uk Курка ur مرغی vi Gà fiu-vro Kana wa Poye vls Henne war Manók wo Ganaar wuu 鸡 yi האן zh-yue 雞 diq Kerge bat-smg Vėšta zh 鸡 Abnormal behaviour of birds in captivity Unihemispheric slow-wave sleep Bantam Chicken fat Chicken hypnotism the egg Chickenpox Chook raffle a type of raffle"	
+449	"Animals Birds kept as pets Category Junglefowls Category United States state birds am ዶሮ ang Cicen ar دجاجة an Gallus gallus domesticus frp Gallus gallus domesticus av ГӀанкӀу ay Chiwchi az Toyuq bjn Hayam bn মুরগ ি zh-min-nan Ke be Курыца be-x-old Курыца bcl Manok bo བ ཏ bs Kokoška br Yar bg Домашна кокошка ca Gall cs Kur domácí sn Huku tum Nkhuku cy Iâr da Høns pdc Hinkel de Haushuhn nv Naaʼahóóhai et Kana el Όρνιθα eml Gal es Gallus gallus domesticus eo Koko eu Oilo fa مرغ خانگی hif Murgi fr Gallus gallus domesticus fur Gjaline ga Sicín gd Cearc gl Galiña gan 雞 hak Kiê-é ko 닭 ha Kaza hi मुर्ग ी hr Domaća kokoš io Hano id Ayam iu ᐊ ᐊ ᐋᒃ is Kjúklingur it Gallus gallus domesticus he תרנגול הבית jv Pitik pam Manuk ka ქათამი ks کۄکَر csb Kùra rw Inkoko sw Kuku ku Mirîşk koi Курӧг lbe АьнакӀи la Gallus lv Mājas vista lb Haushong lt Višta ln Nsósó hu Házityúk ml ക ഴ ി mr कोंबड ी arz فرخه mzn کرک ms Ayam mdf Сараз nah Cuānaca fj Toa nl Kip cr Pakakuan ne कुखुर ा ja ニワトリ ce Kotam no Tamhøns nn Høns oc Gallus gallus nso Kgogo pnb ککڑ pcd Poulhe nds Hohn pl Kura domowa pt Gallus gallus domesticus ro Găină qu Wallpa rue Курка ru Курица sc Pudda sco Chicken sq Pula scn Jaddina simple Chicken sd ڪڪڙ sk Kura domáca sl Domača kokoš so Dooro sr Кокошка sh Domaća kokoš su Hayam fi Kana sv Tamhöna tl Manok ta கோழ ி roa-tara Jadde tt Өй тавыгы te కోడ ి th ไก ่ tg Мурғ tr Tavuk udm Курег uk Курка ur مرغی vi Gà fiu-vro Kana wa Poye vls Henne war Manók wo Ganaar wuu 鸡 yi האן zh-yue 雞 diq Kerge bat-smg Vėšta zh 鸡 Abnormal behaviour of birds in captivity Unihemispheric slow-wave sleep Bantam Chicken fat Chicken hypnotism Chicken a type of raffle"	"be described"	"in 1758 Category"	
+449	"Animals Birds kept as pets Category Junglefowls Category United States state birds am ዶሮ ang Cicen ar دجاجة an Gallus gallus domesticus frp Gallus gallus domesticus av ГӀанкӀу ay Chiwchi az Toyuq bjn Hayam bn মুরগ ি zh-min-nan Ke be Курыца be-x-old Курыца bcl Manok bo བ ཏ bs Kokoška br Yar bg Домашна кокошка ca Gall cs Kur domácí sn Huku tum Nkhuku cy Iâr da Høns pdc Hinkel de Haushuhn nv Naaʼahóóhai et Kana el Όρνιθα eml Gal es Gallus gallus domesticus eo Koko eu Oilo fa مرغ خانگی hif Murgi fr Gallus gallus domesticus fur Gjaline ga Sicín gd Cearc gl Galiña gan 雞 hak Kiê-é ko 닭 ha Kaza hi मुर्ग ी hr Domaća kokoš io Hano id Ayam iu ᐊ ᐊ ᐋᒃ is Kjúklingur it Gallus gallus domesticus he תרנגול הבית jv Pitik pam Manuk ka ქათამი ks کۄکَر csb Kùra rw Inkoko sw Kuku ku Mirîşk koi Курӧг lbe АьнакӀи la Gallus lv Mājas vista lb Haushong lt Višta ln Nsósó hu Házityúk ml ക ഴ ി mr कोंबड ी arz فرخه mzn کرک ms Ayam mdf Сараз nah Cuānaca fj Toa nl Kip cr Pakakuan ne कुखुर ा ja ニワトリ ce Kotam no Tamhøns nn Høns oc Gallus gallus nso Kgogo pnb ککڑ pcd Poulhe nds Hohn pl Kura domowa pt Gallus gallus domesticus ro Găină qu Wallpa rue Курка ru Курица sc Pudda sco Chicken sq Pula scn Jaddina simple Chicken sd ڪڪڙ sk Kura domáca sl Domača kokoš so Dooro sr Кокошка sh Domaća kokoš su Hayam fi Kana sv Tamhöna tl Manok ta கோழ ி roa-tara Jadde tt Өй тавыгы te కోడ ి th ไก ่ tg Мурғ tr Tavuk udm Курег uk Курка ur مرغی vi Gà fiu-vro Kana wa Poye vls Henne war Manók wo Ganaar wuu 鸡 yi האן zh-yue 雞 diq Kerge bat-smg Vėšta zh 鸡 Abnormal behaviour of birds in captivity Unihemispheric slow-wave sleep Bantam Chicken fat Chicken hypnotism the egg Chickenpox Chook raffle a type of raffle"	"be described"	"in 1758 Category"	
+449	"Birds"	"kept"	"as pets Category"	
+449	"Birds"	"kept"	"as pets Category"	
+449	"United States state birds"	"am"	
+449	"United States state birds"	"am"	
+449	"Курыца"	"is"	"птушка"	
+449	"Yar"	"is"	"evn"	
+449	"Iâr"	"is"	"ddof"	
+449	"Gal"	"es"	
+449	"Gal"	"es"	
+449	"Koko"	"is"	"birdo"	
+449	"Kip"	"is"	"vogel"	
+449	"Pula"	"is"	"shpend"	
+449	"captivity Unihemispheric slow-wave sleep Bantam"	"is"	"poultry"	
+449	"the prize"	"is"	"a chicken raffle where"	
+449	"the prize"	"is"	"a chicken raffle"	
+450	Feral chicken Gamebird hybrids - hybrids between chickens , peafowl , guineafowl and pheasants List of chicken breeds Rubber chicken Symbolic chickens Tastes like chicken " Why did the chicken cross the road ? " Green-Armytage Stephen Extraordinary Chickens Harry N. 
+451	Abrams October 2000 0810933438 Smith Page Charles Daniel Page Smith The Chicken Book University of Georgia Press April 2000 082032213X Science/Agriculture/Animals/Birds/Poultry/Chickens / Chickens 

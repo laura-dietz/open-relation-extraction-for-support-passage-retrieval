@@ -1,0 +1,110 @@
+0	SVO (V: described@12, S: median@10, A?: as@13, O: concept@3)	SVA (V: "be separating", S: value@16, O: half@20)	SVC (S: half@20, V: "is", C: population@26)
+1	SVA (V: found@11, S: median@2, A!: by@12)
+2	EXISTENTIAL (V: is@3, S: number@6)	SVO (V: defined@23, S: median@19, A-: then@21, A?: usually@22, XCOMP: mean@27)
+3	
+4	SVC (S: Simon@1, V: "is", C: J@4)	SVA (V: Descriptive@6, S: Simon@1, A!: is@59)	SVO (S: sample@36, V: "has", O: value@38)	SVC (C: identical@40, V: is@39, S: value@38, A?: to@41)	EXISTENTIAL (V: is@59, S: member@62)	SVO (V: identify@77, S: median@73, A-: so@70, A?: uniquely@76, O: member@80)
+5	SVA (V: determined@10, S: value@4, A?: Nonetheless@1, A?: uniquely@9, A!: with@11)
+6	SVOC (V: forced@10, S: outcome@8, A?: in@5, XCOMP: correspond@12, O: concept@3)	SVC (C: medoid@22, V: is@20, S: concept@3)
+7	SVO (V: have@7, S: population@6, A?: At@1, O: values@8)	SVO (V: have@20, S: half@19, A?: at@16, O: values@21)
+8	SVO (V: contain@4, S: groups@3, O: population@9)	SVC (C: equal@18, V: is@16, S: some@12, A?: contain@4, A-: then@11, A?: exactly@17, A?: to@19)
+9	
+10	
+11	
+12	SVA (V: used@5, S: median@2, A!: as@6, A?: skewed@15, A?: known@21)	SVC (C: skewed@15, V: is@14, S: distribution@13, A?: when@11)	SV (V: known@21, S: end-values@18, A?: when@17)	SVO (V: requires@26, S: one@25, A?: when@24, O: importance@28)	SVA (V: "be attached", S: importance@28, A!: to@32)
+13	SVC (C: errors@7, V: be@5, S: they@3)
+14	SVA (V: denoted@8, S: median@2, A!: as@10)	SVC (S: tilde@11, V: "is", C: x@13)	SVC (S: mu@17, V: "is", C: 1/2@20)
+15	
+16	SVA (V: used@5, S: median@3, A?: When@1, A!: as@6)	EXISTENTIAL (V: are@15, S: choices@17, A?: used@5)
+17	SVC (C: same@6, V: is@4, S: median@3, A?: as@7)	SVO (S: its@12, V: "has", O: calculation@13)	SVA (V: illustrated@15, S: calculation@13, A?: same@6, A!: in@16)
+18	SVC (C: kind@21, V: is@19, S: it@18, A?: of@22, A?: in@27)	SVOO (V: satisfies@52, S: m@51, O: inequalities@54, IO: distribution@32)	SVO (V: used@64, S: Stieltjes@61, O: Lebesgue@59)
+19	SVO (V: have@14, S: we@13, A?: For@1, CCOMP: calculated@25)	SVA (V: calculated@25, S: medians@16, A?: easily@24, A!: from@26)	SVO (S: their@27, V: "has", O: parameters@28)	SVC (S: ofmean_medianandmode@31, V: "is", C: statistics@33)
+20	SVA (V: used@4, S: median@2, A!: primarily@5, A?: for@6)	SVO (V: summarizes@12, S: it@11, O: distributions@8, A?: differently@13)
+21	
+22	SVC (C: 2@4, V: is@3, S: median@2, A?: in@5)	SVC (C: mode@12, V: is@10, S: 2@4)	SVA (V: seen@18, S: it@15, A!: as@19)
+23	SVC (C: technique@7, V: is@4, S: Calculation@1, A?: in@8)	SVOC (C: summarizing@12, V: is@4, S: Calculation@1, A?: in@8, O: data@14)	SVC (C: simple@19, V: is@18, S: it@17, XCOMP: understand@21, A?: giving@29)	SVC (C: robust@35, V: is@33, S: measure@31, A?: more@34, A?: in@36)	SVC (C: mean@45, V: is@43, S: simple@19)
+24	SVC (C: point@7, V: is@3, S: median@2, A?: also@4)	SVO (V: minimizes@9, S: point@7, O: mean@12)
+25	SVO (V: minimizes@11, S: value@8, A?: In@1, O: mean@14)
+26	SVO (V: minimizes@10, S: value@7, A?: in@2, O: mean@13)
+27	
+28	SV (V: minimizes@12, S: value@8)	SVC (C: median@15, V: is@13, S: value@8, A?: In@1, A?: of@16)
+29	SV (V: defined@10, S: c@5, A?: However@1, A?: uniquely@9)
+30	SV (V: exists@5, S: median@4, A?: Where@1)	SVA (V: speak@8, S: statisticians@7, A?: exists@5, A!: of@9, A?: correctly@14)	SV (V: exists@21, S: median@20, A?: when@17)	SVA (V: speak@25, S: statisticians@24, A?: exists@21, A!: of@26, A?: informally@31)
+31	
+32	SVC (C: deviation@20, V: is@14, S: difference@7, A?: For@1)
+33	
+34	
+35	SVC (S: O@7, V: "is", C: n@9)
+36	
+37	
+38	
+39	SVO (V: shocked@3, S: I@1, XCOMP: discover@5)	SVA (V: found@14, S: median@8, A!: with@15)	SVC (S: O@17, V: "is", C: n@19)
+40	SVO (V: calculate@12, S: we@10, O: median@15)
+41	
+42	SVC (C: 5@8, V: is@7, S: median@6, A?: In@1, A?: observation@14)	SVC (C: observation@14, V: is@11, S: it@10, A?: in@15)
+43	SVOC (C: number@21, V: is@19, S: n@18, A?: where@17, A?: of@22, O: item@15)
+44	SVO (V: have@20, S: we@19, XCOMP: =@22)	SVO (V: =@22, S: n@21, O: 5@23)	SVC (C: item@40, V: is@28, S: median@27, A-: so@25)
+45	SVO (V: calculate@7, S: we@5, A?: As@1, O: median@10)
+46	
+47	
+48	SVC (C: 4@6, V: is@5, S: median@4, A?: Therefore@1, A?: mean@12)	SVC (C: mean@12, V: is@9, S: it@8, A?: of@13)
+49	SVO (V: use@3, S: We@1, A?: also@2, O: item@17)
+50	SVOO (V: =@20, S: 8n@19, O: ={@23, IO: example@8)	SVC (S: ={@23, V: "is", C: +1@26)
+51	SVA (V: represented@6, S: data@4, A!: by@7)	SVA (V: "be specifying", S: model@10, O: family@14)	SVO (V: obtained@26, S: estimates@20, A?: by@27, O: item@2)
+52	
+53	SVO (V: mean@4, S: Any@1, CCOMP: minimizes@9)	SVO (V: minimizes@9, S: estimator@8, O: risk@11, A?: with@16, A?: observed@25)	SVC (S: risk@11, V: "is", C: loss@14)
+54	SVO (V: minimizes@9, S: estimator@8, O: risk@11, A?: with@12, A?: observed@21)
+55	SVA (V: used@5, S: functions@3, A!: in@6, A?: in@11)
+56	
+57	
+58	SVA (V: underestimates@4, S: estimate@3, A!: often@7, A?: overestimates@10)	SV (V: overestimates@10, S: it@9)
+59	SVC (V: seems@3, S: requirement@2, CCOMP: accomplish@8)	SVOC (V: has@16, S: requirement@2, CCOMP: accomplish@8, O: property@19)	SVA (V: accomplish@8, S: purposes@6, A!: as@9)	SVC (C: invariant@23, V: is@22, S: it@21, A?: under@24)
+60	SVA (V: noted@12, S: properties@6, A!: by@13)
+61	SVA (V: exist@6, S: estimators@5, A?: In@1, A!: in@7)	SVO (V: exist@16, S: estimators@13, A?: where@9, O: cases@8)
+62	SVO (V: have@10, S: estimators@9, A?: Besides@1, O: robustness@12)
+63	
+64	SVA (V: "be constructed", S: image@1, A!: of@3)	SVO (V: reduce@17, S: image@1, A?: effectively@16, O: noise@18, A?: in@19)
+65	SVO (V: popularized@3, S: Fechner@2, O: median@5, A?: into@6, A?: used@17)	SVA (V: used@17, S: it@14, A!: previously@18, A?: by@19)
+66	SVC (S: Probability@9, V: "is", C: 1921@11)	SVOO (V: §@18, S: XVII@17, O: 5@19, IO: Probability@9)	SVC (S: 5@19, V: "is", C: p@21)
+67	SVC (S: Медиана@26, V: "is", C: статистика@28)	SV (V: es@45, S: Mediaan@44)	SVC (S: Mediana@47, V: "is", C: estadística@49)	SVC (S: Mediano@53, V: "is", C: statistiko@55)	SVC (S: میانه@62, V: "is", C: fr@66)	SVC (S: Médiane@68, V: "is", C: statistiques@70)	SVC (S: Mediana@89, V: "is", C: statistica@91)	SV (V: ms@102, S: Medián@101)	SVC (S: Mediaan@107, V: "is", C: statistiek@109)	SVC (S: Mediana@125, V: "is", C: estatística@127)	SVC (S: Медиана@131, V: "is", C: статистика@133)	SVC (S: Mediana@137, V: "is", C: statistikë@139)	SVC (S: Медијана@155, V: "is", C: статистика@157)	SVC (S: Медіана@189, V: "is", C: статистика@191)	SVC (S: operatorname@201, V: "is", C: P@203)	SVC (S: operatorname@221, V: "is", C: P@223)	SVC (S: frac@230, V: "is", C: 2@235)
+68	SVC (S: F@13, V: "is", C: x@15)	SVC (S: frac@18, V: "is", C: text@25)	SVC (S: F@38, V: "is", C: x@40)	SVC (S: frac@43, V: "is", C: 2@48)
+69	SVC (S: operatorname@1, V: "is", C: P@3)	SVC (S: operatorname@1, V: "is", C: m@7)	SV (V: =@9, S: operatorname@1)	SVC (S: operatorname@10, V: "is", C: m@16)	SVC (S: operatorname@10, V: "is", C: P@12)	SVO (V: =@18, S: operatorname@10, O: x@29)	SVC (S: int@19, V: "is", C: infty@23)	SVC (S: frac@38, V: "is", C: 2@43)
+70	
+71	SVC (C: μ@15, V: is@14, S: median@2)
+72	
+73	SVC (S: median@2, V: "is", C: b@13)	SVA (V: "be is", S: median@2)	SVC (C: mean@28, V: is@25, S: 2@22, A?: also@26)
+74	SVC (C: parameter@22, V: is@16, S: median@2)
+75	SVC (C: logarithm@14, V: is@11, S: median@2, A?: of@15)	SVA (V: "be divided", S: 2@16, A!: by@18)
+76	SVC (C: λ@16, V: is@15, S: median@2)
+77	SVC (S: E@1, V: "is", C: |@6)	SVC (S: E@1, V: "is", C: median@9)	SVOC (C: quartile@31, V: is@28, S: median@16, O: item@15)
+78	SVC (C: median@6, V: is@3, S: sample-median@2)
+79	SVO (V: functions@8, S: Concentration@3, O: Efficiency@9)	SVC (S: Efficiency@9, V: "is", C: statistics@11)	SVA (V: explains@15, S: Efficiency@9, A!: efficient@23)	SVC (C: efficient@23, V: is@20, S: mean@19, A-: why@16, A?: statistically@22, A?: than@24)
+80	SVC (S: Centerpoint@33, V: "is", C: generalization@36)	SVC (S: Hinges@42, V: "is", C: statistics@44)	SVC (S: estimator@49, V: "is", C: method@52)	SVA (V: "be based", S: method@52, A!: on@58)
+81	
+82	SV (V: ''@1, S: Annals@3)	SVC (S: Annals@3, V: "is", C: Vol@8)
+83	SVC (S: 18@1, V: "is", C: No@3)
+84	
+85	
+86	
+87	
+88	
+89	SV (V: ''@1, S: Concept@4)	SVC (S: Annals@9, V: "is", C: Vol@14)
+90	SVC (S: 22@1, V: "is", C: No@3)
+91	
+92	
+93	
+94	
+95	
+96	SVC (S: Theory@4, V: "is", C: I@8)	SVC (S: Theory@4, V: "is", C: Annals@12)	SVC (S: Statistics@15, V: "is", C: Vol@17)
+97	SVC (S: 32@1, V: "is", C: No@3)
+98	
+99	
+100	SVC (S: Vaart@5, V: "is", C: H.@7)
+101	
+102	
+103	SVC (S: Annals@11, V: "is", C: Vol@16)
+104	SVC (S: 32@1, V: "is", C: No@3)
+105	
+106	
+107	
+108	
+109	

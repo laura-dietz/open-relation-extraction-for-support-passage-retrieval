@@ -1,0 +1,243 @@
+0	
+1	
+2	
+3	
+4	
+5	SVA (V: "be Knowing", S: July@3)	SVC (C: http@10, V: is@6, S: Knowing@1)
+6	SVA (V: "be directed", S: film@3, A!: by@5)
+7	SVA (V: attached@5, S: project@2, A?: originally@4, A!: to@6)	SVA (V: placed@18, S: it@16, A!: in@19)	SVA (V: picked@23, S: it@16, A?: in@19, A?: eventually@22, A!: by@25)
+8	SVA (V: backed@4, S: Production@1, A?: financially@3, A!: by@5)
+9	SVO (V: filmed@3, S: Knowing@1, A?: in@4, XCOMP: using@11)	SVC (S: Melbourne@7, V: "is", C: Australia@9)	SVA (V: "be represent", S: using@11, O: setting@22)	SVO (S: film@17, V: "has", O: setting@22)
+10	SVA (V: released@4, S: film@2, A!: on@5, A?: in@10)
+11	SVA (V: released@7, S: DVD@2, A!: on@8)
+12	SVOA (V: stands@8, S: Embry@7, A?: April@1, A!: in@9, XCOMP: hearing@19)	SVO (S: her@10, V: "has", O: school@11)	SVO (S: school@11, V: "has", O: playground@13)	SVA (V: "be staring", S: playground@13, A!: at@15)
+13	SVO (V: makes@3, S: school@2, O: time@5)	SVA (V: "be opened", S: capsule@6, A!: later@12)
+14	SVO (V: writes@2, S: Lucinda@1, O: page@4)
+15	SVO (V: found@4, S: She@1, A?: later@3, A?: in@5, XCOMP: scratching@9)
+16	SVO (V: opened@9, S: capsule@7, O: time@6)
+17	SVC (S: Koestler@7, V: "is", C: widower@10)	SVOO (V: receives@18, S: son@4, O: page@21, IO: Koestler@2)	SVO (S: Lucinda@19, V: "has", O: page@21)
+18	SVO (V: sees@2, S: He@1, O: stranger@5, A?: in@6)	SVOC (V: hears@11, S: He@1, O: stranger@5, A?: in@6, O: whispers@12)
+19	SVO (V: sees@2, S: Jonathan@1, O: numbers@4)	SVOC (V: notices@6, S: Jonathan@1, O: numbers@4, O: sequence@8)	SVOC (V: realizes@11, S: Jonathan@1, O: numbers@4, CCOMP: reference@15)	SVC (C: reference@15, V: is@13, S: it@12, A?: to@16)
+20	SVO (V: finds@2, S: Jonathan@1, O: information@4)	SVO (S: Caleb@10, V: "has", O: sheet@12)
+21	SVA (V: are@8, S: dates@4, A!: in@9)
+22	EXISTENTIAL (V: are@2, S: numbers@3)	SV (V: reconcile@11, S: he@8)
+23	SVO (V: learns@5, S: Jonathan@4, A?: researching@2, CCOMP: died@8)	SV (V: died@8, S: Lucinda@7, A?: from@9)	SVO (V: show@31, S: Lucinda@7, A?: from@9, CCOMP: visions@33)	SVO (V: receives@16, S: Caleb@15, O: visits@18)	SVOO (V: give@23, S: strangers@21, IO: him@24, O: stone@28)	SVA (V: visions@33, S: him@32, A!: of@34, A?: on@37)
+24	SVO (S: his@2, V: "has", O: way@3)	SVA (V: "be pick", S: way@3, O: Caleb@7, A!: from@8)	SV (V: crash@16, S: witnesses@12, A?: On@1)
+25	SVC (C: date@4, V: is@2, S: It@1, A?: that@5)	SVA (V: "be predicted", S: numbers@7, A!: for@9)	SVC (C: locations@19, V: are@17, S: numbers@16, A?: of@20)
+26	SVA (V: goes@3, S: Jonathan@1, A-: then@2, A!: after@4)	SVO (V: scares@17, S: Jonathan@1, A-: then@2, A?: after@4, O: them@18, A?: away@19, A?: reveals@22)	SVO (S: Lucinda@5, V: "has", O: daughter@7)	SVC (S: daughter@7, V: "is", C: Diana@9)	SVO (S: her@12, V: "has", O: daughter@13)	SVO (V: reveals@22, S: he@21, A?: when@20, O: interest@24)	SVO (S: his@23, V: "has", O: interest@24)	SVO (S: Lucinda@26, V: "has", O: predictions@28)
+27	SVO (V: pinpoints@2, S: Jonathan@1, O: disaster@5)
+28	SVO (V: suspects@7, S: Jonathan@6, A?: With@1, CCOMP: attack@15)	SVC (C: attack@15, V: be@12, S: cataclysm@10)
+29	SVO (V: pursues@2, S: He@1, O: man@4, A?: into@5)	SVA (V: "be suspecting", S: station@8, O: him@10, XCOMP: terrorist@14)	SVC (C: shoplifter@21, V: is@18, S: he@17, A?: only@19)
+30	SVO (V: derails@8, S: train@7, A?: At@1, CCOMP: smashing@10)	SVO (S: Jonathan@18, V: "has", O: train@20)
+31	SVA (V: "be Shocked", S: thumbleft250pxCopy@1, XCOMP: see@19)	SVC (S: thumbleft250pxCopy@1, V: "is", C: 1670@15)	SVO (S: Merian@4, V: "has", O: engraving@6)	SVO (S: Ezekiel@8, V: "has", O: vision@12)	SVO (V: fit@22, S: thumbleft250pxCopy@1, O: predictions@24)	SVO (V: decides@27, S: Diana@26, XCOMP: help@29)
+32	SVO (V: says@2, S: She@1, CCOMP: used@6)	SVO (S: her@4, V: "has", O: mother@5)	SVO (V: used@6, S: mother@5, XCOMP: hear@8)	SVC (S: date@15, V: "is", C: October@17)	SVC (C: day@22, V: is@20, S: date@15)	SVOC (V: said@24, S: she@23, CCOMP: die@27, O: day@22)	SV (V: die@27, S: she@25)
+33	SVC (S: search@3, V: "is", C: FAQ@38)	SVC (S: search@3, V: "is", C: copy@23)	SVO (S: Lucinda@4, V: "has", O: home@7)	SVOO (V: find@14, S: they@13, A?: where@12, O: pictures@15, IO: woods@10)	SVO (V: predicted@20, S: she@19, O: disasters@18)	SVO (S: Merian@26, V: "has", O: engraving@28)	SVO (S: Ezekiel@30, V: "has", O: vision@34)
+34	
+35	SVO (S: Lucinda@9, V: "has", O: bed@11)
+36	SVO (V: thinks@3, S: Diana@2, CCOMP: 33@10)	SVC (C: 33@10, V: is@7, S: number@6)	SVOC (V: flips@20, S: John@19, CCOMP: written@16, O: bed@22, A?: over@23)	SVA (V: "be covered", S: underside@27, A!: with@29)	SV (V: escape@45, S: one@43)
+37	SVA (V: appear@5, S: Strangers@4, A?: Outside@1, A!: around@6)	SVA (V: "be carrying", S: car@8, O: children@11)
+38	SVOA (V: drives@2, S: John@1, O: them@3, A!: hear@7)	SVA (V: "be hear", S: John@1, A!: only@5, A?: from@8, CCOMP: want@16)	SVOC (V: want@16, S: people@14, O: her@17, XCOMP: go@21)
+39	SVC (C: sun@22, V: is@20, S: it@19)
+40	SVO (V: has@2, S: John@1, O: revelation@5)	SVOC (V: rushes@7, S: John@1, O: revelation@5, O: them@8, A?: to@9)	SVOC (V: discovers@16, S: he@15, A?: where@14, CCOMP: reach@24, O: observatory@12)	SVO (V: reach@24, S: flare@21, A?: soon@23, O: Earth@25, A?: incinerating@27)	SVA (V: "be incinerating", S: flare@21, O: layer@30)
+41	SVO (V: wants@2, S: Diana@1, XCOMP: hide@4)	SVO (V: save@15, S: it@12, O: them@16)	SV (V: agrees@19, S: John@18, A?: despite@10)
+42	SVO (V: writing@4, S: Caleb@3, O: numbers@5)	SVO (V: decides@8, S: John@7, A?: After@1, XCOMP: return@10)	SVOC (V: uncover@16, S: John@7, A?: After@1, XCOMP: return@10, O: numbers@18)	SVO (S: Lucinda@12, V: "has", O: school@14)
+43	SVO (V: manages@4, S: he@3, XCOMP: find@6)	SVO (V: thinks@11, S: he@10, O: which@9)	SVA (V: coordinates@13, S: them@7, A!: of@14)	SVO (S: Lucinda@20, V: "has", O: home@23)	SVOA (V: takes@26, S: Diana@25, A?: manages@4, A?: at@19, O: children@28, A!: for@31)
+44	SVA (V: stops@3, S: Diana@2, A?: When@1, A!: for@4)	SVA (V: drive@9, S: Strangers@8, A?: stops@3, A!: with@11)
+45	SVO (V: pursues@2, S: Diana@1, O: them@3)	SVO (V: broadsided@6, S: Diana@1, O: them@3, A?: by@7)
+46	SVA (V: arrives@2, S: John@1, A!: dies@6, A?: finding@8)	SVA (V: "be finding", S: John@1, O: stone@11, A!: in@12)	SV (V: dies@6, S: Diana@5, A?: just@3)	SVO (S: Diana@13, V: "has", O: hand@15)
+47	SVO (V: continues@2, S: He@1, A?: to@3, XCOMP: finding@9)	SVO (S: Lucinda@4, V: "has", O: home@7)	SVA (V: "be covered", S: bed@19, A!: with@21)
+48	SVA (V: descends@10, S: vessel@2, A!: from@11)
+49	SVO (V: refused@4, S: John@2, O: entry@5)	SV (V: go@12, S: chosen@10)	SVO (V: decides@16, S: he@15, A?: refused@4, XCOMP: let@18, A?: dissolve@26)	SVO (S: his@19, V: "has", O: leave@21)	SVA (V: dissolve@26, S: Strangers@25, A!: into@27)	SVA (V: "be resembling", S: figures@30, O: angels@32)
+50	SVA (V: departs@3, S: vessel@2, A!: with@4)	SVO (V: shows@17, S: shot@16, O: vessels@20)	SVA (V: "be leaving", S: vessels@20, O: earth@22)
+51	SVO (V: collapses@2, S: John@1, A?: in@3, XCOMP: waking@6)
+52	SVO (V: makes@2, S: John@1, O: it@3, A?: to@4, A?: finding@9)	SVA (V: "be finding", S: John@1, O: streets@11)
+53	SVO (V: arrives@2, S: He@1, A?: at@3, XCOMP: spend@9)	SVO (S: his@4, V: "has", O: father@5)	SVO (S: father@5, V: "has", O: home@7)	SVO (S: his@10, V: "has", O: moments@12)	SVO (S: his@14, V: "has", O: family@15)
+54	SVA (V: embrace@2, S: They@1, A!: as@3)	SVO (V: incinerates@12, S: They@1, A?: as@3, O: Earth@14)
+55	SVA (V: ends@3, S: film@2, A!: arrive@12)	SVA (V: arrive@12, S: Caleb@5, A!: at@13)
+56	SVO (V: approached@8, S: Pearson@7, A?: In@1, O: Black@11, A?: with@15)	SVO (S: his@16, V: "has", O: idea@17)	SVOC (V: opened@30, S: capsule@25, XCOMP: revealing@31, O: time@24)	SVA (V: "be ended", S: which@39, A!: with@41)
+57	SVO (V: liked@3, S: producers@2, O: concept@5)	SVOC (V: bought@7, S: producers@2, O: concept@5, O: script@9)	SVO (S: his@8, V: "has", O: script@9)
+58	SVA (V: "be Knowing", S: Thriller@9, O: DVD@11)	SVA (V: "be Knowing", S: DVD@11, O: All@13)	SVO (V: written@25, S: DVD@22, A?: originally@24, A?: by@26, O: Thriller@20)	SVA (V: set@32, S: Making@16, A!: at@34)
+59	SVA (V: attached@8, S: Lurie@3, A!: as@9)	SVA (V: went@16, S: film@14, A?: eventually@15, A!: into@17)
+60	SVA (V: picked@4, S: project@2, A!: by@6)	SVA (V: rewritten@17, S: script@15, A!: by@18)
+61	SVO (V: attached@5, S: Proyas@3, XCOMP: direct@7)
+62	
+63	SV (V: =@2, S: html?categoryid@1)
+64	SVO (V: digs@2, S: Proyas@1, O: Variety@5)
+65	SV (V: =@2, S: html?categoryid@1)
+66	SVO (V: digs@2, S: Proyas@1, CCOMP: said@13)	SVO (V: said@13, S: Proyas@12, A?: Variety@5, O: aspect@15)	SVOO (V: attracted@17, S: aspect@15, IO: him@18, O: script@26)	SVOO (V: notion@30, S: aspect@15, IO: him@18, O: script@26, A?: of@31)	SVA (V: "be seeing", S: people@32, O: future@35)	SVO (V: shape@40, S: it@39, A?: how@38, O: lives@42)	SVO (S: their@41, V: "has", O: lives@42)
+67	SVA (V: took@3, S: Entertainment@2, A!: on@4)	SVA (V: "be finance", S: responsibility@6, A!: fully@8, O: film@13)	SVA (V: "be finance", S: responsibility@6, A!: fully@8, O: film@13)
+68	SVO (V: rewrote@5, S: Hazeldine@4, O: draft@7, A?: for@8)
+69	SV (V: =@2, S: html?categoryid@1)
+70	SVA (V: "be star", S: Cage@1, A!: in@4)	SVO (S: Proyas@5, V: "has", O: http@17)
+71	SV (V: =@2, S: html?categoryid@1)
+72	SVA (V: "be star", S: Cage@1, A!: in@4)	SVA (V: "be Knowing", S: Proyas@5, O: Variety@8)	SVA (V: began@16, S: December@10, A!: on@17)	SVC (S: March@19, V: "is", C: Australia@24)
+73	
+74	SVA (V: Set@17, S: Byrne@16, A!: for@18)
+75	
+76	SVA (V: Set@17, S: Byrne@16, A!: for@18)
+77	SVO (V: hoped@12, S: director@11, XCOMP: emulate@14)
+78	
+79	
+80	SVOA (V: set@18, S: film@16, A?: July@10, A?: November@13, A!: in@20, A?: with@25, O: 24@9)	SVA (V: "be set", S: scenes@27, A!: in@29)
+81	SVA (V: shot@5, S: it@3, A?: However@1, A!: in@6)	SVO (V: resides@12, S: Proyas@11, A?: where@9, O: Australia@7)
+82	SVO (V: included@2, S: Locations@1, O: Road@6)	SVC (S: Road@6, V: "is", C: Museum@10)
+83	
+84	
+85	
+86	SVO (V: http@16, S: Australia@7, O: Night@1)
+87	
+88	
+89	SVOO (V: took@16, S: Australia@7, A?: also@15, O: place@17, A?: at@18, IO: Night@1)	SVA (V: converted@25, S: School@21, A!: into@26)
+90	
+91	
+92	
+93	
+94	
+95	
+96	SVA (V: goes@3, S: Cage@2, A!: back@4, A?: to@5)
+97	
+98	SVC (V: goes@3, S: Cage@2, A?: back@4, XCOMP: took@18)	SVOA (V: took@18, S: shots@17, O: place@19, A!: at@20, A?: represent@25)	SVOA (V: took@18, S: Australia@9, O: place@19, A!: at@20, A?: represent@25)	SVA (V: "be represent", S: Australia@9, O: observatory@27)
+99	
+100	
+101	
+102	
+103	
+104	
+105	SVOO (V: took@16, S: Filming@14, A?: also@15, O: place@17, A?: at@18, IO: Company@5)	SVA (S: Westford@23, V: "is in", C: Massachusetts@25)
+106	SVA (V: coming@4, S: Hollywood@3, A!: to@5)	SVO (V: coming@15, S: Hollywood@14, A?: to@16, O: Westford@6)	SVA (V: "be filming", S: September@21)	SVOO (V: took@31, S: September@21, A?: also@30, O: place@32, A?: at@33, IO: The@18)
+107	
+108	
+109	SVO (S: Nicolas@1, V: "has", O: cage@4)	SVO (V: http@19, S: Australia@10, O: cage@4)
+110	
+111	SVO (S: Nicolas@1, V: "has", O: cage@4)	SVO (V: crash@19, S: Australia@10, O: cage@4)	SVA (V: shown@24, S: cage@4, A?: mostly@23, A!: in@25)	SVO (V: done@33, S: cage@4, A?: in@34, XCOMP: mixing@41)
+112	SVA (V: led@4, S: rain@3, A!: to@5, A?: put@21)	SV (V: put@21, S: fire@17)	SVA (V: "be make", S: make-up@26, O: them@29)	SVO (V: last@30, S: make-up@26, O: hours@34)
+113	SVO (V: used@2, S: Proyas@1, O: camera@7, A?: making@9)	SVA (V: "be making", S: Proyas@1, O: film@11)
+114	
+115	
+116	
+117	
+118	SVO (V: sought@17, S: He@16, XCOMP: capture@19)	SVO (V: sought@17, S: Horizons@9, XCOMP: capture@19)	SVO (S: his@30, V: "has", O: approach@31)	SVO (V: involved@32, S: Proyas@5, O: scene@36)	SVO (S: Cage@39, V: "has", O: character@41)	SVOO (V: sees@42, S: character@41, A?: in@37, O: crash@45, IO: scene@36)	SVOO (V: attempts@47, S: character@41, A?: in@37, O: crash@45, XCOMP: rescue@49, IO: scene@36)
+119	SVC (C: task@6, V: was@3, S: scene@2, A?: taking@8)	SVA (V: "be taking", S: task@6, O: days@10, A!: set@12)	SVA (V: "be set", S: taking@8)	SVA (V: "be set", S: taking@8, A!: shoot@18)	SVA (V: "be shoot", S: days@16)
+120	SVOC (V: explained@2, S: Proyas@1, O: goal@4, CCOMP: did@8)	SVO (V: did@8, S: I@7, CCOMP: let@13)	SVO (V: let@13, S: that@9, A?: specifically@10, O: artifice@15)	SVO (V: do@27, S: we@25, O: artifice@15)
+121	
+122	SVC (C: Resources@19, V: Is@13, S: Knowing@12)
+123	SVOC (C: Resources@19, V: Is@13, S: Knowing@12, O: 12@20)	SVOC (C: features@39, V: Is@13, S: Knowing@12, O: 12@20, A?: also@38, O: works@41)	SVO (V: written@32, S: August@21, A?: by@33, O: 12@20)
+124	SVC (S: 7@1, V: "is", C: Beethoven@3)	SVC (S: 7@1, V: "is", C: http@6)
+125	
+126	SVA (V: played@10, S: December@6, A!: without@11)
+127	
+128	
+129	
+130	
+131	SVO (V: released@17, S: End@5, O: soundtrack@19, A?: as@20)
+132	
+133	
+134	
+135	SVA (V: Moose@28, S: Sarabande@4, A?: Anymore@26, A!: on@29)	SVA (V: "be Stalking", S: 2:20@32, O: Numerology@37)	SVOC (C: Music@48, V: 's@40, S: It@39, O: Numerology@37)
+136	
+137	SVO (V: reported@3, S: Tomatoes@2, CCOMP: gave@9)	SVO (V: gave@9, S: %@6, O: film@11)	SVA (V: "be based", S: write-ups@13, A!: upon@15)
+138	
+139	
+140	SVC (S: Entertainment@8, V: "is", C: http@14)
+141	SVC (S: Entertainment@8, V: "is", C: Inc@10)	SVO (V: assigns@18, S: Entertainment@8, O: rating@21, A?: out@22, A?: to@25)	SVOO (V: received@34, S: film@32, O: score@37, A?: out@40, A?: based@43, IO: Entertainment@8)
+142	
+143	SVC (S: Networks@9, V: "is", C: http@15)
+144	SVC (S: Networks@9, V: "is", C: Inc@11)	SVOC (V: observed@17, S: consensus@16, CCOMP: had@20, O: April@13)	SVO (V: had@20, S: Knowing@19, O: ideas@24)	SVO (V: couple@27, S: Knowing@19, O: ideas@24, A?: of@28)	SVO (S: its@37, V: "has", O: plot@39)
+145	
+146	
+147	SVO (V: said@7, S: Scott@1, CCOMP: sign@29)	SVO (S: your@11, V: "has", O: intention@12)	SVC (V: is@13, S: intention@12, XCOMP: make@15)	SVC (C: sign@29, V: 's@24, S: it@23, A?: is@13, A?: probably@25, A?: met@41)	SVA (V: met@41, S: spectacles@31, A?: when@30, A!: with@42)
+148	SVO (V: lurching@4, S: draggy@2, O: hours@6)	SVO (V: make@10, S: lurching@4, XCOMP: long@12, A?: worry@23)	SVA (V: long@12, S: you@11, A!: for@13)	SVO (V: worry@23, S: you@22, A-: even@20, CCOMP: time@29)	SVO (S: your@32, V: "has", O: questions@33)	SV (V: answered@36, S: questions@33)
+149	
+150	
+151	
+152	
+153	
+154	
+155	SV (V: Looms@2, S: Extinction@1)
+156	
+157	
+158	
+159	
+160	
+161	
+162	
+163	SV (V: Looms@2, S: Extinction@1)
+164	
+165	SVOC (V: called@19, S: Hartlaub@18, XCOMP: disappointment@24, O: Times@4)	SVA (V: disappointment@24, S: film@21, A!: for@25)
+166	SVA (V: thought@3, S: He@2, A!: of@15)	SVA (V: borders@7, S: Cage@5, A!: on@8)	SVOO (V: gives@19, S: script@17, IO: him@20, O: little@21)	SVA (V: "be do", S: little@21)	SVA (V: "be do", S: little@21)	SVA (V: "be do", S: little@21)
+167	
+168	
+169	
+170	
+171	
+172	
+173	SVOO (V: thought@26, S: O'Sullivan@25, O: film@28, IO: March@13)	SVOC (C: creepy@31, V: was@29, S: March@13, A?: for@35, O: Chronicle@11)	SVC (S: two-thirds@38, V: "is", C: way@50)
+174	
+175	SVC (C: one@10, V: is@3, S: paints@1)
+176	SVO (V: neared@5, S: film@4, A?: Well@1, O: its@6, A?: by@7)	SVO (V: found@15, S: I@14, A?: neared@5, XCOMP: knowing@17)	SV (V: knowing@17, S: myself@16)	SVO (V: about@27, S: what@25, XCOMP: happen@29)
+177	
+178	
+179	SVOC (V: found@21, S: Surprises@2, O: it@22, XCOMP: moody@26)	SVO (S: its@38, V: "has", O: moments@40)	SVO (V: mean@46, S: I@45, O: sort@48)	SVA (V: "be inducing", S: sort@48, O: lines@58)	SVO (V: haunted@63, S: dialogue@60, O: films@65, A?: through@66)
+180	SVC (C: images@6, V: are@4, S: arresting@3)	SVC (V: becomes@15, S: images@6, ACOMP: mesmerising@17)	SVO (V: becomes@15, S: watching@8, ACOMP: mesmerising@17, O: images@6)
+181	
+182	
+183	
+184	
+185	
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	SVO (V: continued@2, S: He@1, A?: With@5, O: strings@12)	SVOA (V: keep@16, S: events@14, O: tension@17, A!: at@18)
+195	SVO (V: have@8, S: moments@7, A?: quiet@4, O: something@9)	SVA (V: "be coiling", S: something@9, A!: beneath@11)
+196	SV (V: vibrates@7, S: it@6)
+197	
+198	
+199	
+200	
+201	SVOO (V: reviewed@12, S: Bradshaw@11, O: film@14, IO: Sun-Times@3)	SVA (V: saved@22, S: Knowing@1, A!: by@23)	SVO (S: its@24, V: "has", O: ending@25)	SVA (V: "be concluding", S: ending@25, CCOMP: sticks@32)	SVA (V: sticks@32, S: film@31, A!: to@33)	SVO (S: its@34, V: "has", O: guns@36)
+202	
+203	SVC (S: March@8, V: "is", C: November@11)
+204	SVO (S: French@14, V: "has", O: review@16)	SVO (V: suggested@20, S: Guardian@6, CCOMP: apocalypse@27)	SVC (C: apocalypse@27, V: was@23, S: premise@22)	SVO (V: has@38, S: ending@37, O: something@39)	SVA (V: swept@50, S: few@46, A?: apparently@48, A!: away@51, A?: by@52, A?: to@54)
+205	SVC (C: fundamentalist@6, V: 're@3, S: you@2, CCOMP: believes@8)	SVO (V: believes@8, S: who@7, CCOMP: have@16)	SVC (C: nigh@12, V: is@11, S: Armageddon@10)	SVO (V: have@16, S: you@14, A?: nigh@12, O: hug@19)	SVOC (V: wake@21, S: you@14, A?: nigh@12, O: hug@19, XCOMP: greeted@25)
+206	SVO (V: gratified@9, S: Darwinist@6, A?: On@1, XCOMP: see@11)	SVO (S: her@14, V: "has", O: numbers@17)	SVO (V: sock@18, S: Gaia@12, O: it@19, A?: to@20)
+207	
+208	SVA (V: "be Knowing", S: review@2, O: Observer@6)
+209	SVA (V: "be Knowing", S: review@2, O: Observer@6)	SVC (S: Observer@6, V: "is", C: http@38)	SVO (V: released@15, S: March@8, A?: in@16, A?: on@25, O: Observer@6)	SVOO (V: grossed@30, S: March@8, A?: in@16, A?: on@25, O: $@31, A?: in@33, IO: Observer@6)	SVO (S: its@34, V: "has", O: weekend@36)
+210	
+211	
+212	
+213	SVOA (V: placing@11, S: April@9, A!: at@13, O: Mojo@7)
+214	
+215	SV (V: =@2, S: html?categoryid@1)
+216	
+217	SV (V: =@2, S: html?categoryid@1)
+218	SVA (V: "be exit", S: March@8, O: polling@16)	SVOC (C: old@26, V: was@23, S: Variety@6, A?: years@25, O: tops@2)
+219	
+220	
+221	
+222	
+223	SVA (V: "be grossing", S: ranked@27, O: $@36)
+224	
+225	
+226	
+227	
+228	
+229	
+230	SVA (V: "be Knowing", S: film@20, O: Variety@6)	SVO (V: grossed@22, S: film@20, A?: Knowing@1, O: $@23, A?: in@25)	SVO (V: $@32, S: film@20, A?: Knowing@1, O: $@23, A?: in@25, A?: in@34, A?: for@37)
+231	SVA (V: released@3, S: Knowing@1, A!: on@4, A?: on@6)
+232	
+233	SVO (V: sold@12, S: units@9, A?: As@1, XCOMP: bringing@14)
+234	SVO (V: include@4, S: This@1, O: DVD@5)
+235	
+236	SVC (S: Data@4, V: "is", C: Stars@7)	SVC (S: Data@4, V: "is", C: Speculation@10)
+237	SVC (S: Data@4, V: "is", C: Stars@7)	SVC (S: Data@4, V: "is", C: Speculation@10)	SVC (S: films@19, V: "is", C: Category@20)	SVA (V: "be directed", S: Films@61, A!: by@63)	SVA (V: "be set", S: Films@68, A!: in@70)	SVO (V: shot@75, S: Films@74, O: Category@77)	SVA (V: "be shot", S: Films@79, A!: in@81)	SVA (V: "be shot", S: Films@85, A!: in@87)	SVC (S: הנבואה@150, V: "is", C: 2009@154)	SVC (S: Képlet@158, V: "is", C: film@160)	SVC (S: Знаење@164, V: "is", C: филм@166)	SVC (S: Знамение@182, V: "is", C: фильм@184)	SVC (S: Tieto@192, V: "is", C: elokuva@194)	SVC (S: Kehanet@204, V: "is", C: film@206)	SVC (S: 先知@212, V: "is", C: 电影@214)
+238	
+239	SVC (S: Jupiter@4, V: "is", C: Bringer@7)
+240	
+241	
+242	SVA (V: "be Knowing", S: 0448011@1, XCOMP: knowing@3)

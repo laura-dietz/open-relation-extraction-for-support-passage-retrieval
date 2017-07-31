@@ -1,0 +1,319 @@
+0	SVA (V: eaten@10, S: chocolate@7, A?: commonly@9, A!: for@11)	EXISTENTIAL (V: are@15, S: Health@1)	EXISTENTIAL (V: are@15, S: effects@19)
+1	
+2	
+3	
+4	SVC (C: WebMD@6, V: Is@3, S: Chocolate@2)
+5	
+6	SVC (C: WebMD@6, V: Is@3, S: Chocolate@2)	SVO (V: suggested@13, S: effects@12, O: WebMD@6)
+7	
+8	SVO (V: reduce@3, S: Chocolate@1, O: risk@4)
+9	
+10	SVO (V: reduce@3, S: Chocolate@1, O: risk@4)
+11	
+12	
+13	SVOC (V: do@5, S: chocolate@1, O: things@7, A?: for@8, O: www.cnn.com/2006/HEALTH/12/20/health@26)	SVO (S: your@9, V: "has", O: heart@10)
+14	
+15	SVO (V: do@5, S: chocolate@1, O: things@7, A?: for@8)	SVO (S: your@9, V: "has", O: heart@10)	SVOC (V: says@23, S: Article@22, CCOMP: claim@47, O: heart@10)	SVA (V: "be related", S: effects@26, A!: to@28)	SVO (V: has@36, S: nothing@24, O: effect@39)	SVC (C: claim@47, V: be@43, S: has@36)
+16	SVO (V: increases@27, S: consumption@8, A?: On@1, O: risk@29)
+17	SVC (C: high@4, V: is@3, S: chocolate@2, A?: in@5)	SVC (S: high@4, V: "is", C: fat@10)	SVA (V: removed@13, S: fat@10, A!: during@14)
+18	SVO (V: add@3, S: Manufacturers@1, O: fats@5)	SVOO (V: increase@17, S: all@14, A?: well@12, O: content@20, IO: milk@10)
+19	SVO (V: absorbs@2, S: Chocolate@1, O: lead@3, A?: during@7)	EXISTENTIAL (V: is@11, S: concern@12)
+20	SVC (C: toxic@5, V: is@4, S: chocolate@3, A?: Additionally@1, A?: to@6, A?: of@10)	SVA (V: "be metabolize", S: capacity@12, O: theobromine@15)
+21	
+22	
+23	
+24	
+25	
+26	
+27	SVA (V: "be reported", S: study@5, A!: by@7)	SVO (V: indicated@10, S: study@5, CCOMP: produced@18)	SVO (S: one@15, V: "has", O: mouth@17)	SVO (V: produced@18, S: chocolate@13, O: increase@20)	SVO (V: lasted@40, S: chocolate@13, O: increase@20, A?: also@39, A?: times@42, A?: long@44)	SVC (C: intense@30, V: was@28, S: increase@20, A?: more@29, A?: than@31)	SVA (V: "be associated", S: that@32, A!: with@34)	SV (V: ended@49, S: activity@47)
+28	
+29	
+30	
+31	
+32	SVO (V: contain@15, S: News@8, A?: also@14, O: substances@17)	SVC (C: related@23, V: are@22, S: n-arclethanolamines@20, A?: to@24)
+33	SVOC (V: used@6, S: drugs@4, A?: When@3, XCOMP: block@8, O: July@1)	SVO (S: brain@10, V: "has", O: receptors@13)	SVO (V: disappears@19, S: desire@16, XCOMP: confirming@21)
+34	SVO (V: determined@7, S: Research@3, CCOMP: enhances@12)	SVA (V: "be lowering", S: intake@11, O: level@24)	SVOC (V: enhances@12, S: intake@11, O: expression@14, A?: lowering@22, XCOMP: suppressing@32)
+35	SVO (V: enhance@11, S: Cady@1, O: expression@12)	SVOC (V: decrease@16, S: Cady@1, O: expression@12, O: expression@17)	SVO (V: suggested@32, S: studies@30, CCOMP: produce@39)	SVO (V: produce@39, S: cocoa@34, O: effects@42)
+36	SVA (V: caused@4, S: This@1, A?: mainly@3, A!: by@5)	SVA (V: "be called", S: cocoa@11)
+37	SVO (V: possesses@2, S: Cocoa@1, O: action@6, A?: protecting@8)	SVA (V: "be protecting", S: Cocoa@1, A!: against@9)
+38	SVO (V: shown@5, S: phenols@2, XCOMP: protect@7)
+39	
+40	
+41	
+42	SVC (S: Gods@6, V: "is", C: Yale@7)
+43	
+44	
+45	SVC (S: Gods@6, V: "is", C: Yale@7)	SVOO (V: observed@19, S: studies@16, A?: September@13, A?: also@18, O: reduction@22, IO: Hospital@11)
+46	
+47	
+48	SVC (V: appears@26, S: Chocolate@2, XCOMP: negate@29)
+49	
+50	
+51	
+52	
+53	
+54	
+55	
+56	
+57	
+58	
+59	
+60	
+61	
+62	
+63	SVC (S: powder@4, V: "is", C: chocolate@8)	SVA (V: "be processed", S: powder@4, A!: with@12)	SVO (V: reduces@16, S: powder@4, A?: greatly@15, O: capacity@19, A?: compared@21)
+64	
+65	
+66	
+67	
+68	SVO (V: Unveiled@5, S: Benefits@2, O: Heart@10)	SVC (S: acid@31, V: "is", C: one-third@34)
+69	SVC (S: fats@6, V: "is", C: acid@9)
+70	SVA (V: converted@5, S: acid@2, A!: to@6, A?: in@9)
+71	SVC (V: seem@12, S: amounts@4, XCOMP: raise@14)	SVO (V: find@23, S: studies@21, A-: even@22, CCOMP: lower@27)	SVO (V: lower@27, S: it@25, O: them@28)
+72	
+73	SVC (S: S0140-6736@14, V: "is", C: 05@16)
+74	
+75	SVC (S: S0140-6736@14, V: "is", C: 05@16)
+76	SVA (V: associated@12, S: amounts@6, A?: Indeed@1, A!: with@13)
+77	
+78	
+79	SVOC (V: Help@4, S: Chocolate@2, XCOMP: http@16, O: www.cbsnews.com/stories/2004/08/30/health/main639325@20)	SV (V: http@16, S: News@7)
+80	
+81	SVO (V: Help@4, S: Chocolate@2, O: News@7)
+82	SVO (V: contained@11, S: consumption@7, O: mass@13)	SVOA (V: led@14, S: consumption@7, A?: in@4, A!: to@15, O: study@3)
+83	SVA (V: "be eating", S: group@6, O: chocolate@9)	SVA (V: "be enriched", S: chocolate@9, A!: with@11)	SVO (V: experienced@14, S: group@6, A?: In@1, O: increase@16)	SVO (S: their@18, V: "has", O: cholesterol@20)
+84	
+85	
+86	
+87	SVC (S: Mursu@1, V: "is", C: J.@3)
+88	SVC (S: Voutilainen@2, V: "is", C: S.@4)
+89	SVC (S: Nurmi@2, V: "is", C: T.@4)
+90	SVC (S: Rissanen@2, V: "is", C: T.@4)
+91	SVC (S: Virtanen@2, V: "is", C: J.@4)
+92	SVC (S: Kaikkonen@3, V: "is", C: J.@5)
+93	
+94	
+95	SVO (V: increases@4, S: consumption@3, O: concentration@7)
+96	
+97	
+98	SVC (S: Mursu@1, V: "is", C: J.@3)
+99	SVC (S: Voutilainen@2, V: "is", C: S.@4)
+100	SVC (S: Nurmi@2, V: "is", C: T.@4)
+101	SVC (S: Rissanen@2, V: "is", C: T.@4)
+102	SVC (S: Virtanen@2, V: "is", C: J.@4)
+103	SVC (S: Kaikkonen@3, V: "is", C: J.@5)
+104	
+105	
+106	SVO (V: increases@4, S: consumption@3, O: concentration@7)	SVO (V: performed@31, S: study@30, A?: at@32, O: peroxidation@15)	SVOO (V: appearing@39, S: study@30, A?: at@32, O: Journal@41, IO: peroxidation@15)	SVC (S: Journal@41, V: "is", C: September@46)	SVO (V: ate@57, S: attacks@55, O: chocolate@58, A?: times@64)	SVO (V: reduced@67, S: survivors@52, O: risk@69, A?: by@72)	SVO (S: their@68, V: "has", O: risk@69)	SVO (V: eat@86, S: survivors@82, O: chocolate@87)
+107	SVC (C: specific@4, V: were@3, S: benefits@2, A?: to@5)
+108	
+109	
+110	
+111	
+112	
+113	
+114	
+115	
+116	
+117	
+118	
+119	
+120	
+121	
+122	
+123	
+124	
+125	
+126	
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	SVO (V: cuts@2, S: Chocolate@1, O: rate@4, A?: in@5)
+136	
+137	SVO (V: cuts@5, S: Chocolate@4, O: risk@6, A?: in@9, A?: On@14)
+138	
+139	
+140	
+141	SVO (V: cuts@12, S: Chocolate@11, O: risk@13, A?: in@16, A?: On@21)
+142	
+143	
+144	
+145	
+146	
+147	
+148	SVO (V: Reduces@5, S: Chocolate@4, O: Risk@6, A?: in@9)
+149	
+150	
+151	SVOO (V: identifies@26, S: lore@24, A?: commonly@25, O: chocolate@27, A?: as@28, IO: Hood@13)
+152	SVA (V: associated@10, S: qualities@4, A?: often@9, A!: with@11)	SVO (S: its@17, V: "has", O: consumption@18)
+153	EXISTENTIAL (V: is@3, S: proof@5)	SVC (C: aphrodisiac@11, V: is@8, S: chocolate@7, A?: indeed@9)	SVOC (C: ritual@21, V: is@17, S: gift@14, O: aphrodisiac@11)
+154	SVA (V: "be looking", S: Research@1, A!: at@3)	SVO (V: reveals@8, S: Research@1, CCOMP: competes@20)	SVC (S: methylxanthine@10, V: "is", C: substance@15)	SVA (V: "be found", S: substance@15, A!: in@17)	SVA (V: competes@20, S: methylxanthine@10, A!: with@21)	SVO (V: blocks@30, S: methylxanthine@10, A?: with@21, O: receptor@32)	SVC (S: adenosine@22, V: "is", C: modulator@27)	SVO (S: its@31, V: "has", O: receptor@32)
+155	
+156	SVC (S: Nehlig@3, V: "is", C: A.@5)
+157	SVC (S: Daval@2, V: "is", C: J.@4)
+158	
+159	
+160	SVC (S: Nehlig@3, V: "is", C: A.@5)
+161	SVC (S: Daval@2, V: "is", C: J.@4)
+162	
+163	SVA (V: lead@31, S: blockage@29, A!: to@32)
+164	SVO (S: participants@2, V: "has", O: pressure@5)	SV (V: decreased@6, S: pressure@5)	SVA (V: "be meaning", S: they@9, CCOMP: able@20)	SVOA (V: showed@10, S: they@9, O: improvements@11, A!: meaning@16)	SVC (C: able@20, V: were@18, S: they@17, XCOMP: metabolize@22)
+165	SVA (V: "be presented", S: study@2, A!: at@9)	SVO (V: showed@19, S: study@2, CCOMP: provides@27)	SVO (V: provides@27, S: consumption@22, O: equal@28)
+166	
+167	
+168	SV (V: is@5, S: an@6)	SVA (V: "be recover", S: opportunity@12)
+169	SVO (S: Milk@2, V: "has", O: Match@10)	SVO (V: Surpass@14, S: May@12, A-: Even@13, CCOMP: Drink@20)	SVO (V: Drink@20, S: Sports@19, O: http@21)
+170	
+171	SVO (S: Milk@2, V: "has", O: Match@10)	SVO (V: Surpass@14, S: May@12, A-: Even@13, CCOMP: Drink@20)	SVO (V: Drink@20, S: Sports@19, O: http@21)
+172	
+173	
+174	SVA (V: criticized@7, S: study@3, A?: frequently@5, A!: however@9, A?: sponsored@14)	SVA (V: sponsored@14, S: it@12, A!: by@15)	SVO (V: included@20, S: it@12, A?: by@15, O: size@25)
+175	SVO (V: suggest@2, S: Studies@1, CCOMP: nootropic@11)	SVC (C: nootropic@11, V: be@10, S: type@6, A?: as@17)	SV (V: decline@16, S: function@15)
+176	
+177	
+178	SVC (S: Incorporated@12, V: "is", C: company@17)	SVO (V: spends@19, S: Found@3, O: money@20, A?: year@22, A?: on@23)	SVO (V: spends@19, S: Incorporated@12, O: money@20, A?: year@22, A?: on@23)
+179	
+180	
+181	
+182	SVA (V: "be emerging", S: flavonols@5, A!: as@7)
+183	
+184	
+185	SVA (V: "be emerging", S: flavonols@5, A!: as@7)	SVOC (V: talking@19, S: Ingredients@12, A?: with@20, XCOMP: license@24, O: ingredients@10)	SVA (V: "be based", S: license@24, A!: on@27)
+186	SVC (S: University@10, V: "is", C: drugs@20)	SVO (V: help@23, S: University@10, A?: to@1, A?: potentially@22, CCOMP: treat@24)
+187	
+188	
+189	SVO (V: talks@5, S: Standard@2, O: potential@10)	SVO (V: talks@5, S: Mars@4, O: potential@10)	SVO (S: cocoa@7, V: "has", O: potential@10)
+190	
+191	SVO (V: talks@5, S: Standard@2, O: potential@10)	SVO (V: talks@5, S: Mars@4, O: potential@10)	SVO (S: cocoa@7, V: "has", O: potential@10)	SVC (S: potential@10, V: "is", C: medicine@40)	SVO (V: found@26, S: theobromine@24, XCOMP: effective@33)
+192	
+193	SVO (V: inhibits@16, S: Theobromine@15, O: activation@19)
+194	
+195	SVO (V: inhibits@16, S: Theobromine@15, O: activation@19)
+196	SVO (V: inhibit@3, S: Flavonoid@1, O: development@5, A?: suggesting@9)	SVA (V: "be suggesting", S: Flavonoid@1, O: effects@11)
+197	SVC (S: M@2, V: "is", C: H@5)	SVC (S: M@2, V: "is", C: B@8)	SVC (S: M@2, V: "is", C: flavonoids@13)	SVO (V: inhibit@14, S: M@2, O: transport@17)
+198	
+199	SVC (S: M@9, V: "is", C: flavonoids@20)	SVC (S: M@9, V: "is", C: H@12)	SVC (S: M@9, V: "is", C: B@15)	SVO (V: inhibit@21, S: M@9, O: transport@24, A?: across@25)
+200	
+201	SVO (V: known@36, S: it@33, A?: affect@23, A?: pressure@28, CCOMP: affects@39)	SVO (V: affects@39, S: it@38, O: biomarker@41)	SVO (V: have@13, S: nutritionists@12, O: that@11)	SVC (V: is@14, S: concern@10, CCOMP: known@36)	SVC (V: is@14, S: view@1, CCOMP: known@36)	SVO (V: affect@23, S: eating@18, A-: even@16, O: cholesterol@25)
+202	SVA (V: "be needed", S: amount@4, XCOMP: have@7)	SVO (V: provide@11, S: amount@4, A?: Furthermore@1, O: quantity@15)	SVO (V: promote@25, S: calories@17, A?: unused@22, O: gain@27)
+203	SVC (C: factor@6, V: is@2, S: Obesity@1, A?: for@7)
+204	SVA (V: "be protect", S: attempt@13, A!: against@16)	SVA (V: described@21, S: consuming@5, A?: As@1, A!: as@22)	SVO (S: one@26, V: "has", O: nose@28)	SVO (S: one@31, V: "has", O: face@33)
+205	
+206	
+207	
+208	SVC (S: Pabulum@1, V: "is", C: J.@10)
+209	
+210	
+211	SVA (V: "be ranging", S: thumbuprightChocolate@9, A!: from@12)	SV (V: molded@19, S: Issue@4)	EXISTENTIAL (V: is@28, S: belief@31, O: Pabulum@1)	SVO (V: cause@38, S: consumption@34, O: acne@39)
+212	SVA (V: supported@5, S: belief@2, A!: by@6)
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	SVA (V: point@7, S: studies@6, A!: to@9)	SVA (V: to@13, S: studies@6, A?: to@9, A!: nature@17, A?: like@22, A?: as@33)
+226	SVC (S: RN@2, V: "is", C: NJ@5)	SVC (S: A@8, V: "is", C: diet@17)	SVO (V: improves@18, S: A@8, O: symptoms@19)
+227	
+228	SVC (S: RN@9, V: "is", C: diet@24)	SVO (V: improves@25, S: RN@9, O: symptoms@26)
+229	
+230	SVC (S: O’Connor@9, V: "is", C: February@11)	SVA (V: Lead@21, S: Sugar@16, A!: to@22)
+231	
+232	SVA (V: Lead@18, S: Sugar@13, A!: to@19)
+233	
+234	
+235	
+236	
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	SVA (V: excluded@12, S: causes@6, A!: yet@13)	SV (V: suggested@20, S: research@18)
+254	
+255	
+256	SVO (V: has@2, S: Chocolate@1, O: one@3, A?: with@20)	SVO (V: constitute@13, S: products@11, O: diet@18)	SVO (S: Westerner@16, V: "has", O: diet@18)	SVA (V: "be cause", S: potential@22, O: poisoning@27)
+257	SVO (V: shown@4, S: studies@2, CCOMP: tends@15)	SVO (V: absorb@10, S: beans@8, O: lead@12)	SVO (V: tends@15, S: it@14, A?: absorb@10, XCOMP: bind@17)	SVA (V: occur@24, S: contamination@22, A!: during@25)
+258	SVO (V: found@5, S: publication@4, O: amounts@7)
+259	
+260	
+261	SVA (V: "be tested", S: samples@13)	SVA (V: ranged@15, S: levels@10, A!: from@16)
+262	
+263	SVO (V: found@18, S: lead@2, CCOMP: contained@22)	SVA (V: contained@22, S: chocolate@21, A!: to@24)
+264	SVC (C: µg@25, V: is@23, S: powder@18, A?: of@26)
+265	SV (V: Is@6, S: Toxicity@8)
+266	
+267	
+268	SV (V: Is@10, S: Toxicity@12)
+269	
+270	
+271	SVC (S: 15@1, V: "is", C: U.@9)
+272	
+273	SVA (V: "be lowered", S: FDA@1, A!: by@3)	SVC (C: voluntary@17, V: is@15, S: FDA@1, A?: only@16)
+274	
+275	
+276	
+277	
+278	
+279	
+280	SVO (V: show@9, S: studies@8, CCOMP: absorbed@20)	SVA (V: "be consumed", S: lead@12, A!: in@14)	SVA (V: absorbed@20, S: lead@12, A!: by@21)	SVA (V: absorbed@20, S: all@18, A!: by@21)	SVO (S: children@37, V: "has", O: function@40)	SVO (V: cause@48, S: threshold@30, O: deficits@51)
+281	
+282	
+283	SVC (S: poisoning@2, V: "is", C: theobromine@8)	SVA (V: "be found", S: theobromine@8, A!: in@10)	SVC (C: toxic@13, V: is@12, S: poisoning@2, A?: to@14, A?: unable@32)	SVC (C: unable@32, V: are@31, S: they@30, XCOMP: metabolise@34)
+284	SVO (V: fed@4, S: they@2, O: chocolate@5)	SVA (V: remain@10, S: theobromine@8, A?: fed@4, A!: in@11, A?: for@14)	SVO (S: their@12, V: "has", O: bloodstream@13)	SVO (V: experience@24, S: animals@22, O: seizure@26)
+285	SVA (V: "be performed", S: treatment@2, A!: by@4)	SVO (V: involves@7, S: treatment@2, XCOMP: inducing@8)
+286	SVO (V: experience@10, S: lb@5, A?: normally@9, O: distress@13, A?: after@14)	SVOC (V: experience@29, S: lb@5, A?: normally@9, O: distress@13, A?: after@14, A?: necessarily@28, O: bradycardia@30, A?: eats@35)	SVO (V: eats@35, S: it@34, O: lb@44)
+287	
+288	SVO (V: has@3, S: chocolate@2, O: theobromine@9)	SVOC (C: dangerous@14, V: is@12, S: chocolate@2, O: theobromine@9, A-: thus@11, A?: more@13, A?: to@15)
+289	
+290	SVO (S: baker@3, V: "has", O: chocolate@5)	SVO (S: dog@10, V: "has", O: weight@13)
+291	SVC (C: sufficient@4, V: is@3, S: oz/lb@1, XCOMP: cause@6)
+292	SVO (S: baker@10, V: "has", O: bar@13)	SVC (C: enough@16, V: be@15, S: oz@8, A?: For@1, XCOMP: bring@18)
+293	SVA (V: consumed@8, S: chocolate@5, A?: Of@1, A!: rarely@7, A!: directly@9, A?: to@11)	SVO (S: its@12, V: "has", O: taste@14)	SVO (S: chocolates@19, V: "has", O: toxicities@22)	SVA (V: extrapolated@25, S: toxicities@22, A!: based@26)
+294	SVOO (V: consume@6, S: dogs@4, A?: frequently@5, O: chocolate@7, A?: at@8, IO: access@2)	SVO (V: like@13, S: they@12, O: taste@15)	SVOC (C: capable@21, V: are@20, S: they@12, O: taste@15, A?: of@22)
+295	EXISTENTIAL (V: are@2, S: reports@3)	SVA (V: "be made", S: mulch@5, A!: from@7)	SVC (C: dangerous@12, V: is@11, S: mulch@5, A?: to@13)
+296	
+297	
+298	
+299	
+300	SVC (S: Center@10, V: "is", C: TD@18)	SVC (S: TD@18, V: "is", C: CM@21)
+301	
+302	
+303	SVC (S: F@2, V: "is", C: GD@5)
+304	
+305	SVC (S: 55@5, V: "is", C: 15@7)
+306	SVO (V: contains@18, S: model@7, O: variety@20)	SVO (V: have@27, S: some@24, O: effect@29)
+307	SV (V: include@2, S: These@1)	SVC (C: stimulant@8, V: is@5, S: Chocolate@4, A?: to@9)
+308	SVC (S: HJ@2, V: "is", C: EA@5)	SVC (S: HJ@2, V: "is", C: Methylxanthines@9)	SVC (C: constituents@14, V: are@10, S: HJ@2, A?: psycho-pharmacologically@12, A?: of@15)
+309	SVC (S: HJ@2, V: "is", C: EA@5)	SVC (S: HJ@2, V: "is", C: Methylxanthines@9)	SVC (C: constituents@14, V: are@10, S: HJ@2, A?: psycho-pharmacologically@12, A?: of@15)
+310	SVC (C: potent@5, V: is@2, S: It@1, A?: more@4, A?: for@6)	SVO (S: its@10, V: "has", O: use@11)	SV (V: prohibited@16, S: use@11)
+311	SVO (V: contains@3, S: chocolate@2, O: amounts@6, A?: contained@20)	SVA (V: contained@20, S: chemicals@18, A!: in@21)	SVO (V: made@36, S: chocolate@34, A?: from@31, O: butter@29)
+312	
+313	
+314	SVC (S: Category@13, V: "is", C: M@57)	SVO (S: America@34, V: "has", O: Drug@38)	SVO (V: Welcome@68, S: Society@67, A?: to@69, O: MD@59)	SVC (S: Allergy@74, V: "is", C: Publishing@86)	SVA (V: "be described", S: alkaloid@107, A!: sometimes@108, A?: as@110)	SVC (S: Liebowitz@116, V: "is", C: R.@119)
+315	SVC (S: chemistry@2, V: "is", C: R.@14)
+316	SVA (V: metabolized@14, S: chemistry@2, A?: quickly@13, A!: by@15)	SVO (V: reach@23, S: chemistry@2, A?: quickly@13, A?: by@15, O: brain@25, A?: in@26, A?: by@34)	SVC (S: Theobromine@41, V: "is", C: alkaloid@45)
+317	
+318	SVO (S: chocolate@31, V: "has", O: Tryptophan@36)

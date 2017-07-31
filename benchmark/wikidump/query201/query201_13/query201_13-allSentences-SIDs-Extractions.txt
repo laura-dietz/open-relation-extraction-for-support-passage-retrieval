@@ -1,0 +1,1728 @@
+0	ARM thumbLogo ARM ARM Holdings 32/64 1983 ARMv8 RISC Register-Register Fixed Condition code Bi ( Little as default ) NEON , Thumb , Jazelle , VFP , A64 16/31 http ://www.arm.com/files/downloads/ARMv8_Architecture 
+0	"0"	"is"	"ARM thumbLogo ARM ARM Holdings 32/64 1983 ARMv8 RISC Register-Register Fixed Condition code Bi Little as default NEON www.arm.com/files/downloads/ARMv8_Architecture"	
+0	"0"	"is"	"ARM thumbLogo ARM ARM Holdings 32/64 1983 ARMv8 RISC Register-Register Fixed Condition code Bi Little as default Thumb www.arm.com/files/downloads/ARMv8_Architecture"	
+0	"0"	"is"	"ARM thumbLogo ARM ARM Holdings 32/64 1983 ARMv8 RISC Register-Register Fixed Condition code Bi Little as default Jazelle www.arm.com/files/downloads/ARMv8_Architecture"	
+0	"0"	"is"	"ARM thumbLogo ARM ARM Holdings 32/64 1983 ARMv8 RISC Register-Register Fixed Condition code Bi Little as default VFP www.arm.com/files/downloads/ARMv8_Architecture"	
+0	"0"	"is"	"ARM thumbLogo ARM ARM Holdings 32/64 1983 ARMv8 RISC Register-Register Fixed Condition code Bi Little as default A64 16/31 http www.arm.com/files/downloads/ARMv8_Architecture"	
+1	.pdf 
+2	ARM is a 32-bit reduced instruction set computer ( RISC ) instruction set architecture ( ISA ) developed by ARM Holdings . 
+2	"a 32-bit reduced instruction set computer RISC instruction set architecture developed by ARM Holdings"	"is"	
+2	"a 32-bit reduced instruction set computer RISC instruction set architecture"	"be developed"	"by ARM Holdings"	
+2	"set computer RISC instruction set architecture"	"is"	"ISA"	
+3	It was named the Advanced RISC Machine , and before that , the Acorn RISC Machine . 
+3	"It"	"was named"	"3"	
+3	"It"	"was named"	"3"	
+4	The ARM architecture is the most widely used 32-bit instruction set architecture in numbers produced . 
+4	"4 The ARM architecture"	"is the most widely used 32-bit instruction set"	"architecture in numbers produced"	
+4	"the most widely used 32-bit instruction"	"4 The ARM architecture is set"	"architecture in numbers produced"	
+4	"numbers"	"be produced"	
+5	by Mark Hachman , 2002 . 
+5	"Mark Hachman"	"is"	"2002"	
+6	by Jim Turley 2002 . 
+7	Originally conceived by Acorn Computers for use in its personal computer , the first ARM -based products were the Acorn Archimedes range introduced in 1987 . 
+7	"7 Originally conceived by Acorn Computers for use in its personal computer"	"is"	"the first ARM based products"	
+7	"7"	"be conceived"	"Originally by Acorn Computers"	
+7	"7"	"be conceived"	"Originally for use in its personal computer"	
+7	"7"	"be conceived"	"Originally"	
+7	"its"	"has"	"personal computer"	
+7	"7 Originally conceived by Acorn Computers for use in its personal computer"	"were the Acorn Archimedes range introduced"	"in 1987"	
+7	"the Acorn Archimedes range"	"7 Originally conceived by Acorn Computers for use in its personal computer were introduced"	"in 1987"	
+8	The relative simplicity of ARM processors makes them suitable for low power applications . 
+8	"8 The relative simplicity of ARM processors"	"makes"	"them suitable for low power applications"	
+8	"them"	"suitable"	"for low power applications"	
+9	As a result , they have become dominant in the mobile and embedded electronics market , as relatively low-cost , small microprocessor and microcontroller . 
+9	"they"	"have become"	"9 As a result dominant in the mobile electronics market"	
+9	"they"	"have become"	"9 As a result dominant in the embedded electronics market"	
+9	"they"	"have become"	"9 As a result dominant as relatively low-cost small microprocessor"	
+9	"they"	"have become"	"9 As a result dominant as relatively low-cost small microcontroller"	
+9	"they"	"have become"	"9 As a result dominant"	
+10	In 2005 , about 98 % of the more than one billion mobile phone sold each year used at least one ARM processor . 
+10	"about 98 % of the more than one billion mobile phone"	"sold"	"each year used at least one ARM processor 10 In 2005"	
+10	"each year"	"be used"	"at least one ARM processor"	
+11	. 
+12	2009 , ARM processors account for approximately 90 % of all embedded 32-bit RISC processors 10.1145/1941487.1941501 
+12	"ARM processors"	"account"	"for approximately 90 % of all embedded 32-bit RISC processors 10.1145"	
+13	10.1145/1941487.1941501 
+14	and are used extensively in consumer electronics , including personal digital assistant ( PDAs ) , tablets , mobile phones , digital media and music players , hand-held game consoles , calculator and computer peripherals such as hard drive and router . 
+14	"personal digital assistant"	"is"	"tablets"	
+14	"personal digital assistant"	"is"	"mobile phones"	
+14	"personal digital assistant"	"is"	"digital media"	
+14	"personal digital assistant"	"is"	"music players"	
+14	"personal digital assistant"	"is"	"hand-held game"	
+14	"personal digital assistant"	"is"	"PDAs"	
+14	"personal digital assistant"	"consoles"	
+15	The ARM architecture is licensable . 
+15	"15 The ARM architecture"	"is"	"licensable"	
+16	Companies that are current or former ARM licensees include Alcatel-Lucent , Apple Inc. 
+16	"16 Companies"	"are"	"current"	
+16	"16 Companies"	"are"	"former ARM licensees"	
+16	"16 Companies"	"include"	"Alcatel-Lucent"	
+16	"Alcatel-Lucent"	"is"	"Apple Inc."	
+17	, AppliedMicro , Atmel , Broadcom , Cirrus Logic , Digital Equipment Corporation , Ember , Energy Micro , Freescale , Intel ( through DEC ) , LG , Marvell Technology Group , Microsemi , Microsoft , NEC , Nintendo , Nuvoton , Nvidia , Sony , NXP ( formerly Philips ) , Oki , ON Semiconductor , Psion , Qualcomm , Samsung , Sharp , STMicroelectronics , Symbios Logic , Texas Instruments , VLSI Technology , Yamaha , and ZiiLABS . 
+17	"NXP"	"is"	"formerly Philips"	
+18	ARM processors are developed by ARM and by ARM licensees . 
+18	"18 ARM processors"	"are developed"	"by ARM"	
+18	"18 ARM processors"	"are developed"	"ARM by ARM licensees"	
+19	Prominent ARM processor families developed by ARM Holdings include the ARM7 , ARM9 , ARM11 and Cortex . 
+19	"19 Prominent ARM processor families"	"be developed"	"by ARM Holdings"	
+19	"19 Prominent ARM processor families developed by ARM Holdings"	"include"	"the ARM7"	
+19	"19 Prominent ARM processor families developed by ARM Holdings"	"include"	"the ARM9"	
+19	"19 Prominent ARM processor families developed by ARM Holdings"	"include"	"the ARM11"	
+19	"19 Prominent ARM processor families developed by ARM Holdings"	"include"	"the Cortex"	
+20	Notable ARM processors developed by licensees include AppliedMicro X-Gene , DEC StrongARM , Freescale i.MX 
+20	"20 Notable ARM processors"	"be developed"	"by licensees"	
+20	"20 Notable ARM processors developed by licensees"	"include"	"AppliedMicro X-Gene"	
+20	"20 Notable ARM processors developed by licensees"	"include"	"AppliedMicro DEC StrongARM"	
+20	"20 Notable ARM processors developed by licensees"	"include"	"AppliedMicro Freescale i.MX"	
+21	, Marvell ( formerly Intel ) XScale , Nvidia Tegra , ST-Ericsson Nova and NovaThor , Qualcomm Snapdragon , the Texas Instruments OMAP product line , the Samsung Hummingbird and the Apple A4 and A5 . 
+21	"Marvell XScale"	"is"	"formerly Intel"	
+21	"Marvell XScale"	"is"	"Nvidia Tegra"	
+21	"Marvell XScale"	"is"	"ST-Ericsson Nova"	
+21	"Marvell XScale"	"is"	"ST-Ericsson NovaThor"	
+21	"Marvell XScale"	"is"	"Qualcomm Snapdragon"	
+21	"Marvell XScale"	"is"	"the Texas Instruments OMAP product line"	
+21	"Marvell XScale"	"is"	"the Samsung Hummingbird"	
+21	"Marvell XScale"	"is"	"the Samsung the Apple A4"	
+21	"Marvell XScale"	"is"	"the Samsung A5"	
+22	After achieving success with the BBC Micro computer , Acorn Computers Ltd considered how to move on from the relatively simple MOS Technology 6502 processor to address business markets like the one that would soon be dominated by the IBM PC , launched in 1981 . 
+22	"Acorn Computers Ltd"	"considered"	"22 After achieving success with the BBC Micro computer how to move on from the relatively simple MOS Technology 6502 processor to address business markets like the one launched in 1981"	
+22	"from the relatively simple MOS Technology 6502 processor"	"be address"	"business markets like the one launched in 1981"	
+22	"from the relatively simple MOS Technology 6502 processor"	"be address"	"business markets like the one"	
+22	"to address business markets like the one"	"be launched"	"in 1981"	
+22	"the one"	"would be dominated"	"by the IBM PC soon"	
+22	"the one"	"would be dominated"	"by the IBM PC"	
+23	The Acorn Business Computer ( ABC ) plan required a number of second processors to be made to work with the BBC Micro platform , but processors such as the Motorola 68000 and National Semiconductor 32016 were unsuitable , and the 6502 was not powerful enough for a graphics based user interface . 
+23	"The Acorn Business Computer"	"is"	"ABC"	
+23	"23 The Acorn Business Computer plan"	"required"	"a number of second processors to be made to work with the BBC Micro platform"	
+23	"23 The Acorn Business Computer plan"	"processors"	"a number of second processors to be made to work with the BBC Micro platform such as the"	
+23	"23 The Acorn Business Computer plan"	"processors"	"a number of second processors to be made to work with the BBC Micro platform"	
+23	"Motorola 68000 32016"	"were"	"unsuitable the"	
+23	"68000 National Semiconductor 32016"	"were"	"unsuitable the"	
+23	"the 6502"	"was not powerful"	"enough"	
+23	"the 6502"	"was not powerful"	"for a graphics based user interface"	
+23	"the 6502"	"was not"	"powerful"	
+24	July 2011 Acorn would need a new architecture , having tested all of the available processors and found them wanting . 
+24	"24 July 2011 Acorn"	"would need"	"a new architecture"	
+24	"24 July 2011 Acorn"	"would need"	"a new architecture"	
+24	"them"	"wanting"	
+25	Acorn then seriously considered designing its own processor , and their engineers came across papers on the Berkeley RISC project . 
+25	"25 Acorn"	"considered"	"designing its own processor seriously"	
+25	"25 Acorn"	"considered"	"designing its own processor"	
+25	"its"	"has"	"own processor"	
+25	"their"	"has"	"engineers"	
+25	"their engineers"	"came"	"across papers on the Berkeley RISC project"	
+26	They felt it showed that if a class of graduate students could create a competitive 32-bit processor , then Acorn would have no problem . 
+26	"They"	"felt"	"it showed that if a class of graduate students could create a competitive 32-bit processor then Acorn would have no problem 26"	
+26	"it"	"showed"	"that if a class of graduate students could create a competitive 32-bit processor then Acorn would have no problem"	
+26	"a class of graduate students"	"could create"	"a competitive 32-bit processor"	
+26	"then Acorn"	"would have"	"no problem if a class of graduate students could create a competitive 32-bit processor"	
+26	"then Acorn"	"would have"	"no problem"	
+27	A trip to the Western Design Center in Phoenix , where the 6502 was being updated by what was effectively a single-person company , showed Acorn engineers Steve Furber Furber , Stephen B. 
+27	"the 6502"	"was being updated"	"Phoenix where"	
+27	"the 6502"	"was being updated"	"by what was effectively a single-person company Phoenix"	
+27	"the 6502"	"was being updated"	"Phoenix"	
+27	"what"	"was a single-person company"	"effectively"	
+27	"what"	"was"	"a single-person company"	
+27	"Steve Furber Furber"	"is"	"Stephen B."	
+28	ARM system-on-chip architecture Addison-Wesley Boston 2000 0-201-67519-6 Furber , Stephen B. 
+28	"2000 0-201-67519-6 Furber"	"is"	"Stephen B."	
+29	ARM system-on-chip architecture Addison-Wesley Boston 2000 0-201-67519-6 and Sophie Wilson that they did not need massive resources and state-of-the-art R&D facilities . 
+29	"they"	"did not need"	"massive resources"	
+29	"they"	"did not need"	"massive state-of-the-art R&D facilities"	
+30	Wilson set about developing the instruction set , writing a simulation of the processor in BBC Basic that ran on a BBC Micro with a second 6502 processor . 
+30	"30 Wilson"	"set"	"about developing the instruction set writing a simulation of the processor in BBC Basic"	
+30	"30 Wilson"	"set"	"about developing the instruction set writing a simulation of the processor"	
+30	"BBC Basic"	"ran"	"on a BBC Micro with a second 6502 processor"	
+30	"BBC Basic"	"ran"	"on a BBC Micro"	
+31	It convinced the Acorn engineers that they were on the right track . 
+31	"It"	"convinced"	"the Acorn engineers that they were on the right track 31"	
+31	"they"	"were"	"on the right track"	
+32	Before they could go any further , however , they would need more resources . 
+32	"they"	"could go"	"any further"	
+32	"they"	"would need"	"more resources Before they could go any further"	
+32	"they"	"would need"	"more resources however"	
+32	"they"	"would need"	"more resources"	
+33	It was time for Wilson to approach Acorn 's CEO , Hermann Hauser , and explain what was afoot . 
+33	"It"	"was"	"time 33"	
+33	"Wilson"	"to approach"	"Acorn 's CEO time"	
+33	"Wilson"	"to explain"	"Acorn 's CEO what was afoot time"	
+33	"Acorn"	"has"	"CEO"	
+33	"Acorn 's CEO"	"is"	"Hermann Hauser"	
+33	"what"	"was"	"afoot"	
+34	Once the go-ahead had been given , a small team was put together to implement Wilson 's model in hardware . 
+34	"the go-ahead"	"had been given"	
+34	"a small team"	"was put"	"to implement Wilson 's model in hardware 34 Once the go-ahead had been given"	
+34	"a small team"	"was put"	"together to implement Wilson 's model in hardware 34"	
+34	"a small team"	"was put"	"to implement Wilson 's model in hardware 34"	
+34	"Wilson"	"has"	"model in hardware"	
+35	rightthumbAConexantARM processor used mainly inrouter ( computing )routers March 2011 The official Acorn RISC Machine project started in October 1983 . 
+35	"35 rightthumbAConexantARM processor"	"be used"	"mainly inrouter routers"	
+35	"mainly inrouter"	"is"	"computing"	
+35	"The official Acorn RISC Machine project"	"started"	"mainly inrouter routers March 2011"	
+35	"The official Acorn RISC Machine project"	"started"	"in October 1983 mainly inrouter routers"	
+35	"The official Acorn RISC Machine project"	"started"	"mainly inrouter routers"	
+36	VLSI Technology _ Inc was chosen as silicon partner , since it already supplied Acorn with ROMs and some custom chips . 
+36	"36 VLSI Technology _ Inc"	"was chosen"	"as silicon partner since it already supplied Acorn with ROMs"	
+36	"36 VLSI Technology _ Inc"	"was chosen"	"as silicon partner since it already supplied Acorn with some custom chips"	
+36	"36 VLSI Technology _ Inc"	"was chosen"	"as silicon partner"	
+36	"it"	"supplied"	"Acorn already"	
+36	"it"	"supplied"	"Acorn with ROMs"	
+36	"it"	"supplied"	"Acorn with some custom chips"	
+36	"it"	"supplied"	"Acorn"	
+37	The design was led by Wilson and Furber , with a key design goal of achieving low-latency input/output ( interrupt ) handling like the 6502 . 
+37	"37 The design"	"was led"	"by Wilson with a key design goal of achieving low-latency input/output handling like the 6502"	
+37	"37 The design"	"was led"	"by Furber with a key design goal of achieving low-latency input/output handling like the 6502"	
+37	"37 The design"	"was led"	"by Wilson"	
+37	"37 The design"	"was led"	"by Furber"	
+37	"low-latency input/output handling like the 6502"	"is"	"interrupt"	
+37	"low-latency input/output"	"be handling"	"like the 6502"	
+38	The 6502 's memory access architecture had allowed developers to produce fast machines without the use of costly direct memory access hardware . 
+38	"The 6502"	"has"	"38 memory access architecture"	
+38	"38 The 6502 's memory access architecture"	"had allowed"	"developers to produce fast machines without the use of costly direct memory access hardware"	
+38	"38 The 6502 's memory access architecture"	"had allowed"	"developers to produce fast machines"	
+39	VLSI produced the first ARM silicon on 26 April 1985 &nbsp; – it worked the first time and came to be termed ARM1 by April 1985 . 
+39	"39 VLSI"	"produced"	"the first ARM silicon on 26 April 1985"	
+39	"39 VLSI"	"produced"	"the first ARM silicon"	
+39	"it"	"worked"	"the first time"	
+39	"it"	"came"	"the first time to be termed ARM1 by April 1985"	
+39	"it"	"came"	"the first time to be termed ARM1"	
+40	Roger Wilson posting to comp.arch 
+40	"40 Roger Wilson"	"posting"	"to comp.arch"	
+41	, Nov 2 1988 , Accessed 25 May 2007 . 
+41	"41 Accessed 25 May 2007"	"is"	"Nov 2 1988"	
+42	The first "real " production systems named ARM2 were available the following year . 
+42	"42 The first real production systems"	"be named"	
+42	"42 The first real production systems named ARM2"	"were available"	"the following year"	
+42	"42 The first real production systems named ARM2"	"were"	"available"	
+43	Its first practical application was as a second processor to the BBC Micro , where it was used to develop the simulation software to finish work on the support chips (VIDC , IOC , MEMC) and to speed up the operation of the CAD software used in developing ARM2. 
+43	"Its"	"has"	"43 first practical application"	
+43	"43 Its first practical application"	"was"	"as a second processor to the BBC Micro"	
+43	"43 Its first practical application"	"was"	"as a second processor"	
+43	"it"	"was used"	"to develop the simulation software to finish work on the support chips VIDC the BBC Micro where"	
+43	"it"	"was used"	"to develop the simulation software to work on the support chips VIDC to speed up the operation of the CAD software used in developing ARM2 the BBC Micro where"	
+43	"it"	"was used"	"to develop the simulation software the BBC Micro where"	
+43	"it"	"was used"	"to develop the simulation software to finish work on the support chips VIDC the BBC Micro"	
+43	"it"	"was used"	"to develop the simulation software to work on the support chips VIDC to speed up the operation of the CAD software used in developing ARM2 the BBC Micro"	
+43	"it"	"was used"	"to develop the simulation software the BBC Micro"	
+43	"to develop the simulation software to to speed up the operation of the CAD software used in developing ARM2"	"be finish"	"work on the support chips VIDC"	
+43	"to develop the simulation software to to speed up"	"be finish"	"work on the support chips VIDC the operation of the CAD software used in developing ARM2"	
+43	"VIDC"	"is"	"IOC"	
+43	"VIDC"	"is"	"MEMC"	
+43	"the CAD software"	"be used"	"in developing ARM2"	
+44	Wilson subsequently coded BBC Basic in ARM assembly language , and the in-depth knowledge obtained from designing the instruction set allowed the code to be very dense , making ARM BBC Basic an extremely good test for any ARM emulator . 
+44	"44 Wilson"	"coded"	"BBC Basic in ARM assembly language subsequently"	
+44	"44 Wilson"	"coded"	"BBC Basic in ARM assembly language"	
+44	"the in-depth knowledge"	"be obtained"	"from designing the instruction set"	
+44	"the in-depth knowledge obtained from designing the instruction set"	"allowed"	"the code to be dense very making ARM BBC Basic an extremely good test for any ARM emulator"	
+44	"the in-depth knowledge obtained from designing the instruction set"	"allowed"	"the code to be dense making ARM BBC Basic an extremely good test for any ARM emulator"	
+44	"ARM BBC Basic"	"an extremely good test"	"for any ARM emulator"	
+45	The original aim of a principally ARM -based computer was achieved in 1987 with the release of the Acorn Archimedes . 
+45	"45 The original aim of a principally ARM based computer"	"was achieved"	"in 1987 with the release of the Acorn Archimedes"	
+45	"45 The original aim of a principally ARM based computer"	"was achieved"	"in 1987"	
+46	Such was the secrecy surrounding the ARM CPU project that when Olivetti were negotiating to take a controlling share of Acorn in 1985 , they were not told about the development team until after the negotiations had been finalised . 
+46	"46 Such"	"was the secrecy"	"surrounding the ARM CPU project"	
+46	"46 Such"	"was"	"the secrecy"	
+46	"the secrecy"	"be surrounding"	"the ARM CPU project"	
+46	"Olivetti"	"were negotiating"	"to take a controlling share of Acorn in 1985 when"	
+46	"Olivetti"	"were negotiating"	"to take a controlling share of Acorn in 1985"	
+46	"they"	"were not told"	"the ARM CPU project when Olivetti were negotiating to take a controlling share of Acorn in 1985"	
+46	"they"	"were not told"	"the ARM CPU project about the development team"	
+46	"they"	"were not told"	"the ARM CPU project until after the negotiations had been finalised"	
+46	"they"	"were not told"	"the ARM CPU project"	
+46	"the negotiations"	"had been finalised"	
+47	In 1992 Acorn once more won the Queen 's Award for Technology for the ARM . 
+47	"47"	"won"	"the Queen 's Award for Technology for the ARM In 1992 Acorn"	
+47	"47"	"won"	"the Queen 's Award for Technology for the ARM once more"	
+47	"47"	"won"	"the Queen 's Award for Technology for the ARM"	
+47	"the Queen"	"has"	"Award for Technology for the ARM"	
+48	The ARM2 featured a 32-bit data bus , a 26-bit address space and twenty-seven 32-bit registers . 
+48	"48 The ARM2"	"featured"	"a 32-bit data bus"	
+48	"a 32-bit data bus"	"is"	"a 26-bit address space"	
+48	"a 32-bit data bus"	"is"	"a 26-bit address twenty-seven 32-bit"	
+49	Program code had to lie within the first 64 Mbyte of the memory , as the program counter was limited to 24 bits because the top 6 and bottom 2 bits of the 32-bit register served as status flags . 
+49	"49 Program code"	"had"	"to lie within the first 64 Mbyte of the memory as the program counter was limited to 24 bits because the top 6 of the 32-bit register served as status flags"	
+49	"49 Program code"	"had"	"to lie within the first 64 Mbyte of the memory as the program counter was limited to 24 bits because the top bottom 2 bits of the 32-bit register served as status flags"	
+49	"49 Program code"	"had"	"to lie within the first 64 Mbyte of the memory"	
+49	"the program counter"	"was limited"	"to 24 bits because the top 6 of the 32-bit register served as status flags"	
+49	"the program counter"	"was limited"	"to 24 bits because the top bottom 2 bits of the 32-bit register served as status flags"	
+49	"the program counter"	"was limited"	"to 24 bits"	
+49	"the top 6 of the 32-bit register"	"served"	"as status flags"	
+49	"the top bottom 2 bits of the 32-bit register"	"served"	"as status flags"	
+50	The ARM2 was possibly the simplest useful 32-bit microprocessor in the world , with only 30,000 transistor ( compare the transistor count with Motorola 's six-year older 68000 model which was aptly named , since it contained 68,000 transistors ) . 
+50	"50 The ARM2"	"was the simplest useful 32-bit microprocessor compare the transistor count with Motorola 's six-year older 68000 model"	"possibly"	
+50	"50 The ARM2"	"was the simplest useful 32-bit microprocessor compare the transistor count with Motorola 's six-year older 68000 model"	"in the world"	
+50	"50 The ARM2"	"was the simplest useful 32-bit microprocessor compare the transistor count with Motorola 's six-year older 68000 model"	"with only 30,000 transistor"	
+50	"50 The ARM2"	"was"	"the simplest useful 32-bit microprocessor compare the transistor count with Motorola 's six-year older 68000 model"	
+50	"Motorola"	"has"	"six-year older 68000 model"	
+50	"Motorola 's six-year older 68000 model"	"was named"	"since it contained 68,000 transistors aptly"	
+50	"Motorola 's six-year older 68000 model"	"was named"	"since it contained 68,000 transistors"	
+50	"it"	"contained"	"68,000 transistors"	
+51	Much of this simplicity comes from not having microcode ( which represents about one-quarter to one-third of the 68000 ) and , like most CPUs of the day , not including any cache . 
+51	"51 Much of this simplicity"	"comes"	"from not having microcode which represents about one-quarter to one-third of the 68000"	
+51	"51 Much of this simplicity"	"comes"	"from not microcode which represents about one-quarter to one-third of the 68000 like most CPUs of the day"	
+51	"51 Much of this simplicity"	"comes"	"from not microcode which represents about one-quarter to one-third of the 68000 not including any cache"	
+51	"which"	"represents"	"about one-quarter to one-third of the 68000"	
+52	This simplicity led to its low power usage , while performing better than the Intel 80286 . 
+52	"52 This simplicity"	"led"	"to its low power usage while performing better than the Intel 80286"	
+52	"52 This simplicity"	"led"	"to its low power usage"	
+52	"its"	"has"	"low power usage"	
+53	Patterson , Jason . 
+53	"53 Patterson"	"is"	"Jason"	
+54	, The History Of Computers During My Lifetime – The 1980s by ( accessed 12 March 2008 )] . 
+54	"54 The 1980s by accessed 12 March 2008"	"is"	"The History Of Computers During My Lifetime"	
+54	"My"	"has"	"Lifetime"	
+55	A successor , ARM3 , was produced with a 4&nbsp;KB cache , which further improved performance . 
+55	"55 A successor"	"is"	"ARM3"	
+55	"55 A successor"	"was produced"	"with a 4 KB cache"	
+55	"a 4 KB cache"	"improved"	"performance further"	
+55	"a 4 KB cache"	"improved"	"performance"	
+56	In the late 1980s Apple Computer and VLSI Technology started working with Acorn on newer versions of the ARM core . 
+56	"56 In the late 1980s Apple Computer"	"started"	"working with Acorn on newer versions of the ARM core"	
+56	"56 In the late 1980s Apple Computer"	"started"	"working with Acorn"	
+56	"56 In the late 1980s Apple VLSI Technology"	"started"	"working with Acorn on newer versions of the ARM core"	
+56	"56 In the late 1980s Apple VLSI Technology"	"started"	"working with Acorn"	
+57	The work was so important that Acorn spun off the design team in 1990 into a new company called Advanced RISC Machines Ltd. 
+57	"57 The work"	"was important"	"that Acorn spun off the design team in 1990 into a new company called Advanced RISC Machines Ltd."	
+57	"Acorn"	"be called"	
+57	"Acorn"	"spun off"	"the design team in 1990"	
+57	"Acorn"	"spun off"	"the design team into a new company"	
+57	"Acorn"	"spun off"	"the design team called Advanced RISC Machines Ltd."	
+57	"Acorn"	"spun off"	"the design team"	
+58	Advanced RISC Machines became ARM Ltd when its parent company , ARM Holdings plc , floated on the London Stock Exchange and NASDAQ in 1998 . 
+58	"58 Advanced RISC Machines"	"became"	"ARM Ltd when its parent company floated on the London Stock Exchange in 1998"	
+58	"58 Advanced RISC Machines"	"became"	"ARM Ltd when its parent company floated on the London Stock NASDAQ in 1998"	
+58	"58 Advanced RISC Machines"	"became"	"ARM Ltd"	
+58	"its"	"has"	"parent company"	
+58	"its parent company"	"is"	"ARM Holdings plc"	
+58	"its parent company"	"floated"	"on the London Stock Exchange when"	
+58	"its parent company"	"floated"	"on the London Stock NASDAQ when"	
+58	"its parent company"	"floated"	"on the London Stock Exchange in 1998"	
+58	"its parent company"	"floated"	"on the London Stock NASDAQ in 1998"	
+58	"its parent company"	"floated"	"on the London Stock Exchange"	
+58	"its parent company"	"floated"	"on the London Stock NASDAQ"	
+59	, ARM Technology . 
+59	"59"	"is"	"ARM Technology"	
+60	The new Apple - ARM work would eventually turn into the ARM6 , first released in early 1992 . 
+60	"60 The new Apple ARM work"	"would turn"	"into the ARM6 eventually"	
+60	"60 The new Apple ARM work"	"would turn"	"into the ARM6"	
+60	"the ARM6"	"is"	"first released in early 1992"	
+60	"first"	"be released"	"in early 1992"	
+61	Apple used the ARM6-based ARM 610 as the basis for their Apple Newton PDA. 
+61	"61 Apple"	"used"	"the ARM6-based ARM 610 as the basis for their Apple Newton PDA"	
+61	"61 Apple"	"used"	"the ARM6-based ARM 610"	
+61	"their"	"has"	"Apple Newton PDA"	
+62	In 1994 , Acorn used the ARM 610 as the main central processing unit ( CPU ) in their Risc PC computers . 
+62	"Acorn"	"used"	"the ARM 610 as the main central processing unit"	
+62	"Acorn"	"used"	"the ARM 610 in their Risc PC computers"	
+62	"Acorn"	"used"	"the ARM 610"	
+62	"the main central processing unit"	"is"	"CPU"	
+62	"their"	"has"	"Risc PC computers"	
+63	DEC licensed the ARM6 architecture and produced the StrongARM . 
+63	"63 DEC"	"licensed"	"the ARM6 architecture"	
+63	"63 DEC"	"produced"	"the ARM6 architecture the StrongARM"	
+64	At 233&nbsp;MHz this CPU drew only one watt ( more recent versions draw far less ) . 
+64	"this CPU"	"drew"	"only one watt"	
+64	"more recent versions"	"draw"	"far less only one watt"	
+64	"more recent versions"	"draw"	"only one watt"	
+65	This work was later passed to Intel as a part of a lawsuit settlement , and Intel took the opportunity to supplement their aging i960 line with the StrongARM . 
+65	"65 This work"	"was passed"	"to Intel later"	
+65	"65 This work"	"was passed"	"to Intel as a part of a lawsuit settlement"	
+65	"65 This work"	"was passed"	"to Intel"	
+65	"Intel"	"took"	"the opportunity to supplement their aging i960 line with the StrongARM"	
+65	"Intel"	"be supplement"	"their aging i960 line with the StrongARM"	
+65	"their"	"has"	"aging i960 line"	
+66	Intel later developed its own high performance implementation named XScale which it has since sold to Marvell . 
+66	"66 Intel"	"developed"	"its own high performance implementation named XScale later"	
+66	"66 Intel"	"developed"	"its own high performance implementation named XScale"	
+66	"its"	"has"	"own high performance implementation named XScale"	
+66	"its own high performance implementation"	"be named"	
+66	"it"	"has sold"	"XScale to Marvell"	
+66	"it"	"has sold"	"XScale"	
+67	The ARM core has remained largely the same size throughout these changes . 
+67	"67 The ARM core"	"has remained"	"largely the same size throughout these changes"	
+67	"67 The ARM core"	"has remained"	"largely the same size"	
+68	ARM2 had 30,000 transistors , while the ARM6 grew to only 35,000 . 
+68	"68 ARM2"	"had"	"30,000 transistors while the ARM6 grew to only 35,000"	
+68	"68 ARM2"	"had"	"30,000 transistors"	
+68	"the ARM6"	"grew"	"to only 35,000"	
+69	ARM 's business has always been to sell IP core , which licensees use to create microcontroller and CPU based on this core . 
+69	"69 ARM"	"has"	"business"	
+69	"69 ARM 's business"	"has been"	"to sell IP core always"	
+69	"69 ARM 's business"	"has been"	"to sell IP core"	
+69	"IP core"	"licensees"	"use to create microcontroller based on this core"	
+69	"IP core"	"licensees"	"use to create CPU based on this core"	
+69	"IP core"	"licensees"	"use to create microcontroller"	
+69	"IP core"	"licensees"	"use to create CPU"	
+69	"use"	"be create"	"microcontroller"	
+69	"use"	"be create"	"CPU"	
+70	The original design manufacturer combines the ARM core with a number of optional parts to produce a complete CPU , one that can be built on old semiconductor fabs and still deliver substantial performance at a low cost . 
+70	"70 The original design manufacturer"	"combines"	"the ARM core with a number of optional parts to produce a complete CPU"	
+70	"70 The original design manufacturer"	"combines"	"the ARM core"	
+70	"a number of optional parts"	"be produce"	"a complete CPU"	
+70	"a complete CPU"	"is"	"one"	
+70	"one"	"can be built"	"on old semiconductor fabs"	
+70	"one"	"can be deliver"	"substantial performance on old semiconductor fabs"	
+70	"one"	"can be deliver"	"substantial performance still"	
+70	"one"	"can be deliver"	"substantial performance at a low cost"	
+70	"one"	"can be deliver"	"substantial performance"	
+71	The most successful implementation has been the ARM7 with hundreds of millions sold . 
+71	"71 The most successful implementation"	"has been the ARM7"	"with hundreds of millions sold"	
+71	"71 The most successful implementation"	"has been"	"the ARM7"	
+71	"millions"	"be sold"	
+72	Atmel has been a precursor design center in the ARM7TDMI-based embedded system . 
+72	"72 Atmel"	"has been a precursor design center"	"in the ARM7TDMI-based embedded system"	
+72	"72 Atmel"	"has been"	"a precursor design center"	
+73	ARM licensed about 1.6 
+73	"73 ARM"	"licensed"	"about 1.6"	
+74	billion cores in 2005 . 
+75	In 2005 , about 1 billion ARM cores went into mobile phone . 
+75	"about 1 billion ARM cores"	"went"	"into mobile phone 75 In 2005"	
+75	"about 1 billion ARM cores"	"went"	"75 In 2005"	
+76	by Tom Krazit 2006 . 
+77	By January 2008 , over 10 billion ARM cores had been built , and in 2008 iSuppli predicted that by 2011 , 5 billion ARM cores will be shipping per year . 
+77	"77 By January 2008 over 10 billion ARM cores"	"had been built"	
+77	"iSuppli"	"predicted"	"that by 2011 5 billion ARM cores will be shipping per year in 2008"	
+77	"iSuppli"	"predicted"	"that by 2011 5 billion ARM cores will be shipping per year"	
+77	"5 billion ARM cores"	"will be shipping"	"per year by 2011"	
+77	"5 billion ARM cores"	"will be shipping"	"per year"	
+78	, ARM Technology , 22 January 2008 . 
+78	"78"	"is"	"22 January 2008"	
+78	"ARM Technology"	"is"	"22 January 2008"	
+79	2011 1 , ARM states that over 15 billion ARM processors have shipped . 
+79	"79 2011 1"	"is"	"ARM states"	
+79	"over 15 billion ARM processors"	"have shipped"	"ARM states"	
+80	, ARM Company Profile , 11 January 2011 . 
+80	"ARM Company Profile"	"is"	"11 January 2011"	
+81	The ARM architectures used in smartphone , personal digital assistant and other mobile device range from ARMv5 , in obsolete/low-end devices , to the ARM M-series , in current high-end devices . 
+81	"81 The ARM architectures in obsolete/low-end devices to the ARM M-series in current high-end devices"	"be used"	"in smartphone from ARMv5"	
+81	"81 The ARM architectures in obsolete/low-end devices to the ARM M-series in current high-end devices"	"be used"	"in personal digital assistant from ARMv5"	
+81	"81 The ARM architectures in obsolete/low-end devices to the ARM M-series in current high-end devices"	"be used"	"in other mobile device range from ARMv5"	
+81	"81 The ARM architectures in obsolete/low-end devices to the ARM M-series in current high-end devices"	"be used"	"in smartphone"	
+81	"81 The ARM architectures in obsolete/low-end devices to the ARM M-series in current high-end devices"	"be used"	"in personal digital assistant"	
+81	"81 The ARM architectures in obsolete/low-end devices to the ARM M-series in current high-end devices"	"be used"	"in other mobile device range"	
+82	XScale and ARM926 processors are ARMv5TE , and are now more numerous in high-end devices than the StrongARM , ARM9 and ARM7 based ARMv4 processors , but lower-end devices may use older cores with lower licensing costs . 
+82	"82 XScale"	"are"	"ARMv5TE"	
+82	"82 ARM926 processors"	"are"	"ARMv5TE"	
+82	"82 XScale"	"are are numerous"	"now"	
+82	"82 ARM926 processors"	"are are numerous"	"now"	
+82	"82 XScale"	"are are lower-end devices may use older cores with lower licensing costs"	"now"	
+82	"82 ARM926 processors"	"are are lower-end devices may use older cores with lower licensing costs"	"now"	
+82	"82 XScale"	"are are numerous"	"more"	
+82	"82 ARM926 processors"	"are are numerous"	"more"	
+82	"82 XScale"	"are are lower-end devices may use older cores with lower licensing costs"	"more"	
+82	"82 ARM926 processors"	"are are lower-end devices may use older cores with lower licensing costs"	"more"	
+82	"82 XScale"	"are are numerous"	"in high-end devices"	
+82	"82 ARM926 processors"	"are are numerous"	"in high-end devices"	
+82	"82 XScale"	"are are lower-end devices may use older cores with lower licensing costs"	"in high-end devices"	
+82	"82 ARM926 processors"	"are are lower-end devices may use older cores with lower licensing costs"	"in high-end devices"	
+82	"82 XScale"	"are are numerous"	"than the StrongARM"	
+82	"82 XScale"	"are are numerous"	"than the ARM9"	
+82	"82 XScale"	"are are numerous"	"than the ARM7 based ARMv4 processors"	
+82	"82 ARM926 processors"	"are are numerous"	"than the StrongARM"	
+82	"82 ARM926 processors"	"are are numerous"	"than the ARM9"	
+82	"82 ARM926 processors"	"are are numerous"	"than the ARM7 based ARMv4 processors"	
+82	"82 XScale"	"are are lower-end devices may use older cores with lower licensing costs"	"than the StrongARM"	
+82	"82 XScale"	"are are lower-end devices may use older cores with lower licensing costs"	"than the ARM9"	
+82	"82 XScale"	"are are lower-end devices may use older cores with lower licensing costs"	"than the ARM7 based ARMv4 processors"	
+82	"82 ARM926 processors"	"are are lower-end devices may use older cores with lower licensing costs"	"than the StrongARM"	
+82	"82 ARM926 processors"	"are are lower-end devices may use older cores with lower licensing costs"	"than the ARM9"	
+82	"82 ARM926 processors"	"are are lower-end devices may use older cores with lower licensing costs"	"than the ARM7 based ARMv4 processors"	
+82	"82 XScale"	"are are"	"numerous"	
+82	"82 ARM926 processors"	"are are"	"numerous"	
+82	"82 XScale"	"are are"	"lower-end devices may use older cores with lower licensing costs"	
+82	"82 ARM926 processors"	"are are"	"lower-end devices may use older cores with lower licensing costs"	
+82	"lower-end devices"	"may use"	"older cores with lower licensing costs"	
+82	"lower-end devices"	"may use"	"older cores"	
+83	ARMv6 processors represented a step up in performance from standard ARMv5 cores , and are used in some cases , but Cortex processors ( ARMv7 ) now provide faster and more power-efficient options than all those prior generations . 
+83	"83 ARMv6 processors"	"represented"	"a step up in performance from standard ARMv5 cores"	
+83	"83 ARMv6 processors"	"are used"	"a step up in performance from standard ARMv5 cores in some cases"	
+83	"83 ARMv6 processors"	"are used"	"a step up in performance from standard ARMv5 cores"	
+83	"Cortex processors"	"is"	"ARMv7"	
+83	"Cortex processors"	"provide"	"faster options than all those prior generations now"	
+83	"Cortex processors"	"provide"	"more power-efficient options than all those prior generations now"	
+83	"Cortex processors"	"provide"	"faster options than all those prior generations"	
+83	"Cortex processors"	"provide"	"more power-efficient options than all those prior generations"	
+84	Cortex - A targets applications processors , as needed by smartphones that formerly used ARM9 or ARM11 . 
+84	"smartphones"	"used"	"ARM9 formerly"	
+84	"smartphones"	"used"	"ARM11 formerly"	
+84	"smartphones"	"used"	"ARM9"	
+84	"smartphones"	"used"	"ARM11"	
+85	Cortex - R targets real-time applications , and Cortex-M targets microcontrollers . 
+86	In 2009 , some manufacturers introduced netbooks based on ARM architecture CPUs , in direct competition with netbooks based on Intel Atom . 
+86	"some manufacturers"	"introduced"	"86 In 2009 netbooks based on ARM architecture CPUs in direct competition with netbooks"	
+86	"some manufacturers"	"introduced"	"86 In 2009 netbooks based on ARM architecture CPUs based on Intel Atom"	
+86	"some manufacturers"	"introduced"	"86 In 2009 netbooks based on ARM architecture CPUs"	
+87	by Eric Brown 2009 According to analyst firm IHS iSuppli , by 2015 , ARM ICs are estimated to be in 23 % of all laptops . 
+87	"ARM ICs"	"are estimated"	"to be in 23 % of all laptops 87 by Eric Brown 2009 According to analyst firm IHS iSuppli by 2015"	
+88	Dylan McGrath , EE Times . 
+88	"88 Dylan McGrath"	"is"	"EE Times"	
+89	" . 
+90	" July 18 , 2011 . 
+91	Retrieved July 20 , 2011 . 
+91	"91"	"be Retrieved"	"July 20 2011"	
+92	In 2011 , HiSilicon Technologies Co. 
+93	Ltd. 
+94	licensed a variety of ARM technology to be used in communications chip designs . 
+94	"94"	"licensed"	"a variety of ARM technology to be used in communications chip designs"	
+94	"94"	"licensed"	"a variety of ARM technology"	
+94	"94"	"be used"	"in communications chip designs"	
+95	These included 3G/4G basestations , networking infrastructure and mobile computing applications . 
+95	"95 These"	"included"	"3G/4G basestations"	
+95	"95 These"	"included"	"3G/4G networking infrastructure"	
+95	"95 These"	"included"	"3G/4G mobile computing applications"	
+96	Peter Clarke , EE Times . 
+96	"96 Peter Clarke"	"is"	"EE Times"	
+97	" . 
+98	" August 2 , 2011 . 
+99	Retrieved August 2 , 2011 . 
+99	"99"	"be Retrieved"	"August 2 2011"	
+100	List of ARM microprocessor cores A summary of the numerous vendors who implement ARM cores in their design is provided by ARM . 
+100	"the numerous vendors"	"implement"	"ARM cores in their design"	
+100	"the numerous vendors"	"implement"	"ARM cores"	
+100	"their"	"has"	"design"	
+100	"A summary of the numerous vendors"	"is provided"	"by ARM ARM microprocessor cores"	
+100	"A summary of the numerous vendors"	"is provided"	"ARM microprocessor cores"	
+101	http ://www.arm.com/support/0141_5LineCard 
+102	.pdf 
+103	Line Card PDF 2003 2011-01-06 http ://www.arm.com/support/0141_5LineCard 
+104	.pdf 
+105	Line Card PDF 2003 2011-01-06 List of applications of ARM cores ARM cores are used in a number of products , particularly various smartphone . 
+105	"105 Line Card PDF 2003 2011-01-06 List of applications of ARM cores ARM cores"	"are used"	"in a number of products"	
+105	"a number of products"	"is"	"particularly various smartphone"	
+106	Some computing examples are the Acorn Archimedes , Apple iPad and ASUS Eee Pad Transformer . 
+106	"106 Some computing examples"	"are"	"the Acorn Archimedes"	
+106	"106 Some computing examples"	"are"	"the Acorn Apple iPad"	
+106	"106 Some computing examples"	"are"	"the Acorn ASUS Eee Pad Transformer"	
+107	Some other uses are the Apple iPod portable media player , Canon PowerShot A470 digital camera , Nintendo DS handheld games console and TomTom automotive navigation system . 
+107	"107 Some other uses"	"are"	"the Apple iPod portable media player"	
+107	"107 Some other uses"	"are"	"the Apple iPod portable media Canon PowerShot A470 digital camera"	
+107	"107 Some other uses"	"are"	"the Apple iPod portable media Nintendo DS handheld games console"	
+107	"107 Some other uses"	"are"	"the Apple iPod portable media TomTom automotive navigation system"	
+108	Since 2005 , ARM was also involved in Manchester University 's computer , SpiNNaker , which used ARM cores to simulate the human brain . 
+108	"ARM"	"was involved"	"in Manchester University 's computer also"	
+108	"ARM"	"was involved"	"in Manchester University 's computer"	
+108	"Manchester University"	"has"	"computer"	
+108	"Manchester University 's computer"	"is"	"SpiNNaker"	
+108	"Manchester University 's computer"	"used"	"ARM cores to simulate the human brain"	
+108	"Manchester University 's computer"	"used"	"ARM cores"	
+108	"which"	"be simulate"	"the human brain"	
+109	http ://www.eetimes.com/electronics-news/4217840/Million-ARM-cores-brain-simulator 
+110	One Million ARM Cores Linked to Simulate Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times http ://www.eetimes.com/electronics-news/4217840/Million-ARM-cores-brain-simulator 
+110	"110 One Million ARM Cores Linked www.eetimes.com/electronics-news/4217840/Million-ARM-cores-brain-simulator"	"be Simulate"	"Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times http"	
+111	One Million ARM Cores Linked to Simulate Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times March 2011 From 1995 , the has been the primary source of documentation on the ARM processor architecture and instruction set , distinguishing interfaces that all ARM processors are required to support ( such as instruction semantics ) from implementation details that may vary . 
+111	"111 One Million ARM Cores Linked to Simulate Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times March 2011 From 1995 the has been the primary source of documentation on the ARM processor architecture"	"is"	"distinguishing interfaces that all ARM processors are required to support such as instruction semantics from implementation details"	
+111	"111 One Million ARM Cores Linked to Simulate Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times March 2011 From 1995 the has been the primary source of documentation on the ARM processor instruction set"	"is"	"distinguishing interfaces that all ARM processors are required to support such as instruction semantics from implementation details"	
+111	"111 One Million ARM Cores Linked"	"be Simulate"	"Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times March 2011 From 1995 the has been the primary source of documentation on the ARM processor architecture"	
+111	"111 One Million ARM Cores Linked"	"be Simulate"	"Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times March 2011 From 1995 the has been the primary source of documentation on the ARM processor instruction set"	
+111	"the"	"has been Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times March 2011 From 1995 the primary source"	"of documentation on the ARM processor architecture"	
+111	"the"	"has been Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times March 2011 From 1995 the primary source"	"of documentation on the ARM processor instruction set"	
+111	"the"	"has been"	"Brain 2011-08-02 Parrish Kevin 2011-07-14 EE Times March 2011 From 1995 the primary source"	
+111	"all ARM processors"	"are required"	"to support such as instruction semantics from implementation details"	
+111	"all ARM processors"	"are required"	"to support such as instruction semantics"	
+111	"implementation details"	"may vary"	
+112	The architecture has evolved over time , and starting with the Cortex series of cores , three "profiles " are defined : Profiles are allowed to subset the architecture . 
+112	"112 The architecture"	"has evolved"	"over time"	
+112	"112 The architecture"	"has starting"	"with the Cortex series of cores over time"	
+112	"112 The architecture"	"has starting"	"with the Cortex series of cores"	
+112	"three profiles"	"are defined"	"starting with the Cortex series of cores"	
+112	"Profiles"	"are allowed"	"to subset the architecture"	
+113	For example , the ARMv6-M profile (used by the Cortex-M0 ) is a subset of the ARMv7-M profile ( it supports fewer instructions ) . 
+113	"113 For example"	"is"	"the ARMv6-M profile used by the Cortex-M0"	
+113	"113 For example"	"is a subset"	"of the ARMv7-M profile"	
+113	"113 For example"	"is"	"a subset"	
+113	"it"	"supports"	"fewer instructions"	
+114	To keep the design clean , simple and fast , the original ARM implementation was hardwired without microcode , like the much simpler 8-bit 6502 processor used in prior Acorn microcomputers . 
+114	"114 simple like the much simpler 8-bit 6502 processor used in prior Acorn microcomputers"	"be keep"	"the design clean"	
+114	"114 fast like the much simpler 8-bit 6502 processor used in prior Acorn microcomputers"	"be keep"	"the design clean"	
+114	"the design"	"clean"	
+114	"the original ARM implementation"	"was hardwired"	"without microcode 114 To keep the design clean simple like the much simpler 8-bit 6502 processor used in prior Acorn microcomputers"	
+114	"the original ARM implementation"	"was hardwired"	"without microcode 114 To keep the design clean fast like the much simpler 8-bit 6502 processor used in prior Acorn microcomputers"	
+114	"the original ARM implementation"	"was hardwired"	"114 To keep the design clean simple like the much simpler 8-bit 6502 processor used in prior Acorn microcomputers"	
+114	"the original ARM implementation"	"was hardwired"	"114 To keep the design clean fast like the much simpler 8-bit 6502 processor used in prior Acorn microcomputers"	
+114	"the much simpler 8-bit 6502 processor"	"be used"	"in prior Acorn microcomputers"	
+115	The ARM architecture includes the following RISC features : To compensate for the simpler design , compared with contemporary processors like the Intel 80286 and Motorola 68020 , some additional design features were used : The conditional execution feature ( called predication ) is implemented with a 4-bit condition code selector ( the predicate ) on every instruction ; one of the four-bit codes is reserved as an "escape code " to specify certain unconditional instructions , but nearly all common instructions are conditional . 
+115	"115 The ARM architecture"	"includes"	"the following RISC features To compensate for the simpler design compared with contemporary processors like the Intel 80286 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"115 The ARM architecture"	"includes"	"the following RISC features To compensate for the simpler design compared with contemporary processors like the 80286 Motorola 68020 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"115 The ARM architecture"	"includes"	"the following RISC features To compensate for the simpler design compared with contemporary processors like the 80286 Motorola 68020 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"115 The ARM architecture"	"includes"	"the following RISC features To compensate for the simpler design compared with contemporary processors like the Intel 80286 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"some additional design features"	"were used"	"Intel 80286 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"some additional design features"	"were used"	"80286 Motorola 68020 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"some additional design features"	"were used"	"80286 Motorola 68020 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"some additional design features"	"were used"	"Intel 80286 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"The conditional execution feature called predication"	"is implemented"	"with a 4-bit condition code selector Intel 80286 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"The conditional execution feature called predication"	"is implemented"	"with a 4-bit condition code selector 80286 Motorola 68020 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"The conditional execution feature called predication"	"is implemented"	"with a 4-bit condition code selector 80286 Motorola 68020 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"The conditional execution feature called predication"	"is implemented"	"with a 4-bit condition code selector Intel 80286 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"The conditional execution feature called predication"	"is implemented"	"on every instruction Intel 80286 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"The conditional execution feature called predication"	"is implemented"	"on every instruction 80286 Motorola 68020 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"The conditional execution feature called predication"	"is implemented"	"on every instruction 80286 Motorola 68020 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"The conditional execution feature called predication"	"is implemented"	"on every instruction Intel 80286 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"The conditional execution feature called predication"	"is implemented"	"Intel 80286 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"The conditional execution feature called predication"	"is implemented"	"80286 Motorola 68020 one of the four-bit codes is reserved as an escape code to specify certain unconditional instructions"	
+115	"The conditional execution feature called predication"	"is implemented"	"80286 Motorola 68020 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"The conditional execution feature called predication"	"is implemented"	"Intel 80286 one of the four-bit codes is as an escape code to specify certain unconditional instructions nearly all common instructions are conditional"	
+115	"a 4-bit condition code selector"	"is"	"the predicate"	
+115	"one of the four-bit codes"	"is reserved"	"as an escape code to specify certain unconditional instructions"	
+115	"one of the four-bit codes"	"is reserved"	"to specify certain unconditional instructions"	
+115	"nearly all common instructions"	"are"	"conditional"	
+116	Most CPU architectures only have condition codes on branch instructions . 
+116	"116 Most CPU architectures"	"have"	"condition codes only"	
+116	"116 Most CPU architectures"	"have"	"condition codes on branch instructions"	
+116	"116 Most CPU architectures"	"have"	"condition codes"	
+117	This cuts down significantly on the encoding bits available for displacements in memory access instructions , but on the other hand it avoids branch instructions when generating code for small ifstatements . 
+117	"This"	"cuts down"	"significantly 117"	
+117	"This"	"cuts down"	"significantly on the other hand it avoids branch instructions when generating code for small ifstatements"	
+117	"This"	"cuts down"	"on the encoding bits available for displacements in memory access instructions 117"	
+117	"This"	"cuts down"	"on the encoding bits available for displacements in memory access instructions on the other hand it avoids branch instructions when generating code for small ifstatements"	
+117	"This"	"cuts down"	"117"	
+117	"This"	"cuts down"	"on the other hand it avoids branch instructions when generating code for small ifstatements"	
+117	"the"	"be encoding"	"bits available for displacements in memory access instructions"	
+117	"it"	"avoids"	"branch instructions on the other hand"	
+117	"it"	"avoids"	"branch instructions"	
+118	The standard example of this is the subtraction-based Euclidean algorithm : ARM address mode In the C programming language , the loop is : while( i ! 
+118	"118 The standard example of this"	"is"	"the subtraction-based Euclidean algorithm ARM address mode In the C programming language the loop is while i"	
+118	"the loop"	"is"	
+119	= j ) { if ( i > j ) i -= j ; else j -= i ; } In ARM assembly , the loop is : loop CMP Ri , Rj ; set condition " NE" if ( i ! 
+119	"the loop"	"is"	
+119	"loop CMP Ri set condition NE if i"	"is"	"Rj"	
+120	= j ) , ; "G T" if ( i > j ) , ; or "LT" if ( i &lt ; j ) SUBGT Ri , Ri , Rj ; if "G T" ( greater than ) , i = i-j ; SUBLT Rj , Rj , Ri ; if "LT" ( less than ) , j = j-i ; BNE loop ; if " NE" ( not equal ) , then loop which avoids the branches around the then and else clauses.Note 
+120	"j SUBGT Ri"	"is"	"Rj"	
+120	"j SUBGT Ri"	"is"	"Rj"	
+120	"G T SUBLT Rj if LT less than j = j-i if NE"	"is"	"i = i-j"	
+120	"G T SUBLT Rj if LT less than j = BNE loop if NE"	"is"	"i = i-j"	
+120	"G T SUBLT Rj if LT less than j = j-i if NE"	"is"	"greater than"	
+120	"G T SUBLT Rj if LT less than j = BNE loop if NE"	"is"	"greater than"	
+120	"SUBLT Rj if LT less than j = j-i if NE"	"is"	"Rj"	
+120	"SUBLT Rj if LT less than j = BNE loop if NE"	"is"	"Rj"	
+120	"SUBLT Rj if LT less than j = j-i if NE"	"is"	"Ri"	
+120	"SUBLT Rj if LT less than j = BNE loop if NE"	"is"	"Ri"	
+120	"if NE"	"is"	"not equal"	
+120	"if NE"	"is"	"then loop"	
+120	"then loop"	"avoids"	"the branches around the then clauses.Note"	
+120	"then loop"	"avoids"	"the branches around the else clauses.Note"	
+121	that if Ri and Rj are equal then neither of the SUB instructions will be executed , optimising out the need for a conditional branch to implement the while check at the top of the loop , for example had SUBLE ( less than or equal ) been used . 
+121	"Ri"	"are"	"equal"	
+121	"Rj"	"are"	"equal"	
+121	"neither of the SUB instructions"	"will be executed"	"optimising out the need for a conditional branch to implement the while check at the top of the loop if Ri are equal"	
+121	"neither of the SUB instructions"	"will be executed"	"optimising out the need for a conditional branch to implement the while check at the top of the loop if Rj are equal"	
+121	"neither of the SUB instructions"	"will be executed"	"optimising out the need for a conditional branch to implement the while check at the top of the loop for example"	
+121	"neither of the SUB instructions"	"will be executed"	"optimising out the need for a conditional branch to implement the while check at the top of the loop"	
+121	"a conditional branch"	"be implement"	"the while check at the top of the loop"	
+121	"SUBLE"	"is"	"less than"	
+121	"SUBLE"	"is"	"less equal"	
+121	"SUBLE"	"had been used"	
+122	One of the ways that Thumb code provides a more dense encoding is to remove that four bit selector from non-branch instructions . 
+122	"that Thumb code"	"provides"	"a more dense encoding the ways"	
+122	"122 One of the ways"	"is"	"to remove that four bit selector from non-branch instructions"	
+122	"122 One of the ways"	"is"	"to remove that four bit selector"	
+123	March 2011 Another feature of the instruction set is the ability to fold shifts and rotates into the "data processing " (arithmetic , logical , and register-register move ) instructions , so that , for example , the C statement a + = ( j <&lt ; 2 ) ; could be rendered as a single-word , single-cycle instruction on the ARM . 
+123	"123 March 2011 Another feature of the instruction set"	"is the ability so that for example the C statement a j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"to fold shifts"	
+123	"123 March 2011 Another feature of the instruction set"	"is the ability so that for example the C statement = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"to fold shifts"	
+123	"123 March 2011 Another feature of the instruction set"	"is"	"the ability so that for example the C statement a j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	
+123	"123 March 2011 Another feature of the instruction set"	"is"	"the ability so that for example the C statement = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	
+123	"123 March 2011 Another feature of the instruction set"	"is the rotates so that for example the C statement a j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"to fold shifts"	
+123	"123 March 2011 Another feature of the instruction set"	"is the rotates so that for example the C statement = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"to fold shifts"	
+123	"123 March 2011 Another feature of the instruction set"	"is the rotates so that for example the C statement a j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"into the data processing arithmetic instructions"	
+123	"123 March 2011 Another feature of the instruction set"	"is the rotates so that for example the C statement a j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"into the data processing logical instructions"	
+123	"123 March 2011 Another feature of the instruction set"	"is the rotates so that for example the C statement a j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"into the data processing register-register move instructions"	
+123	"123 March 2011 Another feature of the instruction set"	"is the rotates so that for example the C statement = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"into the data processing arithmetic instructions"	
+123	"123 March 2011 Another feature of the instruction set"	"is the rotates so that for example the C statement = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"into the data processing logical instructions"	
+123	"123 March 2011 Another feature of the instruction set"	"is the rotates so that for example the C statement = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"into the data processing register-register move instructions"	
+123	"123 March 2011 Another feature of the instruction set"	"is"	"the rotates so that for example the C statement a j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	
+123	"123 March 2011 Another feature of the instruction set"	"is"	"the rotates so that for example the C statement = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	
+123	"the ability so that for example the C statement a j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"be fold"	"shifts"	
+123	"the rotates into the data processing arithmetic instructions so that for example the C statement a j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"be fold"	"shifts"	
+123	"the rotates into the data processing logical instructions so that for example the C statement a + = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"be fold"	"shifts"	
+123	"the rotates into the data processing register-register move instructions so that for example the C statement a + = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"be fold"	"shifts"	
+123	"the rotates into the data processing arithmetic instructions so that for example the C statement = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"be fold"	"shifts"	
+123	"the ability so that for example the C statement = j < & lt 2 could be rendered as a single-word single-cycle instruction on the ARM"	"be fold"	"shifts"	
+124	ADD Ra , Ra , Rj , LSL # 2 This results in the typical ARM program being denser than expected with fewer memory accesses ; thus the pipeline is used more efficiently . 
+124	"124 ADD Ra thus the pipeline is used more efficiently"	"is"	"Ra"	
+124	"124 ADD Ra thus the pipeline is used more efficiently"	"is"	"Rj"	
+124	"Ra"	"is"	"LSL # 2"	
+124	"Rj"	"is"	"LSL # 2"	
+124	"This"	"results"	"in the typical ARM program being denser than expected with fewer memory accesses LSL # 2"	
+124	"This"	"results"	"LSL # 2"	
+124	"the typical ARM program"	"be denser"	"denser than expected with fewer memory accesses"	
+124	"the pipeline"	"is used"	"more efficiently"	
+125	Even though the ARM runs at what many would consider to be low speeds , it nevertheless competes quite well with much more complex CPU designs . 
+125	"125"	"the ARM runs"	"at what many would consider to be low speeds"	
+125	"the ARM"	"125 runs"	"at what many would consider to be low speeds"	
+125	"many"	"would consider"	"what to be low speeds"	
+125	"it"	"competes"	"125 Even though the ARM runs at what many would consider to be low speeds nevertheless"	
+125	"it"	"competes"	"125 Even though the ARM runs at what many would consider to be low speeds quite well"	
+125	"it"	"competes"	"125 Even though the ARM runs at what many would consider to be low speeds with much more complex CPU designs"	
+125	"it"	"competes"	"125 Even though the ARM runs at what many would consider to be low speeds"	
+126	July 2010 The ARM processor also has some features rarely seen in other RISC architectures , such as PC -relative addressing ( indeed , on the 32-bit http ://www.arm.com/files/downloads/ARMv8_Architecture 
+126	"126 July 2010 The ARM processor"	"has"	"some features rarely seen in other RISC architectures such as PC relative addressing indeed on the 32-bit http www.arm.com/files/downloads/ARMv8_Architecture also"	
+126	"126 July 2010 The ARM processor"	"has"	"some features rarely seen in other RISC architectures such as PC relative addressing indeed on the 32-bit http www.arm.com/files/downloads/ARMv8_Architecture"	
+126	"some features"	"be seen"	"rarely in other RISC architectures such as PC relative addressing indeed on the 32-bit http www.arm.com/files/downloads/ARMv8_Architecture"	
+126	"some features"	"be seen"	"rarely"	
+127	.pdf 
+128	ARMv8 Technology Preview 2011 2011-10-31 Richard Grisenthwaite http ://www.arm.com/files/downloads/ARMv8_Architecture 
+129	.pdf 
+130	ARMv8 Technology Preview 2011 2011-10-31 Richard Grisenthwaite ARM the PC is one of its 16 registers ) and pre - and post-increment addressing modes . 
+130	"ARMv8 Technology Preview 2011 2011-10-31 Richard Grisenthwaite ARM the PC"	"is 130 one"	"of its 16"	
+130	"ARMv8 Technology Preview 2011 2011-10-31 Richard Grisenthwaite ARM the PC"	"is"	"130 one"	
+130	"its"	"has"	"16"	
+130	"130 ARMv8 Technology Preview 2011 2011-10-31 Richard Grisenthwaite ARM the PC is one of its 16"	"registers"	
+130	"130 ARMv8 Technology Preview 2011 2011-10-31 Richard Grisenthwaite ARM the PC is one of its 16"	"pre"	
+130	"130 ARMv8 Technology Preview 2011 2011-10-31 Richard Grisenthwaite ARM the PC is one of its 16"	"post-increment"	
+131	Another item of note is that the ARM has been around for a while , with the instruction set increasing somewhat over time . 
+131	"131 Another item of note"	"is"	"that the ARM has been around for a while with the instruction set increasing somewhat over time"	
+131	"the ARM"	"has been"	"around for a while with the instruction set increasing somewhat over time"	
+131	"the ARM"	"has been"	"around for a while"	
+131	"the instruction"	"be set"	"increasing somewhat over time"	
+131	"the instruction"	"be set"	"increasing somewhat"	
+132	Some early ARM processors ( before ARM7TDMI ) , for example , have no instruction to store a two-byte quantity , thus , strictly speaking , for them it 's not possible to generate efficient code that would behave the way one would expect for C objects of type "int16_t " . 
+132	"no instruction"	"be store"	"a two-byte quantity"	
+132	"it"	"'s not"	"possible to generate efficient code"	
+132	"efficient code"	"would behave"	"the way one"	
+132	"132 Some early ARM processors"	"would expect"	"for C objects of type int16_t"	
+133	The ARM7 and earlier implementations have a three stage pipeline ; the stages being fetch , decode , and execute . 
+133	"133 The ARM7"	"have"	"a three stage pipeline"	
+133	"133 The earlier implementations"	"have"	"a three stage pipeline"	
+133	"the stages"	"being fetch"	"133 The ARM7 have a three stage pipeline"	
+133	"the stages"	"being fetch"	"133 The earlier implementations have a three stage pipeline"	
+133	"the stages"	"being decode"	"133 The ARM7 have a three stage pipeline"	
+133	"the stages"	"being decode"	"133 The earlier implementations have a three stage pipeline"	
+133	"the stages"	"being execute"	"133 The ARM7 have a three stage pipeline"	
+133	"the stages"	"being execute"	"133 The earlier implementations have a three stage pipeline"	
+134	Higher performance designs , such as the ARM9 , have deeper pipelines : Cortex-A8 has thirteen stages . 
+134	"134 Higher performance designs such as the ARM9"	"have"	"deeper pipelines"	
+134	"Cortex-A8"	"has"	"thirteen stages"	
+135	Additional implementation changes for higher performance include a faster adder , and more extensive branch prediction logic . 
+135	"135 Additional implementation changes for higher performance"	"include"	"a faster adder"	
+135	"135 Additional implementation changes for higher performance"	"include"	"a faster more extensive branch prediction logic"	
+136	The difference between the ARM7DI and ARM7DMI cores , for example , was an improved multiplier ( hence the added " M" ) . 
+136	"136 The difference between the ARM7DI cores"	"was an improved multiplier hence the added M"	"for example"	
+136	"136 The difference between the ARM7DMI cores"	"was an improved multiplier hence the added M"	"for example"	
+136	"136 The difference between the ARM7DI cores"	"was"	"an improved multiplier hence the added M"	
+136	"136 The difference between the ARM7DMI cores"	"was"	"an improved multiplier hence the added M"	
+137	For those familiar with the Intel x86 family of CPUs , the ARM family of processors does not support or have any instructions similar to CPUID . 
+137	"the ARM family of processors"	"does not support"	"137 For those familiar with the Intel x86 family of CPUs"	
+137	"the ARM family of processors"	"does not have"	"137 For those familiar with the Intel x86 family of CPUs any instructions similar to CPUID"	
+138	There are , however , mechanisms for addressing coprocessors in the ARM architecture . 
+138	"mechanisms for addressing coprocessors in the ARM architecture"	"There are"	"however 138"	
+138	"mechanisms for addressing coprocessors in the ARM architecture"	"There are"	"138"	
+139	The ARM architecture provides a non-intrusive way of extending the instruction set using " coprocessors " which can be addressed using MCR , MRC , MRRC , MCRR , and similar instructions . 
+139	"139 The ARM architecture"	"provides"	"a non-intrusive way of extending the instruction set using coprocessors"	
+139	"the instruction"	"be set"	"using coprocessors"	
+139	"coprocessors"	"can be addressed"	"using MCR"	
+139	"coprocessors"	"can be addressed"	"using MRC"	
+139	"coprocessors"	"can be addressed"	"using MRRC"	
+139	"coprocessors"	"can be addressed"	"using MCRR"	
+139	"coprocessors"	"can be addressed"	"using similar instructions"	
+140	The coprocessor space is divided logically into 16 coprocessors with numbers from 0 to 15 , coprocessor 15 ( cp15 ) being reserved for some typical control functions like managing the caches and MMU operation ( on processors that have one ) . 
+140	"140 The coprocessor space"	"is divided"	"logically into 16 coprocessors with numbers from 0 to 15 coprocessor 15 being reserved for some typical control functions like managing the caches on processors that have one"	
+140	"140 The coprocessor space"	"is divided"	"logically into 16 coprocessors with numbers from 0 to 15 coprocessor 15 being reserved for some typical control functions like managing the MMU operation on processors that have one"	
+140	"140 The coprocessor space"	"is divided"	"logically"	
+140	"16 coprocessors with numbers from 0 to 15"	"be reserved"	"for some typical control functions like managing the caches on processors that have one"	
+140	"16 coprocessors with numbers from 0 to 15"	"be reserved"	"for some typical control functions like managing the MMU operation on processors that have one"	
+140	"coprocessor 15"	"is"	"cp15"	
+140	"coprocessor 15"	"being reserved"	"for some typical control functions like managing the caches on processors that have one"	
+140	"coprocessor 15"	"being reserved"	"for some typical control functions like managing the MMU operation on processors that have one"	
+140	"that"	"have"	"one"	
+141	In ARM -based machines , peripheral devices are usually attached to the processor by mapping their physical registers into ARM memory space or into the coprocessor space or connecting to another device ( a bus ) which in turn attaches to the processor . 
+141	"based machines"	"are attached"	"ARM usually"	
+141	"based peripheral devices"	"are attached"	"ARM usually"	
+141	"based machines"	"are attached"	"to the processor ARM"	
+141	"based peripheral devices"	"are attached"	"to the processor ARM"	
+141	"based machines"	"are attached"	"by mapping their physical registers into ARM memory space ARM"	
+141	"based machines"	"are attached"	"by mapping their physical registers ARM memory space into the coprocessor space ARM"	
+141	"based machines"	"are attached"	"by mapping their physical registers ARM memory space connecting to another device ARM"	
+141	"based peripheral devices"	"are attached"	"by mapping their physical registers into ARM memory space ARM"	
+141	"based peripheral devices"	"are attached"	"by mapping their physical registers ARM memory space into the coprocessor space ARM"	
+141	"based peripheral devices"	"are attached"	"by mapping their physical registers ARM memory space connecting to another device ARM"	
+141	"based machines"	"are attached"	"ARM"	
+141	"based peripheral devices"	"are attached"	"ARM"	
+141	"their"	"has"	"physical"	
+141	"their physical"	"registers"	"into ARM memory space"	
+141	"their physical"	"registers"	"ARM memory space into the coprocessor space"	
+141	"their physical"	"registers"	"ARM memory space connecting to another device"	
+141	"another device"	"is"	"a bus"	
+141	"another device"	"attaches"	"to the processor in turn"	
+141	"another device"	"attaches"	"to the processor"	
+142	Coprocessor accesses have lower latency so some peripherals ( for example an XScale interrupt controller ) are designed to be accessible in both ways ( through memory and through coprocessors ) . 
+142	"142 Coprocessor accesses"	"have"	"lower latency so some peripherals are designed to be accessible in ways through memory"	
+142	"142 Coprocessor accesses"	"have"	"lower latency so some peripherals are designed to be accessible in ways memory through coprocessors"	
+142	"some peripherals"	"are designed"	"to be accessible in ways through memory"	
+142	"some peripherals"	"are designed"	"to be accessible in ways memory through coprocessors"	
+142	"some peripherals"	"are designed"	"to be accessible"	
+143	In other cases , chip designers only integrate hardware using the coprocessor mechanism . 
+143	"chip designers"	"integrate"	"hardware using the coprocessor mechanism only"	
+143	"chip designers"	"integrate"	"hardware using the coprocessor mechanism"	
+144	For example , an image processing engine might be a small ARM7TDMI core combined with a coprocessor that has specialized operations to support a specific set of HDTV transcoding primitives . 
+144	"an image processing engine"	"might be"	"a small ARM7TDMI core combined with a coprocessor 144 For example"	
+144	"an image processing engine"	"might be"	"a small ARM7TDMI core 144 For example"	
+144	"might a small ARM7TDMI core"	"be combined"	"with a coprocessor"	
+144	"a coprocessor"	"has specialized"	"operations to support a specific set of HDTV transcoding primitives"	
+144	"a coprocessor"	"has specialized"	"operations"	
+144	"that"	"be support"	"a specific set of HDTV transcoding primitives"	
+145	March 2011 All modern ARM processors include hardware debugging facilities ; without them , software debuggers could not perform basic operations like halting , stepping , and breakpointing of code starting from reset . 
+145	"145 March 2011 All modern ARM processors"	"include"	"hardware debugging facilities"	
+145	"software debuggers"	"could not perform"	"basic operations without them"	
+145	"software debuggers"	"could not perform"	"basic operations like halting"	
+145	"software debuggers"	"could not perform"	"basic operations like stepping"	
+145	"software debuggers"	"could not perform"	"basic operations like breakpointing of code starting from reset"	
+145	"software debuggers"	"could not perform"	"basic operations"	
+145	"breakpointing of code"	"be starting"	"from reset"	
+146	These facilities are built using JTAG support , though some newer cores optionally support ARM 's own two-wire " SWD " protocol . 
+146	"146 These facilities"	"are built"	"using JTAG support though some newer cores optionally support ARM 's own two-wire SWD protocol"	
+146	"146 These facilities"	"are built"	"using JTAG support"	
+146	"some newer cores"	"support"	"ARM 's own two-wire SWD protocol optionally"	
+146	"some newer cores"	"support"	"ARM 's own two-wire SWD protocol"	
+146	"ARM"	"has"	"own two-wire SWD"	
+147	In ARM7TDMI cores , the " D" represented JTAG debug support , and the " I" represented presence of an " EmbeddedICE" debug module . 
+147	"147 In ARM7TDMI cores"	"is"	"the D"	
+147	"147 In ARM7TDMI cores"	"represented"	"JTAG debug support"	
+147	"JTAG"	"be debug"	"support"	
+147	"I"	"represented"	"presence of an EmbeddedICE debug module"	
+148	For ARM7 and ARM9 core generations , EmbeddedICE over JTAG was a de-facto debug standard , although it was not architecturally guaranteed . 
+148	"148 For ARM7 core generations"	"is"	"EmbeddedICE over JTAG"	
+148	"148 For ARM9 core generations"	"is"	"EmbeddedICE over JTAG"	
+148	"148 For ARM7 core generations"	"was a de-facto debug standard"	"although it was not architecturally guaranteed"	
+148	"148 For ARM9 core generations"	"was a de-facto debug standard"	"although it was not architecturally guaranteed"	
+148	"148 For ARM7 core generations"	"was"	"a de-facto debug standard"	
+148	"148 For ARM9 core generations"	"was"	"a de-facto debug standard"	
+148	"it"	"was not guaranteed"	"architecturally"	
+148	"it"	"was not guaranteed"	
+149	The ARMv7 architecture defines basic debug facilities at an architectural level . 
+149	"149 The ARMv7 architecture"	"defines"	"basic debug facilities at an architectural level"	
+149	"149 The ARMv7 architecture"	"defines"	"basic debug facilities"	
+150	These include breakpoints , watchpoints , and instruction execution in a " Debug Mode " ; similar facilities were also available with EmbeddedICE. 
+150	"150 These"	"include"	"breakpoints"	
+150	"150 These"	"include"	"watchpoints"	
+150	"150 These"	"include"	"instruction execution in a Debug Mode"	
+150	"similar facilities"	"were available"	"also"	
+150	"similar facilities"	"were available"	"with EmbeddedICE"	
+150	"similar facilities"	"were"	"available"	
+151	Both "halt mode " and "monitor " mode debugging are supported . 
+151	"monitor mode debugging"	"are supported"	
+152	The actual transport mechanism used to access the debug facilities is not architecturally specified , but implementations generally include JTAG support . 
+152	"152 The actual transport mechanism"	"be used"	"to access the debug facilities"	
+152	"152 The actual transport mechanism used to access the debug facilities"	"is not specified"	"architecturally"	
+152	"152 The actual transport mechanism used to access the debug facilities"	"is not specified"	
+152	"implementations"	"include"	"JTAG support generally"	
+152	"implementations"	"include"	"JTAG support"	
+153	There is a separate ARM " CoreSight " debug architecture , which is not architecturally required by ARMv7 processors . 
+153	"architecture"	"is not required"	"by ARMv7 processors architecturally"	
+153	"architecture"	"is not required"	"by ARMv7 processors"	
+154	To improve the ARM architecture for digital signal processing and multimedia applications , a few new instructions were added to the set . 
+154	"154 To improve the ARM architecture for digital signal processing"	"is"	"a few new instructions"	
+154	"154 To improve the ARM architecture for digital signal multimedia applications"	"is"	"a few new instructions"	
+154	"154"	"be improve"	"the ARM architecture for digital signal processing"	
+154	"154"	"be improve"	"the ARM architecture for digital signal multimedia applications"	
+154	"154 To improve the ARM architecture for digital signal processing"	"were added"	"to the set"	
+154	"154 To improve the ARM architecture for digital signal multimedia applications"	"were added"	"to the set"	
+155	http ://www.arm.com/products/CPUs/cpu-arch-DSP.html 
+156	ARM DSP Instruction Set Extensions Arm.com 
+156	"156 ARM DSP Instruction"	"Set"	"Extensions Arm.com"	
+157	2009-04-18 http ://www.arm.com/products/CPUs/cpu-arch-DSP.html 
+158	ARM DSP Instruction Set Extensions Arm.com 
+158	"158 ARM DSP Instruction"	"Set"	"Extensions Arm.com"	
+159	2009-04-18 These are signified by an " E" in the name of the ARMv5TE and ARMv5TEJ architectures . 
+159	"159 2009-04-18 These"	"are signified"	"by an E in the name of the ARMv5TE"	
+159	"159 2009-04-18 These"	"are signified"	"by an E in the name of the ARMv5TEJ architectures"	
+159	"159 2009-04-18 These"	"are signified"	"by an E"	
+160	E-variants also imply T,D,M and I. 
+160	"160 E-variants"	"imply"	"T also"	
+160	"160 E-variants"	"imply"	"D also"	
+160	"160 E-variants"	"imply"	"M also"	
+160	"160 E-variants"	"imply"	"I. also"	
+160	"160 E-variants"	"imply"	"T"	
+160	"160 E-variants"	"imply"	"D"	
+160	"160 E-variants"	"imply"	"M"	
+160	"160 E-variants"	"imply"	"I."	
+161	The new instructions are common in digital signal processor architectures . 
+161	"161 The new instructions"	"are common"	"in digital signal processor architectures"	
+161	"161 The new instructions"	"are"	"common"	
+162	They are variations on signed multiply–accumulate , saturated add and subtract , and count leading zeros . 
+162	"They"	"are"	"variations on signed 162"	
+162	"They"	"are"	"variations 162"	
+162	"162"	"multiply"	
+162	"162"	"multiply"	
+162	"162"	"multiply"	
+162	"162"	"multiply"	
+163	Jazelle Jazelle is a technique that allows Java Bytecode to be executed directly in the ARM architecture as a third execution state ( and instruction set ) alongside the existing ARM and Thumb -mode . 
+163	"163 Jazelle Jazelle"	"is"	"a technique"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly in the ARM architecture alongside the existing ARM"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly in the ARM architecture alongside the existing Thumb mode"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly as a third execution state alongside the existing ARM"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly as a third execution state alongside the existing Thumb mode"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly alongside the existing ARM"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly alongside the existing Thumb mode"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly in the ARM architecture alongside the existing ARM"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly in the ARM architecture alongside the existing Thumb mode"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly as a third execution state alongside the existing ARM"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly as a third execution state alongside the existing Thumb mode"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly alongside the existing ARM"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly alongside the existing Thumb mode"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly in the ARM architecture"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly as a third execution state"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly in the ARM architecture"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly as a third execution state"	
+163	"a technique"	"allows"	"Java Bytecode to be executed directly"	
+164	Support for this state is signified by the " J" in the ARMv5TEJ architecture , and in ARM9EJ-S and ARM7EJ-S core names . 
+164	"164 Support for this state"	"is signified"	"by the J in the ARMv5TEJ architecture"	
+164	"164 Support for this state"	"is signified"	"by the J"	
+164	"164 Support for this state"	"is in"	"ARM9EJ-S core names by the J"	
+164	"164 Support for this state"	"is in"	"ARM7EJ-S core names by the J"	
+164	"164 Support for this state"	"is in"	"ARM9EJ-S core names in the ARMv5TEJ architecture"	
+164	"164 Support for this state"	"is in"	"ARM7EJ-S core names in the ARMv5TEJ architecture"	
+164	"164 Support for this state"	"is in"	"ARM9EJ-S core names"	
+164	"164 Support for this state"	"is in"	"ARM7EJ-S core names"	
+165	Support for this state is required starting in ARMv6 ( except for the ARMv7-M profile ) , although newer cores only include a trivial implementation that provides no hardware acceleration . 
+165	"165 Support for this state"	"is required"	"starting in ARMv6 although newer cores only include a trivial implementation"	
+165	"165 Support for this state"	"is required"	"starting in ARMv6"	
+165	"newer cores"	"include"	"a trivial implementation only"	
+165	"newer cores"	"include"	"a trivial implementation"	
+165	"a trivial implementation"	"provides"	"no hardware acceleration"	
+166	March 2011 To improve compiled code-density , processors since the ARM7TDMI have featured Thumb instruction set , which have their own state . 
+166	"166 March 2011"	"be improve"	"compiled code-density"	
+166	"166 March 2011 To improve compiled code-density"	"is"	"processors since the ARM7TDMI have featured Thumb instruction set"	
+166	"the ARM7TDMI"	"have featured"	"Thumb instruction set"	
+166	"Thumb instruction set"	"have"	"their own state"	
+166	"their"	"has"	"own state"	
+167	( The " T" in " TDMI " indicates the Thumb feature . 
+167	"the Thumb feature"	"indicates"	
+168	) When in this state , the processor executes the Thumb instruction set , a compact 16-bit encoding for a subset of the ARM instruction set . 
+168	"168"	"the processor executes"	"the Thumb instruction set When in this state"	
+168	"168"	"the processor executes"	"the Thumb instruction set"	
+168	"the processor"	"168 executes"	"the Thumb instruction set When in this state"	
+168	"the processor"	"168 executes"	"the Thumb instruction set"	
+168	"the Thumb instruction set"	"is"	"a compact 16-bit encoding for a subset of the ARM instruction set"	
+169	Jaggar , Dave ARM Architecture Reference Manual 1996 Prentice Hall 9-780137-362998 6-1 Jaggar , Dave ARM Architecture Reference Manual 1996 Prentice Hall 9-780137-362998 6-1 Most of the Thumb instructions are directly mapped to normal ARM instructions . 
+169	"169 Jaggar"	"is"	"Dave ARM Architecture Reference Manual 1996 Prentice Hall"	
+169	"9-780137-362998 6-1 Jaggar"	"is"	"Dave ARM Architecture Reference Manual 1996 Prentice Hall 9-780137-362998 6-1 Most of the Thumb instructions"	
+169	"9-780137-362998 6-1 Jaggar"	"are mapped"	"Dave ARM Architecture Reference Manual 1996 Prentice Hall directly"	
+169	"9-780137-362998 6-1 Jaggar"	"are mapped"	"to normal ARM instructions Dave ARM Architecture Reference Manual 1996 Prentice Hall"	
+169	"9-780137-362998 6-1 Jaggar"	"are mapped"	"Dave ARM Architecture Reference Manual 1996 Prentice Hall"	
+170	The space-saving comes from making some of the instruction operands implicit and limiting the number of possibilities compared to the ARM instructions executed in the ARM instruction set state . 
+170	"170 The space-saving"	"comes"	"from making some of the instruction operands implicit compared to the ARM instructions executed in the ARM instruction set state"	
+170	"170 The space-saving"	"comes"	"from making some of the instruction operands limiting the number of possibilities compared to the ARM instructions executed in the ARM instruction set state"	
+170	"some of the instruction operands"	"implicit"	"compared to the ARM instructions executed in the ARM instruction set state"	
+170	"some of the instruction operands"	"limiting"	"the number of possibilities compared to the ARM instructions executed in the ARM instruction set state"	
+170	"some of the instruction operands"	"limiting"	"the number of possibilities"	
+170	"the ARM instructions"	"be executed"	"in the ARM instruction set state"	
+171	In Thumb , the 16-bit opcodes have less functionality . 
+171	"the 16-bit opcodes"	"have"	"less functionality 171 In Thumb"	
+172	For example , only branches can be conditional , and many opcodes are restricted to accessing only half of all of the CPU 's general purpose registers . 
+172	"only branches"	"can be"	"172 For example conditional"	
+172	"only branches"	"can be"	"172 For example many"	
+172	"172 For example only branches can be conditional opcodes"	"are restricted registers"	"to accessing only half of all of the CPU 's general purpose"	
+172	"172 For example only branches can be many opcodes"	"are restricted registers"	"to accessing only half of all of the CPU 's general purpose"	
+172	"172 For example only branches can be conditional opcodes"	"are"	"restricted registers"	
+172	"172 For example only branches can be many opcodes"	"are"	"restricted registers"	
+172	"the CPU"	"has"	"general purpose"	
+173	The shorter opcodes give improved code density overall , even though some operations require extra instructions . 
+173	"some operations"	"require"	"extra instructions"	
+174	In situations where the memory port or bus width is constrained to less than 32 bits , the shorter Thumb opcodes allow increased performance compared with 32-bit ARM code , as less program code may need to be loaded into the processor over the constrained memory bandwidth . 
+174	"the memory port"	"is constrained"	"situations where"	
+174	"the memory bus width"	"is constrained"	"situations where"	
+174	"the memory port"	"is constrained"	"to less than 32 bits situations"	
+174	"the memory bus width"	"is constrained"	"to less than 32 bits situations"	
+174	"the memory port"	"is constrained"	"situations"	
+174	"the memory bus width"	"is constrained"	"situations"	
+174	"the shorter Thumb opcodes"	"allow"	"increased performance compared with 32-bit ARM code as less program code may need to be loaded into the processor over the constrained memory bandwidth 174 In situations"	
+174	"the shorter Thumb opcodes"	"allow"	"increased performance compared with 32-bit ARM code 174 In situations"	
+174	"less program code"	"may need"	"to be loaded into the processor over the constrained memory bandwidth"	
+174	"less program code"	"may need"	"to be loaded into the processor"	
+175	Embedded hardware , such as the Game Boy Advance , typically have a small amount of RAM accessible with a full 32-bit datapath ; the majority is accessed via a 16 bit or narrower secondary datapath . 
+175	"175 Embedded hardware such as the Game Boy Advance"	"have"	"a small amount of RAM accessible with a full 32-bit datapath typically"	
+175	"175 Embedded hardware such as the Game Boy Advance"	"have"	"a small amount of RAM accessible with a full 32-bit datapath"	
+175	"the majority"	"is accessed"	"via a 16 bit secondary datapath"	
+175	"the majority"	"is accessed"	"via a 16 narrower secondary datapath"	
+176	In this situation , it usually makes sense to compile Thumb code and hand-optimise a few of the most CPU -intensive sections using full 32-bit ARM instructions , placing these wider instructions into the 32-bit bus accessible memory . 
+176	"it"	"makes"	"176 In this situation sense to compile Thumb code a few of the most CPU intensive sections using full 32-bit ARM instructions usually"	
+176	"it"	"makes"	"176 In this situation sense to compile Thumb hand-optimise a few of the most CPU intensive sections using full 32-bit ARM instructions usually"	
+176	"it"	"makes"	"176 In this situation sense to compile Thumb code a few of the most CPU intensive sections using full 32-bit ARM instructions"	
+176	"it"	"makes"	"176 In this situation sense to compile Thumb hand-optimise a few of the most CPU intensive sections using full 32-bit ARM instructions"	
+176	"sense"	"be compile"	"Thumb code a few of the most CPU intensive sections using full 32-bit ARM instructions"	
+176	"sense"	"be compile"	"Thumb hand-optimise a few of the most CPU intensive sections using full 32-bit ARM instructions"	
+176	"a few of the most CPU intensive sections"	"be using"	"full 32-bit ARM instructions"	
+177	The first processor with a Thumb instruction decoder was the ARM7TDMI . 
+177	"177 The first processor with a Thumb instruction decoder"	"was"	"the ARM7TDMI"	
+178	All ARM9 and later families , including XScale , have included a Thumb instruction decoder . 
+178	"178 All ARM9 including XScale"	"have included"	"a Thumb instruction decoder"	
+178	"178 All later families including XScale"	"have included"	"a Thumb instruction decoder"	
+179	Thumb -2 technology made its debut in the ARM1156 core , announced in 2003 . 
+179	"179 Thumb -2 technology"	"made"	"its debut in the ARM1156 core announced in 2003"	
+179	"its"	"has"	"debut in the ARM1156 core announced in 2003"	
+179	"its debut in the ARM1156 core"	"be announced"	"in 2003"	
+180	Thumb -2 extends the limited 16-bit instruction set of Thumb with additional 32-bit instructions to give the instruction set more breadth , thus producing a variable-length instruction set . 
+180	"180 Thumb -2"	"be give"	"the instruction thus producing a variable-length instruction set"	
+180	"180 Thumb -2"	"extends"	"the limited 16-bit instruction set of Thumb with additional 32-bit instructions"	
+180	"180 Thumb -2"	"extends"	"the limited 16-bit instruction set of Thumb to give the instruction set more breadth thus producing a variable-length instruction set"	
+180	"180 Thumb -2"	"extends"	"the limited 16-bit instruction set of Thumb"	
+180	"to give the instruction set more breadth"	"be producing"	"a variable-length instruction set"	
+181	A stated aim for Thumb -2 is to achieve code density similar to Thumb with performance similar to the ARM instruction set on 32-bit memory . 
+181	"181 A stated aim for Thumb -2"	"is"	"to achieve code density similar to Thumb with performance similar to the ARM instruction set on 32-bit memory"	
+181	"181 A stated aim for Thumb -2"	"is"	"to achieve code density similar to Thumb"	
+181	"the ARM instruction"	"be set"	"on 32-bit memory"	
+182	In ARMv7 this goal can be said to have been met . 
+182	"this goal"	"can be said"	"to have been met 182 In ARMv7"	
+182	"this goal"	"can be said"	"to have been met 182"	
+183	December 2011 Thumb -2 extends both the ARM and Thumb instruction set with yet more instructions , including bit-field manipulation , table branches , and conditional execution . 
+183	"183 December 2011 Thumb -2"	"extends"	"the ARM set with yet more instructions including bit-field manipulation"	
+183	"183 December 2011 Thumb -2"	"extends"	"the Thumb instruction set with yet more instructions including bit-field manipulation"	
+183	"183 December 2011 Thumb -2"	"extends"	"the Thumb instruction set with yet more instructions including bit-field table branches"	
+183	"183 December 2011 Thumb -2"	"extends"	"the Thumb instruction set with yet more instructions including bit-field conditional execution"	
+183	"183 December 2011 Thumb -2"	"extends"	"the ARM set with yet more instructions including bit-field table branches"	
+183	"183 December 2011 Thumb -2"	"extends"	"the ARM set with yet more instructions including bit-field conditional execution"	
+183	"the ARM"	"be set"	"with yet more instructions including bit-field manipulation"	
+183	"the ARM"	"be set"	"with yet more instructions including bit-field table branches"	
+183	"the ARM"	"be set"	"with yet more instructions including bit-field conditional execution"	
+183	"the Thumb instruction"	"be set"	"with yet more instructions including bit-field manipulation"	
+183	"the Thumb instruction"	"be set"	"with yet more instructions including bit-field table branches"	
+183	"the Thumb instruction"	"be set"	"with yet more instructions including bit-field conditional execution"	
+184	A new " Unified Assembly Language " ( UAL ) supports generation of either Thumb -2 or ARM instructions from the same source code ; versions of Thumb seen on ARMv7 processors are essentially as capable as ARM code ( including the ability to write interrupt handlers ) . 
+184	"184 A new Unified Assembly Language"	"is"	"UAL"	
+184	"184 A new Unified Assembly Language"	"supports"	"generation of either Thumb -2 from the same source code"	
+184	"184 A new Unified Assembly Language"	"supports"	"generation of either -2 ARM instructions from the same source code"	
+184	"versions of Thumb"	"be seen"	"on ARMv7 processors"	
+184	"versions of Thumb seen on ARMv7 processors"	"are capable"	"essentially"	
+184	"versions of Thumb seen on ARMv7 processors"	"are capable"	"as ARM code including the ability to write interrupt handlers"	
+184	"versions of Thumb seen on ARMv7 processors"	"are"	"capable"	
+184	"the ability"	"be write"	"interrupt handlers"	
+185	This requires a bit of care , and use of a new "IT " ( if-then ) instruction , which permits up to four successive instructions to execute based on a tested condition . 
+185	"This"	"requires"	"a bit of care 185"	
+185	"This"	"use"	"a bit of care of a new IT if-then instruction 185"	
+185	"This"	"use"	"a bit of care 185"	
+185	"a new IT if-then instruction"	"permits up"	"to four successive instructions to execute based on a tested condition"	
+185	"a new IT if-then instruction"	"permits up"	"to execute based on a tested condition"	
+186	When compiling into ARM code this is ignored , but when compiling into Thumb -2 it generates an actual instruction . 
+186	"this"	"is ignored"	"When compiling into ARM code"	
+186	"this"	"is ignored"	
+186	"it"	"generates"	"an actual instruction when compiling into Thumb -2"	
+186	"it"	"generates"	"an actual instruction"	
+187	For example : if ( r0 = = r1 ) CMP r0 , r1ITE EQ ; ARM : no code ... 
+187	"r0 = = r1 CMP r0 ARM no code"	"is"	"r1ITE EQ"	
+188	Thumb : IT instruction then r0 = r2 ; MOVEQ r0 , r2 ; ARM : conditional ; Thumb : condition via ITE ' T ' ( then ) else r0 = r3 ; MOVNE r0 , r3 ; ARM : conditional ; Thumb : condition via ITE ' E ' (else ) recall that the Thumb MOV instruction has no bits to encode " EQ " or " NE" CMP r0 , r1ITE EQ ; ARM : no code ... 
+188	"MOVEQ r0"	"is"	"r2"	
+188	"MOVNE r0"	"is"	"r3"	
+188	"condition via ITE E"	"is"	"else"	
+188	"condition via ITE E"	"recall"	"that the Thumb MOV instruction has no bits to encode EQ NE CMP r0"	
+188	"condition via ITE E"	"recall"	"that the Thumb MOV instruction has no bits to encode EQ NE CMP r1ITE EQ"	
+188	"condition via ITE E"	"recall"	"that the Thumb MOV instruction has no bits to encode EQ NE CMP ARM no code"	
+188	"the Thumb MOV instruction"	"has"	"no bits to encode EQ"	
+188	"no bits"	"be encode"	
+189	Thumb : IT instruction MOVEQ r0 , r2 ; ARM : conditional ; Thumb : condition via ITE ' T ' ( then ) MOVNE r0 , r3 ; ARM : conditional ; Thumb : condition via ITE ' E ' (else ) All ARMv7 chips support the Thumb -2 instruction set . 
+189	"IT instruction MOVEQ r0 ARM conditional Thumb condition via ITE T then MOVNE r0 ARM conditional Thumb condition via ITE E else All ARMv7 chips support the Thumb -2 instruction set"	"is"	"r2"	
+189	"then MOVNE r0 ARM conditional Thumb condition via ITE E else All ARMv7 chips support the Thumb -2 instruction set"	"is"	"r3"	
+189	"All ARMv7 chips"	"support"	"the Thumb -2 instruction set"	
+190	Other chips in the Cortex and ARM11 series support both " ARM instruction set state " and " Thumb -2 instruction set state" . 
+191	http ://www.arm.com/products/CPUs/architecture 
+192	.html 
+193	ARM Processor Instruction Set Architecture Arm.com 
+193	"193 ARM Processor Instruction"	"Set"	"Architecture"	
+194	2009-04-18 http ://www.arm.com/products/CPUs/architecture 
+195	.html 
+196	ARM Processor Instruction Set Architecture Arm.com 
+196	"196 ARM Processor Instruction"	"Set"	"Architecture"	
+197	2009-04-18 http ://www.linuxdevices.com/news/NS7814673959.html 
+198	ARM aims son of Thumb at uCs , ASSPs , SoCs Linuxdevices.com 
+198	"198 ARM"	"aims"	"son of Thumb at uCs"	
+198	"198 ARM"	"aims"	"son of Thumb at ASSPs"	
+198	"198 ARM"	"aims"	"son of Thumb at SoCs Linuxdevices.com"	
+198	"198 ARM"	"aims"	"son of Thumb"	
+199	2009-04-18 http ://www.linuxdevices.com/news/NS7814673959.html 
+200	ARM aims son of Thumb at uCs , ASSPs , SoCs Linuxdevices.com 
+200	"200 ARM"	"aims"	"son of Thumb at uCs"	
+200	"200 ARM"	"aims"	"son of Thumb at ASSPs"	
+200	"200 ARM"	"aims"	"son of Thumb at SoCs Linuxdevices.com"	
+200	"200 ARM"	"aims"	"son of Thumb"	
+201	2009-04-18 http ://infocenter.arm.com/help/index 
+202	.jsp?topic=/com 
+203	.arm.doc.ddi0290g/I1005458.html 
+204	ARM Information Center Infocenter.arm.com 
+205	2009-04-18 http ://infocenter.arm.com/help/index 
+206	.jsp?topic=/com 
+207	.arm.doc.ddi0290g/I1005458.html 
+208	ARM Information Center Infocenter.arm.com 
+209	2009-04-18 ThumbEE , also termed Thumb -2EE , and marketed as ( Runtime Compilation Target ) , was announced in 2005 , first appearing in the Cortex-A8 processor . 
+209	"209 2009-04-18 ThumbEE"	"be termed"	"also"	
+209	"209 2009-04-18 marketed as Runtime Compilation Target"	"be termed"	"also"	
+209	"209 2009-04-18 ThumbEE also termed Thumb -2 EE"	"was announced"	"in 2005 appearing in the Cortex-A8 processor first"	
+209	"209 2009-04-18 ThumbEE also termed Thumb -2 EE"	"was announced"	"in 2005 appearing in the Cortex-A8 processor"	
+209	"209 2009-04-18 also termed Thumb -2 EE marketed as Runtime Compilation Target"	"was announced"	"in 2005 appearing in the Cortex-A8 processor first"	
+209	"209 2009-04-18 also termed Thumb -2 EE marketed as Runtime Compilation Target"	"was announced"	"in 2005 appearing in the Cortex-A8 processor"	
+209	"209 2009-04-18 ThumbEE also termed Thumb -2 EE"	"was announced"	"appearing in the Cortex-A8 processor first"	
+209	"209 2009-04-18 ThumbEE also termed Thumb -2 EE"	"was announced"	"appearing in the Cortex-A8 processor"	
+209	"209 2009-04-18 also termed Thumb -2 EE marketed as Runtime Compilation Target"	"was announced"	"appearing in the Cortex-A8 processor first"	
+209	"209 2009-04-18 also termed Thumb -2 EE marketed as Runtime Compilation Target"	"was announced"	"appearing in the Cortex-A8 processor"	
+210	ThumbEE is a fourth processor mode , making small changes to the Thumb -2 extended Thumb instruction set . 
+210	"210 ThumbEE"	"is a fourth processor mode extended Thumb instruction set"	"making small changes to the Thumb -2"	
+210	"210 ThumbEE"	"is"	"a fourth processor mode extended Thumb instruction set"	
+210	"a fourth processor mode extended Thumb instruction set"	"be making"	"small changes to the Thumb -2"	
+211	These changes make the instruction set particularly suited to code generated at runtime ( e .g 
+212	. 
+213	by JIT compilation ) in managed Execution Environments . 
+214	ThumbEE is a target for languages such as Limbo , Java , C# , Perl and Python , and allows JIT compiler to output smaller compiled code without impacting performance . 
+214	"214 ThumbEE"	"is a target"	"for languages such as Limbo"	
+214	"214 ThumbEE"	"is a target"	"for languages such as Java"	
+214	"214 ThumbEE"	"is a target"	"for languages such as C#"	
+214	"214 ThumbEE"	"is a target"	"for languages such as Perl"	
+214	"214 ThumbEE"	"is a target"	"for languages such as Python"	
+214	"214 ThumbEE"	"is"	"a target"	
+214	"214 ThumbEE"	"is"	"a allows for languages such as Limbo JIT compiler"	
+214	"214 ThumbEE"	"is"	"a allows for languages such as Java JIT compiler"	
+214	"214 ThumbEE"	"is"	"a allows for languages such as C# JIT compiler"	
+214	"214 ThumbEE"	"is"	"a allows for languages such as Perl JIT compiler"	
+214	"214 ThumbEE"	"is"	"a allows for languages such as Python JIT compiler"	
+214	"214 ThumbEE"	"is"	"a allows JIT compiler to output smaller compiled code"	
+214	"214 ThumbEE"	"is"	"a allows JIT compiler without impacting performance"	
+214	"214 ThumbEE"	"is"	"a allows JIT compiler"	
+215	New features provided by ThumbEE include automatic null pointer checks on every load and store instruction , an instruction to perform an array bounds check , access to registers r8-r15 ( where the Jazelle /DBX Java VM state is held ) , and special instructions that call a handler . 
+215	"215 New features provided by ThumbEE"	"include"	"automatic null pointer checks on every load an instruction to perform an array bounds check access to registers r8-r15 where the Jazelle DBX Java VM state is held"	
+215	"215 New features provided by ThumbEE"	"include"	"automatic null pointer checks on every load an instruction to perform an array bounds access to registers r8-r15 where the Jazelle DBX Java VM state is held special instructions"	
+215	"215 New features provided by ThumbEE"	"include"	"automatic null pointer checks on every store instruction an instruction to perform an array bounds check access to registers r8-r15 where the Jazelle DBX Java VM state is held"	
+215	"215 New features provided by ThumbEE"	"include"	"automatic null pointer checks on every store instruction an instruction to perform an array bounds access to registers r8-r15 where the Jazelle DBX Java VM state is held special instructions"	
+215	"215 New features provided by ThumbEE"	"include"	"automatic null pointer checks an instruction to perform an array bounds check access to registers r8-r15 where the Jazelle DBX Java VM state is held"	
+215	"215 New features provided by ThumbEE"	"include"	"automatic null pointer checks an instruction to perform an array bounds access to registers r8-r15 where the Jazelle DBX Java VM state is held special instructions"	
+215	"an instruction"	"be perform"	"an array bounds"	
+215	"an instruction to perform an array bounds"	"check"	"access to registers r8-r15 where the Jazelle DBX Java VM state is held"	
+215	"an instruction to perform an array bounds"	"special instructions"	"access to registers r8-r15 where the Jazelle DBX Java VM state is held"	
+215	"access"	"be registers"	"r8-r15 where the Jazelle DBX Java VM state is held"	
+215	"DBX Java VM state"	"is held"	"where"	
+215	"DBX Java VM state"	"is held"	
+215	"special instructions"	"call"	"a handler"	
+216	by Tom R. 
+217	Halfhill 2005 . 
+218	Handlers are small sections of frequently called code , commonly used to implement a feature of a high level language , such as allocating memory for a new object . 
+218	"218 Handlers"	"are small sections"	"of frequently called code commonly used to implement a feature of a high level language such as allocating memory for a new object"	
+218	"218 Handlers"	"are"	"small sections"	
+219	These changes come from repurposing a handful of opcodes , and knowing the core is in the new ThumbEE mode . 
+219	"219 These changes"	"come"	"from repurposing a handful of opcodes"	
+219	"219 These changes"	"knowing"	"the core is in the new ThumbEE mode from repurposing a handful of opcodes"	
+219	"219 These changes"	"knowing"	"the core is in the new ThumbEE mode"	
+219	"the core"	"is"	"in the new ThumbEE mode"	
+220	VFP ( Vector Floating Point ) technology is an FPU coprocessor extension to the ARM architecture . 
+220	"220 VFP"	"is"	"Vector Floating Point"	
+220	"220 VFP technology"	"is an FPU coprocessor extension"	"to the ARM architecture"	
+220	"220 VFP technology"	"is"	"an FPU coprocessor extension"	
+221	It provides low-cost single-precision and double-precision floating-point computation fully compliant with the ANSI/IEEE Std 754-1985 Standard for Binary Floating-Point Arithmetic . 
+221	"It"	"provides"	"low-cost single-precision 221"	
+221	"It"	"provides"	"low-cost double-precision floating-point computation 221"	
+222	VFP provides floating-point computation suitable for a wide spectrum of applications such as PDAs , smartphones , voice compression and decompression , three-dimensional graphics and digital audio , printers , set-top boxes , and automotive applications . 
+222	"222 VFP"	"provides"	"floating-point computation suitable for a wide spectrum of applications such as PDAs"	
+222	"222 VFP"	"provides"	"floating-point computation suitable for a wide spectrum of applications such as smartphones"	
+222	"222 VFP"	"provides"	"floating-point computation suitable for a wide spectrum of applications such as voice compression"	
+222	"222 VFP"	"provides"	"floating-point computation suitable for a wide spectrum of applications such as decompression"	
+222	"222 VFP"	"provides"	"floating-point computation suitable for a wide spectrum of applications such as three-dimensional graphics"	
+222	"222 VFP"	"provides"	"floating-point computation suitable for a wide spectrum of applications such as digital audio"	
+222	"222 VFP"	"provides"	"floating-point computation suitable for a wide spectrum of applications such as printers"	
+222	"222 VFP"	"provides"	"floating-point computation suitable for a wide spectrum of applications such as set-top boxes"	
+222	"222 VFP"	"provides"	"floating-point computation suitable for a wide spectrum of applications such as automotive applications"	
+223	The VFP architecture was intended to support execution of short "vector mode " instructions but these operated on each vector element sequentially and thus did not offer the performance of true single instruction _ multiple data ( SIMD ) vector parallelism . 
+223	"223 The VFP architecture"	"was intended"	"to support execution of short vector mode instructions"	
+223	"these"	"operated"	"on each vector element sequentially"	
+223	"these"	"operated"	"on each vector element"	
+223	"these"	"did not offer"	"the performance of true single instruction _ multiple data SIMD vector parallelism on each vector element"	
+223	"these"	"did not offer"	"the performance of true single instruction _ multiple data SIMD vector parallelism sequentially"	
+223	"these"	"did not offer"	"the performance of true single instruction _ multiple data SIMD vector parallelism"	
+224	This vector mode was therefore removed shortly after its introduction , http ://infocenter.arm.com/help/index 
+224	"224 This vector mode"	"was removed"	"shortly after its introduction therefore"	
+224	"224 This vector mode"	"was removed"	"shortly after its introduction"	
+224	"its"	"has"	"introduction"	
+225	.jsp?topic=/com 
+226	.arm.doc.dui0204j/Chdehgeh 
+227	.html 
+228	VFP directives and vector notation Arm.com 
+229	2011-11-21 http ://infocenter.arm.com/help/index 
+230	.jsp?topic=/com 
+231	.arm.doc.dui0204j/Chdehgeh 
+232	.html 
+233	VFP directives and vector notation Arm.com 
+234	2011-11-21 to be replaced with the much more powerful NEON Advanced SIMD unit . 
+234	"234 2011-11-21"	"be replaced"	"with the much more powerful NEON Advanced SIMD unit"	
+235	Some devices such as the ARM Cortex-A8 have a cut-down VFPLite module instead of a full VFP module , and require roughly ten times more clock cycles per float operation . 
+235	"235 Some devices such as the ARM Cortex-A8"	"have"	"a cut-down VFPLite module instead of a full VFP module"	
+235	"235 Some devices such as the ARM Cortex-A8"	"have"	"a cut-down VFPLite module"	
+235	"235 Some devices such as the ARM Cortex-A8"	"require"	"a cut-down VFPLite module roughly ten times more clock cycles per float operation instead of a full VFP module"	
+235	"235 Some devices such as the ARM Cortex-A8"	"require"	"a cut-down VFPLite module roughly ten times more clock cycles per float operation"	
+236	http ://www .shervinemami 
+237	.info/armAssembly 
+238	.html#cortex-a9 
+239	Differences between ARM Cortex-A8 and Cortex-A9 Shervin Emami 2011-11-21 http ://www .shervinemami 
+240	.info/armAssembly 
+241	.html#cortex-a9 
+242	Differences between ARM Cortex-A8 and Cortex-A9 Shervin Emami 2011-11-21 Other floating-point and/or SIMD coprocessors found in ARM -based processors include FPA , FPE , iwMMXt . 
+242	"ARM Cortex-A8 and Cortex-A9 Shervin Emami 2011-11-21 Other floating-point"	"be found"	"in ARM"	
+242	"ARM Cortex-A8 and Cortex-A9 Shervin Emami 2011-11-21 Other SIMD coprocessors"	"be found"	"in ARM"	
+242	"based processors"	"include"	"FPA ARM"	
+242	"based processors"	"include"	"FPE ARM"	
+242	"FPA"	"is"	"iwMMXt"	
+242	"FPE"	"is"	"iwMMXt"	
+243	They provide some of the same functionality as VFP but are not opcode -compatible with it . 
+243	"They"	"provide"	"some of the same functionality as VFP 243"	
+243	"They"	"are not opcode"	"some of the same functionality as VFP 243"	
+244	The Advanced SIMD extension (aka NEON or " MPE" Media Processing Engine ) is a combined 64 - and 128-bit single instruction multiple data ( SIMD ) instruction set that provides standardized acceleration for media and signal processing applications . 
+244	"244 The Advanced SIMD extension aka NEON Media Processing Engine"	"is"	"a combined 64"	
+244	"244 The Advanced SIMD extension aka MPE Media Processing Engine"	"is"	"a combined 64"	
+244	"128-bit single instruction multiple data"	"is"	"SIMD"	
+244	"128-bit single instruction multiple data instruction"	"set"	"that provides standardized acceleration for media"	
+244	"128-bit single instruction multiple data instruction"	"set"	"that provides standardized acceleration for signal processing applications"	
+244	"that"	"provides"	"standardized acceleration for media"	
+244	"that"	"provides"	"standardized acceleration for signal processing applications"	
+245	NEON is included in all Cortex-A8 devices but is optional in Cortex - A9 devices . 
+245	"245 NEON"	"is included"	"in all Cortex-A8 devices"	
+245	"245 NEON"	"is is optional"	"in all Cortex-A8 devices"	
+245	"245 NEON"	"is is optional"	"in Cortex A9 devices"	
+245	"245 NEON"	"is is"	"optional"	
+246	http ://www.arm.com/products/processors/cortex-a/cortex-a9.php 
+247	Cortex-A9 Processor Arm.com 
+248	2011-11-21 http ://www.arm.com/products/processors/cortex-a/cortex-a9.php 
+249	Cortex-A9 Processor Arm.com 
+250	2011-11-21 NEON can execute MP3 audio decoding on CPUs running at 10&nbsp;MHz and can run the GSM adaptive multi-rate ( AMR ) speech codec at no more than 13&nbsp;MHz . 
+250	"250 2011-11-21 NEON"	"can execute"	"MP3 audio decoding on CPUs running at 10 MHz"	
+250	"250 2011-11-21 NEON"	"can can run"	"MP3 audio decoding on CPUs running at 10 MHz the GSM adaptive multi-rate AMR speech codec at no more than 13 MHz"	
+250	"250 2011-11-21 NEON"	"can can run"	"MP3 audio decoding on CPUs running at 10 MHz the GSM adaptive multi-rate AMR speech codec"	
+250	"MP3 audio"	"be decoding"	"on CPUs running at 10 MHz"	
+250	"CPUs"	"be running"	"at 10 MHz"	
+251	It features a comprehensive instruction set , separate register files and independent execution hardware . 
+251	"251 It"	"features"	"a comprehensive instruction set"	
+251	"251 It"	"features"	"a comprehensive instruction separate register files"	
+251	"251 It"	"features"	"a comprehensive instruction independent execution hardware"	
+252	http ://infocenter.arm.com/help/index 
+253	.jsp?topic=/com 
+254	.arm.doc.ddi0409f/Chdceejc.html 
+255	About the Cortex-A9 NEON MPE Arm.com 
+256	2011-11-21 http ://infocenter.arm.com/help/index 
+257	.jsp?topic=/com 
+258	.arm.doc.ddi0409f/Chdceejc.html 
+259	About the Cortex-A9 NEON MPE Arm.com 
+260	2011-11-21 NEON supports 8-, 16-, 32- and 64-bit integer and single-precision ( 32-bit ) floating-point data and operates in SIMD operations for handling audio and video processing as well as graphics and gaming processing . 
+260	"260 2011-11-21 NEON"	"supports"	"8 in SIMD operations for handling audio"	
+260	"260 2011-11-21 NEON"	"supports"	"8 in SIMD operations for handling video processing as well as graphics and gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"8 in SIMD operations for audio graphics"	
+260	"260 2011-11-21 NEON"	"supports"	"8 in SIMD operations for audio gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 integer 32-bit floating-point data in SIMD operations for handling audio"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 integer 32-bit floating-point data in SIMD operations for handling video processing as well as graphics and gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 integer 32-bit floating-point data in SIMD operations for audio graphics"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 integer 32-bit floating-point data in SIMD operations for audio gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"16 64-bit integer and single-precision 32-bit floating-point data in SIMD operations for handling audio"	
+260	"260 2011-11-21 NEON"	"supports"	"16 64-bit integer and single-precision 32-bit floating-point data in SIMD operations for handling video processing as well as graphics and gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"16 64-bit integer and single-precision 32-bit floating-point data in SIMD operations for audio graphics"	
+260	"260 2011-11-21 NEON"	"supports"	"16 64-bit integer and single-precision 32-bit floating-point data in SIMD operations for audio gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 single-precision 32-bit floating-point data in SIMD operations for handling audio"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 single-precision 32-bit floating-point data in SIMD operations for handling video processing as well as graphics and gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 single-precision 32-bit floating-point data in SIMD operations for audio graphics"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 single-precision 32-bit floating-point data in SIMD operations for audio gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"operates in SIMD operations for handling audio"	
+260	"260 2011-11-21 NEON"	"supports"	"operates in SIMD operations for handling video processing as well as graphics and gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"operates in SIMD operations for audio graphics"	
+260	"260 2011-11-21 NEON"	"supports"	"operates in SIMD operations for audio gaming processing"	
+260	"260 2011-11-21 NEON"	"supports"	"8 in SIMD operations"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 integer 32-bit floating-point data in SIMD operations"	
+260	"260 2011-11-21 NEON"	"supports"	"16 64-bit integer and single-precision 32-bit floating-point data in SIMD operations"	
+260	"260 2011-11-21 NEON"	"supports"	"16 32 single-precision 32-bit floating-point data in SIMD operations"	
+260	"260 2011-11-21 NEON"	"supports"	"operates in SIMD operations"	
+261	In NEON , the SIMD supports up to 16 operations at the same time . 
+261	"the SIMD"	"supports up"	"261 In NEON to 16 operations"	
+261	"the SIMD"	"supports up"	"261 In NEON at the same time"	
+261	"the SIMD"	"supports up"	"261 In NEON"	
+262	The NEON hardware shares the same floating-point registers as used in VFP. 
+262	"the same floating-point"	"registers"	"as used in VFP 262 The NEON hardware shares"	
+262	"the same floating-point"	"registers"	"262 The NEON hardware shares"	
+263	Devices such as the ARM Cortex-A8 and Cortex - A9 support 128-bit vectors but will execute with just 64-bits at a time , whereas newer Cortex - A15 devices can execute 128-bits at once . 
+263	"A15 devices"	"can execute"	"128-bits at once"	
+263	"A15 devices"	"can execute"	"128-bits"	
+264	The Security Extensions , marketed as TrustZone Technology , is found in ARMv6KZ and later application profile architectures . 
+264	"264 The Security Extensions"	"be marketed"	"as TrustZone Technology"	
+264	"264 The Security Extensions marketed as TrustZone Technology"	"is found"	"in ARMv6KZ"	
+264	"264 The Security Extensions marketed as TrustZone Technology"	"is application profile architectures"	"in ARMv6KZ"	
+264	"264 The Security Extensions marketed as TrustZone Technology"	"is application profile architectures"	"later"	
+264	"264 The Security Extensions marketed as TrustZone Technology"	"is application profile architectures"	
+265	It provides a low cost alternative to adding an additional dedicated security core to an SoC , by providing two virtual processors backed by hardware based access control . 
+265	"It"	"provides"	"a low cost alternative to adding an additional dedicated security core to an SoC 265"	
+265	"It"	"provides"	"a low cost alternative by providing two virtual processors backed by hardware based access control 265"	
+265	"It"	"provides"	"a low cost alternative 265"	
+265	"two virtual processors"	"be backed"	"by hardware"	
+266	This enables the application core to switch between two states , referred to as worlds ( to reduce confusion with other names for capability domains ) , in order to prevent information from leaking from the more trusted world to the less trusted world . 
+266	"This"	"enables"	"the application core to switch between two states referred to as worlds to reduce confusion with other names for capability domains in order to prevent information from leaking from the more trusted world to the less trusted world 266"	
+266	"This"	"enables"	"the application core to switch between two states referred to as worlds to reduce confusion with other names for capability domains 266"	
+266	"two states"	"be referred"	"to as worlds"	
+266	"two states"	"be referred"	"to"	
+267	This world switch is generally orthogonal to all other capabilities of the processor , thus each world can operate independently of the other while using the same core . 
+267	"267 This world switch"	"is orthogonal"	"generally thus each world can operate independently of the other while using the same core"	
+267	"267 This world switch"	"is orthogonal"	"to all other capabilities of the processor thus each world can operate independently of the other while using the same core"	
+267	"267 This world switch"	"is orthogonal"	"thus each world can operate independently of the other while using the same core"	
+267	"each world"	"can operate"	"independently of the other while using the same core"	
+267	"each world"	"can operate"	"independently of the other"	
+268	Memory and peripherals are then made aware of the operating world of the core and may use this to provide access control to secrets and code on the device . 
+268	"268 Memory"	"are made"	"aware of the operating world of the core"	
+268	"268 peripherals"	"are made"	"aware of the operating world of the core"	
+268	"268 Memory"	"are may use"	"aware of the operating world of the core this to provide access control to secrets on the device"	
+268	"268 Memory"	"are may use"	"aware of the operating world of the core this to provide access control to code on the device"	
+268	"268 peripherals"	"are may use"	"aware of the operating world of the core this to provide access control to secrets on the device"	
+268	"268 peripherals"	"are may use"	"aware of the operating world of the core this to provide access control to code on the device"	
+268	"268 Memory"	"are may use"	"aware of the operating world of the core this"	
+268	"268 peripherals"	"are may use"	"aware of the operating world of the core this"	
+268	"may use this"	"be provide"	"access control to secrets on the device"	
+268	"may use this"	"be provide"	"access control to code on the device"	
+269	Typical applications of TrustZone Technology are to run a rich operating system in the less trusted world , and smaller security-specialized code in the more trusted world ( named TrustZone Software , a TrustZone optimized version of the Trusted Foundations Software developed by ) , allowing much tighter digital rights management for controlling the use of media on ARM -based devices , http ://news .thomasnet.com/companystory/476887 
+270	ARM Announces Availability of Mobile Consumer DRM Software Solutions Based on ARM T News .thomasnet.com 
+271	2009-04-18 http ://news .thomasnet.com/companystory/476887 
+272	ARM Announces Availability of Mobile Consumer DRM Software Solutions Based on ARM T News .thomasnet.com 
+273	2009-04-18 and preventing any unapproved use of the device . 
+274	In practice , since the specific implementation details of TrustZone are proprietary and have not been publicly disclosed for review , it is unclear what level of assurance is provided for a given threat model . 
+274	"the specific implementation details of TrustZone"	"are"	"proprietary"	
+274	"the specific implementation details of TrustZone"	"are have not been disclosed"	"publicly"	
+274	"the specific implementation details of TrustZone"	"are have not been disclosed"	"for review"	
+274	"the specific implementation details of TrustZone"	"are have not been"	"disclosed"	
+274	"it"	"is"	"unclear 274 In practice since the specific implementation details of TrustZone are proprietary what level of assurance is provided for a given threat model"	
+274	"it"	"is"	"unclear 274 In practice since the specific implementation details of TrustZone are have not been publicly disclosed for review what level of assurance is provided for a given threat model"	
+274	"level of assurance"	"is provided"	"what for a given threat model"	
+274	"level of assurance"	"is provided"	"what"	
+275	As of ARMv6 , the ARM architecture supports no-execute page protection , which is referred to as XN , for eXecute Never . 
+275	"the ARM architecture"	"supports"	"275 As of ARMv6 no-execute page protection"	
+275	"no-execute page protection"	"is referred"	"to as XN"	
+276	" APXand XN ( execute never ) bits have been added in VMSAv6 [Virtual Memory System Architecture ]" , , retrieved 2009/12/01 . 
+276	"276 APXand XN"	"execute never bits have been added"	"in VMSAv6"	
+276	"execute never bits"	"276 APXand XN have been added"	"in VMSAv6"	
+276	"Virtual Memory System Architecture"	"be retrieved"	"2009/12/01"	
+277	March 2011 ARM Ltd does not manufacture and sell CPU devices based on its own designs , but rather , licenses the processor architecture to interested parties . 
+277	"277 March 2011 ARM Ltd"	"does not manufacture"	"CPU devices based on its own designs"	
+277	"277 March 2011 ARM Ltd"	"does not manufacture"	"CPU devices"	
+277	"277 March 2011 ARM Ltd"	"does not licenses"	"CPU devices the processor architecture based on its own designs"	
+277	"277 March 2011 ARM Ltd"	"does not licenses"	"CPU devices the processor architecture rather"	
+277	"277 March 2011 ARM Ltd"	"does not licenses"	"CPU devices the processor architecture to interested parties"	
+277	"277 March 2011 ARM Ltd"	"does not licenses"	"CPU devices the processor architecture"	
+277	"277 March 2011 ARM Ltd"	"does not sell"	"CPU devices based on its own designs"	
+277	"277 March 2011 ARM Ltd"	"does not sell"	"CPU devices"	
+277	"its"	"has"	"own designs"	
+278	ARM offers a variety of licensing terms , varying in cost and deliverables . 
+278	"278 ARM"	"offers"	"a variety of licensing terms varying in cost"	
+278	"278 ARM"	"offers"	"a variety of licensing terms varying in deliverables"	
+278	"278 ARM"	"offers"	"a variety of licensing terms"	
+278	"278 ARM"	"be varying"	"in cost"	
+278	"278 ARM"	"be varying"	"in deliverables"	
+279	To all licensees , ARM provides an integratable hardware description of the ARM core , as well as complete software development toolset ( compiler , debugger , SDK ) , and the right to sell manufactured silicon containing the ARM CPU . 
+279	"ARM"	"provides"	"an integratable hardware description of the ARM core 279 To all licensees"	
+279	"ARM"	"provides"	"an integratable hardware of the ARM core complete software development toolset compiler 279 To all licensees"	
+279	"ARM"	"provides"	"an integratable hardware description of the ARM core"	
+279	"ARM"	"provides"	"an integratable hardware of the ARM core complete software development toolset compiler"	
+279	"ARM"	"the right"	"an integratable hardware description of the ARM core 279 To all licensees"	
+279	"ARM"	"the right"	"an integratable hardware of the ARM core complete software development toolset compiler 279 To all licensees"	
+279	"ARM"	"the right"	"an integratable hardware description of the ARM core to sell manufactured silicon containing the ARM CPU"	
+279	"ARM"	"the right"	"an integratable hardware of the ARM core complete software development toolset compiler to sell manufactured silicon containing the ARM CPU"	
+279	"ARM"	"the right"	"an integratable hardware description of the ARM core"	
+279	"ARM"	"the right"	"an integratable hardware of the ARM core complete software development toolset compiler"	
+279	"compiler"	"is"	"debugger"	
+279	"compiler"	"is"	"SDK"	
+279	"the right"	"be sell"	"manufactured silicon containing the ARM CPU"	
+279	"manufactured silicon"	"be containing"	"the ARM CPU"	
+280	Fabless licensees , who wish to integrate an ARM core into their own chip design , are usually only interested in acquiring a ready-to-manufacture verified IP core . 
+280	"280 Fabless licensees"	"wish"	"to integrate an ARM core into their own chip design"	
+280	"280 Fabless licensees"	"wish"	"to integrate an ARM core"	
+280	"their"	"has"	"own chip design"	
+280	"280 Fabless licensees"	"are interested"	"usually"	
+280	"280 Fabless licensees"	"are interested"	"only"	
+280	"280 Fabless licensees"	"are interested"	"in acquiring a ready-to-manufacture verified IP core"	
+280	"280 Fabless licensees"	"are"	"interested"	
+281	For these customers , ARM delivers a gate netlist description of the chosen ARM core , along with an abstracted simulation model and test programs to aid design integration and verification . 
+281	"ARM"	"delivers"	"281 For these customers a gate netlist description of the chosen ARM core along with an abstracted simulation model to aid design integration"	
+281	"ARM"	"delivers"	"281 For these customers a gate netlist description of the chosen ARM core along with an abstracted simulation test programs to aid design integration and verification"	
+281	"ARM"	"delivers"	"281 For these customers a gate netlist description of the chosen ARM core along with an abstracted simulation model to aid design verification"	
+281	"ARM"	"delivers"	"281 For these customers a gate netlist description of the chosen ARM core"	
+282	More ambitious customers , including integrated device manufacturers ( IDM) and foundry operators , choose to acquire the processor IP in synthesizable RTL ( Verilog ) form . 
+282	"integrated device manufacturers"	"is"	"IDM"	
+282	"integrated device foundry operators"	"is"	"IDM"	
+282	"282 More ambitious customers including integrated device manufacturers"	"choose"	"to acquire the processor IP in synthesizable RTL form"	
+282	"282 More ambitious customers including integrated device manufacturers"	"choose"	"to acquire the processor IP"	
+282	"282 More ambitious customers including integrated device foundry operators"	"choose"	"to acquire the processor IP in synthesizable RTL form"	
+282	"282 More ambitious customers including integrated device foundry operators"	"choose"	"to acquire the processor IP"	
+282	"synthesizable RTL"	"is"	"Verilog"	
+283	With the synthesizable RTL , the customer has the ability to perform architectural level optimizations and extensions . 
+283	"the customer"	"has"	"283 With the synthesizable RTL the ability to perform architectural level optimizations"	
+283	"the customer"	"has"	"283 With the synthesizable RTL the ability to perform architectural level extensions"	
+283	"the ability"	"be perform"	"architectural level optimizations"	
+283	"the ability"	"be perform"	"architectural level extensions"	
+284	This allows the designer to achieve exotic design goals not otherwise possible with an unmodified netlist ( high clock speed , very low power consumption , instruction set extensions , etc. 
+284	"This"	"allows"	"the designer to achieve exotic design goals 284"	
+284	"high clock speed"	"is"	"very low power consumption"	
+284	"instruction"	"set"	"extensions etc. high clock speed"	
+285	) . 
+286	While ARM does not grant the licensee the right to resell the ARM architecture itself , licensees may freely sell manufactured product ( chip devices , evaluation boards , complete systems , etc. 
+286	"ARM"	"does not grant"	"the licensee the right to resell the ARM architecture itself"	
+286	"the right"	"be resell"	"the ARM architecture itself"	
+286	"licensees"	"may sell"	"manufactured product chip devices etc. freely"	
+286	"licensees"	"may sell"	"manufactured product chip evaluation boards etc. freely"	
+286	"licensees"	"may sell"	"manufactured product chip devices etc."	
+286	"licensees"	"may sell"	"manufactured product chip evaluation boards etc."	
+286	"chip devices etc."	"is"	"complete systems"	
+286	"chip evaluation boards etc."	"is"	"complete systems"	
+287	) . 
+288	Merchant foundries can be a special case ; not only are they allowed to sell finished silicon containing ARM cores , they generally hold the right to re-manufacture ARM cores for other customers . 
+288	"288 Merchant foundries"	"can be"	"a special case not only are they allowed to sell finished silicon containing ARM cores"	
+288	"they"	"are allowed"	"to sell finished silicon containing ARM cores not only"	
+288	"they"	"are allowed"	"to sell finished silicon containing ARM cores"	
+288	"finished silicon"	"be containing"	"ARM cores"	
+288	"they"	"hold"	"the right to re-manufacture ARM cores for other customers generally"	
+288	"they"	"hold"	"the right to re-manufacture ARM cores for other customers"	
+289	Like most IP vendors , ARM prices its IP based on perceived value . 
+289	"its"	"has"	"IP based on perceived value"	
+290	In architectural terms , lower performing ARM cores command lower license costs than higher performing cores . 
+290	"ARM cores"	"command"	"lower license costs than higher performing cores"	
+290	"higher"	"be performing"	"cores"	
+291	In implementation terms , a synthesizable core costs more than a hard macro ( blackbox ) core . 
+291	"291 In implementation terms"	"is"	"a synthesizable core costs more than a hard macro core"	
+291	"a hard macro"	"is"	"blackbox"	
+292	Complicating price matters , a merchant foundry which holds an ARM license ( such as Samsung and Fujitsu ) can offer reduced licensing costs to its fab customers . 
+292	"292 Complicating price matters"	"is"	"a merchant foundry"	
+292	"a merchant foundry"	"holds"	"an ARM license such as Samsung"	
+292	"a merchant foundry"	"holds"	"an ARM license such as Fujitsu"	
+292	"292 Complicating price matters"	"can offer"	"reduced licensing costs to its fab customers"	
+292	"292 Complicating price matters"	"can offer"	"reduced licensing costs"	
+292	"its"	"has"	"fab customers"	
+293	In exchange for acquiring the ARM core through the foundry 's in-house design services , the customer can reduce or eliminate payment of ARM 's upfront license fee . 
+293	"the foundry"	"has"	"in-house design services"	
+293	"the customer"	"can reduce"	"payment of ARM 's upfront license fee"	
+293	"the customer"	"can eliminate"	"payment of ARM 's upfront license fee"	
+293	"ARM"	"has"	"upfront license fee"	
+294	Compared to dedicated semiconductor foundries ( such as TSMC and UMC ) without in-house design services , Fujitsu / Samsung charge 2 to 3 times more per manufactured wafer . 
+294	"294"	"be Compared"	"to dedicated semiconductor foundries such as TSMC without in-house design services"	
+294	"294"	"be Compared"	"to dedicated semiconductor foundries such as UMC without in-house design services"	
+294	"294"	"be Compared"	"to dedicated semiconductor foundries such as TSMC"	
+294	"294"	"be Compared"	"to dedicated semiconductor foundries such as UMC"	
+295	For low to mid volume applications , a design service foundry offers lower overall pricing ( through subsidization of the license fee ) . 
+295	"a design service foundry"	"offers"	"lower overall pricing through subsidization of the license fee 295 For low to mid volume applications"	
+296	For high volume mass produced parts , the long term cost reduction achievable through lower wafer pricing reduces the impact of ARM 's NRE ( Non-Recurring Engineering ) costs , making the dedicated foundry a better choice . 
+296	"high volume mass"	"produced"	"parts"	
+296	"the long term cost reduction"	"achievable"	"through lower wafer pricing For high volume mass produced parts"	
+296	"the long term cost reduction"	"achievable"	"through lower wafer pricing"	
+296	"reduces the impact of ARM 's NRE costs"	"be making"	"the dedicated foundry a better choice"	
+296	"ARM"	"has"	"NRE"	
+296	"ARM 's NRE"	"is"	"Non-Recurring Engineering"	
+296	"the dedicated foundry"	"a better choice"	
+297	Many semiconductor or IC design firms hold ARM licenses : Analog Devices , AppliedMicro , Atmel , Broadcom , Cirrus Logic , Energy Micro , Faraday Technology , Freescale , Fujitsu , Intel ( through its settlement with Digital Equipment Corporation ) , IBM , Infineon Technologies , Marvell Technology Group , Nintendo , NXP Semiconductors , OKI , Qualcomm , Samsung , Sharp , STMicroelectronics , and Texas Instruments are some of the many companies who have licensed the ARM in one form or another . 
+297	"297 Many semiconductor"	"hold"	"ARM licenses"	
+297	"297 Many IC design firms"	"hold"	"ARM licenses"	
+297	"Analog Devices"	"is"	"Infineon Technologies"	
+297	"Analog Devices"	"is"	"Marvell Technology Group"	
+297	"Analog Devices"	"is"	"IBM"	
+297	"Analog Devices"	"is"	"AppliedMicro through its settlement with Digital Equipment Corporation"	
+297	"Analog Devices"	"is"	"Atmel through its settlement with Digital Equipment Corporation"	
+297	"Analog Devices"	"is"	"Broadcom through its settlement with Digital Equipment Corporation"	
+297	"Analog Devices"	"is"	"Cirrus Logic through its settlement with Digital Equipment Corporation"	
+297	"Analog Devices"	"is"	"Energy Micro through its settlement with Digital Equipment Corporation"	
+297	"Analog Devices"	"is"	"Faraday Technology through its settlement with Digital Equipment Corporation"	
+297	"Analog Devices"	"is"	"Freescale through its settlement with Digital Equipment Corporation"	
+297	"Analog Devices"	"is"	"Fujitsu through its settlement with Digital Equipment Corporation"	
+297	"AppliedMicro through its settlement with Digital Equipment Corporation"	"is"	"Intel"	
+297	"Atmel through its settlement with Digital Equipment Corporation"	"is"	"Intel"	
+297	"Broadcom through its settlement with Digital Equipment Corporation"	"is"	"Intel"	
+297	"Cirrus Logic through its settlement with Digital Equipment Corporation"	"is"	"Intel"	
+297	"Energy Micro through its settlement with Digital Equipment Corporation"	"is"	"Intel"	
+297	"Faraday Technology through its settlement with Digital Equipment Corporation"	"is"	"Intel"	
+297	"Freescale through its settlement with Digital Equipment Corporation"	"is"	"Intel"	
+297	"Fujitsu through its settlement with Digital Equipment Corporation"	"is"	"Intel"	
+297	"its"	"has"	"settlement with Digital Equipment Corporation"	
+297	"Marvell Technology Group"	"is"	"Nintendo"	
+297	"Marvell Technology Group"	"is"	"NXP Semiconductors"	
+297	"Marvell Technology Group"	"is"	"OKI"	
+297	"Marvell Technology Group"	"is"	"Qualcomm"	
+297	"Marvell Technology Group"	"is"	"Samsung"	
+297	"Marvell Technology Group"	"is"	"Sharp"	
+297	"Marvell Technology Group"	"is"	"STMicroelectronics"	
+297	"Marvell Technology Group"	"is"	"Texas Instruments"	
+297	"Analog Devices"	"are some"	"of the many companies"	
+297	"Analog Devices"	"are"	"some"	
+297	"the many companies"	"have licensed"	"the ARM in one form"	
+297	"the many companies"	"have licensed"	"the ARM in one another"	
+297	"the many companies"	"have licensed"	"the ARM"	
+298	ARM 's 2006 annual report and accounts state that royalties totalling £88.7 
+298	"298 ARM"	"has"	"2006 annual report"	
+298	"298 ARM 's 2006 annual report"	"state"	"that royalties totalling # 88.7"	
+298	"298 ARM 's 2006 annual accounts"	"state"	"that royalties totalling # 88.7"	
+298	"royalties"	"be totalling"	"# 88.7"	
+299	million ( $ 164.1 
+300	million ) were the result of licensees shipping 2.45 
+300	"the result of licensees shipping 2.45"	"were"	
+300	"licensees"	"be shipping"	"2.45"	
+301	billion units . 
+302	" Business review/Financial review/IFRS " , p . 
+302	"302 Business review/Financial review/IFRS"	"is"	"p"	
+303	10 , . 
+304	Retrieved May 7 , 2007 . 
+304	"304"	"be Retrieved"	"May 7 2007"	
+305	This is equivalent to £0.036 
+305	"This"	"is"	"equivalent to # 0.036 305"	
+305	"This"	"is"	"equivalent 305"	
+306	( $ 0.067 
+307	) per unit shipped . 
+307	"unit"	"be shipped"	
+308	However , this is averaged across all cores , including expensive new cores and inexpensive older cores . 
+308	"this"	"is averaged"	"across all cores including expensive new cores"	
+308	"this"	"is averaged"	"across all cores including expensive new inexpensive older cores"	
+308	"this"	"is averaged"	"across all cores"	
+309	In the same year ARM 's licensing revenues for processor cores were £65.2 
+309	"ARM"	"has"	"licensing revenues for processor cores"	
+309	"ARM 's licensing revenues for processor cores"	"were"	"# 65.2 the same year"	
+310	million ( US$ 119.5 
+311	million ) , Based on total £110.6 
+311	"311 million"	"be Based"	"on total # 110.6"	
+312	million ( $ 202.5 
+313	million ) divided by " License revenues by product " ; " Business review/Financial review/IFRS " and " Key performance indicators " respectively , p . 
+314	10 / p . 
+315	3 . 
+316	Retrieved May 7 , 2007 . 
+316	"316"	"be Retrieved"	"May 7 2007"	
+317	in a year when 65 processor licenses were signed , " Key performance indicators " , p . 
+317	"65 processor licenses"	"were signed"	"a year when"	
+317	"65 processor licenses"	"were signed"	"a year"	
+317	"317 in a year Key performance indicators"	"is"	"p"	
+318	3 , . 
+319	Retrieved May 7 , 2007 . 
+319	"319"	"be Retrieved"	"May 7 2007"	
+320	an average of £1 million ( $ 1.84 
+321	million ) per license . 
+322	Again , this is averaged across both new and old cores . 
+322	"this"	"is averaged"	"across new cores"	
+322	"this"	"is averaged"	"across old cores"	
+323	Given that ARM 's 2006 income from processor cores was approximately 60 % from royalties and 40 % from licenses , ARM makes the equivalent of £0.06 
+323	"323"	"be Given"	
+323	"ARM"	"has"	"2006 income from processor cores"	
+323	"ARM 's 2006 income from processor cores"	"was approximately 60 %"	"from royalties"	
+323	"ARM 's 2006 income from processor cores"	"was approximately 60 40 % from licenses"	"from royalties"	
+323	"ARM 's 2006 income from processor cores"	"was"	"approximately 60 %"	
+323	"ARM 's 2006 income from processor cores"	"was"	"approximately 60 40 % from licenses"	
+323	"ARM"	"makes"	"the equivalent of # 0.06"	
+324	( $ 0.11 
+325	) per unit shipped including both royalties and licenses . 
+325	"unit"	"be shipped"	"including royalties"	
+325	"unit"	"be shipped"	"including licenses"	
+326	However , as one-off licenses are typically bought for new technologies , unit sales ( and hence royalties ) are dominated by more established products . 
+326	"one-off licenses"	"are bought"	"for new technologies typically"	
+326	"one-off licenses"	"are bought"	"for new technologies"	
+326	"unit sales"	"is"	"hence royalties"	
+326	"unit sales"	"are dominated"	"by more established products as one-off licenses are typically bought for new technologies"	
+326	"unit sales"	"are dominated"	"by more established products"	
+327	Hence , the figures above do not reflect the true costs of any single ARM product . 
+327	"the figures"	"do not reflect"	"the true costs of any single ARM product 327 Hence"	
+327	"the figures"	"do not reflect"	"the true costs of any single ARM product"	
+328	thumbAndroid ( operating system)Android _ a popular operating system running on the ARM architecture section September 2011 The very first ARM -based Acorn Archimedes personal computers ran an interim operating system called Arthur , which evolved into RISC OS , used on later ARM -based systems from Acorn and other vendors . 
+328	"328 thumbAndroid Android _ a popular operating system running on the ARM architecture section September 2011 The very first ARM"	"is"	"operating system"	
+328	"a popular operating system"	"be running"	"on the ARM architecture section September 2011 The very first ARM"	
+328	"based Acorn Archimedes personal computers"	"ran"	"an interim operating system called Arthur used on later ARM based systems from Acorn"	
+328	"based Acorn Archimedes personal computers"	"ran"	"an interim operating system called Arthur used on later ARM based systems from other vendors"	
+328	"an interim operating system used on later ARM based systems from Acorn"	"be called"	
+328	"an interim operating system used on later ARM based systems from other vendors"	"be called"	
+328	"an interim operating system called Arthur"	"be used"	"on later ARM based systems from Acorn"	
+328	"an interim operating system called Arthur"	"be used"	"on later ARM based systems from other vendors"	
+328	"an interim operating system called Arthur used on later ARM based systems from Acorn"	"evolved"	"into RISC OS"	
+328	"an interim operating system called Arthur used on later ARM based systems from other vendors"	"evolved"	"into RISC OS"	
+329	The ARM architecture is supported by a large number of embedded and real-time operating systems , including Windows CE , .NET 
+330	Micro Framework , Symbian , ChibiOS/RT , FreeRTOS , eCos , Integrity , Nucleus PLUS , MicroC/OS-II , QNX , RTEMS , BRTOS , RTXC Quadros , ThreadX , Unison Operating System , uTasker , VxWorks , MQX and OSE . 
+330	"330 Micro Framework"	"is"	"Symbian"	
+330	"330 Micro Framework"	"is"	"ChibiOS/RT"	
+330	"330 Micro Framework"	"is"	"FreeRTOS"	
+330	"330 Micro Framework"	"is"	"eCos"	
+330	"330 Micro Framework"	"is"	"Integrity"	
+330	"330 Micro Framework"	"is"	"Nucleus PLUS"	
+330	"330 Micro Framework"	"is"	"MicroC/OS-II"	
+330	"330 Micro Framework"	"is"	"QNX"	
+330	"330 Micro Framework"	"is"	"RTEMS"	
+330	"330 Micro Framework"	"is"	"BRTOS"	
+330	"330 Micro Framework"	"is"	"RTXC Quadros"	
+330	"330 Micro Framework"	"is"	"ThreadX"	
+330	"330 Micro Framework"	"is"	"Unison Operating System"	
+330	"330 Micro Framework"	"is"	"uTasker"	
+330	"330 Micro Framework"	"is"	"VxWorks"	
+330	"330 Micro Framework"	"is"	"MQX"	
+330	"330 Micro Framework"	"is"	"OSE"	
+331	Software Enablement http ://www.arm.com/community/software-enablement/index.php 
+332	www.arm.com 
+333	ARM Ltd. 
+334	18 November 2010 Software Enablement http ://www.arm.com/community/software-enablement/index.php 
+335	www.arm.com 
+336	ARM Ltd. 
+337	18 November 2010 The ARM architecture is supported by Unix and Unix-like operating systems such as : The following Linux distribution support ARM processors : The following BSD derivatives support ARM processors : Microsoft announced on 5 January 2011 that the next major version of the Windows NT family ( now termed Windows 8 ) Microsoft Says Faster ARM Chips Make Windows 8 'Natural Fit ' http ://www .sfgate 
+338	.com/cgi-bin/article 
+339	.cgi?f=/g/a/2011/06/02/bloomberg1376-LM5E6P1A1I4H01-49H6CK3KIV23BG1ARCBRKIT8TD.DTL 
+340	2 June 2011 San Francisco Chronicle 2 June 2011 Microsoft Says Faster ARM Chips Make Windows 8 'Natural Fit ' http ://www .sfgate 
+341	.com/cgi-bin/article 
+342	.cgi?f=/g/a/2011/06/02/bloomberg1376-LM5E6P1A1I4H01-49H6CK3KIV23BG1ARCBRKIT8TD.DTL 
+343	2 June 2011 San Francisco Chronicle 2 June 2011 will include support for ARM processors . 
+343	"343 2 June 2011 San Francisco Chronicle 2 June 2011"	"will include"	"support for ARM processors"	
+344	Microsoft demonstrated a preliminary version of Windows (version 6.2.7867 
+344	"344 Microsoft"	"demonstrated"	"a preliminary version of Windows version 6.2.7867"	
+345	) running on an ARM -based computer at the 2011 Consumer Electronics Show . 
+345	"345"	"running"	"on an ARM based computer at the 2011 Consumer Electronics Show"	
+346	The ARM architecture is also supported by Microsoft 's mobile operating systems , Windows Phone and Windows Mobile . 
+346	"346 The ARM architecture"	"is supported"	"by Microsoft 's mobile operating systems also"	
+346	"346 The ARM architecture"	"is supported"	"by Microsoft 's mobile operating systems also"	
+346	"346 The ARM architecture"	"is supported"	"by Microsoft 's mobile operating systems"	
+346	"346 The ARM architecture"	"is supported"	"by Microsoft 's mobile operating systems"	
+346	"Microsoft"	"has"	"mobile operating systems"	
+347	ARM is also supported on Microsoft 's Embedded OS , Windows Embedded CE which is now called Windows Embedded Compact . 
+347	"347 ARM"	"is supported"	"on Microsoft 's Embedded OS also"	
+347	"347 ARM"	"is supported"	"on Microsoft 's Embedded OS"	
+347	"Microsoft"	"has"	"Embedded OS"	
+347	"Windows"	"Embedded"	"CE"	
+347	"CE"	"is called"	"Windows Embedded Compact now"	
+347	"CE"	"is called"	"Windows Embedded Compact"	
+347	"Windows"	"Embedded"	"Compact"	
+348	This latest version supports ARMv 5,6 and 7. 
+348	"348 This latest version"	"supports"	"ARMv 5,6"	
+348	"348 This latest version"	"supports"	"5,6 7"	
+349	Windows CE 5 is the underlying OS for Windows Mobile and Windows Embedded Compact 7 is the underlying OS for Windows Phone 7. 
+349	"349 Windows CE 5"	"is the underlying OS"	"for Windows Mobile"	
+349	"349 Windows CE 5"	"is the underlying Windows Embedded Compact 7"	"for Windows Mobile"	
+349	"349 Windows CE 5"	"is"	"the underlying OS"	
+349	"349 Windows CE 5"	"is"	"the underlying Windows Embedded Compact 7"	
+349	"Windows"	"be Embedded"	"Compact 7"	
+349	"349 Windows CE 5 is the underlying OS for Windows Mobile"	"is the underlying OS"	"for Windows Phone 7"	
+349	"349 Windows CE 5 is the underlying for Windows Mobile Windows Embedded Compact 7"	"is the underlying OS"	"for Windows Phone 7"	
+349	"349 Windows CE 5 is the underlying OS for Windows Mobile"	"is"	"the underlying OS"	
+349	"349 Windows CE 5 is the underlying for Windows Mobile Windows Embedded Compact 7"	"is"	"the underlying OS"	
+350	The smaller Microsoft OS .NET 
+351	Microframework uses ARM exclusively . 
+351	"351 Microframework"	"uses"	"ARM exclusively"	
+351	"351 Microframework"	"uses"	"ARM"	
+352	Electronics 30em ARM microprocessors Category :Acorn Computers Category :ARM architecture Category :Instruction set architectures Category :1983 introductions Category :Articles with example code ar :إيه .آر 
+353	.إم 
+354	( معالج ) be-x-old :ARM ( працэсар ) ca :ARM cs :ARM da:ARM ( processorarkitektur ) de:ARM-Architektur et :ARM (arvutiarhitektuur ) el :Αρχιτεκτονική ARM es :Arquitectura ARM fr:Architecture ARM ko:ARM 아키텍처 id :Arsitektur ARM it :Architettura ARM he:ARM kn:ARM ಆರ್ಕಿಟೆಕ್ಚರ ್ ( ವಿನ್ಯಾಸ ) lv:ARM hu:ARM architektúra ml :ആം ആർക്കിടെക്ചർ nl:ARM-instructieset ja:ARMアーキテクチャ no:ARM ( prosessorarkitektur ) pl:Architektura ARM pt:Arquitetura ARM ru:ARM ( архитектура ) sq:Arkitektura ARM sl:Arhitektura ARM sr:ARM архитектура fi:ARM sv:ARM ( processorarkitektur ) tr:ARM mimarisi uk :ARM vi:Cấu trúc ARM zh :ARM架構 " Application " profile : Cortex - A series " Real-time " profile : Cortex - R series " Microcontroller " profile : Cortex-M series Load/store architecture . 
+354	"ARM ca ARM cs ARM da ARM de ARM-Architektur et ARM el Αρχιτεκτονική ARM es Arquitectura ARM fr Architecture ARM ko ARM 아키텍처 id Arsitektur ARM it Architettura ARM he ARM kn ARM ಆರ ಕ ಟ ಕ ಚರ lv ARM hu ARM architektúra ml ആ ആർക കിടെക ചർ nl ARM-instructieset ja ARMアーキテクチャ no ARM pl Architektura ARM pt Arquitetura ARM ru ARM sq Arkitektura ARM sl Arhitektura ARM sr ARM архитектура fi ARM sv ARM tr ARM mimarisi uk ARM vi Cấu trúc ARM zh ARM架構 Application profile Cortex Cortex R series Microcontroller profile Cortex-M series Load/store architecture"	"is"	"працэсар"	
+354	"ARM ca ARM cs ARM da ARM de ARM-Architektur et ARM el Αρχιτεκτονική ARM es Arquitectura ARM fr Architecture ARM ko ARM 아키텍처 id Arsitektur ARM it Architettura ARM he ARM kn ARM ಆರ ಕ ಟ ಕ ಚರ lv ARM hu ARM architektúra ml ആ ആർക കിടെക ചർ nl ARM-instructieset ja ARMアーキテクチャ no ARM pl Architektura ARM pt Arquitetura ARM ru ARM sq Arkitektura ARM sl Arhitektura ARM sr ARM архитектура fi ARM sv ARM tr ARM mimarisi uk ARM vi Cấu trúc ARM zh ARM架構 Application profile A series Real-time profile Cortex R series Microcontroller profile Cortex-M series Load/store architecture"	"is"	"працэсар"	
+354	"ARM"	"is"	"processorarkitektur"	
+354	"ARM"	"is"	"arvutiarhitektuur"	
+354	"Αρχιτεκτονική ARM"	"es"	
+354	"Αρχιτεκτονική ARM"	"es"	
+354	"ARM ಆರ ಕ ಟ ಕ ಚರ"	"is"	"ವ ನ ಯ ಸ"	
+354	"ARM"	"is"	"prosessorarkitektur"	
+354	"Architektura ARM"	"pt"	
+354	"Architektura ARM"	"pt"	
+354	"ARM"	"is"	"архитектура"	
+354	"ARM"	"is"	"processorarkitektur"	
+355	No support for misaligned memory accesses ( although now supported in ARMv6 cores , with some exceptions related to load/store multiple word instructions ) . 
+355	"some exceptions"	"be related"	"to load/store multiple word instructions"	
+356	Uniform 16 × 32-bit register file . 
+357	Fixed instruction width of 32 bits to ease decoding and pipelining , at the cost of decreased code density . 
+357	"357 Fixed instruction width of 32 bits at the cost of decreased code density"	"be ease"	"decoding"	
+357	"357 Fixed instruction width of 32 bits at the cost of decreased code density"	"be ease"	"pipelining"	
+358	Later , the Thumb instruction set increased code density . 
+358	"358 Later"	"is"	"the Thumb instruction set increased code density"	
+358	"the Thumb instruction"	"be set"	"increased code density"	
+359	Mostly single-cycle execution . 
+360	Conditional execution of most instructions , reducing branch overhead and compensating for the lack of a branch predictor . 
+361	Arithmetic instructions alter condition code only when desired . 
+361	"361 Arithmetic instructions"	"alter"	"condition code only when desired"	
+361	"361 Arithmetic instructions"	"alter"	"condition code"	
+362	32-bit barrel shifter which can be used without performance penalty with most arithmetic instructions and address calculations . 
+362	"362 32-bit barrel shifter"	"can be used"	"without performance penalty with most arithmetic instructions"	
+362	"362 32-bit barrel shifter"	"can be used"	"without performance with most arithmetic instructions address calculations"	
+363	Powerful indexed addressing mode . 
+364	A link register for fast leaf function calls . 
+364	"364 A link register for fast leaf function"	"calls"	
+365	Simple , but fast , 2-priority-level interrupt subsystem with switched register banks . 
+366	if ( r0 = = r1 ) then r0 = r2 ; else r0 = r3 ; recall that the Thumb MOV instruction has no bits to encode " EQ " or " NE" Android BSD Linux iOS Plan 9 from Bell Labs Inferno Solaris webOS Bada Inferno APEXAR PDK http ://www.apexar.com 
+366	"the Thumb MOV instruction"	"has"	"no bits to encode EQ"	
+366	"the Thumb MOV instruction"	"NE Android BSD Linux iOS Plan 9"	"no bits to encode EQ from Bell Labs Inferno Solaris webOS Bada Inferno APEXAR PDK http"	
+366	"the Thumb MOV instruction"	"NE Android BSD Linux iOS Plan 9"	"no bits to encode EQ"	
+366	"no bits"	"be encode"	
+367	APEXAR PDK 2011-11-08 http ://www.apexar.com 
+368	APEXAR PDK 2011-11-08 Android http ://source .android.com/source/index 
+369	.html 
+370	Android Source Code 2011-07-01 http ://source .android.com/source/index 
+371	.html 
+372	Android Source Code 2011-07-01 Arch Linux Arm http ://archlinuxarm .org/ 
+373	Arch Linux Arm 2011-11-12 http ://archlinuxarm .org/ 
+374	Arch Linux Arm 2011-11-12 Ångström http ://www.angstrom-distribution 
+375	.org/ 
+376	CRUX ARM http ://crux-arm .nu/ 
+377	CRUX Linux on ARM 2011-05-01 http ://crux-arm .nu/ 
+378	CRUX Linux on ARM 2011-05-01 BackTrack Chrome OS Womack Brian July 8 , 2009 July 8 , 2009 http ://www.bloomberg.com/apps/news 
+378	"2011-05-01 BackTrack Chrome OS Womack Brian July 8 2009 July 8"	"is"	"2009 http"	
+379	?pid=20601087&sid=aTd2k .YdQZ.Y 
+380	Google to Challenge Microsoft With Operating System Bloomberg Womack Brian July 8 , 2009 July 8 , 2009 http ://www.bloomberg.com/apps/news 
+380	"2009 July 8"	"is"	"2009 http"	
+381	?pid=20601087&sid=aTd2k .YdQZ.Y 
+382	Google to Challenge Microsoft With Operating System Bloomberg DSLinux March 2011 Debian http ://www.debian 
+383	.org/ports/arm/ 
+384	Debian ARM Port 2009-06-01 http ://www.debian 
+385	.org/ports/arm/ 
+386	Debian ARM Port 2009-06-01 ELinOS http ://www .sysgo.com/products/board-support-packages/elinos/ 
+387	ELinOS supported boards 2010-04-22 http ://www .sysgo.com/products/board-support-packages/elinos/ 
+388	ELinOS supported boards 2010-04-22 Fedora http ://fedoraproject .org/wiki/Architectures/ARM 
+389	Architectures/ARM 2009-06-01 http ://fedoraproject .org/wiki/Architectures/ARM 
+390	Architectures/ARM 2009-06-01 Gentoo http ://www.gentoo.org/proj/en/base/arm/index 
+391	.xml 
+392	Gentoo Linux ARM Development 2009-06-01 http ://www.gentoo.org/proj/en/base/arm/index 
+393	.xml 
+394	Gentoo Linux ARM Development 2009-06-01 GoboLinux http ://lists .gobolinux 
+395	.org/pipermail/gobolinux-arm/2007-January/000019.html 
+396	New release for ARM cpus 2007-01-25 2009-09-17 http ://lists .gobolinux 
+397	.org/pipermail/gobolinux-arm/2007-January/000019.html 
+398	New release for ARM cpus 2007-01-25 2009-09-17 iPodLinux March 2011 Maemo March 2011 MeeGo March 2011 Mer http ://releases .merproject 
+399	.org/releases/0.20111020.1/builds 
+400	/ Mer ARM builds 2011-11-27 http ://releases .merproject 
+401	.org/releases/0.20111020.1/builds 
+402	/ Mer ARM builds 2011-11-27 MontaVista http ://www.mvista.com/boards 
+402	"Mer ARM"	"builds"	"2011-11-27 MontaVista http www.mvista.com/boards"	
+403	.php 
+404	Platform Support for MontaVista Linux 2010-02-16 http ://www.mvista.com/boards 
+405	.php 
+406	Platform Support for MontaVista Linux 2010-02-16 Slackware http ://www.armedslack 
+407	.org/ 
+408	Slackware Linux for ARM 2009-06-01 http ://www.armedslack 
+409	.org/ 
+410	Slackware Linux for ARM 2009-06-01 T2 SDE http ://www.t2-project 
+411	.org/ 
+412	T2 SDE 2010-03-12 http ://www.t2-project 
+413	.org/ 
+414	T2 SDE 2010-03-12 TimeSys http ://www.timesys.com/ 
+415	TimeSys 2011-09-30 http ://www.timesys.com/ 
+416	TimeSys 2011-09-30 Ubuntu http ://www .ubuntu.com/products/whatisubuntu/arm 
+417	Ubuntu on Arm 2009 Canonical Ltd. 
+418	2009-06-15 http ://www .ubuntu.com/products/whatisubuntu/arm 
+419	Ubuntu on Arm 2009 Canonical Ltd. 
+420	2009-06-15 https ://wiki .ubuntu.com/ARM 
+421	ARM 2009-06-01 https ://wiki .ubuntu.com/ARM 
+422	ARM 2009-06-01 webOS March 2011 Wind River Linux http ://windriver.com/products/bsp_web/bsp_platform 
+423	.html 
+424	?platform=Wind+River+Linux+3.0.x 
+425	Wind River - Board Support Packages 2010-02-16 http ://windriver.com/products/bsp_web/bsp_platform 
+426	.html 
+427	?platform=Wind+River+Linux+3.0.x 
+428	Wind River - Board Support Packages 2010-02-16 RISC iX ( Acorn ARM2/ARM3-based systems only ) FreeBSD http ://www.freebsd 
+429	.org/platforms/arm 
+430	.html 
+431	FreeBSD/ARM Project 2009-06-01 http ://www.freebsd 
+432	.org/platforms/arm 
+433	.html 
+434	FreeBSD/ARM Project 2009-06-01 NetBSD http ://www.netbsd 
+435	.org/ports 
+436	/#ports-by-cpu Hardware supported by NetBSD 2009-06-01 http ://www.netbsd 
+436	"#ports by-cpu Hardware"	"be supported"	"by NetBSD 2009-06-01 http"	
+437	.org/ports 
+438	/#ports-by-cpu Hardware supported by NetBSD 2009-06-01 OpenBSD http ://www.openbsd 
+438	"#ports by-cpu Hardware"	"be supported"	"by NetBSD 2009-06-01 OpenBSD http"	
+439	.org/armish 
+440	.html 
+441	OpenBSD/armish 2009-06-01 http ://www.openbsd 
+442	.org/armish 
+443	.html 
+444	OpenBSD/armish 2009-06-01 iOS OpenSolaris http ://www.opensolaris 
+445	.org/os/project/osarm/ 
+446	OpenSolaris Project : ARM Platform Port Sun Microsystems http ://www.opensolaris 
+447	.org/os/project/osarm/ 
+448	OpenSolaris Project : ARM Platform Port Sun Microsystems AMULET , family of asynchronous ARMs ARMulator_ ARM Instruction Set Simulator ARMware , a virtual machine that emulates an ARM -based PDA. 
+448	"ARM Platform Port Sun Microsystems AMULET"	"is"	"family of asynchronous ARMs ARMulator"	
+448	"ARMulator"	"is"	"a virtual machine"	
+448	"_ ARM Instruction"	"Set"	"Simulator ARMware ARMulator"	
+448	"a virtual machine"	"emulates"	"an ARM based PDA"	
+449	QEMU , a virtual machine which supports some ARM processors cores SkyEye simulator – an open source ARM Instruction Set Simulator Amber ( processor core ) – open source ARM core developed in Verilog HDL. 
+449	"449 QEMU"	"is"	"a virtual machine"	
+449	"a virtual machine"	"supports"	"some ARM processors cores SkyEye simulator an open source"	
+449	"ARM Instruction"	"Set"	"Simulator Amber open source ARM core developed in Verilog HDL source"	
+449	"Simulator Amber open source ARM core developed in Verilog HDL"	"is"	"processor core"	
+449	"open source ARM core"	"developed"	"in Verilog HDL"	
+450	Smartbook Symbian Windows CE and Windows Phone iOS Inferno Android Plug computer architectures Linaro Raspberry Pi , ARM11 -based computer The Definitive Guide to the ARM Cortex - M3 ; 2nd Edition ; Joseph Yiu ; Newnes ; 479 pages ; 2009 ; ISBN 978-1856179638. 
+450	"Windows Phone iOS Inferno Android Plug computer architectures Linaro Raspberry Pi"	"is"	"ARM11 based computer The Definitive Guide to the ARM Cortex M3"	
+451	The Definitive Guide to the ARM Cortex-M0 ; 2nd Edition ; Joseph Yiu ; Newnes ; 552 pages ; 2011 ; ISBN 978-0123854773 . 
+452	www.arm.com 
+453	, ARM Ltd. 
+453	"453"	"is"	"ARM Ltd."	

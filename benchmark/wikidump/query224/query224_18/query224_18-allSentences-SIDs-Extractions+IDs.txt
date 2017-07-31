@@ -1,0 +1,335 @@
+Stock ( disambiguation ) thumbright300pxMaking stock in a pot on aKitchen stovestove top . 	0	query224_Stock_(food)\S\0
+"Stock"	"is"	"disambiguation"	0	query224_Stock_(food)\P\0-0
+Stock is a flavoured water preparation . 	1	query224_Stock_(food)\S\1
+"Stock"	"is"	"a flavoured water preparation"	1	query224_Stock_(food)\P\1-0
+It forms the basis of many dishes , particularly soup and sauce . 	2	query224_Stock_(food)\S\2
+It forms the basis of many dishes , particularly soup and sauce . 	2	query224_Stock_(food)\S\2
+"many dishes"	"is"	"particularly soup"	2	query224_Stock_(food)\P\2-0
+"many dishes"	"is"	"particularly sauce"	2	query224_Stock_(food)\P\2-1
+Stock is made by simmering various ingredients in water , including some or all of the following Today , ready-made stock and stock cubes consisting of dried , compressed stock ingredients are readily available . 	3	query224_Stock_(food)\S\3
+"Stock"	"is made"	"by simmering various ingredients in water including some of the following Today ready-made stock consisting of dried compressed stock ingredients are readily available"	3	query224_Stock_(food)\P\3-0
+"Stock"	"is made"	"by simmering various ingredients in water including all of the following Today ready-made stock consisting of dried compressed stock ingredients are readily available"	3	query224_Stock_(food)\P\3-1
+"Stock"	"is made"	"by simmering various ingredients in water including all of the following Today ready-made stock cubes consisting of dried compressed stock ingredients are readily available"	3	query224_Stock_(food)\P\3-2
+"Stock"	"is made"	"by simmering various ingredients in water including some of the following Today ready-made stock cubes consisting of dried compressed stock ingredients are readily available"	3	query224_Stock_(food)\P\3-3
+"Stock"	"is made"	"by simmering various ingredients in water"	3	query224_Stock_(food)\P\3-4
+"ready-made stock"	"be consisting"	"of dried compressed stock ingredients are readily available"	3	query224_Stock_(food)\P\3-5
+"ready-made stock cubes"	"be consisting"	"of dried compressed stock ingredients are readily available"	3	query224_Stock_(food)\P\3-6
+"compressed stock ingredients"	"are available"	"readily"	3	query224_Stock_(food)\P\3-7
+"compressed stock ingredients"	"are"	"available"	3	query224_Stock_(food)\P\3-8
+These are commonly known as bouillon cube , as cooking base in the US , or as Oxo cubes in Britain , after a common brand of stock cube sold there . 	4	query224_Stock_(food)\S\4
+"These"	"are known"	"as bouillon cube commonly"	4	query224_Stock_(food)\P\4-0
+"These"	"are known"	"as bouillon cube as cooking base in the US"	4	query224_Stock_(food)\P\4-1
+"These"	"are known"	"as bouillon cube as cooking in the US as Oxo cubes in Britain"	4	query224_Stock_(food)\P\4-2
+"These"	"are known"	"as bouillon cube after a common brand of stock cube sold there"	4	query224_Stock_(food)\P\4-3
+"These"	"are known"	"as bouillon cube"	4	query224_Stock_(food)\P\4-4
+"These"	"are known"	"as bouillon cube"	4	query224_Stock_(food)\P\4-5
+"a common brand of stock cube"	"sold"	"there"	4	query224_Stock_(food)\P\4-6
+The difference between broth and stock is one of both cultural and colloquial terminology but certain definitions prevail .Stock 	5	query224_Stock_(food)\S\5
+is the thin liquid produced by simmering raw ingredients : solids are removed , leaving a thin , highly-flavoured liquid . 	6	query224_Stock_(food)\S\6
+is the thin liquid produced by simmering raw ingredients : solids are removed , leaving a thin , highly-flavoured liquid . 	6	query224_Stock_(food)\S\6
+is the thin liquid produced by simmering raw ingredients : solids are removed , leaving a thin , highly-flavoured liquid . 	6	query224_Stock_(food)\S\6
+"the thin liquid"	"be produced"	"by simmering raw ingredients"	6	query224_Stock_(food)\P\6-0
+"the thin liquid"	"be produced"	"by simmering raw ingredients"	6	query224_Stock_(food)\P\6-1
+This gives classic stock as made from beef , veal , chicken , fish and vegetable stock . 	7	query224_Stock_(food)\S\7
+This gives classic stock as made from beef , veal , chicken , fish and vegetable stock . 	7	query224_Stock_(food)\S\7
+This gives classic stock as made from beef , veal , chicken , fish and vegetable stock . 	7	query224_Stock_(food)\S\7
+This gives classic stock as made from beef , veal , chicken , fish and vegetable stock . 	7	query224_Stock_(food)\S\7
+This gives classic stock as made from beef , veal , chicken , fish and vegetable stock . 	7	query224_Stock_(food)\S\7
+This gives classic stock as made from beef , veal , chicken , fish and vegetable stock . 	7	query224_Stock_(food)\S\7
+This gives classic stock as made from beef , veal , chicken , fish and vegetable stock . 	7	query224_Stock_(food)\S\7
+Broth differs in that it is a basic soup where the solid pieces of flavouring meat or fish , along with some vegetables , remain . 	8	query224_Stock_(food)\S\8
+"Broth"	"differs"	"in that it is a basic soup"	8	query224_Stock_(food)\P\8-0
+"Broth"	"differs"	"in that it is a basic soup"	8	query224_Stock_(food)\P\8-1
+"the solid pieces of flavouring meat along with some vegetables"	"remain"	"that a basic soup where"	8	query224_Stock_(food)\P\8-2
+"the solid pieces of flavouring fish along with some vegetables"	"remain"	"that a basic soup where"	8	query224_Stock_(food)\P\8-3
+"the solid pieces of flavouring meat along with some vegetables"	"remain"	"that a basic soup"	8	query224_Stock_(food)\P\8-4
+"the solid pieces of flavouring fish along with some vegetables"	"remain"	"that a basic soup"	8	query224_Stock_(food)\P\8-5
+It is often made more substantial by adding starches such as rice , barley or pulses . 	9	query224_Stock_(food)\S\9
+It is often made more substantial by adding starches such as rice , barley or pulses . 	9	query224_Stock_(food)\S\9
+It is often made more substantial by adding starches such as rice , barley or pulses . 	9	query224_Stock_(food)\S\9
+It is often made more substantial by adding starches such as rice , barley or pulses . 	9	query224_Stock_(food)\S\9
+It is often made more substantial by adding starches such as rice , barley or pulses . 	9	query224_Stock_(food)\S\9
+It is often made more substantial by adding starches such as rice , barley or pulses . 	9	query224_Stock_(food)\S\9
+It is often made more substantial by adding starches such as rice , barley or pulses . 	9	query224_Stock_(food)\S\9
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Traditionally , broth contains some form of meat or fish : nowadays it is acceptable to refer to a strictly vegetable soup as a broth . 	10	query224_Stock_(food)\S\10
+Spaull Susan Lucinda Bruce-Gardyne Leith 's Techniques Bible Bloomsbury Bloomsbury Publishing Plc , 38 Soho Square , London W1D 3 HB 2003 683 0-7475-6046-3 Spaull Susan Lucinda Bruce-Gardyne Leith 's Techniques Bible Bloomsbury Bloomsbury Publishing Plc , 38 Soho Square , London W1D 3 HB 2003 683 0-7475-6046-3 Barham Peter The Science of Cooking Springer Springer-Verlag , Berlin/ Heidelberg 2001 127 3-540-67466-7 Barham Peter The Science of Cooking Springer Springer-Verlag , Berlin/ Heidelberg 2001 127 3-540-67466-7 Smith Delia Delia Smith 's Complete Cookery Course BBC Books BBC Enterprises Ltd. 	11	query224_Stock_(food)\S\11
+"Spaull Susan Lucinda Bruce-Gardyne Leith 's Techniques Bible Bloomsbury Bloomsbury Publishing Plc"	"is"	"38 Soho Square"	11	query224_Stock_(food)\P\11-0
+"Spaull Susan Lucinda Bruce-Gardyne Leith"	"has"	"11 Techniques Bible Bloomsbury Bloomsbury Publishing Plc"	11	query224_Stock_(food)\P\11-1
+"Soho Square"	"is"	"London W1D 3 HB 2003 683 0-7475-6046-3 Spaull Susan Lucinda Bruce-Gardyne Leith 's Techniques Bible Bloomsbury Bloomsbury Publishing Plc"	38	query224_Stock_(food)\P\11-2
+"683 0-7475-6046-3 Spaull Susan Lucinda Bruce-Gardyne Leith 's Techniques Bible Bloomsbury Bloomsbury Publishing Plc"	"is"	"38 Soho Square"	2003	query224_Stock_(food)\P\11-3
+"683 0-7475-6046-3 Spaull Susan Lucinda Bruce-Gardyne Leith"	"has"	"Techniques Bible Bloomsbury Bloomsbury Publishing Plc"	2003	query224_Stock_(food)\P\11-4
+"Soho Square"	"is"	"London W1D 3 HB 2003 683 0-7475-6046-3 Barham Peter The Science of Cooking Springer Springer-Verlag Heidelberg 2001 127 3-540-67466-7 Barham Peter The Science of Cooking Springer Springer-Verlag Heidelberg 2001 127 3-540-67466-7 Smith Delia Delia Smith 's Complete Cookery Course BBC Books BBC Enterprises Ltd."	38	query224_Stock_(food)\P\11-5
+"Cooking Springer Springer-Verlag Heidelberg 2001 127 3-540-67466-7 Barham Peter The Science of Cooking Springer Springer-Verlag Heidelberg 2001 127 3-540-67466-7 Smith Delia Delia Smith 's Complete Cookery Course BBC Books BBC Enterprises Ltd."	"is"	"Berlin"	38	query224_Stock_(food)\P\11-6
+"Cooking Springer Springer-Verlag Heidelberg 2001 127 3-540-67466-7 Smith Delia Delia Smith 's Complete Cookery Course BBC Books BBC Enterprises Ltd."	"is"	"Berlin"	38	query224_Stock_(food)\P\11-7
+"Smith Delia Delia Smith"	"has"	"Heidelberg 2001 127 3-540-67466-7 Complete Cookery Course BBC Books BBC Enterprises Ltd."	38	query224_Stock_(food)\P\11-8
+, Woodlands , 80 Wood Lane , London W12 0TT 1992 61 0-563-36286-3 Smith Delia Delia Smith 's Complete Cookery Course BBC Books BBC Enterprises Ltd. 	12	query224_Stock_(food)\S\12
+, Woodlands , 80 Wood Lane , London W12 0TT 1992 61 0-563-36286-3 Smith Delia Delia Smith 's Complete Cookery Course BBC Books BBC Enterprises Ltd. 	12	query224_Stock_(food)\S\12
+, Woodlands , 80 Wood Lane , London W12 0TT 1992 61 0-563-36286-3 Smith Delia Delia Smith 's Complete Cookery Course BBC Books BBC Enterprises Ltd. 	12	query224_Stock_(food)\S\12
+"Wood Lane"	"is"	"London W12 0TT 1992 61 0-563-36286-3 Smith Delia Delia Smith 's Complete Cookery Course BBC Books BBC Enterprises Ltd."	80	query224_Stock_(food)\P\12-0
+"London W12 0TT 1992 61 0-563-36286-3 Smith Delia Delia Smith"	"has"	"Complete Cookery Course BBC Books BBC Enterprises Ltd."	80	query224_Stock_(food)\P\12-1
+, Woodlands , 80 Wood Lane , London W12 0TT 1992 61 0-563-36286-3 A few basic rules are commonly prescribed for preparing stock : Category :Food ingredients Category :Umami enhancers de :Brühe es :Fondo ( caldo ) fr :Bouillon ( cuisine ) it :Brodo he :ציר ( מזון ) nl :Bouillon (voedsel ) pl :Wywar sv:Buljong hi :यखन ी ja :吸い物 Meat Leftover cooked meat , such as that remaining on poultry carcasses , is often used along with the bones of the bird or joint . 	13	query224_Stock_(food)\S\13
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock 13"	13	query224_Stock_(food)\P\13-0
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock Woodlands"	13	query224_Stock_(food)\P\13-1
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock 80 Wood Lane"	13	query224_Stock_(food)\P\13-2
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock 13"	13	query224_Stock_(food)\P\13-3
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock Woodlands"	13	query224_Stock_(food)\P\13-4
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock 80 Wood Lane"	13	query224_Stock_(food)\P\13-5
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock commonly"	13	query224_Stock_(food)\P\13-6
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock commonly"	13	query224_Stock_(food)\P\13-7
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock"	13	query224_Stock_(food)\P\13-8
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock"	13	query224_Stock_(food)\P\13-9
+"London W12 0TT 1992 61 0-563-36286-3 A few basic rules"	"are prescribed"	"for preparing stock"	13	query224_Stock_(food)\P\13-10
+"Bouillon it Brodo he ציר מזון nl Bouillon pl Wywar sv Buljong hi यखन ी ja 吸い物 Meat Leftover cooked meat such as that remaining on poultry carcasses is often used along with the bones of the bird"	"is"	"cuisine"	13	query224_Stock_(food)\P\13-11
+"Bouillon it Brodo he ציר מזון nl Bouillon pl Wywar sv Buljong hi यखन ी ja 吸い物 Meat Leftover cooked meat such as that remaining on poultry carcasses is often used along with the bones of the joint"	"is"	"cuisine"	13	query224_Stock_(food)\P\13-12
+"Bouillon it Brodo he ציר מזון nl Bouillon pl Wywar sv Buljong hi यखन ी ja 吸い物 Meat Leftover cooked meat such as that remaining on poultry carcasses is often used along with the bones of the joint"	"is"	"cuisine"	13	query224_Stock_(food)\P\13-13
+"吸い物 Meat Leftover"	"cooked"	"meat such as that remaining on poultry carcasses"	13	query224_Stock_(food)\P\13-14
+"吸い物 Meat Leftover"	"cooked"	"meat"	13	query224_Stock_(food)\P\13-15
+"吸い物 Meat Leftover"	"cooked"	"meat"	13	query224_Stock_(food)\P\13-16
+"吸い物 Meat Leftover cooked meat such as that remaining on poultry carcasses"	"is used"	"along with the bones of the bird often"	13	query224_Stock_(food)\P\13-17
+"吸い物 Meat Leftover cooked meat such as that remaining on poultry carcasses"	"is used"	"along with the bones of the joint often"	13	query224_Stock_(food)\P\13-18
+"吸い物 Meat Leftover cooked meat such as that remaining on poultry carcasses"	"is used"	"along with the bones of the bird"	13	query224_Stock_(food)\P\13-19
+"吸い物 Meat Leftover cooked meat such as that remaining on poultry carcasses"	"is used"	"along with the bones of the joint"	13	query224_Stock_(food)\P\13-20
+Fresh meat makes a superior stock and cuts rich in connective tissue such as shin or shoulder of beef or veal are commonly recommended , either alone or added in lower proportions to the remains of cooked poultry to provide a richer and fresher-tasting stock . 	14	query224_Stock_(food)\S\14
+"Fresh meat"	"makes"	"a superior stock"	14	query224_Stock_(food)\P\14-0
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shin of beef"	14	query224_Stock_(food)\P\14-1
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shoulder of beef"	14	query224_Stock_(food)\P\14-2
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shoulder of veal"	14	query224_Stock_(food)\P\14-3
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shin of veal"	14	query224_Stock_(food)\P\14-4
+"Fresh meat"	"makes"	"a superior stock"	14	query224_Stock_(food)\P\14-5
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shin of beef"	14	query224_Stock_(food)\P\14-6
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shoulder of beef"	14	query224_Stock_(food)\P\14-7
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shoulder of veal"	14	query224_Stock_(food)\P\14-8
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shin of veal"	14	query224_Stock_(food)\P\14-9
+"Fresh meat"	"makes"	"a superior stock"	14	query224_Stock_(food)\P\14-10
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shin of beef"	14	query224_Stock_(food)\P\14-11
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shoulder of beef"	14	query224_Stock_(food)\P\14-12
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shoulder of veal"	14	query224_Stock_(food)\P\14-13
+"Fresh meat"	"makes"	"a superior cuts rich in connective tissue such as shin of veal"	14	query224_Stock_(food)\P\14-14
+"the remains of cooked poultry"	"be provide"	"a richer stock"	14	query224_Stock_(food)\P\14-15
+"the remains of cooked poultry"	"be provide"	"a fresher-tasting stock"	14	query224_Stock_(food)\P\14-16
+Quantities recommended are in the ratio of 1 part fresh meat to 2 parts water . 	15	query224_Stock_(food)\S\15
+"Quantities recommended"	"are"	"in the ratio of 1 part fresh meat to 2 parts water"	15	query224_Stock_(food)\P\15-0
+"Quantities recommended"	"are"	"in the ratio of 1 part fresh meat"	15	query224_Stock_(food)\P\15-1
+Pork is considered unsuitable for stock in European cooking due to its greasiness ( although 19th century recipes for consomme and traditional aspic included slices of mild ham ) and mutton was traditionally avoided due to the difficulty of avoiding the strong tallowy taint imparted from the fat . 	16	query224_Stock_(food)\S\16
+"Pork"	"is considered"	"unsuitable for stock in European cooking due to its greasiness"	16	query224_Stock_(food)\P\16-0
+"Pork"	"is considered"	"unsuitable for stock in European cooking due to its greasiness"	16	query224_Stock_(food)\P\16-1
+"19th century recipes for consomme"	"included"	"slices of mild ham"	16	query224_Stock_(food)\P\16-2
+"19th century recipes for traditional aspic"	"included"	"slices of mild ham"	16	query224_Stock_(food)\P\16-3
+"19th century recipes for traditional aspic"	"included"	"slices of mild ham"	16	query224_Stock_(food)\P\16-4
+"19th century recipes for traditional aspic"	"included"	"slices of mild ham"	16	query224_Stock_(food)\P\16-5
+"the strong tallowy taint"	"be imparted"	"from the fat"	16	query224_Stock_(food)\P\16-6
+Bone Veal , beef , and chicken bones are most commonly used . 	17	query224_Stock_(food)\S\17
+"Bone Veal"	"are used"	"most commonly"	17	query224_Stock_(food)\P\17-0
+"Bone beef"	"are used"	"most commonly"	17	query224_Stock_(food)\P\17-1
+"Bone chicken bones"	"are used"	"most commonly"	17	query224_Stock_(food)\P\17-2
+The flavour of the stock comes from the cartilage and connective tissue in the bones . 	18	query224_Stock_(food)\S\18
+"The flavour of the stock"	"comes"	"from the cartilage tissue in the bones"	18	query224_Stock_(food)\P\18-0
+"The flavour of the stock"	"comes"	"from the connective tissue in the bones"	18	query224_Stock_(food)\P\18-1
+Connective tissue has collagen in it , which gets converted into gelatin that thickens the liquid . 	19	query224_Stock_(food)\S\19
+"Connective tissue"	"has"	"collagen in it"	19	query224_Stock_(food)\P\19-0
+"Connective tissue"	"has"	"collagen"	19	query224_Stock_(food)\P\19-1
+"Connective tissue"	"has"	"collagen"	19	query224_Stock_(food)\P\19-2
+"Connective tissue"	"has"	"collagen"	19	query224_Stock_(food)\P\19-3
+Stock made from bones needs to be simmered for longer than stock made from meat . 	20	query224_Stock_(food)\S\20
+"Stock"	"made"	"from bones"	20	query224_Stock_(food)\P\20-0
+"Stock"	"made"	"from bones"	20	query224_Stock_(food)\P\20-1
+Pressure cooking methods shorten the time necessary to extract the flavour from the bones . 	21	query224_Stock_(food)\S\21
+"Pressure cooking methods"	"shorten"	"the time necessary to extract the flavour from the bones"	21	query224_Stock_(food)\P\21-0
+Mirepoix A combination of onions , carrots , celery , and sometimes other vegetables . 	22	query224_Stock_(food)\S\22
+Often the less desirable parts of the vegetables ( such as carrot skins and celery ends ) are used since they will not be eaten . 	23	query224_Stock_(food)\S\23
+"Often the less desirable parts of the vegetables such as carrot skins"	"are used"	"since they will not be eaten"	23	query224_Stock_(food)\P\23-0
+"Often the less desirable parts of the vegetables such as carrot celery ends"	"are used"	"since they will not be eaten"	23	query224_Stock_(food)\P\23-1
+Herbs and spices The herbs and spices used depend on availability and local traditions . 	24	query224_Stock_(food)\S\24
+"Herbs The herbs used"	"depend"	"on availability"	24	query224_Stock_(food)\P\24-0
+"Herbs The herbs used"	"depend"	"on local traditions"	24	query224_Stock_(food)\P\24-1
+"spices The herbs used"	"depend"	"on availability"	24	query224_Stock_(food)\P\24-2
+"spices The herbs used"	"depend"	"on local traditions"	24	query224_Stock_(food)\P\24-3
+"spices The spices used"	"depend"	"on availability"	24	query224_Stock_(food)\P\24-4
+"spices The spices used"	"depend"	"on local traditions"	24	query224_Stock_(food)\P\24-5
+"Herbs The spices used"	"depend"	"on availability"	24	query224_Stock_(food)\P\24-6
+"Herbs The spices used"	"depend"	"on local traditions"	24	query224_Stock_(food)\P\24-7
+In classical cuisine , the use of a bouquet garni ( or bundle of herbs ) consisting of parsley , bay leaves , a sprig of thyme , and possibly other herbs , is common . 	25	query224_Stock_(food)\S\25
+"In classical cuisine"	"is"	"the use of a bouquet garni bundle of herbs consisting of parsley"	25	query224_Stock_(food)\P\25-0
+"In classical cuisine possibly other herbs"	"is"	"the use of a bouquet garni bundle of herbs consisting of parsley"	25	query224_Stock_(food)\P\25-1
+"In classical cuisine"	"is"	"a sprig of thyme"	25	query224_Stock_(food)\P\25-2
+"In classical cuisine possibly other herbs"	"is"	"a sprig of thyme"	25	query224_Stock_(food)\P\25-3
+"a bouquet garni bundle of herbs"	"be consisting"	"of parsley"	25	query224_Stock_(food)\P\25-4
+"a bouquet garni bundle of herbs"	"be consisting"	"of parsley"	25	query224_Stock_(food)\P\25-5
+"a bouquet garni bundle of herbs"	"be consisting"	"of parsley"	25	query224_Stock_(food)\P\25-6
+"In classical cuisine"	"is"	"common"	25	query224_Stock_(food)\P\25-7
+"In classical cuisine possibly other herbs"	"is"	"common"	25	query224_Stock_(food)\P\25-8
+This is often placed in a sachet to make it easier to remove once the stock is cooked . 	26	query224_Stock_(food)\S\26
+This is often placed in a sachet to make it easier to remove once the stock is cooked . 	26	query224_Stock_(food)\S\26
+This is often placed in a sachet to make it easier to remove once the stock is cooked . 	26	query224_Stock_(food)\S\26
+This is often placed in a sachet to make it easier to remove once the stock is cooked . 	26	query224_Stock_(food)\S\26
+This is often placed in a sachet to make it easier to remove once the stock is cooked . 	26	query224_Stock_(food)\S\26
+"the stock"	"is cooked"	"once"	26	query224_Stock_(food)\P\26-0
+Chicken stock should be cooked for 3–4 hours . 	27	query224_Stock_(food)\S\27
+"Chicken stock"	"should be cooked"	"for 3 4 hours"	27	query224_Stock_(food)\P\27-0
+Fish stock is made with fish bones and finely chopped mirepoix . 	28	query224_Stock_(food)\S\28
+"Fish stock"	"is made"	"with fish bones"	28	query224_Stock_(food)\P\28-0
+"Fish stock"	"is made"	"with fish finely chopped mirepoix"	28	query224_Stock_(food)\P\28-1
+Fish stock should be cooked for 30–45 minutes—cooking any longer spoils the flavour . 	29	query224_Stock_(food)\S\29
+"Fish stock"	"should be cooked"	"for 30 45 minutes cooking any longer spoils the flavour"	29	query224_Stock_(food)\P\29-0
+Concentrated fish stock is called "fish fumet . 	30	query224_Stock_(food)\S\30
+"Concentrated fish stock"	"is called"	"fish fumet"	30	query224_Stock_(food)\P\30-0
+" In Japanese cooking , a fish and kelp stock called dashi is made by briefly ( 3–5 minutes ) cooking skipjack tuna ( bonito ) flakes called katsuobushi in nearly boiling water . 	31	query224_Stock_(food)\S\31
+"a fish called dashi"	"is made"	"by briefly 3 5 minutes cooking skipjack tuna flakes called katsuobushi in nearly boiling water 31 In Japanese cooking"	31	query224_Stock_(food)\P\31-0
+"a kelp stock called dashi"	"is made"	"by briefly 3 5 minutes cooking skipjack tuna flakes called katsuobushi in nearly boiling water 31 In Japanese cooking"	31	query224_Stock_(food)\P\31-1
+"a fish called dashi"	"is made"	"31 In Japanese cooking"	31	query224_Stock_(food)\P\31-2
+"a kelp stock called dashi"	"is made"	"31 In Japanese cooking"	31	query224_Stock_(food)\P\31-3
+"5 minutes cooking skipjack tuna flakes called katsuobushi in nearly boiling water"	"is"	"bonito"	3	query224_Stock_(food)\P\31-4
+Fond blanc , or white stock , is made by using raw bones and white mirepoix . 	32	query224_Stock_(food)\S\32
+"Fond blanc"	"is made"	"by using raw bones"	32	query224_Stock_(food)\P\32-0
+"Fond blanc"	"is made"	"by using raw white mirepoix"	32	query224_Stock_(food)\P\32-1
+"Fond white stock"	"is made"	"by using raw bones"	32	query224_Stock_(food)\P\32-2
+"Fond white stock"	"is made"	"by using raw white mirepoix"	32	query224_Stock_(food)\P\32-3
+Chicken bones are the most common for fond blanc . 	33	query224_Stock_(food)\S\33
+"Chicken bones"	"are the common"	"most"	33	query224_Stock_(food)\P\33-0
+"Chicken bones"	"are the common"	"for fond blanc"	33	query224_Stock_(food)\P\33-1
+"Chicken bones"	"are"	"the common"	33	query224_Stock_(food)\P\33-2
+Fond brun , or brown stock . 	34	query224_Stock_(food)\S\34
+The brown color is achieved by roasting the bones and mirepoix . 	35	query224_Stock_(food)\S\35
+"The brown color"	"is achieved"	"by roasting the bones"	35	query224_Stock_(food)\P\35-0
+"The brown color"	"is achieved"	"by roasting the mirepoix"	35	query224_Stock_(food)\P\35-1
+This also adds a rich , full flavour . 	36	query224_Stock_(food)\S\36
+This also adds a rich , full flavour . 	36	query224_Stock_(food)\S\36
+This also adds a rich , full flavour . 	36	query224_Stock_(food)\S\36
+Veal bones are the most common type used in a fond brun . 	37	query224_Stock_(food)\S\37
+"Veal bones"	"are the most common type"	"used in a fond brun"	37	query224_Stock_(food)\P\37-0
+"Veal bones"	"are"	"the most common type"	37	query224_Stock_(food)\P\37-1
+"the most common type"	"be used"	"in a fond brun"	37	query224_Stock_(food)\P\37-2
+Tomato paste is often added ( sometimes thinned tomato paste is painted onto the roasting bones ) . 	38	query224_Stock_(food)\S\38
+"Tomato paste"	"is added"	"sometimes thinned tomato paste is painted onto the roasting bones often"	38	query224_Stock_(food)\P\38-0
+"Tomato paste"	"is added"	"sometimes thinned tomato paste is painted onto the roasting bones"	38	query224_Stock_(food)\P\38-1
+"sometimes thinned tomato paste"	"is painted"	"onto the roasting bones"	38	query224_Stock_(food)\P\38-2
+The acid in the paste helps break down the connective tissue helping accelerating the formation of gelatin , as well as giving color to the stock . 	39	query224_Stock_(food)\S\39
+"the connective tissue"	"be helping"	"accelerating the formation of gelatin"	39	query224_Stock_(food)\P\39-0
+"the connective tissue"	"be helping"	"the formation of gelatin giving color to the stock"	39	query224_Stock_(food)\P\39-1
+Glace viande is stock made from bones , usually from veal , that is highly concentrated by reduction . 	40	query224_Stock_(food)\S\40
+"Glace viande"	"is stock made"	"from bones usually from veal"	40	query224_Stock_(food)\P\40-0
+"Glace viande"	"is stock made"	"from bones"	40	query224_Stock_(food)\P\40-1
+"Glace viande"	"is stock made"	"from bones"	40	query224_Stock_(food)\P\40-2
+"Glace viande"	"is stock made"	"from bones"	40	query224_Stock_(food)\P\40-3
+"Glace viande"	"is stock made"	"from bones"	40	query224_Stock_(food)\P\40-4
+"Glace viande"	"is stock made"	"from bones"	40	query224_Stock_(food)\P\40-5
+Ham stock , common in Cajun cooking , is made from ham hock . 	41	query224_Stock_(food)\S\41
+"Ham stock common in Cajun cooking"	"is made"	"from ham hock"	41	query224_Stock_(food)\P\41-0
+Jus is a rich , lightly reduced stock used as a sauce for roasted meats . 	42	query224_Stock_(food)\S\42
+"Jus"	"is lightly reduced stock used"	"as a sauce for roasted meats rich"	42	query224_Stock_(food)\P\42-0
+"Jus"	"is lightly reduced stock used"	"as a sauce for roasted meats"	42	query224_Stock_(food)\P\42-1
+"lightly reduced stock"	"42 Jus is used"	"as a sauce for roasted meats rich"	42	query224_Stock_(food)\P\42-2
+"lightly reduced stock"	"42 Jus is used"	"as a sauce for roasted meats"	42	query224_Stock_(food)\P\42-3
+Many of these are started by deglazing the roasting pan , then reducing to achieve the rich flavour desired . 	43	query224_Stock_(food)\S\43
+"Many of these"	"are started"	"by deglazing the roasting pan reducing to achieve the rich flavour desired"	43	query224_Stock_(food)\P\43-0
+"Many of these"	"are started"	"reducing to achieve the rich flavour desired"	43	query224_Stock_(food)\P\43-1
+Lamb stock should be cooked for 5 hours . 	44	query224_Stock_(food)\S\44
+"Lamb stock"	"should be cooked"	"for 5 hours"	44	query224_Stock_(food)\P\44-0
+To make a lamb jus , start with a chicken stock and roasted lamb necks and bones . 	45	query224_Stock_(food)\S\45
+To make a lamb jus , start with a chicken stock and roasted lamb necks and bones . 	45	query224_Stock_(food)\S\45
+Master stock is a special Chinese stock used primarily for poaching meats , flavoured with soy sauce , sugar , ginger , garlic , and other aromatic . 	46	query224_Stock_(food)\S\46
+"Master stock"	"is a special Chinese stock"	"used primarily for poaching meats"	46	query224_Stock_(food)\P\46-0
+"Master stock"	"is a special Chinese stock"	"flavoured with soy sauce"	46	query224_Stock_(food)\P\46-1
+"Master stock"	"is a special Chinese stock"	"flavoured with soy sugar"	46	query224_Stock_(food)\P\46-2
+"Master stock"	"is a special Chinese stock"	"flavoured with soy ginger"	46	query224_Stock_(food)\P\46-3
+"Master stock"	"is a special Chinese stock"	"flavoured with soy garlic"	46	query224_Stock_(food)\P\46-4
+"Master stock"	"is a special Chinese stock"	"flavoured with soy other aromatic"	46	query224_Stock_(food)\P\46-5
+"Master stock"	"is"	"a special Chinese stock"	46	query224_Stock_(food)\P\46-6
+"a special Chinese stock flavoured with soy sauce"	"be used"	"primarily for poaching meats"	46	query224_Stock_(food)\P\46-7
+"a special Chinese stock flavoured with soy sugar"	"be used"	"primarily for poaching meats"	46	query224_Stock_(food)\P\46-8
+"a special Chinese stock flavoured with soy ginger"	"be used"	"primarily for poaching meats"	46	query224_Stock_(food)\P\46-9
+"a special Chinese stock flavoured with soy garlic"	"be used"	"primarily for poaching meats"	46	query224_Stock_(food)\P\46-10
+"a special Chinese stock flavoured with soy other aromatic"	"be used"	"primarily for poaching meats"	46	query224_Stock_(food)\P\46-11
+"a special Chinese stock flavoured with soy sauce"	"be used"	"primarily"	46	query224_Stock_(food)\P\46-12
+"a special Chinese stock flavoured with soy sugar"	"be used"	"primarily"	46	query224_Stock_(food)\P\46-13
+"a special Chinese stock flavoured with soy ginger"	"be used"	"primarily"	46	query224_Stock_(food)\P\46-14
+"a special Chinese stock flavoured with soy garlic"	"be used"	"primarily"	46	query224_Stock_(food)\P\46-15
+"a special Chinese stock flavoured with soy other aromatic"	"be used"	"primarily"	46	query224_Stock_(food)\P\46-16
+"a special Chinese stock used primarily for poaching meats"	"be flavoured"	"with soy sauce"	46	query224_Stock_(food)\P\46-17
+"a special Chinese stock used primarily for poaching meats"	"be flavoured"	"with soy sugar"	46	query224_Stock_(food)\P\46-18
+"a special Chinese stock used primarily for poaching meats"	"be flavoured"	"with soy ginger"	46	query224_Stock_(food)\P\46-19
+"a special Chinese stock used primarily for poaching meats"	"be flavoured"	"with soy garlic"	46	query224_Stock_(food)\P\46-20
+"a special Chinese stock used primarily for poaching meats"	"be flavoured"	"with soy other aromatic"	46	query224_Stock_(food)\P\46-21
+Prawn stock is made from boiling prawn shells . 	47	query224_Stock_(food)\S\47
+"Prawn stock"	"is made"	"from boiling prawn shells"	47	query224_Stock_(food)\P\47-0
+It is used in Southeast Asia dishes such as laksa . 	48	query224_Stock_(food)\S\48
+"It"	"is used"	"in Southeast Asia dishes such as laksa"	48	query224_Stock_(food)\P\48-0
+Veal stock should be cooked for 8 hours . 	49	query224_Stock_(food)\S\49
+"Veal stock"	"should be cooked"	"for 8 hours"	49	query224_Stock_(food)\P\49-0
+Vegetable stock is made only of vegetables . 	50	query224_Stock_(food)\S\50
+"Vegetable stock"	"is made"	"only of vegetables"	50	query224_Stock_(food)\P\50-0
+The stock ingredients are simmered starting with cold water . 	51	query224_Stock_(food)\S\51
+"The stock ingredients"	"are simmered"	"starting with cold water"	51	query224_Stock_(food)\P\51-0
+This promotes the extraction of collagen , which may be sealed in by hot water . 	52	query224_Stock_(food)\S\52
+This promotes the extraction of collagen , which may be sealed in by hot water . 	52	query224_Stock_(food)\S\52
+"the extraction of collagen"	"may be sealed"	"in by hot water"	52	query224_Stock_(food)\P\52-0
+Stocks are simmered gently , with bubbles just breaking the surface , and not boiled . 	53	query224_Stock_(food)\S\53
+"Stocks"	"are simmered"	"gently"	53	query224_Stock_(food)\P\53-0
+"Stocks"	"are simmered"	"gently"	53	query224_Stock_(food)\P\53-1
+"Stocks"	"are simmered"	"gently"	53	query224_Stock_(food)\P\53-2
+If a stock is boiled , it will be cloudy . 	54	query224_Stock_(food)\S\54
+If a stock is boiled , it will be cloudy . 	54	query224_Stock_(food)\S\54
+If a stock is boiled , it will be cloudy . 	54	query224_Stock_(food)\S\54
+Salt is usually not added to a stock , as this causes it to become too salty , since most stocks are reduced to make soups and sauces . 	55	query224_Stock_(food)\S\55
+"Salt"	"is not added"	"to a stock usually"	55	query224_Stock_(food)\P\55-0
+"Salt"	"is not added"	"to a stock as this causes it to become too salty since most stocks are reduced to make soups"	55	query224_Stock_(food)\P\55-1
+"Salt"	"is not added"	"to a stock as this causes it to become too salty since most stocks are reduced to make sauces"	55	query224_Stock_(food)\P\55-2
+"Salt"	"is not added"	"to a stock"	55	query224_Stock_(food)\P\55-3
+"Salt"	"is not added"	"to a stock"	55	query224_Stock_(food)\P\55-4
+"Salt"	"is not added"	"to a stock"	55	query224_Stock_(food)\P\55-5
+"Salt"	"is not added"	"to a stock"	55	query224_Stock_(food)\P\55-6
+"most stocks"	"are reduced"	"to make soups"	55	query224_Stock_(food)\P\55-7
+"most stocks"	"are reduced"	"to make sauces"	55	query224_Stock_(food)\P\55-8
+Meat is added to a stock before vegetables , and the "scum " that rises to the surface is skimmed off before further ingredients are added . 	56	query224_Stock_(food)\S\56
+"Meat"	"is added"	"to a stock before vegetables"	56	query224_Stock_(food)\P\56-0
+"Meat"	"is added"	"to a stock"	56	query224_Stock_(food)\P\56-1
+"the scum"	"rises"	"to the surface"	56	query224_Stock_(food)\P\56-2
+"the scum"	"is skimmed off"	"before further ingredients are added"	56	query224_Stock_(food)\P\56-3
+If the cook wants to remove the fat , after the stock is finished it is cooled and the fat which floats , separates , and solidifies into globs within the stock , can be removed with ease . 	57	query224_Stock_(food)\S\57
+"the cook"	"wants"	"to remove the fat"	57	query224_Stock_(food)\P\57-0
+"the cook"	"separates"	"to remove the fat"	57	query224_Stock_(food)\P\57-1
+"the cook"	"solidifies"	"to remove the fat into globs within the stock"	57	query224_Stock_(food)\P\57-2
+"the cook"	"solidifies"	"to remove the fat"	57	query224_Stock_(food)\P\57-3
+"the cook"	"solidifies"	"to remove the fat"	57	query224_Stock_(food)\P\57-4
+"the cook"	"solidifies"	"to remove the fat"	57	query224_Stock_(food)\P\57-5
+"If the cook wants to remove the fat"	"can be removed"	"with ease"	57	query224_Stock_(food)\P\57-6
+"If the cook to remove the fat separates"	"can be removed"	"with ease"	57	query224_Stock_(food)\P\57-7
+"If the cook to remove the fat solidifies into globs within the stock"	"can be removed"	"with ease"	57	query224_Stock_(food)\P\57-8
+Stocks can be frozen and kept indefinitely but are better fresh . 	58	query224_Stock_(food)\S\58
+"Stocks"	"can be kept"	"indefinitely"	58	query224_Stock_(food)\P\58-0
+"Stocks"	"can be are fresh"	"better"	58	query224_Stock_(food)\P\58-1
+"Stocks"	"can be are"	"fresh"	58	query224_Stock_(food)\P\58-2
+Bouillon ( broth ) Bouillon cube Bouillon ( soup ) Broth Soup Auguste Escoffier Auguste Escoffier Le Guide culinaire . 	59	query224_Stock_(food)\S\59
+"Bouillon"	"is"	"broth"	59	query224_Stock_(food)\P\59-0
+"Bouillon cube Bouillon"	"is"	"soup"	59	query224_Stock_(food)\P\59-1
+Aide mémoire de cuisine pratique Flammarion Paris , France 1903 A Escoffier The Escoffier Cook Book Crown Publishers New York , NY , USA 1941 Fannie Merritt Farmer The Boston Cooking-School Cook Book Little , Brown and Company Boston , MA , USA 1896 Simone Beck Louisette Bertholle ; Julia Child Mastering the Art of French Cooking Alfred A. 	60	query224_Stock_(food)\S\60
+"Aide mémoire de cuisine pratique Flammarion Paris"	"is in"	"France 1903 A Escoffier The Escoffier Cook Book Crown Publishers New York"	60	query224_Stock_(food)\P\60-0
+"The Escoffier Cook Book Crown Publishers New York"	"is in"	"NY"	60	query224_Stock_(food)\P\60-1
+"The Escoffier Cook Book Crown Publishers New York"	"is in"	"USA 1941 Fannie Merritt Farmer The Boston Cooking-School Cook Book Little Julia Child Mastering the Art of French Cooking Alfred A."	60	query224_Stock_(food)\P\60-2
+"The Escoffier Cook Book Crown Publishers New York"	"is in"	"USA 1941 Fannie Merritt Farmer The Boston Cooking-School Cook Book Brown Julia Child Mastering the Art of French Cooking Alfred A."	60	query224_Stock_(food)\P\60-3
+"The Escoffier Cook Book Crown Publishers New York"	"is in"	"USA 1941 Fannie Merritt Farmer The Boston Cooking-School Cook Book Company Boston Julia Child Mastering the Art of French Cooking Alfred A."	60	query224_Stock_(food)\P\60-4
+"The Escoffier Cook Book Crown Publishers New York"	"is in"	"USA 1941 Fannie Merritt Farmer The Boston Cooking-School Cook Book MA Julia Child Mastering the Art of French Cooking Alfred A."	60	query224_Stock_(food)\P\60-5
+"The Boston Cooking-School Cook Book Little Julia Child Mastering the Art of French Cooking Alfred A."	"is"	"USA 1896 Simone Beck Louisette Bertholle"	60	query224_Stock_(food)\P\60-6
+"The Boston Cooking-School Cook Book Brown Julia Child Mastering the Art of French Cooking Alfred A."	"is"	"USA 1896 Simone Beck Louisette Bertholle"	60	query224_Stock_(food)\P\60-7
+"The Boston Cooking-School Cook Book Company Boston Julia Child Mastering the Art of French Cooking Alfred A."	"is"	"USA 1896 Simone Beck Louisette Bertholle"	60	query224_Stock_(food)\P\60-8
+"The Boston Cooking-School Cook Book MA Julia Child Mastering the Art of French Cooking Alfred A."	"is"	"USA 1896 Simone Beck Louisette Bertholle"	60	query224_Stock_(food)\P\60-9
+"Julia Child"	"be Mastering"	"the Art of French Cooking Alfred A."	60	query224_Stock_(food)\P\60-10
+Knopf New York , NY , USA 1961 A podcast episode that talks in detail about how to make a great culinary stock . 	61	query224_Stock_(food)\S\61
+"Knopf New York"	"is"	"NY"	61	query224_Stock_(food)\P\61-0
+"Knopf New York"	"is"	"USA 1961 A podcast episode"	61	query224_Stock_(food)\P\61-1
+"USA 1961 A podcast episode"	"talks"	"in detail about how to make a great culinary stock"	61	query224_Stock_(food)\P\61-2
+"USA 1961 A podcast episode"	"talks"	"in detail"	61	query224_Stock_(food)\P\61-3
+Instructions and discussion of stock making and why things are done that way . 	62	query224_Stock_(food)\S\62
+Instructions and discussion of stock making and why things are done that way . 	62	query224_Stock_(food)\S\62

@@ -1,0 +1,327 @@
+0	SVA (V: "be using", S: generation@1, O: uses@8, A!: from@22, A?: onto@27)
+1	SVC (C: conversion@5, V: is@3, S: power@2, A?: of@6, A?: into@8, A?: using@13)	SVA (V: "be using", S: conversion@5, A!: directly@12, O: photovoltaics@14)	SVC (S: photovoltaics@14, V: "is", C: PV@16)	SVC (S: power@24, V: "is", C: CSP@26)
+2	SVO (V: use@5, S: systems@4, O: lenses@6)	SVO (V: mirrors@8, S: systems@4, O: lenses@6)	SVOC (V: tracking@10, S: systems@4, O: lenses@6, O: systems@11, A?: focus@13)	SVA (V: "be focus", S: tracking@10, O: area@16, A!: into@19)
+3	SVOC (V: convert@2, S: Photovoltaics@1, O: light@3, A?: into@4, XCOMP: using@7)
+4	
+5	
+6	
+7	
+8	
+9	
+10	SV (V: were@12, S: first@13)	SVA (V: "be developed", S: first@13, A!: in@15)
+11	SVC (C: plant@12, V: is@7, S: installation@6, A?: in@13)
+12	SVO (V: include@5, S: plants@4, O: Station@10)	SVC (S: Station@10, V: "is", C: MW@13)	SVC (S: station@20, V: "is", C: MW@23)
+13	SVC (C: plant@16, V: is@10, S: Park@6)	SVO (S: world@12, V: "has", O: plant@16)
+14	SVC (S: area@3, V: "is", C: dots@7)	SVA (V: "be required", S: area@3, XCOMP: replace@11)
+15	SVC (C: Exajoule@5, V: is@3, S: TW@2, A?: per@9)	SVC (S: Exajoule@5, V: "is", C: EJ@7)
+16	SVA (V: is@5, S: Insolation@1, A!: from@6)
+17	
+18	SVC (S: Wh@2, V: "is", C: m2day@5)
+19	SVC (C: conversion@5, V: is@3, S: power@2, A?: of@6, A?: into@8)
+20	SVA (V: converted@4, S: Sunlight@1, A!: directly@5, A?: into@6)	SVA (V: "be using", S: electricity@7, O: photovoltaics@9)	SVC (S: photovoltaics@9, V: "is", C: PV@11)	SVC (S: power@19, V: "is", C: CSP@21)	SVO (V: focuses@26, S: power@19, A?: normally@25, O: energy@30)	SVA (V: "be boil", S: energy@30, O: water@33)	SVO (S: sun@28, V: "has", O: energy@30)	SVO (V: used@37, S: energy@30, A-: then@36, XCOMP: provide@39)
+21	SVA (V: exist@4, S: technologies@2, A?: also@3, A!: as@7)	SVO (V: use@12, S: dishes@10, O: engine@16, A?: to@17)
+22	SVA (V: used@4, S: Photovoltaics@1, A?: initially@3, A!: to@5, A?: from@12)	SVA (V: "be powered", S: calculator@14, A!: by@16)	SVA (V: "be powered", S: homes@23, A!: by@25)
+23	SVA (V: "be Concentrating", S: power@6, CCOMP: use@14)	SVC (S: Power@9, V: "is", C: CSP@11)	SVO (V: use@14, S: systems@13, O: lenses@15)	SVO (V: mirrors@17, S: systems@13, O: lenses@15)	SVOC (V: tracking@19, S: systems@13, O: lenses@15, O: systems@20, A?: focus@22)	SVA (V: "be focus", S: tracking@19, O: area@25, A!: into@28)
+24	SVA (V: used@6, S: heat@3, A-: then@5, A!: as@7)
+25	SV (V: exists@7, S: range@3)	SVC (C: trough@15, V: are@12, S: developed@11)
+26	SVO (V: used@4, S: techniques@2, XCOMP: track@6)
+27	SVA (V: heated@10, S: fluid@8, A!: by@11)	SVA (V: used@19, S: fluid@8, A?: by@11, A-: then@18, A!: for@20)
+28	SVC (S: Martin@1, V: "is", C: p@8)	SVC (S: Goswami@3, V: "is", C: 2005@5)
+29	SVA (V: consists@5, S: trough@4, A!: of@6)	SVC (V: concentrates@12, S: reflector@10, ACOMP: light@13, A?: onto@14)	SVA (V: "be positioned", S: receiver@16, A!: along@18)	SVO (S: reflector@20, V: "has", O: line@23)
+30	SVC (C: tube@5, V: is@3, S: receiver@2, A?: positioned@6)	SVC (C: filled@17, V: is@3, S: receiver@2, A?: positioned@6, A?: with@18)	SVA (V: "be positioned", S: tube@5, A!: above@8)
+31	SVO (V: made@4, S: reflector@2, XCOMP: follow@6)
+32	SVO (V: provide@4, S: systems@3, O: factor@8)
+33	
+34	
+35	
+36	
+37	SVO (S: Acciona@16, V: "has", O: Solar@19)	SVC (C: representatives@27, V: are@26, S: 19@7, A?: Now@6, A?: of@28)
+38	
+39	
+40	SVC (C: CSP-plants@9, V: are@8, S: Reflector@7)	SVO (V: use@11, S: CSP-plants@9, O: strips@15)	SVO (V: mirrors@19, S: parabolic@18, XCOMP: concentrate@21)
+41	SVO (V: has@2, S: This@1, CCOMP: used@10)	SV (V: mirrors@7, S: advantage@4)	SVO (V: used@10, S: advantage@4, CCOMP: cheaper@14)	SVC (C: cheaper@14, V: are@12, S: which@11, A?: much@13, CCOMP: mirrors@17)	SV (V: mirrors@17, S: parabolic@16)	SVOA (V: placed@25, S: reflectors@22, A!: in@26, XCOMP: allowing@33)
+42	SVA (V: used@7, S: reflectors@4, A!: in@8)
+43	
+44	
+45	
+46	
+47	
+48	
+49	
+50	
+51	
+52	
+53	
+54	
+55	
+56	
+57	SVA (V: "be introducing", S: CLFR@3, O: cost-saving@5)
+58	
+59	SVA (V: "be introducing", S: CLFR@3, XCOMP: cost-saving@5)	SVOO (V: combines@17, S: dish@16, O: dish@21, A?: with@22, IO: features@8)	SVOO (V: combines@17, S: PDF@9, O: dish@21, A?: with@22, IO: features@8)	SVO (V: drives@28, S: engine@25, A?: normally@27, O: generator@31)
+60	
+61	SVO (V: give@3, S: systems@2, O: efficiency@6)
+62	
+63	
+64	
+65	
+66	SVC (S: July@2, V: "is", C: Australia@14)	SVC (C: example@17, V: is@15, S: 2@1, A?: of@18)
+67	
+68	
+69	
+70	
+71	SVO (V: uses@9, S: tower@8, O: array@11)	SVA (V: "be concentrate", S: tracking@13, O: light@20, A!: on@21, A?: atop@25)	SVC (S: reflectors@14, V: "is", C: heliostat@16)
+72	SVC (C: cost@5, V: are@3, S: towers@2, A?: more@4)
+73	SVC (C: examples@12, V: are@11, S: Plant@5, A?: of@13)
+74	
+75	
+76	SVC (S: cell@7, V: "is", C: PV@9)	SVC (C: device@14, V: is@12, S: cell@3)	SVO (V: converts@16, S: device@14, O: light@17, A?: into@18)
+77	SVA (V: constructed@6, S: cell@4, A!: by@7, A?: in@10)
+78	SVC (S: Perlin@1, V: "is", C: 1999@3)	SVC (S: Perlin@1, V: "is", C: p@6)
+79	SVO (V: developed@12, S: 147@1, O: cell@15)	SVA (V: "be using", S: cell@15, O: selenide@18, A!: in@19)
+80	
+81	
+82	
+83	
+84	SVOO (V: converted@27, S: cells@26, O: %@31, A?: into@35, IO: Plates@9)	SVOO (V: converted@27, S: Sun@12, O: %@31, A?: into@35, IO: Plates@9)	SVOO (V: converted@27, S: Science@16, O: %@31, A?: into@35, IO: Plates@9)	SVO (V: recognized@47, S: Siemens@42, O: importance@49)
+85	SVC (S: Perlin@1, V: "is", C: 1999@3)	SVC (S: Perlin@1, V: "is", C: pp@6)
+86	SVO (V: created@23, S: Pearson@16, O: cell@27, A?: in@28)
+87	SVC (S: Perlin@1, V: "is", C: 1999@3)	SVC (S: Perlin@1, V: "is", C: p@6)
+88	SVO (V: cost@6, S: cells@5, O: USD/watt@8)	SVOC (V: reached@10, S: cells@5, O: USD/watt@8, O: efficiencies@11)
+89	
+90	SVC (S: Perlin@1, V: "is", C: 1999@3)	SVC (S: Perlin@1, V: "is", C: p@6)
+91	SVO (S: their@19, V: "has", O: Applications@20)	SVOO (V: _@31, S: Wiley@30, O: 2010@32, IO: Applications@20)
+92	
+93	SVO (V: produce@3, S: cell@2, O: power@9)	SVA (V: fluctuates@12, S: power@9, A!: with@13)
+94	SVO (V: requires@3, S: This@1, A?: usually@2, O: conversion@4)	SVC (S: current@11, V: "is", C: AC@13)	SVO (V: requires@17, S: current@11, O: use@19)
+95	SVA (V: connected@5, S: cells@3, A!: inside@6)
+96	SVO (V: wired@3, S: Modules@1, A?: together@4, XCOMP: form@6)	SVO (V: produces@15, S: inverter@12, O: power@16, A?: with@17)	SVO (S: its@26, V: "has", O: AC@27)
+97	SVA (V: connected@5, S: systems@3, A!: to@6, A?: available@10)
+98	
+99	
+100	SV (V: =@10, S: dam_frontend_push@7)
+101	
+102	SVC (C: optional@42, V: are@41, S: use@37)	SVA (V: =@10, S: dam_frontend_push@7, A!: In@31)
+103	SVO (V: forms@27, S: back-ups@24, O: system@30)
+104	SVO (V: _@12, S: Deployment@1, O: plant@16)	SVA (V: "be installed", S: plant@16, O: 2007@18)	SVA (V: "be starting", S: development@25, A!: in@30)	SVA (V: driven@34, S: _@12, A!: by@35)	SVO (V: become@42, S: coal@39, O: expectation@37, A?: soon@41, ACOMP: scarce@43)
+105	SVA (V: "be stagnated", S: technologies@6, A!: in@8, A?: in@13)
+106	SVC (S: Butti@1, V: "is", C: p@8)	SVC (S: Perlin@3, V: "is", C: 1981@5)
+107	SVC (S: 63@1, V: "is", C: 101@5)	SVO (V: estimated@10, S: it@8, CCOMP: heated@23)	SVC (C: heated@23, V: were@21, S: homes@15, A?: entirely@22, A?: by@26)	SVC (C: cooled@25, V: were@21, S: homes@15, A?: entirely@22, A?: by@26)
+108	
+109	SVC (S: 17@8, V: "is", C: Jan@10)
+110	SVO (V: caused@10, S: embargo@5, O: reorganization@12)	SVOC (V: brought@20, S: embargo@5, O: reorganization@12, O: attention@22, A?: to@23)
+111	SVC (S: Butti@1, V: "is", C: p@8)	SVC (S: Perlin@3, V: "is", C: 1981@5)
+112	SVC (S: Yergin@2, V: "is", C: 1991@4)	SVC (S: Yergin@2, V: "is", C: pp@7)
+113	SVC (S: 634@1, V: "is", C: 653@3)	SVO (V: focused@8, S: strategies@7, A?: on@9, O: 634@1)
+114	SVO (V: included@3, S: efforts@2, O: formation@5)	SVC (S: SERI@13, V: "is", C: NREL@16)	SVC (S: Japan@19, V: "is", C: NEDO@21)
+115	
+116	
+117	SVA (V: grew@10, S: November@2, A!: rapidly@11)	SVO (V: moderated@21, S: prices@16, O: growth@23, A?: from@26)
+118	SVO (V: accelerated@7, S: development@5, A?: Since@1, O: concerns@20)
+119	SVO (V: averaged@9, S: retrieved@1, O: %@11, A?: per@12, A?: since@14)	SVO (V: reached@19, S: capacity@18, O: GW@21)
+120	
+121	
+122	
+123	
+124	SVC (C: Plant@22, V: are@17, S: plants@13, A?: As@1)	SVC (S: Canada@24, V: "is", C: MW@27)
+125	
+126	
+127	
+128	
+129	EXISTENTIAL (V: are@2, S: plants@6, A?: also@3)
+130	SVC (C: plant@11, V: is@5, S: Project@4, A?: under@12)	SVO (V: use@22, S: plant@11, O: modules@26)	SVA (V: "be made", S: modules@26, A!: by@28)
+131	
+132	SVO (V: Closes@5, S: DOE@4, A?: on@6, O: www.renewableenergyworld.com/rea/news/article/2011/09/doe-closes-on-three-major-solar-projects@21)
+133	SVA (V: Closes@5, S: DOE@4, A!: on@6)	SVC (C: plant@27, V: is@21, S: Closes@5, A?: built@30)	SVA (V: "be built", S: plant@27, A!: in@31)
+134	
+135	
+136	SVC (C: station@28, V: is@23, S: Bets@6, A?: under@29)
+137	SVC (C: facility@13, V: is@6, S: Project@5, A?: built@15)	SVA (V: "be built", S: facility@13, A!: in@16)
+138	SVC (S: Ranch@5, V: "is", C: CVSR@7)	SVC (S: megawatt@12, V: "is", C: MW@14)	SVC (C: plant@19, V: is@9, S: Ranch@5)	SVA (V: built@24, S: plant@19, A!: by@25, A?: in@27)	SVC (S: Plain@30, V: "is", C: northeast@32)
+139	
+140	
+141	SVC (C: project@29, V: is@24, S: Acquisition@4)	SVA (V: is@31, S: project@29, A!: under@32)
+142	
+143	
+144	
+145	
+146	SVC (S: power@27, V: "is", C: CSP@29)	SV (V: were@32, S: first@33)	SVA (V: "be developed", S: first@33, A!: in@35)
+147	SVC (C: plant@12, V: is@7, S: installation@6, A?: in@13)
+148	SVO (V: include@5, S: plants@4, O: Station@10)	SVC (S: Station@10, V: "is", C: all@36)	SVC (S: Station@10, V: "is", C: MW@13)	SVC (S: station@20, V: "is", C: MW@23)	SVC (S: Station@30, V: "is", C: MW@33)
+149	SVO (S: California@11, V: "has", O: Desert@14)	SVO (S: world@18, V: "has", O: project@25)	SVC (C: project@25, V: is@16, S: Facility@7, A?: under@27)
+150	
+151	SVA (V: "be Competing", S: Photovoltaics@1, A!: in@3)
+152	SVOA (V: put@32, S: Finance@26, O: cost@35, A!: at@39)
+153	SVA (V: decline@10, S: price@8, A!: to@11)
+154	
+155	
+156	
+157	
+158	
+159	SVO (V: receiving@13, S: Base@11, O: power@15, A?: for@16)
+160	
+161	
+162	
+163	
+164	
+165	
+166	
+167	SVO (V: use@13, S: systems@12, O: fuel@15, A?: years@23)	SVA (V: "be organized", S: Conference@27, A!: by@34)	SVO (V: estimated@38, S: Conference@27, A?: use@13, CCOMP: pay@43)	SVO (V: estimated@38, S: id@1, A?: use@13, CCOMP: pay@43)	SVO (V: pay@43, S: systems@41, O: investors@46, A?: in@47)	SVO (S: their@45, V: "has", O: investors@46)
+168	
+169	
+170	
+171	
+172	
+173	
+174	SVC (C: economical@13, V: been@12, S: it@10, A?: install@17)	SVO (V: install@17, S: investors@15, O: photovoltaics@18, A?: for@19, A?: in@21)
+175	SVA (V: installed@7, S: percent@2, A!: in@8, A?: in@11)	SVA (V: expected@16, S: it@14, A!: that@17)	SVA (V: "be will", S: %@19, A!: by@21)
+176	
+177	SVO (V: Changing@8, S: PPAs@6, O: Chain@12)
+178	SVO (V: Changing@8, S: PPAs@6, O: Chain@12)	SVOC (V: set@37, S: PPAs@6, O: Chain@12, XCOMP: fall@39)	SVA (V: fallen@28, S: cost@24, A!: below@30)
+179	
+180	
+181	
+182	
+183	SVC (S: Quiggin@11, V: "is", C: prices@21)
+184	
+185	SVOC (V: reached@7, S: PV@5, A?: In@1, O: parity@9, O: cost@12)	SVOC (C: competitive@17, V: is@16, S: it@15, A?: at@13, A?: with@18, O: cost@12)
+186	SVC (C: evident@7, V: is@5, S: it@4, A?: generally@2, A?: now@6, CCOMP: cost-competitive@34)	SVO (V: raise@20, S: price@13, O: price@22, A?: by@26)	SVC (S: Wh@28, V: "is", C: PV@31)	SVC (C: cost-competitive@34, V: be@33, S: given@10, A?: in@35)
+187	SVO (V: reflected@8, S: price@3, A?: in@9, XCOMP: totalling@14)
+188	SVC (C: likely@5, V: is@4, S: consolidation@3, A?: in@6)	SVO (V: try@11, S: firms@10, XCOMP: restore@13)	SVC (V: seems@18, S: growth@17, A?: likely@5, A?: try@11, ACOMP: likely@19)
+189	SVO (V: exceeded@13, S: investment@8, A?: Already@1, A?: by@3, O: investment@14)
+190	
+191	
+192	SVO (V: created@21, S: governments@19, O: incentives@24)	SVA (V: "be encourage", S: incentives@24, O: use@28)
+193	SVOC (V: generate@12, S: utilities@11, O: mandate@9, O: percentage@17)	SVOC (V: acquire@14, S: utilities@11, O: mandate@9, O: percentage@17)
+194	SVA (V: achieved@9, S: goals@6, A?: In@1, A!: by@10)
+195	
+196	SVC (S: Reeves@1, V: "is", C: Future@7)	SVC (S: Reeves@1, V: "is", C: Ariz@10)	SVO (S: Energy@4, V: "has", O: Future@7)
+197	
+198	
+199	
+200	SVC (S: 106@8, V: "is", C: 2010@10)
+201	
+202	SVO (V: includes@12, S: storage@3, O: panels@14)	SVO (V: includes@12, S: energy@6, O: panels@14)	SVO (V: includes@12, S: _@11, O: panels@14)
+203	SVC (C: available@20, V: is@18, S: variation@2, A?: at@21, A?: making@24)	SVA (V: "be making", S: available@20, XCOMP: issue@29)	SV (V: issue@29, S: storage@26)
+204	SVC (S: Carr@1, V: "is", C: 1976@3)	SVC (S: Carr@1, V: "is", C: p@6)
+205	SVC (C: source@11, V: are@8, S: power@4, A?: meaning@13)	SVA (V: "be meaning", S: source@11, CCOMP: taken@20)	SVA (V: taken@20, S: output@17, A!: available@24)	SVC (C: available@24, V: is@23, S: it@22, A?: when@21)	SVA (V: "be stored", S: either@26, A!: for@28)	SVA (V: used@33, S: it@30, A?: when@29, A!: over@38, A?: to@42)	SVA (V: transported@36, S: it@30, A?: when@29, A!: over@38, A?: to@42)	SV (V: used@47, S: it@44, A?: where@43)
+206	SVO (V: tend@6, S: power@2, XCOMP: complementary@10)	SVO (V: needs@40, S: difference@39, A?: on@30, XCOMP: made@43)
+207	
+208	
+209	
+210	
+211	
+212	
+213	SVO (V: join@4, S: Wind@1, O: forces@5, A?: at@6)	SVOO (V: pilot-tested@25, S: Institute@14, O: plant@29, IO: January@11)	SVA (V: "be linking", S: plant@29, O: solar@31, A!: provide@39, A?: around@42)	SVA (V: "be provide", S: linking@30, O: power@41)
+214	
+215	
+216	
+217	
+218	SVO (V: stored@27, S: energy@16, A?: at@28, XCOMP: using@31)
+219	SVC (C: medium@6, V: are@2, S: Salts@1, A?: low-cost@10)	SVC (C: low-cost@10, V: are@9, S: they@8)
+220	SVA (V: "be allowing", S: Solar@2, O: it@12, XCOMP: store@14)	SVA (V: "be used", S: Two@3, O: method@6)
+221	SVO (S: its@3, V: "has", O: tank@8)
+222	
+223	
+224	
+225	
+226	SVO (V: used@9, S: systems@6, A?: traditionally@8, O: batteries@11, A?: store@13)	SVA (V: "be store", S: systems@6, O: electricity@15)
+227	SVA (V: sent@9, S: electricity@6, A?: With@1, A!: to@10)
+228	SVOO (V: give@4, S: programs@3, IO: systems@6, O: credit@8)	SVO (V: deliver@13, S: they@12, A?: to@14, O: electricity@11)
+229	SVA (V: "be provided", S: electricity@4, A!: from@6)	SVA (V: "be using", S: system@11, A!: effectively@17, O: grid@20, A?: as@21)	SVOO (V: meet@14, S: system@11, A?: when@9, O: demand@15, A?: using@18, IO: electricity@4)
+230	SVA (V: rolled@4, S: Credits@1, A?: normally@3, A!: over@5, A?: to@7)	SVA (V: settled@13, S: surplus@12, A!: annually@14)
+231	
+232	
+233	
+234	
+235	
+236	
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	SVA (V: "be pumped", S: water@12, A!: available@18)	SVC (C: available@18, V: is@17, S: electricity@16, A?: when@14)
+252	SVA (V: recovered@4, S: energy@2, A!: high@8)	SVC (C: high@8, V: is@7, S: demand@6, A?: when@5, A?: by@9)	SVO (V: becomes@16, S: pump@15, O: turbine@18)	SV (V: generator@26, S: motor@22)
+253	
+254	
+255	
+256	
+257	SVO (V: involves@6, S: photosynthesis@5, O: use@8, A?: by@20)	SVA (V: "be store", S: use@8, O: energy@15, A!: in@16)	SVA (V: "be produce", S: water@22, O: fuel@26)
+258	SVO (V: trying@13, S: projects@7, A?: now@12, XCOMP: develop@15)	SVA (V: "be integrating", S: techniques@16, O: capture@20)	SVA (V: operate@33, S: methods@24, A!: under@34)
+259	
+260	SVC (S: AF@2, V: "is", C: C.@5)
+261	
+262	
+263	SVC (S: Weinheim@1, V: "is", C: 2005@3)
+264	
+265	
+266	SVC (S: photovoltaics@8, V: "is", C: CPV@10)	SVOO (V: employ@13, S: systems@12, O: sunlight@14, IO: photovoltaics@8)	SVA (V: concentrated@15, S: thumbrightConcentrating@1, A!: onto@16, A?: for@19)
+267	SV (V: used@8, S: concentrators@2)	SVA (V: mounted@14, S: these@11, A?: often@13, A!: on@15, A?: keep@22)	SVO (V: moves@32, S: Sun@31, A?: across@33, O: cell@28)
+268	SVA (V: regarded@26, S: Archive@3, A?: also@24, A!: as@27)
+269	SVC (C: useful@5, V: are@4, S: concentrators@3, A?: improve@9)	SVO (V: improve@9, S: they@7, O: performance@10, A?: drastically@14)
+270	
+271	
+272	
+273	
+274	
+275	
+276	
+277	
+278	SVO (V: convert@14, S: Thermoelectric@7, O: difference@17, A?: into@21)
+279	SVA (V: proposed@2, S: First@1, A!: as@3)	SVA (V: "be store", S: method@5, O: energy@9, A!: by@10, A?: in@14)	SVC (S: Butti@20, V: "is", C: 1981@22)	SVC (S: Butti@20, V: "is", C: p@25)
+280	SVA (V: reemerged@3, S: thermoelectrics@2, A!: in@4, A?: during@8)
+281	
+282	SVC (S: Halacy@1, V: "is", C: 1973@3)	SVC (S: Halacy@1, V: "is", C: p@6)
+283	SVA (V: used@5, S: Thermogenerators@2, A?: later@4, A!: in@6, A?: as@11)
+284	SVA (V: focused@6, S: Research@1, A!: on@7)
+285	SVC (S: Tritt@1, V: "is", C: 2008@3)	SVC (S: Tritt@1, V: "is", C: pp@6)
+286	SVC (C: design@10, V: is@7, S: power@6, A?: for@11, A?: for@20)
+287	SVA (V: differs@2, S: SBSP@1, A!: from@3)	SVA (V: "be used", S: panels@15, XCOMP: collect@18)	SVA (V: reside@22, S: panels@15, A!: on@23)	SVC (S: satellite@36, V: "is", C: SPS@38)	SVO (S: Earth@44, V: "has", O: surface@46)
+288	SVO (S: Sun@7, V: "has", O: energy@9)	SVC (C: unaffected@11, V: is@10, S: collection@4, A?: In@1, A?: by@12)	SVO (S: Earth@26, V: "has", O: gases@29)
+289	SVO (S: Earth@8, V: "has", O: atmosphere@10)	SVA (V: is@11, S: energy@3, A!: on@12)	SVA (V: available@19, S: times@17, A!: on@20)	SVO (S: Earth@21, V: "has", O: surface@23)
+290	SVC (S: Butti@8, V: "is", C: Thread@17)	SVC (S: Butti@8, V: "is", C: Perlin@11)	SVC (S: Years@20, V: "is", C: E.@34)
+291	
+292	
+293	SVC (S: Halacy@5, V: "is", C: Age@11)	SVC (S: Martin@19, V: "is", C: L.@22)
+294	SVC (S: Goswami@1, V: "is", C: D.@3)
+295	SVC (S: S0038-092X@32, V: "is", C: 03@34)
+296	SVC (S: Perlin@1, V: "is", C: John@3)
+297	
+298	
+299	
+300	
+301	
+302	SVC (S: Yergin@1, V: "is", C: Prize@5)	SVC (S: Butti@25, V: "is", C: Perlin@28)	SVC (S: Years@37, V: "is", C: E.@51)
+303	
+304	
+305	SVC (S: Halacy@5, V: "is", C: Age@11)	SVC (S: Martin@19, V: "is", C: L.@22)
+306	SVC (S: Goswami@1, V: "is", C: D.@3)
+307	SVC (S: S0038-092X@32, V: "is", C: 03@34)
+308	SVC (S: Perlin@1, V: "is", C: John@3)
+309	
+310	
+311	
+312	
+313	
+314	SVC (S: Yergin@1, V: "is", C: Prize@5)	SVC (S: List@105, V: "is", C: Perlin@137)	SVC (S: Perlin@137, V: "is", C: Thread@143)	SVC (S: Years@146, V: "is", C: E.@160)
+315	
+316	
+317	SVC (S: Halacy@5, V: "is", C: Age@11)	SVC (S: Martin@19, V: "is", C: L.@22)
+318	SVC (S: Goswami@1, V: "is", C: D.@3)
+319	SVC (S: S0038-092X@32, V: "is", C: 03@34)
+320	SVC (S: Perlin@1, V: "is", C: John@3)
+321	
+322	
+323	
+324	
+325	
+326	SVC (S: Yergin@1, V: "is", C: Prize@5)

@@ -1,0 +1,7 @@
+Standard error can refer to : pt :erro padrão Standard error ( statistics ) , the estimated standard deviation or error of a series of measurements Standard error stream , one of the standard streams in Unix-like operating systems 	0
+"Standard error"	"can refer"	"to pt erro padrão Standard error"	0
+"erro padrão Standard error"	"is"	"the estimated standard deviation of a series of measurements Standard error stream"	0
+"erro padrão Standard error"	"is"	"the estimated standard error of a series of measurements Standard error stream"	0
+"erro padrão Standard error"	"is"	"statistics"	0
+"the estimated standard deviation of a series of measurements Standard error stream"	"is"	"one of the standard streams in Unix-like operating systems"	0
+"the estimated standard error of a series of measurements Standard error stream"	"is"	"one of the standard streams in Unix-like operating systems"	0

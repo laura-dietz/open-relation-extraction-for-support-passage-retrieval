@@ -1,0 +1,3 @@
+jopt-simple-4.4.jar
+stanford-parser-2.0.4.jar
+stanford-parser-2.0.4-models.jar
