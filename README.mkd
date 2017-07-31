@@ -15,7 +15,7 @@ Appendix for:
 Benchmark Directory Structure
 ------------------------------
 
-inside [benchmark/wikidump/](`./benchmark/wikidump/`):
+inside [./benchmark/wikidump/](`benchmark/wikidump/`):
 
 - `query${qid}/`
     - `query${qid}_${entityid}/`
